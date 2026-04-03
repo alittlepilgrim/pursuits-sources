@@ -18,8 +18,8 @@ The collection is organized broadly by category, including:
 - Social doctrine
 - Books
 - Carmelite formation
-- Divine Intimacy meditations
-- Figures and glossary notes
+- Figures
+- Glossary notes
 
 ## Git Hygiene
 
