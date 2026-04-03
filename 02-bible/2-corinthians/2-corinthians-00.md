@@ -1,0 +1,62 @@
+---
+title: 2 Corinthians, The Second Letter To The Corinthians
+created: 2025-07-30
+modified: 2026-04-02
+type: bible
+publish: true
+description: 2 Corinthians, the Second Letter to the Corinthians
+aliases:
+  - 2 Corinthians, the Second Letter to the Corinthians
+  - 2 Corinthians, The Second Letter To The Corinthians
+  - 2-corinthians-00
+tags:
+  - bible/2-corinthians
+layer: canon
+node-type: book
+testament: new
+url: https://bible.usccb.org/bible/2corinthians/0
+---
+
+# 2 Corinthians, the Second Letter to the Corinthians
+
+## The Second Letter to the Corinthians
+
+The Second Letter to the Corinthians is the most personal of all of Paul’s extant writings, and it reveals much about his character. In it he deals with one or more crises that have arisen in the Corinthian church. The confrontation with these problems caused him to reflect deeply on his relationship with the community and to speak about it frankly. One moment he is venting his feelings of frustration and uncertainty, the next he is pouring out his relief and affection. The importance of the issues at stake between them calls forth from him an enormous effort of personal persuasion, as well as doctrinal considerations that are of great value for us. Paul’s ability to produce profound theological foundations for what may at first sight appear to be rather commonplace circumstances is perhaps nowhere better exemplified than in Second Corinthians. The emotional tone of the letter, its lack of order, and our ignorance of some of its background do not make it easy to follow, but it amply repays the effort required of the reader.
+
+Second Corinthians is rich and varied in content. The interpretation of Exodus in chapter 3, for instance, offers a striking example of early apologetic use of the Old Testament. Paul’s discussion of the collection in chs 8–9 contains a theology of sharing of possessions, of community of goods among Christian churches, which is both balanced and sensitive. Furthermore, the closing chapters provide an illustration of early Christian invective and polemic, because the conflict with intruders forces Paul to assert his authority. But in those same chapters Paul articulates the vision and sense of values that animate his own apostolate, revealing his faith that Jesus’ passion and resurrection are the pattern for all Christian life and expressing a spirituality of ministry unsurpassed in the New Testament.
+
+The letter is remarkable for its rhetoric. Paul falls naturally into the style and argumentation of contemporary philosophic preachers, employing with ease the stock devices of the “diatribe.” By a barrage of questions, by challenges both serious and ironic, by paradox heaped upon paradox, even by insults hurled at his opponents, he strives to awaken in his hearers a true sense of values and an appropriate response. All his argument centers on the destiny of Jesus, in which a paradoxical reversal of values is revealed. But Paul appeals to his own personal experience as well. In passages of great rhetorical power ([[2-corinthians-04#^2-corinthians-04-7|2 Cor 4:7–15]]; [[2-corinthians-06#^2-corinthians-06-3|6:3–10]]; [[2-corinthians-11#^2-corinthians-11-21|11:21–29]]; [[2-corinthians-12#^2-corinthians-12-5|12:5–10]]; [[2-corinthians-13#^2-corinthians-13-3|13:3–4]]) (he enumerates the circumstances of his ministry and the tribulations he has had to endure for Jesus and the gospel, in the hope of illustrating the pattern of Jesus’ existence in his own and of drawing the Corinthians into a reappraisal of the values they cherish. Similar passages in the same style in his other letters (cf. especially [[romans-08#^romans-08-31|Rom 8:31–39]]; [[1-corinthians-01#^1-corinthians-01-26|1 Cor 1:26–31]]; [[1-corinthians-04#^1-corinthians-04-6|4:6–21]]; [[1-corinthians-09#^1-corinthians-09-1|9:1–27]]; [[1-corinthians-13#^1-corinthians-13-1|13:1–13]]; [[philippians-04#^philippians-04-10|Phil 4:10–19]]) confirm Paul’s familiarity with contemporary rhetoric and demonstrate how effectively it served to express his vision of Christian life and ministry.
+
+Second Corinthians was occasioned by events and problems that developed after Paul’s first letter reached Corinth. We have no information about these circumstances except what is contained in the letter itself, which of course supposes that they are known to the readers. Consequently the reconstruction of the letter’s background is an uncertain enterprise about which there is not complete agreement.
+
+The letter deals principally with these three topics: (1) a crisis between Paul and the Corinthians, occasioned at least partially by changes in his travel plans ([[2-corinthians-01|2 Cor 1]]:12–2:13), and the successful resolution of that crisis ([[2-corinthians-07|2 Cor 7]]:5–16); (2) further directives and encouragement in regard to the collection for the church in Jerusalem ([[2-corinthians-08|2 Cor 8]]:1–9:15); (3) the definition and defense of Paul’s ministry as an apostle. Paul’s reflections on this matter are occasioned by visitors from other churches who passed through Corinth, missionaries who differed from Paul in a variety of ways, both in theory and in practice. Those differences led to comparisons. Either the visitors themselves or some of the local church members appear to have sown confusion among the Corinthians with regard to Paul’s authority or his style, or both. Paul deals at length with aspects of this situation in [[2-corinthians-02|2 Cor 2]]:14–7:4 and again in 2 Cor 10:1–13:10, though the manner of treatment and the thrust of the argument differ in each of these sections.
+
+Scholars have noticed a lack of continuity in this document. For example, the long section of [[2-corinthians-02|2 Cor 2]]:14–7:4 seems abruptly spliced into the narrative of a crisis and its resolution. Identical or similar topics, moreover, seem to be treated several times during the letter (compare [[2-corinthians-02|2 Cor 2]]:14–7:4 with 2 Cor 10:1–13:10, and [[2-corinthians-08|2 Cor 8]]:1–24 with [[2-corinthians-09|2 Cor 9]]:1–15). Many judge, therefore, that this letter as it stands incorporates several briefer letters sent to Corinth over a certain span of time. If this is so, then Paul himself or, more likely, some other editor clearly took care to gather those letters together and impose some literary unity upon the collection, thus producing the document that has come down to us as the Second Letter to the Corinthians. Others continue to regard it as a single letter, attributing its inconsistencies to changes of perspective in Paul that may have been occasioned by the arrival of fresh news from Corinth during its composition. The letter, or at least some sections of it, appears to have been composed in Macedonia ([[2-corinthians-02#^2-corinthians-02-12|2 Cor 2:12–13]]; [[2-corinthians-07#^2-corinthians-07-5|7:5–6]]; [[2-corinthians-08#^2-corinthians-08-1|8:1–4]]; [[2-corinthians-09#^2-corinthians-09-2|9:2–4]]). It is generally dated about the autumn of A.D. 57; if it is a compilation, of course, the various parts may have been separated by intervals of at least some months.
+
+The principal divisions of the Second Letter to the Corinthians are the following:
+
+- I. Address ([[2-corinthians-01#^2-corinthians-01-1|1:1–11]])
+- II. The Crisis between Paul and the Corinthians ([[2-corinthians-01#^2-corinthians-01-12|1:12–7:16]])
+    - A. Past Relationships ([[2-corinthians-01#^2-corinthians-01-12|1:12–2:13]])
+    - B. Paul’s Ministry ([[2-corinthians-02#^2-corinthians-02-14|2:14–7:4]])
+    - C. Resolution of the Crisis ([[2-corinthians-07#^2-corinthians-07-5|7:5–16]])
+- III. The Collection for Jerusalem ([[2-corinthians-08#^2-corinthians-08-1|8:1–9:15]])
+- IV. Paul’s Defense of His Ministry ([[2-corinthians-10#^2-corinthians-10-1|10:1–13:10]])
+- V. Conclusion ([[2-corinthians-13#^2-corinthians-13-11|13:11–13]])
+
+# 2 Corinthians – Chapter Index
+
+- [[2-corinthians-00|2 Corinthians, the Second Letter to the Corinthians]]
+- [[2-corinthians-01|2 Corinthians, Chapter 1]]
+- [[2-corinthians-02|2 Corinthians, Chapter 2]]
+- [[2-corinthians-03|2 Corinthians, Chapter 3]]
+- [[2-corinthians-04|2 Corinthians, Chapter 4]]
+- [[2-corinthians-05|2 Corinthians, Chapter 5]]
+- [[2-corinthians-06|2 Corinthians, Chapter 6]]
+- [[2-corinthians-07|2 Corinthians, Chapter 7]]
+- [[2-corinthians-08|2 Corinthians, Chapter 8]]
+- [[2-corinthians-09|2 Corinthians, Chapter 9]]
+- [[2-corinthians-10|2 Corinthians, Chapter 10]]
+- [[2-corinthians-11|2 Corinthians, Chapter 11]]
+- [[2-corinthians-12|2 Corinthians, Chapter 12]]
+- [[2-corinthians-13|2 Corinthians, Chapter 13]]

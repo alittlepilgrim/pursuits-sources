@@ -1,0 +1,51 @@
+---
+title: 1 Timothy, The First Letter To Timothy
+created: 2025-07-30
+modified: 2026-04-02
+type: bible
+publish: true
+description: 1 Timothy, the First Letter to Timothy
+aliases:
+  - 1 Timothy, the First Letter to Timothy
+  - 1 Timothy, The First Letter To Timothy
+  - 1-timothy-00
+tags:
+  - bible/1-timothy
+layer: canon
+node-type: book
+testament: new
+url: https://bible.usccb.org/bible/1timothy/0
+---
+
+# 1 Timothy, the First Letter to Timothy
+
+## The First Letter to Timothy
+
+The three letters, First and Second Timothy and Titus, form a distinct group within the Pauline corpus. In the collection of letters by the Apostle to the Gentiles, they differ from the others in form and contents. All three suggest they were written late in Paul’s career. The opponents are not “Judaizers” as in Galatians but false teachers stressing “knowledge” (*gnōsis*; see note on [1 Tm 6:20] – [21]). Attention is given especially to correct doctrine and church organization. Jesus’ second coming recedes into the background compared to references in Paul’s earlier letters (though not Colossians and Ephesians). The three letters are addressed not to congregations but to those who shepherd congregations (Latin, *pastores*). These letters were first named “Pastoral Epistles” in the eighteenth century because they all are concerned with the work of a pastor in caring for the community or communities under his charge.
+
+The first of the Pastorals, 1 Timothy, is presented as having been written from Macedonia. Timothy, whom Paul converted, was of mixed Jewish and Gentile parentage ([.[[acts-of-the-apostles-16|Acts 16]]:1] – [3]). He was the apostle’s companion on both the second and the third missionary journeys ([.[[acts-of-the-apostles-16|Acts 16]]:3]; [19:22]) and was often sent by him on special missions ([.[[acts-of-the-apostles-19|Acts 19]]:22]; ([[1-corinthians-04|1 Cor 4]]:17]; [1 Thes 3:2]). In 1 Timothy ([1 Tm 1:3]), he is described as the administrator of the entire Ephesian community.
+
+The letter instructs Timothy on his duty to restrain false and useless teaching ([1 Tm 1:3] – [11]; [4:1] – [5]; [6:3] – [16]) and proposes principles pertaining to his relationship with the older members of the community ([1 Tm 5:1] – [2]) and with the presbyters ([5:17] – [22]). It gives rules for aid to widows ([1 Tm 5:3] – [8]) and their selection for charitable ministrations ([1 Tm 5:9] – [16]) and also deals with liturgical celebrations ([1 Tm 2:1] – [15]), selections for the offices of bishop and deacon ([1 Tm 3:1] – [13]), relation of slaves with their masters ([1 Tm 6:1] – [2]), and obligations of the wealthier members of the community ([1 Tm 6:17] – [19]). This letter also reminds Timothy of the prophetic character of his office ([1 Tm 1:12] – [20]) and encourages him in his exercise of it ([1 Tm 4:6] – [16]). The central passage of the letter ([1 Tm 3:14] – [16]) expresses the principal motive that should guide the conduct of Timothy—preservation of the purity of the church’s doctrine against false teaching. On this same note the letter concludes ([1 Tm 6:20] – [21]).
+
+From the late second century to the nineteenth, Pauline authorship of the three Pastoral Epistles went unchallenged. Since then, the attribution of these letters to Paul has been questioned. Most scholars are convinced that Paul could not have been responsible for the vocabulary and style, the concept of church organization, or the theological expressions found in these letters. A second group believes, on the basis of statistical evidence, that the vocabulary and style are Pauline, even if at first sight the contrary seems to be the case. They state that the concept of church organization in the letters is not as advanced as the questioners of Pauline authorship hold since the notion of hierarchical order in a religious community existed in Israel before the time of Christ, as evidenced in the Dead Sea Scrolls. Finally, this group sees affinities between the theological thought of the Pastorals and that of the unquestionably genuine letters of Paul. Other scholars, while conceding a degree of validity to the positions mentioned above, suggest that the apostle made use of a secretary who was responsible for the composition of the letters. A fourth group of scholars believes that these letters are the work of a compiler, that they are based on traditions about Paul in his later years, and that they include, in varying amounts, actual fragments of genuine Pauline correspondence.
+
+If Paul is considered the more immediate author, the Pastorals are to be dated between the end of his first Roman imprisonment (([[acts-of-the-apostles-28|Acts 28]]:16]) and his execution under Nero (A.D. 63–67); if they are regarded as only more remotely Pauline, their date may be as late as the early second century. In spite of these problems of authorship and dating, the Pastorals are illustrative of early Christian life and remain an important element of canonical scripture.
+
+The principal divisions of the First Letter to Timothy are the following:
+
+1. Address ([1:1] – [2])
+2. Sound Teaching ([1:3] – [20])
+3. Problems of Discipline ([2:1] – [4:16])
+4. Duties toward Others ([5:1] – [6:2a])
+5. False Teaching and True Wealth ([6:2b] – [19])
+6. Final Recommendation and Warning ([6:20] – [21])
+
+# 1 Timothy – Chapter Index
+
+- [[1-timothy-00|1 Timothy, the First Letter to Timothy]]
+- [[1-timothy-01|1 Timothy, Chapter 1]]
+- [[1-timothy-02|1 Timothy, Chapter 2]]
+- [[1-timothy-03|1 Timothy, Chapter 3]]
+- [[1-timothy-04|1 Timothy, Chapter 4]]
+- [[1-timothy-05|1 Timothy, Chapter 5]]
+- [[1-timothy-06|1 Timothy, Chapter 6]]

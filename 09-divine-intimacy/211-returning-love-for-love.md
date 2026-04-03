@@ -1,0 +1,68 @@
+---
+title: 211. Returning Love for Love
+created: 2025-05-21
+modified: 2026-04-02
+type: meditation 
+publish: true
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+aliases:
+  - 211-returning-love-for-love
+  - 211. Returning Love for Love
+tags:
+  - divine-intimacy
+  - term/christian
+  - term/god
+  - term/life-spiritual
+  - term/love-of-god
+  - term/sacred-heart
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+---
+
+# 211. Returning Love for Love
+
+PRESENCE OF GOD - O Jesus, You have loved me so much; enable me to repay Your love.
+
+## Meditation 1
+
+**I.** n the Encyclical Annum Sacrum, Leo XIII declares, “The Sacred Heart is the symbol and image of the infinite charity of Jesus Christ, the charity which urges us to give Him love in return.” Indeed, nothing is more able to arouse love than love itself. “Love is repaid by love alone,” the saints have repeatedly said. St. Teresa of Jesus wrote: “Whenever we think of Christ, we should remember with what love He has bestowed all these favors upon us...for love begets love. And though we may be only beginners...let us strive ever to bear this in mind and awaken our own love” ([[tj-life-ccel|Life]], 22).
+
+The Church offers us the devotion to the Sacred Heart of Jesus in order to stir up our love. After reminding us, in the Divine Office proper to this feast, of the measureless proofs of Christ’s love, this good Mother asks us anxiously, “Who would not love Him who has loved us so much? Who among His redeemed would not love Him dearly?” (RB). And in order to urge us more and more to repay love with love, she puts on the lips of Jesus the beautiful words of Holy Scripture: “I have loved thee with an everlasting love; therefore have I drawn thee, taking pity on thee”; and again, “Fili, praebe mihi cor tuum,” Son, give Me thy heart (ibid.). This, then, is the substance of true devotion to the Sacred Heart: to return love for love, “to repay love with love,” as St. Margaret Mary, the great disciple of the Sacred Heart, expresses it; “to return love unceasingly to Him who has so loved us,” in the words of St. Teresa Margaret of the Heart of Jesus, the hidden but no less ardent disciple of the divine Heart.
+
+## Meditation 2
+
+2 The attitude we take in our spiritual life depends greatly upon the idea we have of God. If we have a poor, impoverished concept of God, like the slothful servant in the Gospel (Mt 25,14-30), instead of being impelled to love Him and to give ourselves generously to His service, we Shall be cold, indolent, calculating; and burying the talent we have received from the Master, we shall not trouble ourselves to use for God the benefits we have received from Him. Unfortunately, many Christians live this kind of life; they serve Him like slaves, and if they do not commit sin, it is only through fear of being punished; if they pray or perform some good work, it is for their own personal interest and is devoid of generosity and love. When, on the other hand, our soul begins to understand that “Deus caritas est,” God is charity (1 Jn 4,8), when we penetrate even slightly the mystery of the infinite love that surrounds us, realizing God’s love in the love which Jesus has for us, then everything changes spontaneously, because “love calls to love.”
+
+Devotion to the Sacred Heart, which is devotion to the infinite love of Jesus, should produce this particular effect in us: it should give us an ever increasing comprehension of “the charity of Christ which surpasseth all knowledge” (Eph 3,19). In our meditation, our contemplation of the Heart of Jesus pierced for love of us, we shall learn the science of love, a science which no book on earth can teach us, because it is a science that can be acquired only from the open book of the Heart of Christ, our one and only Teacher. “He taught me a science most delectable” ([[jc-spiritual-canticle|J.C. SC]], 27,2), sings the joyful soul who has been introduced into the secrets of His divine Heart. Then the answer to His love is easy: He “loved me and delivered Himself for me...and I most gladly will spend and be spent myself for Him and for the souls that are His treasure” (Gal 2,20 — cf. 2 Cor 12,15). Behold the love that raises us above all calculation, all self-love.
+
+## Colloquy
+
+“Awake, O my soul. How long will you remain asleep? Beyond the sky there is a King who wishes to possess you; He loves you immeasurably, with all His Heart. He loves you with so much kindness and faithfulness that He left His kingdom and humbled Himself for you, permitting Himself to be bound like a malefactor in order to find you. He loves you so strongly and tenderly, He is so jealous of you and has given you so many proofs of this, that He willingly gave up His Body to death. He bathed you in His Blood and redeemed you by His death. How long will you wait to love Him in return? Make haste, then, to answer Him.
+
+“Behold, O loving Jesus, I come to You. I come, drawn by Your meekness, Your mercy, Your charity; I come with my whole heart and soul, and all my strength. Who will give me to be entirely conformed to Your Heart, in order that You may find in me everything You desire?
+
+“O Jesus, my King and my God, take me into the sweet shelter of Your divine Heart, and there unite me to Yourself in such a way that I shall live totally for You. Permit me to submerge myself henceforth in that vast sea of Your mercy, abandoning myself entirely to Your goodness, plunging into the burning furnace of Your love, and remaining there forever....
+
+“But what am I, O my God, I, so unlike You, the outcast of all creatures? But You are my supreme confidence, because in You can be found the supplement or rather, the abundance of all the favors I have lost. Enclose me, O Lord, in the sanctuary of Your Heart opened by the spear, establish me there, guarded by Your gentle glance, so that I may be confided to Your care forever: under the shadow of Your paternal love I shall find rest in the everlasting remembrance of Your most precious love” (St. Gertrude).
+
+---
+
+## Reference
+
+# References
+
+RB - Roman Breviary
+
+J.C. - [[john-of-the-cross-saint|Saint John of the Cross]]
+
+SC - [[jc-spiritual-canticle|Spiritual Canticle by Saint John of the Cross]]
+
+Life - [[tj-life-ccel|Life by Saint Teresa of Avila]]
+
+---
+
+⟵ [[210-merciful-love|210. Merciful Love]] | [[212-consecration-to-the-sacred-heart-of-jesus|212. Consecration to the Sacred Heart of Jesus]] ➞

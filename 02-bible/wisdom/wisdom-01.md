@@ -1,0 +1,156 @@
+---
+title: Wisdom, Chapter 1
+created: 2025-07-30
+modified: 2026-04-02
+type: bible
+publish: true
+description: Wisdom, Chapter 1
+aliases:
+  - wisdom-01
+  - Wisdom, Chapter 1
+tags:
+  - bible/wisdom
+  - vault-admin/graph/bible-ccc
+layer: canon
+node-type: chapter
+testament: old
+url: https://bible.usccb.org/bible/wisdom/1
+---
+
+# Wisdom, Chapter 1
+
+### Chapter 1
+
+#### Exhortation to Righteousness, the Key to Life
+
+1 Love righteousness, you who judge the earth; ^wisdom-01-1
+
+think of the L ORD in goodness,
+
+and seek him in integrity of heart;
+
+2 Because he is found by those who do not test him, ^wisdom-01-2
+
+and manifests himself to those who do not disbelieve him.
+
+3 For perverse counsels separate people from God, ^wisdom-01-3
+
+and his power, put to the proof, rebukes the foolhardy;
+
+4 Because into a soul that plots evil wisdom does not enter, ^wisdom-01-4
+
+nor does she dwell in a body under debt of sin.
+
+5 For the holy spirit of discipline flees deceit ^wisdom-01-5
+
+and withdraws from senseless counsels
+
+and is rebuked when unrighteousness occurs.
+
+6 For wisdom is a kindly spirit, ^wisdom-01-6
+
+yet she does not acquit blasphemous lips;
+
+Because God is the witness of the inmost self
+
+and the sure observer of the heart
+
+and the listener to the tongue.
+
+7 For the spirit of the L ORD fills the world, ^wisdom-01-7
+
+is all-embracing, and knows whatever is said.
+
+8 Therefore those who utter wicked things will not go unnoticed, ^wisdom-01-8
+
+nor will chastising condemnation pass them by.
+
+9 For the devices of the wicked shall be scrutinized, ^wisdom-01-9
+
+and the sound of their words shall reach the L ORD,
+
+for the chastisement of their transgressions;
+
+10 Because a jealous ear hearkens to everything, ^wisdom-01-10
+
+and discordant grumblings are not secret.
+
+11 Therefore guard against profitless grumbling, ^wisdom-01-11
+
+and from calumny withhold your tongues;
+
+For a stealthy utterance will not go unpunished,
+
+and a lying mouth destroys the soul.
+
+12 Do not court death by your erring way of life, ^wisdom-01-12
+
+nor draw to yourselves destruction by the works of your hands.
+
+13 Because God did not make death, ^wisdom-01-13
+
+nor does he rejoice in the destruction of the living.
+
+14 For he fashioned all things that they might have being, ^wisdom-01-14
+
+and the creatures of the world are wholesome;
+
+There is not a destructive drug among them
+
+nor any domain of Hades on earth,
+
+15 For righteousness is undying. ^wisdom-01-15
+
+#### The Wicked Reject Immortality and Righteousness Alike
+
+16 It was the wicked who with hands and words invited death, ^wisdom-01-16
+
+considered it a friend, and pined for it,
+
+and made a covenant with it,
+
+Because they deserve to be allied with it.
+
+\* (1:1] – [6:21) The reward is the gift of immortality, to the righteous ([1:15]; [3:1] – [3]), but not to the wicked ([5:1] – [13]). Contrasts between these two groups dominate chaps. [1] – [5]. The philosophy of the wicked and their persecution of the righteous are dramatically presented in [1:16] – [2:24]. New light is shed on the suffering of the righteous ([3:1] – [9]), childlessness ([3:13] – [15]), and premature death ([4:7] – [16])—in contrast to the fate of the wicked ([3:10] – [12], [16] – [19]; [4:3] – [6], [17] – [20]).
+
+\* (1:1) Righteousness: not merely the cardinal virtue of justice (cf. [8:7]), but the universal moral quality which is the application of wisdom to moral conduct. You who judge: “judges” and “kings” (cf. [6:1]) are addressed in accordance with the literary customs of the times and with the putative Solomonic authorship, but the real audience is the Jewish community.
+
+\* (1:4) In these verses personified Wisdom is identified with the spirit of the Lord; so also in [9:17].
+
+\* (1:5) Discipline: here and elsewhere, another name for Wisdom.
+
+\* (1:11) Calumny: speech against God and divine providence is meant.
+
+\* (1:12) Death: as will become clear, the author is not speaking of physical death but of spiritual death, the eternal separation from God.
+
+\* (1:14) Hades: the Greek term for the Hebrew Sheol, the dwelling place of the dead.
+
+\* (1:15) Undying: immortality is not seen as an innate quality of the soul but as a gift of God to the righteous.
+
+a. (1:1) [1 Chr 29:17]; ([[psalm-02|Ps 2]]:10]; [Is 26:9].
+
+b. (1:1] – [2) [Sir 1:25].
+
+c. (1:2) [1 Chr 28:9].
+
+d. (1:3) [Is 59:2].
+
+e. (1:4) [[sirach-15|Sir 15]]:7 – [8]; [Rom 7:14].
+
+f. (1:5) [Is 63:10].
+
+g. (1:6) [Jer 17:10].
+
+h. (1:6] – [7) [Jer 23:24] – [25].
+
+i. (1:7) [Wis 12:1].
+
+j. (1:8) [Prv 19:5].
+
+k. (1:10] – [11) [Nm 14:27] – [28].
+
+l. (1:13] – [14) [[ezekiel-18|Ez 18]]:32; [33:11]; [2 Pt 3:9].
+
+m. (1:15) [Is 51:6] – [8].
+
+n. (1:16) [Is 28:15].

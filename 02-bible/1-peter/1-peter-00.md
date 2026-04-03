@@ -1,0 +1,57 @@
+---
+title: 1 Peter, The First Letter of Peter
+created: 2025-07-30
+modified: 2026-04-02
+type: bible
+publish: true
+description: 1 Peter, the First Letter of Peter
+aliases:
+  - 1 Peter, the First Letter of Peter
+  - 1 Peter, The First Letter of Peter
+  - 1-peter-00
+tags:
+  - bible/1-peter
+layer: canon
+node-type: book
+testament: new
+url: https://bible.usccb.org/bible/1peter/0
+---
+
+# 1 Peter, the First Letter of Peter
+
+## The First Letter of Peter
+
+This letter begins with an address by Peter to Christian communities located in five provinces of Asia Minor ([1 Pt 1:1]), including areas evangelized by Paul ([.[[acts-of-the-apostles-16|Acts 16]]:6] – [7]; [18:23]). Christians there are encouraged to remain faithful to their standards of belief and conduct in spite of threats of persecution. Numerous allusions in the letter suggest that the churches addressed were largely of Gentile composition ([1 Pt 1:14], [18]; [2:9] – [10]; [4:3] – [4]), though considerable use is made of the Old Testament ([1 Pt 1:24]; [2:6] – [7], [9] – [10], [22]; [3:10] – [12]).
+
+The contents following the address both inspire and admonish these “chosen sojourners” ([1 Pt 1:1]) who, in seeking to live as God’s people, feel an alienation from their previous religious roots and the society around them. Appeal is made to Christ’s resurrection and the future hope it provides ([1 Pt 1:3] – [5]) and to the experience of baptism as new birth ([1 Pt 1:3], [23] – [25]; [3:21]). The suffering and death of Christ serve as both source of salvation and example ([1 Pt 1:19]; [2:21] – [25]; [3:18]). What Christians are in Christ, as a people who have received mercy and are to proclaim and live according to God’s call ([1 Pt 2:9] – [10]), is repeatedly spelled out for all sorts of situations in society ([1 Pt 2:11] – [17]), work (even as slaves, [1 Pt 2:18] – [20]), the home ([1 Pt 3:1] – [7]), and general conduct ([1 Pt 3:8] – [12]; [4:1] – [11]). But over all hangs the possibility of suffering as a Christian ([1 Pt 3:13] – [17]). In [1 Pt 4:12] – [19] persecution is described as already occurring, so that some have supposed the letter was addressed both to places where such a “trial by fire” was already present and to places where it might break out.
+
+The letter constantly mingles moral exhortation (*paraklēsis*) with its catechetical summaries of mercies in Christ. Encouragement to fidelity in spite of suffering is based upon a vision of the meaning of Christian existence. The emphasis on baptism and allusions to various features of the baptismal liturgy suggest that the author has incorporated into his exposition numerous homiletic, credal, hymnic, and sacramental elements of the baptismal rite that had become traditional at an early date.
+
+From Irenaeus in the late second century until modern times, Christian tradition regarded Peter the apostle as author of this document. Since he was martyred at Rome during the persecution of Nero between A.D. 64 and 67, it was supposed that the letter was written from Rome shortly before his death. This is supported by its reference to “Babylon” ([1 Pt 5:13]), a code name for Rome in the early church.
+
+Some modern scholars, however, on the basis of a number of features that they consider incompatible with Petrine authenticity, regard the letter as the work of a later Christian writer. Such features include the cultivated Greek in which it is written, difficult to attribute to a Galilean fisherman, together with its use of the Greek Septuagint translation when citing the Old Testament; the similarity in both thought and expression to the Pauline literature; and the allusions to widespread persecution of Christians, which did not occur until at least the reign of Domitian (A.D. 81–96). In this view the letter would date from the end of the first century or even the beginning of the second, when there is evidence for persecution of Christians in Asia Minor (the letter of Pliny the Younger to Trajan, A.D. 111–12).
+
+Other scholars believe, however, that these objections can be met by appeal to use of a secretary, Silvanus, mentioned in [1 Pt 5:12]. Such secretaries often gave literary expression to the author’s thoughts in their own style and language. The persecutions may refer to local harassment rather than to systematic repression by the state. Hence there is nothing in the document incompatible with Petrine authorship in the 60s.
+
+Still other scholars take a middle position. The many literary contacts with the Pauline literature, James, and 1 John suggest a common fund of traditional formulations rather than direct dependence upon Paul. Such liturgical and catechetical traditions must have been very ancient and in some cases of Palestinian origin.
+
+Yet it is unlikely that Peter addressed a letter to the Gentile churches of Asia Minor while Paul was still alive. This suggests a period after the death of the two apostles, perhaps A.D. 70–90. The author would be a disciple of Peter in Rome, representing a Petrine group that served as a bridge between the Palestinian origins of Christianity and its flowering in the Gentile world. The problem addressed would not be official persecution but the difficulty of living the Christian life in a hostile, secular environment that espoused different values and subjected the Christian minority to ridicule and oppression.
+
+The principal divisions of the First Letter of Peter are the following:
+
+1. Address ([1:1] – [2])
+2. The Gift and Call of God in Baptism ([1:3] – [2:10])
+3. The Christian in a Hostile World ([2:11] – [4:11])
+4. Advice to the Persecuted ([4:12] – [5:11])
+5. Conclusion ([5:12] – [14])
+
+---
+
+# 1 Peter – Chapter Index
+
+- [[1-peter-00|1 Peter, the First Letter of Peter]]
+- [[1-peter-01|1 Peter, Chapter 1]]
+- [[1-peter-02|1 Peter, Chapter 2]]
+- [[1-peter-03|1 Peter, Chapter 3]]
+- [[1-peter-04|1 Peter, Chapter 4]]
+- [[1-peter-05|1 Peter, Chapter 5]]

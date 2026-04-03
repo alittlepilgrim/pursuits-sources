@@ -1,0 +1,62 @@
+---
+title: 182. Waiting
+created: 2025-05-09
+modified: 2026-04-02
+type: meditation
+publish: true
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+aliases:
+  - 182-waiting
+  - 182. Waiting
+tags:
+  - divine-intimacy
+  - term/heaven
+  - term/holy-spirit
+  - term/life-earthly
+  - term/love-of-neighbor
+  - term/prayer
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+---
+
+# 182. Waiting
+
+PRESENCE OF GOD - Grant Lord, that my heart may ever be turned toward heaven where You await me.
+
+## Meditation 1
+
+**I.** This Sunday is like a prolongation of the Feast of the Ascension. The Introit reflects the feelings which the Apostles must have experienced during the time between the departure of Jesus and the descent of the Holy Spirit: “Hear, O Lord, my voice calling to You.... I seek Your face, O Lord, do not hide Your face from me.” As on the day of the Ascension, the eyes of the Apostles are turned toward heaven, where they saw their Master disappear, and their hearts sigh after Him. As long as we are on our earthly pilgrimage, far from God, He must be the constant yearning of our souls. But we should not remain idle while we are waiting to go to our fatherland. In the Epistle of the day (1 Pt 4,7-11), Peter teaches us what we must do to make our life on earth a real preparation for our meeting with God: “Watch in prayers. But before all things, have a constant mutual charity among yourselves.” ‘This is exactly what the Apostles did as they waited for the Holy Spirit: together in the Cenacle they were persevering in prayer in the unity of fraternal love. God does not look with favor on the prayers and sacrifices of one who does not love his neighbor—no matter who he may be—with  sincere benevolence. Jesus has expressly said: “If therefore thou offer thy gift at the altar, and there thou remember that thy brother hath anything against thee; leave there thy offering...and go first to be reconciled to thy brother” [[matthew-05|(Mt 5,]]23.24). Prayer alone will not suffice to draw down divine graces, nor will it acquire eternal life for us. Fraternal charity, the surest pledge of the sincerity of our love for God, is an absolute requisite.
+
+The Holy Spirit, who is the spirit of charity, who is substantial love, cannot enter a heart which is narrow and mean in its relations with its neighbor; lack of charity is one of the greatest obstacles to His action, because it is directly opposed to His essence. Just as water paralyzes the action of fire, so does lack of charity paralyze the action of the Holy Spirit. Furthermore, as long as we live on earth, we are all liable to fall; all of us, therefore, need Pardon, “charity,” says the Epistle, “covers a multitude of sins.
+
+## Meditation 2
+
+2 In today’s Gospel (Jn 15,26.27 — 16,1-4) Jesus reiterates His promise concerning the descent of the Holy Spirit: “When the Paraclete cometh, whom I will send you from the Father...you shall give testimony [of Me].” As on the day of His Ascension, He connects the coming of the Holy Spirit with the mission of the Apostles, that mission which will consist essentially in giving testimony of Christ. “You shall receive the power of the Holy Spirit...and you shall be witnesses unto Me...even to the uttermost part of the earth” (Ep: Feast of the Ascension). Today’s Gospel explains the scope of this testimony which the Apostles, as well as all future Christians, will be called upon to give. “They will put you out of the synagogues: yea, the hour cometh that whosoever killeth you, will think that he doth a service to God.” Jesus died on the Cross to give testimony to the Father; His disciples will have to suffer, undergo persecution, and even death itself, to give testimony to Him.
+
+We cannot follow a road different from the one which Jesus has trodden: “If any man will come after Me, let him... take up his cross and follow Me” (Mt 16,24), He repeats to us. A calm, tranquil testimony, which is made without facing danger—still less of risking life—will always have only relative value and ordinarily gives no guarantee of its genuineness or its strength; on the contrary, the more it costs, the greater its value in proving the fidelity of him who renders it. To witness to Christ, without regarding the difficulties, sufferings or struggles that may be encountered, is the program of the true Christian. But who will give us courage? To us as to the Apostles, courage will come from the Holy Spirit, from His gift of fortitude; it will come from assiduous meditation on the example which Christ has given us; it will also come from His own words, spoken of coming persecutions: “I have told you these things, that you may not be scandalized in Me.”
+
+## Colloquy
+
+O Lord, make me worthy to give testimony of You, not only in words, but especially in deeds, in spite of the difficulties and sufferings I may encounter. The Apostles gave testimony of You to the extent of facing death for love of You; grant that I may give testimony of You at least by a life worthy of You.
+
+To give testimony of You, O Lord, “I would travel the world over to preach Your name, O my Beloved, and raise on heathen soil the glorious standard of the Cross! One mission alone would not satisfy my longings. I would spread the Gospel in all parts of the world, even in the farthest isles. I would be a missionary, but not for a few years only. Were it possible, I should wish to have been one from the world’s creation and to remain one till the end of time. But the greatest of all my desires is to win the martyr’s palm....
+
+“When I think of the fearful torments awaiting Christians at the time of Antichrist, my heart thrills within me and I wish that these torments could be reserved for me. Open, O Jesus, the book of life in which are written the deeds of all Your saints; each one of those deeds I long to accomplish for You.... Great deeds are forbidden me; I can neither preach the Gospel nor shed my blood...but what does it matter? My brothers labor in my stead while...I remain close to the throne and love You for all those who are in the strife” (cf. [[00-story-of-a-soul|T.C.J. St]], 13).
+
+Yes, O Lord, grant me a true love, so that I may always be faithful to You in little things, since it is not given me to perform great ones. Grant especially that I may always give You the testimony of a sincere profession of faith, of behavior which is wholly conformed to Your law, no matter where or in what circumstance I may be, never letting myself deviate through human respect.
+
+# References
+
+Ep - Epistle
+
+T.C.J. - [[therese-of-lisieux-saint|Saint Therese of Lisieux]]
+
+St - [[00-story-of-a-soul|Story of a Soul by Saint Thérèse of Lisieux]]
+
+---
+
+⟵ [[181-mary-and-fraternal-charity|181. Mary and Fraternal Charity]] | [[183-marys-prayer|183. Marys Prayer]] ➞

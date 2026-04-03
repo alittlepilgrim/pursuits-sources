@@ -1,0 +1,50 @@
+---
+title: Revelation, The Book of Revelation
+created: 2025-07-30
+modified: 2026-04-02
+type: bible
+publish: true
+description: Revelation, the Book of Revelation
+aliases:
+  - revelation-00
+  - Revelation, the Book of Revelation
+  - Revelation, The Book of Revelation
+tags:
+  - bible/revelation
+layer: canon
+node-type: book
+testament: new
+url: https://bible.usccb.org/bible/revelation/0
+---
+
+# Revelation, the Book of Revelation
+
+[Introduction](revelation-00.md) [1](revelation-01.md) [2](revelation-02.md) [3](revelation-03.md) [4](revelation-04.md) [5](revelation-05.md) [6](revelation-06.md) [7](revelation-07.md) [8](revelation-08.md) [9](revelation-09.md) [10](revelation-10.md) [11](revelation-11.md) [12](revelation-12.md) [13](revelation-13.md) [14](revelation-14.md) [15](revelation-15.md) [16](revelation-16.md) [17](revelation-17.md) [18](revelation-18.md) [19](revelation-19.md) [20](revelation-20.md) [21](revelation-21.md) [22](revelation-22.md)
+
+## The Book of Revelation
+
+The Apocalypse, or Revelation to John, the last book of the Bible, is one of the most difficult to understand because it abounds in unfamiliar and extravagant symbolism, which at best appears unusual to the modern reader. Symbolic language, however, is one of the chief characteristics of apocalyptic literature, of which this book is an outstanding example. Such literature enjoyed wide popularity in both Jewish and Christian circles from ca. 200 B.C. to A.D. 200.
+
+This book contains an account of visions in symbolic and allegorical language borrowed extensively from the Old Testament, especially Ezekiel, Zechariah, and Daniel. Whether or not these visions were real experiences of the author or simply literary conventions employed by him is an open question.
+
+This much, however, is certain: symbolic descriptions are not to be taken as literal descriptions, nor is the symbolism meant to be pictured realistically. One would find it difficult and repulsive to visualize a lamb with seven horns and seven eyes; yet Jesus Christ is described in precisely such words (([[revelation-05|Rv 5]]:6]). The author used these images to suggest Christ’s universal (seven) power (horns) and knowledge (eyes). A significant feature of apocalyptic writing is the use of symbolic colors, metals, garments (([[revelation-01|Rv 1]]:13] – [16]; [3:18]; [4:4]; [6:1] – [8]; [17:4]; [19:8]), and numbers (*four* signifies the world, *six* imperfection, *seven* totality or perfection, *twelve* Israel’s tribes or the apostles, *one thousand* immensity). Finally the vindictive language in the book (([[revelation-06|Rv 6]]:9] – [10]; [18:1] – [19:4]) is also to be understood symbolically and not literally. The cries for vengeance on the lips of Christian martyrs that sound so harsh are in fact literary devices the author employed to evoke in the reader and hearer a feeling of horror for [[apostasy]] and rebellion that will be severely punished by God.
+
+The lurid descriptions of the punishment of Jezebel (([[revelation-02|Rv 2]]:22]) and of the destruction of the great harlot, Babylon ([Rv 16:9] – [19:2]), are likewise literary devices. The metaphor of Babylon as harlot would be wrongly construed if interpreted literally. On the other hand, the stylized figure of the woman clothed with the sun ([Rv 12:1] – [6]), depicting the New Israel, may seem to be a negative stereotype. It is necessary to look beyond the literal meaning to see that these images mean to convey a sense of God’s wrath at sin in the former case and trust in God’s providential care over the church in the latter.
+
+The Book of Revelation cannot be adequately understood except against the historical background that occasioned its writing. Like Daniel and other apocalypses, it was composed as resistance literature to meet a crisis. The book itself suggests that the crisis was ruthless persecution of the early church by the Roman authorities; the harlot Babylon symbolizes pagan Rome, the city on seven hills ([Rv 17:9]). The book is, then, an exhortation and admonition to Christians of the first century to stand firm in the faith and to avoid compromise with paganism, despite the threat of adversity and martyrdom; they are to await patiently the fulfillment of God’s mighty promises. The triumph of God in the world of men and women remains a mystery, to be accepted in faith and longed for in hope. It is a triumph that unfolded in the history of Jesus of Nazareth and continues to unfold in the history of the individual Christian who follows the way of the cross, even, if necessary, to a martyr’s death.
+
+Though the perspective is eschatological—ultimate salvation and victory are said to take place at the end of the present age when Christ will come in glory at the parousia—the book presents the decisive struggle of Christ and his followers against Satan and his cohorts as already over. Christ’s overwhelming defeat of the kingdom of Satan ushered in the everlasting reign of God ([Rv 11:15]; [12:10]). Even the forces of evil unwittingly carry out the divine plan ([Rv 17:17]), for God is the sovereign Lord of history.
+
+The Book of Revelation had its origin in a time of crisis, but it remains valid and meaningful for Christians of all time. In the face of apparently insuperable evil, either from within or from without, all Christians are called to trust in Jesus’ promise, “Behold, I am with you always, until the end of the age” (([[matthew-28|Mt 28]]:20]). Those who remain steadfast in their faith and confidence in the risen Lord need have no fear. Suffering, persecution, even death by martyrdom, though remaining impenetrable mysteries of evil, do not comprise an absurd dead end. No matter what adversity or sacrifice Christians may endure, they will in the end triumph over Satan and his forces because of their fidelity to Christ the victor. This is the enduring message of the book; it is a message of hope and consolation and challenge for all who dare to believe.
+
+The author of the book calls himself John (([[revelation-01|Rv 1]]:1], [4], [9]; [22:8]), who because of his Christian faith has been exiled to the rocky island of Patmos, a Roman penal colony. Although he never claims to be John the apostle, whose name is attached to the fourth gospel, he was so identified by several of the early church Fathers, including Justin, Irenaeus, Clement of Alexandria, Tertullian, Cyprian, and Hippolytus. This identification, however, was denied by other Fathers, including Denis of Alexandria, Eusebius of Caesarea, Cyril of Jerusalem, Gregory Nazianzen, and John Chrysostom. Indeed, vocabulary, grammar, and style make it doubtful that the book could have been put into its present form by the same person(s) responsible for the fourth gospel. Nevertheless, there are definite linguistic and theological affinities between the two books. The tone of the letters to the seven churches (([[revelation-01|Rv 1]]:4] – [3:22]) is indicative of the great authority the author enjoyed over the Christian communities in Asia. It is possible, therefore, that he was a disciple of John the apostle, who is traditionally associated with that part of the world. The date of the book in its present form is probably near the end of the reign of Domitian (A.D. 81–96), a fierce persecutor of the Christians.
+
+The principal divisions of the Book of Revelation are the following:
+
+1. Prologue ([1:1] – [3])
+2. Letters to the Churches of Asia ([1:4] – [3:22])
+3. God and the Lamb in Heaven ([4:1] – [5:14])
+4. The Seven Seals, Trumpets, and Plagues, with Interludes ([6:1] – [16:21])
+5. The Punishment of Babylon and the Destruction of Pagan Nations ([17:1] – [20:15])
+6. The New Creation ([21:1] – [22:5])
+7. Epilogue ([22:6] – [21])

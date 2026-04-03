@@ -1,0 +1,55 @@
+---
+title: 261. The Measure of Fraternal Charity
+created: 2025-05-09
+modified: 2026-04-02
+type: meditation
+publish: true
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D. Tuesday of the tenth week after Pentecost
+aliases:
+  - 261-the-measure-of-fraternal-charity
+  - 261. The Measure of Fraternal Charity
+tags:
+  - divine-intimacy
+  - term/charity
+  - term/love-of-neighbor
+  - term/love-of-self
+author: Gabriel of Saint Mary Magdalen
+di_week: tenth week after Pentecost
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+---
+
+Tuesday of the tenth week after Pentecost
+
+# 261. The Measure of Fraternal Charity
+
+PRESENCE OF GOD - O Lord, make me understand the full meaning of Your words: “Thou shalt love thy neighbor as thyself” ([[matthew-22|Mt 22,]] 39)
+
+## Meditation 1
+
+**I.** When Jesus gave the precept of fraternal charity, He Himself set its measure: “Thou shalt love thy neighbor as thyself” ([[matthew-22|Mt 22,]]39). This measure is so great that it would be difficult to exceed it, when we consider how much every man is inclined to love himself. The good that each of us desires for himself is so great that if we could succeed in desiring just as much for our neighbor—for any neighbor— our charity would be truly magnanimous. Jesus has said, “And as you would that men should do to you, do you also unto them in like manner” ([[luke-06|Lk 6]]:,31), which, in practice, signifies that we treat others exactly as we wish to be treated ourselves; for example, showing, toward our neighbor, the same consideration of thought, word, and deed, as we would desire for ourselves; serving and pleasing others, accommodating ourselves to their wishes, as we ourselves would wish to be served, pleased, and condescended to.
+
+Alas! our self-love incites us, instead, to use two different measures: one, very large—even exaggerated—for ourselves; the other, very small—even miserly—for our neighbor. The attentions we receive from others always seem to be so trifling, and how easily we complain that we are treated thoughtlessly! Yet how very far we are from showing such thoughtfulness toward our neighbor; although in retrospect, we always think we have done too much. We are very sensitive to the wrongs done us; and even when, in reality, they are slight, we consider them as almost unbearable; whereas we consider as mere nothings the things by which we offend others so freely. The greatest enemy of fraternal charity is self-love, which makes us too sensitive and demanding in what refers to ourselves, and very careless in what refers to others. For the sake of virtue we should force ourselves to cultivate the same thoughtfulness toward our neighbor as we instinctively feel is due to us, and this, not so much for our neighbor himself, as for God, who wills that we act in this way and whom we must see in our neighbor. If we were really convinced that God is present in our brethren and that in them He is awaiting the delicacy of our love, how could we think it too much to love them at least as much as we love ourselves?
+
+## Meditation 2
+
+**II.** The love which each one of us bears to himself is not a theoretical nor abstract love, but a very definite and concrete one. It includes our person with all its peculiarities, needs, tastes, and feelings. We are so ingenious in justifying our own way of thinking, in maintaining our rights, in defending our cause, and in excusing our faults: how much understanding and sympathy we show in this realm! Yet, this is the attitude we should have toward our neighbor also. To love others for God does not mean that we confine ourselves to a general, platonic love, embracing them altogether as a group, without taking into account individual persons. No, it is necessary to love each one individually, in the actuality of his own personality, adapting ourselves to his feelings, tastes, and mentality, compassionating his faults, and concealing them just as carefully as we do our own. We must desire and seek his good, not by words alone but by deeds, just as we do for ourselves. And as we do not cease to love ourselves even though we have defects, so our love for our neighbor should be such as not to be lessened by the deficiencies we may find in him.
+
+The first and greatest good we should wish for our neighbor is that which we should wish for ourselves: eternal salvation, sanctity, grace, and the ineffable joy of being a child of God, of sharing in His divine life, and enjoying Him in Heaven for all eternity. We should have a real, practical desire for this good, not contenting ourselves with simply sighing for it, but working with all our strength to obtain it—more by prayer, hidden sacrifice, and good example, than by words alone. However, our first duty of striving for our neighbor’s spiritual welfare should not be an easy excuse for dispensing ourselves from our obligation to help him in his material needs. How often, alas! at the sight of the needs of others, our charity is limited to empty words and sterile compassion!
+
+Whereas, to carry out the command of Jesus, we must translate our charity into practical, effective help, as we would wish to be helped in our personal needs. “All things therefore whatsoever you would that men should do to you, do you also to them. For this is the law and the prophets” (Mt 7,12). How we need to penetrate the profound meaning of these words, in order to apply them to all our relations with our neighbor, excluding no one!
+
+## Colloquy
+
+“O most merciful Lord Jesus, love for our neighbor is well-ordered when he is loved for Your sake, because You have created him and have commanded that he should be loved with a proper, well-regulated love. If we love our parents and the members of our family more than we love You, our love is not well-ordered, and anyone who loves like this is unworthy of You. We have received a twofold commandment: to love God and to love our neighbor; but although the commandment is twofold, only one love is prescribed, for the love with which You are loved is not different from the love with which our neighbor is loved for Your sake; nor can he love You who errs in the way he loves his neighbor.
+
+“O Lord Jesus Christ, if J want charity to be well ordered in me, I must love both You and my neighbor; I must love You with all my heart, all my soul, all my mind, and my neighbor as myself, in such a way that I shall not do to others what I would not want to have done to myself and I shall give to others the same benefits that I desire for myself.
+
+“Teach me, O most benign Lord, to meditate on these truths, to remember them, and to practice them with all my strength. By my love for my neighbor I shall know whether I love You, O Lord, for he who is neglectful in loving You, does not know how to love his neighbor either. O most merciful Lord Jesus Christ, what shall I say and what shall I do, who on account of the hardness of my heart do not love my neighbor for Your sake; I have often sinned, trying to get something I thought I needed for myself or in trying to avoid something disagreeable. ‘Thus there is no true love in me. Deign to help me, O merciful Lord Jesus Christ, You who are the source of charity and true love, genuine love; pardon my sins and in Your mercy give me a share in Your immense clemency. Oh! help me to be converted entirely to You, so that I may live with You in ordered charity, eternally! (Ven. Raymond Jourdain).
+
+# References
+
+---⟵ [[260-the-extent-of-fraternal-charity|260. The Extent of Fraternal Charity]] | [[262-the-new-commandment|262. The New Commandment]] ➞

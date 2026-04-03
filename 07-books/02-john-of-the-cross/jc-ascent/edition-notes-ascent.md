@@ -1,0 +1,100 @@
+---
+title: Edition Notes - The Ascent of Mt. Carmel
+created: 2026-04-01
+modified: 2026-04-02
+type: book
+publish: true
+description: Edition Notes - The Ascent of Mt. Carmel
+aliases:
+  - Edition Notes - The Ascent of Mt. Carmel
+tags:
+  - author/john-of-the-cross
+  - book
+  - book/ascent-mt-carmel
+  - saint/john-of-the-cross
+  - type/book
+attachment: false
+author: Saint John of the Cross
+---
+
+# Edition Notes
+
+ASCENT OF MOUNT CARMEL by Saint John of the Cross DOCTOR OF THE CHURCH THIRD REVISED EDITION Translated and edited, with an Introduction, by E. ALLISON PEERS from the critical edition of
+
+P. SILVERIO DE SANTA TERESA, C.D.
+
+NIHIL OBSTAT: CEORGIVS SMITH, S.T.D., PH.D.
+
+CENSOR DEPVTATVS IMPRIMATVR: E. MORROGH BERNARD VICARIVS GENERALIS WESTMONASTERII: DIE XXIV SEPTEMBRIS MCMLII
+
+TO THE DISCALCED CARMELITES OF CASTILE, WITH ABIDING MEMORIES OF THEIR HOSPITALITY AND KINDNESS IN MADRID, ÁVILA AND BURGOS, BUT ABOVE ALL OF THEIR DEVOTION TO SAINT JOHN OF THE CROSS, I DEDICATE THIS TRANSLATION Mount Carmel "the greatest of all mystical theologians"
+
+Thus has Thomas Merton described St. John of the Cross, echoing the considered judgment of most authorities on the spiritual life; and here in this volume is the great mystic's most widely appealing work. Ascent of Mount Carmel is an incomparable guide to the spiritual life --because its author has lived his own counsel. Addressed to informed Christians who aspire to grow in union with God, it examines every category of spiritual experience, the spurious as well as the authentic. With rare insight into human psychology it not only tells how to become more closely united with God, but spells out in vivid detail the pitfalls to avoid.
+
+In his Apostolic Letter proclaiming St. John of the Cross a Doctor of the Church, Pope Pius XI wrote that he "points out to souls the way of perfection as though illumined by light from on high, in his limpidly clear analysis of mystical experience. And although [his works] deal with difficult and hidden matters, they are nevertheless replete with such lofty spiritual doctrine and are so well adapted to the understanding of those who study them that they can rightly be called a guide and handbook for the man of faith who proposes to embrace a life of perfection."
+
+This translation by E. Allison Peers was hailed by the London Times as "the most faithful that has appeared in any European language."
+
+St. John of the Cross was perhaps the greatest mystical writer the world has ever known. Bossuet's famous tribute -- that his writings "possess the same authority in mystical theology as the writings of St. Thomas possess in dogmatic theology" -- remains the most fitting testimonial to his august place among spiritual writers.
+
+John was born in Castile in 1542 -- eve of Spain's century of greatness, to which he himself was to add such lustre. He studied under the Jesuits and worked for six years in a hospital. Entering the Carmelites in 1563, he was professed a year later and sent to the great University of Salamanca. He was ordained in 1567 but, shrinking from the apostolate of a priest in the world, considered entering the Carthusians, a hermitical order.
+
+Then came the turning point in his life. He met St. Teresa of Ávila, who was pursuing her epic work of restoring the pristine, stricter observance of the Carmelite rule. John and two other members of the order took the vows of the Discalced (or reformed) Carmelites the following year, binding themselves to a more rigorous way of life which included daily (and nightly) recitation of the Divine Office in choir, perpetual abstinence from meat, and additional fasting.
+
+Yet his religious vows were but a part of the rigors John was to undergo. The main branch of the order, the Calced Carmelites, so opposed the Reform that they twice had John kidnapped and jailed --providentially, so it proved, for much of his writing was done in prison.
+
+The greater part of his twenty-three years as a Discalced Carmelite, however, was spent in filling a number of important posts in the order, among them Rector of two colleges, Prior, Definator, and Vicar-Provincial. But it was in one of his lesser offices that he was to spend the most decisive years of his life: he was confessor to the Carmelite nuns at Ávila, where St. Teresa was Superior.
+
+The secret of St. John's unique contribution to mystical theology was not simply his mysticism, for there have been other mystics; not even his profound grasp of Scripture, dogma, Thomism, and spiritual literature, for there have also been learned mystics. What sets him apart is his extraordinary poetic vision. To write of mystical experience is to try to express the inexpressible. Because he was a great poet St. John of the Cross was able, in the realm of mysticism, to push the frontiers of human expression beyond where any writer has succeeded in venturing before or since. This poetic intensity is found even in his prose, the major works of which are Ascent of Mount Carmel, Dark Night of the Soul, Spiritual Canticle, and Living Flame of Love.
+
+St. John of the Cross died in 1591, was beatified less than a century later in 1675, was canonized in 1726, and was named a Doctor of the Church by Pope Pius XI in 1926.
+
+Preface To The Electronic Edition
+
+This electronic edition was scanned in 1994 from an uncopyrighted 1962 Image Books edition. The entire text and some of the footnotes have been reproduced. Nearly 1000 footnotes (and parts of footnotes)describing variations among manuscripts have been omitted. Page number references in the footnotes have been changed to chapter and section where possible. This edition has been proofread once, but additional errors may remain.
+
+TRANSLATOR'S PREFACE TO THE FIRST EDITION
+
+FOR at least twenty years, a new translation of the works of St. John of the Cross has been an urgent necessity. The translations of the individual prose works now in general use go back in their original form to the eighteen-sixties, and, though the later editions of some of them have been submitted to a certain degree of revision, nothing but a complete retranslation of the works from their original Spanish could be satisfactory. For this there are two reasons.
+
+First, the existing translations were never very exact renderings of the original Spanish text even in the form which held the field when they were first published. Their great merit was extreme readableness: many a disciple of the Spanish mystics, who is unacquainted with the language in which they wrote, owes to these translations the comparative ease with which he has mastered the main lines of St. John of the Cross's teaching. Thus for the general reader they were of great utility; for the student, on the other hand, they have never been entirely adequate. They paraphrase difficult expressions, omit or add to parts of individual sentences in order (as it seems) to facilitate comprehension of the general drift of the passages in which these occur, and frequently retranslate from the Vulgate the Saint's Spanish quotations from Holy Scripture instead of turning into English the quotations themselves, using the text actually before them.
+
+A second and more important reason for a new translation, however, is the discovery of fresh manuscripts and the consequent improvements which have been made in the Spanish text of the works of St. John of the Cross, during the present century. Seventy years ago, the text chiefly used was that of the collection known as the Biblioteca de Autores Españoles (1853), which itself was based, as we shall later see, upon an edition going back as far as 1703, published before modern methods of editing were so much as imagined. Both the text of the B.A.E. edition and the unimportant commentary which accompanied it were highly unsatisfactory, yet until the beginning of the present century nothing appreciably better was attempted.
+
+In the last twenty years, however, we have had two new editions, each based upon a close study of the extant manuscripts and each representing a great advance upon the editions preceding it. The three-volume Toledo edition of P. Gerardo de San Juan de la Cruz, C.D. (1912-14), was the first attempt made to produce an accurate text by modern critical methods. Its execution was perhaps less laudable than its conception, and faults were pointed out in it from the time of its appearance, but it served as a new starting-point for Spanish scholars and stimulated them to a new interest in St. John of the Cross's writings. Then, seventeen years later, came the magnificent five-volume edition of P. Silverio de Santa Teresa, C.D. (Burgos, 1929-31), which forms the basis of this present translation. So superior is it, even on the most casual examination, to all its predecessors that to eulogize it in detail is superfluous. It is founded upon a larger number of texts than has previously been known and it collates them with greater skill than that of any earlier editor. It can hardly fail to be the standard edition of the works of St. John of the Cross for generations.
+
+Thanks to the labours of these Carmelite scholars and of others whose findings they have incorporated in their editions, Spanish students can now approach the work of the great Doctor with the reasonable belief that they are reading, as nearly as may be, what he actually wrote.
+
+English-reading students, however, who are unable to master sixteenth-century Spanish, have hitherto had no grounds for such a belief. They cannot tell whether, in any particular passage, they are face to face with the Saint's own words, with a translator's free paraphrase of them or with a gloss made by some later copyist or early editor in the supposed interests of orthodoxy. Indeed, they cannot be sure that some whole paragraph is not one of the numerous interpolations which has its rise in an early printed edition -- i.e., the timorous qualifications of statements which have seemed to the interpolator over-bold. Even some of the most distinguished writers in English on St. John of the Cross have been misled in this way and it has been impossible for any but those who read Spanish with ease to make a systematic and reliable study of such an important question as the alleged dependence of Spanish quietists upon the Saint, while his teaching on the mystical life has quite unwittingly been distorted by persons who would least wish to misrepresent it in any particular.
+
+It was when writing the chapter on St. John of the Cross in the first volume of my Studies of the Spanish Mystics (in which, as it was published in 1927, I had not the advantage of using P. Silverio's edition) that I first realized the extent of the harm caused by the lack of an accurate and modern translation. Making my own versions of all the passages quoted, I had sometimes occasion to compare them with those of other translators, which at their worst were almost unrecognizable as versions of the same originals. Then and there I resolved that, when time allowed, I would make a fresh translation of the works of a saint to whom I have long had great devotion -- to whom, indeed, I owe more than to any other writer outside the Scriptures.
+
+Just at that time I happened to visit the Discalced Carmelites at Burgos, where I first met P. Silverio, and found, to my gratification, that his edition of St. John of the Cross was much nearer publication than I had imagined. Arrangements for sole permission to translate the new edition were quickly made and work on the early volumes was begun even before the last volume was published.
+
+II\. These preliminary notes will explain why my chief preoccupation throughout the performance of this task has been to present as accurate and reliable a version of St. John of the Cross's works as it is possible to obtain. To keep the translation, line by line, au pied de la lettre, is, of course, impracticable: and such constantly occurring Spanish habits as the use of abstract nouns in the plural and the verbal construction ir + present participle' introduce shades of meaning which cannot always be reproduced. Yet wherever, for stylistic or other reasons, I have departed from the Spanish in any way that could conceivably cause a misunderstanding, I have scrupulously indicated this in a footnote. Further, I have translated, not only the text, but the variant readings as given by P. Silverio, [1] except where they are due merely to slips of the copyist's pen or where they differ so slightly from the readings of the text that it is impossible to render the differences in English. I beg students not to think that some of the smaller changes noted are of no importance; closer examination will often show that, however slight they may seem, they are, in relation to their context, or to some particular aspect of the Saint's teaching, of real interest; in other places they help to give the reader an idea, which may be useful to him in some crucial passage, of the general characteristics of the manuscript or edition in question. The editor's notes on the manuscripts and early editions which he has collated will also be found, for the same reason, to be summarized in the introduction to each work; in consulting the variants, the English-reading student has the maximum aid to a judgment of the reliability of his authorities.
+
+Concentration upon the aim of obtaining the most precise possible rendering of the text has led me to sacrifice stylistic elegance to exactness where the two have been in conflict; it has sometimes been difficult to bring oneself to reproduce the Saint's often ungainly, though often forceful, repetitions of words or his long, cumbrous parentheses, but the temptation to take refuge in graceful paraphrases has been steadily resisted. In the same interest, and also in that of space, I have made certain omissions from, and abbreviations of, other parts of the edition than the text. Two of P. Silverio's five volumes are entirely filled with commentaries and documents. I have selected from the documents those of outstanding interest to readers with no detailed knowledge of Spanish religious history and have been content to summarize the editor's introductions to the individual works, as well as his longer footnotes to the text, and to omit such parts as would interest only specialists, who are able, or at least should be obliged, to study them in the original Spanish.
+
+The decision to summarize in these places has been made the less reluctantly because of the frequent unsuitability of P. Silverio's style to English readers. Like that of many Spaniards, it is so discursive, and at times so baroque in its wealth of epithet and its profusion of imagery, that a literal translation, for many pages together, would seldom have been acceptable. The same criticism would have been applicable to any literal translation of P. Silverio's biography of St. John of the Cross which stands at the head of his edition (Vol. I, pp. 7-130). There was a further reason for omitting these biographical chapters. The long and fully documented biography by the French Carmelite, P. Bruno de Jésus-Marie, C.D., written from the same standpoint as P. Silverio's, has recently been translated into English, and any attempt to rival this in so short a space would be foredoomed to failure. I have thought, however, that a brief outline of the principal events in St. John of the Cross's life would be a useful preliminary to this edition; this has therefore been substituted for the biographical sketch referred to.
+
+In language, I have tried to reproduce the atmosphere of a sixteenth-century text as far as is consistent with clarity. Though following the paragraph divisions of my original, I have not scrupled, where this has seemed to facilitate understanding, to divide into shorter sentences the long and sometimes straggling periods in which the Saint so frequently indulged. Some attempt has been made to show the contrast between the highly adorned, poetical language of much of the commentary on the Spiritual Canticle' and the more closely shorn and eminently practical, though always somewhat discursive style of the Ascent and Dark Night. That the Living Flame occupies an intermediate position in this respect should also be clear from the style of the translation.
+
+Quotations, whether from the Scriptures or from other sources, have been left strictly as St. John of the Cross made them. Where he quotes in Latin, the Latin has been reproduced; only his quotations in Spanish have been turned into English. The footnote references are to the Vulgate, of which the Douai Version is a direct translation; if the Authorized Version differs, as in the Psalms, the variation has been shown in square brackets for the convenience of those who use it.
+
+A word may not be out of place regarding the translations of the poems as they appear in the prose commentaries. Obviously, it would have been impossible to use the comparatively free verse renderings which appear in Volume II of this translation, since the commentaries discuss each line and often each word of the poems. A literal version of the poems in their original verse-lines, however, struck me as being inartistic, if not repellent, and as inviting continual comparison with the more polished verse renderings which, in spirit, come far nearer to the poet's aim. My first intention was to translate the poems, for the purpose of the commentaries, into prose. But later I hit upon the long and metrically unfettered verse-line, suggestive of Biblical poetry in its English dress, which I have employed throughout. I believe that, although the renderings often suffer artistically from their necessary literalness, they are from the artistic standpoint at least tolerable.
+
+III\. The debts I have to acknowledge, though few, are very large ones. My gratitude to P. Silverio de Santa Teresa for telling me so much about his edition before its publication, granting my publishers the sole translation rights and discussing with me a number of crucial passages cannot be disjoined from the many kindnesses I have received during my work on the Spanish mystics, which is still proceeding, from himself and from his fellow-Carmelites in the province of Castile. In dedicating this translation to them, I think particularly of P. Silverio in Burgos, of P. Florencio del Niño Jesús in Madrid, and of P. Crisógono de Jesús Sacramentado, together with the Fathers of the Convento de la Santa' in Ávila.
+
+The long and weary process of revising the manuscript and proofs of this translation has been greatly lightened by the co-operation and companionship of P. Edmund Gurdon, Prior of the Cartuja de Miraflores, near Burgos, with whom I have freely discussed all kinds of difficulties, both of substance and style, and who has been good enough to read part of my proofs. From the quiet library of his monastery, as well as from his gracious companionship, I have drawn not only knowledge, but strength, patience and perseverance. And when at length, after each of my visits, we have had to part, we have continued our labours by correspondence, shaking hands, as it were, over a vast' and embracing from the ends of opposd winds.'
+
+Finally, I owe a real debt to my publishers for allowing me to do this work without imposing any such limitations of time as often accompany literary undertakings. This and other considerations which I have received from them have made that part of the work which has been done outside the study unusually pleasant and I am correspondingly grateful.
+
+E. ALLISON PEERS.
+
+University of Liverpool.
+
+Feast of St. John of the Cross, November 24, 1933.
+
+Note. -- Wherever a commentary by St. John of the Cross is referred to, its title is given in italics (e.g. Spiritual Canticle); where the corresponding poem is meant, it is placed between quotation marks (e.g. Spiritual Canticle'). The abbreviation e.p.' stands for editio princeps throughout.
+
+[1] The footnotes are P. Silverio's except where they are enclosed in square brackets.

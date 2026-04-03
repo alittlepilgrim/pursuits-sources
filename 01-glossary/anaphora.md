@@ -1,0 +1,20 @@
+---
+title: Anaphora
+created: 2025-07-20
+modified: 2026-03-19
+type: glossary
+publish: true
+description: anaphora. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+aliases:
+  - 20250720-212722
+  - anaphora
+  - Anaphora
+tags:
+  - term/anaphora
+---
+
+# Anaphora
+
+## Catechism of the Catholic Church
+
+The Eucharistic Prayer--the prayer of thanksgiving and consecration--which is the heart and summit of the celebration of the Mass ([[2.2.1.3.p40|ccc-1352]]).

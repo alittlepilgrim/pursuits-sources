@@ -1,0 +1,68 @@
+---
+title: 101. Venial Sin
+created: 2025-05-12
+modified: 2026-04-02
+type: meditation 
+publish: true
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+aliases:
+  - 101-venial-sin
+  - 101. Venial sin
+  - 101. Venial Sin
+tags:
+  - divine-intimacy
+  - term/humility
+  - term/sin
+  - term/tepidity
+  - term/venial-sin
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+---
+
+# 101. Venial sin
+
+PRESENCE OF GOD - O Lord, inflame me with Your holy zeal, so that I will no longer be able to tolerate in myself the slightest thing which is displeasing to You.
+
+## Meditation 1
+
+**I.** Venial sin, like mortal sin, goes counter to God’s will, although with less serious deviation. While it does not destroy charity, it is opposed to it and therefore diminishes its fervor and vigor, hindering its development. This is the disastrous effect of deliberate venial sin committed with the realization that it is displeasing to God.
+
+Once venial sins of this kind become habitual, they decrease the soul’s tendency toward God, and increase, on the other hand, its leaning toward self-satisfaction and creatures. Thus, little by little the soul loses its fervor, its sense of sin, and falls into tepidity, which is characterized by a certain indifference to venial sin. This puts it in danger of offending God in serious matters also. In this sense, venial sin may be compared to a disease of insidious languor, a kind of spiritual tuberculosis, which undermines the organism slowly but fatally. It is not unusual to meet souls who having at first surrendered themselves to God with sincere fervor, afterwards let themselves fall into continual carelessness, indifference, voluntary omissions, and laziness, because they have given in to selfishness and sought their own comfort. They become incapable of making the generous efforts required to advance on the way they have started. Their spiritual life is reduced to a king of lethargy which is not yet death, but which has none of the freshness and vigor of a strong, healthy life. It lacks the fervor of charity, for this is continually being lessened by deliberate concessions to venial sin.
+
+To put us on our guard against such a state, St. Teresa of Jesus declares, “Always be fearful if you do not feel sorry for the faults you commit, for even venial sin ought to fill you with sorrow to the very depths of your soul.... For the love of God, take care not to commit any deliberate venial sin, even the smallest.... And can anything be small if it offends God?” (Con 2 — Way 41).
+
+## Meditation 2
+
+2 Quite different are the venial sins which we commit through frailty or inadvertence. Very often the soul is determined not to give in at any price; due to its weakness, however, it falls when temptation comes, especially if the attack is unexpected. Nevertheless, once aware of it, the soul feels sincere sorrow, repents at once, asks God’s pardon, rises, and sets out again. Such sins cause no great harm to the soul; they are signs of its frailty and show that it has not yet reached spiritual maturity. Moreover, if the soul sincerely humbles itself after these falls, it will draw profit from them and a more profound knowledge of its own misery, which will make it mistrust its own strength entirely and place all its confidence in God alone. It will experience in a practical way the profound truth of the words of Jesus, “Without Me you can do nothing” (Jn 15,5). It is not unusual for God to permit these falls, and He does so precisely to give the soul this practical knowledge of its nothingness, and to anchor it firmly in humility, the foundation of all our spiritual life.
+
+In regard to faults of this kind, St. Thérése of the Child Jesus felt that we can be sure “they do not grieve the good God,” because they are not caused by a will intent on sin, by indifference or by coldness; they spring from the weakness of human nature.
+
+If because of our weakness it is impossible for us to avoid these little daily venial faults of inadvertence or frailty, it is important to know how to detest them and to make generous reparation. As to deliberate venial sins, we should be firmly resolved not to commit them for anything in the world.
+
+## Colloquy
+
+“_Peccavi, Domine, miserere met!_ Pardon, Father, pardon me, a miserable ingrate. I owe it to Your goodness that I am still Your spouse, even though I am unfaithful to You by my faults. _Peccavi, Domine, miserere mei_. O my soul, what are you doing? Are you not aware that God sees you always? You can never hide yourself from His sight, for nothing is hidden from Him.... O eternal God, Father of all goodness and mercy, have pity on us because we are blind and in darkness, and I, more than anyone else, am miserable and to be pitied.... O true Sun, enter my soul and illumine it with Your brightness. Drive out the darkness and give me light; melt the ice of my self-love and kindle in me the fire of Your charity. Peccavi, Domine, miserere mei” ([[catherine-of-siena-saint|St. Catherine of Siena]]).
+
+“May His Majesty be pleased to make us fear Him whom we ought to fear and understand that one venial sin can do us greater harm than all the forces of hell combined” ([[teresa-of-avila-saint|T.J.]] [[tj-life-ccel|Life]],life|Life]], 25). Indeed the real evil, the only one I have to fear, is neither temptation, nor trial, nor interior or exterior contradictions, nor the loss of material things or of health, but only what is contrary in any way at all to my union with You, my sovereign Good! This evil, I see, can be caused by one single venial sin, committed deliberately. O Jesus, I beseech You, through the merits of Your Passion, deliver me from this great evil, take away from me the wretched power to offend You, and if, because of my innate weakness, it is impossible for me to avoid these faults, grant that they may never be the consequence of my bad will. May my faults serve only to humiliate me, not to offend You.
+
+Because of my weakness, I often fall. “Often I lose sight of what is my only care, and straying from Your side, allow my wings to be draggled in the muddy pools of this world. Then ‘I cry like a young swallow,’ and my cry tells You all, and You remember, O infinite Mercy, that You ‘did not come to call the just, but sinners’” ([[00-story-of-a-soul|T.C.J. St]], 13).
+
+# References
+
+T.J. - [[teresa-of-avila-saint|Saint Teresa of Avila]]
+
+Con - [[tj-conceptions-of-the-love-of-god|Conceptions of the Love of God by Saint Teresa of Avila]]
+
+Life - [[tj-life-ccel|Life by Saint Teresa of Avila]]
+
+T.C.J. - [[therese-of-lisieux-saint|Saint Therese of Lisieux]]
+
+St - [[00-story-of-a-soul|Story of a Soul by Saint Thérèse of Lisieux]]
+
+---
+
+⟵ [[100-sin|100. Sin]] | [[102-imperfections|102. Imperfections]] ➞

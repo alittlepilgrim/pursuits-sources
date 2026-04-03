@@ -1,0 +1,59 @@
+---
+title: 284. Sincerity
+created: 2025-05-09
+modified: 2026-04-02
+type: meditation
+publish: true
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+aliases:
+  - 20250509-220048
+  - 284-sincerity
+  - 284. Sincerity
+tags:
+  - divine-intimacy
+  - term/confession
+  - term/humiliations
+  - term/humility
+  - term/sincerity
+author: Gabriel of Saint Mary Magdalen
+di_season: after Pentecost
+di_week: Thirteenth week after Pentecost
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+url: https://meditatione.online/books/divine-intimacy/all
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+# 284. Sincerity
+
+*Thursday of the thirteenth week after Pentecost*
+
+PRESENCE OF GOD - Give me, O Lord, an open, sincere heart, loving the truth, seeking and desiring it at any cost.
+
+## Meditation 1
+
+**I.** “Lord, who shall dwell in Thy tabernacle, or who shall rest in Thy holy hill?” asks the Psalmist. And he gives the answer: “He that walketh without blemish, and worketh justice” (Ps 14,1 2).
+
+God is truth, and no one can be admitted to His intimacy who does not strive as much as he can, to live in truth and to be sincere in all his actions. First of all, we must seek to possess truth in the depths of our heart, that we may know ourselves as we really are in the eyes of God, stripped of all disguise and artificiality. To do this we must accept, not only the truths which please us, but also those which are painful and wound our pride to the quick, revealing our faults and evil tendencies. A person who is sincere never closes his eyes to these truths, but values them, even if they are humiliating, knowing that humiliation which reveals the truth is worth more than illusion which flatters pride and keeps us in error.
+
+Sometimes God permits difficult circumstances which are especially hard and trying for the practice of virtue, that we may see the truth and know ourselves as we really are. Under the onset of contradiction, we experience movements, hitherto unknown, surging up within us: movements of anger, rebellion, selfishness, from which perhaps we had had the illusion that we were free. In such cases, instead of turning our gaze away, it is necessary to have the courage to recognize these faults and confess them, humbly and frankly. St. John of the Cross speaks of certain pious souls who, in confession, “palliate [their sins] and make them appear less evil, and thus...excuse themselves rather than accuse themselves” (cf. DN I, 2,4). A soul that loves the truth is very far from acting in this way; even if it has only venial sins and imperfections of which to accuse itself in confession, it exposes them all very sincerely, without magnifying or minimizing them, never blaming circumstances, but only itself for all that is faulty. Sincerity in confessing our faults is the first step toward freeing ourselves from them.
+
+## Meditation 2
+
+**II.** A soul can be insincere in its interior life and its relations with God, but it can never deceive Him, and its lack of sincerity will only redound to its own disadvantage. But with respect to our neighbors it is not so; a want of sincerity can easily harm them, or at least deceive them. Hence, not only charity, but also justice demands that we conduct ourselves with the greatest sincerity in our relations with our neighbor. “Wherefore putting away lying,” St. Paul exhorts, “speak ye the truth every man with his neighbor, for we are members one of another” (Eph 4,25). Because of the natural ties, and still more, the supernatural ones, which bind us to our neighbor, he has every right not to be deceived either by our words or by our actions.
+
+To be sincere, our words must, first of all, correspond to our thoughts. To be convinced of one thing and to affirm another, with the intention of deceiving someone, is directly contrary to truth and, therefore, an offense against God, who is infinite Truth. Such an act is absolutely inadmissible in any soul, and especially in one who aspires to union with God: How can falsehood hope to be united to supreme Truth? And yet under a more subtle form certain deficiencies in sincerity are not wholly absent from the conduct of devout souls—little subterfuges, words spoken in such a way that they ward off a just rebuke, conceal a mistake which one does not wish to admit, or even attract a little praise or admiration... and all this through vanity or human respect, in order to avoid humiliation or suffering. These are mean ways of acting, unworthy of a sincere, noble spirit. Any want of sincerity, however small, in a soul who has consecrated itself to God, is very displeasing to Him, and is a serious obstacle to its spiritual progress. St. Margaret Mary writes: “If I should see a soul adorned with all the virtues except sincerity, and if I knew that she had been favored with great graces, it would all seem to me but deceit and illusion.”
+
+It is not sufficient to be sincere in our words; we must also be sincere in our actions and conduct. Sincere conduct is that which makes us appear just as we are, with no affectation, and no desire to appear to be what we are not. Our words and actions should express the truth which has been sought and loved interiorly. Sincerity does not require us to reveal all that we think or know to everyone; this would be contrary to prudence and to other virtues. It does, however, demand that everything we do reveal, by word or act, or even by silence, corresponds to truth.
+
+## Colloquy
+
+“O Lord, if I wish to reach You, who are the Way, the Truth, and the Life, I must travel the road of truth, without any pretense or dissimulation, renouncing reason that has been darkened by self-love and human respect. I must act with simplicity, wholly dying to myself and to creatures. Teach me, O eternal Truth, how to act sincerely and frankly. Let my soul, simple as a dove, fly to You to build its nest in Your heart, and nourish itself with the knowledge of You and of itself; thus despising its own malice, it will find nothing in itself to satisfy it, and therefore, it will be unable to stay far away from You, not finding where to repose outside of You. Teach me to walk in the straight path of truth without stopping, but always advancing, hurrying and running swiftly, in order to follow You, eternal Truth, my guide and my way” ([[mary-magdalen-dei-pazzi-saint|St. Mary Magdalen dei Pazzi]]).
+
+“O Lord, let Thy truth teach me, let Thy truth guard me, and keep me till I come to a happy end. Let the same deliver me from all evil affections. I confess my sins to Thee with great compunction and sorrow; never permit me to esteem myself for my good works. I am indeed a sinner, subject to, and entangled with many passions. I always tend to nothing, I fall quickly, I am quickly overcome, easily disturbed and discouraged. I have nothing in which I can glory, but many things for which I ought to humble myself, for I am much weaker than I am able to comprehend.
+
+“Teach me, O Lord, to admire Thy eternal truth, and to despise my own exceeding vileness” ([[tk-the-imitation-of-christ-ccel|Imit.]] III, 4,2-4).
+
+# References
+
+DN - [[jc-dark-night-of-the-soul|Dark Night of the Soul by Saint John of the Cross]]⟵ [[283-gratitude|284. Gratitude]] | [[285-simplicity|285. Simplicity]] ➞

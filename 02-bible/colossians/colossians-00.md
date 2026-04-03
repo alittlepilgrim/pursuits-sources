@@ -1,0 +1,44 @@
+---
+title: Colossians, The Letter To The Colossians
+created: 2025-07-30
+modified: 2026-04-02
+type: bible
+publish: true
+description: Colossians, the Letter to the Colossians
+aliases:
+  - colossians-00
+  - Colossians, the Letter to the Colossians
+  - Colossians, The Letter To The Colossians
+tags:
+  - bible/colossians
+layer: canon
+node-type: book
+testament: new
+url: https://bible.usccb.org/bible/colossians/0
+---
+
+# Colossians, the Letter to the Colossians
+
+## The Letter to the Clossians
+
+This letter is addressed to a congregation at Colossae in the Lycus Valley in Asia Minor, east of Ephesus. At the time of writing, Paul had not visited there, the letter says ([Col 1:4]; [2:1]). The community had apparently been established by Epaphras of Colossae ([Col 1:7]; [4:12]; [Phlm 23]). Problems, however, had arisen, brought on by teachers who emphasized Christ’s relation to the universe (cosmos). Their teachings stressed angels ([Col 2:18]; “principalities and powers,” [Col 2:15]), which were connected with astral powers and cultic practices (see note on [Col 2:16]) and rules about food and drink and ascetical disciplines ([Col 2:16], [18]). These teachings, Paul insists, detract from the person and work of Christ for salvation as set forth magnificently in a hymnic passage at [Col 1:15] – [20] and reiterated throughout the letter. Such teachings are but “shadows”; Christ is “reality” ([Col 2:17]).
+
+For help in dealing with these problems that the new teachers posed at Colossae, Epaphras sought out Paul, who was then imprisoned ([Col 4:10], [18]) at a place that the letter does not mention. Paul, without entering into debate over the existence of angelic spirits or their function, simply affirms that Christ possesses the sum total of redemptive power ([Col 1:19]) and that the spiritual renewal of the human person occurs through contact in baptism with the person of Christ, who died and rose again ([Col 2:9] – [14]). It is unnecessary for the Christian to be concerned about placating spirits ([Col 2:15]) or avoiding imagined defilement through ascetical practices in regard to food and drink ([Col 2:20] – [23]). True Christian asceticism consists in the conquering of personal sins ([Col 3:5] – [10]) and the practice of love of neighbor in accordance with the standard set by Christ ([Col 3:12] – [16]).
+
+Paul commends the community as a whole ([Col 1:3] – [8]); this seems to indicate that, though the Colossians have been under pressure to adopt the false doctrines, they have not yet succumbed. The apostle expresses his prayerful concern for them ([Col 1:9] – [14]). His preaching has cost him persecution, suffering, and imprisonment, but he regards these as reflective of the sufferings of Christ, a required discipline for the sake of the gospel (see note on [1:24]; cf. [1:29]; [2:1]). His instructions to the Christian family and to slaves and masters require a new spirit of reflection and action. Love, obedience, and service are to be rendered “in the Lord” ([Col 3:18] – [4:1]).
+
+Colossians follows the outline of a typical Pauline letter. It is distinguished by the poetic lines in [Col 1:15] – [20] concerning who Christ is and what Christ means in creation and redemption. This hymn may be compared with similar passages in [Phil 2:6] – [11]; [1 Tm 3:16]; and ([[john-01|Jn 1]]:1] – [18]. It was apparently familiar liturgical material to the author, the audience, and the false teachers. In [Col 1:21] – [2:7], however, Paul interprets the relation between the body of Christ, which he insists is the church ([Col 1:18]), and the world or cosmos to be one not simply of Christ’s preexistence and rule but one of missionary advance into the world by the spreading of the word ([Col 1:25], [28]). In this labor of the missionary body of Christ, Paul as a minister plays a prime part in bringing Christ and the gospel as hope to the Gentiles ([Col 1:23], [25], [27]). To “every creature under heaven” the word is to be proclaimed, so that everyone receives Christ, is established in faith, and walks in Christ ([Col 1:28]; [2:6], [7]).
+
+Paul wrote the Letter to the Colossians while in prison, but his several imprisonments leave the specific place and date of composition uncertain. On this point the same problem exists as with Ephesians and Philippians (see the Introductions to these letters). Traditionally the house arrest at Rome, in which Paul enjoyed a certain restricted freedom in preaching (see ([[acts-of-the-apostles-28|Acts 28]]:16] – [28]), or a second Roman imprisonment has been claimed as the setting. Others suggest a still earlier imprisonment at Caesarea (see ([[acts-of-the-apostles-23|Acts 23]]:12] – [27:1]) or in Ephesus (see [Acts 19]). Still others regard the letter as the work of some pupil or follower of Paul, writing in his name. In any case, the contents are often closely paralleled by thoughts in Ephesians.
+
+The principal divisions of the Letter to the Colossians are the following:
+
+1. Address ([1:1] – [14])
+2. The Preeminence of Christ ([1:15] – [2:3])
+3. Warnings against False Teachers ([2:4] – [23])
+4. The Ideal Christian Life in the World ([3:1] – [4:6])
+5. Conclusion ([4:7] – [18])
+
+# Colossians – Chapter Index
+
+- [[colossians-00|Colossians, the Letter to the Colossians]]

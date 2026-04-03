@@ -1,0 +1,60 @@
+---
+title: Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
+created: 2026-04-01
+modified: 2026-04-02
+type: book
+publish: true
+description: Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
+aliases:
+  - Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
+tags:
+  - author/francis-de-sales
+  - book
+  - book/introduction-devout-life
+  - saint/francis-de-sales
+author: Saint Francis de Sales
+---
+
+## Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
+
+DEAR reader, I request you to read this Preface for your own satisfaction as well as mine.
+
+The flower-girl Glycera was so skilled in varying the arrangement and combination of her flowers, that out of the same kinds she produced a great variety of bouquets; so that the painter Pausias, [1] who sought to rival the diversity of her art, was brought to a standstill, for he could not vary his painting so endlessly as Glycera varied her bouquets. Even so the Holy Spirit of God disposes and arranges the devout teaching which He imparts through the lips and pen of His servants with such endless variety, that, although the doctrine is ever one and the same, their treatment of it is different, according to the varying minds whence that treatment flows. Assuredly I neither desire, nor ought to write in this book anything but what has been already said by others before me. I offer you the same flowers, dear reader, but the bouquet will be somewhat different from theirs, because it is differently made up.
+
+Almost all those who have written concerning the devout life have had chiefly in view persons who have altogether quit the world; or at any rate they have taught a manner of devotion which would lead to such total retirement. But my object is to teach those who are living in towns, at court, in their own households, and whose calling obliges them to a social life, so far as externals are concerned. Such persons are apt to reject all attempt to lead a devout life under the plea of impossibility; imagining that like as no animal presumes to eat of the plant commonly called Palma Christi, so no one who is immersed in the tide of temporal affairs ought to presume to seek the palm of Christian piety.
+
+And so I have shown them that, like as the mother-of-pearl lives in the sea without ever absorbing one drop of salt water; and as near the Chelidonian Isles springs of sweet water start forth in the midst of the ocean; [2] and as the firemoth [3] hovers in the flames without burning her wings; even so a true stedfast soul may live in the world untainted by worldly breath, finding a well-spring of holy piety amid the bitter waves of society, and hovering amid the flames of earthly lusts without singeing the wings of its devout life. Of a truth this is not easy, and for that very reason I would have Christians bestow more care and energy than heretofore on the attempt, and thus it is that, while conscious of my own weakness, I endeavour by this book to afford some help to those who are undertaking this noble work with a generous heart.
+
+It is not, however, my own choice or wish which brings this Introduction before the public. A certain soul, abounding in uprightness and virtue, some time since conceived a great desire, through God's Grace, to aspire more earnestly after a devout life, and craved my private help with this view. I was bound to her by various ties, and had long observed her remarkable capacity for this attainment, so I took great pains to teach her, and having led her through the various exercises suitable to her circumstances and her aim, I let her keep written records thereof, to which she might have recourse when necessary. These she communicated to a learned and devout Religious, who, believing that they might be profitable to others, urged me to publish them, in which he succeeded the more readily that his friendship exercised great influence upon my will, and his judgment great authority over my judgment.
+
+So, in order to make the work more useful and acceptable, I have reviewed the papers and put them together, adding several matters carrying out my intentions; but all this has been done with scarce a moment's leisure. Consequently you will find very little precision in the work, but rather a collection of well-intentioned instructions, explained in clear intelligible words, at least that is what I have sought to give. But as to a polished style, I have not given that a thought, having so much else to do.
+
+I have addressed my instructions to Philothea, [4] as adapting what was originally written for an individual to the common good of souls. I have made use of a name suitable to all who seek after the devout life, Philothea meaning one who loves God. Setting then before me a soul, who through the devout life seeks after the love of God, I have arranged this Introduction in five parts, in the first of which I seek by suggestions and exercises to turn Philothea's mere desire into a hearty resolution; which she makes after her general confession, by a deliberate protest, followed by Holy Communion, in which, giving herself to her Saviour and receiving Him, she is happily received into His Holy Love. After this, I lead her on by showing her two great means of closer union with His Divine Majesty; the Sacraments, by which that Gracious Lord comes to us, and mental prayer, by which He draws us to Him. This is the Second Part.
+
+In the Third Part I set forth how she should practise certain virtues most suitable to her advancement, only dwelling on such special points as she might not find elsewhere, or be able to make out for herself. In the Fourth Part I bring to light the snares of some of her enemies, and show her how to pass through them safely and come forth unhurt. And finally, in the Fifth Part, I lead her apart to refresh herself and take breath, and renew her strength, so that she may go on more bravely afterwards, and make good progress in the devout life.
+
+This is a cavilling age, and I foresee that many will say that only Religious and persons living apart are fit to undertake the guidance of souls in such special devout ways; that it requires more time than a Bishop of so important a diocese as mine can spare, and that it must take too much thought from the important duties with which I am charged.
+
+But, dear reader, I reply with S. Denis that the task of leading souls towards perfection appertains above all others to Bishops, and that because their Order is supreme among men, as the Seraphim among Angels, and therefore their leisure cannot be better spent. The ancient Bishops and Fathers of the Primitive Church were, to say the least, as devoted to their duties as we are, yet they did not refuse to undertake the individual guidance of souls which sought their help, as we see by their epistles; thereby imitating the Apostles, who, while reaping the universal world-harvest, yet found time to gather up certain individual sheaves with special and personal affection. Who can fail to remember that Timothy, Titus, Philemon, Onesimus, Thekla, Appia, were the beloved spiritual children of S. Paul, as S. Mark and S. Petronilla were of S. Peter (for Baronius and Galonius have given learned and absolute proof that S. Petronilla was not his carnal but spiritual daughter). And is not one of S. John's Canonical Epistles addressed to the "elect lady" whom he loved in the faith?
+
+I grant that the guidance of individual souls is a labour, but it is a labour full of consolation, even as that of harvesters and grape-gatherers, who are never so well pleased as when most heavily laden. It is a labour which refreshes and invigorates the heart by the comfort which it brings to those who bear it; as is said to be the case with those who carry bundles of cinnamon in Arabia Felix. It is said that when the tigress finds one of her young left behind by the hunter in order to delay her while he carries off the rest of her cubs, she takes it up, however big, without seeming over-weighted, and speeds only the more swiftly to her lair, maternal love lightening the load.
+
+How much more readily will the heart of a spiritual father bear the burden of a soul he finds craving after perfection-- carrying it in his bosom as a mother her babe, without feeling weary of the precious burden?
+
+But unquestionably it must be a really paternal heart that can do this, and therefore it is that the Apostles and their apostolic followers are wont to call their disciples not merely their children, but, even more tenderly still, their "little children."
+
+One thing more, dear reader. It is too true that I who write about the devout life am not myself devout, but most certainly I am not without the wish to become so, and it is this wish which encourages me to teach you. A notable literary man has said that a good way to learn is to study, a better to listen, and the best to teach. And S. Augustine, writing to the devout Flora, [5] says, that giving is a claim to receive, and teaching a way to learn.
+
+Alexander caused the lovely Campaspe, [6] who was so dear to him, to be painted by the great Apelles, who, by dint of contemplating her as he drew, so graved her features in his heart and conceived so great a passion for her, that Alexander discovered it, and, pitying the artist, gave him her to wife, depriving himself for love of Apelles of the dearest thing he had in the world, in which, says Pliny, he displayed the greatness of his soul as much as in the mightiest victory. And so, friendly reader, it seems to me that as a Bishop, God wills me to frame in the hearts of His children not merely ordinary goodness, but yet more His own most precious devotion; and on my part I undertake willingly to do so, as much out of obedience to the call of duty as in the hope that, while fixing the image in others' hearts, my own may haply conceive a holy love; and that if His Divine Majesty sees me deeply in love, He may give her to me in an eternal marriage. The beautiful and chaste Rebecca, as she watered Isaac's camels, was destined to be his bride, and received his golden earrings and bracelets, and so I rely on the boundless Goodness of my God, that while I lead His beloved lambs to the wholesome fountain of devotion, He will take my soul to be His bride, giving me earrings of the golden words of love, and strengthening my arms to carry out its works, wherein lies the essence of all true devotion, the which I pray His Heavenly Majesty to grant to me and to all the children of His Church -- that Church to which I would ever submit all my writings, actions, words, will and thoughts.
+
+ANNECY, S. Magdalene's Day, 1608.
+
+[1] 1 Pausias of Sicyon (B.C. 368); see Plin. Hist. Nat. xxxv. 11-40. A portrait of Glycera, the young flower-girl whom he loved, with a garland of flowers, was one of his masterpieces. It was called the Stephane-plocos [Stephane - plokos], or garland wreather, and was purchased by L. Lucullus at Athens for two talents, or about 430 pounds.
+
+[2]; These islands are in the Mediterranean Sea, in the Gulf of Lycia.
+
+[3] Puraustes [4] The address to Philothea by name has been omitted, as being somewhat stiff and stilted, and the term child or daughter used instead, but the omission in no way alters the sense or application of any sentence.
+
+[5] This is probably the person mentioned as "our most religious daughter Flora" in S. Augustine's Treatise "On care to be had for the Dead", addressed to his fellow Bishop Paulinus. See Library of the Fathers, S. Augustine's Short Treatises, p. 517.
+
+[6] Plin. Hist. Nat. l. xxv. c. 10.

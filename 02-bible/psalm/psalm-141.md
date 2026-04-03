@@ -1,0 +1,229 @@
+---
+title: Psalm 141
+created: 2025-07-30
+modified: 2026-04-02
+type: bible
+publish: true
+description: Psalms, Psalm 141
+aliases:
+  - Psalm 141
+  - psalm-141
+tags:
+  - bible/psalms
+  - vault-admin/graph/bible-ccc
+testament: old
+url: https://bible.usccb.org/bible/psalms/141
+---
+
+# Psalm 141
+
+- [Introduction]
+- [10]
+- [11]
+- [12]
+- [13]
+- [14]
+- [15]
+- [16]
+- [17]
+- [18]
+- [19]
+- [20]
+- [21]
+- [22]
+- [23]
+- [24]
+- [25]
+- [26]
+- [27]
+- [28]
+- [29]
+- [30]
+- [31]
+- [32]
+- [33]
+- [34]
+- [35]
+- [36]
+- [37]
+- [38]
+- [39]
+- [40]
+- [41]
+- [42]
+- [43]
+- [44]
+- [45]
+- [46]
+- [47]
+- [48]
+- [49]
+- [50]
+- [51]
+- [52]
+- [53]
+- [54]
+- [55]
+- [56]
+- [57]
+- [58]
+- [59]
+- [60]
+- [61]
+- [62]
+- [63]
+- [64]
+- [65]
+- [66]
+- [67]
+- [68]
+- [69]
+- [70]
+- [71]
+- [72]
+- [73]
+- [74]
+- [75]
+- [76]
+- [77]
+- [78]
+- [79]
+- [80]
+- [81]
+- [82]
+- [83]
+- [84]
+- [85]
+- [86]
+- [87]
+- [88]
+- [89]
+- [90]
+- [91]
+- [92]
+- [93]
+- [94]
+- [95]
+- [96]
+- [97]
+- [98]
+- [99]
+- [100]
+- [101]
+- [102]
+- [103]
+- [104]
+- [105]
+- [106]
+- [107]
+- [108]
+- [109]
+- [110]
+- [111]
+- [112]
+- [113]
+- [114]
+- [115]
+- [116]
+- [117]
+- [118]
+- [119]
+- [120]
+- [121]
+- [122]
+- [123]
+- [124]
+- [125]
+- [126]
+- [127]
+- [128]
+- [129]
+- [130]
+- [131]
+- [132]
+- [133]
+- [134]
+- [135]
+- [136]
+- [137]
+- [138]
+- [139]
+- [140]
+- 141
+- [142]
+- [143]
+- [144]
+- [145]
+- [146]
+- [147]
+- [148]
+- [149]
+- [150]
+
+### Psalm 141
+
+### Prayer for Deliverance from the Wicked
+
+1 A psalm of David.
+
+L ORD, I call to you; hasten to me;
+
+listen to my plea when I call.
+
+2 Let my prayer be incense before you;
+
+my uplifted hands an evening offering.
+
+3 Set a guard, L ORD, before my mouth,
+
+keep watch over the door of my lips.
+
+4 Do not let my heart incline to evil,
+
+to perform deeds in wickedness.
+
+On the delicacies of evildoers
+
+let me not feast.
+
+5 Let a righteous person strike me; it is mercy if he reproves me.
+
+Do not withhold oil from my head
+
+while my prayer opposes their evil deeds.
+
+6 May their leaders be cast over the cliff,
+
+so that they hear that my speeches are pleasing.
+
+7 Like the plowing and breaking up of the earth,
+
+our bones are strewn at the mouth of Sheol.
+
+8 For my eyes are upon you, O L ORD, my Lord;
+
+in you I take refuge; do not take away my soul.
+
+9 Guard me from the trap they have set for me,
+
+from the snares of evildoers.
+
+10 Let the wicked fall into their own nets,
+
+while only I pass over them safely.
+
+\* (Psalm 141) A lament of an individual ([Ps 141:1] – [2]) who is keenly aware that only the righteous can worship God properly and who therefore prays to be protected from the doomed wicked ([Ps 141:3] – [10]).
+
+\* (141:2) Incense: lit., “smoke,” i.e., the fragrant fumes arising from the altar at the burning of sacrificial animals or of aromatic spices; also used in ([[revelation-05|Rv 5]]:8] as a symbol of prayer. My uplifted hands: the gesture of supplication, cf. ([[psalm-28|Ps 28]]:2]; [63:5]; [88:10]; [119:48]; [134:2]; [143:6].
+
+\* (141:5] – [7) The Hebrew text is obscure.
+
+a. (141:2) [Ps 134:2]; [Ex 30:8].
+
+b. (141:3) [[sirach-22|Sir 22]]:27.
+
+c. (141:5) [Prv 9:8]; [25:12].
+
+d. (141:8) ([[psalm-25|Ps 25]]:15]; [123:1] – [2].
+
+e. (141:9) [Ps 142:4].
