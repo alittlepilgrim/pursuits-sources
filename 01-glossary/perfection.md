@@ -22,23 +22,23 @@ PERFECTION. The path to perfection is prayer (19.2; 20.2–3). Perfection has it
 
 ## Divine Intimacy Meditations
 
-- God alone is infinitely perfect [[53-jesus-the-teacher-of-sanctity#Meditation 1|53,1]];
-- by stripping the — of the creature of all limits and defects, we can form a faint idea of the infinite — of God: [[227-the-divine-perfections#Meditation 2|227,2]];
-- the Mount of -—: [[7-the-mount-of-perfection#Meditation 1|7,1]], [[7-the-mount-of-perfection#Meditation 2|7,2]];
-- not to be satisfied with — already acquired: [[53-jesus-the-teacher-of-sanctity#Meditation 2|53,2]]; [[99-conversion#Meditation 2|99,2]];
-- precept to tend to — has no limits: [[53-jesus-the-teacher-of-sanctity#Meditation 2|53,2]];
-- Christian — consists in union with God by charity: [[100-sin#Meditation 1|100,1]];
-- few attain — because few welcome purification [[132-love-of-the-cross#Meditation 1|132,1]];
-- importance of nourishing generous desires in order to attain — promptly [[289-magnanimity#Meditation 1|289,1]], [[289-magnanimity#Meditation 2|289,2]]; [[290-generosity#Meditation 2|290,2]];
-- a perfect man does much more than a great number of imperfect men: [[330-the-formation-of-apostles#Meditation 2|330,2]];
-- the first thought should not be personal —, but the glory of God, His pleasure, and approval: [[256-the-life-of-love#Meditation 1|256,1]].
-- [[7-the-mount-of-perfection|7. The Mount of Perfection]]
-- [[53-jesus-the-teacher-of-sanctity|53. Jesus the Teacher of Sanctity]]
-- [[99-conversion|99. Conversion]]
-- [[100-sin|100. Sin]]
-- [[132-love-of-the-cross|132. Love of the Cross]]
-- [[227-the-divine-perfections|227. The Divine Perfections]]
-- [[256-the-life-of-love|256. The Life of Love]]
-- [[289-magnanimity|289. Magnanimity]]
-- [[290-generosity|290. Generosity]]
-- [[330-the-formation-of-apostles|330. The Formation of Apostles]]
+- God alone is infinitely perfect 53,1;
+- by stripping the — of the creature of all limits and defects, we can form a faint idea of the infinite — of God: 227,2;
+- the Mount of -—: 7,1, 7,2;
+- not to be satisfied with — already acquired: 53,2; 99,2;
+- precept to tend to — has no limits: 53,2;
+- Christian — consists in union with God by charity: 100,1;
+- few attain — because few welcome purification 132,1;
+- importance of nourishing generous desires in order to attain — promptly 289,1, 289,2; 290,2;
+- a perfect man does much more than a great number of imperfect men: 330,2;
+- the first thought should not be personal —, but the glory of God, His pleasure, and approval: 256,1.
+- 7. The Mount of Perfection
+- 53. Jesus the Teacher of Sanctity
+- 99. Conversion
+- 100. Sin
+- 132. Love of the Cross
+- 227. The Divine Perfections
+- 256. The Life of Love
+- 289. Magnanimity
+- 290. Generosity
+- 330. The Formation of Apostles

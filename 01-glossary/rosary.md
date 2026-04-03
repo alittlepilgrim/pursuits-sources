@@ -22,6 +22,6 @@ A prayer in honor of the Blessed Virgin Mary, which repeats the privileged Maria
 
 ## Divine Intimacy Meditations
 
-- Is the meditation of the life of Mary: [[381-rosary-bvm#Meditation 1|381,1]];
-- the — helps one to penetrate the mysteries of Christ: [[381-rosary-bvm#Meditation 2|381,2]].
-- [[381-rosary-bvm|381.]]
+- Is the meditation of the life of Mary: 381,1;
+- the — helps one to penetrate the mysteries of Christ: 381,2.
+- 381.

@@ -17,7 +17,7 @@ source: OCDS Formation Handbook II Year B
 
 # "Interior Castle Handbook Appendix A. Session 9. Excerpt from Gaudium Et Spes Pastoral Constitution on the Church in the Modern World"
 
-Promulgated by His Holiness, Pope Paul VI, December 7, 1965 (Courtesy: https://[www.vatican.va/archive)](http://www.vatican.va/archive\))
+Promulgated by His Holiness, Pope Paul VI, December 7, 1965 (Courtesy: https://)
 
 22\. The truth is that only in the mystery of the incarnate Word does the mystery of man take on light. For Adam, the first man, was a figure of Him Who was to come,(20) namely Christ the Lord. Christ, the final Adam, by the revelation of the mystery of the Father and His love, fully reveals man to man himself and makes his supreme calling clear. It is not surprising, then, that in Him all the aforementioned truths find their root and attain their crown.
 

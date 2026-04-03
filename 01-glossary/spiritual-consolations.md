@@ -20,17 +20,17 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Not an end in itself, but a maid to serve God with greater generosity and to give us more strength to carry the cross: [[105-the-transfiguration#Meditation 2|105,2]]; [[370-divine-intimacy#Meditation 2|370,2]];
-- it is necessary to learn how to love God with a pure and strong act of the will above every feeling and consolation: [[255-the-act-of-love#Meditation 1|255,1]], [[255-the-act-of-love#Meditation 2|255,2]];
-- the loving soul longs for divine intimacy, not to enjoy it, but to increase in the love of God: [[370-divine-intimacy#Meditation 2|370,2]].
+- Not an end in itself, but a maid to serve God with greater generosity and to give us more strength to carry the cross: 105,2; 370,2;
+- it is necessary to learn how to love God with a pure and strong act of the will above every feeling and consolation: 255,1, 255,2;
+- the loving soul longs for divine intimacy, not to enjoy it, but to increase in the love of God: 370,2.
 
 ---
 
 See:
 
-- [[105-the-transfiguration|105. The Transfiguration]]
-- [[255-the-act-of-love|255. The Act of Love]]
-- [[370-divine-intimacy|370. Divine Intimacy]]
+- 105. The Transfiguration
+- 255. The Act of Love
+- 370. Divine Intimacy
 
 And:
 

@@ -7,7 +7,6 @@ publish: false
 aliases:
   - General Principles
   - General Principles of Ongoing Formation
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 

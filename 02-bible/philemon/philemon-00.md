@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/philemon/0
 
 # Philemon, the Letter to Philemon
 
-[Introduction](philemon-00.md) [1](philemon-01.md)
+ 
 
 ## The Letter to Philemon
 

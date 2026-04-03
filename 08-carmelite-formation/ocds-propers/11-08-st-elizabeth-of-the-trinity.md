@@ -65,7 +65,7 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, forever and ever.
 
-![8 November- Saint Elizabeth of the Trinity Catez-2024-07-22-1](images/8%20November-%20Saint%20Elizabeth%20of%20the%20Trinity Catez-2024-07-22-1.jpeg)
+!
 
 Elizabeth Catez, the prize-winning pianist | Photo credit: Discalced Carmelites
 

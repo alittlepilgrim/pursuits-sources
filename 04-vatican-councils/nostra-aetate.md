@@ -91,7 +91,7 @@ The Church reproves, as foreign to the mind of Christ, any discrimination agains
 
 10\. Cf. *[[romans-11#^romans-11-28|Rom. 11:28]]* ^na-fn-10
 
-11\. Cf. *[[romans-11#^romans-11-28|Rom. 11:28-29]]*; cf. dogmatic Constitution, *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)* (Light of nations) AAS, 57 (1965) pag. 20 ^na-fn-11
+11\. Cf. *[[romans-11#^romans-11-28|Rom. 11:28-29]]*; cf. dogmatic Constitution, ** (Light of nations) AAS, 57 (1965) pag. 20 ^na-fn-11
 
 12\. Cf. *[[isaiah-66#^isaiah-66-23|Is. 66:23]]*; *[[psalm-65#^psalm-65-4|Ps. 65:4]]*; *[[romans-11#^romans-11-11|Rom. 11:11-32]]* ^na-fn-12
 

@@ -18,5 +18,5 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- The greatest — to follow one’s own whims and will: [[329-the-road-to-our-eternal-home#Meditation 1|329,1]].
-- [[329-the-road-to-our-eternal-home|329. The Road to Our Eternal home]]
+- The greatest — to follow one’s own whims and will: 329,1.
+- 329. The Road to Our Eternal home

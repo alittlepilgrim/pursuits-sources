@@ -22,13 +22,13 @@ Jesus Christ, redeemer of mankind. Christ paid the price of his own sacrificial 
 
 ## Divine Intimacy Meditations
 
-- Expectation of —: [[1-the-lord-cometh-from-afar#Meditation 1|1,1]], [[1-the-lord-cometh-from-afar#Meditation 2|1,2]]; [[22-behold-the-savior-comes#Meditation 1|22,1]], [[22-behold-the-savior-comes#Meditation 2|22,2]];
-- our collaboration with the work of —: [[23-the-call-to-the-apostolate#Meditation 1|23,1]], [[23-the-call-to-the-apostolate#Meditation 2|23,2]]; [[24-the-interior-apostolate#Meditation 1|24,1]], [[24-the-interior-apostolate#Meditation 2|24,2]];
-- from the twofold evil of sin and suffering God has drawn the great good of our —: [[127-the-value-of-suffering#Meditation 1|127,1]];
-- work of — is the most glorious manifestation of infinite goodness of God: [[226-the-glory-of-the-most-holy-trinity#Meditation 1|226,1]];
-- by — humanity has been grafted into Christ: [[238-the-fruits-of-life#Meditation 1|238,1]];
-- the work of — is always in action and we live under its influence: [[273-the-good-samaritan#Meditation 1|273,1]]; [[280-the-ten-lepers#Meditation 2|280,2]];
-- all the mysteries of — are mysteries of love: [[376-precious-blood#Meditation 1|376,1]].
+- Expectation of —: 1,1, 1,2; 22,1, 22,2;
+- our collaboration with the work of —: 23,1, 23,2; 24,1, 24,2;
+- from the twofold evil of sin and suffering God has drawn the great good of our —: 127,1;
+- work of — is the most glorious manifestation of infinite goodness of God: 226,1;
+- by — humanity has been grafted into Christ: 238,1;
+- the work of — is always in action and we live under its influence: 273,1; 280,2;
+- all the mysteries of — are mysteries of love: 376,1.
 - See: Jesus, [[incarnation|Incarnation]], [[passion|Passion]].
 - [[jesus-christ|Jesus Christ]]
 - [[incarnation|Incarnation]]
@@ -36,13 +36,13 @@ Jesus Christ, redeemer of mankind. Christ paid the price of his own sacrificial 
 
   ---
 
-- [[1-the-lord-cometh-from-afar|1. The Lord Cometh from Afar]]
-- [[22-behold-the-savior-comes|22. Behold the Savior Comes]]
-- [[23-the-call-to-the-apostolate|23. The Call to the apostolate]]
-- [[24-the-interior-apostolate|24. The Interior apostolate]]
-- [[127-the-value-of-suffering|127. The Value of Suffering]]
-- [[226-the-glory-of-the-most-holy-trinity|226. The Glory of the Most Holy Trinity]]
-- [[238-the-fruits-of-life|238. The Fruits of Life]]
-- [[273-the-good-samaritan|273. The Good Samaritan]]
-- [[280-the-ten-lepers|280. The Ten Lepers]]
-- [[376-precious-blood|376]]
+- 1. The Lord Cometh from Afar
+- 22. Behold the Savior Comes
+- 23. The Call to the apostolate
+- 24. The Interior apostolate
+- 127. The Value of Suffering
+- 226. The Glory of the Most Holy Trinity
+- 238. The Fruits of Life
+- 273. The Good Samaritan
+- 280. The Ten Lepers
+- 376

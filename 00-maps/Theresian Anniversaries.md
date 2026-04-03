@@ -8,7 +8,6 @@ aliases:
   - Theresian Anniversaries 2023-2026 by the General Curia of the Discalced Carmelite order
   - Theresian Anniversaries 2023-2026 by the General Curia of the Discalced Carmelite Order
   - Theresian Anniversaries by the General Curia of the Discalced Carmelite Order, 2023-2026
-tags: []
 attachment: true
 author: General Curia
 ---

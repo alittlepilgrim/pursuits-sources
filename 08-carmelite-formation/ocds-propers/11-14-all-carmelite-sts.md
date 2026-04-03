@@ -603,7 +603,7 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, forever and ever.
 
-![14 November- ALL SAINTS OF OUR ORDER-2024-07-22-1](images/14%20November-%20ALL%20SAINTS%20OF%20OUR ORDER-2024-07-22-1.jpeg)
+!
 
 Iconography from the Carmel of Ravenna, Italy | Photo credit: the Carmelites
 

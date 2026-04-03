@@ -4,8 +4,6 @@ created: 2026-04-02
 modified: 2026-04-02
 type: book
 publish: false
-aliases: []
-tags: []
 author: J.P. De Caussade
 ---
 

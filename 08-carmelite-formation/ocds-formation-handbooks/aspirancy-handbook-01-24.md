@@ -10,7 +10,6 @@ aliases:
   - "Aspirancy Handbook A Journey In Carmel: Secular Order of Discalced Carmelites Approved for Use In The United States"
   - 20251008-235857
   - template
-tags: []
 author: Secular Order of Discalced Carmelites
 status: draft
 ---

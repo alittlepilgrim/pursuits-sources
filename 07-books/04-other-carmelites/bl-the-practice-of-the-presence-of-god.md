@@ -26,7 +26,7 @@ url: https://ccel.org/ccel/lawrence/practice.html
 
 # The Practice of the Presence of God by Brother Lawrence
 
-Source: [The Practice of the Presence of God](https://ccel.org/ccel/lawrence/practice.html)
+Source: 
 
 ## Title Page
 

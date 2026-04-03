@@ -20,13 +20,13 @@ _Interior_ penance: a conversion of heart toward God and away from sin, which im
 
 ## Divine Intimacy Meditations
 
-- Sacrament of: [[73-penance#Meditation 1|73,1]], [[73-penance#Meditation 2|73,2]];
-- without obedience is the — of animals: [[92-corporal-mortification#Meditation 2|92,2]];
-- is a means of assimilation into Christ Crucified: [[93-with-jesus-crucified#Meditation 1|93,1]], [[93-with-jesus-crucified#Meditation 2|93,2]];
-- relation between corporal and spiritual —: [[94-ash-wednesday#Meditation 2|94,2]];
-- the most important — is the patient suffering of the trials of life: [[213-reparation#Meditation 2|213,2]].
-- [[73-penance|73. Penance]]
-- [[92-corporal-mortification|92. Corporal Mortification]]
-- [[93-with-jesus-crucified|93. With Jesus Crucified]]
-- [[94-ash-wednesday|94. Ash Wednesday]]
-- [[213-reparation|213. Reparation]]
+- Sacrament of: 73,1, 73,2;
+- without obedience is the — of animals: 92,2;
+- is a means of assimilation into Christ Crucified: 93,1, 93,2;
+- relation between corporal and spiritual —: 94,2;
+- the most important — is the patient suffering of the trials of life: 213,2.
+- 73. Penance
+- 92. Corporal Mortification
+- 93. With Jesus Crucified
+- 94. Ash Wednesday
+- 213. Reparation

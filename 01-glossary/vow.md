@@ -22,10 +22,10 @@ A deliberate and free promise made to God, concerning a possible and better good
 
 ## Divine Intimacy Meditations
 
-- To correspond with one’s vocation, it does not suffice to make —: [[76-correspondence-to-vocation#Meditation 2|76,2]];
-- vow of poverty: [[86-voluntary-poverty#Meditation 1|86,1]], [[86-voluntary-poverty#Meditation 2|86,2]];
-- vow of chastity: [[88-chastity#Meditation 2|88,2]];
-- vow of obedience: [[121-come-follow-me#Meditation 2|121,2]]; [[122-free-sacrifice-of-liberty#Meditation 1|122,1]], [[122-free-sacrifice-of-liberty#Meditation 2|122,2]].
+- To correspond with one’s vocation, it does not suffice to make —: 76,2;
+- vow of poverty: 86,1, 86,2;
+- vow of chastity: 88,2;
+- vow of obedience: 121,2; 122,1, 122,2.
 - See CHASTITY; OBEDIENCE; POVERTY.
 
 [[chastity|Chastity]]
@@ -36,8 +36,8 @@ A deliberate and free promise made to God, concerning a possible and better good
 
 ---
 
-- [[76-correspondence-to-vocation|76. Correspondence to Vocation]]
-- [[86-voluntary-poverty|86. Voluntary Poverty]]
-- [[88-chastity|88. Chastity]]
-- [[121-come-follow-me|121. Come, Follow Me]]
-- [[122-free-sacrifice-of-liberty|122. Free Sacrifice of Liberty]]
+- 76. Correspondence to Vocation
+- 86. Voluntary Poverty
+- 88. Chastity
+- 121. Come, Follow Me
+- 122. Free Sacrifice of Liberty

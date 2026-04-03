@@ -70,4 +70,4 @@ Source publishing
 
 Original Latin text in H. DENZINGER, *Enchiridion Simbolorum, definitionum et declarationum de rebus fidei et morum,* ed. by P.  Hünermann (Freiburg i.B.: Herder, 1991), DH 3001-3020. English translation provided by *Welcome to Catholic Church*, Harmony Media inc.
 
-[From the Catholic Church Magisterium](https://inters.org/Documents-from-the-Catholic-Church)
+

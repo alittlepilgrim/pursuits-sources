@@ -20,4 +20,4 @@ The entry of Jesus' humanity into divine glory in God's heavenly domain, forty d
 
 See also:
 
-[[179-the-ascension-of-our-lord|179. The Ascension of Our Lord]]
+179. The Ascension of Our Lord

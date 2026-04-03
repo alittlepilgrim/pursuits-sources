@@ -21,7 +21,7 @@ url: https://bible.usccb.org/bible/sirach/0
 
 # Sirach, the Wisdom of Ben Sira
 
-[Introduction](sirach-00.md) [1](sirach-01.md) [[sirach-02|2]] [[sirach-03|3]] [[sirach-04|4]] [[sirach-05|5]] [[sirach-06|6]] [[sirach-07|7]] [[sirach-08|8]] [[sirach-09|9]] [10](sirach-10.md) [11](sirach-11.md) [12](sirach-12.md) [13](sirach-13.md) [14](sirach-14.md) [15](sirach-15.md) [16](sirach-16.md) [17](sirach-17.md) [18](sirach-18.md) [19](sirach-19.md) [20](sirach-20.md) [21](sirach-21.md) [22](sirach-22.md) [23](sirach-23.md) [24](sirach-24.md) [25](sirach-25.md) [26](sirach-26.md) [27](sirach-27.md) [28](sirach-28.md) [29](sirach-29.md) [30](sirach-30.md) [31](sirach-31.md) [32](sirach-32.md) [33](sirach-33.md) [34](sirach-34.md) [35](sirach-35.md) [36](sirach-36.md) [37](sirach-37.md) [38](sirach-38.md) [39](sirach-39.md) [40](sirach-40.md) [41](sirach-41.md) [42](sirach-42.md) [43](sirach-43.md) [44](sirach-44.md) [45](sirach-45.md) [46](sirach-46.md) [47](sirach-47.md) [48](sirach-48.md) [49](sirach-49.md) [50](sirach-50.md) [51](sirach-51.md)
+  [[sirach-02|2]] [[sirach-03|3]] [[sirach-04|4]] [[sirach-05|5]] [[sirach-06|6]] [[sirach-07|7]] [[sirach-08|8]] [[sirach-09|9]]                                          
 
 ## The Wisdom of Ben Sira
 

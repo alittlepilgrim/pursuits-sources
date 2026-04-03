@@ -8,7 +8,6 @@ publish: false
 description: Indexes - Treatise on the Love of God by St. Francis de Sales
 aliases:
   - Indexes - Treatise on the Love of God by St. Francis de Sales
-tags: []
 attachment: false
 author: Saint Francis de Sales
 ---

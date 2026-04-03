@@ -20,9 +20,9 @@ The Liturgy of the Hours, the public prayer of the Church which sanctifies the w
 
 ## Divine Intimacy Meditations
 
-- Prayer of the Mystical Body of Christ: [[167-the-divine-office#Meditation 1|167,1]], [[167-the-divine-office#Meditation 2|167,2]];
-- universal prayer offered in union with Christ and in the name of the whole Church: [[167-the-divine-office#Meditation 1|167,1]], [[167-the-divine-office#Meditation 2|167,2]].
-- [[167-the-divine-office|167. The Divine Office]]
+- Prayer of the Mystical Body of Christ: 167,1, 167,2;
+- universal prayer offered in union with Christ and in the name of the whole Church: 167,1, 167,2.
+- 167. The Divine Office
 
 ---
 

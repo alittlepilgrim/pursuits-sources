@@ -20,8 +20,8 @@ Gifts infused by God into the souls of the faithful to make them capable of acti
 
 ## Divine Intimacy Meditations
 
-- Are the means best adapted to unite us to God: [[248-the-test-of-hope#Meditation 1|248,1]];
-- if we practice them by our will, it is not necessary to have sentiment [[248-the-test-of-hope#Meditation 2|248,2]];
-- they purify the three powers of the soul: [[349-toward-complete-purification#Meditation 2|349,2]].
-- [[248-the-test-of-hope|248. The Test of Hope]]
-- [[340-apostolic-maturity|349. Apostolic Maturity]]
+- Are the means best adapted to unite us to God: 248,1;
+- if we practice them by our will, it is not necessary to have sentiment 248,2;
+- they purify the three powers of the soul: 349,2.
+- 248. The Test of Hope
+- 349. Apostolic Maturity

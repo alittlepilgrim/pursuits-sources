@@ -7,7 +7,6 @@ publish: true
 aliases:
   - 20251101-204102
   - Eyes of the Soul
-tags: []
 ---
 
 # Eyes of the Soul

@@ -28,7 +28,7 @@ In one single memorial, we remember our sisters who were martyred in the Spanish
 
 From: https://www.carmelitaniscalzi.com/en/agenda/
 
-Propers:[24 July: Blessed Maria Pilar of Saint Francis Borgia Martínez García, Blessed Maria Sagrario of Saint Aloysius Gonzaga Moragas Cantarero and Companions](https://carmelitequotes.blog/2025/07/22/guadalit25/)
+Propers:
 
 **Prayer**
 

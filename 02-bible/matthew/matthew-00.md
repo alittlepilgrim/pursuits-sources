@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/matthew/0
 
 # Matthew, the Gospel According to Matthew
 
-[Introduction](matthew-00.md) [1](matthew-01.md) [2](matthew-02.md) [3](matthew-03.md) [4](matthew-04.md) [5](matthew-05.md) [6](matthew-06.md) [7](matthew-07.md) [8](matthew-08.md) [9](matthew-09.md) [10](matthew-10.md) [11](matthew-11.md) [12](matthew-12.md) [13](matthew-13.md) [14](matthew-14.md) [15](matthew-15.md) [16](matthew-16.md) [17](matthew-17.md) [18](matthew-18.md) [19](matthew-19.md) [20](matthew-20.md) [21](matthew-21.md) [22](matthew-22.md) [23](matthew-23.md) [24](matthew-24.md) [25](matthew-25.md) [26](matthew-26.md) [27](matthew-27.md) [28](matthew-28.md)
+                            
 
 ## The Gospel According to Matthew
 

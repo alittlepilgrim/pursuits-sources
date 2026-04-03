@@ -7,7 +7,6 @@ publish: true
 aliases:
   - 20251101-203853
   - Water (Living)
-tags: []
 ---
 
 # Water (Living)

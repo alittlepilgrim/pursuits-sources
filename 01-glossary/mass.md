@@ -20,12 +20,12 @@ The Eucharist or principal sacramental celebration of the Church, established by
 
 ## Divine Intimacy Meditations
 
-- Is the center of liturgical cult: [[165-holy-mass#Meditation 1|165,1]];
-- how to assist at —: [[165-holy-mass#Meditation 2|165,2]];
-- with the priest to offer the Divine Victim: [[166-participating-in-holy-mass#Meditation 1|166,1]];
-- to associate ourselves with the immolation of Jesus: [[166-participating-in-holy-mass#Meditation 2|166,2]].
+- Is the center of liturgical cult: 165,1;
+- how to assist at —: 165,2;
+- with the priest to offer the Divine Victim: 166,1;
+- to associate ourselves with the immolation of Jesus: 166,2.
 
   ---
 
-- [[165-holy-mass|165. Holy Mass]]
-- [[166-participating-in-holy-mass|166. Participating in Holy Mass]]
+- 165. Holy Mass
+- 166. Participating in Holy Mass

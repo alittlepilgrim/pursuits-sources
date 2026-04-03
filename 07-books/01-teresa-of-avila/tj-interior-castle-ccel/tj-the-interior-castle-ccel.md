@@ -25,7 +25,7 @@ url: https://ccel.org/ccel/t/teresa/castle2/cache/castle2.txt
 
 # The Interior Castle by St. Teresa of Ávila (CCEL Edition)
 
-[Online Source](https://ccel.org/ccel/t/teresa/castle2/cache/castle2.txt)
+
 
 ## Table of Contents
 
@@ -53,17 +53,13 @@ url: https://ccel.org/ccel/t/teresa/castle2/cache/castle2.txt
 
 ## Content by Chapter
 
-- [First Mansions](#the-first-mansions)
+- 
   - [Chapter I. This chapter treats of the beauty and dignity of our souls and makes a]
   - [Chapter II. Describes the hideous appearance of a soul in mortal sin as revealed by]
 - [Second Mansions]
 - [Third Mansions]
   - [Chapter II. Continues the same subject and speaks of aridities in prayer and their]
-- [Fourth Mansions](
-  - [Chapter I. How sweetness and tenderness in prayer differ from consolations]
-  - [Chapter II. Continues the same subject, explaining by a comparison in what divine](
-  - [Chapter III. Of the prayer of recollection which God generally gives the soul before](
-- [Fifth Mansions](#the-sixth-mansions)
+- 
   - [Chapter II. Treats of several ways whereby our lord quickens the soul; there]
   - [Chapter IV. Treats of how God suspends the soul in prayer by a trance, ecstasy or](
   - [Chapter V. Treats of the same subject as the last chapter and describes the flight]

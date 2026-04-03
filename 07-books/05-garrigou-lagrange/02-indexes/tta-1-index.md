@@ -6,7 +6,6 @@ type: book
 publish: true
 aliases:
   - The Three Ages of the Interior Life Volume I Index
-tags: []
 author: Reginald Garrigou-Lagrange
 book_author: Rev. Reginald Garrigou-Lagrange, O.P.
 book_volume: "1"

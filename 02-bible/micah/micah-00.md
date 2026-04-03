@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/micah/0
 
 # Micah, the Book of Micah
 
-[Introduction](micah-00.md) [1](micah-01.md) [2](micah-02.md) [3](micah-03.md) [4](micah-04.md) [5](micah-05.md) [6](micah-06.md) [7](micah-07.md)
+       
 
 ## The Book of Micah
 

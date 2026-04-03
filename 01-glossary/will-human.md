@@ -29,24 +29,24 @@ WILL. The power of loving. The Holy Spirit enkindles the will and binds it with 
 
 ## Divine Intimacy Meditations
 
-- Should in all things conform itself to the Will of God [[5-sanctity-and-gods-will#Meditation 1|5,1]], [[5-sanctity-and-gods-will#Meditation 2|5,2]];
-- our stubborn, petty — is an obstacle to the action of the Holy Spirit: [[192-our-cooperation#Meditation 2|192,2]];
-- to hold on to our inconstant — rather than to the immutable Will of God: [[230-the-immutability-and-eternity-of-god#Meditation 1|230,1]];
-- quality of good —: [[33-peace-to-men#Meditation 2|33,2]];
-- importance of renunciation of one’s own — [[120-the-value-of-obedience#Meditation 2|120,2]];
-- sacrifice of one’s own — the greatest and most meritorious act: [[121-come-follow-me#Meditation 2|121,2]];
-- he who has consecrated to God his own will by promise or vow should be on his guard not to take back what he has offered: [[122-free-sacrifice-of-liberty#Meditation 2|122,2]];
-- he who is attached to his own — is not poor in spirit: [[300-blessed-are-the-poor-in-spirit#Meditation 2|300,2]];
-- how our — differs from the Will of God: [[346-the-way-of-union#Meditation 2|346,2]].
+- Should in all things conform itself to the Will of God 5,1, 5,2;
+- our stubborn, petty — is an obstacle to the action of the Holy Spirit: 192,2;
+- to hold on to our inconstant — rather than to the immutable Will of God: 230,1;
+- quality of good —: 33,2;
+- importance of renunciation of one’s own — 120,2;
+- sacrifice of one’s own — the greatest and most meritorious act: 121,2;
+- he who has consecrated to God his own will by promise or vow should be on his guard not to take back what he has offered: 122,2;
+- he who is attached to his own — is not poor in spirit: 300,2;
+- how our — differs from the Will of God: 346,2.
 
 ---
 
-- [[5-sanctity-and-gods-will|5. Sanctity and God’s Will]]
-- [[33-peace-to-men|33. Peace to Men]]
-- [[120-the-value-of-obedience|120. The Value of Obedience]]
-- [[121-come-follow-me|121. Come, Follow Me]]
-- [[122-free-sacrifice-of-liberty|122. Free Sacrifice of Liberty]]
-- [[192-our-cooperation|192. Our Cooperation]]
-- [[230-the-immutability-and-eternity-of-god|230. The Immutability and Eternity of God]]
-- [[300-blessed-are-the-poor-in-spirit|300. Blessed Are the Poor in Spirit]]
-- [[346-the-way-of-union|346. The way of Union]]
+- 5. Sanctity and God’s Will
+- 33. Peace to Men
+- 120. The Value of Obedience
+- 121. Come, Follow Me
+- 122. Free Sacrifice of Liberty
+- 192. Our Cooperation
+- 230. The Immutability and Eternity of God
+- 300. Blessed Are the Poor in Spirit
+- 346. The way of Union

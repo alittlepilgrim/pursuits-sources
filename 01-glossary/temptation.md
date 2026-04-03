@@ -21,9 +21,9 @@ An attraction, either from outside oneself or from within, to act contrary to ri
 
 ## Divine Intimacy Meditations
 
-- Conduct to maintain in —: [[98-the-great-combat#Meditation 1|98,1]], [[98-the-great-combat#Meditation 2|98,2]];
-- every — is accompanied by grace sufficient to overcome it [[98-the-great-combat#Meditation 2|98,2]]; [[252-correspondence-with-grace#Meditation 1|252,1]];
-- discouragement and want of confidence is most dangerous —: [[295-perseverance-and-confidence#Meditation 1|295,1]].
-- [[98-the-great-combat|98. The Great Combat]]
-- [[252-correspondence-with-grace|252. Correspondence With Grace]]
-- [[295-perseverance-and-confidence|295. Perseverance and Confidence]]
+- Conduct to maintain in —: 98,1, 98,2;
+- every — is accompanied by grace sufficient to overcome it 98,2; 252,1;
+- discouragement and want of confidence is most dangerous —: 295,1.
+- 98. The Great Combat
+- 252. Correspondence With Grace
+- 295. Perseverance and Confidence

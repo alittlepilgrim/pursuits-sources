@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/nehemiah/0
 
 # Nehemiah, the Book of Nehemiah
 
-[Introduction](nehemiah-00.md) [1](nehemiah-01.md) [2](nehemiah-02.md) [3](nehemiah-03.md) [4](nehemiah-04.md) [5](nehemiah-05.md) [6](nehemiah-06.md) [7](nehemiah-07.md) [8](nehemiah-08.md) [9](nehemiah-09.md) [10](nehemiah-10.md) [11](nehemiah-11.md) [12](nehemiah-12.md) [13](nehemiah-13.md)
+             
 
 ## The Book of Nehemiah
 

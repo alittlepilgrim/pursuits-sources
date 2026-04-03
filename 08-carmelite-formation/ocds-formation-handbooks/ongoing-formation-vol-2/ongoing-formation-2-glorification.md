@@ -7,7 +7,6 @@ publish: true
 aliases:
   - Glorification — Understanding The Concepts of Transformation and Union
   - glorification-understanding-the-concepts-of-transformation-and-union
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 

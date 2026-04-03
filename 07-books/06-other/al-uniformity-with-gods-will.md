@@ -31,7 +31,7 @@ url: https://www.ccel.org/ccel/a/alphonsus/uniformity/cache/uniformity.txt
 
 # Uniformity with God's Will by St. Alphonsus de Liguori
 
-Source: [Uniformity with God's Will](https://www.ccel.org/ccel/a/alphonsus/uniformity/cache/uniformity.txt)
+Source: 
 
 ## Publication Info
 

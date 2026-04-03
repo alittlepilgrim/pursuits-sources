@@ -15,17 +15,17 @@ author: Secular Order of Discalced Carmelites
 
 # Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)
 
-- [Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)](#Constitutions%20Of%20The%20Secular%20Order%20Of%20The%20Teresian%20Carmel%20(2003%20and%202014))
-- [Preface ^ocds-c-preface](#Preface%20%5Eocds-c-preface)
-	- [Our Identity, Values and Commitment](#Our%20Identity,%20Values%20and%20Commitment)
-	- [Following Jesus In The Teresian Secular Carmel](#Following%20Jesus%20In%20The%20Teresian%20Secular%20Carmel)
-	- [Witnesses To The Experience of God](#Witnesses%20To%20The%20Experience%20Of%20God)
-	- [Serving God's Plan](#Serving%20God's%20Plan)
-	- [With Mary, The Mother of Jesus](#With%20Mary,%20The%20Mother%20Of%20Jesus)
-	- [Formation In The School of Carmel](#Formation%20In%20The%20School%20Of%20Carmel)
-	- [Organization and Government](#Organization%20and%20Government)
-- [Epilogue ^ocds-c-epilogue](#Epilogue%20%5Eocds-c-epilogue)
-- [Footnotes](#Footnotes)
+- )
+- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+- 
+- 
 
 # Preface ^ocds-c-preface
 

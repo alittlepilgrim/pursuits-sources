@@ -22,12 +22,12 @@ tags:
 
 ## Divine Intimacy Meditations
 
-- Priesthood — Function and dignity: [[68-the-priesthood#Meditation 1|68,1]], [[68-the-priesthood#Meditation 2|68,2]];
-- perpetuates among us the work of Jesus: [[68-the-priesthood#Meditation 2|68,2]];
-- is organ of communication and increase in the life of the Mystical Body of Jesus: [[341-spiritual-paternity-and-maternity#Meditation 1|341,1]];
-- duties toward —: respect, gratitude, and prayer: [[68-the-priesthood#Meditation 1|68,1]], [[68-the-priesthood#Meditation 2|68,2]];
-- call to — and correspondence: [[75-vocation#Meditation 1|75,1]]; [[76-correspondence-to-vocation#Meditation 1|76,1]], [[76-correspondence-to-vocation#Meditation 2|76,2]].
-- [[68-the-priesthood|68. The Priesthood]]
-- [[75-vocation|75. Vocation]]
-- [[76-correspondence-to-vocation|76. Correspondence to Vocation]]
-- [[341-spiritual-paternity-and-maternity|341. Spiritual Paternity and Maternity]]
+- Priesthood — Function and dignity: 68,1, 68,2;
+- perpetuates among us the work of Jesus: 68,2;
+- is organ of communication and increase in the life of the Mystical Body of Jesus: 341,1;
+- duties toward —: respect, gratitude, and prayer: 68,1, 68,2;
+- call to — and correspondence: 75,1; 76,1, 76,2.
+- 68. The Priesthood
+- 75. Vocation
+- 76. Correspondence to Vocation
+- 341. Spiritual Paternity and Maternity

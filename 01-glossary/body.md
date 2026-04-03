@@ -7,7 +7,6 @@ publish: true
 aliases:
   - 20251101-200637
   - Body
-tags: []
 ---
 
 # Body

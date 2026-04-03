@@ -377,13 +377,13 @@ They are afire with that same love with which Christ burned toward men. But awar
 
 PREFACE
 
-1\. Dogmatic Constitution "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 48. ^ag-fn-pref-1
+1\. Dogmatic Constitution "**," 48. ^ag-fn-pref-1
 
 2\. St. Augustine, "*Exposition on Psalm 44*," 23 (PL 36, 508; CChr 38, 510). ^ag-fn-pref-2
 
 CHAPTER 1
 
-1\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 1. ^ag-fn-ch1-1
+1\. Cf. Dogmatic constitution, "**," 1. ^ag-fn-ch1-1
 
 2\. Cf. St. Irenaeus, "*Against Heretics*," III, 18, 1: "The word existing in the presence of God, through whom all things were made, and who always is present to the human race..." (PG 7 932)- id. IV, 6, 7: "From the beginning even the Son, assisting at His own creation, reveals the Father to all to whom He wills, and when He wills, and insofar as the Father wills it." (ib. 990); cf. IV, 20, 6 and 7 (ib. 1037); Demonstration No. 34 (Eastern Fathers, XII, 773, "Sources Chretiennes," 62, Paris, 1958, p. 87)Clement of Alexandria, "Protrept." 112, 1 (GCS Clement I, 79), "Strom.' VI, 6, 44, 1 (GCS Clement II, 453); 13, 106, 3 and 4 (ib. 485). For the doctrine itself, cf. Pius XII, radio messages, Dec. 31, 1952; Dogmatic constitution, "Lumen Gentium," 16. ^ag-fn-ch1-2
 
@@ -403,9 +403,9 @@ Concerning Pentecost as the consecration of the Apostles to their mission, cf. J
 
 8\. Cf. John c. 14-17; Paul VI, allocution during the council, Sept. 14, 1964 (AAS 1964, 807). ^ag-fn-ch1-8
 
-9\. Cf. Dogmatic constitution "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 4. ^ag-fn-ch1-9
+9\. Cf. Dogmatic constitution "**," 4. ^ag-fn-ch1-9
 
-10\. St. Augustine, Sermo 267, 4 (PL 38, 1231): "The Holy Spirit does in the whole Church what the soul does in all the members of one body." Cf. Const. Dogm. *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*, 7 (together with note 8). ^ag-fn-ch1-10
+10\. St. Augustine, Sermo 267, 4 (PL 38, 1231): "The Holy Spirit does in the whole Church what the soul does in all the members of one body." Cf. Const. Dogm. **, 7 (together with note 8). ^ag-fn-ch1-10
 
 11\. Cf. [[acts-of-the-apostles-10#^acts-of-the-apostles-10-44|Acts 10:44-47]]; 11:15; 15:8. ^ag-fn-ch1-11
 
@@ -419,9 +419,9 @@ Both the supreme pontiffs and the Fathers and scholastics have spoken of the exp
 
 15\. In this notion of missionary activity, as is evident, according to the circumstances, even those parts of Latin America are included in which there is neither a hierarchy proper to the region, nor maturity of Christian life, nor sufficient preaching of the Gospel. Whether or not such territory de facto is recognized as missionary by the Holy See does not depend on this council. Therefore, regarding the connection between the notion of missionary activity and a certain territory, it is wise to say that this activity "in the majority of cases" is exercised in certain territories recognized by the Holy See. ^ag-fn-ch1-15
 
-16\. Decree "*[Unitates Redintegratio](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)*" 1. ^ag-fn-ch1-16
+16\. Decree "**" 1. ^ag-fn-ch1-16
 
-17\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*" 14. ^ag-fn-ch1-17
+17\. Cf. Dogmatic constitution, "**" 14. ^ag-fn-ch1-17
 
 18\. Cf. [[john-07#^john-07-18|John 7:18;]] 8:30 and 44; 8:50; 17:1. ^ag-fn-ch1-18
 
@@ -435,7 +435,7 @@ Both the supreme pontiffs and the Fathers and scholastics have spoken of the exp
 
 23\. Cf. [[matthew-24#^matthew-24-31|Matt. 24:31,]]Didache, 10, 5 (Funk I, p. 32). ^ag-fn-ch1-23
 
-24\. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 17. St. Augustine 7, "City of God," 1917 (PL 41, 646). Instr. S.C.P.F. (Collectanea I, n. 35, p. 42). ^ag-fn-ch1-24
+24\. Dogmatic constitution, "**," 17. St. Augustine 7, "City of God," 1917 (PL 41, 646). Instr. S.C.P.F. (Collectanea I, n. 35, p. 42). ^ag-fn-ch1-24
 
 25\. According to Origen, the Gospel must be preached before the end of this world: Homily on Luke XXI (GCS, Origen IX, 136, 21 ff.); "Comm. Set. On Matthew" 39 (XI 75, 25 ff; 76, 4 ff.); Homily on Jeremiah III, 2 (VIII 308, 29 ff.), St. Thomas "Summa Theol." Ia, IIae q. 106, a.4, ad 4. ^ag-fn-ch1-25
 
@@ -445,107 +445,107 @@ CHAPTER II
 
 1\. Cf. Allocution of Paul VI of Nov. 21, 1964 in council (AAS 1964, 1013). ^ag-fn-ch2-1
 
-2\. Cf. Declaration on "Religious Liberty" 2, 4, 10; constitution, "*[The Church in the Modern World.](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*" ^ag-fn-ch2-2
+2\. Cf. Declaration on "Religious Liberty" 2, 4, 10; constitution, "**" ^ag-fn-ch2-2
 
-3\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 17. ^ag-fn-ch2-3
+3\. Cf. Dogmatic constitution, "**," 17. ^ag-fn-ch2-3
 
-4\. Cf. Constitution, "*[On Sacred Liturgy](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*," 64-65. ^ag-fn-ch2-4
+4\. Cf. Constitution, "**," 64-65. ^ag-fn-ch2-4
 
 5\. Concerning this liberation from demons and the powers of darkness, in the Gospel, cf. [[matthew-12#^matthew-12-28|Matt. 12:28;]] [[john-08#^john-08-44|John 8:44;]] 12:31 (Cf. [[1-john-03#^1-john-03-8|I John 3:8;]] [[ephesians-02#^ephesians-02-1|Eph. 2:1-2)]]. In Liturgy of Baptism cf. Roman Ritual. ^ag-fn-ch2-5
 
-6\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 14. ^ag-fn-ch2-6
+6\. Cf. Dogmatic constitution, "**," 14. ^ag-fn-ch2-6
 
 7\. Cf. St. Augustine, "*Tract on John*" 11, 4 (PL 35, 1476). ^ag-fn-ch2-7
 
-8\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 9. ^ag-fn-ch2-8
+8\. Cf. Dogmatic constitution, "**," 9. ^ag-fn-ch2-8
 
-9\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 10, 11, 34. ^ag-fn-ch2-9
+9\. Cf. Dogmatic constitution, "**," 10, 11, 34. ^ag-fn-ch2-9
 
-10 Cf. Dogmatic constitution, "*[On Divine Revelation](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 21. ^ag-fn-ch2-10
+10 Cf. Dogmatic constitution, "**," 21. ^ag-fn-ch2-10
 
-11 Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 12, 35. ^ag-fn-ch2-11
+11 Cf. Dogmatic constitution, "**," 12, 35. ^ag-fn-ch2-11
 
 12\. Cf. Ib., 23, 3ff. ^ag-fn-ch2-12
 
 13\. Cf. Ib., 11, 35, 41. ^ag-fn-ch2-13
 
-14 Cf. decree, "*[On Oriental Churches](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html)*" 30. ^ag-fn-ch2-14
+14 Cf. decree, "**" 30. ^ag-fn-ch2-14
 
-15 Epistle to Diognetus, 5 (PG 2, 1173); Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 38. ^ag-fn-ch2-15
+15 Epistle to Diognetus, 5 (PG 2, 1173); Cf. Dogmatic constitution, "**," 38. ^ag-fn-ch2-15
 
-16\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 32; Decree "*[On Lay apostolate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)*." ^ag-fn-ch2-16
+16\. Cf. Dogmatic constitution, "**," 32; Decree "**." ^ag-fn-ch2-16
 
 17\. Cf. Decree "On Priestly Training," 4, 8, 9. ^ag-fn-ch2-17
 
-18\. Cf. Constitution, "*[On Sacred Liturgy](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*," 17. ^ag-fn-ch2-18
+18\. Cf. Constitution, "**," 17. ^ag-fn-ch2-18
 
-19\. Cf. Decree, "*[On Priestly Training](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*," 1. ^ag-fn-ch2-19
+19\. Cf. Decree, "**," 1. ^ag-fn-ch2-19
 
-20\. Cf. John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 843-844). ^ag-fn-ch2-20
+20\. Cf. John XXIII, "**" (AAS 1959, 843-844). ^ag-fn-ch2-20
 
-21 Cf Decree, "*[On Ecumenism](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)*," 4. ^ag-fn-ch2-21
+21 Cf Decree, "**," 4. ^ag-fn-ch2-21
 
-22 Cf John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 842). ^ag-fn-ch2-22
+22 Cf John XXIII, "**" (AAS 1959, 842). ^ag-fn-ch2-22
 
-23\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 29. ^ag-fn-ch2-23
+23\. Cf. Dogmatic constitution, "**," 29. ^ag-fn-ch2-23
 
-24\. Cf. John XXIII" *[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 855). ^ag-fn-ch2-24
+24\. Cf. John XXIII" **" (AAS 1959, 855). ^ag-fn-ch2-24
 
 25\. The reference is to expressions of this kind: "catechistes a plein temps,n "full time catechists." ^ag-fn-ch2-25
 
-26\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 31, 44. ^ag-fn-ch2-26
+26\. Cf. Dogmatic constitution, "**," 31, 44. ^ag-fn-ch2-26
 
 CHAPTER III
 
-1\. Cf. John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 838). ^ag-fn-ch3-1
+1\. Cf. John XXIII, "**" (AAS 1959, 838). ^ag-fn-ch3-1
 
-2\. Cf. Decree, "*[On Priestly Ministry and Life](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html)*," 11; Decree, "*[On Priestly Training](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*," 2. ^ag-fn-ch3-2
+2\. Cf. Decree, "**," 11; Decree, "**," 2. ^ag-fn-ch3-2
 
-3\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 25. ^ag-fn-ch3-3
+3\. Cf. Dogmatic constitution, "**," 25. ^ag-fn-ch3-3
 
-4\. Cf. Decree, "*[On Priestly Ministry and Life](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html)*," 10, where in order to render particular pastoral labors easier for various social groups, provision is made for the establishment of personal prelacies, insofar as needs of the apostolate demand it. ^ag-fn-ch3-4
+4\. Cf. Decree, "**," 10, where in order to render particular pastoral labors easier for various social groups, provision is made for the establishment of personal prelacies, insofar as needs of the apostolate demand it. ^ag-fn-ch3-4
 
-5\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 13. ^ag-fn-ch3-5
+5\. Cf. Dogmatic constitution, "**," 13. ^ag-fn-ch3-5
 
 6\. Cf. Allocution of Paul VI at the canonization of the Uganda Martyrs (AAS 1964, 908). ^ag-fn-ch3-6
 
-7\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 13. ^ag-fn-ch3-7
+7\. Cf. Dogmatic constitution, "**," 13. ^ag-fn-ch3-7
 
 CHAPTER IV
 
-1\. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 17. ^ag-fn-ch4-1
+1\. Dogmatic constitution, "**," 17. ^ag-fn-ch4-1
 
 2\. "Institutes" refer to orders, congregations, institutions and associations which work in the missions. ^ag-fn-ch4-2
 
-3\. Cf. Pius XI, "*[Rerum Ecclesiae](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_28021926_rerum-ecclesiae_en.html)*" (AAS 1926, 69-7); Pius XII, "*[Saeculo Exeunte](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo_en.html)*" (AAS 1940, 256); "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 506). ^ag-fn-ch4-3
+3\. Cf. Pius XI, "**" (AAS 1926, 69-7); Pius XII, "**" (AAS 1940, 256); "**" (AAS 1951, 506). ^ag-fn-ch4-3
 
 4 Cf Benedict XV, "*Maximum Illud*" (AAS 1919, 449-450). ^ag-fn-ch4-4
 
-5 Cf Benedict XV, "*Maximum Illud*" (AAS 1919, 448-449); Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*," (AAS 1951, 507). In the formation of priests to be missionaries consideration is to be given to those things established by statute in the decree "*[On Priestly Training](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*" of the Second Vatican Council. ^ag-fn-ch4-5
+5 Cf Benedict XV, "*Maximum Illud*" (AAS 1919, 448-449); Pius XII, "**," (AAS 1951, 507). In the formation of priests to be missionaries consideration is to be given to those things established by statute in the decree "**" of the Second Vatican Council. ^ag-fn-ch4-5
 
-6\. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 41. ^ag-fn-ch4-6
+6\. Dogmatic constitution, "**," 41. ^ag-fn-ch4-6
 
-7\. Cf. Benedict XV, "*Maximum Illud*" (AAS 1919 440); Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 507). ^ag-fn-ch4-7
+7\. Cf. Benedict XV, "*Maximum Illud*" (AAS 1919 440); Pius XII, "**" (AAS 1951, 507). ^ag-fn-ch4-7
 
-8\. Benedict XV, "*Maximum Illud*" (AAS 1919, 448); Decree S.C.P.F., May 20, 1923 (AAS 1923, 369-370); Pius XII "*[Saeculo Exeunte](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo_en.html)*" (AAS 1940, 256), "Evangelii Praecones" (AAS 1951, 507)- John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 843-844). ^ag-fn-ch4-8
+8\. Benedict XV, "*Maximum Illud*" (AAS 1919, 448); Decree S.C.P.F., May 20, 1923 (AAS 1923, 369-370); Pius XII "**" (AAS 1940, 256), "Evangelii Praecones" (AAS 1951, 507)- John XXIII, "**" (AAS 1959, 843-844). ^ag-fn-ch4-8
 
-9\. Decree "*[On Priestly Training](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*," 19-21; Apostolic constitution "*Sedes Sapientiae*," with general statutes. ^ag-fn-ch4-9
+9\. Decree "**," 19-21; Apostolic constitution "*Sedes Sapientiae*," with general statutes. ^ag-fn-ch4-9
 
-10\. Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 523-524). ^ag-fn-ch4-10
+10\. Pius XII, "**" (AAS 1951, 523-524). ^ag-fn-ch4-10
 
 11\. Benedict XV, "*Maximum Illud*" (AAS 1919, 448); Pius XII, "Evangelii Praecones" (AAS 1951, 507). ^ag-fn-ch4-11
 
 12\. Cf. Pius XII, "*Fidei Donum*" (AAS 1957, 234). ^ag-fn-ch4-12
 
-13\. Cf. "*[On Priestly Ministry and Life](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html)*," 10, refers to dioceses and personal prelatures and the like. ^ag-fn-ch4-13
+13\. Cf. "**," 10, refers to dioceses and personal prelatures and the like. ^ag-fn-ch4-13
 
 CHAPTER V
 
-1\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 18. ^ag-fn-ch5-1
+1\. Cf. Dogmatic constitution, "**," 18. ^ag-fn-ch5-1
 
-2\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 23. ^ag-fn-ch5-2
+2\. Cf. Dogmatic constitution, "**," 23. ^ag-fn-ch5-2
 
-3\. Cf. Motu proprio, "*[Apostolica Sollicitudo](https://www.vatican.va/holy_father/paul_vi/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo_en.html)*," Sept. 15, 1965. ^ag-fn-ch5-3
+3\. Cf. Motu proprio, "**," Sept. 15, 1965. ^ag-fn-ch5-3
 
 4\. Cf. Paul VI, allocution Nov. 21, 1964, in council (AAS 1964). ^ag-fn-ch5-4
 
@@ -553,38 +553,38 @@ CHAPTER V
 
 6\. If these missions for special reasons are made subject to other ecclesiastical jurisdictions for a time, it is fitting that this ecclesiastic jurisdiction establish relations with the Sacred Congregation for the Propagation of the Faith so that in ordering and directing all these missions, a regular and uniform pattern can be realized. ^ag-fn-ch5-6
 
-7\. Cf. Decree, "*[Pastoral Duties of Bishops in the Church](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*," 35, 4. ^ag-fn-ch5-7
+7\. Cf. Decree, "**," 35, 4. ^ag-fn-ch5-7
 
-8\. Cf. Decree "*[Pastoral Duties of Bishops in the Church](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*," 36-38. ^ag-fn-ch5-8
+8\. Cf. Decree "**," 36-38. ^ag-fn-ch5-8
 
-9\. Cf. Decree "*[Pastoral Duties of Bishops in the Church](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*" 35, 5-6. ^ag-fn-ch5-9
+9\. Cf. Decree "**" 35, 5-6. ^ag-fn-ch5-9
 
 CHAPTER VI
 
-1\. Cf. Decree, "*[On Ecumenism](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)*," 12. ^ag-fn-ch6-1
+1\. Cf. Decree, "**," 12. ^ag-fn-ch6-1
 
-2\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 23-24. ^ag-fn-ch6-2
+2\. Cf. Dogmatic constitution, "**," 23-24. ^ag-fn-ch6-2
 
-3\. Cf. Benedict XV, "*Maximum Illud*" (AAS 1919, 453-454); Pius XI, "*[Rerum Ecclesiae](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae_en.html)*" (AAS 1926, 71-73); Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 525-526); Id. "*Fidei Donum*" (AAS 1957, 241.) ^ag-fn-ch6-3
+3\. Cf. Benedict XV, "*Maximum Illud*" (AAS 1919, 453-454); Pius XI, "**" (AAS 1926, 71-73); Pius XII, "**" (AAS 1951, 525-526); Id. "*Fidei Donum*" (AAS 1957, 241.) ^ag-fn-ch6-3
 
 4\. Cf. Pius XII, "*Fidei Donum*" (AAS 1957, 245-246). ^ag-fn-ch6-4
 
-5\. Decree "*[Pastoral Duties of Bishops](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*," 6. ^ag-fn-ch6-5
+5\. Decree "**," 6. ^ag-fn-ch6-5
 
 6\. Cf. Pius XII, "*Fidei Donum*" (AAS 1957, 245). ^ag-fn-ch6-6
 
-7\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 28. ^ag-fn-ch6-7
+7\. Cf. Dogmatic constitution, "**," 28. ^ag-fn-ch6-7
 
-8\. Cf. Pius XI, "*[Rerum Ecclesiae](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae_en.html)*" (AAS 1926, 72). ^ag-fn-ch6-8
+8\. Cf. Pius XI, "**" (AAS 1926, 72). ^ag-fn-ch6-8
 
-9\. Cf. Dogmatic constitution "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 44. ^ag-fn-ch6-9
+9\. Cf. Dogmatic constitution "**," 44. ^ag-fn-ch6-9
 
 10\. Cf. Ibid. 33, 35. ^ag-fn-ch6-10
 
-11\. Cf. Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 510, 514)John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 851-852). ^ag-fn-ch6-11
+11\. Cf. Pius XII, "**" (AAS 1951, 510, 514)John XXIII, "**" (AAS 1959, 851-852). ^ag-fn-ch6-11
 
-12\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 46. ^ag-fn-ch6-12
+12\. Cf. Dogmatic constitution, "**," 46. ^ag-fn-ch6-12
 
-13\. Cf. Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 527)John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 864). ^ag-fn-conclusion-13
+13\. Cf. Pius XII, "**" (AAS 1951, 527)John XXIII, "**" (AAS 1959, 864). ^ag-fn-conclusion-13
 
 In order that this missionary work of the particular church may be performed, there is need of qualified ministers, who are to be prepared in due time in a way suited to the conditions of each church. Now since men are more and more banding together into associations, it is very fitting that episcopal conferences should form a common plan concerning the dialogue to be held with such associations. But if perchance in certain regions, groups of men are to be found who are kept away from embracing the Catholic Faith because they cannot adapt themselves to the peculiar form which the church has taken in there, it is hoped that this condition will be provided for in a special way,<sup>[[#^ag-fn-ch3-4|(4)]] </sup> until such time as all Christians can gather together in

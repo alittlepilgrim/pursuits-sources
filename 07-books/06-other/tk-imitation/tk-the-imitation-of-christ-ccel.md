@@ -24,7 +24,7 @@ url: https://ccel.org/ccel/k/kempis/imitation/cache/imitation.txt
 
 # The Imitation of Christ by Thomas, Kempis (CCEL Edition)
 
-[Online Source](https://ccel.org/ccel/k/kempis/imitation/cache/imitation.txt)
+
 
 ## Publication Info
 

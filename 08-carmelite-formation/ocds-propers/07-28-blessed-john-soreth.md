@@ -99,6 +99,6 @@ Ant. This faithful man made his city strong and renewed the faith of sinners.
 
 ##### Source
 
-[Carmelite Quotes](https://carmelitequotes.blog)
 
-Catholic Church [1993, _Proper of the Liturgy of the Hours_](https://worldcat.org/title/41304501) _of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites_ (Rev. and augm.), Institutum Carmelitanum, Rome.
+
+Catholic Church  _of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites_ (Rev. and augm.), Institutum Carmelitanum, Rome.

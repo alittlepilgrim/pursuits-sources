@@ -16,7 +16,7 @@ tags:
 
 ## Divine Intimacy Meditations
 
-- Presupposes mercy and is accompanied by it: [[237-infinite-justice#Meditation 1|237,1]];
-- infinite — is the zeal which protects the rights of God [[237-infinite-justice#Meditation 2|237,2]];
-- punishments of God are the fruit of the — and of His mercy: [[237-infinite-justice#Meditation 2|237,2]].
-- [[237-infinite-justice|237. Infinite Justice]]
+- Presupposes mercy and is accompanied by it: 237,1;
+- infinite — is the zeal which protects the rights of God 237,2;
+- punishments of God are the fruit of the — and of His mercy: 237,2.
+- 237. Infinite Justice

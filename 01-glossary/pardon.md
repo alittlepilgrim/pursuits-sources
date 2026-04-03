@@ -18,11 +18,11 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Of offenses [[70-the-bond-of-perfection#Meditation 2|70,2]];
-- magnificence and largesse of the — of God: [[336-forgiveness#Meditation 1|336,1]];
-- pettiness and narrowness of our —: [[336-forgiveness#Meditation 2|336,2]].
+- Of offenses 70,2;
+- magnificence and largesse of the — of God: 336,1;
+- pettiness and narrowness of our —: 336,2.
 
 ---
 
-- [[70-the-bond-of-perfection|70. The Bond of Perfection]]
-- [[336-forgiveness|336. Forgiveness]]
+- 70. The Bond of Perfection
+- 336. Forgiveness

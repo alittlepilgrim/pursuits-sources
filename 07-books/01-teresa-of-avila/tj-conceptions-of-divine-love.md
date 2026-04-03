@@ -7,7 +7,6 @@ publish: false
 aliases:
   - 20251018-183453
   - Conceptions of Divine Love
-tags: []
 author: Saint Teresa of Avila
 ---
 

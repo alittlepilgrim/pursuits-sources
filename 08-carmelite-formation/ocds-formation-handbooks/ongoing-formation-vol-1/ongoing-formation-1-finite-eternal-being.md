@@ -6,7 +6,6 @@ type: formation-handbook
 publish: false
 aliases:
   - Finite and Eternal Being
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 

@@ -13,7 +13,7 @@ tags:
 source: https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html
 ---
 
-[Source](https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html)
+
 
 PAENITENTIARIA APOSTOLICA
 

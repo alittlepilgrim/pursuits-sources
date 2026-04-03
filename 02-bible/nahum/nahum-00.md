@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/nahum/0
 
 # Nahum, the Book of Nahum
 
-[Introduction](nahum-00.md) [1](nahum-01.md) [2](nahum-02.md) [3](nahum-03.md)
+   
 
 ## The Book of Nahum
 

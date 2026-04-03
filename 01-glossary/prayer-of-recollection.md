@@ -22,7 +22,7 @@ attachment: true
 
 IC Mansion 4 Chapter 1
 
-This manner of prayer she called “[prayer of recollection](app://obsidian.md/prayer-of-recollection).” “This prayer is called ‘recollection’ because the soul through its own efforts collects its faculties together and enters within itself to be with its God. And its divine Master comes more quickly to teach it and give it the [prayer of quiet](app://obsidian.md/prayer-of-quiet) than He would through any other method it might use” (W 28.4).
+This manner of prayer she called “.” “This prayer is called ‘recollection’ because the soul through its own efforts collects its faculties together and enters within itself to be with its God. And its divine Master comes more quickly to teach it and give it the  than He would through any other method it might use” (W 28.4).
 
 ## The Way of Perfection
 
@@ -30,4 +30,4 @@ RECOLLECTION (PRAYER OF). A method of prayer in which the soul collects its facu
 
 ## Divine Intimacy
 
-[[152-prayer-of-recollection|152. Prayer of Recollection]]
+152. Prayer of Recollection

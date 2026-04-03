@@ -18,9 +18,9 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-— Spiritual: [[120-the-value-of-obedience#Meditation 1|120,1]], [[120-the-value-of-obedience#Meditation 2|120,2]]; 
+— Spiritual: 120,1, 120,2; 
 
-- of divine grace: [[164-liturgical-prayer#Meditation 1|164,1]]; 
-- faith is a light: [[305-blessed-are-the-meek#Meditation 1|305,1]]; 
-- of grace: [[357-the-grain-of-mustard-seed#Meditation 2|357,2]]; 
-- of divine light: [[365-the-yes-of-perfect-consent#Meditation 1|365,1]].
+- of divine grace: 164,1; 
+- faith is a light: 305,1; 
+- of grace: 357,2; 
+- of divine light: 365,1.

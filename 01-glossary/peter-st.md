@@ -22,8 +22,8 @@ Simon, whom Jesus called Peter or "Rock," upon whom he would build his Church (_
 
 ## Divine Intimacy Meditations
 
-- Conduct of— in the Passion of Jesus: [[135-the-meek-lamb#Meditation 2|135,2]];
-- — made the head of the Church: [[375-sts-peter-and-paul#Meditation 1|375,1]];
-- where— is, there is the Church: [[375-sts-peter-and-paul#Meditation 1|375,1]].
-- [[135-the-meek-lamb|135. The Meek Lamb]]
-- [[375-sts-peter-and-paul|375. Saints Peter and Paul]]
+- Conduct of— in the Passion of Jesus: 135,2;
+- — made the head of the Church: 375,1;
+- where— is, there is the Church: 375,1.
+- 135. The Meek Lamb
+- 375. Saints Peter and Paul

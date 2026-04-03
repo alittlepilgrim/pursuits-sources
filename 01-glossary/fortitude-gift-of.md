@@ -25,5 +25,5 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- [[302-the-gift-of-fortitude|302. The Gift of Fortitude]]
-- [[303-blessed-are-they-that-hunger-and-thirst-after-justice|303. Blessed Are They that Hunger and Thirst after Justice]]
+- 302. The Gift of Fortitude
+- 303. Blessed Are They that Hunger and Thirst after Justice

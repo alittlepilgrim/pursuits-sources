@@ -96,6 +96,6 @@ attachment: false
 
 ## 📌 Reference
 
-- [[es-ew-chapter-1-glossary|Glossary]]
+- Glossary
 
 

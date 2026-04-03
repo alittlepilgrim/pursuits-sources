@@ -18,7 +18,7 @@ url: https://bible.usccb.org/bible/malachi/0
 
 # Malachi, the Book of Malachi
 
-[Introduction](malachi-00.md) [1](malachi-01.md) [2](malachi-02.md) [3](malachi-03.md)
+   
 
 ## The Book of Malachi
 

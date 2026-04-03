@@ -7,14 +7,13 @@ publish: true
 aliases:
   - Magisterial Documents
   - Vatican II Documents
-tags: []
 attachment: false
 language: EN
 ---
 
 # Vatican II Documents
 
-- [All Vatican II Documents](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm)
+- 
 
 ## Constitutions
 

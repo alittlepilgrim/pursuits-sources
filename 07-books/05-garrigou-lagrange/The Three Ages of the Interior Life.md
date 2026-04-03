@@ -7,7 +7,6 @@ publish: true
 aliases:
   - "The Three Ages of the Interior Life: Prelude of Eternal Life (1938)"
   - The Three Ages of the Interior Life by Garrigou-Lagrange, Reginald
-tags: []
 author: Reginald Garrigou-Lagrange
 ---
 

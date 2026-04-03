@@ -1103,7 +1103,7 @@ Amen.
 
 3\. Cf. Proposition 1. ^jpii-pdv-3
 
-4\. Cf. Dogmatic Constitution on the Church [Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 28; Decree on the Ministry and Life of Priests Presbyterorum Ordinis; Decree on Priestly Formation Optatam Totius. ^jpii-pdv-4
+4\. Cf. Dogmatic Constitution on the Church , 28; Decree on the Ministry and Life of Priests Presbyterorum Ordinis; Decree on Priestly Formation Optatam Totius. ^jpii-pdv-4
 
 5\. Ratio Fundamentalis Institutionis Sacerdotalis (Jan. 6, 1970): AAS 62 (1970), 321-384. ^jpii-pdv-5
 

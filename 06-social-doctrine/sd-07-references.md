@@ -29,7 +29,7 @@ url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/
 
 An asterisk following the number indicates that the reference is found in a note.*
 
-## [Sacred Scripture](https://www.vatican.va/archive/ENG0839/_INDEX.HTM)
+## 
 
 ### Old Testament
 
@@ -1061,11 +1061,11 @@ An asterisk following the number indicates that the reference is found in a note
 
 **Second Vatican Ecumenical Council**
 
-*[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)
+*
 
 *10 519*
 
-[Inter Mirifica](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_en.html)
+
 
 *3 415\*
 
@@ -1073,7 +1073,7 @@ An asterisk following the number indicates that the reference is found in a note
 
 11 415\**
 
-[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
+
 
 *1 19\*, 49, 431
 
@@ -1093,11 +1093,11 @@ An asterisk following the number indicates that the reference is found in a note
 
 48 65*
 
-[Christus Dominus](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)
+
 
 *12 11*
 
-[Gravissimum Educationis](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)
+
 
 *1 242
 
@@ -1105,13 +1105,13 @@ An asterisk following the number indicates that the reference is found in a note
 
 6 240\**
 
-[Nostra aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)
+
 
 *4 536\*
 
 5 433\**
 
-[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)
+
 
 *2 13, 47\*
 
@@ -1119,7 +1119,7 @@ An asterisk following the number indicates that the reference is found in a note
 
 5 39*
 
-[Apostolicam Actuositatem](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)
+
 
 *7 45\*
 
@@ -1127,7 +1127,7 @@ An asterisk following the number indicates that the reference is found in a note
 
 11 211\**
 
-[Dignitatis Humanae](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html)
+
 
 *97\*
 
@@ -1147,7 +1147,7 @@ An asterisk following the number indicates that the reference is found in a note
 
 14 70\*, 75\**
 
-[Gaudium et Spes](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)
+
 
 *96\*
 
@@ -1285,15 +1285,15 @@ An asterisk following the number indicates that the reference is found in a note
 
 **Pope Leo XIII**
 
-Enc. Letter *[Immortale Dei](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei_en.html)* (1 November 1885)
+Enc. Letter ** (1 November 1885)
 
 393\*
 
-Enc. Letter *[Libertas Praestantissimum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_20061888_libertas_en.html)* (20 June 1888)
+Enc. Letter ** (20 June 1888)
 
 149\*
 
-Enc. Letter *[Rerum Novarum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum_en.html)* (15 May 1891)
+Enc. Letter ** (15 May 1891)
 
 87, 87\*, 89, 89\*, 90, 91, 100, 101, 103, 168\*, 176, 176\*, 177\*, 185\*, 249, 250\*, 267, 268, 269, 277, 286\*, 287\*, 293, 296, 301\*, 302, 417, 521, 581
 
@@ -1307,33 +1307,33 @@ Enc. Letter *[Rerum Novarum](https://www.vatican.va/holy_father/leo_xiii/encycli
 
 497
 
-Enc. Letter *[Pacem Dei](https://www.vatican.va/holy_father/benedict_xv/encyclicals/documents/hf_ben-xv_enc_23051920_pacem-dei-munus-pulcherrimum_en.html)* (23 May 1920)
+Enc. Letter ** (23 May 1920)
 
 581\*
 
 **Pope Pius XI**
 
-Enc. Letter *[Ubi arcano](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_23121922_ubi-arcano-dei-consilio_en.html)* (23 December 1922)
+Enc. Letter ** (23 December 1922)
 
 494
 
-Enc. Letter *[Casti Connubii](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_31121930_casti-connubii_en.html)* (31 December 1930)
+Enc. Letter ** (31 December 1930)
 
 233\*
 
-Enc. Letter *[Quadragesimo Anno](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno_en.html)* (15 May 1931)
+Enc. Letter ** (15 May 1931)
 
 82\*, 87\*, 89\*, 91, 91\*, 167, 178\*, 185\*, 186, 250\*, 273, 277\*, 277, 301\*, 302\*, 330, 419\*, 552, 581\*
 
-Enc. Letter *[Non abbiamo bisogno](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_29061931_non-abbiamo-bisogno_en.html)* (29 June 1931)
+Enc. Letter ** (29 June 1931)
 
 92
 
-Enc. Letter *[Divini Redemptoris](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_19031937_divini-redemptoris_en.html)* (19 March 1937)
+Enc. Letter ** (19 March 1937)
 
 92, 201\*, 355\*
 
-Enc. Letter *[Mit Brennender Sorge](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge_en.html)* (17 March 1937)
+Enc. Letter ** (17 March 1937)
 
 92
 
@@ -1343,15 +1343,15 @@ Enc. Letter *[Mit Brennender Sorge](https://www.vatican.va/holy_father/pius_xi/e
 
 **Pope Pius XII**
 
-Enc. Letter *[Summi Pontificatus](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus_en.html)* (20 October 1939)
+Enc. Letter ** (20 October 1939)
 
 125, 194\*, 396\*, 397\*, 434\*, 437\*, 577
 
-Enc. Letter *[Sertum Laetitiae](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae_en.html)* (1 November 1939)
+Enc. Letter ** (1 November 1939)
 
 301\*
 
-Enc. Letter *[humani-generis](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis_en.html)* (12 August 1950)
+Enc. Letter ** (12 August 1950)
 
 141\*
 
@@ -1447,17 +1447,17 @@ Ap. Exhort. *Menti Nostrae* (23 September 1950)
 
 **Pope John XXIII**
 
-Enc. Letter *[Mater et Magistra](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_15051961_mater_en.html)* (15 May 1961)
+Enc. Letter ** (15 May 1961)
 
 84\*, 87\*, 94\*, 95, 107\*, 160\*, 164\*, 166\*, 167\*, 176\*, 178\*, 185\*, 189\*, 192\*, 194\*, 336\*, 339\*, 355\*, 384, 396, 440\*, 446, 527\*, 549\*, 551\*, 575, 579, 581\*
 
-Enc. Letter *[Pacem in Terris](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem_en.html)* (11 April 1963)
+Enc. Letter ** (11 April 1963)
 
 84\*, 87\*, 94, 95\*, 95, 145\*, 149\*, 153\*, 153, 155\*, 156\*, 156, 164\*, 165\*, 190\*, 197\*, 198\*, 200\*, 201\*, 205\*, 301\*, 383\*, 384, 386, 387\*, 388, 389, 391, 393, 393\*, 395\*, 396, 396\*, 397\*, 398\*, 414\*, 432, 433\*, 434\*, 435\*, 437, 437\*, 439\*, 441\*, 441, 497, 497\*, 499\*, 499, 527\*
 
 **Pope Paul VI**
 
-Enc. Letter *[Populorum Progressio](https://www.vatican.va/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_26031967_populorum_en.html)* (26 March 1967)
+Enc. Letter ** (26 March 1967)
 
 98, 98\*, 102
 
@@ -1535,7 +1535,7 @@ Enc. Letter *[Populorum Progressio](https://www.vatican.va/holy_father/paul_vi/e
 
 81 83\*, 531
 
-Enc. Letter *[Humanae Vitae](https://www.vatican.va/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae_en.html)* (25 July 1968)
+Enc. Letter ** (25 July 1968)
 
 7 233\*
 
@@ -1551,7 +1551,7 @@ Ap. Letter *Sollicitudo Omnium Ecclesiarum* (29 June 1969)
 
 445
 
-Ap. Letter *[Octogesima Adveniens](https://www.vatican.va/holy_father/paul_vi/apost_letters/documents/hf_p-vi_apl_19710514_octogesima-adveniens_en.html)* (14 May 1971)
+Ap. Letter ** (14 May 1971)
 
 100, 100\*
 
@@ -1613,7 +1613,7 @@ Ap. Letter *[Octogesima Adveniens](https://www.vatican.va/holy_father/paul_vi/ap
 
 51 525
 
-Ap. Exhort. *[Evangelii Nuntiandi](https://www.vatican.va/holy_father/paul_vi/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi_en.html)* (8 December 1975)
+Ap. Exhort. ** (8 December 1975)
 
 9 64\*, 82
 
@@ -1635,27 +1635,27 @@ Motu proprio *Iustitiam et Pacem* (10 December 1976)
 
 159
 
-*[Message for the 1968 World Day of Peace](https://www.vatican.va/holy_father/paul_vi/messages/peace/documents/hf_p-vi_mes_19671208_i-world-day-for-peace_en.html)
+*
 
 *519, 520
 
-*[Message for the 1969 World Day of Peace](https://www.vatican.va/holy_father/paul_vi/messages/peace/documents/hf_p-vi_mes_19681208_ii-world-day-for-peace_en.html)
+*
 
 *494\*
 
-*[Message for the 1972 World Day of Peace](https://www.vatican.va/holy_father/paul_vi/messages/peace/documents/hf_p-vi_mes_19711208_v-world-day-for-peace_en.html)
+*
 
 *494\*
 
-*[Message for the 1974 World Day of Peace](https://www.vatican.va/holy_father/paul_vi/messages/peace/documents/hf_p-vi_mes_19731208_vii-world-day-for-peace_en.html)
+*
 
 *495\*
 
-*[Message for the 1976 World Day of Peace](https://www.vatican.va/holy_father/paul_vi/messages/peace/documents/hf_p-vi_mes_19751018_ix-world-day-for-peace_en.html)
+*
 
 *520
 
-*[Message for the 1977 World Day of Peace](https://www.vatican.va/holy_father/paul_vi/messages/peace/documents/hf_p-vi_mes_19761208_x-world-day-for-peace_en.html)
+*
 
 *391
 
@@ -1675,13 +1675,13 @@ Motu proprio *Iustitiam et Pacem* (10 December 1976)
 
 26 October 1974 155\*
 
-*Letter of Card. Maurice Roy for the 10th Anniversary of the Encyclical* *[Pacem in Terris](http://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)* (11 April 1973)
+*Letter of Card. Maurice Roy for the 10th Anniversary of the Encyclical* ** (11 April 1973)
 
 95\*
 
 **Pope John Paul II**
 
-Enc. Letter *[Redemptor Hominis](https://www.vatican.va/edocs/ENG0218/_INDEX.HTM)* (4 March 1979)
+Enc. Letter ** (4 March 1979)
 
 1 262
 
@@ -1697,7 +1697,7 @@ Enc. Letter *[Redemptor Hominis](https://www.vatican.va/edocs/ENG0218/_INDEX.HTM
 
 17 155, 158\*, 168\*
 
-Ap. Exhort. *[Catechesi Tradendae](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_16101979_catechesi-tradendae_en.html)* (16 October 1979)
+Ap. Exhort. ** (16 October 1979)
 
 5 529
 
@@ -1707,13 +1707,13 @@ Ap. Exhort. *[Catechesi Tradendae](https://www.vatican.va/holy_father/john_paul_
 
 29 529
 
-Enc. Letter *[Dives in Misericordia](https://www.vatican.va/edocs/ENG0215/_INDEX.HTM)* (30 November 1980)
+Enc. Letter ** (30 November 1980)
 
 12 206
 
 14 206, 582
 
-Enc. Letter *[Laborem Exercens](https://www.vatican.va/edocs/ENG0217/_INDEX.HTM)* (14 September 1981)
+Enc. Letter ** (14 September 1981)
 
 72, 101\*, 269
 
@@ -1763,7 +1763,7 @@ Enc. Letter *[Laborem Exercens](https://www.vatican.va/edocs/ENG0217/_INDEX.HTM)
 
 27 263\*, 326\*
 
-Ap. Exhort. *[Familiaris Consortio](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_en.html)* (22 November 1982)
+Ap. Exhort. ** (22 November 1982)
 
 12 219\*
 
@@ -1811,7 +1811,7 @@ Ap. Exhort. *[Familiaris Consortio](https://www.vatican.va/holy_father/john_paul
 
 84 226\*
 
-Ap. Exhort. *[Reconciliatio et Paenitentia](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia_en.html)* (2 December 1985)
+Ap. Exhort. ** (2 December 1985)
 
 2 116
 
@@ -1821,11 +1821,11 @@ Ap. Exhort. *[Reconciliatio et Paenitentia](https://www.vatican.va/holy_father/j
 
 16 117, 118, 193\*
 
-Enc. Letter *[Redemptoris Mater](https://www.vatican.va/edocs/ENG0224/_INDEX.HTM)* (25 March 1987)
+Enc. Letter ** (25 March 1987)
 
 37 59
 
-Enc. Letter *[Sollicitudo Rei Socialis](https://www.vatican.va/edocs/ENG0223/_INDEX.HTM)* (30 December 1987)
+Enc. Letter ** (30 December 1987)
 
 72, 102, 102\*
 
@@ -1901,13 +1901,13 @@ Enc. Letter *[Sollicitudo Rei Socialis](https://www.vatican.va/edocs/ENG0223/_IN
 
 48 526\*
 
-Ap. Letter *[Mulieris Dignitatem](https://www.vatican.va/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem_en.html)* (15 August 1988)
+Ap. Letter ** (15 August 1988)
 
 7 33, 34
 
 11 147
 
-Ap. Exhort. *[Christifideles Laici](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici_en.html)* (30 December 1988)
+Ap. Exhort. ** (30 December 1988)
 
 15 10, 83\*, 543
 
@@ -1937,13 +1937,13 @@ Ap. Exhort. *[Christifideles Laici](https://www.vatican.va/holy_father/john_paul
 
 62 549
 
-Ap. *[Letter on the occasion of the fiftieth anniversary of the outbreak of the Second World War](http://www.vatican.va/content/john-paul-ii/en/messages/pont_messages/1989/documents/hf_jp-ii_mes_19890827_anniv-ii-guerra-mondiale.html)* (27 August 1989)
+Ap. ** (27 August 1989)
 
 2 157
 
 8 517
 
-Enc. Letter *[Redemptoris Missio](https://www.vatican.va/edocs/ENG0219/_INDEX.HTM)* (7 December 1990)
+Enc. Letter ** (7 December 1990)
 
 2 538
 
@@ -1955,7 +1955,7 @@ Enc. Letter *[Redemptoris Missio](https://www.vatican.va/edocs/ENG0219/_INDEX.HT
 
 52 523
 
-Enc. Letter *[Centesimus Annus](https://www.vatican.va/edocs/ENG0214/_INDEX.HTM)* (1 May 1991)
+Enc. Letter ** (1 May 1991)
 
 103\*
 
@@ -2051,7 +2051,7 @@ Enc. Letter *[Centesimus Annus](https://www.vatican.va/edocs/ENG0214/_INDEX.HTM)
 
 60 90
 
-Enc. Letter *[Veritatis Splendor](https://www.vatican.va/edocs/ENG0222/_INDEX.HTM)* (6 August 1993)
+Enc. Letter ** (6 August 1993)
 
 13 75\*
 
@@ -2095,7 +2095,7 @@ Motu Proprio *Socialium Scientiarum* (1 January 1994)
 
 78\*
 
-Ap. Letter *[Gratissimam Sane](https://www.vatican.va/holy_father/john_paul_ii/letters/documents/hf_jp-ii_let_02021994_families_en.html)* (2 February 1994)
+Ap. Letter ** (2 February 1994)
 
 6 111\*, 230
 
@@ -2121,19 +2121,19 @@ Ap. Letter *[Gratissimam Sane](https://www.vatican.va/holy_father/john_paul_ii/l
 
 21 233\*
 
-Ap. Letter *[Tertio Millennio Adveniente](https://www.vatican.va/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_10111994_tertio-millennio-adveniente_en.html)* (10 November 1994)
+Ap. Letter ** (10 November 1994)
 
 13 25\*
 
 51 182\*, 450\*
 
-*[Letter to Women](https://www.vatican.va/holy_father/john_paul_ii/letters/documents/hf_jp-ii_let_29061995_women_en.html)* (29 June 1995)
+** (29 June 1995)
 
 3 295
 
 8 147
 
-Enc. Letter *[Evangelium Vitae](https://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae_en.html)* (25 March 1995)
+Enc. Letter ** (25 March 1995)
 
 2 155\*
 
@@ -2213,11 +2213,11 @@ Enc. Letter *[Evangelium Vitae](https://www.vatican.va/holy_father/john_paul_ii/
 
 101 233\*
 
-Ap. Letter *[Dies Domini](https://www.vatican.va/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_05071998_dies-domini_en.html)* (31 May 1998)
+Ap. Letter ** (31 May 1998)
 
 26 285\*
 
-Enc. Letter *[Fides et Ratio](https://www.vatican.va/edocs/ENG0216/_INDEX.HTM)* (14 September 1998)
+Enc. Letter ** (14 September 1998)
 
 74\*
 
@@ -2225,7 +2225,7 @@ Prologue 113\*
 
 36-48 560\*
 
-Ap. Exhort. *[Ecclesia in America](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america_en.html)* (22 January 1999)
+Ap. Exhort. ** (22 January 1999)
 
 20 362\*
 
@@ -2233,7 +2233,7 @@ Ap. Exhort. *[Ecclesia in America](https://www.vatican.va/holy_father/john_paul_
 
 54 7\*, 8\*
 
-Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte_en.html)* (6 January 2001)
+Ap. Letter ** (6 January 2001)
 
 1 1\*
 
@@ -2247,27 +2247,27 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 51 5, 583\*
 
-*[Message for the 1982 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_19811208_xv-world-day-for-peace_en.html)
+*
 
 *4 494
 
-*[Message for the 1986 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_19851208_xix-world-day-for-peace_en.html)
+*
 
 *1 494\*
 
 2 509\*
 
-*[Message for the 1988 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_19871208_xxi-world-day-for-peace_en.html)
+*
 
 *3 516\*
 
-*[Message for the 1989 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_19881208_xxii-world-day-for-peace_en.html)
+*
 
 *5 387
 
 11 387
 
-*[Message for the 1990 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_19891208_xxiii-world-day-for-peace_en.html)
+*
 
 *6 459
 
@@ -2275,11 +2275,11 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 9 468, 468\*
 
-*[Message for the 1992 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_08121991_xxv-world-day-for-peace_en.html)
+*
 
 *4 519\*
 
-*[Message for the 1993 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_08121992_xxvi-world-day-for-peace_en.html)
+*
 
 *1 449\*
 
@@ -2287,17 +2287,17 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 4 497\*
 
-*[Message for the 1994 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_08121993_xxvii-world-day-for-peace_en.html)
+*
 
 *5 239\*
 
-*[Message for the 1996 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_08121995_xxix-world-day-for-peace_en.html)
+*
 
 *2-6 245\*
 
 5 296\*
 
-*[Message for the 1997 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_08121996_xxx-world-day-for-peace_en.html)
+*
 
 *3 517\*, 518\*
 
@@ -2305,7 +2305,7 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 6 518\*
 
-*[Message for the 1998 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_08121997_xxxi-world-day-for-peace_en.html)
+*
 
 *2 154
 
@@ -2317,7 +2317,7 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 6 296
 
-*[Message for the 1999 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_14121998_xxxii-world-day-for-peace_en.html)
+*
 
 *3 153, 154
 
@@ -2337,7 +2337,7 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 12 494\*
 
-*[Message for the 2000 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_08121999_xxxiii-world-day-for-peace_en.html)
+*
 
 *6 388\*
 
@@ -2355,13 +2355,13 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 20 516
 
-*[Message for the 2001 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_20001208_xxxiv-world-day-for-peace_en.html)
+*
 
 *13 298\*
 
 19 405\*
 
-*[Message for the 2002 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_20011211_xxxv-world-day-for-peace_en.html)
+*
 
 *4 513\*
 
@@ -2371,13 +2371,13 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 9 517\*
 
-*[Message for the 2003 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_20021217_xxxvi-world-day-for-peace_en.html)
+*
 
 *5 365, 485\*,
 
 6 441
 
-*[Message for the 2004 World Day of Peace](https://www.vatican.va/holy_father/john_paul_ii/messages/peace/documents/hf_jp-ii_mes_20031216_xxxvii-world-day-for-peace_en.html)
+*
 
 *4 494\*
 
@@ -2393,7 +2393,7 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 10 203, 206, 517\*, 582
 
-*[1990 Message for Lent](https://www.vatican.va/holy_father/john_paul_ii/messages/lent/documents/hf_jp-ii_mes_19890908_lent-1990_en.html)
+*
 
 *3 505
 
@@ -2591,7 +2591,7 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 ## Church Documents
 
-**[Catechism of the Catholic Church](https://www.vatican.va/archive/ENG0015/_INDEX.HTM)
+**
 
 **Title of ch. 1, sec. 1, Part 1 109
 
@@ -3101,7 +3101,7 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 **Congregation for the Clergy**
 
-*[General Directory for Catechesis](https://www.vatican.va/roman_curia/congregations/cclergy/documents/rc_con_ccatheduc_doc_17041998_directory-for-catechesis_en.html)* (15 August 1997)
+** (15 August 1997)
 
 17 529\*
 
@@ -3113,11 +3113,11 @@ Ap. Letter *[Novo Millennio Ineunte](https://www.vatican.va/holy_father/john_pau
 
 **Congregation for the Doctrine of the Faith**
 
-Declaration *[Persona Humana](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_en.html)* (29 December 1975)
+Declaration ** (29 December 1975)
 
 8 228\*
 
-Instruction *[Libertatis Conscientia](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_en.html)* (22 March 1986)
+Instruction ** (22 March 1986)
 
 26 199
 
@@ -3151,11 +3151,11 @@ Instruction *[Libertatis Conscientia](https://www.vatican.va/roman_curia/congreg
 
 99 198\*
 
-*[Letter on the Pastoral Care of Homosexual Persons](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_en.html)* (1 October 1986)
+** (1 October 1986)
 
 1-2 228\*
 
-Instruction *[Donum Vitae](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_en.html)* (22 February 1987)
+Instruction ** (22 February 1987)
 
 553\*
 
@@ -3163,7 +3163,7 @@ II,2,3,5 235\*
 
 II,7 235\*
 
-Instruction *[Donum Veritatis](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_en.html)* (24 May 1990)
+Instruction ** (24 May 1990)
 
 16 80\*
 
@@ -3175,7 +3175,7 @@ Instruction *[Donum Veritatis](https://www.vatican.va/roman_curia/congregations/
 
 228\*
 
-*[Doctrinal Note on Some Questions Regarding the Participation of Catholics in Political Life](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20021124_politica_en.html)* (24 November 2002)
+** (24 November 2002)
 
 3 384\*, 563\*
 
@@ -3187,13 +3187,13 @@ Instruction *[Donum Veritatis](https://www.vatican.va/roman_curia/congregations/
 
 7 555\*, 568
 
-*[Considerations Regarding Proposals to Give Legal Recognition to Unions Between Homosexual Persons](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_en.html)* (3 June 2003)
+** (3 June 2003)
 
 8 228
 
 228\*
 
-*[Letter to the Bishops of the Catholic Church on the collaboration of men and women in the Church and in the world](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20040731_collaboration_en.html)* (31 May 2004)
+** (31 May 2004)
 
 147\*
 
@@ -3255,19 +3255,19 @@ Instruction *[Donum Veritatis](https://www.vatican.va/roman_curia/congregations/
 
 **Pontifical Council for Social Communications**
 
-*[Communio et Progressio](https://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_23051971_communio_en.html)* (23 May 1971)
+** (23 May 1971)
 
 126-134 415\*
 
-*[Aetatis Novae](https://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_22021992_aetatis_en.html)* (22 February 1992)
+** (22 February 1992)
 
 11 415\*
 
-*[Ethics in Advertising](https://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_22021997_ethics-in-ad_en.html)* (22 February 1997)
+** (22 February 1997)
 
 4-8 415\*
 
-*[Ethics in Communications](https://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_20000530_ethics-communications_en.html)* (4 June 2000)
+** (4 June 2000)
 
 14 561\*
 
@@ -3281,23 +3281,23 @@ Instruction *[Donum Veritatis](https://www.vatican.va/roman_curia/congregations/
 
 **Pontifical Council for the Pastoral Care of Migrants and Itinerant People**
 
-*[Refugees, a Challenge to Solidarity](https://www.vatican.va/roman_curia/pontifical_councils/corunum/documents/rc_pc_corunum_doc_25061992_refugees_en.html)* (2 October 1992)
+** (2 October 1992)
 
 6 298\*
 
 **Pontifical Council for Culture - Pontifical Council for Interreligious Dialogue**
 
-*[Jesus Christ, the Bearer of the Water of Life. A Christian Reflection on the “New Age”](https://www.vatican.va/roman_curia/pontifical_councils/interelg/documents/rc_pc_interelg_doc_20030203_new-age_en.html)* (2003)
+** (2003)
 
 463\*
 
 **Pontifical Council for the Family**
 
-*[The Truth and Meaning of Human Sexuality: Guidelines for Education within the Family](https://www.vatican.va/roman_curia/pontifical_councils/family/documents/rc_pc_family_doc_08121995_human-sexuality_en.html)* (8 December 1995)
+** (8 December 1995)
 
 243\*
 
-*[Family, Marriage and “De facto Unions”](https://www.vatican.va/roman_curia/pontifical_councils/family/documents/rc_pc_family_doc_20001109_de-facto-unions_en.html)* (26 July 2000)
+** (26 July 2000)
 
 23 228\*
 
@@ -3319,7 +3319,7 @@ I, 1 194\*
 
 1, 9-11 508\*
 
-*[Towards a Better Distribution of Land, the Challenge of Agrarian Reform](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_12011998_distribuzione-terra_en.html)* (23 November 1997)
+** (23 November 1997)
 
 11 471\*
 
@@ -3329,25 +3329,25 @@ I, 1 194\*
 
 35 300\*
 
-*[The Church and Racism. Contribution of the Holy See to the World Conference against Racism, Racial Discrimination, Xenophobia and Related Intolerance](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20010829_comunicato-razzismo_en.html)* (29 August 2001)
+** (29 August 2001)
 
 21 236\*
 
 433\*
 
-*[Water, an Essential Element for Life. A Contribution of the Delegation of the Holy See on the occasion of the 3rd World Water Forum](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20030322_kyoto-water_en.html)* (Kyoto, 16-23 March 2003)
+** (Kyoto, 16-23 March 2003)
 
 485\*
 
 **Commission for Relations with Judaism**
 
-*[We Remember. A Reflection on the Shoah](https://www.vatican.va/roman_curia/pontifical_councils/chrstuni/documents/rc_pc_chrstuni_doc_16031998_shoah_en.html)* (16 March 1998)
+** (16 March 1998)
 
 506\*
 
 **Pontifical Academy for Life**
 
-*[Reflections on Cloning](https://www.vatican.va/roman_curia/pontifical_academies/acdlife/documents/rc_pa_acdlife_doc_30091997_clon_en.html)* (25 June 1997)
+** (25 June 1997)
 
 236\*
 
@@ -3357,7 +3357,7 @@ I, 1 194\*
 
 ## Holy See
 
-*[Charter of the Rights of the Family](https://www.vatican.va/roman_curia/pontifical_councils/family/documents/rc_pc_family_doc_19831022_family-rights_en.html)* (24 November 1983)
+** (24 November 1983)
 
 Preamble D-E 214\*
 
@@ -3383,7 +3383,7 @@ Art. 12 298\*
 
 ## Canon Law
 
-*[Code of Canon Law](https://www.vatican.va/archive/ENG1104/_INDEX.HTM)
+*
 
 *208-223 159\*
 

@@ -16,7 +16,7 @@ author: Saint Ignatius of Loyola
 
 # Rules for Discernment of Spirits for the 1st Week of the Spiritual Exercises of St. Ignatius of Loyola
 
-**Louis J. Puhl, SJ's translation from Original & Fr. Timothy Gallagher OMV's summary.**![ree](https://static.wixstatic.com/media/61822c_43eab144218d475a861c751b0bcc904e~mv2.jpg/v1/fill/w_448,h_386,al_c,lg_1,q_80,enc_avif,quality_auto/61822c_43eab144218d475a861c751b0bcc904e~mv2.jpg)
+**Louis J. Puhl, SJ's translation from Original & Fr. Timothy Gallagher OMV's summary.**!
 
 SE 313 Rules for understanding to some extent the different movements produced in the soul and for recognizing those that are good to admit them, and those that are bad, to reject them. These rules are more suited to the first week
 

@@ -86,7 +86,7 @@ Evening Prayer
 
 Ant. Our faith is the victorious power that overcomes the world
 
-![6 November- Saint Nuno of St- Mary-2024-07-22-1](images/6%20November-%20Saint%20Nuno%20of%20St- Mary-2024-07-22-1.png)
+!
 
  *Equestrian statue of St. Nuno in Batalha, Portugal*
 

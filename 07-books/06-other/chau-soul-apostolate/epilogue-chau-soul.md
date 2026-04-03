@@ -6,7 +6,6 @@ type: book
 publish: false
 aliases:
   - Epilogue – The Soul of the Apostolate
-tags: []
 author: Dom Chautard
 ---
 

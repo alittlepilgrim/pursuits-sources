@@ -7,7 +7,6 @@ publish: true
 aliases:
   - 20251101-203807
   - Vocal Prayer
-tags: []
 ---
 
 # Vocal Prayer

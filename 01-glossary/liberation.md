@@ -22,4 +22,4 @@ source: Divine Intimacy Meditations
 
 ![[sd-10-index-l#Liberation]]
 
-- From our sins by the Blood of Jesus: [[154-the-good-shepherd#Meditation 2|154,2]].
+- From our sins by the Blood of Jesus: 154,2.

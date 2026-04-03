@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/numbers/0
 
 # Numbers, the Book of Numbers
 
-[Introduction](numbers-00.md) [1](numbers-01.md) [2](numbers-02.md) [3](numbers-03.md) [4](numbers-04.md) [5](numbers-05.md) [6](numbers-06.md) [7](numbers-07.md) [8](numbers-08.md) [9](numbers-09.md) [10](numbers-10.md) [11](numbers-11.md) [12](numbers-12.md) [13](numbers-13.md) [14](numbers-14.md) [15](numbers-15.md) [16](numbers-16.md) [17](numbers-17.md) [18](numbers-18.md) [19](numbers-19.md) [20](numbers-20.md) [21](numbers-21.md) [22](numbers-22.md) [23](numbers-23.md) [24](numbers-24.md) [25](numbers-25.md) [26](numbers-26.md) [27](numbers-27.md) [28](numbers-28.md) [29](numbers-29.md) [30](numbers-30.md) [31](numbers-31.md) [32](numbers-32.md) [33](numbers-33.md) [34](numbers-34.md) [35](numbers-35.md) [36](numbers-36.md)
+                                    
 
 ## The Book of Numbers
 

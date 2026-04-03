@@ -7,7 +7,6 @@ publish: false
 description: Part Three – The Soul of the Apostolate
 aliases:
   - Part Three – The Soul of the Apostolate
-tags: []
 author: Dom Chautard
 ---
 

@@ -21,10 +21,10 @@ The sin by which the first human beings disobeyed the commandment of God, choosi
 
 ## Divine Intimacy Meditations
 
-- its consequences: [[2-invitation-to-sanctity#Meditation 1|2,1]]; [[26-the-mystery-of-the-incarnation#Meditation 2|26,2]]; [[38-jesus-our-mediator#Meditation 1|38,1]]; [[127-the-value-of-suffering#Meditation 1|127,1]];
-- in consequence of original — man has lost the dominion of the spirit over his senses, his flesh: [[92-corporal-mortification#Meditation 1|92,1]].
-- [[2-invitation-to-sanctity|2. Invitation to Sanctity]]
-- [[26-the-mystery-of-the-incarnation|26. The Mystery of the Incarnation]]
-- [[38-jesus-our-mediator|38.]]
-- [[92-corporal-mortification|92. Corporal Mortification]]
-- [[127-the-value-of-suffering|127. The Value of Suffering]]
+- its consequences: 2,1; 26,2; 38,1; 127,1;
+- in consequence of original — man has lost the dominion of the spirit over his senses, his flesh: 92,1.
+- 2. Invitation to Sanctity
+- 26. The Mystery of the Incarnation
+- 38.
+- 92. Corporal Mortification
+- 127. The Value of Suffering

@@ -18,4 +18,4 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- In the fulfillment of duty requires mortification and detachment: [[276-diligence|276]],2.
+- In the fulfillment of duty requires mortification and detachment: 276,2.

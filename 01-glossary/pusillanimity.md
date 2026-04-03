@@ -18,6 +18,6 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Deters the soul from accomplishing great works from excessive fear of failure [[289-magnanimity#Meditation 2|289,2]];
-- — is cowardice and pride: [[289-magnanimity#Meditation 2|289,2]].
-- [[289-magnanimity|289. Magnanimity]]
+- Deters the soul from accomplishing great works from excessive fear of failure 289,2;
+- — is cowardice and pride: 289,2.
+- 289. Magnanimity

@@ -75,7 +75,7 @@ Evening Prayer
 
 **Ant.** Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me.
 
-![16 December- Blessed Mary of the Angels Fontanella-2024-07-22-1](images/16%20December-%20Blessed%20Mary%20of%20the%20Angels Fontanella-2024-07-22-1.jpeg)
+!
 
  *Blessed Mary of the Angels* *(Marianna Fontanella)*
 

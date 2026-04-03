@@ -18,5 +18,5 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Knowledge of self and of our miseries should not be separated from knowledge of God: [[109-humility-in-our-falls#Meditation 1|109,1]].
+- Knowledge of self and of our miseries should not be separated from knowledge of God: 109,1.
 - See: [[humility|Humility]].

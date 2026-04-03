@@ -28,7 +28,7 @@ translator: Rev. Boniface Verheyen, OSB (1844–1923)
 
 # The Holy Rule of St. Benedict
 
-Source: [The Holy Rule Of St. Benedict](https://ccel.org/ccel/b/benedict/rule/cache/rule.txt)
+Source: 
 
 ## Prologue
 

@@ -7,7 +7,6 @@ publish: true
 aliases:
   - Prayer of Union
   - prayer-of-union
-tags: []
 attachment: true
 ---
 

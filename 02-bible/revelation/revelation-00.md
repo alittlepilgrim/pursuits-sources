@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/revelation/0
 
 # Revelation, the Book of Revelation
 
-[Introduction](revelation-00.md) [1](revelation-01.md) [2](revelation-02.md) [3](revelation-03.md) [4](revelation-04.md) [5](revelation-05.md) [6](revelation-06.md) [7](revelation-07.md) [8](revelation-08.md) [9](revelation-09.md) [10](revelation-10.md) [11](revelation-11.md) [12](revelation-12.md) [13](revelation-13.md) [14](revelation-14.md) [15](revelation-15.md) [16](revelation-16.md) [17](revelation-17.md) [18](revelation-18.md) [19](revelation-19.md) [20](revelation-20.md) [21](revelation-21.md) [22](revelation-22.md)
+                      
 
 ## The Book of Revelation
 

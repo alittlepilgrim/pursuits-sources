@@ -22,15 +22,15 @@ The eternal retribution received by each soul at the moment of death, in accorda
 
 ## Divine Intimacy Meditations
 
-- Last —: [[1-the-lord-cometh-from-afar#Meditation 2|1,2]]; [[364-the-end-of-the-world#Meditation 2|364,2]];
-- in the last — God will judge on charity: [[257-fraternal-charity#Meditation 2|257,2]]; [[264-be-ye-merciful#Meditation 2|264,2]]; [[364-the-end-of-the-world#Meditation 2|364,2]];
-- God will judge us with the same mercy which we have shown our neighbor: [[264-be-ye-merciful#Meditation 2|264,2]];
-- necessary to judge things, not according to appearances, but according to their value in the sight of God: [[234-infinite-wisdom#Meditation 2|234,2]].
+- Last —: 1,2; 364,2;
+- in the last — God will judge on charity: 257,2; 264,2; 364,2;
+- God will judge us with the same mercy which we have shown our neighbor: 264,2;
+- necessary to judge things, not according to appearances, but according to their value in the sight of God: 234,2.
 
 ---
 
-- [[1-the-lord-cometh-from-afar|1. The Lord Cometh from Afar]]
-- [[234-infinite-wisdom|234. Infinite Wisdom]]
-- [[257-fraternal-charity|257. Fraternal Charity]]
-- [[264-be-ye-merciful|264. Be Ye Merciful]]
-- [[364-the-end-of-the-world|364. The End of the World]]
+- 1. The Lord Cometh from Afar
+- 234. Infinite Wisdom
+- 257. Fraternal Charity
+- 264. Be Ye Merciful
+- 364. The End of the World

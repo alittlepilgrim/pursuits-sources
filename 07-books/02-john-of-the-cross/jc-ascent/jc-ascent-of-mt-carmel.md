@@ -28,7 +28,7 @@ url: https://ccel.org/ccel/j/john_cross/ascent/cache/ascent.txt
 
 # Ascent of Mount Carmel by St. John of the Cross
 
-[Source](https://ccel.org/ccel/j/john_cross/ascent/cache/ascent.txt)
+
 
 # Publication Info
 

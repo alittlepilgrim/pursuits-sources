@@ -20,10 +20,10 @@ An efficacious sign of grace, instituted by Christ and entrusted to the Church, 
 
 ## Divine Intimacy Meditations
 
-- The exterior rite accomplished by the Church — the interior effect produced by Christ: [[69-the-sacraments#Meditation 1|69,1]];
-- working ex opere operator: [[69-the-sacraments#Meditation 2|69,2]];
-- dispositions with which to receive the —: [[69-the-sacraments#Meditation 2|69,2]]
+- The exterior rite accomplished by the Church — the interior effect produced by Christ: 69,1;
+- working ex opere operator: 69,2;
+- dispositions with which to receive the —: 69,2
 
 ---
 
-- [[69-the-sacraments|69. The Sacraments]]
+- 69. The Sacraments

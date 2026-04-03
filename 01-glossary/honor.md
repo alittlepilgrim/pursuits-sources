@@ -18,6 +18,6 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Attachment to points of — is an obstacle to spiritual progress: [[117-true-glory#Meditation 1|117,1]];
-- struggle against points of —: [[117-true-glory#Meditation 2|117,2]].
-- [[117-true-glory|117. True Glory]]
+- Attachment to points of — is an obstacle to spiritual progress: 117,1;
+- struggle against points of —: 117,2.
+- 117. True Glory

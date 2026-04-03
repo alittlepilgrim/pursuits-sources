@@ -7,7 +7,6 @@ publish: false
 aliases:
   - Introduction to Formation Ii (Members Who Have Made the First Promise)
   - Introduction To Formation II (Members Who Have Made The First Promise)
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 

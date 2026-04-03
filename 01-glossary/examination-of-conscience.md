@@ -20,6 +20,6 @@ Prayerful self-reflection on our words and deeds in the light of the Gospel to d
 
 ## Divine Intimacy Meditations
 
-- Necessity and practice: [[103-examination-of-conscience#Meditation 1|103,1]], [[103-examination-of-conscience#Meditation 2|103,2]];
-- need to examine oneself on the degree of willfulness in our failings: [[103-examination-of-conscience#Meditation 2|103,2]].
-- [[103-examination-of-conscience|103. Examination of Conscience]]
+- Necessity and practice: 103,1, 103,2;
+- need to examine oneself on the degree of willfulness in our failings: 103,2.
+- 103. Examination of Conscience

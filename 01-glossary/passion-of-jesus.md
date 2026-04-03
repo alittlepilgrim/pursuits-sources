@@ -46,18 +46,18 @@ The suffering and death of Jesus ([[1.2.2.4.p1m#^ccc-572|572]], [[1.2.2.4.p1o#^c
 
 - ---
 
-- [[91-prediction-of-the-passion|91. Prediction of the Passion]]
-- [[93-with-jesus-crucified|93. With Jesus Crucified]]
-- [[96-the-proof-of-love|96. The Proof of Love]]
-- [[100-sin|100. Sin]]
-- [[126-jesus-persecuted|126. Jesus Persecuted]]
-- [[128-patience|128. Patience]]
-- [[132-love-of-the-cross|132. Love of the Cross]]
-- [[133-the-triumph-of-jesus|133. The Triumph of Jesus]]
-- [[135-the-meek-lamb|135. The Meek Lamb]]
-- [[136-the-man-of-sorrows|136. The Man of Sorrows]]
-- [[138-the-mystery-of-the-cross|138. The Mystery of the Cross]]
-- [[139-the-victory-of-the-cross|139. The Victory of the Cross]]
-- [[317-zeal-for-souls|317. Zeal for Souls]]
-- [[376-precious-blood|376.]]
-- [[383-christ-king|383.]]
+- 91. Prediction of the Passion
+- 93. With Jesus Crucified
+- 96. The Proof of Love
+- 100. Sin
+- 126. Jesus Persecuted
+- 128. Patience
+- 132. Love of the Cross
+- 133. The Triumph of Jesus
+- 135. The Meek Lamb
+- 136. The Man of Sorrows
+- 138. The Mystery of the Cross
+- 139. The Victory of the Cross
+- 317. Zeal for Souls
+- 376.
+- 383.

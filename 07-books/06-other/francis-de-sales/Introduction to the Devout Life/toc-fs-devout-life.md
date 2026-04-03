@@ -29,7 +29,7 @@ translator: Public-domain English translation (Library of Spiritual Works for En
 
 # Introduction to the Devout Life by St. Francis of Sales
 
-[Online Source](https://ccel.org/ccel/d/desales/devout_life/cache/devout_life.txt)
+
 
 # Table of Contents
 

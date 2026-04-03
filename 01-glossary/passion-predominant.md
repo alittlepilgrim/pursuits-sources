@@ -17,4 +17,4 @@ tags:
 ## Catechism of the Catholic Church
 
 - Struggle against the predominant passion: 103,2.
-- [[103-examination-of-conscience|103. Examination of Conscience]]
+- 103. Examination of Conscience

@@ -7,7 +7,6 @@ publish: true
 aliases:
   - 20251120-192004
   - Lumen Gentium
-tags: []
 author: Catholic Church
 ---
 

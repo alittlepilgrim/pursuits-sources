@@ -6,7 +6,6 @@ type: book
 publish: false
 aliases:
   - The Soul of the Apostolate (First Pages)
-tags: []
 author: Dom Chautard
 ---
 

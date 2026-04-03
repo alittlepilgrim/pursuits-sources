@@ -20,7 +20,7 @@ url: https://bible.usccb.org/bible/zephaniah/0
 
 # Zephaniah, the Book of Zephaniah
 
-[Introduction](zephaniah-00.md) [1](zephaniah-01.md) [2](zephaniah-02.md) [3](zephaniah-03.md)
+   
 
 ## The Book of Zephaniah
 

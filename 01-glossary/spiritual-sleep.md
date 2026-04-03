@@ -7,7 +7,6 @@ publish: true
 aliases:
   - Spiritual Sleep
   - spiritual-sleep
-tags: []
 ---
 
 # Spiritual Sleep

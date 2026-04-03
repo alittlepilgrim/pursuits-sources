@@ -7,7 +7,6 @@ publish: true
 aliases:
   - The Three Ages of the Interior Life Index Volume II
   - The Three Ages of the Interior Life Volume II Index
-tags: []
 author: Reginald Garrigou-Lagrange
 book_author: Rev. Reginald Garrigou-Lagrange, O.P.
 book_volume: "2"

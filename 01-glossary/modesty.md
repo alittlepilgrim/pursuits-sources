@@ -18,5 +18,5 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- The practice of — in relation to chastity: [[89-modesty#Meditation 1|89,1]], [[89-modesty#Meditation 2|89,2]].
-- [[89-modesty|89. Modesty]]
+- The practice of — in relation to chastity: 89,1, 89,2.
+- 89. Modesty

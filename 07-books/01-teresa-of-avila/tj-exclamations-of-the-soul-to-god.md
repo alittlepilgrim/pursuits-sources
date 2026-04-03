@@ -20,7 +20,7 @@ author: Saint Teresa of Avila
 
 by
 
-[Teresa, of Avila, Saint, 1515-1582](https://archive.org/search.php?query=creator%3A%22Teresa%2C+of+Avila%2C+Saint%2C+1515-1582%22); [Milner, John, 1752-1826](https://archive.org/search.php?query=creator%3A%22Milner%2C+John%2C+1752-1826%22)
+; 
 
 ## Source, Internet Archive
 

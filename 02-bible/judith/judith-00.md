@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/judith/0
 
 # Judith, the Book of Judith
 
-[Introduction](judith-00.md) [1](judith-01.md) [2](judith-02.md) [3](judith-03.md) [4](judith-04.md) [5](judith-05.md) [6](judith-06.md) [7](judith-07.md) [8](judith-08.md) [9](judith-09.md) [10](judith-10.md) [11](judith-11.md) [12](judith-12.md) [13](judith-13.md) [14](judith-14.md) [15](judith-15.md) [16](judith-16.md)
+                
 
 ## The Book of Judith
 

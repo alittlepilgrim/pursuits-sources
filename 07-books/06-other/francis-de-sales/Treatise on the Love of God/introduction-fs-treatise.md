@@ -24,7 +24,7 @@ translator: Rev. Henry Benedict Mackey, O.S.B. (under the direction of Bishop Jo
 
 # Treatise on the Love of God by St. Francis de Sales
 
-[Source](https://ccel.org/ccel/d/desales/love/cache/love.txt)
+
 
 ## Publication Info
 

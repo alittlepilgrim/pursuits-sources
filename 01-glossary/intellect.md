@@ -15,7 +15,7 @@ tags:
 
 ## The Interior Castle Study Edition Glossary
 
-A spiritual power by which we come to know truths, either by the gift of faith or by drawing them out from other truths we already know from our experience of the senses. For Teresa the intellect is the thinking power; it is also called “**reason**” because it is the power by which we draw conclusions from other judgments. It is the power by which we ask questions about the what, the why, and the wherefore of things. “God didn’t give me talent for discursive thought or for a profitable use of the imagination” ([L](app://obsidian.md/tj-life) 4.7). Teresa did not think she had good reasoning powers or a good imagination by which she could practice discursive meditation.
+A spiritual power by which we come to know truths, either by the gift of faith or by drawing them out from other truths we already know from our experience of the senses. For Teresa the intellect is the thinking power; it is also called “**reason**” because it is the power by which we draw conclusions from other judgments. It is the power by which we ask questions about the what, the why, and the wherefore of things. “God didn’t give me talent for discursive thought or for a profitable use of the imagination” ( 4.7). Teresa did not think she had good reasoning powers or a good imagination by which she could practice discursive meditation.
 
 ## The Way of Perfection
 

@@ -18,8 +18,8 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Makes spiritual exercises Sensible, easy and pleasant: [[153-aridity#Meditation 1|153,1]].
+- Makes spiritual exercises Sensible, easy and pleasant: 153,1.
 
 ## Divine Intimacy Meditations
 
-- [[153-aridity|153. Aridity]]
+- 153. Aridity

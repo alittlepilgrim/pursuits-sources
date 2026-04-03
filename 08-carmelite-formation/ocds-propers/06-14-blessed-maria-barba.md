@@ -62,7 +62,7 @@ Who lives and reigns with Youin the unity of the Holy Spirit,
 
 God, forever and ever.
 
-![14 June- Blessed Maria Candida of the Eucharist Barba-2024-07-22-1](images/14%20June-%20Blessed%20Maria%20Candida%20of%20the%20Eucharist Barba-2024-07-22-1.jpeg)
+!
 
 *Blessed Maria Candida of the Eucharist (1884-1949)*
 

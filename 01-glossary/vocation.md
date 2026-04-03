@@ -24,22 +24,22 @@ The calling or destiny we have in this life and hereafter. God has created the h
 
 ![[sd-10-index-v#Vocation]]
 
-- To the Christian life: [[75-vocation#Meditation 1|75,1]];
-- to consecration to God: [[75-vocation#Meditation 1|75,1]];
-- privilege and gratuity of — [[75-vocation#Meditation 2|75,2]];
-- correspondence to — [[76-correspondence-to-vocation#Meditation 1|76,1]], [[76-correspondence-to-vocation#Meditation 2|76,2]]; [[322-the-divine-invitation#Meditation 2|322,2]]; [[386-presentation-bvm#Meditation 1|386,1]];
-- progressiveness of the divine call: [[76-correspondence-to-vocation#Meditation 2|76,2]];
-- each day requires a new response, a new acceptance according to the grace of the moment: [[322-the-divine-invitation#Meditation 2|322,2]];
-- infidelity to —: [[134-the-supper-at-bethany#Meditation 2|134,2]]; [[322-the-divine-invitation#Meditation 2|322,2]];
-- fidelity to — requires the breaking of every attachment: [[134-the-supper-at-bethany#Meditation 2|134,2]];
-- cloistered — is an apostolic, universal —: [[324-various-forms-of-the-apostolate#Meditation 2|324,2]].
+- To the Christian life: 75,1;
+- to consecration to God: 75,1;
+- privilege and gratuity of — 75,2;
+- correspondence to — 76,1, 76,2; 322,2; 386,1;
+- progressiveness of the divine call: 76,2;
+- each day requires a new response, a new acceptance according to the grace of the moment: 322,2;
+- infidelity to —: 134,2; 322,2;
+- fidelity to — requires the breaking of every attachment: 134,2;
+- cloistered — is an apostolic, universal —: 324,2.
 - See: CONSECRATION TO GOD. [[consecration-to-god|Consecration to God]]
 
 ---
 
-- [[75-vocation|75. Vocation]]
-- [[76-correspondence-to-vocation|76. Correspondence to Vocation]]
-- [[134-the-supper-at-bethany|134. The Supper at Bethany]]
-- [[322-the-divine-invitation|322. The Divine Invitation]]
-- [[324-various-forms-of-the-apostolate|324. Humility in the apostolate]]
-- [[386-presentation-bvm|386. The Presentation of the Blessed Virgin Mary]]
+- 75. Vocation
+- 76. Correspondence to Vocation
+- 134. The Supper at Bethany
+- 322. The Divine Invitation
+- 324. Humility in the apostolate
+- 386. The Presentation of the Blessed Virgin Mary

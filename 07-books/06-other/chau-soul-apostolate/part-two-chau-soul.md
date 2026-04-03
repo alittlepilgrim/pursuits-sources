@@ -6,7 +6,6 @@ type: book
 publish: false
 aliases:
   - Part Two – The Soul of the Apostolate
-tags: []
 author: Dom Chautard
 ---
 

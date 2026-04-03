@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/philippians/0
 
 # Philippians, the Letter to the Philippians
 
-[Introduction](philippians-00.md) [1](philippians-01.md) [2](philippians-02.md) [3](philippians-03.md) [4](philippians-04.md)
+    
 
 ## The Letter to the Philippians
 

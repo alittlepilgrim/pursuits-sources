@@ -65,7 +65,7 @@ General Curia of the Teresian Carmel www.discalcedcarmelite.com
 
 ## Source:
 
-[General Curia](https://www.carmelitaniscalzi.com/wp-content/uploads/2026/01/EN_Scheda-1-2026-1.pdf)
+
 
 ---
 

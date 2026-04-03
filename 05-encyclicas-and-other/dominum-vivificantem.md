@@ -463,596 +463,596 @@ Given in Rome, at St. Peter's, on May 18, the Solemnity of Pentecost, in the yea
 
 ---
 
-**[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. Jn 7:37f.
+****. Jn 7:37f.
 
-**[2](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2)**. Jn 7:39.
+****. Jn 7:39.
 
-**[3](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3)**. Jn 4:14; cf. Second Vatican Council, Dogmatic Constitution on the Church, Lumen Gentium, n. 4.
+****. Jn 4:14; cf. Second Vatican Council, Dogmatic Constitution on the Church, Lumen Gentium, n. 4.
 
-**[4](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4)**. Cf. Jn 3:5.
+****. Cf. Jn 3:5.
 
-**[5](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5)**. Cf. Leo XIII, Encyclical Divinum Illud Munus (May 9, 1897): Acta Leonis, 17 (1898), pp. 125-148; Pius XII, Encyclical Mystici Corporis (June 29, 1943): AAS 35 (1943), pp. 193-248.
+****. Cf. Leo XIII, Encyclical Divinum Illud Munus (May 9, 1897): Acta Leonis, 17 (1898), pp. 125-148; Pius XII, Encyclical Mystici Corporis (June 29, 1943): AAS 35 (1943), pp. 193-248.
 
-**[6](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6)**. General Audience of June 6, 1973: Insegnamenti di Paolo VI, XI (1973), 477.
+****. General Audience of June 6, 1973: Insegnamenti di Paolo VI, XI (1973), 477.
 
-**[7](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7)**. Roman Missal; cf. 2 Cor 13:13.
+****. Roman Missal; cf. 2 Cor 13:13.
 
-**[8](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-8)**. Jn 3:17.
+****. Jn 3:17.
 
-**[9](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-9)**. Phil 2:11.
+****. Phil 2:11.
 
-**[10](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-A)**. Cf. Second Vatican Council, Dogmatic Constitution on the Church, Lumen Gentium, n. 4; John Paul II, Address to Those Taking Part in the International Congress on Pneumatology (March 26, 1982), I: Insegnamenti V/1 (1982), p. 1004.
+****. Cf. Second Vatican Council, Dogmatic Constitution on the Church, Lumen Gentium, n. 4; John Paul II, Address to Those Taking Part in the International Congress on Pneumatology (March 26, 1982), I: Insegnamenti V/1 (1982), p. 1004.
 
-**[11](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-B)**. Cf. Jn 4:24.
+****. Cf. Jn 4:24.
 
-**[12](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-C)**. Cf. Rom 8:22; Gal 6:15.
+****. Cf. Rom 8:22; Gal 6:15.
 
-**[13](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-D)**. Cf. Mt 24:35.
+****. Cf. Mt 24:35.
 
-**[14](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-E)**. Jn 4:14.
+****. Jn 4:14.
 
-**[15](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-F)**. Second Vatican Council, Dogmatic Constitution on the Church, Lumen Gentium, n. 17.
+****. Second Vatican Council, Dogmatic Constitution on the Church, Lumen Gentium, n. 17.
 
-**[16](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-G)**. Allon parakleton: Jn 14:16.
+****. Allon parakleton: Jn 14:16.
 
-**[17](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-H)**. Jn 14:13, 16f.
+****. Jn 14:13, 16f.
 
-**[18](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-I)**. Cf. 1 Jn 2:1.
+****. Cf. 1 Jn 2:1.
 
-**[19](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-J)**. Jn 14:26.
+****. Jn 14:26.
 
-**[20](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-K)**. Jn 15:26f.
+****. Jn 15:26f.
 
-**[21](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-L)**. Cf. 1 Jn 1:1-3; 4:14.
+****. Cf. 1 Jn 1:1-3; 4:14.
 
-**[22](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-M)**. "The divinely revealed truths, which are contained and expressed in the books of the Sacred Scripture, were written through the inspiration of the Holy Spirit," and thus the same Sacred Scripture must be "read and interpreted with the help of the same Spirit by means of whom it was written": Second Vatican Council, Dogmatic Constitution on Divine Revelation, Dei Verbum, nn. 11, 12.
+****. "The divinely revealed truths, which are contained and expressed in the books of the Sacred Scripture, were written through the inspiration of the Holy Spirit," and thus the same Sacred Scripture must be "read and interpreted with the help of the same Spirit by means of whom it was written": Second Vatican Council, Dogmatic Constitution on Divine Revelation, Dei Verbum, nn. 11, 12.
 
-**[23](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-N)**. Jn 16:12f.
+****. Jn 16:12f.
 
-**[24](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-O)**. Acts 1:1.
+****. Acts 1:1.
 
-**[25](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-P)**. Jn 16:14.
+****. Jn 16:14.
 
-**[26](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Q)**. Jn 16:15.
+****. Jn 16:15.
 
-**[27](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-R)**. Jn 16:7f.
+****. Jn 16:7f.
 
-**[28](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-S)**. Jn 15:26.
+****. Jn 15:26.
 
-**[29](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-T)**. Jn 14:16.
+****. Jn 14:16.
 
-**[30](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-U)**. Jn 14:26.
+****. Jn 14:26.
 
-**[31](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-V)**. Jn 15:26.
+****. Jn 15:26.
 
-**[32](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-W)**. Jn 14:16.
+****. Jn 14:16.
 
-**[33](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-X)**. Jn 16:7.
+****. Jn 16:7.
 
-**[34](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Y)**. Cf. Jn 3:16f., 34; 6:57; 17:3, 18, 23.
+****. Cf. Jn 3:16f., 34; 6:57; 17:3, 18, 23.
 
-**[35](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Z)**. Mt 28:19.
+****. Mt 28:19.
 
-**[36](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-10)**. Cf. 1 Jn 4:8, 16.
+****. Cf. 1 Jn 4:8, 16.
 
-**[37](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-11)**. Cf. I Cor 2:10.
+****. Cf. I Cor 2:10.
 
-**[38](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-12)**. Cf. St. Thomas Aquinas, Summa Theo. Ia, qq. 37-38.
+****. Cf. St. Thomas Aquinas, Summa Theo. Ia, qq. 37-38.
 
-**[39](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-13)**. Rom 5:5.
+****. Rom 5:5.
 
-**[40](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-14)**. Jn 16:14.
+****. Jn 16:14.
 
-**[41](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-15)**. Gen l:lf.
+****. Gen l:lf.
 
-**[42](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-16)**. Gen 1:26.
+****. Gen 1:26.
 
-**[43](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-17)**. Rom 8:19-22.
+****. Rom 8:19-22.
 
-**[44](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-18)**. Jn 16:7.
+****. Jn 16:7.
 
-**[45](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-19)**. Gal 4:6; cf. Rom 8:15.
+****. Gal 4:6; cf. Rom 8:15.
 
-**[46](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1A)**. Cf. Gal 4:6; Phil 1:19; Rom 8:11.
+****. Cf. Gal 4:6; Phil 1:19; Rom 8:11.
 
-**[47](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1B)**. Cf. Jn 16:6.
+****. Cf. Jn 16:6.
 
-**[48](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1C)**. Cf. Jn 16:20.
+****. Cf. Jn 16:20.
 
-**[49](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1D)**. Cf. Jn 16:7.
+****. Cf. Jn 16:7.
 
-**[50](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1E)**. Acts 10:37f.
+****. Acts 10:37f.
 
-**[51](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1F)**. Cf Lk 4:16-21; 3:16; 4:14; Mk 1:10.
+****. Cf Lk 4:16-21; 3:16; 4:14; Mk 1:10.
 
-**[52](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1G)**. 11:1-3.
+****. 11:1-3.
 
-**[53](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1H)**. 61:lf.
+****. 61:lf.
 
-**[54](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1I)**. 48:16.
+****. 48:16.
 
-**[55](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1J)**. Is 42:1.
+****. Is 42:1.
 
-**[56](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1K)**. Cf. Is 53:5-6, 8.
+****. Cf. Is 53:5-6, 8.
 
-**[57](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1L)**. Is 42:1.
+****. Is 42:1.
 
-**[58](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1M)**. Is 42:6.
+****. Is 42:6.
 
-**[59](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1N)**. Is 49:6.
+****. Is 49:6.
 
-**[60](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1O)**. Is 59:21.
+****. Is 59:21.
 
-**[61](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1P)**. Cf. Lk 2:25-35.
+****. Cf. Lk 2:25-35.
 
-**[62](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Q)**. Cf. Lk 1:35.
+****. Cf. Lk 1:35.
 
-**[63](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1R)**. Cf. Lk 2:19, 51.
+****. Cf. Lk 2:19, 51.
 
-**[64](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1S)**. Cf. Lk 4:16-21; Is 61:lf.
+****. Cf. Lk 4:16-21; Is 61:lf.
 
-**[65](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1T)**. Lk 3:16; cf. Mt 3:11; Mk 1:7f.; Jn 1:33.
+****. Lk 3:16; cf. Mt 3:11; Mk 1:7f.; Jn 1:33.
 
-**[66](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1U)**. n 1:29.
+****. n 1:29.
 
-**[67](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1V)**. Cf. Jn 1:33f.
+****. Cf. Jn 1:33f.
 
-**[68](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1W)**. Lk 3:21f.; cf. Mt 3:16; Mk 1:10.
+****. Lk 3:21f.; cf. Mt 3:16; Mk 1:10.
 
-**[69](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1X)**. Mt 3:17.
+****. Mt 3:17.
 
-**[70](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Y)**. Cf. St. Basil, De Spiritu Sancto, XVI, 39: PG 32, 139.
+****. Cf. St. Basil, De Spiritu Sancto, XVI, 39: PG 32, 139.
 
-**[71](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Z)**. Acts 1:1.
+****. Acts 1:1.
 
-**[72](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-20)**. Cf. Lk 4:1.
+****. Cf. Lk 4:1.
 
-**[73](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-21)**. Cf. Lk 10:17-20.
+****. Cf. Lk 10:17-20.
 
-**[74](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-22)**. Lk 10:21; cf. Mt 11:25f.
+****. Lk 10:21; cf. Mt 11:25f.
 
-**[75](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-23)**. Lk 10:22; cf. Mt 11:27.
+****. Lk 10:22; cf. Mt 11:27.
 
-**[76](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-24)**. Mt 3:11; Lk 3:16.
+****. Mt 3:11; Lk 3:16.
 
-**[77](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-25)**. Jn 16:13.
+****. Jn 16:13.
 
-**[78](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-26)**. Jn 16:14.
+****. Jn 16:14.
 
-**[79](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-27)**. Jn 16:15.
+****. Jn 16:15.
 
-**[80](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-28)**. Cf. Jn 14:26; 15:26.
+****. Cf. Jn 14:26; 15:26.
 
-**[81](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-29)**. Jn 3:16.
+****. Jn 3:16.
 
-**[82](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2A)**. Rom 1:3f.
+****. Rom 1:3f.
 
-**[83](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2B)**. Ez 36:26f.; cf. Jn 7:37-39; 19:34.
+****. Ez 36:26f.; cf. Jn 7:37-39; 19:34.
 
-**[84](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2C)**. Jn 16:7.
+****. Jn 16:7.
 
-**[85](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2D)**. St. Cyril of Alexandria, In Ioannis Evangelium, Bk. V, Ch. II: PG 73, 755.
+****. St. Cyril of Alexandria, In Ioannis Evangelium, Bk. V, Ch. II: PG 73, 755.
 
-**[86](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2E)**. Jn 20:19-22.
+****. Jn 20:19-22.
 
-**[87](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2F)**. Cf. Jn 19:30.
+****. Cf. Jn 19:30.
 
-**[88](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2G)**. Cf. Rom 1:4.
+****. Cf. Rom 1:4.
 
-**[89](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2H)**. Cf. Jn 16:20.
+****. Cf. Jn 16:20.
 
-**[90](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2I)**. Jn 16:7.
+****. Jn 16:7.
 
-**[91](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2J)**. Jn 16:15.
+****. Jn 16:15.
 
-**[92](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2K)**. Second Vatican Council, Dogmatic Constitution on the Church, Lumen Gentium, n. 4.
+****. Second Vatican Council, Dogmatic Constitution on the Church, Lumen Gentium, n. 4.
 
-**[93](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2L)**. Jn 15:26f.
+****. Jn 15:26f.
 
-**[94](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2M)**. n. 4.
+****. n. 4.
 
-**[95](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2N)**. Cf. Acts 1:14.
+****. Cf. Acts 1:14.
 
-**[96](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2O)**. Dogmatic Constitution on the Church, Lumen Gentium, n. 4. There is a whole Patristic and theological tradition concerning the intimate union between the Holy Spirit and the Church, a union presented sometimes as analogous to the relation between the soul and the body in man: cf. St. Irenaeus, Adversus Haereses, III, 24, 1: SC 211, pp. 470-474; St. Augustine, Sermo 267, 4, 4: PL 38, 1231; Sermo 268, 2: PL 38, 1232; In Iohannis Evangelium Tractatus, XXV, 13; XXVII, 6: CCL 36, 266, 272f.; St. Gregory the Great, In Septem Psalmos Poenitentiales Expositio, Psal. V, 1: PL 79, 602; Didymus the Blind, De Trinitate, II, 1: PG 39, 449f.; St. Athanasius, Oratio 111 Contra Arianos, 22, 23, 24: PG 26, 368f., 372f.; St. John Chrysostom, In Epistolam ad Ephesios, Homily IX, 3: PG 62, 72f. St. Thomas Aquinas has synthesized the preceding Patristic and theological tradition, presenting the Holy Spirit as the "heart" and the "soul" of the Church; cf. Summa Theo., III, q. 8, a. 1, ad 3; In Symbolum Apostolorum Expositio, a. IX; In Tertiurn Librum Sententiarum, Dist. XIII, q. 2, a. 2, Quaestiuncula 3. Decree on the Church's Missionary Activity, Ad Gentes,
+****. Dogmatic Constitution on the Church, Lumen Gentium, n. 4. There is a whole Patristic and theological tradition concerning the intimate union between the Holy Spirit and the Church, a union presented sometimes as analogous to the relation between the soul and the body in man: cf. St. Irenaeus, Adversus Haereses, III, 24, 1: SC 211, pp. 470-474; St. Augustine, Sermo 267, 4, 4: PL 38, 1231; Sermo 268, 2: PL 38, 1232; In Iohannis Evangelium Tractatus, XXV, 13; XXVII, 6: CCL 36, 266, 272f.; St. Gregory the Great, In Septem Psalmos Poenitentiales Expositio, Psal. V, 1: PL 79, 602; Didymus the Blind, De Trinitate, II, 1: PG 39, 449f.; St. Athanasius, Oratio 111 Contra Arianos, 22, 23, 24: PG 26, 368f., 372f.; St. John Chrysostom, In Epistolam ad Ephesios, Homily IX, 3: PG 62, 72f. St. Thomas Aquinas has synthesized the preceding Patristic and theological tradition, presenting the Holy Spirit as the "heart" and the "soul" of the Church; cf. Summa Theo., III, q. 8, a. 1, ad 3; In Symbolum Apostolorum Expositio, a. IX; In Tertiurn Librum Sententiarum, Dist. XIII, q. 2, a. 2, Quaestiuncula 3. Decree on the Church's Missionary Activity, Ad Gentes,
 
-**[97](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2P)**. Cf. Rev 2:29; 3:6, 13, 22.
+****. Cf. Rev 2:29; 3:6, 13, 22.
 
-**[98](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Q)**. Cf. Jn 12:31; 14:30; 16:11.
+****. Cf. Jn 12:31; 14:30; 16:11.
 
-**[99](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2R)**. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 1.
+****. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 1.
 
-**[100](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2S)**. Ibid., n. 41.
+****. Ibid., n. 41.
 
-**[101](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2T)**. Ibid., n. 26.
+****. Ibid., n. 26.
 
-**[102](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2U)**. Jn 16:7f.
+****. Jn 16:7f.
 
-**[103](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2V)**. Jn 16:7.
+****. Jn 16:7.
 
-**[104](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2W)**. Jn 16:8-11.
+****. Jn 16:8-11.
 
-**[105](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2X)**. Cf. Jn 3:17; 12:47.
+****. Cf. Jn 3:17; 12:47.
 
-**[106](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Y)**. Cf. Eph 6:12.
+****. Cf. Eph 6:12.
 
-**[107](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Z)**. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 2.
+****. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 2.
 
-**[108](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-30)**. Cf. ibid., nn. 10, 13, 27, 37, 63, 73, 79, 80.
+****. Cf. ibid., nn. 10, 13, 27, 37, 63, 73, 79, 80.
 
-**[109](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-31)**. Acts 2:4.
+****. Acts 2:4.
 
-**[110](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-32)**. Cf. St. Irenaeus, Adversus Haereses, III, 17, 2: SC 211, pp. 330-332.
+****. Cf. St. Irenaeus, Adversus Haereses, III, 17, 2: SC 211, pp. 330-332.
 
-**[111](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-33)**. Acts 1:4, S, 8.
+****. Acts 1:4, S, 8.
 
-**[112](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-34)**. Acts 2:22-24.
+****. Acts 2:22-24.
 
-**[113](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-35)**. Cf. Acts 3:14f.; 4:10, 27f.; 7:52; 10:39; 13:28f.; etc.
+****. Cf. Acts 3:14f.; 4:10, 27f.; 7:52; 10:39; 13:28f.; etc.
 
-**[114](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-36)**. Cf. Jn 3:17; 12:47.
+****. Cf. Jn 3:17; 12:47.
 
-**[115](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-37)**. Acts 2:36.
+****. Acts 2:36.
 
-**[116](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-38)**. Acts 2:37f.
+****. Acts 2:37f.
 
-**[117](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-39)**. Cf. Mk 1:15.
+****. Cf. Mk 1:15.
 
-**[118](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3A)**. Jn 20:22.
+****. Jn 20:22.
 
-**[119](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3B)**. Cf. Jn 16:9.
+****. Cf. Jn 16:9.
 
-**[120](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3C)**. Hos 14:14 Vulgate; cf. 1 Cor 15:55.
+****. Hos 14:14 Vulgate; cf. 1 Cor 15:55.
 
-**[121](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3D)**. Cf. 1 Cor 2:10.
+****. Cf. 1 Cor 2:10.
 
-**[122](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3E)**. Cf. 2 Thess 2:7.
+****. Cf. 2 Thess 2:7.
 
-**[123](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3F)**. Cf. 1 Tim 3:16.
+****. Cf. 1 Tim 3:16.
 
-**[124](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3G)**. Cf. Reconciliatio et Paenitentia (December 2, 1984), 19-22: AAS 77 (1985), pp. 229-233.
+****. Cf. Reconciliatio et Paenitentia (December 2, 1984), 19-22: AAS 77 (1985), pp. 229-233.
 
-**[125](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3H)**. Cf. Gen 1-3.
+****. Cf. Gen 1-3.
 
-**[126](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3I)**. Cf. Rom S:19; Phil 2:8.
+****. Cf. Rom S:19; Phil 2:8.
 
-**[127](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3J)**. Cf. Jn 1:1, 2, 3, 10.
+****. Cf. Jn 1:1, 2, 3, 10.
 
-**[128](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3K)**. Cf. Col 1:15-18.
+****. Cf. Col 1:15-18.
 
-**[129](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3L)**. Cf. Jn 8:44.
+****. Cf. Jn 8:44.
 
-**[130](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3M)**. Cf. Gen 1:2.
+****. Cf. Gen 1:2.
 
-**[131](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3N)**. Cf. Gen 1:26, 28, 29.
+****. Cf. Gen 1:26, 28, 29.
 
-**[132](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3O)**. Dogmatic Constitution on Divine Revelation, Dei Verbum, n. 2.
+****. Dogmatic Constitution on Divine Revelation, Dei Verbum, n. 2.
 
-**[133](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3P)**. Cf. 1 Cor 2:10f.
+****. Cf. 1 Cor 2:10f.
 
-**[134](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3Q)**. Cf. Jn 16:11.
+****. Cf. Jn 16:11.
 
-**[135](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3R)**. Cf. Phil 2:8.
+****. Cf. Phil 2:8.
 
-**[136](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3S)**. Cf. Gen 2:16f.
+****. Cf. Gen 2:16f.
 
-**[137](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3T)**. Gen 3:5.
+****. Gen 3:5.
 
-**[138](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3U)**. Cf. Gen 3:22 concerning the "tree of life"; cf. also Jn 3:36; 4:14; 5:24; 6:40, 47; 10:28; 12:50; 14:6; Acts 13:48; Rom 6:23; Gal 6:8; 1 Tim 1:16; Tit 1:2; 3:7; 1 Pet 3:22; 1 Jn 1:2; 2:25; 5:11, 13; Rev 2:7.
+****. Cf. Gen 3:22 concerning the "tree of life"; cf. also Jn 3:36; 4:14; 5:24; 6:40, 47; 10:28; 12:50; 14:6; Acts 13:48; Rom 6:23; Gal 6:8; 1 Tim 1:16; Tit 1:2; 3:7; 1 Pet 3:22; 1 Jn 1:2; 2:25; 5:11, 13; Rev 2:7.
 
-**[139](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3V)**. Cf. St. Thomas Aquinas, Summa Theo., Ia-IIae, q. 80, a. 4, ad 3.
+****. Cf. St. Thomas Aquinas, Summa Theo., Ia-IIae, q. 80, a. 4, ad 3.
 
-**[140](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3W)**. 1 Jn 3:8.
+****. 1 Jn 3:8.
 
-**[141](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3X)**. Jn 16:11.
+****. Jn 16:11.
 
-**[142](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3Y)**. Cf. Eph 6:12; Lk 22:53.
+****. Cf. Eph 6:12; Lk 22:53.
 
-**[143](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3Z)**. De Civitate Dei, XIV, 28: CCL 48, p. 541.
+****. De Civitate Dei, XIV, 28: CCL 48, p. 541.
 
-**[144](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-40)**. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 36.
+****. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 36.
 
-**[145](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-41)**. In Greek the verb is parakalem, which means to invoke, to call to oneself.
+****. In Greek the verb is parakalem, which means to invoke, to call to oneself.
 
-**[146](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-42)**. Cf. Gen 6:7.
+****. Cf. Gen 6:7.
 
-**[147](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-43)**. Gen 6:5-7.
+****. Gen 6:5-7.
 
-**[148](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-44)**. Cf. Rom 8:20-22.
+****. Cf. Rom 8:20-22.
 
-**[149](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-45)**. Cf. Mt 15:32; Mk 8:2.
+****. Cf. Mt 15:32; Mk 8:2.
 
-**[150](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-46)**. Heb 9:13f.
+****. Heb 9:13f.
 
-**[151](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-47)**. Jn 20:22f.
+****. Jn 20:22f.
 
-**[152](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-48)**. Acts 10:38.
+****. Acts 10:38.
 
-**[153](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-49)**. Heb 5:7f.
+****. Heb 5:7f.
 
-**[154](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4A)**. Heb 9:14.
+****. Heb 9:14.
 
-**[155](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4B)**. Cf. Lev 9:24; 1 Kings 18:38; 2 Chron 7:1.
+****. Cf. Lev 9:24; 1 Kings 18:38; 2 Chron 7:1.
 
-**[156](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4C)**. Cf. Jn 15:26.
+****. Cf. Jn 15:26.
 
-**[157](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4D)**. Jn 20:22f.
+****. Jn 20:22f.
 
-**[158](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4E)**. Mt 3:11.
+****. Mt 3:11.
 
-**[159](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4F)**. Cf. Jn 3:8.
+****. Cf. Jn 3:8.
 
-**[160](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4G)**. Jn. 20:22f.
+****. Jn. 20:22f.
 
-**[161](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4H)**. Cf. Sequence Veni, Sancte Spiritus.
+****. Cf. Sequence Veni, Sancte Spiritus.
 
-**[162](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4I)**. St. Bonaventure, De Septem Donis Spiritus Sancti, Collatio II, 3: Ad Claras Aquas, V, 463.
+****. St. Bonaventure, De Septem Donis Spiritus Sancti, Collatio II, 3: Ad Claras Aquas, V, 463.
 
-**[163](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4J)**. Mk 1:15.
+****. Mk 1:15.
 
-**[164](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4K)**. Cf. Heb 9:14.
+****. Cf. Heb 9:14.
 
-**[165](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4L)**. Cf. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, 16.
+****. Cf. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, 16.
 
-**[166](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4M)**. Cf. Gen 2:9, 17.
+****. Cf. Gen 2:9, 17.
 
-**[167](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4N)**. Second Vatican Council, Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 16.
+****. Second Vatican Council, Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 16.
 
-**[168](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4O)**. Ibid., n. 27.
+****. Ibid., n. 27.
 
-**[169](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4P)**. Cf. ibid., n. 13.
+****. Cf. ibid., n. 13.
 
-**[170](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4Q)**. Cf. Post-Synodal Apostolic Exhortation Reconciliatio et Paenitentia (December 2, 1984), 16: AAS 77 (1985), pp. 213-217.
+****. Cf. Post-Synodal Apostolic Exhortation Reconciliatio et Paenitentia (December 2, 1984), 16: AAS 77 (1985), pp. 213-217.
 
-**[171](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4R)**. Pastoral Constitution on the Church in the Modern World Gaudium et Spes, n. 10.
+****. Pastoral Constitution on the Church in the Modern World Gaudium et Spes, n. 10.
 
-**[172](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4S)**. Cf. Rom 7:14-15, 19.
+****. Cf. Rom 7:14-15, 19.
 
-**[173](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4T)**. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 37.
+****. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 37.
 
-**[174](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4U)**. Ibid., n. 13.
+****. Ibid., n. 13.
 
-**[175](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4V)**. Ibid., n. 37.
+****. Ibid., n. 37.
 
-**[176](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4W)**. Cf. Sequence of Pentecost: Reple Cordis Intirna.
+****. Cf. Sequence of Pentecost: Reple Cordis Intirna.
 
-**[177](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4X)**. Cf. St. Augustine, Enarr. in Ps. XLI, 13: CCL, 38, 470: "What is the abyss, and what does the abyss invoke? If abyss means depth, do we not consider that perhaps the heart of man is an abyss? What indeed is more deep than this abyss? Men can speak, can be seen through the working of their members, can be heard in conversation; but whose thought can be penetrated, whose heart can be read?"
+****. Cf. St. Augustine, Enarr. in Ps. XLI, 13: CCL, 38, 470: "What is the abyss, and what does the abyss invoke? If abyss means depth, do we not consider that perhaps the heart of man is an abyss? What indeed is more deep than this abyss? Men can speak, can be seen through the working of their members, can be heard in conversation; but whose thought can be penetrated, whose heart can be read?"
 
-**[178](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4Y)**. Cf. Heb 9:14.
+****. Cf. Heb 9:14.
 
-**[179](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4Z)**. Jn 14:17.
+****. Jn 14:17.
 
-**[180](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-50)**. Mt 12:31f.
+****. Mt 12:31f.
 
-**[181](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-51)**. Mk 3:28f.
+****. Mk 3:28f.
 
-**[182](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-52)**. Lk 12:10.
+****. Lk 12:10.
 
-**[183](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-53)**. St. Thomas Aquinas, Summa Theo.IIa-IIae, q. 14, a. 3: cf. St. Augustine, Epist. 185, 11, 48-49: PL 33, 814f.; St. Bonaventure Comment. in Evang. S. Lucae, Ch. XIV, 15-16: Ad Claras Aquas VII, 314f.
+****. St. Thomas Aquinas, Summa Theo.IIa-IIae, q. 14, a. 3: cf. St. Augustine, Epist. 185, 11, 48-49: PL 33, 814f.; St. Bonaventure Comment. in Evang. S. Lucae, Ch. XIV, 15-16: Ad Claras Aquas VII, 314f.
 
-**[184](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-54)**. Cf. Ps 81/80:13; Jer 7:24; Mk 3:5.
+****. Cf. Ps 81/80:13; Jer 7:24; Mk 3:5.
 
-**[185](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-55)**. Post-Synodal Apostolic Exhortation Reconciliatio et Paenitentia (December 2, 1984), n. 18: AAS 77 (1985), pp. 224-228.
+****. Post-Synodal Apostolic Exhortation Reconciliatio et Paenitentia (December 2, 1984), n. 18: AAS 77 (1985), pp. 224-228.
 
-**[186](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-56)**. Pius XII, Radio Message to the National Catechetical Congress of the United States of America in Boston (October 26, 1946): Discorsi e Radiomessaggi, VIII (1946), 228.
+****. Pius XII, Radio Message to the National Catechetical Congress of the United States of America in Boston (October 26, 1946): Discorsi e Radiomessaggi, VIII (1946), 228.
 
-**[187](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-57)**. Post-Synodal Apostolic Exhortation Reconciliatio et Paenitentia (December 2, 1984), n. 18: AAS 77 (1985), pp. 225f
+****. Post-Synodal Apostolic Exhortation Reconciliatio et Paenitentia (December 2, 1984), n. 18: AAS 77 (1985), pp. 225f
 
-**[188](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-58)**. I Thess 5:19; Eph 4:30.
+****. I Thess 5:19; Eph 4:30.
 
-**[189](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-59)**. Cf. Post-Synodal Apostolic Exhortation, Reconciliatio et Paenitentia (December 2, 1984), nn. 14-22: AAS 77 (19853, pp. 211-233
+****. Cf. Post-Synodal Apostolic Exhortation, Reconciliatio et Paenitentia (December 2, 1984), nn. 14-22: AAS 77 (19853, pp. 211-233
 
-**[190](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5A)**. Cf St. Augustine, De Civitate Dei, XIV 28: CCL 48 451
+****. Cf St. Augustine, De Civitate Dei, XIV 28: CCL 48 451
 
-**[191](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5B)**. Cf. Jn 16:11.
+****. Cf. Jn 16:11.
 
-**[192](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5C)**. Cf. Jn 16:15.
+****. Cf. Jn 16:15.
 
-**[193](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5D)**. Cf. Gal 4:4.
+****. Cf. Gal 4:4.
 
-**[194](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5E)**. Rev 1:8; 22:13.
+****. Rev 1:8; 22:13.
 
-**[195](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5F)**. Jn 3:16.
+****. Jn 3:16.
 
-**[196](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5G)**. Gal 4:4f.
+****. Gal 4:4f.
 
-**[197](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5H)**. Lk 1:34f.
+****. Lk 1:34f.
 
-**[198](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5I)**. Mt 1:18.
+****. Mt 1:18.
 
-**[199](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5J)**. Mt 1:20f.
+****. Mt 1:20f.
 
-**[200](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5K)**. Cf. St. Thomas Aquinas, Summa Theo. IIIa, q. 2, aa. 10-12; q. 6, a. 6; q. 7, a. 13.
+****. Cf. St. Thomas Aquinas, Summa Theo. IIIa, q. 2, aa. 10-12; q. 6, a. 6; q. 7, a. 13.
 
-**[201](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5L)**. Lk 1:38.
+****. Lk 1:38.
 
-**[202](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5M)**. Jn1:14.
+****. Jn1:14.
 
-**[203](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5N)**. Col 1:15.
+****. Col 1:15.
 
-**[204](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5O)**. Cf., for example, Gen 9: 11; Deut 5:26; Job 34:15; Is 40:6; 42:10; Ps 145/144:21; Lk 3:6; 1 Pet 1:24.
+****. Cf., for example, Gen 9: 11; Deut 5:26; Job 34:15; Is 40:6; 42:10; Ps 145/144:21; Lk 3:6; 1 Pet 1:24.
 
-**[205](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5P)**. Lk 1:45.
+****. Lk 1:45.
 
-**[206](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5Q)**. Cf. Lk 1:41.
+****. Cf. Lk 1:41.
 
-**[207](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5R)**. Cf. Jn 16:9.
+****. Cf. Jn 16:9.
 
-**[208](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5S)**. 2 Cor 3:17.
+****. 2 Cor 3:17.
 
-**[209](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5T)**. Cf. Rom 1:5.
+****. Cf. Rom 1:5.
 
-**[210](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5U)**. Rom 8:29.
+****. Rom 8:29.
 
-**[211](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5V)**. Cf.Jn 1:14,4, 12f.
+****. Cf.Jn 1:14,4, 12f.
 
-**[212](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5W)**. Cf. Rom 8:14.
+****. Cf. Rom 8:14.
 
-**[213](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5X)**. Cf. Gal 4:6; Rom 5:5; 2 Cor 1:22.
+****. Cf. Gal 4:6; Rom 5:5; 2 Cor 1:22.
 
-**[214](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5Y)**. Rom 8:15.
+****. Rom 8:15.
 
-**[215](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5Z)**. Rom 8:16f.
+****. Rom 8:16f.
 
-**[216](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-60)**. Cf. Ps 104/103:30.
+****. Cf. Ps 104/103:30.
 
-**[217](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-61)**. Rom 8:19.
+****. Rom 8:19.
 
-**[218](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-62)**. Rom 8:29.
+****. Rom 8:29.
 
-**[219](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-63)**. Cf. 2 Pet 1:4.
+****. Cf. 2 Pet 1:4.
 
-**[220](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-64)**. Cf. Eph 2:18; Dogmatic Constitution on Divine Revelation, Dei Verbum, n. 2.
+****. Cf. Eph 2:18; Dogmatic Constitution on Divine Revelation, Dei Verbum, n. 2.
 
-**[221](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-65)**. Cf. 1 Cor 2:12.
+****. Cf. 1 Cor 2:12.
 
-**[222](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-66)**. Cf. Eph 1:3-14.
+****. Cf. Eph 1:3-14.
 
-**[223](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-67)**. Eph 1:13f.
+****. Eph 1:13f.
 
-**[224](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-68)**. Cf. Jn 3:8.
+****. Cf. Jn 3:8.
 
-**[225](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-69)**. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 22; cf. Dogmatic Constitution on the Church, Lumen Gentium, n. 16.
+****. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 22; cf. Dogmatic Constitution on the Church, Lumen Gentium, n. 16.
 
-**[226](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6A)**. Jn 4:24.
+****. Jn 4:24.
 
-**[227](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6B)**. Ibid.
+****. Ibid.
 
-**[228](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6C)**. Cf. St. Augustine, Confess., III, 6, 11: CCL 27, 33.
+****. Cf. St. Augustine, Confess., III, 6, 11: CCL 27, 33.
 
-**[229](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6D)**. Cf. Tit 2:11.
+****. Cf. Tit 2:11.
 
-**[230](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6E)**. Cf. Is 45:15.
+****. Cf. Is 45:15.
 
-**[231](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6F)**. Cf. Wis 1:7.
+****. Cf. Wis 1:7.
 
-**[232](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6G)**. Lk 2:27, 34.
+****. Lk 2:27, 34.
 
-**[233](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6H)**. Gal 5:17.
+****. Gal 5:17.
 
-**[234](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6I)**. Gal 5:16f.
+****. Gal 5:16f.
 
-**[235](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6J)**. Cf. Gal 5:9-21.
+****. Cf. Gal 5:9-21.
 
-**[236](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6K)**. Gal 5:22f.
+****. Gal 5:22f.
 
-**[237](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6L)**. Gal 5:25.
+****. Gal 5:25.
 
-**[238](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6M)**. Cf. Rom 8:5, 9.
+****. Cf. Rom 8:5, 9.
 
-**[239](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6N)**. Rom 8:6, 13.
+****. Rom 8:6, 13.
 
-**[240](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6O)**. Rom 8:10, 12.
+****. Rom 8:10, 12.
 
-**[241](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6P)**. Cf. 1 Cor 6:20.
+****. Cf. 1 Cor 6:20.
 
-**[242](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6Q)**. Cf. Pastoral Constitution on the Churchin the Modern World, Gaudium et Spes, nn. 19, 20, 21.
+****. Cf. Pastoral Constitution on the Churchin the Modern World, Gaudium et Spes, nn. 19, 20, 21.
 
-**[243](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6R)**. Lk 3:6; cf. Is 40:5.
+****. Lk 3:6; cf. Is 40:5.
 
-**[244](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6S)**. Cf. Rom 8:23.
+****. Cf. Rom 8:23.
 
-**[245](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6T)**. Rom 8:3.
+****. Rom 8:3.
 
-**[246](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6U)**. Rom 8:26.
+****. Rom 8:26.
 
-**[247](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6V)**. Rom 8:11.
+****. Rom 8:11.
 
-**[248](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6W)**. Rom 8:10.
+****. Rom 8:10.
 
-**[249](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6X)** Cf Encyclical Redemptor Hominis (March 4, 1979), n. 14: AAS 71 (1979), pp. 284f.
+**** Cf Encyclical Redemptor Hominis (March 4, 1979), n. 14: AAS 71 (1979), pp. 284f.
 
-**[250](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6Y)**. Cf. Wis 15:3.
+****. Cf. Wis 15:3.
 
-**[251](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6Z)**. Cf. Eph 3:14-16.
+****. Cf. Eph 3:14-16.
 
-**[252](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-70)**. Cf. 1 Cor 2:10f.
+****. Cf. 1 Cor 2:10f.
 
-**[253](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-71)**. Cf. Rom 8:9; 1 Cor 6:19.
+****. Cf. Rom 8:9; 1 Cor 6:19.
 
-**[254](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-72)**. Cf. Jn 14:23; St. Irenaeus, Adversus Haereses, V, 6, 1: SC 153, pp. 72-80; St. Hilary, De Trinitate, VIII, 19, 21: PL 10, 250, 252; St. Ambrose, De Spiritu Sancto, I, 6, 8: PL 16, 752f.; St. Augustine, Enarr. in Ps. XLIX, 2: CCL 38, pp. 575f.; St. Cyril of Alexandria, In Ioannis Evangelium, Bk. I; II: PG 73, 154-158; 246; Bk. IX: PG 74, 262; St. Athanasius, Oratio111 Contra Arianos, 24: PG 26, 374f.; Epist. I ad Serapionem, 24: PG 26, 586f.; Didymus the Blind, De Trinitate, II, 6-7: PG 39, 523-530; St. John Chrysostom, In Epist. ad Romanos Homilia XIII, 8: PG 60, 519; St. Thomas Aquinas, Summa Theo. Ia, q. 43, aa. 1, 3-6.
+****. Cf. Jn 14:23; St. Irenaeus, Adversus Haereses, V, 6, 1: SC 153, pp. 72-80; St. Hilary, De Trinitate, VIII, 19, 21: PL 10, 250, 252; St. Ambrose, De Spiritu Sancto, I, 6, 8: PL 16, 752f.; St. Augustine, Enarr. in Ps. XLIX, 2: CCL 38, pp. 575f.; St. Cyril of Alexandria, In Ioannis Evangelium, Bk. I; II: PG 73, 154-158; 246; Bk. IX: PG 74, 262; St. Athanasius, Oratio111 Contra Arianos, 24: PG 26, 374f.; Epist. I ad Serapionem, 24: PG 26, 586f.; Didymus the Blind, De Trinitate, II, 6-7: PG 39, 523-530; St. John Chrysostom, In Epist. ad Romanos Homilia XIII, 8: PG 60, 519; St. Thomas Aquinas, Summa Theo. Ia, q. 43, aa. 1, 3-6.
 
-**[255](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-73)**. Cf. Gen 1:26f.; St. Thomas Aquinas, Summa Theo. Ia, q. 93, aa. 4, 5, 8.
+****. Cf. Gen 1:26f.; St. Thomas Aquinas, Summa Theo. Ia, q. 93, aa. 4, 5, 8.
 
-**[256](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-74)**. Cf. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 24; cf. also n. 25.
+****. Cf. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 24; cf. also n. 25.
 
-**[257](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-75)**. Cf. ibid., nn. 38, 40.
+****. Cf. ibid., nn. 38, 40.
 
-**[258](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-76)**. Cf. 1 Cor 15:28.
+****. Cf. 1 Cor 15:28.
 
-**[259](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-77)**. Cf. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 24.
+****. Cf. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 24.
 
-**[260](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-78)**. Cf. St. Irenaeus, Adversus Haereses, IV, 20, 7: SC 100/2,p. 648.
+****. Cf. St. Irenaeus, Adversus Haereses, IV, 20, 7: SC 100/2,p. 648.
 
-**[261](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-79)**. St. Basil, De Spiritu Sancto, IX, 22: PG 32, 110.
+****. St. Basil, De Spiritu Sancto, IX, 22: PG 32, 110.
 
-**[262](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7A)**. Rom 8:2.
+****. Rom 8:2.
 
-**[263](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7B)**. 2 Cor 3:17.
+****. 2 Cor 3:17.
 
-**[264](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7C)**. Cf. Second Vatican Council, Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, nn. 53-59.
+****. Cf. Second Vatican Council, Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, nn. 53-59.
 
-**[265](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7D)**. Ibid., n. 38.
+****. Ibid., n. 38.
 
-**[266](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7E)**. 1 Cor 8:6.
+****. 1 Cor 8:6.
 
-**[267](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7F)**. Jn 16:7.
+****. Jn 16:7.
 
-**[268](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7G)**. Jn 14:18.
+****. Jn 14:18.
 
-**[269](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7H)**. Mt 28:20.
+****. Mt 28:20.
 
-**[270](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7I)**. This is what the "Epiclesis" before the Consecration expresses: "Let your Spirit come upon these gifts to make them holy, so that they may become for us the body and blood of our Lord, Jesus Christ" (Eucharistic Prayer II).
+****. This is what the "Epiclesis" before the Consecration expresses: "Let your Spirit come upon these gifts to make them holy, so that they may become for us the body and blood of our Lord, Jesus Christ" (Eucharistic Prayer II).
 
-**[271](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7J)**. Cf. Eph 3:16.
+****. Cf. Eph 3:16.
 
-**[272](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7K)**. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 24.
+****. Pastoral Constitution on the Church in the Modern World, Gaudium et Spes, n. 24.
 
-**[273](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7L)**. Ibid.
+****. Ibid.
 
-**[274](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7M)**. Cf. Acts 2:42.
+****. Cf. Acts 2:42.
 
-**[275](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7N)**. Second Vatican Council, Decree on Ecumensim, Unitatis Redintegratio, n. 2.
+****. Second Vatican Council, Decree on Ecumensim, Unitatis Redintegratio, n. 2.
 
-**[276](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7O)**. St. Augustine, In Ioannis Evangelium Tractatus XXVI, 13, CCL 36, p. 266; cf. Second Vatican Council, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, n. 47.
+****. St. Augustine, In Ioannis Evangelium Tractatus XXVI, 13, CCL 36, p. 266; cf. Second Vatican Council, Constitution on the Sacred Liturgy, Sacrosanctum Concilium, n. 47.
 
-**[277](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7P)**. Dogmatic Constitution on the Church, Lumen Gentium, n. 1.
+****. Dogmatic Constitution on the Church, Lumen Gentium, n. 1.
 
-**[278](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7Q)**. Acts 17:28.
+****. Acts 17:28.
 
-**[279](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7R)**. 1 Tim 2:4.
+****. 1 Tim 2:4.
 
-**[280](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7S)**. Cf. Heb 5:7.
+****. Cf. Heb 5:7.
 
-**[281](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7T)**. Lk 11:13.
+****. Lk 11:13.
 
-**[282](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7U)**. Rom 8:26.
+****. Rom 8:26.
 
-**[283](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7V)**. Cf. Origen, De Oratione, 2: PG 11, p. 419-423.
+****. Cf. Origen, De Oratione, 2: PG 11, p. 419-423.
 
-**[284](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7W)**.Rom 8:27.
+****.Rom 8:27.
 
-**[285](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7X)**.Dogmatic Constitution on the Church, Lumen Gentium, n. 63.
+****.Dogmatic Constitution on the Church, Lumen Gentium, n. 63.
 
-**[286](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7Y)**.Ibid., n. 64.
+****.Ibid., n. 64.
 
-**[287](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7Z)**.Ibid., n. 4; cf. Rev 22:17.
+****.Ibid., n. 4; cf. Rev 22:17.
 
-**[288](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-80)**.Cf. Rom 8:24.
+****.Cf. Rom 8:24.
 
-**[289](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-81)**.Cf. Jn 4:14; Dogmatic Constitution on the Church, Lumen Gentium, n. 4.
+****.Cf. Jn 4:14; Dogmatic Constitution on the Church, Lumen Gentium, n. 4.
 
-**[290](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-82)**. Cf. Rev 12:10.
+****. Cf. Rev 12:10.
 
-**[291](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-83)**. Cf. Rom 8:23.
+****. Cf. Rom 8:23.
 
-**[292](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-84)**. Cf. Sequence Veni, Sancte Spiritus.
+****. Cf. Sequence Veni, Sancte Spiritus.
 
-**[293](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-85)**. Cf. Creed Quicumque: DS 75.
+****. Cf. Creed Quicumque: DS 75.
 
-**[294](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-86)**. Cf. Rom 5:5.
+****. Cf. Rom 5:5.
 
-**[295](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-87)**. One should mention here the important Apostolic Exhortation, Gaudete in Domino, published by Pope Paul VI on May 9, in the Holy Year 1975; ever relevant is the invitation expressed there "to implore the gift of joy from the Holy Spirit," and likewise "to appreciate the properly spiritual joy that is a fruit of the Holy Spirit": AAS 67 (1975), pp. 289, 302.
+****. One should mention here the important Apostolic Exhortation, Gaudete in Domino, published by Pope Paul VI on May 9, in the Holy Year 1975; ever relevant is the invitation expressed there "to implore the gift of joy from the Holy Spirit," and likewise "to appreciate the properly spiritual joy that is a fruit of the Holy Spirit": AAS 67 (1975), pp. 289, 302.
 
-**[296](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-88)**. Cf. Jn 16:22.
+****. Cf. Jn 16:22.
 
-**[297](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-89)**. Cf. Rom 14:17; Gal 5:22.
+****. Cf. Rom 14:17; Gal 5:22.

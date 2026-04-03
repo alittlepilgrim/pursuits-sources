@@ -7,7 +7,6 @@ publish: true
 aliases:
   - 20251026-163738
   - Abbreviations
-tags: []
 attachment: true
 attachment_name: pdf-ccc-abbreviations.pdf
 ---
@@ -286,7 +285,7 @@ The following abbreviations are used for the books of the Bible cited in the tex
 
 # Abbreviations (Divine Intimacy)
 
-![[00-divine-intimacy-abbreviations]]
+00-divine-intimacy-abbreviations
 
 # References
 

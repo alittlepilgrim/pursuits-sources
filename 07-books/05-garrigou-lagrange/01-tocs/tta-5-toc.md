@@ -8,7 +8,6 @@ aliases:
   - Epilogue - the Axis of the Spiritual Life and Its Unity
   - EPILOGUE - THE AXIS OF THE SPIRITUAL LIFE AND ITS UNITY
   - Part V Contents
-tags: []
 author: Reginald Garrigou-Lagrange
 book_volume: "2"
 ---
@@ -83,4 +82,4 @@ A. First Retreat: On Spiritual Progress
 B. Second Retreat: On the Spiritual Organism.
 C. Third Retreat: On Christian Perfection
 
-[« Home](The%20Three%20Ages%20of%20the%20Interior%20Life.md) | [Top](tta-5-toc.md#) | [[tta001|Next »]]
+ |  | [[tta001|Next »]]

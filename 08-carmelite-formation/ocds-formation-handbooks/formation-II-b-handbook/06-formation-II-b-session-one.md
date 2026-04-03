@@ -6,7 +6,6 @@ type: formation-handbook
 publish: false
 aliases:
   - Session One Preface, General Introduction and Prologue
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 

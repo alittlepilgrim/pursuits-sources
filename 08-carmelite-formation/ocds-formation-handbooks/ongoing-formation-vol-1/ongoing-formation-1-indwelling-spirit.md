@@ -7,7 +7,6 @@ publish: true
 aliases:
   - Indwelling Spirit of the Holy Trinity
   - Indwelling Spirit of the Holy Trinity (St. Elizabeth of the Trinity)
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 

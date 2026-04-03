@@ -21,10 +21,10 @@ A grave infraction of the law of God that destroys the divine life in the soul o
 
 ## Divine Intimacy Meditations
 
-- is in complete opposition to God: [[54-what-jesus-teaching-exacts#Meditation 1|54,1]]; [[100-sin#Meditation 1|100,1]];
-- malice and consequences of mortal — [[100-sin#Meditation 1|100,1]], [[100-sin#Meditation 2|100,2]];
-- struggle against mortal —: [[100-sin#Meditation 2|100,2]];
-- God clothes with His grace the soul cleansed from mortal —: [[78-the-necessity-for-interior-purification#Meditation 1|78,1]].
-- [[54-what-jesus-teaching-exacts|54. What Jesus' Teaching Exacts]]
-- [[78-the-necessity-for-interior-purification|78. The Necessity for Interior Purification]]
-- [[100-sin|100. Sin]]
+- is in complete opposition to God: 54,1; 100,1;
+- malice and consequences of mortal — 100,1, 100,2;
+- struggle against mortal —: 100,2;
+- God clothes with His grace the soul cleansed from mortal —: 78,1.
+- 54. What Jesus' Teaching Exacts
+- 78. The Necessity for Interior Purification
+- 100. Sin

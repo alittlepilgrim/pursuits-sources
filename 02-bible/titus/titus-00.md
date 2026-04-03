@@ -20,7 +20,7 @@ url: https://bible.usccb.org/bible/titus/0
 
 # Titus, the Letter to Titus
 
-[Introduction](titus-00.md) [1](titus-01.md) [2](titus-02.md) [3](titus-03.md)
+   
 
 ## The Letter to Titus
 

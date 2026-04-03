@@ -8,7 +8,6 @@ description: The Soul of the Apostolate by Dom Jean-baptist Chautard, O.C.S.O.
 aliases:
   - O.C.S.O.
   - The Soul of the Apostolate by Dom Jean-baptist Chautard
-tags: []
 attachment: false
 author: Dom Chautard
 ---

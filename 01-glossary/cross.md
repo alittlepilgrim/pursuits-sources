@@ -20,17 +20,17 @@ The instrument of execution on which Christ died; a symbol of the unique sacrifi
 
 ## Divine Intimacy Meditations
 
-- To follow Jesus necessary to carry the —: [[126-jesus-persecuted#Meditation 1|126,1]]; [[129-the-daily-cross#Meditation 1|129,1]]; [[193-conformity-with-christ#Meditation 2|193,2]];
-- the more we share in the — of Christ, the more we shall be like Him: [[194-the-way-of-the-cross#Meditation 1|194,1]];
-- when we flee from sacrifice, we act as enemies of the — of Christ: [[350-designs-of-peace-and-love#Meditation 1|350,1]];
-- only the way of the — leads to union with God: [[354-confidence-and-abandonment#Meditation 1|354,1]];
-- love of Jesus transformed the —, a horrible instrument of torture, to a most effective means for the glory of God and the salvation of mankind [[127-the-value-of-suffering#Meditation 2|127,2]];
-- the — of Jesus is the greatest proof of His love for men: [[132-love-of-the-cross#Meditation 2|132,2]];
-- Jesus reigns from the —: [[133-the-triumph-of-jesus#Meditation 1|133,1]];
-- the victory of the —: [[139-the-victory-of-the-cross#Meditation 1|139,1]];
-- the daily —: [[129-the-daily-cross#Meditation 1|129,1]], [[129-the-daily-cross#Meditation 2|129,2]]; [[194-the-way-of-the-cross#Meditation 2|194,2]];
-- to bear the — with love: [[129-the-daily-cross#Meditation 2|129,2]];
-- is the great means of our sanctification: [[132-love-of-the-cross#Meditation 1|132,1]]; [[194-the-way-of-the-cross#Meditation 1|194,1]];
-- is the instrument and work of love: [[132-love-of-the-cross#Meditation 2|132,2]].
+- To follow Jesus necessary to carry the —: 126,1; 129,1; 193,2;
+- the more we share in the — of Christ, the more we shall be like Him: 194,1;
+- when we flee from sacrifice, we act as enemies of the — of Christ: 350,1;
+- only the way of the — leads to union with God: 354,1;
+- love of Jesus transformed the —, a horrible instrument of torture, to a most effective means for the glory of God and the salvation of mankind 127,2;
+- the — of Jesus is the greatest proof of His love for men: 132,2;
+- Jesus reigns from the —: 133,1;
+- the victory of the —: 139,1;
+- the daily —: 129,1, 129,2; 194,2;
+- to bear the — with love: 129,2;
+- is the great means of our sanctification: 132,1; 194,1;
+- is the instrument and work of love: 132,2.
 
 ---

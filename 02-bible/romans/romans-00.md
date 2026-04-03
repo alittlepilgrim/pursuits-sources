@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/romans/0
 
 # Romans, the Letter to the Romans
 
-[Introduction](romans-00.md) [1](romans-01.md) [2](romans-02.md) [3](romans-03.md) [4](romans-04.md) [5](romans-05.md) [6](romans-06.md) [7](romans-07.md) [8](romans-08.md) [9](romans-09.md) [[romans-10|10]] [11](romans-11.md) [12](romans-12.md) [13](romans-13.md) [14](romans-14.md) [15](romans-15.md) [16](romans-16.md)
+          [[romans-10|10]]      
 
 ## The Letter to the Romans
 

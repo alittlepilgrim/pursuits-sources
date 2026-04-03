@@ -18,11 +18,11 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Is necessary in order to find God: [[12-seeking-god-in-prayer#Meditation 1|12,1]];
-- interior —: [[13. Seeking God in Our Daily Duties#Meditation 2|13,2]].
+- Is necessary in order to find God: 12,1;
+- interior —: 13,2.
 
 ---
 
-- [[12-seeking-god-in-prayer|12. Seeking God in Prayer]]
-- [[13. Seeking God in Our Daily Duties|13. Seeking God in Our Daily Duties]]
+- 12. Seeking God in Prayer
+- 13. Seeking God in Our Daily Duties
     

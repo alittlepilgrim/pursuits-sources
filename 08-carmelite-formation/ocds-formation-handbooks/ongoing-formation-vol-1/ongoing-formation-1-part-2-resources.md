@@ -7,7 +7,6 @@ publish: false
 aliases:
   - 20251030-140235
   - Part II – Resource Materials
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 

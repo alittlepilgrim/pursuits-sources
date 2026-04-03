@@ -20,6 +20,6 @@ A spiritual gift which enables one to know the purpose and plan of God; one of t
 
 ## Divine Intimacy Meditations
 
-- of the world is foolishness to God: [[234-infinite-wisdom#Meditation 2|234,2]];
-- — to judge things as God values them: [[234-infinite-wisdom#Meditation 2|234,2]].
-- [[234-infinite-wisdom|234. Infinite Wisdom]]
+- of the world is foolishness to God: 234,2;
+- — to judge things as God values them: 234,2.
+- 234. Infinite Wisdom

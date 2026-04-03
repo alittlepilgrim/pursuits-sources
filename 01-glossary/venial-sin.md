@@ -25,6 +25,6 @@ Sin which does not destroy the divine life in the soul, as does mortal sin, thou
 - when venial — is deliberate and habitual, it leads to tepidity 101,1; 153,1;
 - venial — always includes a transgression more or less light of the law of God: 102,1;
 - conduct in case of venial — caused by frailty or inadvertence: 101,2.
-- [[101-venial-sin|101. Venial Sin]]
-- [[102-imperfections|102. Imperfections]]
-- [[153-aridity|153. Aridity]]
+- 101. Venial Sin
+- 102. Imperfections
+- 153. Aridity

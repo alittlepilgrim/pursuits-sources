@@ -24,13 +24,13 @@ url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/
 > *TO HIS HOLINESS POPE JOHN PAUL II*
 > MASTER OF SOCIAL DOCTRINE AND EVANGELICAL WITNESS TO JUSTICE AND PEACE
 
-[Abbreviations](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/#ABBREVIATIONS)
 
-[Biblical Abbreviations](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/#BIBLICAL%20ABBREVIATIONS)
 
-[Letter of Cardinal Angelo Sodano](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/#SECRETARIAT%20OF%20STATE)
 
-[Presentation](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/#PRESENTATION)*
+
+
+
+*
 
 # [[sd-02-intro#^csdc-1|Introduction]]
 

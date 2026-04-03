@@ -19,8 +19,8 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Exterior and interior —: [[17-interior-silence#Meditation 1|17,1]], [[17-interior-silence#Meditation 2|17,2]];
-- interior — makes contact with God possible: [[378-our-lady-carmel#Meditation 2|378,2]].
+- Exterior and interior —: 17,1, 17,2;
+- interior — makes contact with God possible: 378,2.
 - See: [[recollection|Recollection]].
-- [[17-interior-silence|17. Interior Silence]]
-- [[378-our-lady-carmel|378.]]
+- 17. Interior Silence
+- 378.

@@ -41,4 +41,3 @@ For 2026, the texts chosen are as follows:
 
 General Curia of the Teresian Carmel www.discalcedcarmelite.com
 
-[Source: General Curia](https://www.carmelitaniscalzi.com/wp-content/uploads/2026/01/EN_Scheda-0-2026.pdf)

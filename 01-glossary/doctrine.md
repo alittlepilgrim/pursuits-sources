@@ -18,12 +18,12 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- False — [[238-the-fruits-of-life#Meditation 2|238,2]];
-- avails little to possess profound — if one fails to live in conformity to it: [[238-the-fruits-of-life#Meditation 2|238,2]];
-- the fruit that should prove the worth of the — is the fulfillment of the Will of God: [[238-the-fruits-of-life#Meditation 2|238,2]];
-- sanctity should be based on —: [[337-education-and-culture-at-the-service-of-the-apostolate#Meditation 1|337,1]].
+- False — 238,2;
+- avails little to possess profound — if one fails to live in conformity to it: 238,2;
+- the fruit that should prove the worth of the — is the fulfillment of the Will of God: 238,2;
+- sanctity should be based on —: 337,1.
 
 ___
 
-- [[238-the-fruits-of-life|238. The Fruits of Life]]
-- [[337-education-and-culture-at-the-service-of-the-apostolate|337. Education and Culture at the Service of the Apostolate]]
+- 238. The Fruits of Life
+- 337. Education and Culture at the Service of the Apostolate

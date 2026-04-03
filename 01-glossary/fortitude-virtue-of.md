@@ -31,9 +31,9 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- [[286-fortitude|286. Fortitude]]
-- [[288-courage|288. Courage]]
-- [[289-magnanimity|289. Magnanimity]]
-- [[291-fortitude-and-patience|291. Fortitude and Patience]]
-- [[301-the-characteristics-of-a-christian|301. The Characteristics of a Christian]]
-- [[302-the-gift-of-fortitude|302. The Gift of Fortitude]]
+- 286. Fortitude
+- 288. Courage
+- 289. Magnanimity
+- 291. Fortitude and Patience
+- 301. The Characteristics of a Christian
+- 302. The Gift of Fortitude

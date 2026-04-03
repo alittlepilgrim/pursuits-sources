@@ -7,7 +7,6 @@ publish: true
 aliases:
   - Part III Contents
   - part3-toc
-tags: []
 author: Reginald Garrigou-Lagrange
 book_volume: "2"
 ---

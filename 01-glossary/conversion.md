@@ -20,16 +20,16 @@ A radical reorientation of the whole life away from sin and evil, and toward God
 
 ## Divine Intimacy Meditations
 
-- We should always renew ourselves by —: [[77-a-new-program#Meditation 1|77,1]]; [[99-conversion#Meditation 1|99,1]];
-- no need to place limits on one’s own —: [[99-conversion#Meditation 2|99,2]];
-- — is by nature progressive: [[99-conversion#Meditation 2|99,2]];
-- the need to arise each day from our little infidelities: [[294-jesus-our-life#Meditation 2|294,2]];
-- the meaning of —: [[99-conversion#Meditation 1|99,1]];
-- the point of departure for — is the sincere recognition of one’s faults: [[350-designs-of-peace-and-love#Meditation 1|350,1]].
+- We should always renew ourselves by —: 77,1; 99,1;
+- no need to place limits on one’s own —: 99,2;
+- — is by nature progressive: 99,2;
+- the need to arise each day from our little infidelities: 294,2;
+- the meaning of —: 99,1;
+- the point of departure for — is the sincere recognition of one’s faults: 350,1.
 
 ## Divine Intimacy Meditations
 
-- [[77-a-new-program|77. A New Program]]
-- [[99-conversion|99. Conversion]]
-- [[294-jesus-our-life|294. Jesus Our Life]]
-- [[350-designs-of-peace-and-love|350. Designs of Peace and Love]]
+- 77. A New Program
+- 99. Conversion
+- 294. Jesus Our Life
+- 350. Designs of Peace and Love

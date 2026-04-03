@@ -6,7 +6,6 @@ type: book
 publish: false
 aliases:
   - Prologue – The Soul of the Apostolate
-tags: []
 author: Dom Chautard
 ---
 

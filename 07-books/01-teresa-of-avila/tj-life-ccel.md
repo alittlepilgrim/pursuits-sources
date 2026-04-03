@@ -31,46 +31,46 @@ Source: [](https://ccel.org/ccel/t/teresa/life/cache/life.txt)
 ## Table of Contents
 
 - Chapters:
-  - [Chapter I. Childhood and early impressions. the blessing of pious parents. desire of martyrdom. death of the saint's mother](#chapter-i-childhood-and-early-impressions-the-blessing-of-pious-parents-desire-of-martyrdom-death-of-the-saints-mother)
-  - [Chapter II. Early impressions. dangerous books and companions. the saint is placed in a monastery](#chapter-ii-early-impressions-dangerous-books-and-companions-the-saint-is-placed-in-a-monastery)
-  - [Chapter III. The blessing of being with good people. how certain illusions were removed](#chapter-iii-the-blessing-of-being-with-good-people-how-certain-illusions-were-removed)
-  - [Chapter IV. Our lord helps her to become a nun. her many infirmities](#chapter-iv-our-lord-helps-her-to-become-a-nun-her-many-infirmities)
-  - [Chapter V. Illness and patience of the saint. the story of a priest whom she rescued from a life of sin](#chapter-v-illness-and-patience-of-the-saint-the-story-of-a-priest-whom-she-rescued-from-a-life-of-sin)
-  - [Chapter VI. The great debt she owed to our lord for his mercy to her. she takes st. joseph for her patron](#chapter-vi-the-great-debt-she-owed-to-our-lord-for-his-mercy-to-her-she-takes-st-joseph-for-her-patron)
-  - [Chapter VII. Lukewarmness. the loss of grace. inconvenience of laxity in religious houses](#chapter-vii-lukewarmness-the-loss-of-grace-inconvenience-of-laxity-in-religious-houses)
-  - [Chapter VIII. The saint ceases not to pray. prayer the way to recover what is lost. all exhorted to pray. the great advantage of prayer, even to those who may have ceased from it](#chapter-viii-the-saint-ceases-not-to-pray-prayer-the-way-to-recover-what-is-lost-all-exhorted-to-pray-the-great-advantage-of-prayer-even-to-those-who-may-have-ceased-from-it)
-  - [Chapter IX. The means whereby our lord quickened her soul, gave her light in her darkness, and made her strong in goodness](#chapter-ix-the-means-whereby-our-lord-quickened-her-soul-gave-her-light-in-her-darkness-and-made-her-strong-in-goodness)
-  - [Chapter X. The graces she received in prayer. what we can do ourselves. the great importance of understanding what our lord is doing for us. she desires her confessors to keep her writings secret, because of the special graces of our lord to her, which they had commanded her to describe](#chapter-x-the-graces-she-received-in-prayer-what-we-can-do-ourselves-the-great-importance-of-understanding-what-our-lord-is-doing-for-us-she-desires-her-confessors-to-keep-her-writings-secret-because-of-the-special-graces-of-our-lord-to-her-which-they-had-commanded-her-to-describe)
-  - [Chapter XI. Why men do not attain quickly to the perfect love of God. of four degrees of prayer. of the first degree. the doctrine profitable for beginners, and for those who have no sensible sweetness](#chapter-xi-why-men-do-not-attain-quickly-to-the-perfect-love-of-god-of-four-degrees-of-prayer-of-the-first-degree-the-doctrine-profitable-for-beginners-and-for-those-who-have-no-sensible-sweetness)
-  - [Chapter XII. What we can ourselves do. the evil of desiring to attain to supernatural states before our lord calls us](#chapter-xii-what-we-can-ourselves-do-the-evil-of-desiring-to-attain-to-supernatural-states-before-our-lord-calls-us)
-  - [Chapter XIII. Of certain temptations of satan. instructions relating thereto](#chapter-xiii-of-certain-temptations-of-satan-instructions-relating-thereto)
-  - [Chapter XIV. The second state of prayer. its supernatural character](#chapter-xiv-the-second-state-of-prayer-its-supernatural-character)
-  - [Chapter XV. Instructions for those who have attained to the prayer of quiet. many advance so far, but few go farther](#chapter-xv-instructions-for-those-who-have-attained-to-the-prayer-of-quiet-many-advance-so-far-but-few-go-farther)
-  - [Chapter XVI. The third state of prayer. deep matters. what the soul can do that has reached it. effects of the great graces of our lord](#chapter-xvi-the-third-state-of-prayer-deep-matters-what-the-soul-can-do-that-has-reached-it-effects-of-the-great-graces-of-our-lord)
-  - [Chapter XVII. The third state of prayer. the effects thereof. the hindrance caused by the imagination and the memory](#chapter-xvii-the-third-state-of-prayer-the-effects-thereof-the-hindrance-caused-by-the-imagination-and-the-memory)
-  - [Chapter XVIII. The fourth state of prayer. the great dignity of the soul raised to it by our lord. attainable on earth, not by our merit, but by the goodness of our lord](#chapter-xviii-the-fourth-state-of-prayer-the-great-dignity-of-the-soul-raised-to-it-by-our-lord-attainable-on-earth-not-by-our-merit-but-by-the-goodness-of-our-lord)
-  - [Chapter XIX. The effects of this fourth state of prayer. earnest exhortations to those who have attained to it not to go back, nor to cease from prayer, even if they fall. the great calamity of going back](#chapter-xix-the-effects-of-this-fourth-state-of-prayer-earnest-exhortations-to-those-who-have-attained-to-it-not-to-go-back-nor-to-cease-from-prayer-even-if-they-fall-the-great-calamity-of-going-back)
-  - [Chapter XX. The difference between union and rapture. what rapture is. the blessing it is to the soul. the effects of it](#chapter-xx-the-difference-between-union-and-rapture-what-rapture-is-the-blessing-it-is-to-the-soul-the-effects-of-it)
-  - [Chapter XXI. Conclusion of the subject. pain of the awakening. light against delusions](#chapter-xxi-conclusion-of-the-subject-pain-of-the-awakening-light-against-delusions)
-  - [Chapter XXII. The security of contemplatives lies in their not ascending to high things if our lord does not raise them. the sacred humanity must be the road to the highest contemplation. a delusion in which the saint was once entangled](#chapter-xxii-the-security-of-contemplatives-lies-in-their-not-ascending-to-high-things-if-our-lord-does-not-raise-them-the-sacred-humanity-must-be-the-road-to-the-highest-contemplation-a-delusion-in-which-the-saint-was-once-entangled)
-  - [Chapter XXIII. The saint resumes the history of her life. aiming at perfection. means whereby it may be gained. instructions for confessors](#chapter-xxiii-the-saint-resumes-the-history-of-her-life-aiming-at-perfection-means-whereby-it-may-be-gained-instructions-for-confessors)
-  - [Chapter XXIV. Progress under obedience. her inability to resist the graces of God. God multiplies his graces](#chapter-xxiv-progress-under-obedience-her-inability-to-resist-the-graces-of-god-god-multiplies-his-graces)
-  - [Chapter XXV. Divine locutions. discussions on that subject](#chapter-xxv-divine-locutions-discussions-on-that-subject)
-  - [Chapter XXVI. How the fears of the saint vanished. how she was assured that her prayer was the work of the Holy Spirit](#chapter-xxvi-how-the-fears-of-the-saint-vanished-how-she-was-assured-that-her-prayer-was-the-work-of-the-holy-spirit)
-  - [Chapter XXVII. The saint prays to be directed by a different way. intellectual visions](#chapter-xxvii-the-saint-prays-to-be-directed-by-a-different-way-intellectual-visions)
-  - [Chapter XXVIII. Visions of the sacred humanity, and of the glorified bodies. imaginary visions. great fruits thereof when they come from God](#chapter-xxviii-visions-of-the-sacred-humanity-and-of-the-glorified-bodies-imaginary-visions-great-fruits-thereof-when-they-come-from-god)
-  - [Chapter XXIX. Of visions. the graces our lord bestowed on the saint. the answers our lord gave her for those who tried her](#chapter-xxix-of-visions-the-graces-our-lord-bestowed-on-the-saint-the-answers-our-lord-gave-her-for-those-who-tried-her)
-  - [Chapter XXX. St. peter of alcantara comforts the saint. great temptations and interior trials](#chapter-xxx-st-peter-of-alcantara-comforts-the-saint-great-temptations-and-interior-trials)
-  - [Chapter XXXI. Of certain outward temptations and appearances of satan. of the sufferings thereby occasioned. counsels for those who go on unto perfection](#chapter-xxxi-of-certain-outward-temptations-and-appearances-of-satan-of-the-sufferings-thereby-occasioned-counsels-for-those-who-go-on-unto-perfection)
-  - [Chapter XXXII. Our lord shows st. teresa the place which she had by her sins deserved in hell. the torments there. how the monastery of st. joseph was founded](#chapter-xxxii-our-lord-shows-st-teresa-the-place-which-she-had-by-her-sins-deserved-in-hell-the-torments-there-how-the-monastery-of-st-joseph-was-founded)
-  - [Chapter XXXIII. The foundation of the monastery hindered. our lord consoles the saint](#chapter-xxxiii-the-foundation-of-the-monastery-hindered-our-lord-consoles-the-saint)
-  - [Chapter XXXIV. The saint leaves her monastery of the incarnation for a time, at the command of her superior. consoles an afflicted widow](#chapter-xxxiv-the-saint-leaves-her-monastery-of-the-incarnation-for-a-time-at-the-command-of-her-superior-consoles-an-afflicted-widow)
-  - [Chapter XXXV. The foundation of the house of st. joseph. the observation of holy poverty therein. how the saint left toledo](#chapter-xxxv-the-foundation-of-the-house-of-st-joseph-the-observation-of-holy-poverty-therein-how-the-saint-left-toledo)
-  - [Chapter XXXVI. The foundation of the monastery of st. joseph. persecution and temptations. great interior trial of the saint, and her deliverance](#chapter-xxxvi-the-foundation-of-the-monastery-of-st-joseph-persecution-and-temptations-great-interior-trial-of-the-saint-and-her-deliverance)
-  - [Chapter XXXVII. The effects of the divine graces in the soul. the inestimable greatness of one degree of glory](#chapter-xxxvii-the-effects-of-the-divine-graces-in-the-soul-the-inestimable-greatness-of-one-degree-of-glory)
-  - [Chapter XXXVIII. Certain heavenly secrets, visions, and revelations. the effects of them in her soul](#chapter-xxxviii-certain-heavenly-secrets-visions-and-revelations-the-effects-of-them-in-her-soul)
-  - [Chapter XXXIX. Other graces bestowed on the saint. the promises of our lord to her. divine locutions and visions](#chapter-xxxix-other-graces-bestowed-on-the-saint-the-promises-of-our-lord-to-her-divine-locutions-and-visions)
-  - [Chapter XL. Visions, revelations, and locutions](#chapter-xl-visions-revelations-and-locutions)
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 
 ## Publication Info
 

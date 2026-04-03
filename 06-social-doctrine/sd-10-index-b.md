@@ -19,7 +19,7 @@ author: Catholic Church
 
 > [!NOTE] Quick Links:
 >
-> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
+>  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
 
 [[#Table of Contents|Back to top]]
 

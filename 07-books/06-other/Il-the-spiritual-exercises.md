@@ -24,24 +24,24 @@ Source: [](https://ccel.org/ccel/i/ignatius/exercises/cache/exercises.txt)
 
 ## Table of Contents
 
-- [Approbation of the Latin Texts](#Approbation of the Latin Texts)
-- [Paul III, Pope for a Perpetual Remembrance](#Paul III, Pope for a Perpetual Remembrance)
-- [Preface](#Preface)
-- [Contents](#Contents)
-- [General Note](#General Note)
-- [Prayer](#Prayer)
-- [Spiritual Exercises](#Spiritual Exercises)
-- [Annotations](#Annotations)
-- [Presupposition](#Presupposition)
-- [First Week](#First Week)
-- [Second Week](#Second Week)
-- [Third Week](#Third Week)
-- [Fourth Week](#Fourth Week)
-- [Contemplation to Gain Love](#Contemplation to Gain Love)
-- [Three Methods of Prayer](#Three Methods of Prayer)
-- [The Mysteries of the Life of Christ Our Lord](#The Mysteries of the Life of Christ Our Lord)
-- [Rules](#Rules)
-- [General Index](#General Index)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 ## Publication Info
 

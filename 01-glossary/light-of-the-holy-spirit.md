@@ -17,6 +17,6 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-— The higher light: [[173-our-mother#Meditation 1|173,1]]; 
+— The higher light: 173,1; 
 
-- of divine grace: [[164-liturgical-prayer#Meditation 1|164,1]].
+- of divine grace: 164,1.

@@ -2,11 +2,9 @@
 title: Introduction and Prologue - Story of a Soul
 created: 2026-03-21
 modified: 2026-04-02
-type:  
 publish: false
 aliases:
   - Introduction and Prologue - Story of a Soul
-tags: []
 ---
 
 # Introduction and Prologue - Story of a Soul

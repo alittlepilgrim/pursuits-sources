@@ -20,14 +20,14 @@ One of the ensemble of the Sacraments of Initiation into the Church, together wi
 
 ## Divine Intimacy Meditations
 
-- Confirms the soul in Christian life: [[72-confirmation#Meditation 1|72,1]];
-- infuses the strength of the Holy Spirit: [[72-confirmation#Meditation 2|72,2]];
-- confers strength to face even martyrdom when necessary: [[72-confirmation#Meditation 1|72,1]]; [[288-courage#Meditation 1|288,1]];
-- — is the Pentecost of every Christian soul [[189-the-descent-of-the-holy-spirit#Meditation 2|189,2]];
-- to value and to live this sacrament: [[72-confirmation#Meditation 2|72,2]].
+- Confirms the soul in Christian life: 72,1;
+- infuses the strength of the Holy Spirit: 72,2;
+- confers strength to face even martyrdom when necessary: 72,1; 288,1;
+- — is the Pentecost of every Christian soul 189,2;
+- to value and to live this sacrament: 72,2.
 
 ## Divine Intimacy Meditations
 
-- [[72-confirmation|72. Confirmation]]
-- [[189-the-descent-of-the-holy-spirit|189. The Descent of the Holy Spirit]]
-- [[288-courage|288. Courage]]
+- 72. Confirmation
+- 189. The Descent of the Holy Spirit
+- 288. Courage

@@ -7,7 +7,6 @@ publish: true
 aliases:
   - Bible Abbreviations — Usccb Vs Vatican
   - Bible Abbreviations USCCB Vatican
-tags: []
 ---
 
 # Bible Abbreviations — Usccb Vs Vatican

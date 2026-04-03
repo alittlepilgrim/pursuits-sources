@@ -18,7 +18,7 @@ author: Saint Francis de Sales
 
 # Treatise on the Love of God by St. Francis de Sales - Table of Contents
 
-[Source](https://ccel.org/ccel/d/desales/love/cache/love.txt)
+
 
 ## Table of Contents
 

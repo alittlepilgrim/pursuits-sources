@@ -110,37 +110,37 @@ See also: [[prayer-ascetical|Ascetical Prayer]], [[prayer-mystical|Mystical Pray
 
 ### Meditation Numbers
 
-- [[12-seeking-god-in-prayer|12. Seeking God in Prayer]]
-- [[59-the-prayer-of-jesus|59. The Prayer of Jesus]]
-- [[92-corporal-mortification|92. Corporal Mortification]]
-- [[143-the-living-water|143. The Living Water]]
-- [[145-our-preparation|145. Our Preparation]]
-- [[146-prayer|146. Prayer]]
-- [[148-vocal-prayer|148. Vocal Prayer]]
-- [[149-meditative-reading|149. Meditative Reading]]
-- [[150-meditation|150. Meditation]]
-- [[151-intimate-converse-with-god|151. Intimate Converse with God]]
-- [[152-prayer-of-recollection|152. Prayer of Recollection]]
-- [[153-aridity|153. Aridity]]
-- [[155-aridity-progress|155. Aridity and Progress]]
-- [[156-energetic-resolve|156. Energetic Resolve]]
-- [[157-aridity-and-contemplation|157. Practical Conduct]]
-- [[158-loving-attention|158. Loving Attention to God]]
-- [[159-practical-conduct|159. Practical Conduct]]
-- [[160-the-life-of-prayer|160. The Life of Prayer]]
-- [[162-practice-of-the-presence-of-god|162. Practice of the Presence of God]]
-- [[164-liturgical-prayer|164. Liturgical Prayer]]
-- [[165-holy-mass|165. Holy Mass]]
-- [[167-the-divine-office|167. The Divine Office]]
-- [[175-efficacious-prayer|175. Efficacious Prayer]]
-- [[182-waiting|182. Waiting]]
-- [[191-the-initiatives-of-the-holy-spirit|191. The Initiatives of the Holy Spirit]]
-- [[198-the-holy-spirit-and-prayer|198. The Holy Spirit and Prayer]]
-- [[309-the-gift-of-knowledge|309. The Gift of Knowledge]]
-- [[311-the-gift-of-understanding|311. The Gift of Understanding]]
-- [[313-the-gift-of-wisdom|313. The Gift of Wisdom]]
-- [[325-apostolic-prayer|325. Apostolic Prayer]]
-- [[326-apostolic-immolation|326. Apostolic Immolation]]
-- [[331-sanctification-in-the-apostolate|331. Sanctification in the apostolate]]
-- [[339-progress-in-the-apostolate|339. Progress in the apostolate]]
-- [[350-designs-of-peace-and-love|350. Designs of Peace and Love]]
+- 12. Seeking God in Prayer
+- 59. The Prayer of Jesus
+- 92. Corporal Mortification
+- 143. The Living Water
+- 145. Our Preparation
+- 146. Prayer
+- 148. Vocal Prayer
+- 149. Meditative Reading
+- 150. Meditation
+- 151. Intimate Converse with God
+- 152. Prayer of Recollection
+- 153. Aridity
+- 155. Aridity and Progress
+- 156. Energetic Resolve
+- 157. Practical Conduct
+- 158. Loving Attention to God
+- 159. Practical Conduct
+- 160. The Life of Prayer
+- 162. Practice of the Presence of God
+- 164. Liturgical Prayer
+- 165. Holy Mass
+- 167. The Divine Office
+- 175. Efficacious Prayer
+- 182. Waiting
+- 191. The Initiatives of the Holy Spirit
+- 198. The Holy Spirit and Prayer
+- 309. The Gift of Knowledge
+- 311. The Gift of Understanding
+- 313. The Gift of Wisdom
+- 325. Apostolic Prayer
+- 326. Apostolic Immolation
+- 331. Sanctification in the apostolate
+- 339. Progress in the apostolate
+- 350. Designs of Peace and Love

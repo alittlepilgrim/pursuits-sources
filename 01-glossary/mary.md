@@ -87,35 +87,35 @@ The mother of Jesus. Because she is the mother of Jesus--Son of God and second P
 
   ---
 
-- [[9-the-immaculate-conception-of-the-blessed-virgin-mary|9. The Immaculate Conception of the Blessed Virgin Mary]]
-- [[14-the-virgin-of-the-incarnation|14. The Virgin of the Incarnation]]
-- [[15-the-lord-is-nigh|15. The Lord is Nigh]]
-- [[33-peace-to-men|33. Peace to Men]]
-- [[49-the-first-miracle-of-jesus|49. The First Miracle of Jesus]]
-- [[112-the-power-of-jesus|112. The Power of Jesus]]
-- [[131-the-seven-sorrows-of-mary|131. The Seven Sorrows of Mary]]
-- [[169-mary-our-guide-and-model|169.]]
-- [[170-the-handmaid-of-the-lord|170. The Handmaid of the Lord]]
-- [[171-spouse-of-the-holy-spirit|171. Spouse of the Holy Spirit]]
-- [[172-the-mother-of-god|172. The Mother of God]]
-- [[173-our-mother|173. Our Mother]]
-- [[174-the-marian-life|174. The Marian Life]]
-- [[176-marys-humility|176. Mary’s Humility]]
-- [[177-marys-faith|177. Mary’s Faith]]
-- [[178-marys-hope|178. Mary's Hope]]
-- [[180-the-growth-of-charity-in-mary|180. The Growth of Charity in Mary]]
-- [[181-mary-and-fraternal-charity|181. Mary and Fraternal Charity]]
-- [[183-marys-prayer|183. Marys Prayer]]
-- [[184-marys-apostolate|184. Mary’s apostolate]]
-- [[185-mary-our-mediatrix|185. Mary Our Mediatrix]]
-- [[187-the-spirit-of-christ|187. The Spirit of Christ]]
-- [[360-strong-and-active-love|360. Strong and Active Love]]
-- [[371-the-purification|371. The Purification]]
-- [[374-the-annunciation|374. The Annunciation]]
-- [[377-visitation-of-bvm|377.]]
-- [[378-our-lady-carmel|378.]]
-- [[379-assumption|379.]]
-- [[380-the-nativity-bvm|380. The Nativity of the Blessed Virgin Mary]]
-- [[381-rosary-bvm|381.]]
-- [[382-motherhood-bvm|382.]]
-- [[386-presentation-bvm|386. The Presentation of the Blessed Virgin Mary]]
+- 9. The Immaculate Conception of the Blessed Virgin Mary
+- 14. The Virgin of the Incarnation
+- 15. The Lord is Nigh
+- 33. Peace to Men
+- 49. The First Miracle of Jesus
+- 112. The Power of Jesus
+- 131. The Seven Sorrows of Mary
+- 169.
+- 170. The Handmaid of the Lord
+- 171. Spouse of the Holy Spirit
+- 172. The Mother of God
+- 173. Our Mother
+- 174. The Marian Life
+- 176. Mary’s Humility
+- 177. Mary’s Faith
+- 178. Mary's Hope
+- 180. The Growth of Charity in Mary
+- 181. Mary and Fraternal Charity
+- 183. Marys Prayer
+- 184. Mary’s apostolate
+- 185. Mary Our Mediatrix
+- 187. The Spirit of Christ
+- 360. Strong and Active Love
+- 371. The Purification
+- 374. The Annunciation
+- 377.
+- 378.
+- 379.
+- 380. The Nativity of the Blessed Virgin Mary
+- 381.
+- 382.
+- 386. The Presentation of the Blessed Virgin Mary

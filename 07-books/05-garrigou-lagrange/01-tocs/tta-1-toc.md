@@ -7,7 +7,6 @@ publish: true
 aliases:
   - Contents
   - Part I Contents
-tags: []
 author: Reginald Garrigou-Lagrange
 book_volume: "1"
 ---

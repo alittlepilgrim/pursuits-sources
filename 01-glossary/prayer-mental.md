@@ -7,7 +7,6 @@ publish: true
 aliases:
   - 20251101-203157
   - Mental Prayer
-tags: []
 ---
 
 # Mental Prayer

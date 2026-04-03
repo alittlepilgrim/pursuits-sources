@@ -6,7 +6,6 @@ type: formation-handbook
 publish: false
 aliases:
   - Contents
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 

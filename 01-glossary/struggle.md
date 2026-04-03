@@ -19,9 +19,9 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- of the flesh against the spirit: [[245-our-riches#Meditation 1|245,1]]; [[287-the-two-kingdoms#Meditation 1|287,1]]; [[301-the-characteristics-of-a-christian#Meditation 1|301,1]];
-- not to relent in the — regardless of falls: [[295-perseverance-and-confidence#Meditation 2|295,2]].
-- [[245-our-riches|245. Our Riches]]
-- [[287-the-two-kingdoms|287. The Two Kingdoms]]
-- [[295-perseverance-and-confidence|295. Perseverance and Confidence]]
-- [[301-the-characteristics-of-a-christian|301. The Characteristics of a Christian]]
+- of the flesh against the spirit: 245,1; 287,1; 301,1;
+- not to relent in the — regardless of falls: 295,2.
+- 245. Our Riches
+- 287. The Two Kingdoms
+- 295. Perseverance and Confidence
+- 301. The Characteristics of a Christian

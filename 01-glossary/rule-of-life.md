@@ -19,6 +19,6 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Is a manifestation of the Will of God [[276-diligence#Meditation 2|276,2]];
-- punctuality and exactness in keeping —: [[276-diligence#Meditation 2|276,2]].
-- [[276-diligence|276. Diligence]]
+- Is a manifestation of the Will of God 276,2;
+- punctuality and exactness in keeping —: 276,2.
+- 276. Diligence

@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/tobit/0
 
 # Tobit, the Book of Tobit
 
-[Introduction](tobit-00.md) [1](tobit-01.md) [2](tobit-02.md) [3](tobit-03.md) [4](tobit-04.md) [5](tobit-05.md) [6](tobit-06.md) [7](tobit-07.md) [8](tobit-08.md) [9](tobit-09.md) [10](tobit-10.md) [11](tobit-11.md) [12](tobit-12.md) [13](tobit-13.md) [14](tobit-14.md)
+              
 
 ## The Book of Tobit
 

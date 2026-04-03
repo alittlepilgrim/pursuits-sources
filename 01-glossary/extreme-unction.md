@@ -24,6 +24,6 @@ _See_ [[anointing-of-the-sick|Anointing of the Sick]]. ###
 
 ## Divine Intimacy Meditations
 
-- Perfects the purification of the soul in order to prepare it to meet God: [[74-extreme-unction#Meditation 1|74,1]];
-- necessity of receiving it with proper dispositions: [[74-extreme-unction#Meditation 2|74,2]].
-- [[74-extreme-unction|74. Extreme Unction]]
+- Perfects the purification of the soul in order to prepare it to meet God: 74,1;
+- necessity of receiving it with proper dispositions: 74,2.
+- 74. Extreme Unction

@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/obadiah/0
 
 # Obadiah, the Book of Obadiah
 
-[1](obadiah-01.md)
+
 
 ## The Book of Obadiah
 

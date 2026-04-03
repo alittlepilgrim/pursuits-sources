@@ -18,9 +18,9 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Should not be too much at peace with our —: [[295-perseverance-and-confidence#Meditation 2|295,2]].
+- Should not be too much at peace with our —: 295,2.
 - See: [[imperfections|Imperfections]].
 
 ---
 
-- [[295-perseverance-and-confidence|295. Perseverance and Confidence]]
+- 295. Perseverance and Confidence

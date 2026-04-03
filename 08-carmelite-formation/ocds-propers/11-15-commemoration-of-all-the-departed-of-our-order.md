@@ -144,7 +144,7 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, forever and ever.
 
-![15 November- Commemoration of all the Departed of Our Order-2024-07-22-1](images/15%20November-%20Commemoration%20of%20all%20the%20Departed%20of%20Our Order-2024-07-22-1.jpeg)
+!
 
 *Ego sum resurrectio et vita:* I am the resurrection and the life (John 11:25) The cross overlooks the garden in what was once the monastery cemetery at the Discalced Carmelite nuns monastery in Indianapolis, now Bishop Simon Bruté College Seminary | Corey Bruns / Flickr
 

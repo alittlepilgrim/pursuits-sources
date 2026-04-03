@@ -92,7 +92,7 @@ Since the work that awaits everyone in the vineyard of the Lord is so great ther
 
 The voice of the Lord clearly resounds in the depths of each of Christ's followers, who through faith and the sacraments of Christian initiation is made like to Jesus Christ, is incorporated as a living member in the Church and has an active part in her mission of salvation. The voice of the Lord also comes to be heard through the historic events of the Church and humanity, as the Council reminds us: "The People of God believes that it is led by the Spirit of the Lord, who fills the whole world. Moved by this faith it tries to discern authentic signs of God's presence and purpose in the events, the needs, and the longings which it shares with other people of our time. For faith throws a new light on all things and makes known the full ideal to which God has called each individual, and thus guides the mind towards solutions which are fully human" [6].
 
-It is necessary, then, to keep a watchful eye on this our world, with its problems and values, its unrest and hopes, its defeats and triumphs: a world whose economic, social, political and cultural affairs pose problems and grave difficulties in light of the description provided by the Council in the Pastoral Constitution, *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html).*[7] *This,* then, is the vineyard; *this* is the field in which the faithful are called to fulfill their mission. Jesus wants them, as he wants all his disciples, to be the "salt of the earth" and the "light of the world" (cf. *Mt* 5:13-14). But what is the *actual state of affairs* of the "earth" and the "world", for which Christians ought to be "salt" and "light"?
+It is necessary, then, to keep a watchful eye on this our world, with its problems and values, its unrest and hopes, its defeats and triumphs: a world whose economic, social, political and cultural affairs pose problems and grave difficulties in light of the description provided by the Council in the Pastoral Constitution, *.*[7] *This,* then, is the vineyard; *this* is the field in which the faithful are called to fulfill their mission. Jesus wants them, as he wants all his disciples, to be the "salt of the earth" and the "light of the world" (cf. *Mt* 5:13-14). But what is the *actual state of affairs* of the "earth" and the "world", for which Christians ought to be "salt" and "light"?
 
 The variety of situations and problems that exist in our world is indeed great and rapidly changing. For this reason it is all the more necessary to guard against generalizations and unwarranted simplifications. It is possible, however, to highlight *some trends that are emerging in present-day society.* The gospel records that the weeds and the good grain grew together in the farmer's field. The same is true in history, where in everyday life there often exist contradictions in the exercise of human freedom, where there is found, side by side and at times closely intertwined, evil and good, injustice and justice, anguish and hope.
 
@@ -166,7 +166,7 @@ Only *from inside the Church's mystery of communion is the "identity" of the lay
 
 In giving a response to the question "Who are the lay faithful", the Council went beyond previous interpretations which were predominantly negative. Instead it opened itself to a decidedly positive vision and displayed a basic intention of asserting *the full belonging of the lay faithful to the Church and to its mystery.*
 
-*At the same time it insisted on the unique character* *of* *their vocation,* which is in a special way to "seek the Kingdom of God by engaging in temporal affairs and ordering them according to the plan of God" [14]. "The term 'lay faithful'" -we read in the Constitution on the Church, *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html) -* " is here understood to mean all the faithful except those in Holy Orders and those who belong to a religious state sanctioned by the Church. Through Baptism the lay faithful are made one body with Christ and are established among the People of God. They are in their own way made sharers in the priestly, prophetic and kingly office of Christ. They carry out their own part in the mission of the whole Christian people with respect to the Church and the world" [15].
+*At the same time it insisted on the unique character* *of* *their vocation,* which is in a special way to "seek the Kingdom of God by engaging in temporal affairs and ordering them according to the plan of God" [14]. "The term 'lay faithful'" -we read in the Constitution on the Church, * -* " is here understood to mean all the faithful except those in Holy Orders and those who belong to a religious state sanctioned by the Church. Through Baptism the lay faithful are made one body with Christ and are established among the People of God. They are in their own way made sharers in the priestly, prophetic and kingly office of Christ. They carry out their own part in the mission of the whole Christian people with respect to the Church and the world" [15].
 
 Pius XII once stated: "The Faithful, more precisely the lay faithful, find themselves on the front lines of the Church's life; for them the Church is the animating principle for human society. Therefore, they in particular, ought to have an ever-clearer consciousness *not only* *of* *belonging to the Church, but* *of* *being the Church,* that is to say, the community of the faithful on earth under the leadership of the Pope, the head of all, and of the Bishops in communion with him. These *are the Church..."* [16].
 
@@ -302,11 +302,11 @@ After having described the distinguishing features of the lay faithful on which 
 
 ### Vatican Ii and the Ecclesiology of Communion
 
-19\. At the Second Vatican Council the Church again proposed this central idea about herself, as the 1985 Extraordinary Synod recalls: "The ecclesiology of *communion is* a central and fundamental concept in the conciliar documents. *Koinonia-communion,* finding its source in Sacred Scripture, was a concept held in great honour in the early Church and in the Oriental Churches, and this teaching endures to the present day. Much was done by the Second Vatican Council to bring about a clearer understanding of the Church as *communion* and its concrete application to life. What, then, does this complex word *'communion'* mean? Its fundamental meaning speaks of the union with God brought about by Jesus Christ, in the Holy Spirit. The opportunity for such *communion is* present in the Word of God and in the Sacraments. Baptism is the door and the foundation of *communion* in the Church. The Eucharist is the source and summit of the whole Christian life (cf. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html),* 11). The Body of Christ in the Holy Eucharist sacramentalizes this communion, that is, it is a sign and actually brings about the intimate bonds of *communion* among all the faithful in the Body of Christ which is the Church (1 *Cor* 10:16)" [53]. ^jpii-cl-19
+19\. At the Second Vatican Council the Church again proposed this central idea about herself, as the 1985 Extraordinary Synod recalls: "The ecclesiology of *communion is* a central and fundamental concept in the conciliar documents. *Koinonia-communion,* finding its source in Sacred Scripture, was a concept held in great honour in the early Church and in the Oriental Churches, and this teaching endures to the present day. Much was done by the Second Vatican Council to bring about a clearer understanding of the Church as *communion* and its concrete application to life. What, then, does this complex word *'communion'* mean? Its fundamental meaning speaks of the union with God brought about by Jesus Christ, in the Holy Spirit. The opportunity for such *communion is* present in the Word of God and in the Sacraments. Baptism is the door and the foundation of *communion* in the Church. The Eucharist is the source and summit of the whole Christian life (cf. *,* 11). The Body of Christ in the Holy Eucharist sacramentalizes this communion, that is, it is a sign and actually brings about the intimate bonds of *communion* among all the faithful in the Body of Christ which is the Church (1 *Cor* 10:16)" [53]. ^jpii-cl-19
 
 On the day after the conclusion of the Council Pope Paul VI addressed the faithful in the following words: "The Church is a *communion.* In this context what does *communion* mean? We refer you to the paragraph in the Catechism that speaks of the *sanctorum communionem,* 'the Communion of Saints'. The meaning of the Church is a communion of saints. 'Communion' speaks of a double, lifegiving participation: the incorporation of Christians into the life of Christ, and the communication of that life of charity to the entire body of the Faithful, in this world and in the next, union with Christ and in Christ, and union among Christians, in the Church" [54].
 
-Vatican Council II has invited us to contemplate the mystery of the Church through biblical images which bring to light the reality of the Church as a *communion* with its inseparable dimensions: the communion of each Christian with Christ and the communion of all Christians with one another. There is the sheepfold, the flock, the vine, the spiritual building, the Holy City [55]. Above all, there is the image of the *Body* as set forth by the Apostle Paul. Its doctrine finds a pleasing expression once again in various passages of the Council's documents [56]. In its turn, the Council has looked again at the entire history of salvation and has reproposed the image of the Church as the *People* *of* *God:* "It has pleased God to make people holy and to save them, not merely as individuals without any mutual bonds, but by making them into a single people, a people which acknowledges him in truth and serves him in holiness [57]." From its opening lines, the Constitution *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)* summarizes this doctrine in a wonderful way: "The Church in Christ is a kind of sacrament, that is, a sign and instrument of intimate union with God and of the unity of all the human race" [58].
+Vatican Council II has invited us to contemplate the mystery of the Church through biblical images which bring to light the reality of the Church as a *communion* with its inseparable dimensions: the communion of each Christian with Christ and the communion of all Christians with one another. There is the sheepfold, the flock, the vine, the spiritual building, the Holy City [55]. Above all, there is the image of the *Body* as set forth by the Apostle Paul. Its doctrine finds a pleasing expression once again in various passages of the Council's documents [56]. In its turn, the Council has looked again at the entire history of salvation and has reproposed the image of the Church as the *People* *of* *God:* "It has pleased God to make people holy and to save them, not merely as individuals without any mutual bonds, but by making them into a single people, a people which acknowledges him in truth and serves him in holiness [57]." From its opening lines, the Constitution ** summarizes this doctrine in a wonderful way: "The Church in Christ is a kind of sacrament, that is, a sign and instrument of intimate union with God and of the unity of all the human race" [58].
 
 *The reality* *of* *the Church as Communion is,* then, the integrating aspect, indeed *the central content* *of* *the "mystery",* or rather, the divine plan for the salvation of humanity. For this purpose ecclesial communion cannot be interpreted in a sufficient way if it is understood as simply a sociological or a psychological reality. The Church as *Communion* is the "new" People, the "messianic" People, the People that "has, for its head, Christ... as its heritage, the dignity and freedom of God's Children... for its law, the new commandment to love as Christ loved us... for its goal, the kingdom of God... established by Christ as a communion of life, love and truth" [59].. The bonds that unite the members of the New People among themselves -and first of all with Christ-are not those of "flesh and blood", but those of the spirit, more precisely those of the Holy Spirit, whom all the baptized have received (cf. *Joel* 3:1).
 
@@ -316,9 +316,9 @@ In fact, that Spirit is the One who from eternity unites the one and undivided T
 
 20\. Ecclesial communion is more precisely likened to an "organic" communion, analogous to that of a living and functioning body. In fact, at one and the same time it is characterized by a *diversity* and a *complementarity* of vocations and states in life, of ministries, of charisms and responsibilities. Because of this diversity and complementarity every member of the lay faithful is seen *in relation to the whole body* and offers a *totally unique contribution* on behalf of the whole body. ^jpii-cl-20
 
-Saint Paul insists in a particular way on the organic communion of the Mystical Body of Christ. We can hear his rich teaching echoed in the following synthesis from the Council: "Jesus Christ"-we read in the Constitution *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html) -* "by communicating his Spirit to his brothers and sisters, called together from all peoples, made them mystically into his own body. In that body, the life of Christ is communicated to those who believe... As all the members of the human body, though they are many, form one body, so also are the Faithful in Christ (cf. 1 *Cor* 12:12). Also, in the building up of Christ's body there is a diversity of members and functions. There is only one Spirit who, according to his own richness and the necessities of service, distributes his different gifts for the welfare of the Church (cf. 1 *Cor* 12:1-11). Among these gifts comes in the first place the grace given to the apostles to whose authority the Spirit himself subjects even those who are endowed with charisms (cf. 1 *Cor* 14). Furthermore it is this same Spirit, who through his power and through the intimate bond between the members, produces and urges love among the faithful. Consequently, if one member suffers anything, all the members suffer it too, and if one member is honoured, all members together rejoice (cf. 1 *Cor* 12:26)" [60].
+Saint Paul insists in a particular way on the organic communion of the Mystical Body of Christ. We can hear his rich teaching echoed in the following synthesis from the Council: "Jesus Christ"-we read in the Constitution * -* "by communicating his Spirit to his brothers and sisters, called together from all peoples, made them mystically into his own body. In that body, the life of Christ is communicated to those who believe... As all the members of the human body, though they are many, form one body, so also are the Faithful in Christ (cf. 1 *Cor* 12:12). Also, in the building up of Christ's body there is a diversity of members and functions. There is only one Spirit who, according to his own richness and the necessities of service, distributes his different gifts for the welfare of the Church (cf. 1 *Cor* 12:1-11). Among these gifts comes in the first place the grace given to the apostles to whose authority the Spirit himself subjects even those who are endowed with charisms (cf. 1 *Cor* 14). Furthermore it is this same Spirit, who through his power and through the intimate bond between the members, produces and urges love among the faithful. Consequently, if one member suffers anything, all the members suffer it too, and if one member is honoured, all members together rejoice (cf. 1 *Cor* 12:26)" [60].
 
-*One and the same Spirit is always the dynamic principle of diversity and unity* in the Church. Once again we read in the Constitution *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html),* "In order that we might be unceasingly renewed in him (cf. *Eph* 4:23), he has shared with us his Spirit who, existing as one and the same being in the head and in the members, gives life to, unifies and moves the whole body. This he does in such a way that his work could be compared by the Fathers to the function which the soul as the principle of life fulfills in the human body" [61]. And in another particularly significant text which is helpful in understanding not only the organic nature proper to ecclesial communion but also its aspect of growth toward perfect communion, the Council writes: "The Spirit dwells in the Church and in the hearts of the Faithful, as in a temple (cf. 1 *Cor* 3:16; 6:19). In them he prays and bears witness that they are adopted sons (cf. *Gal* 4:6; *Rom* 8:15-16, 26). Guiding the Church in the way of all truth (cf. *Jn* 16:13) and unifying her in communion and in the works of service, he bestows upon her varied hierarchical and charismatic gifts and adorns her with the fruits of his grace (cf. *Eph* 4:11-12; 1 *Cor* 12:4; *Gal* 5:22). By the power of the Gospel he makes the Church grow, perpetually renews her, and leads her to perfect union with her Spouse. The Spirit and the Bride both say to the Lord Jesus, 'Come!' (cf. *Rev* 22:17)" [62].
+*One and the same Spirit is always the dynamic principle of diversity and unity* in the Church. Once again we read in the Constitution *,* "In order that we might be unceasingly renewed in him (cf. *Eph* 4:23), he has shared with us his Spirit who, existing as one and the same being in the head and in the members, gives life to, unifies and moves the whole body. This he does in such a way that his work could be compared by the Fathers to the function which the soul as the principle of life fulfills in the human body" [61]. And in another particularly significant text which is helpful in understanding not only the organic nature proper to ecclesial communion but also its aspect of growth toward perfect communion, the Council writes: "The Spirit dwells in the Church and in the hearts of the Faithful, as in a temple (cf. 1 *Cor* 3:16; 6:19). In them he prays and bears witness that they are adopted sons (cf. *Gal* 4:6; *Rom* 8:15-16, 26). Guiding the Church in the way of all truth (cf. *Jn* 16:13) and unifying her in communion and in the works of service, he bestows upon her varied hierarchical and charismatic gifts and adorns her with the fruits of his grace (cf. *Eph* 4:11-12; 1 *Cor* 12:4; *Gal* 5:22). By the power of the Gospel he makes the Church grow, perpetually renews her, and leads her to perfect union with her Spouse. The Spirit and the Bride both say to the Lord Jesus, 'Come!' (cf. *Rev* 22:17)" [62].
 
 *Church communion then is a gift, a great gift of the Holy Spirit,* to be gratefully accepted by the lay faithful, and at the same time to be lived with a deep sense of responsibility. This is concretely realized through their participation in the life and mission of the Church, to whose service the lay faithful put their varied and complementary ministries and charisms.
 
@@ -582,7 +582,7 @@ Having received the responsibility of manifesting to the world the mystery of Go
 
 For this reason the person "is the primary route that the Church must travel in fulfilling her mission: the individual is the *primary and fundamental way for the Church,* the way traced out by Christ himself, the way that leads in variably through the mystery of the Incarnation and Redemption" [133].
 
-The Second Vatican Council, repeatedly and with a singular clarity and force, expressed these very sentiments in its documents. We again read a particularly enlightening text from the Constitution *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html):* "Pursuing the saving purpose which is proper to her, the Church not only communicates divine life to all, but in some way casts the reflected light of that divine life over the entire earth. She does this most of all by her healing and elevating impact on the dignity of the human person, by the way in which she strengthens the bonds of human society, and imbues the daily activity of people with a deeper sense and meaning. Thus, through her individual members and the whole community, the Church believes she càn contribute much to make the family of man and its history more human" [134].
+The Second Vatican Council, repeatedly and with a singular clarity and force, expressed these very sentiments in its documents. We again read a particularly enlightening text from the Constitution *:* "Pursuing the saving purpose which is proper to her, the Church not only communicates divine life to all, but in some way casts the reflected light of that divine life over the entire earth. She does this most of all by her healing and elevating impact on the dignity of the human person, by the way in which she strengthens the bonds of human society, and imbues the daily activity of people with a deeper sense and meaning. Thus, through her individual members and the whole community, the Church believes she càn contribute much to make the family of man and its history more human" [134].
 
 In this work of contributing to the human family, for which the whole Church is responsible, a particular place falls to the lay faithful, by reason of their "secular character", obliging them, in their proper and irreplaceable way, to work towards the Christian animation of the temporal order.
 
@@ -678,13 +678,13 @@ In order to achieve their task directed to the Christian animation of the tempor
 
 On the contrary, the Second Vatican Council's words are particularly significant: "The Ckurch regards as worthy of praise and consideration the work of those who, as a service to others, dedicate themselves to the public good of the state and undertake the burdens of this task" [150].
 
-Public life on behalf of the person and society finds its *basic standard* in *the pursuit of the common good,* as the good of *everyone* and as the good of each person taken as a *whole,* which is guaranteed and offered in a fitting manner to people, both as individuals and in groups, for their free and responsible acceptance. "The political community"-we read in the Constitution *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html) -"exists* for that common good in which the community finds its full justification and meaning, and from which it derives its basic, proper and lawful arrangement. The common good embraces the sum total of all those conditions of social life by which individuals, families, and organizations can achieve more thoroughly their own fulfilment" [151]. Furthermore, public life on behalf of the person and society finds its *continuous line of action* in *the defence and the promotion of justice,* understood to be a "virtue", an understanding which requires education, as well as a moral "force" that sustains the obligation to foster the rights and duties of each and everyone, based on the personal dignity of each human being.
+Public life on behalf of the person and society finds its *basic standard* in *the pursuit of the common good,* as the good of *everyone* and as the good of each person taken as a *whole,* which is guaranteed and offered in a fitting manner to people, both as individuals and in groups, for their free and responsible acceptance. "The political community"-we read in the Constitution * -"exists* for that common good in which the community finds its full justification and meaning, and from which it derives its basic, proper and lawful arrangement. The common good embraces the sum total of all those conditions of social life by which individuals, families, and organizations can achieve more thoroughly their own fulfilment" [151]. Furthermore, public life on behalf of the person and society finds its *continuous line of action* in *the defence and the promotion of justice,* understood to be a "virtue", an understanding which requires education, as well as a moral "force" that sustains the obligation to foster the rights and duties of each and everyone, based on the personal dignity of each human being.
 
 *The spirit of service is* a fundamental element in the exercise of political power. This spirit of service, together with the necessary competence and efficiency, can make "virtuous" or "above criticism" the activity of persons in public life which is justly demanded by the rest of the people. To accomplish this requires a fullscale battle and a determination to overcome every temptation, such as the recourse to disloyalty and to falsehood, the waste of public funds for the advantage of a few and those with special interests, and the use of ambiguous and illicit means for acquiring, maintaining and increasing power at any cost.
 
-The lay faithful given a charge in public life certainly ought to respect the autonomy of earthly realities properly understood, as we read in the Constitution *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html):* "It is of great importance, especially in a pluralistic society, to work out a proper vision of the relationship between the political community and the Church, and to distinguish clearly between the activities of Christians, acting individually or collectively, in their own name as citizens guided by the dictates of a Christian conscience, and their activity in communion with their Pastors in the name of the Church. The Church by reason of her role and competence, is not identified with any political community nor bound by ties to any political system. She is at once the sign and the safeguard of the transcendental dimension of the human person" [152].At the same time-and this is felt today as a pressing responsibility-the lay faithful must bear witness to those human and gospel values that are intimately connected with political activity itself, such as liberty and justice, solidarity, faithful and unselfish dedication for the good of all, a simple life-style, and a preferential love for the poor and the least. This demands that the lay faithful always be more animated by a real participation in the life of the Church and enlightened by her social doctrine. In this they can be supported and helped by the nearness of the Christian community and their Pastors [153].
+The lay faithful given a charge in public life certainly ought to respect the autonomy of earthly realities properly understood, as we read in the Constitution *:* "It is of great importance, especially in a pluralistic society, to work out a proper vision of the relationship between the political community and the Church, and to distinguish clearly between the activities of Christians, acting individually or collectively, in their own name as citizens guided by the dictates of a Christian conscience, and their activity in communion with their Pastors in the name of the Church. The Church by reason of her role and competence, is not identified with any political community nor bound by ties to any political system. She is at once the sign and the safeguard of the transcendental dimension of the human person" [152].At the same time-and this is felt today as a pressing responsibility-the lay faithful must bear witness to those human and gospel values that are intimately connected with political activity itself, such as liberty and justice, solidarity, faithful and unselfish dedication for the good of all, a simple life-style, and a preferential love for the poor and the least. This demands that the lay faithful always be more animated by a real participation in the life of the Church and enlightened by her social doctrine. In this they can be supported and helped by the nearness of the Christian community and their Pastors [153].
 
-The manner and means for achieving a public life which has true human development as its goal is *solidarity.* This concerns the active and responsible *participation* of all in public life, from individual citizens to various groups, from labour unions to political parties. All of us, each and everyone, are the goal of public life as well as its leading participants. In this environment, as I wrote in the Encyclical *[Sollicitudo rei socialis](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html),* solidarity "is not a feeling of vague compassion or shallow distress at the misfortunes of so many people, both near and far. On the contrary, it is *a firm and persevering determination* to commit oneself to the *common good,* that is to say, to the good of all and of each individual because *we are all really responsible for all"* [154].
+The manner and means for achieving a public life which has true human development as its goal is *solidarity.* This concerns the active and responsible *participation* of all in public life, from individual citizens to various groups, from labour unions to political parties. All of us, each and everyone, are the goal of public life as well as its leading participants. In this environment, as I wrote in the Encyclical *,* solidarity "is not a feeling of vague compassion or shallow distress at the misfortunes of so many people, both near and far. On the contrary, it is *a firm and persevering determination* to commit oneself to the *common good,* that is to say, to the good of all and of each individual because *we are all really responsible for all"* [154].
 
 Today political solidarity requires going beyond single nations or a single block of nations, to a consideration on a properly continental and world level.
 
@@ -816,7 +816,7 @@ In the more specific area of evangelization and catechesis the particular work t
 
 While she is to fulfill her duty to evangelize, woman is to feel more acutely her need to be evangelized. Thus, with her vision illumined by faith (cf. *Eph* 1:18), woman is to be able to distinguish what truly responds to her dignity as a person and to her vocation from all that, under the pretext of this "dignity" and in the name of "freedom" and "progress", militates against true values. On the contrary, these false values become responsible for the moral degradation of the person, the environment and society. This same "discernment", made possible and demanded from Christian women's participation in the prophetic mission of Christ and his Church, recurs with continued urgency throughout history. This "discernment", often mentioned by the Apostle Paul, is not only a matter of evaluating reality and events in the light of faith, but also involves a real decision and obligation to employ it, not only in Church life but also in human society.
 
-It can be said that the problems of today's world already cited in the second part of the Council's Constitution *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html),* which remain unresolved and not at all affected by the passage of time, must witness the presence and commitment of women with their irreplaceable and customary contributions.
+It can be said that the problems of today's world already cited in the second part of the Council's Constitution *,* which remain unresolved and not at all affected by the passage of time, must witness the presence and commitment of women with their irreplaceable and customary contributions.
 
 In particular, two great tasks entrusted to women merit the attention of everyone.
 
@@ -852,7 +852,7 @@ In the context of such a limitless world as human suffering, We now turn our att
 
 The Lord addresses his call to each and every one. *Even the sick are sent forth as labourers into the Lord's vineyard:* the weight that wearies the body's members and dissipates the soul's serenity is far from dispensing a person from working in the vineyard. Instead the sick are called to live their human and Christian vocation and to participate in the growth of the Kingdom of God in a *new and even more valuable manner.* The words of the apostle Paul ought to become their approach to life or, better yet, cast an illumination to permit them to see the meaning of grace in their very situation: "In my flesh I complete what is lacking in Christ's afflictions for the sake of his body, that is, the Church" *(Col* 1:24). Precisely in arriving at this realization, the apostle is raised up in joy: "I rejoice in my sufferings for your sake" *(Col* 1:24). In the same way many of the sick can become bearers of the "joy inspired by the Holy Spirit in much affliction" (*1* *Thes* 1:6) and witnesses to Jesus' resurrection. A handicapped person expressed these sentiments in a presentation in the Synod Hall: "It is very important to make clear that Christians who live in situations of illness, pain and old age are called by God not only to unite their suffering to Christ's Passion but also to receive in themselves now, and to transmit to others, the power of renewal and the joy of the risen Christ (cf. *2 Cor* 4:10-11; *1* *Pt* 4:13; *Rom* 8:18 ff)" [199].
 
-On the Church's part-as it reads in the Apostolic Letter *[Salvifici Doloris](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html) -* *"Born* in the mystery of Redemption in the Cross of Christ, the Church has to try to *meet* man in a special way on the path of suffering. In this meeting man 'becomes the way for the Church', and this is one of the most important ways" [200]. At this moment *the suffering individual is the way of the Church* because that person is, first of all, the way of Christ Himself, who is the Good Samaritan who "does not pass by", but "has compassion on him, went to him... bound up his wounds... took care of him" *(Lk* 10:32-34).
+On the Church's part-as it reads in the Apostolic Letter * -* *"Born* in the mystery of Redemption in the Cross of Christ, the Church has to try to *meet* man in a special way on the path of suffering. In this meeting man 'becomes the way for the Church', and this is one of the most important ways" [200]. At this moment *the suffering individual is the way of the Church* because that person is, first of all, the way of Christ Himself, who is the Good Samaritan who "does not pass by", but "has compassion on him, went to him... bound up his wounds... took care of him" *(Lk* 10:32-34).
 
 From century to century the Christian community in revealing and communicating its healing love and the consolation of Jesus Christ has reenacted the gospel parable of the Good Samaritan in caring for the vast multitude of persons who are sick and suffering. This came about through the untiring commitment of all those who have taken care of the sick and suffering as a result of science and the medical arts as well as the skilled and generous service of healthcare workers. Today there is an increase in the presence of lay women and men in Catholic hospital and healthcare institutions. At times the lay faithful's presence in these institutions is total and exclusive. It is to just such people-doctors, nurses, other healthcare workers, volunteers-that the call becomes the living signof Jesus Christ and his Church in showing love towards the sick and suffering.
 
@@ -864,7 +864,7 @@ One of the basic objectives of this renewed and intensified pastoral action, whi
 
 The proclamation of this good news gains credibility when it is not simply voiced in words, but passes into a testimony of life, both in the case of all those who lovingly care for the sick, the handicapped and the suffering, as well as the suffering themselves who are increasingly made more conscious and responsible of their place and task within and on behalf of the Church.
 
-In order that "the civilization of love" can flourish and produce fruit in this vast world ofhuman pain, I invite all to reread and meditate on the Apostolic Letter, *[Salvifici Doloris](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html),* from which I am pleased to again propose the lines from its conclusion: "There should come together in spirit beneath the Cross of Calvary all suffering people who believe in Christ, and particularly those who suffer because of their faith in him who is the Crucified and Risen One, so that the offering of their sufferings may hasten the fulfilment of the prayer of the Saviour himself that all may be one. Let there also gather beneath the Cross all people of good will, for on this Cross is the 'Redeemer of Man', the Man of Sorrows, who has taken upon himself the physical and moral sufferings of the people of all times, so that *in love* they may find the salvific meaning of their sorrow and valid answers to all their questions.
+In order that "the civilization of love" can flourish and produce fruit in this vast world ofhuman pain, I invite all to reread and meditate on the Apostolic Letter, *,* from which I am pleased to again propose the lines from its conclusion: "There should come together in spirit beneath the Cross of Calvary all suffering people who believe in Christ, and particularly those who suffer because of their faith in him who is the Crucified and Risen One, so that the offering of their sufferings may hasten the fulfilment of the prayer of the Saviour himself that all may be one. Let there also gather beneath the Cross all people of good will, for on this Cross is the 'Redeemer of Man', the Man of Sorrows, who has taken upon himself the physical and moral sufferings of the people of all times, so that *in love* they may find the salvific meaning of their sorrow and valid answers to all their questions.
 
 *Together with Mary,* Mother of Christ, who *stood beneath the Cross,* we pause beside all the crosses of contemporary man and we ask all of *you who suffer* to support us. We ask precisely you who are weak to *become a source of strength* for the Church and humanity. In the terrible battle between the forces of good and evil revealed to our eyes by our modern world, may your sufferings in union with the Cross of Christ be victorious" [202].
 
@@ -1182,95 +1182,95 @@ Amen
 
 ---
 
-[1] Second Vatican Council, Dogmatic Constitution on the Church [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 48.
+[1] Second Vatican Council, Dogmatic Constitution on the Church , 48.
 
 [2] St. Gregory the Great, Hom. in Evang. I, XIX, 2; PL 76, 1155.
 
-[3] Second Vatican Council, Decree on the Apostolate of Lay People [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 33.
+[3] Second Vatican Council, Decree on the Apostolate of Lay People , 33.
 
 [4] John Paul II, Homily at the Solemn Eucharistic Concelebration for the Close of the Seventh Ordinary, General Assembly of the Synod of Bishops closing Mass (Oct. 30, 1987): AAS 80 (1988), 598.
 
 [5] Cf. *Propositio* 1.
 
-[6] Second Vatican Council, Pastoral Constitution on the Church in the Modern World [Gaudium et spes,](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 11.
+[6] Second Vatican Council, Pastoral Constitution on the Church in the Modern World , 11.
 
 [7] The fathers of the extraordinary synod of 1985, after affirming "the great importance and timeliness of the pastoral constitution Gaudium et Spes, continue: "Nevertheless, at the same time, they perceive that the signs of our times are in part different from those at the time of the council, with its problems and major trials. In fact, hunger, oppression, injustice and war, suffering, terrorism and forms of various kinds of violence are growing everywhere in the world today" (Ecclesia sub Verbo Dei Mysteria Christi Celebrans pro Salute Mundi, Relatio Finalis, II, D, 1).
 
-[8] [*Gaudium et spes*,](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html) 7.
+[8]  7.
 
 [9] St. Augustine, Confessiones, I, 1: CCL (Collected Works of Christian Writers, Latin Series) 27, 1.
 
 [10] Cf. Instrumentatum Laboris, "The Vocation and Mission of the Lay Faithful in the Church and in the World 20 Years after the Second Vatican Council," 5-10.
 
-[11] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 1.
+[11] , 1.
 
 [12] Ibid., 6.
 
 [13] Cf. *Propositio* 3.
 
-[14] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 31.
+[14] , 31.
 
-[15] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*.
+[15] **.
 
 [16] Pius XII, Discourse to the new cardinals, Feb. 20, 1946: AAS 38 (1946), 149.
 
 [17] Ecumenical Council of Florence, Decr. pro Armeniis, DS 1314.
 
-[18] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 10.
+[18] , 10.
 
 [19] St. Augustine, Ennar. in Ps. XXVI, II, 2: CCL 38, 154ff.
 
-[20] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 10.
+[20] , 10.
 
-[21] John Paul II, [Homily at the beginning of his pastoral ministry as supreme shepherd of the Church](http://w2.vatican.va/content/john-paul-ii/en/homilies/1978/documents/hf_jp-ii_hom_19781022_inizio-pontificato.html) (Oct. 22, 1978): AAS 70 (1978), 946.
+[21] John Paul II,  (Oct. 22, 1978): AAS 70 (1978), 946.
 
 [22] Cf. The renewed proposal of this teaching in the 1987 synod's Instrumentum Laboris, "The Vocation and Mission of the Lay Faithful in the Church and in the World 20 years after the Second Vatican Council," 25.
 
-[23] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 34.
+[23] , 34.
 
-[24] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 35.
+[24] , 35.
 
-[25] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 12.
+[25] , 12.
 
-[26] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 35.
+[26] , 35.
 
 [27] St. Augustine, De Civitate Dei, XX, 10: CCL 48, 720.
 
-[28] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 32.
+[28] , 32.
 
-[29] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 31.
+[29] , 31.
 
 [30] Paul VI, Talk to the members of secular institutes (Feb. 2, 1972): AAS 64 (1972), 208.
 
-[31] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 5.
+[31] , 5.
 
-[32] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 31.
+[32] , 31.
 
-[33] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*.
+[33] **.
 
-[34] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*.
+[34] **.
 
-[35] Cf. *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html).*, 48.
+[35] Cf. *.*, 48.
 
-[36] [Gaudium et spes,](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 32
+[36] , 32
 
-[37] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 31.
+[37] , 31.
 
-[38] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*.
+[38] **.
 
 [39] *Propositio* 4.
 
-[40] "Full members of the People of God and the mystical body, they participate, through Baptism, in the threefold priestly, prophetic and kingly mission of Christ; the lay faithful express and exercise the riches of their dignity through their living in the world. What can be an additional or exceptional task for those who belong to the ordained ministry is the typical mission of the lay faithful. their proper vocation consists 'in seeking the kingdom of God by engaging in temporal affairs and by ordering them according to the plan of God' ([Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 31)" (John Paul II, Angelus talk, (March 15, 1987): Insegnamenti, X, 1 \[1987\], 561).
+[40] "Full members of the People of God and the mystical body, they participate, through Baptism, in the threefold priestly, prophetic and kingly mission of Christ; the lay faithful express and exercise the riches of their dignity through their living in the world. What can be an additional or exceptional task for those who belong to the ordained ministry is the typical mission of the lay faithful. their proper vocation consists 'in seeking the kingdom of God by engaging in temporal affairs and by ordering them according to the plan of God' (, 31)" (John Paul II, Angelus talk, (March 15, 1987): Insegnamenti, X, 1 \[1987\], 561).
 
-[41] See, in particular,[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html) 5, 39-42, which treats the subject of "the universal call to holiness in the Church."
+[41] See, in particular, 5, 39-42, which treats the subject of "the universal call to holiness in the Church."
 
 [42] The Second Extraordinary General Assembly of the Synod of Bishops (1985), Relatio Finalis, II, A.4.
 
-[43] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 40.
+[43] , 40.
 
 [44] *Ibid*., 42. These solemn and unequivocal affirmations of the council repropose a fundamental truth of the Christian faith. Thus, for example, Pius XI in the encyclical Casti Connubii addressed Christian spouses in the following words: "In whatever state they might be and whatever upright way of life they might have chosen, all must imitate the most perfect example of holiness, proposed by God to humanity, namely, our Lord Jesus Christ, and with the help of God to even reach the highest stage of Christian perfection, shown in the example of the many saints": AAS 22 (1930), 548.
 
-[45] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 4.
+[45] , 4.
 
 [46] *Propositio* 5.
 
@@ -1282,7 +1282,7 @@ Amen
 
 [50] St. Augustine, In Ioann. Evang. Tract., 21, 8: CCL 36, 216.
 
-[51] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 33.
+[51] , 33.
 
 [52] Ibid., 4.
 
@@ -1290,69 +1290,69 @@ Amen
 
 [54] Paul VI, Wednesday general audience talk (June 8, 1966): Insegnamenti, IV (1966), 794.
 
-[55] Cf. [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 6.
+[55] Cf. , 6.
 
 [56] Cf. ibid., 7 et passim.
 
-[57] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 9.
+[57] , 9.
 
-[58] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 1.
+[58] , 1.
 
-[59] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 9.
+[59] , 9.
 
-[60] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 7.
+[60] , 7.
 
-[61] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
+[61] 
 
-[62] [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 4.
+[62] , 4.
 
 [63] John Paul II, Homily at the Solemn Eucharistic Concelebration for the close of the Seventh Ordinary Assembly of the Synod of Bishops (Oct. 30, 1987): AAS 80 (1988), 600.
 
-[64] Cf. [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 4.
+[64] Cf. , 4.
 
-[65] Cf. Second Vatican council, Decree on the Mission Activity of the Church [Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html), 5.
+[65] Cf. Second Vatican council, Decree on the Mission Activity of the Church , 5.
 
-[66] Second Vatican Council, Decree on the Sacred Priesthood [Presbyterorum Ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html), 2; cf. [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 10.
+[66] Second Vatican Council, Decree on the Sacred Priesthood , 2; cf. , 10.
 
-[67] Cf. [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 10.
+[67] Cf. , 10.
 
-[68] Cf. John Paul II, [Holy Thursday letter to all the priests of the Church](http://w2.vatican.va/content/john-paul-ii/en/letters/1979/documents/hf_jp-ii_let_19790409_sacerdoti-giovedi-santo.html) (April 9, 1979), 3-4: Insegnamenti, II, 1 (1979), 844-847.
+[68] Cf. John Paul II,  (April 9, 1979), 3-4: Insegnamenti, II, 1 (1979), 844-847.
 
 [69] Code of Canon Law, Can. 230, par. 3.
 
-[70] Cf. [Presbyterorum Ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html), 2 and 5.
+[70] Cf. , 2 and 5.
 
-[71] Cf. [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 24.
+[71] Cf. , 24.
 
 [72] The Code of Canon Law lists a series of roles and tasks proper to the sacred ministers, that nevertheless for special and grave circumstances, and concretely in areas which lack priests or deacons, can temporarily be exercised by the lay faithful, with previous juridic faculty and mandated by competent ecclesiastical authority: cf. Can. 230, par. 3; 517, par. 2; 776; 861 par. 2; 910 par. 2; 943; 1112, etc.
 
-[73] Cf. Second Vatican Council, Constitution on the Sacred Liturgy [Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html), 28; Code of Canon Law, Can. 230 par. 2, that states: "Lay persons can fulfill the function of lector during the liturgical actions by temporary deputation; likewise all lay persons can fulfill the functions of commentator or cantor of other functions, in accord with the norm of law."
+[73] Cf. Second Vatican Council, Constitution on the Sacred Liturgy , 28; Code of Canon Law, Can. 230 par. 2, that states: "Lay persons can fulfill the function of lector during the liturgical actions by temporary deputation; likewise all lay persons can fulfill the functions of commentator or cantor of other functions, in accord with the norm of law."
 
 [74] The Code of Canon Law presents diverse roles and tasks that the lay faithful can fulfill in the organized structure of the Church: cf. Can. 228; 229 par. 3; 317 par. 3; 463 par. 1, 5 and par. 2; 483; 494; 537; 759; 776; 784; 785; 1282; 1421.
 
 [75] *Propositio* 18.
 
-[76] Paul VI, apostolic exhortation [Evangelii Nuntiandi](http://w2.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html), 70: AAS 68 (1976), 60.
+[76] Paul VI, apostolic exhortation , 70: AAS 68 (1976), 60.
 
 [77] Cf. Code of Canon Law, 230 par. 1.
 
 [78] *Propositio* 18.
 
-[79] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 3.
+[79] , 3.
 
 [80] "From the reception of these charisms or gifts, even the most ordinary ones, there arises for each believer the right and duty to use them in the Church and in the world for the good of people and the building up of the Church. In doing so believers need to enjoy the freedom of the Holy Spirit who 'breathes where He wills' (Jn 3:8). At the same time they must act in communion with their brothers and sisters in Christ, especially with their pastor" (ibid.).
 
 [81] *Propositio* 9.
 
-[82] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 12.
+[82] , 12.
 
-[83] Cf. [*Ibid*.](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html) 30.
+[83] Cf.  30.
 
-[84] Second Vatican Council, Decree on the Pastoral Office of Bishops in the Church [Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html), 11.
+[84] Second Vatican Council, Decree on the Pastoral Office of Bishops in the Church , 11.
 
-[85] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 23.
+[85] , 23.
 
-[86] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 10.
+[86] , 10.
 
 [87] Cf. *Propositio* 10.
 
@@ -1360,17 +1360,17 @@ Amen
 
 [89] Cf. *Propositio* 10.
 
-[90] The council document reads: "It is impossible for the bishop always and everywhere to reside over the whole flock in his Church; he must of necessity establish groupings of the faithful. Among these, parishes, set up locally under a pastor who takes the place of the bishop are the most important: for in a certain way they represent the visible Church as it is established throughout the world" ([Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html), 42).
+[90] The council document reads: "It is impossible for the bishop always and everywhere to reside over the whole flock in his Church; he must of necessity establish groupings of the faithful. Among these, parishes, set up locally under a pastor who takes the place of the bishop are the most important: for in a certain way they represent the visible Church as it is established throughout the world" (, 42).
 
-[91] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 28..
+[91] , 28..
 
-[92] John Paul II, apostolic exhortation [Catechesi Tradendae](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_16101979_catechesi-tradendae.html), 67: AAS 71 (1979), 1333.
+[92] John Paul II, apostolic exhortation , 67: AAS 71 (1979), 1333.
 
 [93] Code of Canon Law, Can. 515, par. 1. 80.
 
 [94] Cf. *Propositio* 10.
 
-[95] Cf. [Sacrosanctum Concilium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html), 42.
+[95] Cf. , 42.
 
 [96] Cf. Code of Canon Law, Can. 555, par. 1, 1.
 
@@ -1380,7 +1380,7 @@ Amen
 
 [99] *Propositio* 11.
 
-[100] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 10.
+[100] , 10.
 
 [101] *Ibid*.
 
@@ -1388,31 +1388,31 @@ Amen
 
 [103] St. Gregory the Great, Hom. in Ez., II, I, 5: CCL 142, 211.
 
-[104] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 16.
+[104] , 16.
 
 [105] John Paul II, Angelus Talk (Aug. 23, 1987): Insegnamenti, X, 3 (1987), 240.
 
-[106] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 18.
+[106] , 18.
 
-[107] [Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)., 19; cf. also ibid., 15; [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 37.
+[107] ., 19; cf. also ibid., 15; , 37.
 
 [108] Code of Canon Law, Can. 215.
 
-[109] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 39.
+[109] , 39.
 
-[110] Cf. *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*.
+[110] Cf. **.
 
-[111] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 19.
+[111] , 19.
 
-[112] Cf. [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 23.
+[112] Cf. , 23.
 
-[113] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*.
+[113] **.
 
-[114] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 23.
+[114] , 23.
 
-[115] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)*., 20.
+[115] **., 20.
 
-[116] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)*., 24.
+[116] **., 24.
 
 [117] *Propositio* 13.
 
@@ -1420,127 +1420,127 @@ Amen
 
 [119] John Paul II, Discourse at a Meeting of the Church in Loreto, Italy (April 10, 1985): AAS 77 (1985), 964.
 
-[120] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 1.
+[120] , 1.
 
 [121] *Ibid*., 30.
 
-[122] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 10.
+[122] , 10.
 
-[123] Paul VI, [Evangelii Nuntiandi](http://w2.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html), 14: AAS 68 (1976), 13.
+[123] Paul VI, , 14: AAS 68 (1976), 13.
 
-[124] John Paul II, [Homily at the beginning of his ministry as Supreme Shepherd of the Church](http://w2.vatican.va/content/john-paul-ii/en/homilies/1978/documents/hf_jp-ii_hom_19781022_inizio-pontificato.html) (Oct. 22, 1978): AAS 70 (1978), 947.
+[124] John Paul II,  (Oct. 22, 1978): AAS 70 (1978), 947.
 
 [125] *Propositio* 10.
 
-[126] [Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html), 20; cf. also ibid., 37.
+[126] , 20; cf. also ibid., 37.
 
 [127] *Propositio* 29.
 
-[128] Cf. [Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html), 21.
+[128] Cf. , 21.
 
 [129] *Propositio* 30 bis.
 
-[130] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 5.
+[130] , 5.
 
-[131] Cf. [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 22.
+[131] Cf. , 22.
 
 [132] *Ibid*.
 
-[133] John Paul II, encyclical letter [Redemptoris Hominis](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html), 14: AAS 71 (1979), 284-285.
+[133] John Paul II, encyclical letter , 14: AAS 71 (1979), 284-285.
 
-[134] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 40.
+[134] , 40.
 
 [135] Cf. *Ibid*., 12.
 
-[136] "If we celebrate so solemnly the birth of Jesus, we do it so as to bear witness to the fact that each person is someone, unique and unrepeatable. If humanity's statistics and arrangement, its political, economic and social systems as well as its simple possibilities, do not come about to assure man that he can be born, exist and work as a unique and unrepeatable individual, then bid 'farewell' to all assurances. For Christ and because of Him, the individual is always unique and unrepeatable; someone eternally conceived and eternally chosen; someone called and given a special name" (John Paul II, [First Christmas radio message](http://w2.vatican.va/content/john-paul-ii/en/messages/urbi/documents/hf_jp-ii_mes_19781225_urbi.html): AAS 71 (1979), 66).
+[136] "If we celebrate so solemnly the birth of Jesus, we do it so as to bear witness to the fact that each person is someone, unique and unrepeatable. If humanity's statistics and arrangement, its political, economic and social systems as well as its simple possibilities, do not come about to assure man that he can be born, exist and work as a unique and unrepeatable individual, then bid 'farewell' to all assurances. For Christ and because of Him, the individual is always unique and unrepeatable; someone eternally conceived and eternally chosen; someone called and given a special name" (John Paul II, : AAS 71 (1979), 66).
 
-[137] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 27.
+[137] , 27.
 
-[\[138] John Paul II, apostolic exhortation [Familiaris Consortio](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html), 30: AAS 74 (1984), 116.
+[\[138] John Paul II, apostolic exhortation , 30: AAS 74 (1984), 116.
 
-[139] Cf. Congregation for the Doctrine of the Faith, [Instruction on Respect for Human Life in Its Origin and on the Dignity of Procreation: Reply to Certain Questions of the Day Donum Vitae](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_en.html) (February 22, 1987): AAS 80 (1988), 70-102.
+[139] Cf. Congregation for the Doctrine of the Faith,  (February 22, 1987): AAS 80 (1988), 70-102.
 
 [140] *Propositio* 36.
 
-[141] John Paul II, [Message for the Twenty-first World Day of Peace, "Religious Freedom: Condition for Peace"](http://w2.vatican.va/content/john-paul-ii/en/messages/peace/documents/hf_jp-ii_mes_19871208_xxi-world-day-for-peace.html) (December 8, 1987): AAS 80 (1988), 278, 280.
+[141] John Paul II,  (December 8, 1987): AAS 80 (1988), 278, 280.
 
 [142] St. Augustine, De Catech. Rud., XXIV, 44: CCL 46, 168.
 
 [143] *Propositio* 32.
 
-[144] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 24.
+[144] , 24.
 
-[145] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*., 12.
+[145] **., 12.
 
-[146] Cf. [Familiaris Consortio](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html), 42-48: AAS 74 (1982), 134-140.
+[146] Cf. , 42-48: AAS 74 (1982), 134-140.
 
 [147] Ibid., 85: AAS 74 (1982), 188.
 
-[148] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 8.
+[148] , 8.
 
-[149] For the relationship between justice and mercy, see John Paul II, encyclical letter [Dives in Misericordia](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html), 12: AAS 72 (1980), 1215-1217.
+[149] For the relationship between justice and mercy, see John Paul II, encyclical letter , 12: AAS 72 (1980), 1215-1217.
 
-[150] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 75.
+[150] , 75.
 
-[151] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*., 74.
+[151] **., 74.
 
-[152] *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*., 76.
+[152] **., 76.
 
 [153] Cf. *Propositio* 28.
 
-[154] John Paul II, encyclical letter [Sollicitudo Rei Socialis](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html), 38: AAS 80 (1988), 565-566.
+[154] John Paul II, encyclical letter , 38: AAS 80 (1988), 565-566.
 
-[155] Cf. John XXIII, encyclical letter [Pacem in Terris](http://w2.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html): AAS 55, (1963), 265-266.
+[155] Cf. John XXIII, encyclical letter : AAS 55, (1963), 265-266.
 
-[156] [Sollicitudo Rei Socialis](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html), 39: AAS 80 (1988), 568.
+[156] , 39: AAS 80 (1988), 568.
 
 [157] Cf. *Propositio* 26.
 
-[158] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 63.
+[158] , 63.
 
 [159] Cf. *Propositio* 24.
 
-[160] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 67.
+[160] , 67.
 
-[161] [Sollicitudo Rei Socialis](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html), 34: AAS 80 (1988), 560.
+[161] , 34: AAS 80 (1988), 560.
 
-[162] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 53.
+[162] , 53.
 
 [163] Cf. *Propositio* 35.
 
-[164] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 58.
+[164] , 58.
 
-[165] [Evangelii Nuntiandi](http://w2.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html), 18-20.
+[165] , 18-20.
 
 [166] Cf. *Propositio* 37.
 
 [167] St. Gregory the Great, Hom. in Evang. I, XIX, 2: PL 76, 1155.
 
-[168] Second Vatican Council, Declaration on Christian Education, [Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html), 2.
+[168] Second Vatican Council, Declaration on Christian Education, , 2.
 
-[169] John Paul II, [Apostolic letter for the International Year of Youth](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/1985/documents/hf_jp-ii_apl_31031985_dilecti-amici.html), 15: AAS 77 (1985), 620-621.
+[169] John Paul II, , 15: AAS 77 (1985), 620-621.
 
 [170] Cf. *Propositio* 52.
 
 [171] *Propositio* 51.
 
-[172] Second Vatican Council, [Message to Youth](https://w2.vatican.va/content/paul-vi/en/speeches/1965/documents/hf_p-vi_spe_19651208_epilogo-concilio-giovani.html) (Dec. 8, 1965): AAS 58 (1966), 18.
+[172] Second Vatican Council,  (Dec. 8, 1965): AAS 58 (1966), 18.
 
-[173] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 48.
+[173] , 48.
 
 [174] John Gerson, De Parvulis ad Christum Trahendis. Oeuvres Completes, Desclee, Paris 1973, IX, 669.
 
 [175] John Paul II, Discourse to a gathering of older people from the dioceses of Italy (March 23, 1984): Insegnamenti, VII, I (1984), 744.
 
-[176] Cf. John XXIII, encyclical letter [Pacem in Terris](http://w2.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html): AAS 55 (1963), 267-268.
+[176] Cf. John XXIII, encyclical letter : AAS 55 (1963), 267-268.
 
-[177] [Familiaris Consortio](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html), 24: AAS 74 (1982), 109-110.
+[177] , 24: AAS 74 (1982), 109-110.
 
 [178] *Propositio* 46.
 
 [179] *Propositio* 47.
 
-[180] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 9.
+[180] , 9.
 
 [181] Paul VI, Discourse to the Committee for the International Women's Year (April 18, 1975): AAS 67 (1975), 266.
 
@@ -1550,17 +1550,17 @@ Amen
 
 [184] *Ibid*.
 
-[185] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 10
+[185] , 10
 
-[186] The encyclical letter [Redemptoris Mater](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html), after having recalled that the "Marian dimension of the Christian life takes on a particular importance in relation to women and their status," states: "In fact, femininity has a unique relationship with the mother of the Redeemer, a subject which can be studied in greater depth elsewhere. Here I simply wish to note that the example of Mary of Nazareth sheds light on womanhood as such by the very fact that God, in the sublime event of the incarnation of His Son, entrusted himself to the ministry, the free and active ministry of a woman. It can thus be said that women, by looking to Mary, find in her the secret of living their femininity with dignity and of achieving their own true advancement. In the light of Mary, the Church sees in women the reflection of a beauty which mirrors the loftiest sentiments of which the human heart is capable: the totality of the gift of self in love; the strength that is capable of bearing the greatest sorrows; limitless fidelity and tireless devotion to work; the ability to combine penetrating intuition with words, support and encouragement" (John Paul II, encyclical letter [Redemptoris Mater](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html), 46: AAS 79 \[1987\], 424-425)
+[186] The encyclical letter , after having recalled that the "Marian dimension of the Christian life takes on a particular importance in relation to women and their status," states: "In fact, femininity has a unique relationship with the mother of the Redeemer, a subject which can be studied in greater depth elsewhere. Here I simply wish to note that the example of Mary of Nazareth sheds light on womanhood as such by the very fact that God, in the sublime event of the incarnation of His Son, entrusted himself to the ministry, the free and active ministry of a woman. It can thus be said that women, by looking to Mary, find in her the secret of living their femininity with dignity and of achieving their own true advancement. In the light of Mary, the Church sees in women the reflection of a beauty which mirrors the loftiest sentiments of which the human heart is capable: the totality of the gift of self in love; the strength that is capable of bearing the greatest sorrows; limitless fidelity and tireless devotion to work; the ability to combine penetrating intuition with words, support and encouragement" (John Paul II, encyclical letter , 46: AAS 79 \[1987\], 424-425)
 
-[187] John Paul II, apostolic letter [Mulieris Dignitatem](http://w2.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html), 16.
+[187] John Paul II, apostolic letter , 16.
 
-[188] Cf. Congregation for the Doctrine of the Faith, Declaration on the Question of Admission of Women to the Ministerial Priesthood [Inter Insigniores](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_en.html) (Oct. 15, 1976): AAS 69 (1977), 98-116.
+[188] Cf. Congregation for the Doctrine of the Faith, Declaration on the Question of Admission of Women to the Ministerial Priesthood  (Oct. 15, 1976): AAS 69 (1977), 98-116.
 
-[189] Cf. [Mulieris Dignitatem](http://w2.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html), 26.
+[189] Cf. , 26.
 
-[190] Ibid., 27; "The Church is a differentiated body, in which each individual has a role; the tasks are distinct, and must not be confused; they do not favor the superiority of one over the other, nor do they provide an excuse for jealousy; the only better gift, which can and must be desired in love (cf. 1 Cor 12- 13). The greatest in the kingdom of heaven are not the ministers but the saints" (Congregation for the Doctrine of the Faith, Declaration on the Question of Admission of Women to the Ministerial Priesthood [Inter Insigniores](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_en.html) \[Oct. 15, 1976\], 6: AAS 69 \[1977\], 115).
+[190] Ibid., 27; "The Church is a differentiated body, in which each individual has a role; the tasks are distinct, and must not be confused; they do not favor the superiority of one over the other, nor do they provide an excuse for jealousy; the only better gift, which can and must be desired in love (cf. 1 Cor 12- 13). The greatest in the kingdom of heaven are not the ministers but the saints" (Congregation for the Doctrine of the Faith, Declaration on the Question of Admission of Women to the Ministerial Priesthood  \[Oct. 15, 1976\], 6: AAS 69 \[1977\], 115).
 
 [191] Paul VI, Discourse to the Committee for the International Women's Year (April 18, 1975): AAS 67 (1975), 266.
 
@@ -1568,9 +1568,9 @@ Amen
 
 [193] *Ibid*.
 
-[194] [Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 36.
+[194] , 36.
 
-[195] [Familiaris Consortio](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html), 50: AAS 74 (1982), 141-142.
+[195] , 50: AAS 74 (1982), 141-142.
 
 [196] *Propositio* 46.
 
@@ -1580,11 +1580,11 @@ Amen
 
 [199] *Propositio* 53.
 
-[200] John Paul II, apostolic letter [Salvifici Doloris](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html), 3: AAS 76 (1984), 203.
+[200] John Paul II, apostolic letter , 3: AAS 76 (1984), 203.
 
 [201] St. Ignatius of Antioch, Ad Ephesios, VII, 2: S. Ch. 10, 64.
 
-[202] [Salvifici Doloris](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html), 31: AAS 76 (1984), 249-250.
+[202] , 31: AAS 76 (1984), 249-250.
 
 [203] St. Ambrose, De Virginitate, VI, 34: PL 16, 288; cf. St. Augustine, Sermo CCCIV, III, 2: PL 38, 1396.
 
@@ -1592,27 +1592,27 @@ Amen
 
 [205] *Propositio* 6.
 
-[206] Cf. Paul VI, apostolic letter [Sabaudiae Gemma](http://w2.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19670129_sabaudiae-gemma.html) (Jan. 29, 1967): AAS 59 (1967), 113-123.
+[206] Cf. Paul VI, apostolic letter  (Jan. 29, 1967): AAS 59 (1967), 113-123.
 
 [207] St. Francis de Sales, Introduction a la Vie devote, I, III: Oeuvres Completes, Monastere de la Visitation, Annecy 1983, III, 19-21.
 
-[208] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 4.
+[208] , 4.
 
 [209] *Propositio* 40.
 
 [210] Dabit vitutem, qui contulit dignitatem! (St. Leo the Great, Serm. II, 1: S. Ch. 200, 248).
 
-[211] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 4.
+[211] , 4.
 
-[212] [Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html), 43; cf. also, [Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html), 21; Evangelii Nuntiandi, 20: AAS 68 (1976), 19.
+[212] , 43; cf. also, , 21; Evangelii Nuntiandi, 20: AAS 68 (1976), 19.
 
 [213] John Paul II, Discourse to the Participants in the National Congress of Church Movements of Cultural Responsibility (MEIC) (Jan. 16, 1982), 2: Insegnamenti, V, 1 (1982), 131; also letter to Cardinal Agostino Casaroli, secretary of state, establishing the Pontifical Council for Culture (May 20, 1982): AAS 74 (1982), 685; Discourse to the community of the University of Louvain (May 20, 1985), 2: Insegnamenti, VIII, 1 (1985), 1591.
 
-[214] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 4.
+[214] , 4.
 
-[215] Propositio 22; cf. also [Sollicitudo Rei Socialis](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html), 41: AAS 80 (1988), 570-572.
+[215] Propositio 22; cf. also , 41: AAS 80 (1988), 570-572.
 
-[216] [Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html), 4.
+[216] , 4.
 
 [217] St. Methodius of Olympus, Symposion III, 8: S. Ch. 95, 110.
 

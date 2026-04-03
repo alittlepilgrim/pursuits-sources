@@ -8,7 +8,6 @@ description: Manual of Indulgences
 aliases:
   - "> ***Manual Of Indulgences***"
   - 20260114-233849
-tags: []
 ---
 
 # > ***Manual Of Indulgences***

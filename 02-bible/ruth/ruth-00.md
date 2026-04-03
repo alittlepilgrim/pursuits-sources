@@ -19,7 +19,7 @@ url: https://bible.usccb.org/bible/ruth/0
 
 # Ruth, the Book of Ruth
 
-[Introduction](ruth-00.md) [1](ruth-01.md) [2](ruth-02.md) [3](ruth-03.md) [4](ruth-04.md)
+    
 
 ## The Book of Ruth
 

@@ -13,7 +13,6 @@ aliases:
   - GLTTA-1-055
   - GLTTA-1-056
   - tta007-II
-tags: []
 author: Reginald Garrigou-Lagrange
 book_author: Reginald Garrigou-Lagrange
 book_chapter: 3
@@ -22,7 +21,7 @@ book_part: 1
 book_volume: 1
 ---
 
-[Previous](tta007.md) | [Next](tta008.md)
+ | 
 
 > [!NOTE] Part I
 > The Sources of the Interior Life and Its End (cont)

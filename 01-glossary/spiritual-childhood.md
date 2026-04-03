@@ -19,6 +19,6 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- Attained by rebirth in Christ: [[147-the-paschal-harvest#Meditation 1|147,1]].
-- [[147-the-paschal-harvest|147. The Paschal Harvest]]
+- Attained by rebirth in Christ: 147,1.
+- 147. The Paschal Harvest
     

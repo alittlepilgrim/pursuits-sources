@@ -6,7 +6,6 @@ type: formation-handbook
 publish: false
 aliases:
   - Community Formation - OCDS Ongoing Formation Volume I
-tags: []
 author: Secular Order of Discalced Carmelites
 ---
 
