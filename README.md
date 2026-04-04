@@ -1,26 +1,27 @@
 # pursuits-sources
 
-A cleaned, shareable subset of the A Little Pilgrim vault focused on source texts, study materials, and structured notes for Catholic reading and study.
+A structured **Carmelite formation library** focused on Catholic spiritual theology, primary sources, and the interior life.
+
+## Start Here
+
+→ [[00-formation-path]]
+
+This repository is organized as a **path of formation**, not a general reading list.
 
 ## Notes
 
-- This repository is intended to contain only the `pursuits-sources` portion of the original vault.
-- Private vault-level content, local publishing metadata, macOS junk files, and selected restricted materials have been removed from this GitHub copy.
-- Some source materials may still require copyright review depending on how this repository is shared.
+* This is a subset of a private Obsidian vault
+* Built for structured study and linking (Markdown is intentional)
+* Not intended as a comprehensive academic survey
 
 ## Structure
 
-The collection is organized broadly by category, including:
-
-- Bible
-- Catechism
-- Vatican and magisterial documents
-- Social doctrine
-- Books
-- Carmelite formation
-- Figures
-- Glossary notes
+* Scripture & Magisterium
+* Carmelite masters
+* Classical spiritual works
+* Theology & formation materials
 
 ## Git Hygiene
 
-This repo ignores local junk files such as `.DS_Store` and local Obsidian workspace folders.
+Standard ignores for local files and Obsidian workspace data
+
