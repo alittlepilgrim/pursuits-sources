@@ -1,7 +1,7 @@
 ---
 title: Psalm 104
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 104
@@ -17,158 +17,13 @@ url: https://bible.usccb.org/bible/psalms/104
 
 # Psalm 104
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- 104
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## Praise of God the Creator
 
-### Psalm 104
+### I
 
-### Praise of God the Creator
+1 Bless the LORD, my soul!
 
-#### I
-
-1 Bless the L ORD, my soul!
-
-L ORD, my God, you are great indeed!
+LORD, my God, you are great indeed!
 
 You are clothed with majesty and splendor,
 
@@ -186,7 +41,7 @@ traveling on the wings of the wind.
 
 flaming fire, your ministers.
 
-#### Ii
+### II
 
 5 You fixed the earth on its foundation,
 
@@ -208,7 +63,7 @@ to the place you had fixed for them.
 
 never again will they cover the earth.
 
-#### Iii
+### III
 
 10 You made springs flow in wadies
 
@@ -238,7 +93,7 @@ oil to make their faces shine,
 
 and bread to sustain the human heart.
 
-16 The trees of the L ORD drink their fill,
+16 The trees of the LORD drink their fill,
 
 the cedars of Lebanon, which you planted.
 
@@ -250,7 +105,7 @@ the stork in the junipers, its home.
 
 the rocky cliffs, a refuge for badgers.
 
-#### Iv
+### IV
 
 19 You made the moon to mark the seasons,
 
@@ -272,9 +127,9 @@ and settle down in their dens.
 
 to their labor till evening falls.
 
-#### V
+### V
 
-24 How varied are your works, L ORD!
+24 How varied are your works, LORD!
 
 In wisdom you have made them all;
 
@@ -290,7 +145,7 @@ living things both large and small.
 
 and Leviathan, whom you formed to play with.
 
-#### Vi
+### VI
 
 27 All of these look to you
 
@@ -310,29 +165,29 @@ and return to the dust.
 
 and you renew the face of the earth.
 
-#### Vii
+### VII
 
-31 May the glory of the L ORD endure forever;
+31 May the glory of the LORD endure forever;
 
-may the L ORD be glad in his works!
+may the LORD be glad in his works!
 
 32 Who looks at the earth and it trembles,
 
 touches the mountains and they smoke!
 
-33 I will sing to the L ORD all my life;
+33 I will sing to the LORD all my life;
 
 I will sing praise to my God while I live.
 
 34 May my meditation be pleasing to him;
 
-I will rejoice in the L ORD.
+I will rejoice in the LORD.
 
 35 May sinners vanish from the earth,
 
 and the wicked be no more.
 
-Bless the L ORD, my soul! Hallelujah!
+Bless the LORD, my soul! Hallelujah!
 
 \* (Psalm 104) A hymn praising God who easily and skillfully made rampaging waters and primordial night into a world vibrant with life. The psalmist describes God’s splendor in the heavens ([Ps 104:1] – [4]), how the chaotic waters were tamed to fertilize and feed the world ([Ps 104:5] – [18]), and how primordial night was made into a gentle time of refreshment ([Ps 104:19] – [23]). The picture is like [Gn 1:1] – [2]: a dark and watery chaos is made dry and lighted so that creatures might live. The psalmist reacts to the beauty of creation with awe ([Ps 104:24] – [34]). May sin not deface God’s work ([Ps 104:35])!
 

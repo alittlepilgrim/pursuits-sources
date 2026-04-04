@@ -1,7 +1,7 @@
 ---
 title: Psalm 24
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 24
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/24
 
 # Psalm 24
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- 24
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 24
-
-### The Glory of God in Procession to Zion
+## The Glory of God in Procession to Zion
 
 1 A psalm of David. ^psalm-24-1
 
-#### I
+### I
 
-The earth is the L ORD’s and all it holds,
+The earth is the LORD’s and all it holds,
 
 the world and those who dwell in it.
 
@@ -178,9 +33,9 @@ the world and those who dwell in it.
 
 established it over the rivers.
 
-#### Ii
+### II
 
-3 Who may go up the mountain of the L ORD? ^psalm-24-3
+3 Who may go up the mountain of the LORD? ^psalm-24-3
 
 Who can stand in his holy place?
 
@@ -190,7 +45,7 @@ who has not given his soul to useless things,
 
 what is vain.
 
-5 He will receive blessings from the L ORD, ^psalm-24-5
+5 He will receive blessings from the LORD, ^psalm-24-5
 
 and justice from his saving God.
 
@@ -200,7 +55,7 @@ that seeks the face of the God of Jacob.”
 
 *Selah*
 
-#### Iii
+### III
 
 7 Lift up your heads, O gates; ^psalm-24-7
 
@@ -210,9 +65,9 @@ that the king of glory may enter.
 
 8 Who is this king of glory? ^psalm-24-8
 
-The L ORD, strong and mighty,
+The LORD, strong and mighty,
 
-the L ORD, mighty in war.
+the LORD, mighty in war.
 
 9 Lift up your heads, O gates; ^psalm-24-9
 
@@ -222,7 +77,7 @@ that the king of glory may enter.
 
 10 Who is this king of glory? ^psalm-24-10
 
-The L ORD of hosts, he is the king of glory.
+The LORD of hosts, he is the king of glory.
 
 *Selah*
 

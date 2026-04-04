@@ -1,7 +1,7 @@
 ---
 title: Psalm 69
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 69
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/69
 
 # Psalm 69
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- 69
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 69
-
-### A Cry of Anguish in Great Distress
+## A Cry of Anguish in Great Distress
 
 1 For the leader; according to “Lilies.” Of David. ^psalm-69-1
 
-#### I
+### I
 
 2 Save me, God, ^psalm-69-2
 
@@ -202,13 +57,13 @@ Must I now restore
 
 what I did not steal?
 
-#### Ii
+### II
 
 6 God, you know my folly; ^psalm-69-6
 
 my faults are not hidden from you.
 
-7 Let those who wait in hope for you, L ORD of hosts, ^psalm-69-7
+7 Let those who wait in hope for you, LORD of hosts, ^psalm-69-7
 
 not be shamed because of me.
 
@@ -240,9 +95,9 @@ I became a byword for them.
 
 drunkards make me the butt of songs.
 
-#### Iii
+### III
 
-14 But I will pray to you, L ORD, ^psalm-69-14
+14 But I will pray to you, LORD, ^psalm-69-14
 
 at a favorable time.
 
@@ -264,7 +119,7 @@ nor the deep swallow me,
 
 nor the pit close its mouth over me.
 
-17 Answer me, L ORD, in your generous love; ^psalm-69-17
+17 Answer me, LORD, in your generous love; ^psalm-69-17
 
 in your great mercy turn to me.
 
@@ -290,7 +145,7 @@ for comforters, but found none.
 
 and for my thirst they gave me vinegar.
 
-#### Iv
+### IV
 
 23 May their own table be a snare for them, ^psalm-69-23
 
@@ -320,7 +175,7 @@ let them gain from you no vindication.
 
 not registered among the just!
 
-#### V
+### V
 
 30 But here I am miserable and in pain; ^psalm-69-30
 
@@ -330,7 +185,7 @@ let your saving help protect me, God,
 
 and glorify it with thanksgiving.
 
-32 That will please the L ORD more than oxen, ^psalm-69-32
+32 That will please the LORD more than oxen, ^psalm-69-32
 
 more than bulls with horns and hooves:
 
@@ -338,7 +193,7 @@ more than bulls with horns and hooves:
 
 you who seek God, take heart!
 
-34 For the L ORD hears the poor, ^psalm-69-34
+34 For the LORD hears the poor, ^psalm-69-34
 
 and does not spurn those in bondage.
 
@@ -346,7 +201,7 @@ and does not spurn those in bondage.
 
 the seas and whatever moves in them!”
 
-#### Vi
+### VI
 
 36 For God will rescue Zion, ^psalm-69-36
 

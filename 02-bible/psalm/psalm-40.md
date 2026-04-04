@@ -1,7 +1,7 @@
 ---
 title: Psalm 40
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 40
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/40
 
 # Psalm 40
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- 40
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 40
-
-### Gratitude and Prayer for Help
+## Gratitude and Prayer for Help
 
 1 For the leader. A psalm of David. ^psalm-40-1
 
-#### A
+### A
 
-2 Surely, I wait for the L ORD; ^psalm-40-2
+2 Surely, I wait for the LORD; ^psalm-40-2
 
 who bends down to me and hears my cry,
 
@@ -188,17 +43,17 @@ a hymn to our God.
 
 Many shall look on in fear
 
-and they shall trust in the L ORD.
+and they shall trust in the LORD.
 
 5 Blessed the man who sets ^psalm-40-5
 
-his security in the L ORD,
+his security in the LORD,
 
 who turns not to the arrogant
 
 or to those who stray after falsehood.
 
-6 You, yes you, O L ORD, my God, ^psalm-40-6
+6 You, yes you, O LORD, my God, ^psalm-40-6
 
 have done many wondrous deeds!
 
@@ -230,7 +85,7 @@ in a great assembly,
 
 See, I do not restrain my lips;
 
-as you, L ORD, know.
+as you, LORD, know.
 
 11 I do not conceal your righteousness ^psalm-40-11
 
@@ -240,7 +95,7 @@ I speak of your loyalty and your salvation.
 
 I do not hide your mercy or faithfulness from a great assembly.
 
-12 L ORD, may you not withhold ^psalm-40-12
+12 LORD, may you not withhold ^psalm-40-12
 
 your compassion from me;
 
@@ -248,7 +103,7 @@ May your mercy and your faithfulness
 
 continually protect me.
 
-#### B
+### B
 
 13 But evils surround me ^psalm-40-13
 
@@ -262,9 +117,9 @@ They are more numerous than the hairs of my head;
 
 my courage fails me.
 
-14 L ORD, graciously rescue me! ^psalm-40-14
+14 LORD, graciously rescue me! ^psalm-40-14
 
-Come quickly to help me, L ORD!
+Come quickly to help me, LORD!
 
 15 May those who seek to destroy my life ^psalm-40-15
 
@@ -284,7 +139,7 @@ rejoice and be glad in you.
 
 May those who long for your salvation
 
-always say, “The L ORD is great.”
+always say, “The LORD is great.”
 
 18 Though I am afflicted and poor, ^psalm-40-18
 

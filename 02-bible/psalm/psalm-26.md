@@ -1,7 +1,7 @@
 ---
 title: Psalm 26
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 26
@@ -19,162 +19,17 @@ url: https://bible.usccb.org/bible/psalms/26
 
 # Psalm 26
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- 26
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 26
-
-### Prayer of Innocence
+## Prayer of Innocence
 
 1 Of David. ^psalm-26-1
 
-#### I
+### I
 
-Judge me, L ORD!
+Judge me, LORD!
 
 For I have walked in my integrity.
 
-In the L ORD I trust;
+In the LORD I trust;
 
 I do not falter.
 
@@ -186,7 +41,7 @@ search my heart and mind.
 
 I walk guided by your faithfulness.
 
-#### Ii
+### II
 
 4 I do not sit with worthless men, ^psalm-26-4
 
@@ -208,7 +63,7 @@ and recount all your wondrous deeds.
 
 the site of the dwelling-place of your glory.
 
-#### Iii
+### III
 
 9 Do not take me away with sinners, ^psalm-26-9
 
@@ -224,7 +79,7 @@ redeem me, be gracious to me!
 
 12 My foot stands on level ground; ^psalm-26-12
 
-in assemblies I will bless the L ORD.
+in assemblies I will bless the LORD.
 
 \* (Psalm 26) Like a priest washing before approaching the altar ([Ex 30:17] – [21]), the psalmist seeks God’s protection upon entering the Temple. ([[psalm-26|Ps 26]]:1] – [3], matched by ([[psalm-26|Ps 26]]:11] – [12], remind God of past integrity while asking for purification; ([[psalm-26|Ps 26]]:4] – [5], matched by ([[psalm-26|Ps 26]]:9] – [10], pray for inclusion among the just; ([[psalm-26|Ps 26]]:6] – [8], the center of the poem, express the joy in God at the heart of all ritual.
 

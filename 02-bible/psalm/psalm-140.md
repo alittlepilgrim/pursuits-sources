@@ -1,7 +1,7 @@
 ---
 title: Psalm 140
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 140
@@ -17,158 +17,13 @@ url: https://bible.usccb.org/bible/psalms/140
 
 # Psalm 140
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- 140
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 140
-
-### Prayer for Deliverance from the Wicked
+## Prayer for Deliverance from the Wicked
 
 1 For the leader. A psalm of David.
 
-#### I
+### I
 
-2 Deliver me, L ORD, from the wicked;
+2 Deliver me, LORD, from the wicked;
 
 preserve me from the violent,
 
@@ -182,9 +37,9 @@ venom of asps upon their lips.
 
 *Selah*
 
-#### Ii
+### II
 
-5 Keep me, L ORD, from the clutches of the wicked;
+5 Keep me, LORD, from the clutches of the wicked;
 
 preserve me from the violent,
 
@@ -198,21 +53,21 @@ laid snares for me by the wayside.
 
 *Selah*
 
-7 I say to the L ORD: You are my God;
+7 I say to the LORD: You are my God;
 
-listen, L ORD, to the words of my pleas.
+listen, LORD, to the words of my pleas.
 
-8 L ORD, my master, my strong deliverer,
+8 LORD, my master, my strong deliverer,
 
 you cover my head on the day of armed conflict.
 
-9 L ORD, do not grant the desires of the wicked one;
+9 LORD, do not grant the desires of the wicked one;
 
 do not let his plot succeed.
 
 *Selah*
 
-#### Iii
+### III
 
 10 Those who surround me raise their heads;
 
@@ -226,7 +81,7 @@ cast them into the watery pit never more to rise.
 
 evil will hunt down the man of violence to overthrow him.
 
-13 For I know the L ORD will take up the cause of the needy,
+13 For I know the LORD will take up the cause of the needy,
 
 justice for the poor.
 

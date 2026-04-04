@@ -1,7 +1,7 @@
 ---
 title: Psalm 86
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 86
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/86
 
 # Psalm 86
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- 86
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 86
-
-### Prayer in Time of Distress
+## Prayer in Time of Distress
 
 1 A prayer of David. ^psalm-86-1
 
-#### I
+### I
 
-Incline your ear, L ORD, and answer me,
+Incline your ear, LORD, and answer me,
 
 for I am poor and oppressed.
 
@@ -192,7 +47,7 @@ to you, Lord, I lift up my soul.
 
 most merciful to all who call on you.
 
-6 L ORD, hear my prayer; ^psalm-86-6
+6 LORD, hear my prayer; ^psalm-86-6
 
 listen to my cry for help.
 
@@ -200,7 +55,7 @@ listen to my cry for help.
 
 for you will answer me.
 
-#### Ii
+### II
 
 8 None among the gods can equal you, O Lord; ^psalm-86-8
 
@@ -216,9 +71,9 @@ and give honor to your name.
 
 and you alone are God.
 
-#### Iii
+### III
 
-11 Teach me, L ORD, your way ^psalm-86-11
+11 Teach me, LORD, your way ^psalm-86-11
 
 that I may walk in your truth,
 
@@ -252,7 +107,7 @@ save the son of your handmaid.
 
 make my enemies see, to their confusion,
 
-that you, L ORD, help and comfort me.
+that you, LORD, help and comfort me.
 
 \* (Psalm 86) An individual lament. The psalmist, “poor and oppressed” ([Ps 86:1]), “devoted” ([Ps 86:2]), “your servant” ([Ps 86:2], [4], [16]), “rescuedâ€¦from the depths of Sheol” ([Ps 86:13]), attacked by the ruthless ([Ps 86:14]), desires only God’s protection ([Ps 86:1] – [7], [11] – [17]).
 

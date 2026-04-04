@@ -1,7 +1,7 @@
 ---
 title: Psalm 94
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 94
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/94
 
 # Psalm 94
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- 94
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## A Prayer for Deliverance from the Wicked
 
-### Psalm 94
+### I
 
-### A Prayer for Deliverance from the Wicked
-
-#### I
-
-1 L ORD, avenging God, ^psalm-94-1
+1 LORD, avenging God, ^psalm-94-1
 
 avenging God, shine forth!
 
@@ -176,9 +31,9 @@ avenging God, shine forth!
 
 give the proud what they deserve!
 
-#### Ii
+### II
 
-3 How long, L ORD, shall the wicked, ^psalm-94-3
+3 How long, LORD, shall the wicked, ^psalm-94-3
 
 how long shall the wicked glory?
 
@@ -186,7 +41,7 @@ how long shall the wicked glory?
 
 go on boasting, all these evildoers?
 
-5 They crush your people, L ORD, ^psalm-94-5
+5 They crush your people, LORD, ^psalm-94-5
 
 torment your very own.
 
@@ -194,11 +49,11 @@ torment your very own.
 
 the orphan they murder.
 
-7 They say, “The L ORD does not see; ^psalm-94-7
+7 They say, “The LORD does not see; ^psalm-94-7
 
 the God of Jacob takes no notice.”
 
-#### Iii
+### III
 
 8 Understand, you stupid people! ^psalm-94-8
 
@@ -212,13 +67,13 @@ The one who formed the eye not see?
 
 The one who teaches man not have knowledge?
 
-11 The L ORD knows the plans of man; ^psalm-94-11
+11 The LORD knows the plans of man; ^psalm-94-11
 
 they are like a fleeting breath.
 
-#### Iv
+### IV
 
-12 Blessed the one whom you guide, L ORD, ^psalm-94-12
+12 Blessed the one whom you guide, LORD, ^psalm-94-12
 
 whom you teach by your instruction,
 
@@ -226,7 +81,7 @@ whom you teach by your instruction,
 
 while a pit is being dug for the wicked.
 
-14 For the L ORD will not forsake his people, ^psalm-94-14
+14 For the LORD will not forsake his people, ^psalm-94-14
 
 nor abandon his inheritance.
 
@@ -234,25 +89,25 @@ nor abandon his inheritance.
 
 and all the upright of heart will follow it.
 
-#### V
+### V
 
 16 Who will rise up for me against the wicked? ^psalm-94-16
 
 Who will stand up for me against evildoers?
 
-17 If the L ORD were not my help, ^psalm-94-17
+17 If the LORD were not my help, ^psalm-94-17
 
 I would long have been silent in the grave.
 
 18 When I say, “My foot is slipping,” ^psalm-94-18
 
-your mercy, L ORD, holds me up.
+your mercy, LORD, holds me up.
 
 19 When cares increase within me, ^psalm-94-19
 
 your comfort gives me joy.
 
-#### Vi
+### VI
 
 20 Can unjust judges be your allies, ^psalm-94-20
 
@@ -262,7 +117,7 @@ those who create burdens by decree,
 
 and condemn the innocent to death?
 
-22 No, the L ORD is my secure height, ^psalm-94-22
+22 No, the LORD is my secure height, ^psalm-94-22
 
 my God, my rock of refuge,
 
@@ -270,7 +125,7 @@ my God, my rock of refuge,
 
 and destroy them for their wickedness.
 
-Surely the L ORD our God will destroy them!
+Surely the LORD our God will destroy them!
 
 \* (Psalm 94) A lament of an individual who is threatened by wicked people. The danger affects the whole community. Calling upon God as judge ([Ps 94:1] – [2]), the Psalm complains about oppression of the holy community by people within ([Ps 94:3] – [7]). Bold declarations of faith follow: denunciation of evildoers ([Ps 94:8] – [11]) and assurance to the just ([Ps 94:12] – [15]). The Psalm continues with further lament ([Ps 94:16] – [19]) and ends with strong confidence in God’s response ([Ps 94:20] – [23]).
 

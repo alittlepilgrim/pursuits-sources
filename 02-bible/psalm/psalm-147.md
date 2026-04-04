@@ -1,7 +1,7 @@
 ---
 title: Psalm 147
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 147
@@ -17,162 +17,17 @@ url: https://bible.usccb.org/bible/psalms/147
 
 # Psalm 147
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- 147
-- [148]
-- [149]
-- [150]
-
-### Psalm 147
-
-### God’s Word Restores Jerusalem
+## God’s Word Restores Jerusalem
 
 1 Hallelujah!
 
-#### I
+### I
 
 How good to sing praise to our God;
 
 how pleasant to give fitting praise.
 
-2 The L ORD rebuilds Jerusalem,
+2 The LORD rebuilds Jerusalem,
 
 and gathers the dispersed of Israel,
 
@@ -188,13 +43,13 @@ and gives to all of them their names.
 
 with wisdom beyond measure.
 
-6 The L ORD gives aid to the poor,
+6 The LORD gives aid to the poor,
 
 but casts the wicked to the ground.
 
-#### Ii
+### II
 
-7 Sing to the L ORD with thanksgiving;
+7 Sing to the LORD with thanksgiving;
 
 with the lyre make music to our God,
 
@@ -212,13 +67,13 @@ and young ravens what they cry for.
 
 no pleasure in the runner’s stride.
 
-11 Rather the L ORD takes pleasure in those who fear him,
+11 Rather the LORD takes pleasure in those who fear him,
 
 those who put their hope in his mercy.
 
-#### Iii
+### III
 
-12 Glorify the L ORD, Jerusalem;
+12 Glorify the LORD, Jerusalem;
 
 Zion, offer praise to your God,
 

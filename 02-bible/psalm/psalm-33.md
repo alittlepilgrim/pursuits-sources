@@ -1,7 +1,7 @@
 ---
 title: Psalm 33
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 33
@@ -19,160 +19,15 @@ url: https://bible.usccb.org/bible/psalms/33
 
 # Psalm 33
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- 33
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## Praise of God’s Power and Providence
 
-### Psalm 33
+### I
 
-### Praise of God’s Power and Providence
-
-#### I
-
-1 Rejoice, you righteous, in the L ORD; ^psalm-33-1
+1 Rejoice, you righteous, in the LORD; ^psalm-33-1
 
 praise from the upright is fitting.
 
-2 Give thanks to the L ORD on the harp; ^psalm-33-2
+2 Give thanks to the LORD on the harp; ^psalm-33-2
 
 on the ten-stringed lyre offer praise.
 
@@ -180,17 +35,17 @@ on the ten-stringed lyre offer praise.
 
 skillfully play with joyful chant.
 
-4 For the L ORD’s word is upright; ^psalm-33-4
+4 For the LORD’s word is upright; ^psalm-33-4
 
 all his works are trustworthy.
 
 5 He loves justice and right. ^psalm-33-5
 
-The earth is full of the mercy of the L ORD.
+The earth is full of the mercy of the LORD.
 
-#### Ii
+### II
 
-6 By the L ORD’s word the heavens were made; ^psalm-33-6
+6 By the LORD’s word the heavens were made; ^psalm-33-6
 
 by the breath of his mouth all their host.
 
@@ -198,9 +53,9 @@ by the breath of his mouth all their host.
 
 he sets the deep into storage vaults.
 
-#### Iii
+### III
 
-8 Let all the earth fear the L ORD; ^psalm-33-8
+8 Let all the earth fear the LORD; ^psalm-33-8
 
 let all who dwell in the world show him reverence.
 
@@ -208,21 +63,21 @@ let all who dwell in the world show him reverence.
 
 commanded, and it stood in place.
 
-10 The L ORD foils the plan of nations, ^psalm-33-10
+10 The LORD foils the plan of nations, ^psalm-33-10
 
 frustrates the designs of peoples.
 
-11 But the plan of the L ORD stands forever, ^psalm-33-11
+11 But the plan of the LORD stands forever, ^psalm-33-11
 
 the designs of his heart through all generations.
 
-12 Blessed is the nation whose God is the L ORD, ^psalm-33-12
+12 Blessed is the nation whose God is the LORD, ^psalm-33-12
 
 the people chosen as his inheritance.
 
-#### Iv
+### IV
 
-13 From heaven the L ORD looks down ^psalm-33-13
+13 From heaven the LORD looks down ^psalm-33-13
 
 and observes the children of Adam,
 
@@ -234,7 +89,7 @@ all who dwell on earth.
 
 is the One who knows all their works.
 
-#### V
+### V
 
 16 A king is not saved by a great army, ^psalm-33-16
 
@@ -244,7 +99,7 @@ nor a warrior delivered by great strength.
 
 despite its great strength, it cannot be saved.
 
-18 Behold, the eye of the L ORD is upon those who fear him, ^psalm-33-18
+18 Behold, the eye of the LORD is upon those who fear him, ^psalm-33-18
 
 upon those who count on his mercy,
 
@@ -252,9 +107,9 @@ upon those who count on his mercy,
 
 and to keep them alive through famine.
 
-#### Vi
+### VI
 
-20 Our soul waits for the L ORD, ^psalm-33-20
+20 Our soul waits for the LORD, ^psalm-33-20
 
 he is our help and shield.
 
@@ -262,7 +117,7 @@ he is our help and shield.
 
 in his holy name we trust.
 
-22 May your mercy, L ORD, be upon us; ^psalm-33-22
+22 May your mercy, LORD, be upon us; ^psalm-33-22
 
 as we put our hope in you.
 

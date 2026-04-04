@@ -1,7 +1,7 @@
 ---
 title: Psalm 88
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 88
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/88
 
 # Psalm 88
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- 88
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 88
-
-### A Despairing Lament
+## A Despairing Lament
 
 1 A song; a psalm of the Korahites. For the leader; according to *Mahalath*. For singing; a *maskil* of Heman the Ezrahite. ^psalm-88-1
 
-#### I
+### I
 
-2 L ORD, the God of my salvation, I call out by day; ^psalm-88-2
+2 LORD, the God of my salvation, I call out by day; ^psalm-88-2
 
 at night I cry aloud in your presence.
 
@@ -204,7 +59,7 @@ all your waves crash over me.
 
 *Selah*
 
-#### Ii
+### II
 
 9 Because of you my acquaintances shun me; ^psalm-88-9
 
@@ -214,7 +69,7 @@ Caged in, I cannot escape;
 
 10 my eyes grow dim from trouble. ^psalm-88-10
 
-All day I call on you, L ORD;
+All day I call on you, LORD;
 
 I stretch out my hands to you.
 
@@ -224,7 +79,7 @@ Do the shades arise and praise you?
 
 *Selah*
 
-#### Iii
+### III
 
 12 Is your mercy proclaimed in the grave, ^psalm-88-12
 
@@ -234,13 +89,13 @@ your faithfulness among those who have perished?
 
 your righteous deeds in the land of oblivion?
 
-#### Iv
+### IV
 
-14 But I cry out to you, L ORD; ^psalm-88-14
+14 But I cry out to you, LORD; ^psalm-88-14
 
 in the morning my prayer comes before you.
 
-15 Why do you reject my soul, L ORD, ^psalm-88-15
+15 Why do you reject my soul, LORD, ^psalm-88-15
 
 and hide your face from me?
 

@@ -1,7 +1,7 @@
 ---
 title: Psalm 97
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 97
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/97
 
 # Psalm 97
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- 97
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## The Divine Ruler of All
 
-### Psalm 97
+### I
 
-### The Divine Ruler of All
-
-#### I
-
-1 The L ORD is king; let the earth rejoice; ^psalm-97-1
+1 The LORD is king; let the earth rejoice; ^psalm-97-1
 
 let the many islands be glad.
 
@@ -184,7 +39,7 @@ consuming his foes on every side.
 
 the earth sees and trembles.
 
-5 The mountains melt like wax before the L ORD, ^psalm-97-5
+5 The mountains melt like wax before the LORD, ^psalm-97-5
 
 before the Lord of all the earth.
 
@@ -192,7 +47,7 @@ before the Lord of all the earth.
 
 all peoples see his glory.
 
-#### Ii
+### II
 
 7 All who serve idols are put to shame, ^psalm-97-7
 
@@ -204,13 +59,13 @@ all gods bow down before him.
 
 and the daughters of Judah rejoice
 
-because of your judgments, O L ORD.
+because of your judgments, O LORD.
 
-9 For you, L ORD, are the Most High over all the earth, ^psalm-97-9
+9 For you, LORD, are the Most High over all the earth, ^psalm-97-9
 
 exalted far above all gods.
 
-10 You who love the L ORD, hate evil, ^psalm-97-10
+10 You who love the LORD, hate evil, ^psalm-97-10
 
 he protects the souls of the faithful,
 
@@ -220,7 +75,7 @@ rescues them from the hand of the wicked.
 
 and gladness for the honest of heart.
 
-12 Rejoice in the L ORD, you just, ^psalm-97-12
+12 Rejoice in the LORD, you just, ^psalm-97-12
 
 and give thanks at the remembrance of his holiness.
 

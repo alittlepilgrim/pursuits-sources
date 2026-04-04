@@ -1,7 +1,7 @@
 ---
 title: Psalm 107
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 107
@@ -17,158 +17,13 @@ url: https://bible.usccb.org/bible/psalms/107
 
 # Psalm 107
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- 107
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## God the Savior of Those in Distress
 
-### Psalm 107
-
-### God the Savior of Those in Distress
-
-1 “Give thanks to the L ORD for he is good,
+1 “Give thanks to the LORD for he is good,
 
 his mercy endures forever!”
 
-2 Let that be the prayer of the L ORD’s redeemed,
+2 Let that be the prayer of the LORD’s redeemed,
 
 those redeemed from the hand of the foe,
 
@@ -176,7 +31,7 @@ those redeemed from the hand of the foe,
 
 from east and west, from north and south.
 
-#### I
+### I
 
 4 Some had lost their way in a barren desert;
 
@@ -186,7 +41,7 @@ found no path toward a city to live in.
 
 their life was ebbing away.
 
-6 In their distress they cried to the L ORD,
+6 In their distress they cried to the LORD,
 
 who rescued them in their peril,
 
@@ -194,7 +49,7 @@ who rescued them in their peril,
 
 so they reached a city to live in.
 
-8 Let them thank the L ORD for his mercy,
+8 Let them thank the LORD for his mercy,
 
 such wondrous deeds for the children of Adam.
 
@@ -202,7 +57,7 @@ such wondrous deeds for the children of Adam.
 
 filled the hungry with good things.
 
-#### Ii
+### II
 
 10 Some lived in darkness and gloom,
 
@@ -216,7 +71,7 @@ and scorned the counsel of the Most High,
 
 they stumbled with no one to help.
 
-13 In their distress they cried to the L ORD,
+13 In their distress they cried to the LORD,
 
 who saved them in their peril;
 
@@ -224,7 +79,7 @@ who saved them in their peril;
 
 and broke their chains asunder.
 
-15 Let them thank the L ORD for his mercy,
+15 Let them thank the LORD for his mercy,
 
 such wondrous deeds for the children of Adam.
 
@@ -232,7 +87,7 @@ such wondrous deeds for the children of Adam.
 
 and snapped the bars of iron.
 
-#### Iii
+### III
 
 17 Some fell sick from their wicked ways,
 
@@ -242,7 +97,7 @@ afflicted because of their sins.
 
 they were at the gates of death.
 
-19 In their distress they cried to the L ORD,
+19 In their distress they cried to the LORD,
 
 who saved them in their peril,
 
@@ -250,7 +105,7 @@ who saved them in their peril,
 
 and snatched them from the grave.
 
-21 Let them thank the L ORD for his mercy,
+21 Let them thank the LORD for his mercy,
 
 such wondrous deeds for the children of Adam.
 
@@ -258,13 +113,13 @@ such wondrous deeds for the children of Adam.
 
 recount his works with shouts of joy.
 
-#### Iv
+### IV
 
 23 Some went off to sea in ships,
 
 plied their trade on the deep waters.
 
-24 They saw the works of the L ORD,
+24 They saw the works of the LORD,
 
 the wonders of God in the deep.
 
@@ -280,7 +135,7 @@ their hearts trembled at the danger.
 
 their skill was of no avail.
 
-28 In their distress they cried to the L ORD,
+28 In their distress they cried to the LORD,
 
 who brought them out of their peril;
 
@@ -292,7 +147,7 @@ the waves of the sea were stilled.
 
 that God brought them to the harbor they longed for.
 
-31 Let them thank the L ORD for his mercy,
+31 Let them thank the LORD for his mercy,
 
 such wondrous deeds for the children of Adam.
 
@@ -300,7 +155,7 @@ such wondrous deeds for the children of Adam.
 
 and praise him in the council of the elders.
 
-#### V
+### V
 
 33 God changed rivers into desert,
 
@@ -344,7 +199,7 @@ all wickedness shut its mouth.
 
 43 Whoever is wise will take note of these things,
 
-and ponder the merciful deeds of the L ORD.
+and ponder the merciful deeds of the LORD.
 
 \* (Psalm 107) A hymn inviting those who have been rescued by God to give praise ([Ps 107:1] – [3]). Four archetypal divine rescues are described, each ending in thanksgiving: from the sterile desert ([Ps 107:4] – [9]), from imprisonment in gloom ([Ps 107:10] – [16]), from mortal illness ([Ps 107:17] – [22]), and from the angry sea ([Ps 107:23] – [32]). The number four connotes totality, all the possible varieties of rescue. The same saving activity of God is shown in Israel’s history ([Ps 107:33] – [41]); whenever the people were endangered God rescued them. The last verses invite people to ponder the persistent saving acts of God ([Ps 107:42] – [43]).
 

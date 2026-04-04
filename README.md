@@ -6,22 +6,28 @@ A structured **Carmelite formation library** focused on Catholic spiritual theol
 
 → [[00-formation-path]]
 
-This repository is organized as a **path of formation**, not a general reading list.
+This repository is organized as a **path of formation**.
 
 ## Notes
 
-* This is a subset of a private Obsidian vault
-* Built for structured study and linking (Markdown is intentional)
-* Not intended as a comprehensive academic survey
+- This is a subset of a private Obsidian vault
+    
+- Built for structured study and linking 
+    
+- Not intended as a comprehensive academic survey
+    
 
 ## Structure
 
-* Scripture & Magisterium
-* Carmelite masters
-* Classical spiritual works
-* Theology & formation materials
+- Scripture & Magisterium
+    
+- Carmelite masters
+    
+- Classical spiritual works
+    
+- Theology & formation materials
+    
 
 ## Git Hygiene
 
 Standard ignores for local files and Obsidian workspace data
-

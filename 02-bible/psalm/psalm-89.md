@@ -1,7 +1,7 @@
 ---
 title: Psalm 89
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 89
@@ -19,160 +19,15 @@ url: https://bible.usccb.org/bible/psalms/89
 
 # Psalm 89
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- 89
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 89
-
-### A Lament over God’s Promise to David
+## A Lament over God’s Promise to David
 
 1 A *maskil* of Ethan the Ezrahite. ^psalm-89-1
 
-#### A
+### A
 
-#### I
+### I
 
-2 I will sing of your mercy forever, L ORD ^psalm-89-2
+2 I will sing of your mercy forever, LORD ^psalm-89-2
 
 proclaim your faithfulness through all ages.
 
@@ -190,23 +45,23 @@ and establish your throne through all ages.”
 
 *Selah*
 
-#### Ii
+### II
 
-6 The heavens praise your marvels, L ORD, ^psalm-89-6
+6 The heavens praise your marvels, LORD, ^psalm-89-6
 
 your loyalty in the assembly of the holy ones.
 
-7 Who in the skies ranks with the L ORD? ^psalm-89-7
+7 Who in the skies ranks with the LORD? ^psalm-89-7
 
-Who is like the L ORD among the sons of the gods?
+Who is like the LORD among the sons of the gods?
 
 8 A God dreaded in the council of the holy ones, ^psalm-89-8
 
 greater and more awesome than all those around him!
 
-9 L ORD, God of hosts, who is like you? ^psalm-89-9
+9 LORD, God of hosts, who is like you? ^psalm-89-9
 
-Mighty L ORD, your faithfulness surrounds you.
+Mighty LORD, your faithfulness surrounds you.
 
 10 You rule the raging sea; ^psalm-89-10
 
@@ -234,7 +89,7 @@ mercy and faithfulness march before you.
 
 16 Blessed the people who know the war cry, ^psalm-89-16
 
-who walk in the radiance of your face, L ORD.
+who walk in the radiance of your face, LORD.
 
 17 In your name they sing joyfully all the day; ^psalm-89-17
 
@@ -244,11 +99,11 @@ they rejoice in your righteousness.
 
 by your favor our horn is exalted.
 
-19 Truly the L ORD is our shield, ^psalm-89-19
+19 Truly the LORD is our shield, ^psalm-89-19
 
 the Holy One of Israel, our king!
 
-#### Iii
+### III
 
 20 Then you spoke in vision; ^psalm-89-20
 
@@ -332,9 +187,9 @@ forever firm like the sky!”
 
 *Selah*
 
-#### B
+### B
 
-#### Iv
+### IV
 
 39 But now you have rejected and spurned, ^psalm-89-39
 
@@ -372,7 +227,7 @@ covered him with shame.
 
 V
 
-47 How long, L ORD? Will you hide forever? ^psalm-89-47
+47 How long, LORD? Will you hide forever? ^psalm-89-47
 
 Must your wrath smolder like fire?
 
@@ -396,11 +251,11 @@ that you swore to David in your faithfulness?
 
 how I have borne in my bosom the slander of the nations.
 
-52 Your enemies, L ORD, insult; ^psalm-89-52
+52 Your enemies, LORD, insult; ^psalm-89-52
 
 they insult each step of your anointed.
 
-53 Blessed be the L ORD forever! Amen and amen! ^psalm-89-53
+53 Blessed be the LORD forever! Amen and amen! ^psalm-89-53
 
 \* (Psalm 89) The community laments the defeat of the Davidic king, to whom God promised kingship as enduring as the heavens ([Ps 89:2] – [5]). The Psalm narrates how God became king of the divine beings ([Ps 89:6] – [9]) and how the Davidic king became king of earthly kings ([Ps 89:20] – [38]). Since the defeat of the king calls into question God’s promise, the community ardently prays God to be faithful to the original promise to David ([Ps 89:39] – [52]).
 

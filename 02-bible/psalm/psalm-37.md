@@ -1,7 +1,7 @@
 ---
 title: Psalm 37
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 37
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/37
 
 # Psalm 37
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- 37
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 37
-
-### The Fate of Sinners and the Reward of the Just
+## The Fate of Sinners and the Reward of the Just
 
 1 Of David. ^psalm-37-1
 
-#### Aleph
+### Aleph
 
 Do not be provoked by evildoers;
 
@@ -178,19 +33,19 @@ do not envy those who do wrong.
 
 like green plants they wilt away.
 
-#### Beth
+### Beth
 
-3 Trust in the L ORD and do good ^psalm-37-3
+3 Trust in the LORD and do good ^psalm-37-3
 
 that you may dwell in the land and live secure.
 
-4 Find your delight in the L ORD ^psalm-37-4
+4 Find your delight in the LORD ^psalm-37-4
 
 who will give you your heart’s desire.
 
-#### Gimel
+### Gimel
 
-5 Commit your way to the L ORD; ^psalm-37-5
+5 Commit your way to the LORD; ^psalm-37-5
 
 trust in him and he will act
 
@@ -198,9 +53,9 @@ trust in him and he will act
 
 your justice like noonday.
 
-#### Daleth
+### Daleth
 
-7 Be still before the L ORD; ^psalm-37-7
+7 Be still before the LORD; ^psalm-37-7
 
 wait for him.
 
@@ -208,7 +63,7 @@ Do not be provoked by the prosperous,
 
 nor by malicious schemers.
 
-#### He
+### He
 
 8 Refrain from anger; abandon wrath; ^psalm-37-8
 
@@ -216,9 +71,9 @@ do not be provoked; it brings only harm.
 
 9 Those who do evil will be cut off, ^psalm-37-9
 
-but those who wait for the L ORD will inherit the earth.
+but those who wait for the LORD will inherit the earth.
 
-#### Waw
+### Waw
 
 10 Wait a little, and the wicked will be no more; ^psalm-37-10
 
@@ -228,7 +83,7 @@ look for them and they will not be there.
 
 will delight in great prosperity.
 
-#### Zayin
+### Zayin
 
 12 The wicked plot against the righteous ^psalm-37-12
 
@@ -238,7 +93,7 @@ and gnash their teeth at them;
 
 because he sees that their day is coming.
 
-#### Heth
+### Heth
 
 14 The wicked unsheath their swords; ^psalm-37-14
 
@@ -252,7 +107,7 @@ to slaughter those whose way is upright.
 
 their bows will be broken.
 
-#### Teth
+### Teth
 
 16 Better the meagerness of the righteous one ^psalm-37-16
 
@@ -260,11 +115,11 @@ than the plenty of the wicked.
 
 17 The arms of the wicked will be broken, ^psalm-37-17
 
-while the L ORD will sustain the righteous.
+while the LORD will sustain the righteous.
 
-#### Yodh
+### Yodh
 
-18 The L ORD knows the days of the blameless; ^psalm-37-18
+18 The LORD knows the days of the blameless; ^psalm-37-18
 
 their heritage lasts forever.
 
@@ -272,17 +127,17 @@ their heritage lasts forever.
 
 in days of famine they will be satisfied.
 
-#### Kaph
+### Kaph
 
 20 The wicked perish, ^psalm-37-20
 
-enemies of the L ORD;
+enemies of the LORD;
 
 They shall be consumed like fattened lambs;
 
 like smoke they disappear.
 
-#### Lamedh
+### Lamedh
 
 21 The wicked one borrows but does not repay; ^psalm-37-21
 
@@ -292,17 +147,17 @@ the righteous one is generous and gives.
 
 but those accursed will be cut off.
 
-#### Mem
+### Mem
 
-23 The valiant one whose steps are guided by the L ORD, ^psalm-37-23
+23 The valiant one whose steps are guided by the LORD, ^psalm-37-23
 
 who will delight in his way,
 
 24 May stumble, but he will never fall, ^psalm-37-24
 
-for the L ORD holds his hand.
+for the LORD holds his hand.
 
-#### Nun
+### Nun
 
 25 Neither in my youth, nor now in old age ^psalm-37-25
 
@@ -314,17 +169,17 @@ or his offspring begging for bread.
 
 and his offspring become a blessing.
 
-#### Samekh
+### Samekh
 
 27 Turn from evil and do good, ^psalm-37-27
 
 that you may be settled forever.
 
-28 For the L ORD loves justice ^psalm-37-28
+28 For the LORD loves justice ^psalm-37-28
 
 and does not abandon the faithful.
 
-#### Ayin
+### Ayin
 
 When the unjust are destroyed,
 
@@ -334,7 +189,7 @@ and the offspring of the wicked cut off,
 
 and dwell in it forever.
 
-#### Pe
+### Pe
 
 30 The mouth of the righteous utters wisdom; ^psalm-37-30
 
@@ -344,19 +199,19 @@ his tongue speaks what is right.
 
 his steps do not falter.
 
-#### Sadhe
+### Sadhe
 
 32 The wicked spies on the righteous ^psalm-37-32
 
 and seeks to kill him.
 
-33 But the L ORD does not abandon him in his power, ^psalm-37-33
+33 But the LORD does not abandon him in his power, ^psalm-37-33
 
 nor let him be condemned when tried.
 
-#### Qoph
+### Qoph
 
-34 Wait eagerly for the L ORD, ^psalm-37-34
+34 Wait eagerly for the LORD, ^psalm-37-34
 
 and keep his way;
 
@@ -364,7 +219,7 @@ He will raise you up to inherit the earth;
 
 you will see when the wicked are cut off.
 
-#### Resh
+### Resh
 
 35 I have seen a ruthless scoundrel, ^psalm-37-35
 
@@ -374,7 +229,7 @@ spreading out like a green cedar.
 
 though I searched, he could not be found.
 
-#### Shin
+### Shin
 
 37 Observe the person of integrity and mark the upright; ^psalm-37-37
 
@@ -384,13 +239,13 @@ Because there is a future for a man of peace.
 
 the future of the wicked will be cut off.
 
-#### Taw
+### Taw
 
-39 The salvation of the righteous is from the L ORD, ^psalm-37-39
+39 The salvation of the righteous is from the LORD, ^psalm-37-39
 
 their refuge in a time of distress.
 
-40 The L ORD helps and rescues them, ^psalm-37-40
+40 The LORD helps and rescues them, ^psalm-37-40
 
 rescues and saves them from the wicked,
 

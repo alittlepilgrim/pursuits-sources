@@ -1,7 +1,7 @@
 ---
 title: Psalm 50
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 50
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/50
 
 # Psalm 50
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- 50
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 50
-
-### The Acceptable Sacrifice
+## The Acceptable Sacrifice
 
 1 A psalm of Asaph. ^psalm-50-1
 
-#### I
+### I
 
-The God of gods, the L ORD,
+The God of gods, the LORD,
 
 has spoken and summoned the earth
 
@@ -200,7 +55,7 @@ for God himself is the judge.
 
 *Selah*
 
-#### Ii
+### II
 
 7 “Listen, my people, I will speak; ^psalm-50-7
 
@@ -240,7 +95,7 @@ fulfill your vows to the Most High.
 
 I will rescue you, and you shall honor me.”
 
-#### Iii
+### III
 
 16 But to the wicked God says: ^psalm-50-16
 
@@ -270,7 +125,7 @@ Do you think that I am like you?
 
 I accuse you, I lay out the matter before your eyes.
 
-#### Iv
+### IV
 
 22 “Now understand this, you who forget God, ^psalm-50-22
 

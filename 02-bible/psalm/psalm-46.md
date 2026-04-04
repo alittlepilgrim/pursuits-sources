@@ -1,7 +1,7 @@
 ---
 title: Psalm 46
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 46
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/46
 
 # Psalm 46
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- 46
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 46
-
-### God, the Protector of Zion
+## God, the Protector of Zion
 
 1 For the leader. A song of the Korahites. According to *alamoth*. ^psalm-46-1
 
-#### I
+### I
 
 2 God is our refuge and our strength, ^psalm-46-2
 
@@ -184,7 +39,7 @@ and mountains totter at its surging.
 
 *Selah*
 
-#### Ii
+### II
 
 5 Streams of the river gladden the city of God, ^psalm-46-5
 
@@ -198,15 +53,15 @@ God will help it at break of day.
 
 he utters his voice and the earth melts.
 
-8 The L ORD of hosts is with us; ^psalm-46-8
+8 The LORD of hosts is with us; ^psalm-46-8
 
 our stronghold is the God of Jacob.
 
 *Selah*
 
-#### Iii
+### III
 
-9 Come and see the works of the L ORD, ^psalm-46-9
+9 Come and see the works of the LORD, ^psalm-46-9
 
 who has done fearsome deeds on earth;
 
@@ -222,13 +77,13 @@ I am exalted among the nations,
 
 exalted on the earth.”
 
-12 The L ORD of hosts is with us; ^psalm-46-12
+12 The LORD of hosts is with us; ^psalm-46-12
 
 our stronghold is the God of Jacob.
 
 *Selah*
 
-\* (Psalm 46) A song of confidence in God’s protection of Zion with close parallels to [Ps 48]. The dominant note in [Ps 46] is sounded by the refrain, The L ORD of hosts is with us ([Ps 46:8], [12]). The first strophe ([Ps 46:2] – [4]) sings of the security of God’s presence even in utter chaos; the second ([Ps 46:5] – [8]), of divine protection of the city from its enemies; the third ([Ps 46:9] – [11]), of God’s imposition of imperial peace.
+\* (Psalm 46) A song of confidence in God’s protection of Zion with close parallels to [Ps 48]. The dominant note in [Ps 46] is sounded by the refrain, The LORD of hosts is with us ([Ps 46:8], [12]). The first strophe ([Ps 46:2] – [4]) sings of the security of God’s presence even in utter chaos; the second ([Ps 46:5] – [8]), of divine protection of the city from its enemies; the third ([Ps 46:9] – [11]), of God’s imposition of imperial peace.
 
 \* (46:1) Alamoth: the melody of the Psalm, now lost.
 

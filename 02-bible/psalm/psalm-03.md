@@ -1,7 +1,7 @@
 ---
 title: Psalm 3
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 3
@@ -19,13 +19,13 @@ url: https://bible.usccb.org/bible/psalms/3
 
 # Psalm 3
 
-### Threatened but Trusting
+## Threatened but Trusting
 
 1 A psalm of David, when he fled from his son Absalom. ^psalm-03-1
 
-#### I
+### I
 
-2 How many are my foes, L ORD! ^psalm-03-2
+2 How many are my foes, LORD! ^psalm-03-2
 
 How many rise against me!
 
@@ -35,13 +35,13 @@ How many rise against me!
 
 *Selah*
 
-4 But you, L ORD, are a shield around me; ^psalm-03-4
+4 But you, LORD, are a shield around me; ^psalm-03-4
 
 my glory, you keep my head high.
 
-#### Ii
+### II
 
-5 With my own voice I will call out to the L ORD, ^psalm-03-5
+5 With my own voice I will call out to the LORD, ^psalm-03-5
 
 and he will answer me from his holy mountain.
 
@@ -49,21 +49,21 @@ and he will answer me from his holy mountain.
 
 6 I lie down and I fall asleep, ^psalm-03-6
 
-\[and\] I will wake up, for the L ORD sustains me.
+\[and\] I will wake up, for the LORD sustains me.
 
 7 I do not fear, then, thousands of people ^psalm-03-7
 
 arrayed against me on every side.
 
-#### Iii
+### III
 
-8 Arise, L ORD! Save me, my God! ^psalm-03-8
+8 Arise, LORD! Save me, my God! ^psalm-03-8
 
 For you strike the cheekbone of all my foes;
 
 you break the teeth of the wicked.
 
-9 Salvation is from the L ORD! ^psalm-03-9
+9 Salvation is from the LORD! ^psalm-03-9
 
 May your blessing be upon your people!
 

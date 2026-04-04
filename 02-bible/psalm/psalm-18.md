@@ -1,7 +1,7 @@
 ---
 title: Psalm 18
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 18
@@ -19,172 +19,27 @@ url: https://bible.usccb.org/bible/psalms/18
 
 # Psalm 18
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- 18
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## A King’s Thanksgiving for Victory
 
-### Psalm 18
-
-### A King’s Thanksgiving for Victory
-
-1 For the leader. Of David, the servant of the L ORD, who sang to the L ORD the words of this song after the L ORD had rescued him from the clutches of all his enemies and from the hand of Saul. ^psalm-18-1
+1 For the leader. Of David, the servant of the LORD, who sang to the LORD the words of this song after the LORD had rescued him from the clutches of all his enemies and from the hand of Saul. ^psalm-18-1
 
 2 He said: ^psalm-18-2
 
-#### I
+### I
 
-I love you, L ORD, my strength,
+I love you, LORD, my strength,
 
-3 L ORD, my rock, my fortress, my deliverer, ^psalm-18-3
+3 LORD, my rock, my fortress, my deliverer, ^psalm-18-3
 
 My God, my rock of refuge,
 
 my shield, my saving horn, my stronghold!
 
-4 Praised be the L ORD, I exclaim! ^psalm-18-4
+4 Praised be the LORD, I exclaim! ^psalm-18-4
 
 I have been delivered from my enemies.
 
-#### Ii
+### II
 
 5 The cords of death encompassed me; ^psalm-18-5
 
@@ -194,7 +49,7 @@ the torrents of destruction terrified me.
 
 the snares of death lay in wait for me.
 
-7 In my distress I called out: L ORD! ^psalm-18-7
+7 In my distress I called out: LORD! ^psalm-18-7
 
 I cried out to my God.
 
@@ -230,7 +85,7 @@ his canopy, water-darkened stormclouds.
 
 hail and coals of fire.
 
-14 The L ORD thundered from heaven; ^psalm-18-14
+14 The LORD thundered from heaven; ^psalm-18-14
 
 the Most High made his voice resound.
 
@@ -242,7 +97,7 @@ shot his lightning bolts and dispersed them.
 
 the world’s foundations lay bare,
 
-At your rebuke, O L ORD,
+At your rebuke, O LORD,
 
 at the storming breath of your nostrils.
 
@@ -256,19 +111,19 @@ from foes too powerful for me.
 
 19 They attacked me on my day of distress, ^psalm-18-19
 
-but the L ORD was my support.
+but the LORD was my support.
 
 20 He set me free in the open; ^psalm-18-20
 
 he rescued me because he loves me.
 
-#### Iii
+### III
 
-21 The L ORD acknowledged my righteousness, ^psalm-18-21
+21 The LORD acknowledged my righteousness, ^psalm-18-21
 
 rewarded my clean hands.
 
-22 For I kept the ways of the L ORD; ^psalm-18-22
+22 For I kept the ways of the LORD; ^psalm-18-22
 
 I was not disloyal to my God.
 
@@ -280,7 +135,7 @@ his decrees I did not cast aside.
 
 I was on guard against sin.
 
-25 So the L ORD rewarded my righteousness, ^psalm-18-25
+25 So the LORD rewarded my righteousness, ^psalm-18-25
 
 the cleanness of my hands in his sight.
 
@@ -296,7 +151,7 @@ but to the perverse you are devious.
 
 haughty eyes you bring low.
 
-29 For you, L ORD, give light to my lamp; ^psalm-18-29
+29 For you, LORD, give light to my lamp; ^psalm-18-29
 
 my God brightens my darkness.
 
@@ -306,13 +161,13 @@ with my God to help I can leap a wall.
 
 31 God’s way is unerring; ^psalm-18-31
 
-the L ORD’s promise is refined;
+the LORD’s promise is refined;
 
 he is a shield for all who take refuge in him.
 
-#### Iv
+### IV
 
-32 Truly, who is God except the L ORD? ^psalm-18-32
+32 Truly, who is God except the LORD? ^psalm-18-32
 
 Who but our God is the rock?
 
@@ -328,7 +183,7 @@ and set me on the heights,
 
 my arms to string a bow of bronze.
 
-#### V
+### V
 
 36 You have given me your saving shield; ^psalm-18-36
 
@@ -358,7 +213,7 @@ those who hated me I silenced.
 
 42 They cried for help, but no one saved them; ^psalm-18-42
 
-cried to the L ORD but received no answer.
+cried to the LORD but received no answer.
 
 43 I ground them to dust before the wind; ^psalm-18-43
 
@@ -378,9 +233,9 @@ Foreigners submitted before me;
 
 they came cowering from their dungeons.
 
-#### Vi
+### VI
 
-47 The L ORD lives! Blessed be my rock! ^psalm-18-47
+47 The LORD lives! Blessed be my rock! ^psalm-18-47
 
 Exalted be God, my savior!
 
@@ -394,7 +249,7 @@ Truly you have elevated me above my opponents,
 
 from a man of lawlessness you have rescued me.
 
-50 Thus I will praise you, L ORD, among the nations; ^psalm-18-50
+50 Thus I will praise you, LORD, among the nations; ^psalm-18-50
 
 I will sing praises to your name.
 

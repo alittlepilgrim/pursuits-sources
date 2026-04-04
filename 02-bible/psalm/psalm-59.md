@@ -1,7 +1,7 @@
 ---
 title: Psalm 59
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 59
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/59
 
 # Psalm 59
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- 59
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 59
-
-### Complaint Against Bloodthirsty Enemies
+## Complaint Against Bloodthirsty Enemies
 
 1 For the director. Do not destroy. A *miktam* of David, when Saul sent people to watch his house and kill him. ^psalm-59-1
 
-#### I
+### I
 
 2 Rescue me from my enemies, my God; ^psalm-59-2
 
@@ -182,13 +37,13 @@ from the bloodthirsty save me.
 
 the powerful conspire against me.
 
-For no offense or misdeed of mine, L ORD,
+For no offense or misdeed of mine, LORD,
 
 5 for no fault they hurry to take up arms. ^psalm-59-5
 
 Come near and see my plight!
 
-6 You, L ORD God of hosts, are the God of Israel! ^psalm-59-6
+6 You, LORD God of hosts, are the God of Israel! ^psalm-59-6
 
 Awake! Punish all the nations.
 
@@ -206,7 +61,7 @@ sharp words are on their lips.
 
 They say: “Who is there to hear?”
 
-9 But you, L ORD, laugh at them; ^psalm-59-9
+9 But you, LORD, laugh at them; ^psalm-59-9
 
 you deride all the nations.
 
@@ -216,7 +71,7 @@ you, God, are my fortress,
 
 11 my loving God. ^psalm-59-11
 
-#### Ii
+### II
 
 May God go before me,
 
@@ -254,7 +109,7 @@ growling like dogs, prowling the city.
 
 if they are not filled, they howl.
 
-#### Iii
+### III
 
 17 But I shall sing of your strength, ^psalm-59-17
 

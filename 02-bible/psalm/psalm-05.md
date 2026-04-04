@@ -1,7 +1,7 @@
 ---
 title: Psalm 5
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 5
@@ -19,159 +19,13 @@ url: https://bible.usccb.org/bible/psalms/5
 
 # Psalm 5
 
-- [Introduction]
-- 5
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 5
-
-### Prayer for Divine Help
+## Prayer for Divine Help
 
 1 For the leader; with wind instruments. A psalm of David. ^psalm-05-1
 
-#### I
+### I
 
-2 Give ear to my words, O L ORD; ^psalm-05-2
+2 Give ear to my words, O LORD; ^psalm-05-2
 
 understand my sighing.
 
@@ -179,13 +33,13 @@ understand my sighing.
 
 my king and my God!
 
-For to you I will pray, L ORD;
+For to you I will pray, LORD;
 
 4 in the morning you will hear my voice; ^psalm-05-4
 
 in the morning I will plead before you and wait.
 
-#### Ii
+### II
 
 5 You are not a god who delights in evil; ^psalm-05-5
 
@@ -199,9 +53,9 @@ You hate all who do evil;
 
 A bloody and fraudulent man
 
-the L ORD abhors.
+the LORD abhors.
 
-#### Iii
+### III
 
 8 But I, through the abundance of your mercy, ^psalm-05-8
 
@@ -211,11 +65,11 @@ I will bow down toward your holy sanctuary
 
 out of fear of you.
 
-9 L ORD, guide me in your justice because of my foes; ^psalm-05-9
+9 LORD, guide me in your justice because of my foes; ^psalm-05-9
 
 make straight your way before me.
 
-#### Iv
+### IV
 
 10 For there is no sincerity in their mouth; ^psalm-05-10
 
@@ -233,7 +87,7 @@ Drive them out for their many sins;
 
 for they have rebelled against you.
 
-#### V
+### V
 
 12 Then all who trust in you will be glad ^psalm-05-12
 
@@ -243,7 +97,7 @@ You will protect them and those will rejoice in you
 
 who love your name.
 
-13 For you, L ORD, bless the just one; ^psalm-05-13
+13 For you, LORD, bless the just one; ^psalm-05-13
 
 you surround him with favor like a shield.
 

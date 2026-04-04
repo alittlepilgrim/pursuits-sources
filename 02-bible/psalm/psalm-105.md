@@ -1,7 +1,7 @@
 ---
 title: Psalm 105
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 105
@@ -17,156 +17,11 @@ url: https://bible.usccb.org/bible/psalms/105
 
 # Psalm 105
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- 105
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## God’s Fidelity to the Promise
 
-### Psalm 105
+### I
 
-### God’s Fidelity to the Promise
-
-#### I
-
-1 Give thanks to the L ORD, invoke his name;
+1 Give thanks to the LORD, invoke his name;
 
 make known among the peoples his deeds!
 
@@ -176,9 +31,9 @@ proclaim all his wondrous deeds!
 
 3 Glory in his holy name;
 
-let hearts that seek the L ORD rejoice!
+let hearts that seek the LORD rejoice!
 
-4 Seek out the L ORD and his might;
+4 Seek out the LORD and his might;
 
 constantly seek his face.
 
@@ -190,9 +45,9 @@ his wonders and words of judgment,
 
 offspring of Jacob the chosen one!
 
-#### Ii
+### II
 
-7 He the L ORD, is our God
+7 He the LORD, is our God
 
 whose judgments reach through all the earth.
 
@@ -212,7 +67,7 @@ an everlasting covenant for Israel:
 
 your own allotted inheritance.”
 
-#### Iii
+### III
 
 12 When they were few in number,
 
@@ -230,7 +85,7 @@ for their sake he rebuked kings:
 
 to my prophets do no harm.”
 
-#### Iv
+### IV
 
 16 Then he called down a famine on the land,
 
@@ -246,7 +101,7 @@ collared his neck in iron,
 
 19 Till his prediction came to pass,
 
-and the word of the L ORD proved him true.
+and the word of the LORD proved him true.
 
 20 The king sent and released him;
 
@@ -260,7 +115,7 @@ ruler over all his possessions,
 
 to teach his elders wisdom.
 
-#### V
+### V
 
 23 Then Israel entered Egypt;
 
@@ -328,7 +183,7 @@ no one among the tribes stumbled.
 
 for fear had seized them.
 
-#### Vi
+### VI
 
 39 He spread a cloud out as a cover,
 
@@ -364,7 +219,7 @@ Hallelujah!
 
 \* (105:14) Kings: Pharaoh and Abimelech of Gerar, cf. [[genesis-12|Gen 12]]:17; [20:6] – [7].
 
-\* (105:15) My anointed onesâ€¦my prophets: the patriarchs [[abraham|Abraham]], Isaac, and Jacob, who were “anointed” in the sense of being consecrated and recipients of God’s revelation.
+\* (105:15) My anointed ones my prophets: the patriarchs [[abraham|Abraham]], Isaac, and Jacob, who were “anointed” in the sense of being consecrated and recipients of God’s revelation.
 
 \* (105:16) The grain that sustained them: lit., every “staff of bread.”
 

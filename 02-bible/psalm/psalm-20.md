@@ -1,7 +1,7 @@
 ---
 title: Psalm 20
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 20
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/20
 
 # Psalm 20
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- 20
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 20
-
-### Prayer for the King in Time of War
+## Prayer for the King in Time of War
 
 1 For the leader. A psalm of David. ^psalm-20-1
 
-#### I
+### I
 
-2 The L ORD answer you in time of distress; ^psalm-20-2
+2 The LORD answer you in time of distress; ^psalm-20-2
 
 the name of the God of Jacob defend you!
 
@@ -192,11 +47,11 @@ fulfill your every plan.
 
 raise the banners in the name of our God.
 
-The L ORD grant your every petition!
+The LORD grant your every petition!
 
-#### Ii
+### II
 
-7 Now I know the L ORD gives victory ^psalm-20-7
+7 Now I know the LORD gives victory ^psalm-20-7
 
 to his anointed.
 
@@ -206,13 +61,13 @@ with a strong arm that brings victory.
 
 8 Some rely on chariots, others on horses, ^psalm-20-8
 
-but we on the name of the L ORD our God.
+but we on the name of the LORD our God.
 
 9 They collapse and fall, ^psalm-20-9
 
 but we stand strong and firm.
 
-10 L ORD, grant victory to the king; ^psalm-20-10
+10 LORD, grant victory to the king; ^psalm-20-10
 
 answer when we call upon you.
 

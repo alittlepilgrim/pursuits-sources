@@ -1,7 +1,7 @@
 ---
 title: Psalm 30
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 30
@@ -19,172 +19,27 @@ url: https://bible.usccb.org/bible/psalms/30
 
 # Psalm 30
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- 30
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 30
-
-### Thanksgiving for Deliverance
+## Thanksgiving for Deliverance
 
 1 A psalm. A song for the dedication of the Temple. Of David. ^psalm-30-1
 
-#### I
+### I
 
-2 I praise you, L ORD, for you raised me up ^psalm-30-2
+2 I praise you, LORD, for you raised me up ^psalm-30-2
 
 and did not let my enemies rejoice over me.
 
-3 O L ORD, my God, ^psalm-30-3
+3 O LORD, my God, ^psalm-30-3
 
 I cried out to you for help and you healed me.
 
-4 L ORD, you brought my soul up from Sheol; ^psalm-30-4
+4 LORD, you brought my soul up from Sheol; ^psalm-30-4
 
 you let me live, from going down to the pit.
 
-#### Ii
+### II
 
-5 Sing praise to the L ORD, you faithful; ^psalm-30-5
+5 Sing praise to the LORD, you faithful; ^psalm-30-5
 
 give thanks to his holy memory.
 
@@ -196,13 +51,13 @@ At dusk weeping comes for the night;
 
 but at dawn there is rejoicing.
 
-#### Iii
+### III
 
 7 Complacent, I once said, ^psalm-30-7
 
 “I shall never be shaken.”
 
-8 L ORD, you showed me favor, ^psalm-30-8
+8 LORD, you showed me favor, ^psalm-30-8
 
 established for me mountains of virtue.
 
@@ -210,7 +65,7 @@ But when you hid your face
 
 I was struck with terror.
 
-9 To you, L ORD, I cried out; ^psalm-30-9
+9 To you, LORD, I cried out; ^psalm-30-9
 
 with the Lord I pleaded for mercy:
 
@@ -222,11 +77,11 @@ Does dust give you thanks
 
 or declare your faithfulness?
 
-11 Hear, O L ORD, have mercy on me; ^psalm-30-11
+11 Hear, O LORD, have mercy on me; ^psalm-30-11
 
-L ORD, be my helper.”
+LORD, be my helper.”
 
-#### Iv
+### IV
 
 12 You changed my mourning into dancing; ^psalm-30-12
 
@@ -238,7 +93,7 @@ and clothed me with gladness.
 
 and not be silent.
 
-O L ORD, my God,
+O LORD, my God,
 
 forever will I give you thanks.
 

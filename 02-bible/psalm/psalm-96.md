@@ -1,7 +1,7 @@
 ---
 title: Psalm 96
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 96
@@ -19,160 +19,15 @@ url: https://bible.usccb.org/bible/psalms/96
 
 # Psalm 96
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- 96
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## God of the Universe
 
-### Psalm 96
+### I
 
-### God of the Universe
+1 Sing to the LORD a new song; ^psalm-96-1
 
-#### I
+sing to the LORD, all the earth.
 
-1 Sing to the L ORD a new song; ^psalm-96-1
-
-sing to the L ORD, all the earth.
-
-2 Sing to the L ORD, bless his name; ^psalm-96-2
+2 Sing to the LORD, bless his name; ^psalm-96-2
 
 proclaim his salvation day after day.
 
@@ -180,41 +35,41 @@ proclaim his salvation day after day.
 
 among all peoples, his marvelous deeds.
 
-#### Ii
+### II
 
-4 For great is the L ORD and highly to be praised, ^psalm-96-4
+4 For great is the LORD and highly to be praised, ^psalm-96-4
 
 to be feared above all gods.
 
 5 For the gods of the nations are idols, ^psalm-96-5
 
-but the L ORD made the heavens.
+but the LORD made the heavens.
 
 6 Splendor and power go before him; ^psalm-96-6
 
 power and grandeur are in his holy place.
 
-#### Iii
+### III
 
-7 Give to the L ORD, you families of nations, ^psalm-96-7
+7 Give to the LORD, you families of nations, ^psalm-96-7
 
-give to the L ORD glory and might;
+give to the LORD glory and might;
 
-8 give to the L ORD the glory due his name! ^psalm-96-8
+8 give to the LORD the glory due his name! ^psalm-96-8
 
 Bring gifts and enter his courts;
 
-9 bow down to the L ORD, splendid in holiness. ^psalm-96-9
+9 bow down to the LORD, splendid in holiness. ^psalm-96-9
 
 Tremble before him, all the earth;
 
-10 declare among the nations: The L ORD is king. ^psalm-96-10
+10 declare among the nations: The LORD is king. ^psalm-96-10
 
 The world will surely stand fast, never to be shaken.
 
 He rules the peoples with fairness.
 
-#### Iv
+### IV
 
 11 Let the heavens be glad and the earth rejoice; ^psalm-96-11
 
@@ -224,7 +79,7 @@ let the sea and what fills it resound;
 
 Then let all the trees of the forest rejoice
 
-13 before the L ORD who comes, ^psalm-96-13
+13 before the LORD who comes, ^psalm-96-13
 
 who comes to govern the earth,
 

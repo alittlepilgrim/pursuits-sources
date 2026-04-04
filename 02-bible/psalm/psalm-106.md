@@ -1,7 +1,7 @@
 ---
 title: Psalm 106
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 106
@@ -17,162 +17,17 @@ url: https://bible.usccb.org/bible/psalms/106
 
 # Psalm 106
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- 106
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 106
-
-### Israel’s Confession of sin
+## Israel’s Confession of sin
 
 1 Hallelujah!
 
-#### A
+### A
 
-Give thanks to the L ORD, who is good,
+Give thanks to the LORD, who is good,
 
 whose mercy endures forever.
 
-2 Who can recount the mighty deeds of the L ORD,
+2 Who can recount the mighty deeds of the LORD,
 
 proclaim in full God’s praise?
 
@@ -180,7 +35,7 @@ proclaim in full God’s praise?
 
 whose deeds are always just.
 
-4 Remember me, L ORD, as you favor your people;
+4 Remember me, LORD, as you favor your people;
 
 come to me with your saving help,
 
@@ -190,13 +45,13 @@ rejoice in the joy of your people,
 
 and glory with your heritage.
 
-#### B
+### B
 
 6 We have sinned like our ancestors;
 
 we have done wrong and are guilty.
 
-##### I
+#### I
 
 7 Our ancestors in Egypt
 
@@ -226,7 +81,7 @@ not one of them survived.
 
 and sang his praise.
 
-##### Ii
+#### II
 
 13 But they soon forgot all he had done;
 
@@ -240,11 +95,11 @@ tempted God in the wasteland.
 
 and sent a wasting disease against them.
 
-##### Iii
+#### III
 
 16 In the camp they challenged Moses
 
-and Aaron, the holy one of the L ORD.
+and Aaron, the holy one of the LORD.
 
 17 The earth opened and swallowed Dathan,
 
@@ -254,7 +109,7 @@ it closed on the followers of Abiram.
 
 flames consumed the wicked.
 
-##### Iv
+#### IV
 
 19 At Horeb they fashioned a calf,
 
@@ -280,7 +135,7 @@ Withstood him in the breach
 
 to turn back his destroying anger.
 
-##### V
+#### V
 
 24 Next they despised the beautiful land;
 
@@ -288,7 +143,7 @@ they did not believe the promise.
 
 25 In their tents they complained;
 
-they did not heed the voice of the L ORD.
+they did not heed the voice of the LORD.
 
 26 So with raised hand he swore
 
@@ -298,7 +153,7 @@ he would destroy them in the desert,
 
 disperse them in foreign lands.
 
-##### Vi
+#### VI
 
 28 They joined in the rites of Baal of Peor,
 
@@ -316,7 +171,7 @@ and the plague was brought to a halt.
 
 for all generations to come.
 
-##### Vii
+#### VII
 
 32 At the waters of Meribah they angered God,
 
@@ -326,11 +181,11 @@ and Moses suffered because of them.
 
 that rash words crossed his lips.
 
-##### Viii
+#### VIII
 
 34 They did not destroy the peoples
 
-as the L ORD had commanded them,
+as the LORD had commanded them,
 
 35 But mingled with the nations
 
@@ -356,7 +211,7 @@ desecrating the land with bloodshed.
 
 became adulterers by their conduct.
 
-40 So the L ORD grew angry with his people,
+40 So the LORD grew angry with his people,
 
 abhorred his own heritage.
 
@@ -386,9 +241,9 @@ and relented in his abundant mercy,
 
 from all who held them captive.
 
-#### C
+### C
 
-47 Save us, L ORD, our God;
+47 Save us, LORD, our God;
 
 gather us from among the nations
 
@@ -396,7 +251,7 @@ That we may give thanks to your holy name
 
 and glory in praising you.
 
-48 Blessed be the L ORD, the God of Israel,
+48 Blessed be the LORD, the God of Israel,
 
 from everlasting to everlasting!
 

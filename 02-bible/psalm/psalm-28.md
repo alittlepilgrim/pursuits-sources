@@ -1,7 +1,7 @@
 ---
 title: Psalm 28
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 28
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/28
 
 # Psalm 28
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- 28
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 28
-
-### Petition and Thanksgiving
+## Petition and Thanksgiving
 
 1 Of David. ^psalm-28-1
 
-#### I
+### I
 
-To you, L ORD, I call;
+To you, LORD, I call;
 
 my Rock, do not be deaf to me,
 
@@ -198,7 +53,7 @@ For the work of their hands repay them;
 
 give them what they deserve.
 
-5 Because they do not understand the L ORD’s works, ^psalm-28-5
+5 Because they do not understand the LORD’s works, ^psalm-28-5
 
 the work of his hands,
 
@@ -206,13 +61,13 @@ He will tear them down,
 
 never to rebuild them.
 
-#### Ii
+### II
 
-6 Blessed be the L ORD, ^psalm-28-6
+6 Blessed be the LORD, ^psalm-28-6
 
 who has heard the sound of my pleading.
 
-7 The L ORD is my strength and my shield, ^psalm-28-7
+7 The LORD is my strength and my shield, ^psalm-28-7
 
 in whom my heart trusts.
 
@@ -220,9 +75,9 @@ I am helped, so my heart rejoices;
 
 with my song I praise him.
 
-#### Iii
+### III
 
-8 L ORD, you are a strength for your people, ^psalm-28-8
+8 LORD, you are a strength for your people, ^psalm-28-8
 
 the saving refuge of your anointed.
 

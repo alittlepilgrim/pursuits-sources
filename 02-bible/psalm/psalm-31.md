@@ -1,7 +1,7 @@
 ---
 title: Psalm 31
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 31
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/31
 
 # Psalm 31
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- 31
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 31
-
-### Prayer in Distress and Thanksgiving for Escape
+## Prayer in Distress and Thanksgiving for Escape
 
 1 For the leader. A psalm of David. ^psalm-31-1
 
-#### I
+### I
 
-2 In you, L ORD, I take refuge; ^psalm-31-2
+2 In you, LORD, I take refuge; ^psalm-31-2
 
 let me never be put to shame.
 
@@ -194,11 +49,11 @@ for you are my refuge.
 
 6 Into your hands I commend my spirit; ^psalm-31-6
 
-you will redeem me, L ORD, God of truth.
+you will redeem me, LORD, God of truth.
 
 7 You hate those who serve worthless idols, ^psalm-31-7
 
-but I trust in the L ORD.
+but I trust in the LORD.
 
 8 I will rejoice and be glad in your mercy, ^psalm-31-8
 
@@ -210,9 +65,9 @@ once you have seen my misery,
 
 but will set my feet in a free and open space.
 
-#### Ii
+### II
 
-10 Be gracious to me, L ORD, for I am in distress; ^psalm-31-10
+10 Be gracious to me, LORD, for I am in distress; ^psalm-31-10
 
 affliction is wearing down my eyes,
 
@@ -248,7 +103,7 @@ They conspire together against me;
 
 they plot to take my life.
 
-15 But I trust in you, L ORD; ^psalm-31-15
+15 But I trust in you, LORD; ^psalm-31-15
 
 I say, “You are my God.”
 
@@ -264,7 +119,7 @@ save me in your mercy.
 
 18 Do not let me be put to shame, ^psalm-31-18
 
-for I have called to you, L ORD.
+for I have called to you, LORD.
 
 Put the wicked to shame;
 
@@ -276,7 +131,7 @@ which speak arrogantly against the righteous
 
 in contempt and scorn.
 
-#### Iii
+### III
 
 20 How great is your goodness, Lord, ^psalm-31-20
 
@@ -294,7 +149,7 @@ You conceal them in your tent,
 
 away from the strife of tongues.
 
-22 Blessed be the L ORD, ^psalm-31-22
+22 Blessed be the LORD, ^psalm-31-22
 
 marvelously he showed to me
 
@@ -308,15 +163,15 @@ Yet you heard my voice, my cry for mercy,
 
 when I pleaded with you for help.
 
-24 Love the L ORD, all you who are faithful to him. ^psalm-31-24
+24 Love the LORD, all you who are faithful to him. ^psalm-31-24
 
-The L ORD protects the loyal,
+The LORD protects the loyal,
 
 but repays the arrogant in full.
 
 25 Be strong and take heart, ^psalm-31-25
 
-all who hope in the L ORD.
+all who hope in the LORD.
 
 \* (Psalm 31) A lament ([Ps 31:2] – [19]) with a strong emphasis on trust ([Ps 31:4], [6], [15] – [16]), ending with an anticipatory thanksgiving ([Ps 31:20] – [24]). As is usual in laments, the affliction is couched in general terms. The psalmist feels overwhelmed by evil people but trusts in the “God of truth” ([Ps 31:6]).
 

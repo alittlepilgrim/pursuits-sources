@@ -1,7 +1,7 @@
 ---
 title: Psalm 121
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 121
@@ -17,152 +17,7 @@ url: https://bible.usccb.org/bible/psalms/121
 
 # Psalm 121
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- 121
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 121
-
-### The Lord My Guardian
+## The Lord My Guardian
 
 1 A song of ascents.
 
@@ -170,7 +25,7 @@ I raise my eyes toward the mountains.
 
 From whence shall come my help?
 
-2 My help comes from the L ORD,
+2 My help comes from the LORD,
 
 the maker of heaven and earth.
 
@@ -182,9 +37,9 @@ or your guardian to sleep.
 
 never slumbers nor sleeps.
 
-5 The L ORD is your guardian;
+5 The LORD is your guardian;
 
-the L ORD is your shade
+the LORD is your shade
 
 at your right hand.
 
@@ -192,11 +47,11 @@ at your right hand.
 
 nor the moon by night.
 
-7 The L ORD will guard you from all evil;
+7 The LORD will guard you from all evil;
 
 he will guard your soul.
 
-8 The L ORD will guard your coming and going
+8 The LORD will guard your coming and going
 
 both now and forever.
 

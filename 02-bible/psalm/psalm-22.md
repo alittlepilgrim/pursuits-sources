@@ -1,7 +1,7 @@
 ---
 title: Psalm 22
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 22
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/22
 
 # Psalm 22
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- 22
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 22
-
-### The Prayer of an Innocent Person
+## The Prayer of an Innocent Person
 
 1 For the leader; according to “The deer of the dawn.” A psalm of David. ^psalm-22-1
 
-#### I
+### I
 
 2 My God, my God, why have you abandoned me? ^psalm-22-2
 
@@ -202,7 +57,7 @@ they curl their lips and jeer;
 
 they shake their heads at me:
 
-9 “He relied on the L ORD —let him deliver him; ^psalm-22-9
+9 “He relied on the LORD —let him deliver him; ^psalm-22-9
 
 if he loves him, let him rescue him.”
 
@@ -220,7 +75,7 @@ for trouble is near,
 
 and there is no one to help.
 
-#### Ii
+### II
 
 13 Many bulls surround me; ^psalm-22-13
 
@@ -258,7 +113,7 @@ They stare at me and gloat;
 
 for my clothing they cast lots.
 
-20 But you, L ORD, do not stay far off; ^psalm-22-20
+20 But you, LORD, do not stay far off; ^psalm-22-20
 
 my strength, come quickly to help me.
 
@@ -270,13 +125,13 @@ my life from the grip of the dog.
 
 my poor life from the horns of wild bulls.
 
-#### Iii
+### III
 
 23 Then I will proclaim your name to my brethren; ^psalm-22-23
 
 in the assembly I will praise you:
 
-24 “You who fear the L ORD, give praise! ^psalm-22-24
+24 “You who fear the LORD, give praise! ^psalm-22-24
 
 All descendants of Jacob, give honor;
 
@@ -296,21 +151,21 @@ my vows I will fulfill before those who fear him.
 
 27 The poor will eat their fill; ^psalm-22-27
 
-those who seek the L ORD will offer praise.
+those who seek the LORD will offer praise.
 
 May your hearts enjoy life forever!”
 
-#### Iv
+### IV
 
 28 All the ends of the earth ^psalm-22-28
 
-will remember and turn to the L ORD;
+will remember and turn to the LORD;
 
 All the families of nations
 
 will bow low before him.
 
-29 For kingship belongs to the L ORD, ^psalm-22-29
+29 For kingship belongs to the LORD, ^psalm-22-29
 
 the ruler over the nations.
 
@@ -322,7 +177,7 @@ All who have gone down into the dust
 
 will kneel in homage.
 
-31 And I will live for the L ORD; ^psalm-22-31
+31 And I will live for the LORD; ^psalm-22-31
 
 my descendants will serve you.
 

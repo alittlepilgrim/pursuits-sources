@@ -1,7 +1,7 @@
 ---
 title: Psalm 7
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 7
@@ -19,159 +19,13 @@ url: https://bible.usccb.org/bible/psalms/7
 
 # Psalm 7
 
-- [Introduction]
-- 7
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## God the Vindicator
 
-### Psalm 7
+1 A plaintive song of David, which he sang to the LORD concerning Cush, the Benjaminite. ^psalm-07-1
 
-### God the Vindicator
+### I
 
-1 A plaintive song of David, which he sang to the L ORD concerning Cush, the Benjaminite. ^psalm-07-1
-
-#### I
-
-2 L ORD my God, in you I trusted; ^psalm-07-2
+2 LORD my God, in you I trusted; ^psalm-07-2
 
 save me; rescue me from all who pursue me,
 
@@ -179,9 +33,9 @@ save me; rescue me from all who pursue me,
 
 tear my soul apart with no one to deliver.
 
-#### Ii
+### II
 
-4 L ORD my God, if I have done this, ^psalm-07-4
+4 LORD my God, if I have done this, ^psalm-07-4
 
 if there is guilt on my hands,
 
@@ -197,9 +51,9 @@ and lay my honor in the dust.
 
 *Selah*
 
-#### Iii
+### III
 
-7 Rise up, L ORD, in your anger; ^psalm-07-7
+7 Rise up, LORD, in your anger; ^psalm-07-7
 
 be aroused against the outrages of my oppressors.
 
@@ -209,9 +63,9 @@ Stir up the justice, my God, you have commanded.
 
 and return on high above them,
 
-9 the L ORD will pass judgment on the peoples. ^psalm-07-9
+9 the LORD will pass judgment on the peoples. ^psalm-07-9
 
-Judge me, L ORD, according to my righteousness,
+Judge me, LORD, according to my righteousness,
 
 and my integrity.
 
@@ -223,7 +77,7 @@ O just God,
 
 who tries hearts and minds.
 
-#### Iv
+### IV
 
 11 God is a shield above me ^psalm-07-11
 
@@ -243,7 +97,7 @@ strings and readies the bow,
 
 makes arrows blazing thunderbolts.
 
-#### V
+### V
 
 15 Consider how one conceives iniquity; ^psalm-07-15
 
@@ -259,11 +113,11 @@ but he falls into the pit he has made.
 
 his violence falls on his own skull.
 
-#### Vi
+### VI
 
-18 I will thank the L ORD in accordance with his justice; ^psalm-07-18
+18 I will thank the LORD in accordance with his justice; ^psalm-07-18
 
-I will sing the name of the L ORD Most High.
+I will sing the name of the LORD Most High.
 
 \* (Psalm 7) An individual lament. The psalmist flees to God’s presence in the sanctuary for justice and protection (([[psalm-07|Ps 7]]:2] – [3]) and takes an oath that only the innocent can swear (([[psalm-07|Ps 7]]:4] – [6]). The innocent psalmist can thus hope for the just God’s protection (([[psalm-07|Ps 7]]:7] – [14]) and be confident that the actions of the wicked will come back upon their own heads (([[psalm-07|Ps 7]]:15] – [17]). The justice of God leads the psalmist to praise (([[psalm-07|Ps 7]]:18]).
 

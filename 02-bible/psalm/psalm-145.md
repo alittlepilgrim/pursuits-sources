@@ -1,7 +1,7 @@
 ---
 title: Psalm 145
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 145
@@ -17,152 +17,7 @@ url: https://bible.usccb.org/bible/psalms/145
 
 # Psalm 145
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- 145
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 145
-
-### The Greatness and Goodness of God
+## The Greatness and Goodness of God
 
 1 Praise. Of David.
 
@@ -174,7 +29,7 @@ I will bless your name forever and ever.
 
 I will praise your name forever and ever.
 
-3 Great is the L ORD and worthy of much praise,
+3 Great is the LORD and worthy of much praise,
 
 whose grandeur is beyond understanding.
 
@@ -194,15 +49,15 @@ and recount your great deeds.
 
 and joyfully sing of your justice.
 
-8 The L ORD is gracious and merciful,
+8 The LORD is gracious and merciful,
 
 slow to anger and abounding in mercy.
 
-9 The L ORD is good to all,
+9 The LORD is good to all,
 
 compassionate toward all your works.
 
-10 All your works give you thanks, L ORD
+10 All your works give you thanks, LORD
 
 and your faithful bless you.
 
@@ -218,11 +73,11 @@ the majestic glory of your rule.
 
 your dominion for all generations.
 
-The L ORD is trustworthy in all his words,
+The LORD is trustworthy in all his words,
 
 and loving in all his works.
 
-14 The L ORD supports all who are falling
+14 The LORD supports all who are falling
 
 and raises up all who are bowed down.
 
@@ -234,11 +89,11 @@ you give them their food in due season.
 
 and satisfy the desire of every living thing.
 
-17 The L ORD is just in all his ways,
+17 The LORD is just in all his ways,
 
 merciful in all his works.
 
-18 The L ORD is near to all who call upon him,
+18 The LORD is near to all who call upon him,
 
 to all who call upon him in truth.
 
@@ -246,11 +101,11 @@ to all who call upon him in truth.
 
 he hears their cry and saves them.
 
-20 The L ORD watches over all who love him,
+20 The LORD watches over all who love him,
 
 but all the wicked he destroys.
 
-21 My mouth will speak the praises of the L ORD;
+21 My mouth will speak the praises of the LORD;
 
 all flesh will bless his holy name forever and ever.
 

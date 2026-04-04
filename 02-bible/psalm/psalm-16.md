@@ -1,7 +1,7 @@
 ---
 title: Psalm 16
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 16
@@ -19,162 +19,17 @@ url: https://bible.usccb.org/bible/psalms/16
 
 # Psalm 16
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- 16
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 16
-
-### God the Supreme Good
+## God the Supreme Good
 
 1 A *miktam* of David. ^psalm-16-1
 
-#### I
+### I
 
 Keep me safe, O God;
 
 in you I take refuge.
 
-2 I say to the L ORD, ^psalm-16-2
+2 I say to the LORD, ^psalm-16-2
 
 you are my Lord,
 
@@ -194,7 +49,7 @@ Blood libations to them I will not pour out,
 
 nor will I take their names upon my lips.
 
-5 L ORD, my allotted portion and my cup, ^psalm-16-5
+5 LORD, my allotted portion and my cup, ^psalm-16-5
 
 you have made my destiny secure.
 
@@ -202,13 +57,13 @@ you have made my destiny secure.
 
 fair to me indeed is my inheritance.
 
-#### Ii
+### II
 
-7 I bless the L ORD who counsels me; ^psalm-16-7
+7 I bless the LORD who counsels me; ^psalm-16-7
 
 even at night my heart exhorts me.
 
-8 I keep the L ORD always before me; ^psalm-16-8
+8 I keep the LORD always before me; ^psalm-16-8
 
 with him at my right hand, I shall never be shaken.
 

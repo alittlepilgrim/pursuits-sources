@@ -1,7 +1,7 @@
 ---
 title: Psalm 109
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 109
@@ -17,156 +17,11 @@ url: https://bible.usccb.org/bible/psalms/109
 
 # Psalm 109
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- 109
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 109
-
-### Prayer of a Person Falsely Accused
+## Prayer of a Person Falsely Accused
 
 1 For the leader. A psalm of David.
 
-#### I
+### I
 
 2 O God, whom I praise, do not be silent,
 
@@ -186,7 +41,7 @@ even though I prayed for them.
 
 hatred for my love.
 
-#### Ii
+### II
 
 6 Appoint an evil one over him,
 
@@ -220,11 +75,11 @@ or pity his fatherless children.
 
 their name rooted out in the next generation.
 
-14 May his fathers’ guilt be mentioned to the L ORD;
+14 May his fathers’ guilt be mentioned to the LORD;
 
 his mother’s sin not rooted out.
 
-15 May their guilt be always before the L ORD,
+15 May their guilt be always before the LORD,
 
 till their memory is banished from the earth,
 
@@ -248,13 +103,13 @@ his bones like oil.
 
 as the belt always around him.
 
-20 May this be the reward for my accusers from the L ORD,
+20 May this be the reward for my accusers from the LORD,
 
 for those speaking evil against me.
 
-#### Iii
+### III
 
-21 But you, L ORD, are my Lord,
+21 But you, LORD, are my Lord,
 
 deal kindly with me for your name’s sake;
 
@@ -276,13 +131,13 @@ my flesh has wasted away.
 
 when they see me, they shake their heads.
 
-26 Help me, L ORD, my God;
+26 Help me, LORD, my God;
 
 save me in your mercy.
 
 27 Make them know this is your hand,
 
-that you, L ORD, have done this.
+that you, LORD, have done this.
 
 28 Though they curse, may you bless;
 
@@ -292,7 +147,7 @@ arise, shame them, that your servant may rejoice.
 
 make them wear their shame like a mantle.
 
-30 I will give fervent thanks to the L ORD;
+30 I will give fervent thanks to the LORD;
 
 before a crowd I will praise him.
 
@@ -304,7 +159,7 @@ to save him from those who pass judgment on him.
 
 \* (109:6) An accuser: Hebrew *satan*, a word occurring in [Jb 1] – [2] and [Zec 3:1] – [2]. In the latter passage Satan stands at the right hand of the high priest to bring false accusations against him before God. Here the accuser is human.
 
-\* (109:20) May this be the rewardâ€¦from the L ORD: the psalmist prays that God ratify the curses of [Ps 109:6] – [19] and bring them upon the wicked.
+\* (109:20) May this be the rewardâ€¦from the LORD: the psalmist prays that God ratify the curses of [Ps 109:6] – [19] and bring them upon the wicked.
 
 a. (109:2) [Ps 35:22]; [83:1].
 

@@ -1,7 +1,7 @@
 ---
 title: Psalm 56
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 56
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/56
 
 # Psalm 56
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- 56
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 56
-
-### Trust in God
+## Trust in God
 
 1 For the director. According to *Yonath elem rehoqim*. A *miktam* of David, when the Philistines seized him at Gath. ^psalm-56-1
 
-#### I
+### I
 
 2 Have mercy on me, God, ^psalm-56-2
 
@@ -192,7 +47,7 @@ I trust in God, I do not fear.
 
 What can mere flesh do to me?
 
-#### Ii
+### II
 
 6 All the day they foil my plans; ^psalm-56-6
 
@@ -220,13 +75,13 @@ This I know: God is on my side.
 
 11 I praise the word of God, ^psalm-56-11
 
-I praise the word of the L ORD.
+I praise the word of the LORD.
 
 12 In God I trust, I do not fear. ^psalm-56-12
 
 What can man do to me?
 
-#### Iii
+### III
 
 13 I have made vows to you, God; ^psalm-56-13
 

@@ -1,7 +1,7 @@
 ---
 title: Psalm 68
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 68
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/68
 
 # Psalm 68
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- 68
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 68
-
-### The Exodus and Conquest, Pledge of Future Help
+## The Exodus and Conquest, Pledge of Future Help
 
 1 For the leader. A psalm of David; a song. ^psalm-68-1
 
-#### I
+### I
 
 2 May God arise; ^psalm-68-2
 
@@ -188,7 +43,7 @@ they will rejoice before God;
 
 they will celebrate with great joy.
 
-#### Ii
+### II
 
 5 Sing to God, praise his name; ^psalm-68-5
 
@@ -196,7 +51,7 @@ exalt the rider of the clouds.
 
 Rejoice before him
 
-whose name is the L ORD.
+whose name is the LORD.
 
 6 Father of the fatherless, defender of widows— ^psalm-68-6
 
@@ -208,7 +63,7 @@ who leads prisoners out to prosperity,
 
 while rebels live in the desert.
 
-#### Iii
+### III
 
 8 God, when you went forth before your people, ^psalm-68-8
 
@@ -230,7 +85,7 @@ your inheritance was weak and you repaired it.
 
 you will establish it in your goodness for the poor, O God.
 
-#### Iv
+### IV
 
 12 The Lord announced: ^psalm-68-12
 
@@ -250,7 +105,7 @@ her feathers bright as fine gold.”
 
 it will be as when snow fell on Zalmon.
 
-#### V
+### V
 
 16 You mountain of God, mountain of Bashan, ^psalm-68-16
 
@@ -260,7 +115,7 @@ you rugged mountain, mountain of Bashan,
 
 at the mountain where God has chosen to dwell,
 
-where the L ORD resides forever?
+where the LORD resides forever?
 
 18 God’s chariots were myriad, thousands upon thousands; ^psalm-68-18
 
@@ -270,9 +125,9 @@ from Sinai the Lord entered the holy place.
 
 you took captives, received slaves as tribute,
 
-even rebels, for the L ORD God to dwell.
+even rebels, for the LORD God to dwell.
 
-#### Vi
+### VI
 
 20 Blessed be the Lord day by day, ^psalm-68-20
 
@@ -282,7 +137,7 @@ God, our salvation, who carries us.
 
 21 Our God is a God who saves; ^psalm-68-21
 
-escape from death is the L ORD God’s.
+escape from death is the LORD God’s.
 
 22 God will crush the heads of his enemies, ^psalm-68-22
 
@@ -298,7 +153,7 @@ fetch them even from the depths of the sea.
 
 the tongues of your dogs will lap it up.”
 
-#### Vii
+### VII
 
 25 Your procession comes into view, O God, ^psalm-68-25
 
@@ -310,7 +165,7 @@ in their midst girls sound the timbrels.
 
 27 In your choirs, bless God; ^psalm-68-27
 
-L ORD, Israel’s fountain.
+LORD, Israel’s fountain.
 
 28 In the lead is Benjamin, few in number; ^psalm-68-28
 
@@ -318,7 +173,7 @@ there the princes of Judah, a large throng,
 
 the princes of Zebulun, the princes of Naphtali, too.
 
-#### Viii
+### VIII
 
 29 Summon again, O God, your power, ^psalm-68-29
 
@@ -340,7 +195,7 @@ scatter the peoples that delight in war.
 
 Ethiopia hurry its hands to God.
 
-#### Ix
+### IX
 
 33 You kingdoms of the earth, sing to God; ^psalm-68-33
 

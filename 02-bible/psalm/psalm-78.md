@@ -1,7 +1,7 @@
 ---
 title: Psalm 78
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 78
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/78
 
 # Psalm 78
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- 78
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 78
-
-### A New Beginning in Zion and David
+## A New Beginning in Zion and David
 
 1 A *maskil* of Asaph. ^psalm-78-1
 
-#### I
+### I
 
 Attend, my people, to my teaching;
 
@@ -186,7 +41,7 @@ things our ancestors have recounted to us.
 
 we recount them to the next generation,
 
-The praiseworthy deeds of the L ORD and his strength,
+The praiseworthy deeds of the LORD and his strength,
 
 the wonders that he performed.
 
@@ -230,9 +85,9 @@ they refused to walk according to his law.
 
 the wonders that he had shown them.
 
-#### Ii
+### II
 
-##### A
+#### A
 
 12 In the sight of their ancestors God did wonders, ^psalm-78-12
 
@@ -254,7 +109,7 @@ gave water to drink, abundant as the deeps of the sea.
 
 caused rivers of water to flow down.
 
-##### B
+#### B
 
 17 But they went on sinning against him, ^psalm-78-17
 
@@ -278,9 +133,9 @@ But can he also give bread,
 
 or provide meat to his people?”
 
-##### C
+#### C
 
-21 The L ORD heard and grew angry; ^psalm-78-21
+21 The LORD heard and grew angry; ^psalm-78-21
 
 fire blazed up against Jacob;
 
@@ -332,7 +187,7 @@ laying low the youth of Israel.
 
 they did not believe in his wonders.
 
-##### D
+#### D
 
 33 God ended their days abruptly, ^psalm-78-33
 
@@ -366,9 +221,9 @@ unwilling to unleash all his rage.
 
 a breath that passes on and does not return.
 
-#### Iii
+### III
 
-##### A
+#### A
 
 40 How often they rebelled against God in the wilderness, ^psalm-78-40
 
@@ -440,7 +295,7 @@ allotted them as their inherited portion,
 
 and settled in their tents the tribes of Israel.
 
-##### B
+#### B
 
 56 But they tested and rebelled against God Most High, ^psalm-78-56
 
@@ -454,7 +309,7 @@ they proved false like a slack bow.
 
 and with their idols provoked him to jealous anger.
 
-##### C
+#### C
 
 59 God heard and grew angry; ^psalm-78-59
 
@@ -480,7 +335,7 @@ their young women heard no wedding songs.
 
 their widows made no lamentation.
 
-##### D
+#### D
 
 65 Then the Lord awoke as from sleep, ^psalm-78-65
 

@@ -1,7 +1,7 @@
 ---
 title: Psalm 132
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 132
@@ -17,162 +17,17 @@ url: https://bible.usccb.org/bible/psalms/132
 
 # Psalm 132
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- 132
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 132
-
-### The Covenant Between David and God
+## The Covenant Between David and God
 
 1 A song of ascents.
 
-#### I
+### I
 
-Remember, O L ORD, for David
+Remember, O LORD, for David
 
 all his hardships;
 
-2 How he swore an oath to the L ORD,
+2 How he swore an oath to the LORD,
 
 vowed to the Mighty One of Jacob:
 
@@ -184,7 +39,7 @@ nor lie on the couch where I sleep;
 
 my eyelids no rest,
 
-5 Till I find a place for the L ORD,
+5 Till I find a place for the LORD,
 
 a dwelling for the Mighty One of Jacob.”
 
@@ -196,7 +51,7 @@ we have found it in the fields of Jaar.
 
 let us worship at his footstool.”
 
-8 “Arise, L ORD, come to your resting place,
+8 “Arise, LORD, come to your resting place,
 
 you and your mighty ark.
 
@@ -208,9 +63,9 @@ your devout will shout for joy.”
 
 do not reject your anointed.
 
-#### Ii
+### II
 
-11 The L ORD swore an oath to David in truth,
+11 The LORD swore an oath to David in truth,
 
 he will never turn back from it:
 
@@ -224,7 +79,7 @@ Their sons, in turn,
 
 shall sit forever on your throne.”
 
-13 Yes, the L ORD has chosen Zion,
+13 Yes, the LORD has chosen Zion,
 
 desired it for a dwelling:
 

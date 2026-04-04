@@ -1,7 +1,7 @@
 ---
 title: Psalm 119
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 119
@@ -17,158 +17,13 @@ url: https://bible.usccb.org/bible/psalms/119
 
 # Psalm 119
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- 119
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## A Prayer to God, the Lawgiver
 
-### Psalm 119
-
-### A Prayer to God, the Lawgiver
-
-#### Aleph
+### Aleph
 
 1 Blessed those whose way is blameless,
 
-who walk by the law of the L ORD.
+who walk by the law of the LORD.
 
 2 Blessed those who keep his testimonies,
 
@@ -198,7 +53,7 @@ as I study your righteous judgments.
 
 do not leave me all alone.
 
-#### Beth
+### Beth
 
 9 How can the young keep his way without fault?
 
@@ -212,7 +67,7 @@ do not let me stray from your commandments.
 
 that I may not sin against you.
 
-12 Blessed are you, O L ORD;
+12 Blessed are you, O LORD;
 
 teach me your statutes.
 
@@ -232,7 +87,7 @@ and consider your paths.
 
 I will never forget your word.
 
-#### Gimel
+### Gimel
 
 17 Be kind to your servant that I may live,
 
@@ -266,7 +121,7 @@ your servant meditates on your statutes.
 
 they are my counselors.
 
-#### Daleth
+### Daleth
 
 25 My soul clings to the dust;
 
@@ -292,7 +147,7 @@ favor me with your law.
 
 I have kept your judgments.
 
-31 I cling to your testimonies, L ORD;
+31 I cling to your testimonies, LORD;
 
 do not let me come to shame.
 
@@ -300,9 +155,9 @@ do not let me come to shame.
 
 for you will broaden my heart.
 
-#### He
+### He
 
-33 L ORD, teach me the way of your statutes;
+33 LORD, teach me the way of your statutes;
 
 I shall keep them with care.
 
@@ -334,9 +189,9 @@ for your judgments are good.
 
 in your righteousness give me life.
 
-#### Waw
+### Waw
 
-41 Let your mercy come to me, L ORD,
+41 Let your mercy come to me, LORD,
 
 salvation in accord with your promise.
 
@@ -368,7 +223,7 @@ which I dearly love.
 
 I study your statutes, which I love.
 
-#### Zayin
+### Zayin
 
 49 Remember your word to your servant
 
@@ -384,7 +239,7 @@ I do not turn from your law.
 
 52 When I recite your judgments of old
 
-I am comforted, L ORD.
+I am comforted, LORD.
 
 53 Rage seizes me because of the wicked;
 
@@ -396,15 +251,15 @@ wherever I make my home.
 
 55 Even at night I remember your name
 
-in observance of your law, L ORD.
+in observance of your law, LORD.
 
 56 This is my good fortune,
 
 for I have kept your precepts.
 
-#### Heth
+### Heth
 
-57 My portion is the L ORD;
+57 My portion is the LORD;
 
 I promise to observe your words.
 
@@ -432,15 +287,15 @@ because of your righteous judgments.
 
 of all who observe your precepts.
 
-64 The earth, L ORD, is filled with your mercy;
+64 The earth, LORD, is filled with your mercy;
 
 teach me your statutes.
 
-#### Teth
+### Teth
 
 65 You have treated your servant well,
 
-according to your word, O L ORD.
+according to your word, O LORD.
 
 66 Teach me wisdom and knowledge,
 
@@ -470,7 +325,7 @@ in order to learn your statutes.
 
 than heaps of silver and gold.
 
-#### Yodh
+### Yodh
 
 73 Your hands made me and fashioned me;
 
@@ -480,7 +335,7 @@ give me understanding to learn your commandments.
 
 because I hope in your word.
 
-75 I know, L ORD, that your judgments are righteous;
+75 I know, LORD, that your judgments are righteous;
 
 though you afflict me, you are faithful.
 
@@ -504,7 +359,7 @@ those who acknowledge your testimonies.
 
 that I may not be put to shame.
 
-#### Kaph
+### Kaph
 
 81 My soul longs for your salvation;
 
@@ -538,9 +393,9 @@ but I do not forsake your precepts.
 
 to observe the testimonies of your mouth.
 
-#### Lamedh
+### Lamedh
 
-89 Your word, L ORD, stands forever;
+89 Your word, LORD, stands forever;
 
 it is firm as the heavens.
 
@@ -572,7 +427,7 @@ but I seek to understand your testimonies.
 
 but your commandment is without bounds.
 
-#### Mem
+### Mem
 
 97 How I love your law, Lord!
 
@@ -606,7 +461,7 @@ sweeter than honey to my mouth!
 
 therefore I hate all false ways.
 
-#### Nun
+### Nun
 
 105 Your word is a lamp for my feet,
 
@@ -616,13 +471,13 @@ a light for my path.
 
 to observe your righteous judgments.
 
-107 I am very much afflicted, L ORD;
+107 I am very much afflicted, LORD;
 
 give me life in accord with your word.
 
 108 Accept my freely offered praise;
 
-L ORD, teach me your judgments.
+LORD, teach me your judgments.
 
 109 My life is always at risk,
 
@@ -640,7 +495,7 @@ they are the joy of my heart.
 
 they are my reward forever.
 
-#### Samekh
+### Samekh
 
 113 I hate every hypocrite;
 
@@ -674,7 +529,7 @@ therefore I love your testimonies.
 
 I fear your judgments.
 
-#### Ayin
+### Ayin
 
 121 I have fulfilled your righteous judgment;
 
@@ -696,7 +551,7 @@ teach me your statutes.
 
 that I may know your testimonies.
 
-126 It is time for the L ORD to act;
+126 It is time for the LORD to act;
 
 they have disobeyed your law.
 
@@ -708,7 +563,7 @@ more than gold, more than the finest gold.
 
 every wrong way I hate.
 
-#### Pe
+### Pe
 
 129 Wonderful are your testimonies;
 
@@ -742,9 +597,9 @@ teach me your statutes.
 
 because your law is not observed.
 
-#### Sadhe
+### Sadhe
 
-137 You are righteous, L ORD,
+137 You are righteous, LORD,
 
 and just are your judgments.
 
@@ -776,9 +631,9 @@ your commandments are my delight.
 
 give me understanding that I may live.
 
-#### Qoph
+### Qoph
 
-145 I call with all my heart, O L ORD;
+145 I call with all my heart, O LORD;
 
 answer me that I may keep your statutes.
 
@@ -794,7 +649,7 @@ I put my hope in your words.
 
 as I meditate on your promise.
 
-149 Hear my voice in your mercy, O L ORD;
+149 Hear my voice in your mercy, O LORD;
 
 by your judgment give me life.
 
@@ -802,7 +657,7 @@ by your judgment give me life.
 
 they are far from your law.
 
-151 You are near, O L ORD;
+151 You are near, O LORD;
 
 reliable are all your commandments.
 
@@ -810,7 +665,7 @@ reliable are all your commandments.
 
 that you have established them forever.
 
-#### Resh
+### Resh
 
 153 Look at my affliction and rescue me,
 
@@ -824,7 +679,7 @@ for the sake of your promise give me life.
 
 because they do not cherish your statutes.
 
-156 Your compassion is great, O L ORD;
+156 Your compassion is great, O LORD;
 
 in accord with your judgments, give me life.
 
@@ -836,7 +691,7 @@ I do not turn from your testimonies.
 
 because they do not heed your promise.
 
-159 See how I love your precepts, L ORD;
+159 See how I love your precepts, LORD;
 
 in your mercy give me life.
 
@@ -844,7 +699,7 @@ in your mercy give me life.
 
 all your righteous judgments are forever.
 
-#### Shin
+### Shin
 
 161 Princes persecute me without reason,
 
@@ -866,7 +721,7 @@ because your judgments are righteous.
 
 for them there is no stumbling block.
 
-166 I look for your salvation, L ORD,
+166 I look for your salvation, LORD,
 
 and I fulfill your commandments.
 
@@ -878,9 +733,9 @@ I love them very much.
 
 all my ways are before you.
 
-#### Taw
+### Taw
 
-169 Let my cry come before you, L ORD;
+169 Let my cry come before you, LORD;
 
 in keeping with your word, give me understanding.
 
@@ -900,7 +755,7 @@ for all your commandments are righteous.
 
 for I have chosen your precepts.
 
-174 I long for your salvation, L ORD;
+174 I long for your salvation, LORD;
 
 your law is my delight.
 

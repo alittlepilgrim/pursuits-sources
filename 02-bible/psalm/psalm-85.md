@@ -1,7 +1,7 @@
 ---
 title: Psalm 85
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 85
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/85
 
 # Psalm 85
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- 85
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 85
-
-### Prayer for Divine Favor
+## Prayer for Divine Favor
 
 1 For the leader. A psalm of the Korahites. ^psalm-85-1
 
-#### I
+### I
 
-2 You once favored, L ORD, your land, ^psalm-85-2
+2 You once favored, LORD, your land, ^psalm-85-2
 
 restored the captives of Jacob.
 
@@ -184,7 +39,7 @@ pardoned all their sins.
 
 turned back from your burning anger.
 
-#### Ii
+### II
 
 5 Restore us, God of our salvation; ^psalm-85-5
 
@@ -198,13 +53,13 @@ prolong your anger for all generations?
 
 that your people may rejoice in you.
 
-8 Show us, L ORD, your mercy; ^psalm-85-8
+8 Show us, LORD, your mercy; ^psalm-85-8
 
 grant us your salvation.
 
-#### Iii
+### III
 
-9 I will listen for what God, the L ORD, has to say; ^psalm-85-9
+9 I will listen for what God, the LORD, has to say; ^psalm-85-9
 
 surely he will speak of peace
 
@@ -224,7 +79,7 @@ justice and peace will kiss.
 
 justice will look down from heaven.
 
-13 Yes, the L ORD will grant his bounty; ^psalm-85-13
+13 Yes, the LORD will grant his bounty; ^psalm-85-13
 
 our land will yield its produce.
 

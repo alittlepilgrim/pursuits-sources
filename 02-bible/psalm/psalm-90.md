@@ -1,7 +1,7 @@
 ---
 title: Psalm 90
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 90
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/90
 
 # Psalm 90
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- 90
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 90
-
-### God’s Eternity and Human Frailty
+## God’s Eternity and Human Frailty
 
 1 A prayer of Moses, the man of God. ^psalm-90-1
 
-#### I
+### I
 
 Lord, you have been our refuge
 
@@ -200,7 +55,7 @@ and in the morning they sprout again like an herb.
 
 in the evening it is wilted and withered.
 
-#### Ii
+### II
 
 7 Truly we are consumed by your anger, ^psalm-90-7
 
@@ -230,9 +85,9 @@ Your wrath matches the fear it inspires.
 
 that we may gain wisdom of heart.
 
-#### Iii
+### III
 
-13 Relent, O L ORD! How long? ^psalm-90-13
+13 Relent, O LORD! How long? ^psalm-90-13
 
 Have pity on your servants!
 

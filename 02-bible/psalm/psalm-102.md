@@ -1,7 +1,7 @@
 ---
 title: Psalm 102
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 102
@@ -17,158 +17,13 @@ url: https://bible.usccb.org/bible/psalms/102
 
 # Psalm 102
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- 102
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## Prayer in Time of Distress
 
-### Psalm 102
+1 The prayer of one afflicted and wasting away whose anguish is poured out before the LORD.
 
-### Prayer in Time of Distress
+### I
 
-1 The prayer of one afflicted and wasting away whose anguish is poured out before the L ORD.
-
-#### I
-
-2 L ORD, hear my prayer;
+2 LORD, hear my prayer;
 
 let my cry come to you.
 
@@ -216,9 +71,9 @@ you lifted me up just to cast me down.
 
 I wither like the grass.
 
-#### Ii
+### II
 
-13 But you, L ORD, are enthroned forever;
+13 But you, LORD, are enthroned forever;
 
 your renown is for all generations.
 
@@ -232,11 +87,11 @@ the appointed time has come.
 
 its dust moves them to pity.
 
-16 The nations shall fear your name, L ORD,
+16 The nations shall fear your name, LORD,
 
 all the kings of the earth, your glory,
 
-17 Once the L ORD has rebuilt Zion
+17 Once the LORD has rebuilt Zion
 
 and appeared in glory,
 
@@ -248,9 +103,9 @@ not scorning their prayer.
 
 for a people not yet born,
 
-that they may praise the L ORD:
+that they may praise the LORD:
 
-20 “The L ORD looked down from the holy heights,
+20 “The LORD looked down from the holy heights,
 
 viewed the earth from heaven,
 
@@ -258,15 +113,15 @@ viewed the earth from heaven,
 
 to release those doomed to die.”
 
-22 Then the L ORD’s name will be declared on Zion,
+22 Then the LORD’s name will be declared on Zion,
 
 his praise in Jerusalem,
 
 23 When peoples and kingdoms gather
 
-to serve the L ORD.
+to serve the LORD.
 
-#### Iii
+### III
 
 24 He has shattered my strength in mid-course,
 

@@ -1,7 +1,7 @@
 ---
 title: Psalm 79
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 79
@@ -19,11 +19,11 @@ url: https://bible.usccb.org/bible/psalms/79
 
 # Psalm 79
 
-### A Prayer for Jerusalem
+## A Prayer for Jerusalem
 
 1 A psalm of Asaph. ^psalm-79-1
 
-#### I
+### I
 
 O God, the nations have invaded your inheritance;
 
@@ -47,9 +47,9 @@ and no one is left to do the burying.
 
 the scorn and derision of those around us.
 
-#### Ii
+### II
 
-5 How long, L ORD? Will you be angry forever? ^psalm-79-5
+5 How long, LORD? Will you be angry forever? ^psalm-79-5
 
 Will your jealous anger keep burning like fire?
 
@@ -67,7 +67,7 @@ let your compassion move quickly ahead of us,
 
 for we have been brought very low.
 
-#### Iii
+### III
 
 9 Help us, God our savior, ^psalm-79-9
 
@@ -85,7 +85,7 @@ Before our eyes make known to the nations
 
 that you avenge the blood of your servants which has been poured out.
 
-#### Iv
+### IV
 
 11 Let the groaning of the imprisoned come in before you; ^psalm-79-11
 

@@ -1,7 +1,7 @@
 ---
 title: Psalm 115
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 115
@@ -17,156 +17,11 @@ url: https://bible.usccb.org/bible/psalms/115
 
 # Psalm 115
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- 115
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## The Greatness of the True God
 
-### Psalm 115
+### I
 
-### The Greatness of the True God
-
-#### I
-
-1 Not to us, L ORD, not to us
+1 Not to us, LORD, not to us
 
 but to your name give glory
 
@@ -180,7 +35,7 @@ because of your mercy and faithfulness.
 
 and does whatever he wills.
 
-#### Ii
+### II
 
 4 Their idols are silver and gold,
 
@@ -204,47 +59,47 @@ they produce no sound from their throats.
 
 and anyone who trusts in them.
 
-#### Iii
+### III
 
-9 The house of Israel trusts in the L ORD,
-
-who is their help and shield.
-
-10 The house of Aaron trusts in the L ORD,
+9 The house of Israel trusts in the LORD,
 
 who is their help and shield.
 
-11 Those who fear the L ORD trust in the L ORD,
+10 The house of Aaron trusts in the LORD,
 
 who is their help and shield.
 
-12 The L ORD remembers us and will bless us,
+11 Those who fear the LORD trust in the LORD,
+
+who is their help and shield.
+
+12 The LORD remembers us and will bless us,
 
 will bless the house of Israel,
 
 will bless the house of Aaron,
 
-13 Will bless those who fear the L ORD,
+13 Will bless those who fear the LORD,
 
 small and great alike.
 
-14 May the L ORD increase your number,
+14 May the LORD increase your number,
 
 yours and your descendants.
 
-15 May you be blessed by the L ORD,
+15 May you be blessed by the LORD,
 
 maker of heaven and earth.
 
-16 The heavens belong to the L ORD,
+16 The heavens belong to the LORD,
 
 but he has given the earth to the children of Adam.
 
-17 The dead do not praise the L ORD,
+17 The dead do not praise the LORD,
 
 not all those go down into silence.
 
-18 It is we who bless the L ORD,
+18 It is we who bless the LORD,
 
 both now and forever.
 
@@ -254,7 +109,7 @@ Hallelujah!
 
 \* (115:2) Where is their God?: implies that God cannot help them.
 
-\* (115:9] – [11) The house of Israelâ€¦the house of Aaronâ€¦those who fear the L ORD: the laity of Israelite birth, the priests, and the converts to Judaism, cf. [Ps 118:2] – [4]; [135:19] – [21]. In the New Testament likewise “those who fear the Lord” means converts to Judaism (cf. ([[acts-of-the-apostles-10|Acts 10]]:2], [22], [35]; [13:16], [26]).
+\* (115:9] – [11) The house of Israelâ€¦the house of Aaronâ€¦those who fear the LORD: the laity of Israelite birth, the priests, and the converts to Judaism, cf. [Ps 118:2] – [4]; [135:19] – [21]. In the New Testament likewise “those who fear the Lord” means converts to Judaism (cf. ([[acts-of-the-apostles-10|Acts 10]]:2], [22], [35]; [13:16], [26]).
 
 \* (115:16) The heavens: the Septuagint reads here “the heaven of heavens” or “the highest heavens,” i.e., above the firmament. See note on [Ps 148:4].
 

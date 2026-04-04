@@ -1,7 +1,7 @@
 ---
 title: Psalm 1
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 1
@@ -19,9 +19,9 @@ url: https://bible.usccb.org/bible/psalms/1
 
 # Psalm 1
 
-### True Happiness in God’s Law
+## True Happiness in God’s Law
 
-#### I
+### I
 
 1 Blessed is the man who does not walk ^psalm-01-1
 
@@ -31,7 +31,7 @@ Nor stand in the way of sinners,
 
 nor sit in company with scoffers.
 
-2 Rather, the law of the L ORD is his joy; ^psalm-01-2
+2 Rather, the law of the LORD is his joy; ^psalm-01-2
 
 and on his law he meditates day and night.
 
@@ -45,7 +45,7 @@ Its leaves never wither;
 
 whatever he does prospers.
 
-#### Ii
+### II
 
 4 But not so are the wicked, not so! ^psalm-01-4
 
@@ -55,7 +55,7 @@ They are like chaff driven by the wind.
 
 nor will sinners in the assembly of the just.
 
-6 Because the L ORD knows the way of the just, ^psalm-01-6
+6 Because the LORD knows the way of the just, ^psalm-01-6
 
 but the way of the wicked leads to ruin.
 
@@ -63,7 +63,7 @@ but the way of the wicked leads to ruin.
 
 \* (1:1) The way: a common biblical term for manner of living or moral conduct ([Ps 32:8]; [101:2], [6]; [Prv 2:20]; [1 Kgs 8:36]).
 
-\* (1:2) The law of the L ORD: either the Torah, the first five books of the Bible, or, more probably, divine teaching or instruction.
+\* (1:2) The law of the LORD: either the Torah, the first five books of the Bible, or, more probably, divine teaching or instruction.
 
 \* (1:4) The wicked: those who by their actions distance themselves from God’s life-giving presence.
 

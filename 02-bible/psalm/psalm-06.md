@@ -1,7 +1,7 @@
 ---
 title: Psalm 6
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 6
@@ -19,173 +19,27 @@ url: https://bible.usccb.org/bible/psalms/6
 
 # Psalm 6
 
-- [Introduction]
-- 6
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 6
-
-### Prayer in Distress
+## Prayer in Distress
 
 1 For the leader; with stringed instruments, “upon the eighth.” ^psalm-06-1
 
 A psalm of David.
 
-#### I
+### I
 
-2 Do not reprove me in your anger, L ORD, ^psalm-06-2
+2 Do not reprove me in your anger, LORD, ^psalm-06-2
 
 nor punish me in your wrath.
 
-3 Have pity on me, L ORD, for I am weak; ^psalm-06-3
+3 Have pity on me, LORD, for I am weak; ^psalm-06-3
 
-heal me, L ORD, for my bones are shuddering.
+heal me, LORD, for my bones are shuddering.
 
 4 My soul too is shuddering greatly— ^psalm-06-4
 
-and you, L ORD, how long?
+and you, LORD, how long?
 
-5 Turn back, L ORD, rescue my soul; ^psalm-06-5
+5 Turn back, LORD, rescue my soul; ^psalm-06-5
 
 save me because of your mercy.
 
@@ -193,7 +47,7 @@ save me because of your mercy.
 
 Who praises you in Sheol?
 
-#### Ii
+### II
 
 7 I am wearied with sighing; ^psalm-06-7
 
@@ -205,15 +59,15 @@ I soak my couch with weeping.
 
 worn out because of all my foes.
 
-#### Iii
+### III
 
 9 Away from me, all who do evil! ^psalm-06-9
 
-The L ORD has heard the sound of my weeping.
+The LORD has heard the sound of my weeping.
 
-10 The L ORD has heard my plea; ^psalm-06-10
+10 The LORD has heard my plea; ^psalm-06-10
 
-the L ORD will receive my prayer.
+the LORD will receive my prayer.
 
 11 My foes will all be disgraced and will shudder greatly; ^psalm-06-11
 

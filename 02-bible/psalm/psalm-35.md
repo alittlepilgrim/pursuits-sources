@@ -1,7 +1,7 @@
 ---
 title: Psalm 35
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 35
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/35
 
 # Psalm 35
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- 35
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 35
-
-### Prayer for Help Against Unjust Enemies
+## Prayer for Help Against Unjust Enemies
 
 1 Of David. ^psalm-35-1
 
-#### I
+### I
 
-Oppose, O L ORD, those who oppose me;
+Oppose, O LORD, those who oppose me;
 
 war upon those who make war upon me.
 
@@ -196,13 +51,13 @@ be turned back and confounded.
 
 5 Make them like chaff before the wind, ^psalm-35-5
 
-with the angel of the L ORD driving them on.
+with the angel of the LORD driving them on.
 
 6 Make their way slippery and dark, ^psalm-35-6
 
-with the angel of the L ORD pursuing them.
+with the angel of the LORD pursuing them.
 
-#### Ii
+### II
 
 7 Without cause they set their snare for me; ^psalm-35-7
 
@@ -214,19 +69,19 @@ let the snare they have set catch them;
 
 let them fall into the pit they have dug.
 
-9 Then I will rejoice in the L ORD, ^psalm-35-9
+9 Then I will rejoice in the LORD, ^psalm-35-9
 
 exult in God’s salvation.
 
 10 My very bones shall say, ^psalm-35-10
 
-“O L ORD, who is like you,
+“O LORD, who is like you,
 
 Who rescue the afflicted from the powerful,
 
 the afflicted and needy from the despoiler?”
 
-#### Iii
+### III
 
 11 Malicious witnesses rise up, ^psalm-35-11
 
@@ -256,7 +111,7 @@ They slandered me without ceasing;
 
 gnashed their teeth against me.
 
-#### Iv
+### IV
 
 17 O Lord, how long will you look on? ^psalm-35-17
 
@@ -284,7 +139,7 @@ They say, “Aha! Good!
 
 Our eyes have seen it!”
 
-22 You see this, L ORD; do not be silent; ^psalm-35-22
+22 You see this, LORD; do not be silent; ^psalm-35-22
 
 Lord, do not withdraw from me.
 
@@ -292,7 +147,7 @@ Lord, do not withdraw from me.
 
 in my cause, my God and my Lord.
 
-24 Defend me because you are just, L ORD; ^psalm-35-24
+24 Defend me because you are just, LORD; ^psalm-35-24
 
 my God, do not let them rejoice over me.
 
@@ -316,7 +171,7 @@ those who lord it over me.
 
 shout for joy and be glad.
 
-May they ever say, “Exalted be the L ORD
+May they ever say, “Exalted be the LORD
 
 who delights in the peace of his loyal servant.”
 

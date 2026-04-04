@@ -1,7 +1,7 @@
 ---
 title: Psalm 19
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 19
@@ -19,156 +19,11 @@ url: https://bible.usccb.org/bible/psalms/19
 
 # Psalm 19
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- 19
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 19
-
-### God’s Glory in the Heavens and in the Law
+## God’s Glory in the Heavens and in the Law
 
 1 For the leader. A psalm of David. ^psalm-19-1
 
-#### I
+### I
 
 2 The heavens declare the glory of God; ^psalm-19-2
 
@@ -198,29 +53,29 @@ its course runs through to the other;
 
 nothing escapes its heat.
 
-#### Ii
+### II
 
-8 The law of the L ORD is perfect, ^psalm-19-8
+8 The law of the LORD is perfect, ^psalm-19-8
 
 refreshing the soul.
 
-The decree of the L ORD is trustworthy,
+The decree of the LORD is trustworthy,
 
 giving wisdom to the simple.
 
-9 The precepts of the L ORD are right, ^psalm-19-9
+9 The precepts of the LORD are right, ^psalm-19-9
 
 rejoicing the heart.
 
-The command of the L ORD is clear,
+The command of the LORD is clear,
 
 enlightening the eye.
 
-10 The fear of the L ORD is pure, ^psalm-19-10
+10 The fear of the LORD is pure, ^psalm-19-10
 
 enduring forever.
 
-The statutes of the L ORD are true,
+The statutes of the LORD are true,
 
 all of them just;
 
@@ -236,7 +91,7 @@ or drippings from the comb.
 
 obeying them brings much reward.
 
-#### Iii
+### III
 
 13 Who can detect trespasses? ^psalm-19-13
 
@@ -254,7 +109,7 @@ innocent of grave sin.
 
 the thoughts of my heart before you,
 
-L ORD, my rock and my redeemer.
+LORD, my rock and my redeemer.
 
 \* (Psalm 19) The heavenly elements of the world, now beautifully arranged, bespeak the power and wisdom of their creator (([[psalm-19|Ps 19]]:2] – [7]). The creator’s wisdom is available to human beings in the law (([[psalm-19|Ps 19]]:8] – [11]), toward which the psalmist prays to be open (([[psalm-19|Ps 19]]:12] – [14]). The themes of light and speech unify the poem.
 

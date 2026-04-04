@@ -1,7 +1,7 @@
 ---
 title: Psalm 118
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 118
@@ -17,156 +17,11 @@ url: https://bible.usccb.org/bible/psalms/118
 
 # Psalm 118
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- 118
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
+## Hymn of Thanksgiving
 
-### Psalm 118
+### I
 
-### Hymn of Thanksgiving
-
-#### I
-
-1 Give thanks to the L ORD, for he is good,
+1 Give thanks to the LORD, for he is good,
 
 his mercy endures forever.
 
@@ -178,83 +33,83 @@ his mercy endures forever.
 
 his mercy endures forever.
 
-4 Let those who fear the L ORD say,
+4 Let those who fear the LORD say,
 
 his mercy endures forever.
 
-#### Ii
+### II
 
-5 In danger I called on the L ORD;
+5 In danger I called on the LORD;
 
-the L ORD answered me and set me free.
+the LORD answered me and set me free.
 
-6 The L ORD is with me; I am not afraid;
+6 The LORD is with me; I am not afraid;
 
 what can mortals do against me?
 
-7 The L ORD is with me as my helper;
+7 The LORD is with me as my helper;
 
 I shall look in triumph on my foes.
 
-8 Better to take refuge in the L ORD
+8 Better to take refuge in the LORD
 
 than to put one’s trust in mortals.
 
-9 Better to take refuge in the L ORD
+9 Better to take refuge in the LORD
 
 than to put one’s trust in princes.
 
-#### Iii
+### III
 
 10 All the nations surrounded me;
 
-in the L ORD’s name I cut them off.
+in the LORD’s name I cut them off.
 
 11 They surrounded me on every side;
 
-in the L ORD’s name I cut them off.
+in the LORD’s name I cut them off.
 
 12 They surrounded me like bees;
 
 they burned up like fire among thorns;
 
-in the L ORD’s name I cut them off.
+in the LORD’s name I cut them off.
 
 13 I was hard pressed and falling,
 
-but the L ORD came to my help.
+but the LORD came to my help.
 
-14 The L ORD, my strength and might,
+14 The LORD, my strength and might,
 
 has become my savior.
 
-#### Iv
+### IV
 
 15 The joyful shout of deliverance
 
 is heard in the tents of the righteous:
 
-“The L ORD’s right hand works valiantly;
+“The LORD’s right hand works valiantly;
 
-16 the L ORD’s right hand is raised;
+16 the LORD’s right hand is raised;
 
-the L ORD’s right hand works valiantly.”
+the LORD’s right hand works valiantly.”
 
 17 I shall not die but live
 
-and declare the deeds of the L ORD.
+and declare the deeds of the LORD.
 
-18 The L ORD chastised me harshly,
+18 The LORD chastised me harshly,
 
 but did not hand me over to death.
 
-#### V
+### V
 
 19 Open the gates of righteousness;
 
-I will enter and thank the L ORD.
+I will enter and thank the LORD.
 
-20 This is the L ORD’s own gate,
+20 This is the LORD’s own gate,
 
 through it the righteous enter.
 
@@ -266,39 +121,39 @@ you have been my savior.
 
 has become the cornerstone.
 
-23 By the L ORD has this been done;
+23 By the LORD has this been done;
 
 it is wonderful in our eyes.
 
-24 This is the day the L ORD has made;
+24 This is the day the LORD has made;
 
 let us rejoice in it and be glad.
 
-25 L ORD, grant salvation!
+25 LORD, grant salvation!
 
-L ORD, grant good fortune!
+LORD, grant good fortune!
 
-#### Vi
+### VI
 
 26 Blessed is he
 
-who comes in the name of the L ORD.
+who comes in the name of the LORD.
 
-We bless you from the house of the L ORD.
+We bless you from the house of the LORD.
 
-27 The L ORD is God and has enlightened us.
+27 The LORD is God and has enlightened us.
 
 Join in procession with leafy branches
 
 up to the horns of the altar.
 
-#### Vii
+### VII
 
 28 You are my God, I give you thanks;
 
 my God, I offer you praise.
 
-29 Give thanks to the L ORD, for he is good,
+29 Give thanks to the LORD, for he is good,
 
 his mercy endures forever.
 

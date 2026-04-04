@@ -1,7 +1,7 @@
 ---
 title: Psalm 92
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 92
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/92
 
 # Psalm 92
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- 92
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 92
-
-### A Hymn of Thanksgiving for God’s Fidelity
+## A Hymn of Thanksgiving for God’s Fidelity
 
 1 A psalm. A sabbath song. ^psalm-92-1
 
-#### I
+### I
 
-2 It is good to give thanks to the L ORD, ^psalm-92-2
+2 It is good to give thanks to the LORD, ^psalm-92-2
 
 to sing praise to your name, Most High,
 
@@ -182,13 +37,13 @@ your faithfulness in the night,
 
 with melody upon the lyre.
 
-5 For you make me jubilant, L ORD, by your deeds; ^psalm-92-5
+5 For you make me jubilant, LORD, by your deeds; ^psalm-92-5
 
 at the works of your hands I shout for joy.
 
-#### Ii
+### II
 
-6 How great are your works, L ORD! ^psalm-92-6
+6 How great are your works, LORD! ^psalm-92-6
 
 How profound your designs!
 
@@ -202,15 +57,15 @@ and all sinners thrive,
 
 They are destined for eternal destruction;
 
-9 but you, L ORD, are forever on high. ^psalm-92-9
+9 but you, LORD, are forever on high. ^psalm-92-9
 
-10 Indeed your enemies, L ORD, ^psalm-92-10
+10 Indeed your enemies, LORD, ^psalm-92-10
 
 indeed your enemies shall perish;
 
 all sinners shall be scattered.
 
-#### Iii
+### III
 
 11 You have given me the strength of a wild ox; ^psalm-92-11
 
@@ -224,7 +79,7 @@ my ears shall hear what happens to my wicked foes.
 
 shall grow like a cedar of Lebanon.
 
-14 Planted in the house of the L ORD, ^psalm-92-14
+14 Planted in the house of the LORD, ^psalm-92-14
 
 they shall flourish in the courts of our God.
 
@@ -232,7 +87,7 @@ they shall flourish in the courts of our God.
 
 they will stay fresh and green,
 
-16 To proclaim: “The L ORD is just; ^psalm-92-16
+16 To proclaim: “The LORD is just; ^psalm-92-16
 
 my rock, in whom there is no wrong.”
 

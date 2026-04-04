@@ -1,7 +1,7 @@
 ---
 title: Psalm 111
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 111
@@ -17,160 +17,15 @@ url: https://bible.usccb.org/bible/psalms/111
 
 # Psalm 111
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- [98]
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- 111
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 111
-
-### Praise of God for Goodness to Israel
+## Praise of God for Goodness to Israel
 
 1 Hallelujah!
 
-I will praise the L ORD with all my heart
+I will praise the LORD with all my heart
 
 in the assembled congregation of the upright.
 
-2 Great are the works of the L ORD,
+2 Great are the works of the LORD,
 
 studied by all who delight in them.
 
@@ -180,7 +35,7 @@ his righteousness endures forever.
 
 4 He won renown for his wondrous deeds;
 
-gracious and merciful is the L ORD.
+gracious and merciful is the LORD.
 
 5 He gives food to those who fear him,
 
@@ -204,7 +59,7 @@ decreed his covenant forever;
 
 holy and fearsome is his name.
 
-10 The fear of the L ORD is the beginning of wisdom;
+10 The fear of the LORD is the beginning of wisdom;
 
 prudent are all who practice it.
 
@@ -216,7 +71,7 @@ His praise endures forever.
 
 \* (111:5) Food to those who fear him: probably a reference to the manna in the desert, which elsewhere is seen as a type of the Eucharist, cf. [[john-06|Jn 6]]:31] – [33], [49] – [51].
 
-\* (111:10) The fear of the L ORD: reverence for God.
+\* (111:10) The fear of the LORD: reverence for God.
 
 a. (111:1) [Ps 138:1].
 

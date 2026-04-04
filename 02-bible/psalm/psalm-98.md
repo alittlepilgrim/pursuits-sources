@@ -1,7 +1,7 @@
 ---
 title: Psalm 98
 created: 2025-07-30
-modified: 2026-04-02
+modified: 2026-04-03
 type: bible
 publish: true
 description: Psalms, Psalm 98
@@ -19,158 +19,13 @@ url: https://bible.usccb.org/bible/psalms/98
 
 # Psalm 98
 
-- [Introduction]
-- [10]
-- [11]
-- [12]
-- [13]
-- [14]
-- [15]
-- [16]
-- [17]
-- [18]
-- [19]
-- [20]
-- [21]
-- [22]
-- [23]
-- [24]
-- [25]
-- [26]
-- [27]
-- [28]
-- [29]
-- [30]
-- [31]
-- [32]
-- [33]
-- [34]
-- [35]
-- [36]
-- [37]
-- [38]
-- [39]
-- [40]
-- [41]
-- [42]
-- [43]
-- [44]
-- [45]
-- [46]
-- [47]
-- [48]
-- [49]
-- [50]
-- [51]
-- [52]
-- [53]
-- [54]
-- [55]
-- [56]
-- [57]
-- [58]
-- [59]
-- [60]
-- [61]
-- [62]
-- [63]
-- [64]
-- [65]
-- [66]
-- [67]
-- [68]
-- [69]
-- [70]
-- [71]
-- [72]
-- [73]
-- [74]
-- [75]
-- [76]
-- [77]
-- [78]
-- [79]
-- [80]
-- [81]
-- [82]
-- [83]
-- [84]
-- [85]
-- [86]
-- [87]
-- [88]
-- [89]
-- [90]
-- [91]
-- [92]
-- [93]
-- [94]
-- [95]
-- [96]
-- [97]
-- 98
-- [99]
-- [100]
-- [101]
-- [102]
-- [103]
-- [104]
-- [105]
-- [106]
-- [107]
-- [108]
-- [109]
-- [110]
-- [111]
-- [112]
-- [113]
-- [114]
-- [115]
-- [116]
-- [117]
-- [118]
-- [119]
-- [120]
-- [121]
-- [122]
-- [123]
-- [124]
-- [125]
-- [126]
-- [127]
-- [128]
-- [129]
-- [130]
-- [131]
-- [132]
-- [133]
-- [134]
-- [135]
-- [136]
-- [137]
-- [138]
-- [139]
-- [140]
-- [141]
-- [142]
-- [143]
-- [144]
-- [145]
-- [146]
-- [147]
-- [148]
-- [149]
-- [150]
-
-### Psalm 98
-
-### The Coming of God
+## The Coming of God
 
 1 A psalm. ^psalm-98-1
 
-#### I
+### I
 
-Sing a new song to the L ORD,
+Sing a new song to the LORD,
 
 for he has done marvelous deeds.
 
@@ -178,7 +33,7 @@ His right hand and holy arm
 
 have won the victory.
 
-2 The L ORD has made his victory known; ^psalm-98-2
+2 The LORD has made his victory known; ^psalm-98-2
 
 has revealed his triumph in the sight of the nations,
 
@@ -190,21 +45,21 @@ All the ends of the earth have seen
 
 the victory of our God.
 
-#### Ii
+### II
 
-4 Shout with joy to the L ORD, all the earth; ^psalm-98-4
+4 Shout with joy to the LORD, all the earth; ^psalm-98-4
 
 break into song; sing praise.
 
-5 Sing praise to the L ORD with the lyre, ^psalm-98-5
+5 Sing praise to the LORD with the lyre, ^psalm-98-5
 
 with the lyre and melodious song.
 
 6 With trumpets and the sound of the horn ^psalm-98-6
 
-shout with joy to the King, the L ORD.
+shout with joy to the King, the LORD.
 
-#### Iii
+### III
 
 7 Let the sea and what fills it resound, ^psalm-98-7
 
@@ -214,7 +69,7 @@ the world and those who dwell there.
 
 the mountains shout with them for joy,
 
-9 Before the L ORD who comes, ^psalm-98-9
+9 Before the LORD who comes, ^psalm-98-9
 
 who comes to govern the earth,
 
