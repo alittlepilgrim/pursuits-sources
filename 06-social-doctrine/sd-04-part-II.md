@@ -15,7 +15,7 @@ tags:
   - type/magisterium
   - vatican/social-doctrine
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Compendium of the Social Doctrine of the Church
 ---
@@ -54,7 +54,7 @@ and respect for life from the moment of conception until death”.
 
 (*[Centesimus Annus](https://www.vatican.va/edocs/ENG0214/__P8.HTM)*, 54)
 
-# Chapter Five, the Family, the Vital Cell of Society
+# Chapter Five, The Family, the Vital Cell of Society
 
 **I. THE FAMILY, THE FIRST NATURAL SOCIETY**
 
@@ -648,7 +648,7 @@ e. **Need for more educational and cultural formation**
 
 **376\.** *Faced with the rapid advancement of technological and economic progress, and with the equally rapid transformation of the processes of production and consumption, the Magisterium senses the need to propose a great deal of educational and cultural formation*, for the Church is aware that “to call for an existence which is qualitatively more satisfying is of itself legitimate, but one cannot fail to draw attention to the new responsibilities and dangers connected with this phase of history... In singling out new needs and new means to meet them, one must be guided by a comprehensive picture of man which respects all the dimensions of his being and which subordinates his material and instinctive dimensions to his interior and spiritual ones... Of itself, an economic system does not possess criteria for correctly distinguishing new and higher forms of satisfying human needs from artificial new needs which hinder the formation of a mature personality. Thus *a great deal of educational and cultural work* is urgently needed, including the education of consumers in the responsible use of their power of choice, the formation of a strong sense of responsibility among producers and among people in the mass media in particular, as well as the necessary intervention by public authorities”.\[772\] ^csdc-376
 
-# Chapter Eight, the Political Community
+# Chapter Eight, The Political Community
 
 **I. BIBLICAL ASPECTS**
 
@@ -862,7 +862,7 @@ The Church therefore seeks: freedom of expression, teaching and evangelization; 
 
 **427\.** *In order to prevent or attenuate possible conflicts between the Church and the political community, the juridical experience of the Church and the State have variously defined stable forms of contact and suitable instruments for guaranteeing harmonious relations*. This experience is an essential reference point for all cases in which the State has the presumption to invade the Church's area of action, impairing the freedom of her activity to the point of openly persecuting her or, vice versa, for cases in which church organizations do not act properly with respect to the State. ^csdc-427
 
-# Chapter Nine, the International Community
+# Chapter Nine, The International Community
 
 **I. BIBLICAL ASPECTS**
 
@@ -1088,7 +1088,7 @@ d. **New lifestyles**
 
 **487\.** *The attitude that must characterize the way man acts in relation to creation is essentially one of gratitude and appreciation; the world, in fact, reveals the mystery of God who created and sustains it.* If the relationship with God is placed aside, nature is stripped of its profound meaning and impoverished. If on the other hand, nature is rediscovered in its creaturely dimension, channels of communication with it can be established, its rich and symbolic meaning can be understood, allowing us to enter into its realm of *mystery*. This realm opens the path of man to God, Creator of heaven and earth. *The world presents itself before man's eyes as evidence of God*, the place where his creative, providential and redemptive power unfolds. ^csdc-487
 
-# Chapter Eleven, the Promotion of Peace
+# Chapter Eleven, The Promotion of Peace
 
 **I. BIBLICAL ASPECTS**
 

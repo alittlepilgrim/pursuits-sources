@@ -10,7 +10,7 @@ tags:
   - term/declarations
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Declaration on christian education - Gravissimum educationis
 abbreviation: ge
@@ -18,19 +18,11 @@ abbreviation: ge
 
 abbreviation: ge
 
-DECLARATION ON CHRISTIAN EDUCATION
+# Gravissimum Educationis
 
-***GRAVISSIMUM EDUCATIONIS***
+## Declaration on Christian Education Proclaimed by His Holiness Pope Paul VI on October 28 1965
 
-PROCLAIMED BY
-
-HIS HOLINESS
-
-POPE PAUL VI
-
-ON OCTOBER 28, 1965
-
-**INTRODUCTION**
+## Introduction
 
 The Sacred Ecumenical Council has considered with care how extremely important education is in the life of man and how its influence ever grows in the social progress of this age.<sup>([[#^ge-fn-1|1]])</sup>
 
@@ -40,7 +32,7 @@ Consequently, attempts are being made everywhere to promote more education. The 
 
 To fulfill the mandate she has received from her divine founder of proclaiming the mystery of salvation to all men and of restoring all things in Christ, Holy Mother the Church must be concerned with the whole of man's life, even the secular part of it insofar as it has a bearing on his heavenly calling.<sup>([[#^ge-fn-4|4]])</sup> Therefore she has a role in the progress and development of education. Hence this sacred synod declares certain fundamental principles of Christian education especially in schools. These principles will have to be developed at greater length by a special post-conciliar commission and applied by episcopal conferences to varying local situations.
 
-***1. The Meaning of the Universal Right to an Education***
+## 1. The Meaning Of The Universal Right to an Education
 
 All men of every race, condition and age, since they enjoy the dignity of a human being, have an inalienable right to an education <sup>([[#^ge-fn-5|5]])</sup> that is in keeping with their ultimate goal,<sup>([[#^ge-fn-6|6]])</sup> their ability, their sex, and the culture and tradition of their country, and also in harmony with their fraternal association with other peoples in the fostering of true unity and peace on earth. For a true education aims at the formation of the human person in the pursuit of his ultimate end and of the good of the societies of which, as man, he is a member, and in whose obligations, as an adult, he will share.
 
@@ -48,11 +40,11 @@ Therefore children and young people must be helped, with the aid of the latest a
 
 This sacred synod likewise declares that children and young people have a right to be motivated to appraise moral values with a right conscience, to embrace them with a personal adherence, together with a deeper knowledge and love of God. Consequently it earnestly entreats all those who hold a position of public authority or who are in charge of education to see to it that youth is never deprived of this sacred right. It further exhorts the sons of the Church to give their attention with generosity to the entire field of education, having especially in mind the need of extending very soon the benefits of a suitable education and training to everyone in all parts of the world.<sup>([[#^ge-fn-7|7]])</sup>
 
-***2. Christian Education***
+## 2. Christian Education
 
 Since all Christians have become by rebirth of water and the Holy Spirit a new creature<sup>([[#^ge-fn-8|8]])</sup> so that they should be called and should be children of God, they have a right to a Christian education. A Christian education does not merely strive for the maturing of a human person as just now described, but has as its principal purpose this goal: that the baptized, while they are gradually introduced the knowledge of the mystery of salvation, become ever more aware of the gift of Faith they have received, and that they learn in addition how to worship God the Father in spirit and truth (cf. [[john-04#^john-04-23|John 4:23)]] especially in liturgical action, and be conformed in their personal lives according to the new man created in justice and holiness of truth ([[ephesians-04#^ephesians-04-22|Eph. 4:22-24)]]; also that they develop into perfect manhood, to the mature measure of the fullness of Christ (cf. [[ephesians-04#^ephesians-04-13|Eph. 4:13)]] and strive for the growth of the Mystical Body; moreover, that aware of their calling, they learn not only how to bear witness to the hope that is in them (cf. Peter 3:15) but also how to help in the Christian formation of the world that takes place when natural powers viewed in the full consideration of man redeemed by Christ contribute to the good of the whole society.<sup>([[#^ge-fn-9|9]])</sup> Wherefore this sacred synod recalls to pastors of souls their most serious obligation to see to it that all the faithful, but especially the youth who are the hope of the Church, enjoy this Christian education.<sup>([[#^ge-fn-10|0]])</sup>
 
-***3. The Authors of Education***
+## 3. The Authors Of Education
 
 Since parents have given children their life, they are bound by the most serious obligation to educate their offspring and therefore must be recognized as the primary and principal educators.<sup>([[#^ge-fn-11|1]])</sup> This role in education is so important that only with difficulty can it be supplied where it is lacking. Parents are the ones who must create a family atmosphere animated by love and respect for God and man, in which the well-rounded personal and social education of children is fostered. Hence the family is the first school of the social virtues that every society needs. It is particularly in the Christian family, enriched by the grace and office of the sacrament of matrimony, that children should be taught from their early years to have a knowledge of God according to the faith received in Baptism, to worship Him, and to love their neighbor. Here, too, they find their first experience of a wholesome human society and of the Church. Finally, it is through the family that they are gradually led to a companionship with their fellowmen and with the people of God. Let parents, then, recognize the inestimable importance a truly Christian family has for the life and progress of God's own people.<sup>([[#^ge-fn-12|2]])</sup>
 
@@ -60,17 +52,17 @@ The family which has the primary duty of imparting education needs help of the w
 
 Finally, in a special way, the duty of educating belongs to the Church, not merely because she must be recognized as a human society capable of educating, but especially because she has the responsibility of announcing the way of salvation to all men, of communicating the life of Christ to those who believe, and, in her unfailing solicitude, of assisting men to be able to come to the fullness of this life.<sup>([[#^ge-fn-14|4]])</sup> The Church is bound as a mother to give to these children of hers an education by which their whole life can be imbued with the spirit of Christ and at the same time do all she can to promote for all peoples the complete perfection of the human person, the good of earthly society and the building of a world that is more human.<sup>([[#^ge-fn-15|5]])</sup>
 
-***4. Various Aids to Christian Education***
+## 4. Various Aids to Christian Education
 
 In fulfilling its educational role, the Church, eager to employ all suitable aids, is concerned especially about those which are her very own. Foremost among these is catechetical instruction,<sup>([[#^ge-fn-16|6]])</sup> which enlightens and strengthens the faith, nourishes life according to the spirit of Christ, leads to intelligent and active participation in the liturgical mystery<sup>([[#^ge-fn-17|7]])</sup> and gives motivation for apostolic activity. The Church esteems highly and seeks to penetrate and ennoble with her own spirit also other aids which belong to the general heritage of man and which are of great influence in forming souls and molding men, such as the media of communication,<sup>([[#^ge-fn-18|8]])</sup> various groups for mental and physical development, youth associations, and, in particular, schools.
 
-***5. The Importance of Schools***
+## 5. The Importance Of Schools
 
 Among all educational instruments the school has a special importance.<sup>([[#^ge-fn-19|9]])</sup> It is designed not only to develop with special care the intellectual faculties but also to form the ability to judge rightly, to hand on the cultural legacy of previous generations, to foster a sense of values, to prepare for professional life. Between pupils of different talents and backgrounds it promotes friendly relations and fosters a spirit of mutual understanding; and it establishes as it were a center whose work and progress must be shared together by families, teachers, associations of various types that foster cultural, civic, and religious life, as well as by civil society and the entire human community.
 
 Beautiful indeed and of great importance is the vocation of all those who aid parents in fulfilling their duties and who, as representatives of the human community, undertake the task of education in schools. This vocation demands special qualities of mind and heart, very careful preparation, and continuing readiness to renew and to adapt.
 
-***6. The Duties and Rights of Parents***
+## 6. The Duties and Rights Of Parents
 
 Parents who have the primary and inalienable right and duty to educate their children must enjoy true liberty in their choice of schools. Consequently, the public power, which has the obligation to protect and defend the rights of citizens, must see to it, in its concern for distributive justice, that public subsidies are paid out in such a way that parents are truly free to choose according to their conscience the schools they want for their children.<sup>([[#^ge-fn-20|0]])</sup>
 
@@ -78,13 +70,13 @@ In addition it is the task of the state to see to it that all citizens are able 
 
 Therefore this sacred synod exhorts the faithful to assist to their utmost in finding suitable methods of education and programs of study and in forming teachers who can give youth a true education. Through the associations of parents in particular they should further with their assistance all the work of the school but especially the moral education it must impart.<sup>([[#^ge-fn-22|2]])</sup>
 
-***7. Moral and Religious Education in all Schools***
+## 7. Moral and Religious Education In All Schools
 
 Feeling very keenly the weighty responsibility of diligently caring for the moral and religious education of all her children, the Church must be present with her own special affection and help for the great number who are being trained in schools that are not Catholic. This is possible by the witness of the lives of those who teach and direct them, by the apostolic action of their fellow-students,<sup>([[#^ge-fn-23|3]])</sup> but especially by the ministry of priests and laymen who give them the doctrine of salvation in a way suited to their age and circumstances and provide spiritual aid in every way the times and conditions allow.
 
 The Church reminds parents of the duty that is theirs to arrange and even demand that their children be able to enjoy these aids and advance in their Christian formation to a degree that is abreast of their development in secular subjects. Therefore the Church esteems highly those civil authorities and societies which, bearing in mind the pluralism of contemporary society and respecting religious freedom, assist families so that the education of their children can be imparted in all schools according to the individual moral and religious principles of the families.<sup>([[#^ge-fn-24|4]])</sup>
 
-***8. Catholic Schools***
+## 8. Catholic Schools
 
 The influence of the Church in the field of education is shown in a special manner by the Catholic school. No less than other schools does the Catholic school pursue cultural goals and the human formation of youth. But its proper function is to create for the school community a special atmosphere animated by the Gospel spirit of freedom and charity, to help youth grow according to the new creatures they were made through baptism as they develop their own personalities, and finally to order the whole of human culture to the news of salvation so that the knowledge the students gradually acquire of the world, life and man is illumined by faith.<sup>([[#^ge-fn-25|5]])</sup> So indeed the Catholic school, while it is open, as it must be, to the situation of the contemporary world, leads its students to promote efficaciously the good of the earthly city and also prepares them for service in the spread of the Kingdom of God, so that by leading an exemplary apostolic life they become, as it were, a saving leaven in the human community.
 
@@ -92,7 +84,7 @@ Since, therefore, the Catholic school can be such an aid to the fulfillment of t
 
 But let teachers recognize that the Catholic school depends upon them almost entirely for the accomplishment of its goals and programs.<sup>([[#^ge-fn-27|7]])</sup> They should therefore be very carefully prepared so that both in secular and religious knowledge they are equipped with suitable qualifications and also with a pedagogical skill that is in keeping with the findings of the contemporary world. Intimately linked in charity to one another and to their students and endowed with an apostolic spirit, may teachers by their life as much as by their instruction bear witness to Christ, the unique Teacher. Let them work as partners with parents and together with them in every phase of education give due consideration to the difference of sex and the proper ends Divine Providence assigns to each sex in the family and in society. Let them do all they can to stimulate their students to act for themselves and even after graduation to continue to assist them with advice, friendship and by establishing special associations imbued with the true spirit of the Church. The work of these teachers, this sacred synod declares, is in the real sense of the word an apostolate most suited to and necessary for our times and at once a true service offered to society. The Council also reminds Catholic parents of the duty of entrusting their children to Catholic schools wherever and whenever it is possible and of supporting these schools to the best of their ability and of cooperating with them for the education of their children.<sup>([[#^ge-fn-28|8]])</sup>
 
-***9. Different Types of Catholic Schools***
+## 9. Different Types Of Catholic Schools
 
 To this concept of a Catholic school all schools that are in any way dependent on the Church must conform as far as possible, though the Catholic school is to take on different forms in keeping with local circumstances.<sup>([[#^ge-fn-29|9]])</sup> Thus the Church considers very dear to her heart those Catholic schools, found especially in the areas of the new churches, which are attended also by students who are not Catholics.
 
@@ -100,7 +92,7 @@ Attention should be paid to the needs of today in establishing and directing Cat
 
 This Sacred Council of the Church earnestly entreats pastors and all the faithful to spare no sacrifice in helping Catholic schools fulfill their function in a continually more perfect way, and especially in caring for the needs of those who are poor in the goods of this world or who are deprived of the assistance and affection of a family or who are strangers to the gift of Faith.
 
-***10. Catholic Colleges and Universities***
+## 10. Catholic Colleges and Universities
 
 The Church is concerned also with schools of a higher level, especially colleges and universities. In those schools dependent on her she intends that by their very constitution individual subjects be pursued according to their own principles, method, and liberty of scientific inquiry, in such a way that an ever deeper understanding in these fields may be obtained and that, as questions that are new and current are raised and investigations carefully made according to the example of the doctors of the Church and especially of St. Thomas Aquinas,<sup>([[#^ge-fn-31|1]])</sup> there may be a deeper realization of the harmony of faith and science. Thus there is accomplished a public, enduring and pervasive influence of the Christian mind in the furtherance of culture and the students of these institutions are molded into men truly outstanding in their training, ready to undertake weighty responsibilities in society and witness to the faith in the world.<sup>([[#^ge-fn-32|2]])</sup>
 
@@ -110,17 +102,17 @@ The sacred synod heartily recommends that Catholic colleges and universities be 
 
 Since the destiny of society and of the Church itself is intimately linked with the progress of young people pursuing higher studies,<sup>([[#^ge-fn-33|3]])</sup> the pastors of the Church are to expend their energies not only on the spiritual life of students who attend Catholic universities, but, solicitous for the spiritual formation of all their children, they must see to it, after consultations between bishops, that even at universities that are not Catholic there should be associations and university centers under Catholic auspices in which priests, religious and laity, carefully selected and prepared, should give abiding spiritual and intellectual assistance to the youth of the university. Whether in Catholic universities or others, young people of greater ability who seem suited for teaching or research should be specially helped and encouraged to undertake a teaching career.
 
-***11. Faculties of Sacred Sciences***
+## 11. Faculties Of Sacred Sciences
 
 The Church expects much from the zealous endeavors of the faculties of the sacred sciences.<sup>([[#^ge-fn-34|4]])</sup> For to them she entrusts the very serious responsibility of preparing her own students not only for the priestly ministry, but especially for teaching in the seats of higher ecclesiastical studies or for promoting learning on their own or for undertaking the work of a more rigorous intellectual apostolate. Likewise it is the role of these very faculties to make more penetrating inquiry into the various aspects of the sacred sciences so that an ever deepening understanding of sacred Revelation is obtained, the legacy of Christian wisdom handed down by our forefathers is more fully developed, the dialogue with our separated brethren and with non-Christians is fostered, and answers are given to questions arising from the development of doctrine.<sup>([[#^ge-fn-35|5]])</sup>
 
 Therefore ecclesiastical faculties should reappraise their own laws so that they can better promote the sacred sciences and those linked with them and, by employing up-to-date methods and aids, lead their students to more penetrating inquiry.
 
-***12. Coordination to be Fostered in Scholastic Matters***
+## 12. Coordination to Be Fostered In Scholastic Matters
 
 Cooperation is the order of the day. It increases more and more to supply the demand on a diocesan, national and international level. Since it is altogether necessary in scholastic matters, every means should be employed to foster suitable cooperation between Catholic schools, and between these and other schools that collaboration should be developed which the good of all mankind requires.<sup>([[#^ge-fn-36|6]])</sup> From greater coordination and cooperative endeavor greater fruits will be derived particularly in the area of academic institutions. Therefore in every university let the various faculties work mutually to this end, insofar as their goal will permit. In addition, let the universities also endeavor to work together by promoting international gatherings, by sharing scientific inquiries with one another, by communicating their discoveries to one another, by having exchange of professors for a time and by promoting all else that is conducive to greater assistance.
 
-**CONCLUSION**
+## Conclusion
 
 The sacred synod earnestly entreats young people themselves to become aware of the importance of the work of education and to prepare themselves to take it up, especially where because of a shortage of teachers the education of youth is in jeopardy. This same sacred synod, while professing its gratitude to priests, Religious men and women, and the laity who by their evangelical self-dedication are devoted to the noble work of education and of schools of every type and level, exhorts them to persevere generously in the work they have undertaken and, imbuing their students with the spirit of Christ, to strive to excel in pedagogy and the pursuit of knowledge in such a way that they not merely advance the internal renewal of the Church but preserve and enhance its beneficent influence upon today's world, especially the intellectual world.
 

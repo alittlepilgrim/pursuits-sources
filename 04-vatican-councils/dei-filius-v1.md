@@ -1,6 +1,6 @@
 ---
 type: magisterium
-title: Dei Filius V1
+title: Dei Filius
 author: Catholic Church
 url: https://inters.org/Vatican-Council-I-Dei-Filius
 aliases:
@@ -9,13 +9,15 @@ aliases:
 tags:
   - vatican/vatican-I
 created: 2025-08-24
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Dogmatic Constitution Dei Filius
 abbreviation: df
 ---
 
 Vatican Council I - 1870
+
+# Dogmatic Constitution Dei Filius
 
 # Chap. 1. God, Creator of All Things
 

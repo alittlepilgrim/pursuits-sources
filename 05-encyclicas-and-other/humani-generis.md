@@ -11,39 +11,19 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-08-24
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
-description: Humani Generis (August 12, 1950)
+description: Encyclical Humani Generis Of The Holy Father Pius XII, To Our Venerable Brethren Patriarchs Primates Archbishops Bishops And Other Local Ordinaries, Enjoying Peace And Communion With The Holy See, Concerning Some False Opinions Threatening To Undermine The Foundations Of Catholic Doctrine – Humani Generis (August 12, 1950)
 abbreviation: piusxii-hg
 ---
 
 # Humani Generis (August 12, 1950)
 
-ENCYCLICALHUMANI GENERIS OF THE HOLY FATHER
+## Encyclical Humani Generis Of The Holy Father Pius Xii, to Our Venerable Brethren Patriarchs Primates Archbishops Bishops and Other Local Ordinaries, Enjoying Peace and Communion with The Holy See, Concerning Some False Opinions Threatening to Undermine The Foundations Of Catholic Doctrine
 
-**PIUS XII**
+Venerable Brethren,
 
-TO OUR VENERABLE BRETHREN,
-
-PATRIARCHS, PRIMATES,
-
-ARCHBISHOPS, BISHIOPS,
-
-AND OTHER LOCAL ORDINARIES
-
-ENJOYING PEACE AND COMMUNION
-
-WITH THE HOLY SEE CONCERNING SOME FALSE OPINIONS
-
-THREATENING TO UNDERMINE
-
-THE FOUNDATIONS
-
-OF CATHOLIC DOCTRINE
-
-*Venerable Brethren,
-
-Greetings and Apostolic Benediction*
+Greetings and Apostolic Benediction
 
 I\. Disagreement and error among men on moral and religious matters have always been a cause of profound sorrow to all good men, but above all to the true and loyal sons of the Church, especially today, when we see the principles of Christian culture being attacked on all sides. ^piusxii-hg-1
 
@@ -138,6 +118,8 @@ Given at Rome, at St. Peter's, 12 August 1950, the twelfth year of Our Pontifica
 **PIUS XII**
 
 ---
+
+## Notes
 
 1\. Conc. Vatic. D.B., 1876, Cont. *De Fide cath., cap. 2, De revelatione.* ^piusxii-hg-1
 

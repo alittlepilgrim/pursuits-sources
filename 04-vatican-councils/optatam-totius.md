@@ -10,21 +10,15 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Decree on Priestly Training - Optatam totius
 abbreviation: ot
 ---
 
-DECREE ON PRIESTLY TRAINING
+# Optatam Totius
 
-***OPTATAM TOTIUS***
-
-PROCLAIMED BY HIS HOLINESS
-
-POPE PAUL VI
-
-ON OCTOBER 28, 1965
+## Decree On Priestly Training Proclaimed by His Holine Ss Pope Paul Vi On October 28 1965
 
 Animated by the spirit of Christ, this sacred synod is fully aware that the desired renewal of the whole Church depends to a great extent on the ministry of its priests. It proclaims the extreme importance of priestly training and lays down certain basic principles by which those regulations may be strengthened which long use has shown to be sound and by which those new elements can be added which correspond to the constitutions and decrees of this sacred council and to the changed conditions of our times. Because of the very unity of the Catholic priesthood this priestly formation is necessary for all priests, diocesan and religious and of every rite. Wherefore, while these prescriptions directly concern the diocesan clergy, they are to be appropriately adapted to all.
 
@@ -34,7 +28,7 @@ THE PROGRAM OF PRIESTLY TRAINING TO BE UNDERTAKEN BY EACH COUNTRY
 
 1\. Since only general laws can be made where there exists a wide variety of nations and regions, a special "program of priestly training" is to be undertaken by each country or rite. It must be set up by the episcopal conferences, revised from time to time and approved by the Apostolic See. In this way will the universal laws be adapted to the particular circumstances of the times and localities so that the priestly training will always be in tune with the pastoral needs of those regions in which the ministry is to be exercised. ^ot-1
 
-# Ii
+# II
 
 THE URGENT FOSTERING OF PRIESTLY VOCATIONS
 
@@ -52,7 +46,7 @@ The work of fostering vocations should, in a spirit of openness, transcend the l
 
 With equal concern the seeds of vocations among adolescents and young men are also to be fostered in those special institutes which, in accord with the local circumstances, serve the purpose of a minor seminary as well as among those who are trained in other schools or by other educational means. Finally, those institutions and other schools initiated for those with a belated vocation are to be carefully developed.
 
-# Iii
+# III
 
 THE SETTING UP OF MAJOR SEMINARIES
 
@@ -72,7 +66,7 @@ In the entire process of selecting and testing students, however, a due firmness
 
 In these seminaries, however, where there are many students, while retaining a unity of direction and of scientific training, the students should be conveniently divided into smaller groups so that a better provision is had for the personal formation of each.
 
-# Iv
+# IV
 
 THE CAREFUL DEVELOPMENT OF THE SPIRITUAL TRAINING
 
@@ -130,7 +124,7 @@ Let them also be introduced to a knowledge of other religions which are more wid
 
 18\. It will be the bishops' concern that young men suited by temperament, virtue, and ability be sent to special institutes faculties, or universities so that priests may be trained at a higher scientific level in the sacred sciences and in other fields which may be judged opportune. Thus they will be able to meet the various needs of the apostolate. The spiritual and pastoral training of these men, however, especially if they are not yet ordained as priests, is in no way to be neglected. ^ot-18
 
-# Vi
+# VI
 
 **THE PROMOTION OF STRICTLY PASTORAL TRAINING**
 
@@ -142,7 +136,7 @@ In general, those capabilities are to be developed in the students which especia
 
 But since it is necessary for the students to learn the art of exercising the apostolate not only theoretically but also practically, and to be able to act both on their own responsibility and in harmonious conjunction with others, they should be initiated into pastoral work, both during their course of studies and also during the time of vacations, by opportune practical projects. These should be carried out in accordance with the age of the students and local conditions, and with the prudent judgment of the bishops, methodically and under the leadership of men skilled in pastoral work, the surpassing power of supernatural means being always remembered.
 
-# Vii
+# VII
 
 **TRAINING TO BE ACHIEVED AFTER THE COURSE OF STUDIES**
 

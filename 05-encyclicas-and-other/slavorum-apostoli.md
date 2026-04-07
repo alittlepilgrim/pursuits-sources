@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Letter Slavorum Apostoli (2 June 1985)
 abbreviation: jpii-sa
@@ -21,7 +21,7 @@ JOHN PAUL II
 
 # Slavorum Apostoli
 
-**I. INTRODUCTION**
+## I. Introduction
 
 1\. THE APOSTLES OF THE SLAVS, Saints Cyril and Methodius, are remembered by the Church together with the great work of evangelization which they carried out. Indeed it can be said that their memory is particularly vivid and relevant to our day. ^jpii-sa-1
 
@@ -37,7 +37,7 @@ Recalling the holy lives and apostolic merits of the two Brothers from Salonika,
 
 The events of the last hundred years and especially of the last decades have helped to revive in the Church not only the religious memory of the two holy Brothers but also a historical and cultural interest in them. Their special charisms have become still better understood in the light of the situations and experiences of our own times. A contribution to this has been made by many events which belong, as true signs of the times, to the history of the twentieth century; the first of these is that great event which took place in the life of the Church: the Second Vatican Council. In the light of the magisterium and pastoral orientation of that Councils we can look in a new way-a more mature and profound way-at these two holy figures, now separated from us by eleven centuries. And we can read in their lives and apostolic activity the elements that the wisdom of divine Providence placed in them, so that they might be revealed with fresh fullness in our own age and might bear new fruits.
 
-**II. BIOGRAPHICAL SKETCH**
+## II. Biographical Sketch
 
 4\. Following the example offered by the Epistle Grande Munus, I wish to recall the life of Saint Methodius, without however thereby ignoring the life-so closely liked to it-of his brother Saint Cyril. This I will do in general terms, leaving to historical research the detailed discussion of individual points. ^jpii-sa-4
 
@@ -65,7 +65,7 @@ For this reason, "men and women, humble and powerful, rich and poor, free men an
 
 To tell the truth, after the death of Methodius the work of the holy Brothers suffered a grave crisis, and persecution of their followers grew so severe that the latter were forced to abandon their missionary field. Nonetheless, their sowing of the Gospel seed did not cease to bear fruit, and their pastoral attitude of concern to bring the revealed truth to new peoples while respecting their cultural originality remains a living model for the Church and for the missionaries of all ages.
 
-**III. HERALDS OF THE GOSPEL**
+## III. Heralds of the Gospel
 
 8\. Byzantine in culture, the brothers Cyril and Methodius succeeded in becoming apostles of the Slavs in the full sense of the word. Separation from one's homeland, which God sometimes requires of those he has chosen, when accepted with faith in his promise is always a mysterious and fertile pre-condition for the development and growth of the People of God on earth. The Lord said to Abraham: "Go from your country and your kindred and your father's house to the land that I will show you. And I will make of you a great nation, and I will bless you, and make your name great, so that you will be a blessing".13 ^jpii-sa-8
 
@@ -89,7 +89,7 @@ Previously, Constantine and his fellow workers had been engaged in creating a ne
 
 Perfect communion in love preserves the Church from all forms of particularism, ethnic exclusivism or racial prejudice, and from any nationalistic arrogance. This communion must elevate and sublimate every purely natural legitimate sentiment of the human heart.
 
-**IV. THEY PLANTED THE CHURCH OF GOD**
+## IV. They Planted the Church of God
 
 12\. But the characteristic of the approach adopted by the Apostles of the Slavs Cyril and Methodius which I especially wish to emphasize is the peaceful way in which they built up the Church, guided as they were by their vision of the Church as one, holy and universal. ^jpii-sa-12
 
@@ -119,7 +119,7 @@ In this stormy period, which was also marked by armed conflicts between neighbor
 
 By thus acting, he always resorted, as did Constantine the Philosopher, to dialogue with those who opposed his ideas or his pastoral initiatives and who cast doubt on their legitimacy. Thus he would always remain a teacher for all those who, in whatever age, seek to eliminate discord by respecting the manifold fullness of the Church, which, conforming to the will of its Founder Jesus Christ, must be always one, holy, catholic and apostolic. This task was perfectly reflected in the Creed of the 150 Fathers of the Second Ecumenical Council of Constantinople, which is the unalterable profession of faith of all Christians.
 
-**V. CATHOLIC SENSE OF THE CHURCH**
+## V. Catholic Sense of the Church
 
 16\. It is not only the evangelical content of the doctrine proclaimed by Saints Cyril and Methodius that merits particular emphasis. Also very expressive and instructive for the Church today is the catcehetic and pastoral method that they applied in their apostolic activity among the peoples who had not yet heard the Sacred Mysteries celebrated in their native language, nor heard the word of God proclaimed in a way that completely fitted their own mentality and respected the actual conditions of their own life. ^jpii-sa-16
 
@@ -145,7 +145,7 @@ All individuals, all nations, cultures and civilizations have their own part to 
 
 20\. The message of the Gospel which Saints Cyril and Methodius translated for the Slav peoples, drawing with wisdom from the treasury of the Church "things old and new",38 was transmitted through preaching and instruction in accordance with the eternal truths, at the same time being adapted to the concrete historical situation. Thanks to the missionary efforts of both Saints, the Slav peoples were able for the first time to realize their own vocation to share in the eternal design of the Most Holy Trinity, in the universal plan for the salvation of the world. At the same time, they can recognized their role at the service of the whole history of the humanity created by God the Father, redeemed by the Son our Savior and enlightened by the Holy Spirit. Thanks to this preaching, duly approved by the authorities of the Church-the Bishops of Rome and the Patriarchs of Constantinople-the Slavs were able to feel that they too, together with the other nations of the earth, were descendants and heirs of the promise made by God to Abraham.39 In this way, thanks to the ecclesiastical organization created by Saint Methodius and thanks to their awareness of their own Christian identity, the Slavs took their destined place in the Church which had now arisen also in that part of Europe. For this reason, their modern descendants keep in grateful and everlasting remembrance the one who became the link that binds them to the chain of the great heralds of the divine Revelation of the Old and New Testaments: "After all of these, the merciful God, in our own time, raised up for the good work, for the sake of our own people, for whom nobody had ever cared, our Teacher, the holy Methodius, whose virtues and struggles we unblushingly compare, one by one, to those of these men pleasing to God".40 ^jpii-sa-20
 
-**VI. THE GOSPEL AND CULTURE**
+## VI. The Gospel and Culture
 
 21\. The Brothers from Salonika were not only heirs of the faith but also heirs of the culture of Ancient Greece, continued by Byzantium. Everyone knows how important this heritage is for the whole of European culture and, directly or indirectly, for the culture of the entire world. The work of evangelization which they carried out as pioneers in territory inhabited by Slav peoples-contains both a model of what today is called " inculturation the incarnation of the Gospel in native cultures and also the introduction of these cultures into the life of the Church. ^jpii-sa-21
 
@@ -155,7 +155,7 @@ Furthermore, the translation of the sacred books, carried out by Cyril and Metho
 
 22\. In the historical development of the Slavs of Eastern Rite, this language played a role equal to that of the Latin language in the West. It also lasted longer than Latin in part until the nineteenth century-and exercised a much more direct influence on the formation of the local literary languages, thanks to its close kinship with them. These merits vis-a-vis the culture of all the Slav peoples and nations make the work of evangelization carried out by Saints Cyril and Methodius in a certain sense constantly present in the history and in the life of these peoples and nations. ^jpii-sa-22
 
-**VII. THE SIGNIFICANCE AND INFLUENCE OF THE CHRISTIAN MILLENNIUM IN THE SLAV WORLD**
+## VII. The Significance and Influence of the Christian Millennium in the Slav World
 
 23\. The apostolic and missionary activity of Saints Cyril and Methodius, which belongs to the second half of the ninth century, can be considered the first effective evangelization of the Slavs. ^jpii-sa-23
 
@@ -183,7 +183,7 @@ By exercising their own charism, Cyril and Methodius made a decisive contributio
 
 One of the fundamental aspirations of humanity today is to rediscover unity and communion for a life truly worthy of man on the worldwide level. The Church, conscious of being the universal sign and sacrament of salvation and of the unity of the human race, declares her readiness to accomplish this duty of hers, to which "the conditions of this age lend special urgency so that all people joined more closely today by various social, technical, and cultural bonds can achieve as well full unity in Christ".45
 
-**VIII. CONCLUSION**
+## VIII. Conclusion
 
 28\. It is fitting, then, that the Church should celebrate with solemnity and joy the eleven centuries that have elapsed since the close of the apostolic work of the first Archbishop, ordained in Rome for the Slav peoples, Methodius, and of his brother Cyril, and that she should thus commemorate the entry of these peoples on to the scene of the history of salvation and into the of European nations which during the preceding centuries had already accepted the Gospel message. Everyone will understand with what profound happiness I will share in this celebration as the first son of the Slav race to be called, after nearly two millennia, to occupy the episcopal see that once belonged to Peter in this city of Rome. ^jpii-sa-28
 
@@ -240,6 +240,8 @@ To you, dear brothers and sisters, my Apostolic Blessing.
 **JOHN PAUL II**
 
 ---
+
+## Notes
 
 **[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. JOHN PAUL II, Apostolic Letter Egregiae Virtutis (31 December 1980): AAS 73 (1981), pp. 258-262.
 

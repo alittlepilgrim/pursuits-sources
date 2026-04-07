@@ -12,7 +12,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-26
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Christifideles Laici, December 30, 1988
 abbreviation: jpii-cl
@@ -20,27 +20,11 @@ abbreviation: jpii-cl
 
 # Christifideles Laici (December 30, 1988)
 
-Source: [](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)
 
-POST-SYNODAL
+## Post-synodal Apostolic Exhortation Christi Fideles Laici of His Holiness John Paul II on the Vocation and the Mission of the Lay Faithful in the Church and in the World
 
-APOSTOLIC EXHORTATION
-
-***CHRISTIFIDELES LAICI***
-
-OF
-
-HIS HOLINESS
-
-JOHN PAUL II
-
-ON THE VOCATION AND THE MISSION
-
-OF THE LAY FAITHFUL
-
-IN THE CHURCH AND IN THE WORLD
-
-*To Bishops
+To Bishops
 
 To Priests and Deacons
 
@@ -142,11 +126,7 @@ Despite all this, then, humanity is able to hope. Indeed it must hope: the livin
 
 The lay faithful have an essential and irreplaceable role in this announcement and in this testimony: through them the Church of Christ is made present in the various sectors of the world, as a sign and source of hope and of love.
 
-## Chapter I
-
-**I AM THE VINE AND YOU ARE THE BRANCHES
-
-The Dignity of the Lay Faithful in the Church as Mystery**
+## Chapter I. I Am The Vine and You Are The Branches The Dignity Of The Lay Faithful In The Church as Mystery
 
 ### The Mystery of the Vine
 
@@ -282,11 +262,7 @@ At the end of these reflections intended to define the lay faithful's position i
 
 The dignity as a Christian, the source of equality for all members of the Church, guarantees and fosters the spirit of *communion* and fellowship, and, at the same time, becomes the hidden dynamic force in the lay faithful's apostolate and mission. It is a *dignity,* however, *which brings demands,* the dignity of labourers called by the Lord to work in his vineyard: "Upon all the lay faithful, then, rests the exalted duty of working to assure that each day the divine plan of salvation is further extended to every person, of every era, in every part of the earth" [51].
 
-## Chapter Ii
-
-**ALL BRANCHES OF A SINGLE VINE**
-
-**The Participation of the Lay Faithtul in the Life of Church as Communion**
+## Chapter II. All Branches Of a Single Vine The Participation Of The Lay Faithful In The Life Of Church as Communion
 
 ### The Mystery of Church Communion
 
@@ -502,11 +478,7 @@ To be responsible for the gift of communion means, first of all, to be committed
 
 Thus the life of Church communion will become a *sign* for all the world and a compelling *force* that will lead persons to faith in Christ: "that they may all be one; even as you, Father, are in me and I in you, that they also may be in us, so that the world may believe that you have sent me" (*Tn* 17:21). In such a way communion leads to *mission,* and mission itself to communion.
 
-## Chapter Iii
-
-**I HAVE APPOINTED YOU TO GO FORTH AND BEAR FRUIT**
-
-**The Coresponsibility of the Lay Faithful in the Church as Mission**
+## Chapter III. I Have Appointed You to Go Forth and Bear Fruit The Coresponsibility Of The Lay Faithful In The Church as Mission
 
 ### Mission to Communion
 
@@ -724,11 +696,7 @@ The use of these instruments by professionals in communication and their recepti
 
 However, the pastoral responsibility among the lay faithful does not stop with this work of defence. It extends to everyone in the world of communications, even to those professional people of the press, cinema, radio, television and theatre. These also are called to proclaim the gospel that brings salvation.
 
-## Chapter Iv
-
-**LABOURERS IN THE LORD'S VINEYARD
-
-Good Stewards of God's Varied Grace**
+## Chapter IV. Labourers In The Lord S Vineyard Good Stewards Of God S Varied Grace
 
 ### The Variety of Vocations
 
@@ -898,11 +866,7 @@ What has been said about the spiritual vocation can also be said-and to a certai
 
 In this regard the apostle Peter gives us a stern warning: "As each has received a gift, employ it for one another, as good stewards of God's varied grace" (*1 Pt* 4:10).
 
-## Chapter V
-
-**THAT YOU BEAR MUCH FRUIT
-
-The Formation of the Lay Faithful in the Lay State**
+## Chapter V. That You Bear Much Fruit The Formation Of The Lay Faithful In The Lay State
 
 ### A Continual Process of Maturation
 

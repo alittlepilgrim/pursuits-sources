@@ -10,27 +10,15 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Letter Fides et Ratio (14 September 1998)
 abbreviation: jpii-fer
 ---
 
-ENCYCLICAL LETTER
+# Fides Et Ratio
 
-***FIDES ET RATIO
-
-***OF THE SUPREME PONTIFF
-
-**JOHN PAUL II
-
-**TO THE BISHOPS
-
-OF THE CATHOLIC CHURCH
-
-ON THE RELATIONSHIP
-
-BETWEEN FAITH AND REASON
+## Encyclical Letter Of The Supreme Pontiff John Paul Ii, to The Bishops Of The Catholic Church On The Relationship Between Faith and Reason
 
 *Blessing*
 
@@ -40,7 +28,7 @@ Health and the Apostolic Blessing!*
 
 Faith and reason are like two wings on which the human spirit rises to the contemplation of truth; and God has placed in the human heart a desire to know the truth—in a word, to know himself—so that, by knowing and loving God, men and women may also come to the fullness of truth about themselves (cf. *Ex* 33:18; *Ps* 27:8-9; 63:2-3; *Jn* 14:8; *1 Jn* 3:2).
 
-**INTRODUCTION - “KNOW YOURSELF”**
+## Introduction. Know Yourself
 
 1\. In both East and West, we may trace a journey which has led humanity down the centuries to meet and engage truth more and more deeply. It is a journey which has unfolded—as it must—within the horizon of personal self-consciousness: the more human beings know reality and the world, the more they know themselves in their uniqueness, with the question of the meaning of things and of their very existence becoming ever more pressing. This is why all that is the object of our knowledge becomes a part of our life. The admonition *Know yourself* was carved on the temple portal at Delphi, as testimony to a basic truth to be adopted as a minimal norm by those who seek to set themselves apart from the rest of creation as “human beings”, that is as those who “know themselves”. ^jpii-fer-1
 
@@ -70,7 +58,7 @@ I feel impelled to undertake this task above all because of the Second Vatican C
 
 There is a further reason why I write these reflections. In my Encyclical Letter *Veritatis Splendor*, I drew attention to “certain fundamental truths of Catholic doctrine which, in the present circumstances, risk being distorted or denied”.4 In the present Letter, I wish to pursue that reflection by concentrating on the theme of *truth* itself and on its *foundation* in relation to *faith*. For it is undeniable that this time of rapid and complex change can leave especially the younger generation, to whom the future belongs and on whom it depends, with a sense that they have no valid points of reference. The need for a foundation for personal and communal life becomes all the more pressing at a time when we are faced with the patent inadequacy of perspectives in which the ephemeral is affirmed as a value and the possibility of discovering the real meaning of life is cast into doubt. This is why many people stumble through life to the very edge of the abyss without knowing where they are going. At times, this happens because those whose vocation it is to give cultural expression to their thinking no longer look to truth, preferring quick success to the toil of patient enquiry into what makes life worth living. With its enduring appeal to the search for truth, philosophy has the great responsibility of forming thought and culture; and now it must strive resolutely to recover its original vocation. This is why I have felt both the need and the duty to address this theme so that, on the threshold of the third millennium of the Christian era, humanity may come to a clearer sense of the great resources with which it has been endowed and may commit itself with renewed courage to implement the plan of salvation of which its history is part.
 
-**CHAPTER I - THE REVELATION OF GOD'S WISDOM**
+## Chapter I. The Revelation Of God S Wisdom
 
 ***Jesus, revealer of the Father***
 
@@ -114,7 +102,7 @@ Christian Revelation is the true lodestar of men and women as they strive to mak
 
 These considerations prompt a first conclusion: the truth made known to us by Revelation is neither the product nor the consummation of an argument devised by human reason. It appears instead as something gratuitous, which itself stirs thought and seeks acceptance as an expression of love. This revealed truth is set within our history as an anticipation of that ultimate and definitive vision of God which is reserved for those who believe in him and seek him with a sincere heart. The ultimate purpose of personal existence, then, is the theme of philosophy and theology alike. For all their difference of method and content, both disciplines point to that “path of life” (*Ps* 16:11) which, as faith tells us, leads in the end to the full and lasting joy of the contemplation of the Triune God.
 
-**CHAPTER II - CREDO UT INTELLEGAM**
+## Chapter II. Credo Ut Intellegam
 
 ***“Wisdom knows all and understands all”*** (*Wis* 9:11)
 
@@ -154,7 +142,7 @@ The beginning of the First Letter to the Corinthians poses the dilemma in a radi
 
 The wisdom of the Cross, therefore, breaks free of all cultural limitations which seek to contain it and insists upon an openness to the universality of the truth which it bears. What a challenge this is to our reason, and how great the gain for reason if it yields to this wisdom! Of itself, philosophy is able to recognize the human being's ceaselessly self-transcendent orientation towards the truth; and, with the assistance of faith, it is capable of accepting the “foolishness” of the Cross as the authentic critique of those who delude themselves that they possess the truth, when in fact they run it aground on the shoals of a system of their own devising. The preaching of Christ crucified and risen is the reef upon which the link between faith and philosophy can break up, but it is also the reef beyond which the two can set forth upon the boundless ocean of truth. Here we see not only the border between reason and faith, but also the space where the two may meet.
 
-**CHAPTER III - INTELLEGO UT CREDAM**
+## Chapter III. Intellego Ut Credam
 
 ***Journeying in search of truth***
 
@@ -206,7 +194,7 @@ From all that I have said to this point it emerges that men and women are on a j
 
 35\. On the basis of these broad considerations, we must now explore more directly the relationship between revealed truth and philosophy. This relationship imposes a twofold consideration, since the truth conferred by Revelation is a truth to be understood in the light of reason. It is this duality alone which allows us to specify correctly the relationship between revealed truth and philosophical learning. First, then, let us consider the links between faith and philosophy in the course of history. From this, certain principles will emerge as useful reference-points in the attempt to establish the correct link between the two orders of knowledge. ^jpii-fer-35
 
-**CHAPTER IV - THE RELATIONSHIP BETWEEN FAITH AND REASON**
+## Chapter IV. The Relationship Between Faith and Reason
 
 ***Important moments in the encounter of faith and reason***
 
@@ -270,7 +258,7 @@ In the wake of these cultural shifts, some philosophers have abandoned the searc
 
 This is why I make this strong and insistent appeal—not, I trust, untimely—that faith and philosophy recover the profound unity which allows them to stand in harmony with their nature without compromising their mutual autonomy. The *parrhesia* of faith must be matched by the boldness of reason.
 
-**CHAPTER V - THE MAGISTERIUM'S INTERVENTIONS IN PHILOSOPHICAL MATTERS**
+## Chapter V. The Magisterium S Interventions In Philosophical Matters
 
 ***The Magisterium's discernment as diakonia of the truth***
 
@@ -336,7 +324,7 @@ I trust most sincerely that these difficulties will be overcome by an intelligen
 
 63\. For the reasons suggested here, it has seemed to me urgent to re-emphasize with this Encyclical Letter the Church's intense interest in philosophy—indeed the intimate bond which ties theological work to the philosophical search for truth. From this comes the Magisterium's duty to discern and promote philosophical thinking which is not at odds with faith. It is my task to state principles and criteria which in my judgement are necessary in order to restore a harmonious and creative relationship between theology and philosophy. In the light of these principles and criteria, it will be possible to discern with greater clarity what link, if any, theology should forge with the different philosophical opinions or systems which the world of today presents. ^jpii-fer-63
 
-**CHAPTER VI - THE INTERACTION BETWEEN PHILOSOPHY AND THEOLOGY**
+## Chapter VI. The Interaction Between Philosophy and Theology
 
 ***The knowledge of faith and the demands of philosophical reason***
 
@@ -416,7 +404,7 @@ When it adopts this stance, philosophy, like theology, comes more directly under
 
 79\. Developing further what the Magisterium before me has taught, I intend in this final section to point out certain requirements which theology—and more fundamentally still, the word of God itself—makes today of philosophical thinking and contemporary philosophies. As I have already noted, philosophy must obey its own rules and be based upon its own principles; truth, however, can only be one. The content of Revelation can never debase the discoveries and legitimate autonomy of reason. Yet, conscious that it cannot set itself up as an absolute and exclusive value, reason on its part must never lose its capacity to question and to be questioned. By virtue of the splendour emanating from subsistent Being itself, revealed truth offers the fullness of light and will therefore illumine the path of philosophical enquiry. In short, Christian Revelation becomes the true point of encounter and engagement between philosophical and theological thinking in their reciprocal relationship. It is to be hoped therefore that theologians and philosophers will let themselves be guided by the authority of truth alone so that there will emerge a philosophy consonant with the word of God. Such a philosophy will be a place where Christian faith and human cultures may meet, a point of understanding between believer and non-believer. It will help lead believers to a stronger conviction that faith grows deeper and more authentic when it is wedded to thought and does not reject it. It is again the Fathers who teach us this: “To believe is nothing other than to think with assent... Believers are also thinkers: in believing, they think and in thinking, they believe... If faith does not think, it is nothing”.95 And again: “If there is no assent, there is no faith, for without assent one does not really believe”.96 ^jpii-fer-79
 
-**CHAPTER VII - CURRENT REQUIREMENTS AND TASKS**
+## Chapter VII. Current Requirements and Tasks
 
 ***The indispensable requirements of the word of God***
 
@@ -514,7 +502,7 @@ In this respect, it is easy to see why, in addition to theology, reference to *c
 
 Philosophical enquiry can help greatly to clarify the relationship between truth and life, between event and doctrinal truth, and above all between transcendent truth and humanly comprehensible language. 121 This involves a reciprocity between the theological disciplines and the insights drawn from the various strands of philosophy; and such a reciprocity can prove genuinely fruitful for the communication and deeper understanding of the faith.
 
-**CONCLUSION**
+## Conclusion
 
 100\. More than a hundred years after the appearance of Pope Leo XIII's Encyclical *Æterni Patris*, to which I have often referred in these pages, I have sensed the need to revisit in a more systematic way the issue of the relationship between faith and philosophy. The importance of philosophical thought in the development of culture and its influence on patterns of personal and social behaviour is there for all to see. In addition, philosophy exercises a powerful, though not always obvious, influence on theology and its disciplines. For these reasons, I have judged it appropriate and necessary to emphasize the value of philosophy for the understanding of the faith, as well as the limits which philosophy faces when it neglects or rejects the truths of Revelation. The Church remains profoundly convinced that faith and reason “mutually support each other”; 122 each influences the other, as they offer to each other a purifying critique and a stimulus to pursue the search for deeper understanding. ^jpii-fer-100
 
@@ -547,6 +535,8 @@ May Mary, Seat of Wisdom, be a sure haven for all who devote their lives to the 
 **JOHN PAUL II**
 
 ---
+
+## Notes
 
 **[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)** In my first Encyclical Letter *Redemptor Hominis*, I wrote: “We have become sharers in this mission of the prophet Christ, and in virtue of that mission we together with him are serving divine truth in the Church. Being responsible for that truth also means loving it and seeking the most exact understanding of it, in order to bring it closer to ourselves and others in all its saving power, its splendour and its profundity joined with simplicity”: No. 19: *AAS* 71 (1979), 306.
 

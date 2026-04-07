@@ -14,7 +14,7 @@ tags:
   - vatican/social-doctrine
   - vault-admin/clippings
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Compendium of the Social Doctrine of the Church
 ---
@@ -29,7 +29,7 @@ description: Compendium of the Social Doctrine of the Church
 
 AN INTEGRAL AND SOLIDARY HUMANISM
 
-### A. **At the Dawn of the Third Millennium**
+### A. At the Dawn of the Third Millennium
 
 **1\.** *The Church moves further into the Third Millennium of the Christian era as a pilgrim people, guided by Christ, the “great Shepherd”* (*Heb* 13:20). He is the “Holy Door” (cf. *Jn* 10:9) through which we passed during the Great Jubilee of the year 2000\[1\]. Jesus Christ is the Way, the Truth and the Life (cf. *Jn* 14:6): contemplating the Lord's face, we confirm our faith and our hope in him, the one Saviour and goal of history. ^csdc-1
 
@@ -45,7 +45,7 @@ AN INTEGRAL AND SOLIDARY HUMANISM
 
 **6\.** *Christian love leads to denunciation, proposals and a commitment to cultural and social projects; it prompts positive activity that inspires all who sincerely have the good of man at heart to make their contribution*. Humanity is coming to understand ever more clearly that it is linked by one sole destiny that requires joint acceptance of responsibility, a responsibility inspired by an integral and shared humanism. It sees that this mutual destiny is often conditioned and even imposed by technological and economic factors, and it senses the need for a greater moral awareness that will guide its common journey. Marvelling at the many innovations of technology, the men and women of our day strongly desire that progress be directed towards the true good of the humanity, both of today and tomorrow. ^csdc-6
 
-### B. **The Significance of This document**
+### B. The Significance of This Document
 
 **7\.** *The Christian knows that in the social doctrine of the Church can be found the principles for reflection, the criteria for judgment and the directives for action which are the starting point for the promotion of an integral and solidary humanism. Making this doctrine known constitutes, therefore, a genuine pastoral priority*, so that men and women will be enlightened by it and will be thus enabled to interpret today's reality and seek appropriate paths of action: “The teaching and spreading of her social doctrine are part of the Church's evangelizing mission”\[5\]. ^csdc-7
 
@@ -65,7 +65,7 @@ From this there can spring new strategies suited to the demands of our time and 
 
 The Catholic Church joins her own commitment to that made in the social field by other Churches and Ecclesial Communities, whether at the level of doctrinal reflection or at the practical level. Together with them, the Catholic Church is convinced that from the common heritage of social teachings preserved by the living tradition of the people of God there will come motivations and orientations for an ever closer cooperation in the promotion of justice and peace\[13\].
 
-### C. **At the Service of the Full Truth About man**
+### C. At the Service of the Full Truth About Man
 
 **13\.** *This document is an act of service on the part of the Church to the women and men of our time*, to whom she offers the legacy of her social doctrine, according to that style of dialogue by which God himself, in his only-begotten Son made man, “addresses men as his friends (cf. *Ex* 33:11; *Jn* 15:14-15) and moves among them (cf. * [[baruch-03|Bar 3]]:38)”\[14\]. Drawing inspiration from the Pastoral Constitution *[Gaudium et Spes](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, this document too places “man considered whole and entire, with body and soul, heart and conscience, mind and will” \[15\] as the key to its whole exposition. In this perspective, the Church is “inspired by no earthly ambition and seeks but one solitary goal: to carry forward the work of Christ himself under the lead of the befriending Spirit. For Christ entered this world to bear witness to the truth, to save and not to sit in judgment, to serve and not to be served”\[16\]. ^csdc-13
 
@@ -81,7 +81,7 @@ The first of the great challenges facing humanity today is that of *the truth it
 
 **17\.** *The disciples of Jesus Christ feel that they are involved with these questions; they too carry them within their hearts and wish to commit themselves, together with all men and women, to the quest for the truth and the meaning of life lived both as individual persons and as a society. They contribute to this quest by their generous witness to the free and extraordinary gift that humanity has received*: God has spoken his Word to men and women throughout history; indeed he himself has entered history in order to enter into dialogue with humanity and to reveal to mankind his plan of salvation, justice and brotherhood. In Jesus Christ, his Son made man, God has freed us from sin and has shown us the path we are to walk and the goal towards which we are to strive. ^csdc-17
 
-### D. **In the Sign of Solidarity, Respect and love**
+### D. In the Sign of Solidarity, Respect and Love
 
 **18\.** *The Church journeys along the roads of history together with all of humanity*. She lives in the world, and although not of the world (cf. *Jn* 17:14-16) she is called to serve the world according to her innermost vocation. This attitude, found also in the present document, is based on the deep conviction that just as it is important for the world to recognize the Church as a reality of history and a leaven in history, so too is it important for the Church to recognize what she has received from history and from the development of the human race\[19\]. The Second Vatican Council gave an eloquent demonstration of solidarity, respect and affection for the whole human family by engaging in dialogue with it about many problems, “bringing the light kindled from the Gospel and putting at the disposal of the human race the saving resources which the Church has received from her Founder under the promptings of the Holy Spirit. It is man himself who must be saved; it is human society which must be renewed”\[20\]. ^csdc-18
 

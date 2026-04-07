@@ -9,7 +9,7 @@ aliases:
 tags:
   - vatican
 created: 2026-01-09
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: enchiridion-indulgentiarum
 ---
@@ -20,7 +20,7 @@ PAENITENTIARIA APOSTOLICA
 
 # Enchiridion Indulgentiarum
 
-***DECRETUM***
+*DECRETUM*
 
 *Enchiridion indulgentiarum quarto editur*
 
@@ -50,11 +50,11 @@ Contrariis quibuslibet minime obstantibus.
 
 Datum Romae, ex aedibus Paenitentiariae Apostolicae, die 16 iulii 1999, in commemoratione B.M.V. a Monte Carmelo.
 
-**Villelmus WakefieldS.R.E. Card. Baum***
+Villelmus WakefieldS.R.E. Card. Baum*
 
 Paenitentiarius Maior*
 
-**Aloisius de Magistris Ep. tit. Novensis***
+Aloisius de Magistris Ep. tit. Novensis*
 
 Regens*
 
@@ -64,7 +64,7 @@ L. e S.
 
 \*\*\*
 
-***ABBREVIATIONES ET SIGLA***
+*ABBREVIATIONES ET SIGLA*
 
 AA Decr. *Apostolicam actuositatem*, 18 nov. 1965 (AAS 59 \[1966\] 837-864)
 
@@ -146,7 +146,7 @@ Libri sacrae Scripturae illo abbreviato afferuntur modo qui in editione typica N
 
 \*\*\*
 
-***PRAENOTANDA***
+*PRAENOTANDA*
 
 1\. Prima editione huius Enchiridii indulgentiarum, quae prodiit mense iunio anni 1968, ad effectum deducta est norma 13 Constitutionis apostolicae *Indulgentiarum doctrina:* « Enchiridion indulgentiarum recognoscetur eo consilio ut tantum praecipuae preces et praecipua opera pietatis, caritatis et paenitentiae indulgentiis ditentur ». Subsequentibus editionibus, nempe usque ad praesentem, Paenitentiaria Apostolica textum clariorem reddere, in quibusdam minoris momenti locis ad artis criticae exigentias emendare et nonnulla additamenta inserere curavit.
 
@@ -174,7 +174,7 @@ Unicuique ex his quattuor concessionibus generalioribus adduntur, in fidelium ut
 
 \*\*\*
 
-***NORMAE DE INDULGENTIIS***
+*NORMAE DE INDULGENTIIS*
 
 **N. 1** – <sup>9</sup> Indulgentia est remissio coram Deo poenae temporalis pro peccatis, ad culpam quod attinet iam deletis, quam chrisfidelis, apte dispositus et certis ac definitis condicionibus, consequitur ope Ecclesiae quae, ut ministra redemptionis, thesaurum satisfactionum Christi et Sanctorum auctoritative dispensat et applicat.
 
@@ -722,13 +722,13 @@ Quo facilior christifidelibus Enchiridi usus reddatur, in fine voluminis tres in
 
 **1
 
-## Bactus Consecrationis familiarum**
+## Bactus Consecrationis Familiarum
 
 ***Plenaria indulgentia* conceditur membris familiae, die, qua primum, ritum peragente, si fieri potest, sacerdote vel diacono, fit eiusdem consecratio Sacr.mo Cordi Iesu vel Sacrae Familiae Iesu, Mariae et Ioseph, si orationem legitime adprobatam coram imagine eiusdem Sacr.mi Cordis vel Sacrae Familiae pie recitaverint; die anniversario *indulgentia* erit *partialis.***
 
 **2
 
-## Bactus Dedicationis Humani Generis Iesu Christo Regi**
+## Bactus Dedicationis Humani Generis Iesu Christo Regi
 
 ***Plenaria indulgentia* conceditur christifideli qui, in sollemnitate D.N. Iesu Christi Universorum Regis, actum dedicationis humani generis eidem Iesu Christo Regi (*Iesu dulcissime, Redemptor*) publice recitaverit; in aliis rerum adiunctis *indulgentia* erit *partialis*.**<sup>5</sup>
 
@@ -736,7 +736,7 @@ Quo facilior christifidelibus Enchiridi usus reddatur, in fine voluminis tres in
 
 **3
 
-## Bactus reparationis**
+## Bactus Reparationis
 
 ***Plenaria indulgentia* conceditur christifideli, qui in sollemnitate Sacr.mi Cordis Iesu, actum reparationis (*Iesu dulcissime*) publice recitaverit; in aliis rerum adiunctis *indulgentia* erit *partialis.***<sup>6</sup>
 
@@ -750,25 +750,25 @@ Quae utinam crimina sanguine ipsi nostro eluere possemus! Interea ad violatum di
 
 **4
 
-## Benedictio papalis**
+## Benedictio Papalis
 
 ***Plenaria indulgentia* conceditur christifideli qui Benedictionem impertitam vel a Summo Pontifice Urbi et Orbi vel ab Episcopo fidelibus suae curae commissis iuxta normam 7, 2o, huius Enchiridii, devote acceperit, etsi, rationabili circumstantia, sacris ritibus physice non adfuerit, dummodo ritus ipsos, dum peraguntur, ope instrumenti televisifici vel radiophonici propagatos pia mentis intentione secutus fuerit.**<sup>7</sup>
 
 **5** <sup>8</sup>**
 
-## Dies Ad Aliquem Religiosum Finem Celebrandum Universaliter dicatae**
+## Dies Ad Aliquem Religiosum Finem Celebrandum Universaliter Dicatae
 
 ***Plenaria indulgentia* conceditur christifideli qui, quaque die universaliter destinata ad aliquem religiosum finem assequendum (e.g. ad fovendas vocationes sacerdotales et religiosas, ad peculiarem pastoralem curam dicandam aegrotis et infirmis, ad iuvenes in fidei professione roborandos et in vita sancte ducenda adiuvandos etc.), huiusmodi celebrationibus pie interfuerit; qui autem ad supradictas intentiones oraverit, *partialem* consequetur *indulgentiam.***
 
 **6** <sup>9</sup>**
 
-## Doctrina christiana**
+## Doctrina Christiana
 
 ***Partialis indulgentia* conceditur christifideli qui doctrinae christianae tradendae vel discendae dederit operam.**
 
 **7
 
-## Eucharistica Adoratio Et processio**
+## Eucharistica Adoratio Et Processio
 
 **§ 1.** *Plenaria indulgentia* conceditur christifideli qui
 
@@ -822,7 +822,7 @@ Oremus. – Deus, qui nobis sub sacramento mirabili Passionis tuae memoriam reli
 
 **8
 
-## Eucharistica Et Spiritalis communio**
+## Eucharistica Et Spiritalis Communio
 
 > **§ 1. *Plenaria indulgentia* conceditur christifideli qui**
 >
@@ -870,7 +870,7 @@ in saecula saeculorum. Amen.*
 
 **9
 
-## Examen Conscientiae Et Actus contritionis**
+## Examen Conscientiae Et Actus Contritionis
 
 ***Partialis indulgentia* conceditur christifideli qui, praesertim ad praeparandam confessionem sacramentalem,**
 
@@ -880,7 +880,7 @@ in saecula saeculorum. Amen.*
 
 **10
 
-## Exercitia Spiritalia Et Recollectio menstrua**
+## Exercitia Spiritalia Et Recollectio Menstrua
 
 **§ 1.**<sup>20</sup> ***Plenaria indulgentia* conceditur christifideli qui exercitiis spiritalibus saltem per tres integros dies vacaverit.**
 
@@ -888,7 +888,7 @@ in saecula saeculorum. Amen.*
 
 **11
 
-## Hebdomada Pro Christianorum unitate**
+## Hebdomada Pro Christianorum Unitate
 
 *Catholica Ecclesia Conditoris sui precem pridie quam pateretur ad Patrem prolatam « ut omnes unum sint » maxime cordi habet et ideo christifideles enixe hortantur ut pro christianorum unitate assidue orent.*
 
@@ -900,7 +900,7 @@ in saecula saeculorum. Amen.*
 
 **12
 
-## In Articulo mortis**
+## In Articulo Mortis
 
 > **§ 1. Sacerdos, qui christifideli in vitae discrimen adducto sacramenta administrat, eidem benedictionem apostolicam cum adiuncta *indulgentia plenaria* impertire ne omittat.**
 
@@ -914,7 +914,7 @@ in saecula saeculorum. Amen.*
 
 **13
 
-## In Memoria Passionis Et Mortis Domini**
+## In Memoria Passionis Et Mortis Domini
 
 ***Plenaria indulgentia* conceditur christifideli qui**
 
@@ -944,7 +944,7 @@ in saecula saeculorum. Amen.*
 
 **14** <sup>26</sup>**
 
-## Obiectorum Pietatis usus**
+## Obiectorum Pietatis Usus
 
 > **§ 1. *Plenaria indulgentia* conceditur christifideli qui, in sollemnitate Ss. Apostolorum Petri et Pauli, *pietatis obiecto*, sub norma n. 15 definito, a Summo Pontifice aut a quolibet Episcopo benedicto, pia mente utitur, addita tamen qualibet legitima formula Fidei professione.**
 
@@ -1068,7 +1068,7 @@ et mortis hora suscipe.
 
 18 <sup>33<b><br></b></sup>
 
-## **18 Preces Ad Custodem Angelum**
+## Preces Ad Custodem Angelum
 
 ***Partialis indulgentia* conceditur christifideli qui proprium Angelum custodem prece legitime adprobata pie invocaverit (e.g. *Angele Dei*).**
 
@@ -1076,7 +1076,7 @@ et mortis hora suscipe.
 
 19 <sup>34<b><br></b></sup>
 
-## **19 Preces in Honorem S. Ioseph**
+## Preces in Honorem S. Ioseph
 
 ***Partialis indulgentia* conceditur christifideli qui *S. Ioseph, Sponsum B.M.V.*, prece legitime adprobata pie invocaverit (e.g. *Ad te, beate Ioseph).***
 
@@ -1084,7 +1084,7 @@ et mortis hora suscipe.
 
 **20** <sup>35</sup>**
 
-## Preces in Honorem Ss. Apostolorum Petri Et Pauli**
+## Preces in Honorem Ss. Apostolorum Petri Et Pauli
 
 ***Partialis indulgentia* conceditur christifideli qui orationem *Sancti Apostoli Petre et Paule* devote recitaverit.**
 
@@ -1094,7 +1094,7 @@ Protege, Domine, populum tuum; et Apostolorum tuorum Petri et Pauli patrocinio c
 
 **21
 
-## Preces in Honorem Aliorum Sanctorum Necnon Beatorum**
+## Preces in Honorem Aliorum Sanctorum Necnon Beatorum
 
 **§ 1.**<sup>36</sup> ***Partialis indulgentia* conceditur christifideli qui, die cuiusque Sancti memoriali in kalendario notata, devote recitaverit in eius honorem orationem e Missali desumptam vel aliam legitime adprobatam.**
 
@@ -1102,7 +1102,7 @@ Protege, Domine, populum tuum; et Apostolorum tuorum Petri et Pauli patrocinio c
 
 **22
 
-## Preces Novendiales, Litaniae, Et Parva Officia**
+## Preces Novendiales, Litaniae, Et Parva Officia
 
 ***Partialis indulgentia* conceditur christifideli qui,**
 
@@ -1114,7 +1114,7 @@ Protege, Domine, populum tuum; et Apostolorum tuorum Petri et Pauli patrocinio c
 
 **23
 
-## Preces Orientalium Ecclesiarum**
+## Preces Orientalium Ecclesiarum
 
 *Catholicitatis vi, Ecclesiae « singulae partes propria dona ceteris partibus et toti Ecclesiae afferunt, ita ut totum et singulae partes augeantur » (LG 13) quoad universa spiritalia Divinae largitatis munera: inde factum est ut preces ex variis traditionibus orientalibus, etiam apud fideles latini ritus, ultimis praesertim his annis, sparsae sint, et haud modico cum religiosae pietatis emolumento sive privatim sive publice usurpatae.*
 
@@ -1128,7 +1128,7 @@ Protege, Domine, populum tuum; et Apostolorum tuorum Petri et Pauli patrocinio c
 
 **24** <sup>42</sup>**
 
-Preces pro benefactoribus**
+## Preces Pro Benefactoribus
 
 *Partialis indulgentia* conceditur christifideli qui, supernaturali grati animi affectu ductus, orationem pro benefactoribus legitime adprobatam pie recitaverit (e. g. *Retribuere dignare, Domine).*
 
@@ -1136,7 +1136,7 @@ Preces pro benefactoribus**
 
 **25** <sup>43</sup>**
 
-Preces pro pastoribus**
+## Preces Pro Pastoribus
 
 ***Partialis indulgentia* conceditur christifideli qui,**
 
@@ -1152,7 +1152,7 @@ R. Dominus conservet eum, et vivificet eum, et beatum faciat eum in terra, et no
 
 **26
 
-Preces supplicationis et gratiarum actionis**
+## Preces Supplicationis Et Gratiarum Actionis
 
 § 1. *Plenaria indulgentia* conceditur christifideli qui, in ecclesia vel oratorio, devote interfuerit sollemni cantui vel recitationi:
 
@@ -1174,7 +1174,7 @@ aliquam legitime adprobatam supplicationis et gratiarum actionis precem devote e
 
 *(Prex ad auxilium divinum ante quamlibet actionem implorandum; MR, feria V post Cineres, collecta; LH, I hebd. feria II, ad Laudes)*
 
-*### Adsumus*,
+Adsumus
 
 Domine Sancte Spiritus, adsumus peccati quidem immanitate detenti, sed in nomine tuo specialiter congregati.
 
@@ -1190,31 +1190,31 @@ Sed iunge nos tibi efficaciter solius tuae gratiae dono, ut simus in te unum et 
 
 (Oratio ante sessionem ad communia negotia)*
 
-## *Agimus Tibi gratias*, Omnipotens Deus, Pro Universis Beneficiis Tuis: Qui Vivis Et Regnas in Saecula Saeculorum. Amen.*
+Agimus Tibi gratias, Omnipotens Deus, Pro Universis Beneficiis Tuis: Qui Vivis Et Regnas in Saecula Saeculorum. Amen
 
 (Prex pro gratiarum actione)*
 
-## *Benedic, Domine*, Nos Et Haec Tua Dona, Quae de Tua Largitate Sumus Sumpturi. per Christum Dominum Nostrum. Amen.*
+Benedic Domine Nos Et Haec Tua Dona Quae De Tua Largitate Sumus Sumpturi Per Christum Dominum Nostrum Amen
 
 (De Ben., 785)*
 
-## *Domine, Deus omnipotens*, Qui Ad Principium Huius Diei Nos Pervenire Fecisti, Tua Nos Hodie Salva Virtute, Ut in Hac Die Ad Nullum Declinemus Peccatum, Sed Semper Ad Tuam Iustitiam Faciendam Nostra Procedant Eloquia, Dirigantur Cogitationes Et Opera. per Christum Dominum Nostrum. Amen.*
+Domine Deus Omnipotens Qui Ad Principium Huius Diei Nos Pervenire Fecisti Tua Nos Hodie Salva Virtute Ut In Hac Die Ad Nullum Declinemus Peccatum Sed Semper Ad Tuam Iustitiam Faciendam Nostra Procedant Eloquia Dirigantur Cogitationes Et Opera Per Christum Dominum Nostrum Amen
 
 (LH, II hebd. feria II, ad Laudes)*
 
-## *Exaudi nos*, Domine Sancte, Pater Omnipotens, Aeterne Deus: Et Mittere Digneris Sanctum Angelum Tuum de Caelis, Qui Custodiat, Foveat, Protegat, Visitet Atque Defendat Omnes Habitantes in Hoc Habitaculo. per Christum Dominum Nostrum. Amen
+Exaudi Nos Domine Sancte Pater Omnipotens Aeterne Deus Et Mittere Digneris Sanctum Angelum Tuum De Caelis Qui Custodiat Foveat Protegat Visitet Atque Defendat Omnes Habitantes In Hoc Habitaculo Per Christum Dominum Nostrum Amen
 
-## *Veni, Sancte Spiritus*, Reple Tuorum Corda Fidelium Et Tui Amoris in Eis Ignem accende.*
+Veni Sancte Spiritus Reple Tuorum Corda Fidelium Et Tui Amoris In Eis Ignem Accende
 
 (LH, Dom. Pentecostes)*
 
-## *Visita, Quaesumus, Domine*, Habitationem Istam, Et Omnes Insidias Inimici Ab Ea Longe Repelle, Angeli Tui Sancti Habitent in Ea, Qui Nos in Pace Custodiant; Et Benedictio Tua Sit Super Nos Semper. per Christum Dominum Nostrum. Amen.*
+Visita Quaesumus Domine Habitationem Istam Et Omnes Insidias Inimici Ab Ea Longe Repelle Angeli Tui Sancti Habitent In Ea Qui Nos In Pace Custodiant Et Benedictio Tua Sit Super Nos Semper Per Christum Dominum Nostrum Amen
 
 (LH, Ad Compl. in sollemnitatibus)*
 
 **27
 
-Prima sacerdotum Missa et iubilares Ordinationum celebrationes**
+## Prima Sacerdotum Missa Et Iubilares Ordinationum Celebrationes
 
 § 1.<sup>47</sup> *Plenaria indulgentia* conceditur
 
@@ -1248,7 +1248,7 @@ Professio Fidei et actus virtutum theologalium**
 
 **29
 
-# Pro Fidelibus defunctis**
+## Pro Fidelibus Defunctis
 
 § 1. *Plenaria indulgentia*, animabus in Purgatorio detentis tantummodo applicabilis, conceditur christifideli qui
 
@@ -1264,13 +1264,13 @@ Professio Fidei et actus virtutum theologalium**
 
 *Competentes Coetus episcopales curabunt addere in editionibus* Enchiridii *pro sermonum varietate preces pro defunctis magis in suis territoriis usitatas et christifidelibus caras.*
 
-# *Requiem aeternam* Dona Eis, Domine, Et Lux Perpetua Luceat Eis. Requiescant in Pace. Amen.*
+Requiem Aeternam Dona Eis Domine Et Lux Perpetua Luceat Eis Requiescant In Pace Amen
 
 (Ordo exequiarum)*
 
 **30
 
-Sacrae Scripturae lectio**
+## Sacrae Scripturae Lectio
 
 § 1.<sup>59</sup> *Plenaria indulgentia* conceditur christifideli qui Sacram Scripturam, iuxta textum a competenti auctoritate adprobatum, cum veneratione divino eloquio debita et ad modum lectionis spiritalis, per dimidiam saltem horam legerit; si per minus tempus id egerit *indulgentia* erit *partialis.*
 
@@ -1278,19 +1278,19 @@ Sacrae Scripturae lectio**
 
 **31** <sup>60</sup>**
 
-Synodus dioecesana**
+## Synodus Dioecesana
 
 *Plenaria indulgentia* semel conceditur christifideli qui, tempore dioecesanae Synodi, ecclesiam in qua ipsa Synodus celebratur pie visitaverit ibique recitaverit *Pater* et *Credo.*
 
 **32** <sup>61</sup>**
 
-Visitatio pastoralis**
+## Visitatio Pastoralis
 
 *Plenaria indulgentia* semel conceditur christifideli qui, tempore pastoralis visitationis, sacrae functioni astiterit, cui Visitator praefuerit.
 
 **33
 
-Visitationes locorum sacrorum**
+## Visitationes Locorum Sacrorum
 
 § 1.<sup>62</sup> *Plenaria indulgentia* conceditur christifideli qui visitaverit, ibique pie recitaverit *Pater* et *Credo*,
 
@@ -1341,6 +1341,8 @@ b) die secunda Augusti, qua « Portiunculae » indulgentia occurrit;
 § 3.<sup>70</sup> *Partialis indulgentia* conceditur christifideli qui antiquum christianorum coemeterium seu « catacumbam » devote visitaverit.
 
 ---
+
+## Notes
 
 (1) Cf. ID 11.
 

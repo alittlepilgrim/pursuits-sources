@@ -11,13 +11,13 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 ---
 
 abbreviation: gs
 
-# Gaudium Et Spes, Part Ii
+# Gaudium Et Spes, Part II
 
 ## Some Problems of Special Urgency
 
@@ -25,7 +25,7 @@ abbreviation: gs
 
 Of the many subjects arousing universal concern today, it may be helpful to concentrate on these: marriage and the family, human progress, life in its economic, social and political dimensions, the bonds between the family of nations, and peace. On each of these may there shine the radiant ideals proclaimed by Christ. By these ideals may Christians be led, and all mankind enlightened, as they search for answers to questions of such complexity. 
 
-## Chapter I, Fostering the Nobility of Marriage and the Family
+## Chapter I. Fostering the Nobility of Marriage and the Family
 
 47.The well-being of the individual person and of human and Christian society is intimately linked with the healthy condition of that community produced by marriage and family. Hence Christians and all men who hold this community in high esteem sincerely rejoice in the various ways by which men today find help in fostering this community of love and perfecting its life, and by which parents are assisted in their lofty calling. Those who rejoice in such aids look for additional benefits from them and labor to bring them about. ^gs-47
 
@@ -83,7 +83,7 @@ Various organizations, especially family associations, should try by their progr
 
 Finally, let the spouses themselves, made to the image of the living God and enjoying the authentic dignity of persons, be joined to one another<sup>([[#^gs-fn-p2-ch1-16|6]])</sup> in equal affection, harmony of mind and the work of mutual sanctification. Thus, following Christ who is the principle of life,<sup>([[#^gs-fn-p2-ch1-17|7]])</sup> by the sacrifices and joys of their vocation and through their faithful love, married people can become witnesses of the mystery of love which the Lord revealed to the world by His dying and His rising up to life again.<sup>([[#^gs-fn-p2-ch1-18|8]])</sup> 
 
-## Chapter Ii, the Proper Development of Culture
+## Chapter II – The Proper Development of Culture
 
 53.Man comes to a true and full humanity only through culture, that is through the cultivation of the goods and values of nature. Wherever human life is involved, therefore, nature and culture are quite intimately connected one with the other. ^gs-53
 
@@ -177,7 +177,7 @@ May the faithful, therefore, live in very close union with the other men of thei
 
 Let those who teach theology in seminaries and universities strive to collaborate with men versed in the other sciences through a sharing of their resources and points of view. Theological inquiry should pursue a profound understanding of revealed truth; at the same time it should not neglect close contact with its own time that it may be able to help these men skilled in various disciplines to attain to a better understanding of the faith. This common effort will greatly aid the formation of priests, who will be able to present to our contemporaries the doctrine of the Church concerning God, man and the world, in a manner more adapted to them so that they may receive it more willingly.<sup>([[#^gs-fn-p2-ch2-14|4]])</sup> Furthermore, it is to be hoped that many of the laity will receive a sufficient formation in the sacred sciences and that some will dedicate themselves professionally to these studies, developing and deepening them by their own labors. In order that they may fulfill their function, let it be recognized that all the faithful, whether clerics or laity, possess a lawful freedom of inquiry, freedom of thought and of expressing their mind with humility and fortitude in those matters on which they enjoy competence.<sup>([[#^gs-fn-p2-ch2-16|6]])</sup> 
 
-## Chapter Iii, Economic and Social Life
+## Chapter III. Economic and Social Life
 
 63.In the economic and social realms, too, the dignity and complete vocation of the human person and the welfare of society as a whole are to be respected and promoted. For man is the source, the center, and the purpose of all economic and social life. ^gs-63
 
@@ -245,7 +245,7 @@ In many underdeveloped regions there are large or even extensive rural estates w
 
 Whoever in obedience to Christ seeks first the Kingdom of God, takes therefrom a stronger and purer love for helping all his brethren and for perfecting the work of justice under the inspiration of charity.<sup>([[#^gs-fn-p2-ch3-16|6]])</sup> 
 
-## Chapter Iv, the Life of the Political Community
+## Chapter IV. The Life of the Political Community
 
 73\. In our day, profound changes are apparent also in the structure and institutions of peoples. These result from their cultural, economic and social evolution. Such changes have a great influence on the life of the political community, especially regarding the rights and duties of all in the exercise of civil freedom and in the attainment of the common good, and in organizing the relations of citizens among themselves and with respect to public authority. ^gs-73
 
@@ -293,7 +293,7 @@ There are, indeed, close links between earthly things and those elements of man'
 
 While faithfully adhering to the Gospel and fulfilling her mission to the world, the Church, whose duty it is to foster and elevate<sup>([[#^gs-fn-p2-ch4-9|9]])</sup> all that is found to be true, good and beautiful in the human community, strengthens peace among men for the glory of God.<sup>([[#^gs-fn-p2-ch4-10|0]])</sup> 
 
-## Chapter V, the Fostering of Peace and the Promotion of a Community of Nations
+## Chapter V. The Fostering of Peace and the Promotion of a Community of Nations
 
 77\. In our generation when men continue to be afflicted by acute hardships and anxieties arising from the ravages of war or the threat of it, the whole human family faces an hour of supreme crisis in its advance toward maturity. Moving gradually together and everywhere more conscious already of its unity, this family cannot accomplish its task of constructing for all men everywhere a world more genuinely human unless each person devotes himself to the cause of peace with renewed vigor. Thus it happens that the Gospel message, which is in harmony with the loftier strivings and aspirations of the human race, takes on a new luster in our day as it declares that the artisans of peace are blessed "because they will be called the sons of God" ([[matthew-05#^matthew-05-9|Matt. 5:9)]]. ^gs-77
 

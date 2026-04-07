@@ -10,27 +10,17 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Pastores Dabo Vobis (March 15, 1992)
 abbreviation: jpii-pdv
 ---
 
-POST-SYNODAL
-
-APOSTOLIC EXHORTATION
-
 # Pastores Dabo Vobis
 
-TO THE BISHOPS,
+Post Synodal Apostolic Exhortation To The Bishops Clergy And Faithful On The Formation Of Priests In The Circumstances Of The Present Day
 
-CLERGY AND FAITHFUL
-
-ON THE FORMATION OF PRIESTS
-
-IN THE CIRCUMSTANCES OF THE PRESENT DAY
-
-**INTRODUCTION**
+## Introduction
 
 1\. "I will give you shepherds after my own heart" (Jer. 3:15). ^jpii-pdv-1
 
@@ -78,13 +68,11 @@ Quoting from the "Final Message of the Synod to the People of God," I make my ow
 
 "We acknowledge your work and thank you once again, urging you to continue on your chosen path willingly and joyfully. No one should be discouraged as we are doing God's work; the same God who calls us, sends us and remains with us every day of our lives. We are ambassadors of Christ."(8)
 
-**CHAPTER I**
+## Chapter I
 
 **CHOSEN FROM AMONG ME**
 
-**The Challenges Facing Priestly Formation
-
-at the Conclusion of the Second Millennium**
+**The Challenges Facing Priestly Formation at the Conclusion of the Second Millennium**
 
 ***The Priest in His Time***
 
@@ -176,7 +164,7 @@ This Gospel discernment is based on trust in the love of Jesus Christ, who alway
 
 In this way the Church feels that she can face the difficulties and challenges of this new period of history and can also provide, in the present and in the future, priests who are well trained to be convinced and fervent ministers of the "new evangelization," faithful and generous servants of Jesus Christ and of the human family. We are not unmindful of difficulties in this regard; they are neither few nor insignificant. However, to surmount these difficulties we have at our disposal our hope, our faith in the unfailing love of Christ, and our certainty that the priestly ministry in the life of the Church and in the world knows no substitute.
 
-**CHAPTER II**
+## Chapter II
 
 **HE HAS ANOINTED ME AND HAS SENT ME FORTH
 
@@ -266,7 +254,7 @@ Today, in particular, the pressing pastoral task of the new evangelization calls
 
 In their final message the synod fathers summarized briefly but eloquently the "truth," or better the "mystery" and "gift" of the ministerial priesthood, when they stated: "We derive our identity ultimately from the love of the Father, we turn our gaze to the Son, sent by the Father as high priest and good shepherd. Through the power of the Holy Spirit, we are united sacramentally to him in the ministerial priesthood. Our priestly life and activity continue the life and activity of Christ himself. Here lies our identity, our true dignity, the source of our joy, the very basis of our life."(39)
 
-**CHAPTER III**
+## Chapter III
 
 **THE SPIRIT OF THE LORD IS UPON ME
 
@@ -432,11 +420,11 @@ Here I would repeat to all priests what I said to so many of them on another occ
 
 "Beloved, through ordination, you have received the same Spirit of Christ, who makes you like him, so that you can act in his name and so that his very mind and heart might live in you. This intimate communion with the Spirit of Christ - while guaranteeing the efficacy of the sacramental actions which you perform in persona Christi - seeks to be expressed in fervent prayer, in integrity of life, in the pastoral charity of a ministry tirelessly spending itself for the salvation of the brethren. In a word, it calls for your personal sanctification."(91)
 
-**CHAPTER IV**
+## Chapter IV
 
-**COME AND SEE
+COME AND SEE
 
-Priestly Vocation in the Church's Pastoral Work**
+Priestly Vocation in the Church's Pastoral Work
 
 ***Seek, Follow, Abide***
 
@@ -548,7 +536,7 @@ We should also remember the numerous groups, movements and associations of lay f
 
 The various elements and members of the Church involved in the pastoral work of promoting vocations will make their work more effective insofar as they stimulate the ecclesial community as such, starting with the parish, to sense that the problem of priestly vocations cannot in any way be delegated to some "official" group (priests in general and the priests working in the seminary in particular), for inasmuch as it is "a vital problem which lies at the very heart of the Church,"(121) it should be at the heart of the love which each Christian feels for the Church.
 
-**CHAPTER V**
+## Chapter V
 
 **HE APPOINTED TWELVE TO BE WITH HIM
 
@@ -826,11 +814,9 @@ The fact that seminarians and diocesan priests take part in particular spiritual
 
 And so the future priest also, and in the first place, must grow in his awareness that the agent par excellence of his formation is the Holy Spirit, who by the gift of a new heart configures and conforms him to Jesus Christ the good shepherd. In this way the candidate to the priesthood will affirm in the most radical way possible his freedom to welcome the molding action of the Spirit. But to welcome this action implies also, on the part of the candidate, a welcome for the human "mediating" forces which the Spirit employs. As a result, the actions of the different teachers become truly and fully effective only if the future priest offers his own convinced and heartfelt cooperation to this work of formation.
 
-**CHAPTER VI**
+## Chapter VI
 
-**I REMIND YOU TO REKINDLE THE GIFT OF GOD
-
-THAT IS WITHIN YOU**
+**I REMIND YOU TO REKINDLE THE GIFT OF GOD THAT IS WITHIN YOU**
 
 **The Ongoing Formation of Priests**
 
@@ -980,7 +966,7 @@ Another help can be given by priestly associations, in particular by priestly se
 
 Spiritual direction too contributes in no small way to the ongoing formation of the priests. It is a well - tried means and has lost none of its value. It ensures spiritual formation. It fosters and maintains faithfulness and generosity in the carrying out of the priestly ministry. As Pope Paul VI wrote before his election to the pontificate: "Spiritual direction has a wonderful purpose. We could say it is indispensable for the moral and spiritual education of young people who want to find what their vocation in life is and follow it wherever it may lead, with utter loyalty. It retains its beneficial effect at all stages of life, when in the light and affection of a devout and prudent counsel one asks for a check on one s own right intention and for support in the generous fulfillment of one's own duties. It is a very delicate but immensely valuable psychological means. It is an educational and psychological art calling for deep responsibility in the one who practices it. Whereas for the one who receives it, it is a spiritual act of humility and trust."(232)
 
-**CONCLUSION**
+## Conclusion
 
 82\. "I will give you shepherds after my own heart" (Jer. 3:15). ^jpii-pdv-82
 
@@ -1098,7 +1084,7 @@ Amen.
 
 ---
 
-**NOTES**
+## Notes
 
 1\. Cf. Proposition 2. ^jpii-pdv-1
 

@@ -12,7 +12,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-26
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Redemptoris Custos (August 15, 1989) - https://www.vatican.va/offices/papal_docs_list.html
 abbreviation: jpii-rc
@@ -20,6 +20,6 @@ abbreviation: jpii-rc
 
 # Redemptoris Custos (August 15, 1989)
 
-Source: [](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)
 
-REDEMPTORIS CUSTOS
+PLACEHOLDER

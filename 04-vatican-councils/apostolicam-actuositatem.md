@@ -15,7 +15,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-10-26
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Decree on the Apostolate of Laity - Apostolicam Actuositatem
 abbreviation: aa
@@ -23,15 +23,9 @@ abbreviation: aa
 
 Source: [](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)
 
-Decree On The Apostolate Of The Laity
-
 # Apostolicam Actuositatem
 
-SOLEMNLY PROMULGATED BY HIS HOLINESS,
-
-POPE PAUL VI
-
-ON NOVEMBER 18, 1965
+## Decree on The Apostolate Of The Laity Solemnly Promulgated by His Holiness Pope Paul VI on November 18 1965
 
 ## Introduction
 
@@ -75,7 +69,7 @@ Furthermore, the laity who have followed their vocation and have become members 
 
 The perfect example of this type of spiritual and apostolic life is the most Blessed Virgin Mary, Queen of Apostles, who while leading the life common to all here on earth, one filled with family concerns and labors, was always intimately united with her Son and in an entirely unique way cooperated in the work of the Savior. Having now been assumed into heaven, with her maternal charity she cares for these brothers of her Son who are still on their earthly pilgrimage and remain involved in dangers and difficulties until they are led into the happy fatherland.<sup>([[#^aa-fn-ch1-7|7]])</sup> All should devoutly venerate her and commend their life and apostolate to her maternal care.
 
-## Chapter Ii
+## Chapter II
 
 **OBJECTIVES**
 
@@ -111,7 +105,7 @@ In order that the exercise of charity on this scale may be unexceptionable in ap
 
 Therefore, the laity should hold in high esteem and, according to their ability, aid the works of charity and projects for social assistance, whether public or private, including international programs whereby effective help is given to needy individuals and peoples. In so doing, they should cooperate with all men of good will.<sup>([[#^aa-fn-ch2-6|6]])</sup>
 
-## Chapter Iii
+## Chapter III
 
 **THE VARIOUS FIELDS OF THE APOSTOLATE**
 
@@ -157,7 +151,7 @@ Among the signs of our times, the irresistibly increasing sense of the solidarit
 
 All who work in or give help to foreign nations must remember that relations among peoples should be a genuine fraternal exchange in which each party is at the same time a giver and a receiver. Travelers, whether their interest is international affairs, business, or leisure, should remember that they are itinerant heralds of Christ wherever they go and should act accordingly.
 
-## Chapter Iv
+## Chapter IV
 
 **THE VARIOUS FORMS OF THE APOSTOLATE**
 
@@ -255,7 +249,7 @@ Likewise, common human values not infrequently call for cooperation between Chri
 
 By this dynamic and prudent cooperation,<sup>([[#^aa-fn-ch5-10|10]])</sup> which is of special importance in temporal activities, the laity bear witness to Christ, the Savior of the world, as well as to the unity of the human family.
 
-## Chapter Vi
+## Chapter VI
 
 **FORMATION FOR THE APOSTOLATE**
 
@@ -317,7 +311,7 @@ The most holy council rejoices over projects of this kind which are already flou
 
 3\. cf. Pius XII, allocution to cardinals, Feb. 18, 1946: A.A.S. 38 (1946) pp. 101-102; Idem., sermon to young Catholic workers, Aug. 25, 1957: A.A.S. 49 (1957) p. 843. ^aa-fn-intro-3
 
-Chapter 1 Article 2:
+### Chapter 1 Article 2
 
 1\. cf. Pius XI, encyclical "Rerum Ecclesiae:" A.A.S. 18 (1926) p. 65. ^aa-fn-ch1-1
 
@@ -333,7 +327,7 @@ Chapter 1 Article 2:
 
 7\. ibid., no. 62, p. 63; cf. also no. 65. ibid., pp. 64-65. ^aa-fn-ch1-7
 
-CHAPTER II
+### Chapter II
 
 Article 6
 
@@ -353,7 +347,7 @@ Article 8:
 
 6\. cf. Pius XII, allocution to "Pax Romana" April 25, 1957: A.A.S. 49 (1957) pp. 298-299; and especially John XXIII, "Ad Conventum Consilii" Food and Agriculture Organization Nov. 10, 1959: A.A.S. 51 (1959) pp. 856-866. ^aa-fn-ch2-6
 
-Chapter III
+### Chapter III
 
 Article 10:
 
@@ -379,7 +373,7 @@ Article 14:
 
 10\. cf. John XXIII, encyclical "Mater et Magistra" May 15, 1961: A.A.S. 53 (1961) pp. 448-450. ^aa-fn-ch3-10
 
-Chapter IV
+### Chapter IV
 
 Article 17:
 
@@ -399,7 +393,7 @@ Article 17:
 
 8\. cf. Pius XI, letter "Quae Nobis" to Cardinal Bertram, Nov. 13, 1928: A.A.S. 20 (1928) p. 385. cf. also Pius XII, allocution to Italian Catholic Action, Sept. 4, 1940: A.A.S. 32 (1940) p. 362. ^aa-fn-ch4-8
 
-Chapter V Article 23:
+### Chapter V Article 23
 
 1\. cf. Pius XI, encyclical "Quamvis Nostra," April 30, 1936: A.A.S., 28 (1936) pp. 160-161. Article 24: ^aa-fn-ch5-1
 
@@ -421,7 +415,7 @@ Chapter V Article 23:
 
 10\. cf. Second Vatican Council, Decree on Ecumenism, no. 12: A.A.S. 57 (1965) p. 100. Also cf. Dogmatic Constitution on the Nature of the Church, no. 15: A.A.S. 57 (1965) pp. 19-20. ^aa-fn-ch5-10
 
-CHAPTER VI Article 28:
+### Chapter VI Article 28
 
 1\. cf. Second Vatican Council, Dogmatic Constitution on the Nature of the Church, Chaps. 2, 4 and 5: A.A.S. 57 (1965) pp. 12- 21, 37-49; also cf. Decree on Ecumenism, nos. 4, 6, 7 and 12: A.A.S. 57 (1965) pp. 94, 96, 97, 99, 100; cf. also above, no. 4. Article 29: ^aa-fn-ch6-1
 

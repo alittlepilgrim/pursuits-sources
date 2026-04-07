@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-26
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Blessed Virgin Mary, Devotion to the Virgin Mary, Marialis Cultus, Apostolic Exhortation Marialis Cultus
 abbreviation: pvi-mc
@@ -21,27 +21,13 @@ abbreviation: pvi-mc
 
 Source: [](https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19740202_marialis-cultus.html)
 
-APOSTOLIC EXHORTATION
-
-OF HIS HOLINESS PAUL VI
-
-***MARIALIS CULTUS***
-
-FOR THE RIGHT ORDERING AND DEVELOPMENT
-
-OF DEVOTION TO THE BLESSED VIRGIN MARY
-
-To All Bishops in Peace and Communion
-
-with the Apostolic See
-
-*February 2, 1974*
+Apostolic Exhortation Of His Holiness Paul VI Marialis Cultus For The Right Ordering And Development Of Devotion To The Blessed Virgin Mary To All Bishops In Peace And Communion With The Apostolic See February 2 1974
 
 ## Introduction
 
-**Division of the Treatise
+Division of the Treatise
 
-Occasion and Purpose of the Document**
+Occasion and Purpose of the Document
 
 *Venerable Brothers:*
 

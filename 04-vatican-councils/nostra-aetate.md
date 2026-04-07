@@ -11,23 +11,15 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Declaration on the Relation of the Church to non-christian religions - Nostra aetate
 abbreviation: na
 ---
 
-DECLARATION ON
+# Nostra Aetate
 
-THE RELATION OF THE CHURCH TO NON-CHRISTIAN RELIGIONS
-
-***NOSTRA AETATE***
-
-PROCLAIMED BY HIS HOLINESS
-
-POPE PAUL VI
-
-ON OCTOBER 28, 1965
+## Declaration On The Relation Of The Church to Non Christian Religions Proclaimed by His Holiness Pope Paul Vion October 28 1965
 
 1\. In our time, when day by day mankind is being drawn closer together, and the ties between different peoples are becoming stronger, the Church examines more closely her relationship to non-Christian religions. In her task of promoting unity and love among men, indeed among nations, she considers above all in this declaration what men have in common and what draws them to fellowship. ^na-1
 

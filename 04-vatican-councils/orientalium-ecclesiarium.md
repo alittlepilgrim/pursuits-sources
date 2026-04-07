@@ -9,29 +9,21 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Decree on the Catholic Churches of the eastern rite - Orientalium ecclesiarium
 abbreviation: oe
 ---
 
- DECREE ON THE CATHOLIC CHURCHES
+# Orientalium Ecclesiarum
 
-OF THE EASTERN RITE
+## Decree On The Catholic Churches Of The Eastern Rite Solemnly Promulgated by His Holiness Pope Paul VI On November 21 1964
 
-***ORIENTALIUM ECCLESIARUM***
-
-SOLEMNLY PROMULGATED BY HIS HOLINESS
-
-POPE PAUL VI
-
-ON NOVEMBER 21, 1964
-
-**PREAMBLE**
+## Preamble
 
 1\. The Catholic Church holds in high esteem the institutions, liturgical rites, ecclesiastical traditions and the established standards of the Christian life of the Eastern Churches, for in them, distinguished as they are for their venerable antiquity, there remains conspicuous the tradition that has been handed down from the Apostles through the Fathers <sup>([[#^oe-fn-1|1]])</sup> and that forms part of the divinely revealed and undivided heritage of the universal Church. This Sacred Ecumenical Council, therefore, in its care for the Eastern Churches which bear living witness to this tradition, in order that they may flourish and with new apostolic vigor execute the task entrusted to them, has determined to lay down a number of principles, in addition to those which refer to the universal Church; all else is remitted to the care of the Eastern synods and of the Holy See. ^oe-1
 
-**THE INDIVIDUAL CHURCHES OR RITES**
+## The Individual Churches or Rites
 
 2\. The Holy Catholic Church, which is the Mystical Body of Christ, is made up of the faithful who are organically united in the Holy Spirit by the same faith, the same sacraments and the same government and who, combining together into various groups which are held together by a hierarchy, form separate Churches or Rites. Between these there exists an admirable bond of union, such that the variety within the Church in no way harms its unity; rather it manifests it, for it is the mind of the Catholic Church that each individual Church or Rite should retain its traditions whole and entire and likewise that it should adapt its way of life to the different needs of time and place.<sup>([[#^oe-fn-2|2]])</sup> ^oe-2
 
@@ -43,7 +35,7 @@ All clerics and those aspiring to sacred Orders should be instructed in the rite
 
 Finally, each and every Catholic, as also the baptized of every non-Catholic church or denomination who enters into the fullness of the Catholic communion, must retain his own rite wherever he is, must cherish it and observe it to the best of his ability <sup>([[#^oe-fn-4|4]])</sup>, without prejudice to the right in special cases of persons, communities or areas, to have recourse to the Apostolic See, which, as the supreme judge of interchurch relations, will, acting itself or through other authorities, meet the needs of the occasion in an ecumenical spirit, by the issuance of opportune directives, decrees or rescripts.
 
-**PRESERVATION OF THE SPIRITUAL HERITAGE OF THE EASTERN CHURCHES**
+## Preservation Of The Spiritual Heritage Of The Eastern Churches
 
 5\. History, tradition and abundant ecclesiastical institutions bear outstanding witness to the great merit owing to the Eastern Churches by the universal Church.<sup>([[#^oe-fn-5|5]])</sup> The Sacred Council, therefore, not only accords to this ecclesiastical and spiritual heritage the high regard which is its due and rightful praise, but also unhesitatingly looks on it as the heritage of the universal Church. For this reason it solemnly declares that the Churches of the East, as much as those of the West, have a full right and are in duty bound to rule themselves, each in accordance with its own established disciplines, since all these are praiseworthy by reason of their venerable antiquity, more harmonious with the character of their faithful and more suited to the promotion of the good of souls. ^oe-5
 
@@ -51,7 +43,7 @@ Finally, each and every Catholic, as also the baptized of every non-Catholic chu
 
 Those who, by reason of their office or apostolic ministries, are in frequent communication with the Eastern Churches or their faithful should be instructed according as their office demands in the knowledge and veneration of the rites, discipline, doctrine, history and character of the members of the Eastern rites.<sup>([[#^oe-fn-6|6]])</sup> To enhance the efficacy of their apostolate, Religious and associations of the Latin Rite working in Eastern countries or among Eastern faithful are earnestly counseled to found houses or even provinces of the Eastern rite, as far as this can be done.<sup>([[#^oe-fn-7|7]])</sup>
 
-**EASTERN RITE PATRIARCHS**
+## Eastern Rite Patriarchs
 
 7\. The patriarchate, as an institution, has existed in the Church from the earliest times and was recognized by the first ecumenical councils.<sup>([[#^oe-fn-8|8]])</sup> ^oe-7
 
@@ -73,7 +65,7 @@ The patriarchs with their synods are the highest authority for all business of t
 
 11\. Seeing that the patriarchal office in the Eastern Church is a traditional form of government, the Sacred Ecumenical Council ardently desires that new patriarchates should be erected where there is need, to be established either by an ecumenical council or by the Roman Pontiff.<sup>([[#^oe-fn-13|13]])</sup> ^oe-11
 
-**THE DISCIPLINE OF THE SACRAMENTS**
+## The Discipline Of The Sacraments
 
 12\. The Sacred Ecumenical Council confirms and approves the ancient discipline of the sacraments existing in the Oriental Churches, as also the ritual practices connected with their celebration and administration and ardently desires that this should be re-established if circumstances warrant it. ^oe-12
 
@@ -89,7 +81,7 @@ The patriarchs with their synods are the highest authority for all business of t
 
 18\. To obviate invalid marriages when Eastern Catholics marry baptized Eastern non-Catholics and in order to promote fidelity in and the sanctity of marriage, as well as peace within the family, the Sacred Council determines that the canonical "form" for the celebration of these marriages is of obligation only for liceity; for their validity the presence of a sacred minister is sufficient, provided that other prescriptions of law are observed.<sup>([[#^oe-fn-23|23]])</sup> ^oe-18
 
-**DIVINE WORSHIP**
+## Divine Worship
 
 19\. It belongs only to an ecumenical council or to the Apostolic See to determine, transfer or suppress feast days common to all the Eastern Churches. On the other hand, to determine, transfer or suppress the feast days of any of the individual churches is within the competence not only of the Apostolic See but also of the patriarchal or archiepiscopal synod, due regard being had to the whole area and the other individual churches.<sup>([[#^oe-fn-24|24]])</sup> ^oe-19
 
@@ -101,7 +93,7 @@ The patriarchs with their synods are the highest authority for all business of t
 
 23\. It belongs to the patriarch with his synod, or to the supreme authority of each church with the council of the hierarchs, to regulate the use of languages in the sacred liturgical functions and, after reference to the Apostolic See, of approving translations of texts into the vernacular.<sup>([[#^oe-fn-28|28]])</sup> ^oe-23
 
-**RELATIONS WITH THE BRETHREN OF THE SEPARATED CHURCHES**
+## Relations with The Brethren Of The Separated Churches
 
 24\. The Eastern Churches in communion with the Apostolic See of Rome have a special duty of promoting the unity of all Christians, especially Eastern Christians, in accordance with the principles of the decree, "About Ecumenism," of this Sacred Council, by prayer in the first place, and by the example of their lives, by religious fidelity to the ancient Eastern traditions, by a greater knowledge of each other, by collaboration and a brotherly regard for objects and feelings.<sup>([[#^oe-fn-29|29]])</sup> ^oe-24
 
@@ -115,7 +107,7 @@ The patriarchs with their synods are the highest authority for all business of t
 
 29\. This conciliatory policy with regard to communicatio in sacris (participation in things sacred) with the brethren of the separated Eastern Churches is put into the care and control of the local hierarchs, in order that, by combined counsel among themselves and, if need be, after consultation also with the hierarchs of the separated churches, they may by timely and effective regulations and norms direct the relations among Christians. ^oe-29
 
-**CONCLUSION**
+## Conclusion
 
 30\. The Sacred Council feels great joy in the fruitful zealous collaboration of the Eastern and the Western Catholic Churches and at the same time declares: All these directives of law are laid down in view of the present situation until such time as the Catholic Church and the separated Eastern Churches come together into complete unity. ^oe-30
 
@@ -127,7 +119,7 @@ Each and all these matters which are set forth in this decree have been favorabl
 
 *Given in Rome at St. Peter's, November 21, 1964*
 
-**NOTES/FOOTNOTES**
+## Notes Footnotes
 
 (1) Leo XIII, Litt. Ap. Orientalium dignitas, 30 nov. 1894, in Leonis XIII Acta, vol. XIV, pp. 201-202. ^oe-fn-1
 

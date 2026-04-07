@@ -4,16 +4,16 @@ title: Manual of Indulgences
 author:
   - Catholic Church
 aliases:
-  - "> ***Manual Of Indulgences***"
   - 20260114-233849
+  - Manual Of Indulgences
 tags: []
 created: 2026-01-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: Manual of Indulgences
 ---
 
-# > ***Manual Of Indulgences***
+# Manual Of Indulgences
 
 > [!NOTE]
 > ***Manual of Indulgences***

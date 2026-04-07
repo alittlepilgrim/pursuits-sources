@@ -10,7 +10,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Letter Sollicitudo Rei Socialis (30 December 1987) for the twentieth anniversary of Populorum Progressio
 abbreviation: jpii-srs
@@ -32,11 +32,9 @@ Populorum Progressio
 
 ***Blessing***
 
-*Venerable Brothers and dear Sons and Daughters,
+*Venerable Brothers and dear Sons and Daughters, Health and the Apostolic Blessing!*
 
-Health and the Apostolic Blessing!*
-
-**I. INTRODUCTION**
+## I. Introduction
 
 1\. The social concern of the Church, directed towards an authentic development of man and society which would respect and promote all the dimensions of the human person, has always expressed itself in the most varied ways. In recent years, one of the special means of intervention has been the Magisterium of the Roman Pontiffs which, beginning with the Encyclical *Rerum Novarum* of Leo XIII as a point of reference,1 has frequently dealt with the question and has sometimes made the dates of publication of the various social documents coincide with the anniversaries of that first document.2 ^jpii-srs-1
 
@@ -58,7 +56,7 @@ The present period of time, on the eve of the third Christian millennium, is cha
 
 The aim of the present reflection is to emphasize, through a theological investigation of the present world, the need for a fuller and more nuanced concept of development, according to the suggestions contained in the Encyclical. Its aim is also to indicate some ways of putting it into effect.
 
-**II. ORIGINALITY OF THE ENCYCLICAL *POPULORUM PROGRESSIO***
+## II. Originality of the Encyclical Populorum Progressio
 
 5\. As soon as it appeared, the document of Pope Paul VI captured the attention of public opinion by reason of its originality. In a concrete manner and with great clarity, it was possible to identify the above mentioned characteristics of continuity and renewal within the Church's social doctrine. The intention of rediscovering numerous aspects of this teaching, through a careful rereading of the Encyclical, will therefore; constitute the main thread of the present reflections. ^jpii-srs-5
 
@@ -116,7 +114,7 @@ On the contrary, in a different world, ruled by concern for the common good of a
 
 Also this new element of the Encyclical has a permanent and contemporary value, in view of the modern attitude which is so sensitive to the close link between respect for justice and the establishment of real peace.
 
-**III. SURVEY OF THE CONTEMPORARY WORLD**
+## III. Survey of the Contemporary World
 
 11\. In its own time the fundamental teaching of the Encyclical *Populorum Progressio* received great acclaim for its novel character. The social context in which we live today cannot be said to be completely identical to that of twenty years ago. For this reason, I now wish to conduct a brief review of some of the characteristics of today's world, in order to develop the teaching of Paul VI's Encyclical, once again from the point of view of the "development of peoples." ^jpii-srs-11
 
@@ -274,7 +272,7 @@ Thus, all is not negative in the contemporary world, nor could it be, for the He
 
 This fact prompts me to turn my thoughts to the true nature of the development of peoples, along the lines of the Encyclical which we are commemorating, and as a mark of respect for its teaching.
 
-**IV. AUTHENTIC HUMAN DEVELOPMENT**
+## IV. Authentic Human Development
 
 27\. The examination which the Encyclical invites us to make of the contemporary world leads us to note in the first place that development is not a straightforward process, as it were automatic and in itself limitless, as though, given certain conditions, the human race were able to progress rapidly towards an undefined perfection of some kind.49 ^jpii-srs-27
 
@@ -370,7 +368,7 @@ Once again it is evident that development, the planning which governs it, and th
 
 A true concept of development cannot ignore the use of the elements of nature, the renewability of resources and the consequences of haphazard industrialization - three considerations which alert our consciences to the moral dimension of development.63
 
-**V. A THEOLOGICAL READING OF MODERN PROBLEMS**
+## V. a Theological Reading of Modern Problems
 
 35\. Precisely because of the essentially moral character of development, it is clear that the obstacles to development likewise have a moral character. If in the years since the publication of Pope Paul's Encyclical there has been no development - or very little, irregular, or even contradictory development - the reasons are not only economic. As has already been said, political motives also enter in. For the decisions which either accelerate or slow down the development of peoples are really political in character. In order to overcome the misguided mechanisms mentioned earlier and to replace them with new ones which will be more just and in conformity with the common good of humanity, an effective political will is needed. Unfortunately, after analyzing the situation we have to conclude that this political will has been insufficient. ^jpii-srs-35
 
@@ -434,7 +432,7 @@ At that point, awareness of the common fatherhood of God, of the brotherhood of 
 
 Solidarity therefore must play its part in the realization of this divine plan, both on the level of individuals and on the level of national and international society. The "evil mechanisms" and "structures of sin" of which we have spoken can be overcome only through the exercise of the human and Christian solidarity to which the Church calls us and which she tirelessly promotes. Only in this way can such positive energies be fully released for the benefit of development and peace. Many of the Church's canonized saints offer a wonderful witness of such solidarity and can serve as examples in the present difficult circumstances. Among them I wish to recall St. Peter Claver and his service to the slaves at Cartagena de Indias, and St. Maximilian Maria Kolbe who offered his life in place of a prisoner unknown to him in the concentration camp at Auschwitz.
 
-**VI. SOME PARTICULAR GUIDELINES**
+## VI. Some Particular Guidelines
 
 41\. The Church does not have technical revolutions to offer for the problem of underdevelopment as such, as Pope Paul VI already affirmed in his Encyclical.69 For the Church does not propose economic and political systems or programs, nor does she show preference for one or the other, provided that human dignity is properly respected and promoted, and provided she herself is allowed the room she needs to exercise her ministry in the world. ^jpii-srs-41
 
@@ -549,6 +547,8 @@ Before the Most Blessed Trinity, I entrust to Mary all that I have written in th
 **JOHN PAUL II**
 
 ---
+
+## Notes
 
 **[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. Leo XIII, Encyclical *Rerum Novarum* (May 15, 1891): *Leonis XIII P. M. Acta,* XI, Romae 1892, pp. 97-144.
 

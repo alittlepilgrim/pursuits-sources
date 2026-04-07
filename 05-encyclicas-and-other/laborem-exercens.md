@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Laborem Exercens by John Paul II
 abbreviation: jpii-le
@@ -21,19 +21,7 @@ IOANNES PAULUS PP. II
 
 # Laborem Exercens
 
-To His Venerable Brothers
-
-in the Episcopate
-
-to the Priests to the Religious Families
-
-to the sons and daughters of the Church
-
-and to all Men and Women of good will
-
-on Human Work
-
-on the ninetieth anniversary of Rerum Novarum
+To His Venerable Brothers In The Episcopate To The Priests To The Religious Families To The Sons And Daughters Of The Church And To All Men And Women Of Good Will On Human Work On The Ninetieth Anniversary Of *Rerum Novarum*
 
 ***Blessing***
 
@@ -43,7 +31,7 @@ Greetings and apostolic Blessing*
 
 THROUGH WORK man must earn his daily bread 1 and contribute to the continual advance of science and technology and, above all, to elevating unceasingly the cultural and moral level of the society within which he lives in community with those who belong to the same family. And work means any activity by man, whether manual or intellectual, whatever its nature or circumstances; it means any human activity that can and must be recognized as work, in the midst of all the many activities of which man is capable and to which he is predisposed by his very nature, by virtue of humanity itself. Man is made to be in the visible universe an image and likeness of God himself 2, and he is placed in it in order to subdue the earth 3. From the beginning therefore he is *called to work. Work is one of the characteristics that distinguish* man from the rest of creatures, whose activity for sustaining their lives cannot be called work. Only man is capable of work, and only man works, at the same time by work occupying his existence on earth. Thus work bears a particular mark of man and of humanity, the mark of a person operating within a community of persons. And this mark decides its interior characteristics; in a sense it constitutes its very nature.
 
-**I. INTRODUCTION**
+## I. Introduction
 
 ***1\. Human Work on the Ninetieth Anniversary of Rerum Novarum***
 
@@ -71,7 +59,7 @@ In the midst of all these processes-those of the diagnosis of objective social r
 
 While in the present document we return to this question once more-without however any intention of touching on all the topics that concern it-this is not merely in order to gather together and repeat what is already contained in the Church's teaching. It is rather in order to highlight-perhaps more than has been done before-the fact that human work is *a key,* probably *the essential key,* to the whole social question, if we try to see that question really from the point of view of man's good. And if the solution-or rather the gradual solution-of the social question, which keeps coming up and becomes ever more complex, must be sought in the direction of "making life more human" 8, then the key, namely human work, acquires fundamental and decisive importance.
 
-**II. WORK AND MAN**
+## II. Work and Man
 
 ***4\. In the Book of Genesis***
 
@@ -155,7 +143,7 @@ The third sphere of values that emerges from this point of view-that of the subj
 
 These three spheres are always *important for human work* in its subjective dimension. And this dimension, that is to say, the concrete reality of the worker, takes precedence over the objective dimension. In the subjective dimension there is realized, first of all, that "dominion" over the world of nature to which man is called from the beginning according to the words of the Book of Genesis. The very process of "subduing the earth", that is to say work, is marked in the course of history, and especially in recent centuries, by an immense development of technological means. This is an advantageous and positive phenomenon, on condition that the objective dimension of work does not gain the upper hand over the subjective dimension, depriving man of his dignity and inalienable rights or reducing them.
 
-**III. CONFLICT BETWEEN LABOUR AND CAPITAL IN THE PRESENT PHASE OF HISTORY**
+## III. Conflict Between Labour and Capital In The Present Phase Of History
 
 ***11\. Dimensions of the Conflict***
 
@@ -219,7 +207,7 @@ Thus, *the principle of the priority of labour* over capital is a postulate of t
 
 From this spring certain specific rights of workers, corresponding to the obligation of work. They will be discussed later. But here it must be emphasized, in general terms, that the person who works desires *not only* due *remuneration* for his work; he also wishes that, within the production process, provision be made for him to be able to *know* that in his work, even on something that is owned in common, he is working *"for himself".* This awareness is extinguished within him in a system of excessive bureaucratic centralization, which makes the worker feel that he is just a cog in a huge machine moved from above, that he is for more reasons than one a mere production instrument rather than a true subject of work with an initiative of his own. The Church's teaching has always expressed the strong and deep convinction that man's work concerns not only the economy but also, and especially, personal values. The economic system itself and the production process benefit precisely when these personal values are fully respected. In the mind of Saint Thomas Aquinas 25, this is the principal reason in favour of private ownership of the means of production. While we accept that for certain well founded reasons exceptions can be made to the principle of private ownership-in our own time we even see that the system of "socialized ownership" has been introduced-nevertheless the personalist *argument still holds good* both on the level of principles and *on the practical level.* If it is to be rational and fruitful, any socialization of the means of production must take this argument into consideration. Every effort must be made to ensure that in this kind of system also the human person can preserve his awareness of working "for himself". If this is not done, incalculable damage is inevitably done throughout the economic process, not only economic damage but first and foremost damage to man.
 
-**IV. RIGHTS OF WORKERS**
+## IV. Rights Of Workers
 
 ***16\. Within the Broad Context of Human Rights***
 
@@ -313,7 +301,7 @@ Nevertheless, even if emigration is in some aspects an evil, in certain circumst
 
 The most important thing is that the person working away from his native land, whether as a permanent emigrant or as a seasonal worker, should not be *placed at a disadvantage* in comparison with the other workers in that society in the matter of working rights. Emigration in search of work must in no way become an opportunity for financial or social exploitation. As regards the work relationship, the same criteria should be applied to immigrant workers as to all other workers in the society concerned. The value of work should be measured by the same standard and not according to the difference in nationality, religion or race. For even greater reason the *situation of constraint* in which the emigrant may find himself *should not be exploited.* All these circumstances should categorically give way, after special qualifications have of course been taken into consideration, to the fundamental value of work, which is bound up with the dignity of the human person. Once more the fundamental principle must be repeated: the hierarchy of values and the profound meaning of work itself require that capital should be at the service of labour and not labour at the service of capital.
 
-**V. ELEMENTS FOR A SPIRITUALITY OF WORK**
+## V. Elements for a Spirituality Of Work
 
 ***24\. A Particular Task for the Church***
 
@@ -378,6 +366,8 @@ I prepared this document for publication on 15 May last, on the ninetieth annive
 **JOHN PAUL II**
 
 ---
+
+## Notes
 
 **[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)** Cf. *Ps* 127(128):2; cf. also *Gen* 3:17-19; *Prov*. 10:22; *Ex* 1:8-14; *Jer* 22:13.
 

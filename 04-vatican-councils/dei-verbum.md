@@ -6,28 +6,21 @@ source: vatican.va
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html
 aliases:
   - Dei Verbum
-  - DEI VERBUM
   - dei-verbum
 tags:
   - graph/bible-dv
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Dogmatic Constitution on Divine Revelation - Dei verbum
 abbreviation: dv
 ---
 
-DOGMATIC CONSTITUTION ON DIVINE REVELATION
-
 # Dei Verbum
 
-SOLEMNLY PROMULGATED BY HIS HOLINESS
-
-POPE PAUL VI
-
-ON NOVEMBER 18, 1965 
+## Dogmatic Constitution on Divine Revelation Solemnly Promulgated by His Holiness Pope Paul VI on November 18 1965
 
 ## Preface
 
@@ -49,7 +42,7 @@ The Christian dispensation, therefore, as the new and definitive covenant, will 
 
 As a sacred synod has affirmed, God, the beginning and end of all things, can be known with certainty from created reality by the light of human reason (see [[romans-01#^romans-01-20|Rom. 1:20)]]; but teaches that it is through His revelation that those religious truths which are by their nature accessible to human reason can be known by all men with ease, with solid certitude and with no trace of error, even in this present state of the human race. <sup>([[#^dv-fn-ch1-7|7]])</sup>
 
-## Chapter Ii - Handing on Divine Revelation
+## Chapter II - Handing on Divine Revelation
 
 7\. In His gracious goodness, God has seen to it that what He had revealed for the salvation of all nations would abide perpetually in its full integrity and be handed on to all generations. Therefore Christ the Lord in whom the full revelation of the supreme God is brought to completion (see [[2-corinthians-01#^2-corinthians-01-20|2 Cor. 1:20;]] 3:13; 4:6), commissioned the Apostles to preach to all men that Gospel which is the source of all saving truth and moral teaching, <sup>([[#^dv-fn-ch2-1|1]])</sup> and to impart to them heavenly gifts. This Gospel had been promised in former times through the prophets, and Christ Himself had fulfilled it and promulgated it with His lips. This commission was faithfully fulfilled by the Apostles who, by their oral preaching, by example, and by observances handed on what they had received from the lips of Christ, from living with Him, and from what He did, or what they had learned through the prompting of the Holy Spirit. The commission was fulfilled, too, by those Apostles and apostolic men who under the inspiration of the same Holy Spirit committed the message of salvation to writing. <sup>([[#^dv-fn-ch2-2|2]])</sup> ^dv-7
 
@@ -69,7 +62,7 @@ But the task of authentically interpreting the word of God, whether written or h
 
 It is clear, therefore, that sacred tradition, Sacred Scripture and the teaching authority of the Church, in accord with God's most wise design, are so linked and joined together that one cannot stand without the others, and that all together and each in its own way under the action of the one Holy Spirit contribute effectively to the salvation of souls.
 
-## Chapter Iii - Sacred Scripture, Its Divine Inspiration and Interpretation
+## Chapter III - Sacred Scripture, Its Divine Inspiration and Interpretation
 
 11\. Those divinely revealed realities which are contained and presented in Sacred Scripture have been committed to writing under the inspiration of the Holy Spirit. For holy mother Church, relying on the belief of the Apostles (see [[john-20#^john-20-31|John 20:31;]] [[2-timothy-03#^2-timothy-03-16|2 Tim. 3:16;]] [[2-peter-01#^2-peter-01-19|2 Peter 1:19-20, 3]]:15-16), holds that the books of both the Old and New Testaments in their entirety, with all their parts, are sacred and canonical because written under the inspiration of the Holy Spirit, they have God as their author and have been handed on as such to the Church herself.<sup>([[#^dv-fn-ch3-1|1]])</sup> In composing the sacred books, God chose men and while employed by Him <sup>([[#^dv-fn-ch3-2|2]])</sup> they made use of their powers and abilities, so that with Him acting in them and through them, <sup>([[#^dv-fn-ch3-3|3]])</sup> they, as true authors, consigned to writing everything and only those things which He wanted. <sup>([[#^dv-fn-ch3-4|4]])</sup> ^dv-11
 
@@ -83,7 +76,7 @@ But, since Holy Scripture must be read and interpreted in the sacred spirit in w
 
 13\. In Sacred Scripture, therefore, while the truth and holiness of God always remains intact, the marvelous "condescension" of eternal wisdom is clearly shown, "that we may learn the gentle kindness of God, which words cannot express, and how far He has gone in adapting His language with thoughtful concern for our weak human nature." <sup>([[#^dv-fn-ch3-11|1]])</sup> For the words of God, expressed in human language, have been made like human discourse, just as the word of the eternal Father, when He took to Himself the flesh of human weakness, was in every way made like men. ^dv-13
 
-## Chapter Iv - the Old Testament
+## Chapter IV – The Old Testament
 
 14\. In carefully planning and preparing the salvation of the whole human race the God of infinite love, by a special dispensation, chose for Himself a people to whom He would entrust His promises. First He entered into a covenant with [[abraham|Abraham]] (see [[genesis-15#^genesis-15-18|Gen. 15:18)]] and, through Moses, with the people of Israel (see [[exodus-24#^exodus-24-8|Ex. 24:8)]]. To this people which He had acquired for Himself, He so manifested Himself through words and deeds as the one true and living God that Israel came to know by experience the ways of God with men. Then too, when God Himself spoke to them through the mouth of the prophets, Israel daily gained a deeper and clearer understanding of His ways and made them more widely known among the nations (see [[psalm-21#^psalm-21-29|Ps. 21:29;]] 95:1-3; [[isaiah-02#^isaiah-02-1|Is. 2:1-5;]] [[jeremiah-03#^jeremiah-03-17|Jer. 3:17)]]. The plan of salvation foretold by the sacred authors, recounted and explained by them, is found as the true word of God in the books of the Old Testament: these books, therefore, written under divine inspiration, remain permanently valuable. "For all that was written for our instruction, so that by steadfastness and the encouragement of the Scriptures we might have hope" ([[romans-15#^romans-15-4|Rom. 15:4)]]. ^dv-14
 
@@ -91,7 +84,7 @@ But, since Holy Scripture must be read and interpreted in the sacred spirit in w
 
 16\. God, the inspirer and author of both Testaments, wisely arranged that the New Testament be hidden in the Old and the Old be made manifest in the New. <sup>([[#^dv-fn-ch4-2|2]])</sup> For, though Christ established the new covenant in His blood (see [[luke-22#^luke-22-20|Luke 22:20;]] [[1-corinthians-11#^1-corinthians-11-25|1 Cor. 11:25)]], still the books of the Old Testament with all their parts, caught up into the proclamation of the Gospel, <sup>([[#^dv-fn-ch4-3|3]])</sup> acquire and show forth their full meaning in the New Testament (see [[matthew-05#^matthew-05-17|Matt. 5:17;]] [[luke-24#^luke-24-27|Luke 24:27;]] [[romans-16#^romans-16-25|Rom. 16:25-26;]] [[2-corinthians-03#^2-corinthians-03-14|2 Cor. 3:14-16)]] and in turn shed light on it and explain it. ^dv-16
 
-## Chapter V - the New Testament
+## Chapter V – The New Testament
 
 17\. The word of God, which is the power of God for the salvation of all who believe (see [[romans-01#^romans-01-16|Rom. 1:16)]], is set forth and shows its power in a most excellent way in the writings of the New Testament. For when the fullness of time arrived (see [[galatians-04#^galatians-04-4|Gal. 4:4)]], the Word was made flesh and dwelt among us in His fullness of graces and truth (see [[john-01#^john-01-14|John 1:14)]]. Christ established the kingdom of God on earth, manifested His Father and Himself by deeds and words, and completed His work by His death, resurrection and glorious Ascension and by the sending of the Holy Spirit. Having been lifted up from the earth, He draws all men to Himself (see [[john-12#^john-12-32|John 12:32,]] Greek text), He who alone has the words of eternal life (see [[john-06#^john-06-68|John 6:68)]]. This mystery had not been manifested to other generations as it was now revealed to His holy Apostles and prophets in the Holy Spirit (see [[ephesians-03#^ephesians-03-4|Eph. 3:4-6,]] Greek text), so that they might preach the Gospel, stir up faith in Jesus, Christ and Lord, and gather together the Church. Now the writings of the New Testament stand as a perpetual and divine witness to these realities. ^dv-17
 
@@ -105,7 +98,7 @@ The Church has always and everywhere held and continues to hold that the four Go
 
 For the Lord Jesus was with His apostles as He had promised (see [[matthew-28#^matthew-28-20|Matt. 28:20)]] and sent them the advocate Spirit who would lead them into the fullness of truth (see [[john-16#^john-16-13|John 16:13)]].
 
-## Chapter Vi - Sacred Scripture in the Life of the Church
+## Chapter VI - Sacred Scripture in the Life of the Church
 
 21\. The Church has always venerated the divine Scriptures just as she venerates the body of the Lord, since, especially in the sacred liturgy, she unceasingly receives and offers to the faithful the bread of life from the table both of God's word and of Christ's body. She has always maintained them, and continues to do so, together with sacred tradition, as the supreme rule of faith, since, as inspired by God and committed once and for all to writing, they impart the word of God Himself without change, and make the voice of the Holy Spirit resound in the words of the prophets and Apostles. Therefore, like the Christian religion itself, all the preaching of the Church must be nourished and regulated by Sacred Scripture. For in the sacred books, the Father who is in heaven meets His children with great love and speaks with them; and the force and power in the word of God is so great that it stands as the support and energy of the Church, the strength of faith for her sons, the food of the soul, the pure and everlasting source of spiritual life. Consequently these words are perfectly applicable to Sacred Scripture: "For the word of God is living and active" ([[hebrews-04#^hebrews-04-12|Heb. 4:12)]] and "it has power to build you up and give you your heritage among all those who are sanctified" ([[acts-of-the-apostles-20#^acts-of-the-apostles-20-32|Acts 20:32;]] see [[1-thessalonians-02#^1-thessalonians-02-13|1 Thess. 2:13)]]. ^dv-21
 

@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Letter Centesimus Annus (1 May 1991)
 abbreviation: jpii-ca
@@ -23,35 +23,17 @@ HOLY FATHER
 
 # Centesimus Annus
 
-ENCYCLICAL LETTER
+## Encyclical Letter to His Venerable Brother Bishops in the Episcopate, the Priests and Deacons, Families of Men and Women Religious, All the Christian Faithful, and to All Men and Women of Good Will, on the Hundreth Anniversary of Rerum Novarum
 
-TO HIS VENERABLE BROTHER BISHOPS
+Blessing
 
-IN THE EPISCOPATE
-
-THE PRIESTS AND DEACONS
-
-FAMILIES OF MEN AND WOMEN RELIGIOUS
-
-ALL THE CHRISTIAN FAITHFUL
-
-AND TO ALL MEN AND WOMEN
-
-OF GOOD WILL
-
-ON THE HUNDRETH ANNIVERSARY OF*
-
-RERUM NOVARUM*
-
-*Blessing
-
-*Venerable Brothers,
+Venerable Brothers,
 
 Beloved Sons and Daughters,
 
-Health and the Apostolic Blessing!*
+Health and the Apostolic Blessing!
 
-# Introduction
+## Introduction
 
 1\. The Centenary of the promulgation of the Encyclical which begins with the words *"Rerum novarum* ",1 by my predecessor of venerable memory Pope Leo XIII, is an occasion of great importance for the present history of the Church and for my own Pontificate. It is an Encyclical that has the distinction of having been commemorated by solemn Papal documents from its fortieth anniversary to its ninetieth. It may be said that its path through history has been marked by other documents which paid tribute to it and applied it to the circumstances of the day.2 ^jpii-ca-1
 
@@ -71,7 +53,7 @@ Among the things which become "old" as a result of being incorporated into Tradi
 
 The present Encyclical seeks to show the fruitfulness of the principles enunciated by Leo XIII, which belong to the Church's doctrinal patrimony and, as such, involve the exercise of her teaching authority. But pastoral solicitude also prompts me to propose *an analysis of some events of recent history.* It goes without saying that part of the responsibility of Pastors is to give careful consideration to current events in order to discern the new requirements of evangelization. However, such an analysis is not meant to pass definitive judgments since this does not fall *per se* within the Magisterium's specific domain.
 
-**I. CHARACTERISTICS OF "RERUM NOVARUM"**
+## I. Characteristics of "Rerum Novarum"
 
 4\. Towards the end of the last century the Church found herself facing an historical process which had already been taking place for some time, but which was by then reaching a critical point. The determining factor in this process was a combination of radical changes which had taken place in the political, economic and social fields, and in the areas of science and technology, to say nothing of the wide influence of the prevailing ideologies. In the sphere of politics, the result of these changes was a *new conception of society and of the State,* and consequently *of authority* itself. A traditional society was passing away and another was beginning to be formed — one which brought the hope of new freedoms but also the threat of new forms of injustice and servitude. ^jpii-ca-4
 
@@ -131,7 +113,7 @@ If Pope Leo XIII calls upon the State to remedy the condition of the poor in acc
 
 The relevance of these reflections for our own day is inescapable. It will be useful to return later to this important subject of the limits inherent in the nature of the state. For now, the points which have been emphasized (certainly not the only ones in the Encyclical) are situated in continuity with the Church's social teaching, and in the light of a sound view of private property, work, the economic process, the reality of the State and, above all, of man himself. Other themes will be mentioned later when we examine certain aspects of the contemporary situation. From this point forward it will be necessary to keep in mind that the main thread and, in a certain sense, the guiding principle of Pope Leo's Encyclical, and of all of the Church's social doctrine, is a *correct view of the human person* and of his unique value, inasmuch as "man... is the only creature on earth which God willed for itself".38 God has imprinted his own image and likeness on man (cf. Gen 1:26), conferring upon him an incomparable dignity, as the Encyclical frequently insists. In effect, beyond the rights which man acquires by his own work, there exist rights which do not correspond to any work he performs, but which flow from his essential dignity as a person.
 
-**II. TOWARDS THE "NEW THINGS" OF TODAY**
+## II. Towards the "New Things" of Today
 
 12\. The commemoration of *Rerum novarum* would be incomplete unless reference were also made to the situation of the world today. The document lends itself to such a reference, because the historical picture and the prognosis which it suggests have proved to be surprisingly accurate in the light of what has happened since then. ^jpii-ca-12
 
@@ -199,7 +181,7 @@ Given this situation, many think that Marxism can offer a sort of short-cut for 
 
 While noting this process with satisfaction, nevertheless one cannot ignore the fact that the overall balance of the various policies of aid for development has not always been positive. The United Nations, moreover, has not yet succeeded in establishing, as alternatives to war, effective means for the resolution of international conflicts. This seems to be the most urgent problem which the international community has yet to resolve.
 
-**III. THE YEAR 1989**
+## III. The Year 1989
 
 22\. It is on the basis of the world situation just described, and already elaborated in the Encyclical *Sollicitudo rei socialis,* that the unexpected and promising significance of the events of recent years can be understood. Although they certainly reached their climax in 1989 in the countries of Central and Eastern Europe, they embrace a longer period of time and a wider geographical area. In the course of the 80s, certain dictatorial and oppressive regimes fell one by one in some countries of Latin America and also of Africa and Asia. In other cases there began a difficult but productive transition towards more participatory and more just political structures. An important, even decisive, contribution was made by *the Church's commitment to defend and promote human rights.* In situations strongly influenced by ideology, in which polarization obscured the awareness of a human dignity common to all, the Church affirmed clearly and forcefully that every individual — whatever his or her personal convictions — bears the image of God and therefore deserves respect. Often, the vast majority of people identified themselves with this kind of affirmation, and this led to a search for forms of protest and for political solutions more respectful of the dignity of the person. ^jpii-ca-22
 
@@ -255,7 +237,7 @@ This need, however, must not lead to a slackening of efforts to sustain and assi
 
 *c*) because in some countries new forms of religious fundamentalism are emerging which covertly, or even openly, deny to citizens of faiths other than that of the majority the full exercise of their civil and religious rights, preventing them from taking part in the cultural process, and restricting both the Church's right to preach the Gospel and the rights of those who hear this preaching to accept it and to be converted to Christ. No authentic progress is possible without respect for the natural and fundamental right to know the truth and live according to that truth. The exercise and development of this right includes the right to discover and freely to accept Jesus Christ, who is man's true good.64
 
-**IV. PRIVATE PROPERTY AND THE UNIVERSAL DESTINATION OF MATERIAL GOODS**
+## IV. Private Property and The Universal Destination Of Material Goods
 
 30\. In *Rerum novarum,* Leo XIII strongly affirmed the natural character of the right to private property, using various arguments against the socialism of his time.65 This right, which is fundamental for the autonomy and development of the person, has always been defended by the Church up to our own day. At the same time, the Church teaches that the possession of material goods is not an absolute right, and that its limits are inscribed in its very nature as a human right. ^jpii-ca-30
 
@@ -353,7 +335,7 @@ In the light of today's "new things", we have re-read *the relationship between 
 
 The obligation to earn one's bread by the sweat of one's brow also presumes the right to do so. A society in which this right is systematically denied, in which economic policies do not allow workers to reach satisfactory levels of employment, cannot be justified from an ethical point of view, nor can that society attain social peace.88 Just as the person fully realizes himself in the free gift of self, so too ownership morally justifies itself in the creation, at the proper time and in the proper way, of opportunities for work and human growth for all.
 
-# V. State and Culture
+## V. State and Culture
 
 44\. Pope Leo XIII was aware of the need for a sound *theory of the State* in order to ensure the normal development of man's spiritual and temporal activities, both of which are indispensable.89 For this reason, in one passage of *Rerum novarum* he presents the organization of society according to the three powers — legislative, executive and judicial —, something which at the time represented a novelty in Church teaching.90 Such an ordering reflects a realistic vision of man's social nature, which calls for legislation capable of protecting the freedom of all. To that end, it is preferable that each power be balanced by other powers and by other spheres of responsibility which keep it within proper bounds. This is the principle of the "rule of law", in which the law is sovereign, and not the arbitrary will of individuals. ^jpii-ca-44
 
@@ -407,7 +389,7 @@ For this reason, another name for peace is *development*.105 Just as there is a 
 
 This may mean making important changes in established life-styles, in order to limit the waste of environmental and human resources, thus enabling every individual and all the peoples of the earth to have a sufficient share of those resources. In addition, the new material and spiritual resources must be utilized which are the result of the work and culture of peoples who today are on the margins of the international community, so as to obtain an overall human enrichment of the family of nations.
 
-# Vi. Man Is the Way of the Church
+## VI. Man Is the Way of the Church
 
 53\. Faced with the poverty of the working class, Pope Leo XIII wrote: "We approach this subject with confidence, and in the exercise of the rights which manifestly pertain to us... By keeping silence we would seem to neglect the duty incumbent on us".107 During the last hundred years the Church has repeatedly expressed her thinking, while closely following the continuing development of the social question. She has certainly not done this in order to recover former privileges or to impose her own vision. Her sole purpose has been *care and responsibility* for man, who has been entrusted to her by Christ himself: for *this man,* whom, as the Second Vatican Council recalls, is the only creature on earth which God willed for its own sake, and for which God has his plan, that is, a share in eternal salvation. We are not dealing here with man in the "abstract", but with the real, "concrete", "historical" man. We are dealing with *each individual,* since each one is included in the mystery of Redemption, and through this mystery Christ has united himself with each one for ever.108 It follows that the Church cannot abandon man, and that *"this man* is the primary route that the Church must travel in fulfilling her mission... the way traced out by Christ himself, the way that leads invariably through the mystery of the Incarnation and the Redemption".109 ^jpii-ca-53
 
@@ -468,6 +450,8 @@ Mary, the Mother of the Redeemer, constantly remained beside Christ in his journ
 **JOHN PAUL II**
 
 ---
+
+## Notes
 
 **[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. Leo XIII, Encyclical Letter *Rerum Novarum* (May 15, 1891): *Leonis XIII P.M. Acta*, XI, Romae 1892, 97-144.
 

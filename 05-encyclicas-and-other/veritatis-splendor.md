@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Letter Veritatis Splendor, 6 August 1993
 abbreviation: jpii-vs
@@ -23,17 +23,15 @@ IOANNES PAULUS PP. II
 
 ***
 
-***Blessing***
+*Blessing*
 
-*Venerable Brothers in the Episcopate,
-
-Health and the Apostolic Blessing!*
+Venerable Brothers in the Episcopate, Health and the Apostolic Blessing!
 
 The splendour of truth shines forth in all the works of the Creator and, in a special way, in man, created in the image and likeness of God (cf. *Gen* 1:26). Truth enlightens man's intelligence and shapes his freedom, leading him to know and love the Lord. Hence the Psalmist prays: "Let the light of your face shine on us, O Lord" (*Ps* 4:6).
 
 ## Introduction
 
-### *Jesus Christ, the True Light That Enlightens everyone*
+### Jesus Christ, the True Light That Enlightens Everyone
 
 1\. Called to salvation through faith in Jesus Christ, "the true light that enlightens everyone" (*Jn* 1:9), people become "light in the Lord" and "children of light" (*Eph* 5:8), and are made holy by "obedience to the truth" (1 *Pet* 1:22). ^jpii-vs-1
 
@@ -51,7 +49,7 @@ Jesus Christ, the "light of the nations", shines upon the face of his Church, wh
 
 The Church knows that the issue of morality is one which deeply touches every person; it involves all people, even those who do not know Christ and his Gospel or God himself. She knows that it is precisely *on the path of the moral life that the way of salvation is open to all.* The Second Vatican Council clearly recalled this when it stated that "those who without any fault do not know anything about Christ or his Church, yet who search for God with a sincere heart and under the influence of grace, try to put into effect the will of God as known to them through the dictate of conscience... can obtain eternal salvation". The Council added: "Nor does divine Providence deny the helps that are necessary for salvation to those who, through no fault of their own, have not yet attained to the express recognition of God, yet who strive, not without divine grace, to lead an upright life. For whatever goodness and truth is found in them is considered by the Church as a preparation for the Gospel and bestowed by him who enlightens everyone that they may in the end have life".7
 
-### ***The Purpose of the Present Encyclical***
+### The Purpose of the Present Encyclical
 
 4\. At all times, but particularly in the last two centuries, the Popes, whether individually or together with the College of Bishops, have developed and proposed a moral teaching regarding the *many different spheres of human life.* In Christ's name and with his authority they have exhorted, passed judgment and explained. In their efforts on behalf of humanity, in fidelity to their mission, they have confirmed, supported and consoled. With the guarantee of assistance from the Spirit of truth they have contributed to a better understanding of moral demands in the areas of human sexuality, the family, and social, economic and political life. In the tradition of the Church and in the history of humanity, their teaching represents a constant deepening of knowledge with regard to morality.8 ^jpii-vs-4
 
@@ -65,9 +63,9 @@ I address myself to you, Venerable Brothers in the Episcopate, who share with me
 
 If this Encyclical, so long awaited, is being published only now, one of the reasons is that it seemed fitting for it to be preceded by the *Catechism of the Catholic Church,* which contains a complete and systematic exposition of Christian moral teaching. The Catechism presents the moral life of believers in its fundamental elements and in its many aspects as the life of the "children of God": "Recognizing in the faith their new dignity, Christians are called to lead henceforth a life 'worthy of the Gospel of Christ' (*Phil* 1:27). Through the sacraments and prayer they receive the grace of Christ and the gifts of his Spirit which make them capable of such a life".10 Consequently, while referring back to the Catechism "as a sure and authentic reference text for teaching Catholic doctrine",11 the Encyclical will limit itself to dealing with *certain fundamental questions regarding the Church's moral teaching,* taking the form of a necessary discernment about issues being debated by ethicists and moral theologians. The specific purpose of the present Encyclical is this: to set forth, with regard to the problems being discussed, the principles of a moral teaching based upon Sacred Scripture and the living Apostolic Tradition,12 and at the same time to shed light on the presuppositions and consequences of the dissent which that teaching has met.
 
-## Chapter I - "TEACHER, What Good Must I Do...? " *(Mt 19:16)* - Christ and the Answer to the Question About Morality
+## Chapter I – "Teacher, What Good Must I Do...? " (Mt 19:16) - Christ and the Answer to the Question About Morality
 
-### *"Someone Came to him..."* (*Mt* 19:16)
+### "Someone Came to Him..." (Mt 19:16)
 
 6\. *The dialogue of Jesus with the rich young man,* related in the nineteenth chapter of Saint Matthew's Gospel, can serve as a useful guide *for listening once more* in a lively and direct way to his moral teaching: "Then someone came to him and said, 'Teacher, what good must I do to have eternal life?' And he said to him, 'Why do you ask me about what is good? There is only one who is good. If you wish to enter into life, keep the commandments. 'He said to him, 'Which ones?' And Jesus said, 'You shall not murder; You shall not commit adultery; You shall not steal; You shall not bear false witness; Honour your father and mother; also, You shall love your neighbour as yourself.' The young man said to him, 'I have kept all these; what do I still lack?' Jesus said to him, 'If you wish to be perfect, go, sell your possessions and give the money to the poor, and you will have treasure in heaven; then come, follow me' " (*Mt* 19:16-21).13 ^jpii-vs-6
 
@@ -75,7 +73,7 @@ If this Encyclical, so long awaited, is being published only now, one of the rea
 
 *In order to make this "encounter" with Christ possible, God willed his Church.* Indeed, the Church "wishes to serve this single end: that each person may be able to find Christ, in order that Christ may walk with each person the path of life".15
 
-### *"Teacher, What Good Must I Do to Have Eternal life?"* (*Mt* 19:16)
+### "Teacher, What Good Must I Do to Have Eternal Life?" (Mt 19:16)
 
 8\. The question which the rich young man puts to Jesus of Nazareth is one which rises from the depths of his heart. It is *an essential and unavoidable question for the life of every man,* for it is about the moral good which must be done, and about eternal life. The young man senses that there is a connection between moral good and the fulfilment of his own destiny. He is a devout Israelite, raised as it were in the shadow of the Law of the Lord. If he asks Jesus this question, we can presume that it is not because he is ignorant of the answer contained in the Law. It is more likely that the attractiveness of the person of Jesus had prompted within him new questions about moral good. He feels the need to draw near to the One who had begun his preaching with this new and decisive proclamation: "The time is fulfilled, and the Kingdom of God is at hand; repent, and believe in the Gospel" (*Mk* 1:15). ^jpii-vs-8
 
@@ -83,7 +81,7 @@ If this Encyclical, so long awaited, is being published only now, one of the rea
 
 If we therefore wish to go to the heart of the Gospel's moral teaching and grasp its profound and unchanging content, we must carefully inquire into the meaning of the question asked by the rich young man in the Gospel and, even more, the meaning of Jesus' reply, allowing ourselves to be guided by him. Jesus, as a patient and sensitive teacher, answers the young man by taking him, as it were, by the hand, and leading him step by step to the full truth.
 
-### *"There Is Only One Who Is good"* (*Mt* 19:17)
+### "There is Only One Who is Good" (Mt 19:17)
 
 9\. Jesus says: "Why do you ask me about what is good? There is only one who is good. If you wish to enter into life, keep the commandments" (*Mt* 19:17). In the versions of the Evangelists Mark and Luke the question is phrased in this way: "Why do you call me good? No one is good but God alone" (*Mk* 10:18; cf. *Lk* 18:19). ^jpii-vs-9
 
@@ -101,7 +99,7 @@ Before answering the question, Jesus wishes the young man to have a clear idea o
 
 But if God alone is the Good, no human effort, not even the most rigorous observance of the commandments, succeeds in "fulfilling" the Law, that is, acknowledging the Lord as God and rendering him the worship due to him alone (cf. *Mt* 4:10). *This "fulfilment" can come only from a gift of God:* the offer of a share in the divine Goodness revealed and communicated in Jesus, the one whom the rich young man addresses with the words "Good Teacher" (*Mk* 10:17; Lk 18:18). What the young man now perhaps only dimly perceives will in the end be fully revealed by Jesus himself in the invitation: "Come, follow me" (*Mt* 19:21).
 
-### *"If You Wish to Enter into Life, Keep the commandments"* (*Mt* 19:17)
+### "If You Wish to Enter Into Life, Keep the Commandments" (Mt 19:17)
 
 12\. Only God can answer the question about the good, because he is the Good. But God has already given an answer to this question: he did so *by creating man and ordering him* with wisdom and love to his final end, through the law which is inscribed in his heart (cf. *Rom* 2:15), the "natural law". The latter "is nothing other than the light of understanding infused in us by God, whereby we understand what must be done and what must be avoided. God gave this light and this law to man at creation".19 He also did so *in the history of Israel,* particularly in the "ten words", the *commandments of Sinai,* whereby he brought into existence the people of the Covenant (cf. *Ex* 24) and called them to be his "own possession among all peoples", "a holy nation" (*Ex* 19:5-6), which would radiate his holiness to all peoples (cf. *Wis* 18:4; Ez 20:41). The gift of the Decalogue was a promise and sign of the *New Covenant,* in which the law would be written in a new and definitive way upon the human heart (cf. *Jer* 31:31-34), replacing the law of sin which had disfigured that heart (cf. Jer 17:1). In those days, "a new heart" would be given, for in it would dwell "a new spirit", the Spirit of God (cf. *Ez* 36:24-28).20 ^jpii-vs-12
 
@@ -125,7 +123,7 @@ Both the Old and the New Testaments explicitly affirm that *without love of neig
 
 *Jesus brings God's commandments to fulfilment,* particularly the commandment of love of neighbour, *by interiorizing their demands and by bringing out their fullest meaning.* Love of neighbour springs from *a loving heart* which, precisely because it loves, is ready to live out *the loftiest challenges.* Jesus shows that the commandments must not be understood as a minimum limit not to be gone beyond, but rather as a path involving a moral and spiritual journey towards perfection, at the heart of which is love (cf. *Col* 3:14). Thus the commandment "You shall not murder" becomes a call to an attentive love which protects and promotes the life of one's neighbour. The precept prohibiting adultery becomes an invitation to a pure way of looking at others, capable of respecting the spousal meaning of the body: "You have heard that it was said to the men of old, *'You shall not kill;* and whoever kills shall be liable to judgment'. *But I say to you* that every one who is angry with his brother shall be liable to judgment... You have heard that it was said, *'You shall not commit adultery'. But I say to you* that every one who looks at a woman lustfully has already committed adultery with her in his heart" (*Mt* 5:21-22, 27-28). *Jesus himself is the living "fulfilment" of the Law* inasmuch as he fulfils its authentic meaning by the total gift of himself: *he himself becomes a living and personal Law,* who invites people to follow him; through the Spirit, he gives the grace to share his own life and love and provides the strength to bear witness to that love in personal choices and actions (cf. *Jn* 13:34-35).
 
-### *"If You Wish to Be perfect"* (*Mt* 19:21)
+### "If You Wish to Be Perfect" (Mt 19:21)
 
 16\. The answer he receives about the commandments does not satisfy the young man, who asks Jesus a further question. "I have kept all these; *what do I still lack? "* (*Mt* 19:20). It is not easy to say with a clear conscience "I have kept all these", if one has any understanding of the real meaning of the demands contained in God's Law. And yet, even though he is able to make this reply, even though he has followed the moral ideal seriously and generously from childhood, the rich young man knows that he is still far from the goal: before the person of Jesus he realizes that he is still lacking something. It is his awareness of this insufficiency that Jesus addresses in his final answer. Conscious of *the young man's yearning for something greater, which would transcend a legalistic interpretation of the commandments,* the Good Teacher invites him to enter upon the path of perfection: "If you wish to be perfect, go, sell your possessions and give the money to the poor, and you will have treasure in heaven; then come, follow me" (*Mt* 19:21). ^jpii-vs-16
 
@@ -141,7 +139,7 @@ Like the earlier part of Jesus' answer, this part too must be read and interpret
 
 This vocation to perfect love is not restricted to a small group of individuals. *The invitation,* "go, sell your possessions and give the money to the poor", and the promise "you will have treasure in heaven", *are meant for everyone,* because they bring out the full meaning of the commandment of love for neighbour, just as the invitation which follows, "Come, follow me", is the new, specific form of the commandment of love of God. Both the commandments and Jesus' invitation to the rich young man stand at the service of a single and indivisible charity, which spontaneously tends towards that perfection whose measure is God alone: "You, therefore, must be perfect, as your heavenly Father is perfect" (*Mt* 5:48). In the Gospel of Luke, Jesus makes even clearer the meaning of this perfection: "Be merciful, even as your Father is merciful" (*Lk* 6:36).
 
-### *"Come, Follow me"* (*Mt* 19:21)
+### "Come, Follow Me" (Mt 19:21)
 
 19\. The way and at the same time the content of this perfection consist in the following of Jesus, *sequela Christi,* once one has given up one's own wealth and very self. This is precisely the conclusion of Jesus' conversation with the young man: "Come, follow me" (*Mt* 19:21). It is an invitation the marvellous grandeur of which will be fully perceived by the disciples after Christ's Resurrection, when the Holy Spirit leads them to all truth (cf. *Jn* 16:13). ^jpii-vs-19
 
@@ -159,7 +157,7 @@ As he calls the young man to follow him along the way of perfection, Jesus asks 
 
 Having become one with Christ, the Christian *becomes a member of his Body, which is the Church* (cf. *Cor* 12:13, 27). By the work of the Spirit, Baptism radically configures the faithful to Christ in the Paschal Mystery of death and resurrection; it "clothes him" in Christ (cf. *Gal* 3:27): "Let us rejoice and give thanks", exclaims Saint Augustine speaking to the baptized, "for we have become not only Christians, but Christ (...). Marvel and rejoice: we have become Christ! ".28 Having died to sin, those who are baptized receive new life (cf. *Rom* 6:3-11): alive for God in Christ Jesus, they are called to walk by the Spirit and to manifest the Spirit's fruits in their lives (cf. *Gal* 5:16-25). Sharing in the *Eucharist,* the sacrament of the New Covenant (cf. 1 *Cor* 11:23-29), is the culmination of our assimilation to Christ, the source of "eternal life" (cf. *Jn* 6:51-58), the source and power of that complete gift of self, which Jesus — according to the testimony handed on by Paul — commands us to commemorate in liturgy and in life: "As often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes" (1 *Cor* 11:26).
 
-### *"With God All Things Are possible"* (*Mt* 19:26)
+### "With God All Things Are Possible" (Mt 19:26)
 
 22\. The conclusion of Jesus' conversation with the rich young man is very poignant: "When the young man heard this, he went away sorrowful, for he had many possessions" (*Mt* 19:22). Not only the rich man but the disciples themselves are taken aback by Jesus' call to discipleship, the demands of which transcend human aspirations and abilities: "When the disciples heard this, they were greatly astounded and said, "Then who can be saved?' " (*Mt* 19:25). *But the Master refers them to God's power:* "With men this is impossible, but with God all things are possible" (*Mt* 19:26). ^jpii-vs-22
 
@@ -179,7 +177,7 @@ This inseparable connection between the Lord's grace and human freedom, between 
 
 Going to the heart of the moral message of Jesus and the preaching of the Apostles, and summing up in a remarkable way the great tradition of the Fathers of the East and West, and of Saint Augustine in particular,32 Saint Thomas was able to write that *the New Law is the grace of the Holy Spirit given through faith in Christ*.33 The external precepts also mentioned in the Gospel dispose one for this grace or produce its effects in one's life. Indeed, the New Law is not content to say what must be done, but also gives the power to "do what is true" (cf. *Jn* 3:21). Saint John Chrysostom likewise observed that the New Law was promulgated at the descent of the Holy Spirit from heaven on the day of Pentecost, and that the Apostles "did not come down from the mountain carrying, like Moses, tablets of stone in their hands; but they came down carrying the Holy Spirit in their hearts... having become by his grace a living law, a living book".34
 
-### *"Lo, I Am with You Always, to the Close of the age"* (*Mt* 28:20)
+### "Lo, I Am with You Always, to the Close of the Age" (Mt 28:20)
 
 25\. Jesus' conversation with the rich young man continues, in a sense, *in every period of history, including our own.* The question: "Teacher, what good must I do to have eternal life?" arises in the heart of every individual, and it is Christ alone who is capable of giving the full and definitive answer. The Teacher who expounds God's commandments, who invites others to follow him and gives the grace for a new life, is always present and at work in our midst, as he himself promised: "Lo, I am with you always, to the close of the age" (*Mt* 28:20). *Christ's relevance for people of all times is shown forth in his body, which is the Church.* For this reason the Lord promised his disciples the Holy Spirit, who would "bring to their remembrance" and teach them to understand his commandments (cf. *Jn* 14:26), and who would be the principle and constant source of a new life in the world (cf. *Jn* 3:5-8; *Rom* 8:1-13). ^jpii-vs-25
 
@@ -197,9 +195,9 @@ In particular, as the Council affirms, *"the task of authentically interpreting 
 
 Precisely on the questions frequently debated in moral theology today and with regard to which new tendencies and theories have developed, the Magisterium, in fidelity to Jesus Christ and in continuity with the Church's tradition, senses more urgently the duty to offer its own discernment and teaching, in order to help man in his journey towards truth and freedom.
 
-## Chapter Ii - "DO Not Be Conformed to This WORLD" *(Rom 12:2)* - the Church and the Discernment of Certain Tendencies in Present-day Moral Theology
+## Chapter II – "Do Not Be Conformed to This World" (Rom 12:2) - the Church and the Discernment of Certain Tendencies in Present-Day Moral Theology
 
-### *Teaching What Befits Sound doctrine* (cf. *Tit* 2:1)
+### Teaching What Befits Sound Doctrine (Cf. Tit 2:1)
 
 28\. Our meditation on the dialogue between Jesus and the rich young man has enabled us to bring together the essential elements of Revelation in the Old and New Testament with regard to moral action. These are: *the subordination of man and his activity to God,* the One who "alone is good"; the *relationship* clearly indicated in the divine commandments, between *the moral good of human acts* and *eternal life; Christian discipleship,* which opens up before man the perspective of perfect love; and finally the *gift of the Holy Spirit,* source and means of the moral life of the "new creation" (cf. 2 *Cor* 5:17). ^jpii-vs-28
 
@@ -217,7 +215,7 @@ At the same time, however, within the context of the theological debates which f
 
 It is in the same light and power that *the Church's Magisterium continues to carry out its task of discernment,* accepting and living out the admonition addressed by the Apostle Paul to Timothy: "I charge you in the presence of God and of Christ Jesus who is to judge the living and the dead, and by his appearing and his kingdom: preach the word, be urgent in season and out of season, convince, rebuke, and exhort, be unfailing in patience and in teaching. For the time will come when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own likings, and will turn away from listening to the truth and wander into myths. As for you, always be steady, endure suffering, do the work of an evangelist, fulfil your ministry" (2 *Tim* 4:1-5; cf. *Tit* 1:10, 13-14).
 
-### *"You Will Know the Truth, and the Truth Will Make You free"* (*Jn* 8:32)
+### "You Will Know the Truth, and the Truth Will Make You Free" (Jn 8:32)
 
 31\. The human issues most frequently debated and differently resolved in contemporary moral reflection are all closely related, albeit in various ways, to a crucial issue: *human freedom.* ^jpii-vs-31
 
@@ -243,7 +241,7 @@ If we wish to undertake a critical discernment of these tendencies — a discern
 
 ### I. Freedom and Law
 
-#### *"Of The Tree of the Knowledge of Good and Evil You Shall Not eat"* (*Gen* 2:17)**
+#### "Of the Tree of the Knowledge of Good and Evil You Shall Not Eat" (Gen 2:17)
 
 35\. In the Book of Genesis we read: "The Lord God commanded the man, saying, 'You may eat freely of every tree of the garden; but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall die' " (*Gen* 2:16-17). ^jpii-vs-35
 
@@ -263,7 +261,7 @@ No one can fail to see that such an interpretation of the autonomy of human reas
 
 In such a context it is absolutely necessary to clarify, in the light of the word of God and the living Tradition of the Church, the fundamental notions of human freedom and of the moral law, as well as their profound and intimate relationship. Only thus will it be possible to respond to the rightful claims of human reason in a way which accepts the valid elements present in certain currents of contemporary moral theology without compromising the Church's heritage of moral teaching with ideas derived from an erroneous concept of autonomy.
 
-#### *"God Left Man in the Power of His Own counsel"* (*Sir* 15:14)
+#### "God Left Man in the Power of His Own Counsel" (Sir 15:14)
 
 38\. Taking up the words of Sirach, the Second Vatican Council explains the meaning of that "genuine freedom" which is "an outstanding manifestation of the divine image" in man: "God willed to leave man in the power of his own counsel, so that he would seek his Creator of his own accord and would freely arrive at full and blessed perfection by cleaving to God".64 These words indicate the wonderful depth of the *sharing in God's dominion* to which man has been called: they indicate that man's dominion extends in a certain sense over man himself. This has been a constantly recurring theme in theological reflection on human freedom, which is described as a form of kingship. For example, Saint Gregory of Nyssa writes: "The soul shows its royal and exalted character... in that it is free and self-governed, swayed autonomously by its own will. Of whom else can this be said, save a king?... Thus human nature, created to rule other creatures, was by its likeness to the King of the universe made as it were a living image, partaking with the Archetype both in dignity and in name".65 ^jpii-vs-38
 
@@ -279,7 +277,7 @@ Even so, the Council warns against a false concept of the autonomy of earthly re
 
 Others speak, and rightly so, of *theonomy,* or *participated theonomy,* since man's free obedience to God's law effectively implies that human reason and human will participate in God's wisdom and providence. By forbidding man to "eat of the tree of the knowledge of good and evil", God makes it clear that man does not originally possess such "knowledge" as something properly his own, but only participates in it by the light of natural reason and of Divine Revelation, which manifest to him the requirements and the promptings of eternal wisdom. Law must therefore be considered an expression of divine wisdom: by submitting to the law, freedom submits to the truth of creation. Consequently one must acknowledge in the freedom of the human person the image and the nearness of God, who is present in all (cf. *Eph* 4:6). But one must likewise acknowledge the majesty of the God of the universe and revere the holiness of the law of God, who is infinitely transcendent: *Deus semper maior*.74
 
-#### *Blessed Is the Man Who Takes Delight in the Law of the Lord* (cf. *Ps* 1:1-2)
+#### Blessed is the Man Who Takes Delight in the Law of the Lord (Cf. Ps 1:1-2)
 
 42\. Patterned on God's freedom, man's freedom is not negated by his obedience to the divine law; indeed, only through this obedience does it abide in the truth and conform to human dignity. This is clearly stated by the Council: "Human dignity requires man to act through conscious and free choice, as motivated and prompted personally from within, and not through blind internal impulse or merely external pressure. Man achieves such dignity when he frees himself from all subservience to his feelings, and in a free choice of the good, pursues his own end by effectively and assiduously marshalling the appropriate means".75 ^jpii-vs-42
 
@@ -297,7 +295,7 @@ Man is able to recognize good and evil thanks to that discernment of good from e
 
 Even if moral-theological reflection usually distinguishes between the positive or revealed law of God and the natural law, and, within the economy of salvation, between the "old" and the "new" law, it must not be forgotten that these and other useful distinctions always refer to that law whose author is the one and the same God and which is always meant for man. The different ways in which God, acting in history, cares for the world and for mankind are not mutually exclusive; on the contrary, they support each other and intersect. They have their origin and goal in the eternal, wise and loving counsel whereby God predestines men and women "to be conformed to the image of his Son" (*Rom* 8:29). God's plan poses no threat to man's genuine freedom; on the contrary, the acceptance of God's plan is the only way to affirm that freedom.
 
-#### *"What The Law Requires Is Written on Their hearts"* (*Rom* 2:15)
+#### "What the Law Requires is Written on Their Hearts" (Rom 2:15)
 
 46\. The alleged conflict between freedom and law is forcefully brought up once again today with regard to the natural law, and particularly with regard to nature. *Debates about nature and freedom* have always marked the history of moral reflection; they grew especially heated at the time of the Renaissance and the Reformation, as can be seen from the teaching of the Council of Trent.85 Our own age is marked, though in a different sense, by a similar tension. The penchant for empirical observation, the procedures of scientific objectification, technological progress and certain forms of liberalism have led to these two terms being set in opposition, as if a dialectic, if not an absolute conflict, between freedom and nature were characteristic of the structure of human history. At other periods, it seemed that "nature" subjected man totally to its own dynamics and even its own unbreakable laws. Today too, the situation of the world of the senses within space and time, physio-chemical constants, bodily processes, psychological impulses and forms of social conditioning seem to many people the only really decisive factors of human reality. In this context even moral facts, despite their specificity, are frequently treated as if they were statistically verifiable data, patterns of behaviour which can be subject to observation or explained exclusively in categories of psychosocial processes. As a result, *some ethicists,* professionally engaged in the study of human realities and behaviour, can be tempted to take as the standard for their discipline and even for its operative norms the results of a statistical study of concrete human behaviour patterns and the opinions about morality encountered in the majority of people. ^jpii-vs-46
 
@@ -317,7 +315,7 @@ This moral theory does not correspond to the truth about man and his freedom. It
 
 The natural law thus understood does not allow for any division between freedom and nature. Indeed, these two realities are harmoniously bound together, and each is intimately linked to the other.
 
-#### *"From The Beginning It Was Not so"* (*Mt* 19:8)
+#### "From the Beginning it Was Not So" (Mt 19:8)
 
 51\. The alleged conflict between freedom and nature also has repercussions on the interpretation of certain specific aspects of the natural law, especially its *universality and immutability.* "Where then are these rules written", Saint Augustine wondered, "except in the book of that light which is called truth? From thence every just law is transcribed and transferred to the heart of the man who works justice, not by wandering but by being, as it were, impressed upon it, just as the image from the ring passes over to the wax, and yet does not leave the ring".92 ^jpii-vs-51
 
@@ -337,9 +335,9 @@ It must certainly be admitted that man always exists in a particular culture, bu
 
 Certainly there is a need to seek out and to discover *the most adequate formulation* for universal and permanent moral norms in the light of different cultural contexts, a formulation most capable of ceaselessly expressing their historical relevance, of making them understood and of authentically interpreting their truth. This truth of the moral law — like that of the "deposit of faith" — unfolds down the centuries: the norms expressing that truth remain valid in their substance, but must be specified and determined *"eodem sensu eademque sententia* " 99 in the light of historical circumstances by the Church's Magisterium, whose decision is preceded and accompanied by the work of interpretation and formulation characteristic of the reason of individual believers and of theological reflection.100
 
-### Ii. Conscience and Truth
+### II. Conscience and Truth
 
-#### *Man's sanctuary*
+#### Man's Sanctuary
 
 54\. The relationship between man's freedom and God's law is most deeply lived out in the "heart" of the person, in his moral conscience. As the Second Vatican Council observed: "In the depths of his conscience man detects a law which he does not impose on himself, but which holds him to obedience. Always summoning him to love good and avoid evil, the voice of conscience can when necessary speak to his heart more specifically: 'do this, shun that'. For man has in his heart a law written by God. To obey it is the very dignity of man; according to it he will be judged (cf. *Rom* 2:14-16)".101 ^jpii-vs-54
 
@@ -353,7 +351,7 @@ In their desire to emphasize the "creative" character of conscience, certain aut
 
 No one can fail to realize that these approaches pose a challenge to the *very identity of the moral conscience* in relation to human freedom and God's law. Only the clarification made earlier with regard to the relationship, based on truth, between freedom and law makes possible a *discernment* concerning this "creative" understanding of conscience.
 
-#### *The Judgment of conscience*
+#### The Judgment of Conscience
 
 57\. The text of the Letter to the Romans which has helped us to grasp the essence of the natural law also indicates *the biblical understanding of conscience,* especially *in its specific connection with the law:* "When Gentiles who have not the law do by nature what the law requires, they are a law unto themselves, even though they do not have the law. They show that what the law requires is written on their hearts, while their conscience also bears witness and their conflicting thoughts accuse or perhaps excuse them" (*Rom* 2:14-15). ^jpii-vs-57
 
@@ -371,7 +369,7 @@ The judgment of conscience is a *practical judgment,* a judgment which makes kno
 
 Consequently *in the practical judgment of conscience,* which imposes on the person the obligation to perform a given act, *the link between freedom and truth is made manifest.* Precisely for this reason conscience expresses itself in acts of "judgment" which reflect the truth about the good, and not in arbitrary "decisions". The maturity and responsibility of these judgments — and, when all is said and done, of the individual who is their subject — are not measured by the liberation of the conscience from objective truth, in favour of an alleged autonomy in personal decisions, but, on the contrary, by an insistent search for truth and by allowing oneself to be guided by that truth in one's actions.
 
-#### *Seeking What Is True and good*
+#### Seeking What is True and Good
 
 62\. Conscience, as the judgment of an act, is not exempt from the possibility of error. As the Council puts it, "not infrequently conscience can be mistaken as a result of invincible ignorance, although it does not on that account forfeit its dignity; but this cannot be said when a man shows little concern for seeking what is true and good, and conscience gradually becomes almost blind from being accustomed to sin".107 In these brief words the Council sums up the doctrine which the Church down the centuries has developed with regard to the *erroneous conscience.* ^jpii-vs-62
 
@@ -389,9 +387,9 @@ Conscience, as the ultimate concrete judgment, compromises its dignity when it i
 
 Christians have a great help for the formation of conscience *in the Church and her Magisterium.* As the Council affirms: "In forming their consciences the Christian faithful must give careful attention to the sacred and certain teaching of the Church. For the Catholic Church is by the will of Christ the teacher of truth. Her charge is to announce and teach authentically that truth which is Christ, and at the same time with her authority to declare and confirm the principles of the moral order which derive from human nature itself ".111 It follows that the authority of the Church, when she pronounces on moral questions, in no way undermines the freedom of conscience of Christians. This is so not only because freedom of conscience is never freedom "from" the truth but always and only freedom "in" the truth, but also because the Magisterium does not bring to the Christian conscience truths which are extraneous to it; rather it brings to light the truths which it ought already to possess, developing them from the starting point of the primordial act of faith. The Church puts herself always and only at the *service of conscience,* helping it to avoid being tossed to and fro by every wind of doctrine proposed by human deceit (cf. *Eph* 4:14), and helping it not to swerve from the truth about the good of man, but rather, especially in more difficult questions, to attain the truth with certainty and to abide in it.
 
-### Iii. Fundamental Choice and Specific Kinds of Behaviour
+### III. Fundamental Choice and Specific Kinds of Behaviour
 
-#### *"Only Do Not Use Your Freedom as an Opportunity for the flesh* " (*Gal* 5:13)
+#### "Only Do Not Use Your Freedom as an Opportunity for the Flesh " (Gal 5:13)
 
 65\. The heightened concern for freedom in our own day has led many students of the behavioural and the theological sciences to develop a more penetrating analysis of its nature and of its dynamics. It has been rightly pointed out that freedom is not only the choice for one or another particular action; it is also, within that choice, a *decision about oneself* and a setting of one's own life for or against the Good, for or against the Truth, and ultimately for or against God. Emphasis has rightly been placed on the importance of certain choices which "shape" a person's entire moral life, and which serve as bounds within which other particular everyday choices can be situated and allowed to develop. ^jpii-vs-65
 
@@ -411,7 +409,7 @@ To separate the fundamental option from concrete kinds of behaviour means to con
 
 In point of fact, man does not suffer perdition only by being unfaithful to that fundamental option whereby he has made "a free self-commitment to God".113 With every freely committed mortal sin, he offends God as the giver of the law and as a result becomes guilty with regard to the entire law (cf. *Jas* 2:8-11); even if he perseveres in faith, he loses "sanctifying grace", "charity" and "eternal happiness".114 As the Council of Trent teaches, "the grace of justification once received is lost not only by apostasy, by which faith itself is lost, but also by any other mortal sin".115
 
-#### *Mortal And Venial sin*
+#### Mortal and Venial Sin
 
 69\. As we have just seen, reflection on the fundamental option has also led some theologians to undertake a basic revision of the traditional distinction between *mortal* sins and *venial* sins. They insist that the opposition to God's law which causes the loss of sanctifying grace — and eternal damnation, when one dies in such a state of sin — could only be the result of an act which engages the person in his totality: in other words, an act of fundamental option. According to these theologians, mortal sin, which separates man from God, only exists in the rejection of God, carried out at a level of freedom which is neither to be identified with an act of choice nor capable of becoming the object of conscious awareness. Consequently, they go on to say, it is difficult, at least psychologically, to accept the fact that a Christian, who wishes to remain united to Jesus Christ and to his Church, could so easily and repeatedly commit mortal sins, as the "matter" itself of his actions would sometimes indicate. Likewise, it would be hard to accept that man is able, in a brief lapse of time, to sever radically the bond of communion with God and afterwards be converted to him by sincere repentance. The gravity of sin, they maintain, ought to be measured by the degree of engagement of the freedom of the person performing an act, rather than by the matter of that act. ^jpii-vs-69
 
@@ -421,9 +419,9 @@ The statement of the Council of Trent does not only consider the "grave matter" 
 
 The separation of fundamental option from deliberate choices of particular kinds of behaviour, disordered in themselves or in their circumstances, which would not engage that option, thus involves a denial of Catholic doctrine on *mortal sin:* "With the whole tradition of the Church, we call mortal sin the act by which man freely and consciously rejects God, his law, the covenant of love that God offers, preferring to turn in on himself or to some created and finite reality, something contrary to the divine will (*conversio ad creaturam*). This can occur in a direct and formal way, in the sins of idolatry, apostasy and atheism; or in an equivalent way, as in every act of disobedience to God's commandments in a grave matter".118
 
-### Iv. the Moral Act
+### IV. The Moral Act
 
-#### *Teleology And teleologism*
+#### Teleology and Teleologism
 
 71\. The relationship between man's freedom and God's law, which has its intimate and living centre in the moral conscience, is manifested and realized in human acts. It is precisely through his acts that man attains perfection as man, as one who is called to seek his Creator of his own accord and freely to arrive at full and blessed perfection by cleaving to him.119 ^jpii-vs-71
 
@@ -455,7 +453,7 @@ The evaluation of the consequences of the action, based on the proportion betwee
 
 In this view, deliberate consent to certain kinds of behaviour declared illicit by traditional moral theology would not imply an objective moral evil.
 
-#### *The Object of the Deliberate act*
+#### The Object of the Deliberate Act
 
 76\. These theories can gain a certain persuasive force from their affinity to the scientific mentality, which is rightly concerned with ordering technical and economic activities on the basis of a calculation of resources and profits, procedures and their effects. They seek to provide liberation from the constraints of a voluntaristic and arbitrary morality of obligation which would ultimately be dehumanizing. ^jpii-vs-76
 
@@ -469,7 +467,7 @@ Moreover, everyone recognizes the difficulty, or rather the impossibility, of ev
 
 The reason why a good intention is not itself sufficient, but a correct choice of actions is also needed, is that the human act depends on its object, whether that object is *capable or not of being ordered* to God, to the One who "alone is good", and thus brings about the perfection of the person. An act is therefore good if its object is in conformity with the good of the person with respect for the goods morally relevant for him. Christian ethics, which pays particular attention to the moral object, does not refuse to consider the inner "teleology" of acting, inasmuch as it is directed to promoting the true good of the person; but it recognizes that it is really pursued only when the essential elements of human nature are respected. The human act, good according to its object, is also *capable of being ordered* to its ultimate end. That same act then attains its ultimate and decisive perfection when the will *actually does order* it to God through charity. As the Patron of moral theologians and confessors teaches: "It is not enough to do good works; they need to be done well. For our works to be good and perfect, they must be done for the sole purpose of pleasing God".129
 
-#### *"Intrinsic evil": It Is Not Licit to Do Evil That Good May Come of it* (cf. *Rom* 3:8)
+#### "Intrinsic Evil": it is Not Licit to Do Evil That Good May Come of it (Cf. Rom 3:8)
 
 79\. *One must therefore reject the thesis,* characteristic of teleological and proportionalist theories, *which holds that it is impossible to qualify as morally evil according to its species* — its "object" — *the deliberate choice of certain kinds of behaviour or specific acts, apart from a consideration of the intention for which the choice is made or the totality of the foreseeable consequences of that act for all persons concerned.* ^jpii-vs-79
 
@@ -493,9 +491,9 @@ The doctrine of the object as a source of morality represents an authentic expli
 
 Dear Brothers in the Episcopate, we must not be content merely to warn the faithful about the errors and dangers of certain ethical theories. We must first of all show the inviting splendour of that truth which is Jesus Christ himself. In him, who is the Truth (cf. *Jn* 14:6), man can understand fully and live perfectly, through his good actions, his vocation to freedom in obedience to the divine law summarized in the commandment of love of God and neighbour. And this is what takes place through the gift of the Holy Spirit, the Spirit of truth, of freedom and of love: in him we are enabled to interiorize the law, to receive it and to live it as the motivating force of true personal freedom: "the perfect law, the law of liberty" (*Jas* 1:25).
 
-## Chapter Iii - "LEST the Cross of Christ Be Emptied of Its Power *(1 Cor 1:17)* - Moral Good for the Life of the Church and of the World
+## Chapter III – "Lest the Cross of Christ Be Emptied of its Power (1 Cor 1:17) - Moral Good for the Life of the Church and of the World
 
-### *"For Freedom Christ Has Set Us free"* (*Gal* 5:1)
+### "For Freedom Christ Has Set Us Free" (Gal 5:1)
 
 84\. The *fundamental question* which the moral theories mentioned above pose in a particularly forceful way is that of the relationship of man's freedom to God's law; it is ultimately the question of the *relationship between freedom and truth.* ^jpii-vs-84
 
@@ -517,7 +515,7 @@ The Church, and each of her members, is thus called to share in the *munus regal
 
 Jesus, then, is the living, personal summation of perfect freedom in total obedience to the will of God. His crucified flesh fully reveals the unbreakable bond between freedom and truth, just as his Resurrection from the dead is the supreme exaltation of the fruitfulness and saving power of a freedom lived out in truth.
 
-### *Walking In the light* (cf. 1 *Jn* 1:7)
+### Walking in the Light (Cf. 1 Jn 1:7)
 
 88\. The attempt to set freedom in opposition to truth, and indeed to separate them radically, is the consequence, manifestation and consummation of *another more serious and destructive dichotomy, that which separates faith from morality.* ^jpii-vs-88
 
@@ -531,7 +529,7 @@ It is urgent to rediscover and to set forth once more the authentic reality of t
 
 Through the moral life, faith becomes "confession", not only before God but also before men: it becomes *witness.* "You are the light of the world", said Jesus; "a city set on a hill cannot be hid. Nor do men light a lamp and put it under a bushel, but on a stand, and it gives light to all in the house. Let your light so shine before men, that they may see your good works and give glory to your Father who is in heaven" (*Mt* 5:14-16). These works are above all those of charity (cf. *Mt* 25:31-46) and of the authentic freedom which is manifested and lived in the gift of self, *even to the total gift of self,* like that of Jesus, who on the Cross "loved the Church and gave himself up for her" (*Eph* 5:25). Christ's witness is the source, model and means for the witness of his disciples, who are called to walk on the same road: "If any man would come after me, let him deny himself and take up his cross daily and follow me" (*Lk* 9:23). Charity, in conformity with the radical demands of the Gospel, can lead the believer to the supreme witness of *martyrdom.* Once again this means imitating Jesus who died on the Cross: "Be imitators of God, as beloved children", Paul writes to the Christians of Ephesus, "and walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God" (*Eph* 5:1-2).
 
-### *Martyrdom, The Exaltation of the Inviolable Holiness of God's law*
+### Martyrdom, the Exaltation of the Inviolable Holiness of God's Law
 
 90\. The relationship between faith and morality shines forth with all its brilliance in the *unconditional respect due to the insistent demands of the personal dignity of every man,* demands protected by those moral norms which prohibit without exception actions which are intrinsically evil. The universality and the immutability of the moral norm make manifest and at the same time serve to protect the personal dignity and inviolability of man, on whose face is reflected the splendour of God (cf. *Gen* 9:5-6). ^jpii-vs-90
 
@@ -555,7 +553,7 @@ Although martyrdom represents the high point of the witness to moral truth, and 
 
 94\. In this witness to the absoluteness of the moral good *Christians are not alone:* they are supported by the moral sense present in peoples and by the great religious and sapiential traditions of East and West, from which the interior and mysterious workings of God's Spirit are not absent. The words of the Latin poet Juvenal apply to all: "Consider it the greatest of crimes to prefer survival to honour and, out of love of physical life, to lose the very reason for living".147 The voice of conscience has always clearly recalled that there are truths and moral values for which one must be prepared to give up one's life. In an individual's words and above all in the sacrifice of his life for a moral value, the Church sees a single testimony to that truth which, already present in creation, shines forth in its fullness on the face of Christ. As Saint Justin put it, "the Stoics, at least in their teachings on ethics, demonstrated wisdom, thanks to the seed of the Word present in all peoples, and we know that those who followed their doctrines met with hatred and were killed".148 ^jpii-vs-94
 
-### *Universal And Unchanging Moral Norms at the Service of the Person and of society*
+### Universal and Unchanging Moral Norms at the Service of the Person and of Society
 
 95\. The Church's teaching, and in particular her firmness in defending the universal and permanent validity of the precepts prohibiting intrinsically evil acts, is not infrequently seen as the sign of an intolerable intransigence, particularly with regard to the enormously complex and conflict-filled situations present in the moral life of individuals and of society today; this intransigence is said to be in contrast with the Church's motherhood. The Church, one hears, is lacking in understanding and compassion. But the Church's motherhood can never in fact be separated from her teaching mission, which she must always carry out as the faithful Bride of Christ, who is the Truth in person. "As Teacher, she never tires of proclaiming the moral norm... The Church is in no way the author or the arbiter of this norm. In obedience to the truth which is Christ, whose image is reflected in the nature and dignity of the human person, the Church interprets the moral norm and proposes it to all people of good will, without concealing its demands of radicalness and perfection".149 ^jpii-vs-95
 
@@ -571,7 +569,7 @@ This service is directed to *every man,* considered in the uniqueness and singul
 
 These commandments are formulated in general terms. But the very fact that "the origin, the subject and the purpose of all social institutions is and should be the human person" 153 allows for them to be specified and made more explicit in a detailed code of behaviour. The fundamental moral rules of social life thus entail *specific demands* to which both public authorities and citizens are required to pay heed. Even though intentions may sometimes be good, and circumstances frequently difficult, civil authorities and particular individuals never have authority to violate the fundamental and inalienable rights of the human person. In the end, only a morality which acknowledges certain norms as valid always and for everyone, with no exception, can guarantee the ethical foundation of social coexistence, both on the national and international levels.
 
-### *Morality And the Renewal of Social and Political life*
+### Morality and the Renewal of Social and Political Life
 
 98\. In the face of serious forms of social and economic injustice and political corruption affecting entire peoples and nations, there is a growing reaction of indignation on the part of very many people whose fundamental human rights have been trampled upon and held in contempt, as well as an ever more widespread and acute sense of *the need for a radical* personal and social *renewal* capable of ensuring justice, solidarity, honesty and openness. ^jpii-vs-98
 
@@ -587,7 +585,7 @@ Consequently, the inseparable connection between truth and freedom — which exp
 
 Thus, in every sphere of personal, family, social and political life, morality — founded upon truth and open in truth to authentic freedom — renders a primordial, indispensable and immensely valuable service not only for the individual person and his growth in the good, but also for society and its genuine development.
 
-### *Grace And Obedience to God's law*
+### Grace and Obedience to God's Law
 
 102\. Even in the most difficult situations man must respect the norm of morality so that he can be obedient to God's holy commandment and consistent with his own dignity as a person. Certainly, maintaining a harmony between freedom and truth occasionally demands uncommon sacrifices, and must be won at a high price: it can even involve martyrdom. But, as universal and daily experience demonstrates, man is tempted to break that harmony: "I do not do what I want, but I do the very thing I hate... I do not do the good I want, but the evil I do not want" (*Rom* 7:15, 19). ^jpii-vs-102
 
@@ -609,7 +607,7 @@ Instead, we should take to heart the *message of the Gospel parable of the Phari
 
 We find the same awareness in the following prayer of Saint Ambrose of Milan: "What then is man, if you do not visit him? Remember, Lord, that you have made me as one who is weak, that you formed me from dust. How can I stand, if you do not constantly look upon me, to strengthen this clay, so that my strength may proceed from your face? *When you hide your face, all grows weak* (*Ps* 104:29): if you turn to look at me, woe is me! You have nothing to see in me but the stain of my crimes; there is no gain either in being abandoned or in being seen, because when we are seen, we offend you. Still, we can imagine that God does not reject those he sees, because he purifies those upon whom he gazes. Before him burns a fire capable of consuming our guilt (cf. *Joel* 2:3)".165
 
-### *Morality And New evangelization*
+### Morality and New Evangelization
 
 106\. Evangelization is the most powerful and stirring challenge which the Church has been called to face from her very beginning. Indeed, this challenge is posed not so much by the social and cultural milieux which she encounters in the course of history, as by the mandate of the Risen Christ, who defines the very reason for the Church's existence: "Go into all the world and preach the Gospel to the whole creation" (*Mk* 16:15). ^jpii-vs-106
 
@@ -625,7 +623,7 @@ The lives of the saints, as a reflection of the goodness of God — the One who 
 
 In the living context of this new evangelization, aimed at generating and nourishing "the faith which works through love" (cf. *Gal* 5:6), and in relation to the work of the Holy Spirit, we can now understand the proper place which *continuing theological reflection about the moral life* holds in the Church, the community of believers. We can likewise speak of the mission and the responsibility proper to moral theologians.
 
-### *The Service of Moral theologians*
+### The Service of Moral Theologians
 
 109\. The whole Church is called to evangelization and to the witness of a life of faith, by the fact that she has been made a sharer in the *munus propheticum* of the Lord Jesus through the gift of his Spirit. Thanks to the permanent presence of the Spirit of truth in the Church (cf. *Jn* 14:16-17), "the universal body of the faithful who have received the anointing of the holy one (cf. 1 *Jn* 2:20, 27) cannot be mistaken in belief. It displays this particular quality through a supernatural sense of the faith in the whole people when, 'from the Bishops to the last of the lay faithful ', it expresses the consensus of all in matters of faith and morals".169 ^jpii-vs-109
 
@@ -649,7 +647,7 @@ In fact, while the behavioural sciences, like all experimental sciences, develop
 
 While exchanges and conflicts of opinion may constitute normal expressions of public life in a representative democracy, moral teaching certainly cannot depend simply upon respect for a process: indeed, it is in no way established by following the rules and deliberative procedures typical of a democracy.*Dissent,* in the form of carefully orchestrated protests and polemics carried on in the media, *is opposed to ecclesial communion and to a correct understanding of the hierarchical constitution of the People of God.* Opposition to the teaching of the Church's Pastors cannot be seen as a legitimate expression either of Christian freedom or of the diversity of the Spirit's gifts. When this happens, the Church's Pastors have the duty to act in conformity with their apostolic mission, insisting that *the right of the faithful* to receive Catholic doctrine in its purity and integrity must always be respected. "Never forgetting that he too is a member of the People of God, the theologian must be respectful of them, and be committed to offering them a teaching which in no way does harm to the doctrine of the faith".177
 
-### *Our Own Responsibilities as Pastors*
+### Our Own Responsibilities as Pastors
 
 114\. As the Second Vatican Council reminds us, responsibility for the faith and the life of faith of the People of God is particularly incumbent upon the Church's Pastors: "Among the principal tasks of Bishops the preaching of the Gospel is pre-eminent. For the Bishops are the heralds of the faith who bring new disciples to Christ. They are authentic teachers, that is, teachers endowed with the authority of Christ, who preach to the people entrusted to them the faith to be believed and put into practice; they illustrate this faith in the light of the Holy Spirit, drawing out of the treasury of Revelation things old and new (cf. *Mt* 13:52); they make it bear fruit and they vigilantly ward off errors that are threatening their flock (cf. 2 *Tim* 4:1-4)".178 ^jpii-vs-114
 
@@ -677,7 +675,7 @@ Through the *anointing of the Spirit* this gentle but challenging word becomes l
 
 ## Conclusion
 
-### *Mary, Mother of Mercy*
+### Mary, Mother of Mercy
 
 118\. At the end of these considerations, let us entrust ourselves, the sufferings and the joys of our life, the moral life of believers and people of good will, and the research of moralists, to Mary, Mother of God and Mother of Mercy. ^jpii-vs-118
 

@@ -10,7 +10,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Letter Dominum et vivificantem (18 May 1986) On the Holy Spirit in the Life of the Church ¶ and the World
 abbreviation: jpii-dv
@@ -20,11 +20,9 @@ Ioannes Paulus PP. II
 
 # Dominum Et Vivificantem
 
-**On the Holy Spirit in the Life of the Church
+## On The Holy Spirit In The Life Of The Church and The World
 
-and the World**
-
-**INTRODUCTION**
+## Introduction
 
 *Venerable Brothers, Beloved Sons and Daughters,
 
@@ -48,7 +46,7 @@ The Church feels herself called to this mission of proclaiming the Spirit, while
 
 Naturally, the considerations that follow do not aim to explore exhaustively the extremely rich doctrine on the Holy Spirit, nor to favor any particular solution of questions which are still open. Their main purpose is to develop in the Church the awareness that "she is compelled by the Holy Spirit to do her part towards the full realization of the will of God, who has established Christ as the source of salvation for the whole world." 15
 
-**PART I - THE SPIRIT OF THE FATHER AND OF THE SON, GIVEN TO THE CHURCH**
+## Part I. The Spirit Of The Father and Of The Son Given to The Church
 
 ***1\. Jesus' Promise and Revelation at the Last Supper***
 
@@ -178,7 +176,7 @@ Following the guidance of the Spirit of truth and bearing witness together with 
 
 We read in the Pastoral Constitution: "For theirs (i.e., of the disciples of Christ) is a community composed of men. United in Christ, they are led by the Holy Spirit in their journey to the kingdom of their Father and they have welcomed the news of salvation which is meant for every man. That is why this community realizes that it is truly and intimately linked with mankind and its history." 99 "The Church truly knows that only God, whom she serves, meets the deepest longings of the human heart, which is never fully satisfied by what the world has to offer." 100 "God 's Spirit... with a marvelous providence directs the unfolding of time and renews the face of the earth." 101
 
-**PART II - THE SPIRIT WHO CONVINCES THE WORLD CONCERNING SIN**
+## Part II. The Spirit Who Convinces The World Concerning sin
 
 ***1\. Sin, Righteousness and Judgment***
 
@@ -320,7 +318,7 @@ Those who are converted, therefore, are led by the Holy Spirit out of the range 
 
 In this righteousness the Holy Spirit, the Spirit of the Father and the Son, who "convinces the world concerning sin," reveals himself and makes himself present in man as the Spirit of eternal life.
 
-**PART III - THE SPIRIT WHO GIVES LIFE**
+## Part III. The Spirit Who Gives Life
 
 ***1\. Reason for the Jubilee of the Year 2000: Christ Who Was Conceived of the Holy Spirit***
 
@@ -446,7 +444,7 @@ Thus one can understand the profound reason why the Church, united with the Virg
 
 In the time leading up to the third Millennium after Christ, while "the Spirit and the bride say to the Lord Jesus: Come!" this prayer of theirs is filled, as always, with an eschatological significance, which is also destined to give fullness of meaning to the celebration of the great Jubilee. It is a prayer concerned with the salvific destinies toward which the Holy Spirit by his action opens hearts throughout the history of man on earth. But at the same time this prayer is directed toward a precise moment of history which highlights the "fullness of time" marked by the year 2000. The Church wishes to prepare for this Jubilee in the Holy Spirit, just as the Virgin of Nazareth in whom the Word was made flesh was prepared by the Holy Spirit.
 
-**CONCLUSION**
+## Conclusion
 
 67\. We wish to bring to a close these considerations in the heart of the Church and in the heart of man. The way of the Church passes through the heart of man, because here is the hidden place of the salvific encounter with the Holy Spirit, with the hidden God, and precisely here the Holy Spirit becomes "a spring of water welling up to eternal life." 289 He comes here as the Spirit of truth and as the Paraclete, as he was promised by Christ. From here he acts as Counselor, Intercessor, Advocate, especially when man, when humanity find themselves before the judgment of condemnation by that "accuser" about whom the Book of Revelation says that "he accuses them day and night before our God." 290 "The Holy Spirit does not cease to be the guardian of hope in the human heart: the hope of all human creatures, and especially of those who "have the first fruits of the Spirit'' and "wait for the redemption of their bodies." 291 ^jpii-dv-67
 
@@ -465,6 +463,8 @@ Before him I kneel at the end of these considerations, and implore him, as the S
 Given in Rome, at St. Peter's, on May 18, the Solemnity of Pentecost, in the year 1986, the eighth of my Pontificate.
 
 ---
+
+## Notes
 
 **[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. Jn 7:37f.
 

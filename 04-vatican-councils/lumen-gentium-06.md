@@ -1,24 +1,24 @@
 ---
 type: magisterium
-title: Lumen Gentium
+title: Chapter VI - Religious - Lumen Gentium
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
-  - constitutions
-  - Lumen Gentium
+  - Chapter VI - Religious
   - lumen-gentium-06
 tags:
+  - author/catholic-church
   - graph/bible-v2
+  - type/magisterium
+  - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
-description: Lumen Gentium Chapter VI
+description: Chapter VI - Religious
 ---
 
-# Lumen Gentium
-
-## Chapter Vi - Religious
+# Chapter VI - Religious
 
 43\. The evangelical counsels of chastity dedicated to God, poverty and obedience are based upon the words and examples of the Lord. They were further commanded by the apostles and Fathers of the Church, as well as by the doctors and pastors of souls. The counsels are a divine gift, which the Church received from its Lord and which it always safeguards with the help of His grace. Church authority has the duty, under the inspiration of the Holy Spirit, of interpreting these evangelical counsels, of regulating their practice and finally to build on them stable forms of living. Thus it has come about, that, as if on a tree which has grown in the field of the Lord, various forms of solidarity and community life, as well as various religious families have branched out in a marvelous and multiple way from this divinely given seed. Such a multiple and miraculous growth augments both the progress of the members of these various religious families themselves and the welfare of the entire Body of Christ.(1\*) These religious families give their members the support of a more firm stability in their way of life and a proven doctrine of acquiring perfection. They further offer their members the support of fraternal association in the militia of Christ and of liberty strengthened by obedience. Thus these religious are able to tranquilly fulfill and faithfully observe their religious profession and so spiritually rejoicing make progress on the road of charity.(2\*)
 

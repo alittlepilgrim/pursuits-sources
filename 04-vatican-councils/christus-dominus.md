@@ -4,31 +4,22 @@ title: Christus Dominus
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html
 aliases:
+  - Christus Dominus
   - christus-dominus
 tags:
   - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Decree concerning the Pastoral Office of Bishops - Christus dominus
 abbreviation: cd
 ---
 
-DECREE CONCERNING
+# Christus Dominus
 
-THE PASTORAL OFFICE OF BISHOPS
-
-IN THE CHURCH
-
-***CHRISTUS DOMINUS***
-
-PROCLAIMED BY
-
-HIS HOLINESS, POPE PAUL VI
-
-ON OCTOBER 28, 1965
+## Decree Concerning The Pastoral Office Of Bishops In The Church Proclaimed by His Holiness Pope Paul Vi on October 28 1965
 
 # Preface
 
@@ -80,7 +71,7 @@ It is also desired that some bishops, too-especially diocesan bishops-will be ch
 
 Finally, the fathers of the council think it would be most advantageous if these same departments would listen more attentively to laymen who are outstanding for their virtue, knowledge, and experience. In such a way they will have an appropriate share in Church affairs.
 
-# Chapter Ii
+# Chapter II
 
 **BISHOPS AND THEIR PARTICULAR CHURCHES OR DIOCESES**
 
@@ -272,7 +263,7 @@ For those works of the apostolate which Religious are to undertake, bishops or e
 
 6\.) In order to foster harmonious and fruitful mutual relations between bishops and religious, at stated times and as often as it is deemed opportune, bishops and religious superiors should meet to discuss those affairs which pertain to the apostolate in their territory. ^cd-6
 
-# Chapter Iii
+# Chapter III
 
 **CONCERNING BISHOPS COOPERATING FOR THE COMMON GOOD OF MANY CHURCHES**
 
@@ -366,7 +357,7 @@ There should be prepared also a particular directory concerning the pastoral car
 
 8\. cf. Paul VI's allocution to the cardinals, prelates and various officials of the Roman curia, Sept. 21, 1963: A.A.S. 55 (1963) p. 793 ff. ^cd-ch1-8
 
-## Chapter Ii
+## Chapter II
 
 1\. cf. Second Vatican Council, Decree on Eastern Catholic Churches, Nov. 21, 1964, nos. 7-11 A.A.S. 57 (1965) p. 29 ff. ^cd-ch2-1
 
@@ -410,7 +401,7 @@ There should be prepared also a particular directory concerning the pastoral car
 
 21\. cf. Pius XII's allocution of Dec. 8, 1950, 1. c. ^cd-ch2-21
 
-## Chapter Iii
+## Chapter III
 
 1\. cf. Consistorial Congregation's Instruction to Military Ordinariates, April 23, 1951: A.A.S. 43 (1951) pp. 562-565; Formula Regarding the Conferring of the Status of Military Ordinariates, Oct. 20, 1956: A.A.S. 49 (1957) pp. 150-163; Decree on Ad Limina Visits of Military Ordinariates, Feb. 28, 1959: A.A.S. 51 (1959) pp. 272-274; Decree on the Granting of Faculties for Confessions to Military Chaplains, Nov. 27, 1960: A.A.S. 53 (1961) pp. 49-50. Also cf. Congregation of Religious' Instruction on Religious Military Chaplains, Feb. 2, 1955: A.A.S. 47 (1955) pp. 93-97. ^cd-ch3-1
 

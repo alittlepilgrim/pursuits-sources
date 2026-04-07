@@ -7,26 +7,26 @@ aliases:
   - Lumen Gentium Appendix
   - lumen-gentium-09
 tags:
+  - author/catholic-church
   - graph/bible-v2
+  - type/magisterium
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Lumen Gentium
 ---
 
 # Lumen Gentium Appendix
 
-## Appendix
+From the Acts of the Council
 
-From the Acts of the Council***
-
-***'NOTIFICATIONES' GIVEN BY THE SECRETARY GENERAL
+NOTIFICATIONES GIVEN BY THE SECRETARY GENERAL
 
 OF THE COUNCIL AT THE 123rd GENERAL CONGREGATION,
 
-NOVEMBER 16, 1964***
+NOVEMBER 16, 1964
 
 A question has arisen regarding the precise theological note which should be attached to the doctrine that is set forth in the Schema de Ecclesia and is being put to a vote.
 

@@ -1,35 +1,26 @@
 ---
 type: magisterium
-title: Lumen Gentium
+title: Chapter I – The Mystery of the Church -  Lumen Gentium
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
+  - Chapter I – The Mystery of the Church -  Lumen Gentium
   - constitutions
-  - Lumen Gentium
   - lumen-gentium-01
 tags:
+  - author/catholic-church
   - graph/bible-v2
+  - type/magisterium
+  - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
-description: Lumen Gentium
+description: Chapter I – The Mystery of the Church -  Lumen Gentium
 abbreviation: lg
 ---
 
-# Lumen Gentium
-
-DOGMATIC CONSTITUTION ON THE CHURCH
-
-***LUMEN GENTIUM***
-
-SOLEMNLY PROMULGATED BY HIS HOLINESS
-
-POPE PAUL VI
-
-ON NOVEMBER 21, 1964 
-
-## Chapter I - the Mystery of the Church
+# Chapter I – The Mystery of the Church - Lumen Gentium
 
 1\. Christ is the Light of nations. Because this is so, this Sacred Synod gathered together in the Holy Spirit eagerly desires, by proclaiming the Gospel to every creature,<sup>([[#^lg-fn-1|1]])</sup> to bring the light of Christ to all men, a light brightly visible on the countenance of the Church. Since the Church is in Christ like a sacrament or as a sign and instrument both of a very closely knit union with God and of the unity of the whole human race, it desires now to unfold more fully to the faithful of the Church and to the whole world its own inner nature and universal mission. This it intends to do following faithfully the teaching of previous councils. The present-day conditions of the world add greater urgency to this work of the Church so that all men, joined more closely today by various social, technical and cultural ties, might also attain fuller unity in Christ. ^lg-1
 

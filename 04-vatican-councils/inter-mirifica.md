@@ -10,29 +10,23 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
-description: Decree Inter mirifica on the media of social communications
+description: Decree On The Media Of Social Communications Solemnly Promulgated By His Holiness Pope Paul VI On December 4 1963
 abbreviation: im
 ---
 
-DECREE ON THE MEDIA OF SOCIAL COMMUNICATIONS
+# Inter Mirifica
 
-***INTER MIRIFICA***
+## Decree on The Media Of Social Communications Solemnly Promulgated by His Holiness Pope Paul VI on December 4 1963
 
-SOLEMNLY PROMULGATED BY
-
-HIS HOLINESS POPE PAUL VI
-
-ON DECEMBER 4, 1963
-
-**INTRODUCTION**
+## Introduction
 
 1\. Among the wonderful technological discoveries which men of talent, especially in the present era, have made with God's help, the Church welcomes and promotes with special interest those which have a most direct relation to men's minds and which have uncovered new avenues of communicating most readily news, views and teachings of every sort. The most important of these inventions are those media which, such as the press, movies, radio, television and the like, can, of their very nature, reach and influence, not only individuals, but the very masses and the whole of human society, and thus can rightly be called the media of social communication. ^im-1
 
 2\. The Church recognizes that these media, if properly utilized, can be of great service to mankind, since they greatly contribute to men's entertainment and instruction as well as to the spread and support of the Kingdom of God. The Church recognizes, too, that men can employ these media contrary to the plan of the Creator and to their own loss. Indeed, the Church experiences maternal grief at the harm all too often done to society by their evil use. Hence, this sacred Synod, attentive to the watchful concern manifested by the Supreme Pontiffs and Bishops in a matter of such great importance, judges it to be its duty to treat of the principal questions linked with the media of social communication. It trusts, moreover, that the teaching and regulations it thus sets forth will serve to promote, not only the eternal welfare of Christians, but also the progress of all mankind. ^im-2
 
-**CHAPTER I**
+## Chapter I
 
 **ON THE TEACHING OF THE CHURCH**
 
@@ -70,7 +64,7 @@ Lastly, the same public authority, which legitimately concerns itself with the h
 
 Special care should be taken to safeguard young people from printed matter and performances which may be harmful at their age.
 
-**CHAPTER II**
+## Chapter Ii
 
 **ON THE PASTORAL ACTIVITY OF THE CHURCH**
 
@@ -108,13 +102,13 @@ In each country the direction of such offices should be entrusted to a special c
 
 22\. Since the effectiveness of these media reaches beyond national boundaries and has an impact on individual members of the whole human family, national offices should co-operate among themselves on an international plane. The offices spoken of in Number 21 should assiduously work together with their own international Catholic associations. These Catholic international associations are legitimately approved by the Holy See alone and depend on it. ^im-22
 
-**APPENDICES**
+## Appendices
 
 23\. So that the general principles and norms of this sacred Synod with respect to the media of social communications may be put into effect, by the express will of the Council, the office of the Holy See mentioned in Number 19 should undertake, with the assistance of experts from various countries, to issue a pastoral instruction. ^im-23
 
 24\. As for the rest, this sacred Synod is confident that its issuance of these instructions and norms will be gladly accepted and religiously kept by all the Church's children. By using these helps they will experience no harm and, like salt and light, they will give savor to the earth and brighten the world. Moreover, the Synod invites all men of good will, especially those who have charge of these media, to strive to turn them solely to the good of society, whose fate depends more and more on their proper use. Thus, as was the case with ancient works of art, the name of the Lord may be glorified by these new discoveries in accordance with those words of the Apostle: "Jesus Christ, yesterday and today, and the same forever."<sup>([[#^im-fn-2|2]])</sup> ^im-24
 
-**NOTES**
+## Notes
 
 (1) [[1-corinthians-08#^1-corinthians-08-1|1 Cor. 8:1]]. ^im-fn-1
 

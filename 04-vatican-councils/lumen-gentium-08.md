@@ -1,26 +1,26 @@
 ---
 type: magisterium
-title: Lumen Gentium
+title: Chapter VIII – The Blessed Virgin Mary, Mother of God in the Mystery of Christ and the Church
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
-  - Lumen Gentium
+  - Chapter VIII – The Blessed Virgin Mary, Mother of God in the Mystery of Christ and the Church
   - lumen-gentium-08
 tags:
+  - author/catholic-church
   - graph/bible-v2
+  - type/magisterium
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
-description: Lumen Gentium
+description: Chapter VIII – The Blessed Virgin Mary, Mother of God in the Mystery of Christ and the Church
 ---
 
-# Lumen Gentium
+# Chapter VIII – The Blessed Virgin Mary, Mother of God in the Mystery of Christ and the Church
 
-## Chapter Viii - the Blessed Virgin Mary, Mother of God in the Mystery of Christ and the Church
-
-### I. Introduction
+## I. Introduction
 
 52\. Wishing in His supreme goodness and wisdom to effect the redemption of the world, "when the fullness of time came, God sent His Son, born of a woman...that we might receive the adoption of sons".<sup>([[#^lg-fn-283|283]])</sup> "He for us men, and for our salvation, came down from heaven, and was incarnate by the Holy Spirit from the Virgin Mary."(1\*) This divine mystery of salvation is revealed to us and continued in the Church, which the Lord established as His body. Joined to Christ the Head and in the unity of fellowship with all His saints, the faithful must in the first place reverence the memory "of the glorious ever Virgin Mary, Mother of our God and Lord Jesus Christ".(2\*)
 
@@ -28,7 +28,7 @@ description: Lumen Gentium
 
 54\. Wherefore this Holy Synod, in expounding the doctrine on the Church, in which the divine Redeemer works salvation, intends to describe with diligence both the role of the Blessed Virgin in the mystery of the Incarnate Word and the Mystical Body, and the duties of redeemed mankind toward the Mother of God, who is mother of Christ and mother of men, particularly of the faithful. It does not, however, have it in mind to give a complete doctrine on Mary, nor does it wish to decide those questions which the work of theologians has not yet fully clarified. Those opinions therefore may be lawfully retained which are propounded in Catholic schools concerning her, who occupies a place in the Church which is the highest after Christ and yet very close to us.(4\*)
 
-### Ii. the Role of the Blessed Mother in the Economy of Salvation
+## II. the Role of the Blessed Mother in the Economy of Salvation
 
 55\. The Sacred Scriptures of both the Old and the New Testament, as well as ancient Tradition show the role of the Mother of the Saviour in the economy of salvation in an ever clearer light and draw attention to it. The books of the Old Testament describe the history of salvation, by which the coming of Christ into the world was slowly prepared. These earliest documents, as they are read in the Church and are understood in the light of a further and full revelation, bring the figure of the woman, Mother of the Redeemer, into a gradually clearer light. When it is looked at in this way, she is already prophetically foreshadowed in the promise of victory over the serpent which was given to our first parents after their fall into sin.<sup>([[#^lg-fn-284|284]])</sup> Likewise she is the Virgin who shall conceive and bear a son, whose name will be called Emmanuel.<sup>([[#^lg-fn-285|285]])</sup> She stands out among the poor and humble of the Lord, who confidently hope for and receive salvation from Him. With her the exalted Daughter of Sion, and after a long expectation of the promise, the times are fulfilled and the new Economy established, when the Son of God took a human nature from her, that He might in the mysteries of His flesh free man from sin.
 
@@ -40,7 +40,7 @@ description: Lumen Gentium
 
 59\. But since it has pleased God not to manifest solemnly the mystery of the salvation of the human race before He would pour forth the Spirit promised by Christ, we see the apostles before the day of Pentecost "persevering with one mind in prayer with the women and Mary the Mother of Jesus, and with His brethren",<sup>([[#^lg-fn-296|296]])</sup> and Mary by her prayers imploring the gift of the Spirit, who had already overshadowed her in the Annunciation. Finally, the Immaculate Virgin, preserved free from all guilt of original sin,(12\*) on the completion of her earthly sojourn, was taken up body and soul into heavenly glory,(13\*) and exalted by the Lord as Queen of the universe, that she might be the more fully conformed to her Son, the Lord of lords<sup>([[#^lg-fn-297|297]])</sup> and the conqueror of sin and death.(l4\*)
 
-### Iii. on the Blessed Virgin and the Church
+## III. on the Blessed Virgin and the Church
 
 60\. There is but one Mediator as we know from the words of the apostle, "for there is one God and one mediator of God and men, the man Christ Jesus, who gave himself a redemption for all".<sup>([[#^lg-fn-298|298]])</sup> The maternal duty of Mary toward men in no wise obscures or diminishes this unique mediation of Christ, but rather shows His power. For all the salvific influence of the Blessed Virgin on men originates, not from some inner necessity, but from the divine pleasure. It flows forth from the superabundance of the merits of Christ, rests on His mediation, depends entirely on it and draws all its power from it. In no way does it impede, but rather does it foster the immediate union of the faithful with Christ.
 
@@ -58,13 +58,13 @@ The Church does not hesitate to profess this subordinate role of Mary. It knows 
 
 65\. But while in the most holy Virgin the Church has already reached that perfection whereby she is without spot or wrinkle, the followers of Christ still strive to increase in holiness by conquering sin.<sup>([[#^lg-fn-300|300]])</sup> And so they turn their eyes to Mary who shines forth to the whole community of the elect as the model of virtues. Piously meditating on her and contemplating her in the light of the Word made man, the Church with reverence enters more intimately into the great mystery of the Incarnation and becomes more and more like her Spouse. For Mary, who since her entry into salvation history unites in herself and re-echoes the greatest teachings of the faith as she is proclaimed and venerated, calls the faithful to her Son and His sacrifice and to the love of the Father. Seeking after the glory of Christ, the Church becomes more like her exalted Type, and continually progresses in faith, hope and charity, seeking and doing the will of God in all things. Hence the Church, in her apostolic work also, justly looks to her, who, conceived of the Holy Spirit, brought forth Christ, who was born of the Virgin that through the Church He may be born and may increase in the hearts of the faithful also. The Virgin in her own life lived an example of that maternal love, by which it behooves that all should be animated who cooperate in the apostolic mission of the Church for the regeneration of men.
 
-### Iv. the Cult of the Blessed Virgin in the Church
+## IV. the Cult of the Blessed Virgin in the Church
 
 66\. Placed by the grace of God, as God's Mother, next to her Son, and exalted above all angels and men, Mary intervened in the mysteries of Christ and is justly honored by a special cult in the Church. Clearly from earliest times the Blessed Virgin is honored under the title of Mother of God, under whose protection the faithful took refuge in all their dangers and necessities.(21\*) Hence after the Synod of Ephesus the cult of the people of God toward Mary wonderfully increased in veneration and love, in invocation and imitation, according to her own prophetic words: "All generations shall call me blessed, because He that is mighty hath done great things to me".<sup>([[#^lg-fn-301|301]])</sup> This cult, as it always existed, although it is altogether singular, differs essentially from the cult of [[adoration]] which is offered to the Incarnate Word, as well to the Father and the Holy Spirit, and it is most favorable to it. The various forms of piety toward the Mother of God, which the Church within the limits of sound and orthodox doctrine, according to the conditions of time and place, and the nature and ingenuity of the faithful has approved, bring it about that while the Mother is honored, the Son, through whom all things have their being <sup>([[#^lg-fn-302|302]])</sup> and in whom it has pleased the Father that all fullness should dwell,<sup>([[#^lg-fn-303|303]])</sup> is rightly known, loved and glorified and that all His commands are observed.
 
 67\. This most Holy Synod deliberately teaches this Catholic doctrine and at the same time admonishes all the sons of the Church that the cult, especially the liturgical cult, of the Blessed Virgin, be generously fostered, and the practices and exercises of piety, recommended by the magisterium of the Church toward her in the course of centuries be made of great moment, and those decrees, which have been given in the early days regarding the cult of images of Christ, the Blessed Virgin and the saints, be religiously observed.(22\*) But it exhorts theologians and preachers of the divine word to abstain zealously both from all gross exaggerations as well as from petty narrow-mindedness in considering the singular dignity of the Mother of God.(23\*) Following the study of Sacred Scripture, the Holy Fathers, the doctors and liturgy of the Church, and under the guidance of the Church's magisterium, let them rightly illustrate the duties and privileges of the Blessed Virgin which always look to Christ, the source of all truth, sanctity and piety. Let them assiduously keep away from whatever, either by word or deed, could lead separated brethren or any other into error regarding the true doctrine of the Church. Let the faithful remember moreover that true devotion consists neither in sterile or transitory affection, nor in a certain vain credulity, but proceeds from true faith, by which we are led to know the excellence of the Mother of God, and we are moved to a filial love toward our mother and to the imitation of her virtues.
 
-### V. Mary the Sign of Created Hope and Solace to the Wandering People of God
+## V. Mary the Sign of Created Hope and Solace to the Wandering People of God
 
 68\. In the interim just as the Mother of Jesus, glorified in body and soul in heaven, is the image and beginning of the Church as it is to be perfected is the world to come, so too does she shine forth on earth, until the day of the Lord shall come,<sup>([[#^lg-fn-304|304]])</sup> as a sign of sure hope and solace to the people of God during its sojourn on earth.
 

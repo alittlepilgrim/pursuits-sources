@@ -10,7 +10,7 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 ---
 
@@ -245,7 +245,7 @@ publish: true
 
 25\. Cf. Paul VI, address given on Feb. 3, 1965. ^gs-fn-p1-ch4-25
 
-## Part Ii
+## Part II
 
 ### Chapter 1
 

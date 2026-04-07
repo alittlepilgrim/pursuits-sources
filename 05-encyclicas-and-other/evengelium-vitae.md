@@ -12,7 +12,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Letter Evangelium Vitae (25 March 1995) on the Value and Inviolability  of Human Life
 abbreviation: jpii-ev
@@ -26,7 +26,7 @@ IOANNES PAULUS PP. II
 
 EVANGELIUM VITAE
 
-***To the Bishops
+To the Bishops
 
 Priests and Deacons
 

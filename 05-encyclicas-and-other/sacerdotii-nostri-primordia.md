@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-05
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 permalink: /sacerdotii-nostri-primordia
 description: John Baptist Vianney, consecrated life, clergy, priesthood, religious life, virginity, celibacy, penance, saints, Sacerdotii Nostri Primordia, John XXIII, 1 August 1959
@@ -20,15 +20,9 @@ abbreviation: jpii-sn
 
 # Sacerdotii Nostri Primordia
 
-Source: [](https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html)
+[Source](https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html)
 
-***SACERDOTII NOSTRI PRIMORDIA***
-
-ENCYCLICAL OF POPE JOHN XXIII
-
-ON ST. JOHN VIANNEY
-
-AUGUST 1, 1959
+Sacerdotii Nostri Primordia Encyclical Of Pope John Xxiii On St John Vianney August 1 1959
 
 *To Our Venerable Brethren, the Patriarchs, Primates, Archbishops, Bishops, and other Local Ordinaries in Peace and Communion with the Apostolic See.*
 
@@ -60,7 +54,7 @@ AUGUST 1, 1959
 
 9\. The Catholic Church, which elevated this man in sacred orders, who was "wonderful in his pastoral zeal, in his devotion to prayer and in the ardor of his penance"(10) to the honors of the saints of heaven, now, one hundred years after his death, offers him with maternal joy to all the clergy as an outstanding model of priestly asceticism, of piety, especially in the form of devotion to the Eucharist, and, finally, of pastoral zeal. ^johnxxiii-snp-9 ^jpii-sn-9
 
-I
+## Part I
 
 10\. You cannot begin to speak of St. John Mary Vianney without automatically calling to mind the picture of a priest who was outstanding in a unique way in voluntary affliction of his body; his only motives were the love of God and the desire for the salvation of the souls of his neighbors, and this led him to abstain almost completely from food and from sleep, to carry out the harshest kinds of penances, and to deny himself with great strength of soul. Of course, not all of the faithful are expected to adopt this kind of life; and yet divine providence has seen to it that there has never been a time when the Church did not have some pastors of souls of this kind who, under the inspiration of the Holy Spirit, did not hesitate for a moment to enter on this path, most of all because this way of life is particularly successful in bringing many men who have been drawn away by the allurement of error and vice back to the path of good living. ^johnxxiii-snp-10 ^jpii-sn-10
 
@@ -130,7 +124,7 @@ I
 
 34\. We owe ourselves and all we have to the Church; may we work each day only in her name and by her authority and may we properly carry out the duties committed to us, and may we be joined together in fraternal unity and thus strive to serve her in that perfect way in which she ought to be served. (45) ^johnxxiii-snp-34 ^jpii-sn-34
 
-II
+## Part II
 
 35\. St. John M. Vianney, who, as We have said, was so devoted to the virtue of penance, was just as sure that "a priest must be specially devoted to constant prayer." (46) In this regard, We know that shortly after he was made pastor of a village where Christian life had been languished for a long time, he began to spend long and happy hours at night (when he might have been resting) in adoration of Jesus in the Sacrament of His love. The Sacred Tabernacle seemed to be the spring from which he constantly drew the power that nourished his own piety and gave new life to it and promoted the effectiveness of his apostolic labor to such an extent that the wonderful words that Our predecessor of happy memory, Pius XII, used to describe the ideal Christian parish, might well have been applied to the town of Ars in the time of this holy man: "In the middle stands the temple; in the middle of the temple the Sacred Tabernacle, and on either side the confessionals where supernatural life and health are restored to the Christian people." (47) ^johnxxiii-snp-35 ^jpii-sn-35
 
@@ -196,7 +190,7 @@ II
 
 59\. Speaking as a Father, We urge Our beloved priests to set aside a time to examine themselves on how they celebrate the divine mysteries, what their dispositions of soul and external attitude are as they ascend the altar and what fruit they are trying to gain from it. They should be spurred to do this by the centenary celebrations that are being held in honor of this outstanding and wonderful priest, who drew such great strength and such great desire to dedicate himself "from the consolation and happiness of offering the divine victim." (69) May his prayers, which We feel sure they will have, bring a fullness of light and strength down upon Our beloved priests. ^johnxxiii-snp-59 ^jpii-sn-59
 
-III
+## Part III
 
 60\. The wonderful examples of priestly asceticism and prayer that We have proposed for your consideration up to now, Venerable Brethren, also point clearly to the source of the pastoral skill and of the truly remarkable heavenly effectiveness of the sacred ministry of St. John M. Vianney. In this regard, Our predecessor of happy memory, Pius XII, gave a wise warning: "The priest should realize that the important ministry entrusted to him will be more fruitfully carried out, the more intimately he is united with Christ and led on by His spirit." (70) As a matter of fact, the life of the Cure of Ars offers one more outstanding argument in support of the supreme rule for apostolic labor that was laid down by Jesus Christ Himself: "Without me, you can do nothing." (71) ^johnxxiii-snp-60 ^jpii-sn-60
 
@@ -358,7 +352,7 @@ III
 
 ---
 
-**NOTES**
+## Notes
 
 LATIN TEXT: *Acta Apostolicae Sedis*, 51 (1959), 545-79.
 

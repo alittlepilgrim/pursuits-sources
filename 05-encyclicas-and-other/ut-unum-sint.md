@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Letter Ut Unum Sint (25 May 1995) On commitment to Ecumenism
 abbreviation: jpii-uus
@@ -21,9 +21,9 @@ IOANNES PAULUS PP. II
 
 # Ut Unum Sint
 
-**On commitment to Ecumenism
+## On Commitment to Ecumenism
 
-**INTRODUCTION**
+## Introduction
 
 1\. *Ut unum sint!* The call for Christian unity made by the Second Vatican Ecumenical Council with such impassioned commitment is finding an ever greater echo in the hearts of believers, especially as the Year 2000 approaches, a year which Christians will celebrate as a sacred Jubilee, the commemoration of the Incarnation of the Son of God, who became man in order to save humanity. ^jpii-uus-1
 
@@ -49,7 +49,7 @@ The Bishop of Rome himself must fervently make his own Christ's prayer for that 
 
 We know that during her earthly pilgrimage the Church has suffered and will continue to suffer opposition and persecution. But the hope which sustains her is unshakable, just as the joy which flows from this hope is indestructible. In effect, the firm and enduring rock upon which she is founded is Jesus Christ, her Lord.
 
-**CHAPTER I** - **THE CATHOLIC CHURCH'S COMMITMENT TO ECUMENISM**
+## Chapter I – The Catholic Church's Commitment to Ecumenism
 
 ***God's plan and communion***
 
@@ -209,7 +209,7 @@ Moreover, ecumenical cooperation is a true school of ecumenism, a dynamic road t
 
 In the eyes of the world, cooperation among Christians becomes a form of common Christian witness and a means of evangelization which benefits all involved.
 
-**CHAPTER II - THE FRUITS OF DIALOGUE**
+## Chapter II – The Fruits of Dialogue
 
 ***Brotherhood rediscovered***
 
@@ -419,7 +419,7 @@ Nor do I wish to overlook the *Day of Prayer for Peace in Europe, especially in 
 
 When we survey the world joy fills our hearts. For we note that Christians feel ever more challenged by the issue of peace. They see it as intimately connected with the proclamation of the Gospel and with the coming of God's Kingdom.
 
-**CHAPTER III** - **QUANTA EST NOBIS VIA?**
+## Chapter III – Quanta Est Nobis Via?
 
 ***Continuing and deepening dialogue***
 
@@ -531,7 +531,7 @@ How indeed can we proclaim the Gospel of reconciliation without at the same time
 
 99\. When I say that for me, as Bishop of Rome, the ecumenical task is "one of the pastoral priorities" of my Pontificate,157 I think of the grave obstacle which the lack of unity represents for the proclamation of the Gospel. A Christian Community which believes in Christ and desires, with Gospel fervour, the salvation of mankind can hardly be closed to the promptings of the Holy Spirit, who leads all Christians towards full and visible unity. Here an imperative of charity is in question, an imperative which admits of no exception. Ecumenism is not only an internal question of the Christian Communities. It is a matter of the love which God has in Jesus Christ for all humanity; to stand in the way of this love is an offence against him and against his plan to gather all people in Christ. As Pope Paul VI wrote to the Ecumenical Patriarch Athenagoras I: "May the Holy Spirit guide us along the way of reconciliation, so that the unity of our Churches may become an ever more radiant sign of hope and consolation for all mankind".158 ^jpii-uus-99
 
-**EXHORTATION**
+## Exhortation
 
 100\. In my recent Letter to the Bishops, clergy and faithful of the Catholic Church indicating the path to be followed towards the celebration of the *Great Jubilee of the Holy Year 2000*, I wrote that "the best preparation for the new millennium can only be expressed in a *renewed commitment to apply, as faithfully as possible, the teachings of Vatican II to the life of every individual and of the whole Church* ".159 The Second Vatican Council is the great beginning—the Advent as it were—of the journey leading us to the threshold of the Third Millennium. Given the importance which the Council attributed to the work of rebuilding Christian unity, and in this our age of grace for ecumenism, I thought it necessary to reaffirm the fundamental convictions which the Council impressed upon the consciousness of the Catholic Church, recalling them in the light of the progress subsequently made towards the full communion of all the baptized. ^jpii-uus-100
 
@@ -560,6 +560,8 @@ At the dawn of the new millennium, how can we not implore from the Lord, with re
 **JOHN PAUL II**
 
 ---
+
+## Notes
 
 **[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)** Cf. Address following the Way of the Cross on Good Friday (1 April 1994), 3: *AAS* 87 (1995), 88.
 

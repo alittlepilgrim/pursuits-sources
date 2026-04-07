@@ -10,35 +10,17 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
-description: Encyclical Letter Ecclesia de Eucharistia (17 April 2003)
+description: Encyclical Letter Of His Holiness Pope John Paul II To The Bishops, Priests And Deacons, Men And Women In The Consecrated Life, And All The Lay Faithful, On The Eucharist In Its Relationship To The Church –  Ecclesia de Eucharistia (17 April 2003)
 abbreviation: jpii-ee
 ---
 
-ENCYCLICAL LETTER
-
 # Ecclesia de Eucharistia
 
-OF HIS HOLINESS
+## Encyclical Letter Of His Holiness Pope John Paul II to The Bishops, Priests and Deacons, Men and Women In The Consecrated Life, and All The Lay Faithful, On The Eucharist In Its Relationship to The Church
 
-POPE JOHN PAUL II
-
-TO THE BISHOPS
-
-PRIESTS AND DEACONS
-
-MEN AND WOMEN
-
-IN THE CONSECRATED LIFE
-
-AND ALL THE LAY FAITHFUL
-
-ON THE EUCHARIST
-
-IN ITS RELATIONSHIP TO THE CHURCH
-
-**INTRODUCTION**
+## Introduction
 
 1\. The Church draws her life from the Eucharist. This truth does not simply express a daily experience of faith, but recapitulates *the heart of the mystery of the Church*. In a variety of ways she joyfully experiences the constant fulfilment of the promise: “Lo, I am with you always, to the close of the age” (*Mt* 28:20), but in the Holy Eucharist, through the changing of bread and wine into the body and blood of the Lord, she rejoices in this presence with unique intensity. Ever since Pentecost, when the Church, the People of the New Covenant, began her pilgrim journey towards her heavenly homeland, the Divine Sacrament has continued to mark the passing of her days, filling them with confident hope. ^jpii-ee-1
 
@@ -82,9 +64,7 @@ Unfortunately, alongside these lights, *there are also shadows*. In some places 
 
 It is my hope that the present Encyclical Letter will effectively help to banish the dark clouds of unacceptable doctrine and practice, so that the Eucharist will continue to shine forth in all its radiant mystery.
 
-CHAPTER ONE
-
-**THE MYSTERY OF FAITH**
+## Chapter One. The Mystery Of Faith
 
 11\. “The Lord Jesus on the night he was betrayed” (*1 Cor* 11:23) instituted the Eucharistic Sacrifice of his body and his blood. The words of the Apostle Paul bring us back to the dramatic setting in which the Eucharist was born. The Eucharist is indelibly marked by the event of the Lord's passion and death, of which it is not only a reminder but the sacramental re-presentation. It is the sacrifice of the Cross perpetuated down the ages.9 This truth is well expressed by the words with which the assembly in the Latin rite responds to the priest's proclamation of the “Mystery of Faith”: *“We announce your death, O Lord”*. ^jpii-ee-11
 
@@ -126,11 +106,7 @@ Many problems darken the horizon of our time. We need but think of the urgent ne
 
 Proclaiming the death of the Lord “until he comes” (*1 Cor* 11:26) entails that all who take part in the Eucharist be committed to changing their lives and making them in a certain way completely “Eucharistic”. It is this fruit of a transfigured existence and a commitment to transforming the world in accordance with the Gospel which splendidly illustrates the eschatological tension inherent in the celebration of the Eucharist and in the Christian life as a whole: “Come, Lord Jesus!” (*Rev* 22:20).
 
-CHAPTER TWO
-
-**THE EUCHARIST
-
-BUILDS THE CHURCH**
+## Chapter Two. The Eucharist Builds The Church
 
 21\. The Second Vatican Council teaches that the celebration of the Eucharist is at the centre of the process of the Church's growth. After stating that “the Church, as the Kingdom of Christ already present in mystery, grows visibly in the world through the power of God”,35 then, as if in answer to the question: “How does the Church grow?”, the Council adds: “as often as the sacrifice of the Cross by which 'Christ our pasch is sacrificed' (*1 Cor* 5:7) is celebrated on the altar, the work of our redemption is carried out. At the same time in the sacrament of the Eucharistic bread, the unity of the faithful, who form one body in Christ (cf. *1 Cor* 10:17), is both expressed and brought about”.36 ^jpii-ee-21
 
@@ -156,11 +132,7 @@ It is pleasant to spend time with him, to lie close to his breast like the Belov
 
 This practice, repeatedly praised and recommended by the Magisterium,49 is supported by the example of many saints. Particularly outstanding in this regard was Saint Alphonsus Liguori, who wrote: “Of all devotions, that of adoring Jesus in the Blessed Sacrament is the greatest after the sacraments, the one dearest to God and the one most helpful to us”.50 The Eucharist is a priceless treasure: by not only celebrating it but also by praying before it outside of Mass we are enabled to make contact with the very wellspring of grace. A Christian community desirous of contemplating the face of Christ in the spirit which I proposed in the Apostolic Letters *[Novo Millennio Ineunte](https://www.vatican.va/content/john-paul-ii/en/apost_letters/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)* and *[Rosarium Virginis Mariae](https://www.vatican.va/content/john-paul-ii/en/apost_letters/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html)* cannot fail also to develop this aspect of Eucharistic worship, which prolongs and increases the fruits of our communion in the body and blood of the Lord.
 
-CHAPTER THREE
-
-**THE APOSTOLICITY OF THE EUCHARIST
-
-AND OF THE CHURCH**
+## Chapter Three. The Apostolicity Of The Eucharist and Of The Church
 
 26\. If, as I have said, the Eucharist builds the Church and the Church makes the Eucharist, it follows that there is a profound relationship between the two, so much so that we can apply to the Eucharistic mystery the very words with which, in the Nicene-Constantinopolitan Creed, we profess the Church to be “one, holy, catholic and apostolic”. The Eucharist too is one and catholic. It is also holy, indeed, the Most Holy Sacrament. But it is above all its apostolicity that we must now consider. ^jpii-ee-26
 
@@ -192,11 +164,7 @@ The sacramental incompleteness of these celebrations should above all inspire th
 
 33\. When, due to the scarcity of priests, non-ordained members of the faithful are entrusted with a share in the pastoral care of a parish, they should bear in mind that – as the Second Vatican Council teaches – “no Christian community can be built up unless it has its basis and centre in the celebration of the most Holy Eucharist”.66 They have a responsibility, therefore, to keep alive in the community a genuine “hunger” for the Eucharist, so that no opportunity for the celebration of Mass will ever be missed, also taking advantage of the occasional presence of a priest who is not impeded by Church law from celebrating Mass. ^jpii-ee-33
 
-CHAPTER FOUR
-
-**THE EUCHARIST
-
-AND ECCLESIAL COMMUNION**
+## Chapter Four. The Eucharist and Ecclesial Communion
 
 34\. The Extraordinary Assembly of the Synod of Bishops in 1985 saw in the concept of an “ecclesiology of communion” the central and fundamental idea of the documents of the Second Vatican Council.67 The Church is called during her earthly pilgrimage to maintain and promote communion with the Triune God and communion among the faithful. For this purpose she possesses the word and the sacraments, particularly the Eucharist, by which she “constantly lives and grows” 68 and in which she expresses her very nature. It is not by chance that the term *communion* has become one of the names given to this sublime sacrament. ^jpii-ee-34
 
@@ -246,11 +214,7 @@ These conditions, from which no dispensation can be given, must be carefully res
 
 The faithful observance of the body of norms established in this area 99 is a manifestation and, at the same time, a guarantee of our love for Jesus Christ in the Blessed Sacrament, for our brothers and sisters of different Christian confessions – who have a right to our witness to the truth – and for the cause itself of the promotion of unity.
 
-CHAPTER FIVE
-
-**THE DIGNITY
-
-OF THE EUCHARISTIC CELEBRATION**
+## Chapter Five. The Dignity Of The Eucharistic Celebration
 
 47\. Reading the account of the institution of the Eucharist in the Synoptic Gospels, we are struck by the simplicity and the “solemnity” with which Jesus, on the evening of the Last Supper, instituted this great sacrament. There is an episode which in some way serves as its prelude: *the anointing at Bethany*. A woman, whom John identifies as Mary the sister of Lazarus, pours a flask of *costly ointment* over Jesus' head, which provokes from the disciples – and from Judas in particular (cf. *Mt* 26:8; *Mk* 14:4; *Jn* 12:4) – an indignant response, as if this act, in light of the needs of the poor, represented an intolerable “waste”. But Jesus' own reaction is completely different. While in no way detracting from the duty of charity towards the needy, for whom the disciples must always show special care – “the poor you will always have with you” (*Mt* 26, 11; *Mk* 14:7; cf. *Jn* 12:8) – he looks towards his imminent death and burial, and sees this act of anointing as an anticipation of the honour which his body will continue to merit even after his death, indissolubly bound as it is to the mystery of his person. ^jpii-ee-47
 
@@ -278,11 +242,7 @@ It is necessary, however, that this important work of adaptation be carried out 
 
 I consider it my duty, therefore to appeal urgently that the liturgical norms for the celebration of the Eucharist be observed with great fidelity. These norms are a concrete expression of the authentically ecclesial nature of the Eucharist; this is their deepest meaning. Liturgy is never anyone's private property, be it of the celebrant or of the community in which the mysteries are celebrated. The Apostle Paul had to address fiery words to the community of Corinth because of grave shortcomings in their celebration of the Eucharist resulting in divisions (*schismata*) and the emergence of factions (*haireseis*) (cf. *1 Cor* 11:17-34). Our time, too, calls for a renewed awareness and appreciation of liturgical norms as a reflection of, and a witness to, the one universal Church made present in every celebration of the Eucharist. Priests who faithfully celebrate Mass according to the liturgical norms, and communities which conform to those norms, quietly but eloquently demonstrate their love for the Church. Precisely to bring out more clearly this deeper meaning of liturgical norms, I have asked the competent offices of the Roman Curia to prepare a more specific document, including prescriptions of a juridical nature, on this very important subject. No one is permitted to undervalue the mystery entrusted to our hands: it is too great for anyone to feel free to treat it lightly and with disregard for its sacredness and its universality.
 
-CHAPTER SIX
-
-**AT THE SCHOOL OF MARY,
-
-“WOMAN OF THE EUCHARIST”**
+## Chapter Six. at The School Of Mary Woman Of The Eucharist
 
 53\. If we wish to rediscover in all its richness the profound relationship between the Church and the Eucharist, we cannot neglect Mary, Mother and model of the Church. In my Apostolic Letter *[Rosarium Virginis Mariae](https://www.vatican.va/content/john-paul-ii/en/apost_letters/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html),* I pointed to the Blessed Virgin Mary as our teacher in contemplating Christ's face, and among the mysteries of light I included *the institution of the Eucharist*.102 Mary can guide us towards this most holy sacrament, because she herself has a profound relationship with it. ^jpii-ee-53
 
@@ -310,7 +270,7 @@ Experiencing the memorial of Christ's death in the Eucharist also means continua
 
 At the same time Mary recalls the wonders worked by God in salvation history in fulfilment of the promise once made to the fathers (cf. *Lk* 1:55), and proclaims the wonder that surpasses them all, the redemptive incarnation. Lastly, the *Magnificat* reflects the eschatological tension of the Eucharist. Every time the Son of God comes again to us in the “poverty” of the sacramental signs of bread and wine, the seeds of that new history wherein the mighty are “put down from their thrones” and “those of low degree are exalted” (cf. *Lk* 1:52), take root in the world. Mary sings of the “new heavens” and the “new earth” which find in the Eucharist their anticipation and in some sense their programme and plan. The *Magnificat* expresses Mary's spirituality, and there is nothing greater than this spirituality for helping us to experience the mystery of the Eucharist. The Eucharist has been given to us so that our life, like that of Mary, may become completely a *Magnificat!*
 
-**CONCLUSION**
+## Conclusion
 
 59\. *Ave, verum corpus natum de Maria Virgine!* Several years ago I celebrated the fiftieth anniversary of my priesthood. Today I have the grace of offering the Church this Encyclical on the Eucharist on the Holy Thursday which falls *during the twenty-fifth year of my Petrine ministry*. As I do so, my heart is filled with gratitude. For over a half century, every day, beginning on 2 November 1946, when I celebrated my first Mass in the Crypt of Saint Leonard in Wawel Cathedral in Krakow, my eyes have gazed in recollection upon the host and the chalice, where time and space in some way “merge” and the drama of Golgotha is re-presented in a living way, thus revealing its mysterious “contemporaneity”. Each day my faith has been able to recognize in the consecrated bread and wine the divine Wayfarer who joined the two disciples on the road to Emmaus and opened their eyes to the light and their hearts to new hope (cf. *Lk* 24:13-35). ^jpii-ee-59
 
@@ -332,9 +292,7 @@ In the humble signs of bread and wine, changed into his body and blood, Christ w
 
 Let us make our own the words of Saint Thomas Aquinas, an eminent theologian and an impassioned poet of Christ in the Eucharist, and turn in hope to the contemplation of that goal to which our hearts aspire in their thirst for joy and peace:
 
-*Bone pastor, panis vere,
-
-Iesu, nostri miserere...*
+*Bone pastor, panis vere, Iesu, nostri miserere...*
 
 > *Come then, good Shepherd, bread divine,
 > Still show to us thy mercy sign;
@@ -354,7 +312,7 @@ Iesu, nostri miserere...*
 
 ---
 
-**NOTES**
+## Notes
 
 1 Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 11. ^jpii-ee-1
 

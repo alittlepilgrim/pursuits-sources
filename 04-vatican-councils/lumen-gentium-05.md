@@ -1,24 +1,24 @@
 ---
 type: magisterium
-title: Lumen Gentium
+title: Chapter V – The Universal Call to Holiness in the Church - Lumen Gentium
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
-  - constitutions
-  - Lumen Gentium
+  - Chapter V – The Universal Call to Holiness in the Church
   - lumen-gentium-05
 tags:
+  - author/catholic-church
   - graph/bible-v2
+  - type/magisterium
+  - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
-description: Lumen Gentium
+description: Chapter V – The Universal Call to Holiness in the Church
 ---
 
-# Lumen Gentium
-
-## Chapter V - the Universal Call to Holiness in the Church
+# Chapter V – The Universal Call to Holiness in the Church
 
 39\. The Church, whose mystery is being set forth by this Sacred Synod, is believed to be indefectibly holy. Indeed Christ, the Son of God, who with the Father and the Spirit is praised as "uniquely holy," (1\*) loved the Church as His bride, delivering Himself up for her. He did this that He might sanctify her.<sup>([[#^lg-fn-214|214]])</sup> He united her to Himself as His own body and brought it to perfection by the gift of the Holy Spirit for God's glory. Therefore in the Church, everyone whether belonging to the hierarchy, or being cared for by it, is called to holiness, according to the saying of the Apostle: "For this is the will of God, your sanctification".<sup>([[#^lg-fn-215|215]])</sup> However, this holiness of the Church is unceasingly manifested, and must be manifested, in the fruits of grace which the Spirit produces in the faithful; it is expressed in many ways in individuals, who in their walk of life, tend toward the perfection of charity, thus causing the edification of others; in a very special way this (holiness) appears in the practice of the counsels, customarily called "evangelical." This practice of the counsels, under the impulsion of the Holy Spirit, undertaken by many Christians, either privately or in a Church-approved condition or state of life, gives and must give in the world an outstanding witness and example of this same holiness.
 

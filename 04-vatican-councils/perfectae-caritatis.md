@@ -4,29 +4,22 @@ title: Perfectae Caritatis
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_en.html
 aliases:
+  - Perfectae Caritatis
   - perfectae-caritatis
 tags:
   - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Decree on the Adaptation and Renewal of Religious Life - Perfectae Caritatis
 abbreviation: pc
 ---
 
-DECREE ON
+# Perfectae Caritatis
 
-THE ADAPTATION AND RENEWAL OF RELIGIOUS LIFE
-
-***PERFECTAE CARITATIS***
-
-PROCLAIMED BY HIS HOLINESS
-
-POPE PAUL VI
-
-ON OCTOBER 28, 1965
+## Decree On The Adaptation and Renewal Of Religious Life Proclaimed by His Holiness Pope Paul VI On October 28 1965
 
 1\. The sacred synod has already shown in the constitution on the Church that the pursuit of perfect charity through the evangelical counsels draws its origin from the doctrine and example of the Divine Master and reveals itself as a splendid sign of the heavenly kingdom. Now it intends to treat of the life and discipline of those institutes whose members make profession of chastity, poverty and obedience and to provide for their needs in our time. ^pc-1
 

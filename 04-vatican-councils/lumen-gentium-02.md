@@ -1,24 +1,24 @@
 ---
 type: magisterium
-title: Lumen Gentium
+title: Chapter II – On the People of God – Lumen Gentium
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
-  - constitutions
-  - Lumen Gentium
+  - Chapter II – On the People of God
   - lumen-gentium-02
 tags:
+  - author/catholic-church
   - graph/bible-v2
+  - type/magisterium
+  - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
-description: Lumen Gentium
+description: Chapter II – On the People of God
 ---
 
-# Lumen Gentium
-
-## Chapter Ii - on the People of God
+# Chapter II – On the People of God
 
 9\. At all times and in every race God has given welcome to whosoever fears Him and does what is right.<sup>([[#^lg-fn-85|85]])</sup> God, however, does not make men holy and save them merely as individuals, without bond or link between one another. Rather has it pleased Him to bring men together as one people, a people which acknowledges Him in truth and serves Him in holiness. He therefore chose the race of Israel as a people unto Himself. With it He set up a covenant. Step by step He taught and prepared this people, making known in its history both Himself and the decree of His will and making it holy unto Himself. All these things, however, were done by way of preparation and as a figure of that new and perfect covenant, which was to be ratified in Christ, and of that fuller revelation which was to be given through the Word of God Himself made flesh. "Behold the days shall come saith the Lord, and I will make a new covenant with the House of Israel, and with the house of Judah... I will give my law in their bowels, and I will write it in their heart, and I will be their God, and they shall be my people... For all of them shall know Me, from the least of them even to the greatest, saith the Lord.<sup>([[#^lg-fn-86|86]])</sup> Christ instituted this new covenant, the new testament, that is to say, in His Blood,<sup>([[#^lg-fn-87|87]])</sup> calling together a people made up of Jew and gentile, making them one, not according to the flesh but in the Spirit. This was to be the new People of God. For those who believe in Christ, who are reborn not from a perishable but from an imperishable seed through the word of the living God,<sup>([[#^lg-fn-88|88]])</sup> not from the flesh but from water and the Holy Spirit,<sup>([[#^lg-fn-89|89]])</sup> are finally established as "a chosen race, a royal priesthood, a holy nation, a purchased people... who in times past were not a people, but are now the people of God".<sup>([[#^lg-fn-90|90]])</sup> ^lg-9
 

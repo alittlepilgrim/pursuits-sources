@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Encyclical Rerum Novarum of Leo XIII, 15 May 1891
 abbreviation: leoxiii-rn
@@ -21,11 +21,7 @@ abbreviation: leoxiii-rn
 
 # Rerum Novarum (may 15, 1891)
 
-***RERUM NOVARUM***
-
-ENCYCLICAL OF POPE LEO XIII
-
-ON CAPITAL AND LABOR
+## Rerum Novarum Encyclical Of Pope Leo Xiii On Capital and Labor
 
 To Our Venerable Brethren the Patriarchs,
 
@@ -171,7 +167,7 @@ Given at St. Peter's in Rome, the fifteenth day of May, 1891, the fourteenth yea
 
 ---
 
-REFERENCES:
+## References
 
 1). The title sometimes given to this encyclical, *On the Condiction of the Working Classes*, is therefore perfectly justified. A few lines after this sentence, the Pope gives a more comprehensive definition of the subject of Rerum novarum. We are using it as a title.
 

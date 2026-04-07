@@ -11,7 +11,7 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 abbreviation: gs
 ---
@@ -28,7 +28,7 @@ This council, first of all, wishes to assess in this light those values which ar
 
 What does the Church think of man? What needs to be recommended for the upbuilding of contemporary society? What is the ultimate significance of human activity throughout the world? People are waiting for an answer to these questions. From the answers it will be increasingly clear that the People of God and the human race in whose midst it lives render service to each other. Thus the mission of the Church will show its religious, and by that very fact, its supremely human character. 
 
-## Chapter I, the Dignity of the Human Person
+## Chapter I – The Dignity of the Human Person
 
 12\. According to the almost unanimous opinion of believers and unbelievers alike, all things on earth should be related to man as their center and crown. ^gs-12
 
@@ -102,7 +102,7 @@ All this holds true not only for Christians, but for all men of good will in who
 
 Such is the mystery of man, and it is a great one, as seen by believers in the light of Christian revelation. Through Christ and in Christ, the riddles of sorrow and death grow meaningful. Apart from His Gospel, they overwhelm us. Christ has risen, destroying death by His death; He has lavished life upon us<sup>([[#^gs-fn-p1-ch1-33|3]])</sup> so that, as sons in the Son, we can cry out in the Spirit; Abba, Father<sup>([[#^gs-fn-p1-ch1-34|4]])</sup> 
 
-## Chapter Ii, the Community of Mankind
+## Chapter II – The Community of Mankind
 
 23\. One of the salient features of the modern world is the growing interdependence of men one on the other, a development promoted chiefly by modern technical advances. Nevertheless brotherly dialogue among men does not reach its perfection on the level of technical progress, but on the deeper level of interpersonal relationships. These demand a mutual respect for the full spiritual dignity of the person. Christian revelation contributes greatly to the promotion of this communion between persons, and at the same time leads us to a deeper understanding of the laws of social life which the Creator has written into man's moral and spiritual nature. ^gs-23
 
@@ -170,7 +170,7 @@ As the firstborn of many brethren and by the giving of His Spirit, He founded af
 
 This solidarity must be constantly increased until that day on which it will be brought to perfection. Then, saved by grace, men will offer flawless glory to God as a family beloved of God and of Christ their Brother. 
 
-## Chapter Iii, Man's Activity Throughout the World
+## Chapter III – Man's Activity Throughout the World
 
 33\. Through his labors and his native endowments man has ceaselessly striven to better his life. Today, however, especially with the help of science and technology, he has extended his mastery over nearly the whole of nature and continues to do so. Thanks to increased opportunities for many kinds of social contact among nations, the human family is gradually recognizing that it comprises a single world community and is making itself so. Hence many benefits once looked for, especially from heavenly powers, man has now enterprisingly procured for himself. ^gs-33
 
@@ -216,7 +216,7 @@ Hence, while earthly progress must be carefully distinguished from the growth of
 
 For after we have obeyed the Lord, and in His Spirit nurtured on earth the values of human dignity, brotherhood and freedom, and indeed all the good fruits of our nature and enterprise, we will find them again, but freed of stain, burnished and transfigured, when Christ hands over to the Father: "a kingdom eternal and universal, a kingdom of truth and life, of holiness and grace, of justice, love and peace."<sup>([[#^gs-fn-p1-ch3-24|4]])</sup> On this earth that Kingdom is already present in mystery. When the Lord returns it will be brought into full flower. 
 
-## Chapter Iv, the Role of the Church in the Modern World
+## Chapter IV – The Role of the Church in the Modern World
 
 40\. Everything we have said about the dignity of the human person, and about the human community and the profound meaning of human activity, lays the foundation for the relationship between the Church and the world, and provides the basis for dialogue between them.<sup>([[#^gs-fn-p1-ch4-1|1]])</sup> In this chapter, presupposing everything which has already been said by this council concerning the mystery of the Church, we must now consider this same Church inasmuch as she exists in the world, living and acting with it. ^gs-40
 

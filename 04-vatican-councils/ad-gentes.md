@@ -11,19 +11,15 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Decree on the Mission Activity of the Church - Ad Gentes
 abbreviation: ag
 ---
 
-DECREE
+# Ad Gentes
 
-***AD GENTES***
-
-ON THE MISSION ACTIVITY
-
-OF THE CHURCH
+## Decree on The Mission Activity Of The Church
 
 # Preface
 
@@ -79,7 +75,7 @@ Finally, by means of this missionary activity, God is fully glorified, provided 
 
 Missionary activity is nothing else and nothing less than an epiphany, or a manifesting of God's decree, and its fulfillment in the world and in world history, in the course of which God, by means of mission, manifestly works out the history of salvation. By the preaching of the word and by the celebration of the sacraments, the center and summit of which is the most holy Eucharist, He brings about the presence of Christ, the author of salvation. But whatever truth and grace are to be found among the nations, as a sort of secret presence of God, He frees from all taint of evil and restores to Christ its maker, who overthrows the devil's domain and wards off the manifold malice of vice. And so, whatever good is found to be sown in the hearts and minds of men, or in the rites and cultures peculiar to various peoples, not only is not lost, but is healed, uplifted, and perfected for the glory of God, the shame of the demon, and the bliss of men.<sup>[[#^ag-fn-ch1-24|(24)]] </sup> Thus, missionary activity tends toward eschatological fullness.<sup>[[#^ag-fn-ch1-25|(25)]] </sup> For by it the people of God is increased to that measure and time which the Father has fixed in His power(cf. [[acts-of-the-apostles-01#^acts-of-the-apostles-01-7|Acts 1:7]]). To this people it was said in prophecy: "Enlarge the space for your tent, and spread out your tent cloths unsparingly" ([[isaiah-54#^isaiah-54-2|Is. 54:2)]].<sup>[[#^ag-fn-ch1-26|(26)]] </sup> By missionary activity, the mystical body grows to the mature measure of the fullness of Christ (cf. [[ephesians-04#^ephesians-04-13|Eph. 4:13)]]; and the spiritual temple, where God is adored in spirit and in truth (cf. [[john-04#^john-04-23|John 4:23)]], grows and is built up upon the foundation of the Apostles and prophets, Christ Jesus Himself being the supreme corner stone ([[ephesians-02#^ephesians-02-20|Eph. 2:20)]].
 
-# Chapter Ii
+# Chapter II
 
 ## Mission Work Itself
 
@@ -169,7 +165,7 @@ Various forms of religious life are to be cultivated in the young churches, in o
 
 Worthy of special mention are the various projects for causing the contemplative life to take root. There are those who in such an attempt have kept the essential element of a monastic institution, and are bent on implanting the rich tradition of their order; there are others again who are returning to the simpler forms of ancient monasticism. But all are studiously looking for a genuine adaptation to local conditions. Since the contemplative life belongs to the fullness of the Church's presence, let it be put into effect everywhere.
 
-# Chapter Iii
+# Chapter III
 
 ## Particular Churches
 
@@ -217,7 +213,7 @@ Thus it will be more clearly seen in what ways faith may seek for understanding,
 
 And so, it is to be hoped that episcopal conferences within the limits of each major socio - cultural territory will so coordinate their efforts that they may be able to pursue this proposal of adaptation with one mind and with a common plan.
 
-# Chapter Iv
+# Chapter IV
 
 ## Missionaries
 
@@ -301,7 +297,7 @@ All these things, with equal reason, should be extended to include the cooperati
 
 34\. Since the right and methodical exercise of missionary activity requires that those who labor for the Gospel should be scientifically prepared for their task, and especially for dialogue with non - Christian religions and cultures, and also that they should be effectively assisted in the carrying out of this task, it is desired that, for the sake of the missions, there should be fraternal and generous collaboration on the part of scientific institutes which specialize in missiology and in other arts and disciplines useful for the missions, such as ethnology and linguistics, the history and science of religions, sociology, pastoral skills and the like. ^ag-34
 
-# Chapter Vi
+# Chapter VI
 
 ## Cooperation
 

@@ -11,27 +11,21 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-01-17
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: Encyclical Letter Laudato si' of the Holy Father Francis on care for our common home (24 May 2015)
 abbreviation: francis-ls
 ---
 
-ENCYCLICAL LETTER*
+# Laudato Si’
 
-# Laudato SI’
-
-***OF THE HOLY FATHER
-
-**FRANCIS
-
-**ON CARE FOR OUR COMMON HOME
+## Encyclical Letter of the Holy Father Francis on Care for Our Common Home
 
 1\. *“LAUDATO SI’, mi’ Signore” – “Praise be to you, my Lord”.* In the words of this beautiful canticle, Saint Francis of Assisi reminds us that our common home is like a sister with whom we share our life and a beautiful mother who opens her arms to embrace us. “Praise be to you, my Lord, through our Sister, Mother Earth, who sustains and governs us, and who produces various fruit with coloured flowers and herbs”.[\[1\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn1)
 
 2\. This sister now cries out to us because of the harm we have inflicted on her by our irresponsible use and abuse of the goods with which God has endowed her. We have come to see ourselves as her lords and masters, entitled to plunder her at will. The violence present in our hearts, wounded by sin, is also reflected in the symptoms of sickness evident in the soil, in the water, in the air and in all forms of life. This is why the earth herself, burdened and laid waste, is among the most abandoned and maltreated of our poor; she “groans in travail” (*Rom* 8:22). We have forgotten that we ourselves are dust of the earth (cf. *Gen* 2:7); our very bodies are made up of her elements, we breathe her air and we receive life and refreshment from her waters.
 
-## *Nothing In This World Is Indifferent to us*
+## *Nothing In This World Is Indifferent to Us*
 
 3\. More than fifty years ago, with the world teetering on the brink of nuclear crisis, [Pope Saint John XXIII](http://w2.vatican.va/content/john-xxiii/en.html) wrote an [Encyclical](http://w2.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html) which not only rejected war but offered a proposal for peace. He addressed his message *[Pacem in Terris](http://w2.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html)* to the entire “Catholic world” and indeed “to all men and women of good will”. Now, faced as we are with global environmental deterioration, I wish to address every person living on this planet. In my Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, I wrote to all the members of the Church with the aim of encouraging ongoing missionary renewal. In this Encyclical, I would like to enter into dialogue with all people about our common home.
 
@@ -41,7 +35,7 @@ ENCYCLICAL LETTER*
 
 6\. My predecessor [Benedict XVI](http://w2.vatican.va/content/benedict-xvi/en.html) likewise proposed “eliminating the structural causes of the dysfunctions of the world economy and correcting models of growth which have proved incapable of ensuring respect for the environment”.[\[10\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn10) He observed that the world cannot be analyzed by isolating only one of its aspects, since “the book of nature is one and indivisible”, and includes the environment, life, sexuality, the family, social relations, and so forth. It follows that “the deterioration of nature is closely connected to the culture which shapes human coexistence”.[\[11\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn11) Pope Benedict asked us to recognize that the natural environment has been gravely damaged by our irresponsible behaviour. The social environment has also suffered damage. Both are ultimately due to the same evil: the notion that there are no indisputable truths to guide our lives, and hence human freedom is limitless. We have forgotten that “man is not only a freedom which he creates for himself. Man does not create himself. He is spirit and will, but also nature”.[\[12\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn12) With paternal concern, Benedict urged us to realize that creation is harmed “where we ourselves have the final word, where everything is simply our property and we use it for ourselves alone. The misuse of creation begins when we no longer recognize any higher instance than ourselves, when we see nothing else but ourselves”.[\[13\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn13)
 
-## *United By the Same concern*
+## *United By the Same Concern*
 
 7\. These statements of the Popes echo the reflections of numerous scientists, philosophers, theologians and civic groups, all of which have enriched the Church’s thinking on these questions. Outside the Catholic Church, other Churches and Christian communities – and other religions as well – have expressed deep concern and offered valuable reflections on issues which all of us find disturbing. To give just one striking example, I would mention the statements made by the beloved Ecumenical Patriarch Bartholomew, with whom we share the hope of full ecclesial communion.
 
@@ -57,7 +51,7 @@ ENCYCLICAL LETTER*
 
 12\. What is more, Saint Francis, faithful to Scripture, invites us to see nature as a magnificent book in which God speaks to us and grants us a glimpse of his infinite beauty and goodness. “Through the greatness and the beauty of creatures one comes to know by analogy their maker” (*Wis* 13:5); indeed, “his eternal power and divinity have been made known through his works since the creation of the world” (*Rom* 1:20). For this reason, Francis asked that part of the friary garden always be left untouched, so that wild flowers and herbs could grow there, and those who saw them could raise their minds to God, the Creator of such beauty.[\[21\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn21) Rather than a problem to be solved, the world is a joyful mystery to be contemplated with gladness and praise.
 
-## *My appeal*
+## *My Appeal*
 
 13\. The urgent challenge to protect our common home includes a concern to bring the whole human family together to seek a sustainable and integral development, for we know that things can change. The Creator does not abandon us; he never forsakes his loving plan or repents of having created us. Humanity still has the ability to work together in building our common home. Here I want to recognize, encourage and thank all those striving in countless ways to guarantee the protection of the home which we share. Particular appreciation is owed to those who tirelessly seek to resolve the tragic effects of environmental degradation on the lives of the world’s poorest. Young people demand change. They wonder how anyone can claim to be building a better future without thinking of the environmental crisis and the sufferings of the excluded.
 
@@ -69,7 +63,7 @@ ENCYCLICAL LETTER*
 
 # Chapter One
 
-## **WHAT Is Happening to Our Common HOME**
+## What Is Happening to Our Common Home
 
 17\. Theological and philosophical reflections on the situation of humanity and the world can sound tiresome and abstract, unless they are grounded in a fresh analysis of our present situation, which is in many ways unprecedented in the history of humanity. So, before considering how faith brings new incentives and requirements with regard to the world of which we are a part, I will briefly turn to what is happening to our common home.
 
@@ -77,9 +71,9 @@ ENCYCLICAL LETTER*
 
 19\. Following a period of irrational confidence in progress and human abilities, some sectors of society are now adopting a more critical approach. We see increasing sensitivity to the environment and the need to protect nature, along with a growing concern, both genuine and distressing, for what is happening to our planet. Let us review, however cursorily, those questions which are troubling us today and which we can no longer sweep under the carpet. Our goal is not to amass information or to satisfy curiosity, but rather to become painfully aware, to dare to turn what is happening to the world into our own personal suffering and thus to discover what each of us can do about it.
 
-## **I. Pollution and Climate CHANGE**
+## I. Pollution and Climate Change
 
-### *Pollution, Waste and the Throwaway culture*
+### *Pollution, Waste and the Throwaway Culture*
 
 20\. Some forms of pollution are part of people’s daily experience. Exposure to atmospheric pollutants produces a broad spectrum of health hazards, especially for the poor, and causes millions of premature deaths. People take sick, for example, from breathing high levels of smoke from fuels used in cooking or heating. There is also pollution that affects everyone, caused by transport, industrial fumes, substances which contribute to the acidification of soil and water, fertilizers, insecticides, fungicides, herbicides and agrotoxins in general. Technology, which, linked to business interests, is presented as the only way of solving these problems, in fact proves incapable of seeing the mysterious network of relations between things and so sometimes solves one problem only to create others.
 
@@ -87,7 +81,7 @@ ENCYCLICAL LETTER*
 
 22\. These problems are closely linked to a throwaway culture which affects the excluded just as it quickly reduces things to rubbish. To cite one example, most of the paper we produce is thrown away and not recycled. It is hard for us to accept that the way natural ecosystems work is exemplary: plants synthesize nutrients which feed herbivores; these in turn become food for carnivores, which produce significant quantities of organic waste which give rise to new generations of plants. But our industrial system, at the end of its cycle of production and consumption, has not developed the capacity to absorb and reuse waste and by-products. We have not yet managed to adopt a circular model of production capable of preserving resources for present and future generations, while limiting as much as possible the use of non-renewable resources, moderating their consumption, maximizing their efficient use, reusing and recycling them. A serious consideration of this issue would be one way of counteracting the throwaway culture which affects the entire planet, but it must be said that only limited progress has been made in this regard.
 
-### *Climate As a Common good*
+### *Climate As a Common Good*
 
 23\. The climate is a common good, belonging to all and meant for all. At the global level, it is a complex system linked to many of the essential conditions for human life. A very solid scientific consensus indicates that we are presently witnessing a disturbing warming of the climatic system. In recent decades this warming has been accompanied by a constant rise in the sea level and, it would appear, by an increase of extreme weather events, even if a scientifically determinable cause cannot be assigned to each particular phenomenon. Humanity is called to recognize the need for changes of lifestyle, production and consumption, in order to combat this warming or at least the human causes which produce or aggravate it. It is true that there are other factors (such as volcanic activity, variations in the earth’s orbit and axis, the solar cycle), yet a number of scientific studies indicate that most global warming in recent decades is due to the great concentration of greenhouse gases (carbon dioxide, methane, nitrogen oxides and others) released mainly as a result of human activity. As these gases build up in the atmosphere, they hamper the escape of heat produced by sunlight at the earth’s surface. The problem is aggravated by a model of development based on the intensive use of fossil fuels, which is at the heart of the worldwide energy system. Another determining factor has been an increase in changed uses of the soil, principally deforestation for agricultural purposes.
 
@@ -97,7 +91,7 @@ ENCYCLICAL LETTER*
 
 26\. Many of those who possess more resources and economic or political power seem mostly to be concerned with masking the problems or concealing their symptoms, simply making efforts to reduce some of the negative impacts of climate change. However, many of these symptoms indicate that such effects will continue to worsen if we continue with current models of production and consumption. There is an urgent need to develop policies so that, in the next few years, the emission of carbon dioxide and other highly polluting gases can be drastically reduced, for example, substituting for fossil fuels and developing sources of renewable energy. Worldwide there is minimal access to clean and renewable energy. There is still a need to develop adequate storage technologies. Some countries have made considerable progress, although it is far from constituting a significant proportion. Investments have also been made in means of production and transportation which consume less energy and require fewer raw materials, as well as in methods of construction and renovating buildings which improve their energy efficiency. But these good practices are still far from widespread.
 
-## **II. The Issue of WATER**
+## II. The Issue of Water
 
 27\. Other indicators of the present situation have to do with the depletion of natural resources. We all know that it is not possible to sustain the present level of consumption in developed countries and wealthier sectors of society, where the habit of wasting and discarding has reached unprecedented levels. The exploitation of the planet has already exceeded acceptable limits and we still have not solved the problem of poverty.
 
@@ -109,7 +103,7 @@ ENCYCLICAL LETTER*
 
 31\. Greater scarcity of water will lead to an increase in the cost of food and the various products which depend on its use. Some studies warn that an acute water shortage may occur within a few decades unless urgent action is taken. The environmental repercussions could affect billions of people; it is also conceivable that the control of water by large multinational businesses may become a major source of conflict in this century.[\[23\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn23)
 
-## **III. Loss of BIODIVERSITY**
+## III. Loss of Biodiversity
 
 32\. The earth’s resources are also being plundered because of short-sighted approaches to the economy, commerce and production. The loss of forests and woodlands entails the loss of species which may constitute extremely important resources in the future, not only for food but also for curing disease and other uses. Different species contain genes which could be key resources in years ahead for meeting human needs and regulating environmental problems.
 
@@ -133,7 +127,7 @@ ENCYCLICAL LETTER*
 
 42\. Greater investment needs to be made in research aimed at understanding more fully the functioning of ecosystems and adequately analyzing the different variables associated with any significant modification of the environment. Because all creatures are connected, each must be cherished with love and respect, for all of us as living creatures are dependent on one another. Each area is responsible for the care of this family. This will require undertaking a careful inventory of the species which it hosts, with a view to developing programmes and strategies of protection with particular care for safeguarding species heading towards extinction.
 
-## **IV. Decline in the Quality of Human Life and the Breakdown of SOCIETY**
+## IV. Decline in the Quality of Human Life and the Breakdown of Society
 
 43\. Human beings too are creatures of this world, enjoying a right to life and happiness, and endowed with unique dignity. So we cannot fail to consider the effects on people’s lives of environmental deterioration, current models of development and the throwaway culture.
 
@@ -145,7 +139,7 @@ ENCYCLICAL LETTER*
 
 47\. Furthermore, when media and the digital world become omnipresent, their influence can stop people from learning how to live wisely, to think deeply and to love generously. In this context, the great sages of the past run the risk of going unheard amid the noise and distractions of an information overload. Efforts need to be made to help these media become sources of new cultural progress for humanity and not a threat to our deepest riches. True wisdom, as the fruit of self-examination, dialogue and generous encounter between persons, is not acquired by a mere accumulation of data which eventually leads to overload and confusion, a sort of mental pollution. Real relationships with others, with all the challenges they entail, now tend to be replaced by a type of internet communication which enables us to choose or eliminate relationships at whim, thus giving rise to a new type of contrived emotion which has more to do with devices and displays than with other people and with nature. Today’s media do enable us to communicate and to share our knowledge and affections. Yet at times they also shield us from direct contact with the pain, the fears and the joys of others and the complexity of their personal experiences. For this reason, we should be concerned that, alongside the exciting possibilities offered by these media, a deep and melancholic dissatisfaction with interpersonal relations, or a harmful sense of isolation, can also arise.
 
-## **V. Global INEQUALITY**
+## V. Global Inequality
 
 48\. The human environment and the natural environment deteriorate together; we cannot adequately combat environmental degradation unless we attend to causes related to human and social degradation. In fact, the deterioration of the environment and of society affects the most vulnerable people on the planet: “Both everyday experience and scientific research show that the gravest effects of all attacks on the environment are suffered by the poorest”.[\[26\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn26) For example, the depletion of fishing reserves especially hurts small fishing communities without the means to replace those resources; water pollution particularly affects the poor who cannot buy bottled water; and rises in the sea level mainly affect impoverished coastal populations who have nowhere else to go. The impact of present imbalances is also seen in the premature death of many of the poor, in conflicts sparked by the shortage of resources, and in any number of other problems which are insufficiently represented on global agendas.[\[27\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn27)
 
@@ -157,7 +151,7 @@ ENCYCLICAL LETTER*
 
 52\. The foreign debt of poor countries has become a way of controlling them, yet this is not the case where ecological debt is concerned. In different ways, developing countries, where the most important reserves of the biosphere are found, continue to fuel the development of richer countries at the cost of their own present and future. The land of the southern poor is rich and mostly unpolluted, yet access to ownership of goods and resources for meeting vital needs is inhibited by a system of commercial relations and ownership which is structurally perverse. The developed countries ought to help pay this debt by significantly limiting their consumption of non-renewable energy and by assisting poorer countries to support policies and programmes of sustainable development. The poorest areas and countries are less capable of adopting new models for reducing environmental impact because they lack the wherewithal to develop the necessary processes and to cover their costs. We must continue to be aware that, regarding climate change, there are *differentiated responsibilities*. As the United States bishops have said, greater attention must be given to “the needs of the poor, the weak and the vulnerable, in a debate often dominated by more powerful interests”.[\[31\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn31) We need to strengthen the conviction that we are one single human family. There are no frontiers or barriers, political or social, behind which we can hide, still less is there room for the globalization of indifference.
 
-## **VI. Weak RESPONSES**
+## VI. Weak Responses
 
 53\. These situations have caused sister earth, along with all the abandoned of our world, to cry out, pleading that we take another course. Never have we so hurt and mistreated our common home as we have in the last two hundred years. Yet we are called to be instruments of God our Father, so that our planet might be what he desired when he created it and correspond with his plan for peace, beauty and fullness. The problem is that we still lack the culture needed to confront this crisis. We lack leadership capable of striking out on new paths and meeting the needs of the present with concern for all and without prejudice towards coming generations. The establishment of a legal framework which can set clear boundaries and ensure the protection of ecosystems has become indispensable; otherwise, the new power structures based on the techno-economic paradigm may overwhelm not only our politics but also freedom and justice.
 
@@ -173,7 +167,7 @@ ENCYCLICAL LETTER*
 
 59\. At the same time we can note the rise of a false or superficial ecology which bolsters complacency and a cheerful recklessness. As often occurs in periods of deep crisis which require bold decisions, we are tempted to think that what is happening is not entirely clear. Superficially, apart from a few obvious signs of pollution and deterioration, things do not look that serious, and the planet could continue as it is for some time. Such evasiveness serves as a licence to carrying on with our present lifestyles and models of production and consumption. This is the way human beings contrive to feed their self-destructive vices: trying not to see them, trying not to acknowledge them, delaying the important decisions and pretending that nothing will happen.
 
-## **VII. A Variety of OPINIONS**
+## VII. a Variety of Opinions
 
 60\. Finally, we need to acknowledge that different approaches and lines of thought have emerged regarding this situation and its possible solutions. At one extreme, we find those who doggedly uphold the myth of progress and tell us that ecological problems will solve themselves simply with the application of new technology and without any need for ethical considerations or deep change. At the other extreme are those who view men and women and all their interventions as no more than a threat, jeopardizing the global ecosystem, and consequently the presence of human beings on the planet should be reduced and all forms of intervention prohibited. Viable future scenarios will have to be generated between these extremes, since there is no one path to a solution. This makes a variety of proposals possible, all capable of entering into dialogue with a view to developing comprehensive solutions.
 
@@ -181,17 +175,17 @@ ENCYCLICAL LETTER*
 
 # Chapter Two
 
-## **THE Gospel of CREATION**
+## The Gospel of Creation
 
 62\. Why should this document, addressed to all people of good will, include a chapter dealing with the convictions of believers? I am well aware that in the areas of politics and philosophy there are those who firmly reject the idea of a Creator, or consider it irrelevant, and consequently dismiss as irrational the rich contribution which religions can make towards an integral ecology and the full development of humanity. Others view religions simply as a subculture to be tolerated. Nonetheless, science and religion, with their distinctive approaches to understanding reality, can enter into an intense dialogue fruitful for both.
 
-## **I. The Light Offered by FAITH**
+## I. The Light Offered by Faith
 
 63\. Given the complexity of the ecological crisis and its multiple causes, we need to realize that the solutions will not emerge from just one way of interpreting and transforming reality. Respect must also be shown for the various cultural riches of different peoples, their art and poetry, their interior life and spirituality. If we are truly concerned to develop an ecology capable of remedying the damage we have done, no branch of the sciences and no form of wisdom can be left out, and that includes religion and the language particular to it. The Catholic Church is open to dialogue with philosophical thought; this has enabled her to produce various syntheses between faith and reason. The development of the Church’s social teaching represents such a synthesis with regard to social issues; this teaching is called to be enriched by taking up new challenges.
 
 64\. Furthermore, although this Encyclical welcomes dialogue with everyone so that together we can seek paths of liberation, I would like from the outset to show how faith convictions can offer Christians, and some other believers as well, ample motivation to care for nature and for the most vulnerable of their brothers and sisters. If the simple fact of being human moves people to care for the environment of which they are a part, Christians in their turn “realize that their responsibility within creation, and their duty towards nature and the Creator, are an essential part of their faith”.[\[36\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn36) It is good for humanity and the world at large when we believers better recognize the ecological commitments which stem from our convictions.
 
-## **II. The Wisdom of the Biblical ACCOUNTS**
+## II. The Wisdom of the Biblical Accounts
 
 65\. Without repeating the entire theology of creation, we can ask what the great biblical narratives say about the relationship of human beings with the world. In the first creation account in the Book of Genesis, God’s plan includes creating humanity. After the creation of man and woman, “God saw everything that he had made, and behold it was *very good*” (*Gen* 1:31). The Bible teaches that every man and woman is created out of love and made in God’s image and likeness (cf. *Gen* 1:26). This shows us the immense dignity of each person, “who is not just something, but someone. He is capable of self-knowledge, of self-possession and of freely giving himself and entering into communion with other persons”.[\[37\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn37) Saint John Paul II stated that the special love of the Creator for each human being “confers upon him or her an infinite dignity”.[\[38\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn38) Those who are committed to defending human dignity can find in the Christian faith the deepest reasons for this commitment. How wonderful is the certainty that each human life is not adrift in the midst of hopeless chaos, in a world ruled by pure chance or endlessly recurring cycles! The Creator can say to each one of us: “Before I formed you in the womb, I knew you” (*Jer* 1:5). We were conceived in the heart of God, and for this reason “each of us is the result of a thought of God. Each of us is willed, each of us is loved, each of us is necessary”.[\[39\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn39)
 
@@ -215,7 +209,7 @@ ENCYCLICAL LETTER*
 
 75\. A spirituality which forgets God as all-powerful and Creator is not acceptable. That is how we end up worshipping earthly powers, or ourselves usurping the place of God, even to the point of claiming an unlimited right to trample his creation underfoot. The best way to restore men and women to their rightful place, putting an end to their claim to absolute dominion over the earth, is to speak once more of the figure of a Father who creates and who alone owns the world. Otherwise, human beings will always try to impose their own laws and interests on reality.
 
-## **III. The Mystery of the UNIVERSE**
+## III. The Mystery of the Universe
 
 76\. In the Judaeo-Christian tradition, the word “creation” has a broader meaning than “nature”, for it has to do with God’s loving plan in which every creature has its own value and significance. Nature is usually seen as a system which can be studied, understood and controlled, whereas creation can only be understood as a gift from the outstretched hand of the Father of all, and as a reality illuminated by the love which calls us together into universal communion.
 
@@ -233,7 +227,7 @@ ENCYCLICAL LETTER*
 
 83\. The ultimate destiny of the universe is in the fullness of God, which has already been attained by the risen Christ, the measure of the maturity of all things.[\[53\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn53) Here we can add yet another argument for rejecting every tyrannical and irresponsible domination of human beings over other creatures. The ultimate purpose of other creatures is not to be found in us. Rather, all creatures are moving forward with us and through us towards a common point of arrival, which is God, in that transcendent fullness where the risen Christ embraces and illumines all things. Human beings, endowed with intelligence and love, and drawn by the fullness of Christ, are called to lead all creatures back to their Creator.
 
-## **IV. The Message of Each Creature in the Harmony of CREATION**
+## IV. The Message of Each Creature in the Harmony of Creation
 
 84\. Our insistence that each human being is an image of God should not make us overlook the fact that each creature has its own purpose. None is superfluous. The entire material universe speaks of God’s love, his boundless affection for us. Soil, water, mountains: everything is, as it were, a caress of God. The history of our friendship with God is always linked to particular places which take on an intensely personal meaning; we all remember places, and revisiting those memories does us much good. Anyone who has grown up in the hills or used to sit by the spring to drink, or played outdoors in the neighbourhood square; going back to these places is a chance to recover something of their true selves.
 
@@ -275,7 +269,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 88\. The bishops of Brazil have pointed out that nature as a whole not only manifests God but is also a locus of his presence. The Spirit of life dwells in every living creature and calls us to enter into relationship with him.[\[65\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn65) Discovering this presence leads us to cultivate the “ecological virtues”.[\[66\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn66) This is not to forget that there is an infinite distance between God and the things of this world, which do not possess his fullness. Otherwise, we would not be doing the creatures themselves any good either, for we would be failing to acknowledge their right and proper place. We would end up unduly demanding of them something which they, in their smallness, cannot give us.
 
-## **V. A Universal COMMUNION**
+## V. a Universal Communion
 
 89\. The created things of this world are not free of ownership: “For they are yours, O Lord, who love the living” (*Wis* 11:26). This is the basis of our conviction that, as part of the universe, called into being by one Father, all of us are linked by unseen bonds and together form a kind of universal family, a sublime communion which fills us with a sacred, affectionate and humble respect. Here I would reiterate that “God has joined us so closely to the world around us that we can feel the desertification of the soil almost as a physical ailment, and the extinction of a species as a painful disfigurement”.[\[67\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn67)
 
@@ -285,7 +279,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 92\. Moreover, when our hearts are authentically open to universal communion, this sense of fraternity excludes nothing and no one. It follows that our indifference or cruelty towards fellow creatures of this world sooner or later affects the treatment we mete out to other human beings. We have only one heart, and the same wretchedness which leads us to mistreat an animal will not be long in showing itself in our relationships with other people. Every act of cruelty towards any creature is “contrary to human dignity”.[\[69\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn69) We can hardly consider ourselves to be fully loving if we disregard any aspect of reality: “Peace, justice and the preservation of creation are three absolutely interconnected themes, which cannot be separated and treated individually without once again falling into reductionism”.[\[70\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn70) Everything is related, and we human beings are united as brothers and sisters on a wonderful pilgrimage, woven together by the love God has for each of his creatures and which also unites us in fond affection with brother sun, sister moon, brother river and mother earth.
 
-## **VI. The Common Destination of GOODS**
+## VI. The Common Destination of Goods
 
 93\. Whether believers or not, we are agreed today that the earth is essentially a shared inheritance, whose fruits are meant to benefit everyone. For believers, this becomes a question of fidelity to the Creator, since God created the world for everyone. Hence every ecological approach needs to incorporate a social perspective which takes into account the fundamental rights of the poor and the underprivileged. The principle of the subordination of private property to the universal destination of goods, and thus the right of everyone to their use, is a golden rule of social conduct and “the first principle of the whole ethical and social order”.[\[71\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn71) The Christian tradition has never recognized the right to private property as absolute or inviolable, and has stressed the social purpose of all forms of private property. Saint John Paul II forcefully reaffirmed this teaching, stating that “God gave the earth to the whole human race for the sustenance of all its members, *without excluding or favouring anyone*”.[\[72\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn72) These are strong words. He noted that “a type of development which did not respect and promote human rights – personal and social, economic and political, including the rights of nations and of peoples – would not be really worthy of man”.[\[73\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn73) He clearly explained that “the Church does indeed defend the legitimate right to private property, but she also teaches no less clearly that there is always a social mortgage on all private property, in order that goods may serve the general purpose that God gave them”.[\[74\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn74) Consequently, he maintained, “it is not in accord with God’s plan that this gift be used in such a way that its benefits favour only a few”.[\[75\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn75) This calls into serious question the unjust habits of a part of humanity.[\[76\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn76)
 
@@ -293,7 +287,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 95\. The natural environment is a collective good, the patrimony of all humanity and the responsibility of everyone. If we make something our own, it is only to administer it for the good of all. If we do not, we burden our consciences with the weight of having denied the existence of others. That is why the New Zealand bishops asked what the commandment “Thou shall not kill” means when “twenty percent of the world’s population consumes resources at a rate that robs the poor nations and future generations of what they need to survive”.[\[78\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn78)
 
-## **VII. The Gaze of JESUS**
+## VII. The Gaze of Jesus
 
 96\. Jesus took up the biblical faith in God the Creator, emphasizing a fundamental truth: God is Father (cf. *Mt* 11:25). In talking with his disciples, Jesus would invite them to recognize the paternal relationship God has with all his creatures. With moving tenderness he would remind them that each one of them is important in God’s eyes: “Are not five sparrows sold for two pennies? And not one of them is forgotten before God” (*Lk* 12:6). “Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them”(*Mt* 6:26).
 
@@ -307,11 +301,11 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 # Chapter Three
 
-## **THE Human Roots of the Ecological CRISIS**
+## The Human Roots of the Ecological Crisis
 
 101\. It would hardly be helpful to describe symptoms without acknowledging the human origins of the ecological crisis. A certain way of understanding human life and activity has gone awry, to the serious detriment of the world around us. Should we not pause and consider this? At this stage, I propose that we focus on the dominant technocratic paradigm and the place of human beings and of human action in the world.
 
-## **I. Technology: Creativity and POWER**
+## I. Technology: Creativity and Power
 
 102\. Humanity has entered a new era in which our technical prowess has brought us to a crossroads. We are the beneficiaries of two centuries of enormous waves of change: steam engines, railways, the telegraph, electricity, automobiles, aeroplanes, chemical industries, modern medicine, information technology and, more recently, the digital revolution, robotics, biotechnologies and nanotechnologies. It is right to rejoice in these advances and to be excited by the immense possibilities which they continue to open up before us, for “science and technology are wonderful products of a God-given human creativity”.[\[81\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn81) The modification of nature for useful purposes has distinguished the human family from the beginning; technology itself “expresses the inner tension that impels man gradually to overcome material limitations”.[\[82\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn82) Technology has remedied countless evils which used to harm and limit human beings. How can we not feel gratitude and appreciation for this progress, especially in the fields of medicine, engineering and communications? How could we not acknowledge the work of many scientists and engineers who have provided alternatives to make development sustainable?
 
@@ -321,7 +315,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 105\. There is a tendency to believe that every increase in power means “an increase of ‘progress’ itself”, an advance in “security, usefulness, welfare and vigour; …an assimilation of new values into the stream of culture”,[\[83\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn83) as if reality, goodness and truth automatically flow from technological and economic power as such. The fact is that “contemporary man has not been trained to use power well”,[\[84\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn84) because our immense technological development has not been accompanied by a development in human responsibility, values and conscience. Each age tends to have only a meagre awareness of its own limitations. It is possible that we do not grasp the gravity of the challenges now before us. “The risk is growing day by day that man will not use his power as he should”; in effect, “power is never considered in terms of the responsibility of choice which is inherent in freedom” since its “only norms are taken from alleged necessity, from either utility or security”.[\[85\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn85) But human beings are not completely autonomous. Our freedom fades when it is handed over to the blind forces of the unconscious, of immediate needs, of self-interest, and of violence. In this sense, we stand naked and exposed in the face of our ever-increasing power, lacking the wherewithal to control it. We have certain superficial mechanisms, but we cannot claim to have a sound ethics, a culture and spirituality genuinely capable of setting limits and teaching clear-minded self-restraint.
 
-## **II. The Globalization of the Technocratic PARADIGM**
+## II. The Globalization of the Technocratic Paradigm
 
 106\. The basic problem goes even deeper: it is the way that humanity has taken up technology and its development *according to an undifferentiated and one-dimensional paradigm*. This paradigm exalts the concept of a subject who, using logical and rational procedures, progressively approaches and gains control over an external object. This subject makes every effort to establish the scientific and experimental method, which in itself is already a technique of possession, mastery and transformation. It is as if the subject were to find itself in the presence of something formless, completely open to manipulation. Men and women have constantly intervened in nature, but for a long time this meant being in tune with and respecting the possibilities offered by the things themselves. It was a matter of receiving what nature itself allowed, as if from its own hand. Now, by contrast, we are the ones to lay our hands on things, attempting to extract everything possible from them while frequently ignoring or forgetting the reality in front of us. Human beings and material objects no longer extend a friendly hand to one another; the relationship has become confrontational. This has made it easy to accept the idea of infinite or unlimited growth, which proves so attractive to economists, financiers and experts in technology. It is based on the lie that there is an infinite supply of the earth’s goods, and this leads to the planet being squeezed dry beyond every limit. It is the false notion that “an infinite quantity of energy and resources are available, that it is possible to renew them quickly, and that the negative effects of the exploitation of the natural order can be easily absorbed”.[\[86\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn86)
 
@@ -341,7 +335,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 114\. All of this shows the urgent need for us to move forward in a bold cultural revolution. Science and technology are not neutral; from the beginning to the end of a process, various intentions and possibilities are in play and can take on distinct shapes. Nobody is suggesting a return to the Stone Age, but we do need to slow down and look at reality in a different way, to appropriate the positive and sustainable progress which has been made, but also to recover the values and the great goals swept away by our unrestrained delusions of grandeur.
 
-## **III. The Crisis and Effects of Modern ANTHROPOCENTRISM**
+## III. The Crisis and Effects of Modern Anthropocentrism
 
 115\. Modern anthropocentrism has paradoxically ended up prizing technical thought over reality, since “the technological mind sees nature as an insensate order, as a cold body of facts, as a mere ‘given’, as an object of utility, as raw material to be hammered into useful shape; it views the cosmos similarly as a mere ‘space’ into which objects can be thrown with complete indifference”.[\[92\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn92) The intrinsic dignity of the world is thus compromised. When human beings fail to find their true place in this world, they misunderstand themselves and end up acting against themselves: “Not only has God given the earth to man, who must use it with respect for the original good purpose for which it was given, but, man too is God’s gift to man. He must therefore respect the natural and moral structure with which he has been endowed”.[\[93\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn93)
 
@@ -357,13 +351,13 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 121\. We need to develop a new synthesis capable of overcoming the false arguments of recent centuries. Christianity, in fidelity to its own identity and the rich deposit of truth which it has received from Jesus Christ, continues to reflect on these issues in fruitful dialogue with changing historical situations. In doing so, it reveals its eternal newness.[\[98\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn98)
 
-### *Practical relativism*
+### *Practical Relativism*
 
 122\. A misguided anthropocentrism leads to a misguided lifestyle. In the Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html),* I noted that the practical relativism typical of our age is “even more dangerous than doctrinal relativism”.[\[99\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn99) When human beings place themselves at the centre, they give absolute priority to immediate convenience and all else becomes relative. Hence we should not be surprised to find, in conjunction with the omnipresent technocratic paradigm and the cult of unlimited human power, the rise of a relativism which sees everything as irrelevant unless it serves one’s own immediate interests. There is a logic in all this whereby different attitudes can feed on one another, leading to environmental degradation and social decay.
 
 123\. The culture of relativism is the same disorder which drives one person to take advantage of another, to treat others as mere objects, imposing forced labour on them or enslaving them to pay their debts. The same kind of thinking leads to the sexual exploitation of children and abandonment of the elderly who no longer serve our interests. It is also the mindset of those who say: Let us allow the invisible forces of the market to regulate the economy, and consider their impact on society and nature as collateral damage. In the absence of objective truths or sound principles other than the satisfaction of our own desires and immediate needs, what limits can be placed on human trafficking, organized crime, the drug trade, commerce in blood diamonds and the fur of endangered species? Is it not the same relativistic logic which justifies buying the organs of the poor for resale or use in experimentation, or eliminating children because they are not what their parents wanted? This same “use and throw away” logic generates so much waste, because of the disordered desire to consume more than what is really necessary. We should not think that political efforts or the force of law will be sufficient to prevent actions which affect the environment because, when the culture itself is corrupt and objective truth and universally valid principles are no longer upheld, then laws can only be seen as arbitrary impositions or obstacles to be avoided.
 
-### *The Need to Protect employment*
+### *The Need to Protect Employment*
 
 124\. Any approach to an integral ecology, which by definition does not exclude human beings, needs to take account of the value of labour, as Saint John Paul II wisely noted in his Encyclical *[Laborem Exercens](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html)*. According to the biblical account of creation, God placed man and woman in the garden he had created (cf. *Gen* 2:15) not only to preserve it (“keep”) but also to make it fruitful (“till”). Labourers and craftsmen thus “maintain the fabric of the world” (*Sir* 38:34). Developing the created world in a prudent way is the best way of caring for it, as this means that we ourselves become the instrument used by God to bring out the potential which he himself inscribed in things: “The Lord created medicines out of the earth, and a sensible man will not despise them” (*Sir* 38:4).
 
@@ -377,7 +371,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 129\. In order to continue providing employment, it is imperative to promote an economy which favours productive diversity and business creativity. For example, there is a great variety of small-scale food production systems which feed the greater part of the world’s peoples, using a modest amount of land and producing less waste, be it in small agricultural parcels, in orchards and gardens, hunting and wild harvesting or local fishing. Economies of scale, especially in the agricultural sector, end up forcing smallholders to sell their land or to abandon their traditional crops. Their attempts to move to other, more diversified, means of production prove fruitless because of the difficulty of linkage with regional and global markets, or because the infrastructure for sales and transport is geared to larger businesses. Civil authorities have the right and duty to adopt clear and firm measures in support of small producers and differentiated production. To ensure economic freedom from which all can effectively benefit, restraints occasionally have to be imposed on those possessing greater resources and financial power. To claim economic freedom while realconditions bar many people from actual access to it, and while possibilities for employment continue to shrink, is to practise a doublespeak which brings politics into disrepute. Business is a noble vocation, directed to producing wealth and improving our world. It can be a fruitful source of prosperity for the areas in which it operates, especially if it sees the creation of jobs as an essential part of its service to the common good.
 
-### *New Biological technologies*
+### *New Biological Technologies*
 
 130\. In the philosophical and theological vision of the human being and of creation which I have presented, it is clear that the human person, endowed with reason and knowledge, is not an external factor to be excluded. While human intervention on plants and animals is permissible when it pertains to the necessities of human life, the *Catechism of the Catholic Church* teaches that experimentation on animals is morally acceptable only “if it remains within reasonable limits \[and\] contributes to caring for or saving human lives”.[\[106\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn106) The *Catechism* firmly states that human power has limits and that “it is contrary to human dignity to cause animals to suffer or die needlessly”.[\[107\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn107) All such use and experimentation “requires a religious respect for the integrity of creation”.[\[108\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn108)
 
@@ -395,11 +389,11 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 # Chapter Four
 
-## **INTEGRAL ECOLOGY**
+## Integral Ecology
 
 137\. Since everything is closely interrelated, and today’s problems call for a vision capable of taking into account every aspect of the global crisis, I suggest that we now consider some elements of an *integral ecology*, one which clearly respects its human and social dimensions.
 
-## **I. Environmental, Economic and Social ECOLOGY**
+## I. Environmental, Economic and Social Ecology
 
 138\. Ecology studies the relationship between living organisms and the environment in which they develop. This necessarily entails reflection and debate about the conditions required for the life and survival of society, and the honesty needed to question certain models of development, production and consumption. It cannot be emphasized enough how everything is interconnected. Time and space are not independent of one another, and not even atoms or subatomic particles can be considered in isolation. Just as the different aspects of the planet – physical, chemical and biological – are interrelated, so too living species are part of a network which we will never fully explore and understand. A good part of our genetic code is shared by many living beings. It follows that the fragmentation of knowledge and the isolation of bits of information can actually become a form of ignorance, unless they are integrated into a broader vision of reality.
 
@@ -411,7 +405,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 142\. If everything is related, then the health of a society’s institutions has consequences for the environment and the quality of human life. “Every violation of solidarity and civic friendship harms the environment”.[\[116\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn116) In this sense, social ecology is necessarily institutional, and gradually extends to the whole of society, from the primary social group, the family, to the wider local, national and international communities. Within each social stratum, and between them, institutions develop to regulate human relationships. Anything which weakens those institutions has negative consequences, such as injustice, violence and loss of freedom. A number of countries have a relatively low level of institutional effectiveness, which results in greater problems for their people while benefiting those who profit from this situation. Whether in the administration of the state, the various levels of civil society, or relationships between individuals themselves, lack of respect for the law is becoming more common. Laws may be well framed yet remain a dead letter. Can we hope, then, that in such cases, legislation and regulations dealing with the environment will really prove effective? We know, for example, that countries which have clear legislation about the protection of forests continue to keep silent as they watch laws repeatedly being broken. Moreover, what takes place in any one area can have a direct or indirect influence on other areas. Thus, for example, drug use in affluent societies creates a continual and growing demand for products imported from poorer regions, where behaviour is corrupted, lives are destroyed, and the environment continues to deteriorate.
 
-## **II. Cultural ECOLOGY**
+## II. Cultural Ecology
 
 143\. Together with the patrimony of nature, there is also an historic, artistic and cultural patrimony which is likewise under threat. This patrimony is a part of the shared identity of each place and a foundation upon which to build a habitable city. It is not a matter of tearing down and building new cities, supposedly more respectful of the environment yet not always more attractive to live in. Rather, there is a need to incorporate the history, culture and architecture of each place, thus preserving its original identity. Ecology, then, also involves protecting the cultural treasures of humanity in the broadest sense. More specifically, it calls for greater attention to local cultures when studying environmental problems, favouring a dialogue between scientific-technical language and the language of the people. Culture is more than what we have inherited from the past; it is also, and above all, a living, dynamic and participatory present reality, which cannot be excluded as we rethink the relationship between human beings and the environment.
 
@@ -421,7 +415,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 146\. In this sense, it is essential to show special care for indigenous communities and their cultural traditions. They are not merely one minority among others, but should be the principal dialogue partners, especially when large projects affecting their land are proposed. For them, land is not a commodity but rather a gift from God and from their ancestors who rest there, a sacred space with which they need to interact if they are to maintain their identity and values. When they remain on their land, they themselves care for it best. Nevertheless, in various parts of the world, pressure is being put on them to abandon their homelands to make room for agricultural or mining projects which are undertaken without regard for the degradation of nature and culture.
 
-## **III. Ecology of Daily LIFE**
+## III. Ecology of Daily Life
 
 147\. Authentic development includes efforts to bring about an integral improvement in the quality of human life, and this entails considering the setting in which people live their lives. These settings influence the way we think, feel and act. In our rooms, our homes, our workplaces and neighbourhoods, we use our environment as a way of expressing our identity. We make every effort to adapt to our environment, but when it is disorderly, chaotic or saturated with noise and ugliness, such overstimulation makes it difficult to find ourselves integrated and happy.
 
@@ -441,7 +435,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 155\. Human ecology also implies another profound reality: the relationship between human life and the moral law, which is inscribed in our nature and is necessary for the creation of a more dignified environment. Pope Benedict XVI spoke of an “ecology of man”, based on the fact that “man too has a nature that he must respect and that he cannot manipulate at will”.[\[120\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn120) It is enough to recognize that our body itself establishes us in a direct relationship with the environment and with other living beings. The acceptance of our bodies as God’s gift is vital for welcoming and accepting the entire world as a gift from the Father and our common home, whereas thinking that we enjoy absolute power over our own bodies turns, often subtly, into thinking that we enjoy absolute power over creation. Learning to accept our body, to care for it and to respect its fullest meaning, is an essential element of any genuine human ecology. Also, valuing one’s own body in its femininity or masculinity is necessary if I am going to be able to recognize myself in an encounter with someone who is different. In this way we can joyfully accept the specific gifts of another man or woman, the work of God the Creator, and find mutual enrichment. It is not a healthy attitude which would seek “to cancel out sexual difference because it no longer knows how to confront it”.[\[121\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn121)
 
-## **IV. The Principle of the Common GOOD**
+## IV. The Principle of the Common Good
 
 156\. An integral ecology is inseparable from the notion of the common good, a central and unifying principle of social ethics. The common good is “the sum of those conditions of social life which allow social groups and their individual members relatively thorough and ready access to their own fulfilment”.[\[122\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn122)
 
@@ -449,7 +443,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 158\. In the present condition of global society, where injustices abound and growing numbers of people are deprived of basic human rights and considered expendable, the principle of the common good immediately becomes, logically and inevitably, a summons to solidarity and a preferential option for the poorest of our brothers and sisters. This option entails recognizing the implications of the universal destination of the world’s goods, but, as I mentioned in the Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*,[\[123\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn123) it demands before all else an appreciation of the immense dignity of the poor in the light of our deepest convictions as believers. We need only look around us to see that, today, this option is in fact an ethical imperative essential for effectively attaining the common good.
 
-## **V. Justice Between the GENERATIONS**
+## V. Justice Between the Generations
 
 159\. The notion of the common good also extends to future generations. The global economic crises have made painfully obvious the detrimental effects of disregarding our common destiny, which cannot exclude those who come after us. We can no longer speak of sustainable development apart from intergenerational solidarity. Once we start to think about the kind of world we are leaving to future generations, we look at things differently; we realize that the world is a gift which we have freely received and must share with others. Since the world has been given to us, we can no longer view reality in a purely utilitarian way, in which efficiency and productivity are entirely geared to our individual benefit. Intergenerational solidarity is not optional, but rather a basic question of justice, since the world we have received also belongs to those who will follow us. The Portuguese bishops have called upon us to acknowledge this obligation of justice: “The environment is part of a logic of receptivity. It is on loan to each generation, which must then hand it on to the next”.[\[124\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn124) An integral ecology is marked by this broader vision.
 
@@ -461,11 +455,11 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 # Chapter Five
 
-## **LINES Of Approach and ACTION**
+## Lines of Approach and Action
 
 163\. So far I have attempted to take stock of our present situation, pointing to the cracks in the planet that we inhabit as well as to the profoundly human causes of environmental degradation. Although the contemplation of this reality in itself has already shown the need for a change of direction and other courses of action, now we shall try to outline the major paths of dialogue which can help us escape the spiral of self-destruction which currently engulfs us.
 
-## **I. Dialogue on the Environment in the International COMMUNITY**
+## I. Dialogue on the Environment in the International Community
 
 164\. Beginning in the middle of the last century and overcoming many difficulties, there has been a growing conviction that our planet is a homeland and that humanity is one people living in a common home. An interdependent world not only makes us more conscious of the negative effects of certain lifestyles and models of production and consumption which affect us all; more importantly, it motivates us to ensure that solutions are proposed from a global perspective, and not simply to defend the interests of a few countries. Interdependence obliges us to think of *one world* *with a common plan*. Yet the same ingenuity which has brought about enormous technological progress has so far proved incapable of finding effective ways of dealing with grave environmental and social problems worldwide. A global consensus is essential for confronting the deeper problems, which cannot be resolved by unilateral actions on the part of individual countries. Such a consensus could lead, for example, to planning a sustainable and diversified agriculture, developing renewable and less polluting forms of energy, encouraging a more efficient use of energy, promoting a better management of marine and forest resources, and ensuring universal access to drinking water.
 
@@ -491,7 +485,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 175\. The same mindset which stands in the way of making radical decisions to reverse the trend of global warming also stands in the way of achieving the goal of eliminating poverty. A more responsible overall approach is needed to deal with both problems: the reduction of pollution and the development of poorer countries and regions. The twenty-first century, while maintaining systems of governance inherited from the past, is witnessing a weakening of the power of nation states, chiefly because the economic and financial sectors, being transnational, tends to prevail over the political. Given this situation, it is essential to devise stronger and more efficiently organized international institutions, with functionaries who are appointed fairly by agreement among national governments, and empowered to impose sanctions. As Benedict XVI has affirmed in continuity with the social teaching of the Church: “To manage the global economy; to revive economies hit by the crisis; to avoid any deterioration of the present crisis and the greater imbalances that would result; to bring about integral and timely disarmament, food security and peace; to guarantee the protection of the environment and to regulate migration: for all this, there is urgent need of a true world political authority, as my predecessor Blessed John XXIII indicated some years ago”.[\[129\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn129) Diplomacy also takes on new importance in the work of developing international strategies which can anticipate serious problems affecting us all.
 
-## **II. Dialogue for New National and Local POLICIES**
+## II. Dialogue for New National and Local Policies
 
 176\. There are not just winners and losers among countries, but within poorer countries themselves. Hence different responsibilities need to be identified. Questions related to the environment and economic development can no longer be approached only from the standpoint of differences between countries; they also call for greater attention to policies on the national and local levels.
 
@@ -505,7 +499,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 181\. Here, continuity is essential, because policies related to climate change and environmental protection cannot be altered with every change of government. Results take time and demand immediate outlays which may not produce tangible effects within any one government’s term. That is why, in the absence of pressure from the public and from civic institutions, political authorities will always be reluctant to intervene, all the more when urgent needs must be met. To take up these responsibilities and the costs they entail, politicians will inevitably clash with the mindset of short-term gain and results which dominates present-day economics and politics. But if they are courageous, they will attest to their God-given dignity and leave behind a testimony of selfless responsibility. A healthy politics is sorely needed, capable of reforming and coordinating institutions, promoting best practices and overcoming undue pressure and bureaucratic inertia. It should be added, though, that even the best mechanisms can break down when there are no worthy goals and values, or a genuine and profound humanism to serve as the basis of a noble and generous society.
 
-## **III. Dialogue and Transparency in DECISION-MAKING**
+## III. Dialogue and Transparency in Decision-making
 
 182\. An assessment of the environmental impact of business ventures and projects demands transparent political processes involving a free exchange of views. On the other hand, the forms of corruption which conceal the actual environmental impact of a given project, in exchange for favours, usually produce specious agreements which fail to inform adequately and to allow for full debate.
 
@@ -521,7 +515,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 188\. There are certain environmental issues where it is not easy to achieve a broad consensus. Here I would state once more that the Church does not presume to settle scientific questions or to replace politics. But I am concerned to encourage an honest and open debate so that particular interests or ideologies will not prejudice the common good.
 
-## **IV. Politics and Economy in Dialogue for Human FULFILMENT**
+## IV. Politics and Economy in Dialogue for Human Fulfilment
 
 189\. Politics must not be subject to the economy, nor should the economy be subject to the dictates of an efficiency-driven paradigm of technocracy. Today, in view of the common good, there is urgent need for politics and economics to enter into a frank dialogue in the service of life, especially human life. Saving banks at any cost, making the public pay the price, foregoing a firm commitment to reviewing and reforming the entire system, only reaffirms the absolute power of a financial system, a power which has no future and will only give rise to new crises after a slow, costly and only apparent recovery. The financial crisis of 2007-08 provided an opportunity to develop a new economy, more attentive to ethical principles, and new ways of regulating speculative financial practices and virtual wealth. But the response to the crisis did not include rethinking the outdated criteria which continue to rule the world. Production is not always rational, and is usually tied to economic variables which assign to products a value that does not necessarily correspond to their real worth. This frequently leads to an overproduction of some commodities, with unnecessary impact on the environment and with negative results on regional economies.[\[133\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn133) The financial bubble also tends to be a productive bubble. The problem of the real economy is not confronted with vigour, yet it is the real economy which makes diversification and improvement in production possible, helps companies to function well, and enables small and medium businesses to develop and create employment.
 
@@ -543,7 +537,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 198\. Politics and the economy tend to blame each other when it comes to poverty and environmental degradation. It is to be hoped that they can acknowledge their own mistakes and find forms of interaction directed to the common good. While some are concerned only with financial gain, and others with holding on to or increasing their power, what we are left with are conflicts or spurious agreements where the last thing either party is concerned about is caring for the environment and protecting those who are most vulnerable. Here too, we see how true it is that “unity is greater than conflict”.[\[140\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn140)
 
-## **V. Religions in Dialogue with SCIENCE**
+## V. Religions in Dialogue with Science
 
 199\. It cannot be maintained that empirical science provides a complete explanation of life, the interplay of all creatures and the whole of reality. This would be to breach the limits imposed by its own methodology. If we reason only within the confines of the latter, little room would be left for aesthetic sensibility, poetry, or even reason’s ability to grasp the ultimate meaning and purpose of things.[\[141\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn141) I would add that “religious classics can prove meaningful in every age; they have an enduring power to open new horizons… Is it reasonable and enlightened to dismiss certain writings simply because they arose in the context of religious belief?” [\[142\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn142) It would be quite simplistic to think that ethical principles present themselves purely in the abstract, detached from any context. Nor does the fact that they may be couched in religious language detract from their value in public debate. The ethical principles capable of being apprehended by reason can always reappear in different guise and find expression in a variety of languages, including religious language.
 
@@ -553,11 +547,11 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 # Chapter Six
 
-## **ECOLOGICAL Education and SPIRITUALITY**
+## Ecological Education and Spirituality
 
 202\. Many things have to change course, but it is we human beings above all who need to change. We lack an awareness of our common origin, of our mutual belonging, and of a future to be shared with everyone. This basic awareness would enable the development of new convictions, attitudes and forms of life. A great cultural, spiritual and educational challenge stands before us, and it will demand that we set out on the long path of renewal.
 
-## **I. Towards a New LIFESTYLE**
+## I. Towards a New Lifestyle
 
 203\. Since the market tends to promote extreme consumerism in an effort to sell its products, people can easily get caught up in a whirlwind of needless buying and spending. Compulsive consumerism is one example of how the techno-economic paradigm affects individuals. Romano Guardini had already foreseen this: “The gadgets and technics forced upon him by the patterns of machine production and of abstract planning mass man accepts quite simply; they are the forms of life itself. To either a greater or lesser degree mass man is convinced that his conformity is both reasonable and just”.[\[144\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn144) This paradigm leads people to believe that they are free as long as they have the supposed freedom to consume. But those really free are the minority who wield economic and financial power. Amid this confusion, postmodern humanity has not yet achieved a new self-awareness capable of offering guidance and direction, and this lack of identity is a source of anxiety. We have too many means and only a few insubstantial ends.
 
@@ -571,7 +565,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 208\. We are always capable of going out of ourselves towards the other. Unless we do this, other creatures will not be recognized for their true worth; we are unconcerned about caring for things for the sake of others; we fail to set limits on ourselves in order to avoid the suffering of others or the deterioration of our surroundings. Disinterested concern for others, and the rejection of every form of self-centeredness and self-absorption, are essential if we truly wish to care for our brothers and sisters and for the natural environment. These attitudes also attune us to the moral imperative of assessing the impact of our every action and personal decision on the world around us. If we can overcome individualism, we will truly be able to develop a different lifestyle and bring about significant changes in society.
 
-## **II. Educating for the Covenant Between Humanity and the ENVIRONMENT**
+## II. Educating for the Covenant Between Humanity and the Environment
 
 209\. An awareness of the gravity of today’s cultural and ecological crisis must be translated into new habits. Many people know that our current progress and the mere amassing of things and pleasures are not enough to give meaning and joy to the human heart, yet they feel unable to give up what the market sets before them. In those countries which should be making the greatest changes in consumer habits, young people have a new ecological sensitivity and a generous spirit, and some of them are making admirable efforts to protect the environment. At the same time, they have grown up in a milieu of extreme consumerism and affluence which makes it difficult to develop other habits. We are faced with an educational challenge.
 
@@ -587,7 +581,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 215\. In this regard, “the relationship between a good aesthetic education and the maintenance of a healthy environment cannot be overlooked”.[\[150\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn150) By learning to see and appreciate beauty, we learn to reject self-interested pragmatism. If someone has not learned to stop and admire something beautiful, we should not be surprised if he or she treats everything as an object to be used and abused without scruple. If we want to bring about deep change, we need to realize that certain mindsets really do influence our behaviour. Our efforts at education will be inadequate and ineffectual unless we strive to promote a new way of thinking about human beings, life, society and our relationship with nature. Otherwise, the paradigm of consumerism will continue to advance, with the help of the media and the highly effective workings of the market.
 
-## **III. Ecological CONVERSION**
+## III. Ecological Conversion
 
 216\. The rich heritage of Christian spirituality, the fruit of twenty centuries of personal and communal experience, has a precious contribution to make to the renewal of humanity. Here, I would like to offer Christians a few suggestions for an ecological spirituality grounded in the convictions of our faith, since the teachings of the Gospel have direct consequences for our way of thinking, feeling and living. More than in ideas or concepts as such, I am interested in how such a spirituality can motivate us to a more passionate concern for the protection of our world. A commitment this lofty cannot be sustained by doctrine alone, without a spirituality capable of inspiring us, without an “interior impulse which encourages, motivates, nourishes and gives meaning to our individual and communal activity”.[\[151\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn151) Admittedly, Christians have not always appropriated and developed the spiritual treasures bestowed by God upon the Church, where the life of the spirit is not dissociated from the body or from nature or from worldly realities, but lived in and with them, in communion with all that surrounds us.
 
@@ -601,7 +595,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 221\. Various convictions of our faith, developed at the beginning of this Encyclical can help us to enrich the meaning of this conversion. These include the awareness that each creature reflects something of God and has a message to convey to us, and the security that Christ has taken unto himself this material world and now, risen, is intimately present to each being, surrounding it with his affection and penetrating it with his light. Then too, there is the recognition that God created the world, writing into it an order and a dynamism that human beings have no right to ignore. We read in the Gospel that Jesus says of the birds of the air that “not one of them is forgotten before God” (*Lk* 12:6). How then can we possibly mistreat them or cause them harm? I ask all Christians to recognize and to live fully this dimension of their conversion. May the power and the light of the grace we have received also be evident in our relationship to other creatures and to the world around us. In this way, we will help nurture that sublime fraternity with all creation which Saint Francis of Assisi so radiantly embodied.
 
-## **IV. Joy and PEACE**
+## IV. Joy and Peace
 
 222\. Christian spirituality proposes an alternative understanding of the quality of life, and encourages a prophetic and contemplative lifestyle, one capable of deep enjoyment free of the obsession with consumption. We need to take up an ancient lesson, found in different religious traditions and also in the Bible. It is the conviction that “less is more”. A constant flood of new consumer goods can baffle the heart and prevent us from cherishing each thing and each moment. To be serenely present to each reality, however small it may be, opens us to much greater horizons of understanding and personal fulfilment. Christian spirituality proposes a growth marked by moderation and the capacity to be happy with little. It is a return to that simplicity which allows us to stop and appreciate the small things, to be grateful for the opportunities which life affords us, to be spiritually detached from what we possess, and not to succumb to sadness for what we lack. This implies avoiding the dynamic of dominion and the mere accumulation of pleasures.
 
@@ -615,7 +609,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 227\. One expression of this attitude is when we stop and give thanks to God before and after meals. I ask all believers to return to this beautiful and meaningful custom. That moment of blessing, however brief, reminds us of our dependence on God for life; it strengthens our feeling of gratitude for the gifts of creation; it acknowledges those who by their labours provide us with these goods; and it reaffirms our solidarity with those in greatest need.
 
-## **V. Civic and Political LOVE**
+## V. Civic and Political Love
 
 228\. Care for nature is part of a lifestyle which includes the capacity for living together and communion. Jesus reminded us that we have God as our common Father and that this makes us brothers and sisters. Fraternal love can only be gratuitous; it can never be a means of repaying others for what they have done or will do for us. That is why it is possible to love our enemies. This same gratuitousness inspires us to love and accept the wind, the sun and the clouds, even though we cannot control them. In this sense, we can speak of a “universal fraternity”.
 
@@ -627,7 +621,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 232\. Not everyone is called to engage directly in political life. Society is also enriched by a countless array of organizations which work to promote the common good and to defend the environment, whether natural or urban. Some, for example, show concern for a public place (a building, a fountain, an abandoned monument, a landscape, a square), and strive to protect, restore, improve or beautify it as something belonging to everyone. Around these community actions, relationships develop or are recovered and a new social fabric emerges. Thus, a community can break out of the indifference induced by consumerism. These actions cultivate a shared identity, with a story which can be remembered and handed on. In this way, the world, and the quality of life of the poorest, are cared for, with a sense of solidarity which is at the same time aware that we live in a common home which God has entrusted to us. These community actions, when they express self-giving love, can also become intense spiritual experiences.
 
-## **VI. Sacramental Signs and the Celebration of REST**
+## VI. Sacramental Signs and the Celebration of Rest
 
 233\. The universe unfolds in God, who fills it completely. Hence, there is a mystical meaning to be found in a leaf, in a mountain trail, in a dewdrop, in a poor person’s face.[\[159\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn159) The ideal is not only to pass from the exterior to the interior to discover the action of God in the soul, but also to discover God in all things. Saint Bonaventure teaches us that “contemplation deepens the more we feel the working of God’s grace within our hearts, and the better we learn to encounter God in creatures outside ourselves”.[\[160\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn160)
 
@@ -639,7 +633,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 237\. On Sunday, our participation in the Eucharist has special importance. Sunday, like the Jewish Sabbath, is meant to be a day which heals our relationships with God, with ourselves, with others and with the world. Sunday is the day of the Resurrection, the “first day” of the new creation, whose first fruits are the Lord’s risen humanity, the pledge of the final transfiguration of all created reality. It also proclaims “man’s eternal rest in God”.[\[168\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn168) In this way, Christian spirituality incorporates the value of relaxation and festivity. We tend to demean contemplative rest as something unproductive and unnecessary, but this is to do away with the very thing which is most important about work: its meaning. We are called to include in our work a dimension of receptivity and gratuity, which is quite different from mere inactivity. Rather, it is another way of working, which forms part of our very essence. It protects human action from becoming empty activism; it also prevents that unfettered greed and sense of isolation which make us seek personal gain to the detriment of all else. The law of weekly rest forbade work on the seventh day, “so that your ox and your donkey may have rest, and the son of your maidservant, and the stranger, may be refreshed” (*Ex* 23:12). Rest opens our eyes to the larger picture and gives us renewed sensitivity to the rights of others. And so the day of rest, centred on the Eucharist, sheds it light on the whole week, and motivates us to greater concern for nature and the poor.
 
-## **VII. The Trinity and the Relationship Between CREATURES**
+## VII. The Trinity and the Relationship Between Creatures
 
 238\. The Father is the ultimate source of everything, the loving and self-communicating foundation of all that exists. The Son, his reflection, through whom all things were created, united himself to this earth when he was formed in the womb of Mary. The Spirit, infinite bond of love, is intimately present at the very heart of the universe, inspiring and bringing new pathways. The world was created by the three Persons acting as a single divine principle, but each one of them performed this common work in accordance with his own personal property. Consequently, “when we contemplate with wonder the universe in all its grandeur and beauty, we must praise the whole Trinity”.[\[169\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn169)
 
@@ -647,13 +641,13 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 240\. The divine Persons are subsistent relations, and the world, created according to the divine model, is a web of relationships. Creatures tend towards God, and in turn it is proper to every living being to tend towards other things, so that throughout the universe we can find any number of constant and secretly interwoven relationships.[\[171\]](https://www.vatican.va/content/francesco/en/encyclicals/documents/#_ftn171) This leads us not only to marvel at the manifold connections existing among creatures, but also to discover a key to our own fulfilment. The human person grows more, matures more and is sanctified more to the extent that he or she enters into relationships, going out from themselves to live in communion with God, with others and with all creatures. In this way, they make their own that trinitarian dynamism which God imprinted in them when they were created. Everything is interconnected, and this invites us to develop a spirituality of that global solidarity which flows from the mystery of the Trinity.
 
-## **VIII. Queen of All CREATION**
+## VIII. Queen of All Creation
 
 241\. Mary, the Mother who cared for Jesus, now cares with maternal affection and pain for this wounded world. Just as her pierced heart mourned the death of Jesus, so now she grieves for the sufferings of the crucified poor and for the creatures of this world laid waste by human power. Completely transfigured, she now lives with Jesus, and all creatures sing of her fairness. She is the Woman, “clothed in the sun, with the moon under her feet, and on her head a crown of twelve stars” (*Rev* 12:1). Carried up into heaven, she is the Mother and Queen of all creation. In her glorified body, together with the Risen Christ, part of creation has reached the fullness of its beauty. She treasures the entire life of Jesus in her heart (cf. *Lk* 2:19,51), and now understands the meaning of all things. Hence, we can ask her to enable us to look at this world with eyes of wisdom.
 
 242\. At her side in the Holy Family of Nazareth, stands the figure of Saint Joseph. Through his work and generous presence, he cared for and defended Mary and Jesus, delivering them from the violence of the unjust by bringing them to Egypt. The Gospel presents Joseph as a just man, hard-working and strong. But he also shows great tenderness, which is not a mark of the weak but of those who are genuinely strong, fully aware of reality and ready to love and serve in humility. That is why he was proclaimed custodian of the universal Church. He too can teach us how to show care; he can inspire us to work with generosity and tenderness in protecting this world which God has entrusted to us.
 
-## **IX. Beyond the SUN**
+## IX. Beyond the Sun
 
 243\. At the end, we will find ourselves face to face with the infinite beauty of God (cf. *1 Cor* 13:12), and be able to read with admiration and happiness the mystery of the universe, which with us will share in unending plenitude. Even now we are journeying towards the sabbath of eternity, the new Jerusalem, towards our common home in heaven. Jesus says: “I make all things new” (*Rev* 21:5). Eternal life will be a shared experience of awe, in which each creature, resplendently transfigured, will take its rightful place and have something to give those poor men and women who will have been liberated once and for all.
 
@@ -665,7 +659,7 @@ and he is beautiful and playful and robust and strong”.[\[64\]](https://www.va
 
 246\. At the conclusion of this lengthy reflection which has been both joyful and troubling, I propose that we offer two prayers. The first we can share with all who believe in a God who is the all-powerful Creator, while in the other we Christians ask for inspiration to take up the commitment to creation set before us by the Gospel of Jesus.
 
-### *A Prayer for Our earth*
+### *A Prayer for Our Earth*
 
 All-powerful God, you are present in the whole universe
 
@@ -715,7 +709,7 @@ Encourage us, we pray, in our struggle
 
 for justice, love and peace.
 
-## *A Christian Prayer in Union with creation*
+## *A Christian Prayer in Union with Creation*
 
 Father, we praise you with all your creatures.
 

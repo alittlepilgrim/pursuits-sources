@@ -15,7 +15,7 @@ tags:
   - type/magisterium
   - vatican/social-doctrine
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Compendium of the Social Doctrine of the Church
 ---
@@ -84,9 +84,7 @@ The reading of these pages is suggested above all in order to sustain and foster
 
 My predecessor, the late and venerable Cardinal François-Xavier Nguyên Van Thuân, guided with wisdom, constancy and far-sightedness the complex phase of the preparation of this document; his illness prevented him from bringing it to a conclusion with its publication. This work, entrusted to me and now offered to those who will read it, carries therefore the seal of a great witness to the Cross who remained *strong in faith* in the dark and terrible years of Vietnam. This witness will know of our gratitude for all his precious labour, undertaken with love and dedication, and he will bless those who stop to reflect on these pages.
 
-I invoke the intercession of Saint Joseph, Guardian of the Redeemer and Husband of the Blessed Virgin Mary, Patron of the Universal Church and of Work, so that this text will bear abundant fruit in the life of society as an instrument for the proclamation of the Gospel, for justice and
-
-for peace.
+I invoke the intercession of Saint Joseph, Guardian of the Redeemer and Husband of the Blessed Virgin Mary, Patron of the Universal Church and of Work, so that this text will bear abundant fruit in the life of society as an instrument for the proclamation of the Gospel, for justice and for peace.
 
 Vatican City, 2 April 2004, Memorial of Saint Francis of Paola.
 

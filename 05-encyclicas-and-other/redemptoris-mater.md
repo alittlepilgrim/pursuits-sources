@@ -11,9 +11,9 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
-description: IOANNES PAULUS PP. II REDEMPTORIS MATER On the Blessed Virgin Mary in the life of the Pilgrim Church
+description: Ioannes Paulus Pp II Redemptoris Mater On The Blessed Virgin Mary In The Life Of The Pilgrim Church
 abbreviation: jpii-rma
 ---
 
@@ -21,17 +21,15 @@ IOANNES PAULUS PP. II
 
 # Redemptoris Mater
 
-On the Blessed Virgin Mary
+## On the Blessed Virgin Mary in the Life of the Pilgrim Church
 
-in the life of the Pilgrim Church
-
-Blessing*
+Blessing
 
 Venerable Brothers and dear Sons and Daughters,
 
-Health and the Apostolic Blessing.*
+Health and the Apostolic Blessing.
 
-**INTRODUCTION**
+## Introduction
 
 1\. The Mother of the Redeemer has a precise place in the plan of salvation, for "when the time had fully come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons. And because you are sons, God has sent the Spirit of his Son into our hearts, crying, 'Abba! Father!'" (Gal. 4:4-6) ^jpii-rma-1
 
@@ -63,7 +61,7 @@ The Council expresses this when it states in another passage that Mary "has gone
 
 The Council emphasizes that the Mother of God is already the eschatological fulfillment of the Church: "In the most holy Virgin the Church has already reached that perfection whereby she exists without spot or wrinkle (cf. Eph. 5:27)"; and at the same time the Council says that "the followers of Christ still strive to increase in holiness by conquering sin, and so they raise their eyes to Mary, who shines forth to the whole community of the elect as a model of the virtues." 15 The pilgrimage of faith no longer belongs to the Mother of the Son of God: glorified at the side of her Son in heaven, Mary has already crossed the threshold between faith and that vision which is "face to face" (1 Cor. 13:12). At the same time, however, in this eschatological fulfillment, Mary does not cease to be the "Star of the Sea" (Maris Stella) 16 for all those who are still on the journey of faith. If they lift their eyes to her from their earthly existence, they do so because "the Son whom she brought forth is he whom God placed as the first-born among many brethren (Rom. 8:29)," 17 and also because "in the birth and development" of these brothers and sisters "she cooperates with a maternal love." 18
 
-**PART I - MARY IN THE MYSTERY OF CHRIST**
+## Part I. Mary in the Mystery of Christ
 
 ***1\. Full of Grace***
 
@@ -183,7 +181,7 @@ According to the Council the very moment of the Church's birth and full manifest
 
 And so, in the redemptive economy of grace, brought about through the action of the Holy Spirit, there is a unique correspondence between the moment of the Incarnation of the Word and the moment of the birth of the Church. The person who links these two moments is Mary: Mary at Nazareth and Mary in the Upper Room at Jerusalem. In both cases her discreet yet essential presence indicates the path of "birth from the Holy Spirit." Thus she who is present in the mystery of Christ as Mother becomes-by the will of the Son and the power of the Holy Spirit-present in the mystery of the Church. In the Church too she continues to be a maternal presence, as is shown by the words spoken from the Cross: "Woman, behold your son!"; "Behold, your mother."
 
-**PART II - THE MOTHER OF GOD AT THE CENTER OF THE PILGRIM CHURCH**
+## Part II. The Mother of God at the Center of the Pilgrim Church
 
 ***1\. The Church, the People of God present in all the nations of the earth***
 
@@ -303,7 +301,7 @@ The Church's love of preference for the poor is wonderfully inscribed in Mary's 
 
 The Church is thus aware-and at the present time this awareness is particularly vivid-not only that these two elements of the message contained in the Magnificat cannot be separated, but also that there is a duty to safeguard carefully the importance of "the poor" and of "the option in favor of the poor" in the word of the living God. These are matters and questions intimately connected with the Christian meaning of freedom and liberation. "Mary is totally dependent upon God and completely directed towards him, and at the side of her Son, she is the most perfect image of freedom and of the liberation of humanity and of the universe. It is to her as Mother and Model that the Church must look in order to understand in its completeness the meaning of her own mission." 93
 
-**PART III** - **MATERNAL MEDIATION**
+## Part III. Maternal Mediation
 
 ***1\. Mary, the Handmaid of the Lord***
 
@@ -434,6 +432,8 @@ As Bishop of Rome, I send to all those to whom these thoughts are addressed the 
 **JOHN PAUL II**
 
 ---
+
+## Notes
 
 **1**. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church Lumen Gentium, 52 and the whole of Chapter VIII, entitled "The Role of the Blessed Virgin Mary, Mother of God, in the Mystery of Christ and the Church."
 

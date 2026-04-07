@@ -4,33 +4,21 @@ title: Dignitatis Humanae
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html
 aliases:
-  - "*DIGNITATIS HUMANAE*"
-  - 20250822-142033
   - Dignitatis Humanae
   - dignitatis-humanae
 tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Declaration on religious freedom - Dignitatis Humanae
 abbreviation: dh
 ---
 
-Apostolicam Actuositatem
-
 # Dignitatis Humanae
 
-ON THE RIGHT OF THE PERSON AND OF COMMUNITIES
-
-TO SOCIAL AND CIVIL FREEDOM IN MATTERS RELIGIOUS
-
-PROMULGATED BY HIS HOLINESS
-
-POPE PAUL VI
-
-ON DECEMBER 7, 1965
+## On The Right Of The Person and Of Communities to Social and Civil Freedom In Matters Religious Promulgated by His Holiness Pope Paul Vi on December 7 1965
 
 1\. A sense of the dignity of the human person has been impressing itself more and more deeply on the consciousness of contemporary man,<sup>([[#^dh-fn-1|1]])</sup> and the demand is increasingly made that men should act on their own judgment, enjoying and making use of a responsible freedom, not driven by coercion but motivated by a sense of duty. The demand is likewise made that constitutional limits should be set to the powers of government, in order that there may be no encroachment on the rightful freedom of the person and of associations. This demand for freedom in human society chiefly regards the quest for the values proper to the human spirit. It regards, in the first place, the free exercise of religion in society. This Vatican Council takes careful note of these desires in the minds of men. It proposes to declare them to be greatly in accord with truth and justice. To this end, it searches into the sacred tradition and doctrine of the Church-the treasury out of which the Church continually brings forth new things that are in harmony with the things that are old. ^dh-1
 

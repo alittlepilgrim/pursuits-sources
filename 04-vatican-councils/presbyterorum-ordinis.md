@@ -4,27 +4,22 @@ title: Presbyterorum Ordinis
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html
 aliases:
+  - Presbyterorum Ordinis
   - presbyterorum-ordinis
 tags:
   - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 description: Decree on Ministry and the life priests - Presbyterorum Ordinis
 abbreviation: po
 ---
 
-DECREE ON THE MINISTRY AND LIFE OF PRIESTS
+# Presbyterorum Ordinis
 
-***PRESBYTERORUM ORDINIS***
-
-PROMULGATED BY HIS HOLINESS,
-
-POPE PAUL VI
-
-ON DECEMBER 7, 1965
+## Decree On The Ministry and Life Of Priests Promulgated by His Holiness Pope Paul VI On December 7 1965
 
 # Preface
 
@@ -46,7 +41,7 @@ The purpose, therefore, which priests pursue in their ministry and by their life
 
 3\. Priests, who are taken from among men and ordained for men in the things that belong to God in order to offer gifts and sacrifices for sins,<sup>([[#^po-fn-ch1-15|15]])</sup> nevertheless live on earth with other men as brothers. The Lord Jesus, the Son of God, a Man sent by the Father to men, dwelt among us and willed to become like his brethren in all things except sin.<sup>([[#^po-fn-ch1-16|16]])</sup> The holy apostles imitated him. Blessed Paul, the doctor of the Gentiles, "set apart for the Gospel of God" ([[romans-01#^romans-01-1|Rom 1:1)]] declares that he became all things to all men that he might save all.<sup>([[#^po-fn-ch1-17|17]])</sup> Priests of the New Testament, by their vocation and ordination, are in a certain sense set apart in the bosom of the People of God. However, they are not to be separated from the People of God or from any person; but they are to be totally dedicated to the work for which the Lord has chosen them.<sup>([[#^po-fn-ch1-18|18]])</sup> They cannot be ministers of Christ unless they be witnesses and dispensers of a life other than earthly life. But they cannot be of service to men if they remain strangers to the life and conditions of men.<sup>([[#^po-fn-ch1-19|19]])</sup> Their ministry itself, by a special title, forbids that they be conformed to this world;<sup>([[#^po-fn-ch1-20|20]])</sup> yet at the same time it requires that they live in this world among men. They are to live as good shepherds that know their sheep, and they are to seek to lead those who are not of this sheepfold that they, too, may hear the voice of Christ, so that there might be one fold and one shepherd.<sup>([[#^po-fn-ch1-21|21]])</sup> To achieve this aim, certain virtues, which in human affairs are deservedly esteemed, contribute a great deal: such as goodness of heart, sincerity, strength and constancy of mind, zealous pursuit of justice, affability, and others. The Apostle Paul commends them saying: "Whatever things are true, whatever honorable, whatever just, whatever holy, whatever loving, whatever of good repute, if there be any virtue, if anything is worthy of praise, think upon these things" ([[philippians-04#^philippians-04-8|Phil 4:8)]].<sup>([[#^po-fn-ch1-22|22]])</sup> ^po-3
 
-# Chapter Ii
+# Chapter II
 
 The Ministry of Priests
 
@@ -128,7 +123,7 @@ Priests should not be sent singly to a new field of labor, especially to one whe
 
 Works favoring vocations, therefore, whether diocesan or national, are highly recommended to the consideration of priests.<sup>([[#^po-fn-ch2-67|67]])</sup> In sermons, in catechetical instructions, and written articles, priests should set forth the needs of the Church both locally and universally, putting into vivid light the nature and excellence of the priestly ministry, which consoles heavy burdens with great joys, and in which in a special way, as the Fathers of the Church point out, the greatest love of Christ can be shown.<sup>([[#^po-fn-ch2-68|68]])</sup>
 
-# Chapter Iii
+# Chapter III
 
 The Life of Priests
 

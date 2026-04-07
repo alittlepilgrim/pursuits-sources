@@ -4,23 +4,24 @@ title: Unitatis Redintegratio
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html
 aliases:
+  - Unitatis Redintegratio
   - unitatis-redintegratio
 tags:
   - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Decree on Ecumenism - Unitatis redintegratio
 abbreviation: ur
 ---
 
-DECREE ON ECUMENISM
-
 # Unitatis Redintegratio
 
-**INTRODUCTION**
+## Decree On Ecumenism
+
+## Introduction
 
 1\. The restoration of unity among all Christians is one of the principal concerns of the Second Vatican Council. Christ the Lord founded one Church and one Church only. However, many Christian communions present themselves to men as the true inheritors of Jesus Christ; all indeed profess to be followers of the Lord but differ in mind and go their different ways, as if Christ Himself were divided.<sup>([[#^ur-fn-1|1]])</sup> Such division openly contradicts the will of Christ, scandalizes the world, and damages the holy cause of preaching the Gospel to every creature. ^ur-1
 
@@ -28,9 +29,7 @@ But the Lord of Ages wisely and patiently follows out the plan of grace on our b
 
 The Sacred Council gladly notes all this. It has already declared its teaching on the Church, and now, moved by a desire for the restoration of unity among all the followers of Christ, it wishes to set before all Catholics the ways and means by which they too can respond to this grace and to this divine call.
 
-**CHAPTER I**
-
-**CATHOLIC PRINCIPLES ON ECUMENISM**
+## Chapter I. Catholic Principles on Ecumenism
 
 2\. What has revealed the love of God among us is that the Father has sent into the world His only-begotten Son, so that, being made man, He might by His redemption give new life to the entire human race and unify it.<sup>([[#^ur-fn-2|2]])</sup> Before offering Himself up as a spotless victim upon the altar, Christ prayed to His Father for all who believe in Him: "that they all may be one; even as thou, Father, art in me, and I in thee, that they also may be one in us, so that the world may believe that thou has sent me".<sup>([[#^ur-fn-3|3]])</sup> In His Church He instituted the wonderful sacrament of the Eucharist by which the unity of His Church is both signified and made a reality. He gave His followers a new commandment to love one another,<sup>([[#^ur-fn-4|4]])</sup> and promised the Spirit, their Advocate,<sup>([[#^ur-fn-5|5]])</sup> who, as Lord and life-giver, should remain with them forever. ^ur-2
 
@@ -76,9 +75,7 @@ Nevertheless, the divisions among Christians prevent the Church from attaining t
 
 This Sacred Council is gratified to note that the participation by the Catholic faithful in ecumenical work is growing daily. It commends this work to the bishops everywhere in the world to be vigorously stimulated by them and guided with prudence.
 
-**CHAPTER II**
-
-**THE PRACTICE OF ECUMENISM**
+## Chapter II. The Practice of Ecumenism
 
 5\. The attainment of union is the concern of the whole Church, faithful and shepherds alike. This concern extends to everyone, according to his talent, whether it be exercised in his daily Christian life or in his theological and historical research. This concern itself reveals already to some extent the bond of brotherhood between all Christians and it helps toward that full and perfect unity which God in His kindness wills. ^ur-5
 
@@ -120,9 +117,7 @@ Moreover, in ecumenical dialogue, Catholic theologians standing fast by the teac
 
 12\. Before the whole world let all Christians confess their faith in the triune God, one and three in the incarnate Son of God, our Redeemer and Lord. United in their efforts, and with mutual respect, let them bear witness to our common hope which does not play us false. In these days when cooperation in social matters is so widespread, all men without exception are called to work together, with much greater reason all those who believe in God, but most of all, all Christians in that they bear the name of Christ. Cooperation among Christians vividly expresses the relationship which in fact already unites them, and it sets in clearer relief the features of Christ the Servant. This cooperation, which has already begun in many countries, should be developed more and more, particularly in regions where a social and technical evolution is taking place be it in a just evaluation of the dignity of the human person, the establishment of the blessings of peace, the application of Gospel principles to social life, the advancement of the arts and sciences in a truly Christian spirit, or also in the use of various remedies to relieve the afflictions of our times such as famine and natural disasters, illiteracy and poverty, housing shortage and the unequal distribution of wealth. All believers in Christ can, through this cooperation, be led to acquire a better knowledge and appreciation of one another, and so pave the way to Christian unity. ^ur-12
 
-**CHAPTER III**
-
-**CHURCHES AND ECCLESIAL COMMUNITIES SEPARATED FROM THE ROMAN APOSTOLIC SEE**
+## Chapter III. Churches and Ecclesial Communities Separated from the Roman Apostolic See
 
 13\. We now turn our attention to the two chief types of division as they affect the seamless robe of Christ. ^ur-13
 
@@ -200,7 +195,7 @@ Each and all these matters which are set forth in this Decree have been favorabl
 
 *Given in Rome at St. Peter's, November 21, 1964*
 
-# Notes
+## Notes
 
 1\. Cf. [[1-corinthians-01#^1-corinthians-01-13|1 Cor. 1, 13]]. ^ur-fn-1
 

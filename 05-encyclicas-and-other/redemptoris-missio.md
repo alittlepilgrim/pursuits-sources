@@ -11,9 +11,9 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
-description: Encyclical Letter Redemptoris Missio (7 December 1990)
+description: On The Permanent Validity Of The Church Missionary Mandate - Encyclical Letter Redemptoris Missio (7 December 1990)
 abbreviation: jpii-rmi
 ---
 
@@ -21,7 +21,7 @@ IOANNES PAULUS PP. II
 
 # Redemptoris Missio
 
-On the permanent validity of the Church's missionary mandate
+## On the Permanent Validity of the Church Missionary Mandate
 
 Blessing
 
@@ -29,7 +29,7 @@ Venerable Brothers, Beloved Sons and Daughters,
 
 Health and the Apostolic Blessing!
 
-**INTRODUCTION**
+## Introduction
 
 1\. The mission of Christ the Redeemer, which is entrusted to the Church, is still very far from completion. As the second millennium after Christ's coming draws to an end, an overall view of the human race shows that this mission is still only beginning and that we must commit ourselves wholeheartedly to its service. It is the Spirit who impels us to proclaim the great works of God: "For if I preach the Gospel, that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the Gospel!" (1 Cor 9: 16) ^jpii-rmi-1
 
@@ -55,7 +55,7 @@ On the other hand, our own times offer the Church new opportunities in this fiel
 
 God is opening before the Church the horizons of a humanity more fully prepared for the sowing of the Gospel. I sense that the moment has come to commit all of the Church's energies to a new evangelization and to the mission *ad gentes*. No believer in Christ, no institution of the Church can avoid this supreme duty: to proclaim Christ to all peoples.
 
-**CHAPTER I** - **JESUS CHRIST, THE ONLY SAVIOR**
+## Chapter I – Jesus Christ, the Only Savior
 
 4\. In my first encyclical, in which I set forth the program of my Pontificate, I said that "the Church's fundamental function in every age, and particularly in ours, is to direct man's gaze, to point the awareness and experience of the whole of humanity toward the mystery of Christ." 4 ^jpii-rmi-4
 
@@ -113,7 +113,7 @@ The temptation today is to reduce Christianity to merely human wisdom, a pseudo-
 
 This is why the Church's mission derives not only from the Lord's mandate but also from the profound demands of God's life within us. Those who are incorporated in the Catholic Church ought to sense their privilege and for that very reason their greater obligation of *bearing witness to the faith and to the Christian life* as a service to their brothers and sisters and as a fitting response to God. They should be ever mindful that "they owe their distinguished status not to their own merits but to Christ's special grace; and if they fail to respond to this grace in thought, word and deed, not only will they not be saved, they will be judged more severely." 20
 
-**CHAPTER II - THE KINGDOM OF GOD**
+## Chapter II – The Kingdom of God
 
 12\. "It is 'God, who is rich in mercy' whom Jesus Christ has revealed to us as Father: it is his very Son who, in himself, has manifested him and made him known to us." 21 I wrote this at the beginning of my Encyclical *Dives in Misericordia*, to show that Christ is the revelation and incarnation of the Father's mercy. Salvation consists in believing and accepting the mystery of the Father and of his love, made manifest and freely given in Jesus through the Spirit. In this way the kingdom of God comes to be fulfilled: the kingdom prepared for in the Old Testament, brought about by Christ and in Christ, and proclaimed to all peoples by the Church, which works and prays for its perfect and definitive realization. ^jpii-rmi-12
 
@@ -175,7 +175,7 @@ The many dimensions of the kingdom of God 29 do not weaken the foundations and p
 
 Finally, the Church serves the kingdom by her intercession, since the kingdom by its very nature is God's gift and work, as we are reminded by the gospel parables and by the prayer which Jesus taught us. We must ask for the kingdom, welcome it and make it grow within us; but we must also work together so that it will be welcomed and will grow among all people, until the time when Christ "delivers the kingdom to God the Father" and "God will be everything to everyone" (cf. 1 Cor 15:24, 28).
 
-**CHAPTER III - THE HOLY SPIRIT: THE PRINCIPAL AGENT OF MISSION**
+## Chapter III – The Holy Spirit – The Principal Agent of Mission
 
 21\. "At the climax of Jesus' messianic mission, the Holy Spirit becomes present in the Paschal Mystery in all of his divine subjectivity: as the one who is now to continue the salvific work rooted in the sacrifice of the cross. Of course Jesus entrusts this work to human beings: to the apostles, to the Church. Nevertheless, in and through them the Holy Spirit remains the transcendent and principal agent for the accomplishment of this work in the human spirit and in the history of the world." 31 ^jpii-rmi-21
 
@@ -237,7 +237,7 @@ Moreover, the universal activity of the Spirit is not to be separated from his p
 
 The history of humanity has known many major turning points which have encouraged missionary outreach, and the Church, guided by the Spirit, has always responded to them with generosity and farsightedness. Results have not been lacking. Not long ago we celebrated the millennium of the evangelization of Rus' and the Slav peoples, and we are now preparing to celebrate the five hundredth anniversary of the evangelization of the Americas. Similarly, there have been recent commemorations of the centenaries of the first missions in various countries of Asia, Africa and Oceania. Today the Church must face other challenges and push forward to new frontiers, both in the initial mission *ad gentes* and in the new evangelization of those peoples who have already heard Christ proclaimed. Today all Christians, the particular churches and the universal Church, are called to have the same courage that inspired the missionaries of the past, and the same readiness to listen to the voice of the Spirit.
 
-**CHAPTER IV - THE VAST HORIZONS OF THE MISSION *AD GENTES***
+## Chapter IV – The Vast Horizons of the Mission Ad Gentes
 
 31\. The Lord Jesus sent his apostles to every person, people and place on earth. In the apostles, the Church received a universal mission-one which knows no boundaries-which involves the communication of salvation in its integrity according to that fullness of life which Christ came to bring (cf. Jn 10:10). The Church was "sent by Christ to reveal and communicate the love of God to all people and nations." 49 ^jpii-rmi-31
 
@@ -333,7 +333,7 @@ The fact remains however that the "ends of the earth" to which the Gospel must b
 
 We need therefore to direct our attention toward those geographical areas and cultural settings which still remain uninfluenced by the Gospel. All who believe in Christ should feel, as an integral part of their faith, an apostolic concern to pass on to others its light and joy. This concern must become, as it were, a hunger and thirst to make the Lord known, given the vastness of the non-Christian world.
 
-**CHAPTER V - THE PATHS OF MISSION**
+## Chapter V – The Paths of Mission
 
 41\. "Missionary activity is nothing other and nothing less than the manifestation or epiphany of God's plan and its fulfillment in the world and in history; in this history God, by means of missions, clearly accomplishes the history of salvation." 68 What paths does the Church follow in order to achieve this goal? ^jpii-rmi-41
 
@@ -475,7 +475,7 @@ In fidelity to the spirit of the Beatitudes, the Church is called to be on the s
 
 It is in fact these "works of charity" that reveal the soul of all missionary activity: love, which has been and remains the driving force of mission, and is also "the sole criterion for judging what is to be done or not done, changed or not changed. It is the principle which must direct every action, and end to which that action must be directed. When we act with a view to charity, or are inspired by charity, nothing is unseemly and everything is good." 116
 
-**CHAPTER VI - LEADERS AND WORKERS IN THE MISSIONARY APOSTOLATE**
+## Chapter VI – Leaders and Workers in the Missionary Apostolate
 
 61\. Without witnesses there can be no witness, just as without missionaries there can be no missionary activity. Jesus chooses and sends people forth to be his witnesses and apostles, so that they may share in his mission and continue in his saving work: "You shall be my witnesses in Jerusalem and in all Judea and Samaria and to the end of the earth" (Acts 1:8). ^jpii-rmi-61
 
@@ -569,7 +569,7 @@ The same congregation, which has behind it a long and illustrious history, is ca
 
 The bodies and institutions involved in missionary activity should join forces and initiatives as opportunity suggests. Conferences of Major Superiors should have this same concern in their own sphere, maintaining contact with Episcopal Conferences in accordance with established directives and norms,163 and also having recourse to mixed commissions.164 Also desirable are meetings and other forms of cooperation between the various missionary institutions, both in formation and study,165 as well as in the actual apostolate.
 
-**CHAPTER VII - COOPERATION IN MISSIONARY ACTIVITY**
+## Chapter VII – Cooperation in Missionary Activity
 
 77\. Since they are members of the Church by virtue of their Baptism, all Christians share responsibility for missionary activity. "Missionary cooperation" is the expression used to describe the sharing by communities and individual Christians in this right and duty. ^jpii-rmi-77
 
@@ -651,7 +651,7 @@ The number of those awaiting Christ is still immense: the human and cultural gro
 
 We cannot be content when we consider the millions of our brothers sisters, who like us have been redeemed by the blood of Christ, but who live in ignorance of the love of God. For each believer, as for the entire Church, the missionary task must remain foremost, for it concerns the eternal destiny of humanity and corresponds to God's mysterious and merciful plan.
 
-**CHAPTER VIII - MISSIONARY SPIRITUALITY**
+## Chapter VIII – Missionary Spirituality
 
 87\. Missionary activity demands a specific spirituality, which applies in particular to all those whom God has called to be missionaries. ^jpii-rmi-87
 
@@ -714,6 +714,8 @@ To "Mary's mediation, wholly oriented toward Christ and tending to the revelatio
 **JOHN PAUL II**
 
 ---
+
+## Notes
 
 **[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. Cf. Paul VI, Message for World Mission Day, 1972, *Insegnamenti* X, (1972), 522: "How many internal tensions, which weaken and divide certain local churches and institutions, would disappear before the firm conviction that the salvation of local communities is procured through cooperation in work for the spread of the Gospel to the farthest bounds of the earth!"
 

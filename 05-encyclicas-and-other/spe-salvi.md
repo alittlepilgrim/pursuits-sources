@@ -13,7 +13,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-30
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Spe salvi, Encyclical of Pope Benedict XVI, Christian faith, christian hope, redemption, salvation
 abbreviation: benxvi-ss
@@ -21,25 +21,11 @@ abbreviation: benxvi-ss
 
 # Spe Salvi (November 30, 2007)
 
-Source: [](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html)
-
-## Encyclical Letter
+[Source](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html)
 
 ## Spe Salvi
 
-### Of the Supreme Pontiff
-
-### Benedict Xvi
-
-### To the Bishops
-
-### Priests and Deacons
-
-### Men and Women Religious
-
-### And All the Lay Faithful
-
-### On Christian Hope
+Encyclical Letter Of The Supreme Pontiff Benedict XVI To The Bishops Priests And Deacons Men And Women Religious And All The Lay Faithful On Christian Hope
 
 ## Introduction
 
@@ -177,9 +163,11 @@ And however much “for all” may be part of the great hope—since I cannot be
 
 *Given in Rome, at Saint Peter's, on 30 November, the Feast of Saint Andrew the Apostle, in the year 2007, the third of my Pontificate.*
 
-### Benedictus Pp. Xvi
+Benedictus Pp. Xvi
 
 ---
+
+## Notes
 
 [1] *Corpus Inscriptionum Latinarum* VI, no. 26003.
 

@@ -13,7 +13,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-30
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Deus Caritas Est, First Encyclical of Pope Benedict XVI, God is love, Caritas, agape
 abbreviation: benxvi-dce
@@ -21,25 +21,25 @@ abbreviation: benxvi-dce
 
 # Deus Caritas Est (December 25, 2005)
 
-Source: [](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)
+[Source] (https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)
 
 ## Encyclical Letter
 
-## Deus Caritas Est
+Deus Caritas Est
 
-### Of the Supreme Pontiff
+Of the Supreme Pontiff
 
-### Benedict Xvi
+Benedict Xvi
 
-### To the Bishops
+To the Bishops
 
-### Priests and Deacons
+Priests and Deacons
 
-### Men and Women Religious
+Men and Women Religious
 
-### And All the Lay Faithful
+And All the Lay Faithful
 
-### On Christian Love
+On Christian Love
 
 ## Introduction
 
@@ -49,9 +49,7 @@ Source: [](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/
 
 In a world where the name of God is sometimes associated with vengeance or even a duty of hatred and violence, this message is both timely and significant. For this reason, I wish in my first Encyclical to speak of the love which God lavishes upon us and which we in turn must share with others. That, in essence, is what the two main parts of this Letter are about, and they are profoundly interconnected. The first part is more speculative, since I wanted here—at the beginning of my Pontificate—to clarify some essential facts concerning the love which God mysteriously and gratuitously offers to man, together with the intrinsic link between that Love and the reality of human love. The second part is more concrete, since it treats the ecclesial exercise of the commandment of love of neighbour. The argument has vast implications, but a lengthy treatment would go beyond the scope of the present Encyclical. I wish to emphasize some basic elements, so as to call forth in the world renewed energy and commitment in the human response to God's love.
 
-## Part I
-
-### The Unity of Love in Creation and in Salvation History
+## Part I. The Unity of Love in Creation and in Salvation History
 
 ## A Problem of Language
 
@@ -119,9 +117,7 @@ In the gradual unfolding of this encounter, it is clearly revealed that love is 
 
 18\. Love of neighbour is thus shown to be possible in the way proclaimed by the Bible, by Jesus. It consists in the very fact that, in God and with God, I love even the person whom I do not like or even know. This can only take place on the basis of an intimate encounter with God, an encounter which has become a communion of will, even affecting my feelings. Then I learn to look on this other person not simply with my eyes and my feelings, but from the perspective of Jesus Christ. His friend is my friend. Going beyond exterior appearances, I perceive in others an interior desire for a sign of love, of concern. This I can offer them not only through the organizations intended for such purposes, accepting it perhaps as a political necessity. Seeing with the eyes of Christ, I can give to others much more than their outward necessities; I can give them the look of love which they crave. Here we see the necessary interplay between love of God and love of neighbour which the *[First Letter of John](http://www.vatican.va/archive/ENG0839/__P12B.HTM)* speaks of with such insistence. If I have no contact whatsoever with God in my life, then I cannot see in the other anything more than the other, and I am incapable of seeing in him the image of God. But if in my life I fail completely to heed others, solely out of a desire to be “devout” and to perform my “religious duties”, then my relationship with God will also grow arid. It becomes merely “proper”, but loveless. Only my readiness to encounter my neighbour and to show him love makes me sensitive to God as well. Only if I serve my neighbour can my eyes be opened to what God does for me and how much he loves me. The saints—consider the example of Blessed Teresa of Calcutta—constantly renewed their capacity for love of neighbour from their encounter with the Eucharistic Lord, and conversely this encounter acquired its real- ism and depth in their service to others. Love of God and love of neighbour are thus inseparable, they form a single commandment. But both live from the love of God who has loved us first. No longer is it a question, then, of a “commandment” imposed from without and calling for the impossible, but rather of a freely-bestowed experience of love from within, a love which by its very nature must then be shared with others. Love grows through love. Love is “divine” because it comes from God and unites us to God; through this unifying process it makes us a “we” which transcends our divisions and makes us one, until in the end God is “all in all” (*1 Cor* 15:28). ^benxvi-dce-18
 
-## Part Ii
-
-### Caritas
+## Part II. Caritas
 
 ### The Practice of Love by the Church as a “community of Love”
 
@@ -239,9 +235,11 @@ In the Catholic Church, and also in the other Churches and Ecclesial Communities
 
 *Given in Rome, at Saint Peter's, on 25 December, the Solemnity of the Nativity of the Lord, in the year 2005, the first of my Pontificate.*
 
-### Benedictus Pp. Xvi
+Benedictus Pp. XVI
 
 ---
+
+## Notes
 
 [1] Cf. *Jenseits von Gut und Böse*, IV, 168.
 

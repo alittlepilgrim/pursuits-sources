@@ -16,7 +16,7 @@ tags:
   - type/magisterium
   - vatican/social-doctrine
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Compendium of the Social Doctrine of the Church
 ---
@@ -31,7 +31,7 @@ description: Compendium of the Social Doctrine of the Church
 
 > “The theological dimension is needed both for interpreting and for solving present day problems in human society”. (*[Centesimus Annus](https://www.vatican.va/edocs/ENG0214/__P8.HTM)*, 55)
 
-# Chapter One, God's Plan of Love for Humanity
+# Chapter One. God's Plan of Love for Humanity
 
 **I. GOD'S LIBERATING ACTION IN THE HISTORY OF ISRAEL**
 
@@ -61,9 +61,7 @@ b. **The principle of creation and God's gratuitous action**
 
 **27\.** *It is in the free action of God the Creator that we find the very meaning of creation, even if it has been distorted by the experience of sin*. In fact, the narrative of the first sin (cf. *Gen* 3:1-24) describes the permanent temptation and the disordered situation in which humanity comes to find itself after the fall of its progenitors. Disobedience to God means hiding from his loving countenance and seeking to control one's life and action in the world. Breaking the relation of communion with God causes a rupture in the internal unity of the human person, in the relations of communion between man and woman and of the harmonious relations between mankind and other creatures\[29\]. It is in this original estrangement that are to be sought the deepest roots of all the evils that afflict social relations between people, of all the situations in economic and political life that attack the dignity of the person, that assail justice and solidarity. ^csdc-27
 
-**II. JESUS CHRIST
-
-THE FULFILMENT OF THE FATHER'S PLAN OF LOVE**
+**II. JESUS CHRIST – THE FULFILMENT OF THE FATHER'S PLAN OF LOVE**
 
 a. **In Jesus Christ the decisive event of the history of God with mankind is fulfilled**
 
@@ -173,17 +171,17 @@ d. **Mary and her “*fiat*” in God's plan of love**
 
 Looking to the heart of Mary, to the depth of her faith expressed in the words of the *Magnificat*, Christ's disciples are called to renew ever more fully in themselves “the awareness that *the truth about God who saves*, the truth about God who is the source of every gift, *cannot be separated from the manifestation of his love of preference for the poor and humble*, that love which, celebrated in the *Magnificat*, is later expressed in the words and works of Jesus”\[71\]. Mary is totally dependent upon God and completely directed towards him by the impetus of her faith. She is “the most perfect image of freedom and of the liberation of humanity and of the universe”\[72\].
 
-# Chapter Two, the Church's Mission and Social Doctrine
+# Chapter Two. The Church's Mission and Social Doctrine
 
 ## I. Evangelization and Social Doctrine
 
-### A. **The Church, God's Dwelling Place with Men and women**
+### A. The Church, God's Dwelling Place with Men and Women
 
 **60\.** *The Church, sharing in mankind's joys and hopes, in its anxieties and sadness, stands with every man and woman* of every place and time, to bring them the good news of the Kingdom of God, which in Jesus Christ has come and continues to be present among them\[73\]. In the midst of mankind and in the world she is the sacrament of God's love and, therefore, of the most splendid hope, which inspires and sustains every authentic undertaking for and commitment to human liberation and advancement. The Church is present among mankind as God's tent of meeting, “God's dwelling place among men” (cf. *Rev* 21:3), so that man is not alone, lost or frightened in his task of making the world more human; thus men and women find support in the redeeming love of Christ. As minister of salvation, the Church is not in the abstract nor in a merely spiritual dimension, but in the context of the history and of the world in which man lives\[74\]. Here mankind is met by God's love and by the vocation to cooperate in the divine plan. ^csdc-60
 
 **61\.** *Unique and unrepeatable in his individuality, every person is a being who is open to relationships with others in society*. Life together in society, in the network of relationships linking individuals, families and intermediate groups by encounter, communication and exchange, ensures a higher quality of living. The common good that people seek and attain in the formation of social communities is the guarantee of their personal, familial and associative good\[75\]. These are the reasons for which society originates and takes shape, with its array of structures, that is to say its political, economic, juridical and cultural constructs. To man, “as he is involved in a complex network of relationships within modern societies”\[76\], the Church addresses her social doctrine. As an expert in humanity\[77\], she is able to understand man in his vocation and aspirations, in his limits and misgivings, in his rights and duties, and to speak a word of life that reverberates in the historical and social circumstances of human existence. ^csdc-61
 
-### B. **Enriching and Permeating Society with the Gospel**
+### B. Enriching and Permeating Society with the Gospel
 
 **62\.** *With her social teaching the Church seeks to proclaim the Gospel and make it present in the complex network of social relations*. It is not simply a matter of reaching out to man in society — man as the recipient of the proclamation of the Gospel — but of *enriching and permeating society itself with the Gospel*\[78\]. For the Church, therefore, tending to the needs of man means that she also involves society in her missionary and salvific work. The way people live together in society often determines the quality of life and therefore the conditions in which every man and woman understand themselves and make decisions concerning themselves and their vocation. For this reason, the Church is not indifferent to what is decided, brought about or experienced in society; she is attentive to the moral quality — that is, the authentically human and humanizing aspects — of social life. Society — and with it, politics, the economy, labour, law, culture — is not simply a secular and worldly reality, and therefore outside or foreign to the message and economy of salvation. Society in fact, with all that is accomplished within it, concerns man. Society is made up of men and women, who are “the primary and fundamental way for the Church”\[79\]. ^csdc-62
 
@@ -195,7 +193,7 @@ As the Gospel reverberates by means of the Church in the today of men and women\
 
 **65\.** *Redemption begins with the Incarnation, by which the Son of God takes on all that is human, except sin, according to the solidarity established by the wisdom of the Divine Creator, and embraces everything in his gift of redeeming Love*. Man is touched by this Love in the fullness of his being: a being that is corporeal and spiritual, that is in a solidary relationship with others. The whole man — not a detached soul or a being closed within its own individuality, but a person and a society of persons — is involved in the salvific economy of the Gospel. As bearer of the Gospel's message of Incarnation and Redemption, the Church can follow no other path: with her social doctrine and the effective action that springs from it, not only does she not hide her face or tone down her mission, but she is faithful to Christ and shows herself to men and women as “the universal sacrament of salvation”\[84\]. This is especially true in times such as the present, marked by increasing interdependence and globalization of social issues. ^csdc-65
 
-### C. **Social Doctrine, Evangelization and Human promotion**
+### C. Social Doctrine, Evangelization and Human Promotion
 
 **66\.** *The Church's social doctrine is an integral part of her evangelizing ministry*. Nothing that concerns the community of men and women — situations and problems regarding justice, freedom, development, relations between peoples, peace — is foreign to evangelization, and evangelization would be incomplete if it did not take into account the mutual demands continually made by the Gospel and by the concrete, personal and social life of man\[85\]. Profound links exist between evangelization and human promotion: “These include links of an anthropological order, because the man who is to be evangelized is not an abstract being but is subject to social and economic questions. They also include links in the theological order, since one cannot disassociate the plan of creation from the plan of Redemption. The latter plan touches the very concrete situations of injustice to be combated and of justice to be restored. They include links of the eminently evangelical order, which is that of charity: how in fact can one proclaim the new commandment without promoting in justice and in peace the true, authentic advancement of man?”\[86\]. ^csdc-66
 
@@ -203,7 +201,7 @@ As the Gospel reverberates by means of the Church in the today of men and women\
 
 **68\.** The Church does not assume responsibility for every aspect of life in society, but speaks with the competence that is hers, which is that of proclaiming Christ the Redeemer\[91\]: “Christ did not bequeath to the Church a mission in the political, economic or social order; the purpose he assigned to her was a religious one. But this religious mission can be the source of commitment, direction and vigour to establish and consolidate the community of men according to the law of God”\[92\]. This means that the Church does not intervene in technical questions with her social doctrine, nor does she propose or establish systems or models of social organization\[93\]. This is not part of the mission entrusted to her by Christ. The Church's competence comes from the Gospel: from the message that sets man free, the message proclaimed and borne witness to by the Son of God made man. ^csdc-68
 
-### D. **The Rights and Duties of the Church**
+### D. The Rights and Duties of the Church
 
 **69\.** *With her social doctrine, the Church aims “at helping man on the path of salvation”*\[94\]. This is her primary and sole purpose. There is no intention to usurp or invade the duties of others or to neglect her own; nor is there any thought of pursuing objectives that are foreign to her mission. This mission serves to give an overall shape to *the Church's right and at the same time her duty* to develop a social doctrine of her own and to influence society and societal structures with it by means of the responsibility and tasks to which it gives rise. ^csdc-69
 
@@ -215,9 +213,9 @@ Men and women must respond to the gift of salvation not with a partial, abstract
 
 *Because of the public relevance of the Gospel and faith, because of the corrupting effects of injustice, that is, of sin, the Church cannot remain indifferent to social matters*\[98\]: “To the Church belongs the right always and everywhere to announce moral principles, including those pertaining to the social order, and to make judgments on any human affairs to the extent that they are required by the fundamental rights of the human person or the salvation of souls”\[99\].
 
-## Ii. the Nature of the Church's Social Doctrine
+## II. The Nature of the Church's Social Doctrine
 
-### A. **Knowledge Illuminated by faith**
+### A. Knowledge Illuminated by Faith
 
 **72\.** *The Church's social doctrine was not initially thought of as an organic system but was formed over the course of time, through the numerous interventions of the Magisterium on social issues*. The fact that it came about in this manner makes it understandable that certain changes may have taken place with regard to its nature, method and epistemological structure. With significant allusions already being made in *[Laborem Exercens](https://www.vatican.va/edocs/ENG0217/_INDEX.HTM)*\[100\], a decisive clarification in this regard was made in the Encyclical *[Sollicitudo Rei Socialis](https://www.vatican.va/edocs/ENG0223/_INDEX.HTM)*: the Church's social doctrine “belongs to the field, not of *ideology*, but of *theology* and particularly of moral theology”\[101\]. It cannot be defined according to socio-economic parameters. It is not an ideological or pragmatic system intended to define and generate economic, political and social relationships, but is a *category unto itself*. It is “the *accurate formulation* of the results of a careful reflection on the complex realities of human existence, in society and in the international order, in the light of faith and of the Church's tradition. Its main aim is to *interpret* these realities, determining their conformity with or divergence from the lines of the Gospel teaching on man and his vocation, a vocation which is at once earthly and transcendent; its aim is thus to *guide* Christian behaviour”\[102\]. ^csdc-72
 
@@ -231,7 +229,7 @@ Men and women must respond to the gift of salvation not with a partial, abstract
 
 Being centred on the mystery of Christ, moreover, does not weaken or exclude the role of reason and hence does not deprive the Church's social doctrine of rationality or, therefore, of universal applicability. Since the mystery of Christ illuminates the mystery of man, it gives fullness of meaning to human dignity and to the ethical requirements which defend it. The Church's social doctrine is knowledge enlightened by faith, which, as such, is the expression of a greater capacity for knowledge. It explains to all people the truths that it affirms and the duties that it demands; it can be accepted and shared by all.
 
-### B. **In Friendly Dialogue with All Branches of knowledge**
+### B. In Friendly Dialogue with All Branches of Knowledge
 
 **76\.** *The Church's social doctrine avails itself of contributions from all branches of knowledge, whatever their source, and has an important interdisciplinary dimension*. “In order better to incarnate the one truth about man in different and constantly changing social, economic and political contexts, this teaching enters into dialogue with the various disciplines concerned with man. It assimilates what these disciplines have to contribute”\[108\]. The social doctrine makes use of the significant contributions of philosophy as well as the descriptive contributions of the human sciences. ^csdc-76
 
@@ -245,7 +243,7 @@ Being centred on the mystery of Christ, moreover, does not weaken or exclude the
 
 This interdisciplinary dialogue also challenges the sciences to grasp the perspectives of meaning, value and commitment that the Church's social doctrine reveals and to “open themselves to a broader horizon, aimed at serving the individual person who is acknowledged and loved in the fullness of his or her vocation”\[111\].
 
-### C. **An Expression of the Church's Ministry of teaching**
+### C. an Expression of the Church's Ministry of Teaching
 
 **79\.** *The social doctrine belongs to the Church because the Church is the subject that formulates it, disseminates it and teaches it*. It is not a prerogative of a certain component of the ecclesial body but of the entire community; it is the expression of the way that the Church understands society and of her position regarding social structures and changes. The whole of the Church community — priests, religious and laity — participates in the formulation of this social doctrine, each according to the different tasks, charisms and ministries found within her. ^csdc-79
 
@@ -255,7 +253,7 @@ This interdisciplinary dialogue also challenges the sciences to grasp the perspe
 
 *Insofar as it is part of the Church's moral teaching, the Church's social doctrine has the same dignity and authority as her moral teaching*. It is *authentic Magisterium*, which obligates the faithful to adhere to it\[115\]. The doctrinal weight of the different teachings and the assent required are determined by the nature of the particular teachings, by their level of independence from contingent and variable elements, and by the frequency with which they are invoked\[116\].
 
-### D. **For a Society Reconciled in Justice and love**
+### D. for a Society Reconciled in Justice and Love
 
 **81\.** *The object of the Church's social doctrine is essentially the same that constitutes the reason for its existence: the human person called to salvation, and as such entrusted by Christ to the Church's care and responsibility*\[117\]. By means of her social doctrine, the Church shows her concern for human life in society, aware that the quality of social life — that is, of the relationships of justice and love that form the fabric of society — depends in a decisive manner on the protection and promotion of the human person, for whom every community comes into existence. In fact, at play in society are the dignity and rights of the person, and peace in the relationships between persons and between communities of persons. These are goods that the social community must pursue and guarantee. In this perspective, the Church's social doctrine has the task of *proclamation*, but also of *denunciation*. ^csdc-81
 
@@ -265,7 +263,7 @@ This interdisciplinary dialogue also challenges the sciences to grasp the perspe
 
 **82\.** *The intent of the Church's social doctrine is of the religious and moral order*\[122\]. *Religious* because the Church's evangelizing and salvific mission embraces man “in the full truth of his existence, of his personal being and also of his community and social being”\[123\]. *Moral* because the Church aims at a “complete form of humanism”\[124\], that is to say, at the “liberation from everything that oppresses man” \[125\] and “the development of the whole man and of all men”\[126\]. The Church's social doctrine indicates the path to follow for a society reconciled and in harmony through justice and love, a society that anticipates in history, in a preparatory and prefigurative manner, the “new heavens and a new earth in which righteousness dwells” (*2 Pet* 3:13). ^csdc-82
 
-### E. **A Message for the Sons and Daughters of the Church and for humanity**
+### E. a Message for the Sons and Daughters of the Church and for Humanity
 
 **83\.** *The first recipient of the Church's social doctrine is the Church community in its entire membership, because everyone has social responsibilities that must be fulfilled*. The conscience is called by this social teaching to recognize and fulfil the obligations of justice and charity in society. This doctrine is a light of moral truth that inspires appropriate responses according to the vocation and ministry of each Christian. In the tasks of evangelization, that is to say, of teaching, catechesis and formation that the Church's social doctrine inspires, it is addressed to every Christian, each according to the competence, charisms, office and mission of proclamation that is proper to each one\[127\]. ^csdc-83
 
@@ -273,7 +271,7 @@ This interdisciplinary dialogue also challenges the sciences to grasp the perspe
 
 **84\.** *Besides being destined primarily and specifically to the sons and daughters of the Church, her social doctrine also has a universal destination*. The light of the Gospel that the Church's social doctrine shines on society illuminates all men and women, and every conscience and mind is in a position to grasp the human depths of meaning and values expressed in it and the potential of humanity and humanization contained in its norms of action. It is to all people — in the name of mankind, of human dignity which is one and unique, and of humanity's care and promotion of society — to everyone in the name of the one God, Creator and ultimate end of man, that the Church's social doctrine is addressed\[131\]. *This social doctrine is a teaching explicitly addressed to all people of good will*\[132\], and in fact is heard by members of other Churches and Ecclesial Communities, by followers of other religious traditions and by people who belong to no religious group. ^csdc-84
 
-### F. **Under the Sign of Continuity and renewal**
+### F. Under the Sign of Continuity and Renewal
 
 **85\.** *Guided by the perennial light of the Gospel and ever attentive to evolution of society, the Church's social doctrine is characterized by continuity and renewal*\[133\]. ^csdc-85
 
@@ -285,9 +283,9 @@ On the other hand, in its constant turning to history and in engaging the events
 
 *Mother and Teacher, the Church does not close herself off nor retreat within herself but is always open, reaching out to and turned towards man, whose destiny of salvation is her reason for being*. She is in the midst of men and women as the living icon of the Good Shepherd, who goes in search of and finds man where he is, in the existential and historical circumstances of his life. It is there that the Church becomes for man a point of contact with the Gospel, with the message of liberation and reconciliation, of justice and peace.
 
-## Iii. the Church's Social Doctrine in Our Time: Historical Notes
+## III. The Church's Social Doctrine in Our Time: Historical Notes
 
-### A. **The Beginning of a New path**
+### A. The Beginning of a New Path
 
 **87\.** The term “social doctrine” goes back to Pope Pius XI \[139\] and designates the doctrinal “corpus” concerning issues relevant to society which, from the Encyclical Letter *[Rerum Novarum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum_en.html)* \[140\] of Pope Leo XIII, developed in the Church through the Magisterium of the Roman Pontiffs and the Bishops in communion with them\[141\]. The Church's concern for social matters certainly did not begin with that document, for the Church has never failed to show interest in society. Nonetheless, the Encyclical Letter *[Rerum Novarum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum_en.html)* marks the beginning of a new path. Grafting itself onto a tradition hundreds of years old, it signals a new beginning and a singular development of the Church's teaching in the area of social matters\[142\]. ^csdc-87
 
@@ -295,7 +293,7 @@ On the other hand, in its constant turning to history and in engaging the events
 
 **88\.** *In the nineteenth century, events of an economic nature produced a dramatic social, political and cultural impact*. Events connected with the Industrial Revolution profoundly changed centuries-old societal structures, raising serious problems of justice and posing the first great social question — *the labour question* — prompted by the conflict between capital and labour. In this context, the Church felt the need to become involved and intervene in a new way: the *res novae* (“new things”) brought about by these events represented a challenge to her teaching and motivated her special pastoral concern for masses of people. A new discernment of the situation was needed, a discernment capable of finding appropriate solutions to unfamiliar and unexplored problems. ^csdc-88
 
-### B. **From *Rerum Novarum* to Our Own day**
+### B. from Rerum Novarum to Our Own Day
 
 **89\.** *In response to the first great social question, Pope Leo XIII promulgated the first social Encyclical, [Rerum Novarum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum_en.html)*\[143\]. This Encyclical examines the condition of salaried workers, which was particularly distressing for industrial labourers who languished in inhumane misery. The *labour question* is dealt with according to its true dimensions. It is explored in all its social and political expressions so that a proper evaluation may be made in the light of the doctrinal principles founded on Revelation and on natural law and morality. ^csdc-89
 
@@ -347,15 +345,15 @@ Blessed Pope John XXIII, in his Encyclical *[Mater et Magistra](https://www.vati
 
 to it with the equally meaningful term ‘social charity'. Pope Paul VI, expanding the concept to cover the many modern aspects of the social question, speaks of a ‘civilization of love”'\[193\]. Pope John Paul II demonstrates how the Church's social teaching moves along the axis of reciprocity between God and man: recognizing God in every person and every person in God is the condition of authentic human development. The articulate and in-depth analysis of the “new things”, and particularly of the great breakthrough of 1989 with the collapse of the Soviet system, shows appreciation for democracy and the free economy, in the context of an indispensable solidarity.
 
-### C. **In the Light and Under the Impulse of the Gospel**
+### C. In the Light and Under the Impulse of the Gospel
 
 **104\.** *The documents referred to here constitute the milestones of the path travelled by the Church's social doctrine from the time of Pope Leo XIII to our own day*. This brief summary would become much longer if we considered all the interventions motivated, other than by a specific theme, by “the pastoral concern to present to the entire Christian community and to all men of good will the fundamental principles, universal criteria and guidelines suitable for suggesting basic choices and coherent practice for every concrete situation”\[194\]. ^csdc-104
 
 *In the formulation and teaching of this social doctrine, the Church has been, and continues to be, prompted not by theoretical motivation but by pastoral concerns. She is spurred on by the repercussions that social upheavals have on people, on multitudes of men and women, on human dignity itself*, *in contexts where “man painstakingly* searches for a better world, without working with equal zeal for the betterment of his own spirit”\[195\]. For these reasons, this social doctrine has arisen and developed an “updated doctrinal ‘corpus'... \[that\] builds up gradually, as the Church, in the fullness of the word revealed by Christ Jesus and with the assistance of the Holy Spirit (cf. *Jn* 14:16,26; 16:13-15), reads events as they unfold in the course of history”\[196\].
 
-# Chapter Three. the Human Person and Human Rights
+# Chapter Three. The Human Person and Human Rights
 
-## **I. Social Doctrine and the Personalist Principle
+## I. Social Doctrine and the Personalist Principle
 
 **105\.** *The Church sees in men and women, in every person, the living image of God himself. This image finds, and must always find anew, an ever deeper and fuller unfolding of itself in the mystery of Christ, the Perfect Image of God, the One who reveals God to man and man to himself*. It is to these men and women, who have received an incomparable and inalienable dignity from God himself, that the Church speaks, rendering to them the highest and most singular service, constantly reminding them of their lofty vocation so that they may always be mindful of it and worthy of it. Christ, the Son of God, “by his incarnation has united himself in some fashion with every person”\[197\]; for this reason the Church recognizes as her fundamental duty the task of seeing that this union is continuously brought about and renewed. In Christ the Lord, the Church indicates and strives to be the first to embark upon the path of the human person\[198\], and she invites all people to recognize in everyone — near and far, known and unknown, and above all in the poor and the suffering — a brother or sister “for whom Christ died” (*1 Cor* 8:11; *Rom* 14:15)\[199\]. ^csdc-105
 
@@ -363,7 +361,7 @@ to it with the equally meaningful term ‘social charity'. Pope Paul VI, expandi
 
 **107\.** *Men and women, in the concrete circumstances of history, represent the heart and soul of Catholic social thought*\[202\]. *The whole of the Church's social doctrine, in fact, develops from the principle that affirms the inviolable dignity of the human person*\[203\]. In her manifold expressions of this knowledge, the Church has striven above all to defend human dignity in the face of every attempt to redimension or distort its image; moreover she has often denounced the many violations of human dignity. History attests that it is from the fabric of social relationships that there arise some of the best possibilities for ennobling the human person, but it is also there that lie in wait the most loathsome rejections of human dignity. ^csdc-107
 
-## Ii. the Human Person as the “IMAGO DEI”
+## II. The Human Person as the “Imago Dei”
 
 a. **Creatures in the image of God**
 
@@ -407,7 +405,7 @@ c. **The universality of sin and the universality of salvation**
 
 **123\.** *The universality of this hope also includes, besides the men and women of all peoples, heaven and earth*: “Shower, O heavens, from above, and let the skies rain down righteousness; let the earth open, that salvation may sprout forth, and let it cause righteousness to spring up also; I the Lord have created it” (*Is* 45:8). According to the New Testament, all creation, together indeed with all humanity, awaits the Redeemer: subjected to futility, creation reaches out full of hope, with groans and birth pangs, longing to be freed from decay (cf. *Rom* 8:18-22). ^csdc-123
 
-## Iii. the Many Aspects of the Human Person
+## III. The Many Aspects of the Human Person
 
 **124\.** *Prizing highly the marvellous biblical message, the Church's social doctrine stops to dwell above all on the principal and indispensable dimensions of the human person. Thus it is able to grasp the most significant facets of the mystery and dignity of human beings*. In the past there has been no lack of various reductionist conceptions of the human person, many of which are still dramatically present on the stage of modern history. These are ideological in character or are simply the result of widespread forms of custom or thought concerning mankind, human life and human destiny. The common denominator among these is the attempt to make the image of man unclear by emphasizing only one of his characteristics at the expense of all the others\[233\]. ^csdc-124
 
@@ -509,9 +507,9 @@ It is therefore necessary to stress that community life is a natural characteris
 
 **151\.** *The social nature of human beings is not uniform but is expressed in many different ways*. In fact, the common good depends on a healthy *social pluralism*. The different components of society are called to build a unified and harmonious whole, within which it is possible for each element to preserve and develop its own characteristics and autonomy. Some components — such as the family, the civil community and the religious community — respond more immediately to the intimate nature of man, while others come about more on a voluntary basis. “To promote the participation of the greatest number in the life of a society, the creation of voluntary associations and institutions must be encouraged ‘on both national and international levels, which relate to economic and social goals, to cultural and recreational activities, to sport, to various professions, and to political affairs'. This ‘*socialization'* also expresses the natural tendency for the sake of attaining objectives that exceed individual capacities. It develops the qualities of the person, especially the sense of initiative and responsibility, and helps guarantee his rights”\[301\]. ^csdc-151
 
-## Iv. Human Rights
+## IV. Human Rights
 
-### A. **The Value of Human rights**
+### A. The Value of Human Rights
 
 **152\.** *The movement towards the identification and proclamation of human rights is one of the most significant attempts to respond effectively to the inescapable demands of human dignity*\[302\]. The Church sees in these rights the extraordinary opportunity that our modern times offer, through the affirmation of these rights, for more effectively recognizing human dignity and universally promoting it as a characteristic inscribed by God the Creator in his creature\[303\]. The Church's Magisterium has not failed to note the positive value of the *Universal Declaration of Human Rights*, adopted by the United Nations on 10 December 1948, which Pope John Paul II defined as “a true milestone on the path of humanity's moral progress”\[304\]. ^csdc-152
 
@@ -523,23 +521,23 @@ light of the supernatural, it is considered that human dignity, after having bee
 
 **154\.** Human rights are to be defended not only individually but also as a whole: protecting them only partially would imply a kind of failure to recognize them. They correspond to the demands of human dignity and entail, in the first place, the fulfilment of the essential needs of the person in the material and spiritual spheres. “These rights apply to every stage of life and to every political, social, economic and cultural situation. Together they form a single whole, directed unambiguously towards the promotion of every aspect of the good of both the person and society... The integral promotion of every category of human rights is the true guarantee of full respect for each individual right”.\[312\] Universality and indivisibility are distinctive characteristics of human rights: they are “two guiding principles which at the same time demand that human rights be rooted in each culture and that their juridical profile be strengthened so as to ensure that they are fully observed”\[313\]. ^csdc-154
 
-### B. **The Specification of rights**
+### B. The Specification of Rights
 
 **155\.** *The teachings of Pope John XXIII*,\[314\] *the Second Vatican Council*,\[315\] *and Pope Paul VI* \[316\] have given abundant indication of the concept of human rights as articulated by the Magisterium. Pope John Paul II has drawn up a list of them in the Encyclical *[Centesimus Annus](https://www.vatican.va/edocs/ENG0214/_INDEX.HTM):* “the right to life, an integral part of which is the right of the child to develop in the mother's womb from the moment of conception; the right to *live in* a united family and in a moral environment conducive to the growth of the child's personality; the right to develop one's intelligence and *freedom* in seeking and knowing the *truth*; the right to share in the work which makes wise use of the earth's material resources, and to derive from that work the means to support oneself and one's dependents; and the right *freely to establish* a family, to have and to rear children through the responsible exercise of one's sexuality. In a certain sense, the source and synthesis of these rights is religious *freedom*, understood as the right to live in the truth of one's faith and in conformity with one's transcendent dignity as a person”\[317\]. ^csdc-155
 
 *The first right presented in this list is the right to life, from conception to its natural end*,\[318\] which is the condition for the exercise of all other rights and, in particular, implies the illicitness of every form of procured [[abortion]] and of euthanasia.\[319\] *Emphasis is given to the paramount value of the right to religious freedom*: “all men are to be immune from coercion on the part of individuals or of social groups and of any human power, in such wise that no one is to be forced to act in a manner contrary to his own beliefs, whether privately or publicly, whether alone or in association with others, within due limits”.\[320\] The respect of this right is an indicative sign of “man's authentic progress in any regime, in any society, system or milieu”\[321\].
 
-### C. **Rights and duties**
+### C. Rights and Duties
 
 **156\.** *Inextricably connected to the topic of rights is the issue of the duties falling to men and women*, which is given appropriate emphasis in the interventions of the Magisterium. The mutual complementarities between rights and duties — they are indissolubly linked — are recalled several times, above all in the human person who possesses them.\[322\] This bond also has a social dimension: “in human society to one man's right there corresponds a duty in all other persons: the duty, namely, of acknowledging and respecting the right in question”.\[323\] *The Magisterium underlines the contradiction inherent in affirming rights without acknowledging corresponding responsibilities*. “Those, therefore, who claim their own rights, yet altogether forget or neglect to carry out their respective duties, are people who build with one hand and destroy with the other”.\[324\] ^csdc-156
 
-### D. **Rights of Peoples and nations**
+### D. Rights of Peoples and Nations
 
 **157\.** *The field of human rights has expanded to include the rights of peoples and nations*: \[325\] in fact, “what is true for the individual is also true for peoples”.\[326\] The Magisterium points out that international law “rests upon the principle of equal respect for States, for each people's right to self-determination and for their free cooperation in view of the higher common good of humanity”.\[327\] Peace is founded not only on respect for human rights but also on respect for the rights of peoples, in particular the right to independence.\[328\] ^csdc-157
 
 The rights of nations are nothing but “‘human rights' fostered at the specific level of community life”.\[329\] A nation has a “fundamental right to existence”, to “its own language and culture, through which a people expresses and promotes... its fundamental spiritual ‘sovereignty”', to “shape its life according to its own traditions, excluding, of course, every abuse of basic human rights and in particular the oppression of minorities”, to “build its future by providing an appropriate education for the younger generation”.\[330\] The international order requires a *balance between particularity and universality*, which all nations are called to bring about, for their primary duty is to live in a posture of peace, respect and solidarity with other nations.
 
-### E. **Filling in the Gap Between the Letter and the spirit**
+### E. Filling in the Gap Between the Letter and the Spirit
 
 **158\.** *The solemn proclamation of human rights is contradicted by a painful reality of violations*, wars and violence of every kind, in the first place, genocides and mass deportations, the spreading on a virtual worldwide dimension of ever new forms of slavery such as trafficking in human beings, child soldiers, the exploitation of workers, illegal drug trafficking, prostitution. “Even in countries with democratic forms of government, these rights are not always fully respected”.\[331\] ^csdc-158
 
@@ -549,7 +547,7 @@ The rights of nations are nothing but “‘human rights' fostered at the specif
 
 *This pastoral commitment develops in a twofold direction: in the proclamation of the Christian foundations of human rights and in the denunciation of the violations of these rights*.\[338\] In any event, “*proclamation* is always more important than *denunciation*, and the latter cannot ignore the former, which gives it true solidity and the force of higher motivation”.\[339\] For greater effectiveness, this commitment is open to ecumenical cooperation, to dialogue with other religions, to all appropriate contacts with other organizations, governmental and non-governmental, at the national and international levels. The Church trusts above all in the help of the Lord and his Spirit who, poured forth into human hearts, is the surest guarantee for respecting justice and human rights, and for contributing to peace. “The promotion of justice and peace and the penetration of all spheres of human society with the light and the leaven of the Gospel have always been the object of the Church's efforts in fulfilment of the Lord's command”.\[340\]
 
-# Chapter Four, Principles of the Church's Social Doctrine
+# Chapter Four. Principles of the Church's Social Doctrine
 
 ## I. Meaning and Unity
 
@@ -565,9 +563,9 @@ peoples and nations. Because of their *permanence in time* and their *universali
 
 *These principles have a profoundly moral significance because they refer to the ultimate and organizational foundations of life in society*. To understand them completely it is necessary to act in accordance with them, following the path of development that they indicate for a life worthy of man. The ethical requirement inherent in these pre-eminent social principles concerns both the personal behaviour of individuals — in that they are the first and indispensable responsible subjects of social life at every level — and at the same time institutions represented by laws, customary norms and civil constructs, because of their capacity to influence and condition the choices of many people over a long period of time. In fact, these principles remind us that the origins of a society existing in history are found in the interconnectedness of the freedoms of all the persons who interact within it, contributing by means of their choices either to build it up or to impoverish it.
 
-## Ii. the Principle of the Common Good
+## II. The Principle of the Common Good
 
-### A. **Meaning and Primary implications**
+### A. Meaning and Primary Implications
 
 **164\.** *The principle of the common good, to which every aspect of social life must be related if it is to attain its fullest meaning, stems from the dignity, unity and equality of all people*. According to its primary and broadly accepted sense, *the common good* indicates “the sum total of social conditions which allow people, either as groups or as individuals, to reach their fulfilment more fully and more easily”.\[346\] ^csdc-164
 
@@ -575,7 +573,7 @@ peoples and nations. Because of their *permanence in time* and their *universali
 
 **165\.** *A society that wishes and intends to remain at the service of the human being at every level is a society that has the common good — the good of all people and of the whole person* \[347\] — *as its primary goal*. *The human person cannot find fulfilment in himself, that is, apart from the fact that he exists “with” others and “for” others*. This truth does not simply require that he live with others at various levels of social life, but that he seek unceasingly — in actual practice and not merely at the level of ideas — the good, that is, the meaning and truth, found in existing forms of social life. No expression of social life — from the family to intermediate social groups, associations, enterprises of an economic nature, cities, regions, States, up to the community of peoples and nations — can escape the issue of its own common good, in that this is a constitutive element of its significance and the authentic reason for its very existence\[348\]. ^csdc-165
 
-### B. **Responsibility of Everyone for the Common good**
+### B. Responsibility of Everyone for the Common Good
 
 **166\.** The demands of the common good are dependent on the social conditions of each historical period and are strictly connected to respect for and the integral promotion of the person and his fundamental rights\[349\]. These demands concern above all the commitment to peace, the organization of the State's powers, a sound juridical system, the protection of the environment, and the provision of essential services to all, some of which are at the same time human rights: food, housing, work, education and access to culture, transportation, basic health care, the freedom of communication and expression, and the protection of religious freedom\[350\]. Nor must one forget the contribution that every nation is required in duty to make towards a true worldwide cooperation for the common good of the whole of humanity and for future generations also\[351\]. ^csdc-166
 
@@ -583,7 +581,7 @@ peoples and nations. Because of their *permanence in time* and their *universali
 
 *Everyone also has the right to enjoy the conditions of social life that are brought about by the quest for the common good*. The teaching of Pope Pius XI is still relevant: “the distribution of created goods, which, as every discerning person knows, is labouring today under the gravest evils due to the huge disparity between the few exceedingly rich and the unnumbered propertyless, must be effectively called back to and brought into conformity with the norms of the common good, that is, social justice”\[354\].
 
-### C. **Tasks of the Political community**
+### C. Tasks of the Political Community
 
 **168\.** *The responsibility for attaining the common good, besides falling to individual persons, belongs also to the State, since the common good is the reason that the political authority exists*\[355\]. The State, in fact, must guarantee the coherency, unity and organization of the civil society of which it is an expression\[356\], in order that the common good may be attained with the contribution of every citizen. The individual person, the family or intermediate groups are not able to achieve their full development by themselves for living a truly human life. Hence the necessity of political institutions, the purpose of which is to make available to persons the necessary material, cultural, moral and spiritual goods. The goal of life in society is in fact the historically attainable common good\[357\]. ^csdc-168
 
@@ -591,9 +589,9 @@ peoples and nations. Because of their *permanence in time* and their *universali
 
 **170\.** *The common good of society is not an end in itself; it has value only in reference to attaining the ultimate ends of the person and the universal common good of the whole of creation*. God is the ultimate end of his creatures and for no reason may the common good be deprived of its transcendent dimension, which moves beyond the historical dimension while at the same time fulfilling it\[359\]. This perspective reaches its fullness by virtue of faith in Jesus' Passover, which sheds clear light on the attainment of humanity's true common good. Our history — the personal and collective effort to elevate the human condition — begins and ends in Jesus: thanks to him, by means of him and in light of him every reality, including human society, can be brought to its Supreme Good, to its fulfilment. A purely historical and materialistic vision would end up transforming the common good into a simple *socio-economic well-being*, without any transcendental goal, that is, without its most intimate reason for existing. ^csdc-170
 
-##III. The Universal Destination of GOODS
+## III. The Universal Destination of Goods
 
-### A. **Origin and meaning**
+### A. Origin and Meaning
 
 **171\.** *Among the numerous implications of the common good, immediate significance is taken on by the principle of the universal destination of goods*: “God destined the earth and all it contains for all men and all peoples so that all created things would be shared fairly by all mankind under the guidance of justice tempered by charity”\[360\]. This principle is based on the fact that “the original source of all that is good is the very act of God, who created both the earth and man, and who gave the earth to man so that he might have dominion over it by his work and enjoy its fruits (*Gen* 1:28-29). God gave the earth to the whole human race for the sustenance of all its members, without excluding or favouring anyone. ^csdc-171
 
@@ -607,7 +605,7 @@ This is *the foundation of the universal destination of the earth's goods*. The 
 
 **175\.** *The universal destination of goods requires a common effort to obtain for every person and for all peoples the conditions necessary for integral development, so that everyone can contribute to making a more humane world*, “in which each individual can give and receive, and in which the progress of some will no longer be an obstacle to the development of others, nor a pretext for their enslavement”\[367\]. This principle corresponds to the call made unceasingly by the Gospel to people and societies of all times, tempted as they always are by the desire to possess, temptations which the Lord Jesus chose to undergo (cf. *Mk* 1:12-13; *Mt* 4:1-11; *Lk* 4:1-13) in order to teach us how to overcome them with his grace. ^csdc-175
 
-### B. **The Universal Destination of Goods and Private property**
+### B. The Universal Destination of Goods and Private Property
 
 **176\.** *By means of work and making use of the gift of intelligence, people are able to exercise dominion over the earth and make it a fitting home*: “In this way, he makes part of the earth his own, precisely the part which he has acquired through work; *this is the origin of individual property*”\[368\]. Private property and other forms of private ownership of goods “assure a person a highly necessary sphere for the exercise of his personal and family autonomy and ought to be considered as an extension of human freedom... stimulating exercise of responsibility, it constitutes one of the conditions for civil liberty”\[369\]. Private property is an essential element of an authentically social and democratic economic policy, and it is the guarantee of a correct social order. *The Church's social doctrine requires that ownership of goods be equally accessible to all*\[370\], so that all may become, at least in some measure, owners, and it excludes recourse to forms of “common and promiscuous dominion”\[371\]. ^csdc-176
 
@@ -625,7 +623,7 @@ An *equitable distribution of land remains ever critical, especially in developi
 
 **181\.** *To the subjects, whether individuals or communities, that exercise ownership of various types of property accrue a series of objective advantages*: better living conditions, security for the future, and a greater number of options from which to choose. *On the other hand, property may also bring a series of deceptive promises that are a source of temptation*. Those people and societies that go so far as to absolutize the role of property end up experiencing the bitterest type of slavery. In fact, there is no category of possession that can be considered indifferent with regard to the influence that it may have both on individuals and on institutions. Owners who heedlessly idolize their goods (cf. *Mt* 6:24, 19:21-26; *Lk* 16:13) become owned and enslaved by them\[383\]. Only by recognizing that these goods are dependent on God the Creator and then directing their use to the common good, is it possible to give material goods their proper function as useful tools for the growth of individuals and peoples. ^csdc-181
 
-### C. **The Universal Destination of Goods and the Preferential Option for the poor**
+### C. The Universal Destination of Goods and the Preferential Option for the Poor
 
 **182\.** *The principle of the universal destination of goods requires that the poor, the marginalized and in all cases those whose living conditions interfere with their proper growth should be the focus of particular concern*. To this end, *the preferential option for the poor* should be reaffirmed in all its force\[384\]. “This is an option, or a *special form* of primacy in the exercise of Christian charity, to which the whole tradition of the Church bears witness. It affects the life of each Christian inasmuch as he or she seeks to imitate the life of Christ, but it applies equally to our *social responsibilities* and hence to our manner of living, and to the logical decisions to be made concerning the ownership and use of goods. Today, furthermore, given the worldwide dimension which the social question has assumed, this love of preference for the poor, and the decisions which it inspires in us, cannot but embrace the immense multitudes of the hungry, the needy, the homeless, those without health care and, above all, those without hope of a better future”\[385\]. ^csdc-182
 
@@ -635,9 +633,9 @@ Jesus says: “You always have the poor with you, but you will not always have m
 
 **184\.** *The Church's love for the poor is inspired by the Gospel of the Beatitudes, by the poverty of Jesus and by his attention to the poor. This love concerns material poverty and also the numerous forms of cultural and religious poverty*\[389\]. The Church, “since her origin and in spite of the failing of many of her members, has not ceased to work for their relief, defence and liberation through numerous works of charity which remain indispensable always and everywhere”\[390\]. Prompted by the Gospel injunction, “You have received without paying, give without pay” (*Mt* 10:8), the Church teaches that one should assist one's fellow man in his various needs and fills the human community with countless *works of corporal and spiritual mercy*. “Among all these, giving alms to the poor is one of the chief witnesses to fraternal charity: it is also a work of justice pleasing to God”\[391\], even if the practice of charity is not limited to alms-giving but implies addressing the social and political dimensions of the problem of poverty. In her teaching the Church constantly returns to this relationship between charity and justice: “When we attend to the needs of those in want, we give them what is theirs, not ours. More than performing works of mercy, we are paying a debt of justice”\[392\]. The Council Fathers strongly recommended that this duty be fulfilled correctly, remembering that “what is already due in justice is not to be offered as a gift of charity”\[393\]. Love for the poor is certainly “incompatible with immoderate love of riches or their selfish use” \[394\] (cf. *Jas* 5:1-6). ^csdc-184
 
-## Iv. the Principle of Subsidiarity
+## IV. The Principle of Subsidiarity
 
-### A. **Origin and meaning**
+### A. Origin and Meaning
 
 **185\.** *Subsidiarity is among the most constant and characteristic directives of the Church's social doctrine* and has been present since the first great social encyclical\[395\]. It is impossible to promote the dignity of the person without showing concern for the family, groups, associations, local territorial realities; in short, for that aggregate of economic, social, cultural, sports-oriented, recreational, professional and political expressions to which people spontaneously give life and which make it possible for them to achieve effective social growth\[396\]. This is the realm of *civil society*, understood as the sum of the relationships between individuals and intermediate social groupings, which are the first relationships to arise and which come about thanks to “the creative subjectivity of the citizen”\[397\]. This network of relationships strengthens the social fabric and constitutes the basis of a true community of persons, making possible the recognition of higher forms of social activity\[398\]. ^csdc-185
 
@@ -647,7 +645,7 @@ Jesus says: “You always have the poor with you, but you will not always have m
 
 Subsidiarity, understood *in the positive sense* as economic, institutional or juridical assistance offered to lesser social entities, entails a corresponding series of *negative* implications that require the State to refrain from anything that would de facto restrict the existential space of the smaller essential cells of society. Their initiative, freedom and responsibility must not be supplanted.
 
-### B. **Concrete indications**
+### B. Concrete Indications
 
 **187\.** The principle of subsidiarity protects people from abuses by higher-level social authority and calls on these same authorities to help individuals and intermediate groups to fulfil their duties. This principle is imperative because every person, family and intermediate group has something original to offer to the community. Experience shows that the denial of subsidiarity, or its limitation in the name of an alleged democratization or equality of all members of society, limits and sometimes even destroys the spirit of freedom and initiative. ^csdc-187
 
@@ -659,13 +657,13 @@ In order for the principle of subsidiarity to be put into practice there is a *c
 
 ## V. Participation
 
-### A. **Meaning and value**
+### A. Meaning and Value
 
 **189\.** *The characteristic implication of subsidiarity is participation*\[402\], *which is expressed essentially in a series of activities by means of which the citizen, either as an individual or in association with others, whether directly or through representation, contributes to the cultural, economic, political and social life of the civil community to which he belongs*\[403\]. *Participation is a duty to be fulfilled consciously by all, with responsibility and with a view to the common good*\[404\]. ^csdc-189
 
 *This cannot be confined or restricted to only a certain area of social life*, given its importance for growth — above all human growth — in areas such as the world of work and economic activity, especially in their internal dynamics\[405\]; in the sectors of information and culture; and, more than anything else, in the fields of social and political life even at the highest levels. The cooperation of all peoples and the building of an international community in a framework of solidarity depends on this latter area\[406\]. In this perspective it becomes absolutely necessary to encourage participation above all of the most disadvantaged, as well as the occasional rotation of political leaders in order to forestall the establishment of hidden privileges. Moreover, strong moral pressure is needed, so that the administration of public life will be the result of the shared responsibility of each individual with regard to the common good.
 
-### B. **Participation and democracy**
+### B. Participation and Democracy
 
 **190\.** Participation in community life is not only one of the greatest aspirations of the citizen, called to exercise freely and responsibly his civic role with and for others\[407\], but is also one of the pillars of all democratic orders and one of the major guarantees of the permanence of the democratic system. Democratic government, in fact, is defined first of all by the assignment of powers and functions on the part of the people, exercised in their name, in their regard and on their behalf. It is therefore clearly evident that every democracy must be participative\[408\]. This means that the different subjects of civil community at every level must be informed, listened to and involved in the exercise of the carried-out functions. ^csdc-190
 
@@ -673,15 +671,15 @@ In order for the principle of subsidiarity to be put into practice there is a *c
 
 In the area of participation, a further *source of concern is found in those countries ruled by totalitarian or dictatorial regimes*, where the fundamental right to participate in public life is denied at its origin, since it is considered a threat to the State itself\[411\]. In some countries where this right is only formally proclaimed while in reality it cannot be concretely exercised while, in still other countries the burgeoning bureaucracy *de facto* denies citizens the possibility of taking active part in social and political life\[412\].
 
-## Vi. the Principle of Solidarity
+## VI. The Principle of Solidarity
 
-### A. **Meaning and value**
+### A. Meaning and Value
 
 **192\.** Solidarity highlights in a particular way the intrinsic social nature of the human person, the equality of all in dignity and rights and the common path of individuals and peoples towards an ever more committed unity. Never before has there been such a widespread awareness of the bond of interdependence between individuals and peoples, which is found at every level\[413\]. The very rapid expansion in ways and means of communication “in real time”, such as those offered by information technology, the extraordinary advances in computer technology, the increased volume of commerce and information exchange all bear witness to the fact that, for the first time since the beginning of human history, it is now possible — at least technically — to establish relationships between people who are separated by great distances and are unknown to each other. ^csdc-192
 
 *In the presence of the phenomenon of interdependence and its constant expansion, however, there persist in every part of the world stark inequalities between developed and developing countries*, inequalities stoked also by various forms of exploitation, oppression and corruption that have a negative influence on the internal and international life of many States. *The acceleration of interdependence between persons and peoples needs to be accompanied by equally intense efforts on the ethical-social plane*, in order to avoid the dangerous consequences of perpetrating injustice on a global scale. This would have very negative repercussions even in the very countries that are presently more advantaged\[414\].
 
-### B. **Solidarity as a Social Principle and a Moral virtue**
+### B. Solidarity as a Social Principle and a Moral Virtue
 
 **193\.** *The new relationships of interdependence between individuals and peoples, which are* de facto *forms of solidarity, have to be transformed into relationships tending towards genuine ethical-social solidarity*. This is a moral requirement inherent within all human relationships. Solidarity is seen therefore under two complementary aspects: that of a *social principle*\[415\] and that of a *moral virtue*\[416\]. ^csdc-193
 
@@ -689,33 +687,33 @@ In the area of participation, a further *source of concern is found in those cou
 
 *Solidarity is also an authentic moral virtue*, not a “feeling of vague compassion or shallow distress at the misfortunes of so many people, both near and far. On the contrary, it is a *firm and persevering determination* to commit oneself to the *common good*. That is to say to the good of all and of each individual, because we are *all* really responsible *for all*”\[418\]. Solidarity rises to the rank of fundamental *social virtue* since it places itself in the sphere of justice. It is a virtue directed *par excellence* to the *common good*, and is found in “a commitment to the good of one's neighbour with the readiness, in the Gospel sense, to ‘lose oneself' for the sake of the other instead of exploiting him, and to ‘serve him' instead of oppressing him for one's own advantage (cf. *Mt* 10:40-42, 20:25; *Mk* 10:42-45; *Lk* 22:25-27)”\[419\].
 
-### C. **Solidarity and the Common Growth of mankind**
+### C. Solidarity and the Common Growth of Mankind
 
 **194\.** *The message of the Church's social doctrine regarding solidarity clearly shows that there exists an intimate bond between solidarity and the common good, between solidarity and the universal destination of goods, between solidarity and equality among men and peoples, between solidarity and peace in the world*\[420\]. The term “solidarity”, widely used by the Magisterium\[421\], expresses in summary fashion the need to recognize in the composite ties that unite men and social groups among themselves, the space given to human freedom for common growth in which all share and in which they participate. The commitment to this goal is translated into the positive contribution of seeing that nothing is lacking in the common cause and also of seeking points of possible agreement where attitudes of separation and fragmentation prevail. It translates into the willingness to give oneself for the good of one's neighbour, beyond any individual or particular interest\[422\]. ^csdc-194
 
 **195\.** *The principle of solidarity requires that men and women of our day cultivate a greater awareness that they are debtors of the society of which they have become part*. They are debtors because of those conditions that make human existence liveable, and because of the indivisible and indispensable legacy constituted by culture, scientific and technical knowledge, material and immaterial goods and by all that the human condition has produced. A similar debt must be recognized in the various forms of social interaction, so that humanity's journey will not be interrupted but remain open to present and future generations, all of them called together to share the same gift in solidarity. ^csdc-195
 
-### D. **Solidarity in the Life and Message of Jesus Christ**
+### D. Solidarity in the Life and Message of Jesus Christ
 
 **196\.** *The unsurpassed apex of the perspective indicated here is the life of Jesus of Nazareth, the New Man, who is one with humanity even to the point of “death on a cross”* (*Phil* 2:8). In him it is always possible to recognize the living sign of that measureless and transcendent love of *God-with-us*, who takes on the infirmities of his people, walks with them, saves them and makes them one\[423\]. In him and thanks to him, life in society too, despite all its contradictions and ambiguities, can be rediscovered as a place of life and hope, in that it is a sign of grace that is continuously offered to all and because it is an invitation to ever higher and more involved forms of sharing. ^csdc-196
 
 *Jesus of Nazareth makes the connection between solidarity and charity shine brightly before all, illuminating the entire meaning of this connec*tion\[424\]: “In the light of faith, solidarity seeks to go beyond itself, to take on the *specifically Christian* dimensions of total gratuity, forgiveness and reconciliation. One's neighbour is then not only a human being with his or her own rights and a fundamental equality with everyone else, but becomes the *living image* of God the Father, redeemed by the blood of Jesus Christ and placed under the permanent action of the Holy Spirit. One's neighbour must therefore be loved, even if an enemy, with the same love with which the Lord loves him or her; and for that person's sake one must be ready for sacrifice, even the ultimate one: to lay down one's life for the brethren (cf. *1 Jn* 3:16)”\[425\].
 
-## Vii. the Fundamental Values of Social Life
+## VII. The Fundamental Values of Social Life
 
-### A. **The Relationship Between Principles and values**
+### A. The Relationship Between Principles and Values
 
 **197\.** *Besides the principles that must guide the building of a society worthy of man, the Church's social doctrine also indicates fundamental values*. The relationship between principles and values is undoubtedly one of reciprocity, in that social values are an expression of appreciation to be attributed to those specific aspects of moral good that these principles foster, serving as points of reference for the proper structuring and ordered leading of life in society. These values require, therefore, both the practice of the fundamental principles of social life and the personal exercise of virtue, hence of those moral attitudes that correspond to these very values\[426\]. ^csdc-197
 
 *All social values are inherent in the dignity of the human person, whose authentic development they foster. Essentially, these values are: truth, freedom, justice, love*\[427\]. Putting them into practice is the sure and necessary way of obtaining personal perfection and a more human social existence. They constitute the indispensable point of reference for public authorities, called to carry out “substantial reforms of economic, political, cultural and technological structures and the necessary changes in institutions”\[428\]. Respect for the legitimate autonomy of earthly realities prompts the Church not to claim specific competence of a technical or temporal order\[429\], but it does not prevent her from intervening to show how, in the different choices made by men and women, these values are either affirmed or denied\[430\].
 
-### B. **Truth**
+### B. Truth
 
 **198\.** *Men and women have the specific duty to move always towards the truth, to respect it and bear responsible witness to it*\[431\]. *Living in the truth* has special significance in social relationships. In fact, when the coexistence of human beings within a community is founded on truth, it is ordered and fruitful, and it corresponds to their dignity as persons\[432\]. The more people and social groups strive to resolve social problems according to the truth, the more they distance themselves from abuses and act in accordance with the objective demands of morality. ^csdc-198
 
 *Modern times call for an intensive educational effort* \[433\] *and a corresponding commitment on the part of all so that the quest for truth* cannot be ascribed to the sum of different opinions, nor to one or another of these opinions — will be encouraged in every sector and will prevail over every attempt to relativize its demands or to offend it\[434\]. This is an issue that involves the world of public communications and that of the economy in a particular way. In these areas, the unscrupulous use of money raises ever more pressing questions, which necessarily call for greater transparency and honesty in personal and social activity.
 
-### C. **Freedom**
+### C. Freedom
 
 **199\.** *Freedom is the highest sign in man of his being made in the divine image and, consequently, is a sign of the sublime dignity of every human person*\[435\]. “Freedom is exercised in relationships between human beings. Every human person, created in the image of God, has the natural right to be recognized as a free and responsible being. All owe to each other this duty of respect. The *right to the exercise of freedom*, especially in moral and religious matters, is an inalienable requirement of the dignity of the human person”\[436\]. The meaning of freedom must not be restricted, considering it from a purely individualistic perspective and reducing it to the *arbitrary and uncontrolled exercise* of one's own personal autonomy: “Far from being achieved in total self-sufficiency and the absence of relationships, freedom only truly exists where reciprocal bonds, governed by truth and justice, link people to one another”\[437\]. The understanding of freedom becomes deeper and broader when it is defended, even at the social level, in all of its various dimensions. ^csdc-199
 
@@ -723,7 +721,7 @@ In the area of participation, a further *source of concern is found in those cou
 
 *On the other hand, freedom must also be expressed as the capacity to refuse what is morally negative, in whatever guise it may be presented*\[439\], as the capacity to distance oneself effectively from everything that could hinder personal, family or social growth. The fullness of freedom consists in the capacity to be in possession of oneself in view of the genuine good, within the context of the universal common good\[440\].
 
-### D. **Justice**
+### D. Justice
 
 **201\.** *Justice is a value that accompanies the exercise of the corresponding cardinal moral virtue*\[441\]. According to its most classic formulation, it “consists in the constant and firm will to give their due to God and neighbour”\[442\]. From a subjective point of view, justice is translated into behaviour that is *based on the will to recognize the other as a person*, while, from an objective point of view, it constitutes *the decisive criteria of morality in the intersubjective and social sphere*\[443\]. ^csdc-201
 
@@ -733,7 +731,7 @@ The Church's social Magisterium constantly calls for the most classical forms of
 
 **203\.** *The full truth about man makes it possible to move beyond a contractualistic vision of justice, which is a reductionist vision, and to open up also for justice the new horizon of solidarity and love. “By itself, justice is not enough*. Indeed, it can even betray itself, unless it is open to that deeper power which is love”\[448\]. In fact, the Church's social doctrine places alongside the value of justice that of solidarity, in that it is the privileged way of peace. If peace is the fruit of justice, “today one could say, with the same exactness and the same power of biblical inspiration (cf. *Is* 32:17; *Jas* 3:18): *Opus solidaritatis pax*, peace as the fruit of *solidarity*”\[449\]. The goal of *peace*, in fact, “will certainly be achieved through the putting into effect of social and international justice, but also through the practice of the virtues which favour togetherness, and which teach us to live in unity, so as to build in unity, by giving and receiving, a new society and a better world”\[450\]. ^csdc-203
 
-## Viii. the Way of Love
+## VIII. The Way of Love
 
 **204\.** *Among the virtues in their entirety, and in particular between virtues, social values and love, there exists a deep bond that must be ever more fully recognized*. Love, often restricted to relationships of physical closeness or limited to merely subjective aspects of action on behalf of others, must be reconsidered in its authentic value as the *highest and universal criterion of the whole of social ethics*. Among all paths, even those sought and taken in order to respond to the ever new forms of current *social questions,* the “more excellent way” (cf. *1 Cor* 12:31) is that *marked out by love.* ^csdc-204
 

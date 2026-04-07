@@ -1,24 +1,24 @@
 ---
 type: magisterium
-title: Lumen Gentium
+title: Chapter VII – The Eschatological Nature of the Pilgrim Church and Its Union with the Church in Heaven - Lumen Gentium
 author: Catholic Church
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
-  - Lumen Gentium
+  - Chapter VII – The Eschatological Nature of the Pilgrim Church and Its Union with the Church in Heaven
   - lumen-gentium-07
 tags:
+  - author/catholic-church
   - graph/bible-v2
+  - type/magisterium
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
-description: Lumen Gentium
+description: Chapter VII – The Eschatological Nature of the Pilgrim Church and Its Union with the Church in Heaven - Lumen Gentium
 ---
 
-# Lumen Gentium
-
-## Chapter Vii - the Eschatological Nature of the Pilgrim Church and Its Union with the Church in Heaven
+# Chapter VII – The Eschatological Nature of the Pilgrim Church and Its Union with the Church in Heaven
 
 48\. The Church, to which we are all called in Christ Jesus, and in which we acquire sanctity through the grace of God, will attain its full perfection only in the glory of heaven, when there will come the time of the restoration of all things.<sup>([[#^lg-fn-237|237]])</sup> At that time the human race as well as the entire world, which is intimately related to man and attains to its end through him, will be perfectly reestablished in Christ.<sup>([[#^lg-fn-238|238]])</sup>
 

@@ -15,7 +15,7 @@ tags:
   - type/magisterium
   - vatican/social-doctrine
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Compendium of the Social Doctrine of the Church
 ---
@@ -36,9 +36,9 @@ description: Compendium of the Social Doctrine of the Church
 
 SOCIAL DOCTRINE AND ECCLESIAL ACTION
 
-### **I. Pastoral Action in the Social FIELD**
+### I. Pastoral Action in the Social Field
 
-#### A. **Social Doctrine and the Inculturation of faith**
+#### A. Social Doctrine and the Inculturation of Faith
 
 **521\.** *Aware of the power of Christianity to renew even cultural and social realities*\[1105\], *the Church offers the contribution of her teaching to the building up of the human community by bringing out the social significance of the Gospel*\[1106\]. At the end of the nineteenth century, the Church's Magisterium systematically addressed the pressing social questions of the time, creating “a lasting paradigm for the Church. The Church, in fact, has something to say about specific human situations, individual, and communal, national and international. She formulates a genuine doctrine for these situations, a *corpus* which enables her to analyze social realities, to make judgments about them and to indicate directions to be taken for the just resolution of the problems involved”\[1107\]. The intervention of Pope Leo XIII in the social and political reality of his time with the Encyclical *[Rerum Novarum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum_en.html)* “gave the Church ‘citizenship status' as it were, amid the changing realities of public life, and this standing would be more fully confirmed later on”\[1108\]. ^csdc-521
 
@@ -46,7 +46,7 @@ SOCIAL DOCTRINE AND ECCLESIAL ACTION
 
 **523\.** *This Christian anthropology gives life to and supports the pastoral task of inculturation of the faith, which aims at an interior renewal, through the power of the Gospel, of modern man's criteria of judgment, the values underlying his decisions, the way he thinks and the models after which his life is patterned.* “Through inculturation the Church, for her part, becomes a more intelligible sign of what she is and a more effective instrument of mission”\[1110\]. The contemporary world is marked by a rift between the Gospel and culture, by a secularized vision of salvation that tends to reduce even Christianity to “merely human wisdom, a pseudo- science of well-being”\[1111\]. The Church is aware that she must take “*a giant step forward* in her evangelization effort, and enter into *a new stage of history* in her missionary dynamism”\[1112\]. The Church's social doctrine is situated within this pastoral vision: “The ‘new evangelization', which the modern world urgently needs,... must include among its essential elements *a proclamation of the Church's social doctrine*”\[1113\]. ^csdc-523
 
-#### B. **Social Doctrine and Social Pastoral activity**
+#### B. Social Doctrine and Social Pastoral Activity
 
 **524\.** *The Church's social teaching is the indispensable reference point that determines the nature, modality, articulation and development of pastoral activity in the social field.* It is the expression of the ministry of social evangelization, aimed at enlightening, stimulating and supporting the integral promotion of the human person through the practice of Christian liberation in its earthly and transcendent dimension. The Church exists and is at work within history. She interacts with the society and culture of her time in order to fulfil her mission of announcing the newness of the Christian message to all people, in the concrete circumstances of their difficulties, struggles and challenges. She does so in such a way that faith enlightens them so that they can understand the truth that “true liberation consists in opening oneself to the love of Christ”\[1114\]. The Church's social pastoral ministry is the living and concrete expression of the full awareness of her evangelizing mission in the social, economic, cultural and political realities of the world. ^csdc-524
 
@@ -56,7 +56,7 @@ SOCIAL DOCTRINE AND ECCLESIAL ACTION
 
 **527\.** *Above all, the pastoral activity of the Church in the social sector must bear witness to the truth of the human person.* Christian anthropology permits a discernment of social problems that will never find an adequate solution if the transcendent character of the human person, fully revealed in faith, is not safeguarded\[1118\]. *The social action of Christians must be inspired by the fundamental principle of the centrality of the human person*\[1119\]. The need to promote the integral identity of the human person prompts Christians to propose those eminent values that govern every well-ordered and productive human society: truth, justice, love and freedom\[1120\]. Pastoral activity in the social field must seek to ensure that the renewal of public life is linked to an effective respect for these values. In this way, the Church's multifaceted evangelical witness seeks to promote the awareness of the good of each person and of all people as an unlimited resource for the development of every aspect of life in society. ^csdc-527
 
-#### C. **Social Doctrine and formation**
+#### C. Social Doctrine and Formation
 
 **528\.** *The Church's social doctrine is an indispensable reference point for a totally integrated Christian formation.* The insistence of the Magisterium in proposing this doctrine as a source of inspiration for the apostolate and for social action comes from the conviction that it constitutes an extraordinary resource for formation; “this is especially true for the lay faithful who have responsibilities in various fields of social and public life. Above all, it is indispensable that they have a more exact knowledge... of the *Church's social doctrine*”\[1121\]. This doctrinal patrimony is neither taught nor known sufficiently, which is part of the reason for its failure to be suitably reflected in concrete behaviour. ^csdc-528
 
@@ -74,7 +74,7 @@ In this way, it becomes possible to recognize the action of the Holy Spirit, fro
 
 **533\.** *No less important is the commitment to use the Church's social doctrine in the formation of priests and candidates to the priesthood who, in the context of their preparation for ministry, must develop a thorough knowledge of the Church's teaching and her pastoral concerns in the social sphere as well as a keen interest in the social issues of their day.* The Congregation for Catholic Education has published a document, *Guidelines for the Study and Teaching of the Church's Social Doctrine in the Formation of Priests*\[1132\], which gives specific indications and recommendations for a correct and appropriate plan of studies for this teaching. ^csdc-533
 
-#### D. **Promoting dialogue**
+#### D. Promoting Dialogue
 
 **534.** The Church's social doctrine is a privileged instrument of dialogue between Christian communities and the civil and political community. It is an appropriate tool for promoting and cultivating attitudes of authentic and productive cooperation in ways adapted to the circumstances. The commitment of civil and political authorities, called to serve the personal and social vocation of mankind according to their own areas of competence and with the means available to them, can find in the social teaching of the Church an important support and a rich source of inspiration. ^csdc-534
 
@@ -84,7 +84,7 @@ In this way, it becomes possible to recognize the action of the Holy Spirit, fro
 
 **537\.** *The Church's social doctrine is also characterized by a constant call to dialogue among all members of the world's religions* so that together they will be able to seek the most appropriate forms of cooperation. Religion has an important role to play in the pursuit of peace, which depends on a common commitment to the integral development of the human person\[1134\]. In the spirit of the *meetings for prayer held in Assisi*\[1135\], the Church continues to invite believers of other religions to dialogue and encourage everywhere effective witness to those values shared by the entire human family. ^csdc-537
 
-#### E. **The Subjects of Social Pastoral activity**
+#### E. The Subjects of Social Pastoral Activity
 
 **538\.** *The entire people of God has a role to play as the Church fulfils her mission*. In various ways and through every member according to the gifts and the manner of acting proper to each vocation, the people of God must respond to the *duty* to proclaim and bear witness to the Gospel  (cf. *1 Cor* 9:16), in the awareness that “*missionary activity is a matter for all Christians*”.\[1136\] ^csdc-538
 
@@ -96,9 +96,9 @@ In this way, it becomes possible to recognize the action of the Holy Spirit, fro
 
 **540\.** This pastoral work in the social sector also includes the work of consecrated persons according to their particular charism. Their shining witness, especially in situations of great poverty, represents a reminder to all people of the values of holiness and generous service to one's neighbour. The total gift of self made by men and women religious is offered to the contemplation of everyone as an eloquent and prophetic sign of the Church's social doctrine. Placing themselves totally at the service of the mystery of Christ's love for mankind and the world, religious anticipate and show by their very lives some of the traits of the new humanity that this social doctrine seeks to encourage. In chastity, poverty and obedience, consecrated persons place themselves at the service of pastoral charity, especially by prayer, thanks to which they contemplate God's plan for the world and beg the Lord to open the heart of all persons to welcome within themselves the gift of a new humanity, the price of Christ's sacrifice. ^csdc-540
 
-### Ii. Social Doctrine and the Commitment of the Lay Faithful
+### II. Social Doctrine and the Commitment of the Lay Faithful
 
-#### A. **The Lay faithful**
+#### A. The Lay Faithful
 
 **541\.** *The essential characteristic of the lay faithful who work in the Lord's vineyard* (cf. *Mt* 20:1-16) *is the secular nature of their Christian discipleship, which is carried out precisely in the world*. “It belongs to the laity to seek the kingdom of God by engaging in temporal affairs and directing them according to God's will”\[1139\]. By Baptism, the laity are incorporated into Christ and are made participants in his life and mission according to their specific identity. “The term ‘laity' is here understood to mean all the faithful except those in [[holy-orders|[[holy-orders|Holy Orders]]]] and those who belong to a religious state approved by the Church. That is, the faithful who, by Baptism are incorporated into Christ, are placed in the People of God and in their own way share the priestly, prophetic and kingly office of Christ, and to the best of their ability carry on the mission of the whole Christian people in the Church and in the world”\[1140\]. ^csdc-541
 
@@ -110,7 +110,7 @@ Lay Catholics are disciples of Christ starting with the sacraments, that is, by 
 
 **544\.** *The witness of the lay faithful is born from the gift of grace, recognized, nurtured and brought to maturity*\[1142\]. This motivation makes their commitment in the world significant and is opposed to the characteristics of action that are proper to atheistic humanism, which lack an ultimate basis and are circumscribed within purely temporal limits. The eschatological perspective is the key that allows a correct understanding of human realities. From the standpoint of definitive goods, the lay faithful are able to engage in earthly activity according to the criteria of authenticity. Standards of living and greater economic productivity are not the only valid indicators for measuring the total fulfilment of the human person in this life, and they are of even less value when considering the life to come, “for man's horizons are not bounded only by the temporal order; living on the level of human history, he preserves the integrity of his eternal destiny”\[1143\]. ^csdc-544
 
-#### B. **Spirituality of the Lay faithful**
+#### B. Spirituality of the Lay Faithful
 
 **545\.** The lay faithful are called to cultivate an authentic lay spirituality by which they are reborn as new men and women, both sanctified and sanctifiers, immersed in the mystery of God and inserted in society. Such a spirituality will build up the world according to Jesus' Spirit. It will make people capable of looking beyond history, without separating themselves from it, of cultivating a passionate love for God without looking away from their bothers and sisters, whom they are able to see as the Lord sees them and love as the Lord loves them. This spirituality precludes both an intimist spiritualism and a social activism, expressing itself instead in a life- giving synthesis that bestows unity, meaning and hope on an existence that for so many different reasons is contradictory and fragmented. Prompted by such a spirituality, the lay faithful are able to contribute “to the sanctification of the world, as from within like leaven, by fulfilling their own particular duties. Thus, especially by the witness of their own life... they must manifest Christ to others”\[1144\]. ^csdc-545
 
@@ -118,13 +118,13 @@ Lay Catholics are disciples of Christ starting with the sacraments, that is, by 
 
 *Bringing faith and life together requires following the path judiciously indicated by the characteristic elements of Christian living*: the Word of God as a reference point; the liturgical celebration of the Christian Mystery; personal prayer; the authentic experience of Church enhanced by the particular formational services of discerning spiritual guides; the exercise of the social virtues and a persevering commitment to cultural and professional formation.
 
-#### C. **Acting with prudence**
+#### C. Acting with Prudence
 
 **547\.** The lay faithful should act according to the dictates of prudence, the virtue that makes it possible to discern the true good in every circumstance and to choose the right means for achieving it. Thanks to this virtue, moral principles are applied correctly to particular cases. We can identify three distinct moments as prudence is exercised to clarify and evaluate situations, to inspire decisions and to prompt action. The first moment is seen in the reflection and consultation by which the question is studied and the necessary opinions sought. The second moment is that of evaluation, as the reality is analyzed and judged in the light of God's plan. The third  moment, that of decision, is based on the preceding steps and makes it possible to choose between the different actions that may be taken. ^csdc-547
 
 **548\.** *Prudence makes it possible to make decisions that are consistent, and to make them with realism and a sense of responsibility for the consequences of one's action*. The rather widespread opinion that equates prudence with shrewdness, with utilitarian calculations, with diffidence or with timidity or indecision, is far from the correct understanding of this virtue. It is a characteristic of practical reason and offers assistance in deciding *with wisdom and courage* the course of action that should be followed, becoming the *measure* of the other virtues. Prudence affirms the good as a duty and shows in what manner the person should accomplish it\[1146\]. In the final analysis, it is a virtue that requires the mature exercise of thought and responsibility in an objective understanding of a specific situation and in making decisions according to a correct will\[1147\]. ^csdc-548
 
-#### D. **Social Doctrine and Lay associations**
+#### D. Social Doctrine and Lay Associations
 
 **549\.** *The Church's social doctrine must become an integral part of the ongoing formation of the lay faithful. Experience shows that this formative work is usually possible within lay ecclesial associations that respond to precise “criteria of ecclesiality*”.\[1148\] “*Groups, associations and movements* also have their place in the formation of the lay faithful. In fact they have the possibility, each with its own method, of offering a formation through a deeply shared experience in the apostolic life, as well as having the opportunity to integrate, to make concrete and specific the formation that their members receive from other persons and communities”.\[1149\] The Church's social doctrine sustains and sheds light on the role of associations, movements and lay groups that are committed to the Christian renewal of the various sectors of the temporal order\[1150\]. “Church communion, already present and at work in the activities of the individual, finds its specific expression in the lay faithful working together in groups, that is, in activities done with others in the course of their responsible participation in the life and mission of the Church”\[1151\]. ^csdc-549
 
@@ -132,13 +132,13 @@ Lay Catholics are disciples of Christ starting with the sacraments, that is, by 
 
 *The various specialized associations that gather people together in the name of their Christian vocation and mission within a particular professional or cultural field have a precious role to play in forming mature Christians*. For example, a Catholic association of doctors forms those who belong to it through the exercise of discernment with regard to the many problems that medical science, biology and other sciences place before the professional competence of doctors, as well as before their personal conscience and faith. The same could be also said of Catholic associations of teachers, legal professionals, businessmen and women, workers, as well as Catholic sports associations and ecological associations and so forth. In this context, the Church's social doctrine shows that it is an effective means for forming individual consciences and a country's culture.
 
-#### E. **Service in the Various Sectors of Social life**
+#### E. Service in the Various Sectors of Social Life
 
 **551\.** *The presence of the laity in social life is characterized by service, the sign and expression of love, which is seen in the areas of the family, culture, work, economics and politics according to specific aspects*. Complying with the different demands of their particular area of work, lay men and women express the truth of their faith and, at the same time, the truth of the Church's social doctrine, which fully becomes a reality when it is lived concretely in order to resolve social problems. In fact, the credibility of this social doctrine comes more immediately from the witness of action than from its internal consistency or logic\[1153\]. ^csdc-551
 
 *Having entered into The Third Millennium of the Christian era, the lay faithful will open themselves, through their witness, to all people with whom they will take on the burden of the most pressing calls of our time*. “Drawn from the treasures of the teaching of the Church, the proposals of this Council are intended for all men, whether they believe in God or whether they do not explicitly acknowledge him; they are intended to help them to a keener awareness of their own destiny, to make the work conform better to the surpassing dignity of man, to strive for a more deeply rooted sense of universal brotherhood and to meet the pressing appeals of our times with a generous and common effort of love”\[1154\].
 
-##### 1\. **Service To the Human person**
+##### 1. Service to the Human Person
 
 **552\.** *Among the areas of the social commitment of the laity, service to the human person emerges as a priority*. Promoting the dignity of every person, the most precious possession of men and women, is the “essential task, in a certain sense, the central and unifying task of the service which the Church, and the lay faithful in her, are called to render to the human family”\[1155\]. ^csdc-552
 
@@ -148,7 +148,7 @@ Lay Catholics are disciples of Christ starting with the sacraments, that is, by 
 
 **553\.** *Promoting human dignity implies above all affirming the inviolability of the right to life, from conception to natural death*, the first among all rights and the condition for all other rights of the person\[1158\]. Respect for personal dignity requires, moreover, that *the religious dimension of the  person be recognized.* “This is not simply a requirement ‘concerning matters of faith', but a requirement that finds itself inextricably bound up with the very reality of the individual”.\[1159\] The effective recognition of the *right to freedom of conscience and religious freedom* is one of the highest goods and one of the most serious duties of every people that truly wishes to ensure the good of the individual and of society\[1160\]. In the present cultural context, there is a particularly urgent need to *defend marriage and the family*, which can be adequately met only if one is convinced of the unique and singular value of these two realities for an authentic development of human society\[1161\]. ^csdc-553
 
-##### 2\. **Service In culture**
+##### 2. Service in Culture
 
 **554\.** *Culture must represent a privileged area for the presence and commitment of the Church and individual Christians.* The Second Vatican Council sees the separation of Christian faith and daily life as one of the most serious errors of our day\[1162\]. Without a metaphysical perspective, the loss of a longing for God in self-serving narcissism and the varied means found in a consumeristic lifestyle; the primacy given to technology and scientific research as ends in themselves; the emphasis placed on appearance, the quest for an image, communication techniques: all of these phenomena must be understood in their cultural aspects and placed in relation to the central issue of the human person, of integral human growth, of the human capacity to communicate and relate with other people, and of the constant human search for an answer to the great questions that run throughout life. It must be kept in mind that “culture is that through which man, as man, becomes more man, ‘is' more, has more access to ‘being'”\[1163\]. ^csdc-554
 
@@ -168,7 +168,7 @@ Lay Catholics are disciples of Christ starting with the sacraments, that is, by 
 
 **562\.** *Professionals in the field of media are not the only people with ethical duties. Those who make use of the media also have obligations. Media operators who try to meet their responsibilities deserve audiences who are aware of their own responsibilities*. The first duty of media users is to be discerning and selective. Parents, families and the Church have precise responsibilities they cannot renounce. For those who work, in various capacities, in the area of social communications, the warning of St. Paul rings out loud and clear: “Therefore, putting away falsehood, let every one speak the truth with his neighbour, for we are members one of another... Let no evil talk come out of your mouths, but only such as is good for edifying, as fits the occasion, that it may impart grace to those who hear” (*Eph* 4:25, 29). Serving the human person through the building up of a human community based on solidarity, justice and love, and spreading the truth about human life and its final fulfilment in God remain at the heart of ethics in the media\[1178\]. In the light of faith, human communication can be seen as a journey from Babel to Pentecost, or rather, as the personal and social commitment to overcome the collapse of communication (cf. *Gen* 11:4-8), opening people to the gift of tongues (cf. *Acts* 2:5-11), to communication as restored by the power of the Spirit sent by the Son. ^csdc-562
 
-##### 3\. **Service In the economy**
+##### 3. Service in the Economy
 
 **563\.** Faced with the complexity of today's economic context, the laity will be guided in their action by the principles of the social Magisterium. It is necessary that these principles be known and accepted in the area of  economic activity itself; when they are ignored, above all the principle of the centrality of the human person, the quality of this activity is compromised\[1179\]. ^csdc-563
 
@@ -178,7 +178,7 @@ The commitment of Christians will also be translated into an effort of cultural 
 
 — organizations of workers, business leaders and economists — have a precious role to play.
 
-##### 4\. **Service In politics**
+##### 4. Service in Politics
 
 **565\.** *For the lay faithful, political involvement is a worthy and demanding expression of the Christian commitment of service to others*\[1183\]. The pursuit of the common good in a spirit of service, the development of justice with particular attention to situations of poverty and suffering, respect for the autonomy of earthly realities, the principle of subsidiarity, the promotion of dialogue and peace in the context of solidarity: these are the criteria that must inspire the Christian laity in their political activity. All believers, insofar as they possess rights and duties as citizens, are obligated to respect these guiding principles. Special attention must be paid to their observance by those who occupy institutional positions dealing with the complex problems of the public domain, whether in local administrations or national and international institutions. ^csdc-565
 

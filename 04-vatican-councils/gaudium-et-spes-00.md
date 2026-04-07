@@ -10,23 +10,15 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
-description: PASTORAL CONSTITUTION  ON THE CHURCH IN THE MODERN WORLD
+description: Pastoral Constitution On The Church In The Modern World Promulgated By His Holiness Pope Paul VI On December 7 1965
 abbreviation: gs
 ---
 
-PASTORAL CONSTITUTION ON THE CHURCH IN THE MODERN WORLD
-
-**_GAUDIUM ET SPES_**
-
-PROMULGATED BY HIS HOLINESS, POPE PAUL VI
-
-ON DECEMBER 7, 1965
-
----
-
 # Gaudium Et Spes
+
+## Pastoral Constitution on The Church In The Modern World Promulgated by His Holiness Pope Paul VI on December 7 1965
 
 ## Preface
 
