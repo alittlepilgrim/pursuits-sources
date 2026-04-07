@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 16
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 16
+title: Judges, Chapter 16
+url: https://bible.usccb.org/bible/judges/16
 aliases:
   - judges-16
   - Judges, Chapter 16
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 16
 ---
 
 # Judges, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 1 Once Samson went to Gaza, where he saw a prostitute and visited her. ^judges-16-1
 
@@ -61,7 +60,7 @@ url: https://bible.usccb.org/bible/judges/16
 
 19 She put him to sleep on her lap, and called for a man who shaved off the seven locks of his hair. He immediately became helpless, for his strength had left him. ^judges-16-19
 
-20 When she said “The Philistines are upon you, Samson!” he woke from his sleep and thought, “I will go out as I have done time and again and shake myself free.” He did not realize that the L ORD had left him. ^judges-16-20
+20 When she said “The Philistines are upon you, Samson!” he woke from his sleep and thought, “I will go out as I have done time and again and shake myself free.” He did not realize that the LORD had left him. ^judges-16-20
 
 21 But the Philistines seized him and gouged out his eyes. Then they brought him down to Gaza and bound him with bronze fetters, and he was put to grinding grain in the prison. ^judges-16-21
 
@@ -85,7 +84,7 @@ the one who has multiplied our slain.”
 
 27 The temple was full of men and women: all the lords of the Philistines were there, and from the roof about three thousand men and women looked on as Samson provided amusement. ^judges-16-27
 
-28 Samson cried out to the L ORD and said, “Lord G OD, remember me! Strengthen me only this once that I may avenge myself on the Philistines at one blow for my two eyes.” ^judges-16-28
+28 Samson cried out to the LORD and said, “Lord G OD, remember me! Strengthen me only this once that I may avenge myself on the Philistines at one blow for my two eyes.” ^judges-16-28
 
 29 Samson grasped the two middle columns on which the temple rested and braced himself against them, one at his right, the other at his left. ^judges-16-29
 

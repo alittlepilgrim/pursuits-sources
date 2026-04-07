@@ -1,17 +1,18 @@
 ---
-title: "Aspirancy Handbook a Journey In Carmel: Secular Order of Discalced Carmelites Approved for Use In The United States"
-created: 2025-08-28
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: "Aspirancy Handbook a Journey In Carmel: Secular Order of Discalced Carmelites Approved for Use In The United States"
+author: Secular Order of Discalced Carmelites
 aliases:
   - "Aspirancy Handbook a Journey in Carmel: Secular order of Discalced Carmelites Approved for Use in the United States"
   - "Aspirancy Handbook a Journey In Carmel: Secular Order of Discalced Carmelites Approved for Use In The United States"
   - "Aspirancy Handbook A Journey In Carmel: Secular Order of Discalced Carmelites Approved for Use In The United States"
   - 20251008-235857
   - template
-author: Secular Order of Discalced Carmelites
-status: draft
+tags:
+  - type/study-guide
+created: 2025-08-28
+modified: 2026-04-06
+publish: false
 ---
 
 # Aspirancy Handbook a Journey in Carmel: Secular Order of Discalced Carmelites Approved for Use in the United States

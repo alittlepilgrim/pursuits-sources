@@ -1,47 +1,46 @@
 ---
-title: Deuteronomy, Chapter 30
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 30
+title: Deuteronomy, Chapter 30
+url: https://bible.usccb.org/bible/deuteronomy/30
 aliases:
   - deuteronomy-30
   - Deuteronomy, Chapter 30
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/30
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 30
 ---
 
 # Deuteronomy, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
 **Compassion for the Repentant.**
 
-1 When all these things, the blessing and the curse which I have set before you, come upon you, and you take them to heart in any of the nations where the L ORD, your God, has dispersed you, ^deuteronomy-30-1
+1 When all these things, the blessing and the curse which I have set before you, come upon you, and you take them to heart in any of the nations where the LORD, your God, has dispersed you, ^deuteronomy-30-1
 
-2 and return to the L ORD, your God, obeying his voice, according to all that I am commanding you today, you and your children, with your whole heart and your whole being, ^deuteronomy-30-2
+2 and return to the LORD, your God, obeying his voice, according to all that I am commanding you today, you and your children, with your whole heart and your whole being, ^deuteronomy-30-2
 
-3 the L ORD, your God, will restore your fortunes and will have compassion on you; he will again gather you from all the peoples where the L ORD, your God, has scattered you. ^deuteronomy-30-3
+3 the LORD, your God, will restore your fortunes and will have compassion on you; he will again gather you from all the peoples where the LORD, your God, has scattered you. ^deuteronomy-30-3
 
-4 Though you may have been dispersed to the farthest corner of the heavens, even from there will the L ORD, your God, gather you; even from there will he bring you back. ^deuteronomy-30-4
+4 Though you may have been dispersed to the farthest corner of the heavens, even from there will the LORD, your God, gather you; even from there will he bring you back. ^deuteronomy-30-4
 
-5 The L ORD, your God, will then bring you into the land your ancestors once possessed, that you may possess it; and he will make you more prosperous and numerous than your ancestors. ^deuteronomy-30-5
+5 The LORD, your God, will then bring you into the land your ancestors once possessed, that you may possess it; and he will make you more prosperous and numerous than your ancestors. ^deuteronomy-30-5
 
-6 The L ORD, your God, will circumcise your hearts and the hearts of your descendants, so that you will love the L ORD, your God, with your whole heart and your whole being, in order that you may live. ^deuteronomy-30-6
+6 The LORD, your God, will circumcise your hearts and the hearts of your descendants, so that you will love the LORD, your God, with your whole heart and your whole being, in order that you may live. ^deuteronomy-30-6
 
-7 The L ORD, your God, will put all those curses on your enemies and the foes who pursued you. ^deuteronomy-30-7
+7 The LORD, your God, will put all those curses on your enemies and the foes who pursued you. ^deuteronomy-30-7
 
-8 You, however, shall again obey the voice of the L ORD and observe all his commandments which I am giving you today. ^deuteronomy-30-8
+8 You, however, shall again obey the voice of the LORD and observe all his commandments which I am giving you today. ^deuteronomy-30-8
 
-9 Then the L ORD, your God, will generously increase your undertakings, the fruit of your womb, the offspring of your livestock, and the produce of your soil; for the L ORD, your God, will again take delight in your prosperity, just as he took delight in your ancestors’, ^deuteronomy-30-9
+9 Then the LORD, your God, will generously increase your undertakings, the fruit of your womb, the offspring of your livestock, and the produce of your soil; for the LORD, your God, will again take delight in your prosperity, just as he took delight in your ancestors’, ^deuteronomy-30-9
 
-10 because you will obey the voice of the L ORD, your God, keeping the commandments and statutes that are written in this book of the law, when you return to the L ORD, your God, with your whole heart and your whole being. ^deuteronomy-30-10
+10 because you will obey the voice of the LORD, your God, keeping the commandments and statutes that are written in this book of the law, when you return to the LORD, your God, with your whole heart and your whole being. ^deuteronomy-30-10
 
 11 For this command which I am giving you today is not too wondrous or remote for you. ^deuteronomy-30-11
 
@@ -55,7 +54,7 @@ url: https://bible.usccb.org/bible/deuteronomy/30
 
 15 See, I have today set before you life and good, death and evil. ^deuteronomy-30-15
 
-16 If you obey the commandments of the L ORD, your God, which I am giving you today, loving the L ORD, your God, and walking in his ways, and keeping his commandments, statutes and ordinances, you will live and grow numerous, and the L ORD, your God, will bless you in the land you are entering to possess. ^deuteronomy-30-16
+16 If you obey the commandments of the LORD, your God, which I am giving you today, loving the LORD, your God, and walking in his ways, and keeping his commandments, statutes and ordinances, you will live and grow numerous, and the LORD, your God, will bless you in the land you are entering to possess. ^deuteronomy-30-16
 
 17 If, however, your heart turns away and you do not obey, but are led astray and bow down to other gods and serve them, ^deuteronomy-30-17
 
@@ -63,7 +62,7 @@ url: https://bible.usccb.org/bible/deuteronomy/30
 
 19 I call heaven and earth today to witness against you: I have set before you life and death, the blessing and the curse. Choose life, then, that you and your descendants may live, ^deuteronomy-30-19
 
-20 by loving the L ORD, your God, obeying his voice, and holding fast to him. For that will mean life for you, a long life for you to live on the land which the L ORD swore to your ancestors, to [[abraham|Abraham]], Isaac, and Jacob, to give to them. ^deuteronomy-30-20
+20 by loving the LORD, your God, obeying his voice, and holding fast to him. For that will mean life for you, a long life for you to live on the land which the LORD swore to your ancestors, to [[abraham|Abraham]], Isaac, and Jacob, to give to them. ^deuteronomy-30-20
 
 \* (30:1] – [5) Text such as this suggests a postexilic perspective; cf. also chaps. [31] – [32].
 

@@ -1,27 +1,26 @@
 ---
-title: Ecclesiastes, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ecclesiastes, Chapter 8
+title: Ecclesiastes, Chapter 8
+url: https://bible.usccb.org/bible/ecclesiastes/8
 aliases:
   - ecclesiastes-08
   - Ecclesiastes, Chapter 8
 tags:
+  - bible/chapter
   - bible/ecclesiastes
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ecclesiastes/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ecclesiastes, Chapter 8
 ---
 
 # Ecclesiastes, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
-#### Critique of Advice to Heed Authority
+### Critique of Advice to Heed Authority
 
 1 Who is like the wise person, ^ecclesiastes-08-1
 

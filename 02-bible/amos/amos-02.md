@@ -1,29 +1,28 @@
 ---
-title: Amos, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 2
+title: Amos, Chapter 2
+url: https://bible.usccb.org/bible/amos/2
 aliases:
   - amos-02
   - Amos, Chapter 2
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/2
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 2
 ---
 
 # Amos, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
-#### Moab
+### Moab
 
-1 Thus says the L ORD: ^amos-02-1
+1 Thus says the LORD: ^amos-02-1
 
 For three crimes of Moab, and now four—
 
@@ -43,17 +42,17 @@ battle cries and blasts of the ram’s horn.
 
 3 I will cut off the ruler from its midst, ^amos-02-3
 
-and all the princes I will slay with him, says the L ORD.
+and all the princes I will slay with him, says the LORD.
 
-#### Judah
+### Judah
 
-4 Thus says the L ORD: ^amos-02-4
+4 Thus says the LORD: ^amos-02-4
 
 For three crimes of Judah, and now four—
 
 I will not take it back—
 
-Because they spurned the instruction of the L ORD,
+Because they spurned the instruction of the LORD,
 
 and did not keep his statutes;
 
@@ -65,9 +64,9 @@ have led them astray,
 
 and it will devour the strongholds of Jerusalem.
 
-#### Israel
+### Israel
 
-6 Thus says the L ORD: ^amos-02-6
+6 Thus says the LORD: ^amos-02-6
 
 For three crimes of Israel, and now four—
 
@@ -117,7 +116,7 @@ and nazirites among your young men.
 
 Is this not so, Israelites?—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 12 But you made the nazirites drink wine, ^amos-02-12
 
@@ -143,7 +142,7 @@ nor shall the horseman save his life.
 
 shall flee naked on that day—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 \* (2:1) He burned to ashes: to the peoples of the Near East, burning the bones of the dead was a particularly heinous crime, as it was believed to cause the spirits of these dead to wander without any hope of interment in their graves, where they could rest in peace.
 
@@ -157,7 +156,7 @@ oracle of the L ORD.
 
 \* (2:8) Upon garments…any altar: creditors kept the garments taken as pledges from the poor instead of returning them to their owners before nightfall as the law commanded (([[exodus-22|Ex 22]]:25]; cf. [Dt 24:12]). Wine…in their temples: lavish feasts for the rich, serving the finest wines in great abundance (see [6:4] – [7]) and funded by the treasuries of local temples (e.g., at Dan and Bethel). The Hebrew in this verse is difficult. Another possible translation would be: “And the wine of those who have been fined / they drink in the house of their god.”
 
-\* (2:11) Nazirites: see note on [Nm 6:2] – [21]. Oracle of the L ORD: a phrase used extensively in prophetic books to indicate divine speech.
+\* (2:11) Nazirites: see note on [Nm 6:2] – [21]. Oracle of the LORD: a phrase used extensively in prophetic books to indicate divine speech.
 
 a. (2:4) [Is 5:24].
 

@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 5
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 5
+title: Judges, Chapter 5
+url: https://bible.usccb.org/bible/judges/5
 aliases:
   - judges-05
   - Judges, Chapter 5
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 5
 ---
 
 # Judges, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Song of Deborah.**
 
@@ -27,15 +26,15 @@ url: https://bible.usccb.org/bible/judges/5
 
 2 When uprising broke out in Israel, ^judges-05-2
 
-when the people rallied for duty—bless the L ORD!
+when the people rallied for duty—bless the LORD!
 
 3 Hear, O kings! Give ear, O princes! ^judges-05-3
 
-I will sing, I will sing to the L ORD,
+I will sing, I will sing to the LORD,
 
-I will make music to the L ORD, the God of Israel.
+I will make music to the LORD, the God of Israel.
 
-4 L ORD, when you went out from Seir, ^judges-05-4
+4 LORD, when you went out from Seir, ^judges-05-4
 
 when you marched from the plains of Edom,
 
@@ -45,9 +44,9 @@ the clouds poured rain,
 
 5 The mountains streamed, ^judges-05-5
 
-before the L ORD, the One of Sinai,
+before the LORD, the One of Sinai,
 
-before the L ORD, the God of Israel.
+before the LORD, the God of Israel.
 
 6 In the days of Shamgar, son of Anath, ^judges-05-6
 
@@ -75,7 +74,7 @@ among forty thousand in Israel!
 
 9 My heart is with the leaders of Israel, ^judges-05-9
 
-with the dedicated ones of the people—bless the L ORD;
+with the dedicated ones of the people—bless the LORD;
 
 10 Those who ride on white donkeys, ^judges-05-10
 
@@ -87,7 +86,7 @@ Sing of them
 
 11 to the sounds of musicians at the wells. ^judges-05-11
 
-There they recount the just deeds of the L ORD,
+There they recount the just deeds of the LORD,
 
 his just deeds bringing freedom to Israel.
 
@@ -101,7 +100,7 @@ Take captive your captors, son of Abinoam!
 
 13 Then down went Israel against the mighty, ^judges-05-13
 
-the army of the L ORD went down for him against the warriors.
+the army of the LORD went down for him against the warriors.
 
 14 From Ephraim, their base in the valley; ^judges-05-14
 
@@ -163,13 +162,13 @@ Trample down the strong!
 
 the galloping, galloping of steeds.
 
-23 “Curse Meroz,” says the messenger of the L ORD, ^judges-05-23
+23 “Curse Meroz,” says the messenger of the LORD, ^judges-05-23
 
 “curse, curse its inhabitants!
 
-For they did not come when the L ORD helped,
+For they did not come when the LORD helped,
 
-the help of the L ORD against the warriors.”
+the help of the LORD against the warriors.”
 
 24 Most blessed of women is Jael, ^judges-05-24
 
@@ -217,7 +216,7 @@ spoil of ornate dyed cloth,
 
 a pair of ornate dyed cloths for my neck in the spoil.”
 
-31 So perish all your enemies, O L ORD! ^judges-05-31
+31 So perish all your enemies, O LORD! ^judges-05-31
 
 But may those who love you be like the sun rising in its might!
 

@@ -1,25 +1,24 @@
 ---
-title: Song of Songs, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Song of Songs, Chapter 5
+title: Song of Songs, Chapter 5
+url: https://bible.usccb.org/bible/songofsongs/5
 aliases:
   - Song of Songs, Chapter 5
   - song-of-songs-05
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/song-of-songs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/5
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Song of Songs, Chapter 5
 ---
 
 # Song of Songs, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 1 M I have come to my garden, my sister, my bride; ^song-of-songs-05-1
 
@@ -33,7 +32,7 @@ D? Eat, friends; drink!
 
 Drink deeply, lovers!
 
-#### A Fruitless Search
+### A Fruitless Search
 
 2 W I was sleeping, but my heart was awake. ^song-of-songs-05-2
 
@@ -95,7 +94,7 @@ What shall you tell him?
 
 that I am sick with love.
 
-#### The Lost Lover Described
+### The Lost Lover Described
 
 9 D How does your lover differ from any other lover, ^song-of-songs-05-9
 

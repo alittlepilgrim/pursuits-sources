@@ -1,35 +1,34 @@
 ---
-title: Jeremiah, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 8
+title: Jeremiah, Chapter 8
+url: https://bible.usccb.org/bible/jeremiah/8
 aliases:
   - jeremiah-08
   - Jeremiah, Chapter 8
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 8
 ---
 
 # Jeremiah, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
-1 At that time—oracle of the L ORD —the bones of the kings and princes of Judah, the bones of the priests and the prophets, and the bones of the inhabitants of Jerusalem will be brought out of their graves ^jeremiah-08-1
+1 At that time—oracle of the LORD —the bones of the kings and princes of Judah, the bones of the priests and the prophets, and the bones of the inhabitants of Jerusalem will be brought out of their graves ^jeremiah-08-1
 
 2 and spread out before the sun, the moon, and the whole host of heaven, which they loved and served, which they followed, consulted, and worshiped. They will not be gathered up for burial, but will lie like dung upon the ground. ^jeremiah-08-2
 
-3 Death will be preferred to life by all the survivors of this wicked people who remain in any of the places to which I banish them—oracle of the L ORD of hosts. ^jeremiah-08-3
+3 Death will be preferred to life by all the survivors of this wicked people who remain in any of the places to which I banish them—oracle of the LORD of hosts. ^jeremiah-08-3
 
-#### Israel’s Conduct Incomprehensible
+### Israel’s Conduct Incomprehensible
 
-4 Tell them: Thus says the L ORD: ^jeremiah-08-4
+4 Tell them: Thus says the LORD: ^jeremiah-08-4
 
 When someone falls, do they not rise again?
 
@@ -65,11 +64,11 @@ observe the time of their return,
 
 But my people do not know
 
-the order of the L ORD.
+the order of the LORD.
 
 8 How can you say, “We are wise, ^jeremiah-08-8
 
-we have the law of the L ORD”?
+we have the law of the LORD”?
 
 See, that has been changed into falsehood
 
@@ -79,11 +78,11 @@ by the lying pen of the scribes!
 
 terrified, and trapped;
 
-Since they have rejected the word of the L ORD,
+Since they have rejected the word of the LORD,
 
 what sort of wisdom do they have?
 
-#### Shameless in Their Crimes
+### Shameless in Their Crimes
 
 10 Therefore, I will give their wives to other men, ^jeremiah-08-10
 
@@ -111,11 +110,11 @@ Hence they shall be among those who fall;
 
 in their time of punishment they shall stumble,
 
-says the L ORD.
+says the LORD.
 
-#### Threats of Punishment
+### Threats of Punishment
 
-13 I will gather them all in—oracle of the L ORD: ^jeremiah-08-13
+13 I will gather them all in—oracle of the LORD: ^jeremiah-08-13
 
 no grapes on the vine,
 
@@ -131,11 +130,11 @@ Let us assemble and flee to the fortified cities,
 
 where we will meet our doom;
 
-For the L ORD our God has doomed us,
+For the LORD our God has doomed us,
 
 he has given us poisoned water to drink,
 
-because we have sinned against the L ORD.
+because we have sinned against the LORD.
 
 15 We wait for peace to no avail; ^jeremiah-08-15
 
@@ -159,9 +158,9 @@ poisonous snakes.
 
 Against them no charm will work
 
-when they bite you—oracle of the L ORD.
+when they bite you—oracle of the LORD.
 
-#### The Prophet’s Grief over the People’s Suffering
+### The Prophet’s Grief over the People’s Suffering
 
 18 My joy is gone, ^jeremiah-08-18
 
@@ -173,7 +172,7 @@ my heart is sick.
 
 far and wide in the land!
 
-“Is the L ORD no longer in Zion,
+“Is the LORD no longer in Zion,
 
 is her King no longer in her midst?”
 

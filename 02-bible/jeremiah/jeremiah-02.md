@@ -1,29 +1,28 @@
 ---
-title: Jeremiah, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 2
+title: Jeremiah, Chapter 2
+url: https://bible.usccb.org/bible/jeremiah/2
 aliases:
   - jeremiah-02
   - Jeremiah, Chapter 2
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 2
 ---
 
 # Jeremiah, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Infidelity of Israel.**
 
-1 The word of the L ORD came to me: ^jeremiah-02-1
+1 The word of the LORD came to me: ^jeremiah-02-1
 
 2 Go, cry out this message for Jerusalem to hear! ^jeremiah-02-2
 
@@ -35,19 +34,19 @@ Following me in the wilderness,
 
 in a land unsown.
 
-3 Israel was dedicated to the L ORD, ^jeremiah-02-3
+3 Israel was dedicated to the LORD, ^jeremiah-02-3
 
 the first fruits of his harvest;
 
 All who ate of it were held guilty,
 
-evil befell them—oracle of the L ORD.
+evil befell them—oracle of the LORD.
 
-4 Listen to the word of the L ORD, house of Jacob! ^jeremiah-02-4
+4 Listen to the word of the LORD, house of Jacob! ^jeremiah-02-4
 
 All you clans of the house of Israel,
 
-5 thus says the L ORD: ^jeremiah-02-5
+5 thus says the LORD: ^jeremiah-02-5
 
 What fault did your ancestors find in me
 
@@ -57,7 +56,7 @@ Went after emptiness,
 
 and became empty themselves?
 
-6 They did not ask, “Where is the L ORD ^jeremiah-02-6
+6 They did not ask, “Where is the LORD ^jeremiah-02-6
 
 who brought us up from the land of Egypt,
 
@@ -81,7 +80,7 @@ you turned my heritage into an abomination.
 
 8 The priests did not ask, ^jeremiah-02-8
 
-“Where is the L ORD?”
+“Where is the LORD?”
 
 The experts in the law did not know me:
 
@@ -91,7 +90,7 @@ The prophets prophesied by Baal,
 
 and went after useless idols.
 
-9 Therefore I will again accuse you—oracle of the L ORD — ^jeremiah-02-9
+9 Therefore I will again accuse you—oracle of the LORD — ^jeremiah-02-9
 
 even your children’s children I will accuse.
 
@@ -111,7 +110,7 @@ for useless things.
 
 12 Be horrified at this, heavens; ^jeremiah-02-12
 
-shudder, be appalled—oracle of the L ORD.
+shudder, be appalled—oracle of the LORD.
 
 13 Two evils my people have done: ^jeremiah-02-13
 
@@ -137,7 +136,7 @@ his cities are charred ruins, without an inhabitant.
 
 shave the crown of your head.
 
-17 Has not forsaking the L ORD, your God, ^jeremiah-02-17
+17 Has not forsaking the LORD, your God, ^jeremiah-02-17
 
 done this to you?
 
@@ -155,7 +154,7 @@ your own infidelities punish you.
 
 Know then, and see, how evil and bitter
 
-is your forsaking the L ORD, your God,
+is your forsaking the LORD, your God,
 
 And your showing no fear of me,
 
@@ -253,7 +252,7 @@ are the altars you have set up for Baal.
 
 29 Why are you arguing with me? ^jeremiah-02-29
 
-You have all rebelled against me—oracle of the L ORD.
+You have all rebelled against me—oracle of the LORD.
 
 30 In vain I struck your children; ^jeremiah-02-30
 
@@ -317,7 +316,7 @@ just as you were shamed by Assyria.
 
 your hands upon your head;
 
-For the L ORD has rejected those in whom you trust,
+For the LORD has rejected those in whom you trust,
 
 with them you will have no success.
 

@@ -1,25 +1,24 @@
 ---
-title: Baruch, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Baruch, Chapter 4
+title: Baruch, Chapter 4
+url: https://bible.usccb.org/bible/baruch/4
 aliases:
   - baruch-04
   - Baruch, Chapter 4
 tags:
   - bible/baruch
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/baruch/4
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Baruch, Chapter 4
 ---
 
 # Baruch, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 She is the book of the precepts of God, ^baruch-04-1
 
@@ -41,9 +40,9 @@ your privileges to an alien nation.
 
 for what pleases God is known to us!
 
-## Iii. BARUCH’S Poem of Consolation
+# Iii. BARUCH’S Poem of Consolation
 
-#### A. Baruch Addresses Diaspora
+## A. Baruch Addresses Diaspora
 
 5 Take courage, my people! ^baruch-04-5
 
@@ -69,7 +68,7 @@ and you grieved Jerusalem who nurtured you.
 
 the wrath of God; and she said:
 
-#### B. Jerusalem Addresses Neighbors
+## B. Jerusalem Addresses Neighbors
 
 “Hear, you neighbors of Zion!
 
@@ -117,7 +116,7 @@ nor pity for the child;
 
 have left me solitary, without daughters.
 
-#### C. Jerusalem Addresses Diaspora
+## C. Jerusalem Addresses Diaspora
 
 17 What can I do to help you? ^baruch-04-17
 
@@ -185,7 +184,7 @@ so turn now ten times the more to seek him;
 
 will, in saving you, bring you eternal joy.”
 
-#### D. Baruch Addresses Jerusalem
+## D. Baruch Addresses Jerusalem
 
 30 Take courage, Jerusalem! ^baruch-04-30
 

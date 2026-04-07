@@ -1,15 +1,17 @@
 ---
-title: Holy See
-created: 1984-01-24
-modified: 2026-04-02
 type: glossary
-publish: true
-description: holy-see. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Holy See
+author:
 aliases:
   - Holy See
   - holy-see
 tags:
   - term/holy-see
+  - type/term
+created: 1984-01-24
+modified: 2026-04-06
+publish: true
+description: holy-see. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Holy See

@@ -1,16 +1,17 @@
 ---
-title: Venial Sin
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: venial-sin. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Venial Sin
 aliases:
   - Venial sin
   - Venial Sin
   - venial-sin
 tags:
   - term/venial-sin
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: venial-sin. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Venial sin
@@ -25,6 +26,6 @@ Sin which does not destroy the divine life in the soul, as does mortal sin, thou
 - when venial — is deliberate and habitual, it leads to tepidity 101,1; 153,1;
 - venial — always includes a transgression more or less light of the law of God: 102,1;
 - conduct in case of venial — caused by frailty or inadvertence: 101,2.
-- 101. Venial Sin
-- 102. Imperfections
-- 153. Aridity
+- [[101-venial-sin|101. Venial Sin]]
+- [[102-imperfections|102. Imperfections]]
+- [[153-aridity|153. Aridity]]

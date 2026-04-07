@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 8
+title: 1 Samuel, Chapter 8
+url: https://bible.usccb.org/bible/1samuel/8
 aliases:
   - 1 Samuel, Chapter 8
   - 1-samuel-08
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/8
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 8
 ---
 
 # 1 Samuel, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Request for a King.**
 
@@ -33,9 +32,9 @@ url: https://bible.usccb.org/bible/1samuel/8
 
 5 and said to him, “Now that you are old, and your sons do not follow your example, appoint a king over us, like all the nations, to rule us.” ^1-samuel-08-5
 
-6 Samuel was displeased when they said, “Give us a king to rule us.” But he prayed to the L ORD. ^1-samuel-08-6
+6 Samuel was displeased when they said, “Give us a king to rule us.” But he prayed to the LORD. ^1-samuel-08-6
 
-7 The L ORD said: Listen to whatever the people say. You are not the one they are rejecting. They are rejecting me as their king. ^1-samuel-08-7
+7 The LORD said: Listen to whatever the people say. You are not the one they are rejecting. They are rejecting me as their king. ^1-samuel-08-7
 
 8 They are acting toward you just as they have acted from the day I brought them up from Egypt to this very day, deserting me to serve other gods. ^1-samuel-08-8
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/1samuel/8
 
 **The Governance of the King.**
 
-10 Samuel delivered the message of the L ORD in full to those who were asking him for a king. ^1-samuel-08-10
+10 Samuel delivered the message of the LORD in full to those who were asking him for a king. ^1-samuel-08-10
 
 11 He told them: “The governance of the king who will rule you will be as follows: He will take your sons and assign them to his chariots and horses, and they will run before his chariot. ^1-samuel-08-11
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/1samuel/8
 
 17 He will also tithe your flocks. As for you, you will become his slaves. ^1-samuel-08-17
 
-18 On that day you will cry out because of the king whom you have chosen, but the L ORD will not answer you on that day.” ^1-samuel-08-18
+18 On that day you will cry out because of the king whom you have chosen, but the LORD will not answer you on that day.” ^1-samuel-08-18
 
 **Persistent Demand.**
 
@@ -67,9 +66,9 @@ url: https://bible.usccb.org/bible/1samuel/8
 
 20 We too must be like all the nations, with a king to rule us, lead us in warfare, and fight our battles.” ^1-samuel-08-20
 
-21 Samuel listened to all the concerns of the people and then repeated them to the L ORD. ^1-samuel-08-21
+21 Samuel listened to all the concerns of the people and then repeated them to the LORD. ^1-samuel-08-21
 
-22 The L ORD said: Listen to them! Appoint a king to rule over them. Then Samuel said to the people of Israel, “Return, each one of you, to your own city.” ^1-samuel-08-22
+22 The LORD said: Listen to them! Appoint a king to rule over them. Then Samuel said to the people of Israel, “Return, each one of you, to your own city.” ^1-samuel-08-22
 
 \* (8:1] – [22) From this chapter on, the editors of 1 Samuel provide two and sometimes three perspectives on the same event: e.g., the selection of Saul as king is recounted in chap. [8]; [10:17] – [24]; chap. [12].
 

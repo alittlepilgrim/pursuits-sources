@@ -1,25 +1,24 @@
 ---
-title: Micah, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Micah, Chapter 2
+title: Micah, Chapter 2
+url: https://bible.usccb.org/bible/micah/2
 aliases:
   - micah-02
   - Micah, Chapter 2
 tags:
+  - bible/chapter
   - bible/micah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/micah/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Micah, Chapter 2
 ---
 
 # Micah, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 Ah! you plotters of iniquity, ^micah-02-1
 
@@ -37,7 +36,7 @@ You cheat owners of their houses,
 
 people of their inheritance.
 
-3 Therefore thus says the L ORD: ^micah-02-3
+3 Therefore thus says the LORD: ^micah-02-3
 
 Look, I am planning against this family an evil
 
@@ -61,7 +60,7 @@ and no one can get them back!”
 
 5 Thus you shall have no one ^micah-02-5
 
-in the assembly of the L ORD
+in the assembly of the LORD
 
 to allot to you a share of land.
 
@@ -73,7 +72,7 @@ Shame will not overtake us.”
 
 7 How can it be said, house of Jacob, ^micah-02-7
 
-“Is the L ORD short of patience;
+“Is the LORD short of patience;
 
 are these the Lord’s deeds?”
 
@@ -129,7 +128,7 @@ they make a breach and pass through the gate;
 
 Their king shall go through before them,
 
-the L ORD at their head.
+the LORD at their head.
 
 \* (2:1] – [5) The cry “Ah” (*hoy*) begins a typical prophetic speech that is usually continued, as here (vv. [1] – [2]), by a description of the addressees in terms of their unrighteous activities. This description is an indictment which gives the reasons for punishment announced to a particular group of people (vv. [3] – [5]). The prophet spells out the crimes; the Lord announces the punishment, which corresponds to the crime: those who take the land of others will have their own land taken.
 

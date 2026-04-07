@@ -1,27 +1,26 @@
 ---
-title: Job, Chapter 42
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 42
+title: Job, Chapter 42
+url: https://bible.usccb.org/bible/job/42
 aliases:
   - job-42
   - Job, Chapter 42
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/42
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 42
 ---
 
 # Job, Chapter 42
 
-### Chapter 42
+## Chapter 42
 
-1 Then Job answered the L ORD and said: ^job-42-1
+1 Then Job answered the LORD and said: ^job-42-1
 
 2 I know that you can do all things, ^job-42-2
 
@@ -45,21 +44,21 @@ but now my eye has seen you.
 
 and repent in dust and ashes.
 
-## Ix. Epilogue
+# Ix. Epilogue
 
 **Job’s Restoration.**
 
-7 And after the L ORD had spoken these words to Job, the L ORD said to Eliphaz the Temanite, “My anger blazes against you and your two friends! You have not spoken rightly concerning me, as has my servant Job. ^job-42-7
+7 And after the LORD had spoken these words to Job, the LORD said to Eliphaz the Temanite, “My anger blazes against you and your two friends! You have not spoken rightly concerning me, as has my servant Job. ^job-42-7
 
 8 So now take seven bulls and seven rams, and go to my servant Job, and sacrifice a burnt offering for yourselves, and let my servant Job pray for you. To him I will show favor, and not punish your folly, for you have not spoken rightly concerning me, as has my servant Job.” ^job-42-8
 
-9 Then Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite, went and did as the L ORD had commanded them. The L ORD showed favor to Job. ^job-42-9
+9 Then Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite, went and did as the LORD had commanded them. The LORD showed favor to Job. ^job-42-9
 
-10 The L ORD also restored the prosperity of Job, after he had prayed for his friends; the L ORD even gave to Job twice as much as he had before. ^job-42-10
+10 The LORD also restored the prosperity of Job, after he had prayed for his friends; the LORD even gave to Job twice as much as he had before. ^job-42-10
 
-11 Then all his brothers and sisters came to him, and all his former acquaintances, and they dined with him in his house. They consoled and comforted him for all the evil the L ORD had brought upon him, and each one gave him a piece of money and a gold ring. ^job-42-11
+11 Then all his brothers and sisters came to him, and all his former acquaintances, and they dined with him in his house. They consoled and comforted him for all the evil the LORD had brought upon him, and each one gave him a piece of money and a gold ring. ^job-42-11
 
-12 Thus the L ORD blessed the later days of Job more than his earlier ones. Now he had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen, and a thousand she-donkeys. ^job-42-12
+12 Thus the LORD blessed the later days of Job more than his earlier ones. Now he had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen, and a thousand she-donkeys. ^job-42-12
 
 13 He also had seven sons and three daughters: ^job-42-13
 

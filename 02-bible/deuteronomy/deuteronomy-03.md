@@ -1,33 +1,32 @@
 ---
-title: Deuteronomy, Chapter 3
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 3
+title: Deuteronomy, Chapter 3
+url: https://bible.usccb.org/bible/deuteronomy/3
 aliases:
   - deuteronomy-03
   - Deuteronomy, Chapter 3
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 3
 ---
 
 # Deuteronomy, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Defeat of Og.**
 
 1 Then we turned and proceeded up the road to Bashan. But Og, king of Bashan, came out against us with all his people to give battle at Edrei. ^deuteronomy-03-1
 
-2 The L ORD said to me, Do not be afraid of him, for I have delivered him into your power with all his people and his land. Do to him as you did to Sihon, king of the Amorites, who reigned in Heshbon. ^deuteronomy-03-2
+2 The LORD said to me, Do not be afraid of him, for I have delivered him into your power with all his people and his land. Do to him as you did to Sihon, king of the Amorites, who reigned in Heshbon. ^deuteronomy-03-2
 
-3 And thus the L ORD, our God, delivered into our power also Og, king of Bashan, with all his people. We defeated him so completely that we left him no survivor. ^deuteronomy-03-3
+3 And thus the LORD, our God, delivered into our power also Og, king of Bashan, with all his people. We defeated him so completely that we left him no survivor. ^deuteronomy-03-3
 
 4 At that time we captured all his cities; there was no town we did not take: sixty cities in all, the whole region of Argob, the kingdom of Og in Bashan— ^deuteronomy-03-4
 
@@ -59,25 +58,25 @@ url: https://bible.usccb.org/bible/deuteronomy/3
 
 17 as well as the Arabah with the Jordan and its banks from Chinnereth to the Salt Sea of the Arabah, under the slopes of Pisgah on the east. ^deuteronomy-03-17
 
-18 At that time I charged you: The L ORD, your God, has given you this land as your possession. But all your troops equipped for battle must cross over in the vanguard of your fellow Israelites. ^deuteronomy-03-18
+18 At that time I charged you: The LORD, your God, has given you this land as your possession. But all your troops equipped for battle must cross over in the vanguard of your fellow Israelites. ^deuteronomy-03-18
 
 19 But your wives and children, as well as your livestock, of which I know you have a large number, shall remain behind in the towns I have given you, ^deuteronomy-03-19
 
-20 until the L ORD has settled your relatives as well, and they too possess the land which the L ORD, your God, will give them on the other side of the Jordan. Then you may all return to the possessions I have given you. ^deuteronomy-03-20
+20 until the LORD has settled your relatives as well, and they too possess the land which the LORD, your God, will give them on the other side of the Jordan. Then you may all return to the possessions I have given you. ^deuteronomy-03-20
 
-21 And I charged Joshua as well, “Your own eyes have seen all that the L ORD, your God, has done to both these kings; so, too, will the L ORD do to all the kingdoms into which you will cross over. ^deuteronomy-03-21
+21 And I charged Joshua as well, “Your own eyes have seen all that the LORD, your God, has done to both these kings; so, too, will the LORD do to all the kingdoms into which you will cross over. ^deuteronomy-03-21
 
-22 Do not fear them, for it is the L ORD, your God, who will fight for you.” ^deuteronomy-03-22
+22 Do not fear them, for it is the LORD, your God, who will fight for you.” ^deuteronomy-03-22
 
 **Moses Excluded from the Promised Land.**
 
-23 It was then that I entreated the L ORD, ^deuteronomy-03-23
+23 It was then that I entreated the LORD, ^deuteronomy-03-23
 
 24 “Lord G OD, you have begun to show to your servant your greatness and your mighty hand. What god in heaven or on earth can perform deeds and powerful acts like yours? ^deuteronomy-03-24
 
 25 Ah, let me cross over and see the good land beyond the Jordan, that fine hill country, and the Lebanon!” ^deuteronomy-03-25
 
-26 But the L ORD was angry with me on your account and would not hear me. The L ORD said to me, Enough! Speak to me no more of this. ^deuteronomy-03-26
+26 But the LORD was angry with me on your account and would not hear me. The LORD said to me, Enough! Speak to me no more of this. ^deuteronomy-03-26
 
 27 Go up to the top of Pisgah and look out to the west, and to the north, and to the south, and to the east. Look well, for you shall not cross this Jordan. ^deuteronomy-03-27
 

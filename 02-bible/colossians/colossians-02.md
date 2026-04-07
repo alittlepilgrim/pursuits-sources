@@ -1,25 +1,24 @@
 ---
-title: Colossians, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Colossians, Chapter 2
+title: Colossians, Chapter 2
+url: https://bible.usccb.org/bible/colossians/2
 aliases:
   - colossians-02
   - Colossians, Chapter 2
 tags:
+  - bible/chapter
   - bible/colossians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/colossians/2
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Colossians, Chapter 2
 ---
 
 # Colossians, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 For I want you to know how great a struggle I am having for you and for those in Laodicea and all who have not seen me face to face, ^colossians-02-1
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/colossians/2
 
 3 in whom are hidden all the treasures of wisdom and knowledge. ^colossians-02-3
 
-## Iii. Warnings Against False Teachers
+# Iii. Warnings Against False Teachers
 
 **A General Admonition.**
 

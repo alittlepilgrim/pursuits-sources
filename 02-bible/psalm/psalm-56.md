@@ -1,20 +1,19 @@
 ---
-title: Psalm 56
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 56
+title: Psalm 56
+url: https://bible.usccb.org/bible/psalms/56
 aliases:
   - Psalm 56
   - psalm-56
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/56
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 56
 ---
 
 # Psalm 56

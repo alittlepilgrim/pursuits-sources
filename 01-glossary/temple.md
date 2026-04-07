@@ -1,15 +1,16 @@
 ---
-title: Temple
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Temple
 aliases:
   - temple
   - Temple
 tags:
   - catechism
   - term
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
 ---
 
 # Temple

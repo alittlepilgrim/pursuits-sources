@@ -1,10 +1,7 @@
 ---
-title: May 25, Saint Mary Magdalen of the Incarnate Word De Pazzi
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: Born in Florence in 1566, Saint Mary Magdalen of the Incarnate Word de’ Pazzi had a religious upbringing and entered the monastery of the Carmelite nuns there. She led a hidden life of prayer and self-denial, praying particularly for the renewal of the Church and encouraging the sisters in holiness. Her life was marked by many extraordinary graces. She died in 1607.
+title: May 25, Saint Mary Magdalen of the Incarnate Word De Pazzi
+author: OCD General Curia
 aliases:
   - 05-25-st-mary-magdalen-of-the-incarnate-word-de-pazzi
   - 20240722-231156
@@ -13,9 +10,13 @@ aliases:
 tags:
   - carmel/saints
   - saint/mary-magdalen-dei-pazzi
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 05-25
 celebration_rank: memorial
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+description: Born in Florence in 1566, Saint Mary Magdalen of the Incarnate Word de’ Pazzi had a religious upbringing and entered the monastery of the Carmelite nuns there. She led a hidden life of prayer and self-denial, praying particularly for the renewal of the Church and encouraging the sisters in holiness. Her life was marked by many extraordinary graces. She died in 1607.
 ---
 
 # May 25, Saint Mary Magdalen of the Incarnate Word de Pazzi

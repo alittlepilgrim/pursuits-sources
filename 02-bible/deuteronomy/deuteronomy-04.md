@@ -1,41 +1,40 @@
 ---
-title: Deuteronomy, Chapter 4
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 4
+title: Deuteronomy, Chapter 4
+url: https://bible.usccb.org/bible/deuteronomy/4
 aliases:
   - deuteronomy-04
   - Deuteronomy, Chapter 4
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 4
 ---
 
 # Deuteronomy, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Advantages of Fidelity.**
 
-1 Now therefore, Israel, hear the statutes and ordinances I am teaching you to observe, that you may live, and may enter in and take possession of the land which the L ORD, the God of your ancestors, is giving you. ^deuteronomy-04-1
+1 Now therefore, Israel, hear the statutes and ordinances I am teaching you to observe, that you may live, and may enter in and take possession of the land which the LORD, the God of your ancestors, is giving you. ^deuteronomy-04-1
 
-2 In your observance of the commandments of the L ORD, your God, which I am commanding you, you shall not add to what I command you nor subtract from it. ^deuteronomy-04-2
+2 In your observance of the commandments of the LORD, your God, which I am commanding you, you shall not add to what I command you nor subtract from it. ^deuteronomy-04-2
 
-3 You have seen with your own eyes what the L ORD did at Baal-peor: the L ORD, your God, destroyed from your midst everyone who followed the Baal of Peor; ^deuteronomy-04-3
+3 You have seen with your own eyes what the LORD did at Baal-peor: the LORD, your God, destroyed from your midst everyone who followed the Baal of Peor; ^deuteronomy-04-3
 
-4 but you, who held fast to the L ORD, your God, are all alive today. ^deuteronomy-04-4
+4 but you, who held fast to the LORD, your God, are all alive today. ^deuteronomy-04-4
 
-5 See, I am teaching you the statutes and ordinances as the L ORD, my God, has commanded me, that you may observe them in the land you are entering to possess. ^deuteronomy-04-5
+5 See, I am teaching you the statutes and ordinances as the LORD, my God, has commanded me, that you may observe them in the land you are entering to possess. ^deuteronomy-04-5
 
 6 Observe them carefully, for this is your wisdom and discernment in the sight of the peoples, who will hear of all these statutes and say, “This great nation is truly a wise and discerning people.” ^deuteronomy-04-6
 
-7 For what great nation is there that has gods so close to it as the L ORD, our God, is to us whenever we call upon him? ^deuteronomy-04-7
+7 For what great nation is there that has gods so close to it as the LORD, our God, is to us whenever we call upon him? ^deuteronomy-04-7
 
 8 Or what great nation has statutes and ordinances that are as just as this whole law which I am setting before you today? ^deuteronomy-04-8
 
@@ -43,19 +42,19 @@ url: https://bible.usccb.org/bible/deuteronomy/4
 
 9 However, be on your guard and be very careful not to forget the things your own eyes have seen, nor let them slip from your heart as long as you live, but make them known to your children and to your children’s children, ^deuteronomy-04-9
 
-10 that day you stood before the L ORD, your God, at Horeb, when the L ORD said to me: Assemble the people for me, that I may let them hear my words, that they may learn to fear me as long as they live in the land and may so teach their children. ^deuteronomy-04-10
+10 that day you stood before the LORD, your God, at Horeb, when the LORD said to me: Assemble the people for me, that I may let them hear my words, that they may learn to fear me as long as they live in the land and may so teach their children. ^deuteronomy-04-10
 
 11 You came near and stood at the foot of the mountain, while the mountain blazed to the heart of the heavens with fire and was enveloped in a dense black cloud. ^deuteronomy-04-11
 
-12 Then the L ORD spoke to you from the midst of the fire. You heard the sound of the words, but saw no form; there was only a voice. ^deuteronomy-04-12
+12 Then the LORD spoke to you from the midst of the fire. You heard the sound of the words, but saw no form; there was only a voice. ^deuteronomy-04-12
 
 13 He proclaimed to you his covenant, which he commanded you to keep: the ten words, which he wrote on two stone tablets. ^deuteronomy-04-13
 
-14 At that time the L ORD charged me to teach you the statutes and ordinances for you to observe in the land you are about to cross into and possess. ^deuteronomy-04-14
+14 At that time the LORD charged me to teach you the statutes and ordinances for you to observe in the land you are about to cross into and possess. ^deuteronomy-04-14
 
 **Danger of Idolatry.**
 
-15 Because you saw no form at all on the day the L ORD spoke to you at Horeb from the midst of the fire, be strictly on your guard ^deuteronomy-04-15
+15 Because you saw no form at all on the day the LORD spoke to you at Horeb from the midst of the fire, be strictly on your guard ^deuteronomy-04-15
 
 16 not to act corruptly by fashioning an idol for yourselves to represent any figure, whether it be the form of a man or of a woman, ^deuteronomy-04-16
 
@@ -63,41 +62,41 @@ url: https://bible.usccb.org/bible/deuteronomy/4
 
 18 the form of anything that crawls on the ground, or the form of any fish in the waters under the earth. ^deuteronomy-04-18
 
-19 And when you look up to the heavens and behold the sun or the moon or the stars, the whole heavenly host, do not be led astray into bowing down to them and serving them. These the L ORD, your God, has apportioned to all the other nations under the heavens; ^deuteronomy-04-19
+19 And when you look up to the heavens and behold the sun or the moon or the stars, the whole heavenly host, do not be led astray into bowing down to them and serving them. These the LORD, your God, has apportioned to all the other nations under the heavens; ^deuteronomy-04-19
 
-20 but you the L ORD has taken and led out of that iron foundry, Egypt, that you might be his people, his heritage, as you are today. ^deuteronomy-04-20
+20 but you the LORD has taken and led out of that iron foundry, Egypt, that you might be his people, his heritage, as you are today. ^deuteronomy-04-20
 
-21 But the L ORD was angry with me on your account and swore that I should not cross the Jordan nor enter the good land which the L ORD, your God, is giving you as a heritage. ^deuteronomy-04-21
+21 But the LORD was angry with me on your account and swore that I should not cross the Jordan nor enter the good land which the LORD, your God, is giving you as a heritage. ^deuteronomy-04-21
 
 22 I myself shall die in this country; I shall not cross the Jordan; but you are going to cross over and take possession of that good land. ^deuteronomy-04-22
 
-23 Be careful, therefore, lest you forget the covenant which the L ORD, your God, has made with you, and fashion for yourselves against his command an idol in any form whatsoever. ^deuteronomy-04-23
+23 Be careful, therefore, lest you forget the covenant which the LORD, your God, has made with you, and fashion for yourselves against his command an idol in any form whatsoever. ^deuteronomy-04-23
 
-24 For the L ORD, your God, is a consuming fire, a jealous God. ^deuteronomy-04-24
+24 For the LORD, your God, is a consuming fire, a jealous God. ^deuteronomy-04-24
 
 **God’s Fidelity and Love.**
 
-25 When you have children and children’s children, and have grown old in the land, should you then act corruptly by fashioning an idol in the form of anything, and by this evil done in his sight provoke the L ORD, your God, ^deuteronomy-04-25
+25 When you have children and children’s children, and have grown old in the land, should you then act corruptly by fashioning an idol in the form of anything, and by this evil done in his sight provoke the LORD, your God, ^deuteronomy-04-25
 
 26 I call heaven and earth this day to witness against you, that you shall all quickly perish from the land which you are crossing the Jordan to possess. You shall not live in it for any length of time but shall be utterly wiped out. ^deuteronomy-04-26
 
-27 The L ORD will scatter you among the peoples, and there shall remain but a handful of you among the nations to which the L ORD will drive you. ^deuteronomy-04-27
+27 The LORD will scatter you among the peoples, and there shall remain but a handful of you among the nations to which the LORD will drive you. ^deuteronomy-04-27
 
 28 There you shall serve gods that are works of human hands, of wood and stone, gods which can neither see nor hear, neither eat nor smell. ^deuteronomy-04-28
 
-29 Yet when you seek the L ORD, your God, from there, you shall indeed find him if you search after him with all your heart and soul. ^deuteronomy-04-29
+29 Yet when you seek the LORD, your God, from there, you shall indeed find him if you search after him with all your heart and soul. ^deuteronomy-04-29
 
-30 In your distress, when all these things shall have come upon you, you shall finally return to the L ORD, your God, and listen to his voice. ^deuteronomy-04-30
+30 In your distress, when all these things shall have come upon you, you shall finally return to the LORD, your God, and listen to his voice. ^deuteronomy-04-30
 
-31 Since the L ORD, your God, is a merciful God, he will not abandon or destroy you, nor forget the covenant with your ancestors that he swore to them. ^deuteronomy-04-31
+31 Since the LORD, your God, is a merciful God, he will not abandon or destroy you, nor forget the covenant with your ancestors that he swore to them. ^deuteronomy-04-31
 
 32 Ask now of the days of old, before your time, ever since God created humankind upon the earth; ask from one end of the sky to the other: Did anything so great ever happen before? Was it ever heard of? ^deuteronomy-04-32
 
 33 Did a people ever hear the voice of God speaking from the midst of fire, as you did, and live? ^deuteronomy-04-33
 
-34 Or did any god venture to go and take a nation for himself from the midst of another nation, by testings, by signs and wonders, by war, with strong hand and outstretched arm, and by great terrors, all of which the L ORD, your God, did for you in Egypt before your very eyes? ^deuteronomy-04-34
+34 Or did any god venture to go and take a nation for himself from the midst of another nation, by testings, by signs and wonders, by war, with strong hand and outstretched arm, and by great terrors, all of which the LORD, your God, did for you in Egypt before your very eyes? ^deuteronomy-04-34
 
-35 All this you were allowed to see that you might know that the L ORD is God; there is no other. ^deuteronomy-04-35
+35 All this you were allowed to see that you might know that the LORD is God; there is no other. ^deuteronomy-04-35
 
 36 Out of the heavens he let you hear his voice to discipline you; on earth he let you see his great fire, and you heard him speaking out of the fire. ^deuteronomy-04-36
 
@@ -105,9 +104,9 @@ url: https://bible.usccb.org/bible/deuteronomy/4
 
 38 dispossessing before you nations greater and mightier than you, so as to bring you in and to give their land to you as a heritage, as it is today. ^deuteronomy-04-38
 
-39 This is why you must now acknowledge, and fix in your heart, that the L ORD is God in the heavens above and on earth below, and that there is no other. ^deuteronomy-04-39
+39 This is why you must now acknowledge, and fix in your heart, that the LORD is God in the heavens above and on earth below, and that there is no other. ^deuteronomy-04-39
 
-40 And you must keep his statutes and commandments which I command you today, that you and your children after you may prosper, and that you may have long life on the land which the L ORD, your God, is giving you forever. ^deuteronomy-04-40
+40 And you must keep his statutes and commandments which I command you today, that you and your children after you may prosper, and that you may have long life on the land which the LORD, your God, is giving you forever. ^deuteronomy-04-40
 
 **Cities of Refuge.**
 
@@ -117,9 +116,9 @@ url: https://bible.usccb.org/bible/deuteronomy/4
 
 43 Bezer in the wilderness, in the region of the plateau, for the Reubenites; Ramoth in Gilead for the Gadites; and Golan in Bashan for the Manassites. ^deuteronomy-04-43
 
-## Ii. Second Address
+# Ii. Second Address
 
-### A. the Lord’s Covenant with Israel
+## A. the Lord’s Covenant with Israel
 
 **Introduction.**
 

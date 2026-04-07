@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 2
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 2
+title: Sirach, Chapter 2
+url: https://bible.usccb.org/bible/sirach/2
 aliases:
   - sirach-02
   - Sirach, Chapter 2
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/2
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 2
 ---
 
 # Sirach, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
-#### Trust in God
+### Trust in God
 
 1 My child, when you come to serve the Lord, ^sirach-02-1
 

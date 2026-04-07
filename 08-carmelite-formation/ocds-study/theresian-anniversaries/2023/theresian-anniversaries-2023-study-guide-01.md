@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Study Guide 1 Singing the Mercies of the Lord (Ms A, 2r-4r)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Study Guide 1 Singing the Mercies of the Lord (Ms A, 2r-4r)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 - Study Guide 1 Singing the Mercies of the Lord (Ms A, 2r-4r)
   - theresian-anniversaries-2023-study-guide-01
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 - Study Guide 1 Singing the Mercies of the Lord (Ms A, 2r-4r)
@@ -32,7 +32,7 @@ Proposal for the Community meeting:
 
 It would be good if the community meeting was preceded by a personal reading and meditation on the text of Therese.
 
-### Manuscript A, 2r-4r
+## Manuscript A, 2r-4r
 
 Springtime story of a little white flower written by herself and dedicated to the Reverend Mother Agnes of Jesus.
 
@@ -72,7 +72,7 @@ I have just summed up in a few words, dear Moth-er, what God did for me. Now I w
 
 May they bless the littlest of their children and help her to sing the divine mercies!
 
-### Introduction to the Text
+## Introduction to the Text
 
 Here Is The Proposal for the First Text: We Are Right At The Beginning of Manuscript A (the Information Given Here Is Taken from The Notes of the New Edition of the Centenary, Cerf-ddb 1997)
 
@@ -86,7 +86,7 @@ When Therese speaks of the statue of Mary (Ms A, 2r), it is the “Virgin of the
 
 Singing the mercies of the Lord (Ms A, 2r-4r) 9When Teresa sighs “May the Lily plant be soon complete in Heaven” (Ms A, 4r), at the moment in which she writes, “three Lilies” are in Carmel with her (Marie, Pauline and Celine) and another is blossoming at the Visitation convent in Caen (Le-onie). “The two stems now reunited for all eternity” mean her parents, who “have found the four Lilies”, the four siblings who died at a tender age.
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What does the text say? Understanding the content and primary meaning of Therese’s text.
 2. What does the text say to us today? Grasping the relevance (social, ecclesial, spiritual…) of the text.
@@ -94,7 +94,7 @@ Singing the mercies of the Lord (Ms A, 2r-4r) 9When Teresa sighs “May the Lily
 
 The purpose of doing things in this manner is to allow Therese to speak to us, to question us, to encourage us, and to welcome her to shed light upon and confirm our personal and community journey. The questions proposed are therefore only indicative and can possibly accompany personal meditation and community sharing.
 
-### Questions
+## Questions
 
 1. Teresa has a vocabulary that uses symbols a lot. In this section, the symbolism of the flower is very present. How do these symbols speak to us? Today, in our eagerness to proclaim the Gospel, what are the symbols that would seem most appropriate to us? What would we suggest?
 2. Therese tells us that she is preparing to sing God’s mercies in her life. She thus testifies that spiritual maturity is linked to the expression of our gratitude to God. What actual space do we give to the acceptance of Mercy? How can we help the world experience Mercy?

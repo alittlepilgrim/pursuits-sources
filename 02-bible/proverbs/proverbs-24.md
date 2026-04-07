@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 24
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 24
+title: Proverbs, Chapter 24
+url: https://bible.usccb.org/bible/proverbs/24
 aliases:
   - proverbs-24
   - Proverbs, Chapter 24
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/24
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 24
 ---
 
 # Proverbs, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
 1 Do not envy the wicked, ^proverbs-24-1
 
@@ -93,7 +92,7 @@ but the wicked stumble from only one mishap.
 
 and when they stumble, do not let your heart exult,
 
-18 Lest the L ORD see it, be displeased with you, ^proverbs-24-18
+18 Lest the LORD see it, be displeased with you, ^proverbs-24-18
 
 and withdraw his wrath from your enemies.
 
@@ -105,7 +104,7 @@ do not envy the wicked;
 
 the lamp of the wicked will be put out.
 
-21 My son, fear the L ORD and the king; ^proverbs-24-21
+21 My son, fear the LORD and the king; ^proverbs-24-21
 
 have nothing to do with those who hate them;
 
@@ -113,7 +112,7 @@ have nothing to do with those who hate them;
 
 and calamity from them both, who knows when?
 
-## V. Further Sayings of the Wise
+# V. Further Sayings of the Wise
 
 23 These also are Words of the Wise: ^proverbs-24-23
 

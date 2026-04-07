@@ -1,25 +1,24 @@
 ---
-title: Esther, Chapter 2
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 2
+title: Esther, Chapter 2
+url: https://bible.usccb.org/bible/esther/2
 aliases:
   - esther-02
   - Esther, Chapter 2
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/2
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 2
 ---
 
 # Esther, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **The Search for a New Queen.**
 

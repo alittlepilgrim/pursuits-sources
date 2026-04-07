@@ -1,25 +1,24 @@
 ---
-title: Zechariah, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 4
+title: Zechariah, Chapter 4
+url: https://bible.usccb.org/bible/zechariah/4
 aliases:
   - zechariah-04
   - Zechariah, Chapter 4
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/4
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 4
 ---
 
 # Zechariah, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Fourth Vision: The Lampstand and the Two Olive Trees.**
 
@@ -35,17 +34,17 @@ url: https://bible.usccb.org/bible/zechariah/4
 
 **An Oracle.**
 
-6 Then he said to me: “This is the word of the L ORD to Zerubbabel: Not by might, and not by power, but by my spirit, says the L ORD of hosts. ^zechariah-04-6
+6 Then he said to me: “This is the word of the LORD to Zerubbabel: Not by might, and not by power, but by my spirit, says the LORD of hosts. ^zechariah-04-6
 
 7 Who are you, O great mountain? Before Zerubbabel you become a plain. He will bring forth the first stone amid shouts of ‘Favor, favor be upon it!’” ^zechariah-04-7
 
-8 Then the word of the L ORD came to me: ^zechariah-04-8
+8 Then the word of the LORD came to me: ^zechariah-04-8
 
-9 The hands of Zerubbabel have laid the foundations of this house, and his hands will finish it. Thus you shall know that the L ORD of hosts has sent me to you. ^zechariah-04-9
+9 The hands of Zerubbabel have laid the foundations of this house, and his hands will finish it. Thus you shall know that the LORD of hosts has sent me to you. ^zechariah-04-9
 
 10 For whoever has scorned such a day of small things will rejoice to see the capstone in the hand of Zerubbabel. ^zechariah-04-10
 
-**Resumption of the Vision: Explanation of Lamps and Trees.**“These seven are the eyes of the L ORD that range over the whole earth.”
+**Resumption of the Vision: Explanation of Lamps and Trees.**“These seven are the eyes of the LORD that range over the whole earth.”
 
 11 I then asked him, “What are these two olive trees, on the right of the lampstand and on its left?” ^zechariah-04-11
 

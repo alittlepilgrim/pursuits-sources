@@ -1,9 +1,7 @@
 ---
-title: August 9, Saint Teresa Benedicta of the Cross
-created: 2025-07-28
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: August 9, Saint Teresa Benedicta of the Cross
+author: OCD General Curia
 aliases:
   - 08-09-st-teresa-benedicta-of-the-cross
   - 20250728-000001
@@ -12,9 +10,12 @@ tags:
   - carmel/propers
   - carmel/saints
   - saint/teresa-benedicta
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 08-09
 celebration_rank: memorial
+created: 2025-07-28
+modified: 2026-04-06
+publish: false
 ---
 
 # August 9, Saint Teresa Benedicta of the Cross
@@ -25,7 +26,7 @@ August 9, Saint Teresa Benedicta of the Cross, Virgin and Martyr, Memoria
 
 # Novena Prayer
 
-### Opening Prayer
+## Opening Prayer
 
 **_(to be said each day, followed by that day’s prayer)_**
 
@@ -41,9 +42,9 @@ _Mention your petitions…_
 
 Lord God, Heavenly Father, You blessed St Teresa Benedicta abundantly throughout her life and brought her to fully embrace the Cross at the hour of her martyrdom.  Through her intercession, grant us these same graces, so that we might imitate Your Son and grow closer to You every day of the rest of our lives.  We ask this through Christ our Lord.  Amen.
 
-## Day One: Conversion of Heart (August 01)
+# Day One: Conversion of Heart (August 01)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > “God, hear me, I implore You, and listen to my prayer. You saw me stand before You in darkness and despair. O lift me, gracious Ruler, upon a rocky peak. With hope I look to see You, God, Your guiding Hand I seek.”  —St. Teresa Benedicta
 
@@ -55,11 +56,11 @@ St. Teresa, please ask Our Heavenly Father to shine His light on me as He did on
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
-## Day Two: Peace in the Midst of the Storm (August 02)
+# Day Two: Peace in the Midst of the Storm (August 02)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > _“You are a sturdy tower Resisting every foe. I fear no stormy weather, With You I have no woe. You’ll offer me safekeeping Within Your tent of love, From danger I’m protected By sheltering wings above.”  —St. Teresa Benedicta_
 
@@ -69,11 +70,11 @@ I hope to never experience anything as horrific as the Holocaust, dearest sister
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
-## Day Three: Unwavering Trust in Divine Providence (August 03)
+# Day Three: Unwavering Trust in Divine Providence (August 03)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > _“O Prince of Peace, to all who receive You, You bring light and peace. Help me to live in daily contact with You, listening to the words You have spoken and obeying them. O Divine Child, I place my hands in Yours; I shall follow You. Oh, let Your divine life flow into me.”  —St. Teresa Benedicta_
 
@@ -85,11 +86,11 @@ Dearest sister in Jesus, please ask your Heavenly Spouse to give me this grace t
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
-## Day Four: Courage (August 04)
+# Day Four: Courage (August 04)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > _“O my God, fill my soul with holy joy, courage and strength to serve You. Enkindle Your love in me and then walk with me along the next stretch of road before me. I do not see very far ahead, but when I have arrived where the horizon now closes down, a new prospect will open before me and I shall meet with peace.” —St. Teresa Benedicta_
 
@@ -101,11 +102,11 @@ Ask Him for me, sister, to grant me the same grace. While my future may not be s
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
-## Day Five: Fearless Embrace of the Cross (August 05)
+# Day Five: Fearless Embrace of the Cross (August 05)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > _“The world is in flames. The conflagration can also reach our house. But high above all flames towers the Cross. They cannot consume it. It is the path from earth to heaven. It will lift one who embraces it in faith, love, and hope into the bosom of the Trinity._ 
 
@@ -117,11 +118,11 @@ Carrying my cross seems so difficult, St. Teresa Benedicta, but if I were to fea
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
-## Day Six: Sacrifice (August 06)
+# Day Six: Sacrifice (August 06)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > _“I will go unto the altar of God. It is not myself and my tiny little affairs that matter here, but the great sacrifice of atonement. I surrender myself entirely to Your divine will, O Lord. Make my heart grow greater and wider, out of itself into the Divine Life.”  —St. Teresa Benedicta_
 
@@ -131,11 +132,11 @@ Instead of bemoaning your horrible fate or complaining about the dire circumsta
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
-## Day Seven: Surrender (August 07)
+# Day Seven: Surrender (August 07)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > _“To be a child of God means to walk at the hand of God, to do God’s will, to put all worries and all hopes in God’s hands.... God in us, and we in Him, that is our portion in the divine realm for which the incarnation laid the foundation.”  —St. Teresa Benedicta_
 
@@ -145,11 +146,11 @@ As I think on the circumstances of your martyrdom, my mind reels. You accepted t
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
-## Day Eight: Longing for the Kingdom of God (August 08)
+# Day Eight: Longing for the Kingdom of God (August 08)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > _“The eyes of the Crucified look down on you—asking, probing. Will you make your covenant with the Crucified anew in all seriousness? What will you answer him? ‘Lord, where shall we go? You have the words of eternal life.’”  —St. Teresa Benedicta_
 
@@ -159,11 +160,11 @@ I long for this detachment, St. Teresa. I long to spend eternity in the Kingdom 
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
-## Day Nine: Selfless Love for Neighbor (August 09)
+# Day Nine: Selfless Love for Neighbor (August 09)
 
-#### _Opening Prayer_
+## _Opening Prayer_
 
 > _“Do you hear the groans of the wounded on the battlefields in the west and the east? You are not a physician and not a nurse and cannot bind up the wounds. You are enclosed in a cell and cannot get to them. Do you hear the anguish of the dying? You would like to be a priest and comfort them. Does the lament of the widows and orphans distress you? You would like to be an angel of mercy and help them. Look at the Crucified.”  —St. Teresa Benedicta_
 
@@ -173,6 +174,6 @@ How can I love in the face of such hatred? How can I think so little of myself i
 
 Saint Teresa Benedicta, please pray for me and all my intentions.
 
-##### _Our Father, Hail Mary, Glory Be_
+### _Our Father, Hail Mary, Glory Be_
 
 ---

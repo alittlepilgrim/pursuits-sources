@@ -1,15 +1,16 @@
 ---
-title: Word of God
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: word-of-god. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Word of God
 aliases:
   - Word of God
   - word-of-god
 tags:
   - term/word-of-god
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: word-of-god. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Word of God

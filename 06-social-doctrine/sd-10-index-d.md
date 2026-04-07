@@ -1,15 +1,17 @@
 ---
-title: D- Social Doctrine of the Church Analytical Index
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: false
+title: D- Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - D- Social Doctrine of the Church Analytical Index
   - sd-10-index-d
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-14
+modified: 2026-04-06
+publish: false
 ---
 
 ---
@@ -18,21 +20,21 @@ author: Catholic Church
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Daughter
+## Daughter
 
 - See [[sd-10-index-c#Children|Children]]
 
-### Death Penalty
+## Death Penalty
 
 Public opinion and the death penalty, [[sd-04-part-II#^csdc-405|405]]
 
 Countries, provisions and the death penalty, [[sd-04-part-II#^csdc-405|405]]
 
-### Debt
+## Debt
 
 The sabbatical year and the cancellation of debts, [[sd-03-part-I#^csdc-24|24]]
 
@@ -44,15 +46,15 @@ International trade and foreign debt, [[sd-04-part-II#^csdc-482|482]]
 
 The _Our Father_ and the forgiveness of debts, [[sd-04-part-II#^csdc-492|492]]
 
-### Decalogue
+## Decalogue
 
 - See [[sd-10-index-c#Commandment|Commandment]]
 
-### Decay
+## Decay
 
 Creation and liberation from decay, [[sd-03-part-I#^csdc-123|123]]
 
-### De Facto Unions
+## De Facto Unions
 
 De facto unions and marriage, [[sd-04-part-II#^csdc-227|227]]
 
@@ -60,7 +62,7 @@ Making de facto unions legally equivalent to family, [[sd-04-part-II#^csdc-227|2
 
 De facto unions and homosexual unions, [[sd-04-part-II#^csdc-228|228]]
 
-### Defence - Defend - Defensive - Defender
+## Defence - Defend - Defensive - Defender
 
 (see Also [[sd-10-index-o#Protect|Protect]], [[sd-10-index-s#Safeguard|Safeguard]])
 
@@ -200,7 +202,7 @@ Defence of marriage and of the family, [[sd-05-part-III#^csdc-553|553]]
 
 Autonomy, Catholics and defence of the truth, [[sd-05-part-III#^csdc-571|571]]
 
-### Democracy - Democratic - Democratization
+## Democracy - Democratic - Democratization
 
 _Centesimus Annus_ and democracy, [[sd-03-part-I#^csdc-103|103]], [[sd-04-part-II#^csdc-406|406]]
 
@@ -256,7 +258,7 @@ Discernment and the democratic systems, [[sd-05-part-III#^csdc-569|569]]
 
 Democratic societies and autonomy, [[sd-05-part-III#^csdc-572|572]]
 
-### Development
+## Development
 
 Love, relations and human development, [[sd-02-intro#^csdc-4|4]]
 
@@ -450,7 +452,7 @@ Social love and development of the person, [[sd-06-conclusion#^csdc-581|581]]
 
 Civilization of love and development of the person, [[sd-06-conclusion#^csdc-582|582]]
 
-### Dialogue
+## Dialogue
 
 The _Compendium_, an incentive for dialogue with all, [[sd-02-intro#^csdc-10|10]]
 
@@ -510,7 +512,7 @@ Democracy, discernment and dialogue, [[sd-05-part-III#^csdc-569|569]]
 
 Believers and sincere dialogue, [[sd-05-part-III#^csdc-574|574]]
 
-### Dignity - Human Dignity
+## Dignity - Human Dignity
 
 The Church, man and human dignity, [[sd-02-intro#^csdc-3|3]], [[sd-03-part-I#^csdc-51|51]], [[sd-03-part-I#^csdc-63|63]], [[sd-05-part-III#^csdc-551|551]], [[sd-05-part-III#^csdc-552|552]]
 
@@ -756,7 +758,7 @@ Christian martyrdom and human dignity, [[sd-05-part-III#^csdc-570|570]]
 
 The Gospel of Christ and dignity of the person, [[sd-06-conclusion#^csdc-576|576]]
 
-### Directives
+## Directives
 
 Social doctrine and directives for action, [[sd-02-intro#^csdc-7|7]], [[sd-03-part-I#^csdc-81|81]]
 
@@ -766,7 +768,7 @@ The commitment of lay Christians and directives, [[sd-05-part-III#^csdc-530|530]
 
 Political choices and directives for action, [[sd-05-part-III#^csdc-574|574]]
 
-### Disarm - Disarmament
+## Disarm - Disarmament
 
 Disarmament and the international order, [[sd-04-part-II#^csdc-438|438]]
 
@@ -782,7 +784,7 @@ Disarmament and weapons with traumatic effects, [[sd-04-part-II#^csdc-510|510]]
 
 Disarmament and anti-personnel landmines, [[sd-04-part-II#^csdc-510|510]]
 
-### Discernment
+## Discernment
 
 Discernment and social doctrine, [[sd-02-intro#^csdc-9|9]], [[sd-03-part-I#^csdc-161|161]]
 
@@ -810,7 +812,7 @@ The democratic system and discernment, [[sd-05-part-III#^csdc-569|569]]
 
 Political instruments and discernment, [[sd-05-part-III#^csdc-573|573]]
 
-### Discrimination
+## Discrimination
 
 The sabbatical year and discrimination, [[sd-03-part-I#^csdc-24|24]]_
 
@@ -838,7 +840,7 @@ The Jewish people and overcoming every discrimination, [[sd-05-part-III#^csdc-53
 
 Human culture and discrimination, [[sd-05-part-III#^csdc-557|557]]
 
-### Disease
+## Disease
 
 (see Also [[sd-10-index-o#Sickness|Sickness]])
 
@@ -848,7 +850,7 @@ Biotechnology and the fight against disease, [[sd-04-part-II#^csdc-478|478]]
 
 Access to drinking water and disease, [[sd-04-part-II#^csdc-484|484]]
 
-### Disorder - Disordered
+## Disorder - Disordered
 
 The first sin and disorder, [[sd-03-part-I#^csdc-27|27]]
 
@@ -866,21 +868,21 @@ The State, disorder and criminal activity, [[sd-04-part-II#^csdc-402|402]]
 
 Use of force and more serious disorders, [[sd-04-part-II#^csdc-500|500]]
 
-### Disparity
+## Disparity
 
 - See [[sd-10-index-i#Imbalance|Imbalance]]
 
-### Divorce
+## Divorce
 
 Divorce and relativism of the marriage bond, [[sd-04-part-II#^csdc-225|225]]
 
 The Church and care of divorced persons who are remarried, [[sd-04-part-II#^csdc-226|226]], [[sd-04-part-II#^csdc-226|226]]*
 
-### Doctrine
+## Doctrine
 
 - See [[sd-10-index-s#Social Doctrine|Social Doctrine]]
 
-### Drug
+## Drug
 
 New forms of poverty and drug addiction, [[sd-02-intro#^csdc-5|5]]
 
@@ -888,7 +890,7 @@ Drug trafficking, a form of slavery, [[sd-03-part-I#^csdc-158|158]]
 
 Drug trafficking and human rights, [[sd-03-part-I#^csdc-158|158]]
 
-### Duty - Obligation
+## Duty - Obligation
 
 The Ten Commandments and the duties of the person, [[sd-03-part-I#^csdc-22|22]]
 

@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Josepha Naval Girbes
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Blessed Josepha Naval Girbes
@@ -11,8 +8,11 @@ aliases:
 tags:
   - role/blessed
   - term/virgin
-celebration: "11-06"
-full_name: "Blessed Josepha Naval Girbes"
+  - type/figure
+celebration: 11-06
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Josepha Naval Girbes

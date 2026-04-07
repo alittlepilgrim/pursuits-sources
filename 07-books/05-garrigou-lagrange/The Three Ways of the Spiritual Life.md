@@ -1,18 +1,18 @@
 ---
+type: book
 title: The Three Ways of the Spiritual Life by Reginald Garrigou-lagrange
-created: 2026-03-10
-modified: 2026-04-02
-type: m
-publish: true
-description: In this compact book; the famous Thomist; Fr. Garrigou-Lagrange; sets forth the classic Catholic traditions on the spiritual life as the full flowering of Sanctifying Grace in the soul. He explains the three stages of the spiritual life-the Purgative Way; the Illuminative Way; and the Unitive Way-showing the transitions or conversions from one period to another. How can one become a saint without knowing the way -- the pitfalls; common mistakes; and experience of Saints who have gone before. Impr. 112 pgs;
+author: Reginald Garrigou-Lagrange
+url: https://www.ewtn.com/catholicism/library/three-ways-of-the-spiritual-life-12556|
 aliases:
   - The Three Ways of the Spiritual Life
   - The Three Ways of the Spiritual Life by Reginald Garrigou-Lagrange
   - the-three-ways-of-the-spiritual-life
 tags:
   - book
-author: Reginald Garrigou-Lagrange
-source: https://www.ewtn.com/catholicism/library/three-ways-of-the-spiritual-life-12556|
+created: 2026-03-10
+modified: 2026-04-04
+publish: true
+description: In this compact book; the famous Thomist; Fr. Garrigou-Lagrange; sets forth the classic Catholic traditions on the spiritual life as the full flowering of Sanctifying Grace in the soul. He explains the three stages of the spiritual life-the Purgative Way; the Illuminative Way; and the Unitive Way-showing the transitions or conversions from one period to another. How can one become a saint without knowing the way -- the pitfalls; common mistakes; and experience of Saints who have gone before. Impr. 112 pgs;
 ---
 
 # The Three Ways of the Spiritual Life by Reginald Garrigou-lagrange
@@ -59,7 +59,7 @@ BY Reginald Garrigou-Lagrange
 
 THE interior life is for all the one thing necessary. It ought to be constantly developing in our souls; more so than what we call our intellectual life, more so than our scientific, artistic or literary life. The interior life is lived in the depths of the soul; it is the life of the whole man, not merely of one or other of his faculties. And our intellectual life would gain immeasurably by appreciating this; it would receive an inestimable advantage if, instead of attempting to supplant the spiritual life, it recognized its necessity and importance, and welcomed its beneficial influence -- the influence of the theological virtues and the gifts of the Holy Ghost. How deeply important our subject is may be seen in the very words we have used: Intellectuality and Spirituality. And it is important to us not only as individuals, but also in our social relations, for it is evident that we can exert no real or profound influence upon our fellow-men unless we live a truly interior life ourselves.
 
-### The Necessity of the Interior Life.
+### The Necessity of the Interior Life
 
 The pressing need of devoting ourselves to the consideration of the one thing necessary is especially manifest in these days of general chaos and unrest, when so many men and nations, neglecting their true destiny, give themselves up entirely to acquiring earthly possessions, failing to realize how inferior these are to the everlasting riches of the spirit.
 
@@ -75,7 +75,7 @@ God is now showing men what a great mistake they make when they try to do withou
 
 Do what you will with these material goods: share them out equally, make them the common property of all. It will be no remedy for the evil; for, so long as earthly possessions retain their nature and man retains the nature which is his, he will never find his happiness in them. The remedy is this, and this only: to consider the one thing necessary, and to ask God to give us saints who live only on this thought, saints who will give the world the spirit that it needs. God has always sent us saints in troubled times. We need them especially to-day.
 
-### The Principle of the Interior Life.
+### The Principle of the Interior Life
 
 It is all the more important to recall the necessity and the true nature of the interior life, because the true conception of it, as given to us in the Gospel, in the Epistles of St. Paul and in the whole of Tradition, has been partially obscured by many false ideas. In particular it is evident that the notion of the interior life is radically corrupted in the Lutheran theory of justification or conversion. According to this theory the mortal sins of the convert are not positively blotted out by the infusion of the new life of grace and charity; they are simply covered over, veiled by faith in the Redeemer, and they cease to be imputed to the person who has committed them. There is no intrinsic justification, no interior renewal of the soul; a man is reputed just merely by the extrinsic imputation of the justice of Christ. According to this view, in order to be just in the eyes of God it is not necessary to possess that infused charity by which we love God supernaturally and our fellowmen for God's sake. Actually, according to this conception, however firmly the just man may believe in Christ the Redeemer, he remains in his sin, in his corruption or spiritual death. \[2\]
 
@@ -113,7 +113,7 @@ Truly sanctifying grace is a real and formal participation of the divine nature,
 
 This is what shows us, better than anything else, in what the true nature of sanctifying grace, the true nature of our interior life, consists. We cannot emphasize it too much. It is one of the most consoling truths of our faith; it is one of those vital truths which serve best to encourage us in the midst of the trials of our life on earth.
 
-### The Beginning of Eternal Life.
+### The Beginning of Eternal Life
 
 To understand what our interior life is in itself and in its various phases, we must consider it not merely in its seed, but in its full and complete development. Now, if we ask the Gospel what our interior life is, it tells us that the life of grace, given to us in Baptism and nourished by the Eucharist, is the seed or germ of eternal life.
 
@@ -143,7 +143,7 @@ St. Thomas expresses this doctrine in the brief statement: 'Gratia nihil aliud e
 
 And therefore the Liturgy tells us, in the Preface used for the Mass of the Dead. 'Tuis enim fidelibus, Domine, vita mutatur, non tollitur': 'From them that believe in thee, O Lord, life is not taken away; it is changed and transformed.'
 
-### The Importance of True Conversion.
+### The Importance of True Conversion
 
 We are thus able to appreciate something of the importance of true conversion, by which a man passes from the state of mortal sin to the state of grace. In the former state his energies were dissipated and he was indifferent in regard to God; now he loves God more than he loves himself, more than he loves anything else; at any rate he esteems God beyond all earthly things, even though his love of God may not be free from all selfish motives. The state of sin was a state of spiritual death; a state in which, more or less consciously, he made himself the centre of all his activities and the end of all his desires; in which he was actually the slave of everything, the slave of his passions, of the spirit of the world, of the spirit of evil. The state of grace, on the other hand, is a state of life in which man begins seriously to tend beyond himself and to make God the centre of his activities, loving God more than himself. The state of grace is entrance into the kingdom of God, where the docile soul begins to reign with God over its own passions, over the spirit of the world and the spirit of evil.
 
@@ -191,7 +191,7 @@ In no way, therefore, can we express more clearly the preciousness of sanctifyin
 
 This is the fundamental truth of Christian spirituality. Consequently our interior life must be a life of humility, for we must remember always that the principle of that life, sanctifying grace, is a gratuitous gift, and that we need an actual grace for the slightest salutary act, for the shortest step forward in the way of salvation. It must be also a life of mortification; as St. Paul says, we must be 'always bearing about in our body the mortification of Jesus, that the life also of Jesus may be made manifest in our bodies'; \[49\] that is to say: we must daily more and more die to sin and to the relics that sin leaves in us, so that God may reign more completely in us, even to the depth of the soul. But, above all, our interior life must be a life of faith, hope, charity, and union with God by unceasing prayer; it is above all the life of the three theological virtues and of the gifts of the Holy Ghost which accompany them: the gifts of wisdom, understanding, knowledge, piety, counsel, fortitude and fear of the Lord. In this way we shall enter into the mysteries of faith and relish them more and more. In other words, our whole interior life tends towards the supernatural contemplation of the mysteries of the inner life of God and of the Incarnation and Redemption; it tends, above all, towards a more intimate union with God, a preliminary to that union with Him, ever actual and perpetual, which will be the consummation of eternal life.
 
-### The Three Periods of the Spiritual Life.
+### The Three Periods of the Spiritual Life
 
 If such is the life of grace, if such is the spiritual organism of the infused virtues and the gifts, it is not surprising to find that the development of the interior life has often been compared to the three periods or stages of physical life: childhood, youth, and manhood. St. Thomas himself has indicated this analogy: and it is an analogy which is worth pursuing, particular attention being paid to the transition from one period to the other.
 
@@ -239,7 +239,7 @@ This question is of the greatest interest for every spiritual soul. Among those 
 
 Following St. Catherine, we shall speak first of this second conversion as it took place in the Apostles, and then as it should take place in us; we shall say what defects render this conversion necessary, what great motives ought to inspire it, and finally what fruits it should produce in us.
 
-### The Second Conversion of the Apostles.
+### The Second Conversion of the Apostles
 
 St. Catherine of Siena speaks explicitly of the second conversion of the Apostles in the 63rd chapter of her Dialogue.
 
@@ -261,7 +261,7 @@ The threefold act of love made reparation for the threefold denial. It was a con
 
 For St. John, too, there had been something special just before the death of Christ. John, like the other Apostles, had abandoned his Master when Judas arrived with his band of armed men; but by an invisible and powerful grace Jesus drew the beloved disciple to the foot of the cross, and the second conversion of St. John took place when he heard the seven last words of the dying Saviour.
 
-### What Our Second Conversion Ought to Be. the Defects Which Render It Necessary.
+### What Our Second Conversion Ought to Be. the Defects Which Render It Necessary
 
 In the 60th and 63rd chapters of her Dialogue, St. Catherine shows that what happened in the case of the Apostles, our models formed immediately by the Saviour Himself, must happen, after a certain manner, in the case of each one of us. Indeed we may say that if even the Apostles stood in need of a second conversion, then still more do we. The Saint emphasizes especially the faults which make this second conversion necessary, in particular self-love. In varying degrees this egoism survives in all imperfect souls in spite of the state of grace, and it is the source of a multitude of venial sins, of habitual faults which become characteristic features of the soul, rendering necessary a veritable purging even in those who have, as it were, been present on Mount Thabor, or who have often partaken of the Eucharistic banquet, as the Apostles did at the Last Supper.
 
@@ -289,7 +289,7 @@ At the end of this same 63rd chapter of her Dialogue we find a passage of which 
 
 In this same connection the Saint speaks of the many dangers that lie in wait for a soul that is moved only by a mercenary love, saying that souls which are imperfect desire to follow the Father alone, without passing by the way of Christ crucified, because they have no desire to suffer. \[74\]
 
-### The Motives Which Must Inspire the Second Conversion, and the Fruits That Derive Therefrom.
+### The Motives Which Must Inspire the Second Conversion, and the Fruits That Derive Therefrom
 
 The first motive is expressed in the greatest commandment, which knows no limits: 'Thou shalt love the Lord thy God with thy whole heart and with thy whole soul and with all thy strength and with all thy mind.' \[75\] This commandment requires the love of God for His own sake, and not from self-interest or attachment to our own personal satisfaction; it demands, moreover, that we love God with all our strength in the hour of trial, so that we may finally arrive at the stage of loving Him with our whole mind, when our love will be unaffected by the ebb and flow of sensibility and we shall be of those who 'adore in spirit and in truth.' Furthermore, this commandment is absolute and without limits: the end for which all Christians are required to strive is the perfection of charity, each in his own condition and state of life, whether it be in the state of marriage or in the priestly or the religious life.
 
@@ -333,7 +333,7 @@ The Apostles were prepared for their third transformation by the fact that from 
 
 It was in the night of the spirit that they were prepared for the outpouring of the graces of Pentecost.
 
-### The Descent of the Holy Ghost upon the Apostles.
+### The Descent of the Holy Ghost upon the Apostles
 
 "All These Were Persevering In One Mind In Prayer, With The Women And Mary The Mother Of Jesus.
 
@@ -347,7 +347,7 @@ the Holy Ghost already dwell in the souls of the Apostles, but by this visible m
 
 Then were the words of Christ fulfilled: 'The Holy Ghost whom the Father will send in my name, he will teach you all things, and will bring to your mind whatsoever I shall have said to you.' \[88\] Then the Apostles began to speak 'in divers tongues the wonderful works of God,' so that the foreigners who were witnesses of this marvel, 'Parthians and Medes, Elamites and inhabitants of Mesopotamia, Judaea and Cappadocia, Pontus and Asia... Jews, Cretes and Arabians... were all amazed and wondered, saying... We have heard them speak in our own tongues.' \[89\] It was a sign that they were now to begin to preach the Gospel to the different nations, as our Lord had commanded them-' Go ye, and teach all nations.'\[90\]
 
-### The Effects of the Descent of the Holy Ghost.
+### The Effects of the Descent of the Holy Ghost
 
 The Acts show us what were these effects: the Apostles were enlightened and fortified, and their sanctifying influence transformed the first Christians; there was a transport of intense fervour in the infant Church.
 
@@ -381,7 +381,7 @@ To be of but one heart and one soul, and to banish all divisions amongst us. To 
 
 If we saw the Church as she is in the most generous souls who live most truly the life of the Church, she would appear most beautiful in our sight, despite the human imperfections which are mingled with the activity of her children. We rightly lament certain blots, but let us not forget that if there is sometimes mud in the valley at the foot of the mountains, on the summits there is always snow of dazzling whiteness, air of great purity, and a wonderful view that ever leads the eye to God.
 
-### The Purification of the Spirit Necessary for Christian Perfection.
+### The Purification of the Spirit Necessary for Christian Perfection
 
 Create A Clean Heart In Me, O Lord. \[103\]
 
@@ -389,7 +389,7 @@ We have seen that the transformation of the Apostles on the day of Pentecost was
 
 Let us see now (I) why this conversion is necessary for proficients, (2) how God purifies the soul at this stage and (3) what are the fruits of this third conversion.
 
-### The Necessity of the Purification of the Spirit.
+### The Necessity of the Purification of the Spirit
 
 Many imperfections remain even in those who have advanced in the way of God. If their sensibility has been to a great extent purged of the faults of spiritual sensuality, inertia, jealousy, impatience, yet there still remain in the spirit certain 'stains of the old man' which are like rust on the soul, a rust which will only disappear under the action of an intense fire, similar to that which came down upon the Apostles on the day of Pentecost. This comparison is made by St. John of the Cross. \[104\]
 
@@ -447,7 +447,7 @@ One of the great problems of the spiritual life is the question how we are to in
 
 Of this traditional division two notably different interpretations have been given, according as the infused contemplation of the mysteries of faith and the union with God which results from it were considered as belonging to the normal way of sanctity, or as extraordinary favours, not only de facto but also de jure.
 
-### Statement of the Problem.
+### Statement of the Problem
 
 The difference between the two interpretations may be seen if we compare the division of ascetico-mystical theology used until the second half of the eighteenth century with that given by several authors who have written since that time. It is evident, for example, if we compare the treatise of Vallgornera, O. P., Mystica theologia divi Thomae (1662), with the two works of Scaramelli, S. J., Direttorio ascetico (1751) and Direttorio mistico.
 
@@ -479,7 +479,7 @@ Similarly, the new conception surely diminishes the sublimity of evangelical per
 
 In order better to preserve the unity and sublimity of the interior life, such as the Gospels and the epistles reveal it to us, we propose the division which follows. It accords with that of the great majority of authors who wrote before the second half of the eighteenth century, and, by including an imperfect form of the illuminative and unitive ways, mentioned by St. John. of the Cross, \[127\] it also safeguards that portion of truth which, in our opinion, the more recent conception contains.
 
-### Proposed Division of the Three Stages of the Spiritual Life.
+### Proposed Division of the Three Stages of the Spiritual Life
 
 Above the condition of hardened sinners, above the state of those sensual souls who live in dissipation, conversion or justification sets us in the state of grace; grace which sin ought never to destroy in us, grace which, like a supernatural seed, ought continually to grow until it has reached its full development in the immediate vision of the divine essence and in a perfect love which will last for ever.
 
@@ -539,7 +539,7 @@ We have seen also how it may be compared with the three ages of our bodily life,
 
 \* Transition: First conversion, or justification
 
-### The Transition from One Stage to Another in the Spiritual Life.
+### The Transition from One Stage to Another in the Spiritual Life
 
 The transitions from one stage to another in the spiritual life, analogous to similar transitions in our bodily life, are marked by a crisis in the soul; and none has described these crises so well as St. John of the Cross. He shows that they correspond to the nature of the human soul, and to the nature of the divine seed, which is sanctifying grace. In the Dark Night, \[129\] after having spoken of the spiritual imperfections of beginners, he writes: 'The one night or purgation will be sensual, wherein the soul is purged according to sense, which is subdued to the spirit.... The night of sense is common, and comes to many; these are the beginners.' Then he adds: \[130\] 'When this house of sensuality was now at rest -- that is, was mortified its passions being quenched and its desires put to rest and lulled to sleep by means of this blessed night of the purgation of sense, the soul went forth to set out upon the road and way of the spirit, which is that of progressives and proficients, and which by another name is called the way of illumination or of infused contemplation, wherewith God Himself feeds and refreshes the soul, without meditation, or the soul's actual help. Such, as we have said, is the night and purgation of sense in the soul.'
 
@@ -569,7 +569,7 @@ From this point of view we shall now study what exactly constitutes the spiritua
 
 WE have seen the different conceptions which various writers have proposed of the three stages or periods of the spiritual life; and we have seen which of these is to be regarded as the traditional one. There is, we have said, an analogy between these three stages of the life of the soul and those of the life of the body- infancy, adolescence and manhood; and we have paid particular attention to the transition between one period and another, marked by a crisis analogous to that which, in the natural or physical order, occurs in life about the age of fourteen or fifteen and again at twenty or twenty-one. We have seen also how these different periods of the interior life have their counterpart in the life of the Apostles. We now intend, following the principles of St. Thomas and of St. John of the Cross, to describe briefly the characteristics of these three periods, that of beginners, proficients and perfect, in order to show that these are successive stages in a normal development, a development which corresponds both to the distinction between the two parts of the soul (sensitive and spiritual), and to the nature of 'the grace of the virtues and the gifts.' This grace progressively permeates the soul with the supernatural life, elevates its faculties, both higher and lower, until the depth of the soul \[139\] is purged of all egoism and self-love, and belongs truly, without any reservation, to God. We shall see that the whole development is logical, it is logical with the logic of life, the logic which is imposed necessarily by life's end and purpose: Justum deduxit Dominus per vias rectas: 'The Lord guides the just by straight ways.'
 
-### Beginners.
+### Beginners
 
 The first conversion is the transition from the state of sin to the state of grace, whether by baptism or, in the case of those who have lost their baptismal innocence, by contrition and sacramental absolution. Theologians explain at length in the treatise on grace what precisely justification is in an adult, and how and why it requires, under the influence of grace, acts of faith, hope, charity and contrition, or detestation of sin committed. \[140\] This purgation by the infusion of habitual grace and the remission of sins is in a sense the type or pattern of all the subsequent purgations of the soul, all of which involve acts of faith, hope, charity and contrition. Often this first conversion comes about after a more or less painful crisis in which the soul progressively detaches itself from the spirit of the world, like the prodigal son, to come back to God. It is God always who makes the first step towards us, as the Church has taught against the Semi-pelagians; it is He who inspires the good movement in us, that initial goodwill which is the beginning of salvation. For this purpose, by His grace and by the trials to which He subjects the soul, He as it were 'tills' the ground of the soul before sowing the divine seed within it; He drives a first furrow therein, a furrow upon which He will later return, to dig more deeply still and to eradicate the weeds which remain; much as the vine-tender does with the vine when it has already grown, to free it from all that may retard its development.
 
@@ -619,7 +619,7 @@ This crisis, like the preceding, is not without its dangers; it calls for great 
 
 He who passes through this crisis, loves God, not only with all his heart and all his soul, but according to the scale of the Scriptural phrase, with all his strength; and he now prepares to love Him 'with all his mind,' to become an 'adorer in spirit and in truth,' that higher part of the soul which should control the whole of our activity being now in some sort established in God.
 
-### The Perfect.
+### The Perfect
 
 What is the spiritual state of the perfect after this purgation, which has been like a third conversion for them? They know God with a knowledge which is quasi-experimental and almost continuous; not merely during times of prayer or the divine office, but in the midst of external occupations, they have a constant sense of the presence of God. Whereas at the beginning man had been selfish, thinking constantly of himself and, unconsciously, directing all things to himself, the perfect soul thinks constantly of God, of His glory, of the salvation of souls and, as though instinctively, causes all things to converge upon that end. The reason of this is that he no longer contemplates God merely in the mirror of the things of sense, no longer merely in parables or even in the mirror of the mysteries of the life of Christ, for this cannot continue throughout the whole day, but he contemplates the divine goodness in itself, very much in the way in which we constantly see light diffused about us and illuminating all things from on high. In the terminology of Dionysius, employed also by St. Thomas, it is a movement of contemplation, no longer straight nor spiral, but circular, like the flight of the eagle which, after rising to a great height, circles round and round, and hovers to view the horizon.
 
@@ -639,7 +639,7 @@ THOSE who follow the way of generosity, self-denial, and self- sacrifice which t
 
 Truly spiritual delights have their source in the cross, in the spirit of sacrifice which causes disordered inclinations to die in us and gives the first place to the love of God and the love of souls in God, which installs in the throne of our souls that charity which is the source of peace, the tranquility of order. These deep joys cannot enter into the soul until the senses and the spirit have been purged and refined by tribulations and sufferings which detach us from things created. As we read in the Acts of the Apostles: 'Through many tribulations we must enter into the kingdom of God.' \[161\]
 
-### The Divine Awakening.
+### The Divine Awakening
 
 After the dark and painful night of the spirit there is, St. John of the Cross tells us, a divine awakening: 'The soul uses a similitude of the breathing of one that awakens from his sleep," and says, 'How gentle and loving is... thine awakening, O Word and Spouse, in the centre and depth of my soul... wherein alone, secretly and in silence, Thou dwellest as its Lord.'This divine awakening is an inspiration of the Word manifesting His dominion, His glory and His intimate sweetness. \[162\]
 
@@ -651,7 +651,7 @@ In this 'powerful and glorious awakening' the soul receives, as it were, an aspi
 
 These graces are a preparation for that other awakening of the supreme moment of death, when the soul issuing forth from the body will see itself immediately as a spiritual substance, as the angels see themselves. And the last awakening of all will be in the moment of entrance into glory, when the soul, separated from the body, sees God face to face, and sees itself in God. Happy the saints who go straight to heaven. While those about them are lamenting their departure, they have reached the end of their journey in the clearness of the vision that gives them joy. As the Gospel says, they have entered into the joy of their Lord.
 
-### The Living Flame.
+### The Living Flame
 
 Already here on earth the divine awakening produces in the soul of the perfect a flame of love which is a participation of that living flame which is the Holy Spirit Himself. 'This flame the soul feels within it, not only as a fire that has consumed and transformed it in sweet love, but also as a fire which burns within it and sends out flame.... And this is the operation of the Holy Spirit in the soul that is transformed in love, that His interior actions cause it to send out flames.... And thus these acts of the soul are most precious, and even one of them is of greater merit and worth than all that the soul may have done in this life apart from this transformation, however much this may be;... it is the same difference as that between the log of wood that is enkindled and the flame which it sends forth.... In this state, therefore, the soul can perform no acts, but it is the Holy Spirit that moves it to perform them.... Hence it seems to the soul that whensoever this flame breaks forth... it is granting it eternal life... it teaches the soul what is the savour of eternal life... it causes the soul to experience the life of God, even as David says: My heart and my flesh have rejoiced in the living God.'\[166\]
 
@@ -683,13 +683,13 @@ Exactly the same doctrine is found in the Dialogue of St. Catherine of Siena, wh
 
 'But you must have thirst, because only those that thirst are invited. "If any man thirst," He says, "let him come to me and drink." He who has no thirst will not persevere, for either fatigue causes him to stop, or pleasure distracts him... he turns back at the smallest persecution, for he likes it not... The intellect must gaze into the ineffable love which I have shown thee by means of My only-begotten Son.... A man who is full of My love and the love of his neighbour finds himself the companion of many real virtues; and then the soul is disposed to thirst: it thirsts for virtue, and the honour of My name and the salvation of souls, every other thirst in him is spent and dead. The soul then walks securely... being stripped of self-love; it is raised above itself and above transitory things.... It contemplates the deep love that I have manifested to you in Christ crucified.... The heart, emptied of the things that pass away, becomes filled with heavenly love which gives access to the waters of grace. Having arrived there, the soul passes through the door of Christ crucified and tastes the water of life, slaking his thirst in Me, who am the Ocean of Peace.'
 
-#### What Practical Conclusion Are We to Draw from All This? We Ought to Say and Repeat This Prayer to Our Blessed Lord.
+#### What Practical Conclusion Are We to Draw from All This? We Ought to Say and Repeat This Prayer to Our Blessed Lord
 
 > Lord, teach me to know the obstacles that, consciously or unconsciously, I am placing in the way of Thy grace in me. Give me the strength to put them aside, and if I am negligent therein, vouchsafe Thyself to remove them, howsoever I may suffer thereby. What wouldst Thou have me to do for Thee this day, my God? Show me what it is in me that displeaseth Thee. Teach me rightly to value the Precious Blood which Thou didst shed for me, of the sacramental or spiritual communion by which we are enabled to drink that Blood from the wound of Thy most loving Heart.
 >
 > Make me, O Lord, to grow in love of Thee. Grant that our inner conversation may never cease; that I may never separate myself from Thee; that I may receive all that Thou dost deign to give me; and that I may not stand in the way of the grace which through me should be poured out upon other souls to give them light and life.'
 
-### Pax in Veritate.
+### Pax in Veritate
 
 And thus, in the words of St. Thomas, man lives no longer for himself, but for God. \[177\] He may say, with St. Paul: 'To me to live is Christ, and to die is gain.' \[178\] Life for me is not study, not work, or natural activity of any kind, but Christ.
 

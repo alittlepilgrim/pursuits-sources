@@ -1,20 +1,20 @@
 ---
-title: Galatians, The Letter To The Galatians
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Galatians, the Letter to the Galatians
+title: Galatians, The Letter To The Galatians
+url: https://bible.usccb.org/bible/galatians/0
 aliases:
   - galatians-00
   - Galatians, the Letter to the Galatians
   - Galatians, The Letter To The Galatians
 tags:
+  - bible/book
   - bible/galatians
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/galatians/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Galatians, the Letter to the Galatians
 ---
 
 # Galatians, the Letter to the Galatians

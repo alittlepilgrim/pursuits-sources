@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 9
+title: Isaiah, Chapter 9
+url: https://bible.usccb.org/bible/isaiah/9
 aliases:
   - isaiah-09
   - Isaiah, Chapter 9
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 9
 ---
 
 # Isaiah, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 1 The people who walked in darkness ^isaiah-09-1
 
@@ -71,9 +70,9 @@ By judgment and justice,
 
 both now and forever.
 
-The zeal of the L ORD of hosts will do this!
+The zeal of the LORD of hosts will do this!
 
-#### Judgment on the Northern Kingdom
+### Judgment on the Northern Kingdom
 
 7 The Lord has sent a word against Jacob, ^isaiah-09-7
 
@@ -93,7 +92,7 @@ Sycamores have been felled,
 
 but we will replace them with cedars.”
 
-10 So the L ORD raises up their foes against them ^isaiah-09-10
+10 So the LORD raises up their foes against them ^isaiah-09-10
 
 and stirs up their enemies to action—
 
@@ -107,9 +106,9 @@ and his hand is still outstretched!
 
 12 The people do not turn back to the one who struck them, ^isaiah-09-12
 
-nor do they seek the L ORD of hosts.
+nor do they seek the LORD of hosts.
 
-13 So the L ORD cuts off from Israel head and tail, ^isaiah-09-13
+13 So the LORD cuts off from Israel head and tail, ^isaiah-09-13
 
 palm branch and reed in one day.
 
@@ -141,7 +140,7 @@ It kindles the forest thickets,
 
 which go up in columns of smoke.
 
-18 At the wrath of the L ORD of hosts the land quakes, ^isaiah-09-18
+18 At the wrath of the LORD of hosts the land quakes, ^isaiah-09-18
 
 and the people are like fuel for fire;
 

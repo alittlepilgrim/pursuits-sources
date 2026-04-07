@@ -1,23 +1,21 @@
 ---
-title: Book X. Commandment of Loving God Above All Things - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book X. Commandment of Loving God Above All Things - Treatise on the Love of God
+title: Book X. Commandment of Loving God Above All Things - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book X. Commandment of Loving God Above All Things  - Treatise on the Love of God
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book X. Commandment of Loving God Above All Things - Treatise on the Love of God
 ---
 
 # Book X. Commandment of Loving God Above All Things
 
-### Chapter I. of the Sweetness of the Commandment Which God Has Given Us of Loving Him Above All Things
+## Chapter I. of the Sweetness of the Commandment Which God Has Given Us of Loving Him Above All Things
 
 Man is the perfection of the universe; the spirit is the perfection of man; love, that of the spirit; and charity, that of love. Wherefore the love of God is the end, the perfection and the excellence of the universe. In this, Theotimus, consists the greatness and the primacy of the commandment of divine love, which the Saviour calls the first and greatest commandment. This commandment is as a sun which gives lustre and dignity to all the sacred laws, to all the divine ordinances, and to all the Holy Scriptures. All is done for this heavenly love, and all has reference to it. From the sacred tree of this commandment grow all the counsels, exhortations, inspirations, and the other commandments, as its flowers, and eternal life as its fruit; and all that does not tend to eternal love tends to eternal death. Grand Commandment, the perfect fulfilment of which lasts through eternal life, yea, is no other thing but eternal life!
 
@@ -35,7 +33,7 @@ O good God! Theotimus, how delicious is the sweetness of this commandment, seein
 
 [439] John xix. 37.
 
-### Chapter II. That This Divine Commandment of Love Tends to Heaven, Yet Is Given to
+## Chapter II. That This Divine Commandment of Love Tends to Heaven, Yet Is Given to
 
 THE FAITHFUL IN THIS WORLD.
 
@@ -53,7 +51,7 @@ But we are not to expect this love so exceedingly perfect in this mortal life: f
 
 [442] Ps. lxxxiii. 5.
 
-### Chapter III. How, While the Whole Heart Is Employed in Sacred Love, Yet One May Love
+## Chapter III. How, While the Whole Heart Is Employed in Sacred Love, Yet One May Love
 
 GOD IN VARIOUS WAYS, AND ALSO MANY OTHER THINGS TOGETHER WITH HIM.
 
@@ -87,7 +85,7 @@ So that our love to God, Theotimus, takes its worth from the eminence and excell
 
 [446] Dan. iii. 35.
 
-### Chapter IV. of Two Degrees of Perfection with Which This Commandment May Be Kept in
+## Chapter IV. of Two Degrees of Perfection with Which This Commandment May Be Kept in
 
 THIS MORTAL LIFE.
 
@@ -109,7 +107,7 @@ may be loved inordinately, as when we prefer them before obedience, or before a 
 
 [448] Luke xv. 32.
 
-### Chapter V. of Two Other Degrees of Greater Perfection, by Which We May Love God
+## Chapter V. of Two Other Degrees of Greater Perfection, by Which We May Love God
 
 ABOVE ALL THINGS.
 
@@ -131,7 +129,7 @@ At the same time no mortal creature, as I think, ever loved the heavenly lover s
 
 [453] Phil. iii. 8.
 
-### Chapter VI. That the Love of God Above All Things Is Common to All Lovers
+## Chapter VI. That the Love of God Above All Things Is Common to All Lovers
 
 Though there are so many degrees of love amongst true lovers, yet is there but one commandment of love, which universally and equally obliges every one, with an exactly like and entirely equal obligation, though it be observed differently and with an infinite variety of perfections; there being perhaps no souls on earth, as there are no angels in heaven, who are perfectly equal to one another in their love.
 
@@ -147,7 +145,7 @@ It is an action of the providence of the Holy Ghost, that in our ordinary versio
 
 [456] Deut. vi. 4, 5.
 
-### Chapter VII. Explanation of the Preceding Chapter
+## Chapter VII. Explanation of the Preceding Chapter
 
 We do not always know, nor ever with perfect certainty (at least with certainty of faith), whether we have the true love of God which is required for salvation; still we have many marks of it, amongst which the most assured and almost infallible appears when some great love of creatures opposes itself to the designs of God's love; for then, if divine love is in the soul, it displays the greatness of the credit and authority which it has over the will, showing effectively, not only that it has no master, but that it has not even a companion, repressing and overthrowing all opposition, and making its intentions obeyed. When the unhappy troop of diabolic spirits, revolting from their Creator, essayed to draw to their faction the holy company of the blessed spirits, the glorious S. Michael, animating his comrades to the fidelity which they owed to their God, cried with loud voice (but in angelic sort) through the heavenly Jerusalem: "Who is like to God?" And by this word he overthrew that traitor Lucifer with his rout, who would have equalled themselves with the divine majesty; and thence, as it is said, the name was given to S. Michael, since Michael simply means Who is like to God? And when the loves of created things would draw our hearts to their party, to make us disobedient to the divine majesty, if the great divine love be found in the soul, it makes head against it, as another S. Michael, and establishes the powers and forces of the soul in God's service by this word of steadfastness: Who is like to God? What goodness is there in creatures which ought to draw the human heart into rebellion against the sovereign goodness of its God?
 
@@ -169,7 +167,7 @@ Truly, Theotimus, you will see a mother so busy about her child that she might s
 
 [458] Gen. xvi. 6.
 
-### Chapter VIII. a Memorable History to Make Clearly Understood in What the Force and
+## Chapter VIII. a Memorable History to Make Clearly Understood in What the Force and
 
 EXCELLENCE OF HOLY LOVE CONSIST.
 
@@ -189,7 +187,7 @@ Cato and Cleopatra chose death rather than to see their enemies exult and glory 
 
 [460] John xv. 13.
 
-### Chapter IX. a Confirmation of What Has Been Said by a Noteworthy Comparison
+## Chapter IX. a Confirmation of What Has Been Said by a Noteworthy Comparison
 
 You know, Theotimus, what was Jacob's love for his Rachel. And what did not he do to testify its greatness, force and fidelity, from the hour he had saluted her at the well? For from that time he never ceased to love her, and to gain her in marriage he served seven whole years with incredible devotion; yet he considered that all this was nothing, so much did love sweeten the pains which he supported for his beloved Rachel. And when he was, after all, disappointed of her, he served yet other seven years to obtain her; so constant, loyal and courageous was he in his affection; and having at length obtained her he neglected all other affections, scarcely even taking any account of the duty he had to Lia, his first spouse, a woman of great merit and very worthy to be cherished, whom God himself compassionated for the contempt she suffered, so remarkable was it.
 
@@ -207,7 +205,7 @@ In fine, I say to you this word, worthy of note. Heretics are heretics and bear 
 
 [461] Gen. xxx.
 
-### Chapter X. That We Are to Love the Divine Goodness Sovereignly Above Ourselves
+## Chapter X. That We Are to Love the Divine Goodness Sovereignly Above Ourselves
 
 Aristotle was consistent in saying that good is indeed amiable, but to each one his own good principally, so that the love which we have for others proceeds from the love of ourselves:--for how could a philosopher say otherwise who not only did not love God, but hardly ever even spoke of the love of God? As a fact, however, this love of God precedes all love of ourselves, even according to the natural inclination of our will, as I have made clear in the first book.
 
@@ -225,7 +223,7 @@ And in case there were or could be some sovereign good whereof we were independe
 
 But if, by imagination of a thing impossible, there were an infinite goodness on which we had no dependence whatever, and with which we could have no kind of union or communication, we should indeed esteem it more than ourselves, for we should know that being infinite it would be more estimable and lovable than we; and consequently we should be able to make simple desires of being able to love it; yet, properly speaking, we should not love it, since love aims at union; and much less could we have charity towards it, since charity is a friendship, and friendship cannot be unless it be reciprocal, having for its groundwork communication, and for its end union: I speak thus for the benefit of certain fantastic and empty spirits, who very often on baseless imaginations revolve morbid thoughts to their own great affliction. But as for us, Theotimus, my dear friend, we see plainly that we cannot be true men without putting this inclination into effect. Let us love him more than ourselves who is to us more than all and more than ourselves. Amen, so it is.
 
-### Chapter XI. How Holy Charity Produces the Love of Our Neighbour
+## Chapter XI. How Holy Charity Produces the Love of Our Neighbour
 
 As God created man to his own image and likeness, so did he appoint for man a love after the image and resemblance of the love which is due to his own divinity. Thou shalt love the Lord thy God, with thy whole heart, and with thy whole soul, and with thy whole mind. This is the greatest, and the first commandment. And the second is like to this: Thou shalt love thy neighbour as thyself. [462] Why do we love God, Theotimus? "The cause for which we love God," says S. Bernard, "is God Himself;" as though he had said: we love God because he is the most sovereign and infinite goodness. And why do we love ourselves in charity? Surely because we are the image and likeness of God; and whereas all men are endowed with the same dignity, we love them also as ourselves, that is, as being holy and living images of the divinity.
 
@@ -241,7 +239,7 @@ Should we not bless him a thousand and a thousand times? And why? For the love o
 
 [463] Tobias vii. 2-8
 
-### Chapter XII. How Love Produces Zeal
+## Chapter XII. How Love Produces Zeal
 
 As love tends towards the good of the thing beloved, either by taking delight in it if the beloved have it, or in desiring and procuring it for him if he have it not; so it produces hatred, by which it flies the evil which is contrary to the thing beloved, either by desiring and seeking to remove it if it be there, or by keeping it off and preventing its coming if it be not there. But if evil can neither be hindered from approaching, nor be removed, love at least fails not to have it hated and detested. When love therefore is fervent, and is come to that height that it would take away, remove and divert, what is opposite to the thing beloved, it is termed zeal. So that, to describe it properly, zeal is no other thing than love in its ardour, or rather the ardour that is in love. And therefore, such as the love is, such is the zeal, which is its ardour. If the love be good its zeal is good, if the love be bad its zeal is bad. Now when I speak of zeal, I mean to speak of jealousy too: for jealousy is a species of zeal, and if I am not mistaken, there is but this difference between them, that zeal regards the whole good of the thing beloved, with the intention of removing the contrary evil from it, and jealousy regards the particular good of the friendship, that it may repulse all that opposes that.
 
@@ -253,7 +251,7 @@ Jealousy proceeds from love, envy comes from the defect of love. 5°.
 
 Jealousy never happens but in matter of love, but envy is extended to all kinds of goods--honours, favours, beauty. And if at any time one be envious of the affection which is borne to another, it is not for love, but for the fruits that spring from it. The envious man is little troubled to see his fellow in favour with his prince, so that he be not on occasions graced and preferred by him.
 
-### Chapter XIII. How God Is Jealous of Us
+## Chapter XIII. How God Is Jealous of Us
 
 God speaks thus: I am the Lord thy God, a jealous God. [464] The Lord his name is jealous. [465] God is jealous then, Theotimus, but what is his jealousy? Truly it seems at first to be a jealousy of cupidity such as is that of husbands for their wives: for he will have us so to be his, that he will in no sort have us to be any other's but his. No man, saith he, can serve two masters. [466] He demands all our heart, all our soul, all our mind, and all our strength; for this very reason he calls himself our spouse, and our souls his spouses; and names all sorts of separations from him, fornication, adultery. And high reason indeed has this great God, all singularly good, to exact most rigorously our whole heart: for ours is a little heart, which cannot supply love enough worthily to love the divine goodness. Is it not therefore meet, that since we cannot give him such measure of love as were requisite, that at least we should love him all we can? The good which is sovereignly lovable, ought it not to be sovereignly loved? Now to love sovereignly, is to love totally.
 
@@ -283,7 +281,7 @@ Now as zeal is an inflamed ardour, or an ardent inflaming of love, it requires t
 
 [468] Cant. viii. 6.
 
-### Chapter XIV. of the Zeal or Jealousy Which We Have for Our Lord
+## Chapter XIV. of the Zeal or Jealousy Which We Have for Our Lord
 
 A Gentleman desired a famous painter to paint him a horse running, and the painter having presented the horse to him on its back, and as it were rolling in the mire, the gentleman began to storm; whereupon the painter turning the picture upside down: Be not angry, sir, said he; to change the position of a horse running into that of a horse rolling on its back, it is only necessary to reverse the picture. Theotimus, he who would clearly see what zeal or what jealousy we must have for God, has only to express properly the jealousy we have in human things, and then to turn it upside down, for such will that be which God requires from us for himself.
 
@@ -315,7 +313,7 @@ Thirdly, in human jealousy we are afraid lest the thing beloved be possessed by 
 
 [476] Cant. i. 6.
 
-### Chapter XV. Advice for the Direction of Holy Zeal
+## Chapter XV. Advice for the Direction of Holy Zeal
 
 As zeal is an ardour and vehemence of love it stands in need of guidance; otherwise it would exceed the limits of moderation and discretion. Not indeed that divine love, however vehement, can be excessive in itself, or in the movements or inclinations which it gives to our spirit, but, inasmuch as it makes use of the understanding in the execution of its designs, ordering it to find out the means whereby they may be effected, and makes use of boldness or anger to surmount the difficulties which it meets with, the understanding often comes to propose and make us adopt courses too rough and violent, and anger or hardihood once aroused, and unable to contain itself within the limits of reason, carries away the heart into disorder, so that zeal is thus practised indiscreetly and inordinately; which makes it bad and blameworthy. David sent Joab with his army, against his disloyal and rebellious child, Absalom, whom he commanded them above all things not to injure, ordering that in all events they should take care to save him. But Joab being engaged, and being hot in the pursuit of the victory, with his own hand slew the poor Absalom, without regard to what the king had said to him. Even so, zeal employs anger against the evil, yet ever with express order, that in destroying wickedness and sin it should save, if possible, the sinner and the iniquitous: but it, once in its fury, like a hard-mouthed and wilful horse, runs away with its rider out of the lists, without stop or stay, while breath lasts.
 
@@ -335,7 +333,7 @@ Thus there are persons who think one cannot be very zealous unless one is very a
 
 [477] Matt. xiii. 29.
 
-### Chapter XVI. That the Example of Certain Saints Who Seem to Have Exercised Their
+## Chapter XVI. That the Example of Certain Saints Who Seem to Have Exercised Their
 
 ZEAL WITH ANGER, MAKES NOTHING AGAINST THE DOCTRINE OF THE PRECEDING CHAPTER.
 
@@ -375,7 +373,7 @@ Certainly our Saviour's zeal principally appeared in his death upon the cross to
 
 [484] 1 Cor. xiii.
 
-### Chapter XVII. How Our Lord Practised All the Most Excellent Acts of Love
+## Chapter XVII. How Our Lord Practised All the Most Excellent Acts of Love
 
 Having spoken at large of the sacred acts of divine love, I present you, that you may more easily and holily preserve the memory of them, with a collection or abridgment of them. The charity of Jesus Christ presseth us, [485] says the great apostle. Yea truly, Theotimus, it forces and carries us away by its in finite sweetness, exercised in the whole work of our Redemption, in which appeared the benignity and love of God towards men: for what did not this divine lover do in matter of love? 1. He loved us with a love of Complacency, for his delights were to be with the children of men [486] and to draw man to himself, making himself man. 2. He loved us with a love of Benevolence, bestowing his own divinity upon man, so that man was God. 3. He united himself unto us by an incomprehensible Union, whereby he adhered to our nature, and joined himself so closely, indissolubly and supereminently to it, that never was anything so strictly joined and bound to humanity as is now the most holy divinity in the person of the Son of God. 4. He flowed out into us, and as it were melted his greatness, to bring it to the form and figure of our littleness, whence he is styled a source of living water, dew and rain of heaven. 5. He loved us to Ecstasy, not only because, as S. Denis says, by the excess of his loving goodness he goes in a certain manner out of himself, extending his Providence to all things and being in all things, but also because he has in a sort forsaken and emptied himself, dried up his greatness and glory, resigned the throne of his incomprehensible majesty, and, if it be lawful so to say, annihilated himself to stoop down to our humanity, to fill us with his divinity, to replenish us with his goodness, to raise us to his dignity, and bestow upon us the divine being of children of God. And he of whom it is so frequently written: I live, saith the Lord; could afterwards have said according to his apostle's language: I live, now not I, but man liveth in me. To me to live is man, and to die for man is gain. My life is hidden with man in God. [487] He who dwelt in himself dwells now in us, and he who was living from all eternity in the bosom of his Eternal Father becomes mortal in the bosom of his temporal Mother; he who lived eternally by his own divine life, lived with a human life, and he who from eternity had been only God, shall be for all eternity man too: so has the love of man ravished God, and drawn him into an ecstasy! 6. Love often led him to admiration, as of the Centurion and Chanaanitess. 7. He contemplated the young man who had till that hour kept the commandments, and desired to be taught perfection. 8. He took a loving quiet in us, yea even with some suspension of his senses, in his mother's womb and in his infancy. 9.
 

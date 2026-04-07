@@ -1,19 +1,19 @@
 ---
-title: Habakkuk, The Book of Habakkuk
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Habakkuk, the Book of Habakkuk
+title: Habakkuk, The Book of Habakkuk
+url: https://bible.usccb.org/bible/habakkuk/0
 aliases:
   - habakkuk-00
   - Habakkuk, the Book of Habakkuk
 tags:
+  - bible/book
   - bible/habakkuk
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/habakkuk/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Habakkuk, the Book of Habakkuk
 ---
 
 # Habakkuk, the Book of Habakkuk

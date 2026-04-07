@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 50
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 50
+title: Isaiah, Chapter 50
+url: https://bible.usccb.org/bible/isaiah/50
 aliases:
   - isaiah-50
   - Isaiah, Chapter 50
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/50
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 50
 ---
 
 # Isaiah, Chapter 50
 
-### Chapter 50
+## Chapter 50
 
-#### Salvation Through the Lord’s Servant
+### Salvation Through the Lord’s Servant
 
-1 Thus says the L ORD: ^isaiah-50-1
+1 Thus says the LORD: ^isaiah-50-1
 
 Where is the bill of divorce
 
@@ -109,7 +108,7 @@ See, they will all wear out like a garment,
 
 consumed by moths.
 
-10 Who among you fears the L ORD, ^isaiah-50-10
+10 Who among you fears the LORD, ^isaiah-50-10
 
 heeds his servant’s voice?
 
@@ -117,7 +116,7 @@ Whoever walk in darkness,
 
 without any light,
 
-Yet trust in the name of the L ORD
+Yet trust in the name of the LORD
 
 and rely upon their God!
 

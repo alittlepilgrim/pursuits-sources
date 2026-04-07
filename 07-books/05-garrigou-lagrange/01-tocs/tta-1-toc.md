@@ -1,14 +1,15 @@
 ---
-title: Contents
-created: 2026-03-23
-modified: 2026-04-02
-type: book
-publish: true
-aliases:
-  - Contents
-  - Part I Contents
+type: toc
+title: Part I TOC – The Sources of the Interior Life and Its End
 author: Reginald Garrigou-Lagrange
-book_volume: "1"
+aliases:
+  - Part I TOC – The Sources of the Interior Life and Its End
+tags:
+  - author/garrigou-lagrange
+  - type/book
+created: 2026-03-23
+modified: 2026-04-04
+publish: true
 ---
 
 > [!NOTE]
@@ -18,7 +19,7 @@ book_volume: "1"
 
  [[tta-2-toc|Next]]
 
-# Contents
+# Part I TOC – The Sources of the Interior Life and Its End
 
 [[tta001|PREFACE]]
 
@@ -36,7 +37,7 @@ E. [[tta003#^tta003-bk2|The method of Ascetical and Mystical Theology]]\
 F. [[tta004|The distinction between Ascetical and Mystical Theology and their relations to each other]]\
 G. [[tta004#^tta004-bk1|Division of this work]]
 
-### Part I - the Sources of the Interior Life and Its End
+## Part I – The Sources of the Interior Life and Its End
 
 [[tta005|PROLOGUE]]
 

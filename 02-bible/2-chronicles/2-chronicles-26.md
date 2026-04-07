@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 26
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 26
+title: 2 Chronicles, Chapter 26
+url: https://bible.usccb.org/bible/2chronicles/26
 aliases:
   - 2 Chronicles, Chapter 26
   - 2-chronicles-26
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/26
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 26
 ---
 
 # 2 Chronicles, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 **Uzziah’s Projects.**
 
@@ -29,9 +28,9 @@ url: https://bible.usccb.org/bible/2chronicles/26
 
 3 Uzziah was sixteen years old when he became king, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecoliah, from Jerusalem. ^2-chronicles-26-3
 
-4 He did what was right in the L ORD’s sight, just as his father Amaziah had done. ^2-chronicles-26-4
+4 He did what was right in the LORD’s sight, just as his father Amaziah had done. ^2-chronicles-26-4
 
-5 He was prepared to seek God as long as Zechariah lived, who taught him to fear God; and as long as he sought the L ORD, God made him prosper. ^2-chronicles-26-5
+5 He was prepared to seek God as long as Zechariah lived, who taught him to fear God; and as long as he sought the LORD, God made him prosper. ^2-chronicles-26-5
 
 6 He went out and fought the Philistines and razed the walls of Gath, Jabneh, and Ashdod, and built cities in the district of Ashdod and in Philistia. ^2-chronicles-26-6
 
@@ -55,17 +54,17 @@ url: https://bible.usccb.org/bible/2chronicles/26
 
 **Pride and Fall.**
 
-16 But after he had become strong, he became arrogant to his own destruction and acted treacherously with the L ORD, his God. He entered the temple of the L ORD to make an offering on the altar of incense. ^2-chronicles-26-16
+16 But after he had become strong, he became arrogant to his own destruction and acted treacherously with the LORD, his God. He entered the temple of the LORD to make an offering on the altar of incense. ^2-chronicles-26-16
 
-17 But Azariah the priest, and with him eighty other priests of the L ORD, courageous men, followed him. ^2-chronicles-26-17
+17 But Azariah the priest, and with him eighty other priests of the LORD, courageous men, followed him. ^2-chronicles-26-17
 
-18 They stood up to King Uzziah, saying to him: “It is not for you, Uzziah, to burn incense to the L ORD, but for the priests, the sons of Aaron, who have been consecrated for this purpose. Leave the sanctuary, for you have acted treacherously and no longer have a part in the glory that comes from the L ORD God.” ^2-chronicles-26-18
+18 They stood up to King Uzziah, saying to him: “It is not for you, Uzziah, to burn incense to the LORD, but for the priests, the sons of Aaron, who have been consecrated for this purpose. Leave the sanctuary, for you have acted treacherously and no longer have a part in the glory that comes from the LORD God.” ^2-chronicles-26-18
 
-19 Uzziah, who was holding a censer for burning the incense, became angry. But at the very moment he showed his anger to the priests, while they were looking at him in the house of the L ORD beside the altar of incense, leprosy broke out on his forehead. ^2-chronicles-26-19
+19 Uzziah, who was holding a censer for burning the incense, became angry. But at the very moment he showed his anger to the priests, while they were looking at him in the house of the LORD beside the altar of incense, leprosy broke out on his forehead. ^2-chronicles-26-19
 
-20 Azariah the chief priest and all the other priests examined him, and when they saw that his forehead was leprous, they rushed him out. He let himself be expelled, for the L ORD had afflicted him. ^2-chronicles-26-20
+20 Azariah the chief priest and all the other priests examined him, and when they saw that his forehead was leprous, they rushed him out. He let himself be expelled, for the LORD had afflicted him. ^2-chronicles-26-20
 
-21 King Uzziah remained a leper till the day he died. As a leper he lived in a house apart, for he was excluded from the house of the L ORD. Therefore his son Jotham was master of the palace and ruled the people of the land. ^2-chronicles-26-21
+21 King Uzziah remained a leper till the day he died. As a leper he lived in a house apart, for he was excluded from the house of the LORD. Therefore his son Jotham was master of the palace and ruled the people of the land. ^2-chronicles-26-21
 
 22 The rest of the acts of Uzziah, first and last, were written by Isaiah the prophet, son of Amoz. ^2-chronicles-26-22
 

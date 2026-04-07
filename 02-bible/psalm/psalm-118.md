@@ -1,18 +1,17 @@
 ---
-title: Psalm 118
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 118
+title: Psalm 118
+url: https://bible.usccb.org/bible/psalms/118
 aliases:
   - Psalm 118
   - psalm-118
 tags:
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/118
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 118
 ---
 
 # Psalm 118

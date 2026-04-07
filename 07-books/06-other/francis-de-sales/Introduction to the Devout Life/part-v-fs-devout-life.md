@@ -1,23 +1,21 @@
 ---
-title: Part V-fs-devout-life
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Part V. Containing Counsels and Practices for Renewing and Confirming the Soul in Devotion
+title: Part V-fs-devout-life
+author: Saint Francis de Sales
 aliases:
   - Part V. Containing Counsels and Practices for Renewing and Confirming the Soul in Devotion
 tags:
-  - author/francis-de-sales
-  - book
-  - book/introduction-devout-life
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Part V. Containing Counsels and Practices for Renewing and Confirming the Soul in Devotion
 ---
 
 # Part V. Containing Counsels and Practices for Renewing and Confirming the Soul in Devotion
 
-### Chapter I. It Is Well Yearly to Renew Good Resolutions by Means of the Following
+## Chapter I. It Is Well Yearly to Renew Good Resolutions by Means of the Following
 
 Exercises.
 
@@ -29,7 +27,7 @@ The early Christians observed some such practice on the Anniversary of our Lord'
 
 Having then chosen a suitable time, according to the advice of your spiritual father, and having retired somewhat more than usual into a literal and spiritual solitude, make one, two, or three meditations on the following points, according to the method I set before you in Part II.
 
-### Chapter II. Meditation on the Benefit Conferred on Us by God in Calling Us to
+## Chapter II. Meditation on the Benefit Conferred on Us by God in Calling Us to
 
 His Service.
 
@@ -60,7 +58,7 @@ After dwelling upon all these considerations, which will kindle abundance of liv
 
 [205] Ps. cxviii. 16, 17.
 
-### Chapter III. Examination of the Soul as to Its Progress in the Devout Life
+## Chapter III. Examination of the Soul as to Its Progress in the Devout Life
 
 THIS second point is somewhat lengthy, and I would begin by saying that there is no need for you to carry it out all at once. Divide it by taking your conduct towards God at one time, all that concerns yourself another time, all that concerns your neighbour, and fourthly, the examination of your passions. It is neither necessary nor expedient that you make it upon your knees, always excepting the beginning and the end, which includes the affections. The other points of self-examination you may make profitably when out walking, or better still, in bed, that is, if you can keep wide awake and free from drowsiness; but to do this you must read them over carefully beforehand. Anyhow, it is desirable to go through this second point in three days and two nights at the most, taking that season which you can best manage; for if you go through it at too distant intervals you will lose the depth of impression which ought to be made by this spiritual exercise. After each point of examination observe wherein you have failed, and what is lacking to you, and in what you have chiefly failed, so that you may be able to explain your troubles, get counsel and comfort, and make fresh resolutions. It is not necessary entirely to shun all society on the days you select for this work, but you must contrive a certain amount of retirement, especially in the evening, so as to get to bed somewhat earlier than usual, with a view to that rest, bodily and mental, which is so important for serious thought. And during the day make frequent aspirations to Our Lord, Our Lady, the Angels, and all the Heavenly Jerusalem. Everything must be done with a heart full of God's Love, and an earnest desire for spiritual perfection. To begin this examination,--
 
@@ -71,7 +69,7 @@ Resolve, too, that if you should seem to yourself to have made but little progre
 
 Then go on to examine quietly and patiently how you have conducted yourself towards God, your neighbour and yourself, up to the present time.
 
-### Chapter IV. Examination of the Soul's Condition as Regards God
+## Chapter IV. Examination of the Soul's Condition as Regards God
 
    1. WHAT is the aspect of your heart with respect to mortal sin? Are you firmly resolved never to commit it, let come what may? And have you kept that resolution from the time you first made it? Therein lies the foundation of the spiritual life.
    2. What is your position with respect to the Commandments of God? Are they acceptable, light and easy to you? He who has a good digestion and healthy appetite likes good food, and turns away from that which is bad.
@@ -86,7 +84,7 @@ Then go on to examine quietly and patiently how you have conducted yourself towa
 
 [206] Ps. cxix. 52.
 
-### Chapter V. Examination of Your Condition as Regards Yourself
+## Chapter V. Examination of Your Condition as Regards Yourself
 
    1. HOW do you love yourself? Is it a love which concerns this life chiefly? If so, you will desire to abide here for ever, and you will diligently seek your worldly establishment,--but if the love you bear yourself has a heavenward tendency, you will long, or, at all events you will be ready to go hence whensoever it may please our Lord.
    2. Is your love of yourself well regulated? for nothing is more ruinous than an inordinate love of self. A well-regulated love implies greater care for the soul than for the body; more eagerness in seeking after holiness than aught else; a greater value for heavenly glory than for any mean earthly honour. A well regulated heart much oftener asks itself, "What will the angels say if I follow this or that line of conduct?" than what will men say.
@@ -95,13 +93,13 @@ Then go on to examine quietly and patiently how you have conducted yourself towa
    5. In speech--do you never boast in any way? Do you never indulge in self-flattery when speaking of yourself?
    6. In deed--do you indulge in anything prejudicial to your health,--I mean useless idle pleasures, unprofitable night-watches, and the like?
 
-### Chapter VI. Examination of the Soul's Condition as Regards Our Neighbour
+## Chapter VI. Examination of the Soul's Condition as Regards Our Neighbour
 
 HUSBAND and wife are bound to love one another with a tender, abiding, restful love, and this tie stands foremost by God's order and Will. And I say the same with respect to children and all near relations, as also friends in their respective degrees. But, generally speaking, how is it with you as concerning your neighbour? Do you love him cordially, and for God's Sake? In order to answer this fairly, you must call to mind sundry disagreeable, annoying people, for it is in such cases that we really practise the Love of God with respect to our neighbours, and still more towards them that do us wrong, either by word or deed.
 
 Examine whether your heart is thoroughly clear as regards all such, and whether it costs you a great effort to love them. Are you quick to speak ill of your neighbours, especially of such as do not love you? Do you act unkindly in any way, directly or indirectly, towards them? A very little honest self-dealing will enable you to find this out.
 
-### Chapter VII. Examination as to the Affectations of the Soul
+## Chapter VII. Examination as to the Affectations of the Soul
 
 I HAVE dwelt thus at length on these points, on a due examination of which all true knowledge of our spiritual progress rests; as to an examination of sins, that rather pertains to the confessions of those who are not eager to advance. But it is well to take ourselves to task soberly concerning these different matters, investigating how we have been going on since we made good resolutions concerning them, and what notable faults we have committed. But the summary of all is to examine into our passions; and if you are worried by so detailed an investigation as that already suggested, you may make a briefer inquiry as to what you have been, and how you have acted, in some such manner as this:--In your love of God, your neighbour, and yourself.
 
@@ -119,7 +117,7 @@ In short, examine what attachments hinder your spiritual life, what passions eng
 
 It is by testing the passions of the soul, one by one, that we ascertain our spiritual condition, just as one who plays the lute tries every string, touching those which are discordant, either raising or lowering them. Thus having tried our soul as to love, hate, desire, fear, hope, sadness and joy, if we find our strings out of tune for the melody we wish to raise, which is God's Glory, we must tune them afresh with the help of His Grace, and the counsel of our spiritual father.
 
-### Chapter VIII. the Affections to Be Excited After Such Examination
+## Chapter VIII. the Affections to Be Excited After Such Examination
 
 WHEN you have quietly gone through each point of this examination, and have ascertained your own position, you will excite certain feelings and affections in your heart. Thank God for such amendment, however slight, as you may have found in yourself, confessing that it is the work of His Mercy Alone in you.
 
@@ -133,11 +131,11 @@ Offer your whole heart to Him that He Alone may rule therein. Entreat Him to kee
 
 Ponder over the examples of the Saints, the Blessed Virgin, your guardian Angel and patron Saint, S. Joseph, etc.
 
-### Chapter IX. Reflections Suitable to the Renewal of Good Resolutions
+## Chapter IX. Reflections Suitable to the Renewal of Good Resolutions
 
 AFTER you have made this self-examination, and having conferred with some holy director as to your shortcomings and their remedies, you will do well to pursue the following considerations, taking one daily as a meditation, and giving to it the time usually so spent; always making the same preparation and kindling the same affections as you learnt to use before meditating in Part I. Above all, placing yourself in the Presence of God, and earnestly asking His Grace to confirm you and keep you stedfast in His Holy Love and Service.
 
-### Chapter X. First Consideration--of the Worth of Souls
+## Chapter X. First Consideration--of the Worth of Souls
 
 CONSIDER how noble and excellent a thing your soul is, endowed with understanding, capable of knowing, not merely this visible world around us, but Angels and Paradise, of knowing that there is an All-Mighty, All-Merciful, Ineffable God; of knowing that eternity lies before you, and of knowing what is necessary in order so to live in this visible world as to attain to fellowship with those Angels in Paradise, and the eternal fruition of God.
 
@@ -149,7 +147,7 @@ In some such wise might you address your soul: "You are capable of realising a l
 
 One of the sorrows of the prodigal son was, that, when he might have been living in plenty at his father's table, he had brought himself to share the swine's husks. My soul, you are made for God, woe be to you if you stop short in anything short of Him!" Lift up your soul with thoughts such as these, convince it that it is eternal, and worthy of eternity; fill it with courage in this pursuit.
 
-### Chapter XI. Second Consideration--on the Excellence of Virtue
+## Chapter XI. Second Consideration--on the Excellence of Virtue
 
 CONSIDER that nothing save holiness and devotion can satisfy your soul in this world: behold how gracious they are; draw a contrast between each virtue and its opposite vice; how gracious patience is compared with vengeance; gentleness compared with anger; humility with pride and arrogance; liberality with avarice; charity with envy; sobriety with unsteadiness. It is one charm of all virtues that they fill the soul with untold sweetness after being practised, whereas vice leaves it harassed and ill at ease. Who would not speedily set to work and obtain such sweetness?
 
@@ -157,13 +155,13 @@ In the matter of evil, he who has a little is not contented, and he who has much
 
 [207] S. John iv. 15.
 
-### Chapter XII. the Example of the Saints
+## Chapter XII. the Example of the Saints
 
 CONSIDER the example of the Saints on all sides, what have they not done in order to love God and lead a devout life? Call to mind the Martyrs in their invincible firmness, and the tortures they endured in order to maintain their resolutions; remember the matrons and maidens, whiter than lilies in their purity, ruddier than the rose in their love, who at every age, from childhood upward, bore all manner of martyrdom sooner than forsake their resolutions, not only such as concerned their profession of faith, but that of devotion; some dying rather than lose their virginity, others rather than cease their works of mercy to the sick and sorrowful. Truly the frail sex has set forth no small courage in such ways. Consider all the Saintly Confessors, how heartily they despised the world, and how they stood by their resolutions, taken unreservedly and kept inviolably. Remember what S.
 
 Augustine says of his mother Monica, of her determination to serve God in her married life and in her widowhood; and S. Jerome and his beloved daughter S. Paula amid so many changes and chances. What may we not achieve with such patterns before our eyes? They were but what we are, they wrought for the same God, seeking the same graces; why may not we do as much in our own state of life, and according to our several vocations, on behalf of our most cherished resolutions and holy profession of faith?
 
-### Chapter XIII. the Love Which Jesus Christ Bears to Us
+## Chapter XIII. the Love Which Jesus Christ Bears to Us
 
 CONSIDER the Love with which our Dear Lord Jesus Christ bore so much in this world, especially in the Garden of Olives and on Mount Calvary; that Love bore you in mind, and through all those pains and toils He obtained your good resolutions for you, as also all that is needful to maintain, foster, strengthen and consummate those resolutions. How precious must the resolutions be which are the fruits of our Lord's Passion! and how dear to my heart, since they were dear to that of Jesus! Saviour of my soul, Thou didst die to win them for me; grant me grace sooner to die than forget them. Be sure, my daughter, that the Heart of our most Dear Lord beheld you from the tree of the Cross and loved you, and by that Love He won for you all good things which you were ever to have, and amongst them your good resolutions. Of a truth we have all reason like Jeremiah to confess that the Lord knew us, and called us by our name or ever we were born, [208] the more that His Divine Goodness in its Love and Mercy made ready all things, general and individual, which could promote our salvation, and among them our resolutions. A woman with child makes ready for the babe she expects, prepares its cradle, its swaddling clothes and its nurse; even so our Lord, while hanging on His Cross, prepared all that you could need for your happiness, all the means, the graces, the leadings, by which He leads your soul onwards towards perfection.
 
@@ -177,7 +175,7 @@ Let this be graven in your soul, my child, the better to cherish and foster your
 
 [209] Gal. ii. 20.
 
-### Chapter XIV. the Eternal Love of God for Us
+## Chapter XIV. the Eternal Love of God for Us
 
 CONSIDER the Eternal Love God has borne you, in that, even before our Lord Jesus Christ became Man and suffered on the Cross for you, His Divine Majesty designed your existence and loved you. When did He begin to love you? When He began to be God, and that was never, for He ever was, without beginning and without end. Even so He always loved you from eternity, and therefore He made ready all the graces and gifts with which He has endowed you. He says by His prophet, "I have loved thee" (and it is YOU that He means) "with an everlasting love, therefore with lovingkindness have I drawn thee." [210] And amid these drawings of His Love He led you to make these resolutions to serve Him.
 
@@ -185,7 +183,7 @@ What must resolutions be which God has foreseen, pondered, dwelt upon from all e
 
 [210] Jer. xxxi. 3.
 
-### Chapter XV. General Affections Which Should Result from These Considerations
+## Chapter XV. General Affections Which Should Result from These Considerations
 
 and Conclusion of the Exercise.
 
@@ -197,13 +195,13 @@ Next, you must particularise the necessary means for maintaining your good resol
 
 Make your protest and sign it in his presence, and then lose no time in uniting your renewed heart to its Creator and Saviour, in the most holy Sacrament of the Eucharist.
 
-### Chapter XVI. the Impressions Which Should Remain After This Exercise
+## Chapter XVI. the Impressions Which Should Remain After This Exercise
 
 ON the day you make this renewal of your resolutions, and on those immediately following, you should often repeat with heart and voice the earnest words of S. Paul, S. Augustine, S. Catherine of Genoa, and others like-minded, "I am not mine own, whether I live or whether I die, I am the Lord's. There is no longer any me or mine, my me' is Jesus, my mine' is to be His. Thou world, wilt ever be thyself, and hitherto I have been myself, but henceforth I will be so no more." We shall indeed not be ourselves any more, for our heart will be changed, and the world which has so often deceived us will in its turn be deceived in us; our change will be so gradual that the world will still suppose us to be Esau, while really we are Jacob.
 
 All our devout exercises must sink into the heart, and when we come forth from our meditation and retirement it behoves us to tread warily in business or society, lest the wine of our good resolutions be heedlessly spilt; rather let it soak in and penetrate every faculty of the soul, but quietly, and without bodily or mental excitement.
 
-### Chapter XVII. an Answer to Two Objections Which May Be Made to This Book
+## Chapter XVII. an Answer to Two Objections Which May Be Made to This Book
 
 THE world will tell you, my child, that all these counsels and practices are so numerous, that anybody who tries to heed them can pay no attention to anything else. Verily, my dear daughter, if we did nothing else we should not be far wrong, since we should be doing all that we ought to do in this world. But you see the fallacy? If all these exercises were to be performed every day they would undoubtedly fill up all our time, but it is only necessary to use them according to time and place as they are wanted. What a quantity of laws there are in our civil codes and digests! But they are only called into use from time to time, as circumstances arise, not every day. Besides, for that matter, David, king as he was, and involved in a multiplicity of complicated affairs, fulfilled more religious duties than those which I have suggested; and S. Louis, a monarch unrivalled in time of peace or war, who was most diligent in the administration of justice and in ruling his country, nevertheless was wont to hear two masses daily, to say vespers and compline with his chaplain, and to make his meditation daily. He used to visit the hospitals every Friday, was regular at confession, took the discipline, often attended sermons and spiritual conferences, and withal he never lost any opportunity of promoting the public welfare, and his court was more flourishing and notable than that of any of his predecessors. Be bold and resolute then in performing the spiritual exercises I have set before you, and God will give you time and strength for all other duties, yea, even if He were to cause the sun to stand still, as He did in Joshua's time. [211] We are sure always to do enough when God works with us.
 
@@ -211,7 +209,7 @@ Moreover, the world will say that I take it for granted that those I address hav
 
 [211] Josh. x. 12, 13.
 
-### Chapter XVIII. Three Important and Final Counsels
+## Chapter XVIII. Three Important and Final Counsels
 
 ON the first day of every month renew the resolution given in Part I.
 
@@ -233,6 +231,6 @@ Glory be to Jesus, to Whom, with the Father and the Holy Ghost, be honour and gl
 
 These are the words of Saint Francis d'Assisi, which S. Francis de Sales renders-- "A cause des biens que j'attends, Les travaux me sont passe-temps."
 
-## Index
+# Index
 
 ABJECTION, 153 Abstinence, 219 Amusements, 60, 250, 259 Angels, 204 Anger, 163 Anselm, S., 94 Anthony, S., 94, 128 Anxiety of mind, 315 Arelius, 2 Aristotle, 9, 209 Aspirations, 90 Attachments, unreal, 209 Attention to business, 174 Augustine, S., 91, 90, 101; Confessions, 117, 131, 166, 182, 205, 210, 226, 278, 366 Avila, 11, 14 BALLS, 255 Barrenness, spiritual, 336 Basil, S., 95 Bernard, S., 131, 205, 340 Books, for self-examination, 18; for meditation, 66; devout, 105 Borgia, Francis, 95 CATHERINE OF SIENNA, S., 12, 88, 118, 262, 300 Choice of Devout Life, 48 Chrysostom, S., 99 Communion, Holy, 98; frequent, 116; how to make a good, 120, 291 Confession, general, 29; how to make, 51; constant, 111 Conscience, examination of, 85 Considerations in meditation, 74 Consolations, spiritual and sensible, 323 Contrition, 22, 112 Conversation, 229, 249 Courage, 294 Creation, meditation on, 24; end of, 27 DANCING, 60, 255 David, 2, 10, 23, 89, 93, 153, 242, 325 Death, meditation on, 35 Delectation, 298, 305 Devotion, living, 3; nature of, 5; to God's Word, 105, 325 Dominant passions, 313 Dress, modesty in, 227 Dryness in meditation, 81, 353 EAGERNESS, over, 173 Earrings, significance of, 276 Ejaculatory prayer, 90 Elizabeth, S., of Hungary, 12, 128, 191, 260 Elzear, Count, 90 Encouragement for the tempted, 302 Exaggeration, 250 FABER, PETER, 104 Fairness, 266 Faithfulness, 260. 275 Fasting, 217 Forbearance, 279 Francis, S., 94, 96, 128, 344 Friendship, 196; real, 201; false, 205 Frivolous attachments, 198 Fulgentius, S., 93 GAMBLING, 254 Gentleness, 163; to ourselves, 160 Gifts of God, 30 Godly sorrow, 319 Gregory Nazianzen, S., 92, 97, 130, 199, 204, 213, 226, 280, 347 Gregory, S., on Lot, 11, 128, 205 Guide, need of a, 11 HASTY judgments, 234 Heaven and Hell, choice between, 45 Hell, meditation on, 41 Humility, 142; interior, 147 IGNATIUS, S., 104 Impure words, 232 Inspirations, 107 Intimacies, 212 Invocation, 72 Irritation, 170 JEALOUSY, 274 Jerome, S., 62, 126, 132, 205. 217 Judgment, meditation on, 38 Judgments, rash, 237 LOUIS, S., 12, 128, 229, 276, 277, 319, 374 Love of God, 7 MAIDENS, counsel to, 289 Married people, counsels to, 270 Meditation, 24, 65, 68, 78 Meekness, 168 Mortification, bodily, 215 OBEDIENCE, 176; different kinds of, 177 Offices, public, of the Church, 101 PARADISE, meditation on, 43 Patience, 16, 136; under inconvenience, 192 Paula, S., 62, 97, 126. 132 Pelican, symbol of Christ, 89 Poor, love of, 190 Poverty of spirit, 185, 193 Prayer, necessity of, 64; morning, 83; evening, 85 Preparation for meditation, 68, 72 Presence of God, 68, 87 Protest for confirming the soul, 53 Purification of the soul, 17, 20 Purity, 180; how to maintain, 182 RASH judgments, 235 Reasonable mind, a, 264 Remedies for great occasions. 307 Reputation, care of, 158 Resolutions, 346 Respect due to others, 231 SAINTS, how united to us, 103 Sin, meditation on, 32 Slander, 225, 241 Society, 223 Spiritual bouquet of meditation, 77 retirement, 87 Suspicions, 240 TEMPTATIONS, 269, 296; when sin, 304, 306; minor, 310 Theresa, S. 12, 179 Tobit, 11 True devotion, what it is, 1 UNSEEMLY words, 231 VENIAL Sins, 57, 113 Virtues, choice of, 124 Vocal prayer, 67 WIDOWS, counsel to, 281 Wishes, 267 Worldly wisdom, 290

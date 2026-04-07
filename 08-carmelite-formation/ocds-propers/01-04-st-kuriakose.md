@@ -1,10 +1,7 @@
 ---
-title: January 4, Saint Kuriakose Elias of the Holy Family, Chavara
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers 01-04-saint-kuriakose-elias-of-the-holy-family-chavara-priest
+title: January 4, Saint Kuriakose Elias of the Holy Family, Chavara
+author: OCD General Curia
 aliases:
   - 01-04-st-kuriakose
   - 20250731-121338
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 01-04
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers 01-04-saint-kuriakose-elias-of-the-holy-family-chavara-priest
 ---
 
 # January 4, Saint Kuriakose Elias of the Holy Family, Chavara

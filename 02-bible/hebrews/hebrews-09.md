@@ -1,25 +1,24 @@
 ---
-title: Hebrews, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hebrews, Chapter 9
+title: Hebrews, Chapter 9
+url: https://bible.usccb.org/bible/hebrews/9
 aliases:
   - hebrews-09
   - Hebrews, Chapter 9
 tags:
+  - bible/chapter
   - bible/hebrews
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/hebrews/9
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hebrews, Chapter 9
 ---
 
 # Hebrews, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **The Worship of the First Covenant.**
 

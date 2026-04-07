@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 18
+title: 2 Samuel, Chapter 18
+url: https://bible.usccb.org/bible/2samuel/18
 aliases:
   - 2 Samuel, Chapter 18
   - 2-samuel-18
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/18
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 18
 ---
 
 # 2 Samuel, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Preparation for Battle.**
 
@@ -65,7 +64,7 @@ url: https://bible.usccb.org/bible/2samuel/18
 
 **David Told of Absalom’s Death.**
 
-19 Then Ahimaaz, son of Zadok, said, “Let me run to take the good news to the king that the L ORD has set him free from the power of his enemies.” ^2-samuel-18-19
+19 Then Ahimaaz, son of Zadok, said, “Let me run to take the good news to the king that the LORD has set him free from the power of his enemies.” ^2-samuel-18-19
 
 20 But Joab said to him: “You are not the man to bring the news today. On some other day you may take the good news, but today you would not be bringing good news, for in fact the king’s son is dead.” ^2-samuel-18-20
 
@@ -83,13 +82,13 @@ url: https://bible.usccb.org/bible/2samuel/18
 
 27 Then the lookout said, “I notice that the first one runs like Ahimaaz, son of Zadok.” The king replied, “He is a good man; he comes with good news.” ^2-samuel-18-27
 
-28 Then Ahimaaz called out and greeted the king. With face to the ground he paid homage to the king and said, “Blessed be the L ORD your God, who has delivered up the men who rebelled against my lord the king.” ^2-samuel-18-28
+28 Then Ahimaaz called out and greeted the king. With face to the ground he paid homage to the king and said, “Blessed be the LORD your God, who has delivered up the men who rebelled against my lord the king.” ^2-samuel-18-28
 
 29 But the king asked, “Is young Absalom safe?” And Ahimaaz replied, “I saw a great disturbance when the king’s servant Joab sent your servant on, but I do not know what it was.” ^2-samuel-18-29
 
 30 The king said, “Step aside and remain in attendance here.” So he stepped aside and remained there. ^2-samuel-18-30
 
-31 When the Cushite came in, he said, “Let my lord the king receive the good news that this day the L ORD has freed you from the power of all who rose up against you.” ^2-samuel-18-31
+31 When the Cushite came in, he said, “Let my lord the king receive the good news that this day the LORD has freed you from the power of all who rose up against you.” ^2-samuel-18-31
 
 32 But the king asked the Cushite, “Is young Absalom all right?” The Cushite replied, “May the enemies of my lord the king and all who rebel against you with evil intent be as that young man!” ^2-samuel-18-32
 

@@ -1,24 +1,25 @@
 ---
-title: The Living Flame of Love by St. John of the Cross
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: The Living Flame of Love by St. John of the Cross
+author: Secular Order of Discalced Carmelites
 aliases:
   - The Living Flame Of Love
   - The Living Flame of Love by St. John of the Cross
 tags:
   - carmel
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
-## The Living Flame of Love - OCDS Ongoing Formation Volume II
+# The Living Flame of Love - OCDS Ongoing Formation Volume II
 
 Required Reading: St. John of the Cross, The Living Flame of Love: Study Edition. Translated and prepared by Kieran Kavanaugh, O.C.D. ICS publications. (Please note: If participants already own The Collected Works of John of the Cross, they should not be required to purchase the Study Edition.)
 
 Additional resources: YouTube sessions, CarmelCast – Season 8, “The Living Flame of Love by St. John of the Cross.” Episodes 50, 51, 52, 53, 54, 55, 56. Note: These episodes cover all four stanzas of the Living Flame of Love.
 
-### Introduction
+## Introduction
 
 Required Reading: Prologue and Introduction to The Living Flame of Love.
 
@@ -66,7 +67,7 @@ Living Flame of Love – Session One
 
 p.108
 
-### Session One: Stanza 1 Commentary 1-17
+## Session One: Stanza 1 Commentary 1-17
 
 (May take multiple sessions, as needed.)
 
@@ -116,7 +117,7 @@ Living Flame of Love – Session Two
 
 p.111
 
-### Session Two: Stanza 1 Commentary 18-36
+## Session Two: Stanza 1 Commentary 18-36
 
 Explanatory note: Participants are asked to read and reflect on the purifying nature of the flame described in LF.1.18-26. “... you no longer afflict or distress or weary me as you did before” (LF.1:18). The flame is the central image of the poem. Before continuing the discussion regarding the gentle flame in the state of union, John believes it is necessary to look back at what the soul has undergone in order to reach this high state. John covers this briefly in his commentary LF.1.18-26. The purifying action of the Holy Spirit is discussed at greater length in The Dark Night (see The Living Flame Study Edition Interpretive Notes, pg. 54).
 
@@ -136,7 +137,7 @@ Living Flame of Love – Session Three
 
 p.112
 
-### Session Three: Stanza 2 Commentary 1-15
+## Session Three: Stanza 2 Commentary 1-15
 
 O sweet cautery, O delightful wound! O gentle hand! O delicate touch
 
@@ -164,7 +165,7 @@ Living Flame of Love – Session Four
 
 p.113
 
-### Session Four: Stanza 2 Commentary 16-20
+## Session Four: Stanza 2 Commentary 16-20
 
 Participants are asked to contribute two or three discussion points. These can be something from the reading they have questions about or that spoke to them personally.
 
@@ -188,7 +189,7 @@ Living Flame of Love – Session Five
 
 p.114
 
-### Session Five: Stanza 2 Commentary 21-36
+## Session Five: Stanza 2 Commentary 21-36
 
 Explanatory note: John goes on to answer the question of why so few people reach this high state of perfect union with God: “It should be known that the reason is not that God wishes only a few of these spirits to be so elevated; he would rather want all to be perfect, but he finds few vessels that will endure so lofty and sublime a work. Since he tries them in little things and finds them so weak that they immediately flee from work, unwilling to be subject to the least discomfort and mortification… As a result he proceeds no further in purifying them and raising them from the dust of the earth through the toil of mortification” (LF.2:27).
 
@@ -228,7 +229,7 @@ Living Flame of Love – Session Six
 
 p.116
 
-### Session Six: Stanza 3 Commentary 1-17
+## Session Six: Stanza 3 Commentary 1-17
 
 O lamps of fire! in whose splendors
 
@@ -290,7 +291,7 @@ Living Flame of Love – Session Seven
 
 p.119
 
-### Session Seven: Stanza 3 Commentary 17-29
+## Session Seven: Stanza 3 Commentary 17-29
 
 Essential Points to Discuss:
 
@@ -322,7 +323,7 @@ Living Flame of Love – Session Eight
 
 p.120
 
-### Session Eight: Stanza 3 Commentary 30-50
+## Session Eight: Stanza 3 Commentary 30-50
 
 Explanatory note: In stanza 3:32, John gives an excellent summary of one’s spiritual progress from senses to spirit: “For a better understanding of this beginner’s stage, it should be known that the practice of beginners is to meditate and make acts and discursive reflections with the imagination. Individuals in this state should be given matter for meditation and discursive reflection, and they should by themselves make interior acts and profit in spiritual things from the delight and satisfaction of the senses. For by being fed with the relish of spiritual things, the appetite is torn away from sensual things and weakened in regard to the things of the world [inordinate affections and appetites].
 
@@ -370,7 +371,7 @@ Living Flame of Love – Session Nine
 
 p.123
 
-### Session Nine: Stanza 3 Commentary 67-85
+## Session Nine: Stanza 3 Commentary 67-85
 
 Essential Points to Discuss:
 
@@ -394,7 +395,7 @@ Living Flame of Love – Session Ten
 
 p.124
 
-### Session Ten: Stanza 4 Commentary 1-17
+## Session Ten: Stanza 4 Commentary 1-17
 
 How gently and lovingly you wake in my heart,
 
@@ -440,7 +441,7 @@ and we might understand that you have moved to bestow favors on us and have reme
 
 (LF.4:9)
 
-### Bibliography
+## Bibliography
 
 St. John of the Cross, The Living Flame of Love: Study Edition. Translated and prepared by Kieran Kavanaugh, O.C.D. ICS publications.
 

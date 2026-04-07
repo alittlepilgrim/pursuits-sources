@@ -1,20 +1,20 @@
 ---
-title: Ezra, The Book of Ezra
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: ezra-the book of ezra
+title: Ezra, The Book of Ezra
+url: https://bible.usccb.org/bible/ezra/0
 aliases:
   - ezra-00
   - Ezra, the Book of Ezra
   - Ezra, The Book of Ezra
 tags:
+  - bible/book
   - bible/ezra
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/ezra/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: ezra-the book of ezra
 ---
 
 # Ezra, the Book of Ezra

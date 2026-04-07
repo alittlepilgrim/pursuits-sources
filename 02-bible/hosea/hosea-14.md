@@ -1,25 +1,24 @@
 ---
-title: Hosea, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 14
+title: Hosea, Chapter 14
+url: https://bible.usccb.org/bible/hosea/14
 aliases:
   - hosea-14
   - Hosea, Chapter 14
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 14
 ---
 
 # Hosea, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 1 Samaria has become guilty, ^hosea-14-1
 
@@ -31,15 +30,15 @@ their infants shall be dashed to pieces,
 
 their pregnant women shall be ripped open.
 
-#### Sincere Conversion and New Life
+### Sincere Conversion and New Life
 
-2 Return, Israel, to the L ORD, your God; ^hosea-14-2
+2 Return, Israel, to the LORD, your God; ^hosea-14-2
 
 you have stumbled because of your iniquity.
 
 3 Take with you words, ^hosea-14-3
 
-and return to the L ORD;
+and return to the LORD;
 
 Say to him, “Forgive all iniquity,
 
@@ -91,13 +90,13 @@ I am like a verdant cypress tree.
 
 From me fruit will be found for you!
 
-#### Epilogue
+### Epilogue
 
 10 Who is wise enough to understand these things? ^hosea-14-10
 
 Who is intelligent enough to know them?
 
-Straight are the paths of the L ORD,
+Straight are the paths of the LORD,
 
 the just walk in them,
 

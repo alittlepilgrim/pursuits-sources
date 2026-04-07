@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 34
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 34
+title: Sirach, Chapter 34
+url: https://bible.usccb.org/bible/sirach/34
 aliases:
   - sirach-34
   - Sirach, Chapter 34
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/34
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 34
 ---
 
 # Sirach, Chapter 34
 
-### Chapter 34
+## Chapter 34
 
-#### Trust in the Lord and Not in Dreams
+### Trust in the Lord and Not in Dreams
 
 1 Empty and false are the hopes of the senseless, ^sirach-34-1
 
@@ -95,7 +94,7 @@ a guard against stumbling, a help against falling.
 
 gives health and life and blessing.
 
-#### True Worship of God
+### True Worship of God
 
 21 Ill-gotten goods offered in sacrifice are tainted. ^sirach-34-21
 

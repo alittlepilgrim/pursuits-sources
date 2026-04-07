@@ -1,26 +1,28 @@
 ---
-title: V - Social Doctrine of the Church Analytical Index
-created: 2025-11-13
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: V - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - sd-10-index-v
   - V - Social Doctrine of the Church Analytical Index
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-13
+modified: 2026-04-06
+publish: true
 ---
 
 # V - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Value
+## Value
 
 Principles, corrective value, [[sd-03-part-I#^csdc-25|25]]
 
@@ -212,17 +214,17 @@ Political instruments and values, [[sd-05-part-III#^csdc-573|573]]
 
 Membership in a party and Christian values, [[sd-05-part-III#^csdc-574|574]]
 
-### Venture
+## Venture
 
 - See [[sd-10-index-b#Business|Business]]
 
-### Verification
+## Verification
 
 Sexual education, parents and verification, [[sd-04-part-II#^csdc-243|243]]
 
 The people, verification and those who govern, [[sd-04-part-II#^csdc-395|395]], [[sd-04-part-II#^csdc-406|406]], [[sd-05-part-III#^csdc-567|567]]
 
-### Violence
+## Violence
 
 God and spiral of violence, [[sd-03-part-I#^csdc-43|43]]
 
@@ -254,7 +256,7 @@ Terrorism, a brutal form of violence, [[sd-04-part-II#^csdc-513|513]]
 
 Violence, inhumanity and suffering, [[sd-04-part-II#^csdc-517|517]]
 
-### Virtue
+## Virtue
 
 Humanism and the cultivation of virtues, [[sd-02-intro#^csdc-19|19]]
 
@@ -290,7 +292,7 @@ Charity, mistress and queen of virtues, [[sd-06-conclusion#^csdc-581|581]]
 
 Supernatural virtues of love and justice, [[sd-06-conclusion#^csdc-583|583]]
 
-### Vocation
+## Vocation
 
 The Church, vocation of man and communion, [[sd-02-intro#^csdc-3|3]], [[sd-03-part-I#^csdc-63|63]]
 

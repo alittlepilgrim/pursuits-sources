@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 23
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 23
+title: Sirach, Chapter 23
+url: https://bible.usccb.org/bible/sirach/23
 aliases:
   - sirach-23
   - Sirach, Chapter 23
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/23
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 23
 ---
 
 # Sirach, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 1 Lord, Father and Master of my life, ^sirach-23-1
 
@@ -53,7 +52,7 @@ do not give me haughty eyes;
 
 do not give me up to shameless desires.
 
-#### Proper Use of the Tongue
+### Proper Use of the Tongue
 
 7 Listen, my children, to instruction concerning the mouth, ^sirach-23-7
 
@@ -115,7 +114,7 @@ and will curse the day of your birth.
 
 will never acquire discipline as long as they live.
 
-#### Sins of the Flesh
+### Sins of the Flesh
 
 16 Two types of people multiply sins, ^sirach-23-16
 

@@ -1,238 +1,238 @@
 ---
-title: The Carmelite Manual
-created: 2025-08-28
-modified: 2026-03-19
 type: book
-publish: true
+title: The Carmelite Manual
 aliases:
   - 20251010-210014
   - The Carmelite Manual
   - the-carmelite-manual
 tags:
   - subject
+created: 2025-08-28
+modified: 2026-04-04
+publish: true
 ---
 
 # The Carmelite Manual
 
-- 
-	- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-	- 
-	- 
-		- 
-		- 
-			- 
-			- 
-			- 
-			- 
-	- 
-	- 
-	- 
-		- 
-		- 
-		- 
-		- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-		- 
-		- 
-		- 
-	- 
-	- 
-		- 
-	- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-	- 
-	- 
-	- 
-		- 
-		- 
-		- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-		- 
-		- 
-	- 
-		- 
-		- 
-			- 
-			- 
-		- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-		- 
-			- 
-			- 
-			- 
-			- 
-		- 
-			- 
-			- 
-			- 
-			- 
-			- 
-		- 
-			- 
-			- 
-			- 
-			- 
-		- 
-			- 
-			- 
-			- 
-			- 
-		- 
-			- 
-			- 
-			- 
-			- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-	- 
-	- 
-		- 
-		- 
-	- 
-		- 
-		- 
-		- 
-	- 
-		- 
-		- 
-		- 
-		- 
+- [The Carmelite Manual](#The%20Carmelite%20Manual)
+	- [Holy Water](#Holy%20Water)
+	- [Feasts and Fasts Throughout The Year](#Feasts%20and%20Fasts%20Throughout%20The%20Year)
+		- [Holy Days on Which There Is A Strict Obligation To Hear Mass, and Refrain from Servile Works](#Holy%20Days%20on%20Which%20There%20Is%20A%20Strict%20Obligation%20To%20Hear%20Mass,%20and%20Refrain%20from%20Servile%20Works)
+		- [Fasting Days on One Meal](#Fasting%20Days%20on%20One%20Meal)
+		- [Days of Abstinence from Flesh Meat](#Days%20Of%20Abstinence%20from%20Flesh%20Meat)
+		- [Observations on Fasting and Abstinence](#Observations%20on%20Fasting%20and%20Abstinence)
+		- [Septuagesima Sunday](#Septuagesima%20Sunday)
+	- [The Manner of Lay Persons Baptizing An Infant, In Case of Danger of Death](#The%20Manner%20Of%20Lay%20Persons%20Baptizing%20An%20Infant,%20In%20Case%20Of%20Danger%20Of%20Death)
+	- [On The Sacrament of Matrimony](#On%20The%20Sacrament%20Of%20Matrimony)
+	- [Instructions for the Members of the Carmelite Order Exclusively](#Instructions%20for%20The%20Members%20Of%20The%20Carmelite%20Order%20Exclusively)
+		- [Of The Personal Indulgences Granted To The Members of Mount Carmel](#Of%20The%20Personal%20Indulgences%20Granted%20To%20The%20Members%20Of%20Mount%20Carmel)
+		- [Indulgences](#Indulgences)
+			- [Plenary Indulgences](#Plenary%20Indulgences)
+			- [Indulgences Not Plenary](#Indulgences%20Not%20Plenary)
+			- [Plenary Indulgences on Certain Festivals In The Year](#Plenary%20Indulgences%20on%20Certain%20Festivals%20In%20The%20Year)
+			- [Local Indulgences on Certain Days of the Week](#Local%20Indulgences%20on%20Certain%20Days%20Of%20The%20Week)
+	- [On Prayer](#On%20Prayer)
+	- [A Profession of Catholic Faith](#A%20Profession%20Of%20Catholic%20Faith)
+	- [A Short Regulation of Life](#A%20Short%20Regulation%20Of%20Life)
+		- [Every Day](#Every%20Day)
+		- [Every Week](#Every%20Week)
+		- [Every Month](#Every%20Month)
+		- [Every Year](#Every%20Year)
+	- [Articles of Faith Explained](#Articles%20Of%20Faith%20Explained)
+		- [I. of the Creeds Approved By The Church](#I.%20Of%20The%20Creeds%20Approved%20By%20The%20Church)
+		- [II. Of The Certainty Of Faith](#II.%20Of%20The%20Certainty%20Of%20Faith)
+		- [III. Of The Mystery Of The Trinity](#III.%20Of%20The%20Mystery%20Of%20The%20Trinity)
+		- [IV. Of The Incarnation Of The Word](#IV.%20Of%20The%20Incarnation%20Of%20The%20Word)
+		- [V. Of His Descent Into Hell](#V.%20Of%20His%20Descent%20Into%20Hell)
+		- [VI. Of The Resurrection Of All Flesh](#VI.%20Of%20The%20Resurrection%20Of%20All%20Flesh)
+		- [VII. Of The Supreme Authority Of The Church](#VII.%20Of%20The%20Supreme%20Authority%20Of%20The%20Church)
+		- [VIII. Of Apostolical and Ecclesiastical Traditions](#VIII.%20Of%20Apostolical%20and%20Ecclesiastical%20Traditions)
+		- [IX. Of Ecclesiastical Observances and Canons](#IX.%20Of%20Ecclesiastical%20Observances%20and%20Canons)
+		- [X. Of The Holy Scriptures](#X.%20Of%20The%20Holy%20Scriptures)
+		- [XI. Of The Old and New Law](#XI.%20Of%20The%20Old%20and%20New%20Law)
+		- [XII. Of The Interpretation Of The Scriptures](#XII.%20Of%20The%20Interpretation%20Of%20The%20Scriptures)
+		- [XIII. Of The Sacraments](#XIII.%20Of%20The%20Sacraments)
+		- [XVI. Of The Holy Eucharist](#XVI.%20Of%20The%20Holy%20Eucharist)
+		- [XVII. Of The Oblation Of Christ on The Cross](#XVII.%20Of%20The%20Oblation%20Of%20Christ%20on%20The%20Cross)
+		- [XVIII. Of Penance, Or Sacramental Confession](#XVIII.%20Of%20Penance,%20Or%20Sacramental%20Confession)
+		- [XIX. Of Extreme Unction](#XIX.%20Of%20Extreme%20Unction)
+		- [XX. Of Orders](#XX.%20Of%20Orders)
+		- [XXI. Of Marriage](#XXI.%20Of%20Marriage)
+		- [XXII Of Religious Ceremonies](#XXII%20Of%20Religious%20Ceremonies)
+		- [XXIII. Of Original Sin](#XXIII.%20Of%20Original%20Sin)
+		- [XXIV. Of Justification](#XXIV.%20Of%20Justification)
+		- [XXV. Of The Merit Of Good Works](#XXV.%20Of%20The%20Merit%20Of%20Good%20Works)
+		- [XXVI. Of Works Of Supererogation](#XXVI.%20Of%20Works%20Of%20Supererogation)
+		- [XXVII. Of Free Will](#XXVII.%20Of%20Free%20Will)
+		- [XXVIII. Of Predestination](#XXVIII.%20Of%20Predestination)
+		- [XXIX. Of Election](#XXIX.%20Of%20Election)
+		- [XXX. Of Satisfaction](#XXX.%20Of%20Satisfaction)
+		- [XXXI. Of Purgatory](#XXXI.%20Of%20Purgatory)
+		- [XXXII. Of Praying for the Dead](#XXXII.%20Of%20Praying%20for%20The%20Dead)
+		- [XXXIII. Of Religious Worship](#XXXIII.%20Of%20Religious%20Worship)
+		- [XXXIV. Of The Invocation Of Saints](#XXXIV.%20Of%20The%20Invocation%20Of%20Saints)
+		- [XXXV. Of Images and Relics](#XXXV.%20Of%20Images%20and%20Relics)
+		- [XXXVI. Of Indulgences](#XXXVI.%20Of%20Indulgences)
+		- [XXXVII. Of Obtaining Salvation In Any Church Or Religion](#XXXVII.%20Of%20Obtaining%20Salvation%20In%20Any%20Church%20Or%20Religion)
+		- [XXXVIII. Of The Churches Of Jerusalem, Alexandria, Antioch, and Of Rome](#XXXVIII.%20Of%20The%20Churches%20Of%20Jerusalem,%20Alexandria,%20Antioch,%20and%20Of%20Rome)
+		- [XXXIX. Of The Pope](#XXXIX.%20Of%20The%20Pope)
+		- [XL. Of The Queen and Civil Magistrates](#XL.%20Of%20The%20Queen%20and%20Civil%20Magistrates)
+		- [XLI. Of A Christian's Oath](#XLI.%20Of%20A%20Christian's%20Oath)
+		- [XLII. Of Anathemas](#XLII.%20Of%20Anathemas)
+		- [XLIII. Of Heresy](#XLIII.%20Of%20Heresy)
+	- [Christian's Rule Of Life](#Christian's%20Rule%20Of%20Life)
+		- [Of The Necessity Of A Rule Of Life](#Of%20The%20Necessity%20Of%20A%20Rule%20Of%20Life)
+		- [Of Rising, and Morning Prayer](#Of%20Rising,%20and%20Morning%20Prayer)
+		- [Of Hearing Mass](#Of%20Hearing%20Mass)
+		- [Of Meditation](#Of%20Meditation)
+		- [Of Employment](#Of%20Employment)
+		- [Of Eating and Drinking](#Of%20Eating%20and%20Drinking)
+		- [Of Spiritual Reading](#Of%20Spiritual%20Reading)
+		- [Of Praying Before The Blessed Sacrament Of The Altar](#Of%20Praying%20Before%20The%20Blessed%20Sacrament%20Of%20The%20Altar)
+		- [Of Interior Recollection In The Presence Of God](#Of%20Interior%20Recollection%20In%20The%20Presence%20Of%20God)
+		- [Of A Spirit Of Mortification](#Of%20A%20Spirit%20Of%20Mortification)
+		- [Of Evening Prayers](#Of%20Evening%20Prayers)
+		- [Of Sacramental Confession](#Of%20Sacramental%20Confession)
+		- [Of Communion](#Of%20Communion)
+		- [Of Resistance To Our Predominant Passion](#Of%20Resistance%20To%20Our%20Predominant%20Passion)
+		- [Of Preparation for Death](#Of%20Preparation%20for%20Death)
+		- [Of The Duties Of Our State and Condition](#Of%20The%20Duties%20Of%20Our%20State%20and%20Condition)
+		- [Of The Use Of Riches](#Of%20The%20Use%20Of%20Riches)
+		- [Of Pleasures and Amusements](#Of%20Pleasures%20and%20Amusements)
+		- [Of Crosses and Afflictions](#Of%20Crosses%20and%20Afflictions)
+		- [Of Visits](#Of%20Visits)
+		- [Of Conversation](#Of%20Conversation)
+		- [Of Companions](#Of%20Companions)
+	- [Morning Prayer](#Morning%20Prayer)
+		- [The Lord's Prayer](#The%20Lord's%20Prayer)
+		- [The Angelical Salutation](#The%20Angelical%20Salutation)
+		- [The Apostles' Creed](#The%20Apostles'%20Creed)
+		- [The Confiteor](#The%20Confiteor)
+		- [Morning Hymn](#Morning%20Hymn)
+		- [An Act Of Faith In The Presence Of God](#An%20Act%20Of%20Faith%20In%20The%20Presence%20Of%20God)
+		- [An Act Of Adoration and Thanksgiving](#An%20Act%20Of%20Adoration%20and%20Thanksgiving)
+		- [An Act Of Contrition With Good Resolutions](#An%20Act%20Of%20Contrition%20With%20Good%20Resolutions)
+		- [An Oblation](#An%20Oblation)
+		- [A Petition](#A%20Petition)
+		- [The Litany Of The Holy Name Of Jesus](#The%20Litany%20Of%20The%20Holy%20Name%20Of%20Jesus)
+		- [A Prayer To Our Guardian Angel](#A%20Prayer%20To%20Our%20Guardian%20Angel)
+		- [A Blessing](#A%20Blessing)
+		- [The Angelus Domini](#The%20Angelus%20Domini)
+		- [A Prayer for Parents](#A%20Prayer%20for%20Parents)
+		- [A Prayer for Children](#A%20Prayer%20for%20Children)
+		- [A Prayer for Husband Or Wife](#A%20Prayer%20for%20Husband%20Or%20Wife)
+		- [A Prayer To The Holy Ghost](#A%20Prayer%20To%20The%20Holy%20Ghost)
+	- [Evening Prayer](#Evening%20Prayer)
+		- [The Litany Of The Blessed Virgin](#The%20Litany%20Of%20The%20Blessed%20Virgin)
+		- [Vespers In English](#Vespers%20In%20English)
+		- [An Oblation To Almighty God](#An%20Oblation%20To%20Almighty%20God)
+	- [An Exposition of the Order, Canon, and Ceremonies of the Mass](#An%20Exposition%20Of%20The%20Order,%20Canon,%20and%20Ceremonies%20Of%20The%20Mass)
+	- [The Most Holy Sacrifice of the Mass](#The%20Most%20Holy%20Sacrifice%20Of%20The%20Mass)
+		- [A Preparation Before Mass](#A%20Preparation%20Before%20Mass)
+	- [Prayer Before Mass](#Prayer%20Before%20Mass)
+	- [Acts of Faith, Hope, and Charity](#Acts%20Of%20Faith,%20Hope,%20and%20Charity)
+		- [A Prayer Before The Acts](#A%20Prayer%20Before%20The%20Acts)
+		- [An Act of Contrition](#An%20Act%20Of%20Contrition)
+		- [An Act of Faith](#An%20Act%20Of%20Faith)
+		- [An Act of Hope](#An%20Act%20Of%20Hope)
+		- [An Act of Charity, Or, An Act of the Love of God and Our Neighbour](#An%20Act%20Of%20Charity,%20Or,%20An%20Act%20Of%20The%20Love%20Of%20God%20and%20Our%20Neighbour)
+		- [A Prayer To Be Said Before Mass](#A%20Prayer%20To%20Be%20Said%20Before%20Mass)
+	- [Prayers At Mass](#Prayers%20At%20Mass)
+		- [At The General Confession](#At%20The%20General%20Confession)
+		- [Gloria In Excelsis](#Gloria%20In%20Excelsis)
+		- [The Creed](#The%20Creed)
+		- [A Prayer for Spiritual Communion](#A%20Prayer%20for%20Spiritual%20Communion)
+		- [The De Profundis](#The%20De%20Profundis)
+	- [The Manner of Serving A Priest At Mass](#The%20Manner%20Of%20Serving%20A%20Priest%20At%20Mass)
+	- [The Order for the Celebration of the Lord's Supper, Together With Holy Communion, Commonly Called The Mass](#The%20Order%20for%20The%20Celebration%20Of%20The%20Lord's%20Supper,%20Together%20With%20Holy%20Communion,%20Commonly%20Called%20The%20Mass)
+	- [The Canon, Or More Sacred Part of the Mass](#The%20Canon,%20Or%20More%20Sacred%20Part%20Of%20The%20Mass)
+	- [An Act of Adoration and Thanksgiving, In Honour of the Blessed Sacrament of the Altar, Commonly Called Benediction](#An%20Act%20Of%20Adoration%20and%20Thanksgiving,%20In%20Honour%20Of%20The%20Blessed%20Sacrament%20Of%20The%20Altar,%20Commonly%20Called%20Benediction)
+		- [Pange Lingua](#Pange%20Lingua)
+		- [Tantum Ergo](#Tantum%20Ergo)
+		- [The Prayer](#The%20Prayer)
+	- [Devotions for Confession and Communion](#Devotions%20for%20Confession%20and%20Communion)
+		- [A Prayer Before The Examination of Conscience](#A%20Prayer%20Before%20The%20Examination%20Of%20Conscience)
+		- [An Examination of Conscience](#An%20Examination%20Of%20Conscience)
+		- [An Examination for Confession](#An%20Examination%20for%20Confession)
+		- [The Precepts of the Church](#The%20Precepts%20Of%20The%20Church)
+		- [Prayers Before Confession](#Prayers%20Before%20Confession)
+		- [Prayers After Confession](#Prayers%20After%20Confession)
+	- [Devotions for Communion](#Devotions%20for%20Communion)
+		- [A Meditation Before Communion](#A%20Meditation%20Before%20Communion)
+		- [Instructions for Communion](#Instructions%20for%20Communion)
+	- [Devotions After Communion](#Devotions%20After%20Communion)
+		- [Aspirations](#Aspirations)
+		- [Acts of Devotion, Praise, and Thanksgiving After Communion](#Acts%20Of%20Devotion,%20Praise,%20and%20Thanksgiving%20After%20Communion)
+			- [An Oblation After Communion](#An%20Oblation%20After%20Communion)
+			- [Petitions After Communion](#Petitions%20After%20Communion)
+		- [Te Deum. A Hymn of Thanksgiving](#Te%20Deum.%20A%20Hymn%20Of%20Thanksgiving)
+	- [Reparation of Honour To The Most Sacred Heart of Jesus](#Reparation%20Of%20Honour%20To%20The%20Most%20Sacred%20Heart%20Of%20Jesus)
+	- [Devotions to the Sacred Heart of Jesus](#Devotions%20To%20The%20Sacred%20Heart%20Of%20Jesus)
+	- [The Rosary of the Most Holy Name of Jesus](#The%20Rosary%20Of%20The%20Most%20Holy%20Name%20Of%20Jesus)
+	- [A Prayer of A Penitent Sinner](#A%20Prayer%20Of%20A%20Penitent%20Sinner)
+	- [A Prayer for the Whole State of Christ's Church Upon Earth, and All The Intentions of An Indulgence](#A%20Prayer%20for%20The%20Whole%20State%20Of%20Christ's%20Church%20Upon%20Earth,%20and%20All%20The%20Intentions%20Of%20An%20Indulgence)
+	- [Devotions for Every Day In The Week](#Devotions%20for%20Every%20Day%20In%20The%20Week)
+		- [Sunday Devotion To The Adorable Trinity](#Sunday%20Devotion%20To%20The%20Adorable%20Trinity)
+		- [Monday Devotions for the Souls In Purgatory](#Monday%20Devotions%20for%20The%20Souls%20In%20Purgatory)
+		- [Tuesday on Devotion To Your Angel Guardian](#Tuesday%20on%20Devotion%20To%20Your%20Angel%20Guardian)
+		- [Wednesday Devotion to St.Joseph](#Wednesday%20Devotion%20To%20St.%20Joseph)
+		- [Thursday. Devotion to the Blessed Sacrament](#Thursday.%20Devotion%20To%20The%20Blessed%20Sacrament)
+		- [Friday. Devotion To The Passion of Our Lord](#Friday.%20Devotion%20To%20The%20Passion%20Of%20Our%20Lord)
+		- [Saturday Devotion to the Blessed Virgin](#Saturday%20Devotion%20To%20The%20Blessed%20Virgin)
+	- [Meditations for Each Sunday of the Month](#Meditations%20for%20Each%20Sunday%20Of%20The%20Month)
+		- [Meditation for the First Sunday. of the End for Which God Created Man](#Meditation%20for%20The%20First%20Sunday.%20Of%20The%20End%20for%20Which%20God%20Created%20Man)
+			- [Point I](#Point%20I)
+			- [Point II](#Point%20II)
+			- [Point III](#Point%20III)
+			- [Reflections and Resolutions](#Reflections%20and%20Resolutions)
+		- [Meditation for the Second Sunday. of Death](#Meditation%20for%20The%20Second%20Sunday.%20Of%20Death)
+			- [Point I](#Point%20I)
+			- [Point II](#Point%20II)
+			- [Point III](#Point%20III)
+			- [Reflections and Resolutions](#Reflections%20and%20Resolutions)
+			- [Motives for Confidence In God, and The Practice of It](#Motives%20for%20Confidence%20In%20God,%20and%20The%20Practice%20Of%20It)
+		- [Meditation for the Third Sunday. of Judgment](#Meditation%20for%20The%20Third%20Sunday.%20Of%20Judgment)
+			- [Point I](#Point%20I)
+			- [Point II](#Point%20II)
+			- [Point III](#Point%20III)
+			- [Reflections and Resolutions](#Reflections%20and%20Resolutions)
+		- [Meditation for the Fourth Sunday. of Hell](#Meditation%20for%20The%20Fourth%20Sunday.%20Of%20Hell)
+			- [Point I](#Point%20I)
+			- [Point II](#Point%20II)
+			- [Point Iiі](#Point%20Ii%D1%96)
+			- [Reflections and Resolutions](#Reflections%20and%20Resolutions)
+		- [Meditation for the Fifth Sunday. of Heaven](#Meditation%20for%20The%20Fifth%20Sunday.%20Of%20Heaven)
+			- [Point I](#Point%20I)
+			- [Point II](#Point%20II)
+			- [Point III](#Point%20III)
+			- [Reflections and Resolutions](#Reflections%20and%20Resolutions)
+	- [An Universal Prayer](#An%20Universal%20Prayer)
+	- [A Prayer Before Sermon, Spiritual Reading, Etc](#A%20Prayer%20Before%20Sermon,%20Spiritual%20Reading,%20Etc)
+	- [Prayer for A Pregnant Woman](#Prayer%20for%20A%20Pregnant%20Woman)
+	- [A Prayer In Any Tribulation](#A%20Prayer%20In%20Any%20Tribulation)
+	- [A Prayer for the Choice of A State of Life](#A%20Prayer%20for%20The%20Choice%20Of%20A%20State%20Of%20Life)
+	- [A Prayer for Such As Are At Sea](#A%20Prayer%20for%20Such%20As%20Are%20At%20Sea)
+	- [The Seven Penitential Psalms](#The%20Seven%20Penitential%20Psalms)
+		- [І.-The 6th Psalm](#%D0%86.-The%206th%20Psalm)
+		- [II. The 31st Psalm](#II.%20The%2031st%20Psalm)
+		- [III.-the 37th Psalm](#III.-the%2037th%20Psalm)
+		- [IV. The 50th Psalm](#IV.%20The%2050th%20Psalm)
+		- [V.-the 101st Psalm](#V.-the%20101st%20Psalm)
+		- [VI.-the 129th Psalm](#VI.-the%20129th%20Psalm)
+		- [VII. The 142nd Psalm](#VII.%20The%20142nd%20Psalm)
+	- [Psalm 69](#Psalm%2069)
+	- [Instructions and Devotions for the Sick](#Instructions%20and%20Devotions%20for%20The%20Sick)
+		- [A Prayer Proper To Be Repeated Daily In Time of Sickness](#A%20Prayer%20Proper%20To%20Be%20Repeated%20Daily%20In%20Time%20Of%20Sickness)
+		- [Short Acts of the Most Necessary Virtues Proper To Be Inculcated In The Time of Sickness](#Short%20Acts%20Of%20The%20Most%20Necessary%20Virtues%20Proper%20To%20Be%20Inculcated%20In%20The%20Time%20Of%20Sickness)
+	- [Novenas](#Novenas)
+		- [Novena of the Sacred Heart of Jesus](#Novena%20Of%20The%20Sacred%20Heart%20Of%20Jesus)
+		- [Novena of the Seraphic Virgin, St. Teresa of Jesus](#Novena%20Of%20The%20Seraphic%20Virgin,%20St.%20Teresa%20Of%20Jesus)
+		- [A Novena In Honour of Saint Valentinus, Martyr](#A%20Novena%20In%20Honour%20Of%20Saint%20Valentinus,%20Martyr)
+	- [Litanies](#Litanies)
+		- [The Litany of the Sacred Heart of Jesus](#The%20Litany%20Of%20The%20Sacred%20Heart%20Of%20Jesus)
+		- [Litany of Divine Providence](#Litany%20Of%20Divine%20Providence)
+		- [The Litany of the Blessed Sacrament](#The%20Litany%20Of%20The%20Blessed%20Sacrament)
+		- [The Litany of the Saints](#The%20Litany%20Of%20The%20Saints)
 
 > [!NOTE]
 > THE CARMELITE MANUAL: CONTAINING A SELECTION OF BEAUTIFUL PRAYERS,

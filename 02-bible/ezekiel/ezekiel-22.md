@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 22
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 22
+title: Ezekiel, Chapter 22
+url: https://bible.usccb.org/bible/ezekiel/22
 aliases:
   - ezekiel-22
   - Ezekiel, Chapter 22
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/22
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 22
 ---
 
 # Ezekiel, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 **Crimes of Jerusalem.**
 
-1 The word of the L ORD came to me: ^ezekiel-22-1
+1 The word of the LORD came to me: ^ezekiel-22-1
 
 2 You, son of man, will you judge? will you judge the city of bloodshed? Then make known all its abominations, ^ezekiel-22-2
 
@@ -49,13 +48,13 @@ url: https://bible.usccb.org/bible/ezekiel/22
 
 13 See, I am clapping my hands because of the profits you extorted and the blood shed in your midst. ^ezekiel-22-13
 
-14 Will your heart remain firm, will your hands be strong, in the days when I deal with you? I am the L ORD; I have spoken, and I will act! ^ezekiel-22-14
+14 Will your heart remain firm, will your hands be strong, in the days when I deal with you? I am the LORD; I have spoken, and I will act! ^ezekiel-22-14
 
 15 I will disperse you among the nations and scatter you over other lands, so that I may purge your filth. ^ezekiel-22-15
 
-16 In you I will allow myself to be desecrated in the eyes of the nations; thus you shall know that I am the L ORD. ^ezekiel-22-16
+16 In you I will allow myself to be desecrated in the eyes of the nations; thus you shall know that I am the LORD. ^ezekiel-22-16
 
-17 The word of the L ORD came to me: ^ezekiel-22-17
+17 The word of the LORD came to me: ^ezekiel-22-17
 
 18 Son of man, the house of Israel has become dross to me. All of them are copper, tin, iron, and lead within a furnace; they have become the dross from silver. ^ezekiel-22-18
 
@@ -65,9 +64,9 @@ url: https://bible.usccb.org/bible/ezekiel/22
 
 21 When I have assembled you, I will blast you with the fire of my anger and smelt you with it. ^ezekiel-22-21
 
-22 Just as silver is smelted in a furnace, so you shall be smelted in it. Thus you shall know that I, the L ORD, have poured out my fury on you. ^ezekiel-22-22
+22 Just as silver is smelted in a furnace, so you shall be smelted in it. Thus you shall know that I, the LORD, have poured out my fury on you. ^ezekiel-22-22
 
-23 The word of the L ORD came to me: ^ezekiel-22-23
+23 The word of the LORD came to me: ^ezekiel-22-23
 
 24 Son of man, say to her: You are an unclean land receiving no rain at the time of my fury. ^ezekiel-22-24
 
@@ -77,7 +76,7 @@ url: https://bible.usccb.org/bible/ezekiel/22
 
 27 Within her, her officials are like wolves tearing prey, shedding blood and destroying lives to extort profit. ^ezekiel-22-27
 
-28 And her prophets cover them with whitewash, seeing false visions and performing lying divinations, saying, “Thus says the Lord G OD,” although the L ORD has not spoken. ^ezekiel-22-28
+28 And her prophets cover them with whitewash, seeing false visions and performing lying divinations, saying, “Thus says the Lord G OD,” although the LORD has not spoken. ^ezekiel-22-28
 
 29 The people of the land practice extortion and commit robbery; they wrong the poor and the needy, and oppress the resident alien without justice. ^ezekiel-22-29
 

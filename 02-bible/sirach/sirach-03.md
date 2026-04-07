@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 3
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 3
+title: Sirach, Chapter 3
+url: https://bible.usccb.org/bible/sirach/3
 aliases:
   - sirach-03
   - Sirach, Chapter 3
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/3
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 3
 ---
 
 # Sirach, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### Responsibilities to Parents
+### Responsibilities to Parents
 
 1 Children, listen to me, your father; ^sirach-03-1
 
@@ -83,7 +82,7 @@ like warmth upon frost it will melt away your sins.
 
 those who provoke their mother are accursed by their Creator.
 
-#### Humility
+### Humility
 
 17 My son, conduct your affairs with humility, ^sirach-03-17
 
@@ -113,7 +112,7 @@ when you have been shown more than you can understand.
 
 evil imaginations lead them astray.
 
-#### Docility
+### Docility
 
 25 Without the pupil of the eye, light is missing; ^sirach-03-25
 
@@ -135,7 +134,7 @@ for they are offshoots of an evil plant.
 
 and the ear that listens to wisdom rejoices.
 
-#### Alms for the Poor
+### Alms for the Poor
 
 30 As water quenches a flaming fire, ^sirach-03-30
 

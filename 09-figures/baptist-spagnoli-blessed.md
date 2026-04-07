@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Baptist Spagnoli
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - baptist-spagnoli-blessed
@@ -11,8 +8,11 @@ aliases:
 tags:
   - role/blessed
   - term/priest
-celebration: "04-17"
-full_name: "Blessed Baptist Spagnoli"
+  - type/figure
+celebration: 04-17
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Baptist Spagnoli

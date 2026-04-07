@@ -1,25 +1,24 @@
 ---
-title: Tobit, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Tobit, Chapter 10
+title: Tobit, Chapter 10
+url: https://bible.usccb.org/bible/tobit/10
 aliases:
   - tobit-10
   - Tobit, Chapter 10
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/tobit
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/tobit/10
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Tobit, Chapter 10
 ---
 
 # Tobit, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Anxiety of the Parents.**
 

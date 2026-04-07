@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 27
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 27
+title: Exodus, Chapter 27
+url: https://bible.usccb.org/bible/exodus/27
 aliases:
   - 20250731-085959
   - exodus-27
   - Exodus, Chapter 27
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/27
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 27
 ---
 
 # Exodus, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 **The Altar for Burnt Offerings.**
 
@@ -68,7 +67,7 @@ url: https://bible.usccb.org/bible/exodus/27
 
 20 You shall command the Israelites to bring you clear oil of crushed olives, to be used for the light, so that you may keep lamps burning always. ^exodus-27-20
 
-21 From evening to morning Aaron and his sons shall maintain them before the L ORD in the tent of meeting, outside the veil which hangs in front of the covenant. This shall be a perpetual statute for the Israelites throughout their generations. ^exodus-27-21
+21 From evening to morning Aaron and his sons shall maintain them before the LORD in the tent of meeting, outside the veil which hangs in front of the covenant. This shall be a perpetual statute for the Israelites throughout their generations. ^exodus-27-21
 
 \* (27:2) Horns: the horn of a ram, goat or ox is a common Old Testament figure for strength and dignity; they represent the divine character of the altar itself or the deity worshiped there.
 

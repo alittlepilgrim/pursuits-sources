@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 33
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 33
+title: Sirach, Chapter 33
+url: https://bible.usccb.org/bible/sirach/33
 aliases:
   - sirach-33
   - Sirach, Chapter 33
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/33
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 33
 ---
 
 # Sirach, Chapter 33
 
-### Chapter 33
+## Chapter 33
 
-1 No evil can harm the one who fears the L ORD; ^sirach-33-1
+1 No evil can harm the one who fears the LORD; ^sirach-33-1
 
 through trials, again and again he is rescued.
 
@@ -29,7 +28,7 @@ through trials, again and again he is rescued.
 
 and is tossed about like a boat in a storm.
 
-3 The prudent trust in the word of the L ORD, ^sirach-33-3
+3 The prudent trust in the word of the LORD, ^sirach-33-3
 
 and the law is dependable for them as a divine oracle.
 
@@ -49,7 +48,7 @@ that neighs, no matter who the rider may be.
 
 when the same sun lights up every day of the year?
 
-8 By the L ORD’s knowledge they are kept distinct; ^sirach-33-8
+8 By the LORD’s knowledge they are kept distinct; ^sirach-33-8
 
 and he designates the seasons and feasts.
 
@@ -101,7 +100,7 @@ till like a grape-picker I have filled my wine press,
 
 but for all who seek instruction.
 
-#### Property and Servants
+### Property and Servants
 
 19 Listen to me, leaders of the people; ^sirach-33-19
 
@@ -169,7 +168,7 @@ for you need him as you need your life.
 
 \* (33:3) Oracle: as the answer given through the Urim and Thummim to the high priest is true, so the law proves itself true to those who obey it. Cf. ([[exodus-28|Ex 28]]:30]; [Nm 27:21].
 
-\* (33:7] – [15) An important doctrine of Ben Sira is his view of the polarities in creation and history; cf. v. [15]; [42:24]. Contrasts observable in the physical universe as well as in the moral order serve the purposes of divine wisdom (vv. [5] – [9]). All creatures are like clay in the hands of their Maker—the fool and the wise, the sinner and the just (vv. [10] – [15]). This does not imply that some are created to be sinners: God is not the author of wickedness. Divine determinism and human freedom are a mysterious mix.
+\* (33:7] – [15) An important doctrine of Ben Sira is his view of the polarities in creation and history; cf. v. [15]; [42:24]. Contrasts observable in the physical universe as well as in the moraLORDer serve the purposes of divine wisdom (vv. [5] – [9]). All creatures are like clay in the hands of their Maker—the fool and the wise, the sinner and the just (vv. [10] – [15]). This does not imply that some are created to be sinners: God is not the author of wickedness. Divine determinism and human freedom are a mysterious mix.
 
 \* (33:16] – [18) Ben Sira refers to himself as the most recent of the biblical writers who have endeavored to present true wisdom to their readers.
 

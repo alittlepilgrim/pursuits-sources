@@ -1,29 +1,28 @@
 ---
-title: Deuteronomy, Chapter 17
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 17
+title: Deuteronomy, Chapter 17
+url: https://bible.usccb.org/bible/deuteronomy/17
 aliases:
   - deuteronomy-17
   - Deuteronomy, Chapter 17
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 17
 ---
 
 # Deuteronomy, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
-1 You shall not sacrifice to the L ORD, your God, an ox or a sheep with any serious defect; that would be an abomination to the L ORD, your God. ^deuteronomy-17-1
+1 You shall not sacrifice to the LORD, your God, an ox or a sheep with any serious defect; that would be an abomination to the LORD, your God. ^deuteronomy-17-1
 
-2 If there is found in your midst, in any one of the communities which the L ORD, your God, gives you, a man or a woman who does evil in the sight of the L ORD, your God, and transgresses his covenant, ^deuteronomy-17-2
+2 If there is found in your midst, in any one of the communities which the LORD, your God, gives you, a man or a woman who does evil in the sight of the LORD, your God, and transgresses his covenant, ^deuteronomy-17-2
 
 3 by going to serve other gods, by bowing down to them, to the sun or the moon or any of the host of heaven, contrary to my command; ^deuteronomy-17-3
 
@@ -37,31 +36,31 @@ url: https://bible.usccb.org/bible/deuteronomy/17
 
 **Judges.**
 
-8 If there is a case for judgment which proves too baffling for you to decide, in a matter of bloodshed or of law or of injury, matters of dispute within your gates, you shall then go up to the place which the L ORD, your God, will choose, ^deuteronomy-17-8
+8 If there is a case for judgment which proves too baffling for you to decide, in a matter of bloodshed or of law or of injury, matters of dispute within your gates, you shall then go up to the place which the LORD, your God, will choose, ^deuteronomy-17-8
 
 9 to the levitical priests or to the judge who is in office at that time. They shall investigate the case and then announce to you the decision. ^deuteronomy-17-9
 
-10 You shall act according to the decision they announce to you in the place which the L ORD will choose, carefully observing everything as they instruct you. ^deuteronomy-17-10
+10 You shall act according to the decision they announce to you in the place which the LORD will choose, carefully observing everything as they instruct you. ^deuteronomy-17-10
 
 11 You shall carry out the instruction they give you and the judgment they pronounce, without turning aside either to the right or left from the decision they announce to you. ^deuteronomy-17-11
 
-12 Anyone who acts presumptuously and does not obey the priest who officiates there in the ministry of the L ORD, your God, or the judge, shall die. Thus shall you purge the evil from Israel. ^deuteronomy-17-12
+12 Anyone who acts presumptuously and does not obey the priest who officiates there in the ministry of the LORD, your God, or the judge, shall die. Thus shall you purge the evil from Israel. ^deuteronomy-17-12
 
 13 And all the people, on hearing of it, shall fear, and will never again act presumptuously. ^deuteronomy-17-13
 
 **The King.**
 
-14 When you have come into the land which the L ORD, your God, is giving you, and have taken possession of it and settled in it, should you then decide, “I will set a king over me, like all the surrounding nations,” ^deuteronomy-17-14
+14 When you have come into the land which the LORD, your God, is giving you, and have taken possession of it and settled in it, should you then decide, “I will set a king over me, like all the surrounding nations,” ^deuteronomy-17-14
 
-15 you may indeed set over you a king whom the L ORD, your God, will choose. Someone from among your own kindred you may set over you as king; you may not set over you a foreigner, who is no kin of yours. ^deuteronomy-17-15
+15 you may indeed set over you a king whom the LORD, your God, will choose. Someone from among your own kindred you may set over you as king; you may not set over you a foreigner, who is no kin of yours. ^deuteronomy-17-15
 
-16 But he shall not have a great number of horses; nor shall he make his people go back again to Egypt to acquire many horses, for the L ORD said to you, Do not go back that way again. ^deuteronomy-17-16
+16 But he shall not have a great number of horses; nor shall he make his people go back again to Egypt to acquire many horses, for the LORD said to you, Do not go back that way again. ^deuteronomy-17-16
 
 17 Neither shall he have a great number of wives, lest his heart turn away, nor shall he accumulate a vast amount of silver and gold. ^deuteronomy-17-17
 
 18 When he is sitting upon his royal throne, he shall write a copy of this law upon a scroll from the one that is in the custody of the levitical priests. ^deuteronomy-17-18
 
-19 It shall remain with him and he shall read it as long as he lives, so that he may learn to fear the L ORD, his God, and to observe carefully all the words of this law and these statutes, ^deuteronomy-17-19
+19 It shall remain with him and he shall read it as long as he lives, so that he may learn to fear the LORD, his God, and to observe carefully all the words of this law and these statutes, ^deuteronomy-17-19
 
 20 so that he does not exalt himself over his kindred or turn aside from this commandment to the right or to the left, and so that he and his descendants may reign long in Israel. ^deuteronomy-17-20
 

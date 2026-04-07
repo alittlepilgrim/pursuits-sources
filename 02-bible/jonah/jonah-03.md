@@ -1,33 +1,32 @@
 ---
-title: Jonah, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jonah, Chapter 3
+title: Jonah, Chapter 3
+url: https://bible.usccb.org/bible/jonah/3
 aliases:
   - jonah-03
   - Jonah, Chapter 3
 tags:
+  - bible/chapter
   - bible/jonah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jonah/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jonah, Chapter 3
 ---
 
 # Jonah, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Jonah’s Obedience and the Ninevites’ Repentance.**
 
-1 The word of the L ORD came to Jonah a second time: ^jonah-03-1
+1 The word of the LORD came to Jonah a second time: ^jonah-03-1
 
 2 Set out for the great city of Nineveh, and announce to it the message that I will tell you. ^jonah-03-2
 
-3 So Jonah set out for Nineveh, in accord with the word of the L ORD. Now Nineveh was an awesomely great city; it took three days to walk through it. ^jonah-03-3
+3 So Jonah set out for Nineveh, in accord with the word of the LORD. Now Nineveh was an awesomely great city; it took three days to walk through it. ^jonah-03-3
 
 4 Jonah began his journey through the city, and when he had gone only a single day’s walk announcing, “Forty days more and Nineveh shall be overthrown,” ^jonah-03-4
 

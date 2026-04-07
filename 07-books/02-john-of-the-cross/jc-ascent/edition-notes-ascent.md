@@ -1,20 +1,20 @@
 ---
-title: Edition Notes - The Ascent of Mt. Carmel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Edition Notes - The Ascent of Mt. Carmel
+title: Edition Notes - The Ascent of Mt. Carmel
+author: Saint John of the Cross
 aliases:
   - Edition Notes - The Ascent of Mt. Carmel
 tags:
-  - author/john-of-the-cross
+  - author/saint-john-of-the-cross
   - book
   - book/ascent-mt-carmel
   - saint/john-of-the-cross
   - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Edition Notes - The Ascent of Mt. Carmel
 attachment: false
-author: Saint John of the Cross
 ---
 
 # Edition Notes

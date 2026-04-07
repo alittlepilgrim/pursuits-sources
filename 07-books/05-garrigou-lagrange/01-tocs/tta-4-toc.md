@@ -1,14 +1,15 @@
 ---
-title: part4-toc
-created: 2026-03-23
-modified: 2026-04-02
-type: book
-publish: true
-aliases:
-  - Part IV Contents
-  - part4-toc
+type: toc
+title: Part IV TOC – The Unitive Way of the Perfect
 author: Reginald Garrigou-Lagrange
-book_volume: "2"
+aliases:
+  - Part IV TOC – The Unitive Way of the Perfect
+tags:
+  - author/garrigou-lagrange
+  - type/book
+created: 2026-03-23
+modified: 2026-04-04
+publish: true
 ---
 
 > [!NOTE]
@@ -18,7 +19,7 @@ book_volume: "2"
 
 [[tta-3-toc|Previous]] | [[tta-5-toc|Next]]
 
-### Part IV - the Unitive Way of the Perfect
+# Part IV TOC – The Unitive Way of the Perfect
 
 SECTION I - [[tta083|THE ENTRANCE INTO THE UNITIVE WAY THROUGH THE NIGHT OF THE SPIRIT]]
 

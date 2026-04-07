@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 31
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 31
+title: Job, Chapter 31
+url: https://bible.usccb.org/bible/job/31
 aliases:
   - job-31
   - Job, Chapter 31
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/31
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 31
 ---
 
 # Job, Chapter 31
 
-### Chapter 31
+## Chapter 31
 
 1 I made a covenant with my eyes ^job-31-1
 

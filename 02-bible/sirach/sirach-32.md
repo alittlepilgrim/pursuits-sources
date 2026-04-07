@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 32
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 32
+title: Sirach, Chapter 32
+url: https://bible.usccb.org/bible/sirach/32
 aliases:
   - sirach-32
   - Sirach, Chapter 32
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/32
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 32
 ---
 
 # Sirach, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
 1 If you are chosen to preside at a dinner, do not be puffed up, ^sirach-32-1
 
@@ -77,7 +76,7 @@ but do not sin through words of pride.
 
 who showers his favors upon you.
 
-#### The Providence of God
+### The Providence of God
 
 14 Whoever seeks God must accept discipline; ^sirach-32-14
 
@@ -87,7 +86,7 @@ and whoever resorts to him obtains an answer.
 
 but the hypocrite will be ensnared by it.
 
-16 Whoever fears the L ORD will understand what is right, ^sirach-32-16
+16 Whoever fears the LORD will understand what is right, ^sirach-32-16
 
 and out of obscurity he will draw forth a course of action.
 
@@ -117,7 +116,7 @@ for whoever does so keeps the commandments.
 
 24 Whoever keeps the law preserves himself; ^sirach-32-24
 
-and whoever trusts in the L ORD shall not be put to shame.
+and whoever trusts in the LORD shall not be put to shame.
 
 \* (32:14] – [33:4) God is shown to reveal himself through the discipline of his law, a clear and safe plan of life for the pious. Direction and deliberation are aids in following it ([32:14] – [16], [18] – [24]; [33:1], [3] – [4]). Sinners and hypocrites, hating the law or distorting it, fail in wisdom and are devoid of security ([32:15b], [17], [18b]; [33:2]).
 

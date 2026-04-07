@@ -1,15 +1,16 @@
 ---
-title: Canonization
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: canonization. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Canonization
 aliases:
   - canonization
   - Canonization
 tags:
   - term/canonization
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: canonization. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Canonization

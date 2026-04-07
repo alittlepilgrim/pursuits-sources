@@ -1,9 +1,7 @@
 ---
-title: June 14, Blessed Maria Candida of the Eucharist Barba
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: June 14, Blessed Maria Candida of the Eucharist Barba
+author: OCD General Curia
 aliases:
   - 06-14-blessed-maria-barba
   - 20240722-231258
@@ -11,9 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-attachment: true
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 06-14
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+attachment: true
 ---
 
 # June 14, Blessed Maria Candida of the Eucharist Barba
@@ -62,7 +63,7 @@ Who lives and reigns with Youin the unity of the Holy Spirit,
 
 God, forever and ever.
 
-!
+![14 June- Blessed Maria Candida of the Eucharist Barba-2024-07-22-1](images/14%20June-%20Blessed%20Maria%20Candida%20of%20the%20Eucharist Barba-2024-07-22-1.jpeg)
 
 *Blessed Maria Candida of the Eucharist (1884-1949)*
 

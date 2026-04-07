@@ -1,27 +1,26 @@
 ---
-title: Song of Songs, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Song of Songs, Chapter 4
+title: Song of Songs, Chapter 4
+url: https://bible.usccb.org/bible/songofsongs/4
 aliases:
   - Song of Songs, Chapter 4
   - song-of-songs-04
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/song-of-songs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/4
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Song of Songs, Chapter 4
 ---
 
 # Song of Songs, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
-#### The Beauty of the Woman
+### The Beauty of the Woman
 
 1 M<sup>, </sup> How beautiful you are, my friend, ^song-of-songs-04-1
 
@@ -111,7 +110,7 @@ And the fragrance of your garments
 
 is like the fragrance of Lebanon.
 
-#### The Lover’s Garden
+### The Lover’s Garden
 
 12 M A garden enclosed, my sister, my bride, ^song-of-songs-04-12
 

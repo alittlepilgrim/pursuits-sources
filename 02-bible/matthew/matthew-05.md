@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 5
+title: Matthew, Chapter 5
+url: https://bible.usccb.org/bible/matthew/5
 aliases:
   - matthew-05
   - Matthew, Chapter 5
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/5
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 5
 ---
 
 # Matthew, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **The Sermon on the Mount.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/matthew/5
 
 2 He began to teach them, saying: ^matthew-05-2
 
-#### The [[pursuits-sources/01-glossary/beatitudes|Beatitudes]]
+### The [[pursuits-sources/01-glossary/beatitudes|Beatitudes]]
 
 3 “Blessed are the poor in spirit, ^matthew-05-3
 

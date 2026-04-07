@@ -1,25 +1,24 @@
 ---
-title: Ephesians, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ephesians, Chapter 3
+title: Ephesians, Chapter 3
+url: https://bible.usccb.org/bible/ephesians/3
 aliases:
   - ephesians-03
   - Ephesians, Chapter 3
 tags:
+  - bible/chapter
   - bible/ephesians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/ephesians/3
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ephesians, Chapter 3
 ---
 
 # Ephesians, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Commission to Preach God’s Plan.**
 

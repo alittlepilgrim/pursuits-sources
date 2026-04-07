@@ -1,25 +1,24 @@
 ---
-title: Ecclesiastes, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ecclesiastes, Chapter 1
+title: Ecclesiastes, Chapter 1
+url: https://bible.usccb.org/bible/ecclesiastes/1
 aliases:
   - ecclesiastes-01
   - Ecclesiastes, Chapter 1
 tags:
+  - bible/chapter
   - bible/ecclesiastes
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ecclesiastes/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ecclesiastes, Chapter 1
 ---
 
 # Ecclesiastes, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 The words of David’s son, Qoheleth, king in Jerusalem: ^ecclesiastes-01-1
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/ecclesiastes/1
 
 vanity of vanities! All things are vanity!
 
-#### Vanity of Human Toil
+### Vanity of Human Toil
 
 3 What profit have we from all the toil ^ecclesiastes-01-3
 
@@ -67,7 +66,7 @@ nor has the ear enough of hearing.
 
 11 There is no remembrance of past generations; nor will future generations be remembered by those who come after them. ^ecclesiastes-01-11
 
-## I. QOHELETH’S Investigation of Life
+# I. QOHELETH’S Investigation of Life
 
 **Twofold Introduction.**
 

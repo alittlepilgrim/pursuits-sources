@@ -1,20 +1,20 @@
 ---
-title: Baruch, The Book of Baruch
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Baruch, the Book of Baruch
+title: Baruch, The Book of Baruch
+url: https://bible.usccb.org/bible/baruch/0
 aliases:
   - baruch-00
   - Baruch, the Book of Baruch
   - Baruch, The Book of Baruch
 tags:
   - bible/baruch
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/baruch/0
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Baruch, the Book of Baruch
 ---
 
 # Baruch, the Book of Baruch

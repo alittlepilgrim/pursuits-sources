@@ -1,18 +1,17 @@
 ---
-title: Psalm 122
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 122
+title: Psalm 122
+url: https://bible.usccb.org/bible/psalms/122
 aliases:
   - Psalm 122
   - psalm-122
 tags:
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/122
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 122
 ---
 
 # Psalm 122

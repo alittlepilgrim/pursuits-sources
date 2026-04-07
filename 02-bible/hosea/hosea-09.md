@@ -1,27 +1,26 @@
 ---
-title: Hosea, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 9
+title: Hosea, Chapter 9
+url: https://bible.usccb.org/bible/hosea/9
 aliases:
   - hosea-09
   - Hosea, Chapter 9
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 9
 ---
 
 # Hosea, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
-#### From Days of Celebration to Days of Punishment
+### From Days of Celebration to Days of Punishment
 
 1 Do not rejoice, Israel, ^hosea-09-1
 
@@ -37,13 +36,13 @@ upon every threshing floor.
 
 the new wine will fail them.
 
-3 They will not dwell in the L ORD’s land; ^hosea-09-3
+3 They will not dwell in the LORD’s land; ^hosea-09-3
 
 Ephraim will return to Egypt,
 
 and in Assyria they will eat unclean food.
 
-4 They will not pour libations of wine to the L ORD, ^hosea-09-4
+4 They will not pour libations of wine to the LORD, ^hosea-09-4
 
 and their sacrifices will not please him.
 
@@ -53,11 +52,11 @@ that makes unclean all who eat of it;
 
 Their food will be for their own appetites;
 
-it cannot enter the house of the L ORD.
+it cannot enter the house of the LORD.
 
 5 What will you do on the festival day, ^hosea-09-5
 
-the day of the L ORD’s feast?
+the day of the LORD’s feast?
 
 6 When they flee from the devastation, ^hosea-09-6
 
@@ -95,7 +94,7 @@ God will remember their iniquity
 
 and punish their sins.
 
-#### From Former Glory to a History of Corruption
+### From Former Glory to a History of Corruption
 
 10 Like grapes in the desert, ^hosea-09-10
 
@@ -133,7 +132,7 @@ But now Ephraim will bring out
 
 his children to the slaughterer!
 
-14 Give them, L ORD! ^hosea-09-14
+14 Give them, LORD! ^hosea-09-14
 
 give them what?
 
@@ -173,7 +172,7 @@ they will be wanderers among the nations.
 
 \* (9:4) Mourners’ bread: bread eaten at funeral rites ([Dt 26:14]). The presence of a corpse also made all food prepared in that house unclean ([Jer 16:5] – [7]).
 
-\* (9:5) The L ORD’s feast: probably the important autumn feast of Booths, the most important of the Israelite public celebrations ([Lv 23:34]).
+\* (9:5) The LORD’s feast: probably the important autumn feast of Booths, the most important of the Israelite public celebrations ([Lv 23:34]).
 
 \* (9:6) Instead of gathering for celebration (v. [5]), they will be gathered for death. Memphis: known for the monumental pyramid tombs. Silver treasures: the silver statues of Baal ([8:4]).
 

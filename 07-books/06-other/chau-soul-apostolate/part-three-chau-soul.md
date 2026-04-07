@@ -1,13 +1,16 @@
 ---
-title: Part Three – The Soul of the Apostolate
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: false
-description: Part Three – The Soul of the Apostolate
+title: Part Three – The Soul of the Apostolate
+author: Dom Chautard
 aliases:
   - Part Three – The Soul of the Apostolate
-author: Dom Chautard
+tags:
+  - author/chautard-dom
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: false
+description: Part Three – The Soul of the Apostolate
 ---
 
 # Part Three – The Soul of the Apostolate
@@ -16,7 +19,7 @@ author: Dom Chautard
 
 ### 1. Active Works, a Means of Sanctification for Interior Souls, Become, for Others, a Menace to Their Salvation
 
-#### A. Means of Sanctification.
+#### A. Means of Sanctification
 
 Our Lord categorically demands that those whom He associates with His apostolate should not only persevere in their virtue, but make progress in it. Proof will be found on any page of St. Paul’s epistles to Titus and Timothy, and the words addressed in the Apocalypse to the Bishops of Asia.
 
@@ -78,7 +81,7 @@ The active life improves mankind. Enriching the world with its acts of generosit
 
 It is a holy life, rewarded by God, for He gives Paradise in return for a cup of cold water given by one poor man to another, just as well as for the doctor’s learned tomes or for the labours of the apostle. At the last day, He will canonise all the works of charity before the face of heaven and earth together.94
 
-#### B. a Menace to Salvation.
+#### B. a Menace to Salvation
 
 How often, alas, in private retreats which we have directed, have we noticed that active works, which ought to have been, for their organisers, a means of progress had turned into forces that undermined the whole edifice of their spiritual life.
 

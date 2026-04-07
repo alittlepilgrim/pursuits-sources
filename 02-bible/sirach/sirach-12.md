@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 12
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 12
+title: Sirach, Chapter 12
+url: https://bible.usccb.org/bible/sirach/12
 aliases:
   - sirach-12
   - Sirach, Chapter 12
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/12
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 12
 ---
 
 # Sirach, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 1 If you do good, know for whom you are doing it, ^sirach-12-1
 
@@ -27,7 +26,7 @@ and your kindness will have its effect.
 
 2 Do good to the righteous and reward will be yours, ^sirach-12-2
 
-if not from them, from the L ORD.
+if not from them, from the LORD.
 
 3 No good comes to those who give comfort to the wicked, ^sirach-12-3
 

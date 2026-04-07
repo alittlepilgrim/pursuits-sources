@@ -1,25 +1,24 @@
 ---
-title: Jeremiah, Chapter 39
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 39
+title: Jeremiah, Chapter 39
+url: https://bible.usccb.org/bible/jeremiah/39
 aliases:
   - jeremiah-39
   - Jeremiah, Chapter 39
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/39
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 39
 ---
 
 # Jeremiah, Chapter 39
 
-### Chapter 39
+## Chapter 39
 
 **The Capture of Jerusalem.**When Jerusalem was taken,
 
@@ -51,13 +50,13 @@ url: https://bible.usccb.org/bible/jeremiah/39
 
 **A Word of Comfort for Ebed-melech.**
 
-15 While Jeremiah was still imprisoned in the court of the guard, the word of the L ORD came to him: ^jeremiah-39-15
+15 While Jeremiah was still imprisoned in the court of the guard, the word of the LORD came to him: ^jeremiah-39-15
 
-16 Go, tell this to Ebed-melech the Ethiopian: Thus says the L ORD of hosts, the God of Israel: See, I am now carrying out my words against this city, for evil and not for good; this will happen in your presence on that day. ^jeremiah-39-16
+16 Go, tell this to Ebed-melech the Ethiopian: Thus says the LORD of hosts, the God of Israel: See, I am now carrying out my words against this city, for evil and not for good; this will happen in your presence on that day. ^jeremiah-39-16
 
-17 But on that day I will deliver you—oracle of the L ORD; you shall not be handed over to the men you dread. ^jeremiah-39-17
+17 But on that day I will deliver you—oracle of the LORD; you shall not be handed over to the men you dread. ^jeremiah-39-17
 
-18 I will make certain that you escape and do not fall by the sword. Your life will be your spoils of war because you trusted in me—oracle of the L ORD. ^jeremiah-39-18
+18 I will make certain that you escape and do not fall by the sword. Your life will be your spoils of war because you trusted in me—oracle of the LORD. ^jeremiah-39-18
 
 \* (39:1) In the ninth year…in the tenth month: the month Tebet (mid-December to mid-January) of the year 589/588 B.C., according to the Babylonian calendar, whose New Year began in March/April.
 

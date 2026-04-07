@@ -1,25 +1,25 @@
 ---
-title: Song of Songs, The Song of Songs
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: song of songs-the song of songs
+title: Song of Songs, The Song of Songs
+url: https://bible.usccb.org/bible/songofsongs/0
 aliases:
   - Song of Songs, the Song of Songs
   - Song of Songs, The Song of Songs
   - song-of-songs-00
 tags:
+  - bible/book
+  - bible/old-testament
   - bible/song-of-songs
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/0
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: song of songs-the song of songs
 ---
 
 # Song of Songs, the Song of Songs
 
-        
+[Introduction](song-of-songs-00.md) [1](song-of-songs-01.md) [2](song-of-songs-02.md) [3](song-of-songs-03.md) [4](song-of-songs-04.md) [5](song-of-songs-05.md) [6](song-of-songs-06.md) [7](song-of-songs-07.md) [8](song-of-songs-08.md)
 
 ## The Song of Songs
 

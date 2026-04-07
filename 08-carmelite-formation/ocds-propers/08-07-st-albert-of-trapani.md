@@ -1,9 +1,7 @@
 ---
-title: August 7, Saint Albert of Trápani
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: August 7, Saint Albert of Trápani
+author: OCD General Curia
 aliases:
   - 08-07-st-albert-of-trapani
   - 20250807-000001
@@ -11,9 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 08-07
 celebration_rank: memorial
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
 ---
 
 # August 7, Saint Albert of Trápani

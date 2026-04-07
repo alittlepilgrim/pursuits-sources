@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 1
+title: Nehemiah, Chapter 1
+url: https://bible.usccb.org/bible/nehemiah/1
 aliases:
   - nehemiah-01
   - Nehemiah, Chapter 1
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 1
 ---
 
 # Nehemiah, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Nehemiah Hears Bad News.**
 
@@ -33,7 +32,7 @@ In the month Kislev of the twentieth year, I was in the citadel of Susa
 
 4 When I heard this report, I began to weep and continued mourning for several days, fasting and praying before the God of heaven. ^nehemiah-01-4
 
-5 I prayed: “L ORD, God of heaven, great and awesome God, you preserve your covenant of mercy with those who love you and keep your commandments. ^nehemiah-01-5
+5 I prayed: “LORD, God of heaven, great and awesome God, you preserve your covenant of mercy with those who love you and keep your commandments. ^nehemiah-01-5
 
 6 May your ears be attentive, and your eyes open, to hear the prayer that I, your servant, now offer in your presence day and night for your servants the Israelites, confessing the sins we have committed against you, I and my ancestral house included. ^nehemiah-01-6
 
@@ -45,7 +44,7 @@ In the month Kislev of the twentieth year, I was in the citadel of Susa
 
 10 They are your servants, your people, whom you freed by your great might and strong hand. ^nehemiah-01-10
 
-11 L ORD, may your ears be attentive to the prayer of your servant and that of all your servants who willingly revere your name. Grant success to your servant this day, and let him find favor with this man”—for I was cupbearer to the king. ^nehemiah-01-11
+11 LORD, may your ears be attentive to the prayer of your servant and that of all your servants who willingly revere your name. Grant success to your servant this day, and let him find favor with this man”—for I was cupbearer to the king. ^nehemiah-01-11
 
 \* (1:1) The first mission of Nehemiah, from the twentieth year of Artaxerxes I, lasted from the spring ([2:1]) of 445 B.C. until 433 B.C. ([5:14]). It is recounted in [1:1] – [6:15]; [12:27] – [43]; [6:16] – [7:5]; [11:1] – [21]; in terms of chronology, these texts may usefully be read in that order. Kislev: the ninth month (November–December). Susa: the winter residence of the Persian kings, in southwest Iran.
 

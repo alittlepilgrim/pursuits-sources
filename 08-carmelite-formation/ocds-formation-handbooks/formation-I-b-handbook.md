@@ -1,16 +1,16 @@
 ---
-title: Formation I Year B Carmelite History and Statues
-created: 2025-08-28
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Formation I Year B Carmelite History and Statues
+author: Secular Order of Discalced Carmelites
 aliases:
   - Carmelite History and Statues - Formation I Year B
   - Formation I Year B Carmelite History and Statues
 tags:
   - carmel/formation
-author: Secular Order of Discalced Carmelites
-status: draft
+  - type/study-guide
+created: 2025-08-28
+modified: 2026-04-06
+publish: false
 ---
 
 # Formation I Year B Carmelite History and Statues
@@ -375,7 +375,7 @@ Meditate on one or more of the Beatitudes, which are a pattern of life for all t
 
 15
 
-# Part II OCDS Constitutions and Statutes:
+# Part II OCDS Constitutions and Statutes
 
 A Deeper Understanding of Our Formation, Community, and the Promise Note to the formator: Cross reference the corresponding sections of the local Provincial Statutes when discussing related topics in the OCDS Constitutions, and vice versa. For example, when discussing what the Constitutions say about the local Council, also direct the candidates’
 

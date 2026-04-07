@@ -1,29 +1,28 @@
 ---
-title: Lamentations, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Lamentations, Chapter 5
+title: Lamentations, Chapter 5
+url: https://bible.usccb.org/bible/lamentations/5
 aliases:
   - lamentations-05
   - Lamentations, Chapter 5
 tags:
+  - bible/chapter
   - bible/lamentations
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/lamentations/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Lamentations, Chapter 5
 ---
 
 # Lamentations, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
-#### The Community’s Lament to the Lord
+### The Community’s Lament to the Lord
 
-1 Remember, L ORD, what has happened to us, ^lamentations-05-1
+1 Remember, LORD, what has happened to us, ^lamentations-05-1
 
 pay attention, and see our disgrace:
 
@@ -95,7 +94,7 @@ at this our eyes grow dim:
 
 and the jackals roaming there!
 
-19 But you, L ORD, are enthroned forever; ^lamentations-05-19
+19 But you, LORD, are enthroned forever; ^lamentations-05-19
 
 your throne stands from age to age.
 
@@ -103,7 +102,7 @@ your throne stands from age to age.
 
 forsaken us for so long?
 
-21 Bring us back to you, L ORD, that we may return: ^lamentations-05-21
+21 Bring us back to you, LORD, that we may return: ^lamentations-05-21
 
 renew our days as of old.
 

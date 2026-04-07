@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 26
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 26
+title: Proverbs, Chapter 26
+url: https://bible.usccb.org/bible/proverbs/26
 aliases:
   - proverbs-26
   - Proverbs, Chapter 26
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/26
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 26
 ---
 
 # Proverbs, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 1 Like snow in summer, like rain in harvest, ^proverbs-26-1
 

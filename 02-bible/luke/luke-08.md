@@ -1,25 +1,24 @@
 ---
-title: Luke, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Luke, Chapter 8
+title: Luke, Chapter 8
+url: https://bible.usccb.org/bible/luke/8
 aliases:
   - luke-08
   - Luke, Chapter 8
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/8
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 8
 ---
 
 # Luke, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Galilean Women Follow Jesus.**
 

@@ -1,25 +1,24 @@
 ---
-title: 1 Maccabees, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, Chapter 15
+title: 1 Maccabees, Chapter 15
+url: https://bible.usccb.org/bible/1maccabees/15
 aliases:
   - 1 Maccabees, Chapter 15
   - 1-maccabees-15
 tags:
   - bible/1-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/15
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, Chapter 15
 ---
 
 # 1 Maccabees, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Letter of Antiochus VII.**
 

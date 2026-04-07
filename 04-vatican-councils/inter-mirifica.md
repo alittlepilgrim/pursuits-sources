@@ -1,19 +1,19 @@
 ---
-title: Inter Mirifica
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree Inter mirifica on the media of social communications
+title: Inter Mirifica
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_en.html
 aliases:
   - inter-mirifica
 tags:
+  - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-11-14
+modified: 2026-04-04
+publish: true
+description: Decree Inter mirifica on the media of social communications
 abbreviation: im
-author: Catholic Church
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_en.html
 ---
 
 DECREE ON THE MEDIA OF SOCIAL COMMUNICATIONS

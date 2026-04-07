@@ -1,27 +1,26 @@
 ---
-title: Zephaniah, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zephaniah, Chapter 3
+title: Zephaniah, Chapter 3
+url: https://bible.usccb.org/bible/zephaniah/3
 aliases:
   - zephaniah-03
   - Zephaniah, Chapter 3
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zephaniah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zephaniah/3
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zephaniah, Chapter 3
 ---
 
 # Zephaniah, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### Iii. Jerusalem Reproached
+### Iii. Jerusalem Reproached
 
 1 Ah! Rebellious and polluted, ^zephaniah-03-1
 
@@ -31,7 +30,7 @@ the tyrannical city!
 
 accepts no correction;
 
-In the L ORD it has not trusted,
+In the LORD it has not trusted,
 
 nor drawn near to its God.
 
@@ -51,7 +50,7 @@ Its priests profane what is holy,
 
 and do violence to the law.
 
-5 But the L ORD in its midst is just, ^zephaniah-03-5
+5 But the LORD in its midst is just, ^zephaniah-03-5
 
 doing no wrong;
 
@@ -85,9 +84,9 @@ Yet the more eagerly they have done
 
 all their corrupt deeds.
 
-#### Iv. the Nations Punished and Jerusalem Restored
+### Iv. the Nations Punished and Jerusalem Restored
 
-8 Therefore, wait for me—oracle of the L ORD — ^zephaniah-03-8
+8 Therefore, wait for me—oracle of the LORD — ^zephaniah-03-8
 
 until the day when I arise as accuser;
 
@@ -107,7 +106,7 @@ all the earth will be consumed.
 
 the speech of the peoples,
 
-That they all may call upon the name of the L ORD,
+That they all may call upon the name of the LORD,
 
 to serve him with one accord;
 
@@ -137,7 +136,7 @@ on my holy mountain.
 
 a people humble and lowly,
 
-Who shall take refuge in the name of the L ORD —
+Who shall take refuge in the name of the LORD —
 
 13 the remnant of Israel. ^zephaniah-03-13
 
@@ -161,11 +160,11 @@ Be glad and exult with all your heart,
 
 daughter Jerusalem!
 
-15 The L ORD has removed the judgment against you, ^zephaniah-03-15
+15 The LORD has removed the judgment against you, ^zephaniah-03-15
 
 he has turned away your enemies;
 
-The King of Israel, the L ORD, is in your midst,
+The King of Israel, the LORD, is in your midst,
 
 you have no further misfortune to fear.
 
@@ -175,7 +174,7 @@ Do not fear, Zion,
 
 do not be discouraged!
 
-17 The L ORD, your God, is in your midst, ^zephaniah-03-17
+17 The LORD, your God, is in your midst, ^zephaniah-03-17
 
 a mighty savior,
 
@@ -213,7 +212,7 @@ among all the peoples of the earth,
 
 When I bring about your restoration
 
-before your very eyes, says the L ORD.
+before your very eyes, says the LORD.
 
 \*(3:1) The tyrannical city: Jerusalem.
 

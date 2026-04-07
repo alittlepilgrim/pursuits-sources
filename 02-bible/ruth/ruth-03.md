@@ -1,25 +1,24 @@
 ---
-title: Ruth, Chapter 3
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ruth, Chapter 3
+title: Ruth, Chapter 3
+url: https://bible.usccb.org/bible/ruth/3
 aliases:
   - ruth-03
   - Ruth, Chapter 3
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/ruth
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ruth/3
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Ruth, Chapter 3
 ---
 
 # Ruth, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Ruth Again Presents Herself.**When Ruth was back with her mother-in-law,
 
@@ -41,13 +40,13 @@ url: https://bible.usccb.org/bible/ruth/3
 
 9 “Who are you?” he asked. She replied, “I am your servant Ruth. Spread the wing of your cloak over your servant, for you are a redeemer.” ^ruth-03-9
 
-10 He said, “May the L ORD bless you, my daughter! You have been even more loyal now than before in not going after the young men, whether poor or rich. ^ruth-03-10
+10 He said, “May the LORD bless you, my daughter! You have been even more loyal now than before in not going after the young men, whether poor or rich. ^ruth-03-10
 
 11 Now rest assured, my daughter, I will do for you whatever you say; all my townspeople know you to be a worthy woman. ^ruth-03-11
 
 12 Now, I am in fact a redeemer, but there is another redeemer closer than I. ^ruth-03-12
 
-13 Stay where you are for tonight, and tomorrow, if he will act as redeemer for you, good. But if he will not, as the L ORD lives, I will do it myself. Lie there until morning.” ^ruth-03-13
+13 Stay where you are for tonight, and tomorrow, if he will act as redeemer for you, good. But if he will not, as the LORD lives, I will do it myself. Lie there until morning.” ^ruth-03-13
 
 14 So she lay at his feet until morning, but rose before anyone could recognize another, for Boaz had said, “Let it not be known that this woman came to the threshing floor.” ^ruth-03-14
 

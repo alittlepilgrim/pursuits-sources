@@ -1,9 +1,7 @@
 ---
-title: September 1, St. Teresa Margaret of the Sacred Heart of Jesus Redi
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: September 1, St. Teresa Margaret of the Sacred Heart of Jesus Redi
+author: OCD General Curia
 aliases:
   - 09-01-st-teresa-margaret-of-the-sacred-heart-of-jesus-redi
   - 20240901-000001
@@ -11,8 +9,11 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 09-01
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
 ---
 
 # September 1, St. Teresa Margaret of the Sacred Heart of Jesus Redi

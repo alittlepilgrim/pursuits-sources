@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 36
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 36
+title: Ezekiel, Chapter 36
+url: https://bible.usccb.org/bible/ezekiel/36
 aliases:
   - ezekiel-36
   - Ezekiel, Chapter 36
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/36
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 36
 ---
 
 # Ezekiel, Chapter 36
 
-### Chapter 36
+## Chapter 36
 
 **Regeneration of the Land.**
 
-1 As for you, son of man, prophesy to the mountains of Israel and say: Mountains of Israel, hear the word of the L ORD! ^ezekiel-36-1
+1 As for you, son of man, prophesy to the mountains of Israel and say: Mountains of Israel, hear the word of the LORD! ^ezekiel-36-1
 
 2 Thus says the Lord G OD: Because the enemy said about you, “Ha! the ancient heights have become our possession,” ^ezekiel-36-2
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/ezekiel/36
 
 10 Upon you I will multiply the whole house of Israel; cities shall be resettled and ruins rebuilt. ^ezekiel-36-10
 
-11 Upon you I will multiply people and animals so they can multiply and be fruitful. I will resettle you as in the past, and make you more prosperous than at your beginning; then you shall know that I am the L ORD. ^ezekiel-36-11
+11 Upon you I will multiply people and animals so they can multiply and be fruitful. I will resettle you as in the past, and make you more prosperous than at your beginning; then you shall know that I am the LORD. ^ezekiel-36-11
 
 12 Upon you I will have them walk, my people Israel. They shall possess you, and you shall be their heritage. Never again shall you rob them of their children. ^ezekiel-36-12
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/ezekiel/36
 
 **Regeneration of the People.**
 
-16 The word of the L ORD came to me: ^ezekiel-36-16
+16 The word of the LORD came to me: ^ezekiel-36-16
 
 17 Son of man, when the house of Israel lived in its land, they defiled it with their behavior and their deeds. In my sight their behavior was like the impurity of a woman in menstruation. ^ezekiel-36-17
 
@@ -61,13 +60,13 @@ url: https://bible.usccb.org/bible/ezekiel/36
 
 19 I scattered them among the nations, and they were dispersed through other lands; according to their behavior and their deeds I carried out judgment against them. ^ezekiel-36-19
 
-20 But when they came to the nations, where they went, they desecrated my holy name, for people said of them: “These are the people of the L ORD, yet they had to leave their land.” ^ezekiel-36-20
+20 But when they came to the nations, where they went, they desecrated my holy name, for people said of them: “These are the people of the LORD, yet they had to leave their land.” ^ezekiel-36-20
 
 21 So I relented because of my holy name which the house of Israel desecrated among the nations to which they came. ^ezekiel-36-21
 
 22 Therefore say to the house of Israel: Thus says the Lord G OD: Not for your sake do I act, house of Israel, but for the sake of my holy name, which you desecrated among the nations to which you came. ^ezekiel-36-22
 
-23 But I will show the holiness of my great name, desecrated among the nations, in whose midst you desecrated it. Then the nations shall know that I am the L ORD —oracle of the Lord G OD —when through you I show my holiness before their very eyes. ^ezekiel-36-23
+23 But I will show the holiness of my great name, desecrated among the nations, in whose midst you desecrated it. Then the nations shall know that I am the LORD —oracle of the Lord G OD —when through you I show my holiness before their very eyes. ^ezekiel-36-23
 
 24 I will take you away from among the nations, gather you from all the lands, and bring you back to your own soil. ^ezekiel-36-24
 
@@ -93,11 +92,11 @@ url: https://bible.usccb.org/bible/ezekiel/36
 
 35 They will say, “This once-desolate land has become like the garden of Eden. The cities once ruined, laid waste and destroyed, are now resettled and fortified.” ^ezekiel-36-35
 
-36 Then the surrounding nations that remain shall know that I, the L ORD, have rebuilt what was destroyed and replanted what was desolate. I, the L ORD, have spoken: I will do it. ^ezekiel-36-36
+36 Then the surrounding nations that remain shall know that I, the LORD, have rebuilt what was destroyed and replanted what was desolate. I, the LORD, have spoken: I will do it. ^ezekiel-36-36
 
 37 Thus says the Lord G OD: This also I will be persuaded to do for the house of Israel: to multiply them like sheep. ^ezekiel-36-37
 
-38 Like sheep for sacrifice, like the sheep of Jerusalem on its feast days, the ruined cities shall be filled with flocks of people; then they shall know that I am the L ORD. ^ezekiel-36-38
+38 Like sheep for sacrifice, like the sheep of Jerusalem on its feast days, the ruined cities shall be filled with flocks of people; then they shall know that I am the LORD. ^ezekiel-36-38
 
 \* (36:13) You devour your own people: i.e., the land destroys its own population; this phrase also occurs in [Nm 13:32], where Israelite spies describe Canaan as “a land that devours its inhabitants.”
 

@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Teresa Mary of the Cross
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Blessed Teresa Mary of the Cross
@@ -11,8 +8,11 @@ aliases:
 tags:
   - role/blessed
   - term/virgin
-celebration: "04-23"
-full_name: "Blessed Teresa Mary of the Cross"
+  - type/figure
+celebration: 04-23
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Teresa Mary of the Cross

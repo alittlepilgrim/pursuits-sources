@@ -1,27 +1,26 @@
 ---
-title: Daniel, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Daniel, Chapter 12
+title: Daniel, Chapter 12
+url: https://bible.usccb.org/bible/daniel/12
 aliases:
   - daniel-12
   - Daniel, Chapter 12
 tags:
+  - bible/chapter
   - bible/daniel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/daniel/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Daniel, Chapter 12
 ---
 
 # Daniel, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
-#### The Resurrection
+### The Resurrection
 
 1 “At that time there shall arise Michael, ^daniel-12-1
 

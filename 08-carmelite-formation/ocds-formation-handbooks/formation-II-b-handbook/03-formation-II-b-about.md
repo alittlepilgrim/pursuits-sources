@@ -1,15 +1,16 @@
 ---
-title: About The Syllabus
-created: 2025-10-26
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: About The Syllabus
+author: Secular Order of Discalced Carmelites
 aliases:
   - About the Syllabus
   - About The Syllabus
 tags:
   - carmel/formation
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-10-26
+modified: 2026-04-06
+publish: false
 ---
 
 # About the Syllabus

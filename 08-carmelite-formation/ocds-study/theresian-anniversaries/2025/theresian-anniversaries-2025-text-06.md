@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2025 - Text 6 to Father Roulland, 9th May 1897 (Letter 226)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2025 - Text 6 to Father Roulland, 9th May 1897 (Letter 226)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2025 - Text 6 to Father Roulland, 9th May 1897 (Letter 226)
   - theresian-anniversaries-2025-text-06
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2025 - Text 6 to Father Roulland, 9th May 1897 (Letter 226)
@@ -26,7 +26,7 @@ Suggestion for the community meeting:
 
 It would be helpful to have made individual readings and reflections on Therese’s text before the community meeting.
 
-### To Father Roulland, 9th May 1897 (Letter 226)
+## To Father Roulland, 9th May 1897 (Letter 226)
 
 To Father Roulland, 9th May 1897 (Letter 226)
 
@@ -66,7 +66,7 @@ So I beg you, my brother, to kindly send your blessing to the little zero that t
 
 Sr Therese of the Child Jesus of the Holy Face rel.carm.ind.
 
-### Introduction to the Text
+## Introduction to the Text
 
 Father Adolphe Roulland of the Paris Foreign Missions So-ciety (MEP) was Therese’s second spiritual brother, following Fr.
 
@@ -84,7 +84,7 @@ The relics that Therese refers to at the start of the letter are locks of Father
 
 This letter is a veritable course of theology on the right un-derstanding of what is the justice of God.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text.
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -94,7 +94,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. This essential letter of Therese brings together the evocation of numerous dimensions of her spirituality, at the moment of only a few months before her entry into Life. Based on this letter, we could share with each other on these realities that were essential for Therese:
 

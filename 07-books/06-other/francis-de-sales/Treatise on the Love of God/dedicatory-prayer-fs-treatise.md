@@ -1,15 +1,17 @@
 ---
-title: Dedicatory Prayer  - Treatise on the Love of God by St. Francis de Sales
-slug: dedicatory-prayer
-created: 2026-04-02
-modified: 2026-04-02
 type: book
-publish: false
-description: Dedicatory Prayer  - Treatise on the Love of God by St. Francis de Sales
+title: Dedicatory Prayer  - Treatise on the Love of God by St. Francis de Sales
+author: Saint Francis de Sales
 aliases:
   - Dedicatory Prayer  - Treatise on the Love of God by St. Francis de Sales
+tags:
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-02
+modified: 2026-04-06
+publish: false
+description: Dedicatory Prayer  - Treatise on the Love of God by St. Francis de Sales
 attachment: false
-author: Saint Francis de Sales
 ---
 
 # Dedicatory Prayer - Treatise on the Love of God by St. Francis de Sales

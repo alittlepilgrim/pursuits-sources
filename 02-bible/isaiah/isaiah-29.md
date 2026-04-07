@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 29
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 29
+title: Isaiah, Chapter 29
+url: https://bible.usccb.org/bible/isaiah/29
 aliases:
   - isaiah-29
   - Isaiah, Chapter 29
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/29
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 29
 ---
 
 # Isaiah, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
-#### Judgment and Deliverance of Jerusalem
+### Judgment and Deliverance of Jerusalem
 
 1 Ah! Ariel, Ariel, ^isaiah-29-1
 
@@ -57,7 +56,7 @@ a horde of tyrants like flying chaff.
 
 Then suddenly, in an instant,
 
-6 you shall be visited by the L ORD of hosts, ^isaiah-29-6
+6 you shall be visited by the LORD of hosts, ^isaiah-29-6
 
 With thunder, earthquake, and great noise,
 
@@ -87,7 +86,7 @@ So shall the horde of all the nations be,
 
 who make war against Mount Zion.
 
-#### Blindness and Perversity
+### Blindness and Perversity
 
 9 Stupefy yourselves and stay stupid; ^isaiah-29-9
 
@@ -97,7 +96,7 @@ You who are drunk, but not from wine,
 
 who stagger, but not from strong drink!
 
-10 For the L ORD has poured out on you ^isaiah-29-10
+10 For the LORD has poured out on you ^isaiah-29-10
 
 a spirit of deep sleep.
 
@@ -131,7 +130,7 @@ the prudence of the prudent shall vanish.
 
 15 Ah! You who would hide a plan ^isaiah-29-15
 
-too deep for the L ORD!
+too deep for the LORD!
 
 Who work in the dark, saying,
 
@@ -149,7 +148,7 @@ Or the vessel should say of the potter,
 
 “He does not understand.”
 
-#### Redemption
+### Redemption
 
 17 Surely, in a very little while, ^isaiah-29-17
 
@@ -165,7 +164,7 @@ And out of gloom and darkness,
 
 the eyes of the blind shall see.
 
-19 The lowly shall again find joy in the L ORD, ^isaiah-29-19
+19 The lowly shall again find joy in the LORD, ^isaiah-29-19
 
 the poorest rejoice in the Holy One of Israel.
 
@@ -181,7 +180,7 @@ Who ensnare the defender at the gate,
 
 and leave the just with an empty claim.
 
-22 Therefore thus says the L ORD, ^isaiah-29-22
+22 Therefore thus says the LORD, ^isaiah-29-22
 
 the God of the house of Jacob,
 

@@ -1,25 +1,24 @@
 ---
-title: Ecclesiastes, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ecclesiastes, Chapter 9
+title: Ecclesiastes, Chapter 9
+url: https://bible.usccb.org/bible/ecclesiastes/9
 aliases:
   - ecclesiastes-09
   - Ecclesiastes, Chapter 9
 tags:
+  - bible/chapter
   - bible/ecclesiastes
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ecclesiastes/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ecclesiastes, Chapter 9
 ---
 
 # Ecclesiastes, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 1 All this I have kept in my heart and all this I examined: The just, the wise, and their deeds are in the hand of God. Love from hatred mortals cannot tell; both are before them. ^ecclesiastes-09-1
 

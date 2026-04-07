@@ -1,9 +1,7 @@
 ---
-title: July 16, Blessed Virgin Mary of Mount Carmel
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: July 16, Blessed Virgin Mary of Mount Carmel
+author: OCD General Curia
 aliases:
   - 07-16-blessed-virgin-mary-of-mount-carmel
   - 20240722-150834
@@ -11,8 +9,11 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-16
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
 ---
 
 # July 16, Blessed Virgin Mary of Mount Carmel

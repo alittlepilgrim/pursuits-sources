@@ -1,18 +1,20 @@
 ---
-title: Rerum Novarum (may 15, 1891)
-created: 2025-08-22
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Encyclical Rerum Novarum of Leo XIII, 15 May 1891
+title: Rerum Novarum
+author: Pope Leo XIII
+url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
 aliases:
   - Rerum Novarum (may 15, 1891)
   - rerum-novarum
 tags:
-  - vault-admin/clippings
+  - author/pope-leo-XIII
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-08-22
+modified: 2026-04-06
+publish: true
+description: Encyclical Rerum Novarum of Leo XIII, 15 May 1891
 abbreviation: leoxiii-rn
-author: Pope Leo XIII
-url: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
 ---
 
 [[Encyclicals and Major Documents|📜 Encyclicals & Major Documents — Map of Content]]

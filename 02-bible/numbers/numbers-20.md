@@ -1,25 +1,24 @@
 ---
-title: Numbers, Chapter 20
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 20
+title: Numbers, Chapter 20
+url: https://bible.usccb.org/bible/numbers/20
 aliases:
   - numbers-20
   - Numbers, Chapter 20
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 20
 ---
 
 # Numbers, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Death of Miriam.**
 
@@ -29,29 +28,29 @@ url: https://bible.usccb.org/bible/numbers/20
 
 2 Since the community had no water, they held an assembly against Moses and Aaron. ^numbers-20-2
 
-3 The people quarreled with Moses, exclaiming, “Would that we had perished when our kindred perished before the L ORD! ^numbers-20-3
+3 The people quarreled with Moses, exclaiming, “Would that we had perished when our kindred perished before the LORD! ^numbers-20-3
 
-4 Why have you brought the L ORD’s assembly into this wilderness for us and our livestock to die here? ^numbers-20-4
+4 Why have you brought the LORD’s assembly into this wilderness for us and our livestock to die here? ^numbers-20-4
 
 5 Why have you brought us up out of Egypt, only to bring us to this wretched place? It is not a place for grain nor figs nor vines nor pomegranates! And there is no water to drink!” ^numbers-20-5
 
 6 But Moses and Aaron went away from the assembly to the entrance of the tent of meeting, where they fell prostrate. ^numbers-20-6
 
-**Sin of Moses and Aaron.**Then the glory of the L ORD appeared to them,
+**Sin of Moses and Aaron.**Then the glory of the LORD appeared to them,
 
-7 and the L ORD said to Moses: ^numbers-20-7
+7 and the LORD said to Moses: ^numbers-20-7
 
 8 Take the staff and assemble the community, you and Aaron your brother, and in their presence command the rock to yield its waters. Thereby you will bring forth water from the rock for them, and supply the community and their livestock with water. ^numbers-20-8
 
-9 So Moses took the staff from its place before the L ORD, as he was ordered. ^numbers-20-9
+9 So Moses took the staff from its place before the LORD, as he was ordered. ^numbers-20-9
 
 10 Then Moses and Aaron gathered the assembly in front of the rock, where he said to them, “Just listen, you rebels! Are we to produce water for you out of this rock?” ^numbers-20-10
 
 11 Then, raising his hand, Moses struck the rock twice with his staff, and water came out in abundance, and the community and their livestock drank. ^numbers-20-11
 
-12 But the L ORD said to Moses and Aaron: Because you did not have confidence in me, to acknowledge my holiness before the Israelites, therefore you shall not lead this assembly into the land I have given them. ^numbers-20-12
+12 But the LORD said to Moses and Aaron: Because you did not have confidence in me, to acknowledge my holiness before the Israelites, therefore you shall not lead this assembly into the land I have given them. ^numbers-20-12
 
-13 These are the waters of Meribah, where the Israelites quarreled with the L ORD, and through which he displayed his holiness. ^numbers-20-13
+13 These are the waters of Meribah, where the Israelites quarreled with the LORD, and through which he displayed his holiness. ^numbers-20-13
 
 **Edom’s Refusal.**
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/numbers/20
 
 15 how our ancestors went down to Egypt, and we stayed in Egypt a long time, and the Egyptians treated us and our ancestors harshly. ^numbers-20-15
 
-16 When we cried to the L ORD, he heard our cry and sent an angel who led us out of Egypt. Now here we are at Kadesh, a town at the edge of your territory. ^numbers-20-16
+16 When we cried to the LORD, he heard our cry and sent an angel who led us out of Egypt. Now here we are at Kadesh, a town at the edge of your territory. ^numbers-20-16
 
 17 Please let us pass through your land. We will not cross any fields or vineyards, nor drink any well water, but we will go straight along the King’s Highway without turning to the right or to the left, until we have passed through your territory.” ^numbers-20-17
 
@@ -75,7 +74,7 @@ url: https://bible.usccb.org/bible/numbers/20
 
 22 Setting out from Kadesh, the Israelites, the whole community, came to Mount Hor. ^numbers-20-22
 
-23 There at Mount Hor, on the border of the land of Edom, the L ORD said to Moses and Aaron: ^numbers-20-23
+23 There at Mount Hor, on the border of the land of Edom, the LORD said to Moses and Aaron: ^numbers-20-23
 
 24 Let Aaron be gathered to his people, for he shall not enter the land I have given to the Israelites, because you both rebelled against my directions at the waters of Meribah. ^numbers-20-24
 
@@ -83,7 +82,7 @@ url: https://bible.usccb.org/bible/numbers/20
 
 26 Then strip Aaron of his garments and put them on Eleazar, his son; but there Aaron shall be gathered up in death. ^numbers-20-26
 
-27 Moses did as the L ORD commanded. When they had climbed Mount Hor in view of the whole community, ^numbers-20-27
+27 Moses did as the LORD commanded. When they had climbed Mount Hor in view of the whole community, ^numbers-20-27
 
 28 Moses stripped Aaron of his garments and put them on Eleazar his son. Then Aaron died there on top of the mountain. When Moses and Eleazar came down from the mountain, ^numbers-20-28
 

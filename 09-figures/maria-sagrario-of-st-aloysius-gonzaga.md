@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Maria Sagrario of St. Aloysius Gonzaga
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Blessed Maria Sagrario of St. Aloysius Gonzaga
@@ -12,8 +9,11 @@ tags:
   - role/blessed
   - term/martyr
   - term/virgin
-celebration: "08-16"
-full_name: "Blessed Maria Sagrario of St. Aloysius Gonzaga"
+  - type/figure
+celebration: 08-16
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Maria Sagrario of St. Aloysius Gonzaga

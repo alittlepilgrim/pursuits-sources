@@ -1,35 +1,34 @@
 ---
-title: Jeremiah, Chapter 31
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 31
+title: Jeremiah, Chapter 31
+url: https://bible.usccb.org/bible/jeremiah/31
 aliases:
   - jeremiah-31
   - Jeremiah, Chapter 31
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/31
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 31
 ---
 
 # Jeremiah, Chapter 31
 
-### Chapter 31
+## Chapter 31
 
-#### Good News of the Return
+### Good News of the Return
 
-1 At that time—oracle of the L ORD — ^jeremiah-31-1
+1 At that time—oracle of the LORD — ^jeremiah-31-1
 
 I will be the God of all the families of Israel,
 
 and they shall be my people.
 
-2 Thus says the L ORD: ^jeremiah-31-2
+2 Thus says the LORD: ^jeremiah-31-2
 
 The people who escaped the sword
 
@@ -37,7 +36,7 @@ find favor in the wilderness.
 
 As Israel comes forward to receive rest,
 
-3 from afar the L ORD appears: ^jeremiah-31-3
+3 from afar the LORD appears: ^jeremiah-31-3
 
 With age-old love I have loved you;
 
@@ -63,11 +62,11 @@ call out on Mount Ephraim:
 
 “Come, let us go up to Zion,
 
-to the L ORD, our God.”
+to the LORD, our God.”
 
-#### The Road of Return
+### The Road of Return
 
-7 For thus says the L ORD: ^jeremiah-31-7
+7 For thus says the LORD: ^jeremiah-31-7
 
 Shout with joy for Jacob,
 
@@ -75,7 +74,7 @@ exult at the head of the nations;
 
 proclaim your praise and say:
 
-The L ORD has saved his people,
+The LORD has saved his people,
 
 the remnant of Israel.
 
@@ -103,7 +102,7 @@ For I am a father to Israel,
 
 Ephraim is my firstborn.
 
-10 Hear the word of the L ORD, you nations, ^jeremiah-31-10
+10 Hear the word of the LORD, you nations, ^jeremiah-31-10
 
 proclaim it on distant coasts, and say:
 
@@ -111,13 +110,13 @@ The One who scattered Israel, now gathers them;
 
 he guards them as a shepherd his flock.
 
-11 The L ORD shall ransom Jacob, ^jeremiah-31-11
+11 The LORD shall ransom Jacob, ^jeremiah-31-11
 
 he shall redeem him from a hand too strong for him.
 
 12 Shouting, they shall mount the heights of Zion, ^jeremiah-31-12
 
-they shall come streaming to the L ORD’s blessings:
+they shall come streaming to the LORD’s blessings:
 
 The grain, the wine, and the oil,
 
@@ -139,11 +138,11 @@ I will show them compassion and have them rejoice after their sorrows.
 
 and my people shall be filled with my blessings—
 
-oracle of the L ORD.
+oracle of the LORD.
 
-#### End of Rachel’s Mourning
+### End of Rachel’s Mourning
 
-15 Thus says the L ORD: ^jeremiah-31-15
+15 Thus says the LORD: ^jeremiah-31-15
 
 In Ramah is heard the sound of sobbing,
 
@@ -155,7 +154,7 @@ she refuses to be consoled
 
 for her children—they are no more!
 
-16 Thus says the L ORD: ^jeremiah-31-16
+16 Thus says the LORD: ^jeremiah-31-16
 
 Cease your cries of weeping,
 
@@ -163,11 +162,11 @@ hold back your tears!
 
 There is compensation for your labor—
 
-oracle of the L ORD —
+oracle of the LORD —
 
 they shall return from the enemy’s land.
 
-17 There is hope for your future—oracle of the L ORD — ^jeremiah-31-17
+17 There is hope for your future—oracle of the LORD — ^jeremiah-31-17
 
 your children shall return to their own territory.
 
@@ -179,7 +178,7 @@ I was like an untamed calf.
 
 Bring me back, let me come back,
 
-for you are the L ORD, my God.
+for you are the LORD, my God.
 
 19 For after I turned away, I repented; ^jeremiah-31-19
 
@@ -199,9 +198,9 @@ I must still remember him!
 
 My heart stirs for him,
 
-I must show him compassion!—oracle of the L ORD.
+I must show him compassion!—oracle of the LORD.
 
-#### Summons to Return Home
+### Summons to Return Home
 
 21 Set up road markers, ^jeremiah-31-21
 
@@ -219,11 +218,11 @@ turn back to these your cities.
 
 rebellious daughter?
 
-The L ORD has created a new thing upon the earth:
+The LORD has created a new thing upon the earth:
 
 woman encompasses man.
 
-23 Thus says the L ORD of hosts, the God of Israel: When I restore their fortunes in the land of Judah and in its cities, they shall again use this greeting: “May the L ORD bless you, Tent of Justice, Holy Mountain!” ^jeremiah-31-23
+23 Thus says the LORD of hosts, the God of Israel: When I restore their fortunes in the land of Judah and in its cities, they shall again use this greeting: “May the LORD bless you, Tent of Justice, Holy Mountain!” ^jeremiah-31-23
 
 24 Judah and all its cities, the farmers and those who lead the flock shall dwell there together. ^jeremiah-31-24
 
@@ -231,9 +230,9 @@ woman encompasses man.
 
 26 At this I awoke and opened my eyes; my sleep was satisfying. ^jeremiah-31-26
 
-27 See, days are coming—oracle of the L ORD —when I will sow the house of Israel and the house of Judah with the seed of human beings and the seed of animals. ^jeremiah-31-27
+27 See, days are coming—oracle of the LORD —when I will sow the house of Israel and the house of Judah with the seed of human beings and the seed of animals. ^jeremiah-31-27
 
-28 As I once watched over them to uproot and tear down, to demolish, to destroy, and to harm, so I will watch over them to build and to plant—oracle of the L ORD. ^jeremiah-31-28
+28 As I once watched over them to uproot and tear down, to demolish, to destroy, and to harm, so I will watch over them to build and to plant—oracle of the LORD. ^jeremiah-31-28
 
 29 In those days they shall no longer say, ^jeremiah-31-29
 
@@ -245,17 +244,17 @@ and the children’s teeth are set on edge,”
 
 **The New Covenant.**
 
-31 See, days are coming—oracle of the L ORD —when I will make a new covenant with the house of Israel and the house of Judah. ^jeremiah-31-31
+31 See, days are coming—oracle of the LORD —when I will make a new covenant with the house of Israel and the house of Judah. ^jeremiah-31-31
 
-32 It will not be like the covenant I made with their ancestors the day I took them by the hand to lead them out of the land of Egypt. They broke my covenant, though I was their master—oracle of the L ORD. ^jeremiah-31-32
+32 It will not be like the covenant I made with their ancestors the day I took them by the hand to lead them out of the land of Egypt. They broke my covenant, though I was their master—oracle of the LORD. ^jeremiah-31-32
 
-33 But this is the covenant I will make with the house of Israel after those days—oracle of the L ORD. I will place my law within them, and write it upon their hearts; I will be their God, and they shall be my people. ^jeremiah-31-33
+33 But this is the covenant I will make with the house of Israel after those days—oracle of the LORD. I will place my law within them, and write it upon their hearts; I will be their God, and they shall be my people. ^jeremiah-31-33
 
-34 They will no longer teach their friends and relatives, “Know the L ORD!” Everyone, from least to greatest, shall know me—oracle of the L ORD —for I will forgive their iniquity and no longer remember their sin. ^jeremiah-31-34
+34 They will no longer teach their friends and relatives, “Know the LORD!” Everyone, from least to greatest, shall know me—oracle of the LORD —for I will forgive their iniquity and no longer remember their sin. ^jeremiah-31-34
 
-#### Certainty of God’s Promise
+### Certainty of God’s Promise
 
-35 Thus says the L ORD, ^jeremiah-31-35
+35 Thus says the LORD, ^jeremiah-31-35
 
 Who gives the sun to light the day,
 
@@ -263,17 +262,17 @@ moon and stars to light the night;
 
 Who stirs up the sea so that its waves roar,
 
-whose name is L ORD of hosts:
+whose name is LORD of hosts:
 
 36 If ever this fixed order gives way ^jeremiah-31-36
 
-before me—oracle of the L ORD —
+before me—oracle of the LORD —
 
 Then would the offspring of Israel cease
 
 as a people before me forever.
 
-37 Thus says the L ORD: ^jeremiah-31-37
+37 Thus says the LORD: ^jeremiah-31-37
 
 If the heavens on high could be measured,
 
@@ -281,15 +280,15 @@ or the foundations below the earth be explored,
 
 Then would I reject all the offspring of Israel
 
-because of all they have done—oracle of the L ORD.
+because of all they have done—oracle of the LORD.
 
 **Jerusalem Rebuilt.**
 
-38 See, days are coming—oracle of the L ORD —when the city shall be rebuilt as the L ORD’s, from the Tower of Hananel to the Corner Gate. ^jeremiah-31-38
+38 See, days are coming—oracle of the LORD —when the city shall be rebuilt as the LORD’s, from the Tower of Hananel to the Corner Gate. ^jeremiah-31-38
 
 39 A measuring line shall be stretched from there straight to the hill Gareb and then turn to Goah. ^jeremiah-31-39
 
-40 The whole valley of corpses and ashes, all the terraced slopes toward the Wadi Kidron, as far as the corner of the Horse Gate at the east, shall be holy to the L ORD. Never again shall the city be uprooted or demolished. ^jeremiah-31-40
+40 The whole valley of corpses and ashes, all the terraced slopes toward the Wadi Kidron, as far as the corner of the Horse Gate at the east, shall be holy to the LORD. Never again shall the city be uprooted or demolished. ^jeremiah-31-40
 
 \* (31:2] – [3) Jeremiah describes the exiles of the Northern Kingdom on their way home from the nations where the Assyrians had resettled them (722/721 B.C.). The favor they discover in the wilderness is the appearance of the Lord (v. [3]) coming to guide them to Jerusalem. Implicit in these verses is the presentation of the people’s return from captivity as a second exodus, a unifying theme in Second Isaiah (chaps. [40] – [55]).
 
@@ -303,7 +302,7 @@ because of all they have done—oracle of the L ORD.
 
 \* (31:29) “The parents…on edge”: Jeremiah’s opponents use this proverb to complain that they are being punished for sins of their ancestors. Jeremiah, however, insists that the Lord knows the depth of their wickedness and holds them accountable for their actions.
 
-\* (31:31] – [34) The new covenant is an occasional prophetic theme, beginning with Hosea. According to Jeremiah, (a) it lasts forever; (b) its law (*torah*) is written in human hearts; (c) it gives everyone true knowledge of God, making additional instruction (*torah*) unnecessary. The Dead Sea Scroll community claimed they were partners in a “new covenant.” The New Testament presents the death and resurrection of Jesus of Nazareth as inaugurating a new covenant open to anyone who professes faith in Jesus the Christ. Cf. ([[luke-22|Lk 22]]:20]; [1 Cor 11:25]; [Heb 8:8] – [12]. Know the L ORD: cf. note on [22:15] – [16].
+\* (31:31] – [34) The new covenant is an occasional prophetic theme, beginning with Hosea. According to Jeremiah, (a) it lasts forever; (b) its law (*torah*) is written in human hearts; (c) it gives everyone true knowledge of God, making additional instruction (*torah*) unnecessary. The Dead Sea Scroll community claimed they were partners in a “new covenant.” The New Testament presents the death and resurrection of Jesus of Nazareth as inaugurating a new covenant open to anyone who professes faith in Jesus the Christ. Cf. ([[luke-22|Lk 22]]:20]; [1 Cor 11:25]; [Heb 8:8] – [12]. Know the LORD: cf. note on [22:15] – [16].
 
 \* (31:38] – [40) The landmarks in these verses outline the borders of Jerusalem during the time of Nehemiah: the Tower of Hananel ([Neh 3:1]; [12:39]) in the northeast and the Corner Gate ([[2-kings-14|2 Kgs 14]]:13) in the northwest; Goah in the southeast and Gareb Hill in the southwest; the Valley of Ben-hinnom (“the Valley of corpses and ashes”), which met the Wadi Kidron in the southeast, and the Horse Gate in the eastern wall at the southeast corner of the Temple area.
 

@@ -1,31 +1,30 @@
 ---
-title: Joshua, Chapter 5
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 5
+title: Joshua, Chapter 5
+url: https://bible.usccb.org/bible/joshua/5
 aliases:
   - joshua-05
   - Joshua, Chapter 5
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/joshua/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 5
 ---
 
 # Joshua, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Rites at Gilgal.**
 
-1 When all the kings of the Amorites to the west of the Jordan and all the kings of the Canaanites by the sea heard that the L ORD had dried up the waters of the Jordan before the Israelites until they crossed over, their hearts melted and they were utterly dispirited because of the Israelites. ^joshua-05-1
+1 When all the kings of the Amorites to the west of the Jordan and all the kings of the Canaanites by the sea heard that the LORD had dried up the waters of the Jordan before the Israelites until they crossed over, their hearts melted and they were utterly dispirited because of the Israelites. ^joshua-05-1
 
-2 On this occasion the L ORD said to Joshua: Make flint knives and circumcise Israel for the second time. ^joshua-05-2
+2 On this occasion the LORD said to Joshua: Make flint knives and circumcise Israel for the second time. ^joshua-05-2
 
 3 So Joshua made flint knives and circumcised the Israelites at Gibeath-haaraloth. ^joshua-05-3
 
@@ -33,13 +32,13 @@ url: https://bible.usccb.org/bible/joshua/5
 
 5 Though all the men who came out were circumcised, none of those born in the wilderness during the journey after the departure from Egypt were circumcised. ^joshua-05-5
 
-6 Now the Israelites wandered forty years in the wilderness, until all the warriors among the people that came forth from Egypt died off because they had not listened to the voice of the L ORD. For the L ORD swore that he would not let them see the land he had sworn to their ancestors to give us, a land flowing with milk and honey. ^joshua-05-6
+6 Now the Israelites wandered forty years in the wilderness, until all the warriors among the people that came forth from Egypt died off because they had not listened to the voice of the LORD. For the LORD swore that he would not let them see the land he had sworn to their ancestors to give us, a land flowing with milk and honey. ^joshua-05-6
 
 7 It was the children God raised up in their stead whom Joshua circumcised, for these were yet with foreskins, not having been circumcised on the journey. ^joshua-05-7
 
 8 When the circumcision of the entire nation was complete, they remained in camp where they were, until they recovered. ^joshua-05-8
 
-9 Then the L ORD said to Joshua: Today I have removed the reproach of Egypt from you. Therefore the place is called Gilgal to the present day. ^joshua-05-9
+9 Then the LORD said to Joshua: Today I have removed the reproach of Egypt from you. Therefore the place is called Gilgal to the present day. ^joshua-05-9
 
 10 While the Israelites were encamped at Gilgal on the plains of Jericho, they celebrated the Passover on the evening of the fourteenth day of the month. ^joshua-05-10
 
@@ -51,9 +50,9 @@ url: https://bible.usccb.org/bible/joshua/5
 
 13 While Joshua was near Jericho, he raised his eyes and saw one who stood facing him, drawn sword in hand. Joshua went up to him and asked, “Are you one of us or one of our enemies?” ^joshua-05-13
 
-14 He replied, “Neither. I am the commander of the army of the L ORD: now I have come.” Then Joshua fell down to the ground in worship, and said to him, “What has my lord to say to his servant?” ^joshua-05-14
+14 He replied, “Neither. I am the commander of the army of the LORD: now I have come.” Then Joshua fell down to the ground in worship, and said to him, “What has my lord to say to his servant?” ^joshua-05-14
 
-15 The commander of the army of the L ORD replied to Joshua, “Remove your sandals from your feet, for the place on which you are standing is holy.” And Joshua did so. ^joshua-05-15
+15 The commander of the army of the LORD replied to Joshua, “Remove your sandals from your feet, for the place on which you are standing is holy.” And Joshua did so. ^joshua-05-15
 
 \* (5:3) Gibeath-haaraloth: “Hill of the Foreskins.”
 

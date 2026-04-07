@@ -1,27 +1,26 @@
 ---
-title: Amos, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 4
+title: Amos, Chapter 4
+url: https://bible.usccb.org/bible/amos/4
 aliases:
   - amos-04
   - Amos, Chapter 4
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/4
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 4
 ---
 
 # Amos, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
-#### Second Summons
+### Second Summons
 
 1 Hear this word, you cows of Bashan, ^amos-04-1
 
@@ -49,7 +48,7 @@ one in front of the other,
 
 And you shall be exiled to Harmon—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 4 Come to Bethel and sin, ^amos-04-4
 
@@ -75,7 +74,7 @@ and made bread scarce in all your dwellings,
 
 Yet you did not return to me—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 7 And I withheld the rain from you ^amos-04-7
 
@@ -95,7 +94,7 @@ but were not satisfied;
 
 Yet you did not return to me—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 9 I struck you with blight and mildew; ^amos-04-9
 
@@ -105,7 +104,7 @@ the caterpillar consumed your fig trees and olive trees;
 
 Yet you did not return to me—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 10 I sent upon you pestilence like that of Egypt; ^amos-04-10
 
@@ -115,7 +114,7 @@ and to your nostrils I brought the stench of your camps;
 
 Yet you did not return to me—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 11 I overthrew you ^amos-04-11
 
@@ -125,7 +124,7 @@ you were like a brand plucked from the fire,
 
 Yet you did not return to me—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 12 Therefore thus I will do to you, Israel: ^amos-04-12
 
@@ -141,7 +140,7 @@ Who makes dawn into darkness
 
 and strides upon the heights of the earth,
 
-the L ORD, the God of hosts, is his name!
+the LORD, the God of hosts, is his name!
 
 \* (4:1) Cows of Bashan: the pampered women of Samaria; Bashan was a region east of the Sea of Galilee, famous for its rich pasture and fattened herds.
 

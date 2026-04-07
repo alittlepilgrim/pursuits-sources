@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 15
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 15
+title: Sirach, Chapter 15
+url: https://bible.usccb.org/bible/sirach/15
 aliases:
   - sirach-15
   - Sirach, Chapter 15
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/15
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 15
 ---
 
 # Sirach, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
-1 Whoever fears the L ORD will do this; ^sirach-15-1
+1 Whoever fears the LORD will do this; ^sirach-15-1
 
 whoever is practiced in the Law will come to Wisdom.
 
@@ -61,7 +60,7 @@ for it has not been allotted to them by God.
 
 and its rightful owner teaches it.
 
-#### Free Will
+### Free Will
 
 11 Do not say: “It was God’s doing that I fell away,” ^sirach-15-11
 
@@ -71,7 +70,7 @@ for what he hates he does not do.
 
 for he has no need of the wicked.
 
-13 Abominable wickedness the L ORD hates ^sirach-15-13
+13 Abominable wickedness the LORD hates ^sirach-15-13
 
 and he does not let it happen to those who fear him.
 
@@ -91,7 +90,7 @@ to whatever you choose, stretch out your hand.
 
 whichever they choose will be given them.
 
-18 Immense is the wisdom of the L ORD; ^sirach-15-18
+18 Immense is the wisdom of the LORD; ^sirach-15-18
 
 mighty in power, he sees all things.
 

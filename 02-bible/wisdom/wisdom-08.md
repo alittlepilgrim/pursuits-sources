@@ -1,31 +1,30 @@
 ---
-title: Wisdom, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 8
+title: Wisdom, Chapter 8
+url: https://bible.usccb.org/bible/wisdom/8
 aliases:
   - wisdom-08
   - Wisdom, Chapter 8
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/8
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 8
 ---
 
 # Wisdom, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 1 Indeed, she spans the world from end to end mightily ^wisdom-08-1
 
 and governs all things well.
 
-#### Wisdom, the Source of Blessings
+### Wisdom, the Source of Blessings
 
 2 Her I loved and sought after from my youth; ^wisdom-08-2
 
@@ -69,7 +68,7 @@ signs and wonders she knows in advance
 
 and the outcome of times and ages.
 
-#### Wisdom as Solomon’s Counselor and Comfort
+### Wisdom as Solomon’s Counselor and Comfort
 
 9 So I determined to take her to live with me, ^wisdom-08-9
 
@@ -109,7 +108,7 @@ and living with her no grief,
 
 but rather joy and gladness.
 
-#### Wisdom Is a Gift of God
+### Wisdom Is a Gift of God
 
 17 Reflecting on these things, ^wisdom-08-17
 
@@ -137,7 +136,7 @@ and I came by a noble nature;
 
 and this, too, was prudence, to know whose gift she is—
 
-I went to the L ORD and besought him,
+I went to the LORD and besought him,
 
 and said with all my heart:
 

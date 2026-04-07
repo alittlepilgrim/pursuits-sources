@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 5
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 5
+title: Genesis, Chapter 5
+url: https://bible.usccb.org/bible/genesis/5
 aliases:
   - genesis-05
   - Genesis, Chapter 5
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 5
 bible_book: genesis
 bible_chapter: "05"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/5
 ---
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]
@@ -84,7 +83,7 @@ url: https://bible.usccb.org/bible/genesis/5
 
 28 When Lamech was one hundred and eighty-two years old, he begot a son ^genesis-05-28
 
-29 and named him Noah, saying, “This one shall bring us relief from our work and the toil of our hands, out of the very ground that the L ORD has put under a curse.” ^genesis-05-29
+29 and named him Noah, saying, “This one shall bring us relief from our work and the toil of our hands, out of the very ground that the LORD has put under a curse.” ^genesis-05-29
 
 30 Lamech lived five hundred and ninety-five years after he begot Noah, and he had other sons and daughters. ^genesis-05-30
 
@@ -114,6 +113,6 @@ f. (5:32) [Gn 6:10]; [10:1]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]

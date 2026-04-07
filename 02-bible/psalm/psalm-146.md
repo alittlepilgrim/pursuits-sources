@@ -1,18 +1,19 @@
 ---
-title: Psalm 146
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 146
+title: Psalm 146
+url: https://bible.usccb.org/bible/psalms/146
 aliases:
   - Psalm 146
   - psalm-146
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/146
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 146
 ---
 
 # Psalm 146

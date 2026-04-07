@@ -1,37 +1,36 @@
 ---
-title: Isaiah, Chapter 60
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 60
+title: Isaiah, Chapter 60
+url: https://bible.usccb.org/bible/isaiah/60
 aliases:
   - isaiah-60
   - Isaiah, Chapter 60
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/60
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 60
 ---
 
 # Isaiah, Chapter 60
 
-### Chapter 60
+## Chapter 60
 
-#### The Dawning of Divine Glory for Zion
+### The Dawning of Divine Glory for Zion
 
 1 Arise! Shine, for your light has come, ^isaiah-60-1
 
-the glory of the L ORD has dawned upon you.
+the glory of the LORD has dawned upon you.
 
 2 Though darkness covers the earth, ^isaiah-60-2
 
 and thick clouds, the peoples,
 
-Upon you the L ORD will dawn,
+Upon you the LORD will dawn,
 
 and over you his glory will be seen.
 
@@ -39,7 +38,7 @@ and over you his glory will be seen.
 
 kings by the radiance of your dawning.
 
-#### The Nations Come to Zion
+### The Nations Come to Zion
 
 4 Raise your eyes and look about; ^isaiah-60-4
 
@@ -65,7 +64,7 @@ All from Sheba shall come
 
 bearing gold and frankincense,
 
-and heralding the praises of the L ORD.
+and heralding the praises of the LORD.
 
 7 All the flocks of Kedar shall be gathered for you, ^isaiah-60-7
 
@@ -87,11 +86,11 @@ To bring your children from afar,
 
 their silver and gold with them—
 
-For the name of the L ORD, your God,
+For the name of the LORD, your God,
 
 for the Holy One of Israel who has glorified you.
 
-#### Honor and Service for Zion
+### Honor and Service for Zion
 
 10 Foreigners shall rebuild your walls, ^isaiah-60-10
 
@@ -129,7 +128,7 @@ All those who despised you,
 
 shall bow low at your feet.
 
-They shall call you “City of the L ORD,”
+They shall call you “City of the LORD,”
 
 “Zion of the Holy One of Israel.”
 
@@ -145,7 +144,7 @@ a joy from generation to generation.
 
 and be nursed at royal breasts;
 
-And you shall know that I, the L ORD, am your savior,
+And you shall know that I, the LORD, am your savior,
 
 your redeemer, the Mighty One of Jacob.
 
@@ -169,7 +168,7 @@ You shall call your walls “Salvation”
 
 and your gates “Praise.”
 
-#### Eternal Light for Zion
+### Eternal Light for Zion
 
 19 No longer shall the sun ^isaiah-60-19
 
@@ -179,7 +178,7 @@ Nor shall the brightness of the moon
 
 give you light by night;
 
-Rather, the L ORD will be your light forever,
+Rather, the LORD will be your light forever,
 
 your God will be your glory.
 
@@ -187,7 +186,7 @@ your God will be your glory.
 
 or your moon wane;
 
-For the L ORD will be your light forever,
+For the LORD will be your light forever,
 
 and the days of your grieving will be over.
 
@@ -203,7 +202,7 @@ the work of my hands, that I might be glorified.
 
 the smallest, a mighty nation;
 
-I, the L ORD, will swiftly accomplish
+I, the LORD, will swiftly accomplish
 
 these things when the time comes.
 

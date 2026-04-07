@@ -1,43 +1,42 @@
 ---
-title: Jeremiah, Chapter 32
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 32
+title: Jeremiah, Chapter 32
+url: https://bible.usccb.org/bible/jeremiah/32
 aliases:
   - jeremiah-32
   - Jeremiah, Chapter 32
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/32
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 32
 ---
 
 # Jeremiah, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
 **Pledge of Restoration.**
 
-1 The word came to Jeremiah from the L ORD in the tenth year of Zedekiah, king of Judah, the eighteenth year of Nebuchadnezzar. ^jeremiah-32-1
+1 The word came to Jeremiah from the LORD in the tenth year of Zedekiah, king of Judah, the eighteenth year of Nebuchadnezzar. ^jeremiah-32-1
 
 2 At that time the army of the king of Babylon was besieging Jerusalem, while Jeremiah the prophet was confined to the court of the guard, in the house of the king of Judah. ^jeremiah-32-2
 
-3 Zedekiah, king of Judah, had confined him there, saying: “How dare you prophesy: Thus says the L ORD: I am handing this city over to the king of Babylon that he may capture it. ^jeremiah-32-3
+3 Zedekiah, king of Judah, had confined him there, saying: “How dare you prophesy: Thus says the LORD: I am handing this city over to the king of Babylon that he may capture it. ^jeremiah-32-3
 
 4 Zedekiah, king of Judah, shall not escape the hands of the Chaldeans: he shall indeed be handed over to the king of Babylon. He shall speak with him face to face and see him eye to eye. ^jeremiah-32-4
 
-5 He shall take Zedekiah to Babylon. There he shall remain, until I attend to him—oracle of the L ORD. If you fight against the Chaldeans, you cannot win!” ^jeremiah-32-5
+5 He shall take Zedekiah to Babylon. There he shall remain, until I attend to him—oracle of the LORD. If you fight against the Chaldeans, you cannot win!” ^jeremiah-32-5
 
-6 Jeremiah said, This word came to me from the L ORD: ^jeremiah-32-6
+6 Jeremiah said, This word came to me from the LORD: ^jeremiah-32-6
 
 7 Hanamel, son of your uncle Shallum, will come to you with the offer: “Purchase my field in Anathoth, since you, as nearest relative, have the first right of purchase.” ^jeremiah-32-7
 
-8 And, just as the L ORD had said, my cousin Hanamel came to me in the court of the guard and said, “Please purchase my field in Anathoth, in the territory of Benjamin; as nearest relative, you have the first right of possession—purchase it for yourself.” Then I knew this was the word of the L ORD. ^jeremiah-32-8
+8 And, just as the LORD had said, my cousin Hanamel came to me in the court of the guard and said, “Please purchase my field in Anathoth, in the territory of Benjamin; as nearest relative, you have the first right of possession—purchase it for yourself.” Then I knew this was the word of the LORD. ^jeremiah-32-8
 
 9 So I bought the field in Anathoth from my cousin Hanamel, weighing out for him the silver, seventeen shekels of silver. ^jeremiah-32-9
 
@@ -49,15 +48,15 @@ url: https://bible.usccb.org/bible/jeremiah/32
 
 13 In their presence I gave Baruch this charge: ^jeremiah-32-13
 
-14 Thus says the L ORD of hosts, the God of Israel: Take these deeds of purchase, both the sealed and the open deeds, and put them in an earthenware jar, so they can last a long time. ^jeremiah-32-14
+14 Thus says the LORD of hosts, the God of Israel: Take these deeds of purchase, both the sealed and the open deeds, and put them in an earthenware jar, so they can last a long time. ^jeremiah-32-14
 
-15 For thus says the L ORD of hosts, the God of Israel: They shall again purchase houses and fields and vineyards in this land. ^jeremiah-32-15
+15 For thus says the LORD of hosts, the God of Israel: They shall again purchase houses and fields and vineyards in this land. ^jeremiah-32-15
 
-16 After I had given the deed of purchase to Baruch, son of Neriah, I prayed to the L ORD: ^jeremiah-32-16
+16 After I had given the deed of purchase to Baruch, son of Neriah, I prayed to the LORD: ^jeremiah-32-16
 
 17 Ah, my Lord G OD! You made the heavens and the earth with your great power and your outstretched arm; nothing is too difficult for you. ^jeremiah-32-17
 
-18 You continue your kindness through a thousand generations; but you repay the ancestors’ guilt upon their children who follow them. Great and mighty God, whose name is L ORD of hosts, ^jeremiah-32-18
+18 You continue your kindness through a thousand generations; but you repay the ancestors’ guilt upon their children who follow them. Great and mighty God, whose name is LORD of hosts, ^jeremiah-32-18
 
 19 great in counsel, mighty in deed, whose eyes are fixed on all the ways of mortals, giving to all according to their ways, according to the fruit of their deeds: ^jeremiah-32-19
 
@@ -73,15 +72,15 @@ url: https://bible.usccb.org/bible/jeremiah/32
 
 25 Yet you told me, my Lord G OD: Purchase the field with silver and summon witnesses, when the city has already been handed over to the Chaldeans! ^jeremiah-32-25
 
-26 Then this word of the L ORD came to Jeremiah: ^jeremiah-32-26
+26 Then this word of the LORD came to Jeremiah: ^jeremiah-32-26
 
-27 I am the L ORD, the God of all the living! Is anything too difficult for me? ^jeremiah-32-27
+27 I am the LORD, the God of all the living! Is anything too difficult for me? ^jeremiah-32-27
 
-28 Therefore the L ORD says: I am handing over this city to the Chaldeans and to Nebuchadnezzar, king of Babylon, and he shall capture it. ^jeremiah-32-28
+28 Therefore the LORD says: I am handing over this city to the Chaldeans and to Nebuchadnezzar, king of Babylon, and he shall capture it. ^jeremiah-32-28
 
 29 The Chaldeans who are attacking this city shall go in and set the city on fire, burning it and the houses, on whose roofs incense was burned to Baal and libations were poured out to other gods in order to provoke me. ^jeremiah-32-29
 
-30 From their youth the Israelites and the Judahites have been doing only what is evil in my eyes; the Israelites have been provoking me with the works of their hands—oracle of the L ORD. ^jeremiah-32-30
+30 From their youth the Israelites and the Judahites have been doing only what is evil in my eyes; the Israelites have been provoking me with the works of their hands—oracle of the LORD. ^jeremiah-32-30
 
 31 This city has so stirred my anger and wrath, from the day it was built to this day, that I must put it out of my sight, ^jeremiah-32-31
 
@@ -93,7 +92,7 @@ url: https://bible.usccb.org/bible/jeremiah/32
 
 35 They built high places to Baal in the Valley of Ben-hinnom to sacrifice their sons and daughters to Molech; I never commanded them to do this, nor did it even enter my mind that they would practice this abomination, so as to bring sin upon Judah. ^jeremiah-32-35
 
-36 Now, therefore, thus says the L ORD, the God of Israel, concerning this city, which you say is being handed over to the king of Babylon by means of the sword, starvation, and disease: ^jeremiah-32-36
+36 Now, therefore, thus says the LORD, the God of Israel, concerning this city, which you say is being handed over to the king of Babylon by means of the sword, starvation, and disease: ^jeremiah-32-36
 
 37 See, I am gathering them from all the lands to which I drove them in my rising fury and great anger; I will bring them back to this place and settle them here in safety. ^jeremiah-32-37
 
@@ -105,11 +104,11 @@ url: https://bible.usccb.org/bible/jeremiah/32
 
 41 I will take delight in doing good to them: I will plant them firmly in this land, with all my heart and soul. ^jeremiah-32-41
 
-42 For thus says the L ORD: Just as I have brought upon this people all this great evil, so I will bring upon them all the good I have promised them. ^jeremiah-32-42
+42 For thus says the LORD: Just as I have brought upon this people all this great evil, so I will bring upon them all the good I have promised them. ^jeremiah-32-42
 
 43 Fields shall be purchased in this land, about which you say, “It is a wasteland, without human beings or animals, handed over to the Chaldeans.” ^jeremiah-32-43
 
-44 They will purchase fields with silver, write up deeds, seal them, and have them witnessed in the land of Benjamin, in the neighborhood of Jerusalem, in the cities of Judah and of the hill country, in the cities of the Shephelah and the Negeb, when I restore their fortunes—oracle of the L ORD. ^jeremiah-32-44
+44 They will purchase fields with silver, write up deeds, seal them, and have them witnessed in the land of Benjamin, in the neighborhood of Jerusalem, in the cities of Judah and of the hill country, in the cities of the Shephelah and the Negeb, when I restore their fortunes—oracle of the LORD. ^jeremiah-32-44
 
 \* (32:1] – [44) This chapter recounts a prophecy “in action.” At the Lord’s command, Jeremiah fulfills his family duty to purchase the land of his cousin, carrying out all the legal details, even putting the deed away for safekeeping against the day he will have to produce it to verify his ownership of the land. The Lord defines the meaning of this symbolic action: In the future, Judah will be restored and daily life will return to normal.
 

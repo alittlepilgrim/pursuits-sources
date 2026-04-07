@@ -1,31 +1,30 @@
 ---
-title: Esther, Chapter 8
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 8
+title: Esther, Chapter 8
+url: https://bible.usccb.org/bible/esther/8
 aliases:
   - esther-08
   - Esther, Chapter 8
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/8
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 8
 ---
 
 # Esther, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 1 That day King Ahasuerus gave the house of Haman, enemy of the Jews, to Queen Esther; and Mordecai was admitted to the king’s presence, for Esther had revealed his relationship to her. ^esther-08-1
 
 2 The king removed his signet ring that he had taken away from Haman, and gave it to Mordecai; and Esther put Mordecai in charge of the house of Haman. ^esther-08-2
 
-## Vi. the Jewish Victory and the Feast of Purim
+# Vi. the Jewish Victory and the Feast of Purim
 
 **The Second Royal Decree.**
 
@@ -113,7 +112,7 @@ d. (E:18) [Est 7:10]; [9:14].
 
 e. (E:24) [Est 3:8] – [9]; [B:4].
 
-### (CHAPTER 8)
+## (CHAPTER 8)
 
 13 A copy of the letter to be promulgated as law in each and every province was published among all the peoples, so that the Jews might be prepared on that day to avenge themselves on their enemies. ^esther-08-13
 

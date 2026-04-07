@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 12
+title: Wisdom, Chapter 12
+url: https://bible.usccb.org/bible/wisdom/12
 aliases:
   - wisdom-12
   - Wisdom, Chapter 12
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/12
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 12
 ---
 
 # Wisdom, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 2 Therefore you rebuke offenders little by little, ^wisdom-12-2
 
@@ -129,7 +128,7 @@ so that we may think earnestly of your goodness when we judge,
 
 and, when being judged, we may look for mercy.
 
-#### Second Example Resumed
+### Second Example Resumed
 
 23 Hence those unrighteous who lived a life of folly, ^wisdom-12-23
 

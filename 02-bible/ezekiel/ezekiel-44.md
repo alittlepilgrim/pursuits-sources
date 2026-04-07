@@ -1,41 +1,40 @@
 ---
-title: Ezekiel, Chapter 44
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 44
+title: Ezekiel, Chapter 44
+url: https://bible.usccb.org/bible/ezekiel/44
 aliases:
   - ezekiel-44
   - Ezekiel, Chapter 44
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/44
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 44
 ---
 
 # Ezekiel, Chapter 44
 
-### Chapter 44
+## Chapter 44
 
 **The Closed Gate.**
 
 1 Then he brought me back to the outer gate of the sanctuary facing east, but it was closed. ^ezekiel-44-1
 
-2 The L ORD said to me: This gate must remain closed; it must not be opened, and no one should come through it. Because the L ORD, the God of Israel, came through it, it must remain closed. ^ezekiel-44-2
+2 The LORD said to me: This gate must remain closed; it must not be opened, and no one should come through it. Because the LORD, the God of Israel, came through it, it must remain closed. ^ezekiel-44-2
 
-3 Only the prince may sit in it to eat a meal in the presence of the L ORD; he must enter through the vestibule of the gate and leave the same way. ^ezekiel-44-3
+3 Only the prince may sit in it to eat a meal in the presence of the LORD; he must enter through the vestibule of the gate and leave the same way. ^ezekiel-44-3
 
-#### The New Law
+### The New Law
 
 **Admission to the Temple.**
 
-4 Then he brought me by way of the north gate to the facade of the temple. I looked—and the glory of the L ORD filled the L ORD’s house! I fell on my face. ^ezekiel-44-4
+4 Then he brought me by way of the north gate to the facade of the temple. I looked—and the glory of the LORD filled the LORD’s house! I fell on my face. ^ezekiel-44-4
 
-5 The L ORD said to me: Son of man, pay close attention, look carefully, and listen intently to everything I tell you about all the statutes and laws of the L ORD’s house. Pay close attention to the entrance into the temple and all the exits of the sanctuary. ^ezekiel-44-5
+5 The LORD said to me: Son of man, pay close attention, look carefully, and listen intently to everything I tell you about all the statutes and laws of the LORD’s house. Pay close attention to the entrance into the temple and all the exits of the sanctuary. ^ezekiel-44-5
 
 6 Say to that rebellious house, the house of Israel: Thus says the Lord G OD: Enough of all your abominations, house of Israel! ^ezekiel-44-6
 

@@ -1,45 +1,44 @@
 ---
-title: Deuteronomy, Chapter 23
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 23
+title: Deuteronomy, Chapter 23
+url: https://bible.usccb.org/bible/deuteronomy/23
 aliases:
   - deuteronomy-23
   - Deuteronomy, Chapter 23
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/23
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 23
 ---
 
 # Deuteronomy, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 1 A man shall not marry his father’s wife, nor shall he dishonor his father’s bed. ^deuteronomy-23-1
 
 **Membership in the Assembly.**
 
-2 No one whose testicles have been crushed or whose penis has been cut off may come into the assembly of the L ORD. ^deuteronomy-23-2
+2 No one whose testicles have been crushed or whose penis has been cut off may come into the assembly of the LORD. ^deuteronomy-23-2
 
-3 No one born of an illicit union may come into the assembly of the L ORD, nor any descendant of such even to the tenth generation may come into the assembly of the L ORD. ^deuteronomy-23-3
+3 No one born of an illicit union may come into the assembly of the LORD, nor any descendant of such even to the tenth generation may come into the assembly of the LORD. ^deuteronomy-23-3
 
-4 No Ammonite or Moabite may ever come into the assembly of the L ORD, nor may any of their descendants even to the tenth generation come into the assembly of the L ORD, ^deuteronomy-23-4
+4 No Ammonite or Moabite may ever come into the assembly of the LORD, nor may any of their descendants even to the tenth generation come into the assembly of the LORD, ^deuteronomy-23-4
 
 5 because they would not come to meet you with food and water on your journey after you left Egypt, and because they hired Balaam, son of Beor, from Pethor in Aram Naharaim, to curse you. ^deuteronomy-23-5
 
-6 The L ORD, your God, would not listen to Balaam but turned his curse into a blessing for you, because the L ORD, your God, loves you. ^deuteronomy-23-6
+6 The LORD, your God, would not listen to Balaam but turned his curse into a blessing for you, because the LORD, your God, loves you. ^deuteronomy-23-6
 
 7 Never seek their welfare or prosperity as long as you live. ^deuteronomy-23-7
 
 8 Do not abhor the Edomite: he is your brother. Do not abhor the Egyptian: you were a resident alien in his country. ^deuteronomy-23-8
 
-9 Children born to them may come into the assembly of the L ORD in the third generation. ^deuteronomy-23-9
+9 Children born to them may come into the assembly of the LORD in the third generation. ^deuteronomy-23-9
 
 **Cleanliness in Camp.**
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/deuteronomy/23
 
 14 You shall keep a trowel in your equipment and, when you go outside to relieve yourself, you shall dig a hole with it and then cover up your excrement. ^deuteronomy-23-14
 
-15 Since the L ORD, your God, journeys along in the midst of your camp to deliver you and to give your enemies over to you, your camp must be holy, so that he does not see anything indecent in your midst and turn away from you. ^deuteronomy-23-15
+15 Since the LORD, your God, journeys along in the midst of your camp to deliver you and to give your enemies over to you, your camp must be holy, so that he does not see anything indecent in your midst and turn away from you. ^deuteronomy-23-15
 
 **Various Precepts.**
 
@@ -63,17 +62,17 @@ url: https://bible.usccb.org/bible/deuteronomy/23
 
 18 There shall be no temple prostitute among the Israelite women, nor a temple prostitute among the Israelite men. ^deuteronomy-23-18
 
-19 You shall not offer a prostitute’s fee or a dog’s pay as any kind of votive offering in the house of the L ORD, your God; both these things are an abomination to the L ORD, your God. ^deuteronomy-23-19
+19 You shall not offer a prostitute’s fee or a dog’s pay as any kind of votive offering in the house of the LORD, your God; both these things are an abomination to the LORD, your God. ^deuteronomy-23-19
 
 20 You shall not demand interest from your kindred on a loan of money or of food or of anything else which is loaned. ^deuteronomy-23-20
 
-21 From a foreigner you may demand interest, but you may not demand interest from your kindred, so that the L ORD, your God, may bless you in all your undertakings on the land you are to enter and possess. ^deuteronomy-23-21
+21 From a foreigner you may demand interest, but you may not demand interest from your kindred, so that the LORD, your God, may bless you in all your undertakings on the land you are to enter and possess. ^deuteronomy-23-21
 
-22 When you make a vow to the L ORD, your God, you shall not delay in fulfilling it; for the L ORD, your God, will surely require it of you and you will be held guilty. ^deuteronomy-23-22
+22 When you make a vow to the LORD, your God, you shall not delay in fulfilling it; for the LORD, your God, will surely require it of you and you will be held guilty. ^deuteronomy-23-22
 
 23 Should you refrain from making a vow, you will not be held guilty. ^deuteronomy-23-23
 
-24 But whatever your tongue utters you must be careful to do, just as you freely vowed to the L ORD, your God, with your own mouth. ^deuteronomy-23-24
+24 But whatever your tongue utters you must be careful to do, just as you freely vowed to the LORD, your God, with your own mouth. ^deuteronomy-23-24
 
 25 When you go through your neighbor’s vineyard, you may eat as many grapes as you wish, until you are satisfied, but do not put them in your basket. ^deuteronomy-23-25
 

@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 4
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 4
+title: Genesis, Chapter 4
+url: https://bible.usccb.org/bible/genesis/4
 aliases:
   - genesis-04
   - Genesis, Chapter 4
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 4
 bible_book: genesis
 bible_chapter: "04"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/4
 ---
 
 [[genesis-03|[← Previous Note]]] · [[genesis-05|[Next Note →]]]
@@ -28,23 +27,23 @@ url: https://bible.usccb.org/bible/genesis/4
 
 **Cain and Abel.**
 
-1 The man had intercourse with his wife Eve, and she conceived and gave birth to Cain, saying, “I have produced a male child with the help of the L ORD.” ^genesis-04-1
+1 The man had intercourse with his wife Eve, and she conceived and gave birth to Cain, saying, “I have produced a male child with the help of the LORD.” ^genesis-04-1
 
 2 Next she gave birth to his brother Abel. Abel became a herder of flocks, and Cain a tiller of the ground. ^genesis-04-2
 
-3 In the course of time Cain brought an offering to the L ORD from the fruit of the ground, ^genesis-04-3
+3 In the course of time Cain brought an offering to the LORD from the fruit of the ground, ^genesis-04-3
 
-4 while Abel, for his part, brought the fatty portion of the firstlings of his flock. The L ORD looked with favor on Abel and his offering, ^genesis-04-4
+4 while Abel, for his part, brought the fatty portion of the firstlings of his flock. The LORD looked with favor on Abel and his offering, ^genesis-04-4
 
 5 but on Cain and his offering he did not look with favor. So Cain was very angry and dejected. ^genesis-04-5
 
-6 Then the L ORD said to Cain: Why are you angry? Why are you dejected? ^genesis-04-6
+6 Then the LORD said to Cain: Why are you angry? Why are you dejected? ^genesis-04-6
 
 7 If you act rightly, you will be accepted; but if not, sin lies in wait at the door: its urge is for you, yet you can rule over it. ^genesis-04-7
 
 8 Cain said to his brother Abel, “Let us go out in the field.” When they were in the field, Cain attacked his brother Abel and killed him. ^genesis-04-8
 
-9 Then the L ORD asked Cain, Where is your brother Abel? He answered, “I do not know. Am I my brother’s keeper?” ^genesis-04-9
+9 Then the LORD asked Cain, Where is your brother Abel? He answered, “I do not know. Am I my brother’s keeper?” ^genesis-04-9
 
 10 God then said: What have you done? Your brother’s blood cries out to me from the ground! ^genesis-04-10
 
@@ -52,13 +51,13 @@ url: https://bible.usccb.org/bible/genesis/4
 
 12 If you till the ground, it shall no longer give you its produce. You shall become a constant wanderer on the earth. ^genesis-04-12
 
-13 Cain said to the L ORD: “My punishment is too great to bear. ^genesis-04-13
+13 Cain said to the LORD: “My punishment is too great to bear. ^genesis-04-13
 
 14 Look, you have now banished me from the ground. I must avoid you and be a constant wanderer on the earth. Anyone may kill me at sight.” ^genesis-04-14
 
-15 Not so! the L ORD said to him. If anyone kills Cain, Cain shall be avenged seven times. So the L ORD put a mark on Cain, so that no one would kill him at sight. ^genesis-04-15
+15 Not so! the LORD said to him. If anyone kills Cain, Cain shall be avenged seven times. So the LORD put a mark on Cain, so that no one would kill him at sight. ^genesis-04-15
 
-16 Cain then left the L ORD’s presence and settled in the land of Nod, east of Eden. ^genesis-04-16
+16 Cain then left the LORD’s presence and settled in the land of Nod, east of Eden. ^genesis-04-16
 
 **Descendants of Cain and Seth.**
 
@@ -92,7 +91,7 @@ then Lamech seventy-seven times.”
 
 26 To Seth, in turn, a son was born, and he named him Enosh. ^genesis-04-26
 
-At that time people began to invoke the L ORD by name.
+At that time people began to invoke the LORD by name.
 
 \* (4:1) The Hebrew name *qayin* (“Cain”) and the term *qaniti* (“I have produced”) present a wordplay that refers to metalworking; such wordplays are frequent in Genesis.
 
@@ -114,7 +113,7 @@ At that time people began to invoke the L ORD by name.
 
 \* (4:23] – [24) Lamech’s boast shows that the violence of Cain continues with his son and has actually increased. The question is posed to the reader: how will God’s creation be renewed?
 
-\* (4:25] – [26) The third and climactic birth story in the chapter, showing that this birth, unlike the other two, will have good results. The name Seth (from the Hebrew verb *shat*, “to place, replace”) shows that God has replaced Abel with a worthy successor. From this favored line Enosh (“human being/humankind”), a synonym of Adam, authentic religion began with the worship of Yhwh; this divine name is rendered as “the L ORD” in this translation. The Yahwist source employs the name Yhwh long before the time of Moses. Another ancient source, the Elohist (from its use of the term *Elohim*, “God,” instead of *Yhwh*, “L ORD,” for the pre-Mosaic period), makes Moses the first to use Yhwh as the proper name of Israel’s God, previously known by other names as well; cf. ([[exodus-03|Ex 3]]:13] – [15].
+\* (4:25] – [26) The third and climactic birth story in the chapter, showing that this birth, unlike the other two, will have good results. The name Seth (from the Hebrew verb *shat*, “to place, replace”) shows that God has replaced Abel with a worthy successor. From this favored line Enosh (“human being/humankind”), a synonym of Adam, authentic religion began with the worship of Yhwh; this divine name is rendered as “the LORD” in this translation. The Yahwist source employs the name Yhwh long before the time of Moses. Another ancient source, the Elohist (from its use of the term *Elohim*, “God,” instead of *Yhwh*, “LORD,” for the pre-Mosaic period), makes Moses the first to use Yhwh as the proper name of Israel’s God, previously known by other names as well; cf. ([[exodus-03|Ex 3]]:13] – [15].
 
 a. (4:4) [Ex 34:19]; [Heb 11:4].
 
@@ -128,6 +127,6 @@ e. (4:26) [1 Chr 1:1]; ([[luke-03| [[luke-03|Lk 3]]:]]:38]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-03|[← Previous Note]]] · [[genesis-05|[Next Note →]]]

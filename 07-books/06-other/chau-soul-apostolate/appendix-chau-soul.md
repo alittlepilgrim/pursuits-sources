@@ -1,12 +1,15 @@
 ---
-title: Appendix Ten Aids to Mental Prayer – The Soul of the Apostolate
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: false
+title: Appendix Ten Aids to Mental Prayer – The Soul of the Apostolate
+author: Dom Chautard
 aliases:
   - Appendix Ten Aids to Mental Prayer – The Soul of the Apostolate
-author: Dom Chautard
+tags:
+  - author/chautard-dom
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: false
 ---
 
 # Appendix Ten Aids to Mental Prayer – The Soul of the Apostolate
@@ -31,13 +34,13 @@ Before speaking of affective prayer, the first degree of the comparatively advan
 
 We here summarise the suggestions of this holy writer:
 
-## First Way.
+## First Way
 
 Take some spiritual book (New Testament, Following of Christ), read a few lines, pausing long in between — meditate a little on what you have read, trying to get the full meaning and to impress it on your mind. — Draw some holy affection, love, contrition, etc., from the reading.
 
 Avoid reading or meditating too much. — Every time you pause, remain as long as your mind finds it pleasant or useful to do so.
 
-## Second Way.
+## Second Way
 
 Take some text of Holy Scripture, or some vocal prayer, like the Pater, Ave, or Credo, and say it over, stopping at each word, drawing our various holy sentiments, upon which you may dwell as long as you like.
 
@@ -47,17 +50,17 @@ Do not stop on any one word if it wearies or tires you. When you find no more ma
 
 But when you feel yourself moved by some good sentiment, remain there as long as it lasts, without going to the trouble of passing on to something else. — There is no necessity to be always making new acts; it is often quite enough to remain in the presence of God silently turning over in your mind the words you have already meditated upon, or savouring the affections they have aroused in your heart.
 
-## Third Way.
+## Third Way
 
 When the prepared subject-matter does not give you enough scope, or room for free action, make acts of faith, adoration, thanksgiving, hope, love, and so on, letting them range as wide and free as you please, pausing at each one to let it sink in.
 
-## Fourth Way.
+## Fourth Way
 
 When meditation is impossible, and you are too helpless and dried- up to produce a single affection, tell Our Lord that it is your intention to make an act, for example, of contrition, every time you draw breath, or pass a bead of the rosary between your fingers, or say, vocally, some short prayer.
 
 Renew this assurance of your intention, from time to time, and then, if God suggests some other good thought, receive it with humility, and dwell upon it.
 
-## Fifth Way.
+## Fifth Way
 
 In time of trial or dryness, if you are completely barren and powerless to make any acts or to have any thoughts, abandon yourself generously to suffering, without anxiety, and without making any effort to avoid it, making no other acts except this self- abandonment into the hands of God to suffer this trial and all it may please Him to send.
 
@@ -65,13 +68,13 @@ In time of trial or dryness, if you are completely barren and powerless to make 
 
 Or else you may unite your prayer with Our Lord’s Agony in the garden and His desolation upon the Cross. — See yourself attached to the Cross with the Saviour and stir yourself up to follow His example, and remain there suffering without flinching, until death.
 
-## Sixth Way.
+## Sixth Way
 
 A survey of your own conscience. — Admit your defects, passions, weaknesses, infirmities, helplessness, misery, nothingness. — Adore God’s judgments with regard to the state in which you find yourself. — Submit to His holy will. — Bless Him both for His punishments and for the favours of His mercy. — Humble yourself before His sovereign Majesty. — Sincerely confess your sins and infidelities to Him and ask Him to forgive you. — Take back all your false judgments and errors. — Detest all the wrongs you have done and resolve to correct yourself in the future. his kind of prayer is very free and unhampered, and admits of all kinds of affections.
 
 It can be practiced at all times, especially in some unexpected trial, to submit to the punishments of God’s justice, or as a means of regaining recollection after a lot of activity and distracting affairs.
 
-## Seventh Way.
+## Seventh Way
 
 Conjure up a vivid picture of the Last Things. Visualise yourself in agony, between time and eternity — between your past life and the judgment of God. — What would you wish to have done? How would you want to have lived? — Think of the pain you will feel then. — Call to mind your sins, your negligence, your abuse of grace. — How would you like to have acted in this or that situation? — Make up your mind to adopt a real, practical means of remedying those defects which give you reason for anxiety.
 
@@ -81,7 +84,7 @@ The more vivid the picture, the better will be your meditation.
 
 We all need this mystical death, to get die flesh out of our soul, and to rise again, that is, to get free from corruption and sin. We need to go through this purgatory, in order to arrive at the enjoyment of God in this life.
 
-## Eighth Way.
+## Eighth Way
 
 Apply your mind to Jesus in the Most Blessed Sacrament. Address yourself to Our Lord in the Blessed Sacrament, with all the respect that His Real Presence demands, unite yourself to Him and to all His operations in the Eucharist, where He is ceaselessly adoring, praising, and loving His Father, in the name of all men, and in the condition of a victim.
 
@@ -99,7 +102,7 @@ Get to know it well, because our happiness in this life depends on our union wit
 
 \-141
 
-## Ninth Way.
+## Ninth Way
 
 This prayer is to be made in the Name of Jesus Christ. It will arouse our confidence in God, and help us to enter into the spirit and the sentiments of Our Lord.
 
@@ -109,7 +112,7 @@ Hence, we are to appear before God either to adore, to praise, or to love Him, b
 
 And this is the spirit in which we should recite the Divine Office.
 
-## Tenth Way.
+## Tenth Way
 
 Simple attention to the presence of God, and meditation.
 

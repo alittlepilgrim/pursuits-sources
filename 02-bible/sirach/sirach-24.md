@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 24
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 24
+title: Sirach, Chapter 24
+url: https://bible.usccb.org/bible/sirach/24
 aliases:
   - sirach-24
   - Sirach, Chapter 24
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/24
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 24
 ---
 
 # Sirach, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
-#### Praise of Wisdom
+### Praise of Wisdom
 
 1 Wisdom sings her own praises, ^sirach-24-1
 

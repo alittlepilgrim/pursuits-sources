@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 3
+title: Nehemiah, Chapter 3
+url: https://bible.usccb.org/bible/nehemiah/3
 aliases:
   - nehemiah-03
   - Nehemiah, Chapter 3
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 3
 ---
 
 # Nehemiah, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **List of Workers.**
 

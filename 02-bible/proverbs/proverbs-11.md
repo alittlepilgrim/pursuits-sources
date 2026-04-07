@@ -1,27 +1,26 @@
 ---
-title: Proverbs, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 11
+title: Proverbs, Chapter 11
+url: https://bible.usccb.org/bible/proverbs/11
 aliases:
   - proverbs-11
   - Proverbs, Chapter 11
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/11
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 11
 ---
 
 # Proverbs, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
-1 False scales are an abomination to the L ORD, ^proverbs-11-1
+1 False scales are an abomination to the LORD, ^proverbs-11-1
 
 but an honest weight, his delight.
 
@@ -97,7 +96,7 @@ but those who sow justice have a sure reward.
 
 but pursuit of evil, toward death.
 
-20 The crooked in heart are an abomination to the L ORD, ^proverbs-11-20
+20 The crooked in heart are an abomination to the LORD, ^proverbs-11-20
 
 but those who walk blamelessly are his delight.
 

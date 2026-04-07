@@ -1,25 +1,24 @@
 ---
-title: Ephesians, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ephesians, Chapter 4
+title: Ephesians, Chapter 4
+url: https://bible.usccb.org/bible/ephesians/4
 aliases:
   - ephesians-04
   - Ephesians, Chapter 4
 tags:
+  - bible/chapter
   - bible/ephesians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/ephesians/4
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ephesians, Chapter 4
 ---
 
 # Ephesians, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Unity in the Body.**
 
@@ -79,7 +78,7 @@ he gave gifts to men.”
 
 24 and put on the new self, created in God’s way in righteousness and holiness of truth. ^ephesians-04-24
 
-## Iv. Daily Conduct, an Expression of Unity
+# Iv. Daily Conduct, an Expression of Unity
 
 **Rules for the New Life.**
 

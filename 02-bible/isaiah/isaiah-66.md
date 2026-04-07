@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 66
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 66
+title: Isaiah, Chapter 66
+url: https://bible.usccb.org/bible/isaiah/66
 aliases:
   - isaiah-66
   - Isaiah, Chapter 66
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/66
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 66
 ---
 
 # Isaiah, Chapter 66
 
-### Chapter 66
+## Chapter 66
 
-#### True and False Worship
+### True and False Worship
 
-1 Thus says the L ORD: ^isaiah-66-1
+1 Thus says the LORD: ^isaiah-66-1
 
 The heavens are my throne,
 
@@ -35,7 +34,7 @@ Where is the place of my rest?
 
 2 My hand made all these things ^isaiah-66-2
 
-when all of them came to be—oracle of the L ORD.
+when all of them came to be—oracle of the LORD.
 
 This is the one whom I approve:
 
@@ -67,7 +66,7 @@ Because they did what was evil in my sight,
 
 and things I do not delight in they chose,
 
-5 Hear the word of the L ORD, ^isaiah-66-5
+5 Hear the word of the LORD, ^isaiah-66-5
 
 you who tremble at his word!
 
@@ -75,7 +74,7 @@ Your kin who hate you
 
 and cast you out because of my name say,
 
-“May the L ORD show his glory,
+“May the LORD show his glory,
 
 that we may see your joy”;
 
@@ -85,11 +84,11 @@ but they shall be put to shame.
 
 a voice from the temple;
 
-The voice of the L ORD
+The voice of the LORD
 
 rendering recompense to his enemies!
 
-#### Blessings of Prosperity and Consolation
+### Blessings of Prosperity and Consolation
 
 7 Before she is in labor, ^isaiah-66-7
 
@@ -113,7 +112,7 @@ when she bore her children.
 
 9 Shall I bring a mother to the point of birth, ^isaiah-66-9
 
-and yet not let her child be born? says the L ORD.
+and yet not let her child be born? says the LORD.
 
 Or shall I who bring to birth
 
@@ -135,7 +134,7 @@ That you may drink with delight
 
 at her abundant breasts!
 
-12 For thus says the L ORD: ^isaiah-66-12
+12 For thus says the LORD: ^isaiah-66-12
 
 I will spread prosperity over her like a river,
 
@@ -157,11 +156,11 @@ in Jerusalem you shall find your comfort.
 
 and your bodies shall flourish like the grass;
 
-The L ORD’s power shall be revealed to his servants,
+The LORD’s power shall be revealed to his servants,
 
 but to his enemies, his wrath.
 
-15 For see, the L ORD will come in fire, ^isaiah-66-15
+15 For see, the LORD will come in fire, ^isaiah-66-15
 
 his chariots like the stormwind;
 
@@ -169,13 +168,13 @@ To wreak his anger in burning rage
 
 and his rebuke in fiery flames.
 
-16 For with fire the L ORD shall enter into judgment, ^isaiah-66-16
+16 For with fire the LORD shall enter into judgment, ^isaiah-66-16
 
 and, with his sword, against all flesh;
 
-Those slain by the L ORD shall be many.
+Those slain by the LORD shall be many.
 
-17 Those who sanctify and purify themselves to go into the gardens, following one who stands within, eating pig’s flesh, abominable things, and mice, shall all together come to an end, with their deeds and purposes—oracle of the L ORD. ^isaiah-66-17
+17 Those who sanctify and purify themselves to go into the gardens, following one who stands within, eating pig’s flesh, abominable things, and mice, shall all together come to an end, with their deeds and purposes—oracle of the LORD. ^isaiah-66-17
 
 **God Gathers the Nations.**
 
@@ -183,15 +182,15 @@ Those slain by the L ORD shall be many.
 
 19 I will place a sign among them; from them I will send survivors to the nations: to Tarshish, Put and Lud, Mosoch, Tubal and Javan, to the distant coastlands which have never heard of my fame, or seen my glory; and they shall proclaim my glory among the nations. ^isaiah-66-19
 
-20 They shall bring all your kin from all the nations as an offering to the L ORD, on horses and in chariots, in carts, upon mules and dromedaries, to Jerusalem, my holy mountain, says the L ORD, just as the Israelites bring their grain offering in a clean vessel to the house of the L ORD. ^isaiah-66-20
+20 They shall bring all your kin from all the nations as an offering to the LORD, on horses and in chariots, in carts, upon mules and dromedaries, to Jerusalem, my holy mountain, says the LORD, just as the Israelites bring their grain offering in a clean vessel to the house of the LORD. ^isaiah-66-20
 
-21 Some of these I will take as priests and Levites, says the L ORD. ^isaiah-66-21
+21 Some of these I will take as priests and Levites, says the LORD. ^isaiah-66-21
 
 22 Just as the new heavens and the new earth ^isaiah-66-22
 
 which I am making
 
-Shall endure before me—oracle of the L ORD —
+Shall endure before me—oracle of the LORD —
 
 so shall your descendants and your name endure.
 
@@ -201,7 +200,7 @@ and from sabbath to sabbath,
 
 All flesh shall come to worship
 
-before me, says the L ORD.
+before me, says the LORD.
 
 24 They shall go out and see the corpses ^isaiah-66-24
 

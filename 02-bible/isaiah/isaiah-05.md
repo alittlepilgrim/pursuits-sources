@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 5
+title: Isaiah, Chapter 5
+url: https://bible.usccb.org/bible/isaiah/5
 aliases:
   - isaiah-05
   - Isaiah, Chapter 5
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 5
 ---
 
 # Isaiah, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
-#### The Song of the Vineyard
+### The Song of the Vineyard
 
 1 Now let me sing of my friend, ^isaiah-05-1
 
@@ -73,7 +72,7 @@ I will command the clouds
 
 not to rain upon it.
 
-7 The vineyard of the L ORD of hosts is the house of Israel, ^isaiah-05-7
+7 The vineyard of the LORD of hosts is the house of Israel, ^isaiah-05-7
 
 the people of Judah, his cherished plant;
 
@@ -81,7 +80,7 @@ He waited for judgment, but see, bloodshed!
 
 for justice, but hark, the outcry!
 
-#### Oracles of Reproach
+### Oracles of Reproach
 
 8 Ah! Those who join house to house, ^isaiah-05-8
 
@@ -91,7 +90,7 @@ Until no space remains, and you alone dwell
 
 in the midst of the land!
 
-9 In my hearing the L ORD of hosts has sworn: ^isaiah-05-9
+9 In my hearing the LORD of hosts has sworn: ^isaiah-05-9
 
 Many houses shall be in ruins,
 
@@ -117,7 +116,7 @@ inflamed by wine,
 
 timbrel and flute,
 
-But the deed of the L ORD they do not regard,
+But the deed of the LORD they do not regard,
 
 the work of his hands they do not see!
 
@@ -141,7 +140,7 @@ tumult and revelry.
 
 and the eyes of the haughty lowered,
 
-16 But the L ORD of hosts shall be exalted by judgment, ^isaiah-05-16
+16 But the LORD of hosts shall be exalted by judgment, ^isaiah-05-16
 
 by justice the Holy God shown holy.
 
@@ -187,11 +186,11 @@ Their root shall rot
 
 and their blossom scatter like dust;
 
-For they have rejected the instruction of the L ORD of hosts,
+For they have rejected the instruction of the LORD of hosts,
 
 and scorned the word of the Holy One of Israel.
 
-25 Therefore the wrath of the L ORD blazes against his people, ^isaiah-05-25
+25 Therefore the wrath of the LORD blazes against his people, ^isaiah-05-25
 
 he stretches out his hand to strike them;
 
@@ -203,7 +202,7 @@ For all this, his wrath is not turned back,
 
 his hand is still outstretched.
 
-#### Invasion
+### Invasion
 
 26 He will raise a signal to a far-off nation, ^isaiah-05-26
 

@@ -1,35 +1,34 @@
 ---
-title: Isaiah, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 14
+title: Isaiah, Chapter 14
+url: https://bible.usccb.org/bible/isaiah/14
 aliases:
   - isaiah-14
   - Isaiah, Chapter 14
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 14
 ---
 
 # Isaiah, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Restoration of Israel.**
 
-1 But the L ORD will take pity on Jacob and again choose Israel, and will settle them on their own land; foreigners will join them and attach themselves to the house of Jacob. ^isaiah-14-1
+1 But the LORD will take pity on Jacob and again choose Israel, and will settle them on their own land; foreigners will join them and attach themselves to the house of Jacob. ^isaiah-14-1
 
 2 The nations will take them and bring them to their place, and the house of Israel will possess them as male and female slaves on the Lord’s land; they will take captive their captors and rule over their oppressors. ^isaiah-14-2
 
 **Downfall of the King of Babylon.**
 
-3 On the day when the L ORD gives you rest from your sorrow and turmoil, from the hard service with which you served, ^isaiah-14-3
+3 On the day when the LORD gives you rest from your sorrow and turmoil, from the hard service with which you served, ^isaiah-14-3
 
 4 you will take up this taunt-song against the king of Babylon: ^isaiah-14-4
 
@@ -37,7 +36,7 @@ How the oppressor has come to an end!
 
 how the turmoil has ended!
 
-5 The L ORD has broken the rod of the wicked, ^isaiah-14-5
+5 The LORD has broken the rod of the wicked, ^isaiah-14-5
 
 the staff of the tyrants
 
@@ -163,13 +162,13 @@ Lest they rise and possess the earth,
 
 and fill the breadth of the world with cities.
 
-22 I will rise up against them, says the L ORD of hosts, and cut off from Babylon name and remnant, progeny and offspring, says the L ORD. ^isaiah-14-22
+22 I will rise up against them, says the LORD of hosts, and cut off from Babylon name and remnant, progeny and offspring, says the LORD. ^isaiah-14-22
 
-23 I will make it a haunt of hoot owls and a marshland; I will sweep it with the broom of destruction, oracle of the L ORD of hosts. ^isaiah-14-23
+23 I will make it a haunt of hoot owls and a marshland; I will sweep it with the broom of destruction, oracle of the LORD of hosts. ^isaiah-14-23
 
-#### God’s Plan for Assyria
+### God’s Plan for Assyria
 
-24 The L ORD of hosts has sworn: ^isaiah-14-24
+24 The LORD of hosts has sworn: ^isaiah-14-24
 
 As I have resolved,
 
@@ -191,7 +190,7 @@ and his burden from their shoulder.
 
 and this the hand outstretched over all the nations.
 
-27 The L ORD of hosts has planned; ^isaiah-14-27
+27 The LORD of hosts has planned; ^isaiah-14-27
 
 who can thwart him?
 
@@ -229,7 +228,7 @@ without a straggler in its ranks.
 
 32 What will one answer the messengers of the nations? ^isaiah-14-32
 
-“The L ORD has established Zion,
+“The LORD has established Zion,
 
 and in her the afflicted of his people find refuge.”
 

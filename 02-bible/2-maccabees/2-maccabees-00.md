@@ -1,9 +1,6 @@
 ---
-title: 2 Maccabees – Chapter Index
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
+title: 2 Maccabees – Chapter Index
 aliases:
   - 2 Maccabees – Chapter Index
   - 2-maccabees-00
@@ -11,9 +8,12 @@ aliases:
 tags:
   - bible
   - bible/2-maccabees
-layer: canon
-node-type: book
-testament: old
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
 ---
 
 # 2 Maccabees – Chapter Index

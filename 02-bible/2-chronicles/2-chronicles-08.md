@@ -1,29 +1,28 @@
 ---
-title: 2 Chronicles, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 8
+title: 2 Chronicles, Chapter 8
+url: https://bible.usccb.org/bible/2chronicles/8
 aliases:
   - 2 Chronicles, Chapter 8
   - 2-chronicles-08
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/8
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 8
 ---
 
 # 2 Chronicles, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Public Works.**
 
-1 After the twenty years during which Solomon built the house of the L ORD and his own house, ^2-chronicles-08-1
+1 After the twenty years during which Solomon built the house of the LORD and his own house, ^2-chronicles-08-1
 
 2 he built up the cities which Huram had given him, and settled Israelites there. ^2-chronicles-08-2
 
@@ -45,15 +44,15 @@ url: https://bible.usccb.org/bible/2chronicles/8
 
 **Solomon’s Piety.**
 
-11 Solomon brought the daughter of Pharaoh up from the City of David to the house which he had built for her, for he said, “No wife of mine shall dwell in the house of David, king of Israel, for the places where the ark of the L ORD has come are holy.” ^2-chronicles-08-11
+11 Solomon brought the daughter of Pharaoh up from the City of David to the house which he had built for her, for he said, “No wife of mine shall dwell in the house of David, king of Israel, for the places where the ark of the LORD has come are holy.” ^2-chronicles-08-11
 
-12 In those times Solomon sacrificed burnt offerings to the L ORD upon the altar of the L ORD which he had built in front of the porch, ^2-chronicles-08-12
+12 In those times Solomon sacrificed burnt offerings to the LORD upon the altar of the LORD which he had built in front of the porch, ^2-chronicles-08-12
 
 13 as was required to be done day by day according to the command of Moses, especially on the sabbaths, at the new moons, and on the fixed festivals three times a year: on the feast of the Unleavened Bread, the feast of Weeks, and the feast of Booths. ^2-chronicles-08-13
 
 14 And according to the ordinance of David his father he appointed the various divisions of the priests for their service, and the Levites according to their functions of praise and attendance upon the priests, as the daily duty required. The gatekeepers by their divisions stood guard at each gate, since such was the command of David, the man of God. ^2-chronicles-08-14
 
-16 All of Solomon’s work was carried out successfully from the day the foundation of the house of the L ORD was laid until its completion. The house of the L ORD was finished. ^2-chronicles-08-16
+16 All of Solomon’s work was carried out successfully from the day the foundation of the house of the LORD was laid until its completion. The house of the LORD was finished. ^2-chronicles-08-16
 
 **Glories of the Court.**
 

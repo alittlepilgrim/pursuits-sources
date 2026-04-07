@@ -1,10 +1,7 @@
 ---
-title: April 17, Blessed Baptist Spagnoli
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers 04-17-blessed-baptist-spagnoli-priest
+title: April 17, Blessed Baptist Spagnoli
+author: OCD General Curia
 aliases:
   - 04-17-blessed-baptist-spagnoli
   - 20250731-121434
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 04-17
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers 04-17-blessed-baptist-spagnoli-priest
 ---
 
 # April 17, Blessed Baptist Spagnoli

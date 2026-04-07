@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 9
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 9
+title: Sirach, Chapter 9
+url: https://bible.usccb.org/bible/sirach/9
 aliases:
   - sirach-09
   - Sirach, Chapter 9
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/9
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 9
 ---
 
 # Sirach, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
-#### Advice Concerning Women
+### Advice Concerning Women
 
 1 Do not be jealous of the wife of your bosom, ^sirach-09-1
 
@@ -67,7 +66,7 @@ Lest your heart be drawn to her
 
 and you go down in blood to the grave.
 
-#### Choice of Friends
+### Choice of Friends
 
 10 Do not abandon old friends; ^sirach-09-10
 
@@ -109,7 +108,7 @@ and let all your conversation be about the law of the Most High.
 
 and let your glory be in the fear of God.
 
-#### Concerning Rulers
+### Concerning Rulers
 
 17 Work by skilled hands will earn praise; ^sirach-09-17
 

@@ -1,20 +1,19 @@
 ---
-title: Psalm 55
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 55
+title: Psalm 55
+url: https://bible.usccb.org/bible/psalms/55
 aliases:
   - Psalm 55
   - psalm-55
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/55
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 55
 ---
 
 # Psalm 55

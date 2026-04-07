@@ -1,22 +1,23 @@
 ---
-title: The Spiritual Canticle by John of the Cross
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: The Spiritual Canticle by John of the Cross
+author: Secular Order of Discalced Carmelites
 aliases:
   - The Spiritual Canticle
   - The Spiritual Canticle by John of the Cross
 tags:
   - carmel
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
-## The Spiritual Canticle - OCDS Ongoing Formation Volume II
+# The Spiritual Canticle - OCDS Ongoing Formation Volume II
 
 Required Reading: The Spiritual Canticle. This book is included in The Collected Works of John of the Cross, ICS.
 
-### Session One: Stanzas 1-21
+## Session One: Stanzas 1-21
 
 Early stages of the soul’s journey
 
@@ -74,7 +75,7 @@ Spiritual Canticle – Session Two
 
 p.84
 
-### Session Two: Stanzas 22-25
+## Session Two: Stanzas 22-25
 
 (May take multiple sessions, as needed.)
 
@@ -104,7 +105,7 @@ p.85
 
 23:6. Read the entire bible verse meditatively for a better understanding of becoming more like Christ.
 
-#### Stanza 24
+### Stanza 24
 
  “Our bed is in flower” — “…the virtues of the soul in this state are now perfect and heroic. This, though, could not have come about until the bed [of the soul] was in flower in the perfect union with God” (SC.24:3).
 
@@ -132,7 +133,7 @@ Side note: Similar thoughts were expressed in one of Edith Stein’s essays, “
 
  “Built up in peace.” From the perfect love comes perfect peace of the soul. The soul is peaceful, meek and strong. “And the virtues keep the soul so tranquil and safe that to her it seems she is built up in peace” (SC.24:8).
 
-#### Stanza 25
+### Stanza 25
 
 Following your footprints maidens run along the way;
 
@@ -170,13 +171,13 @@ Spiritual Canticle – Session Three
 
 p.88
 
-### Session Three: Stanzas 26-30
+## Session Three: Stanzas 26-30
 
 (May take multiple sessions, as needed.)
 
 Essential Points to Discuss:
 
-#### Stanza 26: “In the Inner Wine cellar”
+### Stanza 26: “In the Inner Wine cellar”
 
  “This wine cellar is the last and most intimate degree of love in which the soul can be placed in this life. Accordingly she calls this degree of love ‘the inner wine cellar,’ that is, the most interior” (SC.26:3).
 
@@ -258,7 +259,7 @@ everything that can be displeasing to Jesus; it leaves nothing but a humble and 
 
 Note: These thoughts of Thérèse highlight her profound understanding of St. John of the Cross’ teaching on love and transformation. Her striving for holiness in everyday life reflects a practical application of John’s core message.
 
-#### Stanza 27
+### Stanza 27
 
  The mutual surrender between the soul and God is another benefit of this unitive life. John makes a bold statement to describe this mutual surrender: “The tenderness and truth of love by which the immense Father favors and exalts this humble and loving soul reaches such a degree – O wonderful thing, worthy of all our awe and admiration! – that the Father himself becomes subject to her exaltation, as though he were her servant and she his lord. And he is as solicitous in favoring her as he would be if he were her slave and she his god. So profound is the humility and sweetness of God!” (SC.27:1).
 
@@ -280,7 +281,7 @@ Side note: The teachings of John were realized in Thérèse when she made her ma
 
 “Charity gave me the key to my vocation. … I understood that LOVE COMPRISED ALL VOCATIONS, THAT LOVE WAS EVERYTHING, THAT IT EMBRACED ALL TIMES AND PLACES.... IN A WORD, THAT IT WAS ETERNAL! Then, in the excess of my delirious joy, I cried out: O Jesus, my Love.... my vocation, at last I have found it.… MY VOCATION IS LOVE!” (Story of a Soul, Study Edition, pg. 302).
 
-#### Stanza 28
+### Stanza 28
 
  John goes on to explain that in the past the soul engaged in “unprofitable occupations.” “She usually has desires to serve the appetites of others, which she does through ostentation, compliments, flattery, human respect, the effort to impress and please people by her actions, and many other useless things. In this fashion she strives to please people, employing for them all her care, desires, work, and finally energy” (SC.28:7).
 
@@ -288,7 +289,7 @@ Side note: The teachings of John were realized in Thérèse when she made her ma
 
  As John observes, “… everything is now the substance of love …” (SC.28:10). In other words, one has arrived at the point of spiritual maturity!
 
-#### Stanza 29
+### Stanza 29
 
  Apostolic fruitfulness is another enduring benefit of this union in love. “For a little of this pure love is more precious to God and the soul and more beneficial to the Church, even though it seems one is doing nothing, than all these other works put together” (SC.29:2). John reminds the reader in unequivocal terms: “After all, this love is the end for which we were created” (SC.29:3).
 
@@ -302,7 +303,7 @@ p.93
 
  In this union of love, John says that the soul “... has reached such a point that she has lost all roads and natural methods in her communion with God, and no longer seeks him by reflections or forms or feelings or by any other way of creatures and the senses, but has advanced beyond them all and beyond all modes and manners, and enjoys communion with God in faith and love, then it is said that God is her gain, because she has certainly lost all that is not God” (SC.29:11).
 
-#### Stanza 30
+### Stanza 30
 
  “Chosen on cool mornings” (SC.30:1). John, in this stanza, reflects on the virtues practiced by the determined souls during the dark hours (“cool mornings”) of their lives, and the great merit of a life lived entirely for God. Many good people give up prayer altogether because they seem to experience nothing but aridity, dryness, and difficulty in prayer. But John states that “... virtue takes root in dryness, difficulty, and labor, as God says to St. Paul: Virtue is made perfect in weakness [2Cor.12:9].” (SC.30:5).
 
@@ -314,7 +315,7 @@ Spiritual Canticle – Session Four
 
 p.94
 
-### Session Four: Stanzas 31-35
+## Session Four: Stanzas 31-35
 
 (May take multiple sessions, as needed.)
 
@@ -360,7 +361,7 @@ Spiritual Canticle – Session Five
 
 p.96
 
-### Session Five: Stanzas 36-40
+## Session Five: Stanzas 36-40
 
 (May take multiple sessions, as needed.)
 
@@ -414,7 +415,7 @@ We must rediscover this form of knowledge. It is a pressing need of our time” 
 
  Pain, suffering, and trials in this state will not affect the soul as it did before this union. She sees all in the light of God himself. “Suffering is the means of her penetrating further, deep into the thicket of the delectable wisdom of God. The purest suffering brings with it the purest and most intimate knowing, and consequently the purest and highest joy, because it is a knowing from further within” (SC.36:12). Note: The phrase “and further, deep into the thicket” emphasizes the deeper or more interior aspect of contemplation. It captures the essence of contemplative prayer.
 
-#### Stanza 37: Incarnation and Then We Will Go on
+### Stanza 37: Incarnation and Then We Will Go on
 
 to the high caverns in the rock which are so well concealed;
 
@@ -442,7 +443,7 @@ Side note: “‘The high caverns in the rock; the rock is Christ’ (1 Cor. 10:
 
  “The juice from these pomegranates [the divine knowledge] that the bride and the Bridegroom will taste is the fruition and delight of the love of God overflowing from the knowledge of his attributes” (SC.37:8). John teaches that the pinnacle of this transformation and union is to taste and experience this lofty knowledge of God. It is a pure gift from God to the soul.
 
-#### Stanza 38: Perfect Love. “There You Will Show me/what My Soul Has Been seeking...”
+### Stanza 38: Perfect Love. “There You Will Show me/what My Soul Has Been seeking...”
 
  “The soul’s aim is a love equal to God’s. She always desired this equality, naturally and supernaturally... Just as the soul, according to St. Paul, will know them as she is known by God [1 Cor. 13:12], so she will also love God as she is loved by him. As her intellect will be the intellect of God, her will then will be God’s will, and thus her love will be
 
@@ -456,7 +457,7 @@ God’s love. The soul’s will is not destroyed there, but is so firmly united 
 
 Side note: “We should read this [passage] against the background of the Biblical notion of ‘name’; the tremendous significance of ‘writing on him the name of my God’ points to a complete change of status, so that something in the person undergoes a radical and profound change; an elevation to the Godhead itself. The radical change or renewal of the person is effected; ‘I will write upon him … my new name.’ We recall the great significance of Jesus’ changing Simon’s name to Peter; it implied and actually effected a complete change in the person of Peter, imparting to him qualities which naturally he lacked; Simon did become ‘the Rock’ after Pentecost; strong, courageous and reliable, by the action of the Holy Spirit” (The Spiritual Canticle, Simplified Version, John Venard, O.C.D., pg. 279).
 
-#### Stanza 39: “The Breathing of the air” – Communication of the Holy Spirit and the Trinitarian Life
+### Stanza 39: “The Breathing of the air” – Communication of the Holy Spirit and the Trinitarian Life
 
 the breathing of the air, the song of the sweet nightingale,
 
@@ -536,7 +537,7 @@ enkindling of another, better love (love of the soul’s Bridegroom) is necessar
 
  Transformation and union with God are not about the individual only. God gives His gifts to individuals for the good of the Church and the World.
 
-#### Conclusion
+### Conclusion
 
 “Always, we are reminded, ‘Christ’s by essence, ours by participation;’... Lest we should forget that it is only in and through the Church and as ‘members of His Body, which is the Church’ that all these graces come to us. St. John of the Cross places the mystical experience of the Spiritual Marriage firmly within the context of the Church. It is not, and can never be, simply a private, individual experience. This would be to overlook the mysterious, mystical, but real identity between Christ and His mystical Body, the Church, and every member of it. Mysticism adds to the institutional and sacramental aspects of the Church, an enrichment which makes for fullness and completion, which will be realized when we, the Church, ‘share the beauty of the Spouse when we see God face to face’” (The Spiritual Canticle, Simplified Version, John Venard, O.C.D., pg. 255).
 
@@ -556,7 +557,7 @@ p.104
 
 in which the Church of Christ is truly present and acts” (OCDS Const. #27).
 
-#### Prayer
+### Prayer
 
 May grace and peace be accomplished and perfect in you in the knowledge of God and of our Lord Jesus Christ,
 
@@ -568,7 +569,7 @@ precious promises, that by these we may be made partakers of the divine nature
 
 (2 Pt. 1:2-4; SC.39:6).
 
-### Bibliography
+## Bibliography
 
 The Collected Works of John of the Cross, ICS Publications, 1991, 2017.
 

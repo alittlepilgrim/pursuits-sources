@@ -1,37 +1,36 @@
 ---
-title: Haggai, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Haggai, Chapter 1
+title: Haggai, Chapter 1
+url: https://bible.usccb.org/bible/haggai/1
 aliases:
   - haggai-01
   - Haggai, Chapter 1
 tags:
+  - bible/chapter
   - bible/haggai
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/haggai/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Haggai, Chapter 1
 ---
 
 # Haggai, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Prophetic Call to Work on the Temple.**
 
-1 On the first day of the sixth month in the second year of Darius the king, the word of the L ORD came through Haggai the prophet to the governor of Judah, Zerubbabel, son of Shealtiel, and to the high priest Joshua, son of Jehozadak: ^haggai-01-1
+1 On the first day of the sixth month in the second year of Darius the king, the word of the LORD came through Haggai the prophet to the governor of Judah, Zerubbabel, son of Shealtiel, and to the high priest Joshua, son of Jehozadak: ^haggai-01-1
 
-2 Thus says the L ORD of hosts: This people has said: “Now is not the time to rebuild the house of the L ORD.” ^haggai-01-2
+2 Thus says the LORD of hosts: This people has said: “Now is not the time to rebuild the house of the LORD.” ^haggai-01-2
 
-3 Then the word of the L ORD came through Haggai the prophet: ^haggai-01-3
+3 Then the word of the LORD came through Haggai the prophet: ^haggai-01-3
 
 4 Is it time for you to dwell in your paneled houses while this house lies in ruins? ^haggai-01-4
 
-5 Now thus says the L ORD of hosts: ^haggai-01-5
+5 Now thus says the LORD of hosts: ^haggai-01-5
 
 Reflect on your experience!
 
@@ -45,7 +44,7 @@ you have clothed yourselves, but have not been warmed;
 
 And the hired worker labors for a bag full of holes.
 
-7 Thus says the L ORD of hosts: ^haggai-01-7
+7 Thus says the LORD of hosts: ^haggai-01-7
 
 Reflect on your experience!
 
@@ -55,13 +54,13 @@ bring timber, and build the house
 
 that I may be pleased with it,
 
-and that I may be glorified, says the L ORD.
+and that I may be glorified, says the LORD.
 
 9 You expected much, but it came to little; ^haggai-01-9
 
 and what you brought home, I blew away.
 
-Why is this?—oracle of the L ORD of hosts—
+Why is this?—oracle of the LORD of hosts—
 
 Because my house is the one which lies in ruins,
 
@@ -85,11 +84,11 @@ and upon all they produce.
 
 **Response of Leaders and People.**
 
-12 Then Zerubbabel, son of Shealtiel, and the high priest Joshua, son of Jehozadak, and all the remnant of the people obeyed the L ORD their God, and the words of Haggai the prophet, since the L ORD their God had sent him; thus the people feared the L ORD. ^haggai-01-12
+12 Then Zerubbabel, son of Shealtiel, and the high priest Joshua, son of Jehozadak, and all the remnant of the people obeyed the LORD their God, and the words of Haggai the prophet, since the LORD their God had sent him; thus the people feared the LORD. ^haggai-01-12
 
-13 Then Haggai, the messenger of the L ORD, proclaimed to the people as the message of the L ORD: I am with you!—oracle of the L ORD. ^haggai-01-13
+13 Then Haggai, the messenger of the LORD, proclaimed to the people as the message of the LORD: I am with you!—oracle of the LORD. ^haggai-01-13
 
-14 And so the L ORD stirred up the spirit of the governor of Judah, Zerubbabel, son of Shealtiel, and the spirit of the high priest Joshua, son of Jehozadak, and the spirit of all the remnant of the people, so that they came to do the work in the house of the L ORD of hosts, their God, ^haggai-01-14
+14 And so the LORD stirred up the spirit of the governor of Judah, Zerubbabel, son of Shealtiel, and the spirit of the high priest Joshua, son of Jehozadak, and the spirit of all the remnant of the people, so that they came to do the work in the house of the LORD of hosts, their God, ^haggai-01-14
 
 15 on the twenty-fourth day of the sixth month in the second year of Darius the king. ^haggai-01-15
 
@@ -101,7 +100,7 @@ and upon all they produce.
 
 \* (1:8) That I may be glorified: for the prophet, the rebuilding of the Temple restores the glory God had lost in the eyes of the nations by the Temple’s destruction.
 
-\* (1:9) Oracle of the L ORD: a phrase used extensively in prophetic books to indicate divine speech.
+\* (1:9) Oracle of the LORD: a phrase used extensively in prophetic books to indicate divine speech.
 
 \* (1:11) Devastating heat: this pronouncement of natural disaster, which functions as a warning to the people for their failure to rebuild the Temple, concludes the opening oracular section of Haggai.
 

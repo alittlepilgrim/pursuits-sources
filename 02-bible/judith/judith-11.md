@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 11
+title: Judith, Chapter 11
+url: https://bible.usccb.org/bible/judith/11
 aliases:
   - judith-11
   - Judith, Chapter 11
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 11
 ---
 
 # Judith, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 1 Then Holofernes said to her: “Take courage, woman! Have no fear in your heart! I have never harmed anyone who chose to serve Nebuchadnezzar, king of all the earth. ^judith-11-1
 

@@ -1,27 +1,26 @@
 ---
-title: Jeremiah, Chapter 46
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 46
+title: Jeremiah, Chapter 46
+url: https://bible.usccb.org/bible/jeremiah/46
 aliases:
   - jeremiah-46
   - Jeremiah, Chapter 46
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/46
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 46
 ---
 
 # Jeremiah, Chapter 46
 
-### Chapter 46
+## Chapter 46
 
-1 The word of the L ORD that came to Jeremiah the prophet concerning the nations. ^jeremiah-46-1
+1 The word of the LORD that came to Jeremiah the prophet concerning the nations. ^jeremiah-46-1
 
 **Against Egypt.**
 
@@ -51,7 +50,7 @@ never making a stand.
 
 Terror on every side—
 
-oracle of the L ORD!
+oracle of the LORD!
 
 6 The swift cannot flee, ^jeremiah-46-6
 
@@ -109,7 +108,7 @@ Warrior stumbles against warrior,
 
 both collapse together.
 
-13 The word that the L ORD spoke to Jeremiah the prophet when Nebuchadrezzar, king of Babylon, came to attack the land of Egypt: ^jeremiah-46-13
+13 The word that the LORD spoke to Jeremiah the prophet when Nebuchadrezzar, king of Babylon, came to attack the land of Egypt: ^jeremiah-46-13
 
 14 Proclaim in Egypt, announce in Migdol, ^jeremiah-46-14
 
@@ -123,7 +122,7 @@ the sword has devoured your neighbors.
 
 Your champion did not stand,
 
-Because the L ORD thrust him down;
+Because the LORD thrust him down;
 
 16 he stumbled repeatedly then collapsed. ^jeremiah-46-16
 
@@ -141,7 +140,7 @@ away from the destroying sword.”
 
 18 As I live, says the King ^jeremiah-46-18
 
-whose name is L ORD of hosts,
+whose name is LORD of hosts,
 
 Like Tabor above mountains,
 
@@ -179,7 +178,7 @@ They attack her with axes,
 
 like those who fell trees.
 
-23 They cut down her forest—oracle of the L ORD — ^jeremiah-46-23
+23 They cut down her forest—oracle of the LORD — ^jeremiah-46-23
 
 impenetrable though it be;
 
@@ -191,9 +190,9 @@ they cannot be counted.
 
 handed over to a people from the north.
 
-25 The L ORD of hosts, the God of Israel, has said: See! I will punish Amon of Thebes and Egypt, gods, kings, Pharaoh, and those who trust in him. ^jeremiah-46-25
+25 The LORD of hosts, the God of Israel, has said: See! I will punish Amon of Thebes and Egypt, gods, kings, Pharaoh, and those who trust in him. ^jeremiah-46-25
 
-26 I will hand them over to those who seek their lives, to Nebuchadrezzar, king of Babylon, and to his officers. But later, Egypt shall be inhabited again, as in days of old—oracle of the L ORD. ^jeremiah-46-26
+26 I will hand them over to those who seek their lives, to Nebuchadrezzar, king of Babylon, and to his officers. But later, Egypt shall be inhabited again, as in days of old—oracle of the LORD. ^jeremiah-46-26
 
 27 But you, my servant Jacob, do not fear; ^jeremiah-46-27
 
@@ -207,7 +206,7 @@ Jacob shall again find rest,
 
 secure, with none to frighten him.
 
-28 You, Jacob my servant, must not fear—oracle of the L ORD — ^jeremiah-46-28
+28 You, Jacob my servant, must not fear—oracle of the LORD — ^jeremiah-46-28
 
 for I am with you;
 
@@ -221,7 +220,7 @@ I will chastise you as you deserve,
 
 I cannot let you go unpunished.
 
-\* (46:1] – [51:64) A collection of oracles against foreign nations constitutes the final section of the Hebrew text of Jeremiah; in the Greek text they follow [25:13]. The oracles here appear to be arranged in loose chronological order: [46:2] mentions the fourth year of Jehoiakim; the oracles in [50:1] – [51:64] are evidently from the end of Jeremiah’s life.
+\* (46:1] – [51:64) A collection of oracles against foreign nations constitutes the final section of the Hebrew text of Jeremiah; in the Greek text they follow [25:13]. The oracles here appear to be arranged in loose chronologicaLORDer: [46:2] mentions the fourth year of Jehoiakim; the oracles in [50:1] – [51:64] are evidently from the end of Jeremiah’s life.
 
 \* (46:2) Carchemish on the Euphrates: the western terminus of the Mesopotamian trade route, where Nebuchadnezzar defeated Pharaoh Neco in 605 B.C., thus gaining undisputed control of Syria and Palestine.
 

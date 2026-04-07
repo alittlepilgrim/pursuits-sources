@@ -1,31 +1,30 @@
 ---
-title: 2 Chronicles, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 16
+title: 2 Chronicles, Chapter 16
+url: https://bible.usccb.org/bible/2chronicles/16
 aliases:
   - 2 Chronicles, Chapter 16
   - 2-chronicles-16
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/16
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 16
 ---
 
 # 2 Chronicles, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **Asa’s Infidelity.**
 
 1 In the thirty-sixth year of Asa’s reign, Baasha, king of Israel, attacked Judah and fortified Ramah to block all movement for Asa, king of Judah. ^2-chronicles-16-1
 
-2 Asa then brought out silver and gold from the treasuries of the house of the L ORD and the house of the king and sent them to Ben-hadad, king of Aram, who ruled in Damascus. He said: ^2-chronicles-16-2
+2 Asa then brought out silver and gold from the treasuries of the house of the LORD and the house of the king and sent them to Ben-hadad, king of Aram, who ruled in Damascus. He said: ^2-chronicles-16-2
 
 3 “There is a treaty between you and me, as there was between your father and my father. I am sending you silver and gold. Go, break your treaty with Baasha, king of Israel, that he may withdraw from me.” ^2-chronicles-16-3
 
@@ -35,17 +34,17 @@ url: https://bible.usccb.org/bible/2chronicles/16
 
 6 Then King Asa commandeered all Judah and they carried away the stones and beams with which Baasha was fortifying Ramah. With them he fortified Geba and Mizpah. ^2-chronicles-16-6
 
-7 At that time Hanani the seer came to Asa, king of Judah, and said to him: “Because you relied on the king of Aram and did not rely on the L ORD, your God, the army of the king of Aram has escaped your power. ^2-chronicles-16-7
+7 At that time Hanani the seer came to Asa, king of Judah, and said to him: “Because you relied on the king of Aram and did not rely on the LORD, your God, the army of the king of Aram has escaped your power. ^2-chronicles-16-7
 
-8 Were not the Ethiopians and Libyans a vast army, with great numbers of chariots and horses? And yet, because you relied on the L ORD, he delivered them into your power. ^2-chronicles-16-8
+8 Were not the Ethiopians and Libyans a vast army, with great numbers of chariots and horses? And yet, because you relied on the LORD, he delivered them into your power. ^2-chronicles-16-8
 
-9 The eyes of the L ORD roam over the whole earth, to encourage those who are devoted to him wholeheartedly. You have acted foolishly in this matter, for from now on you will have wars.” ^2-chronicles-16-9
+9 The eyes of the LORD roam over the whole earth, to encourage those who are devoted to him wholeheartedly. You have acted foolishly in this matter, for from now on you will have wars.” ^2-chronicles-16-9
 
 10 But Asa became angry with the seer and imprisoned him in the stocks, so greatly was he enraged at him over this. Asa also oppressed some of his people at this time. ^2-chronicles-16-10
 
 11 Now the acts of Asa, first and last, are recorded in the book of the kings of Judah and Israel. ^2-chronicles-16-11
 
-12 In the thirty-ninth year of his reign, Asa contracted disease in his feet; it became worse, but even with this disease he did not seek the L ORD, only physicians. ^2-chronicles-16-12
+12 In the thirty-ninth year of his reign, Asa contracted disease in his feet; it became worse, but even with this disease he did not seek the LORD, only physicians. ^2-chronicles-16-12
 
 13 Asa rested with his ancestors; he died in the forty-first year of his reign. ^2-chronicles-16-13
 

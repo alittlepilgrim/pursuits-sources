@@ -1,9 +1,7 @@
 ---
-title: The Exclamations of the Soul to God Or, the Meditations of St. Teresa After Communion
-created: 2025-07-25
-modified: 2026-04-02
 type: book
-publish: true
+title: The Exclamations of the Soul to God Or, the Meditations of St. Teresa After Communion
+author: Saint Teresa of Ávila
 aliases:
   - 20250725-185206
   - The Exclamations of the Soul to God Or, the Meditations of St. Teresa after Communion
@@ -11,16 +9,18 @@ aliases:
   - The Exclamations of the Soul To God Or, The Meditations of St. Teresa After Communion
   - tj-exclamations-of-the-soul-to-god
 tags:
-  - author/teresa-of-avila
+  - author/saint-teresa-of-avila
   - subject
-author: Saint Teresa of Avila
+created: 2025-07-25
+modified: 2026-04-06
+publish: true
 ---
 
 # The Exclamations of the Soul to God Or, the Meditations of St. Teresa After Communion
 
 by
 
-; 
+[Teresa, of Avila, Saint, 1515-1582](https://archive.org/search.php?query=creator%3A%22Teresa%2C+of+Avila%2C+Saint%2C+1515-1582%22); [Milner, John, 1752-1826](https://archive.org/search.php?query=creator%3A%22Milner%2C+John%2C+1752-1826%22)
 
 ## Source, Internet Archive
 

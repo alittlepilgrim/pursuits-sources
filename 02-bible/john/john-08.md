@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 8
+title: John, Chapter 8
+url: https://bible.usccb.org/bible/john/8
 aliases:
   - john-08
   - John, Chapter 8
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/8
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 8
 ---
 
 # John, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **A Woman Caught in [[adultery]].**\[
 
@@ -155,7 +154,7 @@ url: https://bible.usccb.org/bible/john/8
 
 \* (8:5) [Lv 20:10] and [Dt 22:22] mention only death, but [Dt 22:23] – [24] prescribes stoning for a betrothed virgin.
 
-\* (8:6) Cf. [Jer 17:13] (RSV): “Those who turn away from thee shall be written in the earth, for they have forsaken the L ORD, the fountain of living water”; cf. [Jn 7:38].
+\* (8:6) Cf. [Jer 17:13] (RSV): “Those who turn away from thee shall be written in the earth, for they have forsaken the LORD, the fountain of living water”; cf. [Jn 7:38].
 
 \* (8:7) The first stones were to be thrown by the witnesses ([Dt 17:7]).
 

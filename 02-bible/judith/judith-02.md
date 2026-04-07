@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 2
+title: Judith, Chapter 2
+url: https://bible.usccb.org/bible/judith/2
 aliases:
   - judith-02
   - Judith, Chapter 2
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 2
 ---
 
 # Judith, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Revenge Planned Against the Western Nations.**
 

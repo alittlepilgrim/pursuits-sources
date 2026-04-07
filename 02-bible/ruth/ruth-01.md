@@ -1,25 +1,24 @@
 ---
-title: Ruth, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ruth, Chapter 1
+title: Ruth, Chapter 1
+url: https://bible.usccb.org/bible/ruth/1
 aliases:
   - ruth-01
   - Ruth, Chapter 1
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/ruth
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ruth/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ruth, Chapter 1
 ---
 
 # Ruth, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Naomi in Moab.**
 
@@ -33,13 +32,13 @@ url: https://bible.usccb.org/bible/ruth/1
 
 5 both Mahlon and Chilion died also, and the woman was left with neither her two boys nor her husband. ^ruth-01-5
 
-6 She and her daughters-in-law then prepared to go back from the plateau of Moab because word had reached her there that the L ORD had seen to his people’s needs and given them food. ^ruth-01-6
+6 She and her daughters-in-law then prepared to go back from the plateau of Moab because word had reached her there that the LORD had seen to his people’s needs and given them food. ^ruth-01-6
 
 7 She and her two daughters-in-law left the place where they had been living. On the road back to the land of Judah, ^ruth-01-7
 
-8 Naomi said to her daughters-in-law, “Go back, each of you to your mother’s house. May the L ORD show you the same kindness as you have shown to the deceased and to me. ^ruth-01-8
+8 Naomi said to her daughters-in-law, “Go back, each of you to your mother’s house. May the LORD show you the same kindness as you have shown to the deceased and to me. ^ruth-01-8
 
-9 May the L ORD guide each of you to find a husband and a home in which you will be at rest.” She kissed them good-bye, but they wept aloud, ^ruth-01-9
+9 May the LORD guide each of you to find a husband and a home in which you will be at rest.” She kissed them good-bye, but they wept aloud, ^ruth-01-9
 
 10 crying, “No! We will go back with you, to your people.” ^ruth-01-10
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/ruth/1
 
 12 Go, my daughters, for I am too old to marry again. Even if I had any such hope, or if tonight I had a husband and were to bear sons, ^ruth-01-12
 
-13 would you wait for them and deprive yourselves of husbands until those sons grew up? No, my daughters, my lot is too bitter for you, because the L ORD has extended his hand against me.” ^ruth-01-13
+13 would you wait for them and deprive yourselves of husbands until those sons grew up? No, my daughters, my lot is too bitter for you, because the LORD has extended his hand against me.” ^ruth-01-13
 
 14 Again they wept aloud; then Orpah kissed her mother-in-law good-bye, but Ruth clung to her. ^ruth-01-14
 
@@ -67,7 +66,7 @@ and your God, my God.
 
 and there be buried.
 
-May the L ORD do thus to me, and more, if even death separates me from you!”
+May the LORD do thus to me, and more, if even death separates me from you!”
 
 18 Naomi then ceased to urge her, for she saw she was determined to go with her. ^ruth-01-18
 
@@ -77,7 +76,7 @@ May the L ORD do thus to me, and more, if even death separates me from you!”
 
 20 But she said to them, “Do not call me Naomi \[‘Sweet’\]. Call me Mara \[‘Bitter’\], for the Almighty has made my life very bitter. ^ruth-01-20
 
-21 I went away full, but the L ORD has brought me back empty. Why should you call me ‘Sweet,’ since the L ORD has brought me to trial, and the Almighty has pronounced evil sentence on me.” ^ruth-01-21
+21 I went away full, but the LORD has brought me back empty. Why should you call me ‘Sweet,’ since the LORD has brought me to trial, and the Almighty has pronounced evil sentence on me.” ^ruth-01-21
 
 22 Thus it was that Naomi came back with her Moabite daughter-in-law Ruth, who accompanied her back from the plateau of Moab. They arrived in Bethlehem at the beginning of the barley harvest. ^ruth-01-22
 

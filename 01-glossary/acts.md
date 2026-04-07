@@ -1,10 +1,6 @@
 ---
-title: Acts
-created: 2026-03-28
-modified: 2026-04-02
 type: glossary
-publish: true
-description: glossary for the term acts
+title: Acts
 aliases:
   - Acts
 tags:
@@ -14,6 +10,11 @@ tags:
   - term/acts-perfect
   - term/remissi
   - term/three-ages
+  - type/term
+created: 2026-03-28
+modified: 2026-04-06
+publish: true
+description: glossary for the term acts
 ---
 
 # Acts

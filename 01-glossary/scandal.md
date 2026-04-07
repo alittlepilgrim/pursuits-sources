@@ -1,15 +1,16 @@
 ---
-title: Scandal
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: scandal. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Scandal
 aliases:
   - scandal
   - Scandal
 tags:
   - term/scandal
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: scandal. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Scandal

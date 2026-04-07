@@ -1,39 +1,38 @@
 ---
-title: 1 Chronicles, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 11
+title: 1 Chronicles, Chapter 11
+url: https://bible.usccb.org/bible/1chronicles/11
 aliases:
   - 1 Chronicles, Chapter 11
   - 1-chronicles-11
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/11
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 11
 ---
 
 # 1 Chronicles, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
-**David Is Made King.**1 Then all Israel gathered around David in Hebron, and they said: “Look! We are your bone and your flesh.2In days past, when Saul was still the king, it was you who led Israel in all its battles. And now the L ORD, your God, has said to you: You shall shepherd my people Israel; you shall be ruler over my people Israel.” 3Then all the elders of Israel came to the king at Hebron, and at Hebron David made a covenant with them in the presence of the L ORD; and they anointed David king over Israel, in accordance with the word of the L ORD given through Samuel.
+**David Is Made King.**1 Then all Israel gathered around David in Hebron, and they said: “Look! We are your bone and your flesh.2In days past, when Saul was still the king, it was you who led Israel in all its battles. And now the LORD, your God, has said to you: You shall shepherd my people Israel; you shall be ruler over my people Israel.” 3Then all the elders of Israel came to the king at Hebron, and at Hebron David made a covenant with them in the presence of the LORD; and they anointed David king over Israel, in accordance with the word of the LORD given through Samuel.
 
-**Jerusalem Captured.**4Then David and all Israel went to Jerusalem, that is, Jebus, where the inhabitants of the land were called Jebusites.5The inhabitants of Jebus said to David, “You shall not enter here.” David nevertheless captured the fortress of Zion, which is the City of David.6David said, “Whoever strikes the Jebusites first shall be made chief and captain.” Joab, the son of Zeruiah, was the first to attack; and so he became chief.7David took up residence in the fortress, which therefore was called the City of David.8He built up the city on all sides, from the Millo all the way around, while Joab restored the rest of the city.9David became ever more powerful, for the L ORD of hosts was with him.
+**Jerusalem Captured.**4Then David and all Israel went to Jerusalem, that is, Jebus, where the inhabitants of the land were called Jebusites.5The inhabitants of Jebus said to David, “You shall not enter here.” David nevertheless captured the fortress of Zion, which is the City of David.6David said, “Whoever strikes the Jebusites first shall be made chief and captain.” Joab, the son of Zeruiah, was the first to attack; and so he became chief.7David took up residence in the fortress, which therefore was called the City of David.8He built up the city on all sides, from the Millo all the way around, while Joab restored the rest of the city.9David became ever more powerful, for the LORD of hosts was with him.
 
-**David’s Warriors.**10 These were David’s chief warriors who, together with all Israel, supported him in his reign in order to make him king, according to the L ORD’s word concerning Israel.
+**David’s Warriors.**10 These were David’s chief warriors who, together with all Israel, supported him in his reign in order to make him king, according to the LORD’s word concerning Israel.
 
 11Here is the list of David’s warriors:
 
 Ishbaal, the son of Hachamoni, chief of the Three. He brandished his spear over three hundred, whom he had slain in a single encounter.
 
-12Next to him was Eleazar, the son of Dodo the Ahohite, one of the Three warriors.13He was with David at Pas-dammim, where the Philistines had massed for battle. There was a plot of land full of barley. The people were fleeing before the Philistines,14but he took his stand in the middle of the plot, kept it safe, and cut down the Philistines. Thus the L ORD brought about a great victory.
+12Next to him was Eleazar, the son of Dodo the Ahohite, one of the Three warriors.13He was with David at Pas-dammim, where the Philistines had massed for battle. There was a plot of land full of barley. The people were fleeing before the Philistines,14but he took his stand in the middle of the plot, kept it safe, and cut down the Philistines. Thus the LORD brought about a great victory.
 
-15Three of the Thirty chiefs went down to the rock, to David, who was in the cave of Adullam while the Philistines were encamped in the valley of Rephaim.16David was then in the stronghold, and a Philistine garrison was at Bethlehem.17David had a strong craving, and said, “If only someone would give me a drink of water from the cistern by the gate of Bethlehem!” 18Thereupon the Three broke through the encampment of the Philistines, drew water from the cistern by the gate of Bethlehem, and carried it back to David. But David refused to drink it. Instead, he poured it out to the L ORD,19saying, “God forbid that I should do such a thing! Could I drink the blood of these men who risked their lives? For at the risk of their lives they brought it.” So he refused to drink it. Such deeds as these the Three warriors performed.
+15Three of the Thirty chiefs went down to the rock, to David, who was in the cave of Adullam while the Philistines were encamped in the valley of Rephaim.16David was then in the stronghold, and a Philistine garrison was at Bethlehem.17David had a strong craving, and said, “If only someone would give me a drink of water from the cistern by the gate of Bethlehem!” 18Thereupon the Three broke through the encampment of the Philistines, drew water from the cistern by the gate of Bethlehem, and carried it back to David. But David refused to drink it. Instead, he poured it out to the LORD,19saying, “God forbid that I should do such a thing! Could I drink the blood of these men who risked their lives? For at the risk of their lives they brought it.” So he refused to drink it. Such deeds as these the Three warriors performed.
 
 20 Abishai, the brother of Joab, was the chief of the Thirty; he brandished his spear over three hundred, whom he had slain. He made a name beside the Three,21but was twice as famous as any of the Thirty, becoming their leader. However, he did not attain to the Three. ^1-chronicles-11-20
 

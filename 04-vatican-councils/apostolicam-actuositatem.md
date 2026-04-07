@@ -1,30 +1,31 @@
 ---
-title: APOSTOLICAM ACTUOSITATEM
-created: 2025-10-26
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree on the Apostolate of Laity - Apostolicam Actuositatem
+title: Apostolicam Actuositatem
+author: Catholic Church
+source: Vatican.va
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html
 aliases:
   - "***APOSTOLICAM ACTUOSITATEM***"
   - Apostolicam actuositatem
   - Apostolicam Actuositatem
   - apostolicam-actuositatem
+  - Decree On The Apostolate Of The Laity
 tags:
+  - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-10-26
+modified: 2026-04-06
+publish: true
+description: Decree on the Apostolate of Laity - Apostolicam Actuositatem
 abbreviation: aa
-author: Catholic Church
-source: Vatican.va
-url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html
 ---
 
 Source: [](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)
 
-DECREE ON THE APOSTOLATE OF THE LAITY
+Decree On The Apostolate Of The Laity
 
-# ***APOSTOLICAM ACTUOSITATEM***
+# Apostolicam Actuositatem
 
 SOLEMNLY PROMULGATED BY HIS HOLINESS,
 

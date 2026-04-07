@@ -1,33 +1,32 @@
 ---
-title: Job, Chapter 40
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 40
+title: Job, Chapter 40
+url: https://bible.usccb.org/bible/job/40
 aliases:
   - job-40
   - Job, Chapter 40
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/40
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 40
 ---
 
 # Job, Chapter 40
 
-### Chapter 40
+## Chapter 40
 
-1 The L ORD then answered Job and said: ^job-40-1
+1 The LORD then answered Job and said: ^job-40-1
 
 2 Will one who argues with the Almighty be corrected? ^job-40-2
 
 Let him who would instruct God give answer!
 
-3 Then Job answered the L ORD and said: ^job-40-3
+3 Then Job answered the LORD and said: ^job-40-3
 
 4 Look, I am of little account; what can I answer you? ^job-40-4
 
@@ -37,7 +36,7 @@ I put my hand over my mouth.
 
 twice, but I will do so no more.
 
-6 Then the L ORD answered Job out of the storm and said: ^job-40-6
+6 Then the LORD answered Job out of the storm and said: ^job-40-6
 
 7 Gird up your loins now, like a man. ^job-40-7
 

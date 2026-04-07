@@ -1,17 +1,17 @@
 ---
+type: figure
 title: Saint Elijah
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - elijah-saint
   - Saint Elijah
 tags:
   - saint
-celebration: "07-20"
-full_name: "Saint Elijah"
+  - type/figure
+celebration: 07-20
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Elijah

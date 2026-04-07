@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 10
+title: Ezekiel, Chapter 10
+url: https://bible.usccb.org/bible/ezekiel/10
 aliases:
   - ezekiel-10
   - Ezekiel, Chapter 10
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 10
 ---
 
 # Ezekiel, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 1 Then I looked and there above the firmament over the heads of the cherubim was something like a sapphire, something that looked like a throne. ^ezekiel-10-1
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/ezekiel/10
 
 3 Now the cherubim were standing to the south of the temple when the man went in and a cloud filled the inner court. ^ezekiel-10-3
 
-4 The glory of the L ORD had moved off the cherubim to the threshold of the temple; the temple was filled with the cloud, the whole court brilliant with the glory of the L ORD. ^ezekiel-10-4
+4 The glory of the LORD had moved off the cherubim to the threshold of the temple; the temple was filled with the cloud, the whole court brilliant with the glory of the LORD. ^ezekiel-10-4
 
 5 The sound of the wings of the cherubim could be heard as far as the outer court; it was like the voice of God Almighty speaking. ^ezekiel-10-5
 
@@ -55,9 +54,9 @@ url: https://bible.usccb.org/bible/ezekiel/10
 
 17 When they stood still, the wheels stood still; when they rose up, the wheels rose up with them, for the spirit of the living creatures was in them. ^ezekiel-10-17
 
-18 Then the glory of the L ORD left the threshold of the temple and took its place upon the cherubim. ^ezekiel-10-18
+18 Then the glory of the LORD left the threshold of the temple and took its place upon the cherubim. ^ezekiel-10-18
 
-19 The cherubim lifted their wings and rose up from the earth before my eyes as they departed with the wheels beside them. They stopped at the entrance of the eastern gate of the L ORD’s house, and the glory of the God of Israel was up above them. ^ezekiel-10-19
+19 The cherubim lifted their wings and rose up from the earth before my eyes as they departed with the wheels beside them. They stopped at the entrance of the eastern gate of the LORD’s house, and the glory of the God of Israel was up above them. ^ezekiel-10-19
 
 20 These were the living creatures I had seen beneath the God of Israel by the river Chebar. Now I knew they were cherubim. ^ezekiel-10-20
 

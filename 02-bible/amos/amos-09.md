@@ -1,27 +1,26 @@
 ---
-title: Amos, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 9
+title: Amos, Chapter 9
+url: https://bible.usccb.org/bible/amos/9
 aliases:
   - amos-09
   - Amos, Chapter 9
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/9
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 9
 ---
 
 # Amos, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
-#### Fifth Vision: the Destruction of the Sanctuary
+### Fifth Vision: the Destruction of the Sanctuary
 
 1 I saw the Lord standing beside the altar. And he said: ^amos-09-1
 
@@ -79,11 +78,11 @@ Who summons the waters of the sea
 
 and pours them upon the surface of the earth—
 
-the L ORD is his name.
+the LORD is his name.
 
 7 Are you not like the Ethiopians to me, ^amos-09-7
 
-O Israelites?—oracle of the L ORD —
+O Israelites?—oracle of the LORD —
 
 Did I not bring the Israelites from the land of Egypt
 
@@ -97,7 +96,7 @@ and I will destroy it from the face of the earth—
 
 But I will not destroy the house of Jacob completely—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 9 For see, I have given the command ^amos-09-9
 
@@ -111,7 +110,7 @@ letting no pebble fall to the ground.
 
 those who say, “Disaster will not reach or overtake us.”
 
-## Vi. Epilogue: Restoration Under a Davidic King
+# Vi. Epilogue: Restoration Under a Davidic King
 
 11 On that day I will raise up ^amos-09-11
 
@@ -127,11 +126,11 @@ and rebuild it as in the days of old,
 
 and all nations claimed in my name—
 
-oracle of the L ORD, the one who does this.
+oracle of the LORD, the one who does this.
 
 13 Yes, days are coming— ^amos-09-13
 
-oracle of the L ORD —
+oracle of the LORD —
 
 When the one who plows shall overtake the one who reaps
 
@@ -155,7 +154,7 @@ never again shall they be plucked
 
 From the land I have given them—
 
-the L ORD, your God, has spoken.
+the LORD, your God, has spoken.
 
 \* (9:1) This vision may describe the destruction of the temple at Bethel and the fulfillment of the oracle in [3:14], linking God’s judgment upon Israel with the “punishment” of the altars of Bethel. This dramatic event (perhaps to be identified with the earthquake mentioned in [1:1]) symbolizes the end of the Northern Kingdom as the Lord’s people, the consequence of their steadfast refusal to heed the prophetic word and return to the God of Israel.
 

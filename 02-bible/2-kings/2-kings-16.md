@@ -1,25 +1,24 @@
 ---
-title: 2 Kings, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 16
+title: 2 Kings, Chapter 16
+url: https://bible.usccb.org/bible/2kings/16
 aliases:
   - 2 Kings, Chapter 16
   - 2-kings-16
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/16
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 16
 ---
 
 # 2 Kings, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **Reign of Ahaz of Judah.**
 
@@ -27,9 +26,9 @@ url: https://bible.usccb.org/bible/2kings/16
 
 2 Ahaz was twenty years old when he became king, and he reigned sixteen years in Jerusalem. ^2-kings-16-2
 
-He did not do what was right in the sight of the L ORD his God, as David his father had done.
+He did not do what was right in the sight of the LORD his God, as David his father had done.
 
-3 He walked in the way of the kings of Israel; he even immolated his child by fire, in accordance with the abominable practices of the nations whom the L ORD had dispossessed before the Israelites. ^2-kings-16-3
+3 He walked in the way of the kings of Israel; he even immolated his child by fire, in accordance with the abominable practices of the nations whom the LORD had dispossessed before the Israelites. ^2-kings-16-3
 
 4 Further, he sacrificed and burned incense on the high places, on hills, and under every green tree. ^2-kings-16-4
 
@@ -39,7 +38,7 @@ He did not do what was right in the sight of the L ORD his God, as David his fat
 
 7 Meanwhile, Ahaz sent messengers to Tiglath-pileser, king of Assyria, with the plea: “I am your servant and your son. Come up and rescue me from the power of the king of Aram and the king of Israel, who are attacking me.” ^2-kings-16-7
 
-8 Ahaz took the silver and gold that were in the house of the L ORD and in the treasuries of the king’s house and sent them as a present to the king of Assyria. ^2-kings-16-8
+8 Ahaz took the silver and gold that were in the house of the LORD and in the treasuries of the king’s house and sent them as a present to the king of Assyria. ^2-kings-16-8
 
 9 The king of Assyria listened to him and moved against Damascus, captured it, deported its inhabitants to Kir, and put Rezin to death. ^2-kings-16-9
 
@@ -51,7 +50,7 @@ He did not do what was right in the sight of the L ORD his God, as David his fat
 
 13 and sacrificed his burnt offering and grain offering, pouring out his libation, and sprinkling the blood of his communion offerings on the altar. ^2-kings-16-13
 
-14 The bronze altar that stood before the L ORD he brought from the front of the temple—that is, from the space between the new altar and the house of the L ORD —and set it on the north side of his altar. ^2-kings-16-14
+14 The bronze altar that stood before the LORD he brought from the front of the temple—that is, from the space between the new altar and the house of the LORD —and set it on the north side of his altar. ^2-kings-16-14
 
 15 King Ahaz commanded Uriah the priest, “Upon the large altar sacrifice the morning burnt offering and the evening grain offering, the king’s burnt offering and grain offering, and the burnt offering and grain offering of the people of the land. Their libations you must sprinkle on it along with all the blood of burnt offerings and sacrifices. But the old bronze altar shall be mine for consultation.” ^2-kings-16-15
 
@@ -59,7 +58,7 @@ He did not do what was right in the sight of the L ORD his God, as David his fat
 
 17 King Ahaz detached the panels from the stands and removed the basins from them; he also took down the bronze sea from the bronze oxen that supported it, and set it on a stone pavement. ^2-kings-16-17
 
-18 In deference to the king of Assyria he removed the sabbath canopy that had been set up in the house of the L ORD and the king’s outside entrance to the temple. ^2-kings-16-18
+18 In deference to the king of Assyria he removed the sabbath canopy that had been set up in the house of the LORD and the king’s outside entrance to the temple. ^2-kings-16-18
 
 19 The rest of the acts of Ahaz, with what he did, are recorded in the book of the chronicles of the kings of Judah. ^2-kings-16-19
 

@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 3
+title: 2 Samuel, Chapter 3
+url: https://bible.usccb.org/bible/2samuel/3
 aliases:
   - 2 Samuel, Chapter 3
   - 2-samuel-03
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/3
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 3
 ---
 
 # 2 Samuel, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 There followed a long war between the house of Saul and the house of David, in which David grew ever stronger, but the house of Saul ever weaker. ^2-samuel-03-1
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/2samuel/3
 
 8 Enraged at the words of Ishbaal, Abner said, “Am I a dog’s head from Judah? As of today, I have been loyal to the house of Saul your father, to his brothers and his friends, and I have kept you out of David’s clutches; and today you charge me with a crime involving a woman! ^2-samuel-03-8
 
-9 May God do thus to Abner, and more, if I do not carry out for David what the L ORD swore to him— ^2-samuel-03-9
+9 May God do thus to Abner, and more, if I do not carry out for David what the LORD swore to him— ^2-samuel-03-9
 
 10 that is, take away the kingdom from the house of Saul and establish the throne of David over Israel as well as Judah, from Dan to Beer-sheba.” ^2-samuel-03-10
 
@@ -61,7 +60,7 @@ url: https://bible.usccb.org/bible/2samuel/3
 
 17 Abner then had a word with the elders of Israel: “For some time you have been wanting David as your king. ^2-samuel-03-17
 
-18 Now take action, for the L ORD has said of David: By David my servant I will save my people Israel from the power of the Philistines and from the power of all their enemies.” ^2-samuel-03-18
+18 Now take action, for the LORD has said of David: By David my servant I will save my people Israel from the power of the Philistines and from the power of all their enemies.” ^2-samuel-03-18
 
 19 Abner also spoke with Benjamin, and then went to speak with David in Hebron concerning all that would be agreeable to Israel and to the whole house of Benjamin. ^2-samuel-03-19
 
@@ -83,7 +82,7 @@ url: https://bible.usccb.org/bible/2samuel/3
 
 27 When Abner returned to Hebron, Joab took him aside within the city gate to speak with him privately. There he stabbed him in the abdomen, and he died for the blood of Asahel, Joab’s brother. ^2-samuel-03-27
 
-28 Later David heard of it and said: “Before the L ORD, I and my kingdom are forever innocent. ^2-samuel-03-28
+28 Later David heard of it and said: “Before the LORD, I and my kingdom are forever innocent. ^2-samuel-03-28
 
 29 May the blood of Abner, son of Ner, be on the head of Joab and all his family. May Joab’s family never be without one suffering from a discharge, or one with a skin disease, or a man who holds the distaff, or one falling by the sword, or one in need of food!” ^2-samuel-03-29
 
@@ -115,7 +114,7 @@ And all the people continued to weep for him.
 
 38 The king then said to his servants: “Do you not know that a prince, a great man, has fallen today in Israel. ^2-samuel-03-38
 
-39 Although I am the anointed king, I am weak this day, and these men, the sons of Zeruiah, are too ruthless for me. May the L ORD repay the evildoer in accordance with his evil deed.” ^2-samuel-03-39
+39 Although I am the anointed king, I am weak this day, and these men, the sons of Zeruiah, are too ruthless for me. May the LORD repay the evildoer in accordance with his evil deed.” ^2-samuel-03-39
 
 \* (3:7) Asserting a right to the late king’s harem was tantamount to claiming his kingship; cf. [16:21] – [22]; [1 Kgs 2:21] – [22].
 

@@ -1,55 +1,54 @@
 ---
-title: Joshua, Chapter 14
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 14
+title: Joshua, Chapter 14
+url: https://bible.usccb.org/bible/joshua/14
 aliases:
   - joshua-14
   - Joshua, Chapter 14
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/joshua/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 14
 ---
 
 # Joshua, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **The Western Tribes.**
 
 1 These are the portions which the Israelites received as heritage in the land of Canaan. Eleazar the priest, Joshua, son of Nun, and the heads of families in the tribes of the Israelites determined ^joshua-14-1
 
-2 their heritage by lot, as the L ORD had commanded through Moses concerning the remaining nine and a half tribes. ^joshua-14-2
+2 their heritage by lot, as the LORD had commanded through Moses concerning the remaining nine and a half tribes. ^joshua-14-2
 
 3 To two and a half tribes Moses had already given a heritage beyond the Jordan; to the Levites he had given no heritage among them: ^joshua-14-3
 
-5 As the L ORD had commanded Moses, so the Israelites did: they apportioned the land. ^joshua-14-5
+5 As the LORD had commanded Moses, so the Israelites did: they apportioned the land. ^joshua-14-5
 
 **Caleb’s Portion.**
 
-6 When the Judahites approached Joshua in Gilgal, the Kenizzite Caleb, son of Jephunneh, said to him: “You know the word the L ORD spoke to Moses, the man of God, concerning you and concerning me in Kadesh-barnea. ^joshua-14-6
+6 When the Judahites approached Joshua in Gilgal, the Kenizzite Caleb, son of Jephunneh, said to him: “You know the word the LORD spoke to Moses, the man of God, concerning you and concerning me in Kadesh-barnea. ^joshua-14-6
 
-7 I was forty years old when Moses, the servant of the L ORD, sent me from Kadesh-barnea to reconnoiter the land; and I brought back to him a frank report. ^joshua-14-7
+7 I was forty years old when Moses, the servant of the LORD, sent me from Kadesh-barnea to reconnoiter the land; and I brought back to him a frank report. ^joshua-14-7
 
-8 My fellow scouts who went up with me made the people’s confidence melt away, but I was completely loyal to the L ORD, my God. ^joshua-14-8
+8 My fellow scouts who went up with me made the people’s confidence melt away, but I was completely loyal to the LORD, my God. ^joshua-14-8
 
-9 On that occasion Moses swore this oath, ‘The land where you have set foot shall become your heritage and that of your descendants forever, because you have been completely loyal to the L ORD, my God.’ ^joshua-14-9
+9 On that occasion Moses swore this oath, ‘The land where you have set foot shall become your heritage and that of your descendants forever, because you have been completely loyal to the LORD, my God.’ ^joshua-14-9
 
-10 Now, as he promised, the L ORD has preserved me these forty-five years since the L ORD spoke thus to Moses while Israel journeyed in the wilderness; and now I am eighty-five years old, ^joshua-14-10
+10 Now, as he promised, the LORD has preserved me these forty-five years since the LORD spoke thus to Moses while Israel journeyed in the wilderness; and now I am eighty-five years old, ^joshua-14-10
 
 11 but I am still as strong today as I was the day Moses sent me forth, with no less vigor whether it be for war or for any other tasks. ^joshua-14-11
 
-12 Now give me this mountain region which the L ORD promised me that day, as you yourself heard. True, the Anakim are there, with large fortified cities, but if the L ORD is with me I shall be able to dispossess them, as the L ORD promised.” ^joshua-14-12
+12 Now give me this mountain region which the LORD promised me that day, as you yourself heard. True, the Anakim are there, with large fortified cities, but if the LORD is with me I shall be able to dispossess them, as the LORD promised.” ^joshua-14-12
 
 13 Joshua blessed Caleb, son of Jephunneh, and gave him Hebron as his heritage. ^joshua-14-13
 
-14 Therefore Hebron remains the heritage of the Kenizzite Caleb, son of Jephunneh, to the present day, because he was completely loyal to the L ORD, the God of Israel. ^joshua-14-14
+14 Therefore Hebron remains the heritage of the Kenizzite Caleb, son of Jephunneh, to the present day, because he was completely loyal to the LORD, the God of Israel. ^joshua-14-14
 
 15 Hebron was formerly called Kiriath-arba, for Arba, the greatest among the Anakim. And the land had rest from war. ^joshua-14-15
 

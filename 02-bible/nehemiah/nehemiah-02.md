@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 2
+title: Nehemiah, Chapter 2
+url: https://bible.usccb.org/bible/nehemiah/2
 aliases:
   - nehemiah-02
   - Nehemiah, Chapter 2
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 2
 ---
 
 # Nehemiah, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Appointment by the King.**
 

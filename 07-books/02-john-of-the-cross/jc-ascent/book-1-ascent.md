@@ -1,19 +1,19 @@
 ---
-title: Book the First - The Ascent of Mt. Carmel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book the First - The Ascent of Mt. Carmel
+title: Book the First - The Ascent of Mt. Carmel
+author: Saint John of the Cross
 aliases:
   - Book the First - The Ascent of Mt. Carmel
 tags:
-  - author/john-of-the-cross
+  - author/saint-john-of-the-cross
   - book
   - book/ascent-mt-carmel
   - saint/john-of-the-cross
   - type/book
-author: Saint John of the Cross
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book the First - The Ascent of Mt. Carmel
 ---
 
 # Book the First
@@ -22,9 +22,9 @@ Wherein is described the nature of dark night and how necessary it is to pass th
 
 [73] The Codices give neither title nor sub-title: both were inserted in e.p. [Desire' is to be taken as the direct object of describes'; these' refers to 'sense' and desire,' not to the dark night.]
 
-### Chapter I. Sets Down the First Stanza. Describes Two Different Nights Through Which Spiritual Persons Pass, According to the Two Parts of Man, the Lower and the Higher. Expounds the Stanza Which Follows
+## Chapter I. Sets Down the First Stanza. Describes Two Different Nights Through Which Spiritual Persons Pass, According to the Two Parts of Man, the Lower and the Higher. Expounds the Stanza Which Follows
 
-### Stanza the First
+## Stanza the First
 
 On a dark night, Kindled in love with yearnings -- oh, happy chance! --I went forth without being observed, My house being now at rest.
 
@@ -52,7 +52,7 @@ as the Spanish context frequently will not admit the use of the stronger word in
 
 [79] I.e., in the Argument.'
 
-### Chapter II. Explains the Nature of This Dark Night Through Which the Soul Says That It Has Passed on the Road to Union
+## Chapter II. Explains the Nature of This Dark Night Through Which the Soul Says That It Has Passed on the Road to Union
 
 On A Dark Night We may say that there are three reasons for which this journey [80]
 
@@ -71,7 +71,7 @@ These three nights must pass through the soul -- or, rather, the soul must pass 
 
 [82] [By the mean' is meant the middle, or main part, of the journey.]
 
-### Chapter III. Speaks of the First Cause of This Night, Which Is That of the Privation of the Desire in All Things, and Gives the Reason for Which It Is Called Night
+## Chapter III. Speaks of the First Cause of This Night, Which Is That of the Privation of the Desire in All Things, and Gives the Reason for Which It Is Called Night
 
 We here describe as night the privation of every kind of pleasure which belongs to the desire; for, even as night is naught but the privation of light, and, consequently, of all objects that can be seen by means of light, whereby the visual faculty remains unoccupied [83] and in darkness, even so likewise the mortification of desire may be called night to the soul. For, when the soul is deprived of the pleasure of its desire in all things, it remains, as it were, unoccupied and in darkness. For even as the visual faculty, by means of light, is nourished and fed by objects which can be seen, and which, when the light is quenched, are not seen, even so, by means of the desire, the soul is nourished and fed by all things wherein it can take pleasure according to its faculties; and, when this also is quenched, or rather, mortified, the soul ceases to feed upon the pleasure of all things, and thus, with respect to its desire, it remains unoccupied and in darkness.
 
@@ -87,7 +87,7 @@ We here describe as night the privation of every kind of pleasure which belongs 
 
 [85] Psalm LXXXVII, 16 [A.V., LXXXVIII, 15].
 
-### Chapter IV. Wherein Is Declared How Necessary It Is for the Soul Truly to Pass Through This Dark Night of Sense, Which Is Mortification of Desire, in Order That It May Journey to Union with God
+## Chapter IV. Wherein Is Declared How Necessary It Is for the Soul Truly to Pass Through This Dark Night of Sense, Which Is Mortification of Desire, in Order That It May Journey to Union with God
 
 The reason for which it is necessary for the soul, in order to attain to Divine union with God, to pass through this dark night of mortification of the desires and denial of pleasures in all things, is because all the affections which it has for creatures are pure darkness in the eyes of God, and, when the soul is clothed in these affections, it has no capacity for being enlightened and possessed by the pure and simple light of God, if it first cast them not from it; for light cannot agree with darkness; since, as Saint John says: Tenebroe eam non comprehenderunt. [86] That is: The darkness could not receive the light.
 
@@ -135,7 +135,7 @@ The latter word, however, does not, as might be supposed, correspond to English 
 
 [101] Proverbs VIII, 4-6, 18-21.
 
-### Chapter V. Wherein the Aforementioned Subject Is Treated and Continued, and It Is Shown by Passages and Figures from Holy Scripture How Necessary It Is for the Soul to Journey to God Through This Dark Night of the Mortification of Desire in All Things
+## Chapter V. Wherein the Aforementioned Subject Is Treated and Continued, and It Is Shown by Passages and Figures from Holy Scripture How Necessary It Is for the Soul to Journey to God Through This Dark Night of the Mortification of Desire in All Things
 
 From what has been said it may be seen in some measure how great a distance there is between all that the creatures are in themselves and that which God is in Himself, and how souls that set their affections upon any of these creatures are at as great a distance as they from God; for, as we have said, love produces equality and likeness. This distance was clearly realized by St. ugustine, who said in the Sololoquies, speaking with God: Miserable man that I am, when will my littleness and imperfection be able to have fellowship with Thy uprightness? Thou indeed art good, and I am evil; Thou art merciful, and I am impious; Thou art holy, I am miserable; Thou art just, I am unjust; Thou art light, I am blind; Thou, life, I, death; Thou, medicine, I, sick; Thou, supreme truth, I, utter vanity.' All this is said by this Saint. [102]
 
@@ -177,7 +177,7 @@ From what has been said it may be seen in some measure how great a distance ther
 
 [116] Numbers XVII, 10. [More properly, the rod of Aaron.']
 
-### Chapter VI. Wherein Are Treated Two Serious Evils Caused in the Soul by the Desires, the One Evil Being Privative and the Other Positive
+## Chapter VI. Wherein Are Treated Two Serious Evils Caused in the Soul by the Desires, the One Evil Being Privative and the Other Positive
 
 In order that what we have said may be the more clearly and fully understood, it will be well to set down here and state how these desires are the cause of two serious evils in the soul: the one is that they deprive it of the Spirit of God, and the other is that the soul wherein they dwell is wearied, tormented, darkened, defiled and weakened, according to that which is said in Jeremias, Chapter II: Duo mala fecit Populus meus: dereliquerunt fontem aquae vivae, ut foderunt sibi cisternas, dissipatas, quae continere non valent aquas. Which signifies: They have forsaken Me, Who am the fountain of living water, and they have hewed them out broken cisterns, that can hold no water.
 
@@ -222,7 +222,7 @@ Visible with invisible? Temporal with eternal? Food that is heavenly, spiritual 
 
 Silverio that Alc. gives the better reading, I prefer eat' to run': it is nearer the Scriptural passage and the two Spanish words, comen and corren, could easily be confused in MS.]
 
-### Chapter VII. Wherein Is Shown How the Desires Torment the Soul. This Is Proved Likewise by Comparison and Quotations
+## Chapter VII. Wherein Is Shown How the Desires Torment the Soul. This Is Proved Likewise by Comparison and Quotations
 
 The second kind of positive evil which the desires cause the soul is in their tormenting and afflicting of it, after the manner of one who is in torment through being bound with cords from which he has no relief until he be freed. And of these David says: Funes peccatorum circumplexi sunt me. [131] The cords of my sins, which are my desires, have constrained me round about. And, even as one that lies naked upon thorns and briars is tormented and afflicted, even so is the soul tormented and afflicted when it rests upon its desires. For they take hold upon it and distress it and cause it pain, even as do thorns. Of these David says likewise: Circumdederunt me sicut apes: et exarserunt sicut ignis in spinis. [132] Which signifies: They compassed me about like bees, wounding me with their stings, and they were enkindled against me, like fire among thorns; for in the desires, which are the thorns, increases the fire of anguish and torment. And even as the husbandman, coveting the harvest for which he hopes, afflicts and torments the ox in the plough, even so does concupiscence afflict a soul that is subject to its desire to attain that for which it longs.
 
@@ -250,7 +250,7 @@ This can be clearly seen in that desire which Dalila had to know whence Samson d
 
 [139]
 
-### Chapter VIII. Wherein Is Shown How the Desires Darken and Blind the Soul
+## Chapter VIII. Wherein Is Shown How the Desires Darken and Blind the Soul
 
 The third evil that the desires cause in the soul is that they blind and darken it. Even as vapours darken the air and allow not the bright sun to shine; or as a mirror that is clouded over cannot receive within itself a clear image; or as water defiled by mud reflects not the visage of one that looks therein; even so the soul that is clouded by the desires is darkened in the understanding and allows neither [140]
 
@@ -293,7 +293,7 @@ the sun of natural reason nor that of the supernatural Wisdom of God to shine up
 
 [154] Isaias LIX, 10.
 
-### Chapter IX. Wherein Is Described How the Desires Defile the Soul. This Is Proved by Comparisons and Quotations from Holy Scripture
+## Chapter IX. Wherein Is Described How the Desires Defile the Soul. This Is Proved by Comparisons and Quotations from Holy Scripture
 
 The fourth evil which the desires cause in the soul is that they stain and defile it, as is taught in Ecclesiasticus, in these words: Qui tetigerit picem, inquinabitur ab ea. [155] This signifies: He that toucheth pitch shall be defiled with it. And a man touches pitch when he allows the desire of his will to be satisfied by any creature. Here it is to be noted that the Wise Man compares the creatures to pitch; for there is more difference between excellence of soul and the best of the creatures [156] than there is between pure diamond, [157] or fine gold, and pitch. And just as gold or diamond, if it were heated and placed upon pitch, would become foul and be stained by it, inasmuch as the heat would have cajoled and allured the pitch, even so the soul that is hot with desire for any creature draws forth foulness from it through the heat of its desire and is stained by it. And there is more difference between the soul and other corporeal creatures than between a liquid that is highly clarified and mud that is most foul. Wherefore, even as such a liquid would be defiled if it were mingled with mud, so is the soul defiled that clings to creatures, since by doing this it becomes like to the said creatures. And in the same way that traces of soot would defile a face that is very lovely and perfect, even in this way do disordered desires befoul and defile the soul that has them, the which soul is in itself a most lovely and perfect image of God.
 
@@ -338,7 +338,7 @@ elsewhere.]
 
 [169] [Lit., revolves'--turns over in its mind' in our common idiom.]
 
-### Chapter X. Wherein Is Described How the Desires Weaken the Soul in Virtue and Make It Lukewarm
+## Chapter X. Wherein Is Described How the Desires Weaken the Soul in Virtue and Make It Lukewarm
 
 The fifth way in which the desires harm the soul is by making it lukewarm and weak, so that it has no strength to follow after virtue and to persevere therein. For as the strength of the desire, when it is set upon various aims, is less than if it were set wholly on one thing alone, and as, the more are the aims whereon it is set, the less of it there is for each of them, for this cause philosophers say that virtue in union is stronger than if it be dispersed. Wherefore it is clear that, if the desire of the will be dispersed among other things than virtue, it must be weaker as regards virtue. And thus the soul whose will is set upon various trifles is like water, which, having a place below wherein to empty itself, never rises; and such a soul has no profit. For this cause the patriarch Jacob compared his son Ruben to water poured out, because in a certain sin he had given rein to his desires. And he said: Thou art poured out like water; grow thou not.'
 
@@ -362,7 +362,7 @@ The fifth way in which the desires harm the soul is by making it lukewarm and we
 
 [176] [Lit., not pure on (or in') God.']
 
-### Chapter XI. Wherein It Is Proved Necessary That the Soul That Would Attain to Divine Union Should Be Free from Desires, However Slight They Be
+## Chapter XI. Wherein It Is Proved Necessary That the Soul That Would Attain to Divine Union Should Be Free from Desires, However Slight They Be
 
 I expect that for a long time the reader has been wishing to ask whether it be necessary, in order to attain to this high estate of perfection, to undergo first of all total mortification in all the desires, great and small, or if it will suffice to mortify some of them and to leave others, those at least which seem of little moment. For it appears to be a severe and most difficult thing for the soul to be able to attain to such purity and detachment that it has no will and affection for anything.
 
@@ -402,7 +402,7 @@ I expect that for a long time the reader has been wishing to ask whether it be n
 
 [190] 1 Corinthians VII, 29-31.
 
-### Chapter XII. Which Treats of the Answer to Another Question, Explaining What the Desires Are That Suffice to Cause the Evils Aforementioned in the Soul
+## Chapter XII. Which Treats of the Answer to Another Question, Explaining What the Desires Are That Suffice to Cause the Evils Aforementioned in the Soul
 
 We might write at greater length upon this matter of the night of sense, saying all that there is to say concerning the harm which is caused by the desires, not only in the ways aforementioned, but in many others. But for our purpose that which has been said suffices; for we believe we have made it clear in what way the mortification of these desires is called night, and how it behoves us to enter this night in order to journey to God. The only thing that remains, before we treat of the manner of entrance therein, in order to bring this part to a close, is a question concerning what has been said which might occur to the reader.
 
@@ -420,7 +420,7 @@ We might write at greater length upon this matter of the night of sense, saying 
 
 [194] 2 Corinthians XII, 9. [Virtue' had often, in the author's day, much of the meaning of the modern word 'strength.']
 
-### Chapter XIII. Wherein Is Described the Manner and Way Which the Soul Must Follow in Order to Enter This Night of Sense
+## Chapter XIII. Wherein Is Described the Manner and Way Which the Soul Must Follow in Order to Enter This Night of Sense
 
 It now remains for me to give certain counsels whereby the soul may know how to enter this night of sense and may be able so to do. To this end it must be known that the soul habitually enters this night of sense in two ways: the one is active; the other passive. The active way consists in that which the soul can do, and does, of itself, in order to enter therein, whereof we shall now treat in the counsels which follow. The passive way is that wherein the soul does nothing, and God works in it, and it remains, as it were, patient. Of this we shall treat in the fourth book, where we shall be treating of beginners. And because there, with the Divine favour, we shall give many counsels to beginners, according to the many imperfections which they are apt to have while on this road, I shall not spend time in giving many here.
 
@@ -473,7 +473,7 @@ In order to arrive at that which thou art not, Thou must go through that which t
 
 [202] [Lit. anything in all.']
 
-### Chapter XIV. Wherein Is Expounded the Second Line of the Stanza
+## Chapter XIV. Wherein Is Expounded the Second Line of the Stanza
 
 Kindled in love with yearnings.
 
@@ -486,7 +486,7 @@ Now that we have expounded the first line of this stanza, which treats of the ni
 
 [204] Lit., to conquer the natural yoke.']
 
-### Chapter XV. Wherein Are Expounded the Remaining Lines of the Aforementioned Stanza
+## Chapter XV. Wherein Are Expounded the Remaining Lines of the Aforementioned Stanza
 
 ... oh, happy chance! --I went forth without being observed, My house being now at rest.
 

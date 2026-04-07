@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 23
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 23
+title: Exodus, Chapter 23
+url: https://bible.usccb.org/bible/exodus/23
 aliases:
   - 20250731-085946
   - exodus-23
   - Exodus, Chapter 23
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/23
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 23
 ---
 
 # Exodus, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 1 You shall not repeat a false report. Do not join your hand with the wicked to be a witness supporting violence. ^exodus-23-1
 
@@ -58,11 +57,11 @@ You shall not mention the name of any other god; it shall not be heard from your
 
 16 You shall also keep the feast of the grain harvest with the first fruits of the crop that you sow in the field; and finally, the feast of Ingathering at the end of the year, when you collect your produce from the fields. ^exodus-23-16
 
-17 Three times a year shall all your men appear before the L ORD God. ^exodus-23-17
+17 Three times a year shall all your men appear before the LORD God. ^exodus-23-17
 
 18 You shall not offer the blood of my sacrifice with anything leavened; nor shall the fat of my feast be kept overnight till the next day. ^exodus-23-18
 
-19 The choicest first fruits of your soil you shall bring to the house of the L ORD, your God. ^exodus-23-19
+19 The choicest first fruits of your soil you shall bring to the house of the LORD, your God. ^exodus-23-19
 
 You shall not boil a young goat in its mother’s milk.
 
@@ -78,7 +77,7 @@ You shall not boil a young goat in its mother’s milk.
 
 24 Therefore, you shall not bow down to their gods and serve them, nor shall you act as they do; rather, you must demolish them and smash their sacred stones. ^exodus-23-24
 
-25 You shall serve the L ORD, your God; then he will bless your food and drink, and I will remove sickness from your midst; ^exodus-23-25
+25 You shall serve the LORD, your God; then he will bless your food and drink, and I will remove sickness from your midst; ^exodus-23-25
 
 26 no woman in your land will be barren or miscarry; and I will give you a full span of life. ^exodus-23-26
 

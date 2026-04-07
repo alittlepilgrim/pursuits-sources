@@ -1,20 +1,20 @@
 ---
-title: John, The Gospel According To John
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, the Gospel According to John
+title: John, The Gospel According To John
+url: https://bible.usccb.org/bible/john/0
 aliases:
   - john-00
   - John, the Gospel according to John
   - John, The Gospel According To John
 tags:
+  - bible/book
   - bible/john
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/john/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, the Gospel According to John
 ---
 
 # John, the Gospel According to John
@@ -33,7 +33,7 @@ Critical analysis makes it difficult to accept the idea that the gospel as it no
 
 Other difficulties for any theory of eyewitness authorship of the gospel in its present form are presented by its highly developed theology and by certain elements of its literary style. For instance, some of the wondrous deeds of Jesus have been worked into highly effective dramatic scenes ([Jn 9]); there has been a careful attempt to have these followed by discourses that explain them ([Jn 5]; [6]); and the sayings of Jesus have been woven into long discourses of a quasi-poetic form resembling the speeches of personified Wisdom in the Old Testament.
 
-The gospel contains many details about Jesus not found in the synoptic gospels, e.g., that Jesus engaged in a baptizing ministry ([Jn 3:22]) before he changed to one of preaching and signs; that Jesus’ public ministry lasted for several years (see note on [Jn 2:13]); that he traveled to Jerusalem for various festivals and met serious opposition long before his death ([Jn 2:14] – [25]; [5]; [7] – [8]); and that he was put to death on the day before Passover ([Jn 18:28]). These events are not always in chronological order because of the development and editing that took place. However, the accuracy of much of the detail of the fourth gospel constitutes a strong argument that the Johannine tradition rests upon the testimony of an eyewitness. Although tradition identified this person as John, the son of Zebedee, most modern scholars find that the evidence does not support this.
+The gospel contains many details about Jesus not found in the synoptic gospels, e.g., that Jesus engaged in a baptizing ministry ([Jn 3:22]) before he changed to one of preaching and signs; that Jesus’ public ministry lasted for several years (see note on [Jn 2:13]); that he traveled to Jerusalem for various festivals and met serious opposition long before his death ([Jn 2:14] – [25]; [5]; [7] – [8]); and that he was put to death on the day before Passover ([Jn 18:28]). These events are not always in chronologicaLORDer because of the development and editing that took place. However, the accuracy of much of the detail of the fourth gospel constitutes a strong argument that the Johannine tradition rests upon the testimony of an eyewitness. Although tradition identified this person as John, the son of Zebedee, most modern scholars find that the evidence does not support this.
 
 The fourth gospel is not simply history; the narrative has been organized and adapted to serve the evangelist’s theological purposes as well. Among them are the opposition to the synagogue of the day and to John the Baptist’s followers, who tried to exalt their master at Jesus’ expense, the desire to show that Jesus was the Messiah, and the desire to convince Christians that their religious belief and practice must be rooted in Jesus. Such theological purposes have impelled the evangelist to emphasize motifs that were not so clear in the synoptic account of Jesus’ ministry, e.g., the explicit emphasis on his divinity.
 

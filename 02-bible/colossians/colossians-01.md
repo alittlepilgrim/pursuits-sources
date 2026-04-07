@@ -1,25 +1,24 @@
 ---
-title: Colossians, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Colossians, Chapter 1
+title: Colossians, Chapter 1
+url: https://bible.usccb.org/bible/colossians/1
 aliases:
   - colossians-01
   - Colossians, Chapter 1
 tags:
+  - bible/chapter
   - bible/colossians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/colossians/1
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Colossians, Chapter 1
 ---
 
 # Colossians, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -53,9 +52,9 @@ url: https://bible.usccb.org/bible/colossians/1
 
 14 in whom we have redemption, the forgiveness of sins. ^colossians-01-14
 
-## Ii. the Preeminence of Christ
+# Ii. the Preeminence of Christ
 
-#### His Person and Work
+## His Person and Work
 
 15 He is the image of the invisible God, ^colossians-01-15
 

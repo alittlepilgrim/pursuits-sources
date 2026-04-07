@@ -1,10 +1,7 @@
 ---
-title: August 26, The Transverberation of the Heart of St. Teresa of Jesus, Our Mother
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: Catholic Church 1993, Proper of the Liturgy of the Hours of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites (Rev. and augm.), Institutum Carmelitanum, Rome.
+title: August 26, The Transverberation of the Heart of St. Teresa of Jesus, Our Mother
+author: OCD General Curia
 aliases:
   - 08-26-transverberation-of-our-holy-mother-st-teresa-of-jesus
   - 20240826-000001
@@ -14,9 +11,13 @@ tags:
   - carmel/propers
   - carmel/saints
   - saint/teresa-of-avila
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 08-26
 celebration_rank: optional-memorial
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+description: Catholic Church 1993, Proper of the Liturgy of the Hours of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites (Rev. and augm.), Institutum Carmelitanum, Rome.
 ---
 
 # August 26, the Transverberation of the Heart of St. Teresa of Jesus, Our Mother

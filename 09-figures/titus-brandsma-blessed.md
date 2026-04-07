@@ -1,19 +1,18 @@
 ---
+type: figure
 title: Blessed Titus Brandsma
-created: 2025-09-12
-modified: 2026-04-02
-type: figure figure
-publish: false
 aliases:
-  - 20250912-204812
   - Blessed Titus Brandsma
   - titus-brandsma-blessed
 tags:
   - role/blessed
   - term/martyr
   - term/priest
+  - type/figure
 celebration: 07-27
-full_name: Blessed Titus Brandsma
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Titus Brandsma

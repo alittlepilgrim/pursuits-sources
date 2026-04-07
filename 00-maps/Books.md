@@ -1,10 +1,6 @@
 ---
-title: 📚 Books
-created: 2025-11-12
-modified: 2026-04-02
 type: moc
-publish: true
-description: Entry map for books and study editions organized by author, with quick links into existing book MOCs and texts.
+title: Books MOC
 aliases:
   - 📚 Books
   - 📚 Books (Carmelite and General Spirituality)
@@ -13,10 +9,17 @@ aliases:
 tags:
   - subject
   - type/moc
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
+permalink: /books
+description: Entry map for books and study editions organized by author, with quick links into existing book MOCs and texts.
 attachment: false
 ---
 
 🧭 Map | 📚 Reference
+
+![[banner-library.png]]
 
 # 📚 Library
 
@@ -79,12 +82,20 @@ attachment: false
 - [[bc-twelve-degrees|The Twelve Degrees of Humility and of Pride by Saint Bernard of Clairvaux]]
 - [[al-uniformity-with-gods-will|Uniformity with God's Will by St. Alphonsus de Liguori]]
 
+## 🎓 Current Authors
+
+- Peter Kreeft
+- Dubay
 
 ## 🏛️ Theology & Systematic Works
 
 - [[The Three Ways of the Spiritual Life|The Three Ways of the Spiritual Life by Rev. Reginald Garrigou-Lagrange]]
-- [[The Three Ages of the Interior Life|The Three Ages of the Interior Life by Rev. Reginald Garrigou-Lagrange]]
+- [[The Three Ages of the Interior Life by Garrigou-Lagrange|The Three Ages of the Interior Life by Rev. Reginald Garrigou-Lagrange]]
 
+## 🕯️ Carmelite Spirituality
+
+- [[Divine Intimacy Meditations]]
+- [[ad-welcome-to-the-ocds|Welcome To The Secular Order Of Discalced Carmelites]]
 
 ## 📚 Carmelite Formation
 
@@ -96,6 +107,7 @@ attachment: false
 
 ## 📌 Reference
 
-- Glossary
-
+- [[es-ew-chapter-1-glossary|Glossary]]
+- [[history-of-the-catholic-church-toc|The History of the Catholic Church by James Hitchcock]]
+- [[ignatius-catholic-study-bible|The Ignatius Catholic Study Bible New Testament]]
 

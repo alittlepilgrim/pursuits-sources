@@ -1,9 +1,6 @@
 ---
-title: Passion
-created: 2025-07-25
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Passion
 aliases:
   - 20250725-204831
   - passion
@@ -11,7 +8,11 @@ aliases:
 tags:
   - catechism
   - term/passion
+  - type/term
   - vault-admin/draft
+created: 2025-07-25
+modified: 2026-04-06
+publish: true
 ---
 
 20250725-2048

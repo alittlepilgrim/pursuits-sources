@@ -1,18 +1,17 @@
 ---
-title: The Twelve Degrees of Humility and of Pride by St. Bernard of Clairvaux
-created: 2025-10-17
-modified: 2026-04-02
 type: book
-publish: true
+title: The Twelve Degrees of Humility and of Pride by St. Bernard of Clairvaux
+author: Saint Bernard of Clairvaux
 aliases:
   - 20251017-182601
   - The Twelve Degrees of Humility and of Pride by Saint Bernard of Clairvaux
   - The Twelve Degrees Of Humility and Of Pride by Saint Bernard Of Clairvaux
   - The Twelve Degrees of Humility and of Pride by St. Bernard of Clairvaux
 tags:
-  - book
   - type/book
-author: Saint Bernard of Clairvaux
+created: 2025-10-17
+modified: 2026-04-06
+publish: true
 ---
 
 # The Twelve Degrees of Humility and of Pride by St. Bernard of Clairvaux

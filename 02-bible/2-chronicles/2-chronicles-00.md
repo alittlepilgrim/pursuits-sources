@@ -1,18 +1,18 @@
 ---
-title: 2 Chronicles – Chapter Index
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
+title: 2 Chronicles – Chapter Index
 aliases:
   - 2 Chronicles – Chapter Index
   - 2-chronicles-00
 tags:
   - bible
   - bible/2-chronicles
-layer: canon
-node-type: book
-testament: old
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
 ---
 
 # 2 Chronicles – Chapter Index

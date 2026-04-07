@@ -1,25 +1,24 @@
 ---
-title: 1 Corinthians, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Corinthians, Chapter 1
+title: 1 Corinthians, Chapter 1
+url: https://bible.usccb.org/bible/1corinthians/1
 aliases:
   - 1 Corinthians, Chapter 1
   - 1-corinthians-01
 tags:
   - bible/1-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1corinthians/1
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Corinthians, Chapter 1
 ---
 
 # 1 Corinthians, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -43,9 +42,9 @@ url: https://bible.usccb.org/bible/1corinthians/1
 
 9 God is faithful, and by him you were called to fellowship with his Son, Jesus Christ our Lord. ^1-corinthians-01-9
 
-## Ii. Disorders in the Corinthian Community
+# Ii. Disorders in the Corinthian Community
 
-### A. Divisions in the Church
+## A. Divisions in the Church
 
 **Groups and Slogans.**
 

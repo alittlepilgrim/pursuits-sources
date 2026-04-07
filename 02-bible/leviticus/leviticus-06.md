@@ -1,29 +1,28 @@
 ---
-title: Leviticus, Chapter 6
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 6
+title: Leviticus, Chapter 6
+url: https://bible.usccb.org/bible/leviticus/6
 aliases:
   - leviticus-06
   - Leviticus, Chapter 6
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 6
 ---
 
 # Leviticus, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **The Daily Burnt Offering.**
 
-1 The L ORD said to Moses: ^leviticus-06-1
+1 The LORD said to Moses: ^leviticus-06-1
 
 2 Give Aaron and his sons the following command: This is the ritual for the burnt offering—the burnt offering that is to remain on the hearth of the altar all night until the next morning, while the fire is kept burning on the altar. ^leviticus-06-2
 
@@ -37,33 +36,33 @@ url: https://bible.usccb.org/bible/leviticus/6
 
 **The Grain Offering.**
 
-7 This is the ritual of the grain offering. Aaron’s sons shall offer it before the L ORD, in front of the altar. ^leviticus-06-7
+7 This is the ritual of the grain offering. Aaron’s sons shall offer it before the LORD, in front of the altar. ^leviticus-06-7
 
-8 A priest shall then take from the grain offering a handful of bran flour and oil, together with all the frankincense that is on it, and this he shall burn on the altar as a token of the offering, a sweet aroma to the L ORD. ^leviticus-06-8
+8 A priest shall then take from the grain offering a handful of bran flour and oil, together with all the frankincense that is on it, and this he shall burn on the altar as a token of the offering, a sweet aroma to the LORD. ^leviticus-06-8
 
 9 The rest of it Aaron and his sons may eat; but it must be eaten unleavened in a sacred place: in the court of the tent of meeting they shall eat it. ^leviticus-06-9
 
-10 It shall not be baked with leaven. I have given it to them as their portion from the oblations for the L ORD; it is most holy, like the purification offering and the reparation offering. ^leviticus-06-10
+10 It shall not be baked with leaven. I have given it to them as their portion from the oblations for the LORD; it is most holy, like the purification offering and the reparation offering. ^leviticus-06-10
 
-11 Every male of Aaron’s descendants may eat of it perpetually throughout your generations as their rightful due from the oblations for the L ORD. Whatever touches the oblations becomes holy. ^leviticus-06-11
+11 Every male of Aaron’s descendants may eat of it perpetually throughout your generations as their rightful due from the oblations for the LORD. Whatever touches the oblations becomes holy. ^leviticus-06-11
 
 **High Priest’s Daily Grain Offering.**
 
-12 The L ORD said to Moses: ^leviticus-06-12
+12 The LORD said to Moses: ^leviticus-06-12
 
-13 This is the offering that Aaron and his sons shall present to the L ORD on the day he is anointed: one tenth of an ephah of bran flour for the regular grain offering, half of it in the morning and half of it in the evening. ^leviticus-06-13
+13 This is the offering that Aaron and his sons shall present to the LORD on the day he is anointed: one tenth of an ephah of bran flour for the regular grain offering, half of it in the morning and half of it in the evening. ^leviticus-06-13
 
-14 You shall bring it well kneaded and fried in oil on a griddle. Having broken the offering into pieces, you shall present it as a sweet aroma to the L ORD. ^leviticus-06-14
+14 You shall bring it well kneaded and fried in oil on a griddle. Having broken the offering into pieces, you shall present it as a sweet aroma to the LORD. ^leviticus-06-14
 
-15 The anointed priest descended from Aaron who succeeds him shall do likewise. This is the L ORD’s due forever. The offering shall be wholly burned. ^leviticus-06-15
+15 The anointed priest descended from Aaron who succeeds him shall do likewise. This is the LORD’s due forever. The offering shall be wholly burned. ^leviticus-06-15
 
 16 Every grain offering of a priest shall be a whole offering; it may not be eaten. ^leviticus-06-16
 
 **Purification Offerings.**
 
-17 The L ORD said to Moses: ^leviticus-06-17
+17 The LORD said to Moses: ^leviticus-06-17
 
-18 Tell Aaron and his sons: This is the ritual for the purification offering. At the place where the burnt offering is slaughtered, there also, before the L ORD, shall the purification offering be slaughtered. It is most holy. ^leviticus-06-18
+18 Tell Aaron and his sons: This is the ritual for the purification offering. At the place where the burnt offering is slaughtered, there also, before the LORD, shall the purification offering be slaughtered. It is most holy. ^leviticus-06-18
 
 19 The priest who offers the purification offering shall eat of it; it shall be eaten in a sacred place, in the court of the tent of meeting. ^leviticus-06-19
 

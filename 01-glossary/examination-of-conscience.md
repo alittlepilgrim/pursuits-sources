@@ -1,15 +1,16 @@
 ---
-title: Examination of Conscience
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: examination-of-conscience. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Examination of Conscience
 aliases:
   - Examination of Conscience
   - examination-of-conscience
 tags:
   - term/examination-of-conscience
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: examination-of-conscience. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Examination of Conscience
@@ -20,6 +21,6 @@ Prayerful self-reflection on our words and deeds in the light of the Gospel to d
 
 ## Divine Intimacy Meditations
 
-- Necessity and practice: 103,1, 103,2;
-- need to examine oneself on the degree of willfulness in our failings: 103,2.
-- 103. Examination of Conscience
+- Necessity and practice: [[103-examination-of-conscience#Meditation 1|103,1]], [[103-examination-of-conscience#Meditation 2|103,2]];
+- need to examine oneself on the degree of willfulness in our failings: [[103-examination-of-conscience#Meditation 2|103,2]].
+- [[103-examination-of-conscience|103. Examination of Conscience]]

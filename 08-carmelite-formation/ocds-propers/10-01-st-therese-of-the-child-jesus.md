@@ -1,10 +1,7 @@
 ---
-title: October 1, Saint Therese of the Child Jesus
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: Saint Therese of the Child Jesus, Virgin and Doctor of the Church, Feast
+title: October 1, Saint Therese of the Child Jesus
+author: OCD General Curia
 aliases:
   - 10-01-st-therese-of-the-child-jesus
   - 20241001-000001
@@ -13,9 +10,13 @@ tags:
   - carmel/propers
   - carmel/saints
   - saint/thérèse-of-lisieux
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 10-01
-celebration_rank:  Feast
+celebration_rank: Feast
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+description: Saint Therese of the Child Jesus, Virgin and Doctor of the Church, Feast
 ---
 
 # October 1, Saint Therese of the Child Jesus

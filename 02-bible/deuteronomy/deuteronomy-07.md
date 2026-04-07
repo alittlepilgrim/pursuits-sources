@@ -1,45 +1,44 @@
 ---
-title: Deuteronomy, Chapter 7
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 7
+title: Deuteronomy, Chapter 7
+url: https://bible.usccb.org/bible/deuteronomy/7
 aliases:
   - deuteronomy-07
   - Deuteronomy, Chapter 7
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 7
 ---
 
 # Deuteronomy, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **Destruction of the Nations in the Land.**
 
-1 When the L ORD, your God, brings you into the land which you are about to enter to possess, and removes many nations before you—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations more numerous and powerful than you— ^deuteronomy-07-1
+1 When the LORD, your God, brings you into the land which you are about to enter to possess, and removes many nations before you—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations more numerous and powerful than you— ^deuteronomy-07-1
 
-2 and when the L ORD, your God, gives them over to you and you defeat them, you shall put them under the ban. Make no covenant with them and do not be gracious to them. ^deuteronomy-07-2
+2 and when the LORD, your God, gives them over to you and you defeat them, you shall put them under the ban. Make no covenant with them and do not be gracious to them. ^deuteronomy-07-2
 
 3 You shall not intermarry with them, neither giving your daughters to their sons nor taking their daughters for your sons. ^deuteronomy-07-3
 
-4 For they would turn your sons from following me to serving other gods, and then the anger of the L ORD would flare up against you and he would quickly destroy you. ^deuteronomy-07-4
+4 For they would turn your sons from following me to serving other gods, and then the anger of the LORD would flare up against you and he would quickly destroy you. ^deuteronomy-07-4
 
 5 But this is how you must deal with them: Tear down their altars, smash their sacred pillars, chop down their asherahs, and destroy their idols by fire. ^deuteronomy-07-5
 
-6 For you are a people holy to the L ORD, your God; the L ORD, your God, has chosen you from all the peoples on the face of the earth to be a people specially his own. ^deuteronomy-07-6
+6 For you are a people holy to the LORD, your God; the LORD, your God, has chosen you from all the peoples on the face of the earth to be a people specially his own. ^deuteronomy-07-6
 
-7 It was not because you are more numerous than all the peoples that the L ORD set his heart on you and chose you; for you are really the smallest of all peoples. ^deuteronomy-07-7
+7 It was not because you are more numerous than all the peoples that the LORD set his heart on you and chose you; for you are really the smallest of all peoples. ^deuteronomy-07-7
 
-8 It was because the L ORD loved you and because of his fidelity to the oath he had sworn to your ancestors, that the L ORD brought you out with a strong hand and redeemed you from the house of slavery, from the hand of Pharaoh, king of Egypt. ^deuteronomy-07-8
+8 It was because the LORD loved you and because of his fidelity to the oath he had sworn to your ancestors, that the LORD brought you out with a strong hand and redeemed you from the house of slavery, from the hand of Pharaoh, king of Egypt. ^deuteronomy-07-8
 
-9 Know, then, that the L ORD, your God, is God: the faithful God who keeps covenant mercy to the thousandth generation toward those who love him and keep his commandments, ^deuteronomy-07-9
+9 Know, then, that the LORD, your God, is God: the faithful God who keeps covenant mercy to the thousandth generation toward those who love him and keep his commandments, ^deuteronomy-07-9
 
 10 but who repays with destruction those who hate him; he does not delay with those who hate him, but makes them pay for it. ^deuteronomy-07-10
 
@@ -47,33 +46,33 @@ url: https://bible.usccb.org/bible/deuteronomy/7
 
 **Blessings of Obedience.**
 
-12 As your reward for heeding these ordinances and keeping them carefully, the L ORD, your God, will keep with you the covenant mercy he promised on oath to your ancestors. ^deuteronomy-07-12
+12 As your reward for heeding these ordinances and keeping them carefully, the LORD, your God, will keep with you the covenant mercy he promised on oath to your ancestors. ^deuteronomy-07-12
 
 13 He will love and bless and multiply you; he will bless the fruit of your womb and the produce of your soil, your grain and wine and oil, the young of your herds and the offspring of your flocks, in the land which he swore to your ancestors he would give you. ^deuteronomy-07-13
 
 14 You will be blessed above all peoples; no man or woman among you shall be childless nor shall your livestock be barren. ^deuteronomy-07-14
 
-15 The L ORD will remove all sickness from you; he will not afflict you with any of the malignant diseases that you know from Egypt, but will leave them with all those who hate you. ^deuteronomy-07-15
+15 The LORD will remove all sickness from you; he will not afflict you with any of the malignant diseases that you know from Egypt, but will leave them with all those who hate you. ^deuteronomy-07-15
 
-16 You shall consume all the peoples which the L ORD, your God, is giving over to you. You are not to look on them with pity, nor serve their gods, for that would be a snare to you. ^deuteronomy-07-16
+16 You shall consume all the peoples which the LORD, your God, is giving over to you. You are not to look on them with pity, nor serve their gods, for that would be a snare to you. ^deuteronomy-07-16
 
 17 If you say to yourselves, “These nations are more numerous than we. How can we dispossess them?” ^deuteronomy-07-17
 
-18 do not be afraid of them. Rather, remember clearly what the L ORD, your God, did to Pharaoh and to all Egypt: ^deuteronomy-07-18
+18 do not be afraid of them. Rather, remember clearly what the LORD, your God, did to Pharaoh and to all Egypt: ^deuteronomy-07-18
 
-19 the great testings which your own eyes have seen, the signs and wonders, the strong hand and outstretched arm with which the L ORD, your God, brought you out. The same also will he do to all the peoples of whom you are now afraid. ^deuteronomy-07-19
+19 the great testings which your own eyes have seen, the signs and wonders, the strong hand and outstretched arm with which the LORD, your God, brought you out. The same also will he do to all the peoples of whom you are now afraid. ^deuteronomy-07-19
 
-20 Moreover, the L ORD, your God, will send hornets among them, until those who are left and those who are hiding from you are destroyed. ^deuteronomy-07-20
+20 Moreover, the LORD, your God, will send hornets among them, until those who are left and those who are hiding from you are destroyed. ^deuteronomy-07-20
 
-21 Therefore, do not be terrified by them, for the L ORD, your God, who is in your midst, is a great and awesome God. ^deuteronomy-07-21
+21 Therefore, do not be terrified by them, for the LORD, your God, who is in your midst, is a great and awesome God. ^deuteronomy-07-21
 
 22 He will remove these nations before you little by little. You cannot finish with them quickly, lest the wild beasts become too numerous for you. ^deuteronomy-07-22
 
-23 The L ORD, your God, will give them over to you and throw them into utter panic until they are destroyed. ^deuteronomy-07-23
+23 The LORD, your God, will give them over to you and throw them into utter panic until they are destroyed. ^deuteronomy-07-23
 
 24 He will deliver their kings into your power, that you may make their names perish from under the heavens. No one will be able to stand up against you, till you have destroyed them. ^deuteronomy-07-24
 
-25 The images of their gods you shall destroy by fire. Do not covet the silver or gold on them, nor take it for yourselves, lest you be ensnared by it; for it is an abomination to the L ORD, your God. ^deuteronomy-07-25
+25 The images of their gods you shall destroy by fire. Do not covet the silver or gold on them, nor take it for yourselves, lest you be ensnared by it; for it is an abomination to the LORD, your God. ^deuteronomy-07-25
 
 26 You shall not bring any abominable thing into your house, so as to be, like it, under the ban; loathe and abhor it utterly for it is under the ban. ^deuteronomy-07-26
 

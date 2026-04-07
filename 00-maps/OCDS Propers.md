@@ -1,29 +1,21 @@
 ---
-title: OCDS Propers
-created: 2025-07-31
-modified: 2026-04-02
 type: moc
-publish: true
-description: OCDS Propers
+title: OCDS Propers MOC
 aliases:
   - 00-proper-toc
   - OCDS Propers
+  - Ocds Propers Table of Contents
   - OCDS Propers Table of Contents
 tags:
   - carmel/propers
   - carmel/saints
+created: 2025-07-31
+modified: 2026-04-06
+publish: true
+permalink: /propers
+description: OCDS Propers
 attachment: false
 ---
-
-> [!NOTE]
-> For a PDF version of this OCDS Calendar see here:
-> 
-> https://static1.squarespace.com/static/6134dbb90d074a2b586bacc3/t/6797a24a8a93bd3ece51515f/1737990730466/2023+OCD.OCDS+calendar.pdf
-> 
-> For OCD Proper Text:
-> 
-> https://drive.google.com/file/d/16fVRyAx_A-o6K1i21oWfTvf2UmWg45q9/view?usp=sharing
-
 
 # OCDS Propers
 

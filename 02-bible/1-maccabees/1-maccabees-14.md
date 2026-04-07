@@ -1,25 +1,24 @@
 ---
-title: 1 Maccabees, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, Chapter 14
+title: 1 Maccabees, Chapter 14
+url: https://bible.usccb.org/bible/1maccabees/14
 aliases:
   - 1 Maccabees, Chapter 14
   - 1-maccabees-14
 tags:
   - bible/1-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/14
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, Chapter 14
 ---
 
 # 1 Maccabees, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Capture of Demetrius II.**
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/1maccabees/14
 
 3 The general went forth and attacked the army of Demetrius; he captured him and brought him to Arsaces, who put him under guard. ^1-maccabees-14-3
 
-#### Praise of Simon
+### Praise of Simon
 
 4 The land was at rest all the days of Simon, ^1-maccabees-14-4
 

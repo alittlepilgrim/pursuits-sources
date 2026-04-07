@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 14
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 14
+title: Judges, Chapter 14
+url: https://bible.usccb.org/bible/judges/14
 aliases:
   - judges-14
   - Judges, Chapter 14
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 14
 ---
 
 # Judges, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Marriage of Samson.**
 
@@ -29,11 +28,11 @@ url: https://bible.usccb.org/bible/judges/14
 
 3 His father and mother said to him, “Is there no woman among your kinsfolk or among all your people, that you must go and take a woman from the uncircumcised Philistines?” But Samson answered his father, “Get her for me, for she is the one I want.” ^judges-14-3
 
-4 Now his father and mother did not know that this had been brought about by the L ORD, who was seeking an opportunity against the Philistines; for at that time they ruled over Israel. ^judges-14-4
+4 Now his father and mother did not know that this had been brought about by the LORD, who was seeking an opportunity against the Philistines; for at that time they ruled over Israel. ^judges-14-4
 
 5 So Samson went down to Timnah with his father and mother. When he turned aside to the vineyards of Timnah, a young lion came roaring out toward him. ^judges-14-5
 
-6 But the spirit of the L ORD rushed upon Samson, and he tore the lion apart barehanded, as one tears a young goat. Without telling his father or mother what he had done, ^judges-14-6
+6 But the spirit of the LORD rushed upon Samson, and he tore the lion apart barehanded, as one tears a young goat. Without telling his father or mother what he had done, ^judges-14-6
 
 7 he went down and spoke to the woman. He liked her. ^judges-14-7
 
@@ -75,7 +74,7 @@ He replied to them,
 
 you would not have solved my riddle.”
 
-19 The spirit of the L ORD rushed upon him, and he went down to Ashkelon, where he killed thirty of their men and stripped them; he gave their garments to those who had answered the riddle. Then he went off to his own family in anger, ^judges-14-19
+19 The spirit of the LORD rushed upon him, and he went down to Ashkelon, where he killed thirty of their men and stripped them; he gave their garments to those who had answered the riddle. Then he went off to his own family in anger, ^judges-14-19
 
 20 and Samson’s wife was married to the companion who had been his best man. ^judges-14-20
 

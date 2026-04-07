@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 59
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 59
+title: Isaiah, Chapter 59
+url: https://bible.usccb.org/bible/isaiah/59
 aliases:
   - isaiah-59
   - Isaiah, Chapter 59
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/59
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 59
 ---
 
 # Isaiah, Chapter 59
 
-### Chapter 59
+## Chapter 59
 
-#### Salvation Delayed
+### Salvation Delayed
 
-1 No, the hand of the L ORD is not too short to save, ^isaiah-59-1
+1 No, the hand of the LORD is not too short to save, ^isaiah-59-1
 
 nor his ear too dull to hear.
 
@@ -83,7 +82,7 @@ Their roads they have made crooked,
 
 no one who walks in them knows peace.
 
-#### Acknowledgment of Transgressions
+### Acknowledgment of Transgressions
 
 9 That is why judgment is far from us ^isaiah-59-9
 
@@ -117,7 +116,7 @@ Our transgressions are present to us,
 
 and our crimes we acknowledge:
 
-13 Transgressing, and denying the L ORD, ^isaiah-59-13
+13 Transgressing, and denying the LORD, ^isaiah-59-13
 
 turning back from following our God,
 
@@ -137,9 +136,9 @@ and uprightness cannot enter.
 
 and whoever turns from evil is despoiled.
 
-#### Divine Intervention
+### Divine Intervention
 
-The L ORD saw this, and was aggrieved
+The LORD saw this, and was aggrieved
 
 that there was no justice.
 
@@ -165,21 +164,21 @@ and requites his foes with wrath;
 
 to the coastlands he renders recompense.
 
-19 Those in the west shall fear the name of the L ORD, ^isaiah-59-19
+19 Those in the west shall fear the name of the LORD, ^isaiah-59-19
 
 and those in the east, his glory,
 
 Coming like a pent-up stream
 
-driven on by the breath of the L ORD.
+driven on by the breath of the LORD.
 
 20 Then for Zion shall come a redeemer, ^isaiah-59-20
 
-to those in Jacob who turn from transgression—oracle of the L ORD.
+to those in Jacob who turn from transgression—oracle of the LORD.
 
 21 This is my covenant with them, ^isaiah-59-21
 
-which I myself have made, says the L ORD:
+which I myself have made, says the LORD:
 
 My spirit which is upon you
 
@@ -191,7 +190,7 @@ nor from the mouths of your children
 
 Nor the mouths of your children’s children
 
-from this time forth and forever, says the L ORD.
+from this time forth and forever, says the LORD.
 
 \* (59:1] – [20) This poem brings together a lament of the postexilic community and a harsh word of judgment from the prophet. After the opening rhetorical question, each of the stanzas begins with a reference to the justice and right judgment which are lacking among the people (vv. [4], [9], [14]). Toward the end of the poem, God is depicted as a Divine Warrior (vv. [16] – [20]) who is the only one who can intervene in order to bring redemption. This same Divine Warrior imagery is repeated in a similar fashion in [63:1] – [6].
 

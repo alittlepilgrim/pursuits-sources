@@ -1,25 +1,24 @@
 ---
-title: Ruth, Chapter 2
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ruth, Chapter 2
+title: Ruth, Chapter 2
+url: https://bible.usccb.org/bible/ruth/2
 aliases:
   - ruth-02
   - Ruth, Chapter 2
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/ruth
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ruth/2
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Ruth, Chapter 2
 ---
 
 # Ruth, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **The Meeting.**
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/ruth/2
 
 3 So she went. The field she entered to glean after the harvesters happened to be the section belonging to Boaz, of the clan of Elimelech. ^ruth-02-3
 
-4 Soon, along came Boaz from Bethlehem and said to the harvesters, “The L ORD be with you,” and they replied, “The L ORD bless you.” ^ruth-02-4
+4 Soon, along came Boaz from Bethlehem and said to the harvesters, “The LORD be with you,” and they replied, “The LORD bless you.” ^ruth-02-4
 
 5 Boaz asked the young man overseeing his harvesters, “Whose young woman is this?” ^ruth-02-5
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/ruth/2
 
 11 Boaz answered her: “I have had a complete account of what you have done for your mother-in-law after your husband’s death; you have left your father and your mother and the land of your birth, and have come to a people whom previously you did not know. ^ruth-02-11
 
-12 May the L ORD reward what you have done! May you receive a full reward from the L ORD, the God of Israel, under whose wings you have come for refuge.” ^ruth-02-12
+12 May the LORD reward what you have done! May you receive a full reward from the LORD, the God of Israel, under whose wings you have come for refuge.” ^ruth-02-12
 
 13 She said, “May I prove worthy of your favor, my lord. You have comforted me. You have spoken to the heart of your servant—and I am not even one of your servants!” ^ruth-02-13
 
@@ -61,7 +60,7 @@ url: https://bible.usccb.org/bible/ruth/2
 
 19 So her mother-in-law said to her, “Where did you glean today? Where did you go to work? May the one who took notice of you be blessed!” Then she told her mother-in-law with whom she had worked. “The man at whose place I worked today is named Boaz,” she said. ^ruth-02-19
 
-20 “May he be blessed by the L ORD, who never fails to show kindness to the living and to the dead,” Naomi exclaimed to her daughter-in-law. She continued, “This man is a near relative of ours, one of our redeemers.” ^ruth-02-20
+20 “May he be blessed by the LORD, who never fails to show kindness to the living and to the dead,” Naomi exclaimed to her daughter-in-law. She continued, “This man is a near relative of ours, one of our redeemers.” ^ruth-02-20
 
 21 “He even told me,” added Ruth the Moabite, “Stay with my young people until they complete my entire harvest.” ^ruth-02-21
 

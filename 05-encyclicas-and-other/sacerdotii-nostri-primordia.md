@@ -1,21 +1,24 @@
 ---
-title: Sacerdotii Nostri Primordia (August 1, 1959)
-created: 2025-10-05
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: John Baptist Vianney, consecrated life, clergy, priesthood, religious life, virginity, celibacy, penance, saints, Sacerdotii Nostri Primordia, John XXIII, 1 August 1959
-aliases:
-  - Sacerdotii Nostri Primordia (August 1, 1959)
-tags:
-  - vatican/encyclical
-abbreviation: jpii-sn
+title: Sacerdotii Nostri Primordia
 author: Pope John XXIII
 source: vatican.va
 url: https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html
+aliases:
+  - Sacerdotii Nostri Primordia (August 1, 1959)
+tags:
+  - author/saint-john-paul-II
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-10-05
+modified: 2026-04-06
+publish: true
+permalink: /sacerdotii-nostri-primordia
+description: John Baptist Vianney, consecrated life, clergy, priesthood, religious life, virginity, celibacy, penance, saints, Sacerdotii Nostri Primordia, John XXIII, 1 August 1959
+abbreviation: jpii-sn
 ---
 
-# Sacerdotii Nostri Primordia (August 1, 1959)
+# Sacerdotii Nostri Primordia
 
 Source: [](https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_19590801_sacerdotii.html)
 

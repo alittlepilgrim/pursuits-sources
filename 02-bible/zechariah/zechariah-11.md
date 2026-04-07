@@ -1,27 +1,26 @@
 ---
-title: Zechariah, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 11
+title: Zechariah, Chapter 11
+url: https://bible.usccb.org/bible/zechariah/11
 aliases:
   - zechariah-11
   - Zechariah, Chapter 11
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/11
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 11
 ---
 
 # Zechariah, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
-#### The Cry of Trees, Shepherds, and Lions
+### The Cry of Trees, Shepherds, and Lions
 
 1 Open your doors, Lebanon, ^zechariah-11-1
 
@@ -47,11 +46,11 @@ the thickets of the Jordan are destroyed.
 
 **The Shepherd Narrative.**
 
-4 Thus says the L ORD, my God: Shepherd the flock to be slaughtered. ^zechariah-11-4
+4 Thus says the LORD, my God: Shepherd the flock to be slaughtered. ^zechariah-11-4
 
-5 For they who buy them slay them and are not held accountable; while those who sell them say, “Blessed be the L ORD, I have become rich!” Even their own shepherds will not pity them. ^zechariah-11-5
+5 For they who buy them slay them and are not held accountable; while those who sell them say, “Blessed be the LORD, I have become rich!” Even their own shepherds will not pity them. ^zechariah-11-5
 
-6 For I will no longer pity the inhabitants of the earth—oracle of the L ORD.—Yes, I will deliver them into each other’s power, or into the power of their kings; they will crush the earth, and I will not deliver it out of their power. ^zechariah-11-6
+6 For I will no longer pity the inhabitants of the earth—oracle of the LORD.—Yes, I will deliver them into each other’s power, or into the power of their kings; they will crush the earth, and I will not deliver it out of their power. ^zechariah-11-6
 
 7 So I shepherded the flock to be slaughtered for the merchants of the flock. I took two staffs: one I called Delight, and the other Union. Thus I shepherded the flock. ^zechariah-11-7
 
@@ -61,19 +60,19 @@ the thickets of the Jordan are destroyed.
 
 10 Then I took my staff Delight and snapped it in two, breaking my covenant which I had made with all peoples. ^zechariah-11-10
 
-11 So it was broken on that day. The merchants of the flock, who were watching me, understood that this was the word of the L ORD. ^zechariah-11-11
+11 So it was broken on that day. The merchants of the flock, who were watching me, understood that this was the word of the LORD. ^zechariah-11-11
 
 12 Then I said to them, “If it seems good to you, give me my wages; but if not, withhold them.” And they counted out my wages, thirty pieces of silver. ^zechariah-11-12
 
-13 Then the L ORD said to me, Throw it in the treasury—the handsome price at which they valued me. So I took the thirty pieces of silver and threw them into the treasury in the house of the L ORD. ^zechariah-11-13
+13 Then the LORD said to me, Throw it in the treasury—the handsome price at which they valued me. So I took the thirty pieces of silver and threw them into the treasury in the house of the LORD. ^zechariah-11-13
 
 14 Then I snapped in two my second staff, Union, breaking the kinship between Judah and Israel. ^zechariah-11-14
 
-15 The L ORD said to me: This time take the gear of a foolish shepherd. ^zechariah-11-15
+15 The LORD said to me: This time take the gear of a foolish shepherd. ^zechariah-11-15
 
 16 For I am raising up a shepherd in the land who will take no note of those that disappear, nor seek the strays, nor heal the injured, nor feed the exhausted; but he will eat the flesh of the fat ones and tear off their hoofs! ^zechariah-11-16
 
-#### Oracle to the Worthless Shepherd
+### Oracle to the Worthless Shepherd
 
 17 Ah! my worthless shepherd ^zechariah-11-17
 

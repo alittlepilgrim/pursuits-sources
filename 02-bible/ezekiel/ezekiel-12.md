@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 12
+title: Ezekiel, Chapter 12
+url: https://bible.usccb.org/bible/ezekiel/12
 aliases:
   - ezekiel-12
   - Ezekiel, Chapter 12
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 12
 ---
 
 # Ezekiel, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **Acts Symbolic of the Exile.**
 
-1 The word of the L ORD came to me: ^ezekiel-12-1
+1 The word of the LORD came to me: ^ezekiel-12-1
 
 2 Son of man, you live in the midst of a rebellious house; they have eyes to see, but do not see, and ears to hear but do not hear. They are such a rebellious house! ^ezekiel-12-2
 
@@ -37,7 +36,7 @@ url: https://bible.usccb.org/bible/ezekiel/12
 
 7 I did just as I was commanded. During the day I brought out my bag, an exile’s bag. In the evening while they watched, I dug a hole through the wall with my hands and set out in darkness, shouldering my load. ^ezekiel-12-7
 
-8 In the morning, the word of the L ORD came to me: ^ezekiel-12-8
+8 In the morning, the word of the LORD came to me: ^ezekiel-12-8
 
 9 Son of man, did not the house of Israel, that house of rebels, say, “What are you doing?” ^ezekiel-12-9
 
@@ -51,21 +50,21 @@ url: https://bible.usccb.org/bible/ezekiel/12
 
 14 All his retinue, his aides and all his troops, I will scatter to the winds and pursue them with the sword. ^ezekiel-12-14
 
-15 Then they shall know that I am the L ORD, when I disperse them among the nations and scatter them throughout the lands. ^ezekiel-12-15
+15 Then they shall know that I am the LORD, when I disperse them among the nations and scatter them throughout the lands. ^ezekiel-12-15
 
-16 But I will let a few of them escape the sword, starvation, and plague, so that they may recount all their abominations among the nations to which they go. Thus they may know that I am the L ORD. ^ezekiel-12-16
+16 But I will let a few of them escape the sword, starvation, and plague, so that they may recount all their abominations among the nations to which they go. Thus they may know that I am the LORD. ^ezekiel-12-16
 
-17 The word of the L ORD came to me: ^ezekiel-12-17
+17 The word of the LORD came to me: ^ezekiel-12-17
 
 18 Son of man, eat your bread trembling and drink your water shaking with fear. ^ezekiel-12-18
 
 19 And say to the people of the land: Thus says the Lord G OD about the inhabitants of Jerusalem in the land of Israel: they shall eat their bread in fear and drink their water in horror, because the land will be emptied of what fills it—the lawlessness of all its inhabitants. ^ezekiel-12-19
 
-20 Inhabited cities shall be in ruins, the land a desolate place. Then you shall know that I am the L ORD. ^ezekiel-12-20
+20 Inhabited cities shall be in ruins, the land a desolate place. Then you shall know that I am the LORD. ^ezekiel-12-20
 
 **Prophecy Ridiculed.**
 
-21 The word of the L ORD came to me: ^ezekiel-12-21
+21 The word of the LORD came to me: ^ezekiel-12-21
 
 22 Son of man, what is this proverb you have in the land of Israel: “The days drag on, and every vision fails”? ^ezekiel-12-22
 
@@ -75,7 +74,7 @@ url: https://bible.usccb.org/bible/ezekiel/12
 
 25 for whatever word I speak shall happen without delay. In your days, rebellious house, whatever I speak I will bring about—oracle of the Lord G OD. ^ezekiel-12-25
 
-26 The word of the L ORD came to me: ^ezekiel-12-26
+26 The word of the LORD came to me: ^ezekiel-12-26
 
 27 Son of man, listen! The house of Israel is saying, “The vision he sees is a long time off; he prophesies for distant times!” ^ezekiel-12-27
 

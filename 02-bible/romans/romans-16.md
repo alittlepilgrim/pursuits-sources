@@ -1,25 +1,24 @@
 ---
-title: Romans, Chapter 16
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: romans-chapter 16
+title: Romans, Chapter 16
+url: https://bible.usccb.org/bible/romans/16
 aliases:
   - romans-16
   - Romans, Chapter 16
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/romans
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/romans/16
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: romans-chapter 16
 ---
 
 # Romans, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **Phoebe Commended.**
 

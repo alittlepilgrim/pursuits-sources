@@ -1,25 +1,24 @@
 ---
-title: Hebrews, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hebrews, Chapter 6
+title: Hebrews, Chapter 6
+url: https://bible.usccb.org/bible/hebrews/6
 aliases:
   - hebrews-06
   - Hebrews, Chapter 6
 tags:
+  - bible/chapter
   - bible/hebrews
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/hebrews/6
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hebrews, Chapter 6
 ---
 
 # Hebrews, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 1 Therefore, let us leave behind the basic teaching about Christ and advance to maturity, without laying the foundation all over again: repentance from dead works and faith in God, ^hebrews-06-1
 

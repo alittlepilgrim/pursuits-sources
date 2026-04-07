@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 8
+title: Ezekiel, Chapter 8
+url: https://bible.usccb.org/bible/ezekiel/8
 aliases:
   - ezekiel-08
   - Ezekiel, Chapter 8
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 8
 ---
 
 # Ezekiel, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 1 In the sixth year, on the fifth day of the sixth month, as I was sitting in my house, with the elders of Judah sitting before me, the hand of the Lord G OD fell upon me there. ^ezekiel-08-1
 
@@ -45,15 +44,15 @@ url: https://bible.usccb.org/bible/ezekiel/8
 
 11 Before them stood seventy of the elders of the house of Israel. Among them stood Jaazaniah, son of Shaphan, each with censer in hand; a cloud of incense drifted upward. ^ezekiel-08-11
 
-12 Then he said to me: Do you see, son of man, what the elders of the house of Israel are doing in the dark, each in his idol chamber? They think: “The L ORD cannot see us; the L ORD has forsaken the land.” ^ezekiel-08-12
+12 Then he said to me: Do you see, son of man, what the elders of the house of Israel are doing in the dark, each in his idol chamber? They think: “The LORD cannot see us; the LORD has forsaken the land.” ^ezekiel-08-12
 
 13 He said: You will see them practicing even greater abominations. ^ezekiel-08-13
 
-14 Then he brought me to the entrance of the north gate of the house of the L ORD. There women sat and wept for Tammuz. ^ezekiel-08-14
+14 Then he brought me to the entrance of the north gate of the house of the LORD. There women sat and wept for Tammuz. ^ezekiel-08-14
 
 15 He said to me: Do you see this, son of man? You will see other abominations, greater than these! ^ezekiel-08-15
 
-16 Then he brought me into the inner court of the house of the L ORD. There at the door of the L ORD’s temple, between the porch and the altar, were about twenty-five men with their backs to the L ORD’s temple and their faces toward the east; they were bowing eastward to the sun. ^ezekiel-08-16
+16 Then he brought me into the inner court of the house of the LORD. There at the door of the LORD’s temple, between the porch and the altar, were about twenty-five men with their backs to the LORD’s temple and their faces toward the east; they were bowing eastward to the sun. ^ezekiel-08-16
 
 17 He said: Do you see, son of man? Are the abominable things the house of Judah has done here so slight that they should also fill the land with violence, provoking me again and again? Now they are putting the branch to my nose! ^ezekiel-08-17
 

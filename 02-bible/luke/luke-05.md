@@ -1,26 +1,25 @@
 ---
-title: Luke, Chapter 5
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Luke, Chapter 5
+title: Luke, Chapter 5
+url: https://bible.usccb.org/bible/luke/5
 aliases:
   - 20250730-160757
   - luke-05
   - Luke, Chapter 5
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/5
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 5
 ---
 
 # Luke, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **The Call of Simon the Fisherman.**
 

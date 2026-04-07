@@ -1,41 +1,40 @@
 ---
-title: Ezekiel, Chapter 25
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 25
+title: Ezekiel, Chapter 25
+url: https://bible.usccb.org/bible/ezekiel/25
 aliases:
   - ezekiel-25
   - Ezekiel, Chapter 25
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/25
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 25
 ---
 
 # Ezekiel, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 **Against Ammon.**
 
-1 The word of the L ORD came to me: ^ezekiel-25-1
+1 The word of the LORD came to me: ^ezekiel-25-1
 
 2 Son of man, turn toward the Ammonites and prophesy against them. ^ezekiel-25-2
 
-3 Say to the Ammonites: Hear the word of the L ORD! Thus says the Lord G OD: Because you jeered at my sanctuary when it was desecrated, at the land of Israel when it was destroyed, and at the house of Judah when they went into exile, ^ezekiel-25-3
+3 Say to the Ammonites: Hear the word of the LORD! Thus says the Lord G OD: Because you jeered at my sanctuary when it was desecrated, at the land of Israel when it was destroyed, and at the house of Judah when they went into exile, ^ezekiel-25-3
 
 4 therefore I am giving you to people from the east as a possession. They shall set up their encampments among you and pitch their tents in your midst; they shall eat your produce and drink your milk. ^ezekiel-25-4
 
-5 And I will turn Rabbah into a pasture for camels and all of Ammon into a grazing place for flocks. Then you shall know that I am the L ORD. ^ezekiel-25-5
+5 And I will turn Rabbah into a pasture for camels and all of Ammon into a grazing place for flocks. Then you shall know that I am the LORD. ^ezekiel-25-5
 
 6 For thus says the Lord G OD: Because you rejoiced over the land of Israel with scorn in your heart, clapping your hands and stamping your feet, ^ezekiel-25-6
 
-7 therefore, see, I am stretching out my hand against you and giving you up as plunder to the nations. I will cut you off from the peoples and wipe you out of the lands. I will destroy you, and you shall know that I am the L ORD. ^ezekiel-25-7
+7 therefore, see, I am stretching out my hand against you and giving you up as plunder to the nations. I will cut you off from the peoples and wipe you out of the lands. I will destroy you, and you shall know that I am the LORD. ^ezekiel-25-7
 
 **Against Moab.**
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/ezekiel/25
 
 10 I will hand it over, along with the Ammonites, to the people from the east that it may not be remembered among the nations. ^ezekiel-25-10
 
-11 I will execute judgment upon Moab that they may know that I am the L ORD. ^ezekiel-25-11
+11 I will execute judgment upon Moab that they may know that I am the LORD. ^ezekiel-25-11
 
 **Against Edom.**
 
@@ -61,7 +60,7 @@ url: https://bible.usccb.org/bible/ezekiel/25
 
 16 therefore thus says the Lord G OD: See! I am stretching out my hand against the Philistines, and I will cut off the Cherethites and wipe out the remnant on the seacoast. ^ezekiel-25-16
 
-17 Thus I will execute great acts of vengeance on them, punishing them furiously. Then they shall know that I am the L ORD, when I wreak my vengeance on them. ^ezekiel-25-17
+17 Thus I will execute great acts of vengeance on them, punishing them furiously. Then they shall know that I am the LORD, when I wreak my vengeance on them. ^ezekiel-25-17
 
 \* (25:1] – [32:32) These chapters form a body of oracles directed against foreign nations. They follow the prophet’s condemnation of Judah and oracles announcing its destruction. The unit precedes the announcement of Judah’s salvation in chaps. [33] – [48].
 

@@ -1,20 +1,20 @@
 ---
-title: Judges, The Book of Judges
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, the Book of Judges
+title: Judges, The Book of Judges
+url: https://bible.usccb.org/bible/judges/0
 aliases:
   - judges-00
   - Judges, the Book of Judges
   - Judges, The Book of Judges
 tags:
+  - bible/book
   - bible/judges
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/judges/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, the Book of Judges
 ---
 
 # Judges, the Book of Judges

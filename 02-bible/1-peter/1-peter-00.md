@@ -1,20 +1,20 @@
 ---
-title: 1 Peter, The First Letter of Peter
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Peter, the First Letter of Peter
+title: 1 Peter, The First Letter of Peter
+url: https://bible.usccb.org/bible/1peter/0
 aliases:
   - 1 Peter, the First Letter of Peter
   - 1 Peter, The First Letter of Peter
   - 1-peter-00
 tags:
   - bible/1-peter
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/1peter/0
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Peter, the First Letter of Peter
 ---
 
 # 1 Peter, the First Letter of Peter

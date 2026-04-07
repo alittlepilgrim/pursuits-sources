@@ -1,19 +1,19 @@
 ---
-title: Haggai, The Book of Haggai
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Haggai, the Book of Haggai
+title: Haggai, The Book of Haggai
+url: https://bible.usccb.org/bible/haggai/0
 aliases:
   - haggai-00
   - Haggai, the Book of Haggai
 tags:
+  - bible/book
   - bible/haggai
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/haggai/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Haggai, the Book of Haggai
 ---
 
 # Haggai, the Book of Haggai

@@ -1,20 +1,20 @@
 ---
-title: Ezekiel, The Book of Ezekiel
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, the Book of Ezekiel
+title: Ezekiel, The Book of Ezekiel
+url: https://bible.usccb.org/bible/ezekiel/0
 aliases:
   - ezekiel-00
   - Ezekiel, the Book of Ezekiel
   - Ezekiel, The Book of Ezekiel
 tags:
+  - bible/book
   - bible/ezekiel
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, the Book of Ezekiel
 ---
 
 # Ezekiel, the Book of Ezekiel

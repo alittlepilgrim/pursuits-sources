@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 39
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 39
+title: Isaiah, Chapter 39
+url: https://bible.usccb.org/bible/isaiah/39
 aliases:
   - isaiah-39
   - Isaiah, Chapter 39
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/39
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 39
 ---
 
 # Isaiah, Chapter 39
 
-### Chapter 39
+## Chapter 39
 
 **Embassy from Merodach-baladan.**
 
@@ -31,13 +30,13 @@ url: https://bible.usccb.org/bible/isaiah/39
 
 4 He asked, “What did they see in your house?” Hezekiah answered, “They saw everything in my house. There is nothing in my storerooms that I did not show them.” ^isaiah-39-4
 
-5 Then Isaiah said to Hezekiah, “Hear the word of the L ORD of hosts: ^isaiah-39-5
+5 Then Isaiah said to Hezekiah, “Hear the word of the LORD of hosts: ^isaiah-39-5
 
-6 The time is coming when all that is in your house, everything that your ancestors have stored up until this day, shall be carried off to Babylon; nothing shall be left, says the L ORD. ^isaiah-39-6
+6 The time is coming when all that is in your house, everything that your ancestors have stored up until this day, shall be carried off to Babylon; nothing shall be left, says the LORD. ^isaiah-39-6
 
 7 Some of your own descendants, your progeny, shall be taken and made attendants in the palace of the king of Babylon.” ^isaiah-39-7
 
-8 Hezekiah replied to Isaiah, “The word of the L ORD which you have spoken is good.” For he thought, “There will be peace and stability in my lifetime.” ^isaiah-39-8
+8 Hezekiah replied to Isaiah, “The word of the LORD which you have spoken is good.” For he thought, “There will be peace and stability in my lifetime.” ^isaiah-39-8
 
 \* (39:1) Merodach-baladan: twice king of Babylon, probably from 721 to 710 B.C., and again for nine months, in 704–703. This visit of his messengers, certainly before 701, was in reality a political one. Babylon hoped to lead an anti-Assyrian confederation composed of neighboring states and wanted Judah to join.
 

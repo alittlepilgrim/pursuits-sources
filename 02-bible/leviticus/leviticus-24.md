@@ -1,63 +1,62 @@
 ---
-title: Leviticus, Chapter 24
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 24
+title: Leviticus, Chapter 24
+url: https://bible.usccb.org/bible/leviticus/24
 aliases:
   - leviticus-24
   - Leviticus, Chapter 24
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/24
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 24
 ---
 
 # Leviticus, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
 **The Sanctuary Light.**
 
-1 The L ORD said to Moses: ^leviticus-24-1
+1 The LORD said to Moses: ^leviticus-24-1
 
 2 Order the Israelites to bring you clear oil of crushed olives for the light, so that you may keep the lamp burning regularly. ^leviticus-24-2
 
-3 In the tent of meeting, outside the veil that hangs in front of the covenant, Aaron shall set up the lamp to burn before the L ORD regularly, from evening till morning, by a perpetual statute throughout your generations. ^leviticus-24-3
+3 In the tent of meeting, outside the veil that hangs in front of the covenant, Aaron shall set up the lamp to burn before the LORD regularly, from evening till morning, by a perpetual statute throughout your generations. ^leviticus-24-3
 
-4 He shall set up the lamps on the pure gold menorah to burn regularly before the L ORD. ^leviticus-24-4
+4 He shall set up the lamps on the pure gold menorah to burn regularly before the LORD. ^leviticus-24-4
 
 **The Showbread.**
 
 5 You shall take bran flour and bake it into twelve cakes, using two tenths of an ephah of flour for each cake. ^leviticus-24-5
 
-6 These you shall place in two piles, six in each pile, on the pure gold table before the L ORD. ^leviticus-24-6
+6 These you shall place in two piles, six in each pile, on the pure gold table before the LORD. ^leviticus-24-6
 
-7 With each pile put some pure frankincense, which shall serve as an oblation to the L ORD, a token of the bread offering. ^leviticus-24-7
+7 With each pile put some pure frankincense, which shall serve as an oblation to the LORD, a token of the bread offering. ^leviticus-24-7
 
-8 Regularly on each sabbath day the bread shall be set out before the L ORD on behalf of the Israelites by an everlasting covenant. ^leviticus-24-8
+8 Regularly on each sabbath day the bread shall be set out before the LORD on behalf of the Israelites by an everlasting covenant. ^leviticus-24-8
 
-9 It shall belong to Aaron and his sons, who must eat it in a sacred place, since it is most sacred, his as a perpetual due from the oblations to the L ORD. ^leviticus-24-9
+9 It shall belong to Aaron and his sons, who must eat it in a sacred place, since it is most sacred, his as a perpetual due from the oblations to the LORD. ^leviticus-24-9
 
 **Punishment of Blasphemy.**
 
 10 A man born of an Israelite mother and an Egyptian father went out among the Israelites, and in the camp a fight broke out between the son of the Israelite woman and an Israelite man. ^leviticus-24-10
 
-11 The son of the Israelite woman uttered the L ORD’s name in a curse and blasphemed. So he was brought to Moses—now his mother’s name was Shelomith, daughter of Dibri, of the tribe of Dan— ^leviticus-24-11
+11 The son of the Israelite woman uttered the LORD’s name in a curse and blasphemed. So he was brought to Moses—now his mother’s name was Shelomith, daughter of Dibri, of the tribe of Dan— ^leviticus-24-11
 
-12 and he was kept in custody till a decision from the L ORD should settle the case for them. ^leviticus-24-12
+12 and he was kept in custody till a decision from the LORD should settle the case for them. ^leviticus-24-12
 
-13 The L ORD then said to Moses: ^leviticus-24-13
+13 The LORD then said to Moses: ^leviticus-24-13
 
 14 Take the blasphemer outside the camp, and when all who heard him have laid their hands on his head, let the whole community stone him. ^leviticus-24-14
 
 15 Tell the Israelites: Anyone who blasphemes God shall bear the penalty; ^leviticus-24-15
 
-16 whoever utters the name of the L ORD in a curse shall be put to death. The whole community shall stone that person; alien and native-born alike must be put to death for uttering the L ORD’s name in a curse. ^leviticus-24-16
+16 whoever utters the name of the LORD in a curse shall be put to death. The whole community shall stone that person; alien and native-born alike must be put to death for uttering the LORD’s name in a curse. ^leviticus-24-16
 
 17 Whoever takes the life of any human being shall be put to death; ^leviticus-24-17
 
@@ -69,9 +68,9 @@ url: https://bible.usccb.org/bible/leviticus/24
 
 21 Whoever takes the life of an animal shall make restitution, but whoever takes a human life shall be put to death. ^leviticus-24-21
 
-22 You shall have but one rule, for alien and native-born alike. I, the L ORD, am your God. ^leviticus-24-22
+22 You shall have but one rule, for alien and native-born alike. I, the LORD, am your God. ^leviticus-24-22
 
-23 When Moses told this to the Israelites, they took the blasphemer outside the camp and stoned him; they did just as the L ORD commanded Moses. ^leviticus-24-23
+23 When Moses told this to the Israelites, they took the blasphemer outside the camp and stoned him; they did just as the LORD commanded Moses. ^leviticus-24-23
 
 \* (24:1] – [4) On the lamp, see ([[exodus-25|Ex 25]]:31] – [40]; [26:35]; [27:20] – [21]; [37:17] – [24]; [40:24] – [25]; [Nm 8:1] – [4]. It occupies the south side of the anterior room of the sanctuary tent and provides light for that room.
 

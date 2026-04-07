@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 5
+title: Wisdom, Chapter 5
+url: https://bible.usccb.org/bible/wisdom/5
 aliases:
   - wisdom-05
   - Wisdom, Chapter 5
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/5
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 5
 ---
 
 # Wisdom, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 1 Then shall the righteous one with great assurance confront ^wisdom-05-1
 
@@ -57,7 +56,7 @@ and the sun did not rise for us.
 
 we journeyed through trackless deserts,
 
-but the way of the L ORD we never knew.
+but the way of the LORD we never knew.
 
 8 What did our pride avail us? ^wisdom-05-8
 
@@ -107,13 +106,13 @@ and like the passing memory of the nomad camping for a single day.
 
 15 But the righteous live forever, ^wisdom-05-15
 
-and in the L ORD is their recompense,
+and in the LORD is their recompense,
 
 and the thought of them is with the Most High.
 
 16 Therefore shall they receive the splendid crown, ^wisdom-05-16
 
-the beautiful diadem, from the hand of the L ORD,
+the beautiful diadem, from the hand of the LORD,
 
 For he will shelter them with his right hand,
 

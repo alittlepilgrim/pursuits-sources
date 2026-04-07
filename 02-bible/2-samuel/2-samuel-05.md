@@ -1,33 +1,32 @@
 ---
-title: 2 Samuel, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 5
+title: 2 Samuel, Chapter 5
+url: https://bible.usccb.org/bible/2samuel/5
 aliases:
   - 2 Samuel, Chapter 5
   - 2-samuel-05
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/5
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 5
 ---
 
 # 2 Samuel, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **David King of Israel.**
 
 1 All the tribes of Israel came to David in Hebron, and they said: “Look! We are your bone and your flesh. ^2-samuel-05-1
 
-2 In days past, when Saul was still our king, you were the one who led Israel out in all its battles and brought it back. And the L ORD said to you: You shall shepherd my people Israel; you shall be ruler over Israel.” ^2-samuel-05-2
+2 In days past, when Saul was still our king, you were the one who led Israel out in all its battles and brought it back. And the LORD said to you: You shall shepherd my people Israel; you shall be ruler over Israel.” ^2-samuel-05-2
 
-3 Then all the elders of Israel came to the king in Hebron, and at Hebron King David made a covenant with them in the presence of the L ORD; and they anointed David king over Israel. ^2-samuel-05-3
+3 Then all the elders of Israel came to the king in Hebron, and at Hebron King David made a covenant with them in the presence of the LORD; and they anointed David king over Israel. ^2-samuel-05-3
 
 4 David was thirty years old when he became king, and he reigned forty years: ^2-samuel-05-4
 
@@ -43,11 +42,11 @@ url: https://bible.usccb.org/bible/2samuel/5
 
 9 David took up residence in the fortress which he called the City of David. David built up the city on all sides, from the Millo toward the center. ^2-samuel-05-9
 
-10 David became ever more powerful, for the L ORD of hosts was with him. ^2-samuel-05-10
+10 David became ever more powerful, for the LORD of hosts was with him. ^2-samuel-05-10
 
 11 Hiram, king of Tyre, sent envoys to David along with cedar wood, and carpenters and masons, who built a house for David. ^2-samuel-05-11
 
-12 David now knew that the L ORD had truly established him as king over Israel and had exalted his kingdom for the sake of his people Israel. ^2-samuel-05-12
+12 David now knew that the LORD had truly established him as king over Israel and had exalted his kingdom for the sake of his people Israel. ^2-samuel-05-12
 
 **David’s Family in Jerusalem.**
 
@@ -65,19 +64,19 @@ url: https://bible.usccb.org/bible/2samuel/5
 
 18 Meanwhile the Philistines had come and deployed themselves in the valley of Rephaim. ^2-samuel-05-18
 
-19 David inquired of the L ORD, “Shall I attack the Philistines, and will you deliver them into my power?” The L ORD answered David: Attack, for I will surely deliver the Philistines into your power. ^2-samuel-05-19
+19 David inquired of the LORD, “Shall I attack the Philistines, and will you deliver them into my power?” The LORD answered David: Attack, for I will surely deliver the Philistines into your power. ^2-samuel-05-19
 
-20 So David went to Baal-perazim, and he defeated them there. He said, “The L ORD has broken through my enemies before me just as water breaks through a dam.” Therefore that place was called Baal-perazim. ^2-samuel-05-20
+20 So David went to Baal-perazim, and he defeated them there. He said, “The LORD has broken through my enemies before me just as water breaks through a dam.” Therefore that place was called Baal-perazim. ^2-samuel-05-20
 
 21 The Philistines abandoned their gods there, and David and his men carried them away. ^2-samuel-05-21
 
 22 Once again the Philistines came up and deployed themselves in the valley of Rephaim, ^2-samuel-05-22
 
-23 and again David inquired of the L ORD, who replied: Do not attack the front—circle behind them and come against them near the balsam trees. ^2-samuel-05-23
+23 and again David inquired of the LORD, who replied: Do not attack the front—circle behind them and come against them near the balsam trees. ^2-samuel-05-23
 
-24 When you hear the sound of marching in the tops of the balsam trees, act decisively, for then the L ORD has already gone before you to strike the army of the Philistines. ^2-samuel-05-24
+24 When you hear the sound of marching in the tops of the balsam trees, act decisively, for then the LORD has already gone before you to strike the army of the Philistines. ^2-samuel-05-24
 
-25 David did as the L ORD commanded him, and routed the Philistines from Gibeon as far as Gezer. ^2-samuel-05-25
+25 David did as the LORD commanded him, and routed the Philistines from Gibeon as far as Gezer. ^2-samuel-05-25
 
 \* (5:6] – [12) David’s most important military exploit, the taking of Jerusalem, is here presented before his battles with the Philistines, vv. [17] – [25], which took place earlier. The sense of vv. [6] and [8] is in doubt. Perhaps the Jebusites boasted that Jerusalem was impregnable, using a metaphorical or proverbial expression that claimed the city was defensible even by people not suited for military action. The saying then received a different sense (v. [8]), to the effect that “the blind and the lame” were David’s enemies. ([[matthew-21|Mt 21]]:14] and ([[luke-14|Lk 14]]:13] seem to play off, and transform, this saying.
 

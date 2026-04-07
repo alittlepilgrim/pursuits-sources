@@ -1,29 +1,28 @@
 ---
-title: Jeremiah, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 14
+title: Jeremiah, Chapter 14
+url: https://bible.usccb.org/bible/jeremiah/14
 aliases:
   - jeremiah-14
   - Jeremiah, Chapter 14
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 14
 ---
 
 # Jeremiah, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **The Great Drought.**
 
-1 The word of the L ORD that came to Jeremiah concerning the drought: ^jeremiah-14-1
+1 The word of the LORD that came to Jeremiah concerning the drought: ^jeremiah-14-1
 
 2 Judah mourns, ^jeremiah-14-2
 
@@ -63,13 +62,13 @@ there is no grass.
 
 7 Even though our crimes bear witness against us, ^jeremiah-14-7
 
-act, L ORD, for your name’s sake—
+act, LORD, for your name’s sake—
 
 Even though our rebellions are many,
 
 and we have sinned against you.
 
-8 Hope of Israel, L ORD, ^jeremiah-14-8
+8 Hope of Israel, LORD, ^jeremiah-14-8
 
 our savior in time of need!
 
@@ -81,33 +80,33 @@ like a traveler stopping only for a night?
 
 a champion who cannot save?
 
-You are in our midst, L ORD,
+You are in our midst, LORD,
 
 your name we bear:
 
 do not forsake us!
 
-10 Thus says the L ORD about this people: ^jeremiah-14-10
+10 Thus says the LORD about this people: ^jeremiah-14-10
 
 They so love to wander
 
 that they cannot restrain their feet.
 
-The L ORD takes no pleasure in them;
+The LORD takes no pleasure in them;
 
 now he remembers their guilt,
 
 and will punish their sins.
 
-11 Then the L ORD said to me: Do not intercede for the well-being of this people. ^jeremiah-14-11
+11 Then the LORD said to me: Do not intercede for the well-being of this people. ^jeremiah-14-11
 
 12 If they fast, I will not listen to their supplication. If they sacrifice burnt offerings or grain offerings, I will take no pleasure in them. Rather, I will destroy them with the sword, famine, and plague. ^jeremiah-14-12
 
 13 “Ah! Lord G OD,” I replied, “it is the prophets who say to them, ‘You shall not see the sword; famine shall not befall you. Indeed, I will give you lasting peace in this place.’” ^jeremiah-14-13
 
-14 These prophets utter lies in my name, the L ORD said to me: I did not send them; I gave them no command, nor did I speak to them. They prophesy to you lying visions, foolish divination, deceptions from their own imagination. ^jeremiah-14-14
+14 These prophets utter lies in my name, the LORD said to me: I did not send them; I gave them no command, nor did I speak to them. They prophesy to you lying visions, foolish divination, deceptions from their own imagination. ^jeremiah-14-14
 
-15 Therefore, thus says the L ORD: Concerning the prophets who prophesy in my name, though I did not send them, and who say, “Sword and famine shall not befall this land”: by sword and famine shall these prophets meet their end. ^jeremiah-14-15
+15 Therefore, thus says the LORD: Concerning the prophets who prophesy in my name, though I did not send them, and who say, “Sword and famine shall not befall this land”: by sword and famine shall these prophets meet their end. ^jeremiah-14-15
 
 16 The people to whom they prophesy shall be thrown out into the streets of Jerusalem because of famine and the sword. No one shall bury them, their wives, their sons, or their daughters, for I will pour out upon them their own wickedness. ^jeremiah-14-16
 
@@ -147,7 +146,7 @@ We wait for peace, to no avail;
 
 for a time of healing, but terror comes instead.
 
-20 We recognize our wickedness, L ORD, ^jeremiah-14-20
+20 We recognize our wickedness, LORD, ^jeremiah-14-20
 
 the guilt of our ancestors:
 
@@ -163,7 +162,7 @@ Remember! Do not break your covenant with us.
 
 Or can the mere heavens send showers?
 
-Is it not you, L ORD,
+Is it not you, LORD,
 
 our God, to whom we look?
 

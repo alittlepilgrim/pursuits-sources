@@ -1,20 +1,20 @@
 ---
-title: Amos, The Book of Amos
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, the Book of Amos
+title: Amos, The Book of Amos
+url: https://bible.usccb.org/bible/amos/0
 aliases:
   - amos-00
   - Amos, the Book of Amos
   - Amos, The Book of Amos
 tags:
   - bible/amos
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/amos/0
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, the Book of Amos
 ---
 
 # Amos, the Book of Amos

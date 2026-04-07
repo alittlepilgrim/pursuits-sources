@@ -1,15 +1,16 @@
 ---
-title: Chastity
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: chastity. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Chastity
 aliases:
   - chastity
   - Chastity
 tags:
   - term/chastity
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: chastity. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Chastity
@@ -20,18 +21,18 @@ The moral virtue which, under the cardinal virtue of temperance, provides for th
 
 ## Divine Intimacy Meditations
 
-- Souls consecrated to God obliged to perfect —: 75,1;
-- vow of perfect —: 88,2;
-- vow of -~ does not condemn souls to a sterile life, but uniting them to God, opens to them the sublime fruitfulness of the apostolate: 88,2;
-- the vow of — does not liberate the soul from temptations and struggles: 89,1;
-- required of every Christian in conformity with his state of life: 88,1;
-- of body, not sufficient, ‘should include that of heart and thoughts: 88,1;
-- of heart: 90,1, 90,2;
-- modesty, custodian of —: 89,1, 89,2.
+- Souls consecrated to God obliged to perfect —: [[75-vocation#Meditation 1|75,1]];
+- vow of perfect —: [[88-chastity#Meditation 2|88,2]];
+- vow of -~ does not condemn souls to a sterile life, but uniting them to God, opens to them the sublime fruitfulness of the apostolate: [[88-chastity#Meditation 2|88,2]];
+- the vow of — does not liberate the soul from temptations and struggles: [[89-modesty#Meditation 1|89,1]];
+- required of every Christian in conformity with his state of life: [[88-chastity#Meditation 1|88,1]];
+- of body, not sufficient, ‘should include that of heart and thoughts: [[88-chastity#Meditation 1|88,1]];
+- of heart: [[90-chastity-of-heart#Meditation 1|90,1]], [[90-chastity-of-heart#Meditation 2|90,2]];
+- modesty, custodian of —: [[89-modesty#Meditation 1|89,1]], [[89-modesty#Meditation 2|89,2]].
 
 ## Divine Intimacy Meditations
 
-- 75. Vocation
-- 88. Chastity
-- 89. Modesty
-- 90. Chastity of Heart
+- [[75-vocation|75. Vocation]]
+- [[88-chastity|88. Chastity]]
+- [[89-modesty|89. Modesty]]
+- [[90-chastity-of-heart|90. Chastity of Heart]]

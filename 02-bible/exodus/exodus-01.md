@@ -1,25 +1,24 @@
 ---
-title: Exodus, Chapter 1
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Exodus, Chapter 1
+title: Exodus, Chapter 1
+url: https://bible.usccb.org/bible/exodus/1
 aliases:
   - exodus-01
   - Exodus, Chapter 1
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Exodus, Chapter 1
 ---
 
 # Exodus, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Jacob’s Descendants in Egypt.**
 

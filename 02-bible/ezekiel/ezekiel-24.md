@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 24
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 24
+title: Ezekiel, Chapter 24
+url: https://bible.usccb.org/bible/ezekiel/24
 aliases:
   - ezekiel-24
   - Ezekiel, Chapter 24
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/24
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 24
 ---
 
 # Ezekiel, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
 **Allegory of the Pot.**
 
-1 On the tenth day of the tenth month, in the ninth year, the word of the L ORD came to me: ^ezekiel-24-1
+1 On the tenth day of the tenth month, in the ninth year, the word of the LORD came to me: ^ezekiel-24-1
 
 2 Son of man, write down today’s date this very day, for on this very day the king of Babylon lays siege to Jerusalem. ^ezekiel-24-2
 
@@ -111,7 +110,7 @@ You will not be cleansed now
 
 until I wreak my fury on you.
 
-14 I, the L ORD, have spoken; ^ezekiel-24-14
+14 I, the LORD, have spoken; ^ezekiel-24-14
 
 it will happen!
 
@@ -125,7 +124,7 @@ oracle of the Lord G OD.
 
 **Ezekiel as a Sign for the Exiles.**
 
-15 The word of the L ORD came to me: ^ezekiel-24-15
+15 The word of the LORD came to me: ^ezekiel-24-15
 
 16 Son of man, with a sudden blow I am taking away from you the delight of your eyes, but do not mourn or weep or shed any tears. ^ezekiel-24-16
 
@@ -135,7 +134,7 @@ oracle of the Lord G OD.
 
 19 Then the people asked me, “Will you not tell us what all these things you are doing mean for us?” ^ezekiel-24-19
 
-20 I said to them, The word of the L ORD came to me: ^ezekiel-24-20
+20 I said to them, The word of the LORD came to me: ^ezekiel-24-20
 
 21 Say to the house of Israel: Thus says the Lord G OD: I will now desecrate my sanctuary, the pride of your strength, the delight of your eyes, the concern of your soul. The sons and daughters you left behind shall fall by the sword. ^ezekiel-24-21
 
@@ -151,7 +150,7 @@ oracle of the Lord G OD.
 
 26 on that day a survivor will come to you so that you may hear it with your own ears. ^ezekiel-24-26
 
-27 On that day, with the survivor, your mouth shall be opened; you shall speak and be mute no longer. You shall be a sign to them, and they shall know that I am the L ORD. ^ezekiel-24-27
+27 On that day, with the survivor, your mouth shall be opened; you shall speak and be mute no longer. You shall be a sign to them, and they shall know that I am the LORD. ^ezekiel-24-27
 
 \* (24:1] – [14) As the Babylonian siege of Jerusalem begins (588 B.C.), Ezekiel uses allegory to depict Jerusalem and its over-confident inhabitants as a pot of meat set on the fire for boiling (vv. [3] – [5]; cf. [11:3]) and left there until only burnt bones remain (v. [10]). In vv. [6] – [8], the innocent blood shed by Jerusalem’s inhabitants is the rust that, despite efforts to remove it, coats the interior of the pot filled with meat. Once emptied (v. [8]), the rust-encrusted pot is set on hot coals (v. [11]), but the rust remains (v. [12]). Only the brunt of the Lord’s fury can cleanse Jerusalem of its guilt (vv. [13] – [14]).
 

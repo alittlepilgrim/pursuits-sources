@@ -1,20 +1,20 @@
 ---
-title: Isaiah, the Book of Isaiah
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, the Book of Isaiah
+title: Isaiah, the Book of Isaiah
+url: https://bible.usccb.org/bible/isaiah/0
 aliases:
   - isaiah-00
   - Isaiah, the Book of Isaiah
   - Isaiah, The Book of Isaiah
 tags:
+  - bible/book
   - bible/isaiah
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/isaiah/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, the Book of Isaiah
 ---
 
 # Isaiah, the Book of Isaiah
@@ -25,7 +25,7 @@ Isaiah, one of the greatest of the prophets, appeared at a critical moment in Is
 
 The vision of the Lord enthroned in glory stamps an indelible character on Isaiah’s ministry and provides a key to the understanding of his message. The majesty, holiness and glory of the Lord took possession of his spirit and, at the same time, he gained a new awareness of human pettiness and sinfulness. The enormous abyss between God’s sovereign holiness and human sinfulness overwhelmed the prophet. Only the purifying coal of the seraphim could cleanse his lips and prepare him for acceptance of the call: “Here I am, send me!”
 
-The ministry of Isaiah extended from the death of Uzziah in 742 B.C. to Sennacherib’s siege of Jerusalem in 701 B.C., and it may have continued even longer, until after the death of Hezekiah in 687 B.C. Later legend (the Martyrdom and Ascension of Isaiah) claims that Hezekiah’s son, Manasseh, executed Isaiah by having him sawed in two; cf. [Heb 11:37]. During this long ministry, the prophet returned again and again to the same themes, and there are indications that he may have sometimes re-edited his older prophecies to fit new occasions. There is no evidence that the present arrangement of the oracles in the book reflects a chronological order. Indeed, it appears that there were originally separate smaller collections of oracles (note especially chaps. [6] – [12]), each with its own logic for ordering, that were preserved fairly intact as blocks when the material was finally put together as a single literary work.
+The ministry of Isaiah extended from the death of Uzziah in 742 B.C. to Sennacherib’s siege of Jerusalem in 701 B.C., and it may have continued even longer, until after the death of Hezekiah in 687 B.C. Later legend (the Martyrdom and Ascension of Isaiah) claims that Hezekiah’s son, Manasseh, executed Isaiah by having him sawed in two; cf. [Heb 11:37]. During this long ministry, the prophet returned again and again to the same themes, and there are indications that he may have sometimes re-edited his older prophecies to fit new occasions. There is no evidence that the present arrangement of the oracles in the book reflects a chronologicaLORDer. Indeed, it appears that there were originally separate smaller collections of oracles (note especially chaps. [6] – [12]), each with its own logic for ordering, that were preserved fairly intact as blocks when the material was finally put together as a single literary work.
 
 Isaiah’s oracles cluster around several key historical events of the late eighth century: the Syro-Ephraimite War (735–732 B.C.), the accession of Hezekiah (715 B.C.), the revolt of Ashdod (714–711 B.C.), the death of Sargon (705 B.C.), and the revolt against Sennacherib (705–701 B.C.). In 738 B.C., with the Assyrian defeat of Calno/Calneh ([[isaiah-10|Is 10]]:9; [Am 6:2]), the anti-Assyrian league, of which Judah may have been the ringleader, collapsed, and both Israel and the Arameans of Damascus paid tribute to Assyria. By 735 B.C., however, Rezin of Damascus had created a new anti-Assyrian league, and when Ahaz refused to join, the league attempted to remove Ahaz from the throne of Judah. The resulting Syro-Ephraimite War was the original occasion for many of Isaiah’s oracles (cf. chaps. [7] – [8]), in which he tried to reassure Ahaz of God’s protection and dissuade him from seeking protection by an alliance with Assyria. Ahaz refused Isaiah’s message, however.
 

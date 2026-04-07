@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 57
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 57
+title: Isaiah, Chapter 57
+url: https://bible.usccb.org/bible/isaiah/57
 aliases:
   - isaiah-57
   - Isaiah, Chapter 57
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/57
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 57
 ---
 
 # Isaiah, Chapter 57
 
-### Chapter 57
+## Chapter 57
 
 1 The just have perished, ^isaiah-57-1
 
@@ -37,7 +36,7 @@ They rest upon their couches,
 
 the sincere, who walk in integrity.
 
-#### An Idolatrous People
+### An Idolatrous People
 
 3 But you, draw near, ^isaiah-57-3
 
@@ -137,7 +136,7 @@ But whoever takes refuge in me shall inherit the land,
 
 and possess my holy mountain.
 
-#### The Way to Peace for God’s People
+### The Way to Peace for God’s People
 
 14 And I say: ^isaiah-57-14
 
@@ -185,7 +184,7 @@ and to those who mourn for them,
 
 Peace! Peace to those who are far and near,
 
-says the L ORD; and I will heal them.
+says the LORD; and I will heal them.
 
 20 But the wicked are like the tossing sea ^isaiah-57-20
 

@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 49
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 49
+title: Sirach, Chapter 49
+url: https://bible.usccb.org/bible/sirach/49
 aliases:
   - sirach-49
   - Sirach, Chapter 49
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/49
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 49
 ---
 
 # Sirach, Chapter 49
 
-### Chapter 49
+## Chapter 49
 
-#### Josiah and the Prophets
+### Josiah and the Prophets
 
 1 The name J OSIAH is like blended incense, ^sirach-49-1
 
@@ -79,7 +78,7 @@ They gave new strength to Jacob
 
 and saved him with steadfast hope.
 
-#### The Heroes After the Exile
+### The Heroes After the Exile
 
 11 How to extol Z ERUBBABEL? ^sirach-49-11
 
@@ -101,7 +100,7 @@ Restored our shattered defenses,
 
 and set up gates and bars.
 
-#### The Earliest Patriarchs
+### The Earliest Patriarchs
 
 14 Few on earth have been created like E NOCH; ^sirach-49-14
 

@@ -1,18 +1,18 @@
 ---
-title: Gaudium Et Spes, Part II
-created: 2025-08-04
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: Gaudium Et Spes, Part II
+author: Catholic Church
 aliases:
   - constitutions
   - Gaudium Et Spes, part Ii
   - Gaudium Et Spes, Part II
   - gaudium-et-spes-02
 tags:
+  - graph/bible-v2
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
-author: Catholic Church
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
 ---
 
 abbreviation: gs

@@ -1,20 +1,19 @@
 ---
-title: Psalm 49
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 49
+title: Psalm 49
+url: https://bible.usccb.org/bible/psalms/49
 aliases:
   - Psalm 49
   - psalm-49
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/49
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 49
 ---
 
 # Psalm 49

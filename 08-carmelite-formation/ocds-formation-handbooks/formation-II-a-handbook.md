@@ -1,14 +1,15 @@
 ---
-title: 20251009-000759
-created: 2025-08-28
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: 20251009-000759
+author: Secular Order of Discalced Carmelites
 aliases:
   - 20251009-000759
 tags:
   - carmel/formation
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-08-28
+modified: 2026-04-06
+publish: false
 ---
 
 # 20251009-000759

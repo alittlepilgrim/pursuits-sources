@@ -1,31 +1,30 @@
 ---
-title: numbers-19
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 19
+title: numbers-19
+url: https://bible.usccb.org/bible/numbers/19
 aliases:
   - numbers-19
   - Numbers, Chapter 19
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/19
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 19
 ---
 
 ØØØ# Numbers, Chapter 19
 
-### Chapter 19
+# Chapter 19
 
 **Ashes of the Red Heifer.**
 
-1 The L ORD spoke to Moses and Aaron: ^numbers-19-1
+1 The LORD spoke to Moses and Aaron: ^numbers-19-1
 
-2 This is the statute for the ritual which the L ORD has commanded. Tell the Israelites to procure for you a red heifer without defect and free from every blemish and on which no yoke has ever been laid. ^numbers-19-2
+2 This is the statute for the ritual which the LORD has commanded. Tell the Israelites to procure for you a red heifer without defect and free from every blemish and on which no yoke has ever been laid. ^numbers-19-2
 
 3 You will give it to Eleazar the priest, and it will be led outside the camp and slaughtered in his presence. ^numbers-19-3
 
@@ -49,7 +48,7 @@ url: https://bible.usccb.org/bible/numbers/19
 
 12 they shall purify themselves with the water on the third and on the seventh day, and then be clean. But if they fail to purify themselves on the third and on the seventh day, they will not become clean. ^numbers-19-12
 
-13 Those who touch the corpse of a human being who dies and who fail to purify themselves defile the tabernacle of the L ORD and these persons shall be cut off from Israel. Since the purification water has not been splashed over them, they remain unclean: their uncleanness is still on them. ^numbers-19-13
+13 Those who touch the corpse of a human being who dies and who fail to purify themselves defile the tabernacle of the LORD and these persons shall be cut off from Israel. Since the purification water has not been splashed over them, they remain unclean: their uncleanness is still on them. ^numbers-19-13
 
 14 This is the ritual: When someone dies in a tent, everyone who enters the tent, as well as everyone already in it, will be unclean for seven days; ^numbers-19-14
 
@@ -63,7 +62,7 @@ url: https://bible.usccb.org/bible/numbers/19
 
 19 The clean will sprinkle the unclean on the third and on the seventh day, and thus purify them on the seventh day. Then they will wash their garments and bathe in water, and in the evening be clean. ^numbers-19-19
 
-20 Those who become unclean and fail to purify themselves—those people will be cut off from the assembly, because they defile the sanctuary of the L ORD. The purification water has not been splashed over them; they remain unclean. ^numbers-19-20
+20 Those who become unclean and fail to purify themselves—those people will be cut off from the assembly, because they defile the sanctuary of the LORD. The purification water has not been splashed over them; they remain unclean. ^numbers-19-20
 
 21 This will be a permanent statute for you. ^numbers-19-21
 

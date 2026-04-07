@@ -1,29 +1,28 @@
 ---
-title: 2 Chronicles, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 6
+title: 2 Chronicles, Chapter 6
+url: https://bible.usccb.org/bible/2chronicles/6
 aliases:
   - 2 Chronicles, Chapter 6
   - 2-chronicles-06
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/6
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 6
 ---
 
 # 2 Chronicles, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 1 Then Solomon said: ^2-chronicles-06-1
 
-“The L ORD intends to dwell in the dark cloud;
+“The LORD intends to dwell in the dark cloud;
 
 2 I have built you a princely house, ^2-chronicles-06-2
 
@@ -31,39 +30,39 @@ the base for your enthronement forever.”
 
 3 The king turned and blessed the whole assembly of Israel, while the whole assembly of Israel stood. ^2-chronicles-06-3
 
-4 He said: “Blessed be the L ORD, the God of Israel, who with his own mouth spoke a promise to David my father and by his hand fulfilled it, saying: ^2-chronicles-06-4
+4 He said: “Blessed be the LORD, the God of Israel, who with his own mouth spoke a promise to David my father and by his hand fulfilled it, saying: ^2-chronicles-06-4
 
 5 Since the day I brought my people out of the land of Egypt, I have not chosen a city out of any tribe of Israel for the building of a house, that my name might be there; nor have I chosen any man to be ruler of my people Israel; ^2-chronicles-06-5
 
 6 but now I have chosen Jerusalem, that my name may be there, and I have chosen David to rule my people Israel. ^2-chronicles-06-6
 
-7 When David my father wished to build a house for the name of the L ORD, the God of Israel, ^2-chronicles-06-7
+7 When David my father wished to build a house for the name of the LORD, the God of Israel, ^2-chronicles-06-7
 
-8 the L ORD said to him: In wishing to build a house for my name, you did well. ^2-chronicles-06-8
+8 the LORD said to him: In wishing to build a house for my name, you did well. ^2-chronicles-06-8
 
 9 But it is not you who will build the house, but your son, who comes from your loins: he shall build the house for my name. ^2-chronicles-06-9
 
-10 “Now the L ORD has fulfilled the word he spoke. I have succeeded David my father, and I sit on the throne of Israel, as the L ORD has said, and I have built this house for the name of the L ORD, the God of Israel. ^2-chronicles-06-10
+10 “Now the LORD has fulfilled the word he spoke. I have succeeded David my father, and I sit on the throne of Israel, as the LORD has said, and I have built this house for the name of the LORD, the God of Israel. ^2-chronicles-06-10
 
-11 I have placed there the ark, in which is the covenant of the L ORD that he made with the Israelites.” ^2-chronicles-06-11
+11 I have placed there the ark, in which is the covenant of the LORD that he made with the Israelites.” ^2-chronicles-06-11
 
 **Solomon’s Prayer.**
 
-12 Then he stood before the altar of the L ORD in the presence of the whole assembly of Israel and stretched forth his hands. ^2-chronicles-06-12
+12 Then he stood before the altar of the LORD in the presence of the whole assembly of Israel and stretched forth his hands. ^2-chronicles-06-12
 
 13 Solomon had made a bronze platform five cubits long, five cubits wide, and three cubits high, which he had placed in the middle of the courtyard. Having ascended it, Solomon knelt in the presence of the whole assembly of Israel and stretched forth his hands toward heaven. ^2-chronicles-06-13
 
-14 He said: “L ORD, God of Israel, there is no God like you in heaven or on earth; you keep the covenant and love toward your servants who walk before you with their whole heart, ^2-chronicles-06-14
+14 He said: “LORD, God of Israel, there is no God like you in heaven or on earth; you keep the covenant and love toward your servants who walk before you with their whole heart, ^2-chronicles-06-14
 
 15 the covenant that you kept toward your servant, David my father. That which you promised him, your mouth has spoken and your hand has fulfilled this very day. ^2-chronicles-06-15
 
-16 And now, L ORD, God of Israel, keep toward your servant, David my father, what you promised: There shall never be wanting someone from your line to sit before me on the throne of Israel, provided that your descendants keep to their way, walking by my law, as you have. ^2-chronicles-06-16
+16 And now, LORD, God of Israel, keep toward your servant, David my father, what you promised: There shall never be wanting someone from your line to sit before me on the throne of Israel, provided that your descendants keep to their way, walking by my law, as you have. ^2-chronicles-06-16
 
-17 Now, L ORD, God of Israel, may the words which you spoke to David your servant be confirmed. ^2-chronicles-06-17
+17 Now, LORD, God of Israel, may the words which you spoke to David your servant be confirmed. ^2-chronicles-06-17
 
 18 “Is God indeed to dwell with human beings on earth? If the heavens and the highest heavens cannot contain you, how much less this house which I have built! ^2-chronicles-06-18
 
-19 Regard kindly the prayer and petition of your servant, L ORD, my God, and listen to the cry of supplication which I, your servant, utter before you. ^2-chronicles-06-19
+19 Regard kindly the prayer and petition of your servant, LORD, my God, and listen to the cry of supplication which I, your servant, utter before you. ^2-chronicles-06-19
 
 20 May your eyes be open day and night toward this house, the place where you have decreed your name shall be; listen to the prayer your servant makes toward this place. ^2-chronicles-06-20
 
@@ -109,15 +108,15 @@ the base for your enthronement forever.”
 
 41 And now: ^2-chronicles-06-41
 
-“Arise, L ORD God, come to your resting place,
+“Arise, LORD God, come to your resting place,
 
 you and your majestic ark.
 
-Your priests, L ORD God, will be clothed with salvation,
+Your priests, LORD God, will be clothed with salvation,
 
 your faithful ones rejoice in good things.
 
-42 L ORD God, do not reject the plea of your anointed, ^2-chronicles-06-42
+42 LORD God, do not reject the plea of your anointed, ^2-chronicles-06-42
 
 remember the devotion of David, your servant.”
 

@@ -1,27 +1,19 @@
 ---
-title: The Cloud of Unknowing (CCEL Edition)
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: A 14th‑century anonymous English mystical text, instructing seekers in contemplative prayer through love and surrender, emphasizing the 'cloud of forgetting' beneath and the 'cloud of unknowing' above.
+title: The Cloud of Unknowing (CCEL Edition)
+author: Anonymous
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/a/anonymous2/cloud/cache/cloud.txt
 aliases:
   - 20250912-012650
   - The Cloud of Unknowing (CCEL Edition)
   - unk-the-cloud-of-unknowing
 tags:
-  - author/anonymous
-  - book
-  - subject/christian-mysticism
-  - subject/classic
-  - subject/spirituality
-  - subject/theology
-  - term/medieval
   - type/book
-author: Anonymous (14th century English mystic)
-published: c. 1375 (Middle English); 1922 edition with Evelyn Underhill’s introduction
-source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/a/anonymous2/cloud/cache/cloud.txt
+created: 2025-09-12
+modified: 2026-04-06
+publish: true
+description: A 14th‑century anonymous English mystical text, instructing seekers in contemplative prayer through love and surrender, emphasizing the 'cloud of forgetting' beneath and the 'cloud of unknowing' above.
 ---
 
 # The Cloud of Unknowing (CCEL Edition)

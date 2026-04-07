@@ -1,15 +1,16 @@
 ---
-title: Son of God
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: son-of-god. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Son of God
 aliases:
   - Son of God
   - son-of-god
 tags:
   - term/son-of-god
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: son-of-god. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Son of God

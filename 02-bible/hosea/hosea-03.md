@@ -1,35 +1,34 @@
 ---
-title: Hosea, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 3
+title: Hosea, Chapter 3
+url: https://bible.usccb.org/bible/hosea/3
 aliases:
   - hosea-03
   - Hosea, Chapter 3
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 3
 ---
 
 # Hosea, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Hosea and His Wife Reunited.**
 
-1 Again the L ORD said to me: ^hosea-03-1
+1 Again the LORD said to me: ^hosea-03-1
 
 Go, love a woman
 
 who is loved by her spouse but commits [[adultery]];
 
-Just as the L ORD loves the Israelites,
+Just as the LORD loves the Israelites,
 
 though they turn to other gods
 
@@ -57,11 +56,11 @@ without ephod or household gods.
 
 5 Afterward the Israelites will turn back ^hosea-03-5
 
-and seek the L ORD, their God,
+and seek the LORD, their God,
 
 and David, their king;
 
-They will come trembling to the L ORD
+They will come trembling to the LORD
 
 and to his bounty, in the last days.
 

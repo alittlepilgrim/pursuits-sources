@@ -1,27 +1,26 @@
 ---
-title: Proverbs, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 5
+title: Proverbs, Chapter 5
+url: https://bible.usccb.org/bible/proverbs/5
 aliases:
   - proverbs-05
   - Proverbs, Chapter 5
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/5
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 5
 ---
 
 # Proverbs, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
-#### Warning Against [[adultery]]
+### Warning Against [[adultery]]
 
 1 My son, to my wisdom be attentive, ^proverbs-05-1
 
@@ -103,7 +102,7 @@ and by her ardor always be intoxicated.
 
 and embrace another woman?
 
-21 Indeed, the ways of each person are plain to the L ORD’s sight; ^proverbs-05-21
+21 Indeed, the ways of each person are plain to the LORD’s sight; ^proverbs-05-21
 
 all their paths he surveys;
 

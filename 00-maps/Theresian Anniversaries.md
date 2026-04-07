@@ -1,16 +1,22 @@
 ---
-title: Theresian Anniversaries by the General Curia of the Discalced Carmelite Order, 2023-2026
-created: 2026-03-19
-modified: 2026-04-02
-type: toc
-publish: true
+type: moc
+title: Theresian Anniversaries MOC
+author: OCD General Curia
 aliases:
   - Theresian Anniversaries 2023-2026 by the General Curia of the Discalced Carmelite order
   - Theresian Anniversaries 2023-2026 by the General Curia of the Discalced Carmelite Order
   - Theresian Anniversaries by the General Curia of the Discalced Carmelite Order, 2023-2026
+tags: []
+created: 2026-03-19
+modified: 2026-04-06
+publish: true
+permalink: theresian-anniversaries
+image: assets/banners/banner-17-therese.png
 attachment: true
-author: General Curia
+attachment_name: banner-17-therese.png
 ---
+
+![[banner-therese.png]]
 
 # Theresian Anniversaries by the General Curia of the Discalced Carmelite Order, 2023-2026
 

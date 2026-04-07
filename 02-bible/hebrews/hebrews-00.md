@@ -1,21 +1,21 @@
 ---
-title: Hebrews, The Letter To The Hebrews
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Hebrews, the Letter to the Hebrews
+title: Hebrews, The Letter To The Hebrews
+url: https://bible.usccb.org/bible/hebrews/0
 aliases:
   - 20250730-164607
   - hebrews-00
   - Hebrews, the Letter to the Hebrews
   - Hebrews, The Letter To The Hebrews
 tags:
+  - bible/book
   - bible/hebrews
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/hebrews/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hebrews, the Letter to the Hebrews
 ---
 
 # Hebrews, the Letter to the Hebrews

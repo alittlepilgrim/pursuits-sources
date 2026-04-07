@@ -1,25 +1,24 @@
 ---
-title: Jeremiah, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 3
+title: Jeremiah, Chapter 3
+url: https://bible.usccb.org/bible/jeremiah/3
 aliases:
   - jeremiah-03
   - Jeremiah, Chapter 3
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 3
 ---
 
 # Jeremiah, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 If a man divorces his wife ^jeremiah-03-1
 
@@ -33,7 +32,7 @@ Would not this land be wholly defiled?
 
 But you have played the prostitute with many lovers,
 
-and yet you would return to me!—oracle of the L ORD.
+and yet you would return to me!—oracle of the LORD.
 
 2 Raise your eyes to the heights, and look, ^jeremiah-03-2
 
@@ -69,7 +68,7 @@ all the evil you can.
 
 **Judah and Israel.**
 
-6 The L ORD said to me in the days of King Josiah: Do you see what rebellious Israel has done? She has gone up every high mountain, and under every green tree she has played the prostitute. ^jeremiah-03-6
+6 The LORD said to me in the days of King Josiah: Do you see what rebellious Israel has done? She has gone up every high mountain, and under every green tree she has played the prostitute. ^jeremiah-03-6
 
 7 And I thought: After she has done all this, she will return to me. But she did not return. Then, even though that traitor her sister Judah, saw ^jeremiah-03-7
 
@@ -77,33 +76,33 @@ all the evil you can.
 
 9 With her casual prostitution, she polluted the land, committing [[adultery]] with stone and wood. ^jeremiah-03-9
 
-10 In spite of all this, Judah, the traitor, her sister, did not return to me wholeheartedly, but insincerely—oracle of the L ORD. ^jeremiah-03-10
+10 In spite of all this, Judah, the traitor, her sister, did not return to me wholeheartedly, but insincerely—oracle of the LORD. ^jeremiah-03-10
 
 **Restoration of Israel.**
 
-11 Then the L ORD said to me: Rebel Israel is more just than traitor Judah. ^jeremiah-03-11
+11 Then the LORD said to me: Rebel Israel is more just than traitor Judah. ^jeremiah-03-11
 
 12 Go, proclaim these words toward the north, and say: ^jeremiah-03-12
 
-Return, rebel Israel—oracle of the L ORD —
+Return, rebel Israel—oracle of the LORD —
 
 I will not remain angry with you;
 
-For I am merciful, oracle of the L ORD,
+For I am merciful, oracle of the LORD,
 
 I will not keep my anger forever.
 
 13 Only admit your guilt: ^jeremiah-03-13
 
-how you have rebelled against the L ORD, your God,
+how you have rebelled against the LORD, your God,
 
 How you ran here and there to strangers
 
 under every green tree
 
-and would not listen to my voice—oracle of the L ORD.
+and would not listen to my voice—oracle of the LORD.
 
-14 Return, rebellious children—oracle of the L ORD — ^jeremiah-03-14
+14 Return, rebellious children—oracle of the LORD — ^jeremiah-03-14
 
 for I am your master;
 
@@ -117,21 +116,21 @@ who will shepherd you wisely and prudently.
 
 16 When you increase in number and are fruitful in the land— ^jeremiah-03-16
 
-oracle of the L ORD —
+oracle of the LORD —
 
 They will in those days no longer say,
 
-“The ark of the covenant of the L ORD!”
+“The ark of the covenant of the LORD!”
 
 They will no longer think of it, or remember it,
 
 or miss it, or make another one.
 
-17 At that time they will call Jerusalem “the L ORD’s throne.” All nations will gather together there to honor the name of the L ORD at Jerusalem, and they will no longer stubbornly follow their wicked heart. ^jeremiah-03-17
+17 At that time they will call Jerusalem “the LORD’s throne.” All nations will gather together there to honor the name of the LORD at Jerusalem, and they will no longer stubbornly follow their wicked heart. ^jeremiah-03-17
 
 18 In those days the house of Judah will walk alongside the house of Israel; together they will come from the land of the north to the land which I gave your ancestors as a heritage. ^jeremiah-03-18
 
-#### Conditions for Forgiveness
+### Conditions for Forgiveness
 
 19 I thought: ^jeremiah-03-19
 
@@ -149,7 +148,7 @@ and you would never turn away from me.
 
 thus have you been faithless to me,
 
-house of Israel—oracle of the L ORD.
+house of Israel—oracle of the LORD.
 
 21 A cry is heard on the heights! ^jeremiah-03-21
 
@@ -157,7 +156,7 @@ the plaintive weeping of Israel’s children,
 
 Because they have perverted their way,
 
-they have forgotten the L ORD, their God.
+they have forgotten the LORD, their God.
 
 22 Return, rebellious children! ^jeremiah-03-22
 
@@ -165,13 +164,13 @@ I will heal your rebellions.
 
 “Here we are! We belong to you,
 
-for you are the L ORD, our God.
+for you are the LORD, our God.
 
 23 Deceptive indeed are the hills, ^jeremiah-03-23
 
 the mountains, clamorous;
 
-Only in the L ORD our God
+Only in the LORD our God
 
 is Israel’s salvation.
 
@@ -187,11 +186,11 @@ their sons and daughters.
 
 let our disgrace cover us,
 
-for we have sinned against the L ORD, our God,
+for we have sinned against the LORD, our God,
 
 We and our ancestors, from our youth to this day;
 
-we did not listen to the voice of the L ORD, our God.”
+we did not listen to the voice of the LORD, our God.”
 
 \* (3:1) Can she return to the first?: i.e., her first husband. Here the Hebrew is emended in light of the Septuagint and [Dt 24:1] – [4], which forbids a man to take back a woman once he has divorced her. The prophet uses this analogy to illustrate the presumption of Judah, the unfaithful wife, who assumes she can easily return to the Lord after worshiping other gods.
 

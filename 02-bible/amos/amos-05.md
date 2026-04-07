@@ -1,27 +1,26 @@
 ---
-title: Amos, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 5
+title: Amos, Chapter 5
+url: https://bible.usccb.org/bible/amos/5
 aliases:
   - amos-05
   - Amos, Chapter 5
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/5
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 5
 ---
 
 # Amos, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
-#### Third Summons
+### Third Summons
 
 1 Hear this word which I utter concerning you, ^amos-05-1
 
@@ -47,7 +46,7 @@ Another that marched out with a hundred
 
 shall be left with ten.
 
-4 For thus says the L ORD ^amos-05-4
+4 For thus says the LORD ^amos-05-4
 
 to the house of Israel:
 
@@ -63,7 +62,7 @@ For Gilgal shall be led into exile
 
 and Bethel shall be no more.
 
-6 Seek the L ORD, that you may live, ^amos-05-6
+6 Seek the LORD, that you may live, ^amos-05-6
 
 lest he flare up against the house of Joseph like a fire
 
@@ -83,11 +82,11 @@ and pours them out on the surface of the earth;
 
 and brings ruin upon the fortress,
 
-the L ORD is his name.
+the LORD is his name.
 
-## Iv. Three Woes
+# Iv. Three Woes
 
-#### First Woe
+## First Woe
 
 7 Woe to those who turn justice into wormwood ^amos-05-7
 
@@ -125,7 +124,7 @@ for it is an evil time.)
 
 that you may live;
 
-Then truly the L ORD, the God of hosts,
+Then truly the LORD, the God of hosts,
 
 will be with you as you claim.
 
@@ -133,11 +132,11 @@ will be with you as you claim.
 
 and let justice prevail at the gate;
 
-Then it may be that the L ORD, the God of hosts,
+Then it may be that the LORD, the God of hosts,
 
 will have pity on the remnant of Joseph.
 
-16 Therefore, thus says the L ORD, ^amos-05-16
+16 Therefore, thus says the LORD, ^amos-05-16
 
 the God of hosts, the Lord:
 
@@ -151,15 +150,15 @@ and the professional mourners to lament.
 
 17 And in every vineyard there shall be lamentation ^amos-05-17
 
-when I pass through your midst, says the L ORD.
+when I pass through your midst, says the LORD.
 
-#### Second Woe
+## Second Woe
 
 18 Woe to those who yearn ^amos-05-18
 
-for the day of the L ORD!
+for the day of the LORD!
 
-What will the day of the L ORD mean for you?
+What will the day of the LORD mean for you?
 
 It will be darkness, not light!
 
@@ -173,7 +172,7 @@ he rested his hand against the wall,
 
 and a snake bit it.
 
-20 Truly, the day of the L ORD will be darkness, not light, ^amos-05-20
+20 Truly, the day of the LORD will be darkness, not light, ^amos-05-20
 
 gloom without any brightness!
 
@@ -213,19 +212,19 @@ your gods that you have made for yourselves,
 
 27 As I exile you beyond Damascus, ^amos-05-27
 
-says the L ORD,
+says the LORD,
 
 whose name is the God of hosts.
 
 \* (5:1] – [17) These verses form a chiastic section beginning and ending with a lament over Israel (vv. [2], [16] – [17]) and containing a double appeal to “seek” the Lord (vv. [4], [14]). This editorial arrangement gives the whole section a negative cast, in effect nullifying the only hopeful verse in Amos (v. [15]). Israel is as good as dead.
 
-\* (5:4] – [5) For thus says the L ORD …Bethel shall be no more: these two verses continue the sarcasm of [4:4] – [5], verses in which Amos invites the people to come and “sin” at Bethel and Gilgal. The cult cities of Samaria should have been places where God could be “sought” but, because of the sins of the Northern Kingdom, these cities would cease to exist.
+\* (5:4] – [5) For thus says the LORD …Bethel shall be no more: these two verses continue the sarcasm of [4:4] – [5], verses in which Amos invites the people to come and “sin” at Bethel and Gilgal. The cult cities of Samaria should have been places where God could be “sought” but, because of the sins of the Northern Kingdom, these cities would cease to exist.
 
 \* (5:6) These verses have been rearranged to achieve the proper sequence according to the best possible manuscript tradition. Cf. the Textual Notes accompanying the translation.
 
 \* (5:6) House of Joseph: the kingdom of Israel or Northern Kingdom, the chief tribes of which were descended from Ephraim and Manasseh, the sons of Joseph; cf. [5:15]; [6:6].
 
-\* (5:18) The day of the L ORD: first mentioned in Amos, this refers to a specific time in the future, known to the Lord alone, when God’s enemies would be decisively defeated. The common assumption among Israelites was that the Lord’s foes and Israel’s foes were one and the same. But Amos makes it clear that because the people have become God’s enemies by refusing to heed the prophetic word, they too would experience the divine wrath on that fateful day. However, during the exile this expression comes to mean a time when God would avenge Israel against its oppressors and bring about its restoration ([Jer 50:27]; [Ez 30:3] – [5]).
+\* (5:18) The day of the LORD: first mentioned in Amos, this refers to a specific time in the future, known to the Lord alone, when God’s enemies would be decisively defeated. The common assumption among Israelites was that the Lord’s foes and Israel’s foes were one and the same. But Amos makes it clear that because the people have become God’s enemies by refusing to heed the prophetic word, they too would experience the divine wrath on that fateful day. However, during the exile this expression comes to mean a time when God would avenge Israel against its oppressors and bring about its restoration ([Jer 50:27]; [Ez 30:3] – [5]).
 
 \* (5:21] – [27) The prophet does not condemn cultic activity as such but rather the people’s attempt to offer worship with hands unclean from oppression of their fellow Israelites (cf. ([[psalm-15|Ps 15]]:2] – [5]; [24:3] – [4]). But worship from those who disregard justice and righteousness (v. [24]) is never acceptable to the God of Israel. Through the Sinai covenant the love of God and the love of neighbor are inextricably bound together.
 

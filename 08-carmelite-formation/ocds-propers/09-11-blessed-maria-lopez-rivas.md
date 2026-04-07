@@ -1,10 +1,7 @@
 ---
-title: September 11, Blessed Maria of Jesus Lopez Rivas
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers 09-11, Blessed Maria of Jesus Lopez Rivas, Virgin, Optional Memorial
+title: September 11, Blessed Maria of Jesus Lopez Rivas
+author: OCD General Curia
 aliases:
   - 09-11-blessed-maria-lopez-rivas
   - 20250911-000001
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 09-11
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers 09-11, Blessed Maria of Jesus Lopez Rivas, Virgin, Optional Memorial
 ---
 
 # September 11, Blessed Maria of Jesus Lopez Rivas

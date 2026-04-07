@@ -1,10 +1,7 @@
 ---
-title: Memory
-created: 2025-07-19
-modified: 2026-04-02
 type: glossary
-publish: true
-description: memory
+title: Memory
+author:
 aliases:
   - 20250719-220634
   - memory
@@ -12,6 +9,11 @@ aliases:
 tags:
   - book/interior-castle
   - term/memory
+  - type/term
+created: 2025-07-19
+modified: 2026-04-06
+publish: true
+description: memory
 ---
 
 # Memory
@@ -24,4 +26,4 @@ In the [[prayer-of-union|prayer of union]], the memory and intellect seem to be 
 
 ## The Way of Perfection
 
-MEMORY. The power of representing to the intellect what will occupy it; in the prayer of quiet our memories would not want to be occupied with anything else than who it is they are near (31.3).
+MEMORY. The power of representing to the intellect what will occupy it; in the prayer of quiet our memories would not want to be occupied with anything else than who it is they are near ([[tj-wop-chapter-31#^wop-ch31-3|31.3]]).

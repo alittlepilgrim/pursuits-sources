@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 22
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 22
+title: Genesis, Chapter 22
+url: https://bible.usccb.org/bible/genesis/22
 aliases:
   - 20250508-020253
   - genesis-22
   - Genesis, Chapter 22
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 22
 bible_book: genesis
 bible_chapter: "22"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/22
 ---
 
 [[genesis-21|[← Previous Note]]] · [[genesis-23|[Next Note →]]]
@@ -49,17 +48,17 @@ url: https://bible.usccb.org/bible/genesis/22
 
 10 Then Abraham reached out and took the knife to slaughter his son. ^genesis-22-10
 
-11 But the angel of the L ORD called to him from heaven, “Abraham, Abraham!” “Here I am,” he answered. ^genesis-22-11
+11 But the angel of the LORD called to him from heaven, “Abraham, Abraham!” “Here I am,” he answered. ^genesis-22-11
 
 12 “Do not lay your hand on the boy,” said the angel. “Do not do the least thing to him. For now I know that you fear God, since you did not withhold from me your son, your only one.” ^genesis-22-12
 
 13 Abraham looked up and saw a single ram caught by its horns in the thicket. So Abraham went and took the ram and offered it up as a burnt offering in place of his son. ^genesis-22-13
 
-14 Abraham named that place Yahweh-yireh; hence people today say, “On the mountain the L ORD will provide.” ^genesis-22-14
+14 Abraham named that place Yahweh-yireh; hence people today say, “On the mountain the LORD will provide.” ^genesis-22-14
 
-15 A second time the angel of the L ORD called to Abraham from heaven ^genesis-22-15
+15 A second time the angel of the LORD called to Abraham from heaven ^genesis-22-15
 
-16 and said: “I swear by my very self—oracle of the L ORD —that because you acted as you did in not withholding from me your son, your only one, ^genesis-22-16
+16 and said: “I swear by my very self—oracle of the LORD —that because you acted as you did in not withholding from me your son, your only one, ^genesis-22-16
 
 17 I will bless you and make your descendants as countless as the stars of the sky and the sands of the seashore; your descendants will take possession of the gates of their enemies, ^genesis-22-17
 
@@ -109,6 +108,6 @@ h. (22:18) [[genesis-12|Gen 12]]:3; [18:18]; [26:4]; [Sir 44:21]; ([[acts-of-the
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-01|[← Previous Note]]] · [[genesis-03|[Next Note →]]]

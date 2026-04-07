@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 12
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 12
+title: Genesis, Chapter 12
+url: https://bible.usccb.org/bible/genesis/12
 aliases:
   - genesis-12
   - Genesis, Chapter 12
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 12
 bible_book: genesis
 bible_chapter: "12"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/12
 ---
 
 [[genesis-11|[← Previous Note]]] · [[genesis-13|[Next Note →]]]
@@ -28,21 +27,21 @@ url: https://bible.usccb.org/bible/genesis/12
 
 **Abram’s Call and Migration.**
 
-1 The L ORD said to Abram: Go forth from your land, your relatives, and from your father’s house to a land that I will show you. ^genesis-12-1
+1 The LORD said to Abram: Go forth from your land, your relatives, and from your father’s house to a land that I will show you. ^genesis-12-1
 
 2 I will make of you a great nation, and I will bless you; I will make your name great, so that you will be a blessing. ^genesis-12-2
 
 3 I will bless those who bless you and curse those who curse you. All the families of the earth will find blessing in you. ^genesis-12-3
 
-4 Abram went as the L ORD directed him, and Lot went with him. Abram was seventy-five years old when he left Haran. ^genesis-12-4
+4 Abram went as the LORD directed him, and Lot went with him. Abram was seventy-five years old when he left Haran. ^genesis-12-4
 
 5 Abram took his wife Sarai, his brother’s son Lot, all the possessions that they had accumulated, and the persons they had acquired in Haran, and they set out for the land of Canaan. When they came to the land of Canaan, ^genesis-12-5
 
 6 Abram passed through the land as far as the sacred place at Shechem, by the oak of Moreh. The Canaanites were then in the land. ^genesis-12-6
 
-7 The L ORD appeared to Abram and said: To your descendants I will give this land. So Abram built an altar there to the L ORD who had appeared to him. ^genesis-12-7
+7 The LORD appeared to Abram and said: To your descendants I will give this land. So Abram built an altar there to the LORD who had appeared to him. ^genesis-12-7
 
-8 From there he moved on to the hill country east of Bethel, pitching his tent with Bethel to the west and Ai to the east. He built an altar there to the L ORD and invoked the L ORD by name. ^genesis-12-8
+8 From there he moved on to the hill country east of Bethel, pitching his tent with Bethel to the west and Ai to the east. He built an altar there to the LORD and invoked the LORD by name. ^genesis-12-8
 
 9 Then Abram journeyed on by stages to the Negeb. ^genesis-12-9
 
@@ -62,7 +61,7 @@ url: https://bible.usccb.org/bible/genesis/12
 
 16 Abram fared well on her account, and he acquired sheep, oxen, male and female servants, male and female donkeys, and camels. ^genesis-12-16
 
-17 But the L ORD struck Pharaoh and his household with severe plagues because of Sarai, Abram’s wife. ^genesis-12-17
+17 But the LORD struck Pharaoh and his household with severe plagues because of Sarai, Abram’s wife. ^genesis-12-17
 
 18 Then Pharaoh summoned Abram and said to him: “How could you do this to me! Why did you not tell me she was your wife? ^genesis-12-18
 
@@ -106,6 +105,6 @@ h. (12:17) [Ps 105:14]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-01|[← Previous Note]]] · [[genesis-03|[Next Note →]]]

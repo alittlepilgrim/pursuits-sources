@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 19
+title: Wisdom, Chapter 19
+url: https://bible.usccb.org/bible/wisdom/19
 aliases:
   - wisdom-19
   - Wisdom, Chapter 19
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/19
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 19
 ---
 
 # Wisdom, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 1 But merciless wrath assailed the wicked until the end, ^wisdom-19-1
 
@@ -71,7 +70,7 @@ and they beheld stupendous wonders.
 
 and leapt like lambs,
 
-praising you, L ORD, their deliverer.
+praising you, LORD, their deliverer.
 
 10 For they were still mindful of what had happened in their sojourn: ^wisdom-19-10
 
@@ -137,7 +136,7 @@ of the perishable animals that went about in them,
 
 nor melted the icelike, quick-melting kind of ambrosial food.
 
-22 For every way, L ORD! you magnified and glorified your people; ^wisdom-19-22
+22 For every way, LORD! you magnified and glorified your people; ^wisdom-19-22
 
 unfailing, you stood by them in every time and circumstance.
 

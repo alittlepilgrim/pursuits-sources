@@ -1,15 +1,15 @@
 ---
-title: Epilogue - the Axis of the Spiritual Life and Its Unity
-created: 2026-03-23
-modified: 2026-04-02
-type: book
-publish: true
-aliases:
-  - Epilogue - the Axis of the Spiritual Life and Its Unity
-  - EPILOGUE - THE AXIS OF THE SPIRITUAL LIFE AND ITS UNITY
-  - Part V Contents
+type: toc
+title: Part V TOC - Extraordinary Graces – The Three Ages of the Spiritual Life
 author: Reginald Garrigou-Lagrange
-book_volume: "2"
+aliases:
+  - Part V TOC - Extraordinary Graces
+tags:
+  - author/garrigou-lagrange
+  - type/book
+created: 2026-03-23
+modified: 2026-04-04
+publish: true
 ---
 
 > [!NOTE]
@@ -19,7 +19,7 @@ book_volume: "2"
 
 [[tta-4-toc|Previous]] | [[tta001|Next]]
 
-### Part V - Extraordinary Graces
+# Part V TOC - Extraordinary Graces
 
 LIII. [[tta107|CHARISMS OR GRACES *Gratis Datae*]]
 A. [[tta107#^tta107-bk1|Nature and Division of the Charisms]]
@@ -55,7 +55,7 @@ B. [[tta112#^tta112-bk2|Possession]]
 1. [[tta112#^tta112-bk3|A Striking Example]]
 2. [[tta112#^tta112-bk4|Note]]
 
-# [[tta113|Epilogue - the Axis of the Spiritual Life and Its Unity]]
+# [[tta113|Epilogue – The Axis of the Spiritual Life and Its Unity]]
 
 ## I
 
@@ -82,4 +82,4 @@ A. First Retreat: On Spiritual Progress
 B. Second Retreat: On the Spiritual Organism.
 C. Third Retreat: On Christian Perfection
 
- |  | [[tta001|Next »]]
+[« Home](The%20Three%20Ages%20of%20the%20Interior%20Life%20by%20Garrigou-Lagrange.md) | [Top](tta-5-toc.md#) | [[tta001|Next »]]

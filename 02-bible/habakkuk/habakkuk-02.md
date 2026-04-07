@@ -1,25 +1,24 @@
 ---
-title: Habakkuk, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Habakkuk, Chapter 2
+title: Habakkuk, Chapter 2
+url: https://bible.usccb.org/bible/habakkuk/2
 aliases:
   - habakkuk-02
   - Habakkuk, Chapter 2
 tags:
+  - bible/chapter
   - bible/habakkuk
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/habakkuk/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Habakkuk, Chapter 2
 ---
 
 # Habakkuk, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 I will stand at my guard post, ^habakkuk-02-1
 
@@ -29,9 +28,9 @@ I will keep watch to see what he will say to me,
 
 and what answer he will give to my complaint.
 
-#### God’s Response
+### God’s Response
 
-2 Then the L ORD answered me and said: ^habakkuk-02-2
+2 Then the LORD answered me and said: ^habakkuk-02-2
 
 Write down the vision;
 
@@ -51,7 +50,7 @@ it will surely come, it will not be late.
 
 but the just one who is righteous because of faith shall live.
 
-#### Sayings Against Tyrants
+### Sayings Against Tyrants
 
 5 Indeed wealth is treacherous; ^habakkuk-02-5
 
@@ -109,7 +108,7 @@ and the beam in the frame shall answer it!
 
 and who establish a town with injustice!
 
-13 Is this not from the L ORD of hosts: ^habakkuk-02-13
+13 Is this not from the LORD of hosts: ^habakkuk-02-13
 
 peoples toil for what the flames consume,
 
@@ -117,7 +116,7 @@ and nations grow weary for nothing!
 
 14 But the earth shall be filled ^habakkuk-02-14
 
-with the knowledge of the L ORD’s glory,
+with the knowledge of the LORD’s glory,
 
 just as the water covers the sea.
 
@@ -131,7 +130,7 @@ until their nakedness is seen!
 
 drink, you too, and stagger!
 
-The cup from the L ORD’s right hand shall come around to you,
+The cup from the LORD’s right hand shall come around to you,
 
 and utter shame shall cover your glory.
 
@@ -165,7 +164,7 @@ It is only overlaid with gold and silver,
 
 there is no breath in it at all.
 
-20 But the L ORD is in his holy temple; ^habakkuk-02-20
+20 But the LORD is in his holy temple; ^habakkuk-02-20
 
 silence before him, all the earth!
 

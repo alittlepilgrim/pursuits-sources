@@ -1,25 +1,24 @@
 ---
-title: Revelation, Chapter 22
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, Chapter 22
+title: Revelation, Chapter 22
+url: https://bible.usccb.org/bible/revelation/22
 aliases:
   - revelation-22
   - Revelation, Chapter 22
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/revelation
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/revelation/22
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, Chapter 22
 ---
 
 # Revelation, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 1 Then the angel showed me the river of life-giving water, sparkling like crystal, flowing from the throne of God and of the Lamb ^revelation-22-1
 
@@ -31,7 +30,7 @@ url: https://bible.usccb.org/bible/revelation/22
 
 5 Night will be no more, nor will they need light from lamp or sun, for the Lord God shall give them light, and they shall reign forever and ever. ^revelation-22-5
 
-## Vii. Epilogue
+# Vii. Epilogue
 
 6 And he said to me, “These words are trustworthy and true, and the Lord, the God of prophetic spirits, sent his angel to show his servants what must happen soon.” ^revelation-22-6
 

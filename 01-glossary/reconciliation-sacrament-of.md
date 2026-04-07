@@ -1,16 +1,18 @@
 ---
-title: Reconciliation, Sacrament Of
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: reconciliation-sacrament-of. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Reconciliation, Sacrament Of
+author:
 aliases:
   - reconciliation-sacrament-of
   - Reconciliation, Sacrament of
   - Reconciliation, Sacrament Of
 tags:
   - term/reconciliation-sacrament-of
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: reconciliation-sacrament-of. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Reconciliation, Sacrament of

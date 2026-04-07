@@ -1,29 +1,28 @@
 ---
-title: Proverbs, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 9
+title: Proverbs, Chapter 9
+url: https://bible.usccb.org/bible/proverbs/9
 aliases:
   - proverbs-09
   - Proverbs, Chapter 9
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/9
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 9
 ---
 
 # Proverbs, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
-#### The Two Women Invite Passersby to Their Banquets
+### The Two Women Invite Passersby to Their Banquets
 
-##### Woman Wisdom Issues Her Invitation
+#### Woman Wisdom Issues Her Invitation
 
 1 Wisdom has built her house, ^proverbs-09-1
 
@@ -49,7 +48,7 @@ and drink of the wine I have mixed!
 
 advance in the way of understanding.”
 
-##### Miscellaneous Aphorisms
+#### Miscellaneous Aphorisms
 
 7 Whoever corrects the arrogant earns insults; ^proverbs-09-7
 
@@ -63,7 +62,7 @@ reprove the wise, and they will love you.
 
 teach the just, and they advance in learning.
 
-10 The beginning of wisdom is fear of the L ORD, ^proverbs-09-10
+10 The beginning of wisdom is fear of the LORD, ^proverbs-09-10
 
 and knowledge of the Holy One is understanding.
 
@@ -75,7 +74,7 @@ and the years of your life increased.
 
 if you are arrogant, you alone shall bear it.
 
-##### Woman Folly Issues Her Invitation
+#### Woman Folly Issues Her Invitation
 
 13 Woman Folly is raucous, ^proverbs-09-13
 

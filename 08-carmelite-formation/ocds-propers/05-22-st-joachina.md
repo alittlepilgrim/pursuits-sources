@@ -1,10 +1,7 @@
 ---
-title: May 22, Saint Joachina De Vedruna
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: May 22, Saint Joachina De Vedruna
+author: OCD General Curia
 aliases:
   - 05-22-st-joachina
   - 20250731-121457
@@ -13,9 +10,13 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 05-22
 celebration_rank: optional memorial
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # May 22, Saint Joachina de Vedruna

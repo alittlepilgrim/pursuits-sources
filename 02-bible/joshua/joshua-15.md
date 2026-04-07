@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 15
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 15
+title: Joshua, Chapter 15
+url: https://bible.usccb.org/bible/joshua/15
 aliases:
   - joshua-15
   - Joshua, Chapter 15
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/15
-testament: old
-url: https://bible.usccb.org/bible/joshua/15
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 15
 ---
 
 # Joshua, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Boundaries of Judah.**
 
@@ -52,7 +50,7 @@ The northern boundary climbed northward from the tongue of the sea, toward the m
 
 **Conquest by Caleb.**
 
-13 As the L ORD had commanded, Joshua gave Caleb, son of Jephunneh, a portion among the Judahites, namely, Kiriath-arba (Arba was the father of Anak), that is, Hebron. ^joshua-15-13
+13 As the LORD had commanded, Joshua gave Caleb, son of Jephunneh, a portion among the Judahites, namely, Kiriath-arba (Arba was the father of Anak), that is, Hebron. ^joshua-15-13
 
 14 And Caleb dispossessed from there the three Anakim, the descendants of Anak: Sheshai, Ahiman, and Talmai. ^joshua-15-14
 

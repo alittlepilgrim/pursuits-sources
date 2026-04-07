@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 30
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 30
+title: Genesis, Chapter 30
+url: https://bible.usccb.org/bible/genesis/30
 aliases:
   - 20250508-020314
   - genesis-30
   - Genesis, Chapter 30
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 30
 bible_book: genesis
 bible_chapter: "30"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/30
 ---
 
 [[genesis-29|[← Previous Note]]] · [[genesis-31|[Next Note →]]]
@@ -73,7 +72,7 @@ url: https://bible.usccb.org/bible/genesis/30
 
 23 She conceived and bore a son, and she said, “God has removed my disgrace.” ^genesis-30-23
 
-24 She named him Joseph, saying, “May the L ORD add another son for me!” ^genesis-30-24
+24 She named him Joseph, saying, “May the LORD add another son for me!” ^genesis-30-24
 
 **Jacob Outwits Laban.**
 
@@ -81,13 +80,13 @@ url: https://bible.usccb.org/bible/genesis/30
 
 26 Give me my wives and my children for whom I served you and let me go, for you know the service that I rendered you.” ^genesis-30-26
 
-27 Laban answered him: “If you will please! I have learned through divination that the L ORD has blessed me because of you.” ^genesis-30-27
+27 Laban answered him: “If you will please! I have learned through divination that the LORD has blessed me because of you.” ^genesis-30-27
 
 28 He continued, “State the wages I owe you, and I will pay them.” ^genesis-30-28
 
 29 Jacob replied: “You know what work I did for you and how well your livestock fared under my care; ^genesis-30-29
 
-30 the little you had before I came has grown into an abundance, since the L ORD has blessed you in my company. Now, when can I do something for my own household as well?” ^genesis-30-30
+30 the little you had before I came has grown into an abundance, since the LORD has blessed you in my company. Now, when can I do something for my own household as well?” ^genesis-30-30
 
 31 Laban asked, “What should I give you?” Jacob answered: “You do not have to give me anything. If you do this thing for me, I will again pasture and tend your sheep. ^genesis-30-31
 
@@ -153,6 +152,6 @@ d. (30:23) ([[luke-01|Lk 1]]:25]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-01|[Next Note →]]]

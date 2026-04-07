@@ -1,15 +1,16 @@
 ---
-title: Detraction
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: detraction. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Detraction
 aliases:
   - detraction
   - Detraction
 tags:
   - term/detraction
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: detraction. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Detraction

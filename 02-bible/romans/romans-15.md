@@ -1,25 +1,24 @@
 ---
-title: Romans, Chapter 15
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: romans-chapter 15
+title: Romans, Chapter 15
+url: https://bible.usccb.org/bible/romans/15
 aliases:
   - romans-15
   - Romans, Chapter 15
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/romans
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/romans/15
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: romans-chapter 15
 ---
 
 # Romans, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Patience and Self-Denial.**
 
@@ -67,7 +66,7 @@ in him shall the Gentiles hope.”
 
 13 May the God of hope fill you with all joy and peace in believing, so that you may abound in hope by the power of the holy Spirit. ^romans-15-13
 
-## Vii. Conclusion
+# Vii. Conclusion
 
 **Apostle to the Gentiles.**
 

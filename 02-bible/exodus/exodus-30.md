@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 30
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 30
+title: Exodus, Chapter 30
+url: https://bible.usccb.org/bible/exodus/30
 aliases:
   - 20250731-090018
   - exodus-30
   - Exodus, Chapter 30
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/30
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 30
 ---
 
 # Exodus, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
 **Altar of Incense.**
 
@@ -38,41 +37,41 @@ url: https://bible.usccb.org/bible/exodus/30
 
 7 On it Aaron shall burn fragrant incense. Morning after morning, when he prepares the lamps, ^exodus-30-7
 
-8 and again in the evening twilight, when he lights the lamps, he shall burn incense. Throughout your generations this shall be the regular incense offering before the L ORD. ^exodus-30-8
+8 and again in the evening twilight, when he lights the lamps, he shall burn incense. Throughout your generations this shall be the regular incense offering before the LORD. ^exodus-30-8
 
 9 On this altar you shall not offer up any profane incense, or any burnt offering or grain offering; nor shall you pour out a libation upon it. ^exodus-30-9
 
-10 Once a year Aaron shall purge its horns. Throughout your generations he is to purge it once a year with the blood of the atoning purification offering. This altar is most sacred to the L ORD. ^exodus-30-10
+10 Once a year Aaron shall purge its horns. Throughout your generations he is to purge it once a year with the blood of the atoning purification offering. This altar is most sacred to the LORD. ^exodus-30-10
 
 **Census Tax.**
 
-11 The L ORD also told Moses: ^exodus-30-11
+11 The LORD also told Moses: ^exodus-30-11
 
-12 When you take a census of the Israelites who are to be enrolled, each one, as he is enrolled, shall give the L ORD a ransom for his life, so that no plague may come upon them for being enrolled. ^exodus-30-12
+12 When you take a census of the Israelites who are to be enrolled, each one, as he is enrolled, shall give the LORD a ransom for his life, so that no plague may come upon them for being enrolled. ^exodus-30-12
 
-13 This is what everyone who is enrolled must pay: a half-shekel, according to the standard of the sanctuary shekel—twenty gerahs to the shekel—a half-shekel contribution to the L ORD. ^exodus-30-13
+13 This is what everyone who is enrolled must pay: a half-shekel, according to the standard of the sanctuary shekel—twenty gerahs to the shekel—a half-shekel contribution to the LORD. ^exodus-30-13
 
-14 Everyone who is enrolled, of twenty years or more, must give the contribution to the L ORD. ^exodus-30-14
+14 Everyone who is enrolled, of twenty years or more, must give the contribution to the LORD. ^exodus-30-14
 
-15 The rich need not give more, nor shall the poor give less, than a half-shekel in this contribution to the L ORD to pay the ransom for their lives. ^exodus-30-15
+15 The rich need not give more, nor shall the poor give less, than a half-shekel in this contribution to the LORD to pay the ransom for their lives. ^exodus-30-15
 
-16 When you receive this ransom money from the Israelites, you shall donate it to the service of the tent of meeting, that there it may be a reminder of the Israelites before the L ORD of the ransom paid for their lives. ^exodus-30-16
+16 When you receive this ransom money from the Israelites, you shall donate it to the service of the tent of meeting, that there it may be a reminder of the Israelites before the LORD of the ransom paid for their lives. ^exodus-30-16
 
 **The Basin.**
 
-17 The L ORD told Moses: ^exodus-30-17
+17 The LORD told Moses: ^exodus-30-17
 
 18 For ablutions you shall make a bronze basin with a bronze stand. Place it between the tent of meeting and the altar, and put water in it. ^exodus-30-18
 
 19 Aaron and his sons shall use it in washing their hands and feet. ^exodus-30-19
 
-20 When they are about to enter the tent of meeting, they must wash with water, lest they die. Likewise when they approach the altar to minister, to offer an oblation to the L ORD, ^exodus-30-20
+20 When they are about to enter the tent of meeting, they must wash with water, lest they die. Likewise when they approach the altar to minister, to offer an oblation to the LORD, ^exodus-30-20
 
 21 they must wash their hands and feet, lest they die. This shall be a perpetual statute for him and his descendants throughout their generations. ^exodus-30-21
 
 **The Anointing Oil.**
 
-22 The L ORD told Moses: ^exodus-30-22
+22 The LORD told Moses: ^exodus-30-22
 
 23 Take the finest spices: five hundred shekels of free-flowing myrrh; half that amount, that is, two hundred and fifty shekels, of fragrant cinnamon; two hundred and fifty shekels of fragrant cane; ^exodus-30-23
 
@@ -98,13 +97,13 @@ url: https://bible.usccb.org/bible/exodus/30
 
 **The Incense.**
 
-34 The L ORD told Moses: Take these aromatic substances: storax and onycha and galbanum, these and pure frankincense in equal parts; ^exodus-30-34
+34 The LORD told Moses: Take these aromatic substances: storax and onycha and galbanum, these and pure frankincense in equal parts; ^exodus-30-34
 
 35 and blend them into incense. This fragrant powder, expertly prepared, is to be salted and so kept pure and sacred. ^exodus-30-35
 
 36 Grind some of it into fine dust and put this before the covenant in the tent of meeting where I will meet you. This incense shall be treated as most sacred by you. ^exodus-30-36
 
-37 You may not make incense of a like mixture for yourselves; you must treat it as sacred to the L ORD. ^exodus-30-37
+37 You may not make incense of a like mixture for yourselves; you must treat it as sacred to the LORD. ^exodus-30-37
 
 38 Whoever makes an incense like this for his own enjoyment of its fragrance, shall be cut off from his people. ^exodus-30-38
 

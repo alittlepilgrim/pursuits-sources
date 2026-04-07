@@ -1,16 +1,20 @@
 ---
-title: Veritatis Splendor
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Encyclical Letter Veritatis Splendor, 6 August 1993
+title: Veritatis Splendor
+author:
+  - Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
 aliases:
   - Veritatis Splendor
 tags:
-  - vault-admin/clippings
+  - author/saint-john-paul-II
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-11-14
+modified: 2026-04-06
+publish: true
+description: Encyclical Letter Veritatis Splendor, 6 August 1993
 abbreviation: jpii-vs
-source: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html
 ---
 
 IOANNES PAULUS PP. II

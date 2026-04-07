@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 30
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 30
+title: 1 Samuel, Chapter 30
+url: https://bible.usccb.org/bible/1samuel/30
 aliases:
   - 1 Samuel, Chapter 30
   - 1-samuel-30
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/30
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 30
 ---
 
 # 1 Samuel, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
 **Ziklag in Ruins.**
 
@@ -33,11 +32,11 @@ url: https://bible.usccb.org/bible/1samuel/30
 
 5 David’s two wives, Ahinoam of Jezreel and Abigail, the widow of Nabal from Carmel, had also been carried off. ^1-samuel-30-5
 
-6 Now David found himself in great danger, for the soldiers spoke of stoning him, so bitter were they over the fate of their sons and daughters. David took courage in the L ORD his God ^1-samuel-30-6
+6 Now David found himself in great danger, for the soldiers spoke of stoning him, so bitter were they over the fate of their sons and daughters. David took courage in the LORD his God ^1-samuel-30-6
 
 7 and said to Abiathar, the priest, son of Ahimelech, “Bring me the ephod!” When Abiathar brought him the ephod, ^1-samuel-30-7
 
-8 David inquired of the L ORD, “Shall I pursue these raiders? Can I overtake them?” The L ORD answered him: Go in pursuit, for you will certainly overtake them and bring about a rescue. ^1-samuel-30-8
+8 David inquired of the LORD, “Shall I pursue these raiders? Can I overtake them?” The LORD answered him: Go in pursuit, for you will certainly overtake them and bring about a rescue. ^1-samuel-30-8
 
 **Raid on the Amalekites.**
 
@@ -73,13 +72,13 @@ url: https://bible.usccb.org/bible/1samuel/30
 
 22 But all the greedy and worthless among those who had accompanied David said, “Since they did not accompany us, we will not give them anything from the plunder, except for each man’s wife and children.” ^1-samuel-30-22
 
-23 But David said: “You must not do this, my brothers, after what the L ORD has given us. The L ORD has protected us and delivered into our hands the raiders that came against us. ^1-samuel-30-23
+23 But David said: “You must not do this, my brothers, after what the LORD has given us. The LORD has protected us and delivered into our hands the raiders that came against us. ^1-samuel-30-23
 
 25 And from that day forward he made this a law and a custom in Israel, as it still is today. ^1-samuel-30-25
 
 **David’s Gifts to Judah.**
 
-26 When David came to Ziklag, he sent part of the plunder to his friends, the elders of Judah, saying, “This is a gift to you from the plunder of the enemies of the L ORD,” namely, ^1-samuel-30-26
+26 When David came to Ziklag, he sent part of the plunder to his friends, the elders of Judah, saying, “This is a gift to you from the plunder of the enemies of the LORD,” namely, ^1-samuel-30-26
 
 27 to those in Bethel, Ramoth-negeb, Jattir, ^1-samuel-30-27
 

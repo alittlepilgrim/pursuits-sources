@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 46
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 46
+title: Genesis, Chapter 46
+url: https://bible.usccb.org/bible/genesis/46
 aliases:
   - 20250508-020359
   - genesis-46
   - Genesis, Chapter 46
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 46
 bible_book: genesis
 bible_chapter: "46"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/46
 ---
 
 [[genesis-45|[← Previous Note]]] · [[genesis-47|[Next Note →]]]
@@ -143,6 +142,6 @@ p. (46:27) ([[exodus-01|Ex 1]]:5]; [Dt 10:22]; ([[acts-of-the-apostles-07|Acts 7
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]

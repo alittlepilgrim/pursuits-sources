@@ -1,10 +1,7 @@
 ---
-title: August 25, Baouardy
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers. 25 August. St. Mary of Jesus Crucified, Baouardy, Virgin
+title: August 25, Baouardy
+author: OCD General Curia
 aliases:
   - 08-25-st-mary-of-jesus-crucified
   - 20250825-000001
@@ -12,9 +9,13 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 08-25
 celebration_rank: memorial
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers. 25 August. St. Mary of Jesus Crucified, Baouardy, Virgin
 ---
 
 # August 25, Baouardy

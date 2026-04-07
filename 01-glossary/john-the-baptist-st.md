@@ -1,16 +1,18 @@
 ---
-title: John The Baptist
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: john-the-baptist. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: John The Baptist
+author:
 aliases:
   - John the Baptist
   - John The Baptist
   - john-the-baptist-st
 tags:
   - saint/john-the-baptist
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: john-the-baptist. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # John the Baptist

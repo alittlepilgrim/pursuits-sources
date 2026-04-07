@@ -1,15 +1,16 @@
 ---
-title: Real Presence
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: real-presence. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Real Presence
 aliases:
   - Real Presence
   - real-presence
 tags:
   - term/real-presence
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: real-presence. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Real Presence

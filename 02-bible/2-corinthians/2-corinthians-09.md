@@ -1,25 +1,24 @@
 ---
-title: 2 Corinthians, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Corinthians, Chapter 9
+title: 2 Corinthians, Chapter 9
+url: https://bible.usccb.org/bible/2corinthians/9
 aliases:
   - 2 Corinthians, Chapter 9
   - 2-corinthians-09
 tags:
   - bible/2-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2corinthians/9
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Corinthians, Chapter 9
 ---
 
 # 2 Corinthians, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **God’s Indescribable Gift.**
 

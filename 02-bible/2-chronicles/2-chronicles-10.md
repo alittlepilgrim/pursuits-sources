@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 10
+title: 2 Chronicles, Chapter 10
+url: https://bible.usccb.org/bible/2chronicles/10
 aliases:
   - 2 Chronicles, Chapter 10
   - 2-chronicles-10
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/10
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 10
 ---
 
 # 2 Chronicles, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Division of the Kingdom.**
 
@@ -51,7 +50,7 @@ url: https://bible.usccb.org/bible/2chronicles/10
 
 14 He spoke to them as the young men had advised: “My father laid a heavy yoke on you; I will make it heavier. My father beat you with whips; I will use scorpions.” ^2-chronicles-10-14
 
-15 The king did not listen to the people, for this turn of events was from God: the L ORD fulfilled the word he had spoken through Ahijah the Shilonite to Jeroboam, the son of Nebat. ^2-chronicles-10-15
+15 The king did not listen to the people, for this turn of events was from God: the LORD fulfilled the word he had spoken through Ahijah the Shilonite to Jeroboam, the son of Nebat. ^2-chronicles-10-15
 
 16 When all Israel saw that the king did not listen to them, the people answered the king: ^2-chronicles-10-16
 

@@ -1,23 +1,25 @@
 ---
-title: Church Documents - OCDS Ongoing Formation Volume I
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Church Documents - OCDS Ongoing Formation Volume I
+author: Secular Order of Discalced Carmelites
 aliases:
   - Church Documents
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
 # Church Documents - OCDS Ongoing Formation Volume I
 
-### Introduction
+## Introduction
 
 Under this topic, the participants will read and reflect on the different papal documents and their significance. More precisely, the participants will explore in depth the three encyclicals of Pope Benedict XVI: God is Love (Deus Caritas Est); In Hope We Are Saved (Spes Salvi Facti Sumus); Charity in Truth (Caritas in Veritate). “The three encyclicals of Benedict XVI are grounded in the three theological virtues of faith, hope, and love. They provide inspiration and hope in the midst of violence and sin; and they direct us towards Christ, the Incarnate Love of God, who is the true hope of the world” (Dr. Robert Fastiggi, Professor of Systematic Theology at Sacred Heart Major Seminary). Read-along materials: God is Ever New: Meditations on Life, Love, and Freedom, Pope Benedict XVI, Ignatius Press. This book contains short summaries and snippets of information about Pope Benedict’s written and spoken communication during the tenure of his papacy. The selected texts were arranged under different categories of papal discourses including homilies, discourses given at the General Audience, messages for World Youth Days, addresses made to the seminarians, bishops and Christian families, brief summaries of encyclical letters, and much more. Reading and reflecting on Pope Benedict’s writings are the best way to understand the differences among the various types of papal communications. Additionally, the brief extract of his teachings contains a lifetime of keen insights and godly wisdom. This book could be used effectively for community formation as well as individual meditation.
 
 Church Documents – Session One 36
 
-#### Session One: a Brief Guide to Different Papal Documents
+### Session One: a Brief Guide to Different Papal Documents
 
 One way the Pope has guided the Church throughout the centuries is through papal documents. These are usually addressed to bishops, religious and the lay faithful of the entire Church. For many documents, the official text is in Latin, but translations into the vernacular are usually available. It is important to understand the differences between the various types of papal documents and their respective authority.
 
@@ -69,7 +71,7 @@ Written or spoken messages, often conveying a personal greeting, to individuals 
 
 Note: Sessions two, three, and four are on the three encyclicals of Pope Benedict XVI dealing with the theological virtues.
 
-#### Session Two: God Is Love (Deus Caritas Est)
+### Session Two: God Is Love (Deus Caritas Est)
 
 The first encyclical of Pope Benedict XVI Required Reading: God is Love (Deus caritas est). https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_benxvi_enc_20051225_deus-caritas-est.html Read-along material: Three Encyclicals of Pope Benedict XVI, a summary by Dr. Robert Fastiggi, Professor of Systematic Theology at Sacred Heart Major Seminary, (included below). Dr. Fastiggi explains: Pope Benedict XVI occupied the Chair of St. Peter from April 19, 2005, until his resignation on Feb. 28, 2013. During his papacy, he provided much wisdom in his general audiences, discourses, apostolic exhortations, letters, and homilies. His most significant papal writings, however, were his three encyclicals: God is Love (Deus Caritas Est); In Hope We are Saved (Spes Salvi Facti Sumus); Charity in Truth (Caritas in Veritate). The following selected passages were taken from “God is Love” (Deus Caritas Est) for reading and reflection. Note: While there are several points for discussion given here, participants are free to explore other passages in God is Love. (Deus Caritas Est).  We have come to believe in God’s love: in these words, the Christian can express the fundamental decision of his life. Being Christian is not the result of an ethical choice or a lofty idea, but the encounter with an event, a person, which gives life a new horizon and a decisive direction (#1).  Love looks to the eternal. Love is indeed “ecstasy,” not in the sense of a moment of intoxication, but rather as a journey, an ongoing exodus out of the closed inwardlooking self towards its liberation through self-giving, and thus towards authentic selfdiscovery and indeed the discovery of God (#6).  Anyone who wishes to give love must also receive love as a gift. Certainly, as the Lord tells us, one can become a source from which rivers of living water flow (cf. John 7:37- 38). Yet to become such a source, one must constantly drink anew from the original source, which is Jesus Christ, from whose pierced heart flows the love of God (cf. John 19:34) (#7).  Individuals who care for those in need must first be professionally competent; they should be properly trained in what to do and how to do it, and committed to continuing care. Yet, while professional competence is a primary, fundamental requirement, it is not in itself sufficient. We are dealing with human beings, and human beings always need something more than technically proper care. They need humanity. They need heartfelt concern. Those who work for the Church’s charitable organizations must be distinguished by the fact that they do not merely meet the needs of the moment, but
 
@@ -83,7 +85,7 @@ of any superiority or greater personal efficiency, but because the Lord has grac
 
 Church Documents – Session Three 42
 
-#### Session Three: in Hope We Are Saved (Spe Salvi Facti sumus)
+### Session Three: in Hope We Are Saved (Spe Salvi Facti sumus)
 
 The second encyclical of Pope Benedict XVI Required Reading: In Hope We Are Saved (Spe salvi facti sumus). https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_benxvi_enc_20071130_spe-salvi.html The following selected passages from “In Hope We Are Saved” (Spe salvi facti sumus) are for reading and reflection. Note: While there are ample points for discussion given here, participants are free to explore and discuss other passages in the main text of “In Hope We Are Saved.” Hope is Performative – it can change our lives  The Christian message was not only “informative” but “performative.” That means the Gospel is not merely a communication of things that can be known—it is one that makes things happen and is life-changing. The dark door of time, of the future, has been thrown open. The one who has hope lives differently; the one who hopes has been granted the gift of a new life (#2). [Pope Benedict observes that Christians have a future]: It is not that they know the details of what awaits them, but they know in general terms that their life will not end in emptiness. Only when the future is certain as a positive reality does it become possible to live the present as well (#2).  When the Letter to the Hebrews says that Christians here on earth do not have a permanent homeland, but seek one which lies in the future (cf. Heb. 11:13-16; Phil. 3:20), this does not mean for one moment that they live only for the future: present society is recognized by Christians as an exile; they belong to a new society which is the goal of their common pilgrimage and which is anticipated in the course of that pilgrimage (#4).  In the eleventh chapter of the Letter to the Hebrews [11:1] we find a kind of definition of faith which closely links this virtue with hope… Faith draws the future into the present, so that it is no longer simply a “not yet.” The fact that this future exists changes the present; the present is touched by the future reality, and thus the things of the future spill over into those of the present and those of the present into those of the future (#7). Eternal Life – what is it?  [Pope Benedict observes that we have a “paradoxical attitude” towards life on earth]: On the one hand, we do not want to die; above all, those who love us do not want us to die. Yet on the other hand, neither do we want to continue living indefinitely, nor was the earth created with that in view. So, what do we really want? Our paradoxical attitude gives rise to a deeper question: what in fact is “life”? And what does “eternity” really mean? (#11).  [What do we want? We want the eternal life:] In some way we want life itself, true life, untouched even by death… The term “eternal life” is intended to give a name to this
 
@@ -97,7 +99,7 @@ human existence in the way that Christ had done before them, because they were b
 
 Church Documents – Session Four 45
 
-#### Session Four: Charity in Truth (Caritas in Veritate)
+### Session Four: Charity in Truth (Caritas in Veritate)
 
 The third encyclical of Pope Benedict XVI Required Reading: Charity in Truth (Caritas in veritate) https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_benxvi_enc_20090629_caritas-in-veritate.html The following are selected passages from “Charity in Truth” (Caritas in veritate) for reading and reflection. Note: While there are several points for discussion given here, participants are free to explore other passages in the main text. Points for discussion:  Charity in truth, to which Jesus Christ bore witness by his earthly life and especially by his death and resurrection, is the principal driving force behind the authentic development of every person and of all humanity. Love — caritas — is an extraordinary force which leads people to opt for courageous and generous engagement in the field of justice and peace. It is a force that has its origin in God, Eternal Love and Absolute Truth (#1, emphasis added). Side note: Pope Benedict’s observation that love is a “principal driving force” which compels people to act courageously for the sake of the Kingdom of God, is well explained in the teaching of St. Thérèse: “I understood it was Love alone that made the Church’s members act, that if Love ever became extinct, apostles would not preach the Gospel and martyrs would not shed their blood” (Story of a Soul, Manuscript B, pg. 302, Study Edition).  Charity is at the heart of the Church’s social doctrine (CV #2). [Pope Benedict observes that just as Catholic social teaching addresses the common good and structures of society] charity can be recognized as an authentic expression of humanity and as an element of fundamental importance in human relations, including those of a public nature. Only in truth does charity shine forth, only in truth can charity be authentically lived. Truth is the light that gives meaning and value to charity. That light is both the light of reason and the light of faith, through which the intellect attains to the natural and supernatural truth of charity: it grasps its meaning as gift, acceptance, and communion (CV #3).  Without truth, charity degenerates into sentimentality. Love becomes an empty shell, to be filled in an arbitrary way... It falls prey to contingent subjective emotions and opinions... In the truth, charity reflects the personal yet public dimension of faith in the God of the Bible, who is both Agápe and Lógos: Charity and Truth, Love and Word (CV #3).  Truth, in fact, is lógos which creates diá-logos, and hence communication and communion. Truth, by enabling men and women to let go of their subjective opinions and impressions, allows them to move beyond cultural and historical limitations and to come together in the assessment of the value and substance of things. Truth opens and
 
@@ -111,7 +113,7 @@ Church Documents – Session Four 47
 
 Church Documents – Bibliography 48
 
-### Bibliography
+## Bibliography
 
 His Holiness Pope Benedict XVI. Encyclical Letters: Caritas in veritate (Charity in Truth), June 29, 2009; Spe salvi (In Hope We Are Saved), November 30, 2007; Deus caritas est (God is Love), December 25, 2005. Fastiggi, Robert. The Three Encyclicals of Pope Benedict XVI, June 1, 2023. https://mosaic.shms.edu/the-three-encyclicals-of-pope-benedict-xvi.
 
@@ -121,9 +123,9 @@ St. Thérèse of Lisieux. Story of a Soul, Study Edition. ICS, 2005.
 
 Church Documents Read-Along Materials, Fastiggi 49
 
-### Read-along Materials
+## Read-along Materials
 
-#### The Three Encyclicals of Pope Benedict Xvi by Dr. Robert Fastiggi
+### The Three Encyclicals of Pope Benedict Xvi by Dr. Robert Fastiggi
 
 Dr. Robert Fastiggi is professor of systematic theology at Sacred Heart Major Seminary. First Encyclical: Deus Caritas Est Benedict XVI’s first two encyclicals deal with the theological virtues of charity and hope. He was planning to write an encyclical on the theological virtue of faith, but he was not able to finish it because health issues led him to resign the papacy. He did, however, share his partial draft with his successor, Pope Francis, who published his first encyclical, Lumen Fidei (June 29, 2013), on faith. This encyclical incorporates many of the ideas that Benedict had drafted. The title of Benedict’s first encyclical, Deus Caritas Est (God Is Love), comes from John’s first Epistle: “God is love, and he who abides in love abides in God and God in him.” (1 John 4:16) The emphasis on love reflects the influences of St. Augustine and St. Bonaventure, but it also provides a response to the use of violence in the name of religion. Part one of Deus Caritas Est (nos. 1-18) focuses on the nature of love, both divine and human. Part two deals with “the practice of love by the Church as a ‘community of love.’” Benedict XVI examines the three main types of love recognized by the ancient Greeks: eros (desire), philia (love of friendship), and agape (charity or benevolence, which takes on a special importance in the New Testament). The Christian faith seeks to purify eros rather than eliminate it (no. 5). Eros must be purified from its ancient Greek association with frenzy, intoxication, and the divine madness manifested in various fertility cults (no. 4). Eros must also be purified of its contemporary reduction to pure “sex,” which ultimately leads to the “debasement of the body” (no. 5). Pope Benedict XVI points to Jesus Christ as the incarnate love of God, the Good Shepherd, who seeks his lost sheep with compassion (no. 12). As the incarnation of God’s love, Jesus makes the invisible Father visible (no. 17; cf. Jn. 14:9). Moreover, he offers himself as an oblation on the Cross and, in the Eucharist, he gives “his very self, his body and blood as the new manna” (no. 13; cf. Jn. 6:31-33). The Eucharist provides a basis for a “sacramental mysticism” (no. 13) realized in a special way by the Church as Christ’s body joined in the communion of the Eucharistic agape. Pope Benedict emphasizes the Church’s responsibility to proclaim the word of God (kerygmamartyria); to celebrate the sacraments (leitourgia); and practice charity (diakonia) (no. 25). In this regard, he notes that “the specific expressions of ecclesial charity can never be confused with the activity of the State” (no. 29). Christian charity must be rooted in the faith and marked by humility (no. 35), prayer (nos. 36-37), hope and patience (nos. 36-39). Authentic Christian charity will recognize hope “even in the face of apparent failure,” and it “accepts God’s mystery and trusts him even in times of darkness” (no. 39). Pope Benedict points to saintly figures — Martin of Tours, Francis of Assisi, Vincent de Paul, Louise de Marillac, and Teresa of Calcutta — as the “true bearers of light within history” (no. 40). Finally, he turns to Mary, the Mother of the Lord, as the “mirror of all holiness” (no. 41). He
 
@@ -137,7 +139,7 @@ economic projects “that are self-centered, protectionist, or at the service of
 
 Church Documents – Read-Along Materials, Pope Francis 52
 
-#### The Holy See Apostolic Journey of His Holiness Pope Francis to the United Arab Emirates (3-5 February 2019)
+### The Holy See Apostolic Journey of His Holiness Pope Francis to the United Arab Emirates (3-5 February 2019)
 
 A DOCUMENT ON HUMAN FRATERNITY FOR WORLD PEACE AND LIVING TOGETHER
 

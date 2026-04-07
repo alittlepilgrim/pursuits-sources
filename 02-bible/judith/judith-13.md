@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 13
+title: Judith, Chapter 13
+url: https://bible.usccb.org/bible/judith/13
 aliases:
   - judith-13
   - Judith, Chapter 13
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 13
 ---
 
 # Judith, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Judith Beheads Holofernes.**
 

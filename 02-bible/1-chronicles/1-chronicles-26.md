@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 26
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 26
+title: 1 Chronicles, Chapter 26
+url: https://bible.usccb.org/bible/1chronicles/26
 aliases:
   - 1 Chronicles, Chapter 26
   - 1-chronicles-26
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/26
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 26
 ---
 
 # 1 Chronicles, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 **Divisions of Gatekeepers.**
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/1chronicles/26
 
 11 Hilkiah, the second son, Tebaliah, the third, Zechariah, the fourth. All the sons and kinsmen of Hosah were thirteen. ^1-chronicles-26-11
 
-12 To these divisions of the gatekeepers, by their chief men, were assigned watches for them to minister in the house of the L ORD, for each group in the same way. ^1-chronicles-26-12
+12 To these divisions of the gatekeepers, by their chief men, were assigned watches for them to minister in the house of the LORD, for each group in the same way. ^1-chronicles-26-12
 
 13 They cast lots for each gate, small and large families alike. ^1-chronicles-26-13
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/1chronicles/26
 
 21 Among the sons of Ladan the Gershonite, the family heads were sons of Jehiel: ^1-chronicles-26-21
 
-22 the sons of Jehiel, Zetham and his brother Joel, who oversaw the treasures of the house of the L ORD. ^1-chronicles-26-22
+22 the sons of Jehiel, Zetham and his brother Joel, who oversaw the treasures of the house of the LORD. ^1-chronicles-26-22
 
 23 Of the Amramites, Izharites, Hebronites, and Uzzielites, ^1-chronicles-26-23
 
@@ -77,7 +76,7 @@ url: https://bible.usccb.org/bible/1chronicles/26
 
 26 This Shelomith and his kinsmen oversaw all the treasures of the votive offerings dedicated by King David, the heads of the families, the commanders of thousands and of hundreds, and the commanders of the army; ^1-chronicles-26-26
 
-27 what came from wars and from spoils, they dedicated for the support of the house of the L ORD. ^1-chronicles-26-27
+27 what came from wars and from spoils, they dedicated for the support of the house of the LORD. ^1-chronicles-26-27
 
 28 Also, whatever Samuel the seer, Saul, son of Kish, Abner, son of Ner, Joab, son of Zeruiah, and all others had consecrated, was under the charge of Shelomith and his kinsmen. ^1-chronicles-26-28
 
@@ -85,7 +84,7 @@ url: https://bible.usccb.org/bible/1chronicles/26
 
 29 Among the Izharites, Chenaniah and his sons were in charge of Israel’s civil affairs as officials and judges. ^1-chronicles-26-29
 
-30 Among the Hebronites, Hashabiah and his kinsmen, one thousand seven hundred men of substance, had the administration of Israel on the western side of the Jordan for all the work of the L ORD and the service of the king. ^1-chronicles-26-30
+30 Among the Hebronites, Hashabiah and his kinsmen, one thousand seven hundred men of substance, had the administration of Israel on the western side of the Jordan for all the work of the LORD and the service of the king. ^1-chronicles-26-30
 
 31 Among the Hebronites, Jerijah was their chief according to their family records. In the fortieth year of David’s reign search was made, and there were found among them warriors at Jazer of Gilead. ^1-chronicles-26-31
 

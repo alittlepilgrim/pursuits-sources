@@ -1,31 +1,30 @@
 ---
-title: Sirach, Chapter 18
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 18
+title: Sirach, Chapter 18
+url: https://bible.usccb.org/bible/sirach/18
 aliases:
   - sirach-18
   - Sirach, Chapter 18
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/18
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 18
 ---
 
 # Sirach, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
-#### The Divine Power and Mercy
+### The Divine Power and Mercy
 
 1 He who lives forever created the whole universe; ^sirach-18-1
 
-2 the L ORD alone is just. ^sirach-18-2
+2 the LORD alone is just. ^sirach-18-2
 
 4 To whom has he given power to describe his works, ^sirach-18-4
 
@@ -75,7 +74,7 @@ and turning them back, as a shepherd his flock.
 
 who are eager for his precepts.
 
-#### The Need for Prudence
+### The Need for Prudence
 
 15 My child, add no reproach to your charity, ^sirach-18-15
 
@@ -141,7 +140,7 @@ and those who know her declare her praise;
 
 and pour forth apt proverbs.
 
-#### Self-control
+### Self-control
 
 30 Do not let your passions be your guide, ^sirach-18-30
 

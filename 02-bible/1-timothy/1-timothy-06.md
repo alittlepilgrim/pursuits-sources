@@ -1,25 +1,24 @@
 ---
-title: 1 Timothy, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Timothy, Chapter 6
+title: 1 Timothy, Chapter 6
+url: https://bible.usccb.org/bible/1timothy/6
 aliases:
   - 1 Timothy, Chapter 6
   - 1-timothy-06
 tags:
   - bible/1-timothy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1timothy/6
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Timothy, Chapter 6
 ---
 
 # 1 Timothy, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Rules for Slaves.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/1timothy/6
 
 2 Those whose masters are believers must not take advantage of them because they are brothers but must give better service because those who will profit from their work are believers and are beloved. ^1-timothy-06-2
 
-## V. False Teaching and True Wealth
+# V. False Teaching and True Wealth
 
 **Teach and Urge These Things.**
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/1timothy/6
 
 19 thus accumulating as treasure a good foundation for the future, so as to win the life that is true life. ^1-timothy-06-19
 
-## Vi. Final Recommendation and Warning
+# Vi. Final Recommendation and Warning
 
 20 O Timothy, guard what has been entrusted to you. Avoid profane babbling and the absurdities of so-called knowledge. ^1-timothy-06-20
 

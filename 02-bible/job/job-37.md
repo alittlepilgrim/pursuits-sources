@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 37
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 37
+title: Job, Chapter 37
+url: https://bible.usccb.org/bible/job/37
 aliases:
   - job-37
   - Job, Chapter 37
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/37
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 37
 ---
 
 # Job, Chapter 37
 
-### Chapter 37
+## Chapter 37
 
 1 At this my heart trembles ^job-37-1
 

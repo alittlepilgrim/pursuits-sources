@@ -1,10 +1,7 @@
 ---
-title: January 9, Saint Andrew Corsini
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers 01-09-saint-andrew-corsini-bishop
+title: January 9, Saint Andrew Corsini
+author: OCD General Curia
 aliases:
   - 01-09-st-andrew-corsini
   - 20250731-121420
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 01-09
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers 01-09-saint-andrew-corsini-bishop
 ---
 
 # January 9, Saint Andrew Corsini

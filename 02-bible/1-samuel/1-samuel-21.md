@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 21
+title: 1 Samuel, Chapter 21
+url: https://bible.usccb.org/bible/1samuel/21
 aliases:
   - 1 Samuel, Chapter 21
   - 1-samuel-21
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/21
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 21
 ---
 
 # 1 Samuel, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 1 Then David departed on his way, while Jonathan went back into the city. ^1-samuel-21-1
 
@@ -35,9 +34,9 @@ url: https://bible.usccb.org/bible/1samuel/21
 
 6 David answered the priest: “We have indeed stayed away from women. In the past whenever I went out on a campaign, all the young men were consecrated—even for an ordinary campaign. All the more so are they consecrated with their weapons today!” ^1-samuel-21-6
 
-7 So the priest gave him holy bread, for no other bread was on hand except the showbread which had been removed from before the L ORD and replaced by fresh bread when it was taken away. ^1-samuel-21-7
+7 So the priest gave him holy bread, for no other bread was on hand except the showbread which had been removed from before the LORD and replaced by fresh bread when it was taken away. ^1-samuel-21-7
 
-8 One of Saul’s servants was there that day, detained before the L ORD; his name was Doeg the Edomite, the chief of Saul’s shepherds. ^1-samuel-21-8
+8 One of Saul’s servants was there that day, detained before the LORD; his name was Doeg the Edomite, the chief of Saul’s shepherds. ^1-samuel-21-8
 
 **The Sword of Goliath.**
 
@@ -67,7 +66,7 @@ David his tens of thousands’?”
 
 \* (21:5] – [6) According to [Lv 24:5] – [9], the showbread consisted of twelve loaves that were replaced each sabbath. Since the old bread was to be consumed by the priests, Ahimelech questions David regarding the ritual purity of his men (see [2 Sm 11:11]). David’s answer supposes the discipline of a military campaign under the conditions of “holy war” ([Dt 23:10] – [15]).
 
-\* (21:8) Detained before the L ORD: perhaps to fulfill a ritual obligation. David’s arrival at Nob seems to coincide with a festival day, since the showbread has recently been replaced with fresh bread. Shepherds: i.e., Saul’s palace guard. Cf. [22:9] – [10], where Doeg has easy access to Saul.
+\* (21:8) Detained before the LORD: perhaps to fulfill a ritual obligation. David’s arrival at Nob seems to coincide with a festival day, since the showbread has recently been replaced with fresh bread. Shepherds: i.e., Saul’s palace guard. Cf. [22:9] – [10], where Doeg has easy access to Saul.
 
 \* (21:10) Ephod: here an object or image large enough to conceal Goliath’s sword. Cf. Gideon’s ephod in [Jgs 8:27].
 

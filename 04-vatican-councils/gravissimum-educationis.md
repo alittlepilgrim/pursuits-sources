@@ -1,19 +1,19 @@
 ---
-title: Gravissimum Educationis
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Declaration on christian education - Gravissimum educationis
+title: Gravissimum Educationis
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html
 aliases:
   - gravissimum-educationis
 tags:
+  - graph/bible-v2
   - term/declarations
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-11-14
+modified: 2026-04-04
+publish: true
+description: Declaration on christian education - Gravissimum educationis
 abbreviation: ge
-author: Catholic Church
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html
 ---
 
 abbreviation: ge
@@ -124,7 +124,7 @@ Cooperation is the order of the day. It increases more and more to supply the de
 
 The sacred synod earnestly entreats young people themselves to become aware of the importance of the work of education and to prepare themselves to take it up, especially where because of a shortage of teachers the education of youth is in jeopardy. This same sacred synod, while professing its gratitude to priests, Religious men and women, and the laity who by their evangelical self-dedication are devoted to the noble work of education and of schools of every type and level, exhorts them to persevere generously in the work they have undertaken and, imbuing their students with the spirit of Christ, to strive to excel in pedagogy and the pursuit of knowledge in such a way that they not merely advance the internal renewal of the Church but preserve and enhance its beneficent influence upon today's world, especially the intellectual world.
 
-## Notes
+# Notes
 
 1\. Among many documents illustrating the importance of education confer above all apostolic letter of Benedict XV, Communes Litteras, April 10, 1919: A.A.S. 11 (1919) p. 172. Pius XI's apostolic encyclical, Divini Illius Magistri, Dec. 31, 1929: A.A.S. 22 (1930) pp. 49-86. Pius XII's allocution to the youths of Italian Catholic Action, April 20, 1946: Discourses and Radio Messages, vol. 8, pp. 53-57. Allocution to fathers of French families, Sept. 18, 1951: Discourses and Radio Message s, vol. 13, pp. 241-245. John XXIII's 30th anniversary message on the publication of the encyclical letter, Divini Illius Magistri, Dec. 30, 1959: A.A.S. 52 (1960) pp. 57-S9. Paul VI's allocution to members of Federated Institutes Dependent on Ecclesiastic Authority, Dec. 30, 1963: Encyclicals and Discourses of His Holiness Paul VI, Rome, 1964, pp. 601-603. Above all are to be consulted the Acts and Documents of the Second Vatican Council appearing in the first series of the ante-preparatrory phase. vol. 3. pp. 363-364; 370-371; 373-374. ^ge-fn-1
 

@@ -1,25 +1,24 @@
 ---
-title: Revelation, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, Chapter 1
+title: Revelation, Chapter 1
+url: https://bible.usccb.org/bible/revelation/1
 aliases:
   - revelation-01
   - Revelation, Chapter 1
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/revelation
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/revelation/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, Chapter 1
 ---
 
 # Revelation, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 The revelation of Jesus Christ, which God gave to him, to show his servants what must happen soon. He made it known by sending his angel to his servant John, ^revelation-01-1
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/revelation/1
 
 3 Blessed is the one who reads aloud and blessed are those who listen to this prophetic message and heed what is written in it, for the appointed time is near. ^revelation-01-3
 
-## Ii. Letters to the Churches of Asia
+# Ii. Letters to the Churches of Asia
 
 **Greeting.**
 

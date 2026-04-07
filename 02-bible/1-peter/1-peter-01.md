@@ -1,25 +1,24 @@
 ---
-title: 1 Peter, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Peter, Chapter 1
+title: 1 Peter, Chapter 1
+url: https://bible.usccb.org/bible/1peter/1
 aliases:
   - 1 Peter, Chapter 1
   - 1-peter-01
 tags:
   - bible/1-peter
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1peter/1
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Peter, Chapter 1
 ---
 
 # 1 Peter, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/1peter/1
 
 2 in the foreknowledge of God the Father, through sanctification by the Spirit, for obedience and sprinkling with the blood of Jesus Christ: may grace and peace be yours in abundance. ^1-peter-01-2
 
-## Ii. the Gift and Call of God in Baptism
+# Ii. the Gift and Call of God in Baptism
 
 **Blessing.**
 

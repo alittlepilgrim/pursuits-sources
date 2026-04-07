@@ -1,15 +1,16 @@
 ---
-title: Baptism
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: baptism. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Baptism
 aliases:
   - baptism
   - Baptism
 tags:
   - term/baptism
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: baptism. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Baptism
@@ -20,26 +21,26 @@ The first of the seven sacraments, and the "door" which gives access to the othe
 
 ## Divine Intimacy Meditations
 
-- Engrafts and incorporates us into Christ 43,2; 48,1;
-- has made us children of God: 71,1;
-- and is the beginning of the Christian life and eternal beatitude: 71,2;
-- consecrates the body of the Christian as the temple of God: 88,1;
-- in — we have received the first visit of the Holy Spirit: 189,2;
-- is a rebirth in the Holy Spirit: 190,1;
-- in —, together with grace, we receive the infused virtues and the gifts of the Holy Spirit: 195,1;
-- duty of living our —: 71,1, 71,2;
-- the grace of — does not exonerate us from struggle against the old man, but makes us able to withstand it: 245,1;
-- grace of — foreshadowed in cure of deaf-mute: 266,1.
+- Engrafts and incorporates us into Christ [[43-jesus-the-true-vine#Meditation 2|43,2]]; [[48-living-in-christ#Meditation 1|48,1]];
+- has made us children of God: [[71-baptism#Meditation 1|71,1]];
+- and is the beginning of the Christian life and eternal beatitude: [[71-baptism#Meditation 2|71,2]];
+- consecrates the body of the Christian as the temple of God: [[88-chastity#Meditation 1|88,1]];
+- in — we have received the first visit of the Holy Spirit: [[189-the-descent-of-the-holy-spirit#Meditation 2|189,2]];
+- is a rebirth in the Holy Spirit: [[190-the-action-of-the-holy-spirit#Meditation 1|190,1]];
+- in —, together with grace, we receive the infused virtues and the gifts of the Holy Spirit: [[195-the-gifts-of-the-holy-spirit#Meditation 1|195,1]];
+- duty of living our —: [[71-baptism#Meditation 1|71,1]], [[71-baptism#Meditation 2|71,2]];
+- the grace of — does not exonerate us from struggle against the old man, but makes us able to withstand it: [[245-our-riches#Meditation 1|245,1]];
+- grace of — foreshadowed in cure of deaf-mute: [[266-baptismal-grace#Meditation 1|266,1]].
 
 ## Divine Intimacy Meditations
 
-- 43. Jesus the True Vine
-- 48. Living in Christ
-- 71. Baptism
-- 88. Chastity
-- 189. The Descent of the Holy Spirit
-- 190. The Action of the Holy Spirit
-- 195. The Gifts of the Holy Spirit
-- 245. Our Riches
-- 266. Baptismal Grace
+- [[43-jesus-the-true-vine|43. Jesus the True Vine]]
+- [[48-living-in-christ|48. Living in Christ]]
+- [[71-baptism|71. Baptism]]
+- [[88-chastity|88. Chastity]]
+- [[189-the-descent-of-the-holy-spirit|189. The Descent of the Holy Spirit]]
+- [[190-the-action-of-the-holy-spirit|190. The Action of the Holy Spirit]]
+- [[195-the-gifts-of-the-holy-spirit|195. The Gifts of the Holy Spirit]]
+- [[245-our-riches|245. Our Riches]]
+- [[266-baptismal-grace|266. Baptismal Grace]]
     

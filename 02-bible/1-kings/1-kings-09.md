@@ -1,33 +1,32 @@
 ---
-title: 1 Kings, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 9
+title: 1 Kings, Chapter 9
+url: https://bible.usccb.org/bible/1kings/9
 aliases:
   - 1 Kings, Chapter 9
   - 1-kings-09
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/9
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 9
 ---
 
 # 1 Kings, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Promise and Warning to Solomon.**
 
-1 After Solomon finished building the house of the L ORD, the house of the king, and everything else that he wanted to do, ^1-kings-09-1
+1 After Solomon finished building the house of the LORD, the house of the king, and everything else that he wanted to do, ^1-kings-09-1
 
-2 the L ORD appeared to Solomon a second time, as he had appeared to him in Gibeon. ^1-kings-09-2
+2 the LORD appeared to Solomon a second time, as he had appeared to him in Gibeon. ^1-kings-09-2
 
-3 The L ORD said to him: I have heard the prayer of petition which you offered in my presence. I have consecrated this house which you have built and I set my name there forever; my eyes and my heart shall be there always. ^1-kings-09-3
+3 The LORD said to him: I have heard the prayer of petition which you offered in my presence. I have consecrated this house which you have built and I set my name there forever; my eyes and my heart shall be there always. ^1-kings-09-3
 
 4 As for you, if you walk before me as David your father did, wholeheartedly and uprightly, doing all that I have commanded you, keeping my statutes and ordinances, ^1-kings-09-4
 
@@ -37,13 +36,13 @@ url: https://bible.usccb.org/bible/1kings/9
 
 7 I will cut off Israel from the land I gave them and repudiate the house I have consecrated for my name. Israel shall become a proverb and a byword among all nations, ^1-kings-09-7
 
-8 and this house shall become a heap of ruins. Every passerby shall gasp in horror and ask, “Why has the L ORD done such things to this land and to this house?” ^1-kings-09-8
+8 and this house shall become a heap of ruins. Every passerby shall gasp in horror and ask, “Why has the LORD done such things to this land and to this house?” ^1-kings-09-8
 
-9 And the answer will come: “Because they abandoned the L ORD, their God, who brought their ancestors out of the land of Egypt, and they embraced other gods, bowing down to them and serving them. That is why the L ORD has brought upon them all this evil.” ^1-kings-09-9
+9 And the answer will come: “Because they abandoned the LORD, their God, who brought their ancestors out of the land of Egypt, and they embraced other gods, bowing down to them and serving them. That is why the LORD has brought upon them all this evil.” ^1-kings-09-9
 
 **After Building the Temple.**
 
-10 After the twenty years during which Solomon built the two houses, the house of the L ORD and the house of the king— ^1-kings-09-10
+10 After the twenty years during which Solomon built the two houses, the house of the LORD and the house of the king— ^1-kings-09-10
 
 11 Hiram, king of Tyre, supplying Solomon with all the cedar wood, fir wood, and gold he wished, and King Solomon giving Hiram in return twenty cities in the land of Galilee— ^1-kings-09-11
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/1kings/9
 
 14 Hiram, however, had sent King Solomon one hundred and twenty talents of gold. ^1-kings-09-14
 
-15 This is an account of the conscript labor force King Solomon raised in order to build the house of the L ORD, his own house, Millo, the wall of Jerusalem, Hazor, Megiddo, Gezer ^1-kings-09-15
+15 This is an account of the conscript labor force King Solomon raised in order to build the house of the LORD, his own house, Millo, the wall of Jerusalem, Hazor, Megiddo, Gezer ^1-kings-09-15
 
 16 (Pharaoh, king of Egypt, had come up and taken Gezer and, after destroying it by fire and slaying all the Canaanites living in the city, had given it as a farewell gift to his daughter, Solomon’s wife; ^1-kings-09-16
 
@@ -73,7 +72,7 @@ url: https://bible.usccb.org/bible/1kings/9
 
 24 As soon as Pharaoh’s daughter went up from the City of David to her house, which he had built for her, Solomon built Millo. ^1-kings-09-24
 
-25 Three times a year Solomon used to offer burnt offerings and communion offerings on the altar which he had built to the L ORD, and to burn incense before the L ORD. ^1-kings-09-25
+25 Three times a year Solomon used to offer burnt offerings and communion offerings on the altar which he had built to the LORD, and to burn incense before the LORD. ^1-kings-09-25
 
 Thus he completed the temple.
 

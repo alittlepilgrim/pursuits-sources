@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 17
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 17
+title: 1 Samuel, Chapter 17
+url: https://bible.usccb.org/bible/1samuel/17
 aliases:
   - 1 Samuel, Chapter 17
   - 1-samuel-17
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/17
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 17
 ---
 
 # 1 Samuel, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
 **The Challenge of Goliath.**
 
@@ -99,7 +98,7 @@ url: https://bible.usccb.org/bible/1samuel/17
 
 36 Your servant has killed both a lion and a bear. This uncircumcised Philistine will be as one of them, because he has insulted the armies of the living God.” ^1-samuel-17-36
 
-37 David continued: “The same L ORD who delivered me from the claws of the lion and the bear will deliver me from the hand of this Philistine.” Saul answered David, “Go! the L ORD will be with you.” ^1-samuel-17-37
+37 David continued: “The same LORD who delivered me from the claws of the lion and the bear will deliver me from the hand of this Philistine.” Saul answered David, “Go! the LORD will be with you.” ^1-samuel-17-37
 
 **Preparation for the Encounter.**
 
@@ -119,11 +118,11 @@ url: https://bible.usccb.org/bible/1samuel/17
 
 44 and said to him, “Come here to me, and I will feed your flesh to the birds of the air and the beasts of the field.” ^1-samuel-17-44
 
-45 David answered him: “You come against me with sword and spear and scimitar, but I come against you in the name of the L ORD of hosts, the God of the armies of Israel whom you have insulted. ^1-samuel-17-45
+45 David answered him: “You come against me with sword and spear and scimitar, but I come against you in the name of the LORD of hosts, the God of the armies of Israel whom you have insulted. ^1-samuel-17-45
 
-46 Today the L ORD shall deliver you into my hand; I will strike you down and cut off your head. This very day I will feed your dead body and the dead bodies of the Philistine army to the birds of the air and the beasts of the field; thus the whole land shall learn that Israel has a God. ^1-samuel-17-46
+46 Today the LORD shall deliver you into my hand; I will strike you down and cut off your head. This very day I will feed your dead body and the dead bodies of the Philistine army to the birds of the air and the beasts of the field; thus the whole land shall learn that Israel has a God. ^1-samuel-17-46
 
-47 All this multitude, too, shall learn that it is not by sword or spear that the L ORD saves. For the battle belongs to the L ORD, who shall deliver you into our hands.” ^1-samuel-17-47
+47 All this multitude, too, shall learn that it is not by sword or spear that the LORD saves. For the battle belongs to the LORD, who shall deliver you into our hands.” ^1-samuel-17-47
 
 48 The Philistine then moved to meet David at close quarters, while David ran quickly toward the battle line to meet the Philistine. ^1-samuel-17-48
 

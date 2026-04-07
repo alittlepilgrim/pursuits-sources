@@ -1,31 +1,30 @@
 ---
-title: Proverbs, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 12
+title: Proverbs, Chapter 12
+url: https://bible.usccb.org/bible/proverbs/12
 aliases:
   - proverbs-12
   - Proverbs, Chapter 12
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/12
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 12
 ---
 
 # Proverbs, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 1 Whoever loves discipline loves knowledge, ^proverbs-12-1
 
 but whoever hates reproof is stupid.
 
-2 A good person wins favor from the L ORD, ^proverbs-12-2
+2 A good person wins favor from the LORD, ^proverbs-12-2
 
 but the schemer he condemns.
 
@@ -105,7 +104,7 @@ but those who counsel peace have joy.
 
 but the wicked are overwhelmed with misfortune.
 
-22 Lying lips are an abomination to the L ORD, ^proverbs-12-22
+22 Lying lips are an abomination to the LORD, ^proverbs-12-22
 
 but those who are truthful, his delight.
 

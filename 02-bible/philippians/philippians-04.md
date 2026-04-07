@@ -1,25 +1,24 @@
 ---
-title: Philippians, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Philippians, Chapter 4
+title: Philippians, Chapter 4
+url: https://bible.usccb.org/bible/philippians/4
 aliases:
   - philippians-04
   - Philippians, Chapter 4
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/philippians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/philippians/4
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Philippians, Chapter 4
 ---
 
 # Philippians, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Live in Concord.**
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/philippians/4
 
 9 Keep on doing what you have learned and received and heard and seen in me. Then the God of peace will be with you. ^philippians-04-9
 
-## Vii. Gratitude for the Philippians’ Generosity
+# Vii. Gratitude for the Philippians’ Generosity
 
 10 I rejoice greatly in the Lord that now at last you revived your concern for me. You were, of course, concerned about me but lacked an opportunity. ^philippians-04-10
 
@@ -63,7 +62,7 @@ url: https://bible.usccb.org/bible/philippians/4
 
 20 To our God and Father, glory forever and ever. Amen. ^philippians-04-20
 
-## Viii. Farewell
+# Viii. Farewell
 
 21 Give my greetings to every holy one in Christ Jesus. The brothers who are with me send you their greetings; ^philippians-04-21
 

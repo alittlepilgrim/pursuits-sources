@@ -1,26 +1,26 @@
 ---
-title: Luke, The Gospel According To Luke
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Luke, the Gospel According to Luke
+title: Luke, The Gospel According To Luke
+url: https://bible.usccb.org/bible/luke/0
 aliases:
   - 20250730-160628
   - luke-00
   - Luke, the Gospel according to Luke
   - Luke, The Gospel According To Luke
 tags:
+  - bible/book
   - bible/luke
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/luke/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, the Gospel According to Luke
 ---
 
 # Luke, the Gospel According to Luke
 
-                        
+[Introduction](luke-00.md) [1](luke-01.md) [2](luke-02.md) [3](luke-03.md) [4](luke-04.md) [5](luke-05.md) [6](luke-06.md) [7](luke-07.md) [8](luke-08.md) [9](luke-09.md) [10](luke-10.md) [11](luke-11.md) [12](luke-12.md) [13](luke-13.md) [14](luke-14.md) [15](luke-15.md) [16](luke-16.md) [17](luke-17.md) [18](luke-18.md) [19](luke-19.md) [20](luke-20.md) [21](luke-21.md) [22](luke-22.md) [23](luke-23.md) [24](luke-24.md)
 
 ## The Gospel According to Luke
 

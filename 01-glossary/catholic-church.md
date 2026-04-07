@@ -1,15 +1,16 @@
 ---
-title: Catholic Church
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: catholic-church. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Catholic Church
 aliases:
   - Catholic Church
   - catholic-church
 tags:
   - term/catholic-church
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: catholic-church. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Catholic Church

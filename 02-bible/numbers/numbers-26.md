@@ -1,37 +1,36 @@
 ---
-title: Numbers, Chapter 26
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 26
+title: Numbers, Chapter 26
+url: https://bible.usccb.org/bible/numbers/26
 aliases:
   - numbers-26
   - Numbers, Chapter 26
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/26
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 26
 ---
 
 # Numbers, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 **The Second Census.**
 
 19 After the plague ^numbers-26-19
 
-1 the L ORD said to Moses and Eleazar, son of Aaron the priest: ^numbers-26-1
+1 the LORD said to Moses and Eleazar, son of Aaron the priest: ^numbers-26-1
 
 2 Take a census, by ancestral houses, throughout the community of the Israelites of all those of twenty years or more who are eligible for military service in Israel. ^numbers-26-2
 
 3 So on the plains of Moab along the Jordan at Jericho, Moses and Eleazar the priest enrolled them, ^numbers-26-3
 
-4 those of twenty years or more, as the L ORD had commanded Moses. ^numbers-26-4
+4 those of twenty years or more, as the LORD had commanded Moses. ^numbers-26-4
 
 The Israelites who came out of the land of Egypt were as follows:
 
@@ -43,7 +42,7 @@ The Israelites who came out of the land of Egypt were as follows:
 
 8 From Pallu descended Eliab. ^numbers-26-8
 
-9 The sons of Eliab were Nemuel, Dathan, and Abiram—the same Dathan and Abiram, ones designated by the community, who contended with Moses and Aaron as part of Korah’s faction when they contended with the L ORD. ^numbers-26-9
+9 The sons of Eliab were Nemuel, Dathan, and Abiram—the same Dathan and Abiram, ones designated by the community, who contended with Moses and Aaron as part of Korah’s faction when they contended with the LORD. ^numbers-26-9
 
 10 The earth opened its mouth and swallowed them, along with Korah, as a warning. The faction was destroyed when the fire consumed two hundred and fifty men. ^numbers-26-10
 
@@ -133,7 +132,7 @@ These were the descendants of Joseph by their clans.
 
 **Allotment of the Land.**
 
-52 The L ORD said to Moses: ^numbers-26-52
+52 The LORD said to Moses: ^numbers-26-52
 
 53 Among these the land shall be divided as their heritage in keeping with the number of people named. ^numbers-26-53
 
@@ -155,7 +154,7 @@ Now Kohath begot Amram,
 
 60 To Aaron were born Nadab and Abihu, Eleazar and Ithamar. ^numbers-26-60
 
-61 But Nadab and Abihu died when they offered unauthorized fire before the L ORD. ^numbers-26-61
+61 But Nadab and Abihu died when they offered unauthorized fire before the LORD. ^numbers-26-61
 
 62 The Levites enrolled were twenty-three thousand, every male one month or more of age. They were not enrolled with the other Israelites, however, for no heritage was given them among the Israelites. ^numbers-26-62
 
@@ -163,7 +162,7 @@ Now Kohath begot Amram,
 
 64 Among them there was not one of those who had been enrolled by Moses and Aaron the priest, when they enrolled the Israelites in the wilderness of Sinai. ^numbers-26-64
 
-65 For the L ORD had told them that they would surely die in the wilderness, and not one of them was left except Caleb, son of Jephunneh, and Joshua, son of Nun. ^numbers-26-65
+65 For the LORD had told them that they would surely die in the wilderness, and not one of them was left except Caleb, son of Jephunneh, and Joshua, son of Nun. ^numbers-26-65
 
 \* (26:4) This introduction to the census seems to contradict vv. [64] – [65] by including those who came out of Egypt.
 

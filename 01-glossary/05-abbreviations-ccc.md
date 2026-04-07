@@ -1,12 +1,14 @@
 ---
-title: Abbreviations
-created: 2025-10-26
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Abbreviations - Catechism
 aliases:
   - 20251026-163738
   - Abbreviations
+tags:
+  - type/term
+created: 2025-10-26
+modified: 2026-04-06
+publish: true
 attachment: true
 attachment_name: pdf-ccc-abbreviations.pdf
 ---
@@ -285,7 +287,7 @@ The following abbreviations are used for the books of the Bible cited in the tex
 
 # Abbreviations (Divine Intimacy)
 
-00-divine-intimacy-abbreviations
+![[00-divine-intimacy-abbreviations]]
 
 # References
 

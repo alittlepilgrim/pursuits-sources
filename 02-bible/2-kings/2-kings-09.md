@@ -1,25 +1,24 @@
 ---
-title: 2 Kings, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 9
+title: 2 Kings, Chapter 9
+url: https://bible.usccb.org/bible/2kings/9
 aliases:
   - 2 Kings, Chapter 9
   - 2-kings-09
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/9
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 9
 ---
 
 # 2 Kings, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Elisha and Jehu of Israel.**
 
@@ -27,15 +26,15 @@ url: https://bible.usccb.org/bible/2kings/9
 
 2 When you get there, look for Jehu, son of Jehoshaphat, son of Nimshi. Enter and take him away from his companions and bring him into an inner chamber. ^2-kings-09-2
 
-3 From the flask you have, pour oil on his head, and say, ‘Thus says the L ORD: I anoint you king over Israel.’ Then open the door and flee without delay.” ^2-kings-09-3
+3 From the flask you have, pour oil on his head, and say, ‘Thus says the LORD: I anoint you king over Israel.’ Then open the door and flee without delay.” ^2-kings-09-3
 
 4 The aide (the prophet’s aide) went to Ramoth-gilead. ^2-kings-09-4
 
 5 When he arrived, the commanders of the army were in session. He said, “I have a message for you, commander.” Jehu asked, “For which one of us?” “For you, commander,” he answered. ^2-kings-09-5
 
-6 Jehu got up and went into the house. Then the prophet’s aide poured the oil on his head and said, “Thus says the L ORD, the God of Israel: I anoint you king over the people of the L ORD, over Israel. ^2-kings-09-6
+6 Jehu got up and went into the house. Then the prophet’s aide poured the oil on his head and said, “Thus says the LORD, the God of Israel: I anoint you king over the people of the LORD, over Israel. ^2-kings-09-6
 
-7 You shall destroy the house of Ahab your master; thus will I avenge the blood of my servants the prophets, and the blood of all the other servants of the L ORD shed by Jezebel. ^2-kings-09-7
+7 You shall destroy the house of Ahab your master; thus will I avenge the blood of my servants the prophets, and the blood of all the other servants of the LORD shed by Jezebel. ^2-kings-09-7
 
 8 The whole house of Ahab shall perish: ^2-kings-09-8
 
@@ -49,11 +48,11 @@ whether bond or free in Israel.
 
 11 When Jehu rejoined his master’s servants, they asked him, “Is all well? Why did that madman come to you?” He replied, “You know that kind of man and his talk.” ^2-kings-09-11
 
-12 But they said, “Tell us another lie!” So he told them, “This is what the prophet’s aide said to me, ‘Thus says the L ORD: I anoint you king over Israel.’” ^2-kings-09-12
+12 But they said, “Tell us another lie!” So he told them, “This is what the prophet’s aide said to me, ‘Thus says the LORD: I anoint you king over Israel.’” ^2-kings-09-12
 
 13 At once each took his garment, spread it under Jehu on the bare steps, blew the horn, and cried out, “Jehu is king!” ^2-kings-09-13
 
-## Viii. the End of the Omrid Dynasty
+# Viii. the End of the Omrid Dynasty
 
 **Death of Joram of Israel.**
 
@@ -81,9 +80,9 @@ Jehu said to them, “If this is what you really want, see that no one escapes f
 
 24 But Jehu had drawn his bow and he shot Joram between the shoulders, so that the arrow went through his heart and he collapsed in his chariot. ^2-kings-09-24
 
-25 Then Jehu said to his adjutant Bidkar, “Take him and throw him into the plot of ground in the field of Naboth the Jezreelite. For remember when you and I were driving teams behind Ahab his father, the L ORD delivered this oracle against him: ^2-kings-09-25
+25 Then Jehu said to his adjutant Bidkar, “Take him and throw him into the plot of ground in the field of Naboth the Jezreelite. For remember when you and I were driving teams behind Ahab his father, the LORD delivered this oracle against him: ^2-kings-09-25
 
-26 As surely as I saw yesterday the blood of Naboth and the blood of his sons—oracle of the L ORD —I will repay you for it in that very plot of ground—oracle of the L ORD. So now take him and throw him into this plot of ground, in keeping with the word of the L ORD.” ^2-kings-09-26
+26 As surely as I saw yesterday the blood of Naboth and the blood of his sons—oracle of the LORD —I will repay you for it in that very plot of ground—oracle of the LORD. So now take him and throw him into this plot of ground, in keeping with the word of the LORD.” ^2-kings-09-26
 
 **Death of Ahaziah of Judah.**
 
@@ -107,7 +106,7 @@ Jehu said to them, “If this is what you really want, see that no one escapes f
 
 35 But when they went to bury her, they found nothing of her but the skull, the feet, and the hands. ^2-kings-09-35
 
-36 They returned to Jehu, and when they told him, he said, “This is the word the L ORD spoke through his servant Elijah the Tishbite: In the confines of Jezreel the dogs shall devour the flesh of Jezebel. ^2-kings-09-36
+36 They returned to Jehu, and when they told him, he said, “This is the word the LORD spoke through his servant Elijah the Tishbite: In the confines of Jezreel the dogs shall devour the flesh of Jezebel. ^2-kings-09-36
 
 37 The corpse of Jezebel shall be like dung in the field in the confines of Jezreel, so that no one can say: This was Jezebel.” ^2-kings-09-37
 

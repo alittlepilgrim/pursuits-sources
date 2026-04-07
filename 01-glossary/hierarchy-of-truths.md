@@ -1,15 +1,17 @@
 ---
-title: Hierarchy of Truths
-created: 1984-01-24
-modified: 2026-04-02
 type: glossary
-publish: true
-description: hierarchy-of-truths. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Hierarchy of Truths
+author:
 aliases:
   - Hierarchy of Truths
   - hierarchy-of-truths
 tags:
   - term/hierarchy-of-truths
+  - type/term
+created: 1984-01-24
+modified: 2026-04-06
+publish: true
+description: hierarchy-of-truths. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Hierarchy of Truths

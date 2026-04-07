@@ -1,10 +1,9 @@
 ---
-title: Compendium of the Social Doctrine of the Church
-created: 2025-08-22
-modified: 2026-04-02
 type: toc
-publish: true
-description: Social Doctrine of the Church Table of Contents
+title: Compendium of the Social Doctrine of the Church TOC
+author:
+  - Catholic Church
+url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
   - Compendium of the Social Doctrine of the Church
   - Compendium of the Social Doctrine of the Church Table of Contents
@@ -12,11 +11,17 @@ aliases:
 tags:
   - term/social-doctrine
   - type/toc
+created: 2025-08-22
+modified: 2026-04-06
+publish: true
+permalink: /social-doctrine
+description: Social Doctrine of the Church Table of Contents
 attachment: false
-url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 ---
 
 # Compendium of the Social Doctrine of the Church
+
+![[banner-pursuits-sj.png]]
 
 > [!NOTE]
 > PONTIFICAL COUNCIL FOR JUSTICE AND PEACE
@@ -24,13 +29,13 @@ url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/
 > *TO HIS HOLINESS POPE JOHN PAUL II*
 > MASTER OF SOCIAL DOCTRINE AND EVANGELICAL WITNESS TO JUSTICE AND PEACE
 
+[Abbreviations](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/#ABBREVIATIONS)
 
+[Biblical Abbreviations](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/#BIBLICAL%20ABBREVIATIONS)
 
+[Letter of Cardinal Angelo Sodano](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/#SECRETARIAT%20OF%20STATE)
 
-
-
-
-*
+[Presentation](https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/#PRESENTATION)*
 
 # [[sd-02-intro#^csdc-1|Introduction]]
 

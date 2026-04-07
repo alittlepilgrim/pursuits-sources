@@ -1,20 +1,19 @@
 ---
-title: Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 11
+title: Chapter 11
+url: https://bible.usccb.org/bible/job/11
 aliases:
   - job-11
   - Job, Chapter 11
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 11
 ---
 
 # Chapter 11
@@ -56,7 +55,7 @@ QUESTIONS FOR DISCUSSION. 1. What are some of the ways in which we might become 
 
 # Job, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **Zophar’s First Speech.**
 

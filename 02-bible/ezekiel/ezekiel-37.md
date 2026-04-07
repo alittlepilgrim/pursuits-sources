@@ -1,39 +1,38 @@
 ---
-title: Ezekiel, Chapter 37
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 37
+title: Ezekiel, Chapter 37
+url: https://bible.usccb.org/bible/ezekiel/37
 aliases:
   - ezekiel-37
   - Ezekiel, Chapter 37
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/37
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 37
 ---
 
 # Ezekiel, Chapter 37
 
-### Chapter 37
+## Chapter 37
 
 **Vision of the Dry Bones.**
 
-1 The hand of the L ORD came upon me, and he led me out in the spirit of the L ORD and set me in the center of the broad valley. It was filled with bones. ^ezekiel-37-1
+1 The hand of the LORD came upon me, and he led me out in the spirit of the LORD and set me in the center of the broad valley. It was filled with bones. ^ezekiel-37-1
 
 2 He made me walk among them in every direction. So many lay on the surface of the valley! How dry they were! ^ezekiel-37-2
 
 3 He asked me: Son of man, can these bones come back to life? “Lord G OD,” I answered, “you alone know that.” ^ezekiel-37-3
 
-4 Then he said to me: Prophesy over these bones, and say to them: Dry bones, hear the word of the L ORD! ^ezekiel-37-4
+4 Then he said to me: Prophesy over these bones, and say to them: Dry bones, hear the word of the LORD! ^ezekiel-37-4
 
 5 Thus says the Lord G OD to these bones: Listen! I will make breath enter you so you may come to life. ^ezekiel-37-5
 
-6 I will put sinews on you, make flesh grow over you, cover you with skin, and put breath into you so you may come to life. Then you shall know that I am the L ORD. ^ezekiel-37-6
+6 I will put sinews on you, make flesh grow over you, cover you with skin, and put breath into you so you may come to life. Then you shall know that I am the LORD. ^ezekiel-37-6
 
 7 I prophesied as I had been commanded. A sound started up, as I was prophesying, rattling like thunder. The bones came together, bone joining to bone. ^ezekiel-37-7
 
@@ -47,13 +46,13 @@ url: https://bible.usccb.org/bible/ezekiel/37
 
 12 Therefore, prophesy and say to them: Thus says the Lord G OD: Look! I am going to open your graves; I will make you come up out of your graves, my people, and bring you back to the land of Israel. ^ezekiel-37-12
 
-13 You shall know that I am the L ORD, when I open your graves and make you come up out of them, my people! ^ezekiel-37-13
+13 You shall know that I am the LORD, when I open your graves and make you come up out of them, my people! ^ezekiel-37-13
 
-14 I will put my spirit in you that you may come to life, and I will settle you in your land. Then you shall know that I am the L ORD. I have spoken; I will do it—oracle of the L ORD. ^ezekiel-37-14
+14 I will put my spirit in you that you may come to life, and I will settle you in your land. Then you shall know that I am the LORD. I have spoken; I will do it—oracle of the LORD. ^ezekiel-37-14
 
 **The Two Sticks.**
 
-15 Thus the word of the L ORD came to me: ^ezekiel-37-15
+15 Thus the word of the LORD came to me: ^ezekiel-37-15
 
 16 As for you, son of man, take one stick and write on it, “Judah and those Israelites associated with it.” Then take another stick and write on it: “Joseph, Ephraim’s stick, and the whole house of Israel associated with it.” ^ezekiel-37-16
 
@@ -79,7 +78,7 @@ url: https://bible.usccb.org/bible/ezekiel/37
 
 27 My dwelling shall be with them; I will be their God, and they will be my people. ^ezekiel-37-27
 
-28 Then the nations shall know that I, the L ORD, make Israel holy, by putting my sanctuary among them forever. ^ezekiel-37-28
+28 Then the nations shall know that I, the LORD, make Israel holy, by putting my sanctuary among them forever. ^ezekiel-37-28
 
 \* (37:1] – [14) This account is a figurative description of God’s creation of a new Israel. Even though that creation begins with the remains of the old Israel, the exiles under the image of dry bones, depicting a totally hopeless situation, the new Israel is radically different: it is an ideal people, shaped by God’s spirit to live the covenant faithfully, something the old Israel, exiles included, were unable to do. While this passage in its present context is not about the doctrine of individual or communal resurrection, many Jewish and Christian commentators suggest that the doctrine is foreshadowed here.
 

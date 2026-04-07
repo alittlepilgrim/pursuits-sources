@@ -1,20 +1,19 @@
 ---
-title: Esther, Chapter 1
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 1
+title: Esther, Chapter 1
+url: https://bible.usccb.org/bible/esther/1
 aliases:
   - esther-01
   - Esther, Chapter 1
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/1
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 1
 ---
 
 # Esther, Chapter 1
@@ -113,7 +112,7 @@ g. (A:17) [Est 3:1] – [15]; [B:1] – [7]; [E:13].
 
 11 to bring Queen Vashti into his presence wearing the royal crown, that he might display her beauty to the populace and the officials, for she was lovely to behold. ^esther-01-11
 
-12 But Queen Vashti refused to come at the royal order issued through the eunuchs. At this the king’s wrath flared up, and he burned with fury. ^esther-01-12
+12 But Queen Vashti refused to come at the royaLORDer issued through the eunuchs. At this the king’s wrath flared up, and he burned with fury. ^esther-01-12
 
 13 He conferred with the sages who understood the times, because the king’s business was conducted in general consultation with lawyers and jurists. ^esther-01-13
 

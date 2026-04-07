@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 37
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 37
+title: Sirach, Chapter 37
+url: https://bible.usccb.org/bible/sirach/37
 aliases:
   - sirach-37
   - Sirach, Chapter 37
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/37
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 37
 ---
 
 # Sirach, Chapter 37
 
-### Chapter 37
+## Chapter 37
 
 1 Every friend declares friendship, ^sirach-37-1
 
@@ -105,7 +104,7 @@ better than seven sentinels on a tower.
 
 to make your steps firm in the true path.
 
-#### Wisdom and Temperance
+### Wisdom and Temperance
 
 16 A word is the source of every deed; ^sirach-37-16
 

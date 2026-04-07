@@ -1,19 +1,19 @@
 ---
-title: Optatam Totius
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree on Priestly Training - Optatam totius
+title: Optatam Totius
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html
 aliases:
   - optatam-totius
 tags:
+  - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-11-14
+modified: 2026-04-04
+publish: true
+description: Decree on Priestly Training - Optatam totius
 abbreviation: ot
-author: Catholic Church
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html
 ---
 
 DECREE ON PRIESTLY TRAINING
@@ -28,13 +28,13 @@ ON OCTOBER 28, 1965
 
 Animated by the spirit of Christ, this sacred synod is fully aware that the desired renewal of the whole Church depends to a great extent on the ministry of its priests. It proclaims the extreme importance of priestly training and lays down certain basic principles by which those regulations may be strengthened which long use has shown to be sound and by which those new elements can be added which correspond to the constitutions and decrees of this sacred council and to the changed conditions of our times. Because of the very unity of the Catholic priesthood this priestly formation is necessary for all priests, diocesan and religious and of every rite. Wherefore, while these prescriptions directly concern the diocesan clergy, they are to be appropriately adapted to all.
 
-## I
+# I
 
 THE PROGRAM OF PRIESTLY TRAINING TO BE UNDERTAKEN BY EACH COUNTRY
 
 1\. Since only general laws can be made where there exists a wide variety of nations and regions, a special "program of priestly training" is to be undertaken by each country or rite. It must be set up by the episcopal conferences, revised from time to time and approved by the Apostolic See. In this way will the universal laws be adapted to the particular circumstances of the times and localities so that the priestly training will always be in tune with the pastoral needs of those regions in which the ministry is to be exercised. ^ot-1
 
-## Ii
+# Ii
 
 THE URGENT FOSTERING OF PRIESTLY VOCATIONS
 
@@ -52,7 +52,7 @@ The work of fostering vocations should, in a spirit of openness, transcend the l
 
 With equal concern the seeds of vocations among adolescents and young men are also to be fostered in those special institutes which, in accord with the local circumstances, serve the purpose of a minor seminary as well as among those who are trained in other schools or by other educational means. Finally, those institutions and other schools initiated for those with a belated vocation are to be carefully developed.
 
-## Iii
+# Iii
 
 THE SETTING UP OF MAJOR SEMINARIES
 
@@ -72,7 +72,7 @@ In the entire process of selecting and testing students, however, a due firmness
 
 In these seminaries, however, where there are many students, while retaining a unity of direction and of scientific training, the students should be conveniently divided into smaller groups so that a better provision is had for the personal formation of each.
 
-## Iv
+# Iv
 
 THE CAREFUL DEVELOPMENT OF THE SPIRITUAL TRAINING
 
@@ -98,7 +98,7 @@ The whole pattern of seminary life, permeated with a desire for piety and silenc
 
 12\. In order that the spiritual training rest upon a more solid basis and that the students embrace their vocation with a fully deliberate choice, it will be the prerogative of the bishops to establish a fitting period of time for a more intense introduction to the spiritual life. It will also be their charge to determine the opportuneness of providing for a certain interruption in the studies or of establishing a suitable introduction to pastoral work, in order that they may more satisfactorily test the fitness of candidates for the priesthood. In accordance with the conditions of individual regions it will also be the bishops' responsibility to make a decision about extending the age beyond that demanded at present by common law for the reception of sacred orders, and of deliberating whether it be opportune to rule that students, at the end of their course in theology, exercise the order of deacon for a fitting period of time before being promoted to the priesthood. ^ot-12
 
-## V
+# V
 
 **THE REVISION OF ECCLESIASTICAL STUDIES**
 
@@ -130,7 +130,7 @@ Let them also be introduced to a knowledge of other religions which are more wid
 
 18\. It will be the bishops' concern that young men suited by temperament, virtue, and ability be sent to special institutes faculties, or universities so that priests may be trained at a higher scientific level in the sacred sciences and in other fields which may be judged opportune. Thus they will be able to meet the various needs of the apostolate. The spiritual and pastoral training of these men, however, especially if they are not yet ordained as priests, is in no way to be neglected. ^ot-18
 
-## Vi
+# Vi
 
 **THE PROMOTION OF STRICTLY PASTORAL TRAINING**
 
@@ -142,12 +142,12 @@ In general, those capabilities are to be developed in the students which especia
 
 But since it is necessary for the students to learn the art of exercising the apostolate not only theoretically but also practically, and to be able to act both on their own responsibility and in harmonious conjunction with others, they should be initiated into pastoral work, both during their course of studies and also during the time of vacations, by opportune practical projects. These should be carried out in accordance with the age of the students and local conditions, and with the prudent judgment of the bishops, methodically and under the leadership of men skilled in pastoral work, the surpassing power of supernatural means being always remembered.
 
-## Vii
+# Vii
 
 **TRAINING TO BE ACHIEVED AFTER THE COURSE OF STUDIES**
 
 21\. Since priestly training, because of the circumstances particularly of contemporary society, must be pursued and perfected even after the completion of the course of studies in seminaries, it will be the responsibility of episcopal conferences in individual nations to employ suitable means to this end. Such would be pastoral institutes working together with suitably chosen parishes, meetings held at stated times, and appropriate projects whereby the younger clergy would be gradually introduced into the priestly life and apostolic activity, under its spiritual, intellectual, and pastoral aspects, and would be able, day by day, to renew and foster them more effectively. ^ot-21
 
-## Conclusion
+# Conclusion
 
 The Fathers of this holy synod have pursued the work begun by the Council of Trent. While they confidently entrust to seminary administrators and teachers the task of forming the future priests of Christ in the spirit of the renewal promoted by this sacred synod, they earnestly exhort those who are preparing for the priestly ministry to realize that the hope of the Church and the salvation of souls is being committed to them. They urge them also to receive the norms of this decree willingly and thus to bring forth most abundant fruit which will always remain.

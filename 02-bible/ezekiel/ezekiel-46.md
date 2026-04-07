@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 46
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 46
+title: Ezekiel, Chapter 46
+url: https://bible.usccb.org/bible/ezekiel/46
 aliases:
   - ezekiel-46
   - Ezekiel, Chapter 46
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/46
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 46
 ---
 
 # Ezekiel, Chapter 46
 
-### Chapter 46
+## Chapter 46
 
 **Sabbaths.**
 
@@ -27,9 +26,9 @@ url: https://bible.usccb.org/bible/ezekiel/46
 
 2 Then the prince shall enter from outside by way of the vestibule of the gate and remain standing at the doorpost of the gateway while the priests sacrifice his burnt offerings and communion offerings; then he shall bow down in worship at the opening of the gate and leave. But the gate shall not be closed until evening. ^ezekiel-46-2
 
-3 The people of the land also shall bow down in worship before the L ORD at the opening of this gate on the sabbaths and new moons. ^ezekiel-46-3
+3 The people of the land also shall bow down in worship before the LORD at the opening of this gate on the sabbaths and new moons. ^ezekiel-46-3
 
-4 The burnt offerings which the prince sacrifices to the L ORD on the sabbath shall consist of six unblemished lambs and an unblemished ram, ^ezekiel-46-4
+4 The burnt offerings which the prince sacrifices to the LORD on the sabbath shall consist of six unblemished lambs and an unblemished ram, ^ezekiel-46-4
 
 5 together with a grain offering of one ephah for the ram and whatever he pleases for the lambs, and a hin of oil for each ephah. ^ezekiel-46-5
 
@@ -41,17 +40,17 @@ url: https://bible.usccb.org/bible/ezekiel/46
 
 8 When the prince enters, he shall always enter and depart by the vestibule of the gate. ^ezekiel-46-8
 
-9 When the people of the land come before the L ORD to bow down on the festivals, if they enter by the north gate they shall leave by the south gate, and if they enter by the south gate they shall leave by the north gate. They shall not go back by the gate through which they entered; everyone shall leave by the opposite gate. ^ezekiel-46-9
+9 When the people of the land come before the LORD to bow down on the festivals, if they enter by the north gate they shall leave by the south gate, and if they enter by the south gate they shall leave by the north gate. They shall not go back by the gate through which they entered; everyone shall leave by the opposite gate. ^ezekiel-46-9
 
 10 When they come in, the prince shall be with them; he shall also leave with them. ^ezekiel-46-10
 
 11 On feasts and festivals, the grain offering shall be an ephah for a bull, an ephah for a ram, but for the lambs whatever they please, and a hin of oil with each ephah. ^ezekiel-46-11
 
-12 When the prince makes a freewill offering to the L ORD, whether a burnt offering or communion offering, the gate facing east shall be opened for him, and he shall bring his burnt offering or peace offering as he does on the sabbath. Then he shall leave, and the gate shall be closed after his departure. ^ezekiel-46-12
+12 When the prince makes a freewill offering to the LORD, whether a burnt offering or communion offering, the gate facing east shall be opened for him, and he shall bring his burnt offering or peace offering as he does on the sabbath. Then he shall leave, and the gate shall be closed after his departure. ^ezekiel-46-12
 
-13 Every day you shall bring as a burnt offering to the L ORD an unblemished year-old lamb; you shall offer it every morning, ^ezekiel-46-13
+13 Every day you shall bring as a burnt offering to the LORD an unblemished year-old lamb; you shall offer it every morning, ^ezekiel-46-13
 
-14 and with it every morning a grain offering of one sixth of an ephah, with a third of a hin of oil to moisten the fine flour. This grain offering for the L ORD is a perpetual statute. ^ezekiel-46-14
+14 and with it every morning a grain offering of one sixth of an ephah, with a third of a hin of oil to moisten the fine flour. This grain offering for the LORD is a perpetual statute. ^ezekiel-46-14
 
 15 The lamb, the grain offering, and the oil you must bring every morning as a perpetual burnt offering. ^ezekiel-46-15
 

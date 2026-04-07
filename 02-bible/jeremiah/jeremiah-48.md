@@ -1,29 +1,28 @@
 ---
-title: Jeremiah, Chapter 48
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 48
+title: Jeremiah, Chapter 48
+url: https://bible.usccb.org/bible/jeremiah/48
 aliases:
   - jeremiah-48
   - Jeremiah, Chapter 48
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/48
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 48
 ---
 
 # Jeremiah, Chapter 48
 
-### Chapter 48
+## Chapter 48
 
 **Against Moab.**
 
-1 Concerning Moab. Thus says the L ORD of hosts, the God of Israel: ^jeremiah-48-1
+1 Concerning Moab. Thus says the LORD of hosts, the God of Israel: ^jeremiah-48-1
 
 Ah, Nebo! it is ravaged;
 
@@ -75,7 +74,7 @@ not a city escapes;
 
 Ruined is the valley,
 
-wasted the plateau—oracle of the L ORD.
+wasted the plateau—oracle of the LORD.
 
 9 Set up a tombstone for Moab; ^jeremiah-48-9
 
@@ -85,7 +84,7 @@ Its cities turned into ruins
 
 where no one dwells.
 
-10 Cursed are they who do the L ORD’s work carelessly, ^jeremiah-48-10
+10 Cursed are they who do the LORD’s work carelessly, ^jeremiah-48-10
 
 cursed those who keep their sword from shedding blood.
 
@@ -101,7 +100,7 @@ Thus it retained its flavor,
 
 its bouquet is not lost.
 
-12 Be assured! The days are coming—oracle of the L ORD —when I will send him wine-makers to decant the wine; they shall empty its flasks and smash its jars. ^jeremiah-48-12
+12 Be assured! The days are coming—oracle of the LORD —when I will send him wine-makers to decant the wine; they shall empty its flasks and smash its jars. ^jeremiah-48-12
 
 13 Chemosh shall disappoint Moab, just as the house of Israel was disappointed by Bethel, in which they trusted. ^jeremiah-48-13
 
@@ -113,7 +112,7 @@ mighty warriors”?
 
 the best of its youth go down to slaughter—
 
-oracle of the King, whose name is L ORD of hosts.
+oracle of the King, whose name is LORD of hosts.
 
 16 Moab’s ruin is near at hand, ^jeremiah-48-16
 
@@ -161,9 +160,9 @@ Proclaim it at the Arnon:
 
 25 The horn of Moab is cut off, ^jeremiah-48-25
 
-its arm is broken—oracle of the L ORD.
+its arm is broken—oracle of the LORD.
 
-26 Make him drunk because he set himself over against the L ORD; let Moab swim in his vomit and become a laughingstock. ^jeremiah-48-26
+26 Make him drunk because he set himself over against the LORD; let Moab swim in his vomit and become a laughingstock. ^jeremiah-48-26
 
 27 Has Israel not been a laughingstock to you? Was he caught among thieves that you wag your heads whenever you speak of him? ^jeremiah-48-27
 
@@ -183,7 +182,7 @@ His loftiness, his pride, his scorn,
 
 his insolent heart.
 
-30 I myself know his arrogance—oracle of the L ORD — ^jeremiah-48-30
+30 I myself know his arrogance—oracle of the LORD — ^jeremiah-48-30
 
 liar in word, liar in deed.
 
@@ -217,17 +216,17 @@ the vintage shout is stilled.
 
 34 The cry of Heshbon and Elealeh is heard as far as Jahaz; they call from Zoar to Horonaim and to Eglath-shelishiyah; even the waters of Nimrim turn into a wasteland. ^jeremiah-48-34
 
-35 I will leave no one in Moab—oracle of the L ORD —to offer burnt offerings on the high place or to make sacrifices to their gods. ^jeremiah-48-35
+35 I will leave no one in Moab—oracle of the LORD —to offer burnt offerings on the high place or to make sacrifices to their gods. ^jeremiah-48-35
 
 36 Hence my heart wails like a flute for Moab; my heart wails like a flute for the people of Kir-heres: the wealth they accumulated has perished. ^jeremiah-48-36
 
 37 Every head has been shaved bald, every beard cut off; every hand gashed, and all their loins are draped in sackcloth. ^jeremiah-48-37
 
-38 On all the rooftops of Moab and in all its squares there is mourning. I have shattered Moab like a pot that no one wants—oracle of the L ORD. ^jeremiah-48-38
+38 On all the rooftops of Moab and in all its squares there is mourning. I have shattered Moab like a pot that no one wants—oracle of the LORD. ^jeremiah-48-38
 
 39 How terrified they are, how they wail! How Moab turns its back in shame! Moab has become a laughingstock and a horror to all its neighbors! ^jeremiah-48-39
 
-40 For thus says the L ORD: ^jeremiah-48-40
+40 For thus says the LORD: ^jeremiah-48-40
 
 Look there! Like an eagle he swoops,
 
@@ -243,11 +242,11 @@ become like the heart of a woman in labor.
 
 42 Moab shall be wiped out, a people no more, ^jeremiah-48-42
 
-because it set itself over against the L ORD.
+because it set itself over against the LORD.
 
 43 Terror, pit, and trap be upon you, ^jeremiah-48-43
 
-enthroned Moab—oracle of the L ORD.
+enthroned Moab—oracle of the LORD.
 
 44 Those fleeing the terror ^jeremiah-48-44
 
@@ -259,7 +258,7 @@ are caught in the trap;
 
 Ah, yes! I will bring these things upon Moab
 
-in the year of their punishment—oracle of the L ORD.
+in the year of their punishment—oracle of the LORD.
 
 45 In Heshbon’s shadow the fugitives ^jeremiah-48-45
 
@@ -283,7 +282,7 @@ your daughters into captivity.
 
 47 Yet I will restore the fortunes of Moab ^jeremiah-48-47
 
-in the days to come—oracle of the L ORD.
+in the days to come—oracle of the LORD.
 
 Thus far the judgment on Moab.
 

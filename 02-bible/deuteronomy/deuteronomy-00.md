@@ -1,20 +1,20 @@
 ---
-title: Deuteronomy, The Book Of Deuteronomy
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, the Book of Deuteronomy
+title: Deuteronomy, The Book Of Deuteronomy
+url: https://bible.usccb.org/bible/deuteronomy/0
 aliases:
   - deuteronomy-00
   - Deuteronomy, the Book of Deuteronomy
   - Deuteronomy, The Book of Deuteronomy
 tags:
+  - bible/book
   - bible/deuteronomy
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, the Book of Deuteronomy
 ---
 
 # Deuteronomy, the Book of Deuteronomy

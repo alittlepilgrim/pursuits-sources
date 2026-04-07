@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 29
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 29
+title: Proverbs, Chapter 29
+url: https://bible.usccb.org/bible/proverbs/29
 aliases:
   - proverbs-29
   - Proverbs, Chapter 29
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/29
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 29
 ---
 
 # Proverbs, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
 1 Those stiff-necked in the face of reproof ^proverbs-29-1
 
@@ -71,7 +70,7 @@ their servants all become wicked.
 
 13 The poor and the oppressor meet: ^proverbs-29-13
 
-the L ORD gives light to the eyes of both.
+the LORD gives light to the eyes of both.
 
 14 If a king is honestly for the rights of the poor, ^proverbs-29-14
 
@@ -119,11 +118,11 @@ they hear the imprecation but do not testify.
 
 25 Fear of others becomes a snare, ^proverbs-29-25
 
-but the one who trusts in the L ORD is safe.
+but the one who trusts in the LORD is safe.
 
 26 Many curry favor with a ruler, ^proverbs-29-26
 
-but it is from the L ORD that one receives justice.
+but it is from the LORD that one receives justice.
 
 27 An abomination to the just, the evildoer; ^proverbs-29-27
 

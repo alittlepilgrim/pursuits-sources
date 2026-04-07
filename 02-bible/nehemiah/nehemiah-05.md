@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 5
+title: Nehemiah, Chapter 5
+url: https://bible.usccb.org/bible/nehemiah/5
 aliases:
   - nehemiah-05
   - Nehemiah, Chapter 5
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 5
 ---
 
 # Nehemiah, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Social and Economic Problems.**
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/nehemiah/5
 
 12 They answered: “We will return everything and exact nothing further from them. We will do just what you ask.” Then I called for the priests to administer an oath to them that they would do as they had promised. ^nehemiah-05-12
 
-13 I shook out the folds of my garment, saying, “Thus may God shake from home and fortune every man who fails to keep this promise, and may he thus be shaken out and emptied!” And the whole assembly answered, “Amen,” and praised the L ORD. Then the people did as they had promised. ^nehemiah-05-13
+13 I shook out the folds of my garment, saying, “Thus may God shake from home and fortune every man who fails to keep this promise, and may he thus be shaken out and emptied!” And the whole assembly answered, “Amen,” and praised the LORD. Then the people did as they had promised. ^nehemiah-05-13
 
 **Nehemiah’s Record.**
 

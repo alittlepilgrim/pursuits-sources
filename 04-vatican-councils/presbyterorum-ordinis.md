@@ -1,19 +1,19 @@
 ---
-title: Presbyterorum Ordinis
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree on Ministry and the life priests - Presbyterorum Ordinis
+title: Presbyterorum Ordinis
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html
 aliases:
   - presbyterorum-ordinis
 tags:
+  - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-11-14
+modified: 2026-04-04
+publish: true
+description: Decree on Ministry and the life priests - Presbyterorum Ordinis
 abbreviation: po
-author: Catholic Church
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html
 ---
 
 DECREE ON THE MINISTRY AND LIFE OF PRIESTS
@@ -26,11 +26,11 @@ POPE PAUL VI
 
 ON DECEMBER 7, 1965
 
-## Preface
+# Preface
 
 1\. The excellence of the order of priests in the Church has already been recalled to the minds of all by this sacred synod.([[#^po-fn-preface-1|1]]) Since, however, in the renewal of Christ's Church tasks of the greatest importance and of ever increasing difficulty are being given to this order, it was deemed most useful to treat of the subject of priests at greater length and with more depth. What is said here applies to all priests, especially those devoted to the care of souls, with suitable adaptations being made for priests who are religious. Priests by sacred ordination and mission which they receive from the bishops are promoted to the service of Christ the Teacher, Priest and King. They share in his ministry, a ministry whereby the Church here on earth is unceasingly built up into the People of God, the Body of Christ and the Temple of the Holy Spirit. Therefore, in order that their ministry be carried on more effectively and their lives be better provided for, in pastoral and human circumstances which very often change so profoundly, this sacred synod declares and decrees as follows. ^po-1
 
-## Chapter I
+# Chapter I
 
 THE PRIESTHOOD IN THE MINISTRY OF THE CHURCH
 
@@ -46,11 +46,11 @@ The purpose, therefore, which priests pursue in their ministry and by their life
 
 3\. Priests, who are taken from among men and ordained for men in the things that belong to God in order to offer gifts and sacrifices for sins,<sup>([[#^po-fn-ch1-15|15]])</sup> nevertheless live on earth with other men as brothers. The Lord Jesus, the Son of God, a Man sent by the Father to men, dwelt among us and willed to become like his brethren in all things except sin.<sup>([[#^po-fn-ch1-16|16]])</sup> The holy apostles imitated him. Blessed Paul, the doctor of the Gentiles, "set apart for the Gospel of God" ([[romans-01#^romans-01-1|Rom 1:1)]] declares that he became all things to all men that he might save all.<sup>([[#^po-fn-ch1-17|17]])</sup> Priests of the New Testament, by their vocation and ordination, are in a certain sense set apart in the bosom of the People of God. However, they are not to be separated from the People of God or from any person; but they are to be totally dedicated to the work for which the Lord has chosen them.<sup>([[#^po-fn-ch1-18|18]])</sup> They cannot be ministers of Christ unless they be witnesses and dispensers of a life other than earthly life. But they cannot be of service to men if they remain strangers to the life and conditions of men.<sup>([[#^po-fn-ch1-19|19]])</sup> Their ministry itself, by a special title, forbids that they be conformed to this world;<sup>([[#^po-fn-ch1-20|20]])</sup> yet at the same time it requires that they live in this world among men. They are to live as good shepherds that know their sheep, and they are to seek to lead those who are not of this sheepfold that they, too, may hear the voice of Christ, so that there might be one fold and one shepherd.<sup>([[#^po-fn-ch1-21|21]])</sup> To achieve this aim, certain virtues, which in human affairs are deservedly esteemed, contribute a great deal: such as goodness of heart, sincerity, strength and constancy of mind, zealous pursuit of justice, affability, and others. The Apostle Paul commends them saying: "Whatever things are true, whatever honorable, whatever just, whatever holy, whatever loving, whatever of good repute, if there be any virtue, if anything is worthy of praise, think upon these things" ([[philippians-04#^philippians-04-8|Phil 4:8)]].<sup>([[#^po-fn-ch1-22|22]])</sup> ^po-3
 
-## Chapter Ii
+# Chapter Ii
 
 The Ministry of Priests
 
-### Section I
+## Section I
 
 Priests' Functions**
 
@@ -84,7 +84,7 @@ The ecclesial community by prayer, example, and works of penance, exercise a tru
 
 In building the Christian community, priests are never to put themselves at the service of some human faction of ideology, but, as heralds of the Gospel and shepherds of the Church, they are to spend themselves for the spiritual growth of the Body of Christ.
 
-### Section 2
+## Section 2
 
 Priests' Relationships with Others**
 
@@ -114,7 +114,7 @@ Finally, they have entrusted to them all those who do not recognize Christ as th
 
 The Christian faithful, for their part, should realize their obligations to their priests, and with filial love they should follow them as their pastors and fathers. In like manner, sharing their cares, they should help their priests by prayer and work insofar as possible so that their priests might more readily overcome difficulties and be able to fulfill their duties more fruitfully.<sup>([[#^po-fn-ch2-58|58]])</sup>
 
-### Section 3
+## Section 3
 
 The Distribution of Priests, and Vocations to the Priesthood**
 
@@ -128,11 +128,11 @@ Priests should not be sent singly to a new field of labor, especially to one whe
 
 Works favoring vocations, therefore, whether diocesan or national, are highly recommended to the consideration of priests.<sup>([[#^po-fn-ch2-67|67]])</sup> In sermons, in catechetical instructions, and written articles, priests should set forth the needs of the Church both locally and universally, putting into vivid light the nature and excellence of the priestly ministry, which consoles heavy burdens with great joys, and in which in a special way, as the Fathers of the Church point out, the greatest love of Christ can be shown.<sup>([[#^po-fn-ch2-68|68]])</sup>
 
-## Chapter Iii
+# Chapter Iii
 
 The Life of Priests
 
-### Section 1
+## Section 1
 
 The Vocation of Priests to the Life of Perfection
 
@@ -158,7 +158,7 @@ In order to continue doing the will of his Father in the world, Christ works unc
 
 In order to measure and verify this coordination of life in a concrete way, let priests examine all their works and projects to see what is the will of God<sup>([[#^po-fn-ch3-24|24]])</sup>-namely, to see how their endeavors compare with the goals of the Gospel mission of the Church. Fidelity to Christ cannot be separated from faithfulness to his Church. Pastoral charity requires that priests avoid operating in a vacuum<sup>([[#^po-fn-ch3-25|25]])</sup> and that they work in a strong bond of union with their bishops and brother priests. If this be their program, priests will find the coordination and unity of their own life in the oneness of the Church's mission. They will be joined with the Lord and through him with the Father in the Holy Spirit. This will bring them great satisfaction and a full measure of happiness.<sup>([[#^po-fn-ch3-26|26]])</sup>
 
-### Section 2
+## Section 2
 
 Special Spiritual Requirements in the Life of a Priest**
 
@@ -186,7 +186,7 @@ Priests, moreover, are invited to embrace voluntary poverty by which they are mo
 
 Led by the Spirit of the Lord, who anointed the Savior and sent him to evangelize the poor,<sup>([[#^po-fn-ch3-53|53]])</sup> priests, therefore, and also bishops, should avoid everything which in any way could turn the poor away. Before the other followers of Christ, let priests set aside every appearance of vanity in their possessions. Let them arrange their homes so that they might not appear unapproachable to anyone, lest anyone, even the most humble, fear to visit them.
 
-### Section Three
+## Section Three
 
 Aids to the Life of Priests
 
@@ -210,7 +210,7 @@ Special importance ought to be given to the office fulfilled by sacred ministers
 
 Moreover, in nations where social security for the clergy is not yet aptly established, let the episcopal conferences see to it that-in accord with ecclesiastical and civil laws-there may be either diocesan institutes, whether federated with one another or established for various dioceses together, or territorial associations, which under the vigilance of the hierarchy would make sufficient and suitable provision for a program of preventive medicine, and the necessary support of priests who suffer from sickness, invalid conditions or old age. Let priests share in this established institute, prompted by a spirit of solidarity with their brothers to take part in their tribulations<sup>([[#^po-fn-ch3-63|63]])</sup> while at the same time being freed from an anxious concern for their own future so that they can cultivate evangelical poverty more readily and give themselves fully to the salvation of souls. Let those in charge of this act to bring together the institutes of various nations in order that their strength he more firmly achieved and more broadly based.
 
-## Conclusion and Exhortation
+# Conclusion and Exhortation
 
 22\. Having before our eyes the joys of the priestly life, this holy synod cannot at the same time overlook the difficulties which priests experience in the circumstances of contemporary life. For we know how much economic and social conditions are transformed, and even more how much the customs of men are changed, how much the scale of values is changed in the estimation of men. As a result, the ministers of the Church and sometimes the faithful themselves feel like strangers in this world, anxiously looking for the ways and words with which to communicate with it. For there are new obstacles which have arisen to the faith: the seeming unproductivity of work done, and also the bitter loneliness which men experience can lead them to the danger of becoming spiritually depressed. ^po-22
 
@@ -218,13 +218,13 @@ The world which today is entrusted to the loving ministry of the pastors of the 
 
 Priests should remember that in performing their office they are never alone, but strengthened by the power of Almighty God, and believing in Christ who called them to share in his Priesthood, they should devote themselves to their ministry with complete trust, knowing that God can cause charity to grow in them.(#^po-fn-conclusion-4) Let them be mindful of their brothers in the priesthood as well, and also of the faithful of the entire world who are associated with them. For all priests cooperate in carrying out the saving plan of God,(#^po-fn-conclusion-5) that is, the Mystery of Christ, the sacrament hidden from the ages in God, which is only brought to fulfillment little by little through the collaboration of many ministries in building up the Body of Christ until it grows to the fullness of time. All this, hidden with Christ in God,(#^po-fn-conclusion-6) can be uniquely perceived by faith. For the leaders of the People of God must walk by faith, following the example of faithful Abraham, who in faith "obeyed by going out into a place which he was to receive for an inheritance; and he went out not knowing where he was going" ([[hebrews-11#^hebrews-11-8|Heb 11:8)]]. Indeed, the dispenser of the mysteries of God can see himself in the man who sowed his field, of whom the Lord said: "then sleep and rise, night and day, and the seed should sprout without his knowing" ([[mark-04#^mark-04-27|Mk 4:27)]]. As for the rest, the Lord Jesus, who said: "Take courage, I have overcome the world," ([[john-16#^john-16-33|Jn 16:33)]] did not by these words promise his Church a perfect victory in this world. Certainly this holy synod rejoices that the earth has been sown with the seed of the Gospel which now bears fruit in many places, under the direction of the Holy Spirit who fills the whole earth and who has stirred up a missionary spirit in the hearts of many priests and faithful. Concerning all this, this holy synod gives fervent thanks to the priests of the entire world. "Now to him who is able to accomplish all things in a measure far beyond what we ask or conceive in keeping with the power that is at work in us-to him be glory in the Church and in Christ Jesus" ([[ephesians-03#^ephesians-03-20|Eph 3:20-21)]].
 
-## Notes
+# Notes
 
-### Preface
+## Preface
 
 1\. Second Vatican Council, *Constitution on the Sacred Liturgy*, Dec. 4, 1963; AAS 56 (1964) pp 7ff; Dogmatic Constitution *Lumen Gentium* Nov. 21, 1964: AAS 57 (1965) p 5ff; *Decree Christus Dominus* on Pastoral Duties of Bishops, Oct. 28, 1965; Decree on Priestly Training, Oct. 28, 1965. ^po-fn-preface-1
 
-### Chapter 1
+## Chapter 1
 
 1\. Cf. *Mt* 3:16; [[luke-04#^luke-04-18|Lk 4:18;]] *Acts* 4:27, 10:38. ^po-fn-ch1-1
 
@@ -270,7 +270,7 @@ Priests should remember that in performing their office they are never alone, bu
 
 22\. Cf. St. Polycarp, *Epist. ad Philippenses*, 6, 1 (ed. F.X. Funk, Apostolic Fathers, I, p 303). ^po-fn-ch1-22
 
-### Chapter 2
+## Chapter 2
 
 1\. Cf. *1 Pt* 1:23; [[acts-of-the-apostles-06#^acts-of-the-apostles-06-7|Acts 6:7;]] 12:24. " *(The apostles) preached the word of truth and founded Churches*." (St. Augustine, On Psalms, 44, 23; PL 36, 508). ^po-fn-ch2-1
 
@@ -408,7 +408,7 @@ Priests should remember that in performing their office they are never alone, bu
 
 68\. The Fathers teach this in their explanations of Christ's words to Peter: "Do you love me?...Feed my sheep." (*Jn* 21:17); This St. John Chrysostom, *On the Priesthood*, II, 1-2 (PG 47-48, 633); St.Gregory the Great, Reg. Past. Liber, P I c. 5 (PL 77, 19 a). ^po-fn-ch2-68
 
-### Chapter 3
+## Chapter 3
 
 1\. Cf. *[[2-corinthians-12#^2-corinthians-12-9|2 Cor 12:9]]*. ^po-fn-ch3-1
 
@@ -536,7 +536,7 @@ Priests should remember that in performing their office they are never alone, bu
 
 63\. Cf. [[philippians-04#^philippians-04-14|Phil 4:14.]] ^po-fn-ch3-63
 
-### Conclusion and Exhortation
+## Conclusion and Exhortation
 
 1\. Cf. [[john-03#^john-03-16|Jn 3:16.]] ^po-fn-conclusion-1
 

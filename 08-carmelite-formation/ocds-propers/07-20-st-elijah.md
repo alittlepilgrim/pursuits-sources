@@ -1,9 +1,7 @@
 ---
-title: July 20, Our Father Saint Elijah
-created: 2024-07-19
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: July 20, Our Father Saint Elijah
+author: OCD General Curia
 aliases:
   - 07-20-st-elijah
   - 20240719-212434
@@ -11,9 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-20
 celebration_rank: feast
+created: 2024-07-19
+modified: 2026-04-06
+publish: false
 ---
 
 # July 20, Our Father Saint Elijah

@@ -1,22 +1,21 @@
 ---
-title: 1 Chronicles, the First Book of Chronicles
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: 1 Chronicles, the First Book of Chronicles
+title: 1 Chronicles, the First Book of Chronicles
+url: https://bible.usccb.org/bible/1chronicles/0
 aliases:
   - 1 Chronicles, the First Book of Chronicles
   - 1 Chronicles, The First Book of Chronicles
   - 1-chronicles-00
-  - 20250730-121240
 tags:
   - bible/1-chronicles
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, the First Book of Chronicles
 bible_book: 1 Chr
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/0
 ---
 
 # 1 Chronicles, the First Book of Chronicles

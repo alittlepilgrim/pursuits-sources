@@ -1,25 +1,24 @@
 ---
-title: Romans, Chapter 14
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: romans-chapter 14
+title: Romans, Chapter 14
+url: https://bible.usccb.org/bible/romans/14
 aliases:
   - romans-14
   - Romans, Chapter 14
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/romans
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/romans/14
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: romans-chapter 14
 ---
 
 # Romans, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **To Live and Die for Christ.**
 

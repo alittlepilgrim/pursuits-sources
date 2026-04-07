@@ -1,30 +1,32 @@
 ---
-title: M - Social Doctrine of the Church Analytical Index
-created: 2025-11-13
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: M - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - M - Social Doctrine of the Church Analytical Index
   - sd-10-index-m
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-13
+modified: 2026-04-06
+publish: true
 ---
 
 # M - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Magisterium
+## Magisterium
 
 - See [[sd-10-index-s#Social Doctrine|Social Doctrine]]
 
-### Man - Mankind - Men - People - Man and Woman - Men and Women
+## Man - Mankind - Men - People - Man and Woman - Men and Women
 
 Integral salvation, the whole person and all mankind, [[sd-02-intro#^csdc-1|1]]
 
@@ -526,7 +528,7 @@ Man, material goods and the capacity of self-giving, [[sd-06-conclusion#^csdc-58
 
 God, love and man, [[sd-06-conclusion#^csdc-581|581]], [[sd-06-conclusion#^csdc-582|582]]
 
-### Marginalization - Marginalized
+## Marginalization - Marginalized
 
 New forms of poverty and marginalization, [[sd-02-intro#^csdc-5|5]]
 
@@ -534,7 +536,7 @@ God's mercy and the marginalized, [[sd-03-part-I#^csdc-29|29]]
 
 Work and marginalized women, [[sd-04-part-II#^csdc-295|295]]
 
-### Market
+## Market
 
 Distribution of land and markets, [[sd-03-part-I#^csdc-180|180]]
 
@@ -598,7 +600,7 @@ Safeguarding the environment and the market, [[sd-04-part-II#^csdc-470|470]]
 
 Disarmament, the arms trade and the market, [[sd-04-part-II#^csdc-508|508]]
 
-### Marriage
+## Marriage
 
 Jesus and the dignity of marriage, [[sd-04-part-II#^csdc-210|210]]
 
@@ -648,7 +650,7 @@ Defence of marriage and development, [[sd-04-part-II#^csdc-253|253]]
 
 Discernment, the family and marriage, [[sd-05-part-III#^csdc-569|569]]
 
-### Materialism - Materialistic (see Also [[sd-10-index-o#Matter|Matter]])
+## Materialism - Materialistic (see Also [[sd-10-index-o#Matter|Matter]])
 
 Materialism and the unity of human beings, [[sd-03-part-I#^csdc-129|129]]
 
@@ -660,9 +662,9 @@ The economy, materialistic dimension and life, [[sd-04-part-II#^csdc-375|375]]
 
 The human family and materialistic ideologies, [[sd-04-part-II#^csdc-433|433]]
 
-### Maternity (see MOTHERHOOD)
+## Maternity (see MOTHERHOOD)
 
-### Matter - Material
+## Matter - Material
 
 Pope Pius XII and interventions in social matters, [[sd-03-part-I#^csdc-93|93]]
 
@@ -746,7 +748,7 @@ Material poverty and the economy, [[sd-05-part-III#^csdc-564|564]]
 
 The devastation of hearts and material goods, [[sd-06-conclusion#^csdc-581|581]]
 
-### Media
+## Media
 
 _Octogesima Adveniens_ and the media, [[sd-03-part-I#^csdc-100|100]]
 
@@ -762,7 +764,7 @@ The laity and mass media, [[sd-05-part-III#^csdc-560|560]], [[sd-05-part-III#^cs
 
 The media and professionals, [[sd-05-part-III#^csdc-562|562]]
 
-### Medical - Medicine
+## Medical - Medicine
 
 Lack of medical care, [[sd-02-intro#^csdc-5|5]]
 
@@ -770,11 +772,11 @@ Technology, disease and medicines, [[sd-04-part-II#^csdc-458|458]]
 
 Biotechnology and medicine, [[sd-04-part-II#^csdc-472|472]]
 
-### Men and Women
+## Men and Women
 
 - See [[sd-10-index-p#Person|Person]], [[sd-10-index-m#Man|Man]]
 
-### Men and Women Religious - Consecrated Persons
+## Men and Women Religious - Consecrated Persons
 
 Men and women religious and The _Compendium_, [[sd-02-intro#^csdc-11|11]]
 
@@ -788,7 +790,7 @@ Social doctrine, the bishop and men and women religious, [[sd-05-part-III#^csdc-
 
 Social pastoral activity and consecrated persons, [[sd-05-part-III#^csdc-540|540]]
 
-### Mercy
+## Mercy
 
 The Spirit of God and sentiments of mercy, [[sd-03-part-I#^csdc-25|25]]
 
@@ -812,7 +814,7 @@ Mercy and truth, [[sd-04-part-II#^csdc-490|490]]
 
 Peace and mercy, [[sd-04-part-II#^csdc-520|520]]
 
-### Minority
+## Minority
 
 Rights of nations and minorities, [[sd-03-part-I#^csdc-157|157]]
 
@@ -824,7 +826,7 @@ Minorities, rights and duties, [[sd-04-part-II#^csdc-387|387]]
 
 The international order and the rights of minorities, [[sd-04-part-II#^csdc-438|438]]
 
-### Misery - Miserable (see Also [[sd-10-index-o#Poverty|Poverty]], [[sd-10-index-s#Suffering|Suffering]])
+## Misery - Miserable (see Also [[sd-10-index-o#Poverty|Poverty]], [[sd-10-index-s#Suffering|Suffering]])
 
 _Rerum Novarum_ and the misery of workers, [[sd-03-part-I#^csdc-89|89]]
 
@@ -834,13 +836,13 @@ Sundays, charity and brethren in misery and poverty, [[sd-04-part-II#^csdc-285|2
 
 The Spirit and the miserable state of the human condition, [[sd-04-part-II#^csdc-381|381]]
 
-### Misfortunes
+## Misfortunes
 
 (see Also [[sd-10-index-o#Evil|Evil]], [[sd-10-index-w#Wickedness|Wickedness]])
 
 Solidarity and the misfortunes of so many people, [[sd-03-part-I#^csdc-193|193]]
 
-### Mission - Missionary
+## Mission - Missionary
 
 Social doctrine, the Church and mission, [[sd-02-intro#^csdc-3|3]], [[sd-02-intro#^csdc-7|7]], [[sd-03-part-I#^csdc-64|64]], [[sd-03-part-I#^csdc-65|65]], [[sd-03-part-I#^csdc-67|67]]
 
@@ -904,7 +906,7 @@ Specialized associations and mission, [[sd-05-part-III#^csdc-550|550]]
 
 Mission of the Church and the meaning of existence, [[sd-06-conclusion#^csdc-576|576]]
 
-### Money
+## Money
 
 Public communications and the unscrupulous use of money, [[sd-03-part-I#^csdc-198|198]]
 
@@ -912,7 +914,7 @@ The love of money, [[sd-04-part-II#^csdc-328|328]]
 
 The debt crisis and public moneys, [[sd-04-part-II#^csdc-450|450]]
 
-### Moral - Immoral - Morality - Moralization
+## Moral - Immoral - Morality - Moralization
 
 Humanity and moral awareness, [[sd-02-intro#^csdc-6|6]]
 
@@ -1160,7 +1162,7 @@ Cultural questions and moral sense, [[sd-06-conclusion#^csdc-577|577]]
 
 Moral convictions and encounter, [[sd-06-conclusion#^csdc-579|579]]
 
-### Mother
+## Mother
 
 Mary, the Mother of Jesus, [[sd-03-part-I#^csdc-59|59]]
 
@@ -1174,7 +1176,7 @@ Mothers and socially recognized work, [[sd-04-part-II#^csdc-251|251]]
 
 Work and the role of the woman as mother, [[sd-04-part-II#^csdc-295|295]]
 
-### Motherhood - Maternity
+## Motherhood - Maternity
 
 (See Also [[sd-10-index-p#Parenthood|Parenthood]])
 
@@ -1190,11 +1192,11 @@ Motherhood and tasks of a spiritual nature, [[sd-04-part-II#^csdc-237|237]]
 
 Social provisions and maternity, [[sd-04-part-II#^csdc-301|301]]
 
-### Motherhood and Fatherhood
+## Motherhood and Fatherhood
 
 - See [[sd-10-index-p#Parenthood|Parenthood]]
 
-### Movement
+## Movement
 
 Worker movements of solidarity, [[sd-04-part-II#^csdc-308|308]]
 
@@ -1210,7 +1212,7 @@ Movements and formation of the lay faithful, [[sd-05-part-III#^csdc-549|549]]
 
 Social doctrine and the role of movements, [[sd-05-part-III#^csdc-549|549]]
 
-### Mystery
+## Mystery
 
 Mystery and human existence, [[sd-02-intro#^csdc-14|14]]
 

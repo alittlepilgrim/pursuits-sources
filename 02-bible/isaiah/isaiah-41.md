@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 41
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 41
+title: Isaiah, Chapter 41
+url: https://bible.usccb.org/bible/isaiah/41
 aliases:
   - isaiah-41
   - Isaiah, Chapter 41
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/41
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 41
 ---
 
 # Isaiah, Chapter 41
 
-### Chapter 41
+## Chapter 41
 
-#### The Liberator of Israel
+### The Liberator of Israel
 
 1 Keep silence before me, O coastlands; ^isaiah-41-1
 
@@ -51,7 +50,7 @@ by a path his feet scarcely touch.
 
 Who has called forth the generations from the beginning?
 
-I, the L ORD, am the first,
+I, the LORD, am the first,
 
 and at the last I am he.
 
@@ -111,7 +110,7 @@ They shall be as nothing at all
 
 who do battle with you.
 
-13 For I am the L ORD, your God, ^isaiah-41-13
+13 For I am the LORD, your God, ^isaiah-41-13
 
 who grasp your right hand;
 
@@ -123,7 +122,7 @@ I will help you.
 
 you maggot Israel;
 
-I will help you—oracle of the L ORD;
+I will help you—oracle of the LORD;
 
 the Holy One of Israel is your redeemer.
 
@@ -139,7 +138,7 @@ to make the hills like chaff.
 
 the storm shall scatter them.
 
-But you shall rejoice in the L ORD;
+But you shall rejoice in the LORD;
 
 in the Holy One of Israel you shall glory.
 
@@ -147,7 +146,7 @@ in the Holy One of Israel you shall glory.
 
 their tongues are parched with thirst.
 
-I, the L ORD, will answer them;
+I, the LORD, will answer them;
 
 I, the God of Israel, will not forsake them.
 
@@ -171,11 +170,11 @@ together with the plane tree and the pine,
 
 observe and understand,
 
-That the hand of the L ORD has done this,
+That the hand of the LORD has done this,
 
 the Holy One of Israel has created it.
 
-21 Present your case, says the L ORD; ^isaiah-41-21
+21 Present your case, says the LORD; ^isaiah-41-21
 
 bring forward your arguments, says the King of Jacob.
 

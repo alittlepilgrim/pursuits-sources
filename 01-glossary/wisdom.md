@@ -1,15 +1,16 @@
 ---
-title: Wisdom
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: wisdom. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Wisdom
 aliases:
   - wisdom
   - Wisdom
 tags:
   - term/wisdom
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: wisdom. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Wisdom
@@ -20,6 +21,6 @@ A spiritual gift which enables one to know the purpose and plan of God; one of t
 
 ## Divine Intimacy Meditations
 
-- of the world is foolishness to God: 234,2;
-- — to judge things as God values them: 234,2.
-- 234. Infinite Wisdom
+- of the world is foolishness to God: [[234-infinite-wisdom#Meditation 2|234,2]];
+- — to judge things as God values them: [[234-infinite-wisdom#Meditation 2|234,2]].
+- [[234-infinite-wisdom|234. Infinite Wisdom]]

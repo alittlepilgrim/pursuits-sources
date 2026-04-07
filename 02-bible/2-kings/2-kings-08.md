@@ -1,29 +1,28 @@
 ---
-title: 2 Kings, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 8
+title: 2 Kings, Chapter 8
+url: https://bible.usccb.org/bible/2kings/8
 aliases:
   - 2 Kings, Chapter 8
   - 2-kings-08
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/8
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 8
 ---
 
 # 2 Kings, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **The Shunammite’s Return.**
 
-1 Elisha once said to the woman whose son he had restored to life: “Get ready! Leave with your household and live wherever you can, because the L ORD has decreed a seven-year famine which is coming upon the land.” ^2-kings-08-1
+1 Elisha once said to the woman whose son he had restored to life: “Get ready! Leave with your household and live wherever you can, because the LORD has decreed a seven-year famine which is coming upon the land.” ^2-kings-08-1
 
 2 The woman got ready and did as the man of God said, setting out with her household, and living in the land of the Philistines for seven years. ^2-kings-08-2
 
@@ -39,17 +38,17 @@ url: https://bible.usccb.org/bible/2kings/8
 
 7 Elisha came to Damascus at a time when Ben-hadad, king of Aram, lay sick. When he was told, “The man of God has come here,” ^2-kings-08-7
 
-8 the king said to Hazael, “Take a gift with you and go call on the man of God. Consult the L ORD through him, ‘Will I recover from this sickness?’” ^2-kings-08-8
+8 the king said to Hazael, “Take a gift with you and go call on the man of God. Consult the LORD through him, ‘Will I recover from this sickness?’” ^2-kings-08-8
 
 9 Hazael went to visit him, carrying a present, and with forty camel loads of the best goods of Damascus. On his arrival, he stood before Elisha and said, “Your son Ben-hadad, king of Aram, has sent me to you to ask, ‘Will I recover from my sickness?’” ^2-kings-08-9
 
-10 Elisha answered, “Go and tell him, ‘You will surely recover.’ But the L ORD has showed me that he will surely die.” ^2-kings-08-10
+10 Elisha answered, “Go and tell him, ‘You will surely recover.’ But the LORD has showed me that he will surely die.” ^2-kings-08-10
 
 11 Then he stared him down until he became ill at ease. The man of God wept, ^2-kings-08-11
 
 12 and Hazael asked, “Why are you weeping, my lord?” Elisha replied, “Because I know the evil that you will inflict upon the Israelites. You will burn their fortresses, you will slay their youth with the sword, you will dash their little children to pieces, you will rip open their pregnant women.” ^2-kings-08-12
 
-13 Hazael exclaimed, “How can your servant, a dog like me, do anything so important?” Elisha replied, “The L ORD has showed you to me as king over Aram.” ^2-kings-08-13
+13 Hazael exclaimed, “How can your servant, a dog like me, do anything so important?” Elisha replied, “The LORD has showed you to me as king over Aram.” ^2-kings-08-13
 
 14 Hazael left Elisha and returned to his master, who asked, “What did Elisha tell you?” Hazael replied, “He said, ‘You will surely recover.’” ^2-kings-08-14
 
@@ -61,9 +60,9 @@ url: https://bible.usccb.org/bible/2kings/8
 
 17 He was thirty-two years old when he became king, and he reigned eight years in Jerusalem. ^2-kings-08-17
 
-18 He walked in the way of the kings of Israel as the house of Ahab had done, since the daughter of Ahab was his wife; and he did what was evil in the L ORD’s sight. ^2-kings-08-18
+18 He walked in the way of the kings of Israel as the house of Ahab had done, since the daughter of Ahab was his wife; and he did what was evil in the LORD’s sight. ^2-kings-08-18
 
-19 Even so, the L ORD was unwilling to destroy Judah, for the sake of his servant David. For he had promised David that he would leave him a holding in the L ORD’s presence for all time. ^2-kings-08-19
+19 Even so, the LORD was unwilling to destroy Judah, for the sake of his servant David. For he had promised David that he would leave him a holding in the LORD’s presence for all time. ^2-kings-08-19
 
 20 During Joram’s reign, Edom revolted against the rule of Judah and installed a king of its own. ^2-kings-08-20
 

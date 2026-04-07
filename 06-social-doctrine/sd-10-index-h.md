@@ -1,26 +1,28 @@
 ---
-title: H - Social Doctrine of the Church Analytical Index
-created: 2025-11-12
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: H - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - H - Social Doctrine of the Church Analytical Index
   - sd-10-index-h
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
 ---
 
 # H - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Handicaps - Handicapped
+## Handicaps - Handicapped
 
 Persons with disabilities and rights, [[sd-03-part-I#^csdc-148|148]]
 
@@ -28,13 +30,13 @@ The dignity of children with handicaps, [[sd-04-part-II#^csdc-244|244]]
 
 The family and subjects with handicaps, [[sd-04-part-II#^csdc-246|246]]
 
-### Health Care
+## Health Care
 
 Multitudes without health care, [[sd-03-part-I#^csdc-182|182]]
 
 Health care, underdevelopment and poverty, [[sd-04-part-II#^csdc-447|447]]
 
-### Heart
+## Heart
 
 The whole man and heart, [[sd-02-intro#^csdc-13|13]]
 
@@ -88,7 +90,7 @@ God and the desires of the human heart, [[sd-06-conclusion#^csdc-576|576]]
 
 Morality and the heart of cultural issues, [[sd-06-conclusion#^csdc-577|577]]
 
-### Health
+## Health
 
 (see Also [[sd-10-index-o#Medicine|Medicine]])
 
@@ -108,9 +110,9 @@ Problems of health care and biotechnology, [[sd-04-part-II#^csdc-477|477]]
 
 Biotechnology disease and health, [[sd-04-part-II#^csdc-478|478]]
 
-### Holiday - See [[sd-10-index-f#Festive|Festive]]
+## Holiday - See [[sd-10-index-f#Festive|Festive]]
 
-### Holy - Holiness
+## Holy - Holiness
 
 (see Also [[sd-10-index-o#Sanctification|Sanctification]])
 
@@ -130,7 +132,7 @@ Lived Christianity and a life of holiness, [[sd-05-part-III#^csdc-530|530]]
 
 Consecrated persons and the value of holiness, [[sd-05-part-III#^csdc-540|540]]
 
-### Holy See
+## Holy See
 
 The Holy See and the Convention of the Rights of Children, [[sd-04-part-II#^csdc-245|245]]*
 
@@ -140,11 +142,11 @@ The diplomatic service of the Holy See, [[sd-04-part-II#^csdc-445|445]]
 
 The Holy See and juridical instruments on weapons, [[sd-04-part-II#^csdc-509|509]]*
 
-### Home
+## Home
 
 Civilian populations taken from their homes, [[sd-04-part-II#^csdc-504|504]]
 
-### Hope
+## Hope
 
 Hope in Christ, goal of history, [[sd-02-intro#^csdc-1|1]]
 
@@ -196,7 +198,7 @@ Martyrs of truth, witnesses of hope, [[sd-05-part-III#^csdc-570|570]]
 
 Christian commitment in the world and hope, [[sd-06-conclusion#^csdc-578|578]], [[sd-06-conclusion#^csdc-579|579]]
 
-### Housing
+## Housing
 
 Housing, an essential personal service, [[sd-03-part-I#^csdc-166|166]]
 
@@ -206,7 +208,7 @@ Decent housing, [[sd-04-part-II#^csdc-482|482]]
 
 Lack of housing, [[sd-05-part-III#^csdc-535|535]]
 
-### Humanism
+## Humanism
 
 Integral and solidary humanism, [[sd-02-intro#^csdc-6|6]], [[sd-02-intro#^csdc-7|7]]
 
@@ -226,7 +228,7 @@ War, failure of every humanism, [[sd-04-part-II#^csdc-497|497]]
 
 The laity and characteristics of action proper to atheistic humanism, [[sd-05-part-III#^csdc-544|544]]
 
-### Humanity
+## Humanity
 
 New law of love and humanity, [[sd-02-intro#^csdc-3|3]]
 
@@ -372,7 +374,7 @@ Ethical dimension of culture and humanity, [[sd-05-part-III#^csdc-556|556]]
 
 Humanity and civilization of love, [[sd-06-conclusion#^csdc-582|582]]
 
-### Hunger
+## Hunger
 
 The Church, love and hunger, [[sd-02-intro#^csdc-5|5]]
 

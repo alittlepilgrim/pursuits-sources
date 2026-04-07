@@ -1,25 +1,24 @@
 ---
-title: Micah, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Micah, Chapter 7
+title: Micah, Chapter 7
+url: https://bible.usccb.org/bible/micah/7
 aliases:
   - micah-07
   - Micah, Chapter 7
 tags:
+  - bible/chapter
   - bible/micah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/micah/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Micah, Chapter 7
 ---
 
 # Micah, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 1 Woe is me! I am like the one who gathers summer fruit, ^micah-07-1
 
@@ -71,9 +70,9 @@ The daughter-in-law against her mother-in-law,
 
 and your enemies are members of your household.
 
-## Iv. Confidence in GOD’S Future
+# Iv. Confidence in GOD’S Future
 
-7 But as for me, I will look to the L ORD, ^micah-07-7
+7 But as for me, I will look to the LORD, ^micah-07-7
 
 I will wait for God my savior;
 
@@ -83,9 +82,9 @@ my God will hear me!
 
 though I have fallen, I will arise;
 
-though I sit in darkness, the L ORD is my light.
+though I sit in darkness, the LORD is my light.
 
-9 I will endure the wrath of the L ORD ^micah-07-9
+9 I will endure the wrath of the LORD ^micah-07-9
 
 because I have sinned against him,
 
@@ -103,7 +102,7 @@ shame shall cover her:
 
 She who said to me,
 
-“Where is the L ORD, your God?”
+“Where is the LORD, your God?”
 
 My eyes shall see her downfall;
 
@@ -159,7 +158,7 @@ like crawling things on the ground;
 
 They will come quaking from their strongholds;
 
-they will tremble in fear of you, the L ORD, our God.
+they will tremble in fear of you, the LORD, our God.
 
 18 Who is a God like you, who removes guilt ^micah-07-18
 

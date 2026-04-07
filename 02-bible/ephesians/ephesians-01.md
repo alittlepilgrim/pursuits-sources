@@ -1,25 +1,24 @@
 ---
-title: Ephesians, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ephesians, Chapter 1
+title: Ephesians, Chapter 1
+url: https://bible.usccb.org/bible/ephesians/1
 aliases:
   - ephesians-01
   - Ephesians, Chapter 1
 tags:
+  - bible/chapter
   - bible/ephesians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/ephesians/1
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ephesians, Chapter 1
 ---
 
 # Ephesians, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/ephesians/1
 
 14 which is the first installment of our inheritance toward redemption as God’s possession, to the praise of his glory. ^ephesians-01-14
 
-## Ii. Unity of the Church in Christ
+# Ii. Unity of the Church in Christ
 
 **The Church as Christ’s Body.**
 

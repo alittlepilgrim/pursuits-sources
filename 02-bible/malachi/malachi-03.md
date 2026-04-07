@@ -1,26 +1,26 @@
 ---
-title: Malachi, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Malachi, Chapter 3
+title: Malachi, Chapter 3
+url: https://bible.usccb.org/bible/malachi/3
 aliases:
   - malachi-03
   - Malachi, Chapter 3
 tags:
+  - bible/chapter
   - bible/malachi
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-url: https://bible.usccb.org/bible/malachi/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Malachi, Chapter 3
 ---
 
 # Malachi, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### V. the Messenger of the Covenant
+### V. the Messenger of the Covenant
 
 1 Now I am sending my messenger— ^malachi-03-1
 
@@ -30,7 +30,7 @@ And the lord whom you seek will come suddenly to his temple;
 
 The messenger of the covenant whom you desire—
 
-see, he is coming! says the L ORD of hosts.
+see, he is coming! says the LORD of hosts.
 
 2 But who can endure the day of his coming? ^malachi-03-2
 
@@ -46,11 +46,11 @@ and he will purify the Levites,
 
 Refining them like gold or silver,
 
-that they may bring offerings to the L ORD in righteousness.
+that they may bring offerings to the LORD in righteousness.
 
 4 Then the offering of Judah and Jerusalem ^malachi-03-4
 
-will please the L ORD,
+will please the LORD,
 
 as in ancient days, as in years gone by.
 
@@ -66,11 +66,11 @@ Oppress a widow or an orphan,
 
 or turn aside a resident alien,
 
-without fearing me, says the L ORD of hosts.
+without fearing me, says the LORD of hosts.
 
-#### Vi. Gifts for God, Blessings for the People
+### Vi. Gifts for God, Blessings for the People
 
-6 For I, the L ORD, do not change, ^malachi-03-6
+6 For I, the LORD, do not change, ^malachi-03-6
 
 and you, sons of Jacob, do not cease to be.
 
@@ -80,7 +80,7 @@ from my statutes and have not kept them.
 
 Return to me, that I may return to you,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 But you say, “Why should we return?”
 
@@ -100,7 +100,7 @@ into the storehouse,
 
 That there may be food in my house.
 
-Put me to the test, says the L ORD of hosts,
+Put me to the test, says the LORD of hosts,
 
 And see if I do not open the floodgates of heaven for you,
 
@@ -112,17 +112,17 @@ so that it will not destroy your crops,
 
 And the vine in the field will not be barren,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 12 All the nations will call you blessed, ^malachi-03-12
 
 for you will be a delightful land,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
-#### Vii. the Need to Serve God
+### Vii. the Need to Serve God
 
-13 Your words are too much for me, says the L ORD. ^malachi-03-13
+13 Your words are too much for me, says the LORD. ^malachi-03-13
 
 You ask, “What have we spoken against you?”
 
@@ -132,7 +132,7 @@ what do we gain by observing God’s requirements,
 
 And by going about as mourners
 
-before the L ORD of hosts?
+before the LORD of hosts?
 
 15 But we call the arrogant blessed; ^malachi-03-15
 
@@ -140,15 +140,15 @@ for evildoers not only prosper
 
 but even test God and escape.”
 
-16 Then those who fear the L ORD spoke with one another, ^malachi-03-16
+16 Then those who fear the LORD spoke with one another, ^malachi-03-16
 
-and the L ORD listened attentively;
+and the LORD listened attentively;
 
 A record book was written before him
 
-of those who fear the L ORD and esteem his name.
+of those who fear the LORD and esteem his name.
 
-17 They shall be mine, says the L ORD of hosts, ^malachi-03-17
+17 They shall be mine, says the LORD of hosts, ^malachi-03-17
 
 my own special possession, on the day when I take action.
 
@@ -172,7 +172,7 @@ And the day that is coming will set them on fire,
 
 leaving them neither root nor branch,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 20 But for you who fear my name, the sun of justice ^malachi-03-20
 
@@ -184,9 +184,9 @@ And you will go out leaping like calves from the stall
 
 They will become dust under the soles of your feet,
 
-on the day when I take action, says the L ORD of hosts.
+on the day when I take action, says the LORD of hosts.
 
-#### Viii. Moses and Elijah
+### Viii. Moses and Elijah
 
 22 Remember the law of Moses my servant, ^malachi-03-22
 
@@ -200,7 +200,7 @@ for all Israel.
 
 Elijah the prophet,
 
-Before the day of the L ORD comes,
+Before the day of the LORD comes,
 
 the great and terrible day;
 

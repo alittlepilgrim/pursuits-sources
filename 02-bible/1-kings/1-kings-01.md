@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 1
+title: 1 Kings, Chapter 1
+url: https://bible.usccb.org/bible/1kings/1
 aliases:
   - 1 Kings, Chapter 1
   - 1-kings-01
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 1
 ---
 
 # 1 Kings, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **David’s Old Age.**
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/1kings/1
 
 16 Bathsheba bowed in homage to the king. The king said to her, “What do you wish?” ^1-kings-01-16
 
-17 She answered him: “My lord, you swore to your servant by the L ORD, your God, ‘Solomon your son will be king after me; it is he who shall sit upon my throne.’ ^1-kings-01-17
+17 She answered him: “My lord, you swore to your servant by the LORD, your God, ‘Solomon your son will be king after me; it is he who shall sit upon my throne.’ ^1-kings-01-17
 
 18 But now Adonijah has become king, and you, my lord king, do not know it. ^1-kings-01-18
 
@@ -83,9 +82,9 @@ url: https://bible.usccb.org/bible/1kings/1
 
 28 King David answered, “Call Bathsheba here.” When she entered the king’s presence and stood before him, ^1-kings-01-28
 
-29 the king swore, “As the L ORD lives, who has redeemed my life from all distress, ^1-kings-01-29
+29 the king swore, “As the LORD lives, who has redeemed my life from all distress, ^1-kings-01-29
 
-30 this very day I will fulfill the oath I swore to you by the L ORD, the God of Israel, ‘Your son Solomon shall be king after me and shall sit upon my throne in my place.’” ^1-kings-01-30
+30 this very day I will fulfill the oath I swore to you by the LORD, the God of Israel, ‘Your son Solomon shall be king after me and shall sit upon my throne in my place.’” ^1-kings-01-30
 
 31 Bowing to the floor in homage to the king, Bathsheba said, “May my lord, King David, live forever!” ^1-kings-01-31
 
@@ -97,9 +96,9 @@ url: https://bible.usccb.org/bible/1kings/1
 
 35 When you come back up with him, he is to go in and sit upon my throne. It is he that shall be king in my place: him I designate ruler of Israel and of Judah.” ^1-kings-01-35
 
-36 Benaiah, son of Jehoiada, answered the king: “So be it! May the L ORD, the God of my lord the king, so decree! ^1-kings-01-36
+36 Benaiah, son of Jehoiada, answered the king: “So be it! May the LORD, the God of my lord the king, so decree! ^1-kings-01-36
 
-37 As the L ORD has been with my lord the king, so may he be with Solomon, and make his throne even greater than that of my lord, King David!” ^1-kings-01-37
+37 As the LORD has been with my lord the king, so may he be with Solomon, and make his throne even greater than that of my lord, King David!” ^1-kings-01-37
 
 38 So Zadok the priest, Nathan the prophet, Benaiah, son of Jehoiada, and the Cherethites and Pelethites went down, and mounting Solomon on King David’s mule, escorted him to Gihon. ^1-kings-01-38
 
@@ -123,7 +122,7 @@ url: https://bible.usccb.org/bible/1kings/1
 
 47 and moreover the king’s servants have come to pay their respects to our lord, King David, saying, ‘May your God make Solomon’s name more famous than your name, his throne greater than your throne!’ And the king in his bed did homage. ^1-kings-01-47
 
-48 This is what the king said: ‘Blessed be the L ORD, the God of Israel, who has this day provided one to sit upon my throne, so that I see it with my own eyes.’” ^1-kings-01-48
+48 This is what the king said: ‘Blessed be the LORD, the God of Israel, who has this day provided one to sit upon my throne, so that I see it with my own eyes.’” ^1-kings-01-48
 
 49 All the guests of Adonijah got up trembling, and went each their way, ^1-kings-01-49
 

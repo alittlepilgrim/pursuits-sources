@@ -1,25 +1,24 @@
 ---
-title: Deuteronomy, Chapter 9
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 9
+title: Deuteronomy, Chapter 9
+url: https://bible.usccb.org/bible/deuteronomy/9
 aliases:
   - deuteronomy-09
   - Deuteronomy, Chapter 9
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 9
 ---
 
 # Deuteronomy, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Unmerited Success.**
 
@@ -27,59 +26,59 @@ url: https://bible.usccb.org/bible/deuteronomy/9
 
 2 the Anakim, a people great and tall. You yourselves know of them and have heard it said of them, “Who can stand up against the Anakim?” ^deuteronomy-09-2
 
-3 Know, then, today that it is the L ORD, your God, who will cross over before you as a consuming fire; he it is who will destroy them and subdue them before you, so that you can dispossess and remove them quickly, as the L ORD promised you. ^deuteronomy-09-3
+3 Know, then, today that it is the LORD, your God, who will cross over before you as a consuming fire; he it is who will destroy them and subdue them before you, so that you can dispossess and remove them quickly, as the LORD promised you. ^deuteronomy-09-3
 
-4 After the L ORD, your God, has driven them out of your way, do not say in your heart, “It is because of my justice the L ORD has brought me in to possess this land, and because of the wickedness of these nations the L ORD is dispossessing them before me.” ^deuteronomy-09-4
+4 After the LORD, your God, has driven them out of your way, do not say in your heart, “It is because of my justice the LORD has brought me in to possess this land, and because of the wickedness of these nations the LORD is dispossessing them before me.” ^deuteronomy-09-4
 
-5 No, it is not because of your justice or the integrity of your heart that you are going in to take possession of their land; but it is because of their wickedness that the L ORD, your God, is dispossessing these nations before you and in order to fulfill the promise he made on oath to your ancestors, [[abraham|Abraham]], Isaac, and Jacob. ^deuteronomy-09-5
+5 No, it is not because of your justice or the integrity of your heart that you are going in to take possession of their land; but it is because of their wickedness that the LORD, your God, is dispossessing these nations before you and in order to fulfill the promise he made on oath to your ancestors, [[abraham|Abraham]], Isaac, and Jacob. ^deuteronomy-09-5
 
-6 Know this, therefore: it is not because of your justice that the L ORD, your God, is giving you this good land to possess, for you are a stiff-necked people. ^deuteronomy-09-6
+6 Know this, therefore: it is not because of your justice that the LORD, your God, is giving you this good land to possess, for you are a stiff-necked people. ^deuteronomy-09-6
 
 **The Golden Calf.**
 
-7 Remember and do not forget how you angered the L ORD, your God, in the wilderness. From the day you left the land of Egypt until you came to this place, you have been rebellious toward the L ORD. ^deuteronomy-09-7
+7 Remember and do not forget how you angered the LORD, your God, in the wilderness. From the day you left the land of Egypt until you came to this place, you have been rebellious toward the LORD. ^deuteronomy-09-7
 
-8 At Horeb you so provoked the L ORD that he was angry enough to destroy you, ^deuteronomy-09-8
+8 At Horeb you so provoked the LORD that he was angry enough to destroy you, ^deuteronomy-09-8
 
-9 when I had gone up the mountain to receive the stone tablets of the covenant which the L ORD made with you. Meanwhile I stayed on the mountain forty days and forty nights; I ate no food and drank no water. ^deuteronomy-09-9
+9 when I had gone up the mountain to receive the stone tablets of the covenant which the LORD made with you. Meanwhile I stayed on the mountain forty days and forty nights; I ate no food and drank no water. ^deuteronomy-09-9
 
-10 The L ORD gave me the two stone tablets inscribed, by God’s own finger, with a copy of all the words that the L ORD spoke to you on the mountain from the midst of the fire on the day of the assembly. ^deuteronomy-09-10
+10 The LORD gave me the two stone tablets inscribed, by God’s own finger, with a copy of all the words that the LORD spoke to you on the mountain from the midst of the fire on the day of the assembly. ^deuteronomy-09-10
 
-11 Then, at the end of the forty days and forty nights, when the L ORD had given me the two stone tablets, the tablets of the covenant, ^deuteronomy-09-11
+11 Then, at the end of the forty days and forty nights, when the LORD had given me the two stone tablets, the tablets of the covenant, ^deuteronomy-09-11
 
-12 the L ORD said to me, Go down from here now, quickly, for your people whom you have brought out of Egypt are acting corruptly; they have already turned aside from the way I commanded them and have made for themselves a molten idol. ^deuteronomy-09-12
+12 the LORD said to me, Go down from here now, quickly, for your people whom you have brought out of Egypt are acting corruptly; they have already turned aside from the way I commanded them and have made for themselves a molten idol. ^deuteronomy-09-12
 
-13 I have seen now how stiff-necked this people is, the L ORD said to me. ^deuteronomy-09-13
+13 I have seen now how stiff-necked this people is, the LORD said to me. ^deuteronomy-09-13
 
 14 Let me be, that I may destroy them and blot out their name from under the heavens. I will then make of you a nation mightier and greater than they. ^deuteronomy-09-14
 
 15 When I had come down again from the blazing, fiery mountain, with the two tablets of the covenant in both my hands, ^deuteronomy-09-15
 
-16 I saw how you had sinned against the L ORD, your God, by making for yourselves a molten calf. You had already turned aside from the way which the L ORD had commanded you. ^deuteronomy-09-16
+16 I saw how you had sinned against the LORD, your God, by making for yourselves a molten calf. You had already turned aside from the way which the LORD had commanded you. ^deuteronomy-09-16
 
 17 I took hold of the two tablets and with both hands cast them from me and broke them before your eyes. ^deuteronomy-09-17
 
-18 Then, as before, I lay prostrate before the L ORD for forty days and forty nights; I ate no food, I drank no water, because of all the sin you had committed in the sight of the L ORD, doing wrong and provoking him. ^deuteronomy-09-18
+18 Then, as before, I lay prostrate before the LORD for forty days and forty nights; I ate no food, I drank no water, because of all the sin you had committed in the sight of the LORD, doing wrong and provoking him. ^deuteronomy-09-18
 
-19 For I dreaded the fierce anger of the L ORD against you: his wrath would destroy you. Yet once again the L ORD listened to me. ^deuteronomy-09-19
+19 For I dreaded the fierce anger of the LORD against you: his wrath would destroy you. Yet once again the LORD listened to me. ^deuteronomy-09-19
 
-20 With Aaron, too, the L ORD was deeply angry, and would have destroyed him; but I prayed for Aaron also at that time. ^deuteronomy-09-20
+20 With Aaron, too, the LORD was deeply angry, and would have destroyed him; but I prayed for Aaron also at that time. ^deuteronomy-09-20
 
 21 Then, taking the calf, the sinful object you had made, I burnt it and ground it down to powder as fine as dust, which I threw into the wadi that went down the mountainside. ^deuteronomy-09-21
 
-22 At Taberah, at Massah, and at Kibroth-hattaavah likewise, you enraged the L ORD. ^deuteronomy-09-22
+22 At Taberah, at Massah, and at Kibroth-hattaavah likewise, you enraged the LORD. ^deuteronomy-09-22
 
-23 And when the L ORD sent you up from Kadesh-barnea saying, Go up and take possession of the land I have given you, you rebelled against this command of the L ORD, your God, and would not believe him or listen to his voice. ^deuteronomy-09-23
+23 And when the LORD sent you up from Kadesh-barnea saying, Go up and take possession of the land I have given you, you rebelled against this command of the LORD, your God, and would not believe him or listen to his voice. ^deuteronomy-09-23
 
-24 You have been rebels against the L ORD from the day I first knew you. ^deuteronomy-09-24
+24 You have been rebels against the LORD from the day I first knew you. ^deuteronomy-09-24
 
-25 Those forty days, then, and forty nights, I lay prostrate before the L ORD, because he had threatened to destroy you. ^deuteronomy-09-25
+25 Those forty days, then, and forty nights, I lay prostrate before the LORD, because he had threatened to destroy you. ^deuteronomy-09-25
 
 26 And I prayed to the Lord and said: O Lord G OD, do not destroy your people, the heritage you redeemed in your greatness and have brought out of Egypt with your strong hand. ^deuteronomy-09-26
 
 27 Remember your servants, [[abraham|Abraham]], Isaac, and Jacob. Do not look upon the stubbornness of this people nor upon their wickedness and sin, ^deuteronomy-09-27
 
-28 lest the land from which you have brought us say, “The L ORD was not able to bring them into the land he promised them, and out of hatred for them, he brought them out to let them die in the wilderness.” ^deuteronomy-09-28
+28 lest the land from which you have brought us say, “The LORD was not able to bring them into the land he promised them, and out of hatred for them, he brought them out to let them die in the wilderness.” ^deuteronomy-09-28
 
 29 They are your people and your heritage, whom you have brought out by your great power and with your outstretched arm. ^deuteronomy-09-29
 

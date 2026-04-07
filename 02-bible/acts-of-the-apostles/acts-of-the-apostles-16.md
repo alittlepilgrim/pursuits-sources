@@ -1,25 +1,24 @@
 ---
-title: Acts of the Apostles, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Acts of the Apostles, Chapter 16
+title: Acts of the Apostles, Chapter 16
+url: https://bible.usccb.org/bible/acts/16
 aliases:
   - Acts of the Apostles, Chapter 16
   - acts-of-the-apostles-16
 tags:
   - bible/acts-of-the-apostles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/acts/16
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Acts of the Apostles, Chapter 16
 ---
 
 # Acts of the Apostles, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **Paul in Lycaonia: Timothy.**
 

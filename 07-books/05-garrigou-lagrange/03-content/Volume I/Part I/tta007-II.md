@@ -1,43 +1,45 @@
 ---
-title: Article II - the Theological Virtues
-created: 2026-03-24
-modified: 2026-04-02
 type: book
-publish: true
+title: Article II – The Theological Virtues – The Three Ages of the Interior Life
+author: Reginald Garrigou-Lagrange
 aliases:
-  - "Ch 3: the Spiritual Organism"
-  - Article II - the Theological Virtues
+  - "Chapter 3 – The Spiritual Organism"
+  - Article II – The Theological Virtues
   - GLTTA-1-052
   - GLTTA-1-053
   - GLTTA-1-054
   - GLTTA-1-055
   - GLTTA-1-056
   - tta007-II
-author: Reginald Garrigou-Lagrange
-book_author: Reginald Garrigou-Lagrange
-book_chapter: 3
-book_chapter_part: 1
-book_part: 1
+tags:
+  - author/garrigou-lagrange
+  - type/book
 book_volume: 1
+book_part: 1
+book_chapter: 3
+created: 2026-03-24
+modified: 2026-04-04
+publish: true
+book_chapter_part: 1
 ---
 
- | 
+[Previous](tta007.md) | [Next](tta008.md)
 
 > [!NOTE] Part I
 > The Sources of the Interior Life and Its End (cont)
-> Ch 3: the Spiritual Organism
+> Chapter 3 – The Spiritual Organism
 
-# Article II - the Theological Virtues ^tta007-bk2
+# Article II – The Theological Virtues ^tta007-bk2
 
 The theological virtues are infused virtues which have for their object God Himself, our supernatural last end. This is why they are called theological. By contrast, the moral virtues have for their object the supernatural means proportioned to our last end. Thus prudence directs our acts to this end; religion makes us render to God the worship that is due Him; justice makes us give to everyone what we owe him; fortitude and temperance regulate the sensible part of our soul to prevent it from going astray and to make it cooperate, according to its manner, in our progress toward God.(1)
 
 Among the theological virtues, infused faith, which makes us believe all that God has revealed because He is Truth itself, is like a higher spiritual sense which allows us to hear a divine harmony that is inaccessible to every other means of knowing. Infused faith is like a higher sense of hearing for the audition of a spiritual symphony which has God for its composer. This explains why there is an immense difference between the purely historical study of the Gospel and of the miracles which confirm it and the supernatural act of faith by which we believe in the Gospel as in the word of God. A very learned man who seeks the truth sincerely can make a historical and critical study of the Gospel and of the miracles which confirm it without as yet coming to the point where he believes. He will believe supernaturally only after receiving the grace of faith, which will introduce him into a higher world, superior even to the natural life ofthe angels. \"Faith\...  is the gift of God,\" says St. Paul.(2) It is the basis of justification, for it makes us know the supernatural end toward which we must tend.(3) The Church has defined against the Semi-Pelagians that even the beginning of faith is a gift of grace.(4) All the great theologians have shown that infused faith is essentially supernatural, of a supernatural character very superior to that of the sensible miracle and also to that of prophecy which announces a contingent future in the natural order, such as the end of a war. Faith makes us, in fact, adhere supernaturally and infallibly to what God reveals to us about His intimate life, according as the Church, which is charged with preserving revelation, proposes it to us.
 
-###### *page 53*
+## *page 53*
 
 Infused faith belongs thus to an order immensely superior to the historical and critical study of the Gospel. As Lacordaire rightly sayS: \"A scholar may study Catholic doctrine, not reject it bitterly, and may even say repeatedly: 'You are blessed to have faith; I should like to have it, but I cannot believe.' And he tells the truth:he wishes and he cannot (as yet), for study and good faith do not always conquer the truth, so that it may be clear that rational certitude is not the first certitude on which Catholic doctrine rests. This scholar therefore knows Catholic doctrine; he admits its facts; he feels its power; he agrees that there existed a man named Jesus Christ, who lived and died in a prodigious manner. He is touched by the blood of the martyrs, by the constitution of the Church; he will willingly say that it is the greatest phenomenon that has passed over the world. He will almost say that it is true.
 
-###### *page 54*
+## *page 54*
 
 And yet he does not conclude; he feels himself oppressed by truth, as one is in a dream where one sees without seeing. The day comes, however, when this scholar drops on his knees; feeling the wretchedness of man, he lifts his hands to heaven and exclaims: 'Out of the depths I have cried to Thee, a Lord!' At this moment something takes place in him, scales drop from his eyes, a mystery is accomplished, and he is changed. He is a man, meek and humble of heart; he can die, he has conquered the truth.\" (6)
 
@@ -45,7 +47,7 @@ If acquired faith, born of the historical examination of the Gospel and of the m
 
 Infused faith is like a faculty of supernatural audition, like a higher musical sense, which permits us to hear the spiritual harmonies of the kingdom of heaven, to hear, in a way, the voice of God through the prophets and His Son before we are admitted to see Him face to face. Between the unbeliever, who studies the Gospel, and the believer, there is a difference similar to that which exists between two persons who are listening to a Beethoven symphony, one of whom has a musical ear and the other has not. Both hear all the notes of the symphony, but one alone grasps its meaning and its soul. Similarly, only the believer adheres supernaturally to the Gospel as to the supernatural word of God; and he adheres to it even though untutored, while the learned man with all his means of criticism cannot, without infused faith, adhere to it in this manner. \"He that believeth in the Son of God, hath the testimony of God in himself.\" (8)\
 
-###### *page 55*
+## *page 55*
 
 This is what prompted Lacordaire to say: \"What takes place in us when we believe is a phenomenon of intimate and superhuman light. I do not say that exterior things do not act on us as rational motives of certitude; but the very act of this supreme certitude, which I speak of, affects us directly like a luminous phenomenon (infused light of faith); I would even add, like a transluminous phenomenon. . . . We are affected by a transluminous light. . . .
 
@@ -55,7 +57,7 @@ Fifty years ago, a man who did not yet know radio would have been surprised to h
 
 To tend effectively toward this supernatural end and to reach it, man has received two helps, hope and charity, which are like two wings. Without them he could make progress only in the direction indicated by reason; with them he flies in the direction pointed out by faith.
 
-###### *page 56*
+## *page 56*
 
 Just as our intellect cannot know our supernatural end without the infused light of faith, so our will cannot tend toward it unless its powers are augmented, increased more than tenfold, raised to a higher order. For this the will needs a supernatural love and a new impulse.
 
@@ -69,7 +71,7 @@ Of these three theological virtues, charity is the'highest, and together with sa
 
 Such are the superior functions of the spiritual organism: the three theological virtues which grow together, and with them the infused moral virtues that accompany them.
 
-#### *Footnotes*
+# *Footnotes*
 
 1\. See Ia IIae, q.62, a.1 f.
 

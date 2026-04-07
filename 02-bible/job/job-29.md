@@ -1,27 +1,26 @@
 ---
-title: Job, Chapter 29
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 29
+title: Job, Chapter 29
+url: https://bible.usccb.org/bible/job/29
 aliases:
   - job-29
   - Job, Chapter 29
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/29
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 29
 ---
 
 # Job, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
-## Vi. Job's Final Summary of His Cause
+# Vi. Job's Final Summary of His Cause
 
 1 Job took up his theme again and said: ^job-29-1
 

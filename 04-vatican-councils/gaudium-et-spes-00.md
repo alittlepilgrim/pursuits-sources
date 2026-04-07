@@ -1,19 +1,19 @@
 ---
-title: Gaudium Et Spes
-created: 2025-08-04
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: PASTORAL CONSTITUTION  ON THE CHURCH IN THE MODERN WORLD
+title: Gaudium Et Spes
+author: Catholic Church
 aliases:
   - constitutions
   - Gaudium Et Spes
   - gaudium-et-spes-00
 tags:
+  - graph/bible-v2
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: PASTORAL CONSTITUTION  ON THE CHURCH IN THE MODERN WORLD
 abbreviation: gs
-author: Catholic Church
 ---
 
 PASTORAL CONSTITUTION ON THE CHURCH IN THE MODERN WORLD

@@ -1,20 +1,22 @@
 ---
-title: Spe Salvi (November 30, 2007)
-created: 2025-10-30
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Spe salvi, Encyclical of Pope Benedict XVI, Christian faith, christian hope, redemption, salvation
-aliases:
-  - Spe salvi (November 30, 2007)
-  - Spe Salvi (November 30, 2007)
-tags:
-  - vault-admin/clippings
-abbreviation: benxvi-ss
+title: Spe Salvi
 author:
   - Pope Benedict XVI
 source: vatican.va
 url: https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20071130_spe-salvi.html
+aliases:
+  - Spe salvi (November 30, 2007)
+  - Spe Salvi (November 30, 2007)
+tags:
+  - author/pope-benedict-XVI
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-10-30
+modified: 2026-04-06
+publish: true
+description: Spe salvi, Encyclical of Pope Benedict XVI, Christian faith, christian hope, redemption, salvation
+abbreviation: benxvi-ss
 ---
 
 # Spe Salvi (November 30, 2007)
@@ -41,7 +43,7 @@ Source: [](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/
 
 ## Introduction
 
-1\. “*SPE SALVI facti sumus*”—in hope we were saved, says Saint Paul to the Romans, and likewise to us (). According to the Christian faith, “redemption”—salvation—is not simply a given. Redemption is offered to us in the sense that we have been given hope, trustworthy hope, by virtue of which we can face our present: the present, even if it is arduous, can be lived and accepted if it leads towards a goal, if we can be sure of this goal, and if this goal is great enough to justify the effort of the journey. Now the question immediately arises: what sort of hope could ever justify the statement that, on the basis of that hope and simply because it exists, we are redeemed? And what sort of certainty is involved here? ^benxvi-ss-1
+1\. “*SPE SALVI facti sumus*”—in hope we were saved, says Saint Paul to the Romans, and likewise to us ([*Rom* 8:24](http://www.vatican.va/archive/ENG0839/__PYW.HTM)). According to the Christian faith, “redemption”—salvation—is not simply a given. Redemption is offered to us in the sense that we have been given hope, trustworthy hope, by virtue of which we can face our present: the present, even if it is arduous, can be lived and accepted if it leads towards a goal, if we can be sure of this goal, and if this goal is great enough to justify the effort of the journey. Now the question immediately arises: what sort of hope could ever justify the statement that, on the basis of that hope and simply because it exists, we are redeemed? And what sort of certainty is involved here? ^benxvi-ss-1
 
 ## Faith Is Hope
 
@@ -183,7 +185,7 @@ And however much “for all” may be part of the great hope—since I cannot be
 
 [2] Cf. *Dogmatic Poems,* V, 53-64: *PG* 37, 428-429.
 
-[3] Cf. .
+[3] Cf. [*Catechism of the Catholic Church*, 1817-1821](http://www.vatican.va/archive/ENG0015/__P66.HTM).
 
 [4] *Summa Theologiae,* II-II ae, q.4, a.1.
 
@@ -195,7 +197,7 @@ And however much “for all” may be part of the great hope—since I cannot be
 
 [8] Cf. Ep. 130 *Ad Probam* 14, 25-15, 28: *CSEL* 44, 68-73.
 
-[9] Cf.**.
+[9] Cf.*[Catechism of the Catholic Church](http://www.vatican.va/archive/ENG0015/__P2M.HTM)*[, 1025](http://www.vatican.va/archive/ENG0015/__P2M.HTM).
 
 [10] Jean Giono, *Les vraies richesses*, Paris 1936, Preface, quoted in Henri de Lubac, *Catholicisme. Aspects sociaux du dogme*, Paris 1983, p. VII.
 
@@ -227,7 +229,7 @@ And however much “for all” may be part of the great hope—since I cannot be
 
 [24] *Conf.* X 43, 69: *CSEL* 33, 279.
 
-[25] Cf.**.
+[25] Cf.*[Catechism of the Catholic Church](http://www.vatican.va/archive/ENG0015/__P9D.HTM)*[, 2657](http://www.vatican.va/archive/ENG0015/__P9D.HTM).
 
 [26] Cf. *In 1 Ioannis* 4, 6: *PL* 35, 2008f.
 
@@ -243,20 +245,20 @@ And however much “for all” may be part of the great hope—since I cannot be
 
 [32] DS 806.
 
-[33] Cf. *Catechism of the Catholic Church*,  - .
+[33] Cf. *Catechism of the Catholic Church*, [988](http://www.vatican.va/archive/ENG0015/__P2G.HTM) - [1004](http://www.vatican.va/archive/ENG0015/__P2H.HTM).
 
-[34] Cf. .
+[34] Cf. [*ibid*., 1040](http://www.vatican.va/archive/ENG0015/__P2P.HTM).
 
 [35] Cf. *Tractatus super Psalmos*, *Ps* 127, 1-3: *CSEL* 22, 628-630.
 
 [36] *Gorgias* 525a-526c.
 
-[37] Cf. .
+[37] Cf. [*Catechism of the Catholic Church*, 1033-1037](http://www.vatican.va/archive/ENG0015/__P2O.HTM).
 
-[38] Cf. .
+[38] Cf. [*ibid*., 1023-1029](http://www.vatican.va/archive/ENG0015/__P2M.HTM).
 
-[39] Cf. .
+[39] Cf. [*Catechism of the Catholic Church*, 1030-1032](http://www.vatican.va/archive/ENG0015/__P2N.HTM).
 
-[40] Cf.**.
+[40] Cf.*[Catechism of the Catholic Church](http://www.vatican.va/archive/ENG0015/__P2N.HTM)*[, 1032](http://www.vatican.va/archive/ENG0015/__P2N.HTM).
 
 © Copyright 2007 - Libreria Editrice Vaticana

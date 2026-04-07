@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 9
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 9
+title: Judges, Chapter 9
+url: https://bible.usccb.org/bible/judges/9
 aliases:
   - judges-09
   - Judges, Chapter 9
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 9
 ---
 
 # Judges, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 1 Abimelech, son of Jerubbaal, went to his mother’s kin in Shechem, and said to them and to the whole clan to which his mother’s family belonged, ^judges-09-1
 

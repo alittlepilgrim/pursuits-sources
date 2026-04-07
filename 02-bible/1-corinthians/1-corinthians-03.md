@@ -1,25 +1,24 @@
 ---
-title: 1 Corinthians, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Corinthians, Chapter 3
+title: 1 Corinthians, Chapter 3
+url: https://bible.usccb.org/bible/1corinthians/3
 aliases:
   - 1 Corinthians, Chapter 3
   - 1-corinthians-03
 tags:
   - bible/1-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1corinthians/3
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Corinthians, Chapter 3
 ---
 
 # 1 Corinthians, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 Brothers, I could not talk to you as spiritual people, but as fleshly people, as infants in Christ. ^1-corinthians-03-1
 

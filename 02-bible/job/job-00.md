@@ -1,20 +1,20 @@
 ---
-title: Job, the Book of Job
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: job-the book of job
+title: Job, the Book of Job
+url: https://bible.usccb.org/bible/job/0
 aliases:
   - job-00
   - Job, the Book of Job
   - Job, The Book of Job
 tags:
+  - bible/book
   - bible/job
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/job/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: job-the book of job
 ---
 
 # Job, the Book of Job

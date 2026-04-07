@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 44
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 44
+title: Genesis, Chapter 44
+url: https://bible.usccb.org/bible/genesis/44
 aliases:
   - 20250508-020353
   - genesis-44
   - Genesis, Chapter 44
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 44
 bible_book: genesis
 bible_chapter: "44"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/44
 ---
 
 [[genesis-43|[← Previous Note]]] · [[genesis-45|[Next Note →]]]
@@ -115,6 +114,6 @@ d. (44:32) [Gn 43:9]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-03|[← Previous Note]]] · [[genesis-05|[Next Note →]]]

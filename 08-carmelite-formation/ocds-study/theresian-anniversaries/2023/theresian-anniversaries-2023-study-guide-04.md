@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Study Guide 4 Prayer for Pranzini (Ms A, 45v-46v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Study Guide 4 Prayer for Pranzini (Ms A, 45v-46v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 - Study Guide 4 Prayer for Pranzini (Ms A, 45v-46v)
   - theresian-anniversaries-2023-study-guide-04
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 - Study Guide 4 Prayer for Pranzini (Ms A, 45v-46v)
@@ -24,7 +24,7 @@ Proposal for the Community meeting:
 
 It would be good if the community meeting was preceded by a personal reading and meditation on the text of Therese.
 
-### Manuscript A, 45v-46v [ICS Pp. 99 – 101]
+## Manuscript A, 45v-46v [ICS Pp. 99 – 101]
 
 One Sunday, looking at a picture of Our Lord on the Cross, I was struck by the blood flowing from one of the divine hands. I felt a great pang of sorrow when thinking this blood was falling to the ground without an-yone’s hastening to gather it up. I was resolved to remain in spirit at the foot of the Cross and to receive the di-vine dew. I understood I was then to pour it out upon souls. The cry of Jesus on the Cross sounded continually in my heart: “I thirst!” These words ignited within me an unknown and very living fire. I wanted to give my Belov-ed to drink and I felt myself consumed with a thirst for souls. As yet, it was not the souls of priests that attracted me, but those of great sinners; I burned with the desire to snatch them from the eternal flames.
 
@@ -46,7 +46,7 @@ What an unspeakably sweet response! After this unique grace my desire to save so
 
 God was able in a very short time to extricate me from the very narrow circle in which I was turning without knowing how to come out.
 
-### Introduction to the Text
+## Introduction to the Text
 
 As our Carmelite brother François-Marie Léthel affirms: «This story is one of Therese’s most beautiful texts, one of the strongest concerning Hope in Infinite Mercy in the apparently most desperate situation. In its simplicity and freshness, this text is very rich from the theological point of view, on the mys-tery of the Redemption and the Church’s cooperation with this mystery. It unites the points of view of faith, hope and charity, but with hope the dominant point. The starting point is a sim-ple image of Jesus Crucified and Mary Magdalene embracing his feet, according to traditional iconography».
 
@@ -64,7 +64,7 @@ merits. Her description of the Pranzini episode is very close to her Act of Offe
 
 Therese of the Child Jesus and the Holy Face would never then cease to pray for the salvation of sinners and would speak of Pranzini as her «first child». The young Carmelite would remain anchored in mercy until her last breath.
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What does the text say? Understanding the content and primary meaning of Therese’s text.
 2. What does the text say to us today? Grasping the relevance (social, ecclesial, spiritual…) of the text.
@@ -72,7 +72,7 @@ Therese of the Child Jesus and the Holy Face would never then cease to pray for 
 
 The purpose of doing things in this manner is to allow Therese to speak to us, to question us, to encourage us, and to welcome her to shed light upon and confirm our personal and community journey. The questions proposed are therefore only indicative and can possibly accompany personal meditation and community sharing.
 
-### Questions
+## Questions
 
 1. We can only be struck by the spiritual connection between her Christmas grace (text 3) and this account. We see in this text a double level: Therese is certain of God’s merciful action and at the same time she asks him for a sign. How do we give meaning to these two dimensions: certainty and the need of a sign? Is it the same in our prayer life, what is it here that Therese comes to shed light upon for us?
 2. We see how the bond between Christ and Therese grows, as she receives from Jesus her mission, in union with him.

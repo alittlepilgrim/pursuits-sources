@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 1
+title: Mark, Chapter 1
+url: https://bible.usccb.org/bible/mark/1
 aliases:
   - mark-01
   - Mark, Chapter 1
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/1
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 1
 ---
 
 # Mark, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 The beginning of the gospel of Jesus Christ \[the Son of God\]. ^mark-01-1
 
@@ -61,7 +60,7 @@ make straight his paths.’”
 
 13 and he remained in the desert for forty days, tempted by Satan. He was among wild beasts, and the angels ministered to him. ^mark-01-13
 
-## Ii. the Mystery of Jesus
+# Ii. the Mystery of Jesus
 
 **The Beginning of the Galilean Ministry.**
 

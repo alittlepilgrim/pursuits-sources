@@ -1,20 +1,20 @@
 ---
-title: Why I Love You, O Mary by Saint Thérèse of Lisieux
-created: 2025-07-18
-modified: 2026-04-02
 type: ocd-readings
-publish: true
-description: Why I Love You, O Mary by Saint Thérèse of Lisieux
+title: Why I Love You, O Mary by Saint Thérèse of Lisieux
+author: OCD General Curia
 aliases:
   - 20250718-205658
   - tcj-poem-54-text
   - Why I Love You, O Mary by Saint Thérèse of Lisieux
 tags:
-  - author/therese-of-lisieux
+  - author/saint-therese-of-lisieux
   - carmel/theresian-anniversaries
   - saint/thérèse-of-lisieux
+created: 2025-07-18
+modified: 2026-04-06
+publish: true
+description: Why I Love You, O Mary by Saint Thérèse of Lisieux
 attachment: true
-author: OCD General Curia
 ---
 
 # Why I Love You, o Mary by St. Thérèse
@@ -25,7 +25,7 @@ May 1897
 
 (Air: Why did you deliver me the other day, oh my Mother)
 
-#### Stanza 1 - I Could Not Believe I Am Your Child
+## Stanza 1 - I Could Not Believe I Am Your Child
 
 1. Oh! I would like to sing, Mary, why I love you
 
@@ -43,7 +43,7 @@ That I’m your child I couldn’t believe
 
 O Mary, in front of you, I would lower my eyes!...
 
-#### Stanza 2 - Mortal and Suffering Like Me
+## Stanza 2 - Mortal and Suffering Like Me
 
 2. It is necessary for a child to cherish his mother
 
@@ -61,7 +61,7 @@ Believing me your child is not difficult for me
 
 For I see you **mortal** and **suffering** like me...
 
-#### Stanza 3 - Annunciation
+## Stanza 3 - Annunciation
 
 3. When an angel from Heaven offers you to be the Mother
 
@@ -79,7 +79,7 @@ I understand that your soul, Humble and Sweet Valley
 
 Can contain Jesus, the Ocean of Love!...
 
-#### Stanza 4 - Her Humility Draws the Incarnation
+## Stanza 4 - Her Humility Draws the Incarnation
 
 4. Oh! I love you, Mary, saying you are the servant
 
@@ -97,7 +97,7 @@ Of his sinning brethren great will be the number
 
 Since we must call him: Jesus, your firstborn!...
 
-#### Stanza 5 - the Mother's Treasure Belongs to the Child - Eucharist
+## Stanza 5 - the Mother's Treasure Belongs to the Child - Eucharist
 
 5. O beloved Mother, despite my smallness
 
@@ -115,7 +115,7 @@ Also when in my heart descends the white Host
 
 Jesus, your Sweet Lamb, believes that he rests in you!...
 
-#### Stanza 6 - Possible to Follow by Staying Small, the Visitation
+## Stanza 6 - Possible to Follow by Staying Small, the Visitation
 
 6. You make me feel it, **it’s not impossible**
 
@@ -133,7 +133,7 @@ With Saint Elisabeth, receiving your visit,
 
 I am learning to practice ardent charity.
 
-#### Stanza 7 - Magnificat
+## Stanza 7 - Magnificat
 
 7. There I listen delighted, Sweet Queen of Angels
 
@@ -151,7 +151,7 @@ In you the Almighty has done great things,
 
 I want to meditate on them, in order to bless him.
 
-#### Stanza 8 - Eloquent Silence, Awaits for Help Only from Heaven
+## Stanza 8 - Eloquent Silence, Awaits for Help Only from Heaven
 
 8. When the good Saint Joseph knew not the miracle
 
@@ -169,7 +169,7 @@ That tells me of the greatness and omnipotence
 
 Of a soul that **awaits help only from the Heavens**.
 
-#### Stanza 9 - the Nativity
+## Stanza 9 - the Nativity
 
 9. Later in Bethlehem, O Joseph and Mary!
 
@@ -187,7 +187,7 @@ O my dear Mother, how lovable I find you
 
 How great I find you in such a poor place!....
 
-#### Stanza 10 - the Adoration of the Magi
+## Stanza 10 - the Adoration of the Magi
 
 10. When I see the Lord wrapped in swaddling clothes
 
@@ -205,7 +205,7 @@ How I love you listening to the shepherds and the Magi
 
 And **guarding with care all things in your heart**!...
 
-#### Stanza 11 - the Presentation
+## Stanza 11 - the Presentation
 
 11. I love you mingling with the other women
 
@@ -223,7 +223,7 @@ Gazing prophetically into the future
 
 Simeon offers you a **sword of sorrows**.
 
-#### Stanza 12 - Flight to Egypt
+## Stanza 12 - Flight to Egypt
 
 12. O Queen of martyrs, until the evening of your life
 
@@ -241,7 +241,7 @@ And your obedience is immediately revealed
 
 **You leave without any delay and without reasoning.**
 
-#### Stanza 13 - Exile. the Child Lost
+## Stanza 13 - Exile. the Child Lost
 
 13. In the land of Egypt, it seems to me, O Mary
 
@@ -259,7 +259,7 @@ Jesus, for three days, hides from your tenderness,
 
 So that is **true exile** in all its rigour!...
 
-#### Stanza 14 - Finding in the Temple
+## Stanza 14 - Finding in the Temple
 
 14. Finally you see him and joy transports you,
 
@@ -277,7 +277,7 @@ To the dear Mother who stretches out her arms towards him:
 
 “I have to work; don’t you know that?”
 
-#### Stanza 15 - Mary, Example of the Soul in the Night of Faith
+## Stanza 15 - Mary, Example of the Soul in the Night of Faith
 
 15. The Gospel teaches me that growing in wisdom
 
@@ -295,7 +295,7 @@ Mother, your sweet Child wants you to be the example
 
 Of the soul that seeks Him in the night of faith.
 
-#### Stanza 16 - Accepting Suffering
+## Stanza 16 - Accepting Suffering
 
 16. Since the King of Heaven wanted his Mother
 
@@ -313,7 +313,7 @@ He may well be hiding, I agree to wait for him
 
 Until the day without sunset when my faith will be extinguished....
 
-#### Stanza 17 - the Common Way
+## Stanza 17 - the Common Way
 
 17. I know that in Nazareth, Mother full of graces
 
@@ -331,7 +331,7 @@ It is by **the common way,** incomparable Mother
 
 That you like to walk to guide them to Heaven.
 
-#### Stanza 18 - Contemplating Mary's Life
+## Stanza 18 - Contemplating Mary's Life
 
 18. Waiting for Heaven, O my dear Mother,
 
@@ -349,7 +349,7 @@ Instead of despising the pure and holy joys
 
 You want to **share** them, you deign to **bless** them.
 
-#### Stanza 19 - Cana - Intercession
+## Stanza 19 - Cana - Intercession
 
 19. Seeing the concern of the newly-weds of Cana
 
@@ -367,7 +367,7 @@ But deep in his heart, he calls you his Mother,
 
 And his first miracle, He works it for you...
 
-#### Stanza 20 - Jesus Loves Us Like He Loved His Mother
+## Stanza 20 - Jesus Loves Us Like He Loved His Mother
 
 20. A day that sinners are listening to the teaching
 
@@ -385,7 +385,7 @@ He said, “Who is my brother and my sister and my Mother?
 
 “If not he who does my will?”
 
-#### Stanza 21 - Our Soul Becomes His Family
+## Stanza 21 - Our Soul Becomes His Family
 
 21. O Immaculate Virgin, the most tender of mothers,
 
@@ -403,7 +403,7 @@ How not to love you, oh my dear Mother
 
 Seeing so much **love** and so much **humility**?
 
-#### Stanza 22 - the Ascension. Mary Left for Us as Refuge of Sinners
+## Stanza 22 - the Ascension. Mary Left for Us as Refuge of Sinners
 
 22. You love us, Mary, as Jesus loves us
 
@@ -421,7 +421,7 @@ Refuge of sinners, it is to you that He leaves us
 
 When He leaves the Cross to wait for us in Heaven.
 
-#### Stanza 23 - Calvary, Standing by the Cross, Like a Priest at the Altar
+## Stanza 23 - Calvary, Standing by the Cross, Like a Priest at the Altar
 
 23. Mary, you appear to me at the top of Calvary
 
@@ -439,7 +439,7 @@ O Queen of Martyrs, remaining in exile
 
 You lavish on us all the blood of your heart!
 
-#### Stanza 24 - John Takes Mary into His Home
+## Stanza 24 - John Takes Mary into His Home
 
 24. The house of Saint John becomes your only asylum
 
@@ -457,7 +457,7 @@ Wants **Himself to sing the secrets of your life**
 
 To charm your children, all the Elect of Heaven?
 
-#### Stanza 25 - Forever Mary's Child
+## Stanza 25 - Forever Mary's Child
 
 25. Soon I will hear this sweet harmony
 
@@ -477,7 +477,7 @@ And say forever that I am your child!......
 
 Little Therese
 
-## Introduction to the Text
+# Introduction to the Text
 
 Therese, already very sick, confides to her sister Celine: ‘I still have something to do before I die. I have always dreamed of writing a song to the Holy Virgin that would express all that I think of her.’ (Apostolic Process, Rome, 268). It is her last **poem, like a will.** Therese signs it with a failing hand, a humble and moving finale to her entire poetic work.
 
@@ -502,7 +502,7 @@ Her eyes fixed on Mary, Therese made silence the great rampart of her whole cont
 
 In the last stanza, number 25, we can see hope being pointed to in the heart of her great suffering. We see all the themes of her filial love resumed in the single: ‘She is my Mother!’ On 8th July, 1897, on transferring downstairs to the infirmary, Therese finds the Virgin of the Smile there to welcome her. An hour before her death on 30th September, she gazed at her for a long time.
 
-## For Community Discussion
+# For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text.
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -512,7 +512,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-## Questions
+# Questions
 
 1. This last poem of Therese (May, 1897) is also one of the longest. It was difficult to select just a few parts. After reading it, and after a time of prayer with the Virgin Mary and Therese, what is the principal tenor of the relationship between Therese and the Virgin Mary? - Like a child to her Mother
 2. ‘The mother’s treasure belongs to the child’: is it in this spirit that we experience our relationship with the Virgin Mary? What above all depends on us in our relationship with the Virgin Mary? humility, ponder her real life, imitate her virtues, accept sufferings.

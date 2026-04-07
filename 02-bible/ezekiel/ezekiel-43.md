@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 43
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 43
+title: Ezekiel, Chapter 43
+url: https://bible.usccb.org/bible/ezekiel/43
 aliases:
   - ezekiel-43
   - Ezekiel, Chapter 43
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/43
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 43
 ---
 
 # Ezekiel, Chapter 43
 
-### Chapter 43
+## Chapter 43
 
 **The Glory of the Lord Returns.**
 
@@ -29,9 +28,9 @@ url: https://bible.usccb.org/bible/ezekiel/43
 
 3 The vision I saw was like the vision I had seen when he came to destroy the city and like the vision I had seen by the river Chebar—I fell on my face. ^ezekiel-43-3
 
-4 The glory of the L ORD entered the temple by way of the gate facing east. ^ezekiel-43-4
+4 The glory of the LORD entered the temple by way of the gate facing east. ^ezekiel-43-4
 
-5 Then the spirit lifted me up and brought me to the inner court. And there the glory of the L ORD filled the temple! ^ezekiel-43-5
+5 Then the spirit lifted me up and brought me to the inner court. And there the glory of the LORD filled the temple! ^ezekiel-43-5
 
 6 I heard someone speaking to me from the temple, but the man was standing beside me. ^ezekiel-43-6
 
@@ -73,7 +72,7 @@ url: https://bible.usccb.org/bible/ezekiel/43
 
 23 When you have completed the purification, you must bring an unblemished young bull and an unblemished ram from the flock ^ezekiel-43-23
 
-24 and present them before the L ORD. The priests shall throw salt on them and sacrifice them as burnt offerings to the L ORD. ^ezekiel-43-24
+24 and present them before the LORD. The priests shall throw salt on them and sacrifice them as burnt offerings to the LORD. ^ezekiel-43-24
 
 25 Daily for seven days you shall give a male goat as a purification offering; and a young bull and a ram from the flock, all unblemished, shall be offered ^ezekiel-43-25
 

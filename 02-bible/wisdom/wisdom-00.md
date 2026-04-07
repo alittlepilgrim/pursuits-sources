@@ -1,25 +1,25 @@
 ---
-title: Wisdom, The Book of Wisdom
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: wisdom-the book of wisdom
+title: Wisdom, The Book of Wisdom
+url: https://bible.usccb.org/bible/wisdom/0
 aliases:
   - wisdom-00
   - Wisdom, the Book of Wisdom
   - Wisdom, The Book of Wisdom
 tags:
+  - bible/book
+  - bible/old-testament
   - bible/wisdom
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/wisdom/0
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: wisdom-the book of wisdom
 ---
 
 # Wisdom, the Book of Wisdom
 
-                   
+[Introduction](wisdom-00.md) [1](wisdom-01.md) [2](wisdom-02.md) [3](wisdom-03.md) [4](wisdom-04.md) [5](wisdom-05.md) [6](wisdom-06.md) [7](wisdom-07.md) [8](wisdom-08.md) [9](wisdom-09.md) [10](wisdom-10.md) [11](wisdom-11.md) [12](wisdom-12.md) [13](wisdom-13.md) [14](wisdom-14.md) [15](wisdom-15.md) [16](wisdom-16.md) [17](wisdom-17.md) [18](wisdom-18.md) [19](wisdom-19.md)
 
 ## The Book of Wisdom
 

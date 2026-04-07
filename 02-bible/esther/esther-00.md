@@ -1,21 +1,21 @@
 ---
-title: Esther, The Book of Esther
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Esther, the Book of Esther
+title: Esther, The Book of Esther
+url: https://bible.usccb.org/bible/esther/0
 aliases:
   - 20250730-211217
   - esther-00
   - Esther, the Book of Esther
   - Esther, The Book of Esther
 tags:
+  - bible/book
   - bible/esther
-layer: canon
-node-type: book
-source: https://bible.usccb.org/bible/esther/0
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Esther, the Book of Esther
 ---
 
 # Esther, the Book of Esther

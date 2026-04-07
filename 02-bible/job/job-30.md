@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 30
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 30
+title: Job, Chapter 30
+url: https://bible.usccb.org/bible/job/30
 aliases:
   - job-30
   - Job, Chapter 30
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/30
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 30
 ---
 
 # Job, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
 1 But now they hold me in derision ^job-30-1
 

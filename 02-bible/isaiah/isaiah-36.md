@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 36
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 36
+title: Isaiah, Chapter 36
+url: https://bible.usccb.org/bible/isaiah/36
 aliases:
   - isaiah-36
   - Isaiah, Chapter 36
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/36
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 36
 ---
 
 # Isaiah, Chapter 36
 
-### Chapter 36
+## Chapter 36
 
 **Invasion of Sennacherib.**
 
@@ -35,13 +34,13 @@ url: https://bible.usccb.org/bible/isaiah/36
 
 6 Do you trust in Egypt, that broken reed of a staff which pierces the hand of anyone who leans on it? That is what Pharaoh, king of Egypt, is to all who trust in him. ^isaiah-36-6
 
-7 Or do you say to me: It is in the L ORD, our God, we trust? Is it not he whose high places and altars Hezekiah has removed, commanding Judah and Jerusalem, ‘Worship before this altar’? ^isaiah-36-7
+7 Or do you say to me: It is in the LORD, our God, we trust? Is it not he whose high places and altars Hezekiah has removed, commanding Judah and Jerusalem, ‘Worship before this altar’? ^isaiah-36-7
 
 8 “Now, make a wager with my lord, the king of Assyria: I will give you two thousand horses, if you are able to put riders on them. ^isaiah-36-8
 
 9 How then can you turn back even a captain, one of the least servants of my lord, trusting, as you do, in Egypt for chariots and horses? ^isaiah-36-9
 
-10 Did I come up to destroy this land without the L ORD? The L ORD himself said to me, Go up and destroy that land!” ^isaiah-36-10
+10 Did I come up to destroy this land without the LORD? The LORD himself said to me, Go up and destroy that land!” ^isaiah-36-10
 
 11 Then Eliakim and Shebna and Joah said to the commander, “Please speak to your servants in Aramaic; we understand it. Do not speak to us in the language of Judah within earshot of the people who are on the wall.” ^isaiah-36-11
 
@@ -51,7 +50,7 @@ url: https://bible.usccb.org/bible/isaiah/36
 
 14 Thus says the king: Do not let Hezekiah deceive you, for he cannot rescue you. ^isaiah-36-14
 
-15 And do not let Hezekiah induce you to trust in the L ORD, saying, ‘The L ORD will surely rescue us, and this city will not be handed over to the king of Assyria.’ ^isaiah-36-15
+15 And do not let Hezekiah induce you to trust in the LORD, saying, ‘The LORD will surely rescue us, and this city will not be handed over to the king of Assyria.’ ^isaiah-36-15
 
 16 Do not listen to Hezekiah, for thus says the king of Assyria: ^isaiah-36-16
 
@@ -73,11 +72,11 @@ A land of grain and wine,
 
 a land of bread and vineyards.
 
-18 Do not let Hezekiah seduce you by saying, ‘The L ORD will rescue us.’ Has any of the gods of the nations rescued his land from the power of the king of Assyria? ^isaiah-36-18
+18 Do not let Hezekiah seduce you by saying, ‘The LORD will rescue us.’ Has any of the gods of the nations rescued his land from the power of the king of Assyria? ^isaiah-36-18
 
 19 Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Where are the gods of Samaria? Have they saved Samaria from my power? ^isaiah-36-19
 
-20 Who among all the gods of these lands ever rescued their land from my power, that the L ORD should save Jerusalem from my power?” ^isaiah-36-20
+20 Who among all the gods of these lands ever rescued their land from my power, that the LORD should save Jerusalem from my power?” ^isaiah-36-20
 
 21 But they remained silent and did not answer at all, for the king’s command was, “Do not answer him.” ^isaiah-36-21
 

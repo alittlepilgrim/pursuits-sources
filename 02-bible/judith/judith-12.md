@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 12
+title: Judith, Chapter 12
+url: https://bible.usccb.org/bible/judith/12
 aliases:
   - judith-12
   - Judith, Chapter 12
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 12
 ---
 
 # Judith, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 1 Then he ordered them to lead her into the room where his silver dinnerware was kept, and ordered them to set a table for her with his own delicacies to eat and his own wine to drink. ^judith-12-1
 

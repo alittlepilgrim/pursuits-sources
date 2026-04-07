@@ -1,19 +1,21 @@
 ---
-title: Community Formation - OCDS Ongoing Formation Volume I
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Community Formation - OCDS Ongoing Formation Volume I
+author: Secular Order of Discalced Carmelites
 aliases:
   - Community Formation - OCDS Ongoing Formation Volume I
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
 # Community Formation - OCDS Ongoing Formation Volume I
 
  “Growth in holiness is a journey in community, side by side with others… Each community is called to create a God-enlightened space in which to experience the hidden presence of the risen Lord” (Gaudete et exsultate, ch. 4 — In Community)
 
-#### Introduction
+## Introduction
 
  Definition and purpose “Community formation” is time set aside for the entire community, including visitors, to engage in discussions centered on Carmelite spirituality. It is distinct from “Candidate Formation” (Formation I and II) in that it is less formal and does not follow a strict structure. It is also distinct from “Ongoing Formation.” While Ongoing Formation often covers topics that may be more advanced or suited to definitely professed members with greater experience, community formation focuses on subjects that are accessible and beneficial to all levels within the community. The atmosphere encourages open dialogue and allows for a more spontaneous exchange of ideas among participants. The purpose is to grow in community life, offer mutual support in living our Carmelite vocation, and nurture spiritual friendship. The materials used, or the conferences given, are to provide a starting point for conversation. The end goal is not to “study a book” or master a subject, but to accompany one another on “the way of perfection.” Examples and suggested topics are given below. Community formation benefits everyone. Those in aspirancy and Formation I and II gain insight into practical aspects of being a Carmelite, while inspiring the definitively professed to reflect on their Carmelite journey. Community formation/discussion involves everyone—visitors, aspirants, candidates, and professed. Characteristics of the OCDS communities “The local community of the Secular Order of the Teresian Carmel, a visible sign of the Church and of the Order, is a place to live and promote personal and communal fellowship with God in Christ and in the Spirit and with other brothers and sisters in accordance with the Teresian charism. The person of Christ is at the center of the community” (OCDS Const., Art. 24.a). “St. Teresa of Jesus initiated a new model of community life. Her ideal of community life is based on the certainty of faith that the Risen Jesus is in the midst of the community and that it lives under the protection of the Virgin Mary… Relations are marked by the virtues of a love that is genuine, gratuitous, free and unselfish, as well as by detachment and humility. These are fundamental virtues for the spiritual life and they bring peace both internally and externally” (Const., Art. 24.b). Community Formation (discussion/conference) Accordingly, those who come to Carmel are “called to profound dialogue with God in prayer. But this would be meaningless in the absence of a trusting relationship with the members of the community…” (Ratio Institutionis 23). The need for divine and human assistance is a vital
 
@@ -21,7 +23,7 @@ author: Secular Order of Discalced Carmelites
 
  part of any formation in our communities. The community meeting gives an opportunity for all candidates in formation to learn from the example of those experienced seculars who are living the charism of Carmelite spirituality with unwavering loyalty and dedication (see Ratio 22). Coming together as a community fosters the fraternal life of its members. “Faithful to the teaching of our Holy Mother Teresa, the members are conscious that their commitment cannot be carried out by one alone; their fraternal life is a privileged place where they are deepened, formed and matured” (Ratio 26). It is important to note here that “fraternal life does not mean to live a common life, nor does it mean to live a life in community; rather it means a life lived in the spirit of oneness, rooted in baptism and bound together even more closely in Christ through a common vocation of charism, life and mission” (Can. 602. Code of Canon Law; Book II, People of God). “It is Christ in his Pascal mystery who is the model and sustainer of fraternal life. This fraternal life constitutes an evangelical way of conversion which requires the courage of self renunciation to accept and accommodate the other within the community. This renunciation becomes a way of life, to live as Jesus did” (Ratio 27). “Teresa is aware of the importance of mutual support on the road of prayer and the importance of friendship with others in the common search for God. She also considers as fundamental to such friendship, culture, the human virtues, gentleness, empathy, prudence, discretion, simplicity, kindness, joy and availability, as we seek to ‘walk in truth before God and people’” (Const., 24.b). Community is a privileged place where spiritual formation is deepened and accompanied by a corresponding need for communication. For this reason, “the community should give a good example of how to live Secular Carmelite life, even if it does not reach the ideal… The secular order community as a whole, and each of its members, have a formative responsibility, to be fulfilled in the manner determined in cooperation with the Director of formation and the Council” (Ratio 28).
 
-#### Specific Guidelines
+## Specific Guidelines
 
  In order to foster the noble ideals of the Discalced Carmelite charism of prayer, community formation/discussion/sharing, much like candidate formation, requires appropriate formation guidelines. It should meet the needs of the candidates who are at all different levels of formation. As a point of clarification, it’s not necessary to look for new materials or themes for community formation. The materials and essential points from any of the levels of formation in our National Formation Program can be used effectively for community formation. Selected themes/topics should be chosen for the benefit of the whole community. Our message should be clear, and the main ideas should be easily identified and understood. We should get to the point without using unneeded words or images. Putting it simply, discussion points should help the members of the community grow in their vocation. Overall, community formation should help the members develop a stronger sense of personal and collective identity as Discalced Carmelites.
 
@@ -31,7 +33,7 @@ author: Secular Order of Discalced Carmelites
 
  Community Formation – Topics and Themes 150
 
-#### Topics and Themes
+## Topics and Themes
 
  The following themes and topics are offered by way of suggestions to make community discussion more fruitful. Communities should feel free to take what is useful for their needs. Discussion time depends on the community’s schedule. OCDS Legislative Documents Instead of reading an entire document from start to finish, our focus should be on specific themes for discussion as shown below: “Witness to the Experience of God” – Constitutions, Art. 17-24 could be used as a central theme for a community session. The role of St. Albert’s Rule in the Carmelite reform of St. Teresa. We could use Session Three of ongoing formation: The Word of God and Rule of Carmel. Note: All the sessions of ongoing formation on the Rule of St. Albert could be effectively used for community formation as well. Reading and discussing certain sections of the Provincial Statutes and other legislative documents of the OCDS. For example, during election years, communities could discuss and familiarize themselves with the election procedures that are laid out in their respective Provincial statutes. The local Council: understanding the function of the Council within the context of the community.
 
@@ -43,7 +45,7 @@ author: Secular Order of Discalced Carmelites
 
  Community Formation – Conclusion 152
 
-#### Conclusion
+## Conclusion
 
  The deepening of one’s relationship with God is the primary purpose of community formation. Community discussions on Carmelite spirituality help members develop a stronger sense of personal and collective identity as Discalced Carmelites. In addition, coming together monthly provides stability that contributes to individual growth and transformation. This not only helps the participants’ personal life, but impacts those around them as well. Community formation fulfills an important role in our spiritual development and service to the Order and the Church. Prayer God grant us the patience to work together as members of our community. Teach us the true meaning of compassion, in order that we may reach out generously to all within our community. Help us to recognize our shared responsibilities and the gift of unity and love. Guide our actions toward peaceful resolutions, and grant us the wisdom to listen, respect, and learn from one another. We ask this in the name of the Father, the Son, and the Holy Spirit. Amen.
 

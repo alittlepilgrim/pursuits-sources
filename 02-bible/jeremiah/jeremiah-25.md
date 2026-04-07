@@ -1,25 +1,24 @@
 ---
-title: Jeremiah, Chapter 25
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 25
+title: Jeremiah, Chapter 25
+url: https://bible.usccb.org/bible/jeremiah/25
 aliases:
   - jeremiah-25
   - Jeremiah, Chapter 25
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/25
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 25
 ---
 
 # Jeremiah, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 **Seventy Years of Exile.**
 
@@ -27,25 +26,25 @@ url: https://bible.usccb.org/bible/jeremiah/25
 
 2 This word the prophet Jeremiah spoke to all the people of Judah and all the inhabitants of Jerusalem: ^jeremiah-25-2
 
-3 Since the thirteenth year of Josiah, son of Amon, king of Judah, to this day—that is, twenty-three years—the word of the L ORD has come to me and I spoke to you untiringly, but you would not listen. ^jeremiah-25-3
+3 Since the thirteenth year of Josiah, son of Amon, king of Judah, to this day—that is, twenty-three years—the word of the LORD has come to me and I spoke to you untiringly, but you would not listen. ^jeremiah-25-3
 
-4 The L ORD kept sending you all his servants the prophets, but you refused to listen or pay attention ^jeremiah-25-4
+4 The LORD kept sending you all his servants the prophets, but you refused to listen or pay attention ^jeremiah-25-4
 
-5 to this message: Turn back, each of you, from your evil way and from your evil deeds; then you shall remain in the land which the L ORD gave you and your ancestors, from of old and forever. ^jeremiah-25-5
+5 to this message: Turn back, each of you, from your evil way and from your evil deeds; then you shall remain in the land which the LORD gave you and your ancestors, from of old and forever. ^jeremiah-25-5
 
 6 Do not follow other gods to serve and bow down to them; do not provoke me with the works of your hands, or I will bring evil upon you. ^jeremiah-25-6
 
-7 But you would not listen to me—oracle of the L ORD —and so you provoked me with the works of your hands to your own harm. ^jeremiah-25-7
+7 But you would not listen to me—oracle of the LORD —and so you provoked me with the works of your hands to your own harm. ^jeremiah-25-7
 
-8 Hence, thus says the L ORD of hosts: Since you would not listen to my words, ^jeremiah-25-8
+8 Hence, thus says the LORD of hosts: Since you would not listen to my words, ^jeremiah-25-8
 
-9 I am about to send for and fetch all the tribes from the north—oracle of the L ORD —and I will send for Nebuchadnezzar, king of Babylon, my servant; I will bring them against this land, its inhabitants, and all these neighboring nations. I will doom them, making them an object of horror, of hissing, of everlasting reproach. ^jeremiah-25-9
+9 I am about to send for and fetch all the tribes from the north—oracle of the LORD —and I will send for Nebuchadnezzar, king of Babylon, my servant; I will bring them against this land, its inhabitants, and all these neighboring nations. I will doom them, making them an object of horror, of hissing, of everlasting reproach. ^jeremiah-25-9
 
 10 Among them I will put to an end the song of joy and the song of gladness, the voice of the bridegroom and the voice of the bride, the sound of the millstone and the light of the lamp. ^jeremiah-25-10
 
 11 This whole land shall be a ruin and a waste. Seventy years these nations shall serve the king of Babylon; ^jeremiah-25-11
 
-12 but when the seventy years have elapsed, I will punish the king of Babylon and that nation and the land of the Chaldeans for their guilt—oracle of the L ORD. Their land I will turn into everlasting waste. ^jeremiah-25-12
+12 but when the seventy years have elapsed, I will punish the king of Babylon and that nation and the land of the Chaldeans for their guilt—oracle of the LORD. Their land I will turn into everlasting waste. ^jeremiah-25-12
 
 13 Against that land I will fulfill all the words I have spoken against it, all that is written in this book, which Jeremiah prophesied against all the nations. ^jeremiah-25-13
 
@@ -53,11 +52,11 @@ url: https://bible.usccb.org/bible/jeremiah/25
 
 **The Cup of Judgment on the Nations.**
 
-15 For thus said the L ORD, the God of Israel, to me: Take this cup of the wine of wrath from my hand and have all the nations to whom I will send you drink it. ^jeremiah-25-15
+15 For thus said the LORD, the God of Israel, to me: Take this cup of the wine of wrath from my hand and have all the nations to whom I will send you drink it. ^jeremiah-25-15
 
 16 They shall drink, and retch, and go mad, because of the sword I will send among them. ^jeremiah-25-16
 
-17 I took the cup from the hand of the L ORD and gave it as drink to all the nations to whom the L ORD sent me: ^jeremiah-25-17
+17 I took the cup from the hand of the LORD and gave it as drink to all the nations to whom the LORD sent me: ^jeremiah-25-17
 
 18 to Jerusalem, the cities of Judah, its kings and princes, to make them a ruin and a waste, an object of hissing and cursing, as they are today; ^jeremiah-25-18
 
@@ -77,15 +76,15 @@ url: https://bible.usccb.org/bible/jeremiah/25
 
 26 all the kings of the north, near and far, one after the other; all the kingdoms upon the face of the earth and after them the king of Sheshach shall drink. ^jeremiah-25-26
 
-27 Tell them: Thus says the L ORD of hosts, the God of Israel: Drink! Get drunk and vomit! Fall, never to rise, before the sword that I will send among you! ^jeremiah-25-27
+27 Tell them: Thus says the LORD of hosts, the God of Israel: Drink! Get drunk and vomit! Fall, never to rise, before the sword that I will send among you! ^jeremiah-25-27
 
-28 If they refuse to take the cup from your hand and drink, say to them: Thus says the L ORD of hosts: You must drink! ^jeremiah-25-28
+28 If they refuse to take the cup from your hand and drink, say to them: Thus says the LORD of hosts: You must drink! ^jeremiah-25-28
 
-29 Now that I am inflicting evil on this city, called by my name, how can you possibly escape? You shall not escape! I am calling down the sword upon all the inhabitants of the earth—oracle of the L ORD of hosts. ^jeremiah-25-29
+29 Now that I am inflicting evil on this city, called by my name, how can you possibly escape? You shall not escape! I am calling down the sword upon all the inhabitants of the earth—oracle of the LORD of hosts. ^jeremiah-25-29
 
 30 As for you, prophesy against them all these words and say to them: ^jeremiah-25-30
 
-The L ORD roars from on high,
+The LORD roars from on high,
 
 from his holy dwelling he raises his voice;
 
@@ -99,15 +98,15 @@ over all the inhabitants of the earth.
 
 to the end of the earth;
 
-For the L ORD has an indictment against the nations,
+For the LORD has an indictment against the nations,
 
 he enters into judgment against all flesh:
 
 The wicked shall be given to the sword—
 
-oracle of the L ORD.
+oracle of the LORD.
 
-32 Thus says the L ORD of hosts: ^jeremiah-25-32
+32 Thus says the LORD of hosts: ^jeremiah-25-32
 
 Look! disaster stalks
 
@@ -117,7 +116,7 @@ A violent storm surges
 
 from the recesses of the earth.
 
-33 On that day, those whom the L ORD has slain will be strewn from one end of the earth to the other. They will not be mourned, they will not be gathered, they will not be buried; they shall lie like dung upon the ground. ^jeremiah-25-33
+33 On that day, those whom the LORD has slain will be strewn from one end of the earth to the other. They will not be mourned, they will not be gathered, they will not be buried; they shall lie like dung upon the ground. ^jeremiah-25-33
 
 34 Howl, you shepherds, and wail! ^jeremiah-25-34
 
@@ -135,11 +134,11 @@ no escape for the leaders of the flock.
 
 howling from the leaders of the flock!
 
-For the L ORD lays waste their grazing place;
+For the LORD lays waste their grazing place;
 
 37 desolate are the peaceful pastures, ^jeremiah-25-37
 
-from the burning wrath of the L ORD.
+from the burning wrath of the LORD.
 
 38 Like a lion he leaves his lair, ^jeremiah-25-38
 
@@ -147,7 +146,7 @@ and their land is made desolate
 
 By the sweeping sword,
 
-and the burning wrath of the L ORD.
+and the burning wrath of the LORD.
 
 \* (25:1] – [14) The fourth year of Jehoiakim: 605 B.C. Officially, the first year of Nebuchadnezzar began the following year; but as early as his victory over Egypt at Carchemish in 605, Nebuchadnezzar wielded dominant power in the Near East. Jeremiah saw in him the fulfillment of his prophecy of the enemy to come from the north (cf. [1:13]; [6:22] – [24]). In vv. [11] – [12] the prophecy of the seventy years’ exile occurs for the first time; cf. [29:10]. This number signifies that the present generation must die out; cf. forty in the exodus tradition ([Nm 14:20] – [23]).
 

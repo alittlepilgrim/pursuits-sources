@@ -1,25 +1,24 @@
 ---
-title: Revelation, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, Chapter 5
+title: Revelation, Chapter 5
+url: https://bible.usccb.org/bible/revelation/5
 aliases:
   - revelation-05
   - Revelation, Chapter 5
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/revelation
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/revelation/5
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, Chapter 5
 ---
 
 # Revelation, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **The Scroll and the Lamb.**
 

@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 3
+title: Ezekiel, Chapter 3
+url: https://bible.usccb.org/bible/ezekiel/3
 aliases:
   - ezekiel-03
   - Ezekiel, Chapter 3
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 3
 ---
 
 # Ezekiel, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 He said to me: Son of man, eat what you find here: eat this scroll, then go, speak to the house of Israel. ^ezekiel-03-1
 
@@ -41,17 +40,17 @@ url: https://bible.usccb.org/bible/ezekiel/3
 
 10 Then he said to me, Son of man, take into your heart all my words that I speak to you; hear them well. ^ezekiel-03-10
 
-11 Now go to the exiles, to your own people, and speak to them. Say to them, whether they hear or refuse to hear: Thus says the L ORD God! ^ezekiel-03-11
+11 Now go to the exiles, to your own people, and speak to them. Say to them, whether they hear or refuse to hear: Thus says the LORD God! ^ezekiel-03-11
 
-12 Then the spirit lifted me up, and I heard behind me a loud rumbling noise as the glory of the L ORD rose from its place: ^ezekiel-03-12
+12 Then the spirit lifted me up, and I heard behind me a loud rumbling noise as the glory of the LORD rose from its place: ^ezekiel-03-12
 
 13 the noise of the wings of the living creatures beating against one another, and the noise of the wheels alongside them, a loud rumbling. ^ezekiel-03-13
 
-14 And the spirit lifted me up and took me away, and I went off, my spirit angry and bitter, for the hand of the L ORD pressed hard on me. ^ezekiel-03-14
+14 And the spirit lifted me up and took me away, and I went off, my spirit angry and bitter, for the hand of the LORD pressed hard on me. ^ezekiel-03-14
 
 15 Thus I came to the exiles who lived at Tel-abib by the river Chebar; and there where they dwelt, I stayed among them distraught for seven days. ^ezekiel-03-15
 
-16 At the end of the seven days, the word of the L ORD came to me: ^ezekiel-03-16
+16 At the end of the seven days, the word of the LORD came to me: ^ezekiel-03-16
 
 **The Prophet as Sentinel.**
 
@@ -67,9 +66,9 @@ url: https://bible.usccb.org/bible/ezekiel/3
 
 **Ezekiel Mute.**
 
-22 The hand of the L ORD came upon me there and he said to me: Get up and go out into the plain, where I will speak with you. ^ezekiel-03-22
+22 The hand of the LORD came upon me there and he said to me: Get up and go out into the plain, where I will speak with you. ^ezekiel-03-22
 
-23 So I got up and went out into the plain. There it was! The glory of the L ORD was standing there like the glory I had seen by the river Chebar. Then I fell on my face, ^ezekiel-03-23
+23 So I got up and went out into the plain. There it was! The glory of the LORD was standing there like the glory I had seen by the river Chebar. Then I fell on my face, ^ezekiel-03-23
 
 24 but the spirit entered into me, set me on my feet; he spoke to me, and said: Go, shut yourself in your house. ^ezekiel-03-24
 
@@ -77,13 +76,13 @@ url: https://bible.usccb.org/bible/ezekiel/3
 
 26 And I will make your tongue stick to the roof of your mouth so that you will be mute, no longer one who rebukes them for being a rebellious house. ^ezekiel-03-26
 
-27 Only when I speak to you and open your mouth, shall you say to them: Thus says the L ORD God: Let those who hear, hear! Let those who resist, resist! They are truly a rebellious house. ^ezekiel-03-27
+27 Only when I speak to you and open your mouth, shall you say to them: Thus says the LORD God: Let those who hear, hear! Let those who resist, resist! They are truly a rebellious house. ^ezekiel-03-27
 
 \* (3:3) As sweet as honey: though the prophet must foretell terrible things, the word of God is sweet to the one who receives it.
 
 \* (3:8) Cf. [Jer 1:18]. The prophet must face fierce opposition with the determination and resistance shown by his opponents.
 
-\* (3:12) The glory of the L ORD: the divine presence, manifested here in audible form. Cf. [Ex 40:34]; ([[luke-02|Lk 2]]:9].
+\* (3:12) The glory of the LORD: the divine presence, manifested here in audible form. Cf. [Ex 40:34]; ([[luke-02|Lk 2]]:9].
 
 \* (3:15) Tel-abib: one of the sites where the exiles were settled, probably near Nippur.
 

@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 14
+title: John, Chapter 14
+url: https://bible.usccb.org/bible/john/14
 aliases:
   - john-14
   - John, Chapter 14
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/14
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 14
 ---
 
 # John, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Last Supper Discourses.**
 

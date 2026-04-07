@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 5
+title: 1 Chronicles, Chapter 5
+url: https://bible.usccb.org/bible/1chronicles/5
 aliases:
   - 1 Chronicles, Chapter 5
   - 1-chronicles-05
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/5
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 5
 ---
 
 # 1 Chronicles, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Reuben.**
 
@@ -109,7 +108,7 @@ url: https://bible.usccb.org/bible/1chronicles/5
 
 40 Azariah became the father of Seraiah. Seraiah became the father of Jehozadak. ^1-chronicles-05-40
 
-41 Jehozadak was one of those who went into the exile which the L ORD inflicted on Judah and Jerusalem through Nebuchadnezzar. ^1-chronicles-05-41
+41 Jehozadak was one of those who went into the exile which the LORD inflicted on Judah and Jerusalem through Nebuchadnezzar. ^1-chronicles-05-41
 
 \* \[[5:1] – [26]\] Genealogies of the Transjordanian tribes, Reuben, Gad, and the half-tribe of Manasseh.
 

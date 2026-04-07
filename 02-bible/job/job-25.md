@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 25
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 25
+title: Job, Chapter 25
+url: https://bible.usccb.org/bible/job/25
 aliases:
   - job-25
   - Job, Chapter 25
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/25
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 25
 ---
 
 # Job, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 **Bildad’s Third Speech.**
 

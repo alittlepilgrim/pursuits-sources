@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 20
+title: 1 Samuel, Chapter 20
+url: https://bible.usccb.org/bible/1samuel/20
 aliases:
   - 1 Samuel, Chapter 20
   - 1-samuel-20
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/20
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 20
 ---
 
 # 1 Samuel, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **David Consults with Jonathan.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/1samuel/20
 
 2 Jonathan answered him: “Heaven forbid that you should die! My father does nothing, great or small, without telling me. Why, then, should my father conceal this from me? It cannot be true!” ^1-samuel-20-2
 
-3 But David replied: “Your father is well aware that I am favored with your friendship, so he has decided, ‘Jonathan must not know about this or he will be grieved.’ Nevertheless, as the L ORD lives and as you live, there is only a step between me and death.” ^1-samuel-20-3
+3 But David replied: “Your father is well aware that I am favored with your friendship, so he has decided, ‘Jonathan must not know about this or he will be grieved.’ Nevertheless, as the LORD lives and as you live, there is only a step between me and death.” ^1-samuel-20-3
 
 4 Jonathan then said to David, “I will do whatever you say.” ^1-samuel-20-4
 
@@ -37,7 +36,7 @@ url: https://bible.usccb.org/bible/1samuel/20
 
 7 If he says, ‘Very well,’ your servant is safe. But if he becomes quite angry, you can be sure he has planned some harm. ^1-samuel-20-7
 
-8 Do this kindness for your servant because of the L ORD’s covenant into which you brought us: if I am guilty, kill me yourself! Why should you give me up to your father?” ^1-samuel-20-8
+8 Do this kindness for your servant because of the LORD’s covenant into which you brought us: if I am guilty, kill me yourself! Why should you give me up to your father?” ^1-samuel-20-8
 
 9 But Jonathan answered: “Not I! If ever I find out that my father is determined to harm you, I will certainly let you know.” ^1-samuel-20-9
 
@@ -47,15 +46,15 @@ url: https://bible.usccb.org/bible/1samuel/20
 
 11 Jonathan replied to David, “Come, let us go out into the field.” When they were out in the open country together, ^1-samuel-20-11
 
-12 Jonathan said to David: “As the L ORD, the God of Israel, lives, I will sound out my father about this time tomorrow. Whether he is well disposed toward David or not, I will inform you. ^1-samuel-20-12
+12 Jonathan said to David: “As the LORD, the God of Israel, lives, I will sound out my father about this time tomorrow. Whether he is well disposed toward David or not, I will inform you. ^1-samuel-20-12
 
-13 Should it please my father to bring any harm upon you, may the L ORD do thus to Jonathan and more, if I do not inform you of it and send you on your way in peace. May the L ORD be with you even as he was with my father. ^1-samuel-20-13
+13 Should it please my father to bring any harm upon you, may the LORD do thus to Jonathan and more, if I do not inform you of it and send you on your way in peace. May the LORD be with you even as he was with my father. ^1-samuel-20-13
 
-14 Only this: if I am still alive, may you show me the kindness of the L ORD. But if I die, ^1-samuel-20-14
+14 Only this: if I am still alive, may you show me the kindness of the LORD. But if I die, ^1-samuel-20-14
 
-15 never cut off your kindness from my house. And when the L ORD cuts off all the enemies of David from the face of the land, ^1-samuel-20-15
+15 never cut off your kindness from my house. And when the LORD cuts off all the enemies of David from the face of the land, ^1-samuel-20-15
 
-16 the name of Jonathan must never be cut off from the family of David, or the L ORD will make you answer for it.” ^1-samuel-20-16
+16 the name of Jonathan must never be cut off from the family of David, or the LORD will make you answer for it.” ^1-samuel-20-16
 
 17 And in his love for David, Jonathan renewed his oath to him, because he loved him as he loved himself. ^1-samuel-20-17
 
@@ -65,11 +64,11 @@ url: https://bible.usccb.org/bible/1samuel/20
 
 20 On the third day of the month I will shoot arrows to the side of it, as though aiming at a target. ^1-samuel-20-20
 
-21 I will then send my attendant to recover the arrows. If in fact I say to him, ‘Look, the arrow is this side of you; pick it up,’ come, for you are safe. As the L ORD lives, there will be nothing to fear. ^1-samuel-20-21
+21 I will then send my attendant to recover the arrows. If in fact I say to him, ‘Look, the arrow is this side of you; pick it up,’ come, for you are safe. As the LORD lives, there will be nothing to fear. ^1-samuel-20-21
 
-22 But if I say to the boy, ‘Look, the arrow is beyond you,’ go, for the L ORD sends you away. ^1-samuel-20-22
+22 But if I say to the boy, ‘Look, the arrow is beyond you,’ go, for the LORD sends you away. ^1-samuel-20-22
 
-23 However, in the matter which you and I have discussed, the L ORD shall be between you and me forever.” ^1-samuel-20-23
+23 However, in the matter which you and I have discussed, the LORD shall be between you and me forever.” ^1-samuel-20-23
 
 24 So David hid in the open country. ^1-samuel-20-24
 
@@ -111,7 +110,7 @@ url: https://bible.usccb.org/bible/1samuel/20
 
 41 When the boy had gone, David rose from beside the mound and fell on his face to the ground three times in homage. They kissed each other and wept aloud together. ^1-samuel-20-41
 
-42 At length Jonathan said to David, “Go in peace, in keeping with what the two of us have sworn by the name of the L ORD: ‘The L ORD shall be between you and me, and between your offspring and mine forever.’” ^1-samuel-20-42
+42 At length Jonathan said to David, “Go in peace, in keeping with what the two of us have sworn by the name of the LORD: ‘The LORD shall be between you and me, and between your offspring and mine forever.’” ^1-samuel-20-42
 
 \* (20:13) See note on [3:17].
 

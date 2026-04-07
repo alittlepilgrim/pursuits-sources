@@ -1,16 +1,18 @@
 ---
-title: Pastor / Pastoral Office
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: pastor-pastoral-office. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Pastor / Pastoral Office
+author:
 aliases:
   - Pastor / Pastoral Office
   - pastor-pastoral-office
 tags:
   - catechism
   - term/pastor-pastoral-office
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: pastor-pastoral-office. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Pastor / Pastoral Office

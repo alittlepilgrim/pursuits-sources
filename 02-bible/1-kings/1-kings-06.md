@@ -1,31 +1,30 @@
 ---
-title: 1 Kings, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 kings-chapter 6
+title: 1 Kings, Chapter 6
+url: https://bible.usccb.org/bible/1kings/6
 aliases:
   - 1 Kings, Chapter 6
   - 1-kings-06
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/6
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 kings-chapter 6
 ---
 
 # 1 Kings, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Building of the Temple.**
 
-1 In the four hundred and eightieth year after the Israelites went forth from the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv (the second month), he began to build the house of the L ORD. ^1-kings-06-1
+1 In the four hundred and eightieth year after the Israelites went forth from the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv (the second month), he began to build the house of the LORD. ^1-kings-06-1
 
-2 The house which King Solomon built for the L ORD was sixty cubits long, twenty wide, and thirty high. ^1-kings-06-2
+2 The house which King Solomon built for the LORD was sixty cubits long, twenty wide, and thirty high. ^1-kings-06-2
 
 4 Windows with closed lattices were made for the house, ^1-kings-06-4
 
@@ -39,7 +38,7 @@ url: https://bible.usccb.org/bible/1kings/6
 
 10 He built the substructure five cubits high all along the outside of the house, to which it was joined by cedar beams. ^1-kings-06-10
 
-11 The word of the L ORD came to Solomon: ^1-kings-06-11
+11 The word of the LORD came to Solomon: ^1-kings-06-11
 
 12 As to this house you are building—if you walk in my statutes, carry out my ordinances, and observe all my commands, walking in them, I will fulfill toward you my word which I spoke to David your father. ^1-kings-06-12
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/1kings/6
 
 18 The cedar in the interior of the house was carved in the form of gourds and open flowers; all was of cedar, and no stone was to be seen. ^1-kings-06-18
 
-19 In the innermost part of the house he set up the inner sanctuary to house the ark of the L ORD’s covenant. ^1-kings-06-19
+19 In the innermost part of the house he set up the inner sanctuary to house the ark of the LORD’s covenant. ^1-kings-06-19
 
 20 In front of the inner sanctuary (it was twenty cubits long, twenty wide, and twenty high, and he covered it with pure gold), he made an altar of cedar. ^1-kings-06-20
 
@@ -87,7 +86,7 @@ url: https://bible.usccb.org/bible/1kings/6
 
 36 He walled off the inner court with three courses of hewn stones and one course of cedar beams. ^1-kings-06-36
 
-37 The foundations of the L ORD’s house were laid in the month of Ziv in the fourth year, ^1-kings-06-37
+37 The foundations of the LORD’s house were laid in the month of Ziv in the fourth year, ^1-kings-06-37
 
 38 and it was finished, in all particulars, exactly according to plan, in the month of Bul, the eighth month, in the eleventh year. Thus Solomon built it in seven years. ^1-kings-06-38
 

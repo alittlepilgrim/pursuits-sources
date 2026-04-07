@@ -1,26 +1,26 @@
 ---
-title: Lamentations, The Book of Lamentations
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Lamentations, the Book of Lamentations
+title: Lamentations, The Book of Lamentations
+url: https://bible.usccb.org/bible/lamentations/0
 aliases:
   - 20250730-152041
   - lamentations-00
   - Lamentations, the Book of Lamentations
   - Lamentations, The Book of Lamentations
 tags:
+  - bible/book
   - bible/lamentations
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/lamentations/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Lamentations, the Book of Lamentations
 ---
 
 # Lamentations, the Book of Lamentations
 
-     
+[Introduction](lamentations-00.md) [1](lamentations-01.md) [2](lamentations-02.md) [3](lamentations-03.md) [4](lamentations-04.md) [5](lamentations-05.md)
 
 ## The Book of Lamentations
 

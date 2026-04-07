@@ -1,33 +1,32 @@
 ---
-title: Zephaniah, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zephaniah, Chapter 1
+title: Zephaniah, Chapter 1
+url: https://bible.usccb.org/bible/zephaniah/1
 aliases:
   - zephaniah-01
   - Zephaniah, Chapter 1
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zephaniah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zephaniah/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zephaniah, Chapter 1
 ---
 
 # Zephaniah, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-1 The word of the L ORD which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah. ^zephaniah-01-1
+1 The word of the LORD which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah. ^zephaniah-01-1
 
-#### I. the Day of the Lord: Judgment on Judah
+### I. the Day of the Lord: Judgment on Judah
 
 2 I will completely sweep away all things ^zephaniah-01-2
 
-from the face of the land—oracle of the L ORD.
+from the face of the land—oracle of the LORD.
 
 3 I will sweep away human being and beast alike, ^zephaniah-01-3
 
@@ -39,7 +38,7 @@ I will make the wicked stumble;
 
 I will eliminate the people
 
-from the face of the land—oracle of the L ORD.
+from the face of the land—oracle of the LORD.
 
 4 I will stretch out my hand against Judah, ^zephaniah-01-4
 
@@ -55,25 +54,25 @@ the name of the idolatrous priests.
 
 to the host of heaven,
 
-And those who bow down to the L ORD
+And those who bow down to the LORD
 
 but swear by Milcom;
 
-6 And those who have turned away from the L ORD, ^zephaniah-01-6
+6 And those who have turned away from the LORD, ^zephaniah-01-6
 
-and those who have not sought the L ORD,
+and those who have not sought the LORD,
 
 who have not inquired of him.
 
 7 Silence in the presence of the Lord G OD! ^zephaniah-01-7
 
-for near is the day of the L ORD,
+for near is the day of the LORD,
 
-Yes, the L ORD has prepared a sacrifice,
+Yes, the LORD has prepared a sacrifice,
 
 he has consecrated his guests.
 
-8 On the day of the L ORD’s sacrifice ^zephaniah-01-8
+8 On the day of the LORD’s sacrifice ^zephaniah-01-8
 
 I will punish the officials and the king’s sons,
 
@@ -87,7 +86,7 @@ Who fill the house of their master
 
 with violence and deceit.
 
-10 On that day—oracle of the L ORD — ^zephaniah-01-10
+10 On that day—oracle of the LORD — ^zephaniah-01-10
 
 A cry will be heard from the Fish Gate,
 
@@ -127,11 +126,11 @@ They will plant vineyards,
 
 but not drink their wine.
 
-14 Near is the great day of the L ORD, ^zephaniah-01-14
+14 Near is the great day of the LORD, ^zephaniah-01-14
 
 near and very swiftly coming.
 
-The sound of the day of the L ORD! Piercing—
+The sound of the day of the LORD! Piercing—
 
 there a warrior shrieks!
 
@@ -155,7 +154,7 @@ against lofty battlements.
 
 till they walk like the blind,
 
-because they have sinned against the L ORD;
+because they have sinned against the LORD;
 
 And their blood shall be poured out like dust,
 
@@ -165,7 +164,7 @@ and their bowels like dung.
 
 will be able to save them.
 
-On the day of the L ORD’s wrath,
+On the day of the LORD’s wrath,
 
 in the fire of his passion,
 

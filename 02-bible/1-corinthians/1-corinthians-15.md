@@ -1,25 +1,24 @@
 ---
-title: 1 Corinthians, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Corinthians, Chapter 15
+title: 1 Corinthians, Chapter 15
+url: https://bible.usccb.org/bible/1corinthians/15
 aliases:
   - 1 Corinthians, Chapter 15
   - 1-corinthians-15
 tags:
   - bible/1-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1corinthians/15
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Corinthians, Chapter 15
 ---
 
 # 1 Corinthians, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **The Gospel Teaching.**
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/1corinthians/15
 
 11 Therefore, whether it be I or they, so we preach and so you believed. ^1-corinthians-15-11
 
-### B. the Resurrection of the Dead
+## B. the Resurrection of the Dead
 
 **Results of Denial.**
 
@@ -105,7 +104,7 @@ for tomorrow we die.”
 
 34 Become sober as you ought and stop sinning. For some have no knowledge of God; I say this to your shame. ^1-corinthians-15-34
 
-### C. the Manner of the Resurrection
+## C. the Manner of the Resurrection
 
 35 But someone may say, “How are the dead raised? With what kind of body will they come back?” ^1-corinthians-15-35
 

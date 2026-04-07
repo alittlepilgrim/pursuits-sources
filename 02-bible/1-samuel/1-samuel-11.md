@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 11
+title: 1 Samuel, Chapter 11
+url: https://bible.usccb.org/bible/1samuel/11
 aliases:
   - 1 Samuel, Chapter 11
   - 1-samuel-11
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/11
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 11
 ---
 
 # 1 Samuel, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **Defeat of the Ammonites.**
 
@@ -35,7 +34,7 @@ url: https://bible.usccb.org/bible/1samuel/11
 
 6 As he listened to this report, the spirit of God rushed upon him and he became very angry. ^1-samuel-11-6
 
-7 Taking a yoke of oxen, he cut them into pieces and sent them throughout the territory of Israel by messengers saying, “If anyone does not come out to follow Saul and Samuel, the same thing will be done to his oxen!” The dread of the L ORD came upon the people and they went forth as one. ^1-samuel-11-7
+7 Taking a yoke of oxen, he cut them into pieces and sent them throughout the territory of Israel by messengers saying, “If anyone does not come out to follow Saul and Samuel, the same thing will be done to his oxen!” The dread of the LORD came upon the people and they went forth as one. ^1-samuel-11-7
 
 8 When Saul reviewed them in Bezek, there were three hundred thousand Israelites and seventy thousand Judahites. ^1-samuel-11-8
 
@@ -49,17 +48,17 @@ url: https://bible.usccb.org/bible/1samuel/11
 
 12 The people then said to Samuel: “Who questioned whether Saul should rule over us? Hand them over and we will put them to death.” ^1-samuel-11-12
 
-13 But Saul objected, “No one will be put to death this day, for today the L ORD has rescued Israel.” ^1-samuel-11-13
+13 But Saul objected, “No one will be put to death this day, for today the LORD has rescued Israel.” ^1-samuel-11-13
 
 14 Samuel said to the people, “Come, let us go to Gilgal to renew the kingship there.” ^1-samuel-11-14
 
-15 So all the people went to Gilgal, and there they made Saul king in the L ORD’s presence. They also sacrificed communion offerings there before the L ORD, and Saul and all the Israelites rejoiced greatly. ^1-samuel-11-15
+15 So all the people went to Gilgal, and there they made Saul king in the LORD’s presence. They also sacrificed communion offerings there before the LORD, and Saul and all the Israelites rejoiced greatly. ^1-samuel-11-15
 
 \* (11:1) A text from Qumran (1QSam <sup>a</sup>) introduces this chapter with the report that Nahash, king of the Ammonites, had attacked the Gadites and the Reubenites, gouging out their right eyes. Seven thousand of them had fled to Jabesh-gilead. This additional information would explain why Nahash besieged Jabesh-gilead. There is no consensus among scholars whether the Qumran text represents an original reading or a secondary expansion.
 
 \* (11:2) Right eye of every man: thus rendering them incapable of military action.
 
-\* (11:7) Throughout the territory of Israel: Saul’s gesture summons the Israelite confederacy to a coordinated response against Nahash; cf. [Jgs 19:29] for a similar action. Dread of the L ORD: often a panic that immobilizes Israel’s enemies; here, however, it has the opposite effect and incites the Israelites to battle.
+\* (11:7) Throughout the territory of Israel: Saul’s gesture summons the Israelite confederacy to a coordinated response against Nahash; cf. [Jgs 19:29] for a similar action. Dread of the LORD: often a panic that immobilizes Israel’s enemies; here, however, it has the opposite effect and incites the Israelites to battle.
 
 \* (11:8) Bezek: probably modern Khirbet Ibziq, northeast of Shechem, on the west slope of the Jordan valley, opposite Jabesh-gilead.
 

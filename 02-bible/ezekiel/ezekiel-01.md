@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 1
+title: Ezekiel, Chapter 1
+url: https://bible.usccb.org/bible/ezekiel/1
 aliases:
   - ezekiel-01
   - Ezekiel, Chapter 1
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 1
 ---
 
 # Ezekiel, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **The Vision: God on the Cherubim.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/ezekiel/1
 
 2 On the fifth day of the month—this was the fifth year of King Jehoiachin’s exile— ^ezekiel-01-2
 
-3 the word of the L ORD came to the priest Ezekiel, the son of Buzi, in the land of the Chaldeans by the river Chebar. There the hand of the L ORD came upon him. ^ezekiel-01-3
+3 the word of the LORD came to the priest Ezekiel, the son of Buzi, in the land of the Chaldeans by the river Chebar. There the hand of the LORD came upon him. ^ezekiel-01-3
 
 4 As I watched, a great stormwind came from the North, a large cloud with flashing fire, a bright glow all around it, and something like polished metal gleamed at the center of the fire. ^ezekiel-01-4
 
@@ -77,7 +76,7 @@ url: https://bible.usccb.org/bible/ezekiel/1
 
 27 And I saw something like polished metal, like the appearance of fire enclosed on all sides, from what looked like the waist up; and from what looked like the waist down, I saw something like the appearance of fire and brilliant light surrounding him. ^ezekiel-01-27
 
-28 Just like the appearance of the rainbow in the clouds on a rainy day so was the appearance of brilliance that surrounded him. Such was the appearance of the likeness of the glory of the L ORD. And when I saw it, I fell on my face and heard a voice speak. ^ezekiel-01-28
+28 Just like the appearance of the rainbow in the clouds on a rainy day so was the appearance of brilliance that surrounded him. Such was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell on my face and heard a voice speak. ^ezekiel-01-28
 
 \* (1:1) The thirtieth year, which corresponds to the fifth year of exile (v. [2]), has never been satisfactorily explained; possibly it refers to the prophet’s age, or the anniversary of the finding of the book of the law in the Temple during Josiah’s reform of 622 ([[2-kings-22|2 Kgs 22]]:1 – [13]). The river Chebar: probably a canal near Nippur, southeast of Babylon, one of the sites on which the Jewish exiles were settled.
 

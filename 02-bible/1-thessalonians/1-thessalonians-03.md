@@ -1,25 +1,24 @@
 ---
-title: 1 Thessalonians, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Thessalonians, Chapter 3
+title: 1 Thessalonians, Chapter 3
+url: https://bible.usccb.org/bible/1thessalonians/3
 aliases:
   - 1 Thessalonians, Chapter 3
   - 1-thessalonians-03
 tags:
   - bible/1-thessalonians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1thessalonians/3
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Thessalonians, Chapter 3
 ---
 
 # 1 Thessalonians, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 That is why, when we could bear it no longer, we decided to remain alone in Athens ^1-thessalonians-03-1
 

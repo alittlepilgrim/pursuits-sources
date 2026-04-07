@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 1
+title: 1 Samuel, Chapter 1
+url: https://bible.usccb.org/bible/1samuel/1
 aliases:
   - 1 Samuel, Chapter 1
   - 1-samuel-01
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 1
 ---
 
 # 1 Samuel, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Elkanah and His Family at Shiloh.**
 
@@ -27,33 +26,33 @@ url: https://bible.usccb.org/bible/1samuel/1
 
 2 He had two wives, one named Hannah, the other Peninnah; Peninnah had children, but Hannah had no children. ^1-samuel-01-2
 
-3 Each year this man went up from his city to worship and offer sacrifice to the L ORD of hosts at Shiloh, where the two sons of Eli, Hophni and Phinehas, were ministering as priests of the L ORD. ^1-samuel-01-3
+3 Each year this man went up from his city to worship and offer sacrifice to the LORD of hosts at Shiloh, where the two sons of Eli, Hophni and Phinehas, were ministering as priests of the LORD. ^1-samuel-01-3
 
 4 When the day came for Elkanah to offer sacrifice, he used to give portions to his wife Peninnah and to all her sons and daughters, ^1-samuel-01-4
 
-5 but he would give a double portion to Hannah because he loved her, though the L ORD had closed her womb. ^1-samuel-01-5
+5 but he would give a double portion to Hannah because he loved her, though the LORD had closed her womb. ^1-samuel-01-5
 
-6 Her rival, to upset her, would torment her constantly, since the L ORD had closed her womb. ^1-samuel-01-6
+6 Her rival, to upset her, would torment her constantly, since the LORD had closed her womb. ^1-samuel-01-6
 
-7 Year after year, when she went up to the house of the L ORD, Peninnah would provoke her, and Hannah would weep and refuse to eat. ^1-samuel-01-7
+7 Year after year, when she went up to the house of the LORD, Peninnah would provoke her, and Hannah would weep and refuse to eat. ^1-samuel-01-7
 
 8 Elkanah, her husband, would say to her: “Hannah, why are you weeping? Why are you not eating? Why are you so miserable? Am I not better for you than ten sons?” ^1-samuel-01-8
 
 **Hannah’s Prayer.**
 
-9 Hannah rose after one such meal at Shiloh, and presented herself before the L ORD; at the time Eli the priest was sitting on a chair near the doorpost of the L ORD’s temple. ^1-samuel-01-9
+9 Hannah rose after one such meal at Shiloh, and presented herself before the LORD; at the time Eli the priest was sitting on a chair near the doorpost of the LORD’s temple. ^1-samuel-01-9
 
-10 In her bitterness she prayed to the L ORD, weeping freely, ^1-samuel-01-10
+10 In her bitterness she prayed to the LORD, weeping freely, ^1-samuel-01-10
 
-11 and made this vow: “O L ORD of hosts, if you look with pity on the hardship of your servant, if you remember me and do not forget me, if you give your handmaid a male child, I will give him to the L ORD all the days of his life. No razor shall ever touch his head.” ^1-samuel-01-11
+11 and made this vow: “O LORD of hosts, if you look with pity on the hardship of your servant, if you remember me and do not forget me, if you give your handmaid a male child, I will give him to the LORD all the days of his life. No razor shall ever touch his head.” ^1-samuel-01-11
 
-12 As she continued praying before the L ORD, Eli watched her mouth, ^1-samuel-01-12
+12 As she continued praying before the LORD, Eli watched her mouth, ^1-samuel-01-12
 
 13 for Hannah was praying silently; though her lips were moving, her voice could not be heard. Eli, thinking she was drunk, ^1-samuel-01-13
 
 14 said to her, “How long will you make a drunken spectacle of yourself? Sober up from your wine!” ^1-samuel-01-14
 
-15 “No, my lord!” Hannah answered. “I am an unhappy woman. I have had neither wine nor liquor; I was only pouring out my heart to the L ORD. ^1-samuel-01-15
+15 “No, my lord!” Hannah answered. “I am an unhappy woman. I have had neither wine nor liquor; I was only pouring out my heart to the LORD. ^1-samuel-01-15
 
 16 Do not think your servant a worthless woman; my prayer has been prompted by my deep sorrow and misery.” ^1-samuel-01-16
 
@@ -61,29 +60,29 @@ url: https://bible.usccb.org/bible/1samuel/1
 
 18 She replied, “Let your servant find favor in your eyes,” and left. She went to her quarters, ate and drank with her husband, and no longer appeared downhearted. ^1-samuel-01-18
 
-19 Early the next morning they worshiped before the L ORD, and then returned to their home in Ramah. When they returned Elkanah had intercourse with his wife Hannah, and the L ORD remembered her. ^1-samuel-01-19
+19 Early the next morning they worshiped before the LORD, and then returned to their home in Ramah. When they returned Elkanah had intercourse with his wife Hannah, and the LORD remembered her. ^1-samuel-01-19
 
 **Hannah Bears a Son.**
 
-20 She conceived and, at the end of her pregnancy, bore a son whom she named Samuel. “Because I asked the L ORD for him.” ^1-samuel-01-20
+20 She conceived and, at the end of her pregnancy, bore a son whom she named Samuel. “Because I asked the LORD for him.” ^1-samuel-01-20
 
-21 The next time her husband Elkanah was going up with the rest of his household to offer the customary sacrifice to the L ORD and to fulfill his vows, ^1-samuel-01-21
+21 The next time her husband Elkanah was going up with the rest of his household to offer the customary sacrifice to the LORD and to fulfill his vows, ^1-samuel-01-21
 
-22 Hannah did not go, explaining to her husband, “Once the child is weaned, I will take him to appear before the L ORD and leave him there forever.” ^1-samuel-01-22
+22 Hannah did not go, explaining to her husband, “Once the child is weaned, I will take him to appear before the LORD and leave him there forever.” ^1-samuel-01-22
 
-23 Her husband Elkanah answered her: “Do what you think best; wait until you have weaned him. Only may the L ORD fulfill his word!” And so she remained at home and nursed her son until she had weaned him. ^1-samuel-01-23
+23 Her husband Elkanah answered her: “Do what you think best; wait until you have weaned him. Only may the LORD fulfill his word!” And so she remained at home and nursed her son until she had weaned him. ^1-samuel-01-23
 
 **Hannah Presents Samuel to the Lord.**
 
-24 Once he was weaned, she brought him up with her, along with a three-year-old bull, an ephah of flour, and a skin of wine, and presented him at the house of the L ORD in Shiloh. ^1-samuel-01-24
+24 Once he was weaned, she brought him up with her, along with a three-year-old bull, an ephah of flour, and a skin of wine, and presented him at the house of the LORD in Shiloh. ^1-samuel-01-24
 
 25 After they had slaughtered the bull, they brought the child to Eli. ^1-samuel-01-25
 
-26 Then Hannah spoke up: “Excuse me, my lord! As you live, my lord, I am the woman who stood here near you, praying to the L ORD. ^1-samuel-01-26
+26 Then Hannah spoke up: “Excuse me, my lord! As you live, my lord, I am the woman who stood here near you, praying to the LORD. ^1-samuel-01-26
 
-27 I prayed for this child, and the L ORD granted my request. ^1-samuel-01-27
+27 I prayed for this child, and the LORD granted my request. ^1-samuel-01-27
 
-28 Now I, in turn, give him to the L ORD; as long as he lives, he shall be dedicated to the L ORD.” Then they worshiped there before the L ORD. ^1-samuel-01-28
+28 Now I, in turn, give him to the LORD; as long as he lives, he shall be dedicated to the LORD.” Then they worshiped there before the LORD. ^1-samuel-01-28
 
 \* (1:6) Her rival: Hebrew *sara*, “rival wife, co-wife”; in the Talmud, a technical term for a second or co-wife.
 

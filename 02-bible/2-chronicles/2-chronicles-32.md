@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 32
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 32
+title: 2 Chronicles, Chapter 32
+url: https://bible.usccb.org/bible/2chronicles/32
 aliases:
   - 2 Chronicles, Chapter 32
   - 2-chronicles-32
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/32
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 32
 ---
 
 # 2 Chronicles, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
 **Sennacherib’s Invasion.**
 
@@ -37,7 +36,7 @@ url: https://bible.usccb.org/bible/2chronicles/32
 
 7 “Be strong and steadfast; do not be afraid or dismayed because of the king of Assyria and all the horde coming with him, for there is more with us than with him. ^2-chronicles-32-7
 
-8 He has only an arm of flesh, but we have the L ORD, our God, to help us and to fight our battles.” And the people took confidence from the words of Hezekiah, king of Judah. ^2-chronicles-32-8
+8 He has only an arm of flesh, but we have the LORD, our God, to help us and to fight our battles.” And the people took confidence from the words of Hezekiah, king of Judah. ^2-chronicles-32-8
 
 **Threat of Sennacherib.**
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/2chronicles/32
 
 10 “Thus says Sennacherib, king of Assyria: In what are you trusting, now that you are under siege in Jerusalem? ^2-chronicles-32-10
 
-11 Is not Hezekiah deceiving you, delivering you over to a death of famine and thirst, by his claim that ‘the L ORD, our God, will rescue us from the grasp of the king of Assyria’? ^2-chronicles-32-11
+11 Is not Hezekiah deceiving you, delivering you over to a death of famine and thirst, by his claim that ‘the LORD, our God, will rescue us from the grasp of the king of Assyria’? ^2-chronicles-32-11
 
 12 Has not this same Hezekiah removed the Lord’s own high places and altars and commanded Judah and Jerusalem, ‘You shall bow down before one altar only, and on it alone you shall offer incense’? ^2-chronicles-32-12
 
@@ -55,7 +54,7 @@ url: https://bible.usccb.org/bible/2chronicles/32
 
 15 Let not Hezekiah mislead you further and deceive you in any such way. Do not believe him! Since no other god of any other nation or kingdom has been able to rescue his people from my hand or the hands of my fathers, how much the less shall your god rescue you from my hand!” ^2-chronicles-32-15
 
-16 His officials said still more against the L ORD God and against his servant Hezekiah, ^2-chronicles-32-16
+16 His officials said still more against the LORD God and against his servant Hezekiah, ^2-chronicles-32-16
 
 18 In a loud voice they shouted in the language of Judah to the people of Jerusalem who were on the wall, to frighten and terrify them so that they might capture their city. ^2-chronicles-32-18
 
@@ -65,19 +64,19 @@ url: https://bible.usccb.org/bible/2chronicles/32
 
 **Sennacherib’s Defeat.**
 
-21 Then the L ORD sent an angel, who destroyed every warrior, leader, and commander in the camp of the Assyrian king, so that he had to return shamefaced to his own country. And when he entered the temple of his god, some of his own offspring struck him down there with the sword. ^2-chronicles-32-21
+21 Then the LORD sent an angel, who destroyed every warrior, leader, and commander in the camp of the Assyrian king, so that he had to return shamefaced to his own country. And when he entered the temple of his god, some of his own offspring struck him down there with the sword. ^2-chronicles-32-21
 
-22 Thus the L ORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib, king of Assyria, as from every other power; he gave them rest on every side. ^2-chronicles-32-22
+22 Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib, king of Assyria, as from every other power; he gave them rest on every side. ^2-chronicles-32-22
 
-23 Many brought gifts for the L ORD to Jerusalem and costly objects for Hezekiah, king of Judah, who thereafter was exalted in the eyes of all the nations. ^2-chronicles-32-23
+23 Many brought gifts for the LORD to Jerusalem and costly objects for Hezekiah, king of Judah, who thereafter was exalted in the eyes of all the nations. ^2-chronicles-32-23
 
 **Hezekiah’s Later Reign.**
 
-24 In those days Hezekiah became mortally ill. He prayed to the L ORD, who answered him by giving him a sign. ^2-chronicles-32-24
+24 In those days Hezekiah became mortally ill. He prayed to the LORD, who answered him by giving him a sign. ^2-chronicles-32-24
 
 25 Hezekiah, however, did not respond with like generosity, for he had become arrogant. Therefore wrath descended upon him and upon Judah and Jerusalem. ^2-chronicles-32-25
 
-26 But then Hezekiah humbled himself for his pride—both he and the inhabitants of Jerusalem; and therefore the wrath of the L ORD did not come upon them during the time of Hezekiah. ^2-chronicles-32-26
+26 But then Hezekiah humbled himself for his pride—both he and the inhabitants of Jerusalem; and therefore the wrath of the LORD did not come upon them during the time of Hezekiah. ^2-chronicles-32-26
 
 27 Hezekiah possessed very great wealth and glory. He made treasuries for his silver, gold, precious stones, spices, jewels, and other precious things of all kinds; ^2-chronicles-32-27
 

@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 11
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 11
+title: Judges, Chapter 11
+url: https://bible.usccb.org/bible/judges/11
 aliases:
   - judges-11
   - Judges, Chapter 11
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 11
 ---
 
 # Judges, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **Jephthah.**
 
@@ -39,11 +38,11 @@ url: https://bible.usccb.org/bible/judges/11
 
 8 The elders of Gilead said to Jephthah, “This is the reason we have come back to you now: if you go with us to fight against the Ammonites, you shall be the leader of all of the inhabitants of Gilead.” ^judges-11-8
 
-9 Jephthah answered the elders of Gilead, “If you bring me back to fight against the Ammonites and the L ORD delivers them up to me, I will be your leader.” ^judges-11-9
+9 Jephthah answered the elders of Gilead, “If you bring me back to fight against the Ammonites and the LORD delivers them up to me, I will be your leader.” ^judges-11-9
 
-10 The elders of Gilead said to Jephthah, “The L ORD is witness between us that we will do as you say.” ^judges-11-10
+10 The elders of Gilead said to Jephthah, “The LORD is witness between us that we will do as you say.” ^judges-11-10
 
-11 So Jephthah went with the elders of Gilead, and the army made him their leader and commander. Jephthah gave all his orders in the presence of the L ORD in Mizpah. ^judges-11-11
+11 So Jephthah went with the elders of Gilead, and the army made him their leader and commander. Jephthah gave all his orders in the presence of the LORD in Mizpah. ^judges-11-11
 
 12 Then he sent messengers to the king of the Ammonites to say, “What do you have against me that you come to fight with me in my land?” ^judges-11-12
 
@@ -63,39 +62,39 @@ url: https://bible.usccb.org/bible/judges/11
 
 20 But Sihon refused to let Israel pass through his territory. He gathered all his soldiers, and they encamped at Jahaz and fought Israel. ^judges-11-20
 
-21 But the L ORD, the God of Israel, delivered Sihon and his entire army into the power of Israel, who defeated them and occupied all the land of the Amorites who lived in that region. ^judges-11-21
+21 But the LORD, the God of Israel, delivered Sihon and his entire army into the power of Israel, who defeated them and occupied all the land of the Amorites who lived in that region. ^judges-11-21
 
 22 They occupied all of the Amorite territory from the Arnon to the Jabbok and the wilderness to the Jordan. ^judges-11-22
 
-23 Now, then, it was the L ORD, the God of Israel, who dispossessed the Amorites for his people, Israel. And you are going to dispossess them? ^judges-11-23
+23 Now, then, it was the LORD, the God of Israel, who dispossessed the Amorites for his people, Israel. And you are going to dispossess them? ^judges-11-23
 
-24 Should you not take possession of that which your god Chemosh gave you to possess, and should we not take possession of all that the L ORD, our God, has dispossessed for us? ^judges-11-24
+24 Should you not take possession of that which your god Chemosh gave you to possess, and should we not take possession of all that the LORD, our God, has dispossessed for us? ^judges-11-24
 
 25 Now, then, are you any better than Balak, son of Zippor, king of Moab? Did he ever quarrel with Israel or make war against them? ^judges-11-25
 
 26 Israel has dwelt in Heshbon and its villages, Aroer and its villages, and all the cities on the banks of the Arnon for three hundred years. Why did you not recover them during that time? ^judges-11-26
 
-27 As for me, I have not sinned against you, but you wrong me by making war against me. Let the L ORD, who is judge, decide this day between the Israelites and the Ammonites!’” ^judges-11-27
+27 As for me, I have not sinned against you, but you wrong me by making war against me. Let the LORD, who is judge, decide this day between the Israelites and the Ammonites!’” ^judges-11-27
 
 28 But the king of the Ammonites paid no heed to the message Jephthah sent him. ^judges-11-28
 
 **Jephthah’s Vow.**
 
-29 The spirit of the L ORD came upon Jephthah. He passed through Gilead and Manasseh, and through Mizpah of Gilead as well, and from Mizpah of Gilead he crossed over against the Ammonites. ^judges-11-29
+29 The spirit of the LORD came upon Jephthah. He passed through Gilead and Manasseh, and through Mizpah of Gilead as well, and from Mizpah of Gilead he crossed over against the Ammonites. ^judges-11-29
 
-30 Jephthah made a vow to the L ORD. “If you deliver the Ammonites into my power,” he said, ^judges-11-30
+30 Jephthah made a vow to the LORD. “If you deliver the Ammonites into my power,” he said, ^judges-11-30
 
-31 “whoever comes out of the doors of my house to meet me when I return from the Ammonites in peace shall belong to the L ORD. I shall offer him up as a burnt offering.” ^judges-11-31
+31 “whoever comes out of the doors of my house to meet me when I return from the Ammonites in peace shall belong to the LORD. I shall offer him up as a burnt offering.” ^judges-11-31
 
-32 Jephthah then crossed over against the Ammonites to fight against them, and the L ORD delivered them into his power. ^judges-11-32
+32 Jephthah then crossed over against the Ammonites to fight against them, and the LORD delivered them into his power. ^judges-11-32
 
 33 He inflicted a very severe defeat on them from Aroer to the approach of Minnith—twenty cities in all—and as far as Abel-keramin. So the Ammonites were brought into subjection by the Israelites. ^judges-11-33
 
 34 When Jephthah returned to his house in Mizpah, it was his daughter who came out to meet him, with tambourine-playing and dancing. She was his only child: he had neither son nor daughter besides her. ^judges-11-34
 
-35 When he saw her, he tore his garments and said, “Ah, my daughter! You have struck me down and brought calamity upon me. For I have made a vow to the L ORD and I cannot take it back.” ^judges-11-35
+35 When he saw her, he tore his garments and said, “Ah, my daughter! You have struck me down and brought calamity upon me. For I have made a vow to the LORD and I cannot take it back.” ^judges-11-35
 
-36 “Father,” she replied, “you have made a vow to the L ORD. Do with me as you have vowed, because the L ORD has taken vengeance for you against your enemies the Ammonites.” ^judges-11-36
+36 “Father,” she replied, “you have made a vow to the LORD. Do with me as you have vowed, because the LORD has taken vengeance for you against your enemies the Ammonites.” ^judges-11-36
 
 37 Then she said to her father, “Let me have this favor. Do nothing for two months, that I and my companions may go wander in the mountains to weep for my virginity.” ^judges-11-37
 

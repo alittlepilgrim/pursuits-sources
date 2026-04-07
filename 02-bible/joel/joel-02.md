@@ -1,27 +1,26 @@
 ---
-title: Joel, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joel, Chapter 2
+title: Joel, Chapter 2
+url: https://bible.usccb.org/bible/joel/2
 aliases:
   - joel-02
   - Joel, Chapter 2
 tags:
+  - bible/chapter
   - bible/joel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/joel/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Joel, Chapter 2
 ---
 
 # Joel, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
-#### The Day Approaches
+### The Day Approaches
 
 1 Blow the horn in Zion, ^joel-02-1
 
@@ -29,7 +28,7 @@ sound the alarm on my holy mountain!
 
 Let all the inhabitants of the land tremble,
 
-for the day of the L ORD is coming!
+for the day of the LORD is coming!
 
 Yes, it approaches,
 
@@ -111,7 +110,7 @@ Sun and moon are darkened,
 
 and the stars withhold their brightness.
 
-11 The L ORD raises his voice ^joel-02-11
+11 The LORD raises his voice ^joel-02-11
 
 at the head of his army;
 
@@ -119,13 +118,13 @@ How immense is his host!
 
 How numerous those who carry out his command!
 
-How great is the day of the L ORD!
+How great is the day of the LORD!
 
 Utterly terrifying! Who can survive it?
 
-#### Return to the Lord
+### Return to the Lord
 
-12 Yet even now—oracle of the L ORD — ^joel-02-12
+12 Yet even now—oracle of the LORD — ^joel-02-12
 
 return to me with your whole heart,
 
@@ -133,7 +132,7 @@ with fasting, weeping, and mourning.
 
 13 Rend your hearts, not your garments, ^joel-02-13
 
-and return to the L ORD, your God,
+and return to the LORD, your God,
 
 For he is gracious and merciful,
 
@@ -147,7 +146,7 @@ and leave behind a blessing,
 
 Grain offering and libation
 
-for the L ORD, your God.
+for the LORD, your God.
 
 15 Blow the horn in Zion! ^joel-02-15
 
@@ -173,9 +172,9 @@ and the bride her bridal tent.
 
 let the priests weep,
 
-let the ministers of the L ORD weep and say:
+let the ministers of the LORD weep and say:
 
-“Spare your people, L ORD!
+“Spare your people, LORD!
 
 do not let your heritage become a disgrace,
 
@@ -187,9 +186,9 @@ Why should they say among the peoples,
 
 **The Lord Relents.**
 
-18 Then the L ORD grew jealous for his land and took pity on his people. ^joel-02-18
+18 Then the LORD grew jealous for his land and took pity on his people. ^joel-02-18
 
-19 In response the L ORD said to his people: ^joel-02-19
+19 In response the LORD said to his people: ^joel-02-19
 
 I am sending you
 
@@ -219,7 +218,7 @@ What great deeds the Lord has done!
 
 delight and rejoice,
 
-for the L ORD has done great things!
+for the LORD has done great things!
 
 22 Do not fear, you animals in the wild, ^joel-02-22
 
@@ -231,7 +230,7 @@ the fig tree and the vine produce their harvest.
 
 23 Children of Zion, delight ^joel-02-23
 
-and rejoice in the L ORD, your God!
+and rejoice in the LORD, your God!
 
 For he has faithfully given you the early rain,
 
@@ -253,7 +252,7 @@ my great army I sent against you.
 
 26 You will eat until you are fully satisfied, ^joel-02-26
 
-then you will praise the name of the L ORD, your God,
+then you will praise the name of the LORD, your God,
 
 Who acts so wondrously on your behalf!
 
@@ -261,7 +260,7 @@ My people will never again be put to shame.
 
 27 Then you will know that I am in the midst of Israel: ^joel-02-27
 
-I, the L ORD, am your God, and there is no other;
+I, the LORD, am your God, and there is no other;
 
 my people will never again be put to shame.
 

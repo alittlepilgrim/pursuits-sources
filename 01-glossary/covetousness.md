@@ -1,15 +1,16 @@
 ---
-title: Covetousness
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: covetousness. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Covetousness
 aliases:
   - covetousness
   - Covetousness
 tags:
   - term/covetousness
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: covetousness. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Covetousness

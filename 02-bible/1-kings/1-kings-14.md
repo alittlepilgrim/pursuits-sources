@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 14
+title: 1 Kings, Chapter 14
+url: https://bible.usccb.org/bible/1kings/14
 aliases:
   - 1 Kings, Chapter 14
   - 1-kings-14
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/14
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 14
 ---
 
 # 1 Kings, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Ahijah Announces Jeroboam’s Downfall.**
 
@@ -33,11 +32,11 @@ url: https://bible.usccb.org/bible/1kings/14
 
 Now Ahijah could not see because age had dimmed his sight.
 
-5 But the L ORD said to Ahijah: Jeroboam’s wife is coming to consult you about her son, for he is sick. Thus and so you must tell her. When she comes, she will be in disguise. ^1-kings-14-5
+5 But the LORD said to Ahijah: Jeroboam’s wife is coming to consult you about her son, for he is sick. Thus and so you must tell her. When she comes, she will be in disguise. ^1-kings-14-5
 
 6 So Ahijah, hearing the sound of her footsteps as she entered the door, said, “Come in, wife of Jeroboam. Why are you in disguise? For my part, I have been commissioned to give you bitter news. ^1-kings-14-6
 
-7 Go, tell Jeroboam, ‘Thus says the L ORD, the God of Israel: I exalted you from among the people and made you ruler of my people Israel. ^1-kings-14-7
+7 Go, tell Jeroboam, ‘Thus says the LORD, the God of Israel: I exalted you from among the people and made you ruler of my people Israel. ^1-kings-14-7
 
 8 I tore the kingdom away from the house of David and gave it to you. Yet you have not been like my servant David, who kept my commandments and followed me with his whole heart, doing only what is right in my sight. ^1-kings-14-8
 
@@ -61,45 +60,45 @@ anyone who dies in the field,
 
 the birds of the sky will devour.
 
-For the L ORD has spoken!’
+For the LORD has spoken!’
 
 12 As for you, leave, and go home! As you step inside the city, the child will die, ^1-kings-14-12
 
-13 and all Israel will mourn him and bury him, for he alone of Jeroboam’s line will be laid in the grave, since in him alone of Jeroboam’s house has something pleasing to the L ORD, the God of Israel, been found. ^1-kings-14-13
+13 and all Israel will mourn him and bury him, for he alone of Jeroboam’s line will be laid in the grave, since in him alone of Jeroboam’s house has something pleasing to the LORD, the God of Israel, been found. ^1-kings-14-13
 
-14 The L ORD will raise up for himself a king over Israel who will cut off the house of Jeroboam—today, at this very moment! ^1-kings-14-14
+14 The LORD will raise up for himself a king over Israel who will cut off the house of Jeroboam—today, at this very moment! ^1-kings-14-14
 
-15 The L ORD will strike Israel like a reed tossed about in the water and will pluck out Israel from this good land which he gave their ancestors, and will scatter them beyond the River, because they made asherahs for themselves, provoking the L ORD. ^1-kings-14-15
+15 The LORD will strike Israel like a reed tossed about in the water and will pluck out Israel from this good land which he gave their ancestors, and will scatter them beyond the River, because they made asherahs for themselves, provoking the LORD. ^1-kings-14-15
 
 16 He will give up Israel because of the sins Jeroboam has committed and caused Israel to commit.” ^1-kings-14-16
 
 17 So Jeroboam’s wife left and went back; when she came to Tirzah and crossed the threshold of her house, the child died. ^1-kings-14-17
 
-18 He was buried and all Israel mourned him, according to the word of the L ORD spoken through his servant Ahijah the prophet. ^1-kings-14-18
+18 He was buried and all Israel mourned him, according to the word of the LORD spoken through his servant Ahijah the prophet. ^1-kings-14-18
 
 19 The rest of the acts of Jeroboam, how he fought and how he reigned, these are recorded in the book of the chronicles of the kings of Israel. ^1-kings-14-19
 
 20 The length of Jeroboam’s reign was twenty-two years. He rested with his ancestors, and Nadab his son succeeded him as king. ^1-kings-14-20
 
-## Iii. Kings of Judah and Israel
+# Iii. Kings of Judah and Israel
 
 **Reign of Rehoboam.**
 
-21 Rehoboam, son of Solomon, became king in Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city in which, out of all the tribes of Israel, the L ORD chose to set his name. His mother’s name was Naamah the Ammonite. ^1-kings-14-21
+21 Rehoboam, son of Solomon, became king in Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city in which, out of all the tribes of Israel, the LORD chose to set his name. His mother’s name was Naamah the Ammonite. ^1-kings-14-21
 
-22 Judah did evil in the L ORD’s sight and they angered him even more than their ancestors had done. ^1-kings-14-22
+22 Judah did evil in the LORD’s sight and they angered him even more than their ancestors had done. ^1-kings-14-22
 
 23 They, too, built for themselves high places, sacred pillars, and asherahs, upon every high hill and under every green tree. ^1-kings-14-23
 
-24 There were also pagan priests in the land. Judah imitated all the abominable practices of the nations whom the L ORD had driven out of the Israelites’ way. ^1-kings-14-24
+24 There were also pagan priests in the land. Judah imitated all the abominable practices of the nations whom the LORD had driven out of the Israelites’ way. ^1-kings-14-24
 
 25 In the fifth year of King Rehoboam, Shishak, king of Egypt, attacked Jerusalem. ^1-kings-14-25
 
-26 He took everything, including the treasures of the house of the L ORD and the treasures of the house of the king, even the gold shields Solomon had made. ^1-kings-14-26
+26 He took everything, including the treasures of the house of the LORD and the treasures of the house of the king, even the gold shields Solomon had made. ^1-kings-14-26
 
 27 To replace them, King Rehoboam made bronze shields, which he entrusted to the officers of the guard on duty at the entrance of the royal house. ^1-kings-14-27
 
-28 Whenever the king visited the house of the L ORD, those on duty would carry the shields, and then return them to the guardroom. ^1-kings-14-28
+28 Whenever the king visited the house of the LORD, those on duty would carry the shields, and then return them to the guardroom. ^1-kings-14-28
 
 29 The rest of the acts of Rehoboam, with all that he did, are recorded in the book of the chronicles of the kings of Judah. ^1-kings-14-29
 

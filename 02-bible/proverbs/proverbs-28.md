@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 28
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 28
+title: Proverbs, Chapter 28
+url: https://bible.usccb.org/bible/proverbs/28
 aliases:
   - proverbs-28
   - Proverbs, Chapter 28
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/28
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 28
 ---
 
 # Proverbs, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 1 The wicked flee though none pursue; ^proverbs-28-1
 
@@ -39,7 +38,7 @@ but those who keep instruction oppose them.
 
 5 The evil understand nothing of justice, ^proverbs-28-5
 
-but those who seek the L ORD understand everything.
+but those who seek the LORD understand everything.
 
 6 Better to be poor and walk in integrity ^proverbs-28-6
 
@@ -121,7 +120,7 @@ is a partner to a brigand.
 
 25 The greedy person stirs up strife, ^proverbs-28-25
 
-but the one who trusts in the L ORD will prosper.
+but the one who trusts in the LORD will prosper.
 
 26 Those who trust in themselves are fools, ^proverbs-28-26
 
@@ -141,7 +140,7 @@ but at their fall the just abound.
 
 \* (28:4) Instruction: *torah*; the word is used both for the teaching of the wise and the law of Moses.
 
-\* (28:5) Understanding nothing of justice plays on the twofold sense of justice as righteousness and as punishment that comes on the wicked. On the other hand, those who seek the L ORD understand everything, i.e., that the Lord punishes the wicked and rewards the righteous (themselves).
+\* (28:5) Understanding nothing of justice plays on the twofold sense of justice as righteousness and as punishment that comes on the wicked. On the other hand, those who seek the LORD understand everything, i.e., that the Lord punishes the wicked and rewards the righteous (themselves).
 
 \* (28:8) Interest and overcharge were strictly forbidden in the old law among Israelites because it was presumed that the borrower was in distress; cf. ([[exodus-22|Ex 22]]:25]; [Lv 25:35] – [37]; [Dt 23:20]; ([[psalm-15|Ps 15]]:5]; [[ezekiel-18|Ez 18]]:8. Divine providence will take the offender’s wealth; cf. [Eccl 2:26].
 

@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 18
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 18
+title: Genesis, Chapter 18
+url: https://bible.usccb.org/bible/genesis/18
 aliases:
   - genesis-18
   - Genesis, Chapter 18
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 18
 bible_book: genesis
 bible_chapter: "18"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/18
 ---
 
 [[genesis-17|[← Previous Note]]] · [[genesis-19|[Next Note →]]]
@@ -28,7 +27,7 @@ url: https://bible.usccb.org/bible/genesis/18
 
 **[[abraham|Abraham]]’s Visitors.**
 
-1 The L ORD appeared to [[abraham|Abraham]] by the oak of Mamre, as he sat in the entrance of his tent, while the day was growing hot. ^genesis-18-1
+1 The LORD appeared to [[abraham|Abraham]] by the oak of Mamre, as he sat in the entrance of his tent, while the day was growing hot. ^genesis-18-1
 
 2 Looking up, he saw three men standing near him. When he saw them, he ran from the entrance of the tent to greet them; and bowing to the ground, ^genesis-18-2
 
@@ -52,9 +51,9 @@ url: https://bible.usccb.org/bible/genesis/18
 
 12 So Sarah laughed to herself and said, “Now that I am worn out and my husband is old, am I still to have sexual pleasure?” ^genesis-18-12
 
-13 But the L ORD said to [[abraham|Abraham]]: “Why did Sarah laugh and say, ‘Will I really bear a child, old as I am?’ ^genesis-18-13
+13 But the LORD said to [[abraham|Abraham]]: “Why did Sarah laugh and say, ‘Will I really bear a child, old as I am?’ ^genesis-18-13
 
-14 Is anything too marvelous for the L ORD to do? At the appointed time, about this time next year, I will return to you, and Sarah will have a son.” ^genesis-18-14
+14 Is anything too marvelous for the LORD to do? At the appointed time, about this time next year, I will return to you, and Sarah will have a son.” ^genesis-18-14
 
 15 Sarah lied, saying, “I did not laugh,” because she was afraid. But he said, “Yes, you did.” ^genesis-18-15
 
@@ -62,17 +61,17 @@ url: https://bible.usccb.org/bible/genesis/18
 
 16 With [[abraham|Abraham]] walking with them to see them on their way, the men set out from there and looked down toward Sodom. ^genesis-18-16
 
-17 The L ORD considered: Shall I hide from [[abraham|Abraham]] what I am about to do, ^genesis-18-17
+17 The LORD considered: Shall I hide from [[abraham|Abraham]] what I am about to do, ^genesis-18-17
 
 18 now that he is to become a great and mighty nation, and all the nations of the earth are to find blessing in him? ^genesis-18-18
 
-19 Indeed, I have singled him out that he may direct his children and his household in the future to keep the way of the L ORD by doing what is right and just, so that the L ORD may put into effect for [[abraham|Abraham]] the promises he made about him. ^genesis-18-19
+19 Indeed, I have singled him out that he may direct his children and his household in the future to keep the way of the LORD by doing what is right and just, so that the LORD may put into effect for [[abraham|Abraham]] the promises he made about him. ^genesis-18-19
 
-20 So the L ORD said: The outcry against Sodom and Gomorrah is so great, and their sin so grave, ^genesis-18-20
+20 So the LORD said: The outcry against Sodom and Gomorrah is so great, and their sin so grave, ^genesis-18-20
 
 21 that I must go down to see whether or not their actions are as bad as the cry against them that comes to me. I mean to find out. ^genesis-18-21
 
-22 As the men turned and walked on toward Sodom, [[abraham|Abraham]] remained standing before the L ORD. ^genesis-18-22
+22 As the men turned and walked on toward Sodom, [[abraham|Abraham]] remained standing before the LORD. ^genesis-18-22
 
 23 Then [[abraham|Abraham]] drew near and said: “Will you really sweep away the righteous with the wicked? ^genesis-18-23
 
@@ -80,7 +79,7 @@ url: https://bible.usccb.org/bible/genesis/18
 
 25 Far be it from you to do such a thing, to kill the righteous with the wicked, so that the righteous and the wicked are treated alike! Far be it from you! Should not the judge of all the world do what is just?” ^genesis-18-25
 
-26 The L ORD replied: If I find fifty righteous people in the city of Sodom, I will spare the whole place for their sake. ^genesis-18-26
+26 The LORD replied: If I find fifty righteous people in the city of Sodom, I will spare the whole place for their sake. ^genesis-18-26
 
 27 [[abraham|Abraham]] spoke up again: “See how I am presuming to speak to my Lord, though I am only dust and ashes! ^genesis-18-27
 
@@ -94,7 +93,7 @@ url: https://bible.usccb.org/bible/genesis/18
 
 32 But he persisted: “Please, do not let my Lord be angry if I speak up this last time. What if ten are found there?” For the sake of the ten, he replied, I will not destroy it. ^genesis-18-32
 
-33 The L ORD departed as soon as he had finished speaking with [[abraham|Abraham]], and [[abraham|Abraham]] returned home. ^genesis-18-33
+33 The LORD departed as soon as he had finished speaking with [[abraham|Abraham]], and [[abraham|Abraham]] returned home. ^genesis-18-33
 
 \* (18:1) Chapters [18] and [19] combined form a continuous narrative, concluding the story of [[abraham|Abraham]] and his nephew Lot that began in [13:2] – [18]. The mysterious men visit [[abraham|Abraham]] in Mamre to promise him and Sarah a child the following year ([18:1] – [15]) and then visit Lot in Sodom to investigate and then to punish the corrupt city ([19:1] – [29]). Between the two visits, [[abraham|Abraham]] questions God about the justice of punishing Sodom ([18:16] – [33]). At the end of the destruction of Sodom, there is a short narrative about Lot as the ancestor of Moab and the Ammonites ([19:30] – [38]).
 
@@ -130,6 +129,6 @@ i. (18:32) [Jer 5:1]; [[ezekiel-22|Ez 22]]:30..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-07|[← Previous Note]]] · [[genesis-09|[Next Note →]]]

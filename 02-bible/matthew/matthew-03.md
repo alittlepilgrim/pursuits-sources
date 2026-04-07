@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 3
+title: Matthew, Chapter 3
+url: https://bible.usccb.org/bible/matthew/3
 aliases:
   - matthew-03
   - Matthew, Chapter 3
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/3
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 3
 ---
 
 # Matthew, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **The Preaching of John the Baptist.**
 

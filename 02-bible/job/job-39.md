@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 39
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 39
+title: Job, Chapter 39
+url: https://bible.usccb.org/bible/job/39
 aliases:
   - job-39
   - Job, Chapter 39
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/39
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 39
 ---
 
 # Job, Chapter 39
 
-### Chapter 39
+## Chapter 39
 
 1 Do you know when mountain goats are born, ^job-39-1
 

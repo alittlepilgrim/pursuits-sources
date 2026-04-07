@@ -1,25 +1,24 @@
 ---
-title: 1 Maccabees, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, Chapter 9
+title: 1 Maccabees, Chapter 9
+url: https://bible.usccb.org/bible/1maccabees/9
 aliases:
   - 1 Maccabees, Chapter 9
   - 1-maccabees-09
 tags:
   - bible/1-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/9
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, Chapter 9
 ---
 
 # 1 Maccabees, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Death of Judas.**
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/1maccabees/9
 
 22 The other acts of Judas, his battles, the brave deeds he performed, and his greatness have not been recorded; but they were very many. ^1-maccabees-09-22
 
-## Iii. Leadership of Jonathan
+# Iii. Leadership of Jonathan
 
 **Jonathan Succeeds Judas.**
 

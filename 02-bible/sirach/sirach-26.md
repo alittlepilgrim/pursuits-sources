@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 26
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 26
+title: Sirach, Chapter 26
+url: https://bible.usccb.org/bible/sirach/26
 aliases:
   - sirach-26
   - Sirach, Chapter 26
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/26
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 26
 ---
 
 # Sirach, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 1 Happy the husband of a good wife; ^sirach-26-1
 
@@ -101,7 +100,7 @@ a beautiful face on a stately figure.
 
 so her shapely legs and steady feet.
 
-#### Dangers to Integrity and Friendship
+### Dangers to Integrity and Friendship
 
 28 Two things bring grief to my heart, ^sirach-26-28
 

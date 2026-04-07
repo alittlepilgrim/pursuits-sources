@@ -1,63 +1,62 @@
 ---
-title: Deuteronomy, Chapter 18
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 18
+title: Deuteronomy, Chapter 18
+url: https://bible.usccb.org/bible/deuteronomy/18
 aliases:
   - deuteronomy-18
   - Deuteronomy, Chapter 18
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/18
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 18
 ---
 
 # Deuteronomy, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Priests.**
 
-1 The levitical priests, the whole tribe of Levi, shall have no hereditary portion with Israel; they shall eat the fire offerings of the L ORD and the portions due to him. ^deuteronomy-18-1
+1 The levitical priests, the whole tribe of Levi, shall have no hereditary portion with Israel; they shall eat the fire offerings of the LORD and the portions due to him. ^deuteronomy-18-1
 
-2 They shall have no heritage among their kindred; the L ORD himself is their heritage, as he has told them. ^deuteronomy-18-2
+2 They shall have no heritage among their kindred; the LORD himself is their heritage, as he has told them. ^deuteronomy-18-2
 
 3 This shall be the due of the priests from the people: those who are offering a sacrifice, whether an ox or a sheep, shall give the priest the shoulder, the jowls and the stomach. ^deuteronomy-18-3
 
 4 The first fruits of your grain, your wine, and your oil, as well as the first shearing of your flock, you shall also give him. ^deuteronomy-18-4
 
-5 For the L ORD, your God, has chosen him out of all your tribes to be in attendance to minister in the name of the L ORD, him and his descendants for all time. ^deuteronomy-18-5
+5 For the LORD, your God, has chosen him out of all your tribes to be in attendance to minister in the name of the LORD, him and his descendants for all time. ^deuteronomy-18-5
 
-6 When a Levite goes from one of your communities anywhere in Israel in which he has been residing, to visit, as his heart may desire, the place which the L ORD will choose, ^deuteronomy-18-6
+6 When a Levite goes from one of your communities anywhere in Israel in which he has been residing, to visit, as his heart may desire, the place which the LORD will choose, ^deuteronomy-18-6
 
-7 and ministers there in the name of the L ORD, his God, like all his fellow Levites who stand before the L ORD there, ^deuteronomy-18-7
+7 and ministers there in the name of the LORD, his God, like all his fellow Levites who stand before the LORD there, ^deuteronomy-18-7
 
 8 he shall receive the same portions to eat, along with his stipends and patrimony. ^deuteronomy-18-8
 
 **Prophets.**
 
-9 When you come into the land which the L ORD, your God, is giving you, you shall not learn to imitate the abominations of the nations there. ^deuteronomy-18-9
+9 When you come into the land which the LORD, your God, is giving you, you shall not learn to imitate the abominations of the nations there. ^deuteronomy-18-9
 
 10 Let there not be found among you anyone who causes their son or daughter to pass through the fire, or practices divination, or is a soothsayer, augur, or sorcerer, ^deuteronomy-18-10
 
 11 or who casts spells, consults ghosts and spirits, or seeks oracles from the dead. ^deuteronomy-18-11
 
-12 Anyone who does such things is an abomination to the L ORD, and because of such abominations the L ORD, your God, is dispossessing them before you. ^deuteronomy-18-12
+12 Anyone who does such things is an abomination to the LORD, and because of such abominations the LORD, your God, is dispossessing them before you. ^deuteronomy-18-12
 
-13 You must be altogether sincere with the L ORD, your God. ^deuteronomy-18-13
+13 You must be altogether sincere with the LORD, your God. ^deuteronomy-18-13
 
-14 Although these nations whom you are about to dispossess listen to their soothsayers and diviners, the L ORD, your God, will not permit you to do so. ^deuteronomy-18-14
+14 Although these nations whom you are about to dispossess listen to their soothsayers and diviners, the LORD, your God, will not permit you to do so. ^deuteronomy-18-14
 
-15 A prophet like me will the L ORD, your God, raise up for you from among your own kindred; that is the one to whom you shall listen. ^deuteronomy-18-15
+15 A prophet like me will the LORD, your God, raise up for you from among your own kindred; that is the one to whom you shall listen. ^deuteronomy-18-15
 
-16 This is exactly what you requested of the L ORD, your God, at Horeb on the day of the assembly, when you said, “Let me not again hear the voice of the L ORD, my God, nor see this great fire any more, or I will die.” ^deuteronomy-18-16
+16 This is exactly what you requested of the LORD, your God, at Horeb on the day of the assembly, when you said, “Let me not again hear the voice of the LORD, my God, nor see this great fire any more, or I will die.” ^deuteronomy-18-16
 
-17 And the L ORD said to me, What they have said is good. ^deuteronomy-18-17
+17 And the LORD said to me, What they have said is good. ^deuteronomy-18-17
 
 18 I will raise up for them a prophet like you from among their kindred, and will put my words into the mouth of the prophet; the prophet shall tell them all that I command. ^deuteronomy-18-18
 
@@ -65,9 +64,9 @@ url: https://bible.usccb.org/bible/deuteronomy/18
 
 20 But if a prophet presumes to speak a word in my name that I have not commanded, or speaks in the name of other gods, that prophet shall die. ^deuteronomy-18-20
 
-21 Should you say to yourselves, “How can we recognize that a word is one the L ORD has not spoken?”, ^deuteronomy-18-21
+21 Should you say to yourselves, “How can we recognize that a word is one the LORD has not spoken?”, ^deuteronomy-18-21
 
-22 if a prophet speaks in the name of the L ORD but the word does not come true, it is a word the L ORD did not speak. The prophet has spoken it presumptuously; do not fear him. ^deuteronomy-18-22
+22 if a prophet speaks in the name of the LORD but the word does not come true, it is a word the LORD did not speak. The prophet has spoken it presumptuously; do not fear him. ^deuteronomy-18-22
 
 \* (18:8) His stipends and patrimony: meaning of the Hebrew is uncertain.
 

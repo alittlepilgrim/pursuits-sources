@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 64
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 64
+title: Isaiah, Chapter 64
+url: https://bible.usccb.org/bible/isaiah/64
 aliases:
   - isaiah-64
   - Isaiah, Chapter 64
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/64
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 64
 ---
 
 # Isaiah, Chapter 64
 
-### Chapter 64
+## Chapter 64
 
 1 As when brushwood is set ablaze, ^isaiah-64-1
 
@@ -63,15 +62,15 @@ For you have hidden your face from us
 
 and have delivered us up to our crimes.
 
-#### A Final Plea
+### A Final Plea
 
-7 Yet, L ORD, you are our father; ^isaiah-64-7
+7 Yet, LORD, you are our father; ^isaiah-64-7
 
 we are the clay and you our potter:
 
 we are all the work of your hand.
 
-8 Do not be so very angry, L ORD, ^isaiah-64-8
+8 Do not be so very angry, LORD, ^isaiah-64-8
 
 do not remember our crimes forever;
 
@@ -89,7 +88,7 @@ Has been burned with fire;
 
 all that was dear to us is laid waste.
 
-11 Can you hold back, L ORD, after all this? ^isaiah-64-11
+11 Can you hold back, LORD, after all this? ^isaiah-64-11
 
 Can you remain silent, and afflict us so severely?
 

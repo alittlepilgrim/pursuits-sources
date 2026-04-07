@@ -1,20 +1,19 @@
 ---
-title: Psalm 28
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 28
+title: Psalm 28
+url: https://bible.usccb.org/bible/psalms/28
 aliases:
   - Psalm 28
   - psalm-28
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/28
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 28
 ---
 
 # Psalm 28

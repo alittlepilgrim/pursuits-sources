@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 49
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 49
+title: Genesis, Chapter 49
+url: https://bible.usccb.org/bible/genesis/49
 aliases:
   - 20250508-020407
   - genesis-49
   - Genesis, Chapter 49
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 49
 bible_book: genesis
 bible_chapter: "49"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/49
 ---
 
 [[genesis-48|[← Previous Note]]] · [[genesis-50|[Next Note →]]]
@@ -131,7 +130,7 @@ That bites the horse’s heel,
 
 so that the rider tumbles backward.
 
-18 “I long for your deliverance, O L ORD! ^genesis-49-18
+18 “I long for your deliverance, O LORD! ^genesis-49-18
 
 19 “Gad shall be raided by raiders, ^genesis-49-19
 
@@ -231,6 +230,6 @@ d. (49:30) [[genesis-23|Gen 23]]:17..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]

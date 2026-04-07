@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 35
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 35
+title: Isaiah, Chapter 35
+url: https://bible.usccb.org/bible/isaiah/35
 aliases:
   - isaiah-35
   - Isaiah, Chapter 35
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/35
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 35
 ---
 
 # Isaiah, Chapter 35
 
-### Chapter 35
+## Chapter 35
 
-#### Israel’s Deliverance
+### Israel’s Deliverance
 
 1 The wilderness and the parched land will exult; ^isaiah-35-1
 
@@ -35,7 +34,7 @@ The glory of Lebanon will be given to it,
 
 the splendor of Carmel and Sharon;
 
-They will see the glory of the L ORD,
+They will see the glory of the LORD,
 
 the splendor of our God.
 
@@ -93,7 +92,7 @@ nor be found.
 
 But there the redeemed shall walk,
 
-10 And the ransomed of the L ORD shall return, ^isaiah-35-10
+10 And the ransomed of the LORD shall return, ^isaiah-35-10
 
 and enter Zion singing,
 

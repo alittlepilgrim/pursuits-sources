@@ -1,29 +1,28 @@
 ---
-title: Leviticus, Chapter 11
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 11
+title: Leviticus, Chapter 11
+url: https://bible.usccb.org/bible/leviticus/11
 aliases:
   - leviticus-11
   - Leviticus, Chapter 11
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 11
 ---
 
 # Leviticus, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **Clean and Unclean Meats.**
 
-1 The L ORD said to Moses and Aaron: ^leviticus-11-1
+1 The LORD said to Moses and Aaron: ^leviticus-11-1
 
 2 Speak to the Israelites and tell them: Of all land animals these are the ones you may eat: ^leviticus-11-2
 
@@ -109,9 +108,9 @@ url: https://bible.usccb.org/bible/leviticus/11
 
 43 Do not make yourselves loathsome by any swarming creature nor defile yourselves with them and so become unclean by them. ^leviticus-11-43
 
-44 For I, the L ORD, am your God. You shall make and keep yourselves holy, because I am holy. You shall not make yourselves unclean, then, by any swarming creature that crawls on the ground. ^leviticus-11-44
+44 For I, the LORD, am your God. You shall make and keep yourselves holy, because I am holy. You shall not make yourselves unclean, then, by any swarming creature that crawls on the ground. ^leviticus-11-44
 
-45 Since I, the L ORD, am the one who brought you up from the land of Egypt that I might be your God, you shall be holy, because I am holy. ^leviticus-11-45
+45 Since I, the LORD, am the one who brought you up from the land of Egypt that I might be your God, you shall be holy, because I am holy. ^leviticus-11-45
 
 46 This is the instruction for land animals, birds, and all the creatures that move about in the water, as well as any animal that swarms on the ground, ^leviticus-11-46
 

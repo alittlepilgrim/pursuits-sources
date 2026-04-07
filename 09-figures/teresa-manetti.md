@@ -1,12 +1,14 @@
 ---
+type: figure
 title: Teresa-manetti
-created: 2025-10-25
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20251025-192655
   - Teresa-manetti
+tags:
+  - type/figure
+created: 2025-10-25
+modified: 2026-04-06
+publish: false
 ---
 
 # Teresa-manetti

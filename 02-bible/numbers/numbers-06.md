@@ -1,43 +1,42 @@
 ---
-title: Numbers, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: numbers-chapter 6
+title: Numbers, Chapter 6
+url: https://bible.usccb.org/bible/numbers/6
 aliases:
   - numbers-06
   - Numbers, Chapter 6
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: numbers-chapter 6
 ---
 
 # Numbers, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Laws Concerning Nazirites.**
 
-1 The L ORD said to Moses: ^numbers-06-1
+1 The LORD said to Moses: ^numbers-06-1
 
-2 Speak to the Israelites and tell them: When men or women solemnly take the nazirite vow to dedicate themselves to the L ORD, ^numbers-06-2
+2 Speak to the Israelites and tell them: When men or women solemnly take the nazirite vow to dedicate themselves to the LORD, ^numbers-06-2
 
 3 they shall abstain from wine and strong drink; they may neither drink wine vinegar, other vinegar, or any kind of grape juice, nor eat either fresh or dried grapes. ^numbers-06-3
 
 4 As long as they are nazirites they shall not eat anything of the produce of the grapevine; not even the seeds or the skins. ^numbers-06-4
 
-5 While they are under the nazirite vow, no razor shall touch their hair. Until the period of their dedication to the L ORD is over, they shall be holy, letting the hair of their heads grow freely. ^numbers-06-5
+5 While they are under the nazirite vow, no razor shall touch their hair. Until the period of their dedication to the LORD is over, they shall be holy, letting the hair of their heads grow freely. ^numbers-06-5
 
-6 As long as they are dedicated to the L ORD, they shall not come near a dead person. ^numbers-06-6
+6 As long as they are dedicated to the LORD, they shall not come near a dead person. ^numbers-06-6
 
 7 Not even for their father or mother, sister or brother, should they defile themselves, when these die, since their heads bear their dedication to God. ^numbers-06-7
 
-8 As long as they are nazirites they are holy to the L ORD. ^numbers-06-8
+8 As long as they are nazirites they are holy to the LORD. ^numbers-06-8
 
 9 If someone dies very suddenly in their presence, defiling their dedicated heads, they shall shave their heads on the day of their purification, that is, on the seventh day. ^numbers-06-9
 
@@ -45,37 +44,37 @@ url: https://bible.usccb.org/bible/numbers/6
 
 11 The priest shall offer up the one as a purification offering and the other as a burnt offering, thus making atonement for them for the sin they committed with respect to the corpse. On the same day they shall reconsecrate their heads ^numbers-06-11
 
-12 and rededicate themselves to the L ORD for the period of their dedication, bringing a yearling lamb as a reparation offering. The previous period is not valid, because they defiled their dedicated heads. ^numbers-06-12
+12 and rededicate themselves to the LORD for the period of their dedication, bringing a yearling lamb as a reparation offering. The previous period is not valid, because they defiled their dedicated heads. ^numbers-06-12
 
 13 This is the ritual for the nazirites: When the period of their dedication is complete they shall go to the entrance of the tent of meeting, ^numbers-06-13
 
-14 bringing their offerings to the L ORD, one unblemished yearling lamb for a burnt offering, one unblemished yearling ewe lamb for a purification offering, one unblemished ram as a communion offering, ^numbers-06-14
+14 bringing their offerings to the LORD, one unblemished yearling lamb for a burnt offering, one unblemished yearling ewe lamb for a purification offering, one unblemished ram as a communion offering, ^numbers-06-14
 
 15 and a basket of unleavened cakes of bran flour mixed with oil and of unleavened wafers spread with oil, along with their grain offerings and libations. ^numbers-06-15
 
-16 The priest shall present them before the L ORD, and shall offer up the purification offering and the burnt offering for them. ^numbers-06-16
+16 The priest shall present them before the LORD, and shall offer up the purification offering and the burnt offering for them. ^numbers-06-16
 
-17 He shall then offer up the ram as a communion sacrifice to the L ORD, along with the basket of unleavened cakes, and the priest will offer the grain offering and libation. ^numbers-06-17
+17 He shall then offer up the ram as a communion sacrifice to the LORD, along with the basket of unleavened cakes, and the priest will offer the grain offering and libation. ^numbers-06-17
 
 18 Then at the entrance of the tent of meeting the nazirite shall shave his or her dedicated head, take the hair of the dedicated head, and put it in the fire under the communion sacrifice. ^numbers-06-18
 
 19 After the nazirite has shaved off the dedicated hair, the priest shall take a boiled shoulder of the ram, as well as one unleavened cake from the basket and one unleavened wafer, and shall put them in the hands of the nazirite. ^numbers-06-19
 
-20 The priest shall then elevate them as an elevated offering before the L ORD. They are an offering belonging to the priest, along with the brisket of the elevated offering and the leg of the contribution. Only after this may the nazirite drink wine. ^numbers-06-20
+20 The priest shall then elevate them as an elevated offering before the LORD. They are an offering belonging to the priest, along with the brisket of the elevated offering and the leg of the contribution. Only after this may the nazirite drink wine. ^numbers-06-20
 
-21 This, then, is the law for the nazirites, that is, what they vow as their offering to the L ORD in accord with their dedication, apart from anything else which their means may allow. In keeping with the vow they take so shall they do, according to the law of their dedication. ^numbers-06-21
+21 This, then, is the law for the nazirites, that is, what they vow as their offering to the LORD in accord with their dedication, apart from anything else which their means may allow. In keeping with the vow they take so shall they do, according to the law of their dedication. ^numbers-06-21
 
 **The Priestly Blessing.**
 
-22 The L ORD said to Moses: ^numbers-06-22
+22 The LORD said to Moses: ^numbers-06-22
 
 23 Speak to Aaron and his sons and tell them: This is how you shall bless the Israelites. Say to them: ^numbers-06-23
 
-24 The L ORD bless you and keep you! ^numbers-06-24
+24 The LORD bless you and keep you! ^numbers-06-24
 
-25 The L ORD let his face shine upon you, and be gracious to you! ^numbers-06-25
+25 The LORD let his face shine upon you, and be gracious to you! ^numbers-06-25
 
-26 The L ORD look upon you kindly and give you peace! ^numbers-06-26
+26 The LORD look upon you kindly and give you peace! ^numbers-06-26
 
 27 So shall they invoke my name upon the Israelites, and I will bless them. ^numbers-06-27
 

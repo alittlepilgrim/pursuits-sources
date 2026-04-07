@@ -1,15 +1,17 @@
 ---
-title: Rosary
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: rosary. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Rosary
+author:
 aliases:
   - rosary
   - Rosary
 tags:
   - term/rosary
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: rosary. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Rosary
@@ -22,6 +24,6 @@ A prayer in honor of the Blessed Virgin Mary, which repeats the privileged Maria
 
 ## Divine Intimacy Meditations
 
-- Is the meditation of the life of Mary: 381,1;
-- the — helps one to penetrate the mysteries of Christ: 381,2.
-- 381.
+- Is the meditation of the life of Mary: [[381-rosary-bvm#Meditation 1|381,1]];
+- the — helps one to penetrate the mysteries of Christ: [[381-rosary-bvm#Meditation 2|381,2]].
+- [[381-rosary-bvm|381.]]

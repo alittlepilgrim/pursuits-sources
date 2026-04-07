@@ -1,31 +1,30 @@
 ---
-title: Isaiah, Chapter 61
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 61
+title: Isaiah, Chapter 61
+url: https://bible.usccb.org/bible/isaiah/61
 aliases:
   - isaiah-61
   - Isaiah, Chapter 61
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/61
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 61
 ---
 
 # Isaiah, Chapter 61
 
-### Chapter 61
+## Chapter 61
 
-#### The Anointed Bearer of Glad Tidings
+### The Anointed Bearer of Glad Tidings
 
 1 The spirit of the Lord G OD is upon me, ^isaiah-61-1
 
-because the L ORD has anointed me;
+because the LORD has anointed me;
 
 He has sent me to bring good news to the afflicted,
 
@@ -35,7 +34,7 @@ To proclaim liberty to the captives,
 
 release to the prisoners,
 
-2 To announce a year of favor from the L ORD ^isaiah-61-2
+2 To announce a year of favor from the LORD ^isaiah-61-2
 
 and a day of vindication by our God;
 
@@ -49,11 +48,11 @@ To give them oil of gladness instead of mourning,
 
 a glorious mantle instead of a faint spirit.
 
-#### Restoration and Blessing
+### Restoration and Blessing
 
 They will be called oaks of justice,
 
-the planting of the L ORD to show his glory.
+the planting of the LORD to show his glory.
 
 4 They shall rebuild the ancient ruins, ^isaiah-61-4
 
@@ -67,7 +66,7 @@ devastations of generation upon generation.
 
 foreigners shall be your farmers and vinedressers.
 
-6 You yourselves shall be called “Priests of the L ORD,” ^isaiah-61-6
+6 You yourselves shall be called “Priests of the LORD,” ^isaiah-61-6
 
 “Ministers of our God” you shall be called.
 
@@ -83,9 +82,9 @@ They will possess twofold in their own land;
 
 everlasting joy shall be theirs.
 
-#### God’s Word of Promise
+### God’s Word of Promise
 
-8 For I, the L ORD, love justice, ^isaiah-61-8
+8 For I, the LORD, love justice, ^isaiah-61-8
 
 I hate robbery and wrongdoing;
 
@@ -99,11 +98,11 @@ and their descendants in the midst of the peoples;
 
 All who see them shall acknowledge them:
 
-“They are offspring the L ORD has blessed.”
+“They are offspring the LORD has blessed.”
 
-#### Thanksgiving for God’s Deliverance
+### Thanksgiving for God’s Deliverance
 
-10 I will rejoice heartily in the L ORD, ^isaiah-61-10
+10 I will rejoice heartily in the LORD, ^isaiah-61-10
 
 my being exults in my God;
 

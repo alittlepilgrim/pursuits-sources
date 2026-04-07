@@ -1,18 +1,17 @@
 ---
+type: figure
 title: Saint Albert of Trapani
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
-  - 20250912-204812
   - albert-of-trapani-saint
   - Saint Albert of Trapani
 tags:
   - saint
   - term/priest
-celebration: "08-07"
-full_name: "Saint Albert of Trapani"
+  - type/figure
+celebration: 08-07
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Albert of Trapani

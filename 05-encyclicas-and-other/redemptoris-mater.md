@@ -1,29 +1,33 @@
 ---
-title: redemptoris-mater
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: IOANNES PAULUS PP. II REDEMPTORIS MATER On the Blessed Virgin Mary in the life of the Pilgrim Church
+title: Redemptoris Mater
+author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
 aliases:
+  - Redemptoris Mater
   - redemptoris-mater
 tags:
-  - vault-admin/clippings
+  - author/saint-john-paul-II
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-11-14
+modified: 2026-04-06
+publish: true
+description: IOANNES PAULUS PP. II REDEMPTORIS MATER On the Blessed Virgin Mary in the life of the Pilgrim Church
 abbreviation: jpii-rma
-source: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html
 ---
 
 IOANNES PAULUS PP. II
 
-***REDEMPTORIS MATER***
+# Redemptoris Mater
 
 On the Blessed Virgin Mary
 
 in the life of the Pilgrim Church
 
-***Blessing***
+Blessing*
 
-*Venerable Brothers and dear Sons and Daughters,
+Venerable Brothers and dear Sons and Daughters,
 
 Health and the Apostolic Blessing.*
 

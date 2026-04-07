@@ -1,25 +1,24 @@
 ---
-title: Galatians, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Galatians, Chapter 6
+title: Galatians, Chapter 6
+url: https://bible.usccb.org/bible/galatians/6
 aliases:
   - galatians-06
   - Galatians, Chapter 6
 tags:
+  - bible/chapter
   - bible/galatians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/galatians/6
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Galatians, Chapter 6
 ---
 
 # Galatians, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Life in the Community of Christ.**
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/galatians/6
 
 10 So then, while we have the opportunity, let us do good to all, but especially to those who belong to the family of the faith. ^galatians-06-10
 
-## Vi. Conclusion
+# Vi. Conclusion
 
 **Final Appeal.**
 

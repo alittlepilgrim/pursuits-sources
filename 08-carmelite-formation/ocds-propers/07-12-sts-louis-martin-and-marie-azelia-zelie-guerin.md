@@ -1,9 +1,7 @@
 ---
-title: July 12, Saints Louis Martin and Marie Azelie Guerin
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: July 12, Saints Louis Martin and Marie Azelie Guerin
+author: OCD General Curia
 aliases:
   - 07-12-sts-louis-martin-and-marie-azelia-zelie-guerin
   - 20240722-231412
@@ -11,8 +9,11 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-12
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
 ---
 
 # July 12, Saints Louis Martin and Marie Azelie Guerin

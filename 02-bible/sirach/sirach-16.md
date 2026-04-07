@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 16
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 16
+title: Sirach, Chapter 16
+url: https://bible.usccb.org/bible/sirach/16
 aliases:
   - sirach-16
   - Sirach, Chapter 16
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/16
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 16
 ---
 
 # Sirach, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
-#### God’s Punishment of Sinners
+### God’s Punishment of Sinners
 
 1 Do not yearn for worthless children, ^sirach-16-1
 
@@ -29,7 +28,7 @@ or rejoice in wicked offspring.
 
 2 Even if they be many, do not rejoice in them ^sirach-16-2
 
-if they do not have fear of the L ORD.
+if they do not have fear of the LORD.
 
 3 Do not count on long life for them, ^sirach-16-3
 
@@ -119,7 +118,7 @@ What can I expect for doing my duty?”
 
 only the foolish entertain them.
 
-#### Divine Wisdom Seen in Creation
+### Divine Wisdom Seen in Creation
 
 24 Listen to me, my son, and take my advice, ^sirach-16-24
 
@@ -169,7 +168,7 @@ which must return into it again.
 
 † (16:14) Other ancient texts read as vv. 15–16:
 
-<sup>15</sup> The L ORD hardened the heart of Pharaoh so that he did not recognize him
+<sup>15</sup> The LORD hardened the heart of Pharaoh so that he did not recognize him
 
 whose acts were manifest under the heavens;
 

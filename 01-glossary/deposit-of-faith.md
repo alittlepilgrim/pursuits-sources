@@ -1,15 +1,16 @@
 ---
-title: Deposit of Faith
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: deposit-of-faith. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Deposit of Faith
 aliases:
   - Deposit of Faith
   - deposit-of-faith
 tags:
   - term/deposit-of-faith
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: deposit-of-faith. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Deposit of Faith

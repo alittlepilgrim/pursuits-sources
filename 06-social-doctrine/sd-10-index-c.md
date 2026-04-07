@@ -1,30 +1,32 @@
 ---
-title: C- Social Doctrine of the Church Analytical Index
-created: 2025-11-13
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: C- Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - C- Social Doctrine of the Church Analytical Index
   - sd-10-index-c
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-13
+modified: 2026-04-06
+publish: true
 ---
 
 # C- Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Cancellation
+## Cancellation
 
 The sabbatical year and the cancellation of debts, [[sd-03-part-I#^csdc-24|24]]
 
-### Capital
+## Capital
 
 The worker question, capital and labour, [[sd-03-part-I#^csdc-91|91]]
 
@@ -72,17 +74,17 @@ International markets of capital and governments, [[sd-04-part-II#^csdc-370|370]
 
 Capital, foreign debt and trade, [[sd-04-part-II#^csdc-482|482]]
 
-### Capitalism
+## Capitalism
 
 Work and a capitalistic orientation, [[sd-04-part-II#^csdc-267|267]]
 
 Social doctrine and capitalism, [[sd-04-part-II#^csdc-335|335]]
 
-### Catholic Community
+## Catholic Community
 
 - See [[sd-10-index-c#Christian Community|Christian Community]]
 
-### Charity
+## Charity
 
 (see Also [[sd-10-index-o#Love|Love]])
 
@@ -148,7 +150,7 @@ Charity, the mistress and queen of the virtues, [[sd-06-conclusion#^csdc-581|581
 
 Charity, the greatest social commandment, [[sd-06-conclusion#^csdc-583|583]]
 
-### Child - Children - Son - Daughter
+## Child - Children - Son - Daughter
 
 Love, fundamental rights and children, [[sd-02-intro#^csdc-5|5]]
 
@@ -232,11 +234,11 @@ The Gospel and the freedom of the children of God, [[sd-06-conclusion#^csdc-576|
 
 The lay faithful, children of the promise, [[sd-06-conclusion#^csdc-579|579]]
 
-### Christ
+## Christ
 
 - See [[sd-10-index-j#Jesus Christ|Jesus Christ]]
 
-### Christian Community - Ecclesial Community - Community of Believers - Catholic Community - Religious Community
+## Christian Community - Ecclesial Community - Community of Believers - Catholic Community - Religious Community
 
 (see Also [[sd-10-index-o#Church|Church]], [[sd-10-index-c#Community|Community]])
 
@@ -270,7 +272,7 @@ The autonomy of the State and the community of believers, [[sd-05-part-III#^csdc
 
 Social and political choices and the Christian community, [[sd-05-part-III#^csdc-574|574]]
 
-### Church
+## Church
 
 The Church, a pilgrim people and Christ, [[sd-02-intro#^csdc-1|1]]
 
@@ -506,7 +508,7 @@ The Church and the ultimate meaning of existence, [[sd-06-conclusion#^csdc-576|5
 
 The Church and good and evil, [[sd-06-conclusion#^csdc-578|578]]
 
-### Citizen - Citizenship
+## Citizen - Citizenship
 
 The citizenship status of the Church, [[sd-03-part-I#^csdc-90|90]], [[sd-04-part-II#^csdc-251|251]]
 
@@ -574,7 +576,7 @@ Believers and the duties of citizenship, [[sd-05-part-III#^csdc-565|565]]
 
 The laity, power and trust of fellow citizens, [[sd-05-part-III#^csdc-567|567]]
 
-### City
+## City
 
 Evangelising the social sector and the city of man, [[sd-03-part-I#^csdc-63|63]]
 
@@ -586,7 +588,7 @@ Poverty and the polluted suburbs of cities, [[sd-04-part-II#^csdc-482|482]]
 
 Arms of mass destruction and cities, [[sd-04-part-II#^csdc-509|509]]
 
-### Civil Community
+## Civil Community
 
 (see Also [[sd-10-index-o#Community|Community]])
 
@@ -606,7 +608,7 @@ Public spending and civil community, [[sd-04-part-II#^csdc-355|355]]
 
 The Christian community and civil community, [[sd-05-part-III#^csdc-534|534]]
 
-### Civil Society
+## Civil Society
 
 (see Also [[sd-10-index-o#Society|Society]])
 
@@ -628,7 +630,7 @@ Civil society and public ethics, [[sd-04-part-II#^csdc-420|420]]
 
 Civil society and public opinion, [[sd-04-part-II#^csdc-443|443]]
 
-### Civilization
+## Civilization
 
 The place of man in civilization, [[sd-02-intro#^csdc-14|14]]
 
@@ -642,7 +644,7 @@ Autonomy of the State, the inheritance of civilization, [[sd-05-part-III#^csdc-5
 
 Christianity and the foundations of civilization, [[sd-05-part-III#^csdc-572|572]]
 
-### Civilization of Love
+## Civilization of Love
 
 The principle of solidarity and the civilization of love, [[sd-03-part-I#^csdc-103|103]]
 
@@ -650,7 +652,7 @@ Justice and the civilization of love, [[sd-04-part-II#^csdc-391|391]]
 
 Love, the civilization of love and peace, [[sd-06-conclusion#^csdc-582|582]]
 
-### Class
+## Class
 
 _Rerum Novarum_ and the class struggle, [[sd-03-part-I#^csdc-89|89]]_
 
@@ -668,13 +670,13 @@ Unions, structure and class struggle, [[sd-04-part-II#^csdc-306|306]]
 
 Technological innovations and the working class, [[sd-04-part-II#^csdc-313|313]]
 
-### Cloning
+## Cloning
 
 Cloning and social and cultural relevance, [[sd-04-part-II#^csdc-236|236]]
 
 Human cloning and the magisterium, [[sd-04-part-II#^csdc-236|236]]
 
-### Close
+## Close
 
 (see Also [[sd-10-index-o#Presence|Presence]])
 
@@ -682,7 +684,7 @@ Social doctrine and close relationships, [[sd-03-part-I#^csdc-161|161]]
 
 Love, social ethics and close relationships, [[sd-03-part-I#^csdc-204|204]]
 
-### Collective
+## Collective
 
 The _Compendium_ and choices made at the collective level, [[sd-02-intro#^csdc-10|10]]
 
@@ -714,7 +716,7 @@ Collective activity and the order of creation, [[sd-04-part-II#^csdc-481|481]]
 
 Collective responsibility, war and development, [[sd-04-part-II#^csdc-498|498]]
 
-### Collectivism - Collectivity
+## Collectivism - Collectivity
 
 Developing countries and systems based on collectivities, [[sd-03-part-I#^csdc-180|180]]
 
@@ -722,13 +724,13 @@ The family and drifting off into collectivism, [[sd-04-part-II#^csdc-213|213]]
 
 Fraternity and collectivistic ideologies, [[sd-04-part-II#^csdc-390|390]]
 
-### Colonialism
+## Colonialism
 
 Globalisation and new colonialism, [[sd-04-part-II#^csdc-366|366]]
 
 The foreign debt and economic neo-colonialism, [[sd-04-part-II#^csdc-450|450]]
 
-### Commandment - the Ten Commandments - Decalogue
+## Commandment - the Ten Commandments - Decalogue
 
 The Ten Commandments, duties and rights, [[sd-03-part-I#^csdc-22|22]]
 
@@ -744,7 +746,7 @@ Natural and divine law and the Ten Commandments, [[sd-03-part-I#^csdc-22|22]], [
 
 The Decalogue of Assisi for peace, [[sd-04-part-II#^csdc-515|515]]*
 
-### Commerce
+## Commerce
 
 (see Also [[sd-10-index-o#Trade|Trade]], [[sd-10-index-e#Exchange|Exchange]])
 
@@ -756,7 +758,7 @@ Businesses and commercial bonds, [[sd-04-part-II#^csdc-344|344]]
 
 Commercialisation of biotechnology, [[sd-04-part-II#^csdc-474|474]], [[sd-04-part-II#^csdc-475|475]], [[sd-04-part-II#^csdc-478|478]]
 
-### Common Good
+## Common Good
 
 The _Compendium_ and the common good, [[sd-02-intro#^csdc-12|12]]
 
@@ -926,7 +928,7 @@ The common good and the spiritual end of the human person, [[sd-05-part-III#^csd
 
 Believers and the common good, [[sd-05-part-III#^csdc-574|574]]
 
-### Community
+## Community
 
 (see Also [[sd-10-index-o#Civil Community|Civil Community]], [[sd-10-index-p#Political Community|Political Community]], [[sd-10-index-c#Christian Community|Christian Community]], [[sd-10-index-f#Family Community|Family Community]], [[sd-10-index-i#International Community|International Community]], [[sd-10-index-s#Social Community|Social Community]])
 
@@ -1046,15 +1048,15 @@ The laity and community discernment, [[sd-05-part-III#^csdc-568|568]]
 
 The need for meaning and national communities, [[sd-06-conclusion#^csdc-575|575]]
 
-### Community of Believers
+## Community of Believers
 
 - See [[sd-10-index-c#Christian Community|Christian Community]]
 
-### Community of Peoples
+## Community of Peoples
 
 - See [[sd-10-index-i#International Community|International Community]]
 
-### Conflict
+## Conflict
 
 People, love of God and conflict, [[sd-02-intro#^csdc-4|4]]
 
@@ -1110,7 +1112,7 @@ Forgiveness, reconciliation and conflicts, [[sd-04-part-II#^csdc-517|517]]
 
 Judicial bodies and crimes committed during conflicts, [[sd-04-part-II#^csdc-518|518]]
 
-### Conscience - Conscientious
+## Conscience - Conscientious
 
 The _Compendium_, the whole person and conscience, [[sd-02-intro#^csdc-13|13]]
 
@@ -1194,29 +1196,29 @@ Christian conscience and political commitment, [[sd-05-part-III#^csdc-566|566]],
 
 The Gospel and the dignity of the conscience, [[sd-06-conclusion#^csdc-576|576]]
 
-### Conscientious Objection - Conscientious Objectors
+## Conscientious Objection - Conscientious Objectors
 
 Right to conscientious objection, [[sd-04-part-II#^csdc-399|399]]
 
 Conscientious objectors, [[sd-04-part-II#^csdc-503|503]]
 
-### Consecrated Persons
+## Consecrated Persons
 
 - See [[sd-10-index-m#Men and Women Religious|Men and Women Religious]]
 
-### Consensus
+## Consensus
 
 Democracy and general consensus on values, [[sd-04-part-II#^csdc-407|407]]
 
 War and consensus on humanitarian principles, [[sd-04-part-II#^csdc-505|505]]
 
-### Consent
+## Consent
 
 Marriage and mutual consent, [[sd-04-part-II#^csdc-215|215]]
 
 Political authority and consent of the people, [[sd-04-part-II#^csdc-385|385]]
 
-### Consume - Consumer - Consumption
+## Consume - Consumer - Consumption
 
 (see Also [[sd-10-index-o#Consumerism|Consumerism]])
 
@@ -1252,7 +1254,7 @@ The environment and consumption, [[sd-04-part-II#^csdc-470|470]]
 
 Products of biotechnology and consumers, [[sd-04-part-II#^csdc-480|480]]
 
-### Consumerism
+## Consumerism
 
 (see Also [[sd-10-index-o#Consumer|Consumer]])
 
@@ -1266,13 +1268,13 @@ Christians and lifestyles based on consumerism, [[sd-05-part-III#^csdc-554|554]]
 
 The media and consumerist solutions, [[sd-05-part-III#^csdc-560|560]]
 
-### Contraception - Contraceptive
+## Contraception - Contraceptive
 
 The rejection of recourse to contraceptive methods, [[sd-04-part-II#^csdc-233|233]]
 
 Economic assistance and campaigns of contraception, [[sd-04-part-II#^csdc-234|234]]
 
-### Control - Controlled - Uncontrolled
+## Control - Controlled - Uncontrolled
 
 Freedom and the uncontrolled exercise of autonomy, [[sd-03-part-I#^csdc-199|199]]
 
@@ -1292,7 +1294,7 @@ Controlling the production of light weapons, [[sd-04-part-II#^csdc-511|511]]
 
 The media and ideological control, [[sd-05-part-III#^csdc-557|557]]
 
-### Cooperation
+## Cooperation
 
 Moral existence and cooperation, [[sd-03-part-I#^csdc-22|22]]
 
@@ -1332,13 +1334,13 @@ Anti-personnel landmines and cooperation, [[sd-04-part-II#^csdc-510|510]]
 
 Cooperation and the ecumenical journey, [[sd-05-part-III#^csdc-535|535]]
 
-### Cooperatives
+## Cooperatives
 
 _Rerum Novarum_ and the birth of cooperatives, [[sd-04-part-II#^csdc-268|268]]
 
 Cooperative enterprises and labour, [[sd-04-part-II#^csdc-339|339]]
 
-### Corporeal - Corporeality
+## Corporeal - Corporeality
 
 (see Also [[sd-10-index-o#Incorporated|Incorporated]], [[sd-10-index-b#Body|Body]])
 
@@ -1350,7 +1352,7 @@ Corporeality and the material world, [[sd-03-part-I#^csdc-128|128]], [[sd-03-par
 
 The power of Christ and man's corporeal being, [[sd-04-part-II#^csdc-455|455]]
 
-### Corruption
+## Corruption
 
 Forms of corruption and negative influences, [[sd-03-part-I#^csdc-192|192]]
 
@@ -1360,7 +1362,7 @@ Corruption, underdevelopment and poverty, [[sd-04-part-II#^csdc-447|447]]
 
 Corruption and the debt crisis, [[sd-04-part-II#^csdc-450|450]]
 
-### Creation - Create
+## Creation - Create
 
 (see Also [[sd-10-index-o#Creator|Creator]], [[sd-10-index-c#Creature|Creature]])
 
@@ -1502,7 +1504,7 @@ Eschatological tension and created reality, [[sd-05-part-III#^csdc-526|526]]
 
 The laity, Christ, the Spirit and creation, [[sd-05-part-III#^csdc-542|542]]
 
-### Creator
+## Creator
 
 (see Also [[sd-10-index-o#Creation|Creation]])
 
@@ -1580,7 +1582,7 @@ Nature and God the Creator, [[sd-04-part-II#^csdc-487|487]]
 
 The goodness of man, image of the Creator, [[sd-06-conclusion#^csdc-578|578]]
 
-### Creature - Created Being
+## Creature - Created Being
 
 Man and other created beings, [[sd-02-intro#^csdc-14|14]]
 
@@ -1636,11 +1638,11 @@ Man and creatures, gifts of God, [[sd-04-part-II#^csdc-464|464]]
 
 Nature's dimension as creature, [[sd-04-part-II#^csdc-487|487]]
 
-### Credit
+## Credit
 
 Access to land and credit markets, [[sd-03-part-I#^csdc-180|180]], [[sd-04-part-II#^csdc-300|300]]
 
-### Crime - Criminal
+## Crime - Criminal
 
 Justice, punishment and criminal acts, [[sd-04-part-II#^csdc-403|403]]
 
@@ -1658,7 +1660,7 @@ Child soldiers, an intolerable crime, [[sd-04-part-II#^csdc-512|512]]
 
 International judicial bodies and crimes, [[sd-04-part-II#^csdc-518|518]]
 
-### Criterion - Criteria
+## Criterion - Criteria
 
 (see Also [[sd-10-index-o#Criteria for Judgment|Criteria for Judgment]])
 
@@ -1718,7 +1720,7 @@ Culture and criteria for verification, [[sd-05-part-III#^csdc-558|558]]
 
 Democracy and criteria for discernment, [[sd-05-part-III#^csdc-569|569]]
 
-### Criteria for Judgment
+## Criteria for Judgment
 
 Social doctrine and criteria for judgment, [[sd-02-intro#^csdc-7|7]], [[sd-03-part-I#^csdc-81|81]], [[sd-03-part-I#^csdc-85|85]]
 
@@ -1730,11 +1732,11 @@ Inculturation and criteria for judgment, [[sd-05-part-III#^csdc-523|523]]
 
 Political choices and criteria for judgment, [[sd-05-part-III#^csdc-574|574]]
 
-### Cultivate
+## Cultivate
 
 God, man the invitation to cultivate the earth, [[sd-04-part-II#^csdc-255|255]], [[sd-04-part-II#^csdc-256|256]], [[sd-04-part-II#^csdc-428|428]]
 
-### Culture - Cultural
+## Culture - Cultural
 
 Christian salvation and relations between cultures, [[sd-02-intro#^csdc-1|1]]
 
@@ -1954,7 +1956,7 @@ Cultural issues and moral sense, [[sd-06-conclusion#^csdc-577|577]]
 
 Social life and love at the level of culture, [[sd-06-conclusion#^csdc-582|582]]
 
-### Custom - Customary
+## Custom - Customary
 
 Conceptions of the person and custom, [[sd-03-part-I#^csdc-124|124]]
 

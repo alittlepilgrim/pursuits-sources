@@ -1,25 +1,24 @@
 ---
-title: Nahum, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nahum, Chapter 2
+title: Nahum, Chapter 2
+url: https://bible.usccb.org/bible/nahum/2
 aliases:
   - nahum-02
   - Nahum, Chapter 2
 tags:
+  - bible/chapter
   - bible/nahum
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nahum/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nahum, Chapter 2
 ---
 
 # Nahum, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 At this moment on the mountains ^nahum-02-1
 
@@ -35,7 +34,7 @@ For never again will destroyers invade you;
 
 they are completely cut off.
 
-#### The Attack on Nineveh
+### The Attack on Nineveh
 
 2 One who scatters has come up against you; ^nahum-02-2
 
@@ -45,7 +44,7 @@ Watch the road, brace yourselves,
 
 marshal all your strength!
 
-3 The L ORD will restore the vine of Jacob, ^nahum-02-3
+3 The LORD will restore the vine of Jacob, ^nahum-02-3
 
 the honor of Israel,
 
@@ -131,7 +130,7 @@ and his dens with torn flesh.
 
 14 I now come against you— ^nahum-02-14
 
-oracle of the L ORD of hosts—
+oracle of the LORD of hosts—
 
 I will consume your chariots in smoke,
 

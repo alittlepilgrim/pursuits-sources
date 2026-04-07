@@ -1,25 +1,24 @@
 ---
-title: Ezra, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezra, Chapter 3
+title: Ezra, Chapter 3
+url: https://bible.usccb.org/bible/ezra/3
 aliases:
   - ezra-03
   - Ezra, Chapter 3
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezra, Chapter 3
 ---
 
 # Ezra, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Restoration of Worship.**
 
@@ -27,25 +26,25 @@ url: https://bible.usccb.org/bible/ezra/3
 
 2 Then Jeshua, son of Jozadak, together with his kinsmen the priests, and Zerubbabel, son of Shealtiel, together with his kinsmen, began building the altar of the God of Israel in order to offer on it the burnt offerings prescribed in the law of Moses, the man of God. ^ezra-03-2
 
-3 They set the altar on its foundations, for they lived in fear of the peoples of the lands, and offered burnt offerings to the L ORD on it, both morning and evening. ^ezra-03-3
+3 They set the altar on its foundations, for they lived in fear of the peoples of the lands, and offered burnt offerings to the LORD on it, both morning and evening. ^ezra-03-3
 
 4 They also kept the feast of Booths in the manner prescribed, and they offered the daily burnt offerings in the proper number required for each day. ^ezra-03-4
 
-5 Thereafter they offered regular burnt offerings, the sacrifices prescribed for the new moons and all the festivals sacred to the L ORD, and those which anyone might bring as a voluntary offering to the L ORD. ^ezra-03-5
+5 Thereafter they offered regular burnt offerings, the sacrifices prescribed for the new moons and all the festivals sacred to the LORD, and those which anyone might bring as a voluntary offering to the LORD. ^ezra-03-5
 
 **Laying the Foundations of the Temple.**
 
-6 From the first day of the seventh month they reinstituted the burnt offering to the L ORD, though the foundation of the L ORD’s temple had not yet been laid. ^ezra-03-6
+6 From the first day of the seventh month they reinstituted the burnt offering to the LORD, though the foundation of the LORD’s temple had not yet been laid. ^ezra-03-6
 
 7 Then they hired stonecutters and carpenters, and sent food and drink and oil to the Sidonians and Tyrians that they might ship cedar trees from the Lebanon to the port of Joppa, as Cyrus, king of Persia, had authorized. ^ezra-03-7
 
-8 In the year after their coming to the house of God in Jerusalem, in the second month, Zerubbabel, son of Shealtiel, and Jeshua, son of Jozadak, together with the rest of their kinsmen, the priests and Levites and all who had come from the captivity to Jerusalem, began by appointing the Levites twenty years of age and over to supervise the work on the house of the L ORD. ^ezra-03-8
+8 In the year after their coming to the house of God in Jerusalem, in the second month, Zerubbabel, son of Shealtiel, and Jeshua, son of Jozadak, together with the rest of their kinsmen, the priests and Levites and all who had come from the captivity to Jerusalem, began by appointing the Levites twenty years of age and over to supervise the work on the house of the LORD. ^ezra-03-8
 
 9 Jeshua and his sons and kinsmen, with Kadmiel and Binnui, son of Hodaviah, and their sons and their kindred, the Levites, together undertook to supervise those who were engaged in the work on the house of God. ^ezra-03-9
 
-10 While the builders were laying the foundation of the L ORD’s temple, the priests in their vestments were stationed with trumpets and the Levites, sons of Asaph, with cymbals to praise the L ORD in the manner laid down by David, king of Israel. ^ezra-03-10
+10 While the builders were laying the foundation of the LORD’s temple, the priests in their vestments were stationed with trumpets and the Levites, sons of Asaph, with cymbals to praise the LORD in the manner laid down by David, king of Israel. ^ezra-03-10
 
-11 They alternated in songs of praise and thanksgiving to the L ORD, “for he is good, for his love for Israel endures forever”; and all the people raised a great shout of joy, praising the L ORD because the foundation of the L ORD’s house had been laid. ^ezra-03-11
+11 They alternated in songs of praise and thanksgiving to the LORD, “for he is good, for his love for Israel endures forever”; and all the people raised a great shout of joy, praising the LORD because the foundation of the LORD’s house had been laid. ^ezra-03-11
 
 12 Many of the priests, Levites, and heads of ancestral houses, who were old enough to have seen the former house, cried out in sorrow as they watched the foundation of the present house being laid. Many others, however, lifted up their voices in shouts of joy. ^ezra-03-12
 

@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 8
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 8
+title: Judges, Chapter 8
+url: https://bible.usccb.org/bible/judges/8
 aliases:
   - judges-08
   - Judges, Chapter 8
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 8
 ---
 
 # Judges, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 1 But the Ephraimites said to him, “What have you done to us, not summoning us when you went to fight against Midian?” And they quarreled bitterly with him. ^judges-08-1
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/judges/8
 
 6 But the princes of Succoth replied, “Are the hands of Zebah and Zalmunna already in your possession, that we should give food to your army?” ^judges-08-6
 
-7 Gideon said, “Very well; when the L ORD has delivered Zebah and Zalmunna into my power, I will thrash your bodies with desert thorns and briers.” ^judges-08-7
+7 Gideon said, “Very well; when the LORD has delivered Zebah and Zalmunna into my power, I will thrash your bodies with desert thorns and briers.” ^judges-08-7
 
 8 He went up from there to Penuel and made the same request of them, but the people of Penuel answered him as had the people of Succoth. ^judges-08-8
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/judges/8
 
 18 Then he said to Zebah and Zalmunna, “What about the men you killed at Tabor?” “They were all like you,” they replied. “They appeared to be princes.” ^judges-08-18
 
-19 “They were my brothers, my mother’s sons,” he said. “As the L ORD lives, if you had spared their lives, I would not kill you.” ^judges-08-19
+19 “They were my brothers, my mother’s sons,” he said. “As the LORD lives, if you had spared their lives, I would not kill you.” ^judges-08-19
 
 20 Then he said to his firstborn, Jether, “Go, kill them.” But the boy did not draw his sword, for he was afraid, for he was still a boy. ^judges-08-20
 
@@ -65,7 +64,7 @@ url: https://bible.usccb.org/bible/judges/8
 
 22 The Israelites then said to Gideon, “Rule over us—you, your son, and your son’s son—for you saved us from the power of Midian.” ^judges-08-22
 
-23 But Gideon answered them, “I will not rule over you, nor shall my son rule over you. The L ORD must rule over you.” ^judges-08-23
+23 But Gideon answered them, “I will not rule over you, nor shall my son rule over you. The LORD must rule over you.” ^judges-08-23
 
 24 Gideon went on to say, “Let me make a request of you. Give me, each of you, a ring from his spoils.” (Since they were Ishmaelites, the enemy had gold rings.) ^judges-08-24
 
@@ -89,7 +88,7 @@ url: https://bible.usccb.org/bible/judges/8
 
 33 But after Gideon was dead, the Israelites again prostituted themselves by following the Baals, making Baal-berith their god. ^judges-08-33
 
-34 The Israelites did not remember the L ORD, their God, who had delivered them from the power of their enemies all around them. ^judges-08-34
+34 The Israelites did not remember the LORD, their God, who had delivered them from the power of their enemies all around them. ^judges-08-34
 
 35 Nor were they loyal to the house of Jerubbaal (Gideon) for all the good he had done for Israel. ^judges-08-35
 

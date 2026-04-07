@@ -1,15 +1,16 @@
 ---
-title: Transfiguration
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: transfiguration. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Transfiguration
 aliases:
   - transfiguration
   - Transfiguration
 tags:
   - term/transfiguration
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: transfiguration. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Transfiguration

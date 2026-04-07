@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 2
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 2
+title: Joshua, Chapter 2
+url: https://bible.usccb.org/bible/joshua/2
 aliases:
   - joshua-02
   - Joshua, Chapter 2
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/2
-testament: old
-url: https://bible.usccb.org/bible/joshua/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 2
 ---
 
 # Joshua, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Spies Saved by Rahab.**
 
@@ -40,17 +38,17 @@ url: https://bible.usccb.org/bible/joshua/2
 
 8 Before the spies lay down, Rahab went up to them on the roof ^joshua-02-8
 
-9 and said: “I know that the L ORD has given you the land, that a dread of you has come upon us, and that all the inhabitants of the land tremble with fear because of you. ^joshua-02-9
+9 and said: “I know that the LORD has given you the land, that a dread of you has come upon us, and that all the inhabitants of the land tremble with fear because of you. ^joshua-02-9
 
-10 For we have heard how the L ORD dried up the waters of the Red Sea before you when you came out of Egypt, and what you did to Sihon and Og, the two kings of the Amorites beyond the Jordan, whom you destroyed under the ban. ^joshua-02-10
+10 For we have heard how the LORD dried up the waters of the Red Sea before you when you came out of Egypt, and what you did to Sihon and Og, the two kings of the Amorites beyond the Jordan, whom you destroyed under the ban. ^joshua-02-10
 
-11 We heard, and our hearts melted within us; everyone is utterly dispirited because of you, since the L ORD, your God, is God in heaven above and on earth below. ^joshua-02-11
+11 We heard, and our hearts melted within us; everyone is utterly dispirited because of you, since the LORD, your God, is God in heaven above and on earth below. ^joshua-02-11
 
-12 Now then, swear to me by the L ORD that, since I am showing kindness to you, you in turn will show kindness to my family. Give me a reliable sign ^joshua-02-12
+12 Now then, swear to me by the LORD that, since I am showing kindness to you, you in turn will show kindness to my family. Give me a reliable sign ^joshua-02-12
 
 13 that you will allow my father and mother, brothers and sisters, and my whole family to live, and that you will deliver us from death.” ^joshua-02-13
 
-14 “We pledge our lives for yours,” they answered her. “If you do not betray our mission, we will be faithful in showing kindness to you when the L ORD gives us the land.” ^joshua-02-14
+14 “We pledge our lives for yours,” they answered her. “If you do not betray our mission, we will be faithful in showing kindness to you when the LORD gives us the land.” ^joshua-02-14
 
 15 Then she let them down through the window with a rope; for she lived in a house built into the city wall. ^joshua-02-15
 
@@ -70,7 +68,7 @@ url: https://bible.usccb.org/bible/joshua/2
 
 23 Then the two came back down from the hills, crossed the Jordan to Joshua, son of Nun, and told him all that had happened to them. ^joshua-02-23
 
-24 They assured Joshua, “The L ORD has given all this land into our power; indeed, all the inhabitants of the land tremble with fear because of us.” ^joshua-02-24
+24 They assured Joshua, “The LORD has given all this land into our power; indeed, all the inhabitants of the land tremble with fear because of us.” ^joshua-02-24
 
 \* (2:6) Stalks of flax spread out: to dry in the sun, after they had been soaked in water, according to the ancient process of preparing flax for linen-making. In the Near East the flax harvest occurs near the time of the feast of the Passover ([4:19]; [5:10]); cf. ([[exodus-09|Ex 9]]:31].
 

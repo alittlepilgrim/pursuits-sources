@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 41
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 41
+title: Sirach, Chapter 41
+url: https://bible.usccb.org/bible/sirach/41
 aliases:
   - sirach-41
   - Sirach, Chapter 41
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/41
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 41
 ---
 
 # Sirach, Chapter 41
 
-### Chapter 41
+## Chapter 41
 
 1 O death! How bitter is the thought of you ^sirach-41-1
 
@@ -89,7 +88,7 @@ more than thousands of precious treasures.
 
 but a good name, for days without number.
 
-#### True and False Shame
+### True and False Shame
 
 14b Hidden wisdom and concealed treasure,
 

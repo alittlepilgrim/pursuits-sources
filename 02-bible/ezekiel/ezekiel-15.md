@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 15
+title: Ezekiel, Chapter 15
+url: https://bible.usccb.org/bible/ezekiel/15
 aliases:
   - ezekiel-15
   - Ezekiel, Chapter 15
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/15
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 15
 ---
 
 # Ezekiel, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Parable of the Vine.**
 
-1 The word of the L ORD came to me: ^ezekiel-15-1
+1 The word of the LORD came to me: ^ezekiel-15-1
 
 2 Son of man, ^ezekiel-15-2
 
@@ -71,7 +70,7 @@ Although they have escaped the fire,
 
 the fire will still devour them;
 
-You shall know that I am the L ORD,
+You shall know that I am the LORD,
 
 when I set my face against them.
 

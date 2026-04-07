@@ -1,15 +1,17 @@
 ---
-title: Lectionary / Lector
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: lectionary-lector. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Lectionary / Lector
+author:
 aliases:
   - Lectionary / Lector
   - lectionary-lector
 tags:
   - term/lectionary-lector
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: lectionary-lector. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Lectionary / Lector

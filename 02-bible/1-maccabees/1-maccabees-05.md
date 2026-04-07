@@ -1,25 +1,24 @@
 ---
-title: 1 Maccabees, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, Chapter 5
+title: 1 Maccabees, Chapter 5
+url: https://bible.usccb.org/bible/1maccabees/5
 aliases:
   - 1 Maccabees, Chapter 5
   - 1-maccabees-05
 tags:
   - bible/1-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/5
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, Chapter 5
 ---
 
 # 1 Maccabees, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Victories over Hostile Neighbors.**
 

@@ -1,31 +1,30 @@
 ---
-title: 2 Chronicles, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 chronicles-chapter 2
+title: 2 Chronicles, Chapter 2
+url: https://bible.usccb.org/bible/2chronicles/2
 aliases:
   - 2 Chronicles, Chapter 2
   - 2-chronicles-02
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/2
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 chronicles-chapter 2
 ---
 
 # 2 Chronicles, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 Solomon conscripted seventy thousand men to carry stones and eighty thousand to cut the stones in the mountains, and over these he placed three thousand six hundred overseers. ^2-chronicles-02-1
 
 2 Moreover, Solomon sent this message to Huram, king of Tyre: “As you dealt with David my father, and sent him cedars to build a house for his dwelling— ^2-chronicles-02-2
 
-3 now I am going to build a house for the name of the L ORD, my God, and to consecrate it to him, for the burning of fragrant incense in his presence, for the perpetual display of the showbread, for burnt offerings morning and evening, and for the sabbaths, new moons, and festivals of the L ORD, our God: such is Israel’s perpetual obligation. ^2-chronicles-02-3
+3 now I am going to build a house for the name of the LORD, my God, and to consecrate it to him, for the burning of fragrant incense in his presence, for the perpetual display of the showbread, for burnt offerings morning and evening, and for the sabbaths, new moons, and festivals of the LORD, our God: such is Israel’s perpetual obligation. ^2-chronicles-02-3
 
 4 And the house I am going to build must be great, for our God is greater than all other gods. ^2-chronicles-02-4
 
@@ -39,9 +38,9 @@ url: https://bible.usccb.org/bible/2chronicles/2
 
 9 I will furnish as food for your servants, the woodcutters, twenty thousand kors of wheat, twenty thousand kors of barley, twenty thousand baths of wine, and twenty thousand baths of oil.” ^2-chronicles-02-9
 
-10 Huram, king of Tyre, wrote an answer which he sent to Solomon: “Because the L ORD loves his people, he has placed you over them as king.” ^2-chronicles-02-10
+10 Huram, king of Tyre, wrote an answer which he sent to Solomon: “Because the LORD loves his people, he has placed you over them as king.” ^2-chronicles-02-10
 
-11 He added: “Blessed be the L ORD, the God of Israel, who made heaven and earth, for having given King David a wise son of intelligence and understanding, who will build a house for the L ORD and also his own royal house. ^2-chronicles-02-11
+11 He added: “Blessed be the LORD, the God of Israel, who made heaven and earth, for having given King David a wise son of intelligence and understanding, who will build a house for the LORD and also his own royal house. ^2-chronicles-02-11
 
 12 I am now sending you a craftsman of great skill, Huram-abi, ^2-chronicles-02-12
 

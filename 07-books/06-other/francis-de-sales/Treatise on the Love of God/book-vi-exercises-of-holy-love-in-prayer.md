@@ -1,23 +1,21 @@
 ---
-title: Book VI. Exercises of Holy Love in Prayer - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book VI. Exercises of Holy Love in Prayer
+title: Book VI. Exercises of Holy Love in Prayer - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book VI. Exercises of Holy Love in Prayer
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book VI. Exercises of Holy Love in Prayer
 ---
 
 # Book VI. Exercises of Holy Love in Prayer
 
-### Chapter I. a Description of Mystical Theology, Which Is No Other Thing than Prayer
+## Chapter I. a Description of Mystical Theology, Which Is No Other Thing than Prayer
 
 We have two principal exercises of our love towards God, the one affective, the other effective, or, as S. Bernard calls it, active; by that we affect or love God and what he loves, by this we serve God and do what he ordains; that joins us to God's goodness, this makes us execute his will: the one fills us with complacency, benevolence, yearnings, desires, aspirations and spiritual ardours, causing us to practise the sacred infusions and minglings of our spirit with God's; the other establishes in us the solid resolution, the constancy of heart, and the inviolable obedience requisite to effect the ordinances of the divine will, and to suffer, accept, approve and embrace, all that comes from his good-pleasure; the one makes us pleased in God, the other makes us please God: by the one we conceive, by the other we bring forth: by the one we place God upon our heart, as a standard of love, around which all our affections are ranged, by the other we place him upon our arm, as a sword of love whereby we effect all the exploits of virtue.
 
@@ -61,7 +59,7 @@ Love speaks not only by the tongue, but by the eyes, by sighs, and play of featu
 
 [264] Jer. Lam. ii. 18.
 
-### Chapter II. of Meditation--the First Degree of Prayer or Mystical Theology
+## Chapter II. of Meditation--the First Degree of Prayer or Mystical Theology
 
 This word is much used in the holy Scriptures, and means simply an attentive and reiterated thought, proper to produce good or evil affections. In the first Psalm, the man is said to be blessed: Whose will is in the way of the Lord, and who in his law shall meditate day and night. But in the second Psalm: Why did the Gentiles rage, and the people meditate vain things? Meditation therefore is made as well for evil as for good. Yet whereas in the holy Scripture, the word meditation is ordinarily applied to the attention which we have to divine things to stir us up to love them, it has, as one might say, been canonized by the common consent of theologians, like the name, angel, and, zeal; as on the contrary the words, craft (dol), and, demons have been stigmatized: so that now when we say, meditation, we mean that which is holy, and that by which we begin mystical theology.
 
@@ -107,7 +105,7 @@ The bee flies from flower to flower in the spring-time, not at hazard but of set
 
 [278] Ex. xix. 19.
 
-### Chapter III. a Description of Contemplation, and of the First Difference That There
+## Chapter III. a Description of Contemplation, and of the First Difference That There
 
 IS BETWEEN IT AND MEDITATION.
 
@@ -121,7 +119,7 @@ It is true, Theotimus, that as Joseph of old was the crown and glory of his fath
 
 [279] 3 Kings x. 8.
 
-### Chapter IV. That Love in This Life Takes Its Origin but Not Its Excellence from the
+## Chapter IV. That Love in This Life Takes Its Origin but Not Its Excellence from the
 
 KNOWLEDGE OF GOD.
 
@@ -145,7 +143,7 @@ We must admit, however, that the will, attracted by the delectation which it tak
 
 [280] Ecclus. xxiv. 29.
 
-### Chapter V. the Second Difference Between Meditation and Contemplation
+## Chapter V. the Second Difference Between Meditation and Contemplation
 
 Meditation considers in detail, and as it were piece by piece, the objects calculated to move us, but contemplation takes a very simple and collected view of the object which it loves, and the consideration thus brought to a point causes a more lively and strong movement. One may behold the beauty of a rich crown two ways; either by looking upon all its ornaments, and all the precious stones of which it is composed, one after the other; or again, having considered all the particular parts, by beholding all the work of it together in one single and simple view. The first kind resembles meditation, in which, for example, we consider the effects of God's mercy to excite us to his love; but the second is like to contemplation, in which we consider with one single steady regard of our mind, all the variety of the same effects as a single beauty, composed of all these pieces, making up a single splendid brilliant. In meditating, we as it were count the divine perfections which we find in a mystery, but in contemplating we sum up their total. The companions of the sacred spouse had asked her what manner of one was her well-beloved, and she makes answer in an admirable description of all the parts of his perfect beauty: My beloved is white and ruddy, his head is as the finest gold, his locks as branches of palm trees, black as a raven, his eyes as doves, his cheeks are as beds of aromatical spices, set by the perfumers, his lips are as lilies dropping choice myrrh, his hands are turned and as of gold full of hyacinths, his legs as pillars of marble. Thus she goes on, meditating this sovereign beauty in detail, till at length she concludes by way of contemplation, putting all the beauties into one: His throat is most sweet, and he is all lovely: such is my beloved, and he is my friend. [281]
 
@@ -171,7 +169,7 @@ So it is an opinion amongst divines that the angels who are higher in glory have
 
 [283] Gen. i. 31.
 
-### Chapter VI. That Contemplation Is Made Without Labour, Which Is the Third
+## Chapter VI. That Contemplation Is Made Without Labour, Which Is the Third
 
 DIFFERENCE BETWEEN IT AND MEDITATION.
 
@@ -197,7 +195,7 @@ Now whereas to attain unto contemplation we stand ordinarily in need of hearing 
 
 [288] Cant. v. 1.
 
-### Chapter VII. of the Loving Recollection of the Soul in Contemplation
+## Chapter VII. of the Loving Recollection of the Soul in Contemplation
 
 I speak not here, Theotimus, of the recollection by which such as are about to pray, place themselves in God's presence, entering into themselves, and as one would say bringing their soul into their hearts, there to speak with God; for this recollection is made by love's command, which, provoking us to prayer, moves us to take this means of doing it well, so that we ourselves make this withdrawing of our spirit. But the recollection of which I mean to speak is not made by love's command but by love itself, that is, we do not make it by free choice, for it is not in our power to have it when we please, and does not depend on our care, but God at his pleasure works it in us by his most holy grace. The Blessed Mother (S.) Teresa of Jesus says: "He who has written that the prayer of recollection is made as when a hedgehog or tortoise draws itself within itself, said well, saying that these beasts draw themselves in when they please, whereas recollection is not in our will, but comes to us only when it pleases God to do us this grace."
 
@@ -213,7 +211,7 @@ But this sweet recollection of our soul in itself is not only made by the sentim
 
 Indeed I know a soul who, as soon as she heard mention of some mystery or sentence which put her a little more expressly in mind of the presence of God than usual, whether in confession or private conference, would so deeply enter into herself that she could hardly recover herself to speak and make answer, so that outwardly she remained as one deprived of life, and with all her senses benumbed, till her spouse permitted her to quit that state: which was sometimes pretty soon, and other times more slowly.
 
-### Chapter VIII. of the Repose of a Soul Recollected in Her Well-beloved
+## Chapter VIII. of the Repose of a Soul Recollected in Her Well-beloved
 
 The soul, then, being thus inwardly recollected in God or before God, now and then becomes so sweetly attentive to the goodness of her well-beloved, that her attention seems not to her to be attention, so purely and delicately is it exercised: as it happens to certain rivers, which glide so calmly and smoothly that beholders, and such as float upon them, seem neither to see nor feel any motion, because the waters are not seen to ripple or flow at all. And it is this admirable repose of the soul which the Blessed Virgin (S.) Teresa of Jesus names prayer of quiet, not far different from that which she also calls the sleep of the powers, at least if I understand her right.
 
@@ -243,7 +241,7 @@ Wherefore, when you shall find yourself in this simple and pure filial confidenc
 
 [291] Luke x. 41, 42.
 
-### Chapter IX. How This Sacred Repose Is Practised
+## Chapter IX. How This Sacred Repose Is Practised
 
 Have you never noted, Theotimus, with what ardour little children sometimes cleave to their mother's breast when hungry? You will see them, with a deep soft murmur, hold and squeeze it with their mouths, sucking so eagerly that they even put their mother to pain; but after the freshness of the milk has in some sort allayed the urgent heat of their little frame, and the agreeable vapours which it sends to the brain begin to lull them to sleep, Theotimus, you will see them softly shut their little eyes, and little by little give way to sleep; yet without letting go the breast, upon which they make no action saving a slow and almost insensible movement of the lips, whereby they continually draw the milk which they swallow imperceptibly. This they do without thinking of it, yet not without pleasure; for if one draw the teat from them before they fall sound asleep, they awake and weep bitterly, testifying by the sorrow which they show in the privation that their content was great in the possession. Now it fares in like manner with the soul who is in rest and quiet before God: for she sucks in a manner insensibly the delights of his presence, without any discourse, operation or motion of any of her faculties, save only the highest part of the will, which she moves softly and almost imperceptibly, as the mouth by which enter the delight and insensible satiety she finds in the fruition of the divine presence. But if one trouble this poor little babe, or offer to take from it its treasure because it seems to sleep, it will plainly show then that though it sleep to all other things yet not to that; for it perceives the trouble of this separation and grieves over it, showing thereby the pleasure which it took, though without thinking of it, in the good which it possessed. The Blessed Mother (S.) Teresa having written that she found this a fit similitude, I have thought good to make use of it.
 
@@ -255,7 +253,7 @@ Honied wine is used not only to withdraw and recall bees to their hives, but als
 
 [292] Cant. iii. 4.
 
-### Chapter X. of Various Degrees of This Repose, and How It Is to Be Preserved
+## Chapter X. of Various Degrees of This Repose, and How It Is to Be Preserved
 
 There are souls active, fertile and abounding in considerations. There are souls who readily double and bend back on themselves, who love to feel what they are doing, who wish to see and scrutinize what passes in them, turning their view ever on themselves to discover the progress they make. And there are yet others who are not content to be content unless they feel, see, and relish their contentment; these are like to persons who being well protected against the cold would not believe it if they knew not how many garments they had on, or who, seeing their cabinets full of money, would not esteem themselves rich unless they knew the number of their coins.
 
@@ -273,7 +271,7 @@ However, the peace of the soul would be much greater and sweeter if there were n
 
 [294] Gen. xxix. 11.
 
-### Chapter XI. a Continuation of the Discourse Touching the Various Degrees of Holy
+## Chapter XI. a Continuation of the Discourse Touching the Various Degrees of Holy
 
 QUIET, AND OF AN EXCELLENT ABNEGATION OF SELF WHICH IS SOMETIMES PRACTISED THEREIN.
 
@@ -297,7 +295,7 @@ Now this quiet, in which the will works not save only by a simple acquiescence i
 
 [297] Gen. xxviii. 16.
 
-### Chapter XII. of the Outflowing (escoulement) or Liquefaction of the Soul in God
+## Chapter XII. of the Outflowing (escoulement) or Liquefaction of the Soul in God
 
 Moist and liquid things easily receive the figures and limits which may be given them, because they have no firmness or solidity which stops or limits them in themselves. Put liquid into a vessel, and you will see it remain bounded within the limits of the vessel, and according as this is round or square the liquid will be the same, having no other limit or shape than that of the vessel which contains it.
 
@@ -325,7 +323,7 @@ The soul that has flowed out into God dies not, for how can she die by being swa
 
 [303] Col. iii. 3.
 
-### Chapter XIII. of the Wound of Love
+## Chapter XIII. of the Wound of Love
 
 All these terms of love are drawn from the resemblance there is between the affections of the mind and the passions of the body. Grief, fear, hope, hatred, and the rest of the affections of the soul, only enter the heart when love draws them after it. We do not hate evil except because it is contrary to the good which we love: we fear future evil because it will deprive us of the good we love. Though an evil be extreme yet we never hate it except in so far as we love the good to which it is opposed. He who does not much love the commonwealth is not much troubled to see it ruined: he who scarcely loves God, scarcely also hates sin. Love is the first, yea the principle and origin, of all the passions, and therefore it is love that first enters the heart; and because it penetrates and pierces down to the very bottom of the will where its seat is, we say it wounds the heart. "It is sharp," says the apostle of France, [304] "and enters into the spirit most deeply." The other affections enter indeed, but by the agency of love, for it is this which piercing the heart makes a passage for them. It is only the point of the dart that wounds, the rest only increases the wound and the pain.
 
@@ -357,7 +355,7 @@ God therefore continually drawing arrows, if we may say so, out of the quiver of
 
 [309] Rom. vii. 24.
 
-### Chapter XIV. of Some Other Means by Which Holy Love Wounds the Heart
+## Chapter XIV. of Some Other Means by Which Holy Love Wounds the Heart
 
 Nothing so much wounds a loving heart as to perceive another wounded with the love of it. The pelican builds her nest upon the ground, wherefore serpents often sting her young ones. Now when this happens, the pelican, as an excellent physician, with the point of her beak wounds these poor chicks all over, to cause the poison which the serpents' sting had spread through all the parts of their bodies to flow out with the blood; and to get out all the poison she lets out all the blood, and thus consequently, permits this little pelican-brood to perish. But seeing them dead she wounds herself, and spreading her blood over them she vivifies them with a new and purer life. Her love wounded them, and forthwith by the same love she wounds herself. Never do we wound a heart with the wound of love but we ourselves are wounded with the same. When the soul sees her God wounded by love for her sake, she immediately receives from it a reciprocal wound. Thou hast wounded my heart, [310] said the heavenly lover to the Sulamitess, and the Sulamitess cries out: Tell my beloved that I languish with love. [311]
 
@@ -385,7 +383,7 @@ But, however it be, there is this admirable in the wounds received from the divi
 
 [314] Cant. i. 12.
 
-### Chapter XV. of the Affectionate Languishing of the Heart Wounded with Love
+## Chapter XV. of the Affectionate Languishing of the Heart Wounded with Love
 
 It is a thing very well known that human love not only wounds the heart, but even makes the body sick unto death; because, as the passion and temperament of the body have great power to incline the soul and draw her after it, so the affections of the soul have great force to stir the humours and change the qualities of the body. But besides this, love when it is violent bears away the soul to the thing beloved with such impetuosity, and so strongly possesses her, that she fails in all her other operations, be they sensitive or intellectual; so that to feed and second this love, the soul seems to abandon all other care, all other exercises, yea and herself too, whence Plato said that love was poor, ragged, naked, barefoot, miserable, houseless, that it lies without doors upon the hard ground, always in want. It is poor, because it makes one quit all for the thing beloved; it is houseless, because it urges the soul to leave her own habitation to follow continually him who is loved; it is miserable, pale, lean and broken down, because it makes one lose sleep, meat and drink; it is naked and barefoot, since it makes one forsake all other affections to embrace those of the thing beloved; it lies without upon the hard ground because it causes the heart that is in love to lie open, making it manifest its passion by sighs, plaints, praises, suspicions, jealousies; it lies along at the gate like a beggar, because it makes the lover perpetually attentive to the eyes and mouth of the thing which it loves, keeping continually to the ears thereof to speak to it and beg favours, wherewith love is never satiated; now the eyes, ears, and mouth are the gates of the soul. In fine the condition of its life is to be ever indigent, for if ever it is satiated it is no longer ardent, nor, consequently, love.
 

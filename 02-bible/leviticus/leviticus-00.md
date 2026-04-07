@@ -1,25 +1,25 @@
 ---
-title: Leviticus, The Book Of Leviticus
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, the Book of Leviticus
+title: Leviticus, The Book Of Leviticus
+url: https://bible.usccb.org/bible/leviticus/0
 aliases:
   - leviticus-00
   - Leviticus, the Book of Leviticus
   - Leviticus, The Book Of Leviticus
 tags:
+  - bible/book
   - bible/leviticus
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/leviticus/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, the Book of Leviticus
 ---
 
 # Leviticus, the Book of Leviticus
 
-                           
+[Introduction](leviticus-00.md) [1](leviticus-01.md) [2](leviticus-02.md) [3](leviticus-03.md) [4](leviticus-04.md) [5](leviticus-05.md) [6](leviticus-06.md) [7](leviticus-07.md) [8](leviticus-08.md) [9](leviticus-09.md) [10](leviticus-10.md) [11](leviticus-11.md) [12](leviticus-12.md) [13](leviticus-13.md) [14](leviticus-14.md) [15](leviticus-15.md) [16](leviticus-16.md) [17](leviticus-17.md) [18](leviticus-18.md) [19](leviticus-19.md) [20](leviticus-20.md) [21](leviticus-21.md) [22](leviticus-22.md) [23](leviticus-23.md) [24](leviticus-24.md) [25](leviticus-25.md) [26](leviticus-26.md) [27](leviticus-27.md)
 
 ## The Book of Leviticus
 

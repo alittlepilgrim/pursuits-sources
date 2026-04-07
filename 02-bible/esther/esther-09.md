@@ -1,25 +1,24 @@
 ---
-title: Esther, Chapter 9
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 9
+title: Esther, Chapter 9
+url: https://bible.usccb.org/bible/esther/9
 aliases:
   - esther-09
   - Esther, Chapter 9
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/9
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 9
 ---
 
 # Esther, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **The Massacre Reversed.**
 
@@ -71,7 +70,7 @@ testament: old
 
 23 The Jews adopted as a custom what they had begun doing and what Mordecai had written to them. ^esther-09-23
 
-## Vii. Epilogue: the Rise of Mordecai
+# Vii. Epilogue: the Rise of Mordecai
 
 **Summary of the Story.**
 

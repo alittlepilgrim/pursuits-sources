@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 56
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 56
+title: Isaiah, Chapter 56
+url: https://bible.usccb.org/bible/isaiah/56
 aliases:
   - isaiah-56
   - Isaiah, Chapter 56
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/56
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 56
 ---
 
 # Isaiah, Chapter 56
 
-### Chapter 56
+## Chapter 56
 
-#### Salvation for the Just
+### Salvation for the Just
 
-1 Thus says the L ORD: ^isaiah-56-1
+1 Thus says the LORD: ^isaiah-56-1
 
 Observe what is right, do what is just,
 
@@ -39,17 +38,17 @@ Keeping the sabbath without profaning it,
 
 keeping one’s hand from doing any evil.
 
-#### Obligations and Promises to Share in the Covenant
+### Obligations and Promises to Share in the Covenant
 
-3 The foreigner joined to the L ORD should not say, ^isaiah-56-3
+3 The foreigner joined to the LORD should not say, ^isaiah-56-3
 
-“The L ORD will surely exclude me from his people”;
+“The LORD will surely exclude me from his people”;
 
 Nor should the eunuch say,
 
 “See, I am a dry tree.”
 
-4 For thus says the L ORD: ^isaiah-56-4
+4 For thus says the LORD: ^isaiah-56-4
 
 To the eunuchs who keep my sabbaths,
 
@@ -65,11 +64,11 @@ Better than sons and daughters;
 
 an eternal name, which shall not be cut off, will I give them.
 
-6 And foreigners who join themselves to the L ORD, ^isaiah-56-6
+6 And foreigners who join themselves to the LORD, ^isaiah-56-6
 
 to minister to him,
 
-To love the name of the L ORD,
+To love the name of the LORD,
 
 to become his servants—
 
@@ -97,7 +96,7 @@ Others will I gather to them
 
 besides those already gathered.
 
-#### Unworthy Shepherds
+### Unworthy Shepherds
 
 9 All you beasts of the field, ^isaiah-56-9
 

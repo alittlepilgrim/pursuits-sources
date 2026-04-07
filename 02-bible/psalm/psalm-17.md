@@ -1,20 +1,19 @@
 ---
-title: Psalm 17
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 17
+title: Psalm 17
+url: https://bible.usccb.org/bible/psalms/17
 aliases:
   - Psalm 17
   - psalm-17
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/17
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 17
 ---
 
 # Psalm 17

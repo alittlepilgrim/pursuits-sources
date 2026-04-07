@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 23
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 23
+title: Isaiah, Chapter 23
+url: https://bible.usccb.org/bible/isaiah/23
 aliases:
   - isaiah-23
   - Isaiah, Chapter 23
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/23
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 23
 ---
 
 # Isaiah, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
-#### Tyre and Sidon
+### Tyre and Sidon
 
 1 Oracle on Tyre: ^isaiah-23-1
 
@@ -79,7 +78,7 @@ Whose merchants are princes,
 
 whose traders are the earth’s honored men?
 
-9 The L ORD of hosts has planned it, ^isaiah-23-9
+9 The LORD of hosts has planned it, ^isaiah-23-9
 
 to disgrace the height of all beauty,
 
@@ -95,7 +94,7 @@ the harbor is no more.
 
 he shakes kingdoms;
 
-The L ORD commanded the destruction
+The LORD commanded the destruction
 
 of Canaan’s strongholds:
 
@@ -133,9 +132,9 @@ Pluck the strings skillfully, sing many songs,
 
 that you may be remembered.
 
-17 At the end of the seventy years the L ORD shall visit Tyre. She shall return to her hire and serve as prostitute with all the world’s kingdoms on the face of the earth. ^isaiah-23-17
+17 At the end of the seventy years the LORD shall visit Tyre. She shall return to her hire and serve as prostitute with all the world’s kingdoms on the face of the earth. ^isaiah-23-17
 
-18 But her merchandise and her hire shall be sacred to the L ORD. It shall not be stored up or laid away; instead, her merchandise shall belong to those who dwell before the L ORD, to eat their fill and clothe themselves in choice attire. ^isaiah-23-18
+18 But her merchandise and her hire shall be sacred to the LORD. It shall not be stored up or laid away; instead, her merchandise shall belong to those who dwell before the LORD, to eat their fill and clothe themselves in choice attire. ^isaiah-23-18
 
 \* (23:1] – [17) This oracle, a satire directed against the Phoenician cities of Tyre and Sidon, is perhaps to be situated at the time of Sennacherib’s campaign against the Phoenican cities in 701 B.C, following his subjugation of their Babylonian allies in 703 B.C.
 

@@ -1,34 +1,36 @@
 ---
-title: U - Social Doctrine of the Church Analytical Index
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: false
+title: U - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - sd-10-index-u
   - U - Social Doctrine of the Church Analytical Index
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-14
+modified: 2026-04-06
+publish: false
 ---
 
 # U - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Unarmed
+## Unarmed
 
 - See [[sd-10-index-a#Arms|Arms]]
 
-### Uncontrolled
+## Uncontrolled
 
 - See [[sd-10-index-c#Control|Control]]
 
-### Underdevelopment
+## Underdevelopment
 
 New discoveries and technologies and underdevelopment, [[sd-04-part-II#^csdc-283|283]]
 
@@ -42,7 +44,7 @@ Cooperation and underdevelopment, [[sd-04-part-II#^csdc-447|447]]
 
 Causes of underdevelopment, [[sd-04-part-II#^csdc-474|474]]
 
-### Unemployed - Unemployment
+## Unemployed - Unemployment
 
 So many unemployed people await work, [[sd-02-intro#^csdc-5|5]]_
 
@@ -62,7 +64,7 @@ Subsidies and unemployed workers, [[sd-04-part-II#^csdc-301|301]]
 
 Transition and structural unemployment, [[sd-04-part-II#^csdc-314|314]]
 
-### Unions
+## Unions
 
 _Rerum Novarum_ and the birth of unions, [[sd-04-part-II#^csdc-268|268]]
 
@@ -84,7 +86,7 @@ Unions and political parties, [[sd-04-part-II#^csdc-307|307]]
 
 Globalisation, renewal and unions, [[sd-04-part-II#^csdc-308|308]]
 
-### United Nations
+## United Nations
 
 _Universal Declaration of Human Rights_ and the United Nations, [[sd-03-part-I#^csdc-152|152]]
 
@@ -96,7 +98,7 @@ The Holy See and the United Nations system, [[sd-04-part-II#^csdc-444|444]]
 
 Humanitarian missions and the United Nations, [[sd-04-part-II#^csdc-502|502]]
 
-### Usury
+## Usury
 
 The prophetic tradition and usury, [[sd-04-part-II#^csdc-323|323]]
 

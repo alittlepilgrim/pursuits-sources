@@ -1,24 +1,26 @@
 ---
-title: T - Social Doctrine of the Church Analytical Index
-created: 2025-11-13
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: T - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - sd-10-index-t
   - T - Social Doctrine of the Church Analytical Index
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-13
+modified: 2026-04-06
+publish: true
 ---
 
 # T - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · ](sd-10-index-r) ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-1[T](sd-10-index-t.md)](sd-10-index-r) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
-### Taxes
+## Taxes
 
 Taxes, public spending and the common good, [[sd-04-part-II#^csdc-355|355]]
 
@@ -28,7 +30,7 @@ Jesus and taxes paid to Caesar, [[sd-04-part-II#^csdc-379|379]]
 
 Civic duty to pay taxes, [[sd-04-part-II#^csdc-380|380]]
 
-### Technology - Technical - Technique
+## Technology - Technical - Technique
 
 Christian salvation and the reality of technology, [[sd-02-intro#^csdc-1|1]]
 
@@ -120,11 +122,11 @@ Development as a technical problem, [[sd-05-part-III#^csdc-563|563]]
 
 Need for meaning and technological progress, [[sd-06-conclusion#^csdc-575|575]]
 
-### Ten Commandments
+## Ten Commandments
 
 - See [[sd-10-index-c#Commandment|Commandment]]
 
-### Terrorism
+## Terrorism
 
 Minorities and recourse to terrorism, [[sd-04-part-II#^csdc-387|387]]
 
@@ -134,13 +136,13 @@ Right to defend oneself from terrorism, [[sd-04-part-II#^csdc-514|514]]
 
 Terrorist acts, religion and martyrdom, [[sd-04-part-II#^csdc-515|515]]
 
-### Torture
+## Torture
 
 Investigation and regulation against the use of torture, [[sd-04-part-II#^csdc-404|404]]
 
 International juridical instruments and torture, [[sd-04-part-II#^csdc-404|404]]
 
-### Totalitarianism
+## Totalitarianism
 
 Totalitarian vision, society and the State, [[sd-03-part-I#^csdc-48|48]]
 
@@ -156,7 +158,7 @@ Democracy without values and totalitarianism, [[sd-04-part-II#^csdc-407|407]]
 
 Political community and totalitarian ideologies, [[sd-04-part-II#^csdc-417|417]]
 
-### Trade
+## Trade
 
 (see Also [[sd-10-index-o#Commerce|Commerce]], [[sd-10-index-e#Exchange|Exchange]])
 
@@ -178,11 +180,11 @@ Trade and exploitation of the environment, [[sd-04-part-II#^csdc-482|482]]
 
 The arms trade, [[sd-04-part-II#^csdc-508|508]], [[sd-04-part-II#^csdc-510|510]], [[sd-04-part-II#^csdc-511|511]]
 
-### Transportation
+## Transportation
 
 Transportation, an essential personal service, [[sd-03-part-I#^csdc-166|166]]
 
-### Truth
+## Truth
 
 Jesus, the way, the truth and the life, [[sd-02-intro#^csdc-1|1]], [[sd-05-part-III#^csdc-555|555]]
 

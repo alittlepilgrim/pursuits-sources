@@ -1,9 +1,8 @@
 ---
-title: Catechism of the Catholic Church Table of Contents
-created: 2025-07-26
-modified: 2026-04-02
 type: toc
-publish: true
+title: Catechism of the Catholic Church TOC
+author: Catholic Church
+source: vatican.va
 aliases:
   - Catechism of the Catholic Church
   - Catechism of the Catholic Church Table of Contents
@@ -11,38 +10,42 @@ aliases:
 tags:
   - catechism
   - type/toc
+created: 2025-07-26
+modified: 2026-04-07
+publish: true
+permalink: /catechism
 attachment: false
-author: Catholic Church
-source: vatican.va
 ---
 
 🧭 Map | 📚 Reference
 
 # Catechism of the Catholic Church
 
+![[banner-pursuits-m.png]]
+
 **Table of Contents**
 
 # [[00.prologue|Prologue]]
 
--[[00.prologue-1|I. The life of man - to know and love God]]
+- [[00.prologue-1|I. The life of man - to know and love God]]
 
--[[00.prologue-2|II. Handing on the Faith: Catechesis]]
+- [[00.prologue-2|II. Handing on the Faith: Catechesis]]
 
--[[00.prologue-3|III. The Aim and Intended Readership of the Catechism]]
+- [[00.prologue-3|III. The Aim and Intended Readership of the Catechism]]
 
--[[00.prologue-4|IV. Structure of this Catechism]]
+- [[00.prologue-4|IV. Structure of this Catechism]]
 
--[[00.prologue-5|V. Practical Directions for Using this Catechism]]
+- [[00.prologue-5|V. Practical Directions for Using this Catechism]]
 
--[[00.prologue-6|VI. Necessary Adaptations]]
+- [[00.prologue-6|VI. Necessary Adaptations]]
 
-# Part One, the Profession of Faith
+# Part One, The Profession of Faith
 
 - PART ONE: THE PROFESSION OF FAITH
 
 ## Section One
 
--[[1.1.0.0.p8|Section One, "I Believe" - "We Believe"]]
+- [[1.1.0.0.p8|Section One, "I Believe" - "We Believe"]]
 
 ### Chapter One, Man's Capacity for God
 
@@ -50,16 +53,16 @@ source: vatican.va
 - [[1.1.1.0.pa|II. Ways of Coming to Know God]]
 - [[1.1.1.0.pb|III. The Knowledge of God According to the Church]]
 - [[1.1.1.0.pc|IV. How Can We Speak about God?]]
-- [[1.1.1.0.pd|IN BRIEF]]
+- [[1.1.1.0.pd|In Brief]]
 
-### [[1.1.2.0.pe|Chapter 2, God Comes to Meet Man]]
+### [[1.1.2.0.pe|Chapter Two, God Comes to Meet Man]]
 
-#### Article 1, the Revelation of God
+#### Article 1, The Revelation of God
 
 - [[1.1.2.1.pf|I. God Reveals His "Plan of Loving Goodness"]]
 - [[1.1.2.1.pg|II. The Stages of Revelation]]
 - [[1.1.2.1.ph|III. Christ Jesus -- "Mediator and Fullness of All Revelation"]]
-- [[1.1.2.1.pi|IN BRIEF]]
+- [[1.1.2.1.pi|In Brief]]
 
 #### [[1.1.2.2.pj|Article 2, The Transmission of Divine Revelation]]
 
@@ -75,7 +78,7 @@ source: vatican.va
 - [[1.1.2.3.pq|III. The Holy Spirit, Interpreter of Scripture]]
 - [[1.1.2.3.pr|IV. The Canon of Scripture]]
 - [[1.1.2.3.ps|V. Sacred Scripture in the Life of the Church]]
-- [[1.1.2.3.pt|IN BRIEF]]
+- [[1.1.2.3.pt|In Brief]]
 
 ### [[1.1.3.0.pu|Chapter 3, Man's Response To God]]
 
@@ -90,7 +93,7 @@ source: vatican.va
 - [[1.1.3.2.pz|I. "Lord, Look Upon the Faith of Your Church"]]
 - [[1.1.3.2.p10|II. The Language of Faith]]
 - [[1.1.3.2.p11|III. Only One Faith]]
-- [[1.1.3.2.p12|IN BRIEF]]
+- [[1.1.3.2.p12|In Brief]]
 - [[1.1.3.2.p13|The Credo]]
 
 ## Section Two
@@ -117,7 +120,7 @@ source: vatican.va
 - [[1.2.2.2.p1f|II. Christ]]
 - [[1.2.2.2.p1g|III. The Only Son of God]]
 - [[1.2.2.2.p1h|IV. Lord]]
-- [[1.2.2.2.p1i|IN BRIEF]]
+- [[1.2.2.2.p1i|In Brief]]
 
 #### Article 3, He Was Conceived by the Power of the Holy Spirit, and Was Born of the Virgin MARY"
 
@@ -140,7 +143,7 @@ source: vatican.va
 
 - [[1.2.2.6.p1u|Article 6, He Ascended Into Heaven And Is Seated At The Right Hand of the Father - In Brief]]
 
-#### Article 7, "FROM Thence He Will Come Agaln to Judge the Living and the DEAD"
+#### Article 7, "From Thence He Will Come Agaln To Judge The Living And The Dead"
 
 - [[1.2.2.7.p1v|I. He Will Come Again in Glory]]
 - [[1.2.2.7.p1w|II. To Judge the Living and the Dead]]
@@ -194,11 +197,11 @@ source: vatican.va
 
 ## Section One
 
--[[2.1.0.0.p2u|Section One, The Sacramental Economy]]
+- [[2.1.0.0.p2u|Section One, The Sacramental Economy]]
 
 ### Chapter One, the Paschal Mystery in the Age of the Church
 
-#### Article 1, the Liturgy - Work of the Holy Trinity
+#### Article 1, The Liturgy - Work of the Holy Trinity
 
 - [[2.1.1.1.p2v|I. The Father-Source and Goal of the Liturgy]]
 - [[2.1.1.1.p2w|II. Christ's Work in the Liturgy]]
@@ -329,38 +332,38 @@ source: vatican.va
 
 ## Section One
 
--[[3.1.0.0.p5e|Section One, Man's Vocation Life In The Spirit]]
+- [[3.1.0.0.p5e|Section One, Man's Vocation Life In The Spirit]]
 
 ### [[3.1.1.0.p5f|Chapter One, The Dignity of the Human Person]]
 
 #### [[3.1.1.1.p5g|Article 1, Man The Image of God]]
 
-- [[3.1.1.1.p5h|IN BRIEF]]
+- [[3.1.1.1.p5h|In Brief]]
 
 #### Article 2, Our Vocation to Beatitude
 
 - [[3.1.1.2.p5i|I. The Beatitudes]]
 - [[3.1.1.2.p5j|II. The Desire for Happiness]]
 - [[3.1.1.2.p5k|III. Christian Beatitude]]
-- [[3.1.1.2.p5l|IN BRIEF]]
+- [[3.1.1.2.p5l|In Brief]]
 
 #### [[3.1.1.3.p5m|Article 3, Man's Freedom]]
 
 - [[3.1.1.3.p5n|I. Freedom and Responsibility]]
 - [[3.1.1.3.p5o|II. Human Freedom in the Economy of Salvation]]
-- [[3.1.1.3.p5p|IN BRIEF]]
+- [[3.1.1.3.p5p|In Brief]]
 
 #### [[3.1.1.4.p5q|Article 4. The Morality of Human Acts]]
 
 - [[3.1.1.4.p5r|I. The Sources of Morality]]
 - [[3.1.1.4.p5s|II. Good Acts and Evil Acts]]
-- [[3.1.1.4.p5t|IN BRIEF]]
+- [[3.1.1.4.p5t|In Brief]]
 
 #### [[3.1.1.5.p5u|Article 5, The Morality of the Passions]]
 
 - [[3.1.1.5.p5v|I. Passions]]
 - [[3.1.1.5.p5w|II. Passions and Moral Life]]
-- [[3.1.1.5.p5x|IN BRIEF]]
+- [[3.1.1.5.p5x|In Brief]]
 
 #### [[3.1.1.6.p5y|Article 6, Moral Conscience]]
 
@@ -368,14 +371,14 @@ source: vatican.va
 - [[3.1.1.6.p60|II. The Formation of Conscience]]
 - [[3.1.1.6.p61|III. To Choose in Accord With Conscience]]
 - [[3.1.1.6.p62|IV. Erroneous Judgment]]
-- [[3.1.1.6.p63|IN BRIEF]]
+- [[3.1.1.6.p63|In Brief]]
 
 #### [[3.1.1.7.p64|Article 7, The Virtues]]
 
 - [[3.1.1.7.p65|I. The Human Virtues]]
 - [[3.1.1.7.p66|II. The Theological Virtues]]
 - [[3.1.1.7.p67|III. The Gifts and Fruits of the Holy Spirit]]
-- [[3.1.1.7.p68|IN BRIEF]]
+- [[3.1.1.7.p68|In Brief]]
 
 #### Article 8, sin
 
@@ -384,29 +387,29 @@ source: vatican.va
 - [[3.1.1.8.p6b|III. The Different Kinds of Sins]]
 - [[3.1.1.8.p6c|IV. The Gravity of Sin: Mortal and Venial Sin]]
 - [[3.1.1.8.p6d|V. The Proliferation of Sin]]
-- [[3.1.1.8.p6e|IN BRIEF]]
+- [[3.1.1.8.p6e|In Brief]]
 
 ### [[3.1.2.0.p6f|Chapter Two, The Human Communion]]
 
-#### Article 1, the Person and Society
+#### Article 1, The Person and Society
 
 - [[3.1.2.1.p6g|I. The Communal Character of the Human Vocation]]
 - [[3.1.2.1.p6h|II. Conversion and Society]]
-- [[3.1.2.1.p6i|IN BRIEF]]
+- [[3.1.2.1.p6i|In Brief]]
 
 #### Article 2, Participation in Social Life
 
 - [[3.1.2.2.p6j|I. Authority]]
 - [[3.1.2.2.p6k|II. The Common Good]]
 - [[3.1.2.2.p6l|III. Responsibility and Participation]]
-- [[3.1.2.2.p6m|IN BRIEF]]
+- [[3.1.2.2.p6m|In Brief]]
 
 #### [[3.1.2.3.p6n|Article 3, Social Justice]]
 
 - [[3.1.2.3.p6o|I. Respect For the Human Person]]
 - [[3.1.2.3.p6p|II. Equality and Differences Among Men]]
 - [[3.1.2.3.p6q|III. Human Solidarity]]
-- [[3.1.2.3.|IN BRIEF]]
+- [[3.1.2.3.|In Brief]]
 
 ### [[3.1.3.0.p6s|Chapter Three, God's Salvation: Law And Grace]]
 
@@ -415,7 +418,7 @@ source: vatican.va
 - [[3.1.3.1.p6u|I. The Natural Moral Law]]
 - [[3.1.3.1.p6v|II. The Old Law]]
 - [[3.1.3.1.p6w|III. The New Law or the Law of the Gospel]]
-- [[3.1.3.1.p6x|IN BRIEF]]
+- [[3.1.3.1.p6x|In Brief]]
 
 #### Article 2, Grace and Justification
 
@@ -423,14 +426,14 @@ source: vatican.va
 - [[3.1.3.2.p6z|II. Grace]]
 - [[3.1.3.2.p70|III. Merit]]
 - [[3.1.3.2.p71|IV. Christian Holiness]]
-- [[3.1.3.2.p72|IN BRIEF]]
+- [[3.1.3.2.p72|In Brief]]
 
 #### [[3.1.3.3.p73|Article 3, The Church, Mother And Teacher]]
 
 - [[3.1.3.3.p74|I. Moral Life and the Magisterium of the Church]]
 - [[3.1.3.3.p75|II. The Precepts of the Church]]
 - [[3.1.3.3.p76|III. Moral Life and Missionary Witness]]
-- [[3.1.3.3.p77|IN BRIEF]]
+- [[3.1.3.3.p77|In Brief]]
 
 ## Section Two
 
@@ -445,20 +448,20 @@ source: vatican.va
 - [[3.2.1.1.p7d|II. "Him Only Shall You Serve"]]
 - [[3.2.1.1.p7e|III. "You Shall Have No Other Gods Before Me"]]
 - [[3.2.1.1.p7f|IV. "You Shall Not Make For Yourself a Graven Image..."]]
-- [[3.2.1.1.p7g|IN BRIEF]]
+- [[3.2.1.1.p7g|In Brief]]
 
 #### [[3.2.1.2.p7h|Article 2, The Second Commandment]]
 
 - [[3.2.1.2.p7i|I. The Name of the Lord is Holy]]
 - [[3.2.1.2.p7j|II. Taking the Name of the Lord in Vain]]
 - [[3.2.1.2.p7k|III. The Christian Name]]
-- [[3.2.1.2.p7l|IN BRIEF]]
+- [[3.2.1.2.p7l|In Brief]]
 
 #### [[3.2.1.3.p7m|Article 3, The Third Commandment]]
 
 - [[3.2.1.3.p7n|I. The Sabbath Day]]
 - [[3.2.1.3.p7o|II. The Lord's Day]]
-- [[3.2.1.3.p7p|IN BRIEF]]
+- [[3.2.1.3.p7p|In Brief]]
 
 ### [[3.2.2.0.p7q|Chapter Two, You Shall Love Your Neighbor As Yourself]]
 
@@ -469,14 +472,14 @@ source: vatican.va
 - [[3.2.2.4.p7u|III. The Duties of Family Members]]
 - [[3.2.2.4.p7v|IV. The Family and the Kingdom]]
 - [[3.2.2.4.p7w|V. The Authorities In Civil Society]]
-- [[3.2.2.4.p7x|IN BRIEF]]
+- [[3.2.2.4.p7x|In Brief]]
 
 #### [[3.2.2.5.p7y|Article 5, The Fifth Commandment]]
 
 - [[3.2.2.5.p7z|I. Respect for Human Life]]
 - [[3.2.2.5.p80|II. Respect for the Dignity of Persons]]
 - [[3.2.2.5.p81|III. Safeguarding Peace]]
-- [[3.2.2.5.p82|IN BRIEF]]
+- [[3.2.2.5.p82|In Brief]]
 
 #### [[3.2.2.6.p83|Article 6, The Sixth Commandment]]
 
@@ -484,7 +487,7 @@ source: vatican.va
 - [[3.2.2.6.p85|II. The Vocation to Chastity]]
 - [[3.2.2.6.p86|III. The Love of Husband and Wife]]
 - [[3.2.2.6.p87|IV. Offenses Against the Dignity of Marriage]]
-- [[3.2.2.6.p88|IN BRIEF]]
+- [[3.2.2.6.p88|In Brief]]
 
 #### [[3.2.2.7.p89|Article 7, The Seventh Commandment]]
 
@@ -494,7 +497,7 @@ source: vatican.va
 - [[3.2.2.7.p8d|IV. Economic Activity and Social Justice]]
 - [[3.2.2.7.p8e|V. Justice and Solidarity Among Nations]]
 - [[3.2.2.7.p8f|VI. Love For the Poor]]
-- [[3.2.2.7.p8g|IN BRIEF]]
+- [[3.2.2.7.p8g|In Brief]]
 
 #### [[3.2.2.8.p8h|Article 8, The Eighth Commandment]]
 
@@ -504,13 +507,13 @@ source: vatican.va
 - [[3.2.2.8.p8l|IV. Respect for the Truth]]
 - [[3.2.2.8.p8m|V. The Use of the Social Communications Media]]
 - [[3.2.2.8.p8n|VI. Truth, Beauty, and Sacred Art]]
-- [[3.2.2.8.p8o|IN BRIEF]]
+- [[3.2.2.8.p8o|In Brief]]
 
 #### [[3.2.2.9.p8p|Article 9, The Ninth Commandment]]
 
 - [[3.2.2.9.p8q|I. Purification of the Heart]]
 - [[3.2.2.9.p8r|II. The Battle for Purity]]
-- [[3.2.2.9.p8s|IN BRIEF]]
+- [[3.2.2.9.p8s|In Brief]]
 
 #### [[3.2.2.10.p8t|Article 10, The Tenth Commandment]]
 
@@ -518,7 +521,7 @@ source: vatican.va
 - [[3.2.2.10.p8v|II. The Desires of the Spirit]]
 - [[3.2.2.10.p8w|III. Poverty of Heart]]
 - [[3.2.2.10.p8x|IV. "I Want to See God"]]
-- [[3.2.2.10.p8y|IN BRIEF]]
+- [[3.2.2.10.p8y|In Brief]]
 
 # Part Four Christian Prayer
 
@@ -530,11 +533,11 @@ source: vatican.va
 
 #### [[4.1.1.1.p91|Article 1, In The Old Testament]]
 
-- [[4.1.1.1.p92|IN BRIEF]]
+- [[4.1.1.1.p92|In Brief]]
 
 #### [[4.1.1.2.p93|Article 2, In The Fullness of Time]]
 
-- [[4.1.1.2.p94|IN BRIEF]]
+- [[4.1.1.2.p94|In Brief]]
 
 #### [[4.1.1.3.p95|Article 3, In The Age of the Church]]
 
@@ -543,21 +546,21 @@ source: vatican.va
 - [[4.1.1.3.p98|III. Prayer of Intercession]]
 - [[4.1.1.3.p99|IV. Prayer of Thanksgiving]]
 - [[4.1.1.3.p9a|V. Prayer of Praise]]
-- [[4.1.1.3.p9b|IN BRIEF]]
+- [[4.1.1.3.p9b|In Brief]]
 
 ### [[4.1.2.0.p9c|Chapter Two, The Tradition of Prayer]]
 
 #### [[4.1.2.1.p9d|Article 1, At The Wellsprings of Prayer]]
 
-- [[4.1.2.1.p9e|IN BRIEF]]
+- [[4.1.2.1.p9e|In Brief]]
 
 #### [[4.1.2.2.p9f|Article 2, The Way of Prayer]]
 
-- [[4.1.2.2.p9g|IN BRIEF]]
+- [[4.1.2.2.p9g|In Brief]]
 
 #### [[4.1.2.3.p9h|Article 3, Guides for Prayer]]
 
-- [[4.1.2.3.p9i|IN BRIEF]]
+- [[4.1.2.3.p9i|In Brief]]
 
 ### [[4.1.3.0.p9j|Chapter Three, The Life of Prayer]]
 
@@ -566,7 +569,7 @@ source: vatican.va
 - [[4.1.3.1.p9k|I. Vocal prayer]]
 - [[4.1.3.1.p9l|II. Meditation]]
 - [[4.1.3.1.p9m|III. Contemplative Prayer]]
-- [[4.1.3.1.p9n|IN BRIEF]]
+- [[4.1.3.1.p9n|In Brief]]
 
 #### [[4.1.3.2.p9o|Article 2, The Battle of Prayer]]
 
@@ -577,7 +580,7 @@ source: vatican.va
 
 #### [[4.1.3.3.p9t|Article 2, The Battle of Prayer]]
 
-- [[4.1.3.3.p9u|IN BRIEF]]
+- [[4.1.3.3.p9u|In Brief]]
 
 ## Section Two
 
@@ -588,15 +591,15 @@ source: vatican.va
 - [[4.2.0.1.p9x|I. At the Center of the Scriptures]]
 - [[4.2.0.1.p9y|II. The Lord's Prayer]]
 - [[4.2.0.1.p9z|III. The Prayer of the Church]]
-- [[4.2.0.1.pa0|IN BRIEF]]
+- [[4.2.0.1.pa0|In Brief]]
 
-### Article 2, "OUR Father Who Art in HEAVEN"
+### Article 2, "Our Father Who Art In Heaven"
 
 - [[4.2.0.2.pa1|I. "We Dare To Say"]]
 - [[4.2.0.2.pa2|II. Abba - "Father!"]]
 - [[4.2.0.2.pa3|III. "Our" Father]]
 - [[4.2.0.2.pa4|IV. "Who Art in Heaven"]]
-- [[4.2.0.2.pa5|IN BRIEF]]
+- [[4.2.0.2.pa5|In Brief]]
 
 ### [[4.2.0.3.pa6|Article 3, The Seven Petitions]]
 
@@ -604,12 +607,12 @@ source: vatican.va
 - [[4.2.0.3.pa8|II. "Thy Kingdom Come"]]
 - [[4.2.0.3.pa9|III. "Thy Will Be Done on Earth as It is in Heaven"]]
 - [[4.2.0.3.paa|IV. "Give Us This Day Our Daily Bread"]]
-- [[4.2.0.3.pab|V. "And Forgive Us Our Trespasses, as We Forgive Those Who Trespass AGAINST US"]]
+- [[4.2.0.3.pab|V. "And Forgive Us Our Trespasses, as We Forgive Those Who Trespass Against Us"]]
 - [[4.2.0.3.pac|VI. "And Lead Us not into Temptation"]]
 
 ### [[4.2.0.4.pad|Article 4, The Final Doxology]]
 
-- [[4.2.0.4.pae|IN BRIEF]]
+- [[4.2.0.4.pae|In Brief]]
 
 ---
 

@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 42
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 42
+title: Genesis, Chapter 42
+url: https://bible.usccb.org/bible/genesis/42
 aliases:
   - 20250508-020348
   - genesis-42
   - Genesis, Chapter 42
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 42
 bible_book: genesis
 bible_chapter: "42"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/42
 ---
 
 [[genesis-41|[← Previous Note]]] · [[genesis-43|[Next Note →]]]
@@ -129,6 +128,6 @@ i. (42:38) [Gn 37:35]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-01|[← Previous Note]]] · [[genesis-03|[Next Note →]]]

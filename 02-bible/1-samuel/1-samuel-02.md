@@ -1,29 +1,28 @@
 ---
-title: 1 Samuel, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 2
+title: 1 Samuel, Chapter 2
+url: https://bible.usccb.org/bible/1samuel/2
 aliases:
   - 1 Samuel, Chapter 2
   - 1-samuel-02
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/2
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 2
 ---
 
 # 1 Samuel, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 And Hannah prayed: ^1-samuel-02-1
 
-“My heart exults in the L ORD,
+“My heart exults in the LORD,
 
 my horn is exalted by my God.
 
@@ -31,7 +30,7 @@ I have swallowed up my enemies;
 
 I rejoice in your victory.
 
-2 There is no Holy One like the L ORD; ^1-samuel-02-2
+2 There is no Holy One like the LORD; ^1-samuel-02-2
 
 there is no Rock like our God.
 
@@ -39,7 +38,7 @@ there is no Rock like our God.
 
 Do not let arrogance issue from your mouths.
 
-For an all-knowing God is the L ORD,
+For an all-knowing God is the LORD,
 
 a God who weighs actions.
 
@@ -55,11 +54,11 @@ The barren wife bears seven sons,
 
 while the mother of many languishes.
 
-6 “The L ORD puts to death and gives life, ^1-samuel-02-6
+6 “The LORD puts to death and gives life, ^1-samuel-02-6
 
 casts down to Sheol and brings up again.
 
-7 The L ORD makes poor and makes rich, ^1-samuel-02-7
+7 The LORD makes poor and makes rich, ^1-samuel-02-7
 
 humbles, and also exalts.
 
@@ -71,7 +70,7 @@ To seat them with nobles
 
 and make a glorious throne their heritage.
 
-“For the pillars of the earth are the L ORD’s,
+“For the pillars of the earth are the LORD’s,
 
 and he has set the world upon them.
 
@@ -81,21 +80,21 @@ but the wicked shall perish in the darkness;
 
 for not by strength does one prevail.
 
-10 The L ORD’s foes shall be shattered; ^1-samuel-02-10
+10 The LORD’s foes shall be shattered; ^1-samuel-02-10
 
 the Most High in heaven thunders;
 
-the L ORD judges the ends of the earth.
+the LORD judges the ends of the earth.
 
 May he give strength to his king,
 
 and exalt the horn of his anointed!”
 
-11 When Elkanah returned home to Ramah, the child remained in the service of the L ORD under the priest Eli. ^1-samuel-02-11
+11 When Elkanah returned home to Ramah, the child remained in the service of the LORD under the priest Eli. ^1-samuel-02-11
 
 **Wickedness of Eli’s Sons.**
 
-12 Now the sons of Eli were wicked; they had respect neither for the L ORD ^1-samuel-02-12
+12 Now the sons of Eli were wicked; they had respect neither for the LORD ^1-samuel-02-12
 
 13 nor for the priests’ duties toward the people. When someone offered a sacrifice, the priest’s servant would come with a three-pronged fork, while the meat was still boiling, ^1-samuel-02-13
 
@@ -105,17 +104,17 @@ and exalt the horn of his anointed!”
 
 16 And if this one protested, “Let the fat be burned first, then take whatever you wish,” he would reply, “No, give it to me now, or else I will take it by force.” ^1-samuel-02-16
 
-17 Thus the young men sinned grievously in the presence of the L ORD, treating the offerings to the L ORD with disdain. ^1-samuel-02-17
+17 Thus the young men sinned grievously in the presence of the LORD, treating the offerings to the LORD with disdain. ^1-samuel-02-17
 
 **The Lord Rewards Hannah.**
 
-18 Meanwhile the boy Samuel, wearing a linen ephod, was serving in the presence of the L ORD. ^1-samuel-02-18
+18 Meanwhile the boy Samuel, wearing a linen ephod, was serving in the presence of the LORD. ^1-samuel-02-18
 
 19 His mother used to make a little garment for him, which she would bring him each time she went up with her husband to offer the customary sacrifice. ^1-samuel-02-19
 
-20 And Eli would bless Elkanah and his wife, as they were leaving for home. He would say, “May the L ORD repay you with children from this woman for the gift she has made to the L ORD!” ^1-samuel-02-20
+20 And Eli would bless Elkanah and his wife, as they were leaving for home. He would say, “May the LORD repay you with children from this woman for the gift she has made to the LORD!” ^1-samuel-02-20
 
-21 The L ORD favored Hannah so that she conceived and gave birth to three more sons and two daughters, while young Samuel grew up in the service of the L ORD. ^1-samuel-02-21
+21 The LORD favored Hannah so that she conceived and gave birth to three more sons and two daughters, while young Samuel grew up in the service of the LORD. ^1-samuel-02-21
 
 **Eli’s Futile Rebuke.**
 
@@ -123,21 +122,21 @@ and exalt the horn of his anointed!”
 
 23 So he said to them: “Why are you doing such things? I hear from everyone that your behavior is depraved. ^1-samuel-02-23
 
-24 Stop this, my sons! The report that I hear the L ORD’s people spreading is not good. ^1-samuel-02-24
+24 Stop this, my sons! The report that I hear the LORD’s people spreading is not good. ^1-samuel-02-24
 
-25 If someone sins against another, anyone can intercede for the sinner with the L ORD; but if anyone sins against the L ORD, who can intercede for the sinner?” But they disregarded their father’s warning, since the L ORD wanted them dead. ^1-samuel-02-25
+25 If someone sins against another, anyone can intercede for the sinner with the LORD; but if anyone sins against the LORD, who can intercede for the sinner?” But they disregarded their father’s warning, since the LORD wanted them dead. ^1-samuel-02-25
 
-26 Meanwhile, young Samuel was growing in stature and in worth in the estimation of the L ORD and the people. ^1-samuel-02-26
+26 Meanwhile, young Samuel was growing in stature and in worth in the estimation of the LORD and the people. ^1-samuel-02-26
 
 **The Fate of Eli’s House.**
 
-27 A man of God came to Eli and said to him: “Thus says the L ORD: I went so far as to reveal myself to your father’s house when they were in Egypt as slaves to the house of Pharaoh. ^1-samuel-02-27
+27 A man of God came to Eli and said to him: “Thus says the LORD: I went so far as to reveal myself to your father’s house when they were in Egypt as slaves to the house of Pharaoh. ^1-samuel-02-27
 
 28 I chose them out of all the tribes of Israel to be my priests, to go up to my altar, to burn incense, and to wear the ephod in my presence; and I assigned all the fire offerings of the Israelites to your father’s house. ^1-samuel-02-28
 
 29 Why do you stare greedily at my sacrifices and at the offerings that I have prescribed? Why do you honor your sons more than you honor me, fattening yourselves with the choicest part of every offering of my people Israel? ^1-samuel-02-29
 
-30 This, therefore, is the oracle of the L ORD, the God of Israel: I said in the past that your family and your father’s house should minister in my presence forever. But now—oracle of the L ORD: Far be it from me! I will honor those who honor me, but those who despise me shall be cursed. ^1-samuel-02-30
+30 This, therefore, is the oracle of the LORD, the God of Israel: I said in the past that your family and your father’s house should minister in my presence forever. But now—oracle of the LORD: Far be it from me! I will honor those who honor me, but those who despise me shall be cursed. ^1-samuel-02-30
 
 31 Yes, the days are coming when I will break your strength and the strength of your father’s house, so that no one in your family lives to old age. ^1-samuel-02-31
 

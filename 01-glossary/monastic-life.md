@@ -1,15 +1,17 @@
 ---
-title: Monastic Life
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: monastic-life. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Monastic Life
+author:
 aliases:
   - Monastic Life
   - monastic-life
 tags:
   - term/monastic-life
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: monastic-life. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Monastic Life

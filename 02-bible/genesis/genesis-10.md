@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 10
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 10
+title: Genesis, Chapter 10
+url: https://bible.usccb.org/bible/genesis/10
 aliases:
   - genesis-10
   - Genesis, Chapter 10
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 10
 bible_book: genesis
 bible_chapter: "10"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/10
 ---
 
 [[genesis-09|[← Previous Note]]] · [[genesis-11|[Next Note →]]]
@@ -46,7 +45,7 @@ These are the descendants of Japheth by their lands, each with its own language,
 
 8 Cush became the father of Nimrod, who was the first to become a mighty warrior on earth. ^genesis-10-8
 
-9 He was a mighty hunter in the eyes of the L ORD; hence the saying, “Like Nimrod, a mighty hunter in the eyes of the L ORD.” ^genesis-10-9
+9 He was a mighty hunter in the eyes of the LORD; hence the saying, “Like Nimrod, a mighty hunter in the eyes of the LORD.” ^genesis-10-9
 
 10 His kingdom originated in Babylon, Erech and Accad, all of them in the land of Shinar. ^genesis-10-10
 
@@ -132,6 +131,6 @@ d. (10:22] – [29) [1 Chr 1:17] – [23]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-09|[← Previous Note]]] · [[genesis-11|[Next Note →]]]

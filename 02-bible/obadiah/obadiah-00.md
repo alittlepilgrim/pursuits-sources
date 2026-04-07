@@ -1,25 +1,25 @@
 ---
-title: Obadiah, The Book of Obadiah
-created: 2025-08-24
-modified: 2026-04-02
 type: bible
-publish: true
-description: Obadiah, the Book of Obadiah
+title: Obadiah, The Book of Obadiah
+url: https://bible.usccb.org/bible/obadiah/0
 aliases:
   - obadiah-00
   - Obadiah, the Book of Obadiah
   - Obadiah, The Book of Obadiah
 tags:
+  - bible/book
   - bible/obadiah
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/obadiah/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-24
+modified: 2026-04-04
+publish: true
+description: Obadiah, the Book of Obadiah
 ---
 
 # Obadiah, the Book of Obadiah
 
-
+[1](obadiah-01.md)
 
 ## The Book of Obadiah
 

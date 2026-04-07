@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2024 - Text 3 Nothing but Confidence (LC 170 and Lt 197)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2024 - Text 3 Nothing but Confidence (LC 170 and Lt 197)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2024 - Text 3 Nothing but Confidence (LC 170 and Lt 197)
   - theresian-anniversaries-2024-text-03
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2024 - Text 3 Nothing but Confidence (LC 170 and Lt 197)
@@ -26,7 +26,7 @@ It would be helpful to have made individual readings and reflections on Therese�
 
 Preliminary remark: these two texts are letters exchanged between Marie of the Sacred Heart and Therese. They represent the high point of Manuscript B, which is why we are choosing to present them now, rather than during the third year of the series.
 
-### Letter to Therese 170 and Letter from Therese 197 from Sister Marie of the Sacred Heart to Therese (LC 170)
+## Letter to Therese 170 and Letter from Therese 197 from Sister Marie of the Sacred Heart to Therese (LC 170)
 
 17th (?) September 1896 Jesus Dear little Sister, I have read your pages burning with love for Jesus. Your little godmother is very happy to possess this treasure and very grateful to her dear little girl who has revealed the secrets of her soul in this way. Oh!
 
@@ -74,7 +74,7 @@ I love you with all the tenderness of my GRATEFUL little childlike heart.
 
 Therese of the Child Jesus rel. carm. ind.
 
-### Introduction to the Text
+## Introduction to the Text
 
 ‘It is confidence and nothing but confidence that must lead us to Love’ (LT 197): for Therese confidence is a vital faith in the love which is absolute, infinite, eternal; the Merciful Love of God that accepts all human weakness. Jesus Christ demonstrated it in lowering Himself to human littleness, in lowering Himself to her, Therese. Because Therese knows she is a little soul infinitely loved by God.
 
@@ -86,7 +86,7 @@ Therese of the Child Jesus rel. carm. ind.
 
 ‘God never gives desires that He cannot realise.’ (LT 197): at the beginning of Therese’s Scripture notebook, Celine had written out this thought of Saint John of the Cross: ‘The more God wants to give us, the more He increases our desires... God so much ap-proves the hope of a soul that is constantly turned towards Him, that never lowers its eyes elsewhere, that one can say with certainty and truth, that soul will obtain as much as it hopes for...’
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -96,7 +96,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. Notice how much the theme of the letter uses structural elements of the little way. Which ones? Is there one that seems to be missing here?
 2. To what spiritual conversion does this letter invite us? To what extent should this be seen in perspective? What should we love in ourselves? On what are we invited to depend above all?

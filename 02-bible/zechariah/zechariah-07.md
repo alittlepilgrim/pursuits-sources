@@ -1,53 +1,52 @@
 ---
-title: Zechariah, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 7
+title: Zechariah, Chapter 7
+url: https://bible.usccb.org/bible/zechariah/7
 aliases:
   - zechariah-07
   - Zechariah, Chapter 7
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/7
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 7
 ---
 
 # Zechariah, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **A Question About Fasting.**
 
-1 In the fourth year of Darius the king, the word of the L ORD came to Zechariah, on the fourth day of the ninth month, Kislev. ^zechariah-07-1
+1 In the fourth year of Darius the king, the word of the LORD came to Zechariah, on the fourth day of the ninth month, Kislev. ^zechariah-07-1
 
-2 Bethelsarezer sent Regem-melech and his men to implore the favor of the L ORD ^zechariah-07-2
+2 Bethelsarezer sent Regem-melech and his men to implore the favor of the LORD ^zechariah-07-2
 
-3 and to ask the priests of the house of the L ORD of hosts, and the prophets, “Must I weep and abstain in the fifth month as I have been doing these many years?” ^zechariah-07-3
+3 and to ask the priests of the house of the LORD of hosts, and the prophets, “Must I weep and abstain in the fifth month as I have been doing these many years?” ^zechariah-07-3
 
-4 Then the word of the L ORD of hosts came to me: ^zechariah-07-4
+4 Then the word of the LORD of hosts came to me: ^zechariah-07-4
 
 5 Say to all the people of the land and to the priests: When you fasted and lamented in the fifth and in the seventh month these seventy years, was it really for me that you fasted? ^zechariah-07-5
 
 6 When you were eating and drinking, was it not for yourselves that you ate and for yourselves that you drank? ^zechariah-07-6
 
-7 Are these not the words which the L ORD proclaimed through the earlier prophets, when Jerusalem and its surrounding cities were inhabited and secure, when the Negeb and the Shephelah were inhabited? ^zechariah-07-7
+7 Are these not the words which the LORD proclaimed through the earlier prophets, when Jerusalem and its surrounding cities were inhabited and secure, when the Negeb and the Shephelah were inhabited? ^zechariah-07-7
 
-8 The word of the L ORD came to Zechariah: ^zechariah-07-8
+8 The word of the LORD came to Zechariah: ^zechariah-07-8
 
-9 Thus says the L ORD of hosts: Judge with true justice, and show kindness and compassion toward each other. ^zechariah-07-9
+9 Thus says the LORD of hosts: Judge with true justice, and show kindness and compassion toward each other. ^zechariah-07-9
 
 10 Do not oppress the widow or the orphan, the resident alien or the poor; do not plot evil against one another in your hearts. ^zechariah-07-10
 
 11 But they refused to listen; they stubbornly turned their backs and stopped their ears so as not to hear. ^zechariah-07-11
 
-12 And they made their hearts as hard as diamond so as not to hear the instruction and the words that the L ORD of hosts had sent by his spirit through the earlier prophets. So great anger came from the L ORD of hosts: ^zechariah-07-12
+12 And they made their hearts as hard as diamond so as not to hear the instruction and the words that the LORD of hosts had sent by his spirit through the earlier prophets. So great anger came from the LORD of hosts: ^zechariah-07-12
 
-13 Just as when I called out and they did not listen, so they will call out and I will not listen, says the L ORD of hosts. ^zechariah-07-13
+13 Just as when I called out and they did not listen, so they will call out and I will not listen, says the LORD of hosts. ^zechariah-07-13
 
 14 And I will scatter them among all the nations that they do not know. So the land was left desolate behind them with no one moving about, and they made a pleasant land into a wasteland. ^zechariah-07-14
 

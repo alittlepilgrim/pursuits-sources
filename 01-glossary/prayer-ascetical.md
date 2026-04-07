@@ -1,15 +1,16 @@
 ---
-title: Ascetical Prayer
-created: 2025-07-19
-modified: 2026-04-02
 type: glossary
-publish: true
-description: Ascetical Prayer. The Interior Castle Study Edition
+title: Ascetical Prayer
 aliases:
   - Ascetical Prayer
   - prayer-ascetical
 tags:
   - term/prayer
+  - type/term
+created: 2025-07-19
+modified: 2026-04-06
+publish: true
+description: Ascetical Prayer. The Interior Castle Study Edition
 ---
 
 # Ascetical Prayer
@@ -24,7 +25,7 @@ The Interior Castle Study Edition / Second Edition, Revised includes Full Text o
 
 See also:
 
-[[prayer|Prayer]]
+[[pursuits-sources/01-glossary/prayer|Prayer]]
 
 [[ascesis|Ascesis]]
 

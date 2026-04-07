@@ -1,18 +1,18 @@
 ---
-title: 3 John – Chapter Index
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
+title: 3 John – Chapter Index
 aliases:
   - 3 John – Chapter Index
   - 3-john-00
 tags:
   - bible
   - bible/3-john
-layer: canon
-node-type: book
-testament: new
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
 ---
 
 # 3 John – Chapter Index

@@ -1,20 +1,19 @@
 ---
-title: Psalm 71
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 71
+title: Psalm 71
+url: https://bible.usccb.org/bible/psalms/71
 aliases:
   - Psalm 71
   - psalm-71
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/71
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 71
 ---
 
 # Psalm 71

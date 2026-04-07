@@ -1,25 +1,24 @@
 ---
-title: Joshua, Chapter 16
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 16
+title: Joshua, Chapter 16
+url: https://bible.usccb.org/bible/joshua/16
 aliases:
   - joshua-16
   - Joshua, Chapter 16
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/joshua/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 16
 ---
 
 # Joshua, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **The Joseph Tribes.**
 

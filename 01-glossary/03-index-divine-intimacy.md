@@ -1,10 +1,6 @@
 ---
-title: Glossary from Divine Intimacy Meditations
-created: 2025-07-21
-modified: 2026-03-19
 type: glossary
-publish: true
-description: Untitled
+title: Glossary - Divine Intimacy Meditations
 aliases:
   - 03-glossary-divine-intimacy
   - 20250725-153348
@@ -12,6 +8,11 @@ aliases:
 tags:
   - divine-intimacy
   - term
+  - type/term
+created: 2025-07-21
+modified: 2026-04-06
+publish: true
+description: Untitled
 ---
 
 # Glossary from Divine Intimacy Meditations
@@ -126,7 +127,7 @@ tags:
 - [[piety-gift-of|Piety (Gift Of)]]
 - [[piety-virtue-of|Piety (Virtue Of)]]
 - [[poverty|Poverty]]
-- [[prayer|Prayer]]
+- [[pursuits-sources/01-glossary/prayer|Prayer]]
 - [[presence-of-god|Presence of God]]
 - [[pride|Pride]]
 - [[priesthood|Priest - Priesthood]]

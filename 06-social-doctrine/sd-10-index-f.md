@@ -1,35 +1,38 @@
 ---
-title: sd-10-index-f
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: false
+title: F - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
+  - F - Social Doctrine of the Church Analytical Index
   - sd-10-index-f
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-14
+modified: 2026-04-06
+publish: false
 ---
 
-#]# F - Social Doctrine of the Church Analytical Index
+# F - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Factories
+# Factories
 
 - See [[sd-10-index-b#Business|Business]]
 
-### Failings
+# Failings
 
 (see Also [[sd-10-index-o#Infidelity|Infidelity]])
 
 The Church, the poor and the failings of her members, [[sd-03-part-I#^csdc-184|184]]
 
-### Faith
+# Faith
 
 The third millennium, the Lord's face and faith, [[sd-02-intro#^csdc-1|1]]
 
@@ -125,15 +128,15 @@ Faith in God and prosperity of States, [[sd-06-conclusion#^csdc-577|577]]
 
 Hope and Christians who are strong in faith, [[sd-06-conclusion#^csdc-579|579]]
 
-### Fallow
+# Fallow
 
 The sabbatical year and the jubilee year and fields lying fallow, [[sd-03-part-I#^csdc-24|24]]
 
-### Falsehood
+# Falsehood
 
 - See [[sd-10-index-l#Lie|Lie]]
 
-### Family
+# Family
 
 (see Also [[sd-10-index-o#Family Community|Family Community]])
 
@@ -321,7 +324,7 @@ Defence of the family and life in society, [[sd-05-part-III#^csdc-553|553]]
 
 Promotion of the family and morality, [[sd-05-part-III#^csdc-569|569]]
 
-### Family Community
+# Family Community
 
 (see Also [[sd-10-index-o#Community|Community]])
 
@@ -337,7 +340,7 @@ The family community and children, [[sd-04-part-II#^csdc-230|230]]
 
 Children and the family, a community of persons, [[sd-04-part-II#^csdc-244|244]]
 
-### Father
+# Father
 
 Man as father of his own being, [[sd-03-part-I#^csdc-135|135]]
 
@@ -347,11 +350,11 @@ Man's responsibility as father, [[sd-04-part-II#^csdc-251|251]]
 
 Abraham, father of a multitude of peoples, [[sd-04-part-II#^csdc-430|430]], [[sd-04-part-II#^csdc-451|451]]
 
-### Fatherhood and Motherhood
+# Fatherhood and Motherhood
 
 - See [[sd-10-index-p#Parenthood|Parenthood]]
 
-### Festive - Festal - Holiday
+# Festive - Festal - Holiday
 
 The eternal Sabbath, festive celebration and man, [[sd-04-part-II#^csdc-261|261]]
 
@@ -361,7 +364,7 @@ The Lord's Day and festal gathering, [[sd-04-part-II#^csdc-285|285]]
 
 Recognition and Sundays, holidays, [[sd-04-part-II#^csdc-286|286]]
 
-### Fidelity
+# Fidelity
 
 The _Compendium_ and fidelity to grace, [[sd-02-intro#^csdc-8|8]]
 
@@ -391,7 +394,7 @@ Holiness and fidelity to the law of the Lord, [[sd-05-part-III#^csdc-530|530]]
 
 Democracy and fidelity to one's identity, [[sd-05-part-III#^csdc-569|569]]
 
-### Fight
+# Fight
 
 (see Also [[sd-10-index-o#Struggle|Struggle]], [[sd-10-index-r#Recourse to Arms|Recourse to Arms]], [[sd-10-index-e#Effort to Destroy|Effort to Destroy]], [[sd-10-index-b#Battle|Battle]])
 
@@ -405,7 +408,7 @@ The fight against terrorism, [[sd-04-part-II#^csdc-513|513]], [[sd-04-part-II#^c
 
 Ecumenism and the fight against poverty, [[sd-05-part-III#^csdc-535|535]]
 
-### Finance - Financial
+# Finance - Financial
 
 Proclaiming the Gospel in society and in the world of finance, [[sd-03-part-I#^csdc-70|70]]_
 
@@ -463,7 +466,7 @@ The environment, the economy and financial calculations, [[sd-04-part-II#^csdc-4
 
 Terrorism and financial resources, [[sd-04-part-II#^csdc-513|513]]
 
-### Food Supply
+# Food Supply
 
 Lack of adequate food supply, [[sd-04-part-II#^csdc-245|245]]
 
@@ -471,7 +474,7 @@ Scientists, biotechnology and food supply, [[sd-04-part-II#^csdc-477|477]]
 
 The common good and food supply, [[sd-04-part-II#^csdc-478|478]]
 
-### Forgiveness
+# Forgiveness
 
 Solidarity and the dimension of forgiveness, [[sd-03-part-I#^csdc-196|196]]
 
@@ -481,7 +484,7 @@ The past, peace and forgiveness, [[sd-04-part-II#^csdc-517|517]]
 
 Forgiveness, requirement of justice and truth, [[sd-04-part-II#^csdc-518|518]]
 
-### Formation - Formed
+# Formation - Formed
 
 The _Compendium_ and those responsible for formation, [[sd-02-intro#^csdc-11|11]]
 
@@ -537,7 +540,7 @@ Formation and information technology, [[sd-05-part-III#^csdc-561|561]]
 
 Unjust laws and formed Christian consciences, [[sd-05-part-III#^csdc-570|570]]
 
-### Fraternal - Fraternity - Brotherhood
+# Fraternal - Fraternity - Brotherhood
 
 Men, the love of God and fraternal relations, [[sd-02-intro#^csdc-4|4]]
 
@@ -577,7 +580,7 @@ Disciple, use of things and fraternity, [[sd-05-part-III#^csdc-529|529]]
 
 The laity, culture and the value of fraternity, [[sd-05-part-III#^csdc-558|558]]
 
-### Free - Freedom
+# Free - Freedom
 
 (see Also [[sd-10-index-o#Free Time|Free Time]])
 
@@ -733,13 +736,13 @@ Autonomy of the State, unity and freedom, [[sd-05-part-III#^csdc-571|571]]
 
 The Gospel of Christ and human freedom, [[sd-06-conclusion#^csdc-576|576]]
 
-### Free Time
+# Free Time
 
 People and sufficient rest and free time, [[sd-04-part-II#^csdc-284|284]]
 
 Free time and tending to family life, [[sd-04-part-II#^csdc-284|284]]
 
-### Friendship
+# Friendship
 
 Principle of subsidiarity, ÂÂ“friendshipÂÂ”, [[sd-03-part-I#^csdc-103|103]], [[sd-03-part-I#^csdc-194|194]]*
 

@@ -1,19 +1,19 @@
 ---
-title: Book the Second of the Ascent of Mt. Carmel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book the Second of the Ascent of Mt. Carmel
+title: Book the Second of the Ascent of Mt. Carmel
+author: Saint John of the Cross
 aliases:
   - Book the Second of the Ascent of Mt. Carmel
 tags:
-  - author/john-of-the-cross
+  - author/saint-john-of-the-cross
   - book
   - book/ascent-mt-carmel
   - saint/john-of-the-cross
   - type/book
-author: Saint John of the Cross
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book the Second of the Ascent of Mt. Carmel
 ---
 
 # Book the Second of the Ascent of Mt. Carmel
@@ -22,7 +22,7 @@ Wherein is treated the proximate means of ascending to union with God, which is 
 
 STANZA THE SECOND
 
-### Chapter I. in Darkness and Secure, by the Secret Ladder, Disguised -- Oh, Happy Chance! --
+## Chapter I. in Darkness and Secure, by the Secret Ladder, Disguised -- Oh, Happy Chance! --
 
 In darkness and in concealment, My house being now at rest.
 
@@ -47,7 +47,7 @@ in darkness and in concealment' -- that is to say, hidden from the devil, to who
 
 [212] [Lit., to true spirit.']
 
-### Chapter II. Which Begins to Treat of the Second Part or Cause of This Night, Which Is Faith. Proves by Two Arguments How It Is Darker than the First and than the Third
+## Chapter II. Which Begins to Treat of the Second Part or Cause of This Night, Which Is Faith. Proves by Two Arguments How It Is Darker than the First and than the Third
 
 We now go on to treat of the second part of this night, which is faith; this is the wondrous means which, as we said, leads to the goal, which is God, Who, as we said, [213] is also to the soul, naturally, the third cause or part of this night. For faith, which is the means, [214]
 
@@ -66,7 +66,7 @@ It is interpretable, nevertheless, in a sense that is perfectly true and complet
 
 Respuesta [Reply] of P. Basilio Ponce de León and Dilucidatio, Pt. II, Chap. ii, and also the following chapter in this present book.
 
-### Chapter III. How Faith Is Dark Night to the Soul. This Is Proved with Arguments and Quotations and Figures from Scripture
+## Chapter III. How Faith Is Dark Night to the Soul. This Is Proved with Arguments and Quotations and Figures from Scripture
 
 Faith, say the theologians, is a habit of the soul, certain and obscure. And the reason for its being an obscure habit is that it makes us believe truths revealed by God Himself, which transcend all natural light, and exceed all human understanding, beyond all proportion. Hence it follows that, for the soul, this excessive light of faith which is given to it is thick darkness, for it overwhelms greater things and does away with small things, even as the light of the sun overwhelms all other lights whatsoever, so that when it shines and disables our visual faculty they appear not to be lights at all. So that it blinds it and deprives it of the sight that has been given to it, inasmuch as its light is great beyond all proportion and transcends the faculty of vision. Even so the light of faith, by its excessive greatness, oppresses and disables that of the understanding; for the latter, of its own power, extends only to natural knowledge, although it has a faculty [216] for the supernatural, whenever Our Lord is pleased to give it supernatural activity.
 
@@ -98,7 +98,7 @@ This principle, like many other great philosophical questions, has continually b
 
 [224] Psalm CXXXVIII, 11 [A.V., CXXXIX, 11].
 
-### Chapter IV. Treats in General of How the Soul Likewise Must Be in Darkness, in so Far as This Rests with Itself, to the End That It May Be Effectively Guided by Faith to the Highest Contemplation
+## Chapter IV. Treats in General of How the Soul Likewise Must Be in Darkness, in so Far as This Rests with Itself, to the End That It May Be Effectively Guided by Faith to the Highest Contemplation
 
 It is now, I think, becoming clear how faith is dark night to the soul, and how the soul likewise must be dark, or in darkness as to its own light so that it may allow itself to be guided by faith to this high goal of union. But, in order that the soul may be able to do this, it will now be well to continue describing, in somewhat greater detail, this darkness which it must have, in order that it may enter into this abyss of faith. And thus in this chapter I shall speak of it in a general way; and hereafter, with the Divine favour, I shall continue to describe more minutely the way in which the soul is to conduct itself that it may neither stray therein nor impede this guide.
 
@@ -122,7 +122,7 @@ It is now, I think, becoming clear how faith is dark night to the soul, and how 
 
 [230] St. John IX, 39.
 
-### Chapter V. Wherein Is Described What Is Meant by Union of the Soul with God. a Comparison Is Given. [231]
+## Chapter V. Wherein Is Described What Is Meant by Union of the Soul with God. a Comparison Is Given. [231]
 
 From what has been said above it becomes clear to some extent what we mean by union of the soul with God; what we now say about it, therefore, will be the better understood. It is not my intention here to treat of the divisions of this union, nor of its parts, for I should never end if I were to begin now to explain what is the nature of union of the understanding, and what is that of union according to the will, and likewise according to the memory; and likewise what is transitory and what permanent in the union of the said faculties; and then what is meant by total union, transitory and permanent, with regard to the said faculties all together. All this we shall treat gradually in our discourse -- speaking first of one and then of another. But here this is not to the point in order to describe what we have to say concerning them; it will be explained much more fittingly in its place, when we shall again be treating the same matter, and shall have a striking illustration to add to the present explanation, so that everything will then be considered and explained and we shall judge of it better.
 
@@ -153,7 +153,7 @@ Though not the only kind of union, it is this which chiefly concerns the soul; a
 
 [235] [Lit., wholly perfect and...']
 
-### Chapter VI. Wherein Is Described How It Is the Three Theological Virtues That Perfect the Three Faculties of the Soul, and How the Said Virtues Produce Emptiness and Darkness Within Them
+## Chapter VI. Wherein Is Described How It Is the Three Theological Virtues That Perfect the Three Faculties of the Soul, and How the Said Virtues Produce Emptiness and Darkness Within Them
 
 Having now to endeavour to show how [236] the three faculties of the soul -- understanding, memory and will -- are brought into this spiritual night, which is the means to Divine union, it is necessary first of all to explain in this chapter how the three theological virtues -- faith, hope and charity -- which have respect to the three faculties aforesaid as their proper supernatural objects, and by means whereof the soul is united with God according to its faculties, produce the same emptiness and darkness, each one in its own faculty. Faith, in the understanding; hope, in the memory; and charity, in the will. And afterwards we shall go on to describe how the understanding is perfected in the darkness of faith; and the memory in the emptiness of hope; and likewise how the will must be buried by withdrawing and detaching every affection so that the soul may journey to God. This done, it will be clearly seen how necessary it is for the soul, if it is to walk securely on this spiritual road, to travel through this dark night, leaning upon these three virtues, which empty it of all things and make it dark with respect to them. For, as we have said, the soul is not united with God in this life through understanding, nor through enjoyment, nor through the imagination, nor through any sense whatsoever; but only through faith, according to the understanding; and through hope, according to the memory; and through love, according to the will.
 
@@ -179,7 +179,7 @@ Having now to endeavour to show how [236] the three faculties of the soul -- und
 
 [242] [Or middle.' Cf. Bk. I, chap. II, above.]
 
-### Chapter VII. Wherein Is Described How Strait Is the Way That Leads to Eternal Life and How Completely Detached and Disencumbered Must Be Those That Will Walk in It. We Begin to Speak of the Detachment of the Understanding
+## Chapter VII. Wherein Is Described How Strait Is the Way That Leads to Eternal Life and How Completely Detached and Disencumbered Must Be Those That Will Walk in It. We Begin to Speak of the Detachment of the Understanding
 
 We have now to describe the detachment and purity of the three faculties of the soul and for this are necessary a far greater knowledge and spirituality than mine, in order to make clear to spiritual persons how strait is this road which, said Our Saviour, leads to life; so that, persuaded of this, they may not marvel at the emptiness and detachment to which, in this night, we have to abandon the faculties of the soul.
 
@@ -224,7 +224,7 @@ derangement (of mind),' but in Covarrubias' dictionary (1611) is also defined as
 
 [255] [By this VIVID phrase the author seems to mean: whom God held to be suitable recipients of it.']
 
-### Chapter VIII. Which Describes in a General Way How No Creature and No Knowledge That Can Be Comprehended by the Understanding Can Serve as a Proximate Means of Divine Union with God
+## Chapter VIII. Which Describes in a General Way How No Creature and No Knowledge That Can Be Comprehended by the Understanding Can Serve as a Proximate Means of Divine Union with God
 
 Before we treat of the proper and fitting means of union with God, which is faith, it behoves us to prove how no thing, created or imagined, can serve the understanding as a proper means of union with God; and how all that the understanding can attain serves it rather as an impediment than as such a means, if it should desire to cling to it.
 
@@ -269,7 +269,7 @@ Cf. n. 7, above.]
 
 [270] [Possibly a further reference to 1 Corinthians II, 9-10, quoted above.]
 
-### Chapter IX. How Faith Is the Proximate and Proportionate Means to the Understanding Whereby the Soul May Attain to the Divine Union of Love. This Is Proved by Passages and Figures from Divine Scripture
+## Chapter IX. How Faith Is the Proximate and Proportionate Means to the Understanding Whereby the Soul May Attain to the Divine Union of Love. This Is Proved by Passages and Figures from Divine Scripture
 
 From what has been said it is to be inferred that, in order for the understanding to be prepared for this Divine union, it must be pure and void of all that pertains to sense, and detached and freed from all that can clearly be apprehended by the understanding, profoundly hushed and put to silence, and leaning upon faith, which alone is the proximate and proportionate means whereby the soul is united with God; for such is the likeness between itself and God that there is no other difference, save that which exists between seeing God and believing in Him. For, even as God is infinite, so faith sets Him before us as infinite; and, as He is Three and One, it sets Him before us as Three and One; and, as God is darkness to our understanding, even so does faith likewise blind and dazzle our understanding. And thus, by this means alone, God manifests Himself to the soul in Divine light, which passes all understanding. And therefore, the greater is the faith of the soul, the more closely is it united with God. It is this that Saint Paul meant in the passage which we quoted above, where he says: He that will be united with God must believe.' [271] That is, he must walk by faith as he journeys to Him, the understanding being blind and in darkness, walking in faith alone; for beneath this darkness the understanding is united with God, and beneath it God is hidden, even as David said in these words: He set darkness under His feet. And He rose upon the cherubim, and flew upon the wings of the wind. And He made darkness, and the dark water, His hiding-place.' [272]
 
@@ -290,7 +290,7 @@ From what has been said it is to be inferred that, in order for the understandin
 
 [276] Judges VIII, 16.
 
-### Chapter X. Wherein Distinction Is Made Between All Apprehensions and Types of Knowledge Which Can Be Comprehended by the Understanding
+## Chapter X. Wherein Distinction Is Made Between All Apprehensions and Types of Knowledge Which Can Be Comprehended by the Understanding
 
 In order to treat in detail of the profit and the harm which may come to the soul, with respect to this means to Divine union which we have described -- namely, faith -- through the ideas and apprehensions of the understanding, it is necessary here to make a distinction between all the apprehensions, whether natural or supernatural, that the soul may receive, so that then, with regard to each of them in order, we may direct the understanding with greater clearness into the night and obscurity of faith. This will be done with all possible brevity.
 
@@ -300,7 +300,7 @@ In order to treat in detail of the profit and the harm which may come to the sou
 
 [277] [Lit., by itself.']
 
-### Chapter XI. of the Hindrance and Harm That May Be Caused by Apprehensions of the Understanding Which Proceed from That Which Is Supernaturally Represented to the Outward Bodily Senses; and How the Soul Is to Conduct Itself Therein
+## Chapter XI. of the Hindrance and Harm That May Be Caused by Apprehensions of the Understanding Which Proceed from That Which Is Supernaturally Represented to the Outward Bodily Senses; and How the Soul Is to Conduct Itself Therein
 
 The first kinds of knowledge whereof we have spoken in the preceding chapter are those that belong to the understanding and come through natural channels. Of these, since we have treated them already in the first book, where we led the soul into the night of sense, we shall here say not a word, for in that place we gave suitable instruction to the soul concerning them. What we have to treat, therefore, in the present chapter, will be solely those kinds of knowledge and those apprehensions which belong to the understanding and come supernaturally, by way of the outward bodily senses -- namely, by seeing, hearing, smelling, tasting and touching. With respect to all these there may come, and there are wont to come, to spiritual persons representations and objects of a supernatural kind. With respect to sight, they are apt to picture figures and forms of persons belonging to the life to come -- the forms of certain saints, and representations of angels, good and evil, and certain lights and brightnesses of an extraordinary kind. And with the ears they hear certain extraordinary words, sometimes spoken by those figures that they see, sometimes without seeing the person who speaks them. As to the sense of smell, they sometimes perceive the sweetest perfumes with the senses, without knowing whence they proceed. Likewise, as to taste, it comes to pass that they are conscious of the sweetest savours, and, as to touch, they experience great delight -- sometimes to such a degree that it is as though all the bones and the marrow rejoice and sing [278] and are bathed in delight; this is like that which we call spiritual unction, which in pure souls proceeds from the spirit and flows into the very members. And this sensible sweetness is a very ordinary thing with spiritual persons, for it comes to them from their sensible affection and devotion, [279] to a greater or a lesser degree, to each one after his own manner.
 
@@ -360,7 +360,7 @@ Sixthly, a readiness to accept them opens the door to the devil that he may dece
 
 [291] [St. Luke XI, 26.]
 
-### Chapter XII. Which Treats of Natural Imaginary Apprehensions. Describes Their Nature and Proves That They Cannot Be a Proportionate Means of Attainment to Union with God. Shows the Harm Which Results from Inability to Detach Oneself from Them
+## Chapter XII. Which Treats of Natural Imaginary Apprehensions. Describes Their Nature and Proves That They Cannot Be a Proportionate Means of Attainment to Union with God. Shows the Harm Which Results from Inability to Detach Oneself from Them
 
 Before we treat of the imaginary visions which are wont to occur supernaturally to the interior sense, which is the imagination and the fancy, it is fitting here, so that we may proceed in order, to treat of the natural apprehensions of this same interior bodily sense, in order that we may proceed from the lesser to the greater, and from the more exterior to the more interior, until we reach the most interior [292]
 
@@ -387,7 +387,7 @@ recollection wherein the soul is united with God; this same order we have follow
 
 [297] [Lit., to see that there are many who.']
 
-### Chapter XIII. Wherein Are Set Down the Signs Which the Spiritual Person Will Find in Himself Whereby He May Know at What Season It Behoves Him to Leave Meditation and Reasoning and Pass to the State of Contemplation
+## Chapter XIII. Wherein Are Set Down the Signs Which the Spiritual Person Will Find in Himself Whereby He May Know at What Season It Behoves Him to Leave Meditation and Reasoning and Pass to the State of Contemplation
 
 In order that there may be no confusion in this instruction it will be meet in this chapter to explain at what time and season it behoves the spiritual person to lay aside the task of discursive meditation as carried on through the imaginations and forms and figures above mentioned, in order that he may lay them aside neither sooner nor later than when the Spirit bids him; for, although it is meet for him to lay them aside at the proper time in order that he may journey to God and not be hindered by them, it is no less needful for him not to lay aside the said imaginative meditation before the proper time lest he should turn backward. For, although the apprehensions of these faculties serve not as proximate means of union to the proficient, they serve nevertheless as remote means to beginners in order to dispose and habituate the spirit to spirituality by means of sense, and in order to void the sense, in the meantime, of all the other low forms and images, temporal, worldly and natural. We shall therefore speak here of certain signs and examples which the spiritual person will find in himself, whereby he may know whether or not it will be meet for him to lay them aside at this season.
 
@@ -411,7 +411,7 @@ It should be clearly understood that this is not of habitual occurrence in the c
 
 [302] [Lit., appear to be necessary in order to journey to spirit.']
 
-### Chapter XIV. Wherein Is Proved the Fitness of These Signs, and the Reason Is Given Why That Which Has Been Said in Speaking of Them Is Necessary to Progress
+## Chapter XIV. Wherein Is Proved the Fitness of These Signs, and the Reason Is Given Why That Which Has Been Said in Speaking of Them Is Necessary to Progress
 
 With respect to the first sign whereof we are speaking -- that is to say, that the spiritual person who would enter upon the spiritual road (which is that of contemplation) must leave the way of imagination and of meditation through sense when he takes no more pleasure therein and is unable to reason -- there are two reasons why this should be done, which may almost be comprised in one. The first is, that in one way the soul has received all the spiritual good which it would be able to derive from the things of God by the path of meditation and reasoning, the sign whereof is that it can no longer meditate or reason as before, and finds no new sweetness or pleasure therein as it found before, because up to that time it had not progressed as far as the spirituality which was in store for it; for, as a rule, whensoever the soul receives some spiritual blessing, it receives it with pleasure, at least in spirit, in that means whereby it receives it and profits by it; otherwise it is astonishing if it profits by it, or finds in the cause of it that help and that sweetness which it finds when it receives it. For this is in agreement with a saying of the philosophers, Quod sapit, nutrit. This is: That which is palatable nourishes and fattens. Wherefore holy Job said: Numquid poterit comedi insulsum, quod non est sale conditum? [303] Can that which is unsavory perchance be eaten when it is not seasoned with salt? It is this cause that the soul is unable to meditate or reason as before: the little pleasure which the spirit finds therein and the little profit which it gains.
 
@@ -468,7 +468,7 @@ When St. John of the Cross uses the words cessation,' idleness' [ocio, Lat. otiu
 
 [317] In spite of this promise, the Saint does not return to this subject at such length as his language here would suggest.
 
-### Chapter XV. Wherein Is Explained How It Is Sometimes Well for Progressives Who Are Beginning to Enter upon This General Knowledge of Contemplation to Make Use of Natural Reasoning and the Work of the Natural Faculties
+## Chapter XV. Wherein Is Explained How It Is Sometimes Well for Progressives Who Are Beginning to Enter upon This General Knowledge of Contemplation to Make Use of Natural Reasoning and the Work of the Natural Faculties
 
 With regard to that which has been said, there might be raised one question -- if progressives (that is, those whom God is beginning to bring into this supernatural knowledge of contemplation whereof we have spoken) must never again, because of this that they are beginning to experience, return to the way of meditation and reasoning and natural forms. To this the answer is that it is not to be understood that such as are beginning to experience this loving knowledge must, as a general rule, never again try to return to meditation; for, when they are first making progress in proficiency, the habit of contemplation is not yet so perfect that they can give themselves to the act thereof whensoever they wish, nor, in the same way, have they reached a point so far beyond meditation that they cannot occasionally meditate and reason in a natural way, as they were wont, using the figures and the steps that they were wont to use, and finding something new in them. Rather, in these early stages, when, by means of the indications already given, they are able to see that the soul is not occupied in that repose and knowledge, they will need to make use of meditation until by means of it they come to acquire in some degree of perfection the habit which we have described. This will happen when, as soon as they seek to meditate, they experience this knowledge and peace, and find themselves unable to meditate and no longer desirous of doing so, as we have said.
 
@@ -483,7 +483,7 @@ For until they reach this stage, which is that of the proficient in this exercis
 
 [319] Psalm XLV, 11 [A.V., XLVI, 10].
 
-### Chapter XVI. Which Treats of the Imaginary Apprehensions That Are Supernaturally Represented in the Fancy. Describing How They Cannot Serve the Soul as a Proximate Means to Union with God
+## Chapter XVI. Which Treats of the Imaginary Apprehensions That Are Supernaturally Represented in the Fancy. Describing How They Cannot Serve the Soul as a Proximate Means to Union with God
 
 Now that we have treated of the apprehensions which the soul can receive within itself by natural means, and whereon the fancy and the imagination can work by means of reflection, it will be suitable to treat here of the supernatural apprehensions, which are called imaginary visions, which likewise belong to these senses, since they come within the category of images, forms and figures, exactly as do the natural apprehensions.
 
@@ -530,7 +530,7 @@ leaning upon.']
 
 [332] St. Peter I, 19.
 
-### Chapter XVII. Wherein Is Described the Purpose and Manner of God in His Communication of Spiritual Blessings to the Soul by Means of the Senses. Herein Is Answered the Question Which Has Been Referred to
+## Chapter XVII. Wherein Is Described the Purpose and Manner of God in His Communication of Spiritual Blessings to the Soul by Means of the Senses. Herein Is Answered the Question Which Has Been Referred to
 
 There is much to be said concerning the purpose of God, and concerning the manner wherein He gives these visions in order to raise up the soul from its lowly estate to His Divine union. All spiritual books deal with this and in this treatise of ours the method which we pursue is to explain it; therefore I shall only say in this chapter as much as is necessary to answer our question, which was as follows: Since in these supernatural visions there is so much hindrance and peril to progress, as we have said, why does God, Who is most wise and desires to remove stumbling-blocks and snares from the soul, offer and communicate them to it?
 
@@ -565,7 +565,7 @@ There is much to be said concerning the purpose of God, and concerning the manne
 
 [343] 1 Corinthians III, 1-2.
 
-### Chapter XVIII. Which Treats of the Harm That Certain Spiritual Masters May Do to Souls When They Direct Them Not by a Good Method with Respect to the Visions Aforementioned. Describes Also How These Visions May Cause Deception Even Though They Be of God
+## Chapter XVIII. Which Treats of the Harm That Certain Spiritual Masters May Do to Souls When They Direct Them Not by a Good Method with Respect to the Visions Aforementioned. Describes Also How These Visions May Cause Deception Even Though They Be of God
 
 In this matter of visions we cannot be as brief as we should desire, since there is so much to say about them. Although in substance we have said what is relevant in order to explain to the spiritual person how he is to behave with regard to the visions aforementioned, and to the master who directs him, the way in which he is to deal with his disciple, yet it will not be superfluous to go into somewhat greater detail about this doctrine, and to give more enlightenment as to the harm which can ensue, either to spiritual souls or to the masters who direct them, if they are over-credulous about them, although they be of God.
 
@@ -582,7 +582,7 @@ In this matter of visions we cannot be as brief as we should desire, since there
 
 [345] [Lit., if it were of God.']
 
-### Chapter XIX. Wherein Is Expounded and Proved How, Although Visions and Locutions Which Come from God Are True, We May Be Deceived About Them. This Is Proved by Quotations from Divine Scripture
+## Chapter XIX. Wherein Is Expounded and Proved How, Although Visions and Locutions Which Come from God Are True, We May Be Deceived About Them. This Is Proved by Quotations from Divine Scripture
 
 For two reasons we have said that, although visions and locutions which come from God are true, and in themselves are always certain, they are not always so with respect to ourselves. One reason is the defective way in which we understand them; and the other, the variety of their causes. In the first place, it is clear that they are not always as they seem, nor do they turn out as they appear to our manner of thinking. The reason for this is that, since God is vast and boundless, He is wont, in His prophecies, locutions and revelations, to employ ways, concepts and methods of seeing things which differ greatly from such purpose and method as can normally be understood by ourselves; and these are the truer and the more certain the less they seem so to us.
 
@@ -650,7 +650,7 @@ here used expressing both these ideas.]
 
 [368] Proverbs X, 24.
 
-### Chapter XX. Wherein Is Proved by Passages from Scripture How the Sayings and Words of God, Though Always True, Do Not Always Rest upon Stable Causes
+## Chapter XX. Wherein Is Proved by Passages from Scripture How the Sayings and Words of God, Though Always True, Do Not Always Rest upon Stable Causes
 
 We have now to prove the second reason why visions and words which come from God, although in themselves they are always true, are not always stable in their relation to ourselves. This is because of their causes, whereon they are founded; for God often makes statements founded upon creatures and their effects, which are changeable and liable to fail, for which reason the statements which are founded upon them are liable also to be changeable and to fail; for, when one thing depends on another, if one fails, the other fails likewise. It is as though God should say: In a year's time I shall send upon this kingdom such or such a plague; and the cause and foundation for this warning is a certain offence which has been committed against God in that kingdom.
 
@@ -690,7 +690,7 @@ If the offence should cease or change, the punishment might cease; yet the threa
 
 [381] Jonas IV, 2.
 
-### Chapter XXI. Wherein Is Explained How at Times, Although God Answers the Prayers That Are Addressed to Him, He Is Not Pleased That We Should Use Such Methods. It Is Also Shown How, Although He Condescend to Us and Answer Us, He Is Oftentimes Wroth
+## Chapter XXI. Wherein Is Explained How at Times, Although God Answers the Prayers That Are Addressed to Him, He Is Not Pleased That We Should Use Such Methods. It Is Also Shown How, Although He Condescend to Us and Answer Us, He Is Oftentimes Wroth
 
 Certain spiritual men, as we have said, assure themselves that it is a good thing to display curiosity, as they sometimes do, in striving to know certain things by supernatural methods, thinking that, because God occasionally answers their importunity, this is a good method and pleasing to Him. Yet the truth is that, although He may answer them, the method is not good, neither is it pleasing to God, but rather it is displeasing to Him; and not only so, but oftentimes He is greatly offended and wroth. The reason for this is that it is lawful for no creature to pass beyond the limits that God has ordained for its governance after the order of nature. He has laid down rational and natural limits for man's governance; wherefore to desire to pass beyond them is not lawful, and to desire to seek out and attain to anything by supernatural means is to go beyond these natural limits. It is therefore an unlawful thing, and it is therefore not pleasing to God, for He is offended by all that is unlawful. King Achaz was well aware of this, since, although Isaias told him from God to ask for a sign, he would not do so, saying: Non petam, et non tentabo Dominum. [382] That is: I will not ask such a thing, neither will I tempt God. For it is tempting God to seek to commune with Him by extraordinary ways, such as those that are supernatural.
 
@@ -742,7 +742,7 @@ Certain spiritual men, as we have said, assure themselves that it is a good thin
 
 [397] [Ezechiel XIV, 7.]
 
-### Chapter XXII. Wherein Is Solved a Difficulty -- Namely, Why It Is Not Lawful, Under the Law of Grace, to Ask Anything of God by Supernatural Means, as It Was Under the Old Law. This Solution Is Proved by a Passage from Saint Paul
+## Chapter XXII. Wherein Is Solved a Difficulty -- Namely, Why It Is Not Lawful, Under the Law of Grace, to Ask Anything of God by Supernatural Means, as It Was Under the Old Law. This Solution Is Proved by a Passage from Saint Paul
 
 Difficulties keep coming to our mind, and thus we cannot progress with the speed that we should desire. For as they occur to us, we are obliged of necessity to clear them up, so that the truth of this teaching may ever be plain and carry its full force. But there is always this advantage in these difficulties, that, although they somewhat impede our progress, they serve nevertheless to make our intention the clearer and more explicit, [398] as will be the case with the present one.
 
@@ -819,7 +819,7 @@ xxiii, 9.
 
 [423] [I.e., into the night of faith: cf. Chap. XXIII, 4, below.]
 
-### Chapter XXIII. Which Begins to Treat of the Apprehensions of the Understanding That Come in a Purely Spiritual Way, and Describes Their Nature
+## Chapter XXIII. Which Begins to Treat of the Apprehensions of the Understanding That Come in a Purely Spiritual Way, and Describes Their Nature
 
 Although the instruction that we have given with respect to the apprehensions of the understanding which come by means of sense is somewhat brief, in comparison with what might be said about them, I have not desired to write of them at greater length; I believe, indeed, that I have already been too lengthy for the fulfillment of my present intention, which is to disencumber the understanding of them and direct the soul into the night of faith. Wherefore we shall now begin to treat of those other four apprehensions of the understanding, which, as we said in the tenth chapter, [424] are purely spiritual -- namely, visions, revelations, locutions and spiritual feelings. These we call purely spiritual, for they do not (as do those that are corporeal and imaginary) communicate themselves to the understanding by way of the corporeal senses; but, without the intervention of any inward or outward corporeal sense, they present themselves to the understanding, clearly and distinctly, by supernatural means, passively -- that is to say, without the performance of any act or operation on the part of the soul itself, at the least actively.
 
@@ -832,7 +832,7 @@ Although the instruction that we have given with respect to the apprehensions of
 
 that the author treats of these spiritual apprehensions.
 
-### Chapter XXIV. Which Treats of Two Kinds of Spiritual Vision That Come Supernaturally
+## Chapter XXIV. Which Treats of Two Kinds of Spiritual Vision That Come Supernaturally
 
 Speaking now strictly of those visions which are spiritual, and are received without the intervention of any bodily sense, I say that there are two kinds of vision than can be received by the understanding: the one kind is of corporeal substances; the other, of incorporeal or separated substances. The corporeal visions have respect to all material things that are in Heaven and on earth, which the soul is able to see, even while it is still in the body, by the aid of a certain supernatural illumination, derived from God, wherein it is able to see all things that are not present, both in Heaven and on earth, even as Saint John saw, as we read in the twenty-first chapter of the Apocalypse, where he describes and relates the excellence of the celestial Jerusalem, which he saw in Heaven. Even so, again, we read of Saint Benedict that in a spiritual vision he saw the whole world. [425]
 
@@ -874,14 +874,14 @@ the lines given in this note above, and then continues: [save when] God so allow
 
 Cornelius a Lapide (Commentaria in Matthaeum, Cap. IV) and St. Thomas (III p., q. 41, ad. 3).
 
-### Chapter XXV. Which Treats of Revelations, Describing Their Nature and Making a Distinction Between Them
+## Chapter XXV. Which Treats of Revelations, Describing Their Nature and Making a Distinction Between Them
 
 According to the order which we are here following, we have next to treat of the second kind of spiritual apprehension, which we have described above as revelations, and which properly belongs to the spirit of prophecy. With respect to this, it must first be known that revelation is naught else than the discovery of some hidden truth or the manifestation of some secret or mystery. Thus God may cause the soul to understand something by making clear to the understanding the truth concerning it, or He may reveal to the soul certain things which He is doing or proposes to do.
 
    2. Accordingly, we may say that there are two kinds of revelation. The first is the disclosure to the understanding of truths which are properly called intellectual knowledge or intelligence; the second is the manifestation of secrets, which are called revelations with more propriety than the others. For the first kind cannot strictly be called revelations, since they consist in this, that God causes the soul to understand naked truths, not only with respect to temporal things, but likewise with respect to spiritual things, revealing them to the soul clearly and openly. These I have desired to treat under the heading of revelations: first, because they have close kinship and similarity with them: secondly, in order not to multiply distinctions.
    3. According to this method, then, we shall now be well able to divide revelations into two kinds of apprehension. The one kind we shall call intellectual knowledge, and the other, the manifestation of secrets and hidden mysteries of God. With these we shall conclude in two chapters as briefly as we may, and in this chapter following we shall treat of the first.
 
-### Chapter XXVI. Which Treats of the Intuition of Naked Truths in the Understanding, Explaining How They Are of Two Kinds and How the Soul Is to Conduct Itself with Respect to Them
+## Chapter XXVI. Which Treats of the Intuition of Naked Truths in the Understanding, Explaining How They Are of Two Kinds and How the Soul Is to Conduct Itself with Respect to Them
 
 In order to speak properly of this intuition of naked truths which is conveyed to the understanding, the writer would need God to take his hand and to guide his pen; for know, dear reader, that what they are to the soul cannot be expressed in words. But, since I speak not of them here of set purpose, but only that through them I may instruct the soul and lead it to Divine union, I shall suffer myself to speak of them here in a brief and modified form, as is sufficient for the fulfillment of that intention.
 
@@ -937,7 +937,7 @@ In order to speak properly of this intuition of naked truths which is conveyed t
 
 [451] Jeremias XLV, 3.
 
-### Chapter XXVII. Which Treats of the Second Kind of Revelation, Namely, the Disclosure of Hidden Secrets. Describes the Way in Which These May Assist the Soul Toward Union with God, and the Way in Which They May Be a Hindrance; and How the Devil May Deceive the Soul Greatly in This Matter
+## Chapter XXVII. Which Treats of the Second Kind of Revelation, Namely, the Disclosure of Hidden Secrets. Describes the Way in Which These May Assist the Soul Toward Union with God, and the Way in Which They May Be a Hindrance; and How the Devil May Deceive the Soul Greatly in This Matter
 
 We were saying that the second kind of revelation was the manifestation of hidden mysteries and secrets. This may come to pass in two ways. The first with respect to that which God is in Himself, wherein is included the revelation of the mystery of the Most Holy Trinity and Unity of God. The second is with respect to that which God is in His works, and herein are included the other articles of our Catholic faith, and the propositions deducible from them which may be laid down explicitly as truths. In these are included and comprised a great number of the revelations of the prophets, of promises and threatenings of God, and of other things which have happened and shall happen concerning this matter of faith. Under this second head we may also include many other particular things which God habitually reveals, both concerning the universe in general as also in particular concerning kingdoms, provinces and states and families and particular persons. Of these we have examples in abundance in the Divine writings, both of the one kind and of the other, especially in all the Prophets, wherein are found revelations of all these kinds. As this is a clear and plain matter, I will not here spend time in quoting these examples, but will only say that these revelations do not come to pass by word alone, but that God gives them in many ways and manners, sometimes by word alone, sometimes by signs and figures alone, and by images and similitudes alone, sometimes in more than one way at once, as is likewise to be seen in the Prophets, particularly throughout the Apocalypse, where we find not only all the kinds of revelation which we have described, but likewise the ways and manners to which we are here referring.
 
@@ -956,7 +956,7 @@ We were saying that the second kind of revelation was the manifestation of hidde
 
 [455] Ecclesiastes VII, 1.
 
-### Chapter XXVIII. Which Treats of Interior Locutions That May Come to the Spirit Supernaturally. Says of What Kinds They Are
+## Chapter XXVIII. Which Treats of Interior Locutions That May Come to the Spirit Supernaturally. Says of What Kinds They Are
 
 The discreet reader has ever need to bear in mind the intent and end which I have in this book, which is the direction of the soul, through all its apprehensions, natural and supernatural, without deception or hindrance, in purity of faith, to Divine union with God. If he does this, he will understand that, although with respect to apprehensions of the soul and the doctrine that I am expounding I give not such copious instruction neither do I particularize so much or make so many divisions as the understanding perchance requires, I am not being over-brief in this matter. For with respect to all this I believe that sufficient cautions, explanations and instructions are given for the soul to be enabled to behave prudently in every contingency, outward or inward, so as to make progress. And this is the reason why I have so briefly dismissed the subject of prophetic apprehensions and the other subjects allied to it; for there is so much more to be said of each of them, according to the differences and the ways and manners that are wont to be observed in each, that I believe one could never know it all perfectly. I am content that, as I believe, the substance and the doctrine thereof have been given, and the soul has been warned of the caution which it behoves it to exercise in this respect, and also concerning all other things of the same kind that may come to pass within it.
 
@@ -964,7 +964,7 @@ The discreet reader has ever need to bear in mind the intent and end which I hav
 
 [456] [Lit., certain distinct and formal words.']
 
-### Chapter XXIX. Which Treats of the First Kind of Words That the Recollected Spirit Sometimes Forms Within Itself. Describes the Cause of These and the Profit and the Harm Which There May Be in Them
+## Chapter XXIX. Which Treats of the First Kind of Words That the Recollected Spirit Sometimes Forms Within Itself. Describes the Cause of These and the Profit and the Harm Which There May Be in Them
 
 These successive words always come when the spirit is recollected and absorbed very attentively in some meditation; and, in its reflections upon that same matter whereon it is thinking, it proceeds from one stage to another, forming words and arguments which are very much to the point, with great facility and distinctiveness, and by means of its reasoning discovers things which it knew not with respect to the subject of its reflections, so that it seems not to be doing this itself, but rather it seems that another person is supplying the reasoning within its mind or answering its questions or teaching it.
 
@@ -1006,7 +1006,7 @@ Here, among other things, he says: As St. Thomas proves (De Veritate,
 
 [465] Romans XII, 3.
 
-### Chapter XXX. Which Treats of the Interior Words That Come to the Spirit Formally by Supernatural Means. Warns the Reader of the Harm Which They May Do and of the Caution That Is Necessary in Order That the Soul May Not Be Deceived by Them
+## Chapter XXX. Which Treats of the Interior Words That Come to the Spirit Formally by Supernatural Means. Warns the Reader of the Harm Which They May Do and of the Caution That Is Necessary in Order That the Soul May Not Be Deceived by Them
 
 The interior words belonging to the second type are formal words, which at certain times come to the spirit by supernatural means, without the intervention of any of the senses, sometimes when the spirit is recollected and at other times when it is not. I call them formal because they are communicated to the spirit formally by a third person, the spirit itself playing no part in this. And they are therefore very different from those which we have just described; because not only is there this difference, that they come without any such intervention of the spirit itself as takes place in the other case; but also, as I say, they sometimes come when the spirit is not recollected and even when it is far from thinking of the subject of what is being said to it. This is not so in the first type of locution -- namely, that of successive words -- which always has some relation to the subject which the soul is considering.
 
@@ -1023,7 +1023,7 @@ The interior words belonging to the second type are formal words, which at certa
 
 [468] [Lit., greater worth.']
 
-### Chapter XXXI. Which Treats of the Substantial Words That Come Interiorly to the Spirit. Describes the Difference Between Them and Formal Words, and the Profit Which They Bring and the Resignation and Respect Which the Soul Must Observe with Regard to Them. [469]
+## Chapter XXXI. Which Treats of the Substantial Words That Come Interiorly to the Spirit. Describes the Difference Between Them and Formal Words, and the Profit Which They Bring and the Resignation and Respect Which the Soul Must Observe with Regard to Them. [469]
 
 The third kind of interior words, we said, is called substantial. These substantial words, although they are likewise formal, since they are impressed upon the soul in a definitely formal way, differ, nevertheless, in that substantial words produce vivid and substantial effects upon the soul, whereas words which are merely formal do not. So that, although it is true that every substantial word is formal, every formal word is not therefore substantial, but only, as we said above, such a word as impresses substantially on the soul that which it signifies. It is as if Our Lord were to say formally to the soul: Be thou good'; it would then be substantially good. Or as if He were to say to it: Love thou Me'; it would then have and feel within itself the substance of love for God. Or as if it feared greatly and He said to it: Fear thou not'; it would at once feel within itself great fortitude and tranquility. For the saying of God, and His word, as the Wise Man says, is full of power; [470] and thus that which He says to the soul He produces substantially within it. For it is this that David meant when he said: See, He will give to His voice a voice of virtue.' [471]
 
@@ -1043,7 +1043,7 @@ And even so with Abraham, when He said to him: Walk in My presence and be perfec
 
 [474] 1 Kings [A.V., 1 Samuel] III, 10.
 
-### Chapter XXXII. Which Treats of the Apprehensions Received by the Understanding from Interior Feelings Which Come Supernaturally to the Soul. Describes Their Cause, and the Manner Wherein the Soul Must Conduct Itself so That They May Not Obstruct Its Road to Union with God
+## Chapter XXXII. Which Treats of the Apprehensions Received by the Understanding from Interior Feelings Which Come Supernaturally to the Soul. Describes Their Cause, and the Manner Wherein the Soul Must Conduct Itself so That They May Not Obstruct Its Road to Union with God
 
 It is now time to treat of the fourth and last kind of intellectual apprehension which we said might come to the understanding through the spiritual feelings which are frequently produced supernaturally in the souls of spiritual persons and which we count amongst the distinct apprehensions of the understanding.
 

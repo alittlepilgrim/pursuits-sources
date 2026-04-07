@@ -1,16 +1,15 @@
 ---
-title: Book Three. Internal Consolation - The Imitation of Christ
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book Three. Internal Consolation - The Imitation of Christ
+title: Book Three. Internal Consolation - The Imitation of Christ
+author: Thomas à Kempis
 aliases:
   - Book Three. Internal Consolation - The Imitation of Christ
 tags:
-  - author/thomas-a-kempis
-  - book/imitation-of-christ
-author: Thomas à Kempis
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book Three. Internal Consolation - The Imitation of Christ
 ---
 
 # Book Three. Internal Consolation

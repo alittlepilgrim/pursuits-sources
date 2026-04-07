@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 42
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 42
+title: Ezekiel, Chapter 42
+url: https://bible.usccb.org/bible/ezekiel/42
 aliases:
   - ezekiel-42
   - Ezekiel, Chapter 42
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/42
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 42
 ---
 
 # Ezekiel, Chapter 42
 
-### Chapter 42
+## Chapter 42
 
 **Other Structures.**
 
@@ -47,7 +46,7 @@ To the south along the side of the restricted area and the building there were a
 
 12 At the base of the chambers on the south side there was an entry at the end of a walkway in front of the protective wall by which one could enter from the east. ^ezekiel-42-12
 
-13 He said to me, “The north and south chambers facing the restricted area are the chambers of the holy place where the priests who approach the L ORD shall eat the most holy meals. Here they shall place the most holy offerings: the grain offerings, the purification offerings, and the reparation offerings; for the place is holy. ^ezekiel-42-13
+13 He said to me, “The north and south chambers facing the restricted area are the chambers of the holy place where the priests who approach the LORD shall eat the most holy meals. Here they shall place the most holy offerings: the grain offerings, the purification offerings, and the reparation offerings; for the place is holy. ^ezekiel-42-13
 
 14 When the priests have entered, they must not go out again from the holy place into the outer court without leaving the garments in which they ministered because they are holy. They shall put on other garments before approaching the area for the people.” ^ezekiel-42-14
 

@@ -1,41 +1,40 @@
 ---
-title: Ezekiel, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 13
+title: Ezekiel, Chapter 13
+url: https://bible.usccb.org/bible/ezekiel/13
 aliases:
   - ezekiel-13
   - Ezekiel, Chapter 13
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 13
 ---
 
 # Ezekiel, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Against the Prophets of Peace.**
 
-1 The word of the L ORD came to me: ^ezekiel-13-1
+1 The word of the LORD came to me: ^ezekiel-13-1
 
-2 Son of man, prophesy against the prophets of Israel, prophesy! Say to those who prophesy their own thoughts: Hear the word of the L ORD! ^ezekiel-13-2
+2 Son of man, prophesy against the prophets of Israel, prophesy! Say to those who prophesy their own thoughts: Hear the word of the LORD! ^ezekiel-13-2
 
 3 Thus says the Lord G OD: Woe to those prophets, the fools who follow their own spirit and see nothing. ^ezekiel-13-3
 
 4 Like foxes among ruins are your prophets, Israel! ^ezekiel-13-4
 
-5 You did not step into the breach, nor repair the wall around the house of Israel so it would stand firm against attack on the day of the L ORD. ^ezekiel-13-5
+5 You did not step into the breach, nor repair the wall around the house of Israel so it would stand firm against attack on the day of the LORD. ^ezekiel-13-5
 
-6 False visions! Lying divinations! They say, “The oracle of the L ORD,” even though the L ORD did not send them. Then they expect their word to be confirmed! ^ezekiel-13-6
+6 False visions! Lying divinations! They say, “The oracle of the LORD,” even though the LORD did not send them. Then they expect their word to be confirmed! ^ezekiel-13-6
 
-7 Was not the vision you saw false? Did you not report a lying divination when you said, “Oracle of the L ORD,” even though I never spoke? ^ezekiel-13-7
+7 Was not the vision you saw false? Did you not report a lying divination when you said, “Oracle of the LORD,” even though I never spoke? ^ezekiel-13-7
 
 8 Therefore thus says the Lord G OD: Because you have spoken falsehood and seen lying visions, therefore, for certain I am coming at you—oracle of the Lord G OD. ^ezekiel-13-8
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/ezekiel/13
 
 13 Therefore thus says the Lord G OD: In my fury I will let loose stormwinds; because of my anger there will be flooding rain, and hailstones will fall with destructive wrath. ^ezekiel-13-13
 
-14 I will tear down the wall you whitewashed and level it to the ground, laying bare its foundations. When it falls, you shall be crushed beneath it. Thus you shall know that I am the L ORD. ^ezekiel-13-14
+14 I will tear down the wall you whitewashed and level it to the ground, laying bare its foundations. When it falls, you shall be crushed beneath it. Thus you shall know that I am the LORD. ^ezekiel-13-14
 
 15 When I have poured out my fury on the wall and its whitewashers, it will fall. Then I will say to you: No wall! No whitewashers— ^ezekiel-13-15
 
@@ -63,11 +62,11 @@ url: https://bible.usccb.org/bible/ezekiel/13
 
 20 Therefore thus says the Lord G OD: See! I am coming after your amulets by which you ensnare lives like prey. I will tear them from your arms and set free the lives of those you have ensnared like prey. ^ezekiel-13-20
 
-21 I will tear off your veils and deliver my people from your power, so that they shall never again be ensnared by your hands. Thus you shall know that I am the L ORD. ^ezekiel-13-21
+21 I will tear off your veils and deliver my people from your power, so that they shall never again be ensnared by your hands. Thus you shall know that I am the LORD. ^ezekiel-13-21
 
 22 Because you discourage the righteous with lies when I did not want them to be distressed, and encourage the wicked so they do not turn from their evil ways and save their lives, ^ezekiel-13-22
 
-23 therefore you shall no longer see false visions or practice divination again. I will deliver my people from your hand. Thus you shall know that I am the L ORD. ^ezekiel-13-23
+23 therefore you shall no longer see false visions or practice divination again. I will deliver my people from your hand. Thus you shall know that I am the LORD. ^ezekiel-13-23
 
 \* (13:10) The false prophets contributed to popular illusions of security by predictions of peace, like those who whitewash a wall to conceal its defects.
 

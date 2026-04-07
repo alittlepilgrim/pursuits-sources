@@ -1,27 +1,26 @@
 ---
-title: Job, Chapter 32
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 32
+title: Job, Chapter 32
+url: https://bible.usccb.org/bible/job/32
 aliases:
   - job-32
   - Job, Chapter 32
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/32
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 32
 ---
 
 # Job, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
-## Vii. Elihu's Speeches
+# Vii. Elihu's Speeches
 
 1 Then the three men ceased to answer Job, because in his own eyes he was in the right. ^job-32-1
 

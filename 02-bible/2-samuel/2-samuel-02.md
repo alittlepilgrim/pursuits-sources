@@ -1,29 +1,28 @@
 ---
-title: 2 Samuel, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 2
+title: 2 Samuel, Chapter 2
+url: https://bible.usccb.org/bible/2samuel/2
 aliases:
   - 2 Samuel, Chapter 2
   - 2-samuel-02
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/2
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 2
 ---
 
 # 2 Samuel, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **David Is Anointed King.**
 
-1 After this, David inquired of the L ORD, “Shall I go up into one of the cities of Judah?” The L ORD replied to him: Go up. Then David asked, “Where shall I go?” He replied: To Hebron. ^2-samuel-02-1
+1 After this, David inquired of the LORD, “Shall I go up into one of the cities of Judah?” The LORD replied to him: Go up. Then David asked, “Where shall I go?” He replied: To Hebron. ^2-samuel-02-1
 
 2 So David went up there, with his two wives, Ahinoam of Jezreel and Abigail, the wife of Nabal of Carmel. ^2-samuel-02-2
 
@@ -33,13 +32,13 @@ url: https://bible.usccb.org/bible/2samuel/2
 
 A report reached David that the people of Jabesh-gilead had buried Saul.
 
-5 So David sent messengers to the people of Jabesh-gilead and said to them: “May you be blessed by the L ORD for having done this kindness to your lord Saul in burying him. ^2-samuel-02-5
+5 So David sent messengers to the people of Jabesh-gilead and said to them: “May you be blessed by the LORD for having done this kindness to your lord Saul in burying him. ^2-samuel-02-5
 
-6 And now may the L ORD show you kindness and fidelity. For my part, I will show generosity to you for having done this. ^2-samuel-02-6
+6 And now may the LORD show you kindness and fidelity. For my part, I will show generosity to you for having done this. ^2-samuel-02-6
 
 7 So take courage and prove yourselves valiant, for though your lord Saul is dead, the house of Judah has anointed me king over them.” ^2-samuel-02-7
 
-## Iv. the Reign of David
+# Iv. the Reign of David
 
 **Ishbaal King of Israel.**
 

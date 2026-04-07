@@ -1,15 +1,17 @@
 ---
-title: Punishment, Eternal
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: punishment-eternal. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Punishment, Eternal
+author:
 aliases:
   - punishment-eternal
   - Punishment, Eternal
 tags:
   - term/punishment-eternal
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: punishment-eternal. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Punishment, Eternal

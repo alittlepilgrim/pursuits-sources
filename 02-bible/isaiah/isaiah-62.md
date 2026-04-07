@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 62
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 62
+title: Isaiah, Chapter 62
+url: https://bible.usccb.org/bible/isaiah/62
 aliases:
   - isaiah-62
   - Isaiah, Chapter 62
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/62
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 62
 ---
 
 # Isaiah, Chapter 62
 
-### Chapter 62
+## Chapter 62
 
-#### A New Name for Zion
+### A New Name for Zion
 
 1 For Zion’s sake I will not be silent, ^isaiah-62-1
 
@@ -37,9 +36,9 @@ and all kings your glory;
 
 You shall be called by a new name
 
-bestowed by the mouth of the L ORD.
+bestowed by the mouth of the LORD.
 
-3 You shall be a glorious crown in the hand of the L ORD, ^isaiah-62-3
+3 You shall be a glorious crown in the hand of the LORD, ^isaiah-62-3
 
 a royal diadem in the hand of your God.
 
@@ -51,7 +50,7 @@ But you shall be called “My Delight is in her,”
 
 and your land “Espoused.”
 
-For the L ORD delights in you,
+For the LORD delights in you,
 
 and your land shall be espoused.
 
@@ -71,7 +70,7 @@ By day and by night,
 
 they shall never be silent.
 
-You who are to remind the L ORD,
+You who are to remind the LORD,
 
 take no rest,
 
@@ -81,9 +80,9 @@ until he re-establishes Jerusalem
 
 And makes it the praise of the earth.
 
-#### The Blessings of Salvation for God’s People
+### The Blessings of Salvation for God’s People
 
-8 The L ORD has sworn by his right hand ^isaiah-62-8
+8 The LORD has sworn by his right hand ^isaiah-62-8
 
 and by his mighty arm:
 
@@ -97,7 +96,7 @@ for which you toiled.
 
 9 But those who harvest shall eat, ^isaiah-62-9
 
-and praise the L ORD;
+and praise the LORD;
 
 Those who gather shall drink
 
@@ -111,7 +110,7 @@ Build up, build up the highway, clear it of stones,
 
 raise up a standard over the nations.
 
-11 The L ORD has proclaimed ^isaiah-62-11
+11 The LORD has proclaimed ^isaiah-62-11
 
 to the ends of the earth:
 
@@ -125,7 +124,7 @@ his recompense before him.”
 
 12 They shall be called “The Holy People,” ^isaiah-62-12
 
-“The Redeemed of the L ORD.”
+“The Redeemed of the LORD.”
 
 And you shall be called “Cared For,”
 

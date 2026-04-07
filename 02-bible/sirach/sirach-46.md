@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 46
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 46
+title: Sirach, Chapter 46
+url: https://bible.usccb.org/bible/sirach/46
 aliases:
   - sirach-46
   - Sirach, Chapter 46
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/46
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 46
 ---
 
 # Sirach, Chapter 46
 
-### Chapter 46
+## Chapter 46
 
-#### Joshua, Caleb, the Judges, and Samuel
+### Joshua, Caleb, the Judges, and Samuel
 
 1 Valiant warrior was J OSHUA, son of Nun, ^sirach-46-1
 
@@ -41,7 +40,7 @@ to brandish his sword against the city!
 
 3 Who could withstand him ^sirach-46-3
 
-when he fought the battles of the L ORD?
+when he fought the battles of the LORD?
 
 4 Was it not by that same hand the sun stopped, ^sirach-46-4
 
@@ -61,7 +60,7 @@ till on the slope he destroyed the foe;
 
 That all the doomed nations might know
 
-the L ORD was watching over his people’s battles.
+the LORD was watching over his people’s battles.
 
 He was indeed a devoted follower of God
 
@@ -93,7 +92,7 @@ his family too received a heritage,
 
 10 That all the offspring of Jacob might know ^sirach-46-10
 
-how good it is to be a devoted follower of the L ORD.
+how good it is to be a devoted follower of the LORD.
 
 11 The J UDGES, each one of them, ^sirach-46-11
 
@@ -111,7 +110,7 @@ and their names receive fresh luster in their children!
 
 pledged in a vow from his mother’s womb,
 
-As one consecrated to the L ORD in the prophetic office,
+As one consecrated to the LORD in the prophetic office,
 
 was S AMUEL, the judge who offered sacrifice.
 
@@ -119,7 +118,7 @@ At God’s word he established the kingdom
 
 and anointed princes to rule the people.
 
-14 By the law of the L ORD he judged the congregation, ^sirach-46-14
+14 By the law of the LORD he judged the congregation, ^sirach-46-14
 
 and visited the encampments of Jacob.
 
@@ -133,7 +132,7 @@ when his enemies pressed him on every side,
 
 and offered up a suckling lamb.
 
-17 Then the L ORD thundered from heaven, ^sirach-46-17
+17 Then the LORD thundered from heaven, ^sirach-46-17
 
 and the tremendous roar of his voice was heard.
 
@@ -143,7 +142,7 @@ and destroyed all the lords of the Philistines.
 
 19 When Samuel neared the end of life, ^sirach-46-19
 
-he testified before the L ORD and his anointed prince,
+he testified before the LORD and his anointed prince,
 
 “No bribe or secret gift have I taken from anyone!”
 

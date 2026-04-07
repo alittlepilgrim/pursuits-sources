@@ -1,27 +1,26 @@
 ---
-title: Jeremiah, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 6
+title: Jeremiah, Chapter 6
+url: https://bible.usccb.org/bible/jeremiah/6
 aliases:
   - jeremiah-06
   - Jeremiah, Chapter 6
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 6
 ---
 
 # Jeremiah, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
-#### The Enemy at the Gates
+### The Enemy at the Gates
 
 1 Seek refuge, Benjaminites, ^jeremiah-06-1
 
@@ -57,7 +56,7 @@ evening shadows lengthen!”
 
 destroy her palaces!”
 
-6 For thus says the L ORD of hosts: ^jeremiah-06-6
+6 For thus says the LORD of hosts: ^jeremiah-06-6
 
 Hew down her trees,
 
@@ -83,7 +82,7 @@ And I will turn you into a wilderness,
 
 a land where no one dwells.
 
-9 Thus says the L ORD of hosts: ^jeremiah-06-9
+9 Thus says the LORD of hosts: ^jeremiah-06-9
 
 Glean, glean like a vine
 
@@ -101,11 +100,11 @@ See! their ears are uncircumcised,
 
 they cannot pay attention;
 
-See, the word of the L ORD has become for them
+See, the word of the LORD has become for them
 
 an object of scorn, for which they have no taste.
 
-11 But the wrath of the L ORD brims up within me, ^jeremiah-06-11
+11 But the wrath of the LORD brims up within me, ^jeremiah-06-11
 
 I am weary of holding it in.
 
@@ -123,7 +122,7 @@ their fields and their wives as well;
 
 For I will stretch forth my hand
 
-against those who dwell in the land—oracle of the L ORD.
+against those who dwell in the land—oracle of the LORD.
 
 13 Small and great alike, all are greedy for gain; ^jeremiah-06-13
 
@@ -147,9 +146,9 @@ Therefore they will fall among the fallen;
 
 in the time of their punishment they shall stumble,
 
-says the L ORD.
+says the LORD.
 
-16 Thus says the L ORD: ^jeremiah-06-16
+16 Thus says the LORD: ^jeremiah-06-16
 
 Stand by the earliest roads,
 
@@ -189,7 +188,7 @@ Your burnt offerings find no favor with me,
 
 your sacrifices do not please me.
 
-21 Therefore, thus says the L ORD: ^jeremiah-06-21
+21 Therefore, thus says the LORD: ^jeremiah-06-21
 
 See, I will place before this people
 
@@ -199,7 +198,7 @@ Parents and children alike,
 
 neighbors and friends shall perish.
 
-22 Thus says the L ORD: ^jeremiah-06-22
+22 Thus says the LORD: ^jeremiah-06-22
 
 See, a people comes from the land of the north,
 
@@ -267,7 +266,7 @@ the wicked are not drawn off.
 
 30 “Silver rejected” they shall be called, ^jeremiah-06-30
 
-for the L ORD has rejected them.
+for the LORD has rejected them.
 
 \* (6:3) Shepherds come with their flocks: foreign invaders with their armies.
 

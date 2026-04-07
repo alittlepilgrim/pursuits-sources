@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 38
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 38
+title: Exodus, Chapter 38
+url: https://bible.usccb.org/bible/exodus/38
 aliases:
   - 20250731-085751
   - exodus-38
   - Exodus, Chapter 38
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/38
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 38
 ---
 
 # Exodus, Chapter 38
 
-### Chapter 38
+## Chapter 38
 
 **The Altar for Burnt Offerings.**
 
@@ -70,7 +69,7 @@ url: https://bible.usccb.org/bible/exodus/38
 
 21 The following is an account of the various amounts used on the tabernacle, the tabernacle of the covenant, drawn up at the command of Moses by the Levites under the direction of Ithamar, son of Aaron the priest. ^exodus-38-21
 
-22 However, it was Bezalel, son of Uri, son of Hur, of the tribe of Judah, who made all that the L ORD commanded Moses, ^exodus-38-22
+22 However, it was Bezalel, son of Uri, son of Hur, of the tribe of Judah, who made all that the LORD commanded Moses, ^exodus-38-22
 
 23 and he was assisted by Oholiab, son of Ahisamach, of the tribe of Dan, who was an engraver, an embroiderer, and a weaver of variegated cloth of violet, purple, and scarlet yarn and of fine linen. ^exodus-38-23
 

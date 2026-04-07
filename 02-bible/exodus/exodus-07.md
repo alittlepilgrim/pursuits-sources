@@ -1,27 +1,26 @@
 ---
-title: Exodus, Chapter 7
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Exodus, Chapter 7
+title: Exodus, Chapter 7
+url: https://bible.usccb.org/bible/exodus/7
 aliases:
   - exodus-07
   - Exodus, Chapter 7
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Exodus, Chapter 7
 ---
 
 # Exodus, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-1 The L ORD answered Moses: See! I have made you a god to Pharaoh, and Aaron your brother will be your prophet. ^exodus-07-1
+1 The LORD answered Moses: See! I have made you a god to Pharaoh, and Aaron your brother will be your prophet. ^exodus-07-1
 
 2 You will speak all that I command you. In turn, your brother Aaron will tell Pharaoh to let the Israelites go out of his land. ^exodus-07-2
 
@@ -29,47 +28,47 @@ url: https://bible.usccb.org/bible/exodus/7
 
 4 Pharaoh will not listen to you. Therefore I will lay my hand on Egypt and with mighty acts of judgment I will bring my armies, my people the Israelites, out of the land of Egypt. ^exodus-07-4
 
-5 All Egyptians will know that I am the L ORD, when I stretch out my hand against Egypt and bring the Israelites out of their midst. ^exodus-07-5
+5 All Egyptians will know that I am the LORD, when I stretch out my hand against Egypt and bring the Israelites out of their midst. ^exodus-07-5
 
-6 This, then, is what Moses and Aaron did. They did exactly as the L ORD had commanded them. ^exodus-07-6
+6 This, then, is what Moses and Aaron did. They did exactly as the LORD had commanded them. ^exodus-07-6
 
 7 Moses was eighty years old, and Aaron eighty-three, when they spoke to Pharaoh. ^exodus-07-7
 
-## Iii. the Contest with Pharaoh
+# Iii. the Contest with Pharaoh
 
 **The Staff Turned into a Serpent.**
 
-8 The L ORD spoke to Moses and Aaron: ^exodus-07-8
+8 The LORD spoke to Moses and Aaron: ^exodus-07-8
 
 9 When Pharaoh demands of you, “Produce a sign or wonder,” you will say to Aaron: “Take your staff and throw it down before Pharaoh, and it will turn into a serpent.” ^exodus-07-9
 
-10 Then Moses and Aaron went to Pharaoh and did just as the L ORD had commanded. Aaron threw his staff down before Pharaoh and his servants, and it turned into a serpent. ^exodus-07-10
+10 Then Moses and Aaron went to Pharaoh and did just as the LORD had commanded. Aaron threw his staff down before Pharaoh and his servants, and it turned into a serpent. ^exodus-07-10
 
 11 Pharaoh, in turn, summoned the wise men and the sorcerers, and they also, the magicians of Egypt, did the same thing by their magic arts. ^exodus-07-11
 
 12 Each one threw down his staff, and they turned into serpents. But Aaron’s staff swallowed their staffs. ^exodus-07-12
 
-13 Pharaoh, however, hardened his heart and would not listen to them, just as the L ORD had foretold. ^exodus-07-13
+13 Pharaoh, however, hardened his heart and would not listen to them, just as the LORD had foretold. ^exodus-07-13
 
 **First Plague: Water Turned into Blood.**
 
-14 Then the L ORD said to Moses: Pharaoh is obstinate in refusing to let the people go. ^exodus-07-14
+14 Then the LORD said to Moses: Pharaoh is obstinate in refusing to let the people go. ^exodus-07-14
 
 15 In the morning, just when he sets out for the water, go to Pharaoh and present yourself by the bank of the Nile, holding in your hand the staff that turned into a snake. ^exodus-07-15
 
-16 Say to him: The L ORD, the God of the Hebrews, sent me to you with the message: Let my people go to serve me in the wilderness. But as yet you have not listened. ^exodus-07-16
+16 Say to him: The LORD, the God of the Hebrews, sent me to you with the message: Let my people go to serve me in the wilderness. But as yet you have not listened. ^exodus-07-16
 
-17 Thus says the L ORD: This is how you will know that I am the L ORD. With the staff here in my hand, I will strike the water in the Nile and it will be changed into blood. ^exodus-07-17
+17 Thus says the LORD: This is how you will know that I am the LORD. With the staff here in my hand, I will strike the water in the Nile and it will be changed into blood. ^exodus-07-17
 
 18 The fish in the Nile will die, and the Nile itself will stink so that the Egyptians will be unable to drink water from the Nile. ^exodus-07-18
 
-19 The L ORD then spoke to Moses: Speak to Aaron: Take your staff and stretch out your hand over the waters of Egypt—its streams, its canals, its ponds, and all its supplies of water—that they may become blood. There will be blood throughout the land of Egypt, even in the wooden pails and stone jars. ^exodus-07-19
+19 The LORD then spoke to Moses: Speak to Aaron: Take your staff and stretch out your hand over the waters of Egypt—its streams, its canals, its ponds, and all its supplies of water—that they may become blood. There will be blood throughout the land of Egypt, even in the wooden pails and stone jars. ^exodus-07-19
 
-20 This, then, is what Moses and Aaron did, exactly as the L ORD had commanded. Aaron raised his staff and struck the waters in the Nile in full view of Pharaoh and his servants, and all the water in the Nile was changed into blood. ^exodus-07-20
+20 This, then, is what Moses and Aaron did, exactly as the LORD had commanded. Aaron raised his staff and struck the waters in the Nile in full view of Pharaoh and his servants, and all the water in the Nile was changed into blood. ^exodus-07-20
 
 21 The fish in the Nile died, and the Nile itself stank so that the Egyptians could not drink water from it. There was blood throughout the land of Egypt. ^exodus-07-21
 
-22 But the Egyptian magicians did the same by their magic arts. So Pharaoh hardened his heart and would not listen to them, just as the L ORD had said. ^exodus-07-22
+22 But the Egyptian magicians did the same by their magic arts. So Pharaoh hardened his heart and would not listen to them, just as the LORD had said. ^exodus-07-22
 
 23 Pharaoh turned away and went into his house, with no concern even for this. ^exodus-07-23
 
@@ -77,9 +76,9 @@ url: https://bible.usccb.org/bible/exodus/7
 
 **Second Plague: The Frogs.**
 
-25 Seven days passed after the L ORD had struck the Nile. ^exodus-07-25
+25 Seven days passed after the LORD had struck the Nile. ^exodus-07-25
 
-26 Then the L ORD said to Moses: Go to Pharaoh and tell him: Thus says the L ORD: Let my people go to serve me. ^exodus-07-26
+26 Then the LORD said to Moses: Go to Pharaoh and tell him: Thus says the LORD: Let my people go to serve me. ^exodus-07-26
 
 27 If you refuse to let them go, then I will send a plague of frogs over all your territory. ^exodus-07-27
 

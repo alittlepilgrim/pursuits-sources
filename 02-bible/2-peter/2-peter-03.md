@@ -1,25 +1,24 @@
 ---
-title: 2 Peter, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Peter, Chapter 3
+title: 2 Peter, Chapter 3
+url: https://bible.usccb.org/bible/2peter/3
 aliases:
   - 2 Peter, Chapter 3
   - 2-peter-03
 tags:
   - bible/2-peter
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2peter/3
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Peter, Chapter 3
 ---
 
 # 2 Peter, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Denial of the Parousia.**
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/2peter/3
 
 16 speaking of these things as he does in all his letters. In them there are some things hard to understand that the ignorant and unstable distort to their own destruction, just as they do the other scriptures. ^2-peter-03-16
 
-## V. Final Exhortation and Doxology
+# V. Final Exhortation and Doxology
 
 17 Therefore, beloved, since you are forewarned, be on your guard not to be led into the error of the unprincipled and to fall from your own stability. ^2-peter-03-17
 

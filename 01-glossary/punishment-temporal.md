@@ -1,15 +1,17 @@
 ---
-title: Punishment, Temporal
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: punishment-temporal. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Punishment, Temporal
+author:
 aliases:
   - punishment-temporal
   - Punishment, Temporal
 tags:
   - term/punishment-temporal
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: punishment-temporal. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Punishment, Temporal

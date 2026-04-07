@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 16
+title: Isaiah, Chapter 16
+url: https://bible.usccb.org/bible/isaiah/16
 aliases:
   - isaiah-16
   - Isaiah, Chapter 16
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 16
 ---
 
 # Isaiah, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 1 Send them forth, hugging the earth like reptiles, ^isaiah-16-1
 
@@ -131,9 +130,9 @@ and enters his sanctuary to pray,
 
 it shall avail him nothing.
 
-13 That is the word the L ORD spoke against Moab in times past. ^isaiah-16-13
+13 That is the word the LORD spoke against Moab in times past. ^isaiah-16-13
 
-14 But now the L ORD speaks: In three years, like the years of a hired laborer, the glory of Moab shall be empty despite all its great multitude; and the remnant shall be very small and weak. ^isaiah-16-14
+14 But now the LORD speaks: In three years, like the years of a hired laborer, the glory of Moab shall be empty despite all its great multitude; and the remnant shall be very small and weak. ^isaiah-16-14
 
 \* (16:1) Send them forth: the Hebrew text is disturbed; it could also be understood to refer to tribute (a lamb) sent from Moab to Zion, presumably to encourage the king to receive the Moabite refugees.
 

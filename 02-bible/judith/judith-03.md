@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 3
+title: Judith, Chapter 3
+url: https://bible.usccb.org/bible/judith/3
 aliases:
   - judith-03
   - Judith, Chapter 3
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 3
 ---
 
 # Judith, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Submission of the Vassal Nations.**
 

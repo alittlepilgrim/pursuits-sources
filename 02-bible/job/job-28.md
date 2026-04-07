@@ -1,29 +1,28 @@
 ---
-title: Job, Chapter 28
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 28
+title: Job, Chapter 28
+url: https://bible.usccb.org/bible/job/28
 aliases:
   - job-28
   - Job, Chapter 28
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/28
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 28
 ---
 
 # Job, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
-## V. the Poem on Wisdom
+# V. the Poem on Wisdom
 
-#### Where Is Wisdom to Be Found?
+## Where Is Wisdom to Be Found?
 
 1 There is indeed a mine for silver, ^job-28-1
 

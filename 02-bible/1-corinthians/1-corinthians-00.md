@@ -1,20 +1,20 @@
 ---
-title: 1 Corinthians, The First Letter To The Corinthians
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Corinthians, the First Letter to the Corinthians
+title: 1 Corinthians, The First Letter To The Corinthians
+url: https://bible.usccb.org/bible/1corinthians/0
 aliases:
   - 1 Corinthians, the First Letter to the Corinthians
   - 1 Corinthians, The First Letter To The Corinthians
   - 1-corinthians-00
 tags:
   - bible/1-corinthians
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/1corinthians/0
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Corinthians, the First Letter to the Corinthians
 ---
 
 # 1 Corinthians, the First Letter to the Corinthians

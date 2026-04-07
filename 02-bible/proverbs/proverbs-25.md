@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 25
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 25
+title: Proverbs, Chapter 25
+url: https://bible.usccb.org/bible/proverbs/25
 aliases:
   - proverbs-25
   - Proverbs, Chapter 25
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/25
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 25
 ---
 
 # Proverbs, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 1 These also are proverbs of Solomon. The servants of Hezekiah, king of Judah, transmitted them. ^proverbs-25-1
 
@@ -111,7 +110,7 @@ if thirsty, give something to drink;
 
 22 For live coals you will heap on their heads, ^proverbs-25-22
 
-and the L ORD will vindicate you.
+and the LORD will vindicate you.
 
 23 The north wind brings rain, ^proverbs-25-23
 

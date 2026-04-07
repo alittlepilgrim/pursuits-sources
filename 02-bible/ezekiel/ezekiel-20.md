@@ -1,41 +1,40 @@
 ---
-title: Ezekiel, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 20
+title: Ezekiel, Chapter 20
+url: https://bible.usccb.org/bible/ezekiel/20
 aliases:
   - ezekiel-20
   - Ezekiel, Chapter 20
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 20
 ---
 
 # Ezekiel, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Israel’s History of Infidelity.**
 
-1 In the seventh year, on the tenth day of the fifth month, some of the elders of Israel came to consult the L ORD and sat down before me. ^ezekiel-20-1
+1 In the seventh year, on the tenth day of the fifth month, some of the elders of Israel came to consult the LORD and sat down before me. ^ezekiel-20-1
 
-2 Then the word of the L ORD came to me: ^ezekiel-20-2
+2 Then the word of the LORD came to me: ^ezekiel-20-2
 
 3 Son of man, speak to the elders of Israel and say to them: Thus says the Lord G OD: Have you come to consult me? As I live, I will not allow myself to be consulted by you!—oracle of the Lord G OD. ^ezekiel-20-3
 
 4 Will you judge them? Will you judge, son of man? Tell them about the abominations of their ancestors, ^ezekiel-20-4
 
-5 and say to them: Thus says the Lord G OD: The day I chose Israel, I swore to the descendants of the house of Jacob; I revealed myself to them in the land of Egypt and swore to them, saying: I am the L ORD, your God. ^ezekiel-20-5
+5 and say to them: Thus says the Lord G OD: The day I chose Israel, I swore to the descendants of the house of Jacob; I revealed myself to them in the land of Egypt and swore to them, saying: I am the LORD, your God. ^ezekiel-20-5
 
 6 That day I swore to bring them out of the land of Egypt to the land I had searched out for them, a land flowing with milk and honey, a jewel among all lands. ^ezekiel-20-6
 
-7 Then I said to them: Throw away, each of you, the detestable things that held your eyes; do not defile yourselves with the idols of Egypt: I am the L ORD, your God. ^ezekiel-20-7
+7 Then I said to them: Throw away, each of you, the detestable things that held your eyes; do not defile yourselves with the idols of Egypt: I am the LORD, your God. ^ezekiel-20-7
 
 8 But they rebelled and refused to listen to me; none of them threw away the detestable things that held their eyes, nor did they abandon the idols of Egypt. Then I considered pouring out my fury and spending my anger against them there in the land of Egypt. ^ezekiel-20-8
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/ezekiel/20
 
 11 Then I gave them my statutes and made known to them my ordinances, so that everyone who keeps them has life through them. ^ezekiel-20-11
 
-12 I also gave them my sabbaths to be a sign between me and them, to show that it is I, the L ORD, who makes them holy. ^ezekiel-20-12
+12 I also gave them my sabbaths to be a sign between me and them, to show that it is I, the LORD, who makes them holy. ^ezekiel-20-12
 
 13 But the house of Israel rebelled against me in the wilderness. They did not observe my statutes, and they rejected my ordinances that bring life to those who keep them. My sabbaths, too, they desecrated grievously. Then I considered pouring out my fury on them in the wilderness to put an end to them, ^ezekiel-20-13
 
@@ -59,9 +58,9 @@ url: https://bible.usccb.org/bible/ezekiel/20
 
 18 Then I said to their children in the wilderness: Do not follow the statutes of your parents. Do not keep their ordinances. Do not defile yourselves with their idols. ^ezekiel-20-18
 
-19 I am the L ORD, your God: follow my statutes and be careful to observe my ordinances; ^ezekiel-20-19
+19 I am the LORD, your God: follow my statutes and be careful to observe my ordinances; ^ezekiel-20-19
 
-20 keep holy my sabbaths as a sign between me and you so that you may know that I am the L ORD, your God. ^ezekiel-20-20
+20 keep holy my sabbaths as a sign between me and you so that you may know that I am the LORD, your God. ^ezekiel-20-20
 
 21 But their children rebelled against me: they did not follow my statutes or keep my ordinances that bring life to those who observe them; my sabbaths they desecrated. Then I considered pouring out my fury on them, spending my anger against them in the wilderness; ^ezekiel-20-21
 
@@ -73,7 +72,7 @@ url: https://bible.usccb.org/bible/ezekiel/20
 
 25 Therefore I gave them statutes that were not good, and ordinances through which they could not have life. ^ezekiel-20-25
 
-26 I let them become defiled by their offerings, by having them make a fiery offering of every womb’s firstborn, in order to ruin them so they might know that I am the L ORD. ^ezekiel-20-26
+26 I let them become defiled by their offerings, by having them make a fiery offering of every womb’s firstborn, in order to ruin them so they might know that I am the LORD. ^ezekiel-20-26
 
 27 Therefore speak to the house of Israel, son of man, and tell them: Thus says the Lord G OD: In this way also your ancestors blasphemed me, breaking faith with me. ^ezekiel-20-27
 
@@ -95,7 +94,7 @@ url: https://bible.usccb.org/bible/ezekiel/20
 
 36 Just as I entered into judgment with your ancestors in the wilderness of the land of Egypt, so will I enter into judgment with you—oracle of the Lord G OD. ^ezekiel-20-36
 
-38 I will sort out from you those who defied me and rebelled against me; from the land where they resided as aliens I will bring them out, but they shall not return to the land of Israel. Thus you shall know that I am the L ORD. ^ezekiel-20-38
+38 I will sort out from you those who defied me and rebelled against me; from the land where they resided as aliens I will bring them out, but they shall not return to the land of Israel. Thus you shall know that I am the LORD. ^ezekiel-20-38
 
 39 As for you, house of Israel, thus says the Lord G OD: Go! each of you, and worship your idols. Listen to me! You shall never again desecrate my holy name with your offerings and your idols! ^ezekiel-20-39
 
@@ -103,11 +102,11 @@ url: https://bible.usccb.org/bible/ezekiel/20
 
 41 As a sweet-smelling oblation I will accept you, when I bring you from among the nations and gather you out of the lands over which you were scattered; and through you I will manifest my holiness in the sight of the nations. ^ezekiel-20-41
 
-42 Thus you shall know that I am the L ORD, when I bring you back to the soil of Israel, the land I swore to give your ancestors. ^ezekiel-20-42
+42 Thus you shall know that I am the LORD, when I bring you back to the soil of Israel, the land I swore to give your ancestors. ^ezekiel-20-42
 
 43 There you shall remember your ways, all the deeds by which you defiled yourselves; and you shall loathe yourselves because of all the evil you did. ^ezekiel-20-43
 
-44 And you shall know that I am the L ORD when I deal with you thus, for the sake of my name, not according to your evil ways and wanton deeds, house of Israel—oracle of the Lord G OD. ^ezekiel-20-44
+44 And you shall know that I am the LORD when I deal with you thus, for the sake of my name, not according to your evil ways and wanton deeds, house of Israel—oracle of the Lord G OD. ^ezekiel-20-44
 
 \* (20:1) The seventh year…the fifth month: August 14, 591 B.C.
 

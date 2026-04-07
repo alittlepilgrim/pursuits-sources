@@ -1,9 +1,6 @@
 ---
-title: Episcopal / Episcopate
-created: 2025-07-20
-modified: 2026-03-19
 type: glossary
-publish: true
+title: Episcopal / Episcopate
 aliases:
   - 20250720-2127
   - Episcopal / Episcopate
@@ -12,6 +9,10 @@ tags:
   - catechism
   - term/episcopal
   - term/episcopate
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
 ---
 
 # Episcopal / Episcopate

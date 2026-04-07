@@ -1,23 +1,23 @@
 ---
-title: Humani Generis (august 12, 1950)
-created: 2025-08-24
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Humani Generis (august 12, 1950)
+title: Humani Generis
+author: Pope Pius XII
+url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
 aliases:
-  - 20250824-202118
-  - Humani Generis (august 12, 1950)
+  - Humani Generis (August 12, 1950)
   - humani-generis
 tags:
-  - vatican/vatican-II
+  - author/pope-pius-XII
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-08-24
+modified: 2026-04-06
+publish: true
+description: Humani Generis (August 12, 1950)
 abbreviation: piusxii-hg
-author: Pope Pius XII
-source: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
-url: https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_12081950_humani-generis.html
 ---
 
-# Humani Generis (august 12, 1950)
+# Humani Generis (August 12, 1950)
 
 ENCYCLICALHUMANI GENERIS OF THE HOLY FATHER
 

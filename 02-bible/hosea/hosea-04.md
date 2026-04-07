@@ -1,31 +1,30 @@
 ---
-title: Hosea, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 4
+title: Hosea, Chapter 4
+url: https://bible.usccb.org/bible/hosea/4
 aliases:
   - hosea-04
   - Hosea, Chapter 4
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 4
 ---
 
 # Hosea, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
-#### Indictment of Israel
+### Indictment of Israel
 
-1 Hear the word of the L ORD, Israelites, ^hosea-04-1
+1 Hear the word of the LORD, Israelites, ^hosea-04-1
 
-for the L ORD has a dispute
+for the LORD has a dispute
 
 with the inhabitants of the land:
 
@@ -49,7 +48,7 @@ the birds of the air,
 
 and even the fish of the sea perish.
 
-#### Guilt of Priest and of People
+### Guilt of Priest and of People
 
 4 But let no one accuse, let no one rebuke; ^hosea-04-4
 
@@ -89,7 +88,7 @@ and repay them for their deeds.
 
 they will promote prostitution but not increase,
 
-Because they have abandoned the L ORD,
+Because they have abandoned the LORD,
 
 devoting themselves
 
@@ -143,7 +142,7 @@ do not swear, “As the Lord lives!”
 
 Israel is stubborn;
 
-Will the L ORD now pasture them,
+Will the LORD now pasture them,
 
 like lambs in a broad meadow?
 

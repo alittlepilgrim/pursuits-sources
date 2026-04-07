@@ -1,49 +1,48 @@
 ---
-title: Zechariah, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 3
+title: Zechariah, Chapter 3
+url: https://bible.usccb.org/bible/zechariah/3
 aliases:
   - zechariah-03
   - Zechariah, Chapter 3
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/3
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 3
 ---
 
 # Zechariah, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Prophetic Vision: Joshua the High Priest.**
 
-1 Then he showed me Joshua the high priest standing before the angel of the L ORD, while the adversary stood at his right side to accuse him. ^zechariah-03-1
+1 Then he showed me Joshua the high priest standing before the angel of the LORD, while the adversary stood at his right side to accuse him. ^zechariah-03-1
 
-2 And the angel of the L ORD said to the adversary, “May the L ORD rebuke you, O adversary; may the L ORD who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?” ^zechariah-03-2
+2 And the angel of the LORD said to the adversary, “May the LORD rebuke you, O adversary; may the LORD who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?” ^zechariah-03-2
 
 3 Now Joshua was standing before the angel, clad in filthy garments. ^zechariah-03-3
 
 4 Then the angel said to those standing before him, “Remove his filthy garments.” And to him he said, “Look, I have taken your guilt from you, and I am clothing you in stately robes.” ^zechariah-03-4
 
-5 Then he said, “Let them put a clean turban on his head.” And they put a clean turban on his head and clothed him with the garments while the angel of the L ORD was standing by. ^zechariah-03-5
+5 Then he said, “Let them put a clean turban on his head.” And they put a clean turban on his head and clothed him with the garments while the angel of the LORD was standing by. ^zechariah-03-5
 
-6 Then the angel of the L ORD charged Joshua: ^zechariah-03-6
+6 Then the angel of the LORD charged Joshua: ^zechariah-03-6
 
-7 “Thus says the L ORD of hosts: If you walk in my ways and carry out my charge, you will administer my house and watch over my courts; and I will give you access to those standing here.” ^zechariah-03-7
+7 “Thus says the LORD of hosts: If you walk in my ways and carry out my charge, you will administer my house and watch over my courts; and I will give you access to those standing here.” ^zechariah-03-7
 
 **Supplementary Oracle.**
 
 8 “Hear, O Joshua, high priest! You and your associates who sit before you! For they are signs of things to come! I will surely bring my servant the Branch. ^zechariah-03-8
 
-9 Look at the stone that I have placed before Joshua. On this one stone with seven facets I will engrave its inscription—oracle of the L ORD of hosts—and I will take away the guilt of that land in one day. ^zechariah-03-9
+9 Look at the stone that I have placed before Joshua. On this one stone with seven facets I will engrave its inscription—oracle of the LORD of hosts—and I will take away the guilt of that land in one day. ^zechariah-03-9
 
-10 On that day—oracle of the L ORD of hosts—you will invite one another under your vines and fig trees.” ^zechariah-03-10
+10 On that day—oracle of the LORD of hosts—you will invite one another under your vines and fig trees.” ^zechariah-03-10
 
 \* (3:1) Adversary: Hebrew *satan*, here, the prosecuting attorney, a figure in the Lord’s heavenly courtroom. Cf. [Jb 1:6] – [2:7]. Later tradition understands this figure to be Satan.
 

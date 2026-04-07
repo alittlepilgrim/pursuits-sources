@@ -1,9 +1,7 @@
 ---
-title: June 12, Blessed Alphonsus Mary of the Holy Spirit Mazurek and Companions
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: June 12, Blessed Alphonsus Mary of the Holy Spirit Mazurek and Companions
+author: OCD General Curia
 aliases:
   - 06-12-blessed-alphonsus-mary-of-the-holy-spirit-mazurek-and-companions
   - 20240722-231242
@@ -11,8 +9,11 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 06-12
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
 ---
 
 # June 12, Blessed Alphonsus Mary of the Holy Spirit Mazurek and Companions

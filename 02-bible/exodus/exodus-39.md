@@ -1,30 +1,29 @@
 ---
-title: Exodus, Chapter 39
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 39
+title: Exodus, Chapter 39
+url: https://bible.usccb.org/bible/exodus/39
 aliases:
   - 20250731-085746
   - exodus-39
   - Exodus, Chapter 39
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/39
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 39
 ---
 
 # Exodus, Chapter 39
 
-### Chapter 39
+## Chapter 39
 
 **The Priestly Vestments.**
 
-1 With violet, purple, and scarlet yarn were woven the service cloths for use in the sanctuary, as well as the sacred vestments for Aaron, as the L ORD had commanded Moses. ^exodus-39-1
+1 With violet, purple, and scarlet yarn were woven the service cloths for use in the sanctuary, as well as the sacred vestments for Aaron, as the LORD had commanded Moses. ^exodus-39-1
 
 2 The ephod was woven of gold thread and of violet, purple, and scarlet yarn and of fine linen twined. ^exodus-39-2
 
@@ -32,11 +31,11 @@ url: https://bible.usccb.org/bible/exodus/39
 
 4 Shoulder straps were made for it and joined to its two upper ends. ^exodus-39-4
 
-5 The embroidered belt on the ephod extended out from it, and like it, was made of gold thread, of violet, purple, and scarlet yarn, and of fine linen twined, as the L ORD had commanded Moses. ^exodus-39-5
+5 The embroidered belt on the ephod extended out from it, and like it, was made of gold thread, of violet, purple, and scarlet yarn, and of fine linen twined, as the LORD had commanded Moses. ^exodus-39-5
 
 6 The onyx stones were prepared and mounted in gold filigree work; they were engraved like seal engravings with the names of the sons of Israel. ^exodus-39-6
 
-7 These stones were set on the shoulder straps of the ephod as memorial stones of the sons of Israel, just as the L ORD had commanded Moses. ^exodus-39-7
+7 These stones were set on the shoulder straps of the ephod as memorial stones of the sons of Israel, just as the LORD had commanded Moses. ^exodus-39-7
 
 8 The breastpiece was embroidered like the ephod, with gold thread and violet, purple, and scarlet yarn on cloth of fine linen twined. ^exodus-39-8
 
@@ -64,7 +63,7 @@ url: https://bible.usccb.org/bible/exodus/39
 
 20 Two more gold rings were made and fastened to the bottom of the two shoulder straps next to where they joined the ephod in front, just above its embroidered belt. ^exodus-39-20
 
-21 Violet ribbons bound the rings of the breastpiece to the rings of the ephod, so that the breastpiece stayed right above the embroidered belt of the ephod and did not swing loose from it. All this was just as the L ORD had commanded Moses. ^exodus-39-21
+21 Violet ribbons bound the rings of the breastpiece to the rings of the ephod, so that the breastpiece stayed right above the embroidered belt of the ephod and did not swing loose from it. All this was just as the LORD had commanded Moses. ^exodus-39-21
 
 **Other Vestments.**
 
@@ -76,21 +75,21 @@ url: https://bible.usccb.org/bible/exodus/39
 
 25 bells of pure gold were also made and put between the pomegranates all around the hem of the robe: ^exodus-39-25
 
-26 a bell, a pomegranate, a bell, a pomegranate, all around the hem of the robe which was to be worn in performing the ministry—all this, just as the L ORD had commanded Moses. ^exodus-39-26
+26 a bell, a pomegranate, a bell, a pomegranate, all around the hem of the robe which was to be worn in performing the ministry—all this, just as the LORD had commanded Moses. ^exodus-39-26
 
 27 For Aaron and his sons there were also woven tunics of fine linen; ^exodus-39-27
 
 28 the turban of fine linen; the ornate skullcaps of fine linen; linen pants of fine linen twined; ^exodus-39-28
 
-29 and sashes of variegated work made of fine linen twined and of violet, purple, and scarlet yarn, as the L ORD had commanded Moses. ^exodus-39-29
+29 and sashes of variegated work made of fine linen twined and of violet, purple, and scarlet yarn, as the LORD had commanded Moses. ^exodus-39-29
 
-30 The plate of the sacred diadem was made of pure gold and inscribed, as on a seal engraving: “Sacred to the L ORD.” ^exodus-39-30
+30 The plate of the sacred diadem was made of pure gold and inscribed, as on a seal engraving: “Sacred to the LORD.” ^exodus-39-30
 
-31 It was tied over the turban with a violet ribbon, as the L ORD had commanded Moses. ^exodus-39-31
+31 It was tied over the turban with a violet ribbon, as the LORD had commanded Moses. ^exodus-39-31
 
 **Presentation of the Work to Moses.**
 
-32 Thus the entire work of the tabernacle of the tent of meeting was completed. The Israelites did the work just as the L ORD had commanded Moses; so it was done. ^exodus-39-32
+32 Thus the entire work of the tabernacle of the tent of meeting was completed. The Israelites did the work just as the LORD had commanded Moses; so it was done. ^exodus-39-32
 
 33 They then brought to Moses the tabernacle, the tent with all its furnishings, the clasps, the frames, the bars, the columns, the pedestals, ^exodus-39-33
 
@@ -110,9 +109,9 @@ url: https://bible.usccb.org/bible/exodus/39
 
 41 the service cloths for use in the sanctuary, the sacred vestments for Aaron the priest, and the vestments to be worn by his sons in their ministry. ^exodus-39-41
 
-42 Just as the L ORD had commanded Moses, so the Israelites had carried out all the work. ^exodus-39-42
+42 Just as the LORD had commanded Moses, so the Israelites had carried out all the work. ^exodus-39-42
 
-43 So when Moses saw that all the work was done just as the L ORD had commanded, he blessed them. ^exodus-39-43
+43 So when Moses saw that all the work was done just as the LORD had commanded, he blessed them. ^exodus-39-43
 
 a. (39:1) [Ex 31:10].
 

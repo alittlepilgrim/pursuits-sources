@@ -1,27 +1,26 @@
 ---
-title: Baruch, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Baruch, Chapter 1
+title: Baruch, Chapter 1
+url: https://bible.usccb.org/bible/baruch/1
 aliases:
   - baruch-01
   - Baruch, Chapter 1
 tags:
   - bible/baruch
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/baruch/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Baruch, Chapter 1
 ---
 
 # Baruch, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-#### A. Historical Setting
+### A. Historical Setting
 
 1 Now these are the words of the scroll which Baruch, son of Neriah, son of Mahseiah, son of Zedekiah, son of Hasadiah, son of Hilkiah, wrote in Babylon, ^baruch-01-1
 
@@ -37,37 +36,37 @@ url: https://bible.usccb.org/bible/baruch/1
 
 7 These they sent to Jerusalem, to Jehoiakim the priest, son of Hilkiah, son of Shallum, and to the priests and the whole people who were with him in Jerusalem. ^baruch-01-7
 
-8 (At the same time he received the vessels of the house of the L ORD that had been removed from the temple, to restore them to the land of Judah, on the tenth of Sivan. These silver vessels Zedekiah, son of Josiah, king of Judah, had had made ^baruch-01-8
+8 (At the same time he received the vessels of the house of the LORD that had been removed from the temple, to restore them to the land of Judah, on the tenth of Sivan. These silver vessels Zedekiah, son of Josiah, king of Judah, had had made ^baruch-01-8
 
 9 after Nebuchadnezzar, king of Babylon, carried off as captives Jeconiah and the princes, the skilled workers, the nobles, and the people of the land from Jerusalem, and brought them to Babylon.) ^baruch-01-9
 
-#### B. Confession of Guilt
+### B. Confession of Guilt
 
-10 The message was: “We send you funds, with which you are to procure burnt offerings, sin offerings, and frankincense, and to prepare grain offerings; offer these on the altar of the L ORD our God, ^baruch-01-10
+10 The message was: “We send you funds, with which you are to procure burnt offerings, sin offerings, and frankincense, and to prepare grain offerings; offer these on the altar of the LORD our God, ^baruch-01-10
 
 11 and pray for the life of Nebuchadnezzar, king of Babylon, and of Belshazzar, his son, that their lifetimes may be as the days of the heavens above the earth. ^baruch-01-11
 
-12 Pray that the L ORD may give us strength, and light to our eyes, that we may live under the protective shadow of Nebuchadnezzar, king of Babylon, and of Belshazzar, his son, to serve them many days, and find favor in their sight. ^baruch-01-12
+12 Pray that the LORD may give us strength, and light to our eyes, that we may live under the protective shadow of Nebuchadnezzar, king of Babylon, and of Belshazzar, his son, to serve them many days, and find favor in their sight. ^baruch-01-12
 
-13 Pray for us to the L ORD, our God, for we have sinned against the L ORD, our God. Even to this day the wrath of the L ORD and his anger have not turned away from us. ^baruch-01-13
+13 Pray for us to the LORD, our God, for we have sinned against the LORD, our God. Even to this day the wrath of the LORD and his anger have not turned away from us. ^baruch-01-13
 
-14 On the feast day and during the days of assembly, read aloud in the house of the L ORD this scroll that we send you: ^baruch-01-14
+14 On the feast day and during the days of assembly, read aloud in the house of the LORD this scroll that we send you: ^baruch-01-14
 
 15 “To the Lord our God belongs justice; to us, people of Judah and inhabitants of Jerusalem, to be shamefaced, as on this day— ^baruch-01-15
 
 16 to us, our kings, rulers, priests, and prophets, and our ancestors. ^baruch-01-16
 
-17 We have sinned in the L ORD’s sight ^baruch-01-17
+17 We have sinned in the LORD’s sight ^baruch-01-17
 
-18 and disobeyed him. We have not listened to the voice of the L ORD, our God, so as to follow the precepts the L ORD set before us. ^baruch-01-18
+18 and disobeyed him. We have not listened to the voice of the LORD, our God, so as to follow the precepts the LORD set before us. ^baruch-01-18
 
-19 From the day the L ORD led our ancestors out of the land of Egypt until the present day, we have been disobedient to the L ORD, our God, and neglected to listen to his voice. ^baruch-01-19
+19 From the day the LORD led our ancestors out of the land of Egypt until the present day, we have been disobedient to the LORD, our God, and neglected to listen to his voice. ^baruch-01-19
 
-20 Even today evils cling to us, the curse the L ORD pronounced to Moses, his servant, at the time he led our ancestors out of the land of Egypt to give us a land flowing with milk and honey. ^baruch-01-20
+20 Even today evils cling to us, the curse the LORD pronounced to Moses, his servant, at the time he led our ancestors out of the land of Egypt to give us a land flowing with milk and honey. ^baruch-01-20
 
-21 For we did not listen to the voice of the L ORD, our God, in all the words of the prophets he sent us, ^baruch-01-21
+21 For we did not listen to the voice of the LORD, our God, in all the words of the prophets he sent us, ^baruch-01-21
 
-22 but each of us has followed the inclinations of our wicked hearts, served other gods, and done evil in the sight of the L ORD, our God. ^baruch-01-22
+22 but each of us has followed the inclinations of our wicked hearts, served other gods, and done evil in the sight of the LORD, our God. ^baruch-01-22
 
 \* \[[1:2]\] In the fifth year, on the seventh day of the month: Jerusalem fell on the seventh day of the fifth month in 587 B.C.; cf. [2 Kgs 25:8]; [Jer 52:12]. Either the text read originally “the fifth month,” or it refers to the observance of an anniversary of the fall of Jerusalem.
 

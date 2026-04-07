@@ -1,29 +1,28 @@
 ---
-title: Tobit, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Tobit, Chapter 3
+title: Tobit, Chapter 3
+url: https://bible.usccb.org/bible/tobit/3
 aliases:
   - tobit-03
   - Tobit, Chapter 3
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/tobit
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/tobit/3
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Tobit, Chapter 3
 ---
 
 # Tobit, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 Then sad at heart, I groaned and wept aloud. With sobs I began to pray: ^tobit-03-1
 
-#### Tobit’s Prayer for Death
+### Tobit’s Prayer for Death
 
 2 “You are righteous, Lord, ^tobit-03-2
 
@@ -87,7 +86,7 @@ than to endure so much misery in life,
 
 and to listen to such reproaches!”
 
-## Ii. SARAH’S Plight
+# Ii. SARAH’S Plight
 
 **Sarah Falsely Accused.**
 
@@ -101,7 +100,7 @@ and to listen to such reproaches!”
 
 11 At that same time, with hands outstretched toward the window, she implored favor: ^tobit-03-11
 
-#### Sarah’s Prayer for Death
+## Sarah’s Prayer for Death
 
 “Blessed are you, merciful God!
 

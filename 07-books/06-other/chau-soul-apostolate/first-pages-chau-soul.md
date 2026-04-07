@@ -1,12 +1,15 @@
 ---
-title: The Soul of the Apostolate (First Pages)
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: false
+title: The Soul of the Apostolate (First Pages)
+author: Dom Chautard
 aliases:
   - The Soul of the Apostolate (First Pages)
-author: Dom Chautard
+tags:
+  - author/chautard-dom
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: false
 ---
 
 # The Soul of the Apostolate (First Pages)

@@ -1,20 +1,19 @@
 ---
-title: Psalm 58
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 58
+title: Psalm 58
+url: https://bible.usccb.org/bible/psalms/58
 aliases:
   - Psalm 58
   - psalm-58
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/58
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 58
 ---
 
 # Psalm 58

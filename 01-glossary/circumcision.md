@@ -1,15 +1,16 @@
 ---
-title: Circumcision
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: circumcision. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Circumcision
 aliases:
   - circumcision
   - Circumcision
 tags:
   - term/circumcision
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: circumcision. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Circumcision

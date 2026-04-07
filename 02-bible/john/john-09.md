@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 9
+title: John, Chapter 9
+url: https://bible.usccb.org/bible/john/9
 aliases:
   - john-09
   - John, Chapter 9
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/9
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 9
 ---
 
 # John, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **The Man Born Blind.**
 

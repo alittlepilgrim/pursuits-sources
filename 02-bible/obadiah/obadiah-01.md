@@ -1,32 +1,31 @@
 ---
-title: Obadiah, The Book of Obadiah
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Obadiah, the Book of Obadiah
+title: Obadiah, The Book of Obadiah
+url: https://bible.usccb.org/bible/obadiah/0
 aliases:
   - obadiah-01
   - Obadiah, the Book of Obadiah
   - Obadiah, The Book of Obadiah
 tags:
+  - bible/chapter
   - bible/obadiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/obadiah/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Obadiah, the Book of Obadiah
 ---
 
 # Obadiah, the Book of Obadiah
 
-#### Edom’s Fall Decreed
+## Edom’s Fall Decreed
 
 1 The vision of Obadiah. ^obadiah-01-1
 
 Thus says the Lord G OD concerning Edom:
 
-We have heard a message from the L ORD,
+We have heard a message from the LORD,
 
 and a herald has been sent among the nations:
 
@@ -52,7 +51,7 @@ and your nest is set among the stars,
 
 From there I will bring you down—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 5 If thieves came to you, robbers by night ^obadiah-01-5
 
@@ -82,9 +81,9 @@ will replace you with foreigners,
 
 who have no understanding.
 
-#### Edom’s Betrayal of Judah
+## Edom’s Betrayal of Judah
 
-8 On that day—oracle of the L ORD —will I not ^obadiah-01-8
+8 On that day—oracle of the LORD —will I not ^obadiah-01-8
 
 make the wise disappear from Edom,
 
@@ -142,9 +141,9 @@ Do not hand over his fugitives
 
 on the day of distress!
 
-#### Edom’s Fall and Judah’s Restoration
+## Edom’s Fall and Judah’s Restoration
 
-15 Near is the day of the L ORD ^obadiah-01-15
+15 Near is the day of the LORD ^obadiah-01-15
 
 against all the nations!
 
@@ -178,13 +177,13 @@ They will set it ablaze and devour it;
 
 none will survive of the house of Esau,
 
-for the L ORD has spoken.
+for the LORD has spoken.
 
 19 They will take possession of the Negeb, Mount Esau, the Shephelah, and Philistia, possess the countryside of Ephraim, the countryside of Samaria, Benjamin, and Gilead. ^obadiah-01-19
 
 20 The exiles of this Israelite army will possess the Canaanite land as far as Zarephath, and the exiles of Jerusalem who are in Sepharad will possess the cities of the Negeb. ^obadiah-01-20
 
-21 And deliverers will ascend Mount Zion to rule Mount Esau, and the kingship shall be the L ORD’s. ^obadiah-01-21
+21 And deliverers will ascend Mount Zion to rule Mount Esau, and the kingship shall be the LORD’s. ^obadiah-01-21
 
 \* (3) Edom occupied the mountains southeast of Israel and the Dead Sea.
 

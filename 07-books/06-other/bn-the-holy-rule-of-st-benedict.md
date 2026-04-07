@@ -1,34 +1,24 @@
 ---
-title: The Holy Rule of St. Benedict
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: "Foundational guide for Western monastic life: practical directives on prayer, work, obedience, humility, and governance; English translation of the 1949 edition."
+title: The Holy Rule of St. Benedict
+author: Saint Benedict of Nursia
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/b/benedict/rule/cache/rule.txt
 aliases:
-  - 20250912-012317
   - bn-the-holy-rule-of-st-benedict
   - The Holy Rule of St. Benedict
 tags:
-  - book
-  - subject/benedictine
-  - subject/rule
-  - subject/spiritual-classics
-  - term/monasticism
   - type/book
-author: Saint Benedict of Nursia
-collection: Monastic Classics
-dates: c. 480–547
-edition: 1949 English translation; Public Domain (CCEL)
-link: https://ccel.org/ccel/b/benedict/rule/cache/rule.txt
-source: Christian Classics Ethereal Library (CCEL)
-status: in-progress
-translator: Rev. Boniface Verheyen, OSB (1844–1923)
+created: 2025-09-12
+modified: 2026-04-06
+publish: true
+permalink: /bn-the-holy-rule-of-st-benedict
+description: "Foundational guide for Western monastic life: practical directives on prayer, work, obedience, humility, and governance; English translation of the 1949 edition."
 ---
 
 # The Holy Rule of St. Benedict
 
-Source: 
+Source: [The Holy Rule Of St. Benedict](https://ccel.org/ccel/b/benedict/rule/cache/rule.txt)
 
 ## Prologue
 
@@ -654,6 +644,6 @@ Thou, therefore, who hastenest to the heavenly home, with the help of Christ ful
 
 # Indexes
 
-### Index of Scripture References
+## Index of Scripture References
 
 Genesis [1]28:12 [2]33:13 1 Samuel [3]2:11-4:18 [4]3 Psalms [5]2:11 [6]7:10 [7]13:1 [8]13:2 [9]13:3 [10]14:1 [11]14:2-3 [12]14:4 [13]14:4 [14]17 [15]17:45 [16]21:7 [17]26:14 [18]31:5 [19]33:10 [20]33:12 [21]33:13 [22]33:14-15 [23]35:2 [24]36:5 [25]37 [26]37 [27]38:2-3 [28]39:11 [29]43:22 [30]46:8 [31]47:10 [32]49:16-17 [33]49:21 [34]50:17 [35]50:17 [36]65:10-11 [37]65:12 [38]69:2 [39]69:2 [40]69:2 [41]72:22-23 [42]75:11 [43]85:17 [44]87:16 [45]93:11 [46]94:8 [47]105:1 [48]113:9 [49]117:1 [50]118 [51]118:62 [52]118:63 [53]118:71 [54]118:73 [55]118:116 [56]118:164 [57]118:164 [58]118:164 [59]130:1 [60]130:2 [61]136:9 [62]137:1 [63]138:3 [64]139 Proverbs [65]10:19 [66]10:19 [67]15:3 [68]15:3 [69]16:25 [70]18:21 [71]23:14 [72]27:21 [73]29:19 Isaiah [74]1:2 [75]42:3 [76]58:9 Ezekiel [77]20:27 [78]33:11 [79]34:3-4 Daniel [80]3:52 [81]13:44-62 Matthew [82]5:10 [83]5:39-41 [84]5:44 [85]6:10 [86]6:12 [87]6:13 [88]6:33 [89]7:3 [90]7:12 [91]7:14 [92]7:24-25 [93]9:12 [94]10:22 [95]13:52 [96]16:24 [97]18:6 [98]18:15-16 [99]19:18 [100]22:37-39 [101]23:3 [102]24:47 [103]25:35 [104]25:36 [105]25:36 [106]25:40 [107]26:25 Mark [108]10:19 [109]12:30-31 Luke [110]6:27 [111]6:31 [112]9:23 [113]10:16 [114]10:16 [115]10:27 [116]14:11 [117]15:5 [118]16:2 [119]18:13 [120]18:14 [121]18:20 [122]21:34 John [123]6:38 [124]6:38 [125]12:35 Acts [126]4:32 [127]4:35 [128]4:35 [129]5:1-11 Romans [130]2:4 [131]2:11 [132]8:15 [133]8:36 [134]8:37 [135]12:10 [136]12:10 [137]12:11 [138]13:9 [139]13:11 1 Corinthians [140]2:9 [141]4:12 [142]5:5 [143]5:13 [144]7:7 [145]7:15 [146]9:27 [147]9:27 [148]15:10 2 Corinthians [149]2:7 [150]2:8 [151]9:7 [152]10:17 [153]11:26 Galatians [154]3:28 [155]5:16 [156]6:10 Ephesians [157]4:27 [158]4:27 [159]4:27 [160]6:8 Philippians [161]2:8 1 Thessalonians [162]1:6 [163]2:12 [164]5:15 1 Timothy [165]3:3 [166]3:13 [167]5:14 [168]5:14 [169]5:14 [170]5:20 2 Timothy [171]4:2 Titus [172]1:7 James [173]2:13 1 Peter [174]3:9 [175]4:11 1 John [176]4:1 [177]4:18 Revelation [178]2:7 Tobit [179]4:16 [180]4:16 [181]4:16 Sirach [182]18:17 [183]18:30 [184]18:30 [185]19:2 [186]21:23 [187]32:24

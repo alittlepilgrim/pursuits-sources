@@ -1,25 +1,24 @@
 ---
-title: Acts of the Apostles, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Acts of the Apostles, Chapter 11
+title: Acts of the Apostles, Chapter 11
+url: https://bible.usccb.org/bible/acts/11
 aliases:
   - Acts of the Apostles, Chapter 11
   - acts-of-the-apostles-11
 tags:
   - bible/acts-of-the-apostles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/acts/11
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Acts of the Apostles, Chapter 11
 ---
 
 # Acts of the Apostles, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **The Baptism of the Gentiles Explained.**
 
@@ -85,7 +84,7 @@ url: https://bible.usccb.org/bible/acts/11
 
 30 This they did, sending it to the presbyters in care of Barnabas and Saul. ^acts-of-the-apostles-11-30
 
-\* \[[11:1] – [18]\] The Jewish Christians of Jerusalem were scandalized to learn of Peter’s sojourn in the house of the Gentile Cornelius. Nonetheless, they had to accept the divine directions given to both Peter and Cornelius. They concluded that the setting aside of the legal barriers between Jew and Gentile was an exceptional ordinance of God to indicate that the apostolic kerygma was also to be directed to the Gentiles. Only in [Acts 15] at the “Council” in Jerusalem does the evangelization of the Gentiles become the official position of the church leadership in Jerusalem.
+\* \[[11:1] – [18]\] The Jewish Christians of Jerusalem were scandalized to learn of Peter’s sojourn in the house of the Gentile Cornelius. Nonetheless, they had to accept the divine directions given to both Peter and Cornelius. They concluded that the setting aside of the legal barriers between Jew and Gentile was an exceptionaLORDinance of God to indicate that the apostolic kerygma was also to be directed to the Gentiles. Only in [Acts 15] at the “Council” in Jerusalem does the evangelization of the Gentiles become the official position of the church leadership in Jerusalem.
 
 \* \[[11:3]\] You entered…: alternatively, this could be punctuated as a question.
 

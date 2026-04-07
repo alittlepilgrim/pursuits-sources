@@ -1,25 +1,24 @@
 ---
-title: Luke, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: luke-chapter 11
+title: Luke, Chapter 11
+url: https://bible.usccb.org/bible/luke/11
 aliases:
   - luke-11
   - Luke, Chapter 11
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/11
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: luke-chapter 11
 ---
 
 # Luke, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **The Lord’s Prayer.**
 

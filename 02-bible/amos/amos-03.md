@@ -1,29 +1,28 @@
 ---
-title: Amos, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 3
+title: Amos, Chapter 3
+url: https://bible.usccb.org/bible/amos/3
 aliases:
   - amos-03
   - Amos, Chapter 3
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/3
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 3
 ---
 
 # Amos, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### First Summons
+### First Summons
 
-1 Hear this word, Israelites, that the L ORD speaks concerning you, ^amos-03-1
+1 Hear this word, Israelites, that the LORD speaks concerning you, ^amos-03-1
 
 concerning the whole family I brought up from the land of Egypt:
 
@@ -61,7 +60,7 @@ without the people becoming frightened?
 
 Does disaster befall a city
 
-unless the L ORD has caused it?
+unless the LORD has caused it?
 
 7 (Indeed, the Lord G OD does nothing without revealing his plan to his servants the prophets.) ^amos-03-7
 
@@ -85,7 +84,7 @@ the oppressions within its midst.”
 
 10 They do not know how to do what is right— ^amos-03-10
 
-oracle of the L ORD —
+oracle of the LORD —
 
 Storing up in their strongholds
 
@@ -99,7 +98,7 @@ tear down your fortresses,
 
 and pillage your strongholds.
 
-12 Thus says the L ORD: ^amos-03-12
+12 Thus says the LORD: ^amos-03-12
 
 As the shepherd rescues from the mouth of the lion
 
@@ -133,7 +132,7 @@ The houses of ivory shall lie in ruin,
 
 and their many rooms shall be no more—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 \* (3:2) You alone I have known: precisely because Israel enjoyed a special status among the nations of the world in the eyes of the Lord (but see [9:7]) it was called to a high degree of fidelity to God. Because Israel has failed in this expectation, it must experience God’s punishment.
 

@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2024 - Text 8 in the Arms of Jesus (Ms. C, 35v – 37r)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2024 - Text 8 in the Arms of Jesus (Ms. C, 35v – 37r)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2024 - Text 8 in the Arms of Jesus (Ms. C, 35v – 37r)
   - theresian-anniversaries-2024-text-08
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2024 - Text 8 in the Arms of Jesus (Ms. C, 35v – 37r)
@@ -36,7 +36,7 @@ All the saints have understood this, and more especially those who filled the wo
 
 Dear Mother, now I would like to tell you what I understand by the odour of the ointments of the Beloved. Since Jesus has reascended into heaven, I can follow Him only in the traces He has left; but how luminous these traces are! How perfumed! I have only to cast a glance in the Gospels and immediately I breathe in the perfumes of Jesus’ life, and I know on which side to run. I don’t hasten to the first place but to the last; rather than advance like the Pharisee, I repeat, filled with confidence, the publican’s humble prayer. Most of all I imitate the conduct of Magdalene; her astonishing or rather her loving audacity which charms the Heart of Jesus, also attracts my own. Yes, I feel it; even if I had on my conscience all the sins that can be committed, I would go, my heart broken with sorrow, and throw myself into Jesus’ arms, for I know how much He loves the prodigal child who returns to Him. It is not because God, in His anticipating Mercy, has preserved my soul from mortal sin that I go to Him with confidence and love.
 
-### Introduction to the Text
+## Introduction to the Text
 
 Now we are at the last page of Manuscript C, Therese is finally at the end of her strength, and will leave this manuscript unfinished.
 
@@ -58,7 +58,7 @@ She wrote a few more lines, but her weakness prevented her from finishing her ma
 
 ‘Has preserved my soul from mortal sin’ (Ms. C, 36v): Therese is referring here to the solemn declaration of Father Pichon (cf. Ms. A, 70r), but in order to reinforce her last message, which is that, even if she had committed ‘all the sins’ possible, she declares that she would nevertheless go to throw herself into the arms of Jesus.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -66,7 +66,7 @@ She wrote a few more lines, but her weakness prevented her from finishing her ma
 
 The purpose of this process is to allow Therese to speak to us herself, to question and encourage us, and to open us up to her clarifying and confirming our own personal and community path. The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. 2. 3. Concerning the Song of Songs, 1:4: what kind of prayer is Therese insisting on here, as she is coming to the end of her last manuscript?
 

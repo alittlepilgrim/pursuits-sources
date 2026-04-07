@@ -1,25 +1,24 @@
 ---
-title: Psalm 10
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 10
+title: Psalm 10
+url: https://bible.usccb.org/bible/psalms/10
 aliases:
   - Psalm 10
   - psalm-10
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/10
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 10
 ---
 
 # Psalm 10
 
-### I
+## I
 
 1 Why, LORD, do you stand afar ^psalm-10-1
 
@@ -29,7 +28,7 @@ and pay no heed in times of trouble?
 
 they trap them by their cunning schemes.
 
-### II
+## II
 
 3 The wicked even boast of their greed; ^psalm-10-3
 
@@ -73,7 +72,7 @@ they fall into the power of the wicked,
 
 shows no concern, never bothers to look.”
 
-### III
+## III
 
 12 Rise up, LORD! God, lift up your hand! ^psalm-10-12
 
@@ -99,7 +98,7 @@ make them account for their crimes;
 
 let none of them survive.
 
-### IV
+## IV
 
 16 The LORD is king forever; ^psalm-10-16
 

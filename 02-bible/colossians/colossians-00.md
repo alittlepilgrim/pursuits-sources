@@ -1,20 +1,20 @@
 ---
-title: Colossians, The Letter To The Colossians
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Colossians, the Letter to the Colossians
+title: Colossians, The Letter To The Colossians
+url: https://bible.usccb.org/bible/colossians/0
 aliases:
   - colossians-00
   - Colossians, the Letter to the Colossians
   - Colossians, The Letter To The Colossians
 tags:
+  - bible/book
   - bible/colossians
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/colossians/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Colossians, the Letter to the Colossians
 ---
 
 # Colossians, the Letter to the Colossians

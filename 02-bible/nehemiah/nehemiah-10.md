@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 10
+title: Nehemiah, Chapter 10
+url: https://bible.usccb.org/bible/nehemiah/10
 aliases:
   - nehemiah-10
   - Nehemiah, Chapter 10
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 10
 ---
 
 # Nehemiah, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Signatories to the Pact.**
 
@@ -83,7 +82,7 @@ url: https://bible.usccb.org/bible/nehemiah/10
 
 29 The rest of the people, priests, Levites, gatekeepers, singers, temple servants, and all others who have separated themselves from the local inhabitants in favor of the law of God, with their wives, their sons, their daughters, all who are of the age of discretion, ^nehemiah-10-29
 
-30 join their influential kindred, and with the sanction of a curse take this oath to follow the law of God given through Moses, the servant of God, and to observe carefully all the commandments of the L ORD, our Lord, his ordinances and his statutes. ^nehemiah-10-30
+30 join their influential kindred, and with the sanction of a curse take this oath to follow the law of God given through Moses, the servant of God, and to observe carefully all the commandments of the LORD, our Lord, his ordinances and his statutes. ^nehemiah-10-30
 
 31 We will not marry our daughters to the local inhabitants, and we will not accept their daughters for our sons. ^nehemiah-10-31
 
@@ -93,9 +92,9 @@ url: https://bible.usccb.org/bible/nehemiah/10
 
 34 for the showbread, the daily grain offering, the daily burnt offering, for the sabbaths, new moons, and festivals, for the holy offerings and sin offerings to make atonement for Israel, for every service of the house of our God. ^nehemiah-10-34
 
-35 We, priests, Levites, and people, have determined by lot concerning the procurement of wood: it is to be brought to the house of our God by each of our ancestral houses at stated times each year, to be burnt on the altar of the L ORD, our God, as the law prescribes. ^nehemiah-10-35
+35 We, priests, Levites, and people, have determined by lot concerning the procurement of wood: it is to be brought to the house of our God by each of our ancestral houses at stated times each year, to be burnt on the altar of the LORD, our God, as the law prescribes. ^nehemiah-10-35
 
-36 We have agreed to bring each year to the house of the L ORD the first fruits of our fields and of our fruit trees, of every kind; ^nehemiah-10-36
+36 We have agreed to bring each year to the house of the LORD the first fruits of our fields and of our fruit trees, of every kind; ^nehemiah-10-36
 
 37 also, as is prescribed in the law, to bring to the house of our God, to the priests who serve in the house of our God, the firstborn of our children and our animals, including the firstborn of our flocks and herds. ^nehemiah-10-37
 

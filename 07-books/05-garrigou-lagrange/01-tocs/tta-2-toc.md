@@ -1,14 +1,15 @@
 ---
-title: part2-toc
-created: 2026-03-23
-modified: 2026-04-02
-type: book
-publish: true
-aliases:
-  - Part II Contents
-  - part2-toc
+type: toc
+title: Part II TOC – The Purification of the Soul in Beginners – The Three Ages of the Interior Life
 author: Reginald Garrigou-Lagrange
-book_volume: "1"
+aliases:
+  - Part II TOC – The Purification of the Soul in Beginners
+tags:
+  - author/garrigou-lagrange
+  - type/book
+created: 2026-03-23
+modified: 2026-04-04
+publish: true
 ---
 
 > [!NOTE]
@@ -18,7 +19,7 @@ book_volume: "1"
 
 [[tta-1-toc|Previous]] | [[tta-3-toc|Next]]
 
-### Part II - the Purification of the Soul in Beginners
+# Part II – The Purification of the Soul in Beginners
 
 XVIII\. [[tta030#^tta030-bk1|THE SPIRITUAL AGE OF BEGINNERS]]\
 A. [[tta030#^tta030-bk2|Self-Knowledge and Knowledge of God]]\

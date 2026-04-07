@@ -1,25 +1,25 @@
 ---
-title: Proverbs, The Book of Proverbs
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: proverbs-the book of proverbs
+title: Proverbs, The Book of Proverbs
+url: https://bible.usccb.org/bible/proverbs/0
 aliases:
   - proverbs-00
   - Proverbs, the Book of Proverbs
   - Proverbs, The Book of Proverbs
 tags:
+  - bible/book
+  - bible/old-testament
   - bible/proverbs
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/proverbs/0
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: proverbs-the book of proverbs
 ---
 
 # Proverbs, the Book of Proverbs
 
-                               
+[Introduction](proverbs-00.md) [1](proverbs-01.md) [2](proverbs-02.md) [3](proverbs-03.md) [4](proverbs-04.md) [5](proverbs-05.md) [6](proverbs-06.md) [7](proverbs-07.md) [8](proverbs-08.md) [9](proverbs-09.md) [10](proverbs-10.md) [11](proverbs-11.md) [12](proverbs-12.md) [13](proverbs-13.md) [14](proverbs-14.md) [15](proverbs-15.md) [16](proverbs-16.md) [17](proverbs-17.md) [18](proverbs-18.md) [19](proverbs-19.md) [20](proverbs-20.md) [21](proverbs-21.md) [22](proverbs-22.md) [23](proverbs-23.md) [24](proverbs-24.md) [25](proverbs-25.md) [26](proverbs-26.md) [27](proverbs-27.md) [28](proverbs-28.md) [29](proverbs-29.md) [30](proverbs-30.md) [31](proverbs-31.md)
 
 ## The Book of Proverbs
 

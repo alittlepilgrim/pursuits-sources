@@ -1,20 +1,20 @@
 ---
-title: Lumen Gentium
-created: 2025-08-04
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Lumen Gentium
+title: Lumen Gentium
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
   - constitutions
   - Lumen Gentium
   - lumen-gentium-01
 tags:
+  - graph/bible-v2
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: Lumen Gentium
 abbreviation: lg
-author: Catholic Church
-url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 ---
 
 # Lumen Gentium

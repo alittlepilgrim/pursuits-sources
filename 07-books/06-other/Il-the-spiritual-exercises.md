@@ -1,21 +1,20 @@
 ---
-title: The Spiritual Exercises of St. Ignatius of Loyola
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: The foundational manual of prayer and discernment written by St. Ignatius of Loyola, guiding souls through four weeks of meditations and spiritual exercises.
+title: The Spiritual Exercises of St. Ignatius of Loyola
+author: Saint Ignatius of Loyola
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/i/ignatius/exercises/cache/exercises.txt
 aliases:
-  - 20250912-012207
   - il-the-spiritual-exercises
   - The Spiritual Exercises of St. Ignatius of Loyola
   - The Spiritual Exercises Of St. Ignatius Of Loyola
 tags:
-  - subject
-author: Saint Ignatius of Loyola
-published: 1548 (Latin Vulgate approval), 1914 (English translation by Elder Mullan, S.J.)
-source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/i/ignatius/exercises/cache/exercises.txt
+  - type/book
+created: 2025-09-12
+modified: 2026-04-06
+publish: true
+permalink: /the-spiritual-exercises-of-saint-ignatius-of-loyola
+description: The foundational manual of prayer and discernment written by St. Ignatius of Loyola, guiding souls through four weeks of meditations and spiritual exercises.
 ---
 
 # The Spiritual Exercises of St. Ignatius of Loyola
@@ -24,24 +23,24 @@ Source: [](https://ccel.org/ccel/i/ignatius/exercises/cache/exercises.txt)
 
 ## Table of Contents
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- [Approbation of the Latin Texts](#Approbation of the Latin Texts)
+- [Paul III, Pope for a Perpetual Remembrance](#Paul III, Pope for a Perpetual Remembrance)
+- [Preface](#Preface)
+- [Contents](#Contents)
+- [General Note](#General Note)
+- [Prayer](#Prayer)
+- [Spiritual Exercises](#Spiritual Exercises)
+- [Annotations](#Annotations)
+- [Presupposition](#Presupposition)
+- [First Week](#First Week)
+- [Second Week](#Second Week)
+- [Third Week](#Third Week)
+- [Fourth Week](#Fourth Week)
+- [Contemplation to Gain Love](#Contemplation to Gain Love)
+- [Three Methods of Prayer](#Three Methods of Prayer)
+- [The Mysteries of the Life of Christ Our Lord](#The Mysteries of the Life of Christ Our Lord)
+- [Rules](#Rules)
+- [General Index](#General Index)
 
 ## Publication Info
 
@@ -1588,10 +1587,10 @@ Abstinence, Constitutions about to be praised Adam, Sin of Addition, Second, in 
 
 # Indexes
 
-### Index of Scripture References
+## Index of Scripture References
 
 Matthew [1]26 [2]26 [3]26 [4]26 Mark [5]15 [6]15 [7]15 Luke [8]22 [9]23 [10]23 [11]24 [12]42 John [13]13 [14]19 [15]19 [16]19 [17]20 Acts [18]1
 
-### Index of Pages of the Print Edition
+## Index of Pages of the Print Edition
 
 [19]1 [20]2 [21]3 [22]4 [23]5 [24]6 [25]7 [26]8 [27]9 [28]10 [29]11 [30]12 [31]13 [32]14 [33]15 [34]16 [35]17 [36]18 [37]19 [38]20 [39]21 [40]22 [41]23 [42]24 [43]25 [44]26 [45]27 [46]28 [47]29 [48]30 [49]31 [50]32 [51]33 [52]34 [53]35 [54]36 [55]37 [56]38 [57]39

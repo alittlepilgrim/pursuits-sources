@@ -1,27 +1,26 @@
 ---
-title: Lamentations, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Lamentations, Chapter 3
+title: Lamentations, Chapter 3
+url: https://bible.usccb.org/bible/lamentations/3
 aliases:
   - lamentations-03
   - Lamentations, Chapter 3
 tags:
+  - bible/chapter
   - bible/lamentations
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/lamentations/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Lamentations, Chapter 3
 ---
 
 # Lamentations, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### The Voice of a Suffering Individual
+### The Voice of a Suffering Individual
 
 1 I am one who has known affliction ^lamentations-03-1
 
@@ -93,7 +92,7 @@ I have forgotten what happiness is;
 
 18 My enduring hope, I said, ^lamentations-03-18
 
-has perished before the L ORD.
+has perished before the LORD.
 
 19 The thought of my wretched homelessness ^lamentations-03-19
 
@@ -107,7 +106,7 @@ my soul is downcast.
 
 therefore I will hope:
 
-22 The L ORD’s acts of mercy are not exhausted, ^lamentations-03-22
+22 The LORD’s acts of mercy are not exhausted, ^lamentations-03-22
 
 his compassion is not spent;
 
@@ -115,17 +114,17 @@ his compassion is not spent;
 
 great is your faithfulness!
 
-24 The L ORD is my portion, I tell myself, ^lamentations-03-24
+24 The LORD is my portion, I tell myself, ^lamentations-03-24
 
 therefore I will hope in him.
 
-25 The L ORD is good to those who trust in him, ^lamentations-03-25
+25 The LORD is good to those who trust in him, ^lamentations-03-25
 
 to the one that seeks him;
 
 26 It is good to hope in silence ^lamentations-03-26
 
-for the L ORD’s deliverance.
+for the LORD’s deliverance.
 
 27 It is good for a person, when young, ^lamentations-03-27
 
@@ -181,7 +180,7 @@ about their sins!
 
 40 Let us search and examine our ways, ^lamentations-03-40
 
-and return to the L ORD!
+and return to the LORD!
 
 41 Let us lift up our hearts as well as our hands ^lamentations-03-41
 
@@ -219,7 +218,7 @@ of the daughter of my people.
 
 without rest,
 
-50 Until the L ORD from heaven ^lamentations-03-50
+50 Until the LORD from heaven ^lamentations-03-50
 
 looks down and sees.
 
@@ -239,7 +238,7 @@ pelting me with stones.
 
 and I said, “I am lost!”
 
-55 I have called upon your name, O L ORD, ^lamentations-03-55
+55 I have called upon your name, O LORD, ^lamentations-03-55
 
 from the bottom of the pit;
 
@@ -255,7 +254,7 @@ you said, “Do not fear!”
 
 you redeemed my life.
 
-59 You see, L ORD, how I am wronged; ^lamentations-03-59
+59 You see, LORD, how I am wronged; ^lamentations-03-59
 
 do me justice!
 
@@ -263,7 +262,7 @@ do me justice!
 
 all their plots against me.
 
-61 You hear their reproach, L ORD, ^lamentations-03-61
+61 You hear their reproach, LORD, ^lamentations-03-61
 
 all their plots against me,
 
@@ -275,7 +274,7 @@ against me all day long;
 
 I am the butt of their taunt.
 
-64 Give them what they deserve, L ORD, ^lamentations-03-64
+64 Give them what they deserve, LORD, ^lamentations-03-64
 
 according to their deeds;
 
@@ -285,7 +284,7 @@ your curse be upon them;
 
 66 Pursue them in wrath and destroy them ^lamentations-03-66
 
-from under the L ORD’s heaven!
+from under the LORD’s heaven!
 
 \* (3:1] – [66) This chapter is focused less on the destruction of Jerusalem than are chaps. [1] and [2] and more on the suffering of an individual. The identity of the individual is never given, and one probably should not search for a specific identification of the speaker. The figure of the representative sufferer makes concrete the pain of the people in a way similar to the personification of Zion as a woman in chaps. [1] and [2]. Indeed, in vv. [40] – [48] the individual voice gives way to a communal voice, returning in vv. [49] – [66] to the individual sufferer.
 

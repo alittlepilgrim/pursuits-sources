@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 21
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 21
+title: Sirach, Chapter 21
+url: https://bible.usccb.org/bible/sirach/21
 aliases:
   - sirach-21
   - Sirach, Chapter 21
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/21
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 21
 ---
 
 # Sirach, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
-#### Dangers from sin
+### Dangers from sin
 
 1 My child, if you have sinned, do so no more, ^sirach-21-1
 
@@ -67,7 +66,7 @@ they will end in a flaming fire.
 
 but its end is the pit of Sheol.
 
-#### The Wise and Foolish: a Contrast
+### The Wise and Foolish: a Contrast
 
 11 Those who keep the Law control their thoughts; ^sirach-21-11
 

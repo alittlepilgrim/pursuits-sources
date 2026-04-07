@@ -1,22 +1,23 @@
 ---
+type: figure
 title: Blessed Frances Damboise, Religious (1427-1485)
-created: 2025-07-31
-modified: 2026-04-02
-type: figure 
-publish: false
 aliases:
   - Blessed Frances Damboise, Religious (1427-1485)
 tags:
   - carmel/propers
   - carmel/saints
+  - type/figure
 celebration_day: 11-05
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Frances Damboise, Religious (1427-1485)
 
 Frances was born in 1427, in Thouars, France. She was the wife of Peter II, Duke of Brittany. After his death, and with the direction of Blessed John Soreth, the Carmelite Prior General at the time, she took the habit of the Carmelite Order in the monastery she had previously founded in Bondon. Afterwards she transferred to another foundation in Nantes, also erected by her, where she held the office of prioress and nourished the sisters with wise teaching. She is considered the foundress of the Carmelite nuns in France. She died in 1485, and with her last words she encouraged her sisters: “In everything, do that which will make God loved the more!”
 
--  via Universalis
+- [Carmelite Proper](https://www.carmelitaniscalzi.com/wp-content/uploads/2025/06/03.2025-Proper-Calendar-OCD-english-1.pdf) via Universalis
 
 ## From the Exhortations of Bl Frances D'amboise to Her Nuns
 

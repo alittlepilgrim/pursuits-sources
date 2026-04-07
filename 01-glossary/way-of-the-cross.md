@@ -1,15 +1,16 @@
 ---
-title: Way of the Cross
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Way of the Cross
 aliases:
   - Way of the Cross
   - way-of-the-cross
 tags:
   - catechism
   - term
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
 ---
 
 # Way of the Cross

@@ -1,12 +1,14 @@
 ---
-title: Contents
-created: 2025-10-26
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Contents
+author: Secular Order of Discalced Carmelites
 aliases:
   - Contents
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-10-26
+modified: 2026-04-06
+publish: false
 ---
 
 # Contents

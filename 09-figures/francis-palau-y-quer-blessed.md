@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Francis Palau Y Quer
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Blessed Francis Palau y Quer
@@ -12,8 +9,11 @@ aliases:
 tags:
   - role/blessed
   - term/priest
-celebration: "11-07"
-full_name: "Blessed Francis Palau y Quer"
+  - type/figure
+celebration: 11-07
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Francis Palau y Quer

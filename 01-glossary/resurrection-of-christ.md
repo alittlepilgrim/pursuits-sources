@@ -1,15 +1,17 @@
 ---
-title: Resurrection of Christ
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: resurrection-of-christ. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Resurrection of Christ
+author:
 aliases:
   - Resurrection of Christ
   - resurrection-of-christ
 tags:
   - term/resurrection-of-christ
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: resurrection-of-christ. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Resurrection of Christ

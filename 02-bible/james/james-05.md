@@ -1,25 +1,25 @@
 ---
-title: James, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: James, Chapter 5
+title: James, Chapter 5
+url: https://bible.usccb.org/bible/james/5
 aliases:
   - james-05
   - James, Chapter 5
 tags:
+  - bible/chapter
   - bible/james
-  - vault-admin/bible-ccc
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: James, Chapter 5
 attachment: true
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/james/5
 ---
 
 # James, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Warning to the Rich.**
 
@@ -49,7 +49,7 @@ url: https://bible.usccb.org/bible/james/5
 
 12 But above all, my brothers, do not swear, either by heaven or by earth or with any other oath, but let your “Yes” mean “Yes” and your “No” mean “No,” that you may not incur condemnation. ^james-05-12
 
-## Iv. the Power of Prayer
+# Iv. the Power of Prayer
 
 **[[anointing-of-the-sick|Anointing of the Sick]].**
 

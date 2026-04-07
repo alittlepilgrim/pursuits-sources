@@ -1,38 +1,36 @@
 ---
-title: Joshua, Chapter 22
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 22
+title: Joshua, Chapter 22
+url: https://bible.usccb.org/bible/joshua/22
 aliases:
   - joshua-22
   - Joshua, Chapter 22
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/22
-testament: old
-url: https://bible.usccb.org/bible/joshua/22
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 22
 ---
 
 # Joshua, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 **The Eastern Tribes Dismissed.**
 
 1 At that time Joshua summoned the Reubenites, the Gadites, and the half-tribe of Manasseh ^joshua-22-1
 
-2 and said to them: “You have observed all that Moses, the servant of the L ORD, commanded you, and have listened to my voice in everything I commanded you. ^joshua-22-2
+2 and said to them: “You have observed all that Moses, the servant of the LORD, commanded you, and have listened to my voice in everything I commanded you. ^joshua-22-2
 
-3 For many years now, even until today, you have not abandoned your allies, but have taken care to observe the commands of the L ORD, your God. ^joshua-22-3
+3 For many years now, even until today, you have not abandoned your allies, but have taken care to observe the commands of the LORD, your God. ^joshua-22-3
 
-4 Now that the L ORD, your God, has settled your allies as he promised them, you may return to your tents, to your own land, which Moses, the servant of the L ORD, gave you, across the Jordan. ^joshua-22-4
+4 Now that the LORD, your God, has settled your allies as he promised them, you may return to your tents, to your own land, which Moses, the servant of the LORD, gave you, across the Jordan. ^joshua-22-4
 
-5 But be very careful to observe the commandment and the law which Moses, the servant of the L ORD, commanded you: love the L ORD, your God, follow him in all his ways, keep his commandments, hold fast to him, and serve him with your whole heart and your whole self.” ^joshua-22-5
+5 But be very careful to observe the commandment and the law which Moses, the servant of the LORD, commanded you: love the LORD, your God, follow him in all his ways, keep his commandments, hold fast to him, and serve him with your whole heart and your whole self.” ^joshua-22-5
 
 6 Joshua then blessed them and sent them away, and they went to their tents. ^joshua-22-6
 
@@ -40,7 +38,7 @@ url: https://bible.usccb.org/bible/joshua/22
 
 8 he said, “Now that you are returning to your own tents with great wealth, with abundant livestock, with silver, gold, bronze and iron, and with a very large supply of clothing, divide these spoils of your enemies with your allies there.” ^joshua-22-8
 
-9 So the Reubenites, the Gadites, and the half-tribe of Manasseh left the other Israelites at Shiloh in the land of Canaan and returned to the land of Gilead, their own land, which they had received according to the L ORD’s command through Moses. ^joshua-22-9
+9 So the Reubenites, the Gadites, and the half-tribe of Manasseh left the other Israelites at Shiloh in the land of Canaan and returned to the land of Gilead, their own land, which they had received according to the LORD’s command through Moses. ^joshua-22-9
 
 **The Altar Beside the Jordan.**
 
@@ -58,11 +56,11 @@ url: https://bible.usccb.org/bible/joshua/22
 
 15 When these came to the Reubenites, the Gadites, and the half-tribe of Manasseh in the land of Gilead, they said to them: ^joshua-22-15
 
-16 “Thus says the whole community of the L ORD: What act of treachery is this you have committed against the God of Israel? This day you have turned from following the L ORD; by building an altar of your own you have rebelled against the L ORD this day. ^joshua-22-16
+16 “Thus says the whole community of the LORD: What act of treachery is this you have committed against the God of Israel? This day you have turned from following the LORD; by building an altar of your own you have rebelled against the LORD this day. ^joshua-22-16
 
-17 Is the iniquity of Peor not enough, by which we made ourselves impure, even to this day, and a plague came upon the community of the L ORD? ^joshua-22-17
+17 Is the iniquity of Peor not enough, by which we made ourselves impure, even to this day, and a plague came upon the community of the LORD? ^joshua-22-17
 
-18 If today you turn away from following the L ORD, and rebel against the L ORD, tomorrow he will be angry with the whole community of Israel! ^joshua-22-18
+18 If today you turn away from following the LORD, and rebel against the LORD, tomorrow he will be angry with the whole community of Israel! ^joshua-22-18
 
 20 When Achan, son of Zerah, acted treacherously by violating the ban, was it not upon the entire community of Israel that wrath fell? Though he was but a single man, he did not perish alone for his guilt!” ^joshua-22-20
 
@@ -70,27 +68,27 @@ url: https://bible.usccb.org/bible/joshua/22
 
 21 The Reubenites, the Gadites, and the half-tribe of Manasseh replied to the heads of the Israelite clans: ^joshua-22-21
 
-22 “The L ORD is the God of gods. The L ORD, the God of gods, knows and Israel shall know. If now we have acted out of rebellion or treachery against the L ORD, our God, do not try to save us this day, ^joshua-22-22
+22 “The LORD is the God of gods. The LORD, the God of gods, knows and Israel shall know. If now we have acted out of rebellion or treachery against the LORD, our God, do not try to save us this day, ^joshua-22-22
 
-23 and if we have built an altar of our own to turn from following the L ORD, or to sacrifice burnt offerings, grain offerings, or communion sacrifices upon it, the L ORD himself will exact the penalty. ^joshua-22-23
+23 and if we have built an altar of our own to turn from following the LORD, or to sacrifice burnt offerings, grain offerings, or communion sacrifices upon it, the LORD himself will exact the penalty. ^joshua-22-23
 
-24 We did it rather out of our anxious concern lest in the future your children should say to our children: ‘What have you to do with the L ORD, the God of Israel? ^joshua-22-24
+24 We did it rather out of our anxious concern lest in the future your children should say to our children: ‘What have you to do with the LORD, the God of Israel? ^joshua-22-24
 
 26 So we thought, ‘Let us act for ourselves by building this altar of our own’—not for burnt offerings or sacrifice, ^joshua-22-26
 
-28 Our thought was that, if in the future they should speak thus to us or to our descendants, we could answer: ‘Look at the copy of the altar of the L ORD which our ancestors made, not for burnt offerings or for sacrifices, but to witness between you and us.’ ^joshua-22-28
+28 Our thought was that, if in the future they should speak thus to us or to our descendants, we could answer: ‘Look at the copy of the altar of the LORD which our ancestors made, not for burnt offerings or for sacrifices, but to witness between you and us.’ ^joshua-22-28
 
-29 Far be it from us to rebel against the L ORD or to turn now from following the L ORD by building an altar for burnt offering, grain offering, or sacrifice in addition to the altar of the L ORD, our God, which stands before his tabernacle.” ^joshua-22-29
+29 Far be it from us to rebel against the LORD or to turn now from following the LORD by building an altar for burnt offering, grain offering, or sacrifice in addition to the altar of the LORD, our God, which stands before his tabernacle.” ^joshua-22-29
 
 30 When Phinehas the priest and the leaders of the community, the heads of the Israelite clans, heard what the Reubenites, the Gadites, and the Manassites had to say, they were satisfied. ^joshua-22-30
 
-31 Phinehas, son of Eleazar the priest, said to the Reubenites, the Gadites, and the Manassites, “Today we know that the L ORD is in our midst. Since you have not rebelled against the L ORD by this act of treachery, you have delivered the Israelites from the hand of the L ORD.” ^joshua-22-31
+31 Phinehas, son of Eleazar the priest, said to the Reubenites, the Gadites, and the Manassites, “Today we know that the LORD is in our midst. Since you have not rebelled against the LORD by this act of treachery, you have delivered the Israelites from the hand of the LORD.” ^joshua-22-31
 
 32 Phinehas, son of Eleazar the priest, and the leaders returned from the Reubenites and the Gadites in the land of Gilead to the Israelites in the land of Canaan, and reported the matter to them. ^joshua-22-32
 
 33 The report satisfied the Israelites, who blessed God and decided not to take military action against the Reubenites and Gadites nor to ravage the land where they lived. ^joshua-22-33
 
-34 The Reubenites and the Gadites gave the altar its name as a witness among them that the L ORD is God. ^joshua-22-34
+34 The Reubenites and the Gadites gave the altar its name as a witness among them that the LORD is God. ^joshua-22-34
 
 \* (22:11) In the region of the Jordan facing the land of Canaan: on the eastern side of the Jordan valley. The river itself formed the boundary between these eastern tribes and the rest of the tribes who lived in what was formerly Canaan—though the term “Canaan” could also be used of both sides of the Jordan valley (cf. v. [10]). The Transjordan tribes naturally built their altar in their own territory.
 
@@ -100,7 +98,7 @@ url: https://bible.usccb.org/bible/joshua/22
 
 \* (22:20) Achan…did not perish alone: his guilt caused the failure of the first attack on Ai ([7:4] – [23]); this fact is adduced as an argument for the solidarity and mutual responsibility of all the Israelites.
 
-\* (22:22) The L ORD, the God of gods: the Hebrew, which cannot be adequately rendered in English here, adds to the divine name Yhwh (“the L ORD”) two synonymous words for “God,” *’el* and *’elohim*. The repetition of these three sacred words adds force to the protestations of fidelity and innocence.
+\* (22:22) The LORD, the God of gods: the Hebrew, which cannot be adequately rendered in English here, adds to the divine name Yhwh (“the LORD”) two synonymous words for “God,” *’el* and *’elohim*. The repetition of these three sacred words adds force to the protestations of fidelity and innocence.
 
 \* (22:28) To witness: far from being destined to form a rival sanctuary, the copy of the altar is intended by the eastern tribes solely as a means of teaching their children to be faithful to the one true sanctuary beyond the Jordan.
 

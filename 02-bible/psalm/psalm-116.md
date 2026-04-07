@@ -1,18 +1,17 @@
 ---
-title: Psalm 116
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 116
+title: Psalm 116
+url: https://bible.usccb.org/bible/psalms/116
 aliases:
   - Psalm 116
   - psalm-116
 tags:
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/116
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 116
 ---
 
 # Psalm 116

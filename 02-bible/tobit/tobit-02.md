@@ -1,25 +1,24 @@
 ---
-title: Tobit, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Tobit, Chapter 2
+title: Tobit, Chapter 2
+url: https://bible.usccb.org/bible/tobit/2
 aliases:
   - tobit-02
   - Tobit, Chapter 2
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/tobit
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/tobit/2
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Tobit, Chapter 2
 ---
 
 # Tobit, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 Thus under King Esarhaddon I returned to my home, and my wife Anna and my son Tobiah were restored to me. Then on our festival of Pentecost, the holy feast of Weeks, a fine dinner was prepared for me, and I reclined to eat. ^tobit-02-1
 

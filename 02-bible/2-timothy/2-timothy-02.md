@@ -1,25 +1,24 @@
 ---
-title: 2 Timothy, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Timothy, Chapter 2
+title: 2 Timothy, Chapter 2
+url: https://bible.usccb.org/bible/2timothy/2
 aliases:
   - 2 Timothy, Chapter 2
   - 2-timothy-02
 tags:
   - bible/2-timothy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2timothy/2
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Timothy, Chapter 2
 ---
 
 # 2 Timothy, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Timothy’s Conduct.**
 
@@ -59,7 +58,7 @@ he remains faithful,
 
 for he cannot deny himself.
 
-## Iii. Instructions Concerning False Teaching
+# Iii. Instructions Concerning False Teaching
 
 **Warning against Useless Disputes.**
 

@@ -1,10 +1,6 @@
 ---
-title: Adultery
-created: 2025-07-20
-modified: 2026-03-19
 type: glossary
-publish: true
-description: adultery. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Adultery
 aliases:
   - 20250720-212722
   - adultery
@@ -12,6 +8,11 @@ aliases:
 tags:
   - catechism
   - term/adultery
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: adultery. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Adultery

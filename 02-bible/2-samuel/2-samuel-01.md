@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 1
+title: 2 Samuel, Chapter 1
+url: https://bible.usccb.org/bible/2samuel/1
 aliases:
   - 2 Samuel, Chapter 1
   - 2-samuel-01
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 1
 ---
 
 # 2 Samuel, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Report of Saul’s Death.**
 
@@ -45,15 +44,15 @@ url: https://bible.usccb.org/bible/2samuel/1
 
 11 David seized his garments and tore them, and so did all the men who were with him. ^2-samuel-01-11
 
-12 They mourned and wept and fasted until evening for Saul and his son Jonathan, and for the people of the L ORD and the house of Israel, because they had fallen by the sword. ^2-samuel-01-12
+12 They mourned and wept and fasted until evening for Saul and his son Jonathan, and for the people of the LORD and the house of Israel, because they had fallen by the sword. ^2-samuel-01-12
 
 13 David said to the youth who had reported to him, “Where are you from?” He replied, “I am the son of a resident alien, an Amalekite.” ^2-samuel-01-13
 
-14 David said to him, “How is it that you were not afraid to put forth your hand to desecrate the L ORD’s anointed?” ^2-samuel-01-14
+14 David said to him, “How is it that you were not afraid to put forth your hand to desecrate the LORD’s anointed?” ^2-samuel-01-14
 
 15 David then called one of the attendants and said to him, “Come, strike him down”; so he struck him and he died. ^2-samuel-01-15
 
-16 David said to him, “Your blood is on your head, for you testified against yourself when you said, ‘I put the L ORD’s anointed to death.’” ^2-samuel-01-16
+16 David said to him, “Your blood is on your head, for you testified against yourself when you said, ‘I put the LORD’s anointed to death.’” ^2-samuel-01-16
 
 **Lament for Saul and Jonathan.**
 

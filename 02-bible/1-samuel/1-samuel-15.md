@@ -1,31 +1,30 @@
 ---
-title: 1 Samuel, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 15
+title: 1 Samuel, Chapter 15
+url: https://bible.usccb.org/bible/1samuel/15
 aliases:
   - 1 Samuel, Chapter 15
   - 1-samuel-15
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/15
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 15
 ---
 
 # 1 Samuel, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Disobedience of Saul.**
 
-1 Samuel said to Saul: “It was I the L ORD sent to anoint you king over his people Israel. Now, therefore, listen to the message of the L ORD. ^1-samuel-15-1
+1 Samuel said to Saul: “It was I the LORD sent to anoint you king over his people Israel. Now, therefore, listen to the message of the LORD. ^1-samuel-15-1
 
-2 Thus says the L ORD of hosts: I will punish what Amalek did to the Israelites when he barred their way as they came up from Egypt. ^1-samuel-15-2
+2 Thus says the LORD of hosts: I will punish what Amalek did to the Israelites when he barred their way as they came up from Egypt. ^1-samuel-15-2
 
 3 Go, now, attack Amalek, and put under the ban everything he has. Do not spare him; kill men and women, children and infants, oxen and sheep, camels and donkeys.” ^1-samuel-15-3
 
@@ -43,35 +42,35 @@ url: https://bible.usccb.org/bible/1samuel/15
 
 **Samuel Rebukes Saul.**
 
-10 Then the word of the L ORD came to Samuel: ^1-samuel-15-10
+10 Then the word of the LORD came to Samuel: ^1-samuel-15-10
 
-11 I regret having made Saul king, for he has turned from me and has not kept my command. At this Samuel grew angry and cried out to the L ORD all night. ^1-samuel-15-11
+11 I regret having made Saul king, for he has turned from me and has not kept my command. At this Samuel grew angry and cried out to the LORD all night. ^1-samuel-15-11
 
 12 Early in the morning he went to meet Saul, but was informed that Saul had gone to Carmel, where he set up a monument in his own honor, and that on his return he had gone down to Gilgal. ^1-samuel-15-12
 
-13 When Samuel came to him, Saul greeted him: “The L ORD bless you! I have kept the command of the L ORD.” ^1-samuel-15-13
+13 When Samuel came to him, Saul greeted him: “The LORD bless you! I have kept the command of the LORD.” ^1-samuel-15-13
 
 14 But Samuel asked, “What, then, is this bleating of sheep that comes to my ears, the lowing of oxen that I hear?” ^1-samuel-15-14
 
-15 Saul replied: “They were brought from Amalek. The people spared the best sheep and oxen to sacrifice to the L ORD, your God; but the rest we destroyed, putting them under the ban.” ^1-samuel-15-15
+15 Saul replied: “They were brought from Amalek. The people spared the best sheep and oxen to sacrifice to the LORD, your God; but the rest we destroyed, putting them under the ban.” ^1-samuel-15-15
 
-16 Samuel said to Saul: “Stop! Let me tell you what the L ORD said to me last night.” “Speak!” he replied. ^1-samuel-15-16
+16 Samuel said to Saul: “Stop! Let me tell you what the LORD said to me last night.” “Speak!” he replied. ^1-samuel-15-16
 
-17 Samuel then said: “Though little in your own eyes, are you not chief of the tribes of Israel? The L ORD anointed you king of Israel ^1-samuel-15-17
+17 Samuel then said: “Though little in your own eyes, are you not chief of the tribes of Israel? The LORD anointed you king of Israel ^1-samuel-15-17
 
 18 and sent you on a mission, saying: Go and put the sinful Amalekites under a ban of destruction. Fight against them until you have exterminated them. ^1-samuel-15-18
 
-19 Why then have you disobeyed the L ORD? You have pounced on the spoil, thus doing what was evil in the L ORD’s sight.” ^1-samuel-15-19
+19 Why then have you disobeyed the LORD? You have pounced on the spoil, thus doing what was evil in the LORD’s sight.” ^1-samuel-15-19
 
-20 Saul explained to Samuel: “I did indeed obey the L ORD and fulfill the mission on which the L ORD sent me. I have brought back Agag, the king of Amalek, and, carrying out the ban, I have destroyed the Amalekites. ^1-samuel-15-20
+20 Saul explained to Samuel: “I did indeed obey the LORD and fulfill the mission on which the LORD sent me. I have brought back Agag, the king of Amalek, and, carrying out the ban, I have destroyed the Amalekites. ^1-samuel-15-20
 
-21 But from the spoil the army took sheep and oxen, the best of what had been banned, to sacrifice to the L ORD your God in Gilgal.” ^1-samuel-15-21
+21 But from the spoil the army took sheep and oxen, the best of what had been banned, to sacrifice to the LORD your God in Gilgal.” ^1-samuel-15-21
 
 22 But Samuel said: ^1-samuel-15-22
 
-“Does the L ORD delight in burnt offerings and sacrifices
+“Does the LORD delight in burnt offerings and sacrifices
 
-as much as in obedience to the L ORD’s command?
+as much as in obedience to the LORD’s command?
 
 Obedience is better than sacrifice,
 
@@ -81,27 +80,27 @@ to listen, better than the fat of rams.
 
 and arrogance, the crime of idolatry.
 
-Because you have rejected the word of the L ORD,
+Because you have rejected the word of the LORD,
 
-the L ORD in turn has rejected you as king.”
+the LORD in turn has rejected you as king.”
 
 **Rejection of Saul.**
 
-24 Saul admitted to Samuel: “I have sinned, for I have transgressed the command of the L ORD and your instructions. I feared the people and obeyed them. ^1-samuel-15-24
+24 Saul admitted to Samuel: “I have sinned, for I have transgressed the command of the LORD and your instructions. I feared the people and obeyed them. ^1-samuel-15-24
 
-25 Now forgive my sin, and return with me, that I may worship the L ORD.” ^1-samuel-15-25
+25 Now forgive my sin, and return with me, that I may worship the LORD.” ^1-samuel-15-25
 
-26 But Samuel said to Saul, “I will not return with you, because you rejected the word of the L ORD and the L ORD has rejected you as king of Israel.” ^1-samuel-15-26
+26 But Samuel said to Saul, “I will not return with you, because you rejected the word of the LORD and the LORD has rejected you as king of Israel.” ^1-samuel-15-26
 
 27 As Samuel turned to go, Saul seized a loose end of his garment, and it tore off. ^1-samuel-15-27
 
-28 So Samuel said to him: “The L ORD has torn the kingdom of Israel from you this day, and has given it to a neighbor of yours, who is better than you. ^1-samuel-15-28
+28 So Samuel said to him: “The LORD has torn the kingdom of Israel from you this day, and has given it to a neighbor of yours, who is better than you. ^1-samuel-15-28
 
 29 The Glory of Israel neither deceives nor repents, for he is not a mortal who repents.” ^1-samuel-15-29
 
-30 But Saul answered: “I have sinned, yet honor me now before the elders of my people and before Israel. Return with me that I may worship the L ORD your God.” ^1-samuel-15-30
+30 But Saul answered: “I have sinned, yet honor me now before the elders of my people and before Israel. Return with me that I may worship the LORD your God.” ^1-samuel-15-30
 
-31 And so Samuel returned with him, and Saul worshiped the L ORD. ^1-samuel-15-31
+31 And so Samuel returned with him, and Saul worshiped the LORD. ^1-samuel-15-31
 
 **Samuel Executes Agag.**
 
@@ -113,11 +112,11 @@ the L ORD in turn has rejected you as king.”
 
 so shall your mother be childless among women.”
 
-Then he cut Agag to pieces before the L ORD in Gilgal.
+Then he cut Agag to pieces before the LORD in Gilgal.
 
 34 Samuel departed for Ramah, while Saul went up to his home in Gibeah of Saul. ^1-samuel-15-34
 
-35 Never again, as long as he lived, did Samuel see Saul. Yet he grieved over Saul, because the L ORD repented that he had made him king of Israel. ^1-samuel-15-35
+35 Never again, as long as he lived, did Samuel see Saul. Yet he grieved over Saul, because the LORD repented that he had made him king of Israel. ^1-samuel-15-35
 
 \* (15:1] – [35) The rejection of Saul sets the stage for the remainder of 1 Samuel. The audience knows that, in the ensuing struggle between David and Saul, David will triumph as king.
 

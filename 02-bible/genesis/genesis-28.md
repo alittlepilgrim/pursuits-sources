@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 28
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 28
+title: Genesis, Chapter 28
+url: https://bible.usccb.org/bible/genesis/28
 aliases:
   - 20250508-020308
   - genesis-28
   - Genesis, Chapter 28
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 28
 bible_book: genesis
 bible_chapter: "28"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/28
 ---
 
 [[genesis-27|[← Previous Note]]] · [[genesis-29|[Next Note →]]]
@@ -53,13 +52,13 @@ url: https://bible.usccb.org/bible/genesis/28
 
 12 Then he had a dream: a stairway rested on the ground, with its top reaching to the heavens; and God’s angels were going up and down on it. ^genesis-28-12
 
-13 And there was the L ORD standing beside him and saying: I am the L ORD, the God of [[abraham|Abraham]] your father and the God of Isaac; the land on which you are lying I will give to you and your descendants. ^genesis-28-13
+13 And there was the LORD standing beside him and saying: I am the LORD, the God of [[abraham|Abraham]] your father and the God of Isaac; the land on which you are lying I will give to you and your descendants. ^genesis-28-13
 
 14 Your descendants will be like the dust of the earth, and through them you will spread to the west and the east, to the north and the south. In you and your descendants all the families of the earth will find blessing. ^genesis-28-14
 
 15 I am with you and will protect you wherever you go, and bring you back to this land. I will never leave you until I have done what I promised you. ^genesis-28-15
 
-16 When Jacob awoke from his sleep, he said, “Truly, the L ORD is in this place and I did not know it!” ^genesis-28-16
+16 When Jacob awoke from his sleep, he said, “Truly, the LORD is in this place and I did not know it!” ^genesis-28-16
 
 17 He was afraid and said: “How awesome this place is! This is nothing else but the house of God, the gateway to heaven!” ^genesis-28-17
 
@@ -69,7 +68,7 @@ url: https://bible.usccb.org/bible/genesis/28
 
 20 Jacob then made this vow: “If God will be with me and protect me on this journey I am making and give me food to eat and clothes to wear, ^genesis-28-20
 
-21 and I come back safely to my father’s house, the L ORD will be my God. ^genesis-28-21
+21 and I come back safely to my father’s house, the LORD will be my God. ^genesis-28-21
 
 22 This stone that I have set up as a sacred pillar will be the house of God. Of everything you give me, I will return a tenth part to you without fail.” ^genesis-28-22
 
@@ -111,6 +110,6 @@ k. (28:19) [Gn 35:6]; [48:3]; [Jos 18:13]; [Jgs 1:23]; [[hosea-12|Hos 12]]:5..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-07|[← Previous Note]]] · [[genesis-09|[Next Note →]]]

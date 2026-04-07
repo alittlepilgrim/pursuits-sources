@@ -1,20 +1,20 @@
 ---
-title: Exodus, The Book of Exodus
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Exodus, the Book of Exodus
+title: Exodus, The Book of Exodus
+url: https://bible.usccb.org/bible/exodus/0?bk=Exodus&ch=
 aliases:
   - exodus-00
   - Exodus, the Book of Exodus
   - Exodus, The Book of Exodus
 tags:
+  - bible/book
   - bible/exodus
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/exodus/0?bk=Exodus&ch=
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Exodus, the Book of Exodus
 ---
 
 # Exodus, the Book of Exodus
@@ -50,32 +50,32 @@ The principal divisions of Exodus are:
 - [[exodus-09|Exodus, Chapter 9]]
 - [[exodus-10|Exodus, Chapter 10]]
 - [[exodus-11|Exodus, Chapter 11]]
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- [exodus, Chapter 12](exodus-12.md)
+- [exodus, Chapter 13](exodus-13.md)
+- [exodus, Chapter 14](exodus-14.md)
+- [exodus, Chapter 15](exodus-15.md)
+- [exodus, Chapter 16](exodus-16.md)
+- [exodus, Chapter 17](exodus-17.md)
+- [exodus, Chapter 18](exodus-18.md)
+- [exodus, Chapter 19](exodus-19.md)
+- [exodus, Chapter 20](exodus-20.md)
+- [exodus, Chapter 21](exodus-21.md)
+- [exodus, Chapter 22](exodus-22.md)
+- [exodus, Chapter 23](exodus-23.md)
+- [exodus, Chapter 24](exodus-24.md)
+- [exodus, Chapter 25](exodus-25.md)
+- [exodus, Chapter 26](exodus-26.md)
+- [exodus, Chapter 27](exodus-27.md)
+- [exodus, Chapter 28](exodus-28.md)
+- [exodus, Chapter 29](exodus-29.md)
+- [exodus, Chapter 30](exodus-30.md)
+- [exodus, Chapter 31](exodus-31.md)
+- [exodus, Chapter 32](exodus-32.md)
+- [exodus, Chapter 33](exodus-33.md)
+- [exodus, Chapter 34](exodus-34.md)
+- [exodus, Chapter 35](exodus-35.md)
+- [exodus, Chapter 36](exodus-36.md)
+- [exodus, Chapter 37](exodus-37.md)
+- [exodus, Chapter 38](exodus-38.md)
+- [exodus, Chapter 39](exodus-39.md)
+- [exodus, Chapter 40](exodus-40.md)

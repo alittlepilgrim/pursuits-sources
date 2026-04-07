@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 38
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 38
+title: Ezekiel, Chapter 38
+url: https://bible.usccb.org/bible/ezekiel/38
 aliases:
   - ezekiel-38
   - Ezekiel, Chapter 38
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/38
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 38
 ---
 
 # Ezekiel, Chapter 38
 
-### Chapter 38
+## Chapter 38
 
 **First Prophecy Against Gog.**
 
-1 The word of the L ORD came to me: ^ezekiel-38-1
+1 The word of the LORD came to me: ^ezekiel-38-1
 
 2 Son of man, turn your face against Gog of the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him. ^ezekiel-38-2
 
@@ -69,7 +68,7 @@ url: https://bible.usccb.org/bible/ezekiel/38
 
 22 I will execute judgment on him: disease and bloodshed; flooding rain and hailstones, fire and brimstone, I will rain down on him, on his troops and on the many nations with him. ^ezekiel-38-22
 
-23 And so I will show my greatness and holiness and make myself known in the sight of many nations. Then they shall know that I am the L ORD. ^ezekiel-38-23
+23 And so I will show my greatness and holiness and make myself known in the sight of many nations. Then they shall know that I am the LORD. ^ezekiel-38-23
 
 \* (38:1] – [39:20) These three oracles against Gog ([38:2] – [13]; [14] – [23]; [39:1] – [20]) describe a mythic attack of God against a final enemy of his people sometime in the future. Like the oracles against the nations, their purpose is to strengthen Israel’s hope in God, since they end with God’s triumph on behalf of the people.
 

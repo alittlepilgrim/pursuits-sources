@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 27
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 27
+title: Ezekiel, Chapter 27
+url: https://bible.usccb.org/bible/ezekiel/27
 aliases:
   - ezekiel-27
   - Ezekiel, Chapter 27
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/27
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 27
 ---
 
 # Ezekiel, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 **The Ship Tyre.**
 
-1 The word of the L ORD came to me: ^ezekiel-27-1
+1 The word of the LORD came to me: ^ezekiel-27-1
 
 2 You, son of man, raise a lament over Tyre, ^ezekiel-27-2
 

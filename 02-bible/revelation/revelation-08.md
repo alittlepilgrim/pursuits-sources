@@ -1,25 +1,24 @@
 ---
-title: Revelation, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, Chapter 8
+title: Revelation, Chapter 8
+url: https://bible.usccb.org/bible/revelation/8
 aliases:
   - revelation-08
   - Revelation, Chapter 8
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/revelation
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/revelation/8
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, Chapter 8
 ---
 
 # Revelation, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **The Seven Trumpets.**
 

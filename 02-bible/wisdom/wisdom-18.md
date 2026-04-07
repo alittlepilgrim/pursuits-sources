@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 18
+title: Wisdom, Chapter 18
+url: https://bible.usccb.org/bible/wisdom/18
 aliases:
   - wisdom-18
   - Wisdom, Chapter 18
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/18
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 18
 ---
 
 # Wisdom, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 1 But your holy ones had very great light; ^wisdom-18-1
 
@@ -43,7 +42,7 @@ they had kept your children confined,
 
 through whom the imperishable light of the law was to be given to the world.
 
-#### Fifth Example: Death of the Egyptian Firstborn; the Israelites Are Spared
+### Fifth Example: Death of the Egyptian Firstborn; the Israelites Are Spared
 
 5 When they determined to put to death the infants of the holy ones, ^wisdom-18-5
 

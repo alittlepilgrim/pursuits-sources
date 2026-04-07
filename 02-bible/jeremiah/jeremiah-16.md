@@ -1,37 +1,36 @@
 ---
-title: Jeremiah, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 16
+title: Jeremiah, Chapter 16
+url: https://bible.usccb.org/bible/jeremiah/16
 aliases:
   - jeremiah-16
   - Jeremiah, Chapter 16
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 16
 ---
 
 # Jeremiah, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **Jeremiah’s Life a Warning.**
 
-1 This word came to me from the L ORD: ^jeremiah-16-1
+1 This word came to me from the LORD: ^jeremiah-16-1
 
 2 Do not take a wife and do not have sons and daughters in this place, ^jeremiah-16-2
 
-3 for thus says the L ORD concerning the sons and daughters born in this place, the mothers who give them birth, the fathers who beget them in this land: ^jeremiah-16-3
+3 for thus says the LORD concerning the sons and daughters born in this place, the mothers who give them birth, the fathers who beget them in this land: ^jeremiah-16-3
 
 4 Of deadly disease they shall die. Unlamented and unburied they will lie like dung on the ground. Sword and famine will make an end of them, and their corpses will become food for the birds of the sky and the beasts of the earth. ^jeremiah-16-4
 
-5 Thus says the L ORD: Do not go into a house of mourning; do not go there to lament or grieve for them. For I have withdrawn my peace from this people—oracle of the L ORD —my love and my compassion. ^jeremiah-16-5
+5 Thus says the LORD: Do not go into a house of mourning; do not go there to lament or grieve for them. For I have withdrawn my peace from this people—oracle of the LORD —my love and my compassion. ^jeremiah-16-5
 
 6 They shall die, the great and the lowly, in this land, unburied and unlamented. No one will gash themselves or shave their heads for them. ^jeremiah-16-6
 
@@ -39,11 +38,11 @@ url: https://bible.usccb.org/bible/jeremiah/16
 
 8 Do not enter a house of feasting to sit eating and drinking with them. ^jeremiah-16-8
 
-9 For thus says the L ORD of hosts, the God of Israel: Before your eyes and in your lifetime, I will silence in this place the song of joy and the song of gladness, the song of the bridegroom and the song of the bride. ^jeremiah-16-9
+9 For thus says the LORD of hosts, the God of Israel: Before your eyes and in your lifetime, I will silence in this place the song of joy and the song of gladness, the song of the bridegroom and the song of the bride. ^jeremiah-16-9
 
-10 When you proclaim all these words to this people and they ask you: “Why has the L ORD pronounced all this great disaster against us? What is our crime? What sin have we committed against the L ORD, our God?”— ^jeremiah-16-10
+10 When you proclaim all these words to this people and they ask you: “Why has the LORD pronounced all this great disaster against us? What is our crime? What sin have we committed against the LORD, our God?”— ^jeremiah-16-10
 
-11 you shall answer them: It is because your ancestors have forsaken me—oracle of the L ORD —and followed other gods that they served and worshiped; but me they have forsaken, and my law they did not keep. ^jeremiah-16-11
+11 you shall answer them: It is because your ancestors have forsaken me—oracle of the LORD —and followed other gods that they served and worshiped; but me they have forsaken, and my law they did not keep. ^jeremiah-16-11
 
 12 And you have done worse than your ancestors. Here you are, every one of you, walking in the stubbornness of your evil heart instead of listening to me. ^jeremiah-16-12
 
@@ -51,21 +50,21 @@ url: https://bible.usccb.org/bible/jeremiah/16
 
 **Return from Exile.**
 
-14 Therefore, days are coming—oracle of the L ORD —when it will no longer be said, “As the L ORD lives, who brought the Israelites out of Egypt”; ^jeremiah-16-14
+14 Therefore, days are coming—oracle of the LORD —when it will no longer be said, “As the LORD lives, who brought the Israelites out of Egypt”; ^jeremiah-16-14
 
-15 but rather, “As the L ORD lives, who brought the Israelites out of the land of the north and out of all the countries to which he had banished them.” I will bring them back to the land I gave their ancestors. ^jeremiah-16-15
+15 but rather, “As the LORD lives, who brought the Israelites out of the land of the north and out of all the countries to which he had banished them.” I will bring them back to the land I gave their ancestors. ^jeremiah-16-15
 
 **Double Punishment.**
 
-16 Look!—oracle of the L ORD —I will send many fishermen to catch them. After that, I will send many hunters to hunt them out from every mountain and hill and rocky crevice. ^jeremiah-16-16
+16 Look!—oracle of the LORD —I will send many fishermen to catch them. After that, I will send many hunters to hunt them out from every mountain and hill and rocky crevice. ^jeremiah-16-16
 
 17 For my eyes are upon all their ways; they are not hidden from me, nor does their guilt escape my sight. ^jeremiah-16-17
 
 18 I will at once repay them double for their crime and their sin because they profaned my land with the corpses of their detestable idols, and filled my heritage with their abominations. ^jeremiah-16-18
 
-#### Conversion of the Nations
+### Conversion of the Nations
 
-19 L ORD, my strength, my fortress, ^jeremiah-16-19
+19 LORD, my strength, my fortress, ^jeremiah-16-19
 
 my refuge in the day of distress!
 
@@ -87,7 +86,7 @@ this time I will make them acknowledge
 
 My strength and my power:
 
-they shall know that my name is L ORD.
+they shall know that my name is LORD.
 
 \* (16:6] – [7) These verses refer to popular mourning practices in the land; cf. [Dt 14:1] – [2].
 

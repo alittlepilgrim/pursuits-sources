@@ -1,27 +1,26 @@
 ---
-title: Hosea, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 11
+title: Hosea, Chapter 11
+url: https://bible.usccb.org/bible/hosea/11
 aliases:
   - hosea-11
   - Hosea, Chapter 11
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 11
 ---
 
 # Hosea, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
-#### The Disappointment of a Parent
+### The Disappointment of a Parent
 
 1 When Israel was a child I loved him, ^hosea-11-1
 
@@ -69,7 +68,7 @@ though they call on God in unison,
 
 he shall not raise them up.
 
-#### But Love Is Stronger and Restores
+### But Love Is Stronger and Restores
 
 8 How could I give you up, Ephraim, ^hosea-11-8
 
@@ -93,7 +92,7 @@ the Holy One present among you;
 
 I will not come in wrath.
 
-10 They shall follow the L ORD, ^hosea-11-10
+10 They shall follow the LORD, ^hosea-11-10
 
 who roars like a lion;
 
@@ -107,7 +106,7 @@ like doves, from the land of Assyria;
 
 And I will resettle them in their homes,
 
-oracle of the L ORD.
+oracle of the LORD.
 
 \* (11:1] – [3) After the image of husband-wife (chaps. [1] – [3]), Hosea uses the image of parent-child (([[exodus-04|Ex 4]]:22]; [Is 1:2]; [Jer 3:19]).
 

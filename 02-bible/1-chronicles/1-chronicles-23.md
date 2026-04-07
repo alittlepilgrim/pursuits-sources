@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 23
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 23
+title: 1 Chronicles, Chapter 23
+url: https://bible.usccb.org/bible/1chronicles/23
 aliases:
   - 1 Chronicles, Chapter 23
   - 1-chronicles-23
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/23
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 23
 ---
 
 # 1 Chronicles, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 **The Levitical Divisions.**
 
@@ -29,9 +28,9 @@ url: https://bible.usccb.org/bible/1chronicles/23
 
 3 The Levites thirty years old and above were counted, and their total number was found to be thirty-eight thousand. ^1-chronicles-23-3
 
-4 Of these, twenty-four thousand were to direct the service of the house of the L ORD, six thousand were to be officials and judges, ^1-chronicles-23-4
+4 Of these, twenty-four thousand were to direct the service of the house of the LORD, six thousand were to be officials and judges, ^1-chronicles-23-4
 
-5 four thousand were to be gatekeepers, and four thousand were to praise the L ORD with the instruments which \[David\] had devised for praise. ^1-chronicles-23-5
+5 four thousand were to be gatekeepers, and four thousand were to praise the LORD with the instruments which \[David\] had devised for praise. ^1-chronicles-23-5
 
 6 David apportioned them into divisions according to the sons of Levi: Gershon, Kohath, and Merari. ^1-chronicles-23-6
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/1chronicles/23
 
 12 The sons of Kohath: Amram, Izhar, Hebron, and Uzziel; four in all. ^1-chronicles-23-12
 
-13 The sons of Amram were Aaron and Moses. Aaron was set apart to be consecrated as most holy, he and his sons forever, to offer sacrifice before the L ORD, to minister to him, and to bless in his name forever. ^1-chronicles-23-13
+13 The sons of Amram were Aaron and Moses. Aaron was set apart to be consecrated as most holy, he and his sons forever, to offer sacrifice before the LORD, to minister to him, and to bless in his name forever. ^1-chronicles-23-13
 
 14 As for Moses, however, the man of God, his sons were counted as part of the tribe of Levi. ^1-chronicles-23-14
 
@@ -69,23 +68,23 @@ url: https://bible.usccb.org/bible/1chronicles/23
 
 23 The sons of Mushi: Mahli, Eder, and Jeremoth; three in all. ^1-chronicles-23-23
 
-24 These were the sons of Levi according to their ancestral houses, the family heads as they were enrolled one by one according to their names. They performed the work of the service of the house of the L ORD beginning at twenty years of age. ^1-chronicles-23-24
+24 These were the sons of Levi according to their ancestral houses, the family heads as they were enrolled one by one according to their names. They performed the work of the service of the house of the LORD beginning at twenty years of age. ^1-chronicles-23-24
 
-25 David said: “The L ORD, the God of Israel, has given rest to his people, and has taken up his dwelling in Jerusalem forever. ^1-chronicles-23-25
+25 David said: “The LORD, the God of Israel, has given rest to his people, and has taken up his dwelling in Jerusalem forever. ^1-chronicles-23-25
 
 26 Henceforth the Levites need not carry the tabernacle or any of the equipment for its service.” ^1-chronicles-23-26
 
 27 For by David’s last words the Levites were enlisted from the time they were twenty years old. ^1-chronicles-23-27
 
-28 Their duty is to assist the sons of Aaron in the service of the house of the L ORD, having charge of the courts, the chambers, and the preservation of everything holy: they take part in the service of the house of God. ^1-chronicles-23-28
+28 Their duty is to assist the sons of Aaron in the service of the house of the LORD, having charge of the courts, the chambers, and the preservation of everything holy: they take part in the service of the house of God. ^1-chronicles-23-28
 
 29 They also have charge of the showbread, of the fine flour for the grain offering, of the wafers of unleavened bread, and of the baking and mixing, and of all measures of quantity and size. ^1-chronicles-23-29
 
-30 They are to be present every morning to offer thanks and to praise the L ORD, and likewise in the evening; ^1-chronicles-23-30
+30 They are to be present every morning to offer thanks and to praise the LORD, and likewise in the evening; ^1-chronicles-23-30
 
-31 and at every sacrifice of burnt offerings to the L ORD on sabbaths, new moons, and feast days, in such numbers as are prescribed, they must always be present before the L ORD ^1-chronicles-23-31
+31 and at every sacrifice of burnt offerings to the LORD on sabbaths, new moons, and feast days, in such numbers as are prescribed, they must always be present before the LORD ^1-chronicles-23-31
 
-32 and observe what is prescribed for them concerning the tent of meeting, the sanctuary, and the sons of Aaron, their kinsmen, in the service of the house of the L ORD. ^1-chronicles-23-32
+32 and observe what is prescribed for them concerning the tent of meeting, the sanctuary, and the sons of Aaron, their kinsmen, in the service of the house of the LORD. ^1-chronicles-23-32
 
 a. \[[23:1]\] [1 Chr 28:5]; [1 Kgs 1:30].
 

@@ -1,35 +1,34 @@
 ---
-title: Jeremiah, Chapter 35
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 35
+title: Jeremiah, Chapter 35
+url: https://bible.usccb.org/bible/jeremiah/35
 aliases:
   - jeremiah-35
   - Jeremiah, Chapter 35
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/35
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 35
 ---
 
 # Jeremiah, Chapter 35
 
-### Chapter 35
+## Chapter 35
 
 **The Faithful Rechabites.**
 
-1 The word that came to Jeremiah from the L ORD in the days of Jehoiakim, son of Josiah, king of Judah: ^jeremiah-35-1
+1 The word that came to Jeremiah from the LORD in the days of Jehoiakim, son of Josiah, king of Judah: ^jeremiah-35-1
 
-2 Go to the house of the Rechabites, speak to them, and bring them to the house of the L ORD, to one of the rooms there, and give them wine to drink. ^jeremiah-35-2
+2 Go to the house of the Rechabites, speak to them, and bring them to the house of the LORD, to one of the rooms there, and give them wine to drink. ^jeremiah-35-2
 
 3 So I took Jaazaniah, son of Jeremiah, son of Habazziniah, his brothers and all his sons—the whole house of the Rechabites— ^jeremiah-35-3
 
-4 and I brought them to the house of the L ORD, to the room of the sons of Hanan, son of Igdaliah, the man of God, next to the room of the princes above the room of Maaseiah, son of Shallum, the guard at the entrance. ^jeremiah-35-4
+4 and I brought them to the house of the LORD, to the room of the sons of Hanan, son of Igdaliah, the man of God, next to the room of the princes above the room of Maaseiah, son of Shallum, the guard at the entrance. ^jeremiah-35-4
 
 5 I set before the Rechabites bowls full of wine, and cups, and said to them, “Drink some wine.” ^jeremiah-35-5
 
@@ -45,9 +44,9 @@ url: https://bible.usccb.org/bible/jeremiah/35
 
 11 But when Nebuchadnezzar, king of Babylon, invaded this land, we said, ‘Come, let us go into Jerusalem to escape the army of the Chaldeans and the army of the Arameans.’ That is why we are now living in Jerusalem.” ^jeremiah-35-11
 
-12 Then the word of the L ORD came to Jeremiah: ^jeremiah-35-12
+12 Then the word of the LORD came to Jeremiah: ^jeremiah-35-12
 
-13 Thus says the L ORD of hosts, the God of Israel: Go, say to the people of Judah and to the inhabitants of Jerusalem: Will you not take correction and obey my words?—oracle of the L ORD. ^jeremiah-35-13
+13 Thus says the LORD of hosts, the God of Israel: Go, say to the people of Judah and to the inhabitants of Jerusalem: Will you not take correction and obey my words?—oracle of the LORD. ^jeremiah-35-13
 
 14 The words of Jonadab, Rechab’s son, by which he commanded his children not to drink wine, have been upheld: to this day they have not drunk wine; they obeyed their ancestor’s command. I, however, have spoken to you time and again. But you did not obey me! ^jeremiah-35-14
 
@@ -55,11 +54,11 @@ url: https://bible.usccb.org/bible/jeremiah/35
 
 16 Yes, the children of Jonadab, Rechab’s son, upheld the command which their father laid on them. But this people has not obeyed me! ^jeremiah-35-16
 
-17 Now, therefore, says the L ORD God of hosts, the God of Israel: I will soon bring upon Judah and all the inhabitants of Jerusalem every evil with which I threatened them because I spoke but they did not obey, I called but they did not answer. ^jeremiah-35-17
+17 Now, therefore, says the LORD God of hosts, the God of Israel: I will soon bring upon Judah and all the inhabitants of Jerusalem every evil with which I threatened them because I spoke but they did not obey, I called but they did not answer. ^jeremiah-35-17
 
-18 But to the house of the Rechabites Jeremiah said: Thus says the L ORD of hosts, the God of Israel: Since you have obeyed the command of Jonadab, your father, kept all his commands and done everything he commanded you, ^jeremiah-35-18
+18 But to the house of the Rechabites Jeremiah said: Thus says the LORD of hosts, the God of Israel: Since you have obeyed the command of Jonadab, your father, kept all his commands and done everything he commanded you, ^jeremiah-35-18
 
-19 therefore, thus says the L ORD of hosts, the God of Israel: Never shall there fail to be a descendant of Jonadab, Rechab’s son, standing in my presence. ^jeremiah-35-19
+19 therefore, thus says the LORD of hosts, the God of Israel: Never shall there fail to be a descendant of Jonadab, Rechab’s son, standing in my presence. ^jeremiah-35-19
 
 \* (35:1) In the days of Jehoiakim: probably in 599 or 598 B.C. (cf. [[2-kings-24|2 Kgs 24]]:1 – [2]).
 

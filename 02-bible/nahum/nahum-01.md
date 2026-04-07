@@ -1,41 +1,40 @@
 ---
-title: Nahum, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nahum, Chapter 1
+title: Nahum, Chapter 1
+url: https://bible.usccb.org/bible/nahum/1
 aliases:
   - nahum-01
   - Nahum, Chapter 1
 tags:
+  - bible/chapter
   - bible/nahum
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nahum/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nahum, Chapter 1
 ---
 
 # Nahum, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 Oracle concerning Nineveh. The book of the vision of Nahum of Elkosh. ^nahum-01-1
 
-#### God’s Terrifying Appearance
+### God’s Terrifying Appearance
 
-2 A jealous and avenging God is the L ORD, ^nahum-01-2
+2 A jealous and avenging God is the LORD, ^nahum-01-2
 
-an avenger is the L ORD, full of wrath;
+an avenger is the LORD, full of wrath;
 
-The L ORD takes vengeance on his adversaries,
+The LORD takes vengeance on his adversaries,
 
 and rages against his enemies;
 
-3 The L ORD is slow to anger, yet great in power; ^nahum-01-3
+3 The LORD is slow to anger, yet great in power; ^nahum-01-3
 
-the L ORD will not leave the guilty unpunished.
+the LORD will not leave the guilty unpunished.
 
 In stormwind and tempest he comes,
 
@@ -65,7 +64,7 @@ His fury is poured out like fire,
 
 and boulders break apart before him.
 
-7 The L ORD is good to those who wait for him, ^nahum-01-7
+7 The LORD is good to those who wait for him, ^nahum-01-7
 
 a refuge on the day of distress,
 
@@ -77,9 +76,9 @@ He makes an end of his opponents,
 
 and pursues his enemies into darkness.
 
-#### Nineveh’s Judgment and Judah’s Restoration
+### Nineveh’s Judgment and Judah’s Restoration
 
-9 What do you plot against the L ORD, ^nahum-01-9
+9 What do you plot against the LORD, ^nahum-01-9
 
 the one about to bring total destruction?
 
@@ -93,11 +92,11 @@ like dry stubble, they are utterly consumed.
 
 11 From you has come ^nahum-01-11
 
-one plotting evil against the L ORD,
+one plotting evil against the LORD,
 
 one giving sinister counsel.
 
-12 Thus says the L ORD: ^nahum-01-12
+12 Thus says the LORD: ^nahum-01-12
 
 though fully intact and so numerous,
 
@@ -111,7 +110,7 @@ I will humble you no more.
 
 and tear off your bonds.
 
-14 The L ORD has commanded regarding you: ^nahum-01-14
+14 The LORD has commanded regarding you: ^nahum-01-14
 
 no descendant will again bear your name;
 

@@ -1,25 +1,24 @@
 ---
-title: 2 Corinthians, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Corinthians, Chapter 2
+title: 2 Corinthians, Chapter 2
+url: https://bible.usccb.org/bible/2corinthians/2
 aliases:
   - 2 Corinthians, Chapter 2
   - 2-corinthians-02
 tags:
   - bible/2-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2corinthians/2
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Corinthians, Chapter 2
 ---
 
 # 2 Corinthians, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 For I decided not to come to you again in painful circumstances. ^2-corinthians-02-1
 
@@ -51,7 +50,7 @@ url: https://bible.usccb.org/bible/2corinthians/2
 
 13 I had no relief in my spirit because I did not find my brother Titus. So I took leave of them and went on to Macedonia. ^2-corinthians-02-13
 
-### B. Paul’s Ministry
+## B. Paul’s Ministry
 
 **Ministers of a New Covenant.**
 

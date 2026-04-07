@@ -1,19 +1,19 @@
 ---
+type: figure
 title: Saint Thomas Aquinas
-created: 2025-09-12
-modified: 2026-04-02
-type: figure figure
-publish: false
 aliases:
   - 20250912-224200
   - Saint Thomas Aquinas
   - thomas-aquinas-saint
 tags:
   - role/doctor-of-the-church
-birth_date: 1225
-celebration: 01-28
+  - type/figure
+birthday: 1225
 death_date: 1274-03-07
-full_name: Saint Thomas Aquinas
+celebration: 01-28
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Thomas Aquinas

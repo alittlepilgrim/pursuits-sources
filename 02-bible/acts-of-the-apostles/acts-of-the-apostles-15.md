@@ -1,25 +1,24 @@
 ---
-title: Acts of the Apostles, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Acts of the Apostles, Chapter 15
+title: Acts of the Apostles, Chapter 15
+url: https://bible.usccb.org/bible/acts/15
 aliases:
   - Acts of the Apostles, Chapter 15
   - acts-of-the-apostles-15
 tags:
   - bible/acts-of-the-apostles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/acts/15
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Acts of the Apostles, Chapter 15
 ---
 
 # Acts of the Apostles, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Council of Jerusalem.**
 
@@ -109,7 +108,7 @@ Thus says the Lord who accomplishes these things,
 
 35 But Paul and Barnabas remained in Antioch, teaching and proclaiming with many others the word of the Lord. ^acts-of-the-apostles-15-35
 
-## V. the Mission of Paul to the Ends of the Earth
+# V. the Mission of Paul to the Ends of the Earth
 
 **Paul and Barnabas Separate.**
 

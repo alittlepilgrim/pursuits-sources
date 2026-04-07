@@ -1,15 +1,16 @@
 ---
-title: Faculties
-created: 2025-07-19
-modified: 2026-04-02
 type: glossary
-publish: true
-description: faculties
+title: Faculties
 aliases:
   - faculties
   - Faculties
 tags:
   - term/faculties
+  - type/term
+created: 2025-07-19
+modified: 2026-04-06
+publish: true
+description: faculties
 ---
 
 # Faculties

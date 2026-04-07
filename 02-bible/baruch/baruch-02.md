@@ -1,71 +1,70 @@
 ---
-title: Baruch, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Baruch, Chapter 2
+title: Baruch, Chapter 2
+url: https://bible.usccb.org/bible/baruch/2
 aliases:
   - baruch-02
   - Baruch, Chapter 2
 tags:
   - bible/baruch
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/baruch/2
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Baruch, Chapter 2
 ---
 
 # Baruch, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
-1 “So the L ORD carried out the warning he had uttered against us: against our judges, who governed Israel, against our kings and princes, and against the people of Israel and Judah. ^baruch-02-1
+1 “So the LORD carried out the warning he had uttered against us: against our judges, who governed Israel, against our kings and princes, and against the people of Israel and Judah. ^baruch-02-1
 
 2 Nowhere under heaven has anything been done like what he did in Jerusalem, as was written in the law of Moses: ^baruch-02-2
 
 3 that we would each eat the flesh of our sons, each the flesh of our daughters. ^baruch-02-3
 
-4 He has made us subject to all the kingdoms around us, an object of reproach and horror among all the peoples around us, where the L ORD has scattered us. ^baruch-02-4
+4 He has made us subject to all the kingdoms around us, an object of reproach and horror among all the peoples around us, where the LORD has scattered us. ^baruch-02-4
 
-5 We are brought low, not raised high, because we sinned against the L ORD, our God, not listening to his voice. ^baruch-02-5
+5 We are brought low, not raised high, because we sinned against the LORD, our God, not listening to his voice. ^baruch-02-5
 
-6 “To the L ORD, our God, belongs justice; to us and to our ancestors, to be shamefaced, as on this day. ^baruch-02-6
+6 “To the LORD, our God, belongs justice; to us and to our ancestors, to be shamefaced, as on this day. ^baruch-02-6
 
-7 All the evils of which the L ORD had warned us have come upon us. ^baruch-02-7
+7 All the evils of which the LORD had warned us have come upon us. ^baruch-02-7
 
-8 We did not entreat the favor of the L ORD by turning, each one, from the designs of our evil hearts. ^baruch-02-8
+8 We did not entreat the favor of the LORD by turning, each one, from the designs of our evil hearts. ^baruch-02-8
 
-9 The L ORD kept watch over the evils, and brought them home to us; for the L ORD is just in all the works he commanded us to do, ^baruch-02-9
+9 The LORD kept watch over the evils, and brought them home to us; for the LORD is just in all the works he commanded us to do, ^baruch-02-9
 
-10 but we did not listen to his voice, or follow the precepts of the L ORD which he had set before us. ^baruch-02-10
+10 but we did not listen to his voice, or follow the precepts of the LORD which he had set before us. ^baruch-02-10
 
-#### C. Prayer for Deliverance
+### C. Prayer for Deliverance
 
-11 “And now, L ORD, God of Israel, who led your people out of the land of Egypt with a strong hand, with signs and wonders and great might, and with an upraised arm, so that you have made for yourself a name to the present day: ^baruch-02-11
+11 “And now, LORD, God of Israel, who led your people out of the land of Egypt with a strong hand, with signs and wonders and great might, and with an upraised arm, so that you have made for yourself a name to the present day: ^baruch-02-11
 
-12 we have sinned, we have committed sacrilege, we have violated all your statutes, L ORD, our God. ^baruch-02-12
+12 we have sinned, we have committed sacrilege, we have violated all your statutes, LORD, our God. ^baruch-02-12
 
 13 Withdraw your anger from us, for we are left few in number among the nations where you have scattered us. ^baruch-02-13
 
-14 Hear, L ORD, our prayer of supplication, and deliver us for your own sake: grant us favor in the sight of those who brought us into exile, ^baruch-02-14
+14 Hear, LORD, our prayer of supplication, and deliver us for your own sake: grant us favor in the sight of those who brought us into exile, ^baruch-02-14
 
-15 that the whole earth may know that you are the L ORD, our God, and that Israel and his descendants bear your name. ^baruch-02-15
+15 that the whole earth may know that you are the LORD, our God, and that Israel and his descendants bear your name. ^baruch-02-15
 
-16 L ORD, look down from your holy dwelling and take thought of us; L ORD, incline your ear to hear us. ^baruch-02-16
+16 LORD, look down from your holy dwelling and take thought of us; LORD, incline your ear to hear us. ^baruch-02-16
 
-17 Open your eyes and see: it is not the dead in Hades, whose breath has been taken from within them, who will declare the glory and vindication to the L ORD. ^baruch-02-17
+17 Open your eyes and see: it is not the dead in Hades, whose breath has been taken from within them, who will declare the glory and vindication to the LORD. ^baruch-02-17
 
-18 The person who is deeply grieved, who walks bowed and feeble, with failing eyes and famished soul, will declare your glory and justice, L ORD! ^baruch-02-18
+18 The person who is deeply grieved, who walks bowed and feeble, with failing eyes and famished soul, will declare your glory and justice, LORD! ^baruch-02-18
 
-19 “Not on the just deeds of our ancestors and our kings do we base our plea for mercy in your sight, L ORD, our God. ^baruch-02-19
+19 “Not on the just deeds of our ancestors and our kings do we base our plea for mercy in your sight, LORD, our God. ^baruch-02-19
 
 20 You have sent your wrath and anger upon us, as you had warned us through your servants the prophets: ^baruch-02-20
 
-21 Thus says the L ORD: Bend your necks and serve the king of Babylon, that you may continue in the land I gave your ancestors; ^baruch-02-21
+21 Thus says the LORD: Bend your necks and serve the king of Babylon, that you may continue in the land I gave your ancestors; ^baruch-02-21
 
-22 for if you do not listen to the L ORD’s voice so as to serve the king of Babylon, ^baruch-02-22
+22 for if you do not listen to the LORD’s voice so as to serve the king of Babylon, ^baruch-02-22
 
 23 I will silence from the cities of Judah and from the streets of Jerusalem the cry of joy and the cry of gladness, the voice of the bridegroom and the voice of the bride; and all the land shall be deserted, without inhabitants. ^baruch-02-23
 
@@ -85,11 +84,11 @@ url: https://bible.usccb.org/bible/baruch/2
 
 30 For I know they will not listen to me, because they are a stiff-necked people. But in the land of their exile they shall have a change of heart; ^baruch-02-30
 
-31 they shall know that I, the L ORD, am their God. I will give them a heart and ears that listen; ^baruch-02-31
+31 they shall know that I, the LORD, am their God. I will give them a heart and ears that listen; ^baruch-02-31
 
 32 and they shall praise me in the land of their exile, and shall remember my name. ^baruch-02-32
 
-33 Then they shall turn back from their stiff-necked stubbornness, and from their evil deeds, because they shall remember the ways of their ancestors, who sinned against the L ORD. ^baruch-02-33
+33 Then they shall turn back from their stiff-necked stubbornness, and from their evil deeds, because they shall remember the ways of their ancestors, who sinned against the LORD. ^baruch-02-33
 
 34 And I will bring them back to the land I promised on oath to their ancestors, to [[abraham|Abraham]], Isaac, and Jacob; and they shall rule it. I will make them increase; they shall not be few. ^baruch-02-34
 

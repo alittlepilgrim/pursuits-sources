@@ -1,27 +1,26 @@
 ---
-title: Jeremiah, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 9
+title: Jeremiah, Chapter 9
+url: https://bible.usccb.org/bible/jeremiah/9
 aliases:
   - jeremiah-09
   - Jeremiah, Chapter 9
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 9
 ---
 
 # Jeremiah, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
-#### The Corruption of the People
+### The Corruption of the People
 
 1 Oh, that I had in the wilderness ^jeremiah-09-1
 
@@ -43,7 +42,7 @@ they are powerful in the land.
 
 They go from evil to evil,
 
-and me they do not know—oracle of the L ORD.
+and me they do not know—oracle of the LORD.
 
 3 Be on your guard, everyone against his neighbor; ^jeremiah-09-3
 
@@ -67,9 +66,9 @@ deceit upon deceit:
 
 They refuse to know me—
 
-oracle of the L ORD.
+oracle of the LORD.
 
-6 Therefore, thus says the L ORD of hosts: ^jeremiah-09-6
+6 Therefore, thus says the LORD of hosts: ^jeremiah-09-6
 
 I will refine them and test them;
 
@@ -83,11 +82,11 @@ They speak peaceably with their neighbors,
 
 but in their hearts they lay an ambush!
 
-8 Should I not punish them for these deeds—oracle of the L ORD; ^jeremiah-09-8
+8 Should I not punish them for these deeds—oracle of the LORD; ^jeremiah-09-8
 
 on a nation such as this should I not take vengeance?
 
-#### Dirge over the Ravaged Land
+### Dirge over the Ravaged Land
 
 9 Over the mountains I shall break out in cries of lamentation, ^jeremiah-09-9
 
@@ -109,21 +108,21 @@ The cities of Judah I will make a waste,
 
 where no one dwells.
 
-11 Who is wise enough to understand this? To whom has the mouth of the L ORD spoken? Let him declare it! ^jeremiah-09-11
+11 Who is wise enough to understand this? To whom has the mouth of the LORD spoken? Let him declare it! ^jeremiah-09-11
 
 Why is the land ravaged,
 
 scorched like a wilderness no one crosses?
 
-12 The L ORD said: Because they have abandoned my law, which I set before them, and did not listen to me or follow it, ^jeremiah-09-12
+12 The LORD said: Because they have abandoned my law, which I set before them, and did not listen to me or follow it, ^jeremiah-09-12
 
 13 but followed instead their stubborn hearts and the Baals, as their ancestors had taught them, ^jeremiah-09-13
 
-14 therefore, thus says the L ORD of hosts, the God of Israel: See now, I will give this people wormwood to eat and poisoned water to drink. ^jeremiah-09-14
+14 therefore, thus says the LORD of hosts, the God of Israel: See now, I will give this people wormwood to eat and poisoned water to drink. ^jeremiah-09-14
 
 15 I will scatter them among nations whom neither they nor their ancestors have known; I will send the sword to pursue them until I have completely destroyed them. ^jeremiah-09-15
 
-16 Thus says the L ORD of hosts: ^jeremiah-09-16
+16 Thus says the LORD of hosts: ^jeremiah-09-16
 
 Inquire, and call the wailing women to come;
 
@@ -145,7 +144,7 @@ We have left the land,
 
 given up our dwellings!
 
-19 Hear, you women, the word of the L ORD, ^jeremiah-09-19
+19 Hear, you women, the word of the LORD, ^jeremiah-09-19
 
 let your ears receive the word of his mouth.
 
@@ -169,9 +168,9 @@ Like sheaves behind the harvester,
 
 with no one to gather them.
 
-#### True Glory
+### True Glory
 
-22 Thus says the L ORD: ^jeremiah-09-22
+22 Thus says the LORD: ^jeremiah-09-22
 
 Let not the wise boast of his wisdom,
 
@@ -183,15 +182,15 @@ nor the rich man boast of his riches;
 
 that in their prudence they know me,
 
-Know that I, the L ORD, act with fidelity,
+Know that I, the LORD, act with fidelity,
 
 justice, and integrity on earth.
 
-How I take delight in these—oracle of the L ORD.
+How I take delight in these—oracle of the LORD.
 
 **False Circumcision.**
 
-24 See, days are coming—oracle of the L ORD —when I will demand an account of all those circumcised in the foreskin: ^jeremiah-09-24
+24 See, days are coming—oracle of the LORD —when I will demand an account of all those circumcised in the foreskin: ^jeremiah-09-24
 
 25 Egypt and Judah, Edom and the Ammonites, Moab, and those who live in the wilderness and shave their temples. For all the nations are uncircumcised, even the whole house of Israel is uncircumcised at heart. ^jeremiah-09-25
 

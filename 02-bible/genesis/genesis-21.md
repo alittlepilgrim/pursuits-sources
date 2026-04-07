@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 21
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 21
+title: Genesis, Chapter 21
+url: https://bible.usccb.org/bible/genesis/21
 aliases:
   - 20250508-020250
   - genesis-21
   - Genesis, Chapter 21
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 21
 bible_book: genesis
 bible_chapter: "21"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/21
 ---
 
 [[genesis-20|[← Previous Note]]] · [[genesis-22|[Next Note →]]]
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/genesis/21
 
 **Birth of Isaac.**
 
-1 The L ORD took note of Sarah as he had said he would; the L ORD did for her as he had promised. ^genesis-21-1
+1 The LORD took note of Sarah as he had said he would; the LORD did for her as he had promised. ^genesis-21-1
 
 2 Sarah became pregnant and bore [[abraham|Abraham]] a son in his old age, at the set time that God had stated. ^genesis-21-2
 
@@ -93,7 +92,7 @@ url: https://bible.usccb.org/bible/genesis/21
 
 32 When they had thus made the covenant in Beer-sheba, Abimelech, along with Phicol, the commander of his army, left to return to the land of the Philistines. ^genesis-21-32
 
-33 [[abraham|Abraham]] planted a tamarisk at Beer-sheba, and there he invoked by name the L ORD, God the Eternal. ^genesis-21-33
+33 [[abraham|Abraham]] planted a tamarisk at Beer-sheba, and there he invoked by name the LORD, God the Eternal. ^genesis-21-33
 
 34 [[abraham|Abraham]] resided in the land of the Philistines for a long time. ^genesis-21-34
 
@@ -133,6 +132,6 @@ h. (21:17) [[genesis-16|Gen 16]]:7..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-02|[Next Note →]]]

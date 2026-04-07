@@ -1,25 +1,24 @@
 ---
-title: 2 Corinthians, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Corinthians, Chapter 1
+title: 2 Corinthians, Chapter 1
+url: https://bible.usccb.org/bible/2corinthians/1
 aliases:
   - 2 Corinthians, Chapter 1
   - 2-corinthians-01
 tags:
   - bible/2-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2corinthians/1
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Corinthians, Chapter 1
 ---
 
 # 2 Corinthians, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -45,9 +44,9 @@ url: https://bible.usccb.org/bible/2corinthians/1
 
 11 as you help us with prayer, so that thanks may be given by many on our behalf for the gift granted us through the prayers of many. ^2-corinthians-01-11
 
-## Ii. the Crisis Between Paul and the Corinthians
+# Ii. the Crisis Between Paul and the Corinthians
 
-### A. Past Relationships
+## A. Past Relationships
 
 **Paul’s Sincerity and Constancy.**
 

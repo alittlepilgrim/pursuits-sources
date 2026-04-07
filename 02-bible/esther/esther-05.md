@@ -1,25 +1,24 @@
 ---
-title: Esther, Chapter 5
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 5
+title: Esther, Chapter 5
+url: https://bible.usccb.org/bible/esther/5
 aliases:
   - esther-05
   - Esther, Chapter 5
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/5
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 5
 ---
 
 # Esther, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 1 \[Now on the third day, Esther put on her royal garments and stood in the inner courtyard, looking toward the royal palace, while the king was seated on his royal throne in the audience chamber, facing the palace doorway. ^esther-05-1
 
@@ -31,7 +30,7 @@ testament: old
 
 5 The king ordered, “Have Haman make haste to fulfill the wish of Esther.” ^esther-05-5
 
-## V. HAMAN’S Downfall
+# V. HAMAN’S Downfall
 
 **First Banquet of Esther.**So the king went with Haman to the banquet Esther had prepared.
 

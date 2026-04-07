@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 4
+title: Nehemiah, Chapter 4
+url: https://bible.usccb.org/bible/nehemiah/4
 aliases:
   - nehemiah-04
   - Nehemiah, Chapter 4
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 4
 ---
 
 # Nehemiah, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 When Sanballat, Tobiah, the Arabs, the Ammonites, and the Ashdodites heard that the restoration of the walls of Jerusalem was progressing—for the gaps were beginning to be closed up—they became extremely angry. ^nehemiah-04-1
 
@@ -43,7 +42,7 @@ to rebuild the wall.”
 
 7 I stationed guards down below, behind the wall, near the exposed points, assigning them by family groups with their swords, spears, and bows. ^nehemiah-04-7
 
-8 I made an inspection, then addressed these words to the nobles, the magistrates, and the rest of the people: “Do not fear them! Keep in mind the L ORD, who is great and to be feared, and fight for your kindred, your sons and daughters, your wives and your homes.” ^nehemiah-04-8
+8 I made an inspection, then addressed these words to the nobles, the magistrates, and the rest of the people: “Do not fear them! Keep in mind the LORD, who is great and to be feared, and fight for your kindred, your sons and daughters, your wives and your homes.” ^nehemiah-04-8
 
 9 When our enemies realized that we had been warned and that God had upset their plan, we all went back, each to our own task at the wall. ^nehemiah-04-9
 

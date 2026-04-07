@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 2
+title: 1 Kings, Chapter 2
+url: https://bible.usccb.org/bible/1kings/2
 aliases:
   - 1 Kings, Chapter 2
   - 1-kings-02
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/2
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 2
 ---
 
 # 1 Kings, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **David’s Last Instructions and Death.**
 
@@ -27,9 +26,9 @@ url: https://bible.usccb.org/bible/1kings/2
 
 2 “I am going the way of all the earth. Be strong and be a man! ^1-kings-02-2
 
-3 Keep the mandate of the L ORD, your God, walking in his ways and keeping his statutes, commands, ordinances, and decrees as they are written in the law of Moses, that you may succeed in whatever you do, and wherever you turn, ^1-kings-02-3
+3 Keep the mandate of the LORD, your God, walking in his ways and keeping his statutes, commands, ordinances, and decrees as they are written in the law of Moses, that you may succeed in whatever you do, and wherever you turn, ^1-kings-02-3
 
-4 and that the L ORD may fulfill the word he spoke concerning me: If your sons so conduct themselves that they walk before me in faithfulness with their whole heart and soul, there shall never be wanting someone of your line on the throne of Israel. ^1-kings-02-4
+4 and that the LORD may fulfill the word he spoke concerning me: If your sons so conduct themselves that they walk before me in faithfulness with their whole heart and soul, there shall never be wanting someone of your line on the throne of Israel. ^1-kings-02-4
 
 5 “You yourself know what Joab, son of Zeruiah, did to me—what he did to the two commanders of Israel’s armies, Abner, son of Ner, and Amasa, son of Jether: he killed them and brought the blood of war into a time of peace, and put the blood of war on the belt about his waist and the sandal on his foot. ^1-kings-02-5
 
@@ -37,7 +36,7 @@ url: https://bible.usccb.org/bible/1kings/2
 
 7 But be true to the sons of Barzillai the Gileadite, and have them among those who eat at your table. For they were loyal to me when I was fleeing from your brother Absalom. ^1-kings-02-7
 
-8 You also have with you Shimei, son of Gera, the Benjaminite of Bahurim, who cursed me bitterly the day I was going to Mahanaim. When he came down to meet me at the Jordan, I swore to him by the L ORD: ‘I will not kill you by the sword.’ ^1-kings-02-8
+8 You also have with you Shimei, son of Gera, the Benjaminite of Bahurim, who cursed me bitterly the day I was going to Mahanaim. When he came down to meet me at the Jordan, I swore to him by the LORD: ‘I will not kill you by the sword.’ ^1-kings-02-8
 
 9 But you must not let him go unpunished. You are wise; you will know what to do to send his gray head down to Sheol in blood.” ^1-kings-02-9
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/1kings/2
 
 14 and he added, “I have something to say to you.” She replied, “Speak.” ^1-kings-02-14
 
-15 So he said: “You know that the kingship was mine, and all Israel expected me to be king. But the kingship passed me by and went to my brother; by the L ORD’s will it went to him. ^1-kings-02-15
+15 So he said: “You know that the kingship was mine, and all Israel expected me to be king. But the kingship passed me by and went to my brother; by the LORD’s will it went to him. ^1-kings-02-15
 
 16 But now there is one favor I would ask of you. Do not refuse me.” And she said, “Speak on.” ^1-kings-02-16
 
@@ -69,25 +68,25 @@ url: https://bible.usccb.org/bible/1kings/2
 
 22 King Solomon answered his mother, “And why do you ask that Abishag the Shunamite be given to Adonijah? Ask the kingship for him as well, for he is my older brother! Ask for him, for Abiathar the priest, for Joab, son of Zeruiah!” ^1-kings-02-22
 
-23 And King Solomon swore by the L ORD: “May God do thus to me and more, if Adonijah has not spoken this word at the cost of his life. ^1-kings-02-23
+23 And King Solomon swore by the LORD: “May God do thus to me and more, if Adonijah has not spoken this word at the cost of his life. ^1-kings-02-23
 
-24 And now, as the L ORD lives, who has established me and set me on the throne of David my father and made for me a house as he promised, this day shall Adonijah be put to death.” ^1-kings-02-24
+24 And now, as the LORD lives, who has established me and set me on the throne of David my father and made for me a house as he promised, this day shall Adonijah be put to death.” ^1-kings-02-24
 
 25 Then King Solomon sent Benaiah, son of Jehoiada, who struck him dead. ^1-kings-02-25
 
-27 So Solomon dismissed Abiathar from the office of priest of the L ORD, thus fulfilling the word the L ORD had spoken in Shiloh against the house of Eli. ^1-kings-02-27
+27 So Solomon dismissed Abiathar from the office of priest of the LORD, thus fulfilling the word the LORD had spoken in Shiloh against the house of Eli. ^1-kings-02-27
 
-28 When the news came to Joab, since he had sided with Adonijah, though not with Absalom, he fled to the tent of the L ORD and clung to the horns of the altar. ^1-kings-02-28
+28 When the news came to Joab, since he had sided with Adonijah, though not with Absalom, he fled to the tent of the LORD and clung to the horns of the altar. ^1-kings-02-28
 
-29 King Solomon was told, “Joab has fled to the tent of the L ORD and is by the altar.” He sent Benaiah, son of Jehoiada, with the order, “Go, strike him down.” ^1-kings-02-29
+29 King Solomon was told, “Joab has fled to the tent of the LORD and is by the altar.” He sent Benaiah, son of Jehoiada, with the order, “Go, strike him down.” ^1-kings-02-29
 
-30 Benaiah went to the tent of the L ORD and said to him, “The king says, ‘Come out.’” But he answered, “No! I will die here.” Benaiah reported to the king, “This is what Joab said to me in reply.” ^1-kings-02-30
+30 Benaiah went to the tent of the LORD and said to him, “The king says, ‘Come out.’” But he answered, “No! I will die here.” Benaiah reported to the king, “This is what Joab said to me in reply.” ^1-kings-02-30
 
 31 The king answered him: “Do as he has said. Strike him down and bury him, and remove from me and from my father’s house the blood which Joab shed without provocation. ^1-kings-02-31
 
-32 The L ORD will bring blood upon his own head, because he struck down two men better and more just than himself, and slew them with the sword without my father David’s knowledge: Abner, son of Ner, commander of Israel’s army, and Amasa, son of Jether, commander of Judah’s army. ^1-kings-02-32
+32 The LORD will bring blood upon his own head, because he struck down two men better and more just than himself, and slew them with the sword without my father David’s knowledge: Abner, son of Ner, commander of Israel’s army, and Amasa, son of Jether, commander of Judah’s army. ^1-kings-02-32
 
-33 Their blood will be upon the head of Joab and his descendants. But upon David and his descendants, upon his house and his throne, there shall be peace forever from the L ORD.” ^1-kings-02-33
+33 Their blood will be upon the head of Joab and his descendants. But upon David and his descendants, upon his house and his throne, there shall be peace forever from the LORD.” ^1-kings-02-33
 
 34 Benaiah, son of Jehoiada, went back, struck him down and killed him; he was buried in his house in the wilderness. ^1-kings-02-34
 
@@ -105,13 +104,13 @@ url: https://bible.usccb.org/bible/1kings/2
 
 41 When Solomon was told that Shimei had gone from Jerusalem to Gath, and had returned, ^1-kings-02-41
 
-42 the king summoned Shimei and said to him: “Did I not have you swear by the L ORD and warn you clearly, ‘The day you leave and go anywhere else, be certain you shall surely die’? And you answered, ‘I accept and obey.’ ^1-kings-02-42
+42 the king summoned Shimei and said to him: “Did I not have you swear by the LORD and warn you clearly, ‘The day you leave and go anywhere else, be certain you shall surely die’? And you answered, ‘I accept and obey.’ ^1-kings-02-42
 
-43 Why, then, have you not kept the oath of the L ORD and the command that I gave you?” ^1-kings-02-43
+43 Why, then, have you not kept the oath of the LORD and the command that I gave you?” ^1-kings-02-43
 
-44 And the king said to Shimei: “In your heart you know very well the evil that you did to David my father. Now the L ORD is bringing your own evil upon your head. ^1-kings-02-44
+44 And the king said to Shimei: “In your heart you know very well the evil that you did to David my father. Now the LORD is bringing your own evil upon your head. ^1-kings-02-44
 
-45 But King Solomon shall be blessed, and David’s throne shall be established before the L ORD forever.” ^1-kings-02-45
+45 But King Solomon shall be blessed, and David’s throne shall be established before the LORD forever.” ^1-kings-02-45
 
 46 The king then gave the order to Benaiah, son of Jehoiada, who went out and struck him dead. ^1-kings-02-46
 

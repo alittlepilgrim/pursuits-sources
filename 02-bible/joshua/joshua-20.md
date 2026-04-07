@@ -1,30 +1,28 @@
 ---
-title: Joshua, Chapter 20
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 20
+title: Joshua, Chapter 20
+url: https://bible.usccb.org/bible/joshua/20
 aliases:
   - joshua-20
   - Joshua, Chapter 20
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/20
-testament: old
-url: https://bible.usccb.org/bible/joshua/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 20
 ---
 
 # Joshua, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Cities of Refuge.**
 
-1 The L ORD said to Joshua: ^joshua-20-1
+1 The LORD said to Joshua: ^joshua-20-1
 
 2 Tell the Israelites: Designate for yourselves the cities of refuge of which I spoke to you through Moses, ^joshua-20-2
 

@@ -1,15 +1,17 @@
 ---
-title: Profession of Faith
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: profession-of-faith. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Profession of Faith
+author:
 aliases:
   - Profession of Faith
   - profession-of-faith
 tags:
   - term/profession-of-faith
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: profession-of-faith. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Profession of Faith

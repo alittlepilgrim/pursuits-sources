@@ -1,24 +1,24 @@
 ---
-title: Unitatis Redintegratio
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree on Ecumenism - Unitatis redintegratio
+title: Unitatis Redintegratio
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html
 aliases:
   - unitatis-redintegratio
 tags:
+  - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-11-14
+modified: 2026-04-06
+publish: true
+description: Decree on Ecumenism - Unitatis redintegratio
 abbreviation: ur
-author: Catholic Church
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html
 ---
 
 DECREE ON ECUMENISM
 
-***UNITATIS REDINTEGRATIO***
+# Unitatis Redintegratio
 
 **INTRODUCTION**
 
@@ -200,7 +200,7 @@ Each and all these matters which are set forth in this Decree have been favorabl
 
 *Given in Rome at St. Peter's, November 21, 1964*
 
-## Notes
+# Notes
 
 1\. Cf. [[1-corinthians-01#^1-corinthians-01-13|1 Cor. 1, 13]]. ^ur-fn-1
 

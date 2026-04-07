@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: matthew-chapter 14
+title: Matthew, Chapter 14
+url: https://bible.usccb.org/bible/matthew/14
 aliases:
   - matthew-14
   - Matthew, Chapter 14
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/14
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: matthew-chapter 14
 ---
 
 # Matthew, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Herod’s Opinion of Jesus.**
 

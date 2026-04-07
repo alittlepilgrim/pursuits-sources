@@ -1,20 +1,21 @@
 ---
-title: The Ascent of Mount Carmel, Book Three by St. John of the Cross
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: The Ascent of Mount Carmel, Book Three by St. John of the Cross
+author: Secular Order of Discalced Carmelites
 aliases:
   - The Ascent Of Mount Carmel, Book Three
   - The Ascent of Mount Carmel, Book Three by St. John of the Cross
 tags:
   - carmel
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
-## The Ascent of Mount Carmel, Book Three - OCDS Ongoing Formation Volume II
+# The Ascent of Mount Carmel, Book Three - OCDS Ongoing Formation Volume II
 
-### Introduction
+## Introduction
 
 This ongoing study on the nature and characteristics of purification are based on the doctrine of Our Holy Father St. John of the Cross. He provides the best analysis of one’s journey through different stages of purification of body, mind, and spirit. His focus is not on method but on the relationship of encountering Jesus Christ on every step of the journey. One’s life begins to mirror that of Jesus and all he provides through his sacrifice, love, and resurrection. Meditation in silence cleanses one’s mind and creates a space for God.
 
@@ -28,9 +29,9 @@ Ascent, Purification of the Memory – Session One
 
 p.17
 
-### Purification of the Memory
+## Purification of the Memory
 
-#### Session One: Natural Apprehensions: Purification of the Memory by the Practice of Hope
+### Session One: Natural Apprehensions: Purification of the Memory by the Practice of Hope
 
 (May take multiple sessions, as needed.)
 
@@ -80,7 +81,7 @@ Ascent, Purification of the Memory – Session Two
 
 p.20
 
-#### Session Two: Supernatural Apprehensions: Purification of the Memory by the Practice of Hope
+### Session Two: Supernatural Apprehensions: Purification of the Memory by the Practice of Hope
 
 (May take multiple sessions, as needed.)
 
@@ -134,7 +135,7 @@ Ascent, Purification of the Memory – Session Three
 
 p.22
 
-#### Session Three: the Benefits Obtained Through the Rejection of the Apprehensions of Images and Forms
+### Session Three: the Benefits Obtained Through the Rejection of the Apprehensions of Images and Forms
 
 (May take multiple sessions, as needed.)
 
@@ -168,11 +169,11 @@ Ascent, Purification of the Will – Session One
 
 p.24
 
-### Purification of the Will
+## Purification of the Will
 
 Purification of the will by the practice of charity, the third and final theological virtue.
 
-#### Session One: Joy in Temporal Goods – the First Emotion of the Will
+### Session One: Joy in Temporal Goods – the First Emotion of the Will
 
 (May take multiple sessions, as needed.)
 
@@ -268,7 +269,7 @@ Ascent, Purification of the Will – Session Two
 
 p.29
 
-#### Session Two: Natural Goods: the Vanity of Willful Joy in Natural Goods, and the Method of Directing Oneself Through Them in God
+### Session Two: Natural Goods: the Vanity of Willful Joy in Natural Goods, and the Method of Directing Oneself Through Them in God
 
 (May take multiple sessions, as needed.)
 
@@ -330,7 +331,7 @@ Ascent, Purification of the Will – Session Three
 
 p.32
 
-#### Session Three: Purgation of Sensory Goods
+### Session Three: Purgation of Sensory Goods
 
 The third kind of good in which the will can place the emotion of joy, and how the will should be directed to God through the purgation of this joy.
 
@@ -380,7 +381,7 @@ Ascent, Purification of the Will – Session Four
 
 p.34
 
-##### Session Four: Purgation of Moral Goods
+#### Session Four: Purgation of Moral Goods
 
 The fourth kind of good (various moral goods) in which the will can rejoice, and how the will should be directed to God through the purgation of this joy.
 
@@ -450,7 +451,7 @@ Ascent, Purification of the Will – Session Five
 
 p.37
 
-#### Session Five: Supernatural Goods, the Fifth Kind of Good in Which the Will Can Rejoice, and How Joy in Them Must Be Directed to God Through the Purgation of This Joy
+### Session Five: Supernatural Goods, the Fifth Kind of Good in Which the Will Can Rejoice, and How Joy in Them Must Be Directed to God Through the Purgation of This Joy
 
 (May take multiple sessions, as needed.)
 
@@ -498,7 +499,7 @@ Ascent, Purification of the Will – Session Six
 
 p.39
 
-#### Session Six: Purgation of Joy in Spiritual Goods
+### Session Six: Purgation of Joy in Spiritual Goods
 
 The sixth kind of good in which the will can rejoice, and of how the will should be directed to God through the purgation of this joy.
 
@@ -554,7 +555,7 @@ Ascent, Purification of the Will – Session Seven
 
 p.42
 
-#### Session Seven: Joy in Spiritual Goods. Continues the Discussion of Motivating Goods. Oratories and Dedicated Places of Prayer
+### Session Seven: Joy in Spiritual Goods. Continues the Discussion of Motivating Goods. Oratories and Dedicated Places of Prayer
 
 (May take multiple sessions, as needed.)
 
@@ -594,7 +595,7 @@ But in the manifestation of the spirit and of truth.” (1 Cor. 2:1-4)
 
 Conclusion: “... The Ascent is a series of variations on a single theme: all things are good and are meant to be means that will lead us to God. However, they can become obstacles if we choose to take up a possessive relationship to them. John puts before us both the misery that comes from a possessive heart and the joy that God grants to a soul that loves freely” (Reflections, pg. 217).
 
-### Bibliography
+## Bibliography
 
 The Collected Works of John of the Cross, ICS Publications, 1991. Foley, Marc, O.C.D. The Ascent of Mount Carmel, Reflections, ICS Publications, 2013. Foley, Marc, O.C.D. John of the Cross, The Ascent to Joy, ICS Publications, 2002. 
 

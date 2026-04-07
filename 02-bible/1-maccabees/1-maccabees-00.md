@@ -1,20 +1,20 @@
 ---
-title: 1 Maccabees, The First Book of Maccabees
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, the First Book of Maccabees
+title: 1 Maccabees, The First Book of Maccabees
+url: https://bible.usccb.org/bible/1maccabees/0
 aliases:
   - 1 Maccabees, the First Book of Maccabees
   - 1 Maccabees, The First Book of Maccabees
   - 1-maccabees-00
 tags:
   - bible/1-maccabees
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/0
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, the First Book of Maccabees
 ---
 
 # 1 Maccabees, the First Book of Maccabees

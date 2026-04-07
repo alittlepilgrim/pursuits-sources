@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 44
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 44
+title: Sirach, Chapter 44
+url: https://bible.usccb.org/bible/sirach/44
 aliases:
   - sirach-44
   - Sirach, Chapter 44
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/44
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 44
 ---
 
 # Sirach, Chapter 44
 
-### Chapter 44
+## Chapter 44
 
-#### Praise of Israel’s Great Ancestors
+### Praise of Israel’s Great Ancestors
 
 1 I will now praise the godly, ^sirach-44-1
 
@@ -95,9 +94,9 @@ but their name lives on and on.
 
 and the assembly proclaims their praises.
 
-#### The Early Ancestors
+### The Early Ancestors
 
-16 \[E NOCH walked with the L ORD and was taken, ^sirach-44-16
+16 \[E NOCH walked with the LORD and was taken, ^sirach-44-16
 
 that succeeding generations might learn by his example.\]
 

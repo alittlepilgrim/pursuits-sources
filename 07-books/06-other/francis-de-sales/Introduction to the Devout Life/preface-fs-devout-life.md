@@ -1,21 +1,19 @@
 ---
-title: Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
+title: Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
+author: Saint Francis de Sales
 aliases:
   - Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
 tags:
-  - author/francis-de-sales
-  - book
-  - book/introduction-devout-life
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
 ---
 
-## Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
+# Preface by the Author - Introduction to the Devout Life by St. Francis of Sales
 
 DEAR reader, I request you to read this Preface for your own satisfaction as well as mine.
 

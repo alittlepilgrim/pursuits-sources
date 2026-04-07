@@ -1,29 +1,28 @@
 ---
-title: Wisdom, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 13
+title: Wisdom, Chapter 13
+url: https://bible.usccb.org/bible/wisdom/13
 aliases:
   - wisdom-13
   - Wisdom, Chapter 13
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/13
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 13
 ---
 
 # Wisdom, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
-#### Digression on False Worship
+### Digression on False Worship
 
-##### A. Nature Worship
+#### A. Nature Worship
 
 1 Foolish by nature were all who were in ignorance of God, ^wisdom-13-1
 
@@ -69,7 +68,7 @@ that they could speculate about the world,
 
 how did they not more quickly find its Lord?
 
-##### B. Idolatry
+#### B. Idolatry
 
 10 But wretched are they, and in dead things are their hopes, ^wisdom-13-10
 
@@ -79,7 +78,7 @@ Gold and silver, the product of art, and images of beasts,
 
 or useless stone, the work of an ancient hand.
 
-#### The Carpenter and Wooden Idols
+### The Carpenter and Wooden Idols
 
 11 A carpenter may cut down a suitable tree ^wisdom-13-11
 

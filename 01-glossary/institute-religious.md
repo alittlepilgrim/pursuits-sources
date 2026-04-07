@@ -1,15 +1,17 @@
 ---
-title: Institute, Religious
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: institute-religious. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Institute, Religious
+author:
 aliases:
   - institute-religious
   - Institute, Religious
 tags:
   - term/institute-religious
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: institute-religious. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Institute, Religious

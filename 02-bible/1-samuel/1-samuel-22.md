@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 22
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 22
+title: 1 Samuel, Chapter 22
+url: https://bible.usccb.org/bible/1samuel/22
 aliases:
   - 1 Samuel, Chapter 22
   - 1-samuel-22
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/22
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 22
 ---
 
 # 1 Samuel, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 1 David left Gath and escaped to the cave of Adullam. When his brothers and the rest of his family heard about it, they came down to him there. ^1-samuel-22-1
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/1samuel/22
 
 9 Then Doeg the Edomite, who was standing with Saul’s officers, spoke up: “I saw the son of Jesse come to Ahimelech, son of Ahitub, in Nob. ^1-samuel-22-9
 
-10 He consulted the L ORD for him, furnished him with provisions, and gave him the sword of Goliath the Philistine.” ^1-samuel-22-10
+10 He consulted the LORD for him, furnished him with provisions, and gave him the sword of Goliath the Philistine.” ^1-samuel-22-10
 
 **Slaughter of the Priests.**
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/1samuel/22
 
 16 But the king said, “You shall certainly die, Ahimelech, with all your family.” ^1-samuel-22-16
 
-17 The king then commanded his guards standing by him: “Turn and kill the priests of the L ORD, for they gave David a hand. They knew he was a fugitive and yet failed to inform me.” But the king’s servants refused to raise a hand to strike the priests of the L ORD. ^1-samuel-22-17
+17 The king then commanded his guards standing by him: “Turn and kill the priests of the LORD, for they gave David a hand. They knew he was a fugitive and yet failed to inform me.” But the king’s servants refused to raise a hand to strike the priests of the LORD. ^1-samuel-22-17
 
 18 The king therefore commanded Doeg, “You, turn and kill the priests!” So Doeg the Edomite himself turned and killed the priests that day—eighty-five who wore the linen ephod. ^1-samuel-22-18
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/1samuel/22
 
 20 One son of Ahimelech, son of Ahitub, named Abiathar, escaped and fled to David. ^1-samuel-22-20
 
-21 When Abiathar told David that Saul had slain the priests of the L ORD, ^1-samuel-22-21
+21 When Abiathar told David that Saul had slain the priests of the LORD, ^1-samuel-22-21
 
 22 David said to him: “I knew that day, when Doeg the Edomite was there, that he would certainly tell Saul. I am responsible for the slaughter of all your family. ^1-samuel-22-22
 

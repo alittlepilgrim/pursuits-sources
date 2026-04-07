@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint John of the Cross
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - john-of-the-cross-saint
@@ -11,8 +8,11 @@ aliases:
 tags:
   - role/doctor-of-the-church
   - term/priest
+  - type/figure
 celebration: 12-14
-full_name: ST. JOHN OF THE CROSS
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint John of the Cross

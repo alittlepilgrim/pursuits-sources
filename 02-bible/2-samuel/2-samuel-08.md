@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 8
+title: 2 Samuel, Chapter 8
+url: https://bible.usccb.org/bible/2samuel/8
 aliases:
   - 2 Samuel, Chapter 8
   - 2-samuel-08
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/8
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 8
 ---
 
 # 2 Samuel, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Summary of David’s Wars.**
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/2samuel/8
 
 5 The Arameans of Damascus came to help Hadadezer, king of Zobah, but David also defeated twenty-two thousand of them in Aram. ^2-samuel-08-5
 
-6 David then placed garrisons in the Damascus region of Aram, and the Arameans became David’s subjects, paying tribute. The L ORD brought David victory in all his undertakings. ^2-samuel-08-6
+6 David then placed garrisons in the Damascus region of Aram, and the Arameans became David’s subjects, paying tribute. The LORD brought David victory in all his undertakings. ^2-samuel-08-6
 
 7 David took the golden shields that were carried by Hadadezer’s attendants and brought them to Jerusalem. (These Shishak, king of Egypt, took away when he came to Jerusalem in the days of Rehoboam, son of Solomon.) ^2-samuel-08-7
 
@@ -43,13 +42,13 @@ url: https://bible.usccb.org/bible/2samuel/8
 
 10 Toi sent his son Hadoram to wish King David well and to congratulate him on having waged a victorious war against Hadadezer; for Hadadezer had been at war with Toi. Hadoram also brought with him articles of silver, gold, and bronze. ^2-samuel-08-10
 
-11 These also King David consecrated to the L ORD along with the silver and gold that he had taken for this purpose from all the nations he had subdued: ^2-samuel-08-11
+11 These also King David consecrated to the LORD along with the silver and gold that he had taken for this purpose from all the nations he had subdued: ^2-samuel-08-11
 
 12 from Edom, Moab, the Ammonites, the Philistines, and Amalek, and from the spoils of Hadadezer, son of Rehob, king of Zobah. ^2-samuel-08-12
 
 13 On his return, David made a name for himself by defeating eighteen thousand Edomites in the Valley of Salt. ^2-samuel-08-13
 
-14 He set up garrisons in Edom, and all the Edomites became David’s subjects. Thus the L ORD brought David victory in all his undertakings. ^2-samuel-08-14
+14 He set up garrisons in Edom, and all the Edomites became David’s subjects. Thus the LORD brought David victory in all his undertakings. ^2-samuel-08-14
 
 **David’s Officials.**
 

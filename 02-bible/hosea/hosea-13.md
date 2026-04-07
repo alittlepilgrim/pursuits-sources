@@ -1,27 +1,26 @@
 ---
-title: Hosea, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 13
+title: Hosea, Chapter 13
+url: https://bible.usccb.org/bible/hosea/13
 aliases:
   - hosea-13
   - Hosea, Chapter 13
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 13
 ---
 
 # Hosea, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
-#### The Death of Ephraim
+### The Death of Ephraim
 
 1 When Ephraim spoke there was terror; ^hosea-13-1
 
@@ -49,7 +48,7 @@ Like chaff storm-driven from the threshing floor
 
 or like smoke out of the window.
 
-4 I, the L ORD, am your God, ^hosea-13-4
+4 I, the LORD, am your God, ^hosea-13-4
 
 since the land of Egypt;
 
@@ -123,7 +122,7 @@ Compassion is hidden from my eyes.
 
 15 Though Ephraim may flourish among his brothers, ^hosea-13-15
 
-an east wind will come, a wind from the L ORD,
+an east wind will come, a wind from the LORD,
 
 rising from the wilderness,
 
@@ -139,7 +138,7 @@ of every precious thing.
 
 \* (13:2) Kiss calves: apparently a reference to a ritual gesture associated with the worship of Baal represented as a calf ([[1-kings-19|1 Kgs 19]]:18).
 
-\* (13:4) I, the L ORD …land of Egypt: according to [[1-kings-12|1 Kgs 12]]:28, Jeroboam introduced the calves used in the worship at the sanctuaries in Bethel and Dan with the words: “Here are your gods, O Israel, who brought you up from the land of Egypt.”
+\* (13:4) I, the LORD …land of Egypt: according to [[1-kings-12|1 Kgs 12]]:28, Jeroboam introduced the calves used in the worship at the sanctuaries in Bethel and Dan with the words: “Here are your gods, O Israel, who brought you up from the land of Egypt.”
 
 \* (13:9] – [10) Only God can save Israel, not the king, whom Israel had requested from the Lord ([1 Sm 8:1] – [9]).
 

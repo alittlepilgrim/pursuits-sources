@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 13
+title: Isaiah, Chapter 13
+url: https://bible.usccb.org/bible/isaiah/13
 aliases:
   - isaiah-13
   - Isaiah, Chapter 13
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 13
 ---
 
 # Isaiah, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Babylon.**
 
@@ -45,7 +44,7 @@ that of an immense throng!
 
 Listen! the noise of kingdoms, nations assembled!
 
-The L ORD of hosts is mustering
+The LORD of hosts is mustering
 
 an army for battle.
 
@@ -53,11 +52,11 @@ an army for battle.
 
 and from the end of the heavens,
 
-The L ORD and the instruments of his wrath,
+The LORD and the instruments of his wrath,
 
 to destroy all the land.
 
-6 Howl, for the day of the L ORD is near; ^isaiah-13-6
+6 Howl, for the day of the LORD is near; ^isaiah-13-6
 
 as destruction from the Almighty it comes.
 
@@ -75,7 +74,7 @@ They look aghast at each other,
 
 their faces aflame.
 
-9 Indeed, the day of the L ORD comes, ^isaiah-13-9
+9 Indeed, the day of the LORD comes, ^isaiah-13-9
 
 cruel, with wrath and burning anger;
 
@@ -107,7 +106,7 @@ human beings, than the gold of Ophir.
 
 and the earth shall be shaken from its place,
 
-At the wrath of the L ORD of hosts
+At the wrath of the LORD of hosts
 
 on the day of his burning anger.
 
@@ -183,7 +182,7 @@ and its days shall not be prolonged.
 
 \* (13:3) Consecrated ones: in the sense that they will wage a “holy war” and carry out God’s plan.
 
-\* (13:6] – [8) Day of the L ORD: described often in prophetic writings, it generally signified the coming of the Lord in power and majesty to destroy his enemies. The figures used convey the idea of horror and destruction ([Am 5:18] – [20]). The Almighty: Heb. *shaddai*; there is a play on words between destruction (*shod*) and Shaddai, a title for God traditionally rendered as “the Almighty” (cf. [[genesis-17|Gen 17]]:1; ([[exodus-06|Ex 6]]:3]).
+\* (13:6] – [8) Day of the LORD: described often in prophetic writings, it generally signified the coming of the Lord in power and majesty to destroy his enemies. The figures used convey the idea of horror and destruction ([Am 5:18] – [20]). The Almighty: Heb. *shaddai*; there is a play on words between destruction (*shod*) and Shaddai, a title for God traditionally rendered as “the Almighty” (cf. [[genesis-17|Gen 17]]:1; ([[exodus-06|Ex 6]]:3]).
 
 \* (13:12) Ophir: cf. note on [Ps 45:10].
 

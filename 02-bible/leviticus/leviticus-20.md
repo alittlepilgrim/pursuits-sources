@@ -1,29 +1,28 @@
 ---
-title: Leviticus, Chapter 20
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 20
+title: Leviticus, Chapter 20
+url: https://bible.usccb.org/bible/leviticus/20
 aliases:
   - leviticus-20
   - Leviticus, Chapter 20
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 20
 ---
 
 # Leviticus, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Penalties for Various Sins.**
 
-1 The L ORD said to Moses: ^leviticus-20-1
+1 The LORD said to Moses: ^leviticus-20-1
 
 2 Tell the Israelites: Anyone, whether an Israelite or an alien residing in Israel, who gives offspring to Molech shall be put to death. The people of the land shall stone that person. ^leviticus-20-2
 
@@ -35,9 +34,9 @@ url: https://bible.usccb.org/bible/leviticus/20
 
 6 Should anyone turn to ghosts and spirits and prostitute oneself with them, I will turn against that person and cut such a one off from among the people. ^leviticus-20-6
 
-7 Sanctify yourselves, then, and be holy; for I, the L ORD, your God, am holy. ^leviticus-20-7
+7 Sanctify yourselves, then, and be holy; for I, the LORD, your God, am holy. ^leviticus-20-7
 
-8 Be careful, therefore, to observe my statutes. I, the L ORD, make you holy. ^leviticus-20-8
+8 Be careful, therefore, to observe my statutes. I, the LORD, make you holy. ^leviticus-20-8
 
 9 Anyone who curses father or mother shall be put to death; and having cursed father or mother, such a one will bear the bloodguilt. ^leviticus-20-9
 
@@ -69,11 +68,11 @@ url: https://bible.usccb.org/bible/leviticus/20
 
 23 Do not conform, therefore, to the customs of the nations whom I am driving out of your way, because all these things that they have done have filled me with disgust for them. ^leviticus-20-23
 
-24 But to you I have said: You shall take possession of their land. I am giving it to you to possess, a land flowing with milk and honey. I, the L ORD, am your God, who have set you apart from other peoples. ^leviticus-20-24
+24 But to you I have said: You shall take possession of their land. I am giving it to you to possess, a land flowing with milk and honey. I, the LORD, am your God, who have set you apart from other peoples. ^leviticus-20-24
 
 25 You, too, must set apart, then, the clean animals from the unclean, and the clean birds from the unclean, so that you do not make yourselves detestable through any beast or bird or any creature which creeps on the ground that I have set apart for you as unclean. ^leviticus-20-25
 
-26 To me, therefore, you shall be holy; for I, the L ORD, am holy, and I have set you apart from other peoples to be my own. ^leviticus-20-26
+26 To me, therefore, you shall be holy; for I, the LORD, am holy, and I have set you apart from other peoples to be my own. ^leviticus-20-26
 
 27 A man or a woman who acts as a medium or clairvoyant shall be put to death. They shall be stoned to death; their bloodguilt is upon them. ^leviticus-20-27
 

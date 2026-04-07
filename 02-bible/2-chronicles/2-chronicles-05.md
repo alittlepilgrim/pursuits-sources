@@ -1,31 +1,30 @@
 ---
-title: 2 Chronicles, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 5
+title: 2 Chronicles, Chapter 5
+url: https://bible.usccb.org/bible/2chronicles/5
 aliases:
   - 2 Chronicles, Chapter 5
   - 2-chronicles-05
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/5
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 5
 ---
 
 # 2 Chronicles, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Dedication of the Temple.**
 
-1 When all the work undertaken by Solomon for the house of the L ORD was completed, he brought in the votive offerings of David his father, putting the silver, the gold, and other articles in the treasuries of the house of God. ^2-chronicles-05-1
+1 When all the work undertaken by Solomon for the house of the LORD was completed, he brought in the votive offerings of David his father, putting the silver, the gold, and other articles in the treasuries of the house of God. ^2-chronicles-05-1
 
-2 Then Solomon assembled the elders of Israel and all the heads of the tribes, the princes in the ancestral houses of the Israelites, to Jerusalem to bring up the ark of the L ORD’s covenant from the City of David, which is Zion. ^2-chronicles-05-2
+2 Then Solomon assembled the elders of Israel and all the heads of the tribes, the princes in the ancestral houses of the Israelites, to Jerusalem to bring up the ark of the LORD’s covenant from the City of David, which is Zion. ^2-chronicles-05-2
 
 3 All the people of Israel assembled before the king during the festival of the seventh month. ^2-chronicles-05-3
 
@@ -35,21 +34,21 @@ url: https://bible.usccb.org/bible/2chronicles/5
 
 6 King Solomon and the entire community of Israel, gathered for the occasion before the ark, sacrificed sheep and oxen too many to number or count. ^2-chronicles-05-6
 
-7 The priests brought the ark of the covenant of the L ORD to its place: the inner sanctuary of the house, the holy of holies, beneath the wings of the cherubim. ^2-chronicles-05-7
+7 The priests brought the ark of the covenant of the LORD to its place: the inner sanctuary of the house, the holy of holies, beneath the wings of the cherubim. ^2-chronicles-05-7
 
 8 The cherubim had their wings spread out over the place of the ark, covering the ark and its poles from above. ^2-chronicles-05-8
 
 9 The poles were so long that their ends could be seen from the holy place in front of the inner sanctuary. (They cannot be seen from outside, but they remain there to this day.) ^2-chronicles-05-9
 
-10 There was nothing in the ark but the two tablets which Moses had put there at Horeb when the L ORD made a covenant with the Israelites after they went forth from Egypt. ^2-chronicles-05-10
+10 There was nothing in the ark but the two tablets which Moses had put there at Horeb when the LORD made a covenant with the Israelites after they went forth from Egypt. ^2-chronicles-05-10
 
 11 When the priests left the holy place (all the priests who were present had purified themselves regardless of the rotation of their various divisions), ^2-chronicles-05-11
 
 12 the Levites who were singers, all who belonged to Asaph, Heman, Jeduthun, and their sons and brothers, clothed in fine linen, with cymbals, harps, and lyres, stood east of the altar, and with them a hundred and twenty priests blowing trumpets. ^2-chronicles-05-12
 
-13 When the trumpeters and singers were heard as a single voice praising and giving thanks to the L ORD, and when they raised the sound of the trumpets, cymbals, and other musical instruments to “Praise the L ORD, who is so good, whose love endures forever,” the cloud filled the house of the L ORD. ^2-chronicles-05-13
+13 When the trumpeters and singers were heard as a single voice praising and giving thanks to the LORD, and when they raised the sound of the trumpets, cymbals, and other musical instruments to “Praise the LORD, who is so good, whose love endures forever,” the cloud filled the house of the LORD. ^2-chronicles-05-13
 
-14 The priests could no longer minister because of the cloud, since the glory of the L ORD had filled the house of God. ^2-chronicles-05-14
+14 The priests could no longer minister because of the cloud, since the glory of the LORD had filled the house of God. ^2-chronicles-05-14
 
 \* (5:3) Festival of the seventh month: feast of Booths (Tabernacles); cf. notes on [7:9] – [10]; [1 Kgs 8:2].
 

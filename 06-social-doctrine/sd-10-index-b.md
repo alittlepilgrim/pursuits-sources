@@ -1,45 +1,48 @@
 ---
-title: B - Social Doctrine of the Church Analytical Index
-created: 2025-07-20
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: baptism. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: B - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - B - Social Doctrine of the Church Analytical Index
   - baptism
   - Baptism
   - sd-10-index-b
 tags:
+  - author/catholic-church
   - term/baptism
-author: Catholic Church
+  - type/magisterium
+  - vatican/social-doctrine
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: baptism. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # B - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Bartering - See [[sd-10-index-e#Exchange|Exchange]]
+## Bartering - See [[sd-10-index-e#Exchange|Exchange]]
 
-### Battle
+## Battle
 
 See Also [[sd-10-index-s#Struggle|Struggle]], [[sd-10-index-f#Fight|Fight]], [[sd-10-index-r#Recourse to Arms|Recourse to Arms]], [[sd-10-index-e#Effort To Destroy|Effort to Destroy]]
 
 The Church, the battle for peace and prayer, [[sd-04-part-II#^csdc-519|519]]
 
-### Benefits
+## Benefits
 
 Love, cooperation and many benefits, [[sd-04-part-II#^csdc-499|499]]
 
-### Biocentrism
+## Biocentrism
 
 A correct understanding of the environment and biocentrism, [[sd-04-part-II#^csdc-463|463]]
 
-### Biotechnology
+## Biotechnology
 
 Biotechnology, hopes and hostility, [[sd-04-part-II#^csdc-472|472]]
 
@@ -59,13 +62,13 @@ Politics, legislators and biotechnology, [[sd-04-part-II#^csdc-479|479]]
 
 Information and biotechnology, [[sd-04-part-II#^csdc-480|480]]
 
-### Birth
+## Birth
 
 Natural methods and birth regulation, [[sd-04-part-II#^csdc-233|233]]
 
 The northern hemisphere and birth rates, [[sd-04-part-II#^csdc-483|483]]
 
-### Bishop
+## Bishop
 
 The _Compendium_, Bishops and Episcopal Conferences, [[sd-02-intro#^csdc-7|7]]
 
@@ -81,11 +84,11 @@ The bishop and evangelisation of society, [[sd-05-part-III#^csdc-539|539]]
 
 The bishop and spreading social doctrine, [[sd-05-part-III#^csdc-539|539]]
 
-### Bishops' Conference
+## Bishops' Conference
 
 Bishops' Conferences and the _Compendium,_ [[sd-02-intro#^csdc-7|7]], [[sd-02-intro#^csdc-8|8]]
 
-### Body - Bodily - Bodiliness
+## Body - Bodily - Bodiliness
 
 (see Also [[sd-10-index-o#Corporeal|Corporeal]], [[sd-10-index-s#Social Body|Social Body]])
 
@@ -121,11 +124,11 @@ Crimes and international judicial bodies, [[sd-04-part-II#^csdc-518|518]]
 
 Anthropology, Spirit and body, [[sd-05-part-III#^csdc-522|522]]
 
-### Brotherhood
+## Brotherhood
 
 - See [[sd-10-index-f#Fraternal|Fraternal]]
 
-### Bureaucracy - Bureaucratization
+## Bureaucracy - Bureaucratization
 
 Subsidiarity and bureaucratization, [[sd-03-part-I#^csdc-187|187]]
 
@@ -135,7 +138,7 @@ Public agencies and bureaucratic logic, [[sd-04-part-II#^csdc-354|354]]
 
 Administration and bureaucratization, [[sd-04-part-II#^csdc-412|412]]
 
-### Business - Venture
+## Business - Venture
 
 (see Also [[sd-10-index-o#Business Owner|Business Owner]])
 
@@ -199,7 +202,7 @@ Public spending and business activities, [[sd-04-part-II#^csdc-355|355]]
 
 Consumers and business products, [[sd-04-part-II#^csdc-359|359]]
 
-### Business Owner
+## Business Owner
 
 Relations between workers and business owners, [[sd-04-part-II#^csdc-279|279]]
 

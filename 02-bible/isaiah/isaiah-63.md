@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 63
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 63
+title: Isaiah, Chapter 63
+url: https://bible.usccb.org/bible/isaiah/63
 aliases:
   - isaiah-63
   - Isaiah, Chapter 63
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/63
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 63
 ---
 
 # Isaiah, Chapter 63
 
-### Chapter 63
+## Chapter 63
 
-#### The Divine Warrior
+### The Divine Warrior
 
 1 Who is this that comes from Edom, ^isaiah-63-1
 
@@ -69,13 +68,13 @@ I made them drunk in my wrath,
 
 and I poured out their blood upon the ground.”
 
-#### Prayer for the Return of God’s Favor
+### Prayer for the Return of God’s Favor
 
-7 The loving deeds of the L ORD I will recall, ^isaiah-63-7
+7 The loving deeds of the LORD I will recall, ^isaiah-63-7
 
-the glorious acts of the L ORD,
+the glorious acts of the LORD,
 
-Because of all the L ORD has done for us,
+Because of all the LORD has done for us,
 
 the immense goodness to the house of Israel,
 
@@ -97,7 +96,7 @@ but his presence that saved them.
 
 Because of his love and pity
 
-the L ORD redeemed them,
+the LORD redeemed them,
 
 Lifting them up and carrying them
 
@@ -137,7 +136,7 @@ like horses in open country?
 
 they did not stumble.
 
-The spirit of the L ORD guided them.
+The spirit of the LORD guided them.
 
 Thus you led your people,
 
@@ -159,11 +158,11 @@ Were [[abraham|Abraham]] not to know us,
 
 nor Israel to acknowledge us,
 
-You, L ORD, are our father,
+You, LORD, are our father,
 
 our redeemer you are named from of old.
 
-17 Why do you make us wander, L ORD, from your ways, ^isaiah-63-17
+17 Why do you make us wander, LORD, from your ways, ^isaiah-63-17
 
 and harden our hearts so that we do not fear you?
 

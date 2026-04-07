@@ -1,21 +1,20 @@
 ---
-title: Brother Lawrence of the Resurrection
-created: 2025-09-12
-modified: 2026-04-02
 type: figure
-publish: false
+title: Brother Lawrence of the Resurrection
 aliases:
-  - 20250912-224200
   - Brother Lawrence of the Resurrection
   - brother-lawrence
 tags:
   - carmel
   - role/religious
   - term/lay-brother
-birth_date: c.1614
-celebration: 02-12
+  - type/figure
+birthday: c.1614
 death_date: 1691-02-12
-full_name: Brother Lawrence of the Resurrection
+celebration: 02-12
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Brother Lawrence of the Resurrection

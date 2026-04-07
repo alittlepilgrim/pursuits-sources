@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 10
+title: Judith, Chapter 10
+url: https://bible.usccb.org/bible/judith/10
 aliases:
   - judith-10
   - Judith, Chapter 10
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 10
 ---
 
 # Judith, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Judith Prepares to Depart.**
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/judith/10
 
 10 and they did so. Then Judith and her maidservant went out. The men of the city kept her in view as she went down the mountain and crossed the valley; then they lost sight of her. ^judith-10-10
 
-## Iv. Judith Goes out to War
+# Iv. Judith Goes out to War
 
 11 As Judith and her maid walked directly across the valley, they encountered the Assyrian patrol. ^judith-10-11
 

@@ -1,27 +1,26 @@
 ---
-title: Proverbs, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 4
+title: Proverbs, Chapter 4
+url: https://bible.usccb.org/bible/proverbs/4
 aliases:
   - proverbs-04
   - Proverbs, Chapter 4
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/4
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 4
 ---
 
 # Proverbs, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
-#### The Teacher as Model Disciple
+### The Teacher as Model Disciple
 
 1 Hear, O children, a father’s instruction, ^proverbs-04-1
 
@@ -61,7 +60,7 @@ she will bring you honors if you embrace her;
 
 a glorious crown will she bestow on you.”
 
-#### The Two Ways
+### The Two Ways
 
 10 Hear, my son, and receive my words, ^proverbs-04-10
 
@@ -103,7 +102,7 @@ that grows in brilliance till perfect day.
 
 they do not know on what they stumble.
 
-#### With Your Whole Being Heed My Words and Live
+### With Your Whole Being Heed My Words and Live
 
 20 My son, to my words be attentive, ^proverbs-04-20
 

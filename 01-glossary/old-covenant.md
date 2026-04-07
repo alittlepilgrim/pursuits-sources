@@ -1,9 +1,7 @@
 ---
-title: Old Covenant
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Old Covenant
+author:
 aliases:
   - Old Covenant
   - old-covenant
@@ -11,6 +9,10 @@ tags:
   - catechism
   - term
   - term/old-covenant
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
 ---
 
 # Old Covenant

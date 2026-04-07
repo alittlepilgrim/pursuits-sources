@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 30
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 30
+title: Proverbs, Chapter 30
+url: https://bible.usccb.org/bible/proverbs/30
 aliases:
   - proverbs-30
   - Proverbs, Chapter 30
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/30
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 30
 ---
 
 # Proverbs, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
 1 The words of Agur, son of Jakeh the Massaite: ^proverbs-30-1
 
@@ -65,7 +64,7 @@ provide me only with the food I need;
 
 9 Lest, being full, I deny you, ^proverbs-30-9
 
-saying, “Who is the L ORD?”
+saying, “Who is the LORD?”
 
 Or, being in want, I steal,
 

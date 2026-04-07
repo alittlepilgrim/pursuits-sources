@@ -1,24 +1,22 @@
 ---
-title: Book VII. Union of the Soul with Her God, Which Is Perfected in Prayer - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book VII. Union of the Soul with Her God, Which Is Perfected in Prayer - 
+title: Book VII. Union of the Soul with Her God, Which Is Perfected in Prayer - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book VII. Union of the Soul with Her God
   - Which Is Perfected in Prayer
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book VII. Union of the Soul with Her God, Which Is Perfected in Prayer -
 ---
 
 # Book VII. Union of the Soul with Her God, Which Is Perfected in Prayer
 
-### Chapter I. How Love Effects the Union of the Soul with God in Prayer
+## Chapter I. How Love Effects the Union of the Soul with God in Prayer
 
 We speak not here of the general union of the heart with its God, but of certain particular acts and movements which the soul, recollected in God, makes by way of prayer, to be more and more united and joined to his divine goodness: for there is truly a difference between joining or uniting one thing to another, and clasping or pressing one thing against or upon another; because to join or unite there is only required an application of one thing to the other, so that they may touch, and be together, as we join vines to elms, and jessamine to the trellis-work of the arbours which are made in gardens. But to squeeze and press together, a strong application must be made, which increases and augments the union; so that to clasp together is to join strongly and closely, as we see ivy joined to trees, which is not united only, but pressed and clasped so hard to them that it even penetrates and enters into their bark.
 
@@ -40,7 +38,7 @@ Now when I speak here of the sacred sentiment of the presence of God, I do not m
 
 [318] Cant. i. 1.
 
-### Chapter II. of the Various Degrees of the Holy Union Which Is Made in Prayer
+## Chapter II. of the Various Degrees of the Holy Union Which Is Made in Prayer
 
 Sometimes the union is made without our co-operation, save only by a simple following (suite), permitting ourselves to be united to the divine goodness without resistance, as a little child, in love with its mother's breasts, and yet so feeble that it cannot move itself towards them, nor cleave to them when there; only it is--Ah! so happy, to be taken and drawn within its mother's arms, and to be pressed by her to her bosom.
 
@@ -84,7 +82,7 @@ The charity of Christ presses us. [326] O God! what an example of excellent unio
 
 [326] 2 Cor. v. 14.
 
-### Chapter III. of the Sovereign Degree of Union by Suspension and Ravishment
+## Chapter III. of the Sovereign Degree of Union by Suspension and Ravishment
 
 Whether, therefore, the union of our soul with God be made perceptibly or imperceptibly, God is always the author thereof; for none can be united to him, but by going unto him, nor can any one go unto him, unless he be drawn by him, as the heavenly lover testifies, saying: No man can come to me, except the Father, who hath sent me, draw him.
 
@@ -128,7 +126,7 @@ thou art wholly mine, when shall I be wholly thine? The adamant draws and unites
 
 [334] Col. iii. 14.
 
-### Chapter IV. of Rapture, and of the First Species of It
+## Chapter IV. of Rapture, and of the First Species of It
 
 An ecstasy is called a rapture inasmuch as God does thereby rapt us, and raise us up to himself, and a rapture is termed an ecstasy, because by it we go and remain out of, and above, ourselves, to be united to God. And although the attractions by which God draws us be admirably pleasing, sweet and delicious, yet on account of the force which the divine beauty and goodness have to draw unto them the attention and application of the spirit, it seems that it not only raises us but that it ravishes and bears us away. As, on the contrary, by reason of the most free consent and ardent motion, by which the ravished soul goes out after the divine attractions, she seems not only to mount and rise, but also to break out of herself and cast herself into the very divinity. Similarly the soul may be ravished out of itself by the infamous ecstasy of sensual pleasure, by which however it is not raised up, but is degraded below itself.
 
@@ -138,7 +136,7 @@ Now admiration of things that cause pleasure closely fixes and glues the spirit 
 
 Sometimes also besides this, God imparts to the soul a light not only clear but growing, like the daybreak; and then, as those who have found a gold-mine continually break more earth, ever to find more of the wished-for metal, so the understanding ever buries itself deeper and deeper in the consideration and admiration of its divine object: for even as admiration has produced philosophy, and the attentive study of natural things, so it has also caused contemplation and mystical theology; and as this admiration when it is strong, keeps us out of ourselves and above ourselves by a lively attention and application of our understanding to heavenly things, it carries us consequently into ecstasy.
 
-### Chapter V. of the Second Species of Rapture
+## Chapter V. of the Second Species of Rapture
 
 God draws men's spirits unto him by his sovereign beauty and incomprehensible goodness, which two excellences are however but one supreme divinity, at once most singularly beautiful and good. Every thing is done for the good and for the beautiful, all things look towards them, are moved and stayed by them. The good and beautiful are desirable, agreeable, and dear to all, for them all things do and will whatsoever they do and will. And as for the beautiful, because it draws and recalls all things to itself, the Greeks give it a name which signifies recalling. [335]
 
@@ -158,7 +156,7 @@ Now this rapture of love happens in the will thus. God touches it with the attra
 
 [339] Rom. v. 5.
 
-### Chapter VI. of the Signs of Good Rapture, and of the Third Species of the Same
+## Chapter VI. of the Signs of Good Rapture, and of the Third Species of the Same
 
 Indeed, Theotimus, there have been many in our age who believed, and others with them, that they were very frequently ravished by God in ecstasy, and yet in the end it was discovered that all were but diabolical illusions and operations. A certain priest in S. Augustine's time put himself into ecstasies whenever he pleased, singing or getting sung certain mournful and melancholy airs, and this only to content the curiosity of those who desired to view this spectacle. But what is most wonderful is, that his ecstasy went so far that he did not feel fire which was applied to him, till after he was come to himself; and yet if any one spoke somewhat loudly, and with a clear voice, he heard them as if from afar, and he had no respiration. The philosophers themselves acknowledged certain species of natural ecstasies, caused by a vehement application of the spirit to the consideration of high things: wherefore we must not think it strange if the devil, to play the ape, to beguile souls, to scandalize the weak, and to transform himself into an angel of light, cause raptures in certain souls who are not solidly instructed in solid piety.
 
@@ -174,7 +172,7 @@ Silkworms change their being, and from worms become butterflies; bees are born w
 
 [340] Col. iii. 3.
 
-### Chapter VII. How Love Is the Life of the Soul, and Continuation of the Discourse on
+## Chapter VII. How Love Is the Life of the Soul, and Continuation of the Discourse on
 
 THE ECSTATIC LIFE.
 
@@ -204,7 +202,7 @@ Now whosoever is raised up again to this new life of our Saviour, neither lives 
 
 [346] Rom. vi. 11
 
-### Chapter VIII. an Admirable Exhortation of S. Paul to the Ecstatic and Superhuman
+## Chapter VIII. an Admirable Exhortation of S. Paul to the Ecstatic and Superhuman
 
 LIFE.
 
@@ -226,7 +224,7 @@ He made us his own by Baptism, and tenderly nourishes both our soul and our body
 
 [347] 2 Cor. v. 14.
 
-### Chapter IX. of the Supreme Effect of Affective Love, Which Is the Death of the
+## Chapter IX. of the Supreme Effect of Affective Love, Which Is the Death of the
 
 LOVERS; AND FIRST, OF SUCH AS DIED IN LOVE.
 
@@ -250,7 +248,7 @@ Many saints, however, have departed this life not only in charity and with the h
 
 [352] Pss. v. 8; cxxxvii. 2.
 
-### Chapter X. of Those Who Died by and for Divine Love
+## Chapter X. of Those Who Died by and for Divine Love
 
 All the Martyrs, Theotimus, died for the love of God; for when we say that some of them died for the faith, we mean not that they died for a dead faith, but for the living faith, that is, quickened by charity.
 
@@ -264,7 +262,7 @@ O God! Theotimus, how happy this death is! How delightful is this love-dart, whi
 
 Francis, young Stanislaus Kotska, S. Charles, and many hundreds more who died so young? Verily, as for S. Francis, from the time that he received the holy stigmata of his master, he had such violent and sharp pains, pangs, convulsions and illnesses, that he became mere skin and bone, and he seemed rather to be a skeleton, or a picture of death, than a man yet living and breathing.
 
-### Chapter XI. How Some of the Heavenly Lovers Died Also of Love
+## Chapter XI. How Some of the Heavenly Lovers Died Also of Love
 
 All the elect then, Theotimus, died in the habit of holy love; but further, some died even in the exercise of it, others for this love, and others by this same love. But what belongs to the sovereign degree of love is, that some die of love; and then it is that love not only wounds the soul, so as to make her languish, but even pierces her through, delivering its blow right in the middle of the heart, and so fatally, that it drives the soul out of the body;--which happens thus.
 
@@ -276,7 +274,7 @@ The great S. Francis, who in this subject of heavenly love ever returns before m
 
    S. Basil had contracted a strict friendship with a physician, a Jew by nation and religion, with the intention of bringing him to the faith of Jesus Christ, which nevertheless he could not effect till such time as, worn out with fastings, watchings and labours, being upon the point of dying, he inquired of the physician what opinion he had of him, conjuring him to speak frankly. The physician did so, and having felt his pulse:--there is no further remedy, said he; before the sun sets you will depart this life. But what will you say, replied the patient, if to-morrow I shall be alive? I will become a Christian, I promise you, said the physician. With this the saint prayed to God, and obtained a prolongation of his own temporal life, for the good of his physician's spiritual life, who having seen this miracle was converted, and S. Basil rising courageously out of his bed, went to the Church and baptized him with all his family, then returning to his chamber and to his bed, having entertained himself a good space with our Saviour in prayer, he holily exhorted the assistants to serve God with their whole heart, and finally, seeing the angels approach, and pronouncing with an extreme delight these words: O God I recommend unto thee my soul, and restore it into thy hands; he died. But the poor converted physician seeing him thus pass away, embracing him, and melting into tears over him:--"O great Basil, said he, indeed if thou hadst willed thou wouldst no more have died to-day than yesterday." Who does not see that this death was wholly of love? And the Blessed Mother (S.) Teresa of Jesus revealed after her death that she died of an impetuous assault of love, which had been so violent that nature not being able to support it, the soul had departed towards the beloved object of its affections.
 
-### Chapter XII. Marvellous History of the Death of a Gentleman Who Died of Love on
+## Chapter XII. Marvellous History of the Death of a Gentleman Who Died of Love on
 
 MOUNT OLIVET.
 
@@ -292,7 +290,7 @@ Indeed, another author of nearly the same age, who has concealed his name out of
 
 [353] 1 Cor. xiii. 7.
 
-### Chapter XIII. That the Most Sacred Virgin Mother of God Died of Love for Her Son
+## Chapter XIII. That the Most Sacred Virgin Mother of God Died of Love for Her Son
 
 One can hardly well doubt that the great S. Joseph died before the passion and death of our Saviour, who otherwise would not have commended his mother to S. John. And how can one then imagine that the dear child of his heart, his beloved foster-child, did not assist him at the hour of his departure? Blessed are the merciful for they shall obtain mercy. Ah! how much sweetness, charity and mercy, did this good foster-father use towards our Saviour, when he was born a little child in the world! And who can then believe but that, at his departure out of it, this divine child rendered him the like a hundred-fold, filling him with heavenly delights? Storks are the true representation of the mutual piety of children towards their parents and of parents towards their children: for, being birds of passage, they bear their old parents with them in their journey, as their parents had borne them while they were yet young, on the like occasions. While our Saviour was yet a little child, the great S. Joseph his foster-father, and the most glorious Virgin his mother, had many times carried him, but especially in their journey from Judea to Egypt, and from Egypt to Judea. Ah! who then can doubt that this holy father being come to the end of his days, was reciprocally carried by his divine foster-child, in the passage from this to another life, into Abraham's bosom, to be translated thence into his own, into glory, on the day of his Ascension? A saint who had loved so much in his life, could not die but of love; for his heart not being able to love his dear Jesus as much as he desired while he continued amongst the distractions of this life, and having already performed the duty which was required in the childhood of Jesus, what remained but that he should say to the eternal Father: O Father, I have finished the work which thou gavest me to do: [354] and then to the Son, O my child! as thy heavenly Father put thy tender body into my hands the day of thy coming into this world, so do I render up my soul into thine, this day of my departure out of the world.
 
@@ -306,7 +304,7 @@ Several sacred lovers were present at the death of the Saviour, amongst whom tho
 
 [354] John xvii. 4.
 
-### Chapter XIV. That the Glorious Virgin Died by an Extremely Sweet and Tranquil Death
+## Chapter XIV. That the Glorious Virgin Died by an Extremely Sweet and Tranquil Death
 
 It is said on the one side that Our Lady revealed to S. Mechtilde that the malady of which she died was no other thing than an impetuous assault of divine love; but S. Bridget and S. John Damascene testify that she died an extremely peaceful death: and both statements are true, Theotimus.
 

@@ -1,47 +1,46 @@
 ---
-title: Numbers, Chapter 17
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 17
+title: Numbers, Chapter 17
+url: https://bible.usccb.org/bible/numbers/17
 aliases:
   - numbers-17
   - Numbers, Chapter 17
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 17
 ---
 
 # Numbers, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
-1 The L ORD said to Moses: ^numbers-17-1
+1 The LORD said to Moses: ^numbers-17-1
 
 2 Tell Eleazar, son of Aaron the priest, to remove the censers from the embers; and scatter the fire some distance away, for they have become holy— ^numbers-17-2
 
-3 the censers of those who sinned at the cost of their lives. Have them hammered into plates to cover the altar, because in being presented before the L ORD they have become holy. In this way they shall serve as a sign to the Israelites. ^numbers-17-3
+3 the censers of those who sinned at the cost of their lives. Have them hammered into plates to cover the altar, because in being presented before the LORD they have become holy. In this way they shall serve as a sign to the Israelites. ^numbers-17-3
 
 4 So taking the bronze censers which had been presented by those who were burned, Eleazar the priest had them hammered into a covering for the altar, ^numbers-17-4
 
-5 just as the L ORD had directed him through Moses. This was to be a reminder to the Israelites that no unauthorized person, no one who was not a descendant of Aaron, should draw near to offer incense before the L ORD, lest he meet the fate of Korah and his faction. ^numbers-17-5
+5 just as the LORD had directed him through Moses. This was to be a reminder to the Israelites that no unauthorized person, no one who was not a descendant of Aaron, should draw near to offer incense before the LORD, lest he meet the fate of Korah and his faction. ^numbers-17-5
 
-6 The next day the whole Israelite community grumbled against Moses and Aaron, saying, “You have killed the people of the L ORD.” ^numbers-17-6
+6 The next day the whole Israelite community grumbled against Moses and Aaron, saying, “You have killed the people of the LORD.” ^numbers-17-6
 
-7 But while the community was assembling against them, Moses and Aaron turned toward the tent of meeting, and the cloud now covered it and the glory of the L ORD appeared. ^numbers-17-7
+7 But while the community was assembling against them, Moses and Aaron turned toward the tent of meeting, and the cloud now covered it and the glory of the LORD appeared. ^numbers-17-7
 
 8 Then Moses and Aaron came to the front of the tent of meeting, ^numbers-17-8
 
-9 and the L ORD said to Moses: ^numbers-17-9
+9 and the LORD said to Moses: ^numbers-17-9
 
 10 Remove yourselves from this community, that I may consume them at once. But they fell prostrate. ^numbers-17-10
 
-11 Then Moses said to Aaron, “Take your censer, put fire from the altar in it, lay incense on it, and bring it quickly to the community to make atonement for them; for wrath has come forth from the L ORD and the plague has begun.” ^numbers-17-11
+11 Then Moses said to Aaron, “Take your censer, put fire from the altar in it, lay incense on it, and bring it quickly to the community to make atonement for them; for wrath has come forth from the LORD and the plague has begun.” ^numbers-17-11
 
 12 Aaron took his censer just as Moses directed and ran in among the assembly, where the plague had already begun among the people. Then he offered the incense and made atonement for the people, ^numbers-17-12
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/numbers/17
 
 **Aaron’s Staff.**
 
-16 The L ORD now said to Moses: ^numbers-17-16
+16 The LORD now said to Moses: ^numbers-17-16
 
 17 Speak to the Israelites and get from them a staff for each ancestral house, twelve staffs in all, from all the leaders of their ancestral houses. Write each man’s name on his staff; ^numbers-17-17
 
@@ -65,21 +64,21 @@ url: https://bible.usccb.org/bible/numbers/17
 
 21 So Moses spoke to the Israelites, and all their leaders gave him staffs, twelve in all, one from each leader of their ancestral houses; and Aaron’s staff was among them. ^numbers-17-21
 
-22 Then Moses deposited the staffs before the L ORD in the tent of the covenant. ^numbers-17-22
+22 Then Moses deposited the staffs before the LORD in the tent of the covenant. ^numbers-17-22
 
 23 The next day, when Moses entered the tent of the covenant, Aaron’s staff, representing the house of Levi, had sprouted. It had put forth sprouts, produced blossoms, and borne ripe almonds! ^numbers-17-23
 
-24 So Moses brought out all the staffs from the L ORD’s presence to all the Israelites, and each one identified his own staff and took it. ^numbers-17-24
+24 So Moses brought out all the staffs from the LORD’s presence to all the Israelites, and each one identified his own staff and took it. ^numbers-17-24
 
-25 Then the L ORD said to Moses: Put back Aaron’s staff in front of the covenant, for safe keeping as a sign to the rebellious, so that their grumbling against me may cease and they might not die. ^numbers-17-25
+25 Then the LORD said to Moses: Put back Aaron’s staff in front of the covenant, for safe keeping as a sign to the rebellious, so that their grumbling against me may cease and they might not die. ^numbers-17-25
 
-26 Moses did this. Just as the L ORD had commanded him, so he did. ^numbers-17-26
+26 Moses did this. Just as the LORD had commanded him, so he did. ^numbers-17-26
 
 **Charge of the Sacred Things.**
 
 27 Then the Israelites exclaimed to Moses, “We will perish; we are lost, we are all lost! ^numbers-17-27
 
-28 Anyone who approaches the tabernacle of the L ORD will die! Will there be no end to our perishing?” ^numbers-17-28
+28 Anyone who approaches the tabernacle of the LORD will die! Will there be no end to our perishing?” ^numbers-17-28
 
 \* (17:3) Whatever was brought into intimate contact with something holy shared in its holiness. See note on [19:20].
 

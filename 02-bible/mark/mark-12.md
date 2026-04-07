@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 12
+title: Mark, Chapter 12
+url: https://bible.usccb.org/bible/mark/12
 aliases:
   - mark-12
   - Mark, Chapter 12
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/12
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 12
 ---
 
 # Mark, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **Parable of the Tenants.**
 

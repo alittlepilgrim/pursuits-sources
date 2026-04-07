@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 38
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 38
+title: Genesis, Chapter 38
+url: https://bible.usccb.org/bible/genesis/38
 aliases:
   - 20250508-020338
   - genesis-38
   - Genesis, Chapter 38
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 38
 bible_book: genesis
 bible_chapter: "38"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/38
 ---
 
 [[genesis-37|[← Previous Note]]] · [[genesis-39|[Next Note →]]]
@@ -41,13 +40,13 @@ url: https://bible.usccb.org/bible/genesis/38
 
 6 Judah got a wife named Tamar for his firstborn, Er. ^genesis-38-6
 
-7 But Er, Judah’s firstborn, greatly offended the L ORD; so the L ORD took his life. ^genesis-38-7
+7 But Er, Judah’s firstborn, greatly offended the LORD; so the LORD took his life. ^genesis-38-7
 
 8 Then Judah said to Onan, “Have intercourse with your brother’s wife, in fulfillment of your duty as brother-in-law, and thus preserve your brother’s line.” ^genesis-38-8
 
 9 Onan, however, knew that the offspring would not be his; so whenever he had intercourse with his brother’s wife, he wasted his seed on the ground, to avoid giving offspring to his brother. ^genesis-38-9
 
-10 What he did greatly offended the L ORD, and the L ORD took his life too. ^genesis-38-10
+10 What he did greatly offended the LORD, and the LORD took his life too. ^genesis-38-10
 
 11 Then Judah said to his daughter-in-law Tamar, “Remain a widow in your father’s house until my son Shelah grows up”—for he feared that Shelah also might die like his brothers. So Tamar went to live in her father’s house. ^genesis-38-11
 
@@ -121,6 +120,6 @@ h. (38:30) [Nm 26:20]; [1 Chr 2:4]; ([[matthew-01|Mt 1]]:3]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-07|[← Previous Note]]] · [[genesis-09|[Next Note →]]]

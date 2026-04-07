@@ -1,29 +1,28 @@
 ---
-title: 2 Kings, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 4
+title: 2 Kings, Chapter 4
+url: https://bible.usccb.org/bible/2kings/4
 aliases:
   - 2 Kings, Chapter 4
   - 2-kings-04
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/4
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 4
 ---
 
 # 2 Kings, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **The Widow’s Oil.**
 
-1 A certain woman, the widow of one of the guild prophets, cried out to Elisha: “My husband, your servant, is dead. You know that he revered the L ORD, yet now his creditor has come to take my two children into servitude.” ^2-kings-04-1
+1 A certain woman, the widow of one of the guild prophets, cried out to Elisha: “My husband, your servant, is dead. You know that he revered the LORD, yet now his creditor has come to take my two children into servitude.” ^2-kings-04-1
 
 2 Elisha answered her, “What am I to do for you? Tell me what you have in the house.” She replied, “This servant of yours has nothing in the house but a jug of oil.” ^2-kings-04-2
 
@@ -79,19 +78,19 @@ One day the boy went out to his father among the reapers.
 
 26 Hurry to meet her, and ask if everything is all right with her, with her husband, and with the boy.” “Everything is all right,” she replied. ^2-kings-04-26
 
-27 But when she reached the man of God on the mountain, she clasped his feet. Gehazi came near to push her away, but the man of God said: “Let her alone, she is in bitter anguish; the L ORD hid it from me and did not let me know.” ^2-kings-04-27
+27 But when she reached the man of God on the mountain, she clasped his feet. Gehazi came near to push her away, but the man of God said: “Let her alone, she is in bitter anguish; the LORD hid it from me and did not let me know.” ^2-kings-04-27
 
 28 She said, “Did I ask my lord for a son? Did I not say, ‘Do not mislead me’?” ^2-kings-04-28
 
 29 He said to Gehazi, “Get ready for a journey. Take my staff with you and be off; if you meet anyone, give no greeting, and if anyone greets you, do not answer. Lay my staff upon the boy.” ^2-kings-04-29
 
-30 But the boy’s mother cried out: “As the L ORD lives and as you yourself live, I will not release you.” So he started back with her. ^2-kings-04-30
+30 But the boy’s mother cried out: “As the LORD lives and as you yourself live, I will not release you.” So he started back with her. ^2-kings-04-30
 
 31 Meanwhile, Gehazi had gone on ahead and had laid the staff upon the boy, but there was no sound, no response. He returned to meet Elisha and told him, “The boy has not awakened.” ^2-kings-04-31
 
 32 When Elisha reached the house, he found the boy dead, lying on the bed. ^2-kings-04-32
 
-33 He went in, closed the door on them both, and prayed to the L ORD. ^2-kings-04-33
+33 He went in, closed the door on them both, and prayed to the LORD. ^2-kings-04-33
 
 34 Then he lay upon the child on the bed, placing his mouth upon the child’s mouth, his eyes upon the eyes, and his hands upon the hands. As Elisha stretched himself over the child, the boy’s flesh became warm. ^2-kings-04-34
 
@@ -115,9 +114,9 @@ One day the boy went out to his father among the reapers.
 
 42 A man came from Baal-shalishah bringing the man of God twenty barley loaves made from the first fruits, and fresh grain in the ear. Elisha said, “Give it to the people to eat.” ^2-kings-04-42
 
-43 But his servant objected, “How can I set this before a hundred?” Elisha again said, “Give it to the people to eat, for thus says the L ORD: You will eat and have some left over.” ^2-kings-04-43
+43 But his servant objected, “How can I set this before a hundred?” Elisha again said, “Give it to the people to eat, for thus says the LORD: You will eat and have some left over.” ^2-kings-04-43
 
-44 He set it before them, and when they had eaten, they had some left over, according to the word of the L ORD. ^2-kings-04-44
+44 He set it before them, and when they had eaten, they had some left over, according to the word of the LORD. ^2-kings-04-44
 
 \* (4:1) His creditorâ€¦into servitude: Israelite law permitted the selling of wife and children into slavery for debt; cf. ([[exodus-21|Ex 21]]:7]; [Am 2:6]; [8:6]; [Is 50:1].
 

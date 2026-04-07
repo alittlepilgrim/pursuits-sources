@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 10
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 10
+title: Judges, Chapter 10
+url: https://bible.usccb.org/bible/judges/10
 aliases:
   - judges-10
   - Judges, Chapter 10
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 10
 ---
 
 # Judges, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Tola.**
 
@@ -37,17 +36,17 @@ url: https://bible.usccb.org/bible/judges/10
 
 **Oppression by the Ammonites.**
 
-6 The Israelites again did what was evil in the sight of the L ORD, serving the Baals and Ashtarts, the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the Ammonites, and the gods of the Philistines. Since they had abandoned the L ORD and would not serve him, ^judges-10-6
+6 The Israelites again did what was evil in the sight of the LORD, serving the Baals and Ashtarts, the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the Ammonites, and the gods of the Philistines. Since they had abandoned the LORD and would not serve him, ^judges-10-6
 
-7 the L ORD became angry with Israel and he sold them into the power of the Philistines and the Ammonites. ^judges-10-7
+7 the LORD became angry with Israel and he sold them into the power of the Philistines and the Ammonites. ^judges-10-7
 
 8 For eighteen years they afflicted and oppressed the Israelites in Bashan, and all the Israelites in the Amorite land beyond the Jordan in Gilead. ^judges-10-8
 
 9 The Ammonites also crossed the Jordan to fight against Judah, Benjamin and the house of Ephraim, so that Israel was in great distress. ^judges-10-9
 
-10 Then the Israelites cried out to the L ORD, “We have sinned against you, for we have abandoned our God and served the Baals.” ^judges-10-10
+10 Then the Israelites cried out to the LORD, “We have sinned against you, for we have abandoned our God and served the Baals.” ^judges-10-10
 
-11 The L ORD answered the Israelites: Did not the Egyptians, the Amorites, the Ammonites, the Philistines, ^judges-10-11
+11 The LORD answered the Israelites: Did not the Egyptians, the Amorites, the Ammonites, the Philistines, ^judges-10-11
 
 12 the Sidonians, the Amalekites, and the Midianites oppress you? Yet when you cried out to me, and I saved you from their power, ^judges-10-12
 
@@ -55,9 +54,9 @@ url: https://bible.usccb.org/bible/judges/10
 
 14 Go and cry out to the gods you have chosen; let them save you in your time of distress. ^judges-10-14
 
-15 But the Israelites said to the L ORD, “We have sinned. Do to us whatever is good in your sight. Only deliver us this day!” ^judges-10-15
+15 But the Israelites said to the LORD, “We have sinned. Do to us whatever is good in your sight. Only deliver us this day!” ^judges-10-15
 
-16 And they cast out the foreign gods from their midst and served the L ORD, so that he grieved over the misery of Israel. ^judges-10-16
+16 And they cast out the foreign gods from their midst and served the LORD, so that he grieved over the misery of Israel. ^judges-10-16
 
 17 The Ammonites were called out for war and encamped in Gilead, while the Israelites assembled and encamped at Mizpah. ^judges-10-17
 

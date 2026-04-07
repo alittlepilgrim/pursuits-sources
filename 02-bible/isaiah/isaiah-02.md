@@ -1,33 +1,32 @@
 ---
-title: Isaiah, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 2
+title: Isaiah, Chapter 2
+url: https://bible.usccb.org/bible/isaiah/2
 aliases:
   - isaiah-02
   - Isaiah, Chapter 2
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 2
 ---
 
 # Isaiah, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 This is what Isaiah, son of Amoz, saw concerning Judah and Jerusalem. ^isaiah-02-1
 
-#### Zion, the Royal City of God
+### Zion, the Royal City of God
 
 2 In days to come, ^isaiah-02-2
 
-The mountain of the L ORD’s house
+The mountain of the LORD’s house
 
 shall be established as the highest mountain
 
@@ -37,7 +36,7 @@ All nations shall stream toward it.
 
 3 Many peoples shall come and say: ^isaiah-02-3
 
-“Come, let us go up to the L ORD’s mountain,
+“Come, let us go up to the LORD’s mountain,
 
 to the house of the God of Jacob,
 
@@ -47,7 +46,7 @@ and we may walk in his paths.”
 
 For from Zion shall go forth instruction,
 
-and the word of the L ORD from Jerusalem.
+and the word of the LORD from Jerusalem.
 
 4 He shall judge between the nations, ^isaiah-02-4
 
@@ -63,9 +62,9 @@ nor shall they train for war again.
 
 5 House of Jacob, come, ^isaiah-02-5
 
-let us walk in the light of the L ORD!
+let us walk in the light of the LORD!
 
-#### The Lord’s Day of Judgment on Pride
+### The Lord’s Day of Judgment on Pride
 
 6 You have abandoned your people, ^isaiah-02-6
 
@@ -101,7 +100,7 @@ Do not pardon them!
 
 hide in the dust,
 
-From the terror of the L ORD
+From the terror of the LORD
 
 and the splendor of his majesty!
 
@@ -109,9 +108,9 @@ and the splendor of his majesty!
 
 the arrogance of mortals shall be abased,
 
-and the L ORD alone will be exalted, on that day.
+and the LORD alone will be exalted, on that day.
 
-12 For the L ORD of hosts will have his day ^isaiah-02-12
+12 For the LORD of hosts will have his day ^isaiah-02-12
 
 against all that is proud and arrogant,
 
@@ -137,7 +136,7 @@ and all stately vessels.
 
 the arrogance of mortals brought low,
 
-And the L ORD alone will be exalted on that day.
+And the LORD alone will be exalted on that day.
 
 18 The idols will vanish completely. ^isaiah-02-18
 
@@ -145,7 +144,7 @@ And the L ORD alone will be exalted on that day.
 
 and into holes in the earth,
 
-At the terror of the L ORD
+At the terror of the LORD
 
 and the splendor of his majesty,
 
@@ -161,7 +160,7 @@ which they made for themselves to worship.
 
 and into crevices in the cliffs,
 
-At the terror of the L ORD
+At the terror of the LORD
 
 and the splendor of his majesty,
 

@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 11
+title: Mark, Chapter 11
+url: https://bible.usccb.org/bible/mark/11
 aliases:
   - mark-11
   - Mark, Chapter 11
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/11
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 11
 ---
 
 # Mark, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **The Entry into Jerusalem.**
 

@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 18
+title: 1 Chronicles, Chapter 18
+url: https://bible.usccb.org/bible/1chronicles/18
 aliases:
   - 1 Chronicles, Chapter 18
   - 1-chronicles-18
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/18
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 18
 ---
 
 # 1 Chronicles, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **David’s Victories.**
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/1chronicles/18
 
 5 The Arameans of Damascus came to help Hadadezer, king of Zobah, but David also defeated twenty-two thousand of their men in Aram. ^1-chronicles-18-5
 
-6 Then David set up garrisons in the Damascus region of Aram, and the Arameans became David’s subjects, paying tribute. Thus the L ORD made David victorious in all his campaigns. ^1-chronicles-18-6
+6 Then David set up garrisons in the Damascus region of Aram, and the Arameans became David’s subjects, paying tribute. Thus the LORD made David victorious in all his campaigns. ^1-chronicles-18-6
 
 7 David took the golden shields that were carried by Hadadezer’s attendants and brought them to Jerusalem. ^1-chronicles-18-7
 
@@ -43,11 +42,11 @@ url: https://bible.usccb.org/bible/1chronicles/18
 
 10 he sent his son Hadoram to wish King David well and to congratulate him on having waged a victorious war against Hadadezer; for Hadadezer had been at war with Tou. He also brought gold, silver and bronze articles of every sort. ^1-chronicles-18-10
 
-11 These also King David consecrated to the L ORD along with all the silver and gold that he had taken from the nations: from Edom, Moab, the Ammonites, the Philistines, and Amalek. ^1-chronicles-18-11
+11 These also King David consecrated to the LORD along with all the silver and gold that he had taken from the nations: from Edom, Moab, the Ammonites, the Philistines, and Amalek. ^1-chronicles-18-11
 
 12 Abishai, the son of Zeruiah, also defeated eighteen thousand Edomites in the Valley of Salt. ^1-chronicles-18-12
 
-13 He set up garrisons in Edom, and all the Edomites became David’s subjects. Thus the L ORD brought David victory in all his undertakings. ^1-chronicles-18-13
+13 He set up garrisons in Edom, and all the Edomites became David’s subjects. Thus the LORD brought David victory in all his undertakings. ^1-chronicles-18-13
 
 **David’s Officials.**
 

@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Nuno Alvares Pereira
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Blessed Nuno Alvares Pereira
@@ -12,8 +9,11 @@ tags:
   - role/blessed
   - role/religious
   - term/nun
-celebration: "04-01"
-full_name: "Blessed Nuno Alvares Pereira"
+  - type/figure
+celebration: 04-01
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Nuno Alvares Pereira

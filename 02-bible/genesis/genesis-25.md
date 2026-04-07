@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 25
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 25
+title: Genesis, Chapter 25
+url: https://bible.usccb.org/bible/genesis/25
 aliases:
   - 20250508-020301
   - genesis-25
   - Genesis, Chapter 25
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 25
 bible_book: genesis
 bible_chapter: "25"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/25
 ---
 
 [[genesis-24|[← Previous Note]]] · [[genesis-26|[Next Note →]]]
@@ -75,11 +74,11 @@ url: https://bible.usccb.org/bible/genesis/25
 
 20 Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean of Paddan-aram and the sister of Laban the Aramean. ^genesis-25-20
 
-21 Isaac entreated the L ORD on behalf of his wife, since she was sterile. The L ORD heard his entreaty, and his wife Rebekah became pregnant. ^genesis-25-21
+21 Isaac entreated the LORD on behalf of his wife, since she was sterile. The LORD heard his entreaty, and his wife Rebekah became pregnant. ^genesis-25-21
 
-22 But the children jostled each other in the womb so much that she exclaimed, “If it is like this, why go on living!” She went to consult the L ORD, ^genesis-25-22
+22 But the children jostled each other in the womb so much that she exclaimed, “If it is like this, why go on living!” She went to consult the LORD, ^genesis-25-22
 
-23 and the L ORD answered her: ^genesis-25-23
+23 and the LORD answered her: ^genesis-25-23
 
 Two nations are in your womb,
 
@@ -171,6 +170,6 @@ n. (25:33) [Heb 12:16]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]

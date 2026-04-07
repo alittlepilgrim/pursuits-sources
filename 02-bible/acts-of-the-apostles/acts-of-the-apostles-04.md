@@ -1,25 +1,24 @@
 ---
-title: Acts of the Apostles, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Acts of the Apostles, Chapter 4
+title: Acts of the Apostles, Chapter 4
+url: https://bible.usccb.org/bible/acts/4
 aliases:
   - Acts of the Apostles, Chapter 4
   - acts-of-the-apostles-04
 tags:
   - bible/acts-of-the-apostles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/acts/4
-testament: new
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Acts of the Apostles, Chapter 4
 ---
 
 # Acts of the Apostles, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 While they were still speaking to the people, the priests, the captain of the temple guard, and the Sadducees confronted them, ^acts-of-the-apostles-04-1
 

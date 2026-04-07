@@ -1,45 +1,44 @@
 ---
-title: Leviticus, Chapter 17
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 17
+title: Leviticus, Chapter 17
+url: https://bible.usccb.org/bible/leviticus/17
 aliases:
   - leviticus-17
   - Leviticus, Chapter 17
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 17
 ---
 
 # Leviticus, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
 **Sacredness of Blood.**
 
-1 The L ORD said to Moses: ^leviticus-17-1
+1 The LORD said to Moses: ^leviticus-17-1
 
-2 Speak to Aaron and his sons, as well as to all the Israelites, and tell them: This is what the L ORD has commanded: ^leviticus-17-2
+2 Speak to Aaron and his sons, as well as to all the Israelites, and tell them: This is what the LORD has commanded: ^leviticus-17-2
 
 3 Any Israelite who slaughters an ox or a sheep or a goat, whether in the camp or outside of it, ^leviticus-17-3
 
-4 without first bringing it to the entrance of the tent of meeting to present it as an offering to the L ORD in front of the L ORD’s tabernacle, shall be judged guilty of bloodshed—that individual has shed blood, and shall be cut off from the people. ^leviticus-17-4
+4 without first bringing it to the entrance of the tent of meeting to present it as an offering to the LORD in front of the LORD’s tabernacle, shall be judged guilty of bloodshed—that individual has shed blood, and shall be cut off from the people. ^leviticus-17-4
 
-5 This is so that such sacrifices as they used to offer in the open field the Israelites shall henceforth bring to the L ORD at the entrance of the tent of meeting, to the priest, and sacrifice them there as communion sacrifices to the L ORD. ^leviticus-17-5
+5 This is so that such sacrifices as they used to offer in the open field the Israelites shall henceforth bring to the LORD at the entrance of the tent of meeting, to the priest, and sacrifice them there as communion sacrifices to the LORD. ^leviticus-17-5
 
-6 The priest will splash the blood on the altar of the L ORD at the entrance of the tent of meeting and burn the fat for an odor pleasing to the L ORD. ^leviticus-17-6
+6 The priest will splash the blood on the altar of the LORD at the entrance of the tent of meeting and burn the fat for an odor pleasing to the LORD. ^leviticus-17-6
 
 7 No longer shall they offer their sacrifices to the demons with whom they prostituted themselves. This shall be an everlasting statute for them and their descendants. ^leviticus-17-7
 
 8 Tell them, therefore: Anyone, whether of the house of Israel or of the aliens residing among them, who offers a burnt offering or sacrifice ^leviticus-17-8
 
-9 without bringing it to the entrance of the tent of meeting to offer it to the L ORD, shall be cut off from the people. ^leviticus-17-9
+9 without bringing it to the entrance of the tent of meeting to offer it to the LORD, shall be cut off from the people. ^leviticus-17-9
 
 10 As for anyone, whether of the house of Israel or of the aliens residing among them, who consumes any blood, I will set myself against that individual and will cut that person off from among the people, ^leviticus-17-10
 

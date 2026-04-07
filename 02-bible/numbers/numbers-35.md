@@ -1,29 +1,28 @@
 ---
-title: Numbers, Chapter 35
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 35
+title: Numbers, Chapter 35
+url: https://bible.usccb.org/bible/numbers/35
 aliases:
   - numbers-35
   - Numbers, Chapter 35
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/35
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 35
 ---
 
 # Numbers, Chapter 35
 
-### Chapter 35
+## Chapter 35
 
 **Cities for the Levites.**
 
-1 The L ORD spoke to Moses on the plains of Moab by the Jordan opposite Jericho: ^numbers-35-1
+1 The LORD spoke to Moses on the plains of Moab by the Jordan opposite Jericho: ^numbers-35-1
 
 2 Command the Israelites out of the heritage they possess to give the Levites cities to dwell in; you will also give the Levites the pasture lands around the cities. ^numbers-35-2
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/numbers/35
 
 **Cities of Asylum.**
 
-9 The L ORD spoke to Moses: ^numbers-35-9
+9 The LORD spoke to Moses: ^numbers-35-9
 
 10 Speak to the Israelites and say to them: When you go across the Jordan into the land of Canaan, ^numbers-35-10
 
@@ -97,7 +96,7 @@ url: https://bible.usccb.org/bible/numbers/35
 
 33 You will not pollute the land where you live. For bloodshed pollutes the land, and the land can have no expiation for the blood shed on it except through the blood of the one who shed it. ^numbers-35-33
 
-34 Do not defile the land in which you live and in the midst of which I dwell; for I the L ORD dwell in the midst of the Israelites. ^numbers-35-34
+34 Do not defile the land in which you live and in the midst of which I dwell; for I the LORD dwell in the midst of the Israelites. ^numbers-35-34
 
 \* (35:8) This provision was hardly observed in the actual assignment of the levitical cities as narrated in [Jos 21].
 

@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 1
+title: Job, Chapter 1
+url: https://bible.usccb.org/bible/job/1
 aliases:
   - job-01
   - Job, Chapter 1
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 1
 ---
 
 # Job, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Job’s Piety.**
 
@@ -35,19 +34,19 @@ url: https://bible.usccb.org/bible/job/1
 
 **The Interview Between the Lord and the Satan.**
 
-6 One day, when the sons of God came to present themselves before the L ORD, the satan also came among them. ^job-01-6
+6 One day, when the sons of God came to present themselves before the LORD, the satan also came among them. ^job-01-6
 
-7 The L ORD said to the satan, “Where have you been?” Then the satan answered the L ORD and said, “Roaming the earth and patrolling it.” ^job-01-7
+7 The LORD said to the satan, “Where have you been?” Then the satan answered the LORD and said, “Roaming the earth and patrolling it.” ^job-01-7
 
-8 The L ORD said to the satan, “Have you noticed my servant Job? There is no one on earth like him, blameless and upright, fearing God and avoiding evil.” ^job-01-8
+8 The LORD said to the satan, “Have you noticed my servant Job? There is no one on earth like him, blameless and upright, fearing God and avoiding evil.” ^job-01-8
 
-9 The satan answered the L ORD and said, “Is it for nothing that Job is God-fearing? ^job-01-9
+9 The satan answered the LORD and said, “Is it for nothing that Job is God-fearing? ^job-01-9
 
 10 Have you not surrounded him and his family and all that he has with your protection? You have blessed the work of his hands, and his livestock are spread over the land. ^job-01-10
 
 11 But now put forth your hand and touch all that he has, and surely he will curse you to your face.” ^job-01-11
 
-12 The L ORD said to the satan, “Very well, all that he has is in your power; only do not lay a hand on him.” So the satan went forth from the presence of the L ORD. ^job-01-12
+12 The LORD said to the satan, “Very well, all that he has is in your power; only do not lay a hand on him.” So the satan went forth from the presence of the LORD. ^job-01-12
 
 **The First Trial.**
 
@@ -75,9 +74,9 @@ url: https://bible.usccb.org/bible/job/1
 
 and naked shall I go back there.
 
-The L ORD gave and the L ORD has taken away;
+The LORD gave and the LORD has taken away;
 
-blessed be the name of the L ORD!”
+blessed be the name of the LORD!”
 
 22 In all this Job did not sin, nor did he charge God with wrong. ^job-01-22
 

@@ -1,20 +1,20 @@
 ---
-title: James, The Letter of James
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: James, the Letter of James
+title: James, The Letter of James
+url: https://bible.usccb.org/bible/james/0
 aliases:
   - james-00
   - James, the Letter of James
   - James, The Letter of James
 tags:
+  - bible/book
   - bible/james
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/james/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: James, the Letter of James
 ---
 
 # James, the Letter of James

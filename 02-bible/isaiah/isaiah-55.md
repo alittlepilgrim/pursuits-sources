@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 55
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 55
+title: Isaiah, Chapter 55
+url: https://bible.usccb.org/bible/isaiah/55
 aliases:
   - isaiah-55
   - Isaiah, Chapter 55
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/55
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 55
 ---
 
 # Isaiah, Chapter 55
 
-### Chapter 55
+## Chapter 55
 
-#### An Invitation to Grace
+### An Invitation to Grace
 
 1 All you who are thirsty, ^isaiah-55-1
 
@@ -59,11 +58,11 @@ a leader and commander of peoples,
 
 and a nation that knew you not shall run to you,
 
-Because of the L ORD, your God,
+Because of the LORD, your God,
 
 the Holy One of Israel, who has glorified you.
 
-6 Seek the L ORD while he may be found, ^isaiah-55-6
+6 Seek the LORD while he may be found, ^isaiah-55-6
 
 call upon him while he is near.
 
@@ -71,13 +70,13 @@ call upon him while he is near.
 
 and sinners their thoughts;
 
-Let them turn to the L ORD to find mercy;
+Let them turn to the LORD to find mercy;
 
 to our God, who is generous in forgiving.
 
 8 For my thoughts are not your thoughts, ^isaiah-55-8
 
-nor are your ways my ways—oracle of the L ORD.
+nor are your ways my ways—oracle of the LORD.
 
 9 For as the heavens are higher than the earth, ^isaiah-55-9
 
@@ -121,7 +120,7 @@ all trees of the field shall clap their hands.
 
 instead of nettles, the myrtle.
 
-This shall be to the L ORD’s renown,
+This shall be to the LORD’s renown,
 
 as an everlasting sign that shall not fail.
 
@@ -133,7 +132,7 @@ as an everlasting sign that shall not fail.
 
 \* (55:10] – [11) The efficacy of the word of God recalls [40:5], [8].
 
-\* (55:13) Thornbush…nettles: suggestive of the desert and therefore symbolic of suffering and hardship; cypress…myrtle: suggestive of fertile land and therefore symbolic of joy and strength. To the L ORD’s renown: lit., “to the name of the Lord.”
+\* (55:13) Thornbush…nettles: suggestive of the desert and therefore symbolic of suffering and hardship; cypress…myrtle: suggestive of fertile land and therefore symbolic of joy and strength. To the LORD’s renown: lit., “to the name of the Lord.”
 
 a. (55:1) [Jn 4:10] – [15]; [6:35]; [7:37] – [39]; [Rv 21:6]; [22:17].
 

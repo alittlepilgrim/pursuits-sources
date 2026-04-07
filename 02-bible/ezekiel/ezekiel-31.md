@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 31
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 31
+title: Ezekiel, Chapter 31
+url: https://bible.usccb.org/bible/ezekiel/31
 aliases:
   - ezekiel-31
   - Ezekiel, Chapter 31
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/31
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 31
 ---
 
 # Ezekiel, Chapter 31
 
-### Chapter 31
+## Chapter 31
 
 **Allegory of the Cedar.**
 
-1 On the first day of the third month in the eleventh year, the word of the L ORD came to me: ^ezekiel-31-1
+1 On the first day of the third month in the eleventh year, the word of the LORD came to me: ^ezekiel-31-1
 
 2 Son of man, say to Pharaoh, the king of Egypt, and to his hordes: In your greatness, whom do you resemble? ^ezekiel-31-2
 

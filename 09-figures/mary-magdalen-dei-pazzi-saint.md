@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint Mary Magdalen Dei Pazzi
-created: 2025-07-25
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250725-190123
   - mary-magdalen-dei-pazzi-saint
@@ -12,6 +9,10 @@ aliases:
 tags:
   - carmel/saints
   - saint
+  - type/figure
+created: 2025-07-25
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Mary Magdalen Dei Pazzi

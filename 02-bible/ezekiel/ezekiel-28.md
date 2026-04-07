@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 28
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 28
+title: Ezekiel, Chapter 28
+url: https://bible.usccb.org/bible/ezekiel/28
 aliases:
   - ezekiel-28
   - Ezekiel, Chapter 28
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/28
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 28
 ---
 
 # Ezekiel, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 **The Prince of Tyre.**
 
-1 The word of the L ORD came to me: ^ezekiel-28-1
+1 The word of the LORD came to me: ^ezekiel-28-1
 
 2 Son of man, say to the prince of Tyre: Thus says the Lord G OD: ^ezekiel-28-2
 
@@ -91,7 +90,7 @@ handed over to strangers,
 
 for I have spoken—oracle of the Lord G OD.
 
-11 The word of the L ORD came to me: ^ezekiel-28-11
+11 The word of the LORD came to me: ^ezekiel-28-11
 
 12 Son of man, raise a lament over the king of Tyre, and say to him: Thus says the Lord G OD: ^ezekiel-28-12
 
@@ -173,7 +172,7 @@ never to be again.
 
 **Against Sidon.**
 
-20 The word of the L ORD came to me: ^ezekiel-28-20
+20 The word of the LORD came to me: ^ezekiel-28-20
 
 21 Son of man, turn your face toward Sidon and prophesy against it. ^ezekiel-28-21
 
@@ -183,7 +182,7 @@ Watch out! I am against you, Sidon;
 
 I will win glory for myself in your midst.
 
-They shall know that I am the L ORD,
+They shall know that I am the LORD,
 
 when I deliver judgment upon it
 
@@ -199,7 +198,7 @@ those slain by the sword
 
 raised against it on every side.
 
-Then they shall know that I am the L ORD.
+Then they shall know that I am the LORD.
 
 24 No longer will there be a thorn that tears ^ezekiel-28-24
 
@@ -209,11 +208,11 @@ From the surrounding neighbors
 
 who despise them;
 
-thus they shall know that I am the L ORD.
+thus they shall know that I am the LORD.
 
 25 Thus says the Lord G OD: When I gather the house of Israel from the peoples among whom they are scattered, and I manifest my holiness through them in the sight of the nations, then they shall live on the land I gave my servant Jacob. ^ezekiel-28-25
 
-26 They shall dwell on it securely, building houses and planting vineyards. They shall dwell securely while I execute judgment on all their neighbors who treated them with contempt; then they shall know that I, the L ORD, am their God. ^ezekiel-28-26
+26 They shall dwell on it securely, building houses and planting vineyards. They shall dwell securely while I execute judgment on all their neighbors who treated them with contempt; then they shall know that I, the LORD, am their God. ^ezekiel-28-26
 
 \* (28:1] – [10) Ezekiel mocks the arrogance of Tyre’s leader, who mistakes the city’s commercial success for evidence of his divinity. At the hands of a foreign army, commissioned by the only God worthy of the name, this leader dies a humiliating, unceremonious death.
 

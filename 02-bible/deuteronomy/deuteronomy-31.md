@@ -1,67 +1,66 @@
 ---
-title: Deuteronomy, Chapter 31
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 31
+title: Deuteronomy, Chapter 31
+url: https://bible.usccb.org/bible/deuteronomy/31
 aliases:
   - deuteronomy-31
   - Deuteronomy, Chapter 31
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/31
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 31
 ---
 
 # Deuteronomy, Chapter 31
 
-### Chapter 31
+## Chapter 31
 
 **The Lord’s Leadership.**
 
 1 When Moses had finished speaking these words to all Israel, ^deuteronomy-31-1
 
-2 he said to them, I am now one hundred and twenty years old and am no longer able to go out and come in; besides, the L ORD has said to me, Do not cross this Jordan. ^deuteronomy-31-2
+2 he said to them, I am now one hundred and twenty years old and am no longer able to go out and come in; besides, the LORD has said to me, Do not cross this Jordan. ^deuteronomy-31-2
 
-3 It is the L ORD, your God, who will cross before you; he will destroy these nations before you, that you may dispossess them. (It is Joshua who will cross before you, as the L ORD promised.) ^deuteronomy-31-3
+3 It is the LORD, your God, who will cross before you; he will destroy these nations before you, that you may dispossess them. (It is Joshua who will cross before you, as the LORD promised.) ^deuteronomy-31-3
 
-4 The L ORD will deal with them just as he dealt with Sihon and Og, the kings of the Amorites, and with their country, when he destroyed them. ^deuteronomy-31-4
+4 The LORD will deal with them just as he dealt with Sihon and Og, the kings of the Amorites, and with their country, when he destroyed them. ^deuteronomy-31-4
 
-5 When, therefore, the L ORD delivers them up to you, you shall deal with them according to the whole commandment which I have given you. ^deuteronomy-31-5
+5 When, therefore, the LORD delivers them up to you, you shall deal with them according to the whole commandment which I have given you. ^deuteronomy-31-5
 
-6 Be strong and steadfast; have no fear or dread of them, for it is the L ORD, your God, who marches with you; he will never fail you or forsake you. ^deuteronomy-31-6
+6 Be strong and steadfast; have no fear or dread of them, for it is the LORD, your God, who marches with you; he will never fail you or forsake you. ^deuteronomy-31-6
 
 **Call of Joshua.**
 
-7 Then Moses summoned Joshua and in the presence of all Israel said to him, “Be strong and steadfast, for you shall bring this people into the land which the L ORD swore to their ancestors he would give them; it is you who will give them possession of it. ^deuteronomy-31-7
+7 Then Moses summoned Joshua and in the presence of all Israel said to him, “Be strong and steadfast, for you shall bring this people into the land which the LORD swore to their ancestors he would give them; it is you who will give them possession of it. ^deuteronomy-31-7
 
-8 It is the L ORD who goes before you; he will be with you and will never fail you or forsake you. So do not fear or be dismayed.” ^deuteronomy-31-8
+8 It is the LORD who goes before you; he will be with you and will never fail you or forsake you. So do not fear or be dismayed.” ^deuteronomy-31-8
 
 **The Reading of the Law.**
 
-9 When Moses had written down this law, he gave it to the levitical priests who carry the ark of the covenant of the L ORD, and to all the elders of Israel. ^deuteronomy-31-9
+9 When Moses had written down this law, he gave it to the levitical priests who carry the ark of the covenant of the LORD, and to all the elders of Israel. ^deuteronomy-31-9
 
 10 Moses commanded them, saying, On the feast of Booths, at the prescribed time in the year for remission which comes at the end of every seven-year period, ^deuteronomy-31-10
 
-11 when all Israel goes to appear before the L ORD, your God, in the place which he will choose, you shall read this law aloud in the presence of all Israel. ^deuteronomy-31-11
+11 when all Israel goes to appear before the LORD, your God, in the place which he will choose, you shall read this law aloud in the presence of all Israel. ^deuteronomy-31-11
 
-12 Assemble the people—men, women and children, as well as the resident aliens who live in your communities—that they may hear and so learn to fear the L ORD, your God, and to observe carefully all the words of this law. ^deuteronomy-31-12
+12 Assemble the people—men, women and children, as well as the resident aliens who live in your communities—that they may hear and so learn to fear the LORD, your God, and to observe carefully all the words of this law. ^deuteronomy-31-12
 
-13 Their children also, who do not know it yet, shall hear and learn to fear the L ORD, your God, as long as you live on the land which you are about to cross the Jordan to possess. ^deuteronomy-31-13
+13 Their children also, who do not know it yet, shall hear and learn to fear the LORD, your God, as long as you live on the land which you are about to cross the Jordan to possess. ^deuteronomy-31-13
 
 **Commission to Joshua.**
 
-14 The L ORD said to Moses, The time is now approaching for you to die. Summon Joshua, and present yourselves at the tent of meeting that I may commission him. So Moses and Joshua went and presented themselves at the tent of meeting. ^deuteronomy-31-14
+14 The LORD said to Moses, The time is now approaching for you to die. Summon Joshua, and present yourselves at the tent of meeting that I may commission him. So Moses and Joshua went and presented themselves at the tent of meeting. ^deuteronomy-31-14
 
-15 And the L ORD appeared at the tent in a column of cloud; the column of cloud stood at the entrance of the tent. ^deuteronomy-31-15
+15 And the LORD appeared at the tent in a column of cloud; the column of cloud stood at the entrance of the tent. ^deuteronomy-31-15
 
 **A Command to Moses.**
 
-16 The L ORD said to Moses, Soon you will be at rest with your ancestors, and then this people will prostitute themselves by following the foreign gods among whom they will live in the land they are about to enter. They will forsake me and break the covenant which I have made with them. ^deuteronomy-31-16
+16 The LORD said to Moses, Soon you will be at rest with your ancestors, and then this people will prostitute themselves by following the foreign gods among whom they will live in the land they are about to enter. They will forsake me and break the covenant which I have made with them. ^deuteronomy-31-16
 
 17 At that time my anger will flare up against them; I will forsake them and hide my face from them; they will become a prey to be devoured, and much evil and distress will befall them. At that time they will indeed say, “Is it not because our God is not in our midst that these evils have befallen us?” ^deuteronomy-31-17
 
@@ -83,15 +82,15 @@ url: https://bible.usccb.org/bible/deuteronomy/31
 
 24 When Moses had finished writing out on a scroll the words of this law in their entirety, ^deuteronomy-31-24
 
-25 Moses gave the Levites who carry the ark of the covenant of the L ORD this order: ^deuteronomy-31-25
+25 Moses gave the Levites who carry the ark of the covenant of the LORD this order: ^deuteronomy-31-25
 
-26 Take this book of the law and put it beside the ark of the covenant of the L ORD, your God, that there it may be a witness against you. ^deuteronomy-31-26
+26 Take this book of the law and put it beside the ark of the covenant of the LORD, your God, that there it may be a witness against you. ^deuteronomy-31-26
 
-27 For I already know how rebellious and stiff-necked you will be. Why, even now, while I am alive among you, you have been rebels against the L ORD! How much more, then, after I am dead! ^deuteronomy-31-27
+27 For I already know how rebellious and stiff-necked you will be. Why, even now, while I am alive among you, you have been rebels against the LORD! How much more, then, after I am dead! ^deuteronomy-31-27
 
 28 Assemble all your tribal elders and your officials before me, that I may speak these words for them to hear and so may call heaven and earth to witness against them. ^deuteronomy-31-28
 
-29 For I know that after my death you are sure to act corruptly and to turn aside from the way along which I commanded you, so that evil will befall you in time to come because you have done what is evil in the L ORD’s sight, and provoked him by your deeds. ^deuteronomy-31-29
+29 For I know that after my death you are sure to act corruptly and to turn aside from the way along which I commanded you, so that evil will befall you in time to come because you have done what is evil in the LORD’s sight, and provoked him by your deeds. ^deuteronomy-31-29
 
 **The Song of Moses.**
 

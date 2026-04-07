@@ -1,25 +1,24 @@
 ---
-title: Hosea, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 7
+title: Hosea, Chapter 7
+url: https://bible.usccb.org/bible/hosea/7
 aliases:
   - hosea-07
   - Hosea, Chapter 7
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 7
 ---
 
 # Hosea, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 When I would have restored the fortunes of my people,
 
@@ -43,7 +42,7 @@ Now their crimes surround them,
 
 present to my sight.
 
-#### Israel’s Domestic Politics
+### Israel’s Domestic Politics
 
 3 With their wickedness they make the king rejoice, ^hosea-07-3
 
@@ -79,7 +78,7 @@ All their kings have fallen;
 
 none of them calls upon me.
 
-#### Israel’s Foreign Politics
+### Israel’s Foreign Politics
 
 8 Ephraim is mixed with the nations, ^hosea-07-8
 
@@ -95,7 +94,7 @@ but he takes no notice of it.
 
 10 The arrogance of Israel bears witness against him; ^hosea-07-10
 
-yet they do not return to the L ORD, their God,
+yet they do not return to the LORD, their God,
 
 nor seek him, despite all this.
 

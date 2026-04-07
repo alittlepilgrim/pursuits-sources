@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 29
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 29
+title: Ezekiel, Chapter 29
+url: https://bible.usccb.org/bible/ezekiel/29
 aliases:
   - ezekiel-29
   - Ezekiel, Chapter 29
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/29
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 29
 ---
 
 # Ezekiel, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
 **Egypt the Crocodile.**
 
-1 In the tenth year, on the twelfth day of the tenth month, the word of the L ORD came to me: ^ezekiel-29-1
+1 In the tenth year, on the twelfth day of the tenth month, the word of the LORD came to me: ^ezekiel-29-1
 
 2 Son of man, turn your face toward Pharaoh, king of Egypt, and prophesy against him and against all Egypt. ^ezekiel-29-2
 
@@ -69,7 +68,7 @@ I give you as food.
 
 6 Then all the inhabitants of Egypt ^ezekiel-29-6
 
-will know that I am the L ORD.
+will know that I am the LORD.
 
 Because you were a staff of reeds
 
@@ -91,7 +90,7 @@ to cut off from you people and animals.
 
 9 The land of Egypt shall become a desolate waste; ^ezekiel-29-9
 
-then they shall know that I am the L ORD.
+then they shall know that I am the LORD.
 
 Because you said, “The Nile belongs to me;
 
@@ -165,7 +164,7 @@ Then they shall know that I am the Lord G OD.
 
 **Wages for Nebuchadnezzar.**
 
-17 In the twenty-seventh year on the first day of the first month, the word of the L ORD came to me: ^ezekiel-29-17
+17 In the twenty-seventh year on the first day of the first month, the word of the LORD came to me: ^ezekiel-29-17
 
 18 Son of man, Nebuchadnezzar, the king of Babylon, has made his army wage a hard campaign against Tyre; their heads grew bald, their shoulders rubbed raw, yet neither he nor his army received compensation from Tyre for all the effort they expended against it. ^ezekiel-29-18
 
@@ -173,7 +172,7 @@ Then they shall know that I am the Lord G OD.
 
 20 As payment for his toil I give him the land of Egypt—oracle of the Lord G OD. ^ezekiel-29-20
 
-21 On that day I will make a horn sprout for the house of Israel, and I will let you again open your mouth in their midst; then they shall know that I am the L ORD. ^ezekiel-29-21
+21 On that day I will make a horn sprout for the house of Israel, and I will let you again open your mouth in their midst; then they shall know that I am the LORD. ^ezekiel-29-21
 
 \* (29:1) The date is calculated to be January 7, 587 B.C. The siege of Jerusalem had begun a year earlier; cf. [24:1].
 

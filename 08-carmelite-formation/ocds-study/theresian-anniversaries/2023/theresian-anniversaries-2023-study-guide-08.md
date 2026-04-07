@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Study Guide 8 - the Offering to Merciful Love (Ms A, 83v-84v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Study Guide 8 - the Offering to Merciful Love (Ms A, 83v-84v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 Study Guide 8 - the Offering to Merciful Love (Ms A, 83v-84v)
   - theresian-anniversaries-2023-study-guide-08
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 Study Guide 8 - the Offering to Merciful Love (Ms A, 83v-84v)
@@ -24,7 +24,7 @@ Proposal for the Community meeting:
 
 It would be a good idea if the community meeting were preceded by personal reading and meditation upon Therese’s text.
 
-### Manuscript A, 83v-84v [ICS Pp. 180 – 182]
+## Manuscript A, 83v-84v [ICS Pp. 180 – 182]
 
 O my dear Mother! after so many graces can I not sing with the Psalmist: “How GOOD is the Lord, his MERCY endures forever!” It seems to me that if all creatures had re-ceived the same graces I received, God would be feared by none but would be loved to the point of folly; and through love, not through fear, no one would ever consent to cause Him any pain. I understand, however, that all souls cannot be the same, that it is necessary there be different types in order to honor each of God’s perfections in a particular way. To me He has granted His infinite Mercy, and through it I contemplate and adore the other divine perfections! All of these perfections appear to be resplendent with love; even His Justice (and perhaps this even more so than the others) seems to me clothed in love. What a sweet joy it is to think that God is Just, i.e., that He takes into account our weakness, that He is perfectly aware of our fragile nature.
 
@@ -46,7 +46,7 @@ I don’t know, but what I am certain about is that God’s Mercy will accompany
 
 And with this dear Mother she will sing eternally the new canticle of Love.
 
-### Introduction to the Text
+## Introduction to the Text
 
 We arrive with this last text at the end of Manuscript A; it is a text profoundly marked by the Act of Offering, which we invite you to reread. Following the Act of offering to Mer-ciful Love, Therese is flooded with streams of divine love.
 
@@ -62,7 +62,7 @@ The Offering to Merciful Love (Ms A, 83v-84v) 7“Or else transplanted to other 
 
 (Living Flame S 2:36).
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What does the text say? Understanding the content and primary meaning of Therese’s text.
 2. What does the text say to us today? Grasping the relevance (social, ecclesial, spiritual…) of the text.
@@ -72,7 +72,7 @@ The objective of this itinerary is to allow Therese to speak to us, interrogate 
 
 The proposed questions are therefore only indicative and may eventually accompany personal meditation and community exchange.
 
-### Questions
+## Questions
 
 1. We can reread text 1 and note the reality that embraces the whole of Manuscript A: divine mercy in Therese’s life.
 

@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 8
+title: Job, Chapter 8
+url: https://bible.usccb.org/bible/job/8
 aliases:
   - job-08
   - Job, Chapter 8
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 8
 ---
 
 # Job, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Bildad’s First Speech.**
 

@@ -1,20 +1,19 @@
 ---
-title: Psalm 74
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 74
+title: Psalm 74
+url: https://bible.usccb.org/bible/psalms/74
 aliases:
   - Psalm 74
   - psalm-74
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/74
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 74
 ---
 
 # Psalm 74

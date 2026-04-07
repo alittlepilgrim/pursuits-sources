@@ -1,39 +1,38 @@
 ---
-title: Jonah, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jonah, Chapter 4
+title: Jonah, Chapter 4
+url: https://bible.usccb.org/bible/jonah/4
 aliases:
   - jonah-04
   - Jonah, Chapter 4
 tags:
+  - bible/chapter
   - bible/jonah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jonah/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jonah, Chapter 4
 ---
 
 # Jonah, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Jonah’s Anger and God’s Reproof.**
 
 1 But this greatly displeased Jonah, and he became angry. ^jonah-04-1
 
-2 He prayed to the L ORD, “O L ORD, is this not what I said while I was still in my own country? This is why I fled at first toward Tarshish. I knew that you are a gracious and merciful God, slow to anger, abounding in kindness, repenting of punishment. ^jonah-04-2
+2 He prayed to the LORD, “O LORD, is this not what I said while I was still in my own country? This is why I fled at first toward Tarshish. I knew that you are a gracious and merciful God, slow to anger, abounding in kindness, repenting of punishment. ^jonah-04-2
 
-3 So now, L ORD, please take my life from me; for it is better for me to die than to live.” ^jonah-04-3
+3 So now, LORD, please take my life from me; for it is better for me to die than to live.” ^jonah-04-3
 
-4 But the L ORD asked, “Are you right to be angry?” ^jonah-04-4
+4 But the LORD asked, “Are you right to be angry?” ^jonah-04-4
 
 5 Jonah then left the city for a place to the east of it, where he built himself a hut and waited under it in the shade, to see what would happen to the city. ^jonah-04-5
 
-6 Then the L ORD God provided a gourd plant. And when it grew up over Jonah’s head, giving shade that relieved him of any discomfort, Jonah was greatly delighted with the plant. ^jonah-04-6
+6 Then the LORD God provided a gourd plant. And when it grew up over Jonah’s head, giving shade that relieved him of any discomfort, Jonah was greatly delighted with the plant. ^jonah-04-6
 
 7 But the next morning at dawn God provided a worm that attacked the plant, so that it withered. ^jonah-04-7
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/jonah/4
 
 9 But God said to Jonah, “Do you have a right to be angry over the gourd plant?” Jonah answered, “I have a right to be angry—angry enough to die.” ^jonah-04-9
 
-10 Then the L ORD said, “You are concerned over the gourd plant which cost you no effort and which you did not grow; it came up in one night and in one night it perished. ^jonah-04-10
+10 Then the LORD said, “You are concerned over the gourd plant which cost you no effort and which you did not grow; it came up in one night and in one night it perished. ^jonah-04-10
 
 11 And should I not be concerned over the great city of Nineveh, in which there are more than a hundred and twenty thousand persons who cannot know their right hand from their left, not to mention all the animals?” ^jonah-04-11
 

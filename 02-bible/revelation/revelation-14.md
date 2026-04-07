@@ -1,25 +1,24 @@
 ---
-title: Revelation, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, Chapter 14
+title: Revelation, Chapter 14
+url: https://bible.usccb.org/bible/revelation/14
 aliases:
   - revelation-14
   - Revelation, Chapter 14
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/revelation
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/revelation/14
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, Chapter 14
 ---
 
 # Revelation, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **The Lamb’s Companions.**
 

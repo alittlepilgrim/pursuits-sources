@@ -1,27 +1,26 @@
 ---
-title: 1 John, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 John, Chapter 3
+title: 1 John, Chapter 3
+url: https://bible.usccb.org/bible/1john/3
 aliases:
   - 1 John, Chapter 3
   - 1-john-03
 tags:
   - bible/1-john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1john/3
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 John, Chapter 3
 ---
 
 # 1 John, Chapter 3
 
-     
+[Introduction](1-john-00.md) [1](1-john-01.md) [2](1-john-02.md) [3](1-john-03.md) [4](1-john-04.md) [5](1-john-05.md)
 
-### Chapter 3
+## Chapter 3
 
 1 See what love the Father has bestowed on us that we may be called the children of God. Yet so we are. The reason the world does not know us is that it did not know him. ^1-john-03-1
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/1john/3
 
 10 In this way, the children of God and the children of the devil are made plain; no one who fails to act in righteousness belongs to God, nor anyone who does not love his brother. ^1-john-03-10
 
-## Iii. Love for One Another
+# Iii. Love for One Another
 
 11 For this is the message you have heard from the beginning: we should love one another, ^1-john-03-11
 

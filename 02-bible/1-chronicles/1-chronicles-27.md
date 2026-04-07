@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 27
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 27
+title: 1 Chronicles, Chapter 27
+url: https://bible.usccb.org/bible/1chronicles/27
 aliases:
   - 1 Chronicles, Chapter 27
   - 1-chronicles-27
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/27
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 27
 ---
 
 # 1 Chronicles, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 **Army Commanders.**
 
@@ -69,7 +68,7 @@ url: https://bible.usccb.org/bible/1chronicles/27
 
 22 for Dan, Azarel, son of Jeroham. These were the commanders of the tribes of Israel. ^1-chronicles-27-22
 
-23 David did not count those who were twenty years of age or younger, for the L ORD had promised to multiply Israel like the stars of the heavens. ^1-chronicles-27-23
+23 David did not count those who were twenty years of age or younger, for the LORD had promised to multiply Israel like the stars of the heavens. ^1-chronicles-27-23
 
 24 Joab, son of Zeruiah, began to take the census, but he did not complete it, for because of it wrath fell upon Israel. Therefore the number was not recorded in the book of chronicles of King David. ^1-chronicles-27-24
 

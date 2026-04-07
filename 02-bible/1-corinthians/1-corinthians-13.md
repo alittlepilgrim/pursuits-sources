@@ -1,25 +1,24 @@
 ---
-title: 1 Corinthians, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Corinthians, Chapter 13
+title: 1 Corinthians, Chapter 13
+url: https://bible.usccb.org/bible/1corinthians/13
 aliases:
   - 1 Corinthians, Chapter 13
   - 1-corinthians-13
 tags:
   - bible/1-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1corinthians/13
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Corinthians, Chapter 13
 ---
 
 # 1 Corinthians, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 1 If I speak in human and angelic tongues but do not have love, I am a resounding gong or a clashing cymbal. ^1-corinthians-13-1
 

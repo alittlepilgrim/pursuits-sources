@@ -1,25 +1,24 @@
 ---
-title: Tobit, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Tobit, Chapter 9
+title: Tobit, Chapter 9
+url: https://bible.usccb.org/bible/tobit/9
 aliases:
   - tobit-09
   - Tobit, Chapter 9
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/tobit
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/tobit/9
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Tobit, Chapter 9
 ---
 
 # Tobit, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **The Money Recovered.**
 

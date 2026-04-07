@@ -1,24 +1,25 @@
 ---
-title: The Dark Night – Book One  by St. John of the Cross
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: The Dark Night – Book One  by St. John of the Cross
+author: Secular Order of Discalced Carmelites
 aliases:
   - The Dark Night – Book One
   - The Dark Night – Book One  by St. John of the Cross
 tags:
   - carmel
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
-## The Dark Night – Book One - OCDS Ongoing Formation Volume II
+# The Dark Night – Book One - OCDS Ongoing Formation Volume II
 
 Required Reading: The Dark Night. This book is included in The Collected Works of St. John of the Cross, ICS Publications, 1991.
 
 Recommended Reading: The Dark Night, Marc Foley, O.C.D. ICS Publications, 2018.
 
-### Session One: the Imperfections of Beginners
+## Session One: the Imperfections of Beginners
 
 (May take multiple sessions, as needed.)
 
@@ -42,7 +43,7 @@ Dark Night, Book One – Session One
 
 p.48
 
-### Chapter 2: Spiritual Pride
+## Chapter 2: Spiritual Pride
 
  Spiritual pride in beginners results in complacency because they do not have true self-knowledge.
 
@@ -52,7 +53,7 @@ p.48
 
  “Their charity and love make them want to do so much for God that what they actually do accomplish seems as nothing. This loving solicitude goads them, preoccupies them, and absorbs them to such an extent that they never notice what others do or do not accomplish...” (DN.1.2:6).
 
-### Chapter 3: Spiritual Avarice
+## Chapter 3: Spiritual Avarice
 
  Spiritual avarice gets in the way of poverty of spirit. The result is that the soul blocks the spiritual purgation that God desires for it.
 
@@ -74,7 +75,7 @@ possessiveness, any appetite for these things must be uprooted if some degree of
 
 For personal reflection: One of the core issues contained in this chapter is our purpose for acquiring knowledge. Do we want to know in order to increase our stockpile of information, or do we want to receive the wisdom “to know how to live for love of God and neighbor”? (DN.1.3:2) (Dark Night, Foley, pg. 28).
 
-### Chapter 4: Spiritual Lust
+## Chapter 4: Spiritual Lust
 
 Explanatory note: “Lust” in the old meaning of the word signified an inordinate desire for sensual gratification. In this context, we are not speaking of sexual gratification, but rather the gratification of the senses and emotions.
 
@@ -88,7 +89,7 @@ Explanatory note: “Lust” in the old meaning of the word signified an inordin
 
 For personal reflection: Have you ever been in a relationship in which you asked yourself the question, “Where is this going; where will this end?” (Dark Night, Foley, pg. 38).
 
-### Chapter 5: Spiritual Anger
+## Chapter 5: Spiritual Anger
 
  “Because of the strong desire of many beginners for spiritual gratification, they usually have many imperfections of anger” (DN.1.5:1). Anger results from three things: o The soul encounters dryness when it desires delight (see DN.1.5:1). o The soul sees that others fail to measure up to its spiritual standards. “Through a
 
@@ -104,7 +105,7 @@ patience to wait until God gives them what they need, when he so desires. Their 
 
 For personal reflection: To what extent do you keep watch over the conduct of others, ready to punish the sins that you find? (Dark Night, Foley, pg. 48).
 
-### Chapter 6: Spiritual Gluttony
+## Chapter 6: Spiritual Gluttony
 
  Spiritual gluttony is the inordinate desire for spiritual satisfaction instead of God. Spiritual satisfaction can be sought through excessive penance, consolations, or through over-valuing personal experiences as one undertakes the long and winding spiritual journey to God.
 
@@ -122,7 +123,7 @@ For personal reflection: To what extent do you keep watch over the conduct of ot
 
 Side note: “Throughout these chapters, describing the situation of beginners in regard to each capital vice, John repeatedly points out their need for the purification of the dark night, which he begins to treat in ch. 8” (footnote #2, DN.1.6:6).
 
-### Chapter 7: Spiritual Envy and Sloth
+## Chapter 7: Spiritual Envy and Sloth
 
  The imperfection of spiritual envy occurs when the spiritual good of others causes the soul grief and resentment. “In regard to envy, many of them feel sad about the spiritual
 

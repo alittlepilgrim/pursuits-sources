@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 25
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 25
+title: 1 Samuel, Chapter 25
+url: https://bible.usccb.org/bible/1samuel/25
 aliases:
   - 1 Samuel, Chapter 25
   - 1-samuel-25
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/25
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 25
 ---
 
 # 1 Samuel, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 **Death of Samuel.**
 
@@ -75,23 +74,23 @@ url: https://bible.usccb.org/bible/1samuel/25
 
 25 My lord, do not pay any attention to that scoundrel Nabal, for he is just like his name. His name means fool, and he acts the fool. I, your maidservant, did not see the young men whom my lord sent. ^1-samuel-25-25
 
-26 Now, therefore, my lord, as the L ORD lives, and as you live, the L ORD has kept you from shedding blood and from avenging yourself by your own hand. May your enemies and those who seek to harm my lord become as Nabal! ^1-samuel-25-26
+26 Now, therefore, my lord, as the LORD lives, and as you live, the LORD has kept you from shedding blood and from avenging yourself by your own hand. May your enemies and those who seek to harm my lord become as Nabal! ^1-samuel-25-26
 
 27 Accept this gift, then, which your maidservant has brought for my lord, and let it be given to the young men who follow my lord. ^1-samuel-25-27
 
-28 Please forgive the offense of your maidservant, for the L ORD shall certainly establish a lasting house for my lord, because my lord fights the battles of the L ORD. Let no evil be found in you your whole life long. ^1-samuel-25-28
+28 Please forgive the offense of your maidservant, for the LORD shall certainly establish a lasting house for my lord, because my lord fights the battles of the LORD. Let no evil be found in you your whole life long. ^1-samuel-25-28
 
-29 If any adversary pursues you to seek your life, may the life of my lord be bound in the bundle of the living in the care of the L ORD your God; may God hurl out the lives of your enemies as from the hollow of a sling. ^1-samuel-25-29
+29 If any adversary pursues you to seek your life, may the life of my lord be bound in the bundle of the living in the care of the LORD your God; may God hurl out the lives of your enemies as from the hollow of a sling. ^1-samuel-25-29
 
-30 And when the L ORD fulfills for my lord the promise of success he has made concerning you, and appoints you as ruler over Israel, ^1-samuel-25-30
+30 And when the LORD fulfills for my lord the promise of success he has made concerning you, and appoints you as ruler over Israel, ^1-samuel-25-30
 
-31 you shall not have any regrets or burdens on your conscience, my lord, for having shed innocent blood or for having rescued yourself. When the L ORD bestows good on my lord, remember your maidservant.” ^1-samuel-25-31
+31 you shall not have any regrets or burdens on your conscience, my lord, for having shed innocent blood or for having rescued yourself. When the LORD bestows good on my lord, remember your maidservant.” ^1-samuel-25-31
 
-32 David said to Abigail: “Blessed is the L ORD, the God of Israel, who sent you to meet me today. ^1-samuel-25-32
+32 David said to Abigail: “Blessed is the LORD, the God of Israel, who sent you to meet me today. ^1-samuel-25-32
 
 33 Blessed is your good judgment and blessed are you yourself. Today you have prevented me from shedding blood and rescuing myself with my own hand. ^1-samuel-25-33
 
-34 Otherwise, as the L ORD, the God of Israel, lives, who has kept me from harming you, if you had not come so promptly to meet me, by dawn Nabal would not have had so much as one male left alive.” ^1-samuel-25-34
+34 Otherwise, as the LORD, the God of Israel, lives, who has kept me from harming you, if you had not come so promptly to meet me, by dawn Nabal would not have had so much as one male left alive.” ^1-samuel-25-34
 
 35 David then took from her what she had brought him and said to her: “Go to your home in peace! See, I have listened to your appeal and have granted your request.” ^1-samuel-25-35
 
@@ -101,9 +100,9 @@ url: https://bible.usccb.org/bible/1samuel/25
 
 37 But then, when Nabal was sober, his wife told him what had happened. At this his heart died within him, and he became like a stone. ^1-samuel-25-37
 
-38 About ten days later the L ORD struck Nabal and he died. ^1-samuel-25-38
+38 About ten days later the LORD struck Nabal and he died. ^1-samuel-25-38
 
-39 Hearing that Nabal was dead, David said: “Blessed be the L ORD, who has defended my cause against the insult from Nabal, and who restrained his servant from doing evil, but has repaid Nabal for his evil deeds.” ^1-samuel-25-39
+39 Hearing that Nabal was dead, David said: “Blessed be the LORD, who has defended my cause against the insult from Nabal, and who restrained his servant from doing evil, but has repaid Nabal for his evil deeds.” ^1-samuel-25-39
 
 **David Marries Abigail and Ahinoam.**David then sent a proposal of marriage to Abigail.
 

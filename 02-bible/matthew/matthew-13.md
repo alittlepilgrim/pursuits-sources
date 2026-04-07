@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 13
+title: Matthew, Chapter 13
+url: https://bible.usccb.org/bible/matthew/13
 aliases:
   - matthew-13
   - Matthew, Chapter 13
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/13
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 13
 ---
 
 # Matthew, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **The Parable of the Sower.**
 
@@ -167,7 +166,7 @@ I will announce what has lain hidden from the foundation \[of the world\].”
 
 53 When Jesus finished these parables, he went away from there. ^matthew-13-53
 
-## V. Jesus, the Kingdom, and the Church
+# V. Jesus, the Kingdom, and the Church
 
 **The Rejection at Nazareth.**
 

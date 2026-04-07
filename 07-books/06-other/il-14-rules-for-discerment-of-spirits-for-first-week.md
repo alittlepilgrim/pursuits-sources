@@ -1,22 +1,22 @@
 ---
-title: Rules for Discernment of Spirits for the 1st Week of the Spiritual Exercises of St. Ignatius of Loyola
-created: 2025-08-28
-modified: 2026-04-02
 type: book
-publish: true
+title: Rules for Discernment of Spirits for the 1st Week of the Spiritual Exercises of St. Ignatius of Loyola
+author: Saint Ignatius of Loyola
 aliases:
   - 14 Rules for Discernment of Spirits for the 1st Week of the Spiritual Exercises of St. Ignatius
   - 20251008-231357
   - il-14-rules-for-discerment-of-spirits-for-first-week
   - Rules for Discernment of Spirits for the 1st Week of the Spiritual Exercises of St. Ignatius of Loyola
 tags:
-  - book
-author: Saint Ignatius of Loyola
+  - type/book
+created: 2025-08-28
+modified: 2026-04-06
+publish: true
 ---
 
 # Rules for Discernment of Spirits for the 1st Week of the Spiritual Exercises of St. Ignatius of Loyola
 
-**Louis J. Puhl, SJ's translation from Original & Fr. Timothy Gallagher OMV's summary.**!
+**Louis J. Puhl, SJ's translation from Original & Fr. Timothy Gallagher OMV's summary.**![ree](https://static.wixstatic.com/media/61822c_43eab144218d475a861c751b0bcc904e~mv2.jpg/v1/fill/w_448,h_386,al_c,lg_1,q_80,enc_avif,quality_auto/61822c_43eab144218d475a861c751b0bcc904e~mv2.jpg)
 
 SE 313 Rules for understanding to some extent the different movements produced in the soul and for recognizing those that are good to admit them, and those that are bad, to reject them. These rules are more suited to the first week
 

@@ -1,27 +1,26 @@
 ---
-title: Proverbs, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 7
+title: Proverbs, Chapter 7
+url: https://bible.usccb.org/bible/proverbs/7
 aliases:
   - proverbs-07
   - Proverbs, Chapter 7
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/7
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 7
 ---
 
 # Proverbs, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-#### The Seduction
+### The Seduction
 
 1 My son, keep my words, ^proverbs-07-1
 

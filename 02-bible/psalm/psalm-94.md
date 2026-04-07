@@ -1,20 +1,19 @@
 ---
-title: Psalm 94
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 94
+title: Psalm 94
+url: https://bible.usccb.org/bible/psalms/94
 aliases:
   - Psalm 94
   - psalm-94
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/94
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 94
 ---
 
 # Psalm 94

@@ -1,27 +1,26 @@
 ---
-title: 1 John, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 John, Chapter 5
+title: 1 John, Chapter 5
+url: https://bible.usccb.org/bible/1john/5
 aliases:
   - 1 John, Chapter 5
   - 1-john-05
 tags:
   - bible/1-john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1john/5
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 John, Chapter 5
 ---
 
 # 1 John, Chapter 5
 
-     
+[Introduction](1-john-00.md) [1](1-john-01.md) [2](1-john-02.md) [3](1-john-03.md) [4](1-john-04.md) [5](1-john-05.md)
 
-### Chapter 5
+## Chapter 5
 
 **Faith is Victory over the World.**
 
@@ -49,7 +48,7 @@ url: https://bible.usccb.org/bible/1john/5
 
 12 Whoever possesses the Son has life; whoever does not possess the Son of God does not have life. ^1-john-05-12
 
-## Iv. Epilogue
+# Iv. Epilogue
 
 **Prayer for Sinners.**
 

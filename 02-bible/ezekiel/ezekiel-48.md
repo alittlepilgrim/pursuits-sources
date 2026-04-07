@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 48
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 48
+title: Ezekiel, Chapter 48
+url: https://bible.usccb.org/bible/ezekiel/48
 aliases:
   - ezekiel-48
   - Ezekiel, Chapter 48
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/48
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 48
 ---
 
 # Ezekiel, Chapter 48
 
-### Chapter 48
+## Chapter 48
 
 1 These are the names of the tribes: ^ezekiel-48-1
 
@@ -41,9 +40,9 @@ At the northern end, along the side of the way to Hethlon, Lebo-hamath, and Haza
 
 8 Along the territory of Judah from the eastern border to the western border is the tract you shall set apart, twenty-five thousand cubits wide and as long as one of the portions from the eastern border to the western border. The sanctuary shall stand in the center of the tract. ^ezekiel-48-8
 
-9 The tract you set apart for the L ORD shall be twenty-five thousand cubits long by twenty thousand wide. ^ezekiel-48-9
+9 The tract you set apart for the LORD shall be twenty-five thousand cubits long by twenty thousand wide. ^ezekiel-48-9
 
-10 The sacred tract will be given to the following: the priests shall have twenty-five thousand cubits on the north, ten thousand on the west, ten thousand on the east, and twenty-five thousand on the south. The sanctuary of the L ORD shall be in its center. ^ezekiel-48-10
+10 The sacred tract will be given to the following: the priests shall have twenty-five thousand cubits on the north, ten thousand on the west, ten thousand on the east, and twenty-five thousand on the south. The sanctuary of the LORD shall be in its center. ^ezekiel-48-10
 
 11 The consecrated priests, the Zadokites, who fulfilled my service and did not stray with the Israelites as the Levites did, ^ezekiel-48-11
 
@@ -51,7 +50,7 @@ At the northern end, along the side of the way to Hethlon, Lebo-hamath, and Haza
 
 13 The Levites shall have territory corresponding to that of the priests, twenty-five thousand cubits long and ten thousand cubits wide. The whole tract shall be twenty-five thousand cubits long and twenty thousand wide. ^ezekiel-48-13
 
-14 They may not sell or exchange or transfer any of it, the best part of the land, for it is sacred to the L ORD. ^ezekiel-48-14
+14 They may not sell or exchange or transfer any of it, the best part of the land, for it is sacred to the LORD. ^ezekiel-48-14
 
 15 The remaining section, five thousand cubits long and twenty-five thousand cubits wide, is profane land, assigned to the city for dwellings and pasture. The city is at its center. ^ezekiel-48-15
 
@@ -99,7 +98,7 @@ From the eastern border to the western border: Benjamin, one portion.
 
 34 On the west side, measuring forty-five hundred cubits, three gates: the gate of Gad, one; the gate of Asher, one; and the gate of Naphtali, one. ^ezekiel-48-34
 
-35 The circuit of the city shall be eighteen thousand cubits. From now on the name of the city is “The L ORD is there.” ^ezekiel-48-35
+35 The circuit of the city shall be eighteen thousand cubits. From now on the name of the city is “The LORD is there.” ^ezekiel-48-35
 
 \* (48:1] – [29) This distribution of the land among the tribes does not correspond to the geographical realities of Palestine. It is another idealizing element in Ezekiel’s representation of a restored and transformed Israel.
 

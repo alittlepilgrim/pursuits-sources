@@ -1,18 +1,16 @@
 ---
-title: Part II-fs-devout-life
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Part II. Containing Sundry Counsels as to Uplifting the Soul to God in Prayer and the Use of the Sacraments
+title: Part II-fs-devout-life
+author: Saint Francis de Sales
 aliases:
   - Part II. Containing Sundry Counsels as to Uplifting the Soul to God in Prayer and the Use of the Sacraments
 tags:
-  - author/francis-de-sales
-  - book
-  - book/introduction-devout-life
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Part II. Containing Sundry Counsels as to Uplifting the Soul to God in Prayer and the Use of the Sacraments
 ---
 
 # Part II. Containing Sundry Counsels as to Uplifting the Soul to God in Prayer and the Use of the Sacraments

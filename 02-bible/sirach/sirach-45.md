@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 45
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 45
+title: Sirach, Chapter 45
+url: https://bible.usccb.org/bible/sirach/45
 aliases:
   - sirach-45
   - Sirach, Chapter 45
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/45
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 45
 ---
 
 # Sirach, Chapter 45
 
-### Chapter 45
+## Chapter 45
 
-#### Praise of Moses, Aaron, and Phinehas
+### Praise of Moses, Aaron, and Phinehas
 
 1 From him came the man ^sirach-45-1
 
@@ -159,7 +158,7 @@ The followers of Dathan and Abiram,
 
 and the band of Korah in their defiance.
 
-19 When the L ORD saw this he became angry, ^sirach-45-19
+19 When the LORD saw this he became angry, ^sirach-45-19
 
 and destroyed them in his burning wrath.
 
@@ -175,7 +174,7 @@ The sacred offerings he allotted to him,
 
 with the showbread as his portion;
 
-21 The oblations of the L ORD are his food, ^sirach-45-21
+21 The oblations of the LORD are his food, ^sirach-45-21
 
 a gift to him and his descendants.
 
@@ -183,7 +182,7 @@ a gift to him and his descendants.
 
 nor shares with them their heritage;
 
-For the L ORD himself is his portion and inheritance
+For the LORD himself is his portion and inheritance
 
 among the Israelites.
 
@@ -215,7 +214,7 @@ Was an individual heritage through one son alone;
 
 but the heritage of Aaron is for all his descendants.
 
-So now bless the L ORD
+So now bless the LORD
 
 who has crowned you with glory!
 

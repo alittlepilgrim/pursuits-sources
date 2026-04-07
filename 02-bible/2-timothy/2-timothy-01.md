@@ -1,25 +1,24 @@
 ---
-title: 2 Timothy, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Timothy, Chapter 1
+title: 2 Timothy, Chapter 1
+url: https://bible.usccb.org/bible/2timothy/1
 aliases:
   - 2 Timothy, Chapter 1
   - 2-timothy-01
 tags:
   - bible/2-timothy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2timothy/1
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Timothy, Chapter 1
 ---
 
 # 2 Timothy, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -35,7 +34,7 @@ url: https://bible.usccb.org/bible/2timothy/1
 
 5 as I recall your sincere faith that first lived in your grandmother Lois and in your mother Eunice and that I am confident lives also in you. ^2-timothy-01-5
 
-## Ii. Exhortations to Timothy
+# Ii. Exhortations to Timothy
 
 **The Gifts Timothy Has Received.**
 

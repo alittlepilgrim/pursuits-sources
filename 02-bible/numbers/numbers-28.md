@@ -1,45 +1,44 @@
 ---
-title: Numbers, Chapter 28
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 28
+title: Numbers, Chapter 28
+url: https://bible.usccb.org/bible/numbers/28
 aliases:
   - numbers-28
   - Numbers, Chapter 28
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/28
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 28
 ---
 
 # Numbers, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 **General Sacrifices.**
 
-1 The L ORD said to Moses: ^numbers-28-1
+1 The LORD said to Moses: ^numbers-28-1
 
 2 Give the Israelites this commandment: At their prescribed times, you will be careful to present to me the food offerings that are due me, oblations of pleasing aroma to me. ^numbers-28-2
 
 **Each Morning and Evening.**
 
-3 You will tell them therefore: This is the oblation which you will offer to the L ORD: two unblemished yearling lambs each day as the regular burnt offering, ^numbers-28-3
+3 You will tell them therefore: This is the oblation which you will offer to the LORD: two unblemished yearling lambs each day as the regular burnt offering, ^numbers-28-3
 
 4 offering one lamb in the morning and the other during the evening twilight, ^numbers-28-4
 
 5 each with a grain offering of one tenth of an ephah of bran flour mixed with a fourth of a hin of oil of crushed olives. ^numbers-28-5
 
-6 This is the regular burnt offering that was made at Mount Sinai for a pleasing aroma, an oblation to the L ORD. ^numbers-28-6
+6 This is the regular burnt offering that was made at Mount Sinai for a pleasing aroma, an oblation to the LORD. ^numbers-28-6
 
-7 And as the libation for the first lamb, you will make a libation to the L ORD in the sanctuary of a fourth of a hin of strong drink. ^numbers-28-7
+7 And as the libation for the first lamb, you will make a libation to the LORD in the sanctuary of a fourth of a hin of strong drink. ^numbers-28-7
 
-8 The other lamb you will offer during the evening twilight, making the same grain offering and the same libation as in the morning, as an oblation of pleasing aroma to the L ORD. ^numbers-28-8
+8 The other lamb you will offer during the evening twilight, making the same grain offering and the same libation as in the morning, as an oblation of pleasing aroma to the LORD. ^numbers-28-8
 
 **On the Sabbath.**
 
@@ -49,25 +48,25 @@ url: https://bible.usccb.org/bible/numbers/28
 
 **At the New Moon Feast.**
 
-11 On your new moons you will offer as a burnt offering to the L ORD two bulls of the herd, one ram, and seven unblemished yearling lambs, ^numbers-28-11
+11 On your new moons you will offer as a burnt offering to the LORD two bulls of the herd, one ram, and seven unblemished yearling lambs, ^numbers-28-11
 
 12 with three tenths of an ephah of bran flour mixed with oil as the grain offering for each bull, two tenths of an ephah of bran flour mixed with oil as the grain offering for the ram, ^numbers-28-12
 
-13 and one tenth of an ephah of bran flour mixed with oil as the grain offering for each lamb, a burnt offering with a pleasing aroma, an oblation to the L ORD. ^numbers-28-13
+13 and one tenth of an ephah of bran flour mixed with oil as the grain offering for each lamb, a burnt offering with a pleasing aroma, an oblation to the LORD. ^numbers-28-13
 
 14 Their libations will consist of a half a hin of wine for each bull, a third of a hin for the ram, and a fourth of a hin for each lamb. This is the burnt offering for the new moon, for every new moon through the months of the year. ^numbers-28-14
 
-15 Moreover, there will be one goat for a purification offering to the L ORD; it will be offered in addition to the regular burnt offering and its libation. ^numbers-28-15
+15 Moreover, there will be one goat for a purification offering to the LORD; it will be offered in addition to the regular burnt offering and its libation. ^numbers-28-15
 
 **At the Passover.**
 
-16 The fourteenth day of the first month is the Passover of the L ORD, ^numbers-28-16
+16 The fourteenth day of the first month is the Passover of the LORD, ^numbers-28-16
 
 17 and the fifteenth day of this month is the pilgrimage feast. For seven days unleavened bread is to be eaten. ^numbers-28-17
 
 18 On the first day you will declare a holy day, and you shall do no heavy work. ^numbers-28-18
 
-19 You will offer an oblation, a burnt offering to the L ORD: two bulls of the herd, one ram, and seven yearling lambs that you are sure are unblemished. ^numbers-28-19
+19 You will offer an oblation, a burnt offering to the LORD: two bulls of the herd, one ram, and seven yearling lambs that you are sure are unblemished. ^numbers-28-19
 
 20 Their grain offerings will be of bran flour mixed with oil; you will offer three tenths of an ephah for each bull and two tenths for the ram. ^numbers-28-20
 
@@ -77,15 +76,15 @@ url: https://bible.usccb.org/bible/numbers/28
 
 23 These offerings you will make in addition to the morning burnt offering which is part of the regular burnt offering. ^numbers-28-23
 
-24 You will make exactly the same offerings each day for seven days as food offerings, oblations of pleasing aroma to the L ORD; they will be offered in addition to the regular burnt offering with its libation. ^numbers-28-24
+24 You will make exactly the same offerings each day for seven days as food offerings, oblations of pleasing aroma to the LORD; they will be offered in addition to the regular burnt offering with its libation. ^numbers-28-24
 
 25 On the seventh day you will declare a holy day: you shall do no heavy work. ^numbers-28-25
 
 **At Pentecost.**
 
-26 On the day of first fruits, on your feast of Weeks, when you present to the L ORD an offering of new grain, you will declare a holy day: you shall do no heavy work. ^numbers-28-26
+26 On the day of first fruits, on your feast of Weeks, when you present to the LORD an offering of new grain, you will declare a holy day: you shall do no heavy work. ^numbers-28-26
 
-27 You will offer burnt offering for a pleasing aroma to the L ORD: two bulls of the herd, one ram, and seven yearling lambs that you are sure are unblemished. ^numbers-28-27
+27 You will offer burnt offering for a pleasing aroma to the LORD: two bulls of the herd, one ram, and seven yearling lambs that you are sure are unblemished. ^numbers-28-27
 
 28 Their grain offerings will be of bran flour mixed with oil: three tenths of an ephah for each bull, two tenths for the ram, ^numbers-28-28
 

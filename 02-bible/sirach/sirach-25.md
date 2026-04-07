@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 25
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 25
+title: Sirach, Chapter 25
+url: https://bible.usccb.org/bible/sirach/25
 aliases:
   - sirach-25
   - Sirach, Chapter 25
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/25
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 25
 ---
 
 # Sirach, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
-#### Those Who Are Worthy of Praise
+### Those Who Are Worthy of Praise
 
 1 With three things I am delighted, ^sirach-25-1
 
@@ -83,7 +82,7 @@ but none is greater than the one who fears the Lord.
 
 To whom can we compare the one who has it?
 
-#### Wicked and Virtuous Women
+### Wicked and Virtuous Women
 
 13 Any wound, but not a wound of the heart! ^sirach-25-13
 

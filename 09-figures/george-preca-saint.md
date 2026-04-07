@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint George Preca
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - george-preca-saint
@@ -12,8 +9,11 @@ aliases:
 tags:
   - saint
   - term/priest
-celebration: "05-09"
-full_name: "Saint George Preca*"
+  - type/figure
+celebration: 05-09
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint George Preca

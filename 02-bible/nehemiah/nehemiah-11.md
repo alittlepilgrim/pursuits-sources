@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 11
+title: Nehemiah, Chapter 11
+url: https://bible.usccb.org/bible/nehemiah/11
 aliases:
   - nehemiah-11
   - Nehemiah, Chapter 11
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 11
 ---
 
 # Nehemiah, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **Resettlement of Jerusalem.**
 

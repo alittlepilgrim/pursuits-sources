@@ -1,20 +1,20 @@
 ---
-title: Jude, The Letter of Jude - Introduction
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jude, the Letter of Jude
+title: Jude, The Letter of Jude - Introduction
+url: https://bible.usccb.org/bible/jude/0
 aliases:
   - jude-00
   - Jude, the Letter of Jude - Introduction
   - Jude, The Letter of Jude - Introduction
 tags:
+  - bible/book
   - bible/jude
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/jude/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jude, the Letter of Jude
 ---
 
 # Jude, the Letter of Jude - Introduction

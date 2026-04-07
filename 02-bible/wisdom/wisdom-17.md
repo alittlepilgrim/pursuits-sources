@@ -1,27 +1,26 @@
 ---
-title: Wisdom, Chapter 17
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 17
+title: Wisdom, Chapter 17
+url: https://bible.usccb.org/bible/wisdom/17
 aliases:
   - wisdom-17
   - Wisdom, Chapter 17
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/17
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 17
 ---
 
 # Wisdom, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
-#### Fourth Example: Darkness Afflicts the Egyptians, While the Israelites Have Light
+### Fourth Example: Darkness Afflicts the Egyptians, While the Israelites Have Light
 
 1 For great are your judgments, and hard to describe; ^wisdom-17-1
 

@@ -1,25 +1,25 @@
 ---
-title: Revelation, The Book of Revelation
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, the Book of Revelation
+title: Revelation, The Book of Revelation
+url: https://bible.usccb.org/bible/revelation/0
 aliases:
   - revelation-00
   - Revelation, the Book of Revelation
   - Revelation, The Book of Revelation
 tags:
+  - bible/book
+  - bible/new-testament
   - bible/revelation
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/revelation/0
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, the Book of Revelation
 ---
 
 # Revelation, the Book of Revelation
 
-                      
+[Introduction](revelation-00.md) [1](revelation-01.md) [2](revelation-02.md) [3](revelation-03.md) [4](revelation-04.md) [5](revelation-05.md) [6](revelation-06.md) [7](revelation-07.md) [8](revelation-08.md) [9](revelation-09.md) [10](revelation-10.md) [11](revelation-11.md) [12](revelation-12.md) [13](revelation-13.md) [14](revelation-14.md) [15](revelation-15.md) [16](revelation-16.md) [17](revelation-17.md) [18](revelation-18.md) [19](revelation-19.md) [20](revelation-20.md) [21](revelation-21.md) [22](revelation-22.md)
 
 ## The Book of Revelation
 

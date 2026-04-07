@@ -1,65 +1,64 @@
 ---
-title: Jeremiah, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 13
+title: Jeremiah, Chapter 13
+url: https://bible.usccb.org/bible/jeremiah/13
 aliases:
   - jeremiah-13
   - Jeremiah, Chapter 13
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 13
 ---
 
 # Jeremiah, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Judah’s Corruption.**
 
-1 The L ORD said to me: Go buy yourself a linen loincloth; wear it on your loins, but do not put it in water. ^jeremiah-13-1
+1 The LORD said to me: Go buy yourself a linen loincloth; wear it on your loins, but do not put it in water. ^jeremiah-13-1
 
-2 I bought the loincloth, as the L ORD commanded, and put it on. ^jeremiah-13-2
+2 I bought the loincloth, as the LORD commanded, and put it on. ^jeremiah-13-2
 
-3 A second time the word of the L ORD came to me thus: ^jeremiah-13-3
+3 A second time the word of the LORD came to me thus: ^jeremiah-13-3
 
 4 Take the loincloth which you bought and are wearing, and go at once to the Perath; hide it there in a cleft of the rock. ^jeremiah-13-4
 
-5 Obedient to the L ORD’s command, I went to the Perath and buried the loincloth. ^jeremiah-13-5
+5 Obedient to the LORD’s command, I went to the Perath and buried the loincloth. ^jeremiah-13-5
 
-6 After a long time, the L ORD said to me: Go now to the Perath and fetch the loincloth which I told you to hide there. ^jeremiah-13-6
+6 After a long time, the LORD said to me: Go now to the Perath and fetch the loincloth which I told you to hide there. ^jeremiah-13-6
 
 7 So I went to the Perath, looked for the loincloth and took it from the place I had hidden it. But it was rotted, good for nothing! ^jeremiah-13-7
 
-8 Then the word came to me from the L ORD: ^jeremiah-13-8
+8 Then the word came to me from the LORD: ^jeremiah-13-8
 
-9 Thus says the L ORD: So also I will allow the pride of Judah to rot, the great pride of Jerusalem. ^jeremiah-13-9
+9 Thus says the LORD: So also I will allow the pride of Judah to rot, the great pride of Jerusalem. ^jeremiah-13-9
 
 10 This wicked people who refuse to obey my words, who walk in the stubbornness of their hearts and follow other gods, serving and worshiping them, will be like this loincloth, good for nothing. ^jeremiah-13-10
 
-11 For, as the loincloth clings to a man’s loins, so I made the whole house of Israel and the whole house of Judah cling to me—oracle of the L ORD —to be my people, my fame, my praise, my glory. But they did not listen. ^jeremiah-13-11
+11 For, as the loincloth clings to a man’s loins, so I made the whole house of Israel and the whole house of Judah cling to me—oracle of the LORD —to be my people, my fame, my praise, my glory. But they did not listen. ^jeremiah-13-11
 
 **The Broken Wineflask.**
 
-12 Now speak to them this word: Thus says the L ORD, the God of Israel: Every wineflask should be filled with wine. If they reply, “Do we not know that every wineflask should be filled with wine?” ^jeremiah-13-12
+12 Now speak to them this word: Thus says the LORD, the God of Israel: Every wineflask should be filled with wine. If they reply, “Do we not know that every wineflask should be filled with wine?” ^jeremiah-13-12
 
-13 say to them: Thus says the L ORD: Beware! I am making all the inhabitants of this land drunk, the kings who sit on David’s throne, the priests and prophets, and all the inhabitants of Jerusalem. ^jeremiah-13-13
+13 say to them: Thus says the LORD: Beware! I am making all the inhabitants of this land drunk, the kings who sit on David’s throne, the priests and prophets, and all the inhabitants of Jerusalem. ^jeremiah-13-13
 
-14 I will smash them against each other, parents and children together—oracle of the L ORD —showing no compassion, I will neither spare nor pity, but I will destroy them. ^jeremiah-13-14
+14 I will smash them against each other, parents and children together—oracle of the LORD —showing no compassion, I will neither spare nor pity, but I will destroy them. ^jeremiah-13-14
 
-#### A Last Warning
+### A Last Warning
 
 15 Listen and give ear, do not be arrogant, ^jeremiah-13-15
 
-for the L ORD speaks.
+for the LORD speaks.
 
-16 Give glory to the L ORD, your God, ^jeremiah-13-16
+16 Give glory to the LORD, your God, ^jeremiah-13-16
 
 before he brings darkness;
 
@@ -77,9 +76,9 @@ I will weep many tears in secret;
 
 My eyes will run with tears
 
-for the L ORD’s flock, led away to exile.
+for the LORD’s flock, led away to exile.
 
-#### Exile
+### Exile
 
 18 Say to the king and to the queen mother: ^jeremiah-13-18
 
@@ -97,7 +96,7 @@ Judah is taken into exile—all of it—
 
 in total exile.
 
-#### Jerusalem’s Disgrace
+### Jerusalem’s Disgrace
 
 20 Lift up your eyes and see ^jeremiah-13-20
 
@@ -137,7 +136,7 @@ on the desert wind.
 
 25 This is your lot, the portion I have measured out to you— ^jeremiah-13-25
 
-oracle of the L ORD.
+oracle of the LORD.
 
 Because you have forgotten me,
 

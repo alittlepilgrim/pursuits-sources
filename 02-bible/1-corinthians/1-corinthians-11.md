@@ -1,33 +1,32 @@
 ---
-title: 1 Corinthians, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Corinthians, Chapter 11
+title: 1 Corinthians, Chapter 11
+url: https://bible.usccb.org/bible/1corinthians/11
 aliases:
   - 1 Corinthians, Chapter 11
   - 1-corinthians-11
 tags:
   - bible/1-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1corinthians/11
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Corinthians, Chapter 11
 ---
 
 # 1 Corinthians, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 1 Be imitators of me, as I am of Christ. ^1-corinthians-11-1
 
-## Iv. Problems in Liturgical Assemblies
+# Iv. Problems in Liturgical Assemblies
 
 2 I praise you because you remember me in everything and hold fast to the traditions, just as I handed them on to you. ^1-corinthians-11-2
 
-### A. Women’s Headdresses
+## A. Women’s Headdresses
 
 **Man and Woman.**
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/1corinthians/11
 
 16 But if anyone is inclined to be argumentative, we do not have such a custom, nor do the churches of God. ^1-corinthians-11-16
 
-### B. the Lord’s Supper
+## B. the Lord’s Supper
 
 **An Abuse at Corinth.**
 
@@ -113,7 +112,7 @@ url: https://bible.usccb.org/bible/1corinthians/11
 
 \* (11:10) A sign of authority: “authority” (*exousia*) may possibly be due to mistranslation of an Aramaic word for “veil”; in any case, the connection with [1 Cor 11:9] indicates that the covering is a sign of woman’s subordination. Because of the angels: a surprising additional reason, which the context does not clarify. Presumably the reference is to cosmic powers who might inflict harm on women or whose function is to watch over women or the cult.
 
-\* (11:11] – [12) These parenthetical remarks relativize the argument from [Gn 2] – [3]. In the Lord: in the Christian economy the relation between the sexes is characterized by a mutual dependence, which is not further specified. And even in the natural order conditions have changed: the mode of origin described in [Gn 2] has been reversed ([1 Cor 11:12a]). But the ultimately significant fact is the origin that all things have in common ([1 Cor 11:12b]).
+\* (11:11] – [12) These parenthetical remarks relativize the argument from [Gn 2] – [3]. In the Lord: in the Christian economy the relation between the sexes is characterized by a mutual dependence, which is not further specified. And even in the naturaLORDer conditions have changed: the mode of origin described in [Gn 2] has been reversed ([1 Cor 11:12a]). But the ultimately significant fact is the origin that all things have in common ([1 Cor 11:12b]).
 
 \* (11:13] – [16) The argument for conformity to common church practice is summed up and pressed home. [1 Cor 11:14] – [15] contain a final appeal to the sense of propriety that contemporary Greek society would consider “natural” (cf. [1 Cor 11:5] – [6]).
 

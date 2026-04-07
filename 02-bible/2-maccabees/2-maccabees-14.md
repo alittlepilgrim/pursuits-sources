@@ -1,25 +1,24 @@
 ---
-title: 2 Maccabees, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Maccabees, Chapter
+title: 2 Maccabees, Chapter 14
+url: https://bible.usccb.org/bible/2maccabees/1
 aliases:
   - 2 Maccabees, Chapter 14
   - 2-maccabees-14
 tags:
   - bible/2-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2maccabees/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Maccabees, Chapter
 ---
 
 # 2 Maccabees, Chapter 14
 
-### Chapter
+## Chapter
 
 [a] Three years later,[*] Judas and his companions learned that Demetrius, son of Seleucus, had sailed into the port of Tripolis with a powerful army and a fleet,
 

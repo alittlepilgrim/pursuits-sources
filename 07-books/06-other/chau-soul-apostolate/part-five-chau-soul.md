@@ -1,12 +1,15 @@
 ---
-title: Part Five – The Soul of the Apostolate
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: false
+title: Part Five – The Soul of the Apostolate
+author: Dom Chautard
 aliases:
   - Part Five – The Soul of the Apostolate
-author: Dom Chautard
+tags:
+  - author/chautard-dom
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: false
 ---
 
 # Part Five – The Soul of the Apostolate
@@ -25,11 +28,11 @@ The real purpose of this work is to get the reader to resolve: “I am going to 
 
 #### **Principles**
 
-##### 1ST Principle.
+##### 1ST Principle
 
 Do not plunge headlong into Catholic Action from mere natural zest for activity, but consult God and make sure you are doing what you do under the inspiration of grace, and with the morally certain guarantee that it is His will.
 
-##### 2ND Principle.
+##### 2ND Principle
 
 It is rash and dangerous to remain too long engaged in work so heavy that it might make the soul incapable of performing the essential to the interior life. In such a case all, but especially priests and religious, should apply, even to the holiest of works, the text: “Pluck it out and cast it from thee.”212
 
@@ -39,19 +42,19 @@ It is rash and dangerous to remain too long engaged in work so heavy that it mig
 
 \-96
 
-##### 3RD Principle.
+##### 3RD Principle
 
 Draw up a Schedule Allotting to Each Activity a Fixed Time, and Get it approved by a wise and experienced priest, of interior life. And then do violence to yourself, if necessary, to keep it, and control the flood of your activities.
 
-##### 4TH Principle.
+##### 4TH Principle
 
 For your own profit and for the profit of others, it is essential that you develop your interior life, before all else. The busier you are, the more you need the interior life. And therefore, the more you ought to desire it, and the more you ought to take steps to prevent this desire from becoming one of those futile longings which the devil so often uses to drug souls and hold them fast in their illusions.
 
-##### 5TH Principle.
+##### 5TH Principle
 
 If it happens by accident, and really as a result of God’s will, that the soul is under great stress of work, and finds it morally impossible to give more time to prayer, what then? There is a thermometer that never lies, and always tells us whether we are truly fervent, in spite of it all. Simply ask yourself if you really thirst for the interior life, and if, with all good will, you seize every possible opportunity to perform at least its essential practices? It so, you may remain at peace, and you can count on very special graces. God holds them in reserve for you; and they will give you the strength you need to continue your advance in the spiritual life.
 
-##### 6TH Principle.
+##### 6TH Principle
 
 As long as the active worker has not reached the point where he is habitually recollected and habitually dependent upon grace — a dependence and recollection which accompany him everywhere he goes — he is still not in a satisfactory state of the interior life. But in working for this necessary recollection, strain must absolutely be avoided.
 
@@ -273,11 +276,11 @@ The analysis of the soul, by particular examination, to see if there has been pr
 
 ### 3. The Liturgical Life Is a Source of the Interior Life: Therefore It Is a Source of the Apostolate
 
-##### Resolution on the Liturgical Life
+#### Resolution on the Liturgical Life
 
 I want to use my Mass, Breviary, and other liturgical functions to unite myself more and more, both as MEMBER and AMBASSADOR, to the life of the Church, and thus more fully to put on Christ, and Christ crucified, especially if I am His MINISTER.
 
-#### I. What Is the Liturgy?
+### I. What Is the Liturgy?
 
 It is You, Jesus, that I adore as Centre of the Liturgy. It is You Who give unity to this Liturgy, which I may define as the public, social, official worship given by the Church of God, or, the whole complex of means which the Church uses especially in the Missal, Ritual, and, Breviary, and by which she expresses her religion to the adorable Trinity, as well as instructs and sanctifies souls.
 
@@ -305,7 +308,7 @@ Ever since, the Church has been uniting her praises to those which the angels an
 
 United to the praises of the man-God, this praise, the prayer of the Church, becomes divine and the Liturgy of the earth becomes one with that of the celestial hierarchies in the Court of Christ, echoing that everlasting praise which springs forth from the furnace of infinite love which is the Most Holy Trinity.
 
-#### II. What Is the Liturgical Life?
+### II. What Is the Liturgical Life?
 
 Lord, the laws of Your Church do not bind me strictly to anything but the faithful observance of the rubrics and the correct pronunciation of words.
 
@@ -359,7 +362,7 @@ But I must never lose sight of the fact that all the resources offered by the ho
 
 I will, therefore, be leading a genuine liturgical life if I am so penetrated with the spirit of the liturgy that I use my Mass, Prayers, and Official Rites to intensify my union with the Church, and thus to progress in my participation in the interior Life of Jesus Christ, and hence in His virtues, so that I will give a truer reflection of Him in the eyes of the faithful.
 
-#### III. the Liturgical Spirit Jesus, This Liturgical Life Means a Special Attraction for All That Pertains to Worship.
+### III. the Liturgical Spirit Jesus, This Liturgical Life Means a Special Attraction for All That Pertains to Worship
 
 To some people, You have freely given this attraction. Others are less privileged. But if they ask you for it, and aid themselves by studying and reflecting, they too will obtain it.
 
@@ -385,7 +388,7 @@ But then, O Holy Church, what a noble mission it is to present oneself each day,
 
 Incomparably more sublime, and beyond all power of expression, is the dignity of a sacred minister who becomes Your other self, O my Divine Redeemer, by administering the Sacraments, and above all by celebrating the Holy Sacrifice.
 
-#### First Principle
+### First Principle
 
 _As a member of the Church, I must have the conviction that when I take part, even as_a plain Christian__237_ _in a liturgical ceremony, I am united to the whole Church not only through the Communion of Saints, but by virtue of a real and active cooperation in an act of_ _religion which the Church, the Mystical Body of Christ, offers as a society to God. And by_ _this notion the Church like a true Mother helps dispose my soul to receive the Christian__virtues_.
 
@@ -517,7 +520,7 @@ saved." (St. Ignatius, _Spiritual Exercises_.)
 
 \-112
 
-#### Second Principle
+### Second Principle
 
 Whenever I take part as a REPRESENTATIVE OF THE CHURCH254 in any liturgical function, it Those who are thus delegated by the Church are: clerics, religious obliged to recite the office, even though is God’s desire that I give expression to my virtue of religion by being fully conscious of the OFFICIAL MANDATE with which I am honoured, and that, thus united more and more perfectly to the life of the Church, I may progress in all the virtues.
 
@@ -565,7 +568,7 @@ Oh my God, fill me with a profound esteem for this mission which the Church has 
 
 But grant me, also a true sense of my greatness as a Christian, and give me a childlike attitude before Your holy Church, so that I may profit abundantly by the treasures of interior life laid up in the holy Liturgy.
 
-#### Third Principle
+### Third Principle
 
 As a PRIEST, when I consecrate the Blessed Eucharist or administer the Sacraments, I must stir up the conviction that I am a MINISTER OF JESUS CHRIST, and therefore an alter Christus. And I must hold it as certain that if I am to find, in the exercise of my functions, the special graces necessary to acquire the virtues demanded by my priesthood, everything depends on me.261
 
@@ -699,9 +702,9 @@ ECCLESIA When the Church herself is represented in my person, so that I, so to s
 
 CHRISTUS But when, by virtue of my participation in the Priesthood of Christ, I am an _alter_ _Christus_, what terms can express the insistence with which You call me, Jesus, to take on more and more of Your divine likeness, and that I may thus manifest You to the faithful and move them, by the apostolate of good example to follow You?
 
-#### IV. the Advantages of the Liturgical Life
+### IV. the Advantages of the Liturgical Life
 
-##### A. It Helps Me to Be Permanently Supernatural in All My Acts
+#### A. It Helps Me to Be Permanently Supernatural in All My Acts
 
 How hard it is for me, O my God, to base the ordinary run of my actions upon a supernatural motive! Satan and creatures conspire with my self-love to lure my soul and faculties away from their dependence upon Jesus living within me.
 
@@ -769,7 +772,7 @@ The feasts of the saints speak to me of the glory of those who were before me he
 
 By these lessons the Church is ceaselessly crying out to me: “Beloved soul, consider the eternal years, and you will remain faithful to your motto, ‘God in all things, all the time, everywhere!’” O divine Liturgy: if I want to acknowledge all the benefits you bring us, I must enumerate all the virtues! Thanks to the chosen Scripture texts which you place before me at all times, thanks to the rites and symbols which express the divine Mysteries to me, my soul is constantly raised above this earth and directed now towards the theological virtues, now towards the fear of God, the horror for sin and for the spirit of this world, with detachment, compunction, confidence, or spiritual joy.
 
-##### B. It Is a Most Powerful Aid in Conforming My Interior Life to That of Jesus Christ
+#### B. It Is a Most Powerful Aid in Conforming My Interior Life to That of Jesus Christ
 
 O my adorable Master, there are three sentiments which hold sway in Your Sacred Heart: complete dependence upon Your Father, and therefore perfect humility; then secondly a burning and universal love for men; and finally the spirit of sacrifice.
 
@@ -821,7 +824,7 @@ Keep me firmly rooted in the conviction that the only way I can get to heaven is
 
 \-122
 
-###### A Spirit of Sacrifice
+##### A Spirit of Sacrifice
 
 Lord Jesus, You knew that mankind could only be saved by sacrifice, and You made Your whole life on earth a perpetual immolation.
 
@@ -863,7 +866,7 @@ Gregory the Great, Dialogues, iv, c. 59.)
 
 \-123
 
-##### C. the Liturgical Life Makes Me Live the Life of the Saints and Blessed in Heaven
+#### C. the Liturgical Life Makes Me Live the Life of the Saints and Blessed in Heaven
 
 _Conversatio nostra in coelis est_, said St. Paul.293 And where will I find a better way to carry out what he here expresses, than in the Liturgy? This Liturgy we have here on earth is simply an imitation of the celestial Liturgy which the Beloved Disciple, John, describes for us in his Apocalypse. When I sing or recite my Office, what else am I doing but carrying out the same function upon which the angels pride themselves, before the Throne of the Almighty?
 
@@ -873,11 +876,11 @@ The countless feasts of the Saints make me live, as it were, intimate companions
 
 Gregory considered as a token of predestination?
 
-#### V. the Practice of the Liturgical Life
+### V. the Practice of the Liturgical Life
 
 Good Master, You have deigned to give me some understanding of what the liturgical life is. Am I going to try and offer the duties of my ministry as a pretext for avoiding the effort which You demand, in order that I may put all this into practice? Surely You would answer that it will take no more time to fulfil my liturgical functions in the way You desire me to, than it does already to get through them mechanically. You would tell me to consider the example of so many of Your servants, like Bl. Fr. Perboyre, among others294 who charged by You with unceasing and deeply absorbing occupations to a degree of the highest intensity, was nevertheless a most perfect example of a “liturgical soul.”
 
-##### A. Remote Preparation
+#### A. Remote Preparation
 
 Dear Saviour, turn my desire for a liturgical life into a powerful SPIRIT OF FAITH with respect to everything that has to do with divine worship.
 
@@ -917,7 +920,7 @@ Oh, what weapons, my soul, will you thus forge, against thy ever roving imaginat
 
 The Church makes use of symbols to speak to the senses a language which captivates them, making the truths that are represented sensible. _Agnoscite quod agitis_ (realise what you are doing), she told me at my ordination. Ceremonies, sacred linen, holy objects, vestments, all speak with a meaningful voice, given them by the Church, my Mother. How am I ever going to enlighten the understandings and reach the hearts of the faithful that the Church wants to capture by her naive and grandiose speech if I myself do not possess the key to such instruction?
 
-##### B. Immediate Preparation
+#### B. Immediate Preparation
 
 “Before prayer, prepare thy soul.”296 Just before Mass, and every time I take up the Breviary, I should make a firm, calm act of recollection, in order to free myself from all that has no connection with God, and to fix my attention upon Him. The One I am about to talk to is God.
 
@@ -953,7 +956,7 @@ I will it. It is this filial and loving will, strong and humble, united with an 
 
 If it should happen that my intellect opens up some fine expansive vista to my faith, or if my sensibilities contribute some holy emotion, well and good; my will shall take advantage of them to make adoration easier. But I will always remember the principle that in the last analysis union with God dwells in the summit of the soul, in the will, and even though darkness and aridity fall to its lot, the will, though dry and cold, will take her flight on the wings of pure faith.
 
-##### C. Doing My Liturgical Work
+#### C. Doing My Liturgical Work
 
 To do well my liturgical work is a gift of Your bounty, O my God! _Omnipotens et_ _misericors Deus, de cujus munere venit ut tibi a fidelibus tuis digne et laudabiliter_ _serviatur_.
 
@@ -1001,7 +1004,7 @@ Once when studying in a university graduate school, into which no clerical influ
 
 But a faithful Catholic soul recently admitted to me: "When I saw the way my parish priest rushed through his Mass at high speed, I was completely upset, and found it hard to believe that he had any faith. Soon I lost all power to pray, el/en to believe, and a kind of disgust, caused by the fear that I would have to continue to see this priest say Mass, caused me, from then on, to avoid the parish Church."
 
-###### Footnotes
+##### Footnotes
 
 300 Let mind and voice agree. (Rule of St. Benedict.)
 
@@ -1027,7 +1030,7 @@ How could it be otherwise when thanks to your constant reminders I am ever comin
 
 without knowing what he was saying, than to describe that person as talking "like a priest gabbling his Mass."
 
-###### Footnotes
+##### Footnotes
 
 302 Jer. xlviii: 10.
 
@@ -1037,7 +1040,7 @@ without knowing what he was saying, than to describe that person as talking "lik
 
 ### 4. Custody of the Heart Is the Keystone of the Interior Life: Hence It Is Essential in the Apostolate
 
-##### Resolution on Custody of the Heart
+#### Resolution on Custody of the Heart
 
 Oh Jesus, it is my desire that my heart acquire a habitual solicitude to PRESERVE ITSELF from every stain and to BECOME MORE AND MORE UNITED to Your Heart in all my occupations conversations, recreations, and so on.
 
@@ -1121,7 +1124,7 @@ united to You. Not at all: You want me to be free. You do not want activities to
 
 And so, from the moment a supernatural practical sense tells me, through the many events and circumstances and details arranged by Your Providence, that such and such activity is really bound up with Your will, I have the twofold duty of not trying to get out of it but also of not doing it merely for the pleasure it may give me. I must take on the job, and carry it out solely in order to do Your Will. Otherwise self-love might step in and corrupt its worth, and diminish my merit.310 And if I find out what it is You will, Dear Lord, and see how You want it done, Quod, et quomodo Deus vult, and then go ahead and do it simply because it is Your Will, Et quia Deus vult, then my union with You, far from diminishing, will only be intensified.
 
-#### I. the Need for Self-custody
+### I. the Need for Self-custody
 
 My God, You are Holiness itself, and here on earth You only admit a soul to intimacy with You in the measure in which it applies itself to destroy or to avoid everything that can soil or stain it in any way.
 
@@ -1149,7 +1152,7 @@ O my soul! Some of those falls which you think are mere weakness are perhaps alr
 
 If I do not resolve upon custody of the heart, not only will I pile up a long and fearsome debt for purgatory, but even though I may yet avoid mortal sin, I will be on the incline that inevitably leads to it. Have you thought of that, O my soul?
 
-#### II. Self-custody Begins with the Practice of the Presence of God
+### II. Self-custody Begins with the Practice of the Presence of God
 
 O Holy Trinity, if I am in the state of Grace, and I hope I am, then You are dwelling in my heart, with all Your glory and all Your infinite perfections, just as You dwell in Heaven; but here You are hidden by the veils of Faith.
 
@@ -1169,7 +1172,7 @@ And yet they are right at hand, not only to remind me of the indwelling of the M
 
 Up to now, how much importance have I attached to these riches that I find all along my road? All I needed to do was bend down and pick up diamonds and place them in my diadem. What a far call it is from me to those souls who, in the thick of their work or their conversations return a thousand times a day to their Divine Guest! They have acquired this habit, and their hearts are fixed where their treasure is.
 
-#### III. Self-custody Aided by Devotion to Our Lady
+### III. Self-custody Aided by Devotion to Our Lady
 
 O my Immaculate Mother, when, on Calvary, the words of Your Son made me also a child of yours, it was in order that you might then aid me to keep my heart united, through Jesus, to the Holy Trinity.
 
@@ -1187,7 +1190,7 @@ Sweet Mother, from now on I am going to hear YOUR HEART REMINDING ME OF THE TRUT
 
 And this is what is going to enable me even in the smallest details, to keep my faculties and all their impulses in an ever more perfect habit of dependence upon God living within me.
 
-#### IV. Learning Self-custody
+### IV. Learning Self-custody
 
 It is a torment to me, to remain out of the presence of God for long intervals during the course of my work. I am filled with sorrow by the realisation that all during this time when I am pouring myself out in activities, numerous faults escape me, irrespective of the state of my soul, whether I display a mixture of fervour and imperfections, or whether I am frankly tepid. And hence I want to start to remedy matters today by practicing custody of the heart.
 
@@ -1227,7 +1230,7 @@ These blessed moments will come gradually to exercise a VIRTUAL influence on the
 
 I am going to aim at quality rather than extent. My thirst to take more than just a few minutes at this practice will grow stronger in proportion as I see more correctly what I am and what You expect of me, Dear Lord. And thus gradually getting familiar with this salutary exercise I shall contract a real need for it, and it will become a habit, and then You will make known to my soul, thus purified, the secrets of the life of union with You.
 
-#### V. Self-custody: Under What Conditions?
+### V. Self-custody: Under What Conditions?
 
 The whole trend of my life is almost all more or less imperfect. This CONVICTION, which Satan tries to keep out of my mind, is going to be the basis of mistrust of myself and of creatures. And this element, united to my desire to belong to Jesus will necessarily produce: Vigilance, loyal and exact, gentle, peaceful, confident in grace, and based on the repression of dissipation and of the excesses of natural enthusiasm. A frequent renewal of my resolution. Tireless new beginnings, ever full of confidence in the mercy of Christ for the soul that really puts up a fight to acquire self-custody. An ever increasing certitude that I am not fighting alone but united to Jesus living in me, to Mary His Mother, to my guardian angel, and to the saints. A conviction that these powerful allies are helping me at every moment as long as I keep striving for self-custody: as long as I do not put myself out of reach of their assistance. Finally, a cordial and frequent recourse to all these divine helps, that I may be able with their aid to do _quod Deus vult and do it quomodo Deus vult and quia Deus vult._ 313 Oh! what a transformation will take place in my life, Dear Lord, if I keep my heart united to You!
 

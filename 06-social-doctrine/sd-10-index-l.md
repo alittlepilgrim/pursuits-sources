@@ -1,26 +1,28 @@
 ---
-title: L - Social Doctrine of the Church Analytical Index
-created: 2025-11-12
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: L - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - L - Social Doctrine of the Church Analytical Index
   - sd-10-index-l
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
 ---
 
 # L - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Labour
+## Labour
 
 (see Also [[sd-10-index-o#Work|Work]])
 
@@ -40,7 +42,7 @@ Child labour, [[sd-04-part-II#^csdc-296|296]]
 
 Immigrants and labour needs, [[sd-04-part-II#^csdc-297|297]]
 
-### Laity - Lay - Lay Faithful
+## Laity - Lay - Lay Faithful
 
 The _Compendium_ and the lay faithful, [[sd-02-intro#^csdc-11|11]]
 
@@ -104,7 +106,7 @@ The lay faithful and choice of political instruments, [[sd-05-part-III#^csdc-573
 
 The laity and Christian hope, [[sd-06-conclusion#^csdc-579|579]]
 
-### Land
+## Land
 
 (see Also [[sd-10-index-o#Earth|Earth]])
 
@@ -126,11 +128,11 @@ Land titles, [[sd-04-part-II#^csdc-300|300]]
 
 Indigenous peoples and land, [[sd-04-part-II#^csdc-471|471]]
 
-### Latifundium
+## Latifundium
 
 Distribution of land and latifundium, [[sd-04-part-II#^csdc-300|300]]
 
-### Law
+## Law
 
 (see Also [[sd-10-index-o#International Law|International Law]], [[sd-10-index-n#Natural Law|Natural Law]])
 
@@ -258,15 +260,15 @@ Law and the content of faith and of morality, [[sd-05-part-III#^csdc-571|571]]
 
 The Gospel, the person and human law, [[sd-06-conclusion#^csdc-576|576]]
 
-### Lay
+## Lay
 
 (see LAITY)
 
-### Legislative Prescriptions
+## Legislative Prescriptions
 
 Marriage is not the result of legislative prescriptions, [[sd-04-part-II#^csdc-215|215]]
 
-### Liberation
+## Liberation
 
 Exodus and the liberation from slavery, [[sd-03-part-I#^csdc-21|21]]
 
@@ -300,7 +302,7 @@ Social pastoral activity and Christian liberation, [[sd-05-part-III#^csdc-524|52
 
 Catechesis and human liberation, [[sd-05-part-III#^csdc-529|529]]
 
-### Lie - Falsehood
+## Lie - Falsehood
 
 Divine grace and the spiral of lies, [[sd-03-part-I#^csdc-43|43]]
 
@@ -310,7 +312,7 @@ Violence is a lie, [[sd-04-part-II#^csdc-496|496]]
 
 Putting away falsehood, [[sd-05-part-III#^csdc-562|562]]
 
-### Life - Living Conditions
+## Life - Living Conditions
 
 Jesus Christ, the way, the truth and the life, [[sd-02-intro#^csdc-1|1]], [[sd-05-part-III#^csdc-555|555]]
 
@@ -822,7 +824,7 @@ Social life and sociological readings, [[sd-06-conclusion#^csdc-581|581]]
 
 A more human society and love in social life, [[sd-06-conclusion#^csdc-582|582]], [[sd-06-conclusion#^csdc-583|583]]
 
-### Love
+## Love
 
 (see Also [[sd-10-index-o#Charity|Charity]])
 

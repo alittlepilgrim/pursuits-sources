@@ -1,10 +1,9 @@
 ---
-title: Ascent of Mount Carmel by St. John of the Cross
-created: 2025-09-12
-modified: 2026-04-02
 type: toc
-publish: true
-description: A major mystical treatise by St. John of the Cross, guiding souls toward union with God through detachment, purification, and the ascent of the spiritual Mount Carmel.
+title: Ascent of Mount Carmel by St. John of the Cross
+author: Saint John of the Cross
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/j/john_cross/ascent/cache/ascent.txt
 aliases:
   - 20250912-011522
   - Ascent of Mount Carmel
@@ -20,15 +19,15 @@ tags:
   - subject/spirituality
   - subject/theology
   - vault-admin/clippings
-author: Saint John of the Cross
-published: 1618 (posthumous), 1953 (E. Allison Peers critical translation)
-source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/ascent/cache/ascent.txt
+created: 2025-09-12
+modified: 2026-04-04
+publish: true
+description: A major mystical treatise by St. John of the Cross, guiding souls toward union with God through detachment, purification, and the ascent of the spiritual Mount Carmel.
 ---
 
 # Ascent of Mount Carmel by St. John of the Cross
 
-
+[Source](https://ccel.org/ccel/j/john_cross/ascent/cache/ascent.txt)
 
 # Publication Info
 

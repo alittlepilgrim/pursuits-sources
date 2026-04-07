@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 8
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 8
+title: Genesis, Chapter 8
+url: https://bible.usccb.org/bible/genesis/8
 aliases:
   - genesis-08
   - Genesis, Chapter 8
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 8
 bible_book: genesis
 bible_chapter: "08"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/8
 ---
 
 [[genesis-07|[← Previous Note]]] · [[genesis-09|[Next Note →]]]
@@ -64,9 +63,9 @@ url: https://bible.usccb.org/bible/genesis/8
 
 19 and all the animals, all the birds, and all the crawling creatures that crawl on the earth went out of the ark by families. ^genesis-08-19
 
-20 Then Noah built an altar to the L ORD, and choosing from every clean animal and every clean bird, he offered burnt offerings on the altar. ^genesis-08-20
+20 Then Noah built an altar to the LORD, and choosing from every clean animal and every clean bird, he offered burnt offerings on the altar. ^genesis-08-20
 
-21 When the L ORD smelled the sweet odor, the L ORD said to himself: Never again will I curse the ground because of human beings, since the desires of the human heart are evil from youth; nor will I ever again strike down every living being, as I have done. ^genesis-08-21
+21 When the LORD smelled the sweet odor, the LORD said to himself: Never again will I curse the ground because of human beings, since the desires of the human heart are evil from youth; nor will I ever again strike down every living being, as I have done. ^genesis-08-21
 
 22 All the days of the earth, ^genesis-08-22
 
@@ -94,6 +93,6 @@ c. (8:22) [Jer 33:20], [25]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-07|[← Previous Note]]] · [[genesis-09|[Next Note →]]]

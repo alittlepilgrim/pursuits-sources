@@ -1,19 +1,20 @@
 ---
-title: psalm-128
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 128
+title: psalm-128
+url: https://bible.usccb.org/bible/psalms/128
 aliases:
   - Psalm 128
   - psalm-128
   - Psalms, Psalm 128
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/128
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 128
 ---
 
 # Psalm 128

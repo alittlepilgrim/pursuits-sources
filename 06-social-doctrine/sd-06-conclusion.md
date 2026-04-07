@@ -1,10 +1,8 @@
 ---
-title: Social Doctrine of the Church - Conclusion
-created: 2025-08-22
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Compendium of the Social Doctrine of the Church
+title: Social Doctrine of the Church - Conclusion
+author: Catholic Church
+url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
   - 20250822-143124
   - Compendium of the Social Doctrine of the Church Conclusion
@@ -12,9 +10,14 @@ aliases:
   - Social Doctrine of the Church - Conclusion
   - social-doctrine-06
 tags:
+  - author/catholic-church
   - term/social-doctrine
-author: Catholic Church
-url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
+  - type/magisterium
+  - vatican/social-doctrine
+created: 2025-08-22
+modified: 2026-04-06
+publish: true
+description: Compendium of the Social Doctrine of the Church
 ---
 
 ---

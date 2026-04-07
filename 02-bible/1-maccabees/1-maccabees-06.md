@@ -1,25 +1,24 @@
 ---
-title: 1 Maccabees, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, Chapter 6
+title: 1 Maccabees, Chapter 6
+url: https://bible.usccb.org/bible/1maccabees/6
 aliases:
   - 1 Maccabees, Chapter 6
   - 1-maccabees-06
 tags:
   - bible/1-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/6
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, Chapter 6
 ---
 
 # 1 Maccabees, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 1 As King Antiochus passed through the eastern provinces, he heard that in Persia there was a city, Elam, famous for its wealth in silver and gold, ^1-maccabees-06-1
 

@@ -1,29 +1,28 @@
 ---
-title: Job, Chapter 38
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 38
+title: Job, Chapter 38
+url: https://bible.usccb.org/bible/job/38
 aliases:
   - job-38
   - Job, Chapter 38
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/38
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 38
 ---
 
 # Job, Chapter 38
 
-### Chapter 38
+## Chapter 38
 
-## Viii. the Lord and Job Meet
+# Viii. the Lord and Job Meet
 
-1 Then the L ORD answered Job out of the storm and said: ^job-38-1
+1 Then the LORD answered Job out of the storm and said: ^job-38-1
 
 2 Who is this who darkens counsel ^job-38-2
 

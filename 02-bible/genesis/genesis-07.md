@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 7
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 7
+title: Genesis, Chapter 7
+url: https://bible.usccb.org/bible/genesis/7
 aliases:
   - genesis-07
   - Genesis, Chapter 7
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 7
 bible_book: genesis
 bible_chapter: "07"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/7
 ---
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]
@@ -26,7 +25,7 @@ url: https://bible.usccb.org/bible/genesis/7
 
 # Genesis, Chapter 7
 
-1 Then the L ORD said to Noah: Go into the ark, you and all your household, for you alone in this generation have I found to be righteous before me. ^genesis-07-1
+1 Then the LORD said to Noah: Go into the ark, you and all your household, for you alone in this generation have I found to be righteous before me. ^genesis-07-1
 
 2 Of every clean animal, take with you seven pairs, a male and its mate; and of the unclean animals, one pair, a male and its mate; ^genesis-07-2
 
@@ -34,7 +33,7 @@ url: https://bible.usccb.org/bible/genesis/7
 
 4 For seven days from now I will bring rain down on the earth for forty days and forty nights, and so I will wipe out from the face of the earth every being that I have made. ^genesis-07-4
 
-5 Noah complied, just as the L ORD had commanded. ^genesis-07-5
+5 Noah complied, just as the LORD had commanded. ^genesis-07-5
 
 **The Great Flood.**
 
@@ -62,7 +61,7 @@ and the floodgates of the sky were opened.
 
 15 Pairs of all creatures in which there was the breath of life came to Noah into the ark. ^genesis-07-15
 
-16 Those that entered were male and female; of all creatures they came, as God had commanded Noah. Then the L ORD shut him in. ^genesis-07-16
+16 Those that entered were male and female; of all creatures they came, as God had commanded Noah. Then the LORD shut him in. ^genesis-07-16
 
 17 The flood continued upon the earth for forty days. As the waters increased, they lifted the ark, so that it rose above the earth. ^genesis-07-17
 
@@ -76,7 +75,7 @@ and the floodgates of the sky were opened.
 
 22 Everything on dry land with the breath of life in its nostrils died. ^genesis-07-22
 
-23 The L ORD wiped out every being on earth: human beings and animals, the crawling things and the birds of the air; all were wiped out from the earth. Only Noah and those with him in the ark were left. ^genesis-07-23
+23 The LORD wiped out every being on earth: human beings and animals, the crawling things and the birds of the air; all were wiped out from the earth. Only Noah and those with him in the ark were left. ^genesis-07-23
 
 24 And when the waters had swelled on the earth for one hundred and fifty days, ^genesis-07-24
 
@@ -94,6 +93,6 @@ e. (7:21] – [23) [Jb 22:16]; ([[matthew-24|Mt 24]]:39]; ([[luke-17|Lk 17]]:27]
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]

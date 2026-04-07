@@ -1,10 +1,13 @@
 ---
-title: Abandonment to Divine Providence
-created: 2026-04-02
-modified: 2026-04-02
 type: book
-publish: false
+title: Abandonment to Divine Providence
 author: J.P. De Caussade
+aliases: []
+tags:
+  - type/book
+created: 2026-04-02
+modified: 2026-04-06
+publish: false
 ---
 
 J.-P. DE CAUSSADE, S.J.
@@ -19,7 +22,7 @@ Foreword by Rev. David Meconi, S.J.
 
 ### Introduction
 
-### Book I. on the Virtue of Abandonment to Divine Providence; Its Nature and Excellence.
+### Book I. on the Virtue of Abandonment to Divine Providence; Its Nature and Excellence
 
 Chapter One: Sanctity Consists in Fidelity to the Order Established by God, and in Submission to All His Operations.
 
@@ -67,7 +70,7 @@ XI. Everything Is Supernaturalized by the Divine Action
 
 XII. The Divine Word Our Model
 
-### Book Ii: on the State of Abandonment.
+### Book Ii: on the State of Abandonment
 
 Chapter One: On the Nature and Excellence of the State of Abandonment.
 
@@ -159,7 +162,7 @@ V. Temptations and Trials
 
 ### Second Part: Letters on the Practice of Abandonment to Divine Providence
 
-#### First Book. on the Esteem for and Love of This Virtue.
+#### First Book. on the Esteem for and Love of This Virtue
 
 I. Happiness and Peace of Abandonment
 
@@ -183,7 +186,7 @@ X. Continued Troubles
 
 XI. Good Wishes
 
-#### Second Book. on the Exercise of the Virtue of Abandonment.
+#### Second Book. on the Exercise of the Virtue of Abandonment
 
 I. Some General Principles
 
@@ -259,7 +262,7 @@ XXXVI. On Life and Death
 
 XXXVII. Not to Desire Consolations
 
-#### Third Book. on the Obstacles to Abandonment.
+#### Third Book. on the Obstacles to Abandonment
 
 I. About Vanity and Infidelities
 
@@ -293,7 +296,7 @@ XV. On Discouragement
 
 XVI. Fear of Singularity
 
-#### Fourth Book. The First Trials of Souls Called to the State of Abandonment. Aridities, Weaknesses and Weariness.
+#### Fourth Book. The First Trials of Souls Called to the State of Abandonment. Aridities, Weaknesses and Weariness
 
 I. Aridity and Weakness
 
@@ -337,7 +340,7 @@ XX. The Fruit of Trials
 
 XXI. Things Painful to Nature
 
-#### Fifth Book. Fresh Trials, Sufferings and Privations.
+#### Fifth Book. Fresh Trials, Sufferings and Privations
 
 I. Rules to Be Observed in Illness
 
@@ -377,7 +380,7 @@ XVIII. The Will of God to Be Preferred
 
 XIX. The Happiness of Resignation
 
-#### Sixth Book. on the Continuation of Trials, and Fear of the Anger of God.
+#### Sixth Book. on the Continuation of Trials, and Fear of the Anger of God
 
 I. On Temptations
 
@@ -431,7 +434,7 @@ XXV. Interior Suffering
 
 XXVI. On Different States of Resignation
 
-#### Seventh Book. The Last Trials. Agony and Mystical Death. The Fruit Thereof.
+#### Seventh Book. The Last Trials. Agony and Mystical Death. The Fruit Thereof
 
 I. Temptations to Despair
 

@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 41
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 41
+title: Job, Chapter 41
+url: https://bible.usccb.org/bible/job/41
 aliases:
   - job-41
   - Job, Chapter 41
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/41
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 41
 ---
 
 # Job, Chapter 41
 
-### Chapter 41
+## Chapter 41
 
 1 Whoever might vainly hope to do so ^job-41-1
 

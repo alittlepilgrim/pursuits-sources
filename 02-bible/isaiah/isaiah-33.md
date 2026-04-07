@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 33
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 33
+title: Isaiah, Chapter 33
+url: https://bible.usccb.org/bible/isaiah/33
 aliases:
   - isaiah-33
   - Isaiah, Chapter 33
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/33
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 33
 ---
 
 # Isaiah, Chapter 33
 
-### Chapter 33
+## Chapter 33
 
-#### Overthrow of Assyria
+### Overthrow of Assyria
 
 1 Ah! You destroyer never destroyed, ^isaiah-33-1
 
@@ -31,7 +30,7 @@ When you have finished destroying, you will be destroyed;
 
 when you have stopped betraying, you will be betrayed.
 
-2 L ORD, be gracious to us; for you we wait. ^isaiah-33-2
+2 LORD, be gracious to us; for you we wait. ^isaiah-33-2
 
 Be our strength every morning,
 
@@ -45,7 +44,7 @@ when you rise in your majesty, nations are scattered.
 
 an onrush like the rush of locusts.
 
-5 The L ORD is exalted, enthroned on high; ^isaiah-33-5
+5 The LORD is exalted, enthroned on high; ^isaiah-33-5
 
 he fills Zion with right and justice.
 
@@ -53,7 +52,7 @@ he fills Zion with right and justice.
 
 her wealth, salvation, wisdom, and knowledge,
 
-is the fear of the L ORD, her treasure.
+is the fear of the LORD, her treasure.
 
 7 See, the men of Ariel cry out in the streets, ^isaiah-33-7
 
@@ -75,7 +74,7 @@ Sharon is like the Arabah,
 
 Bashan and Carmel are stripped bare.
 
-10 Now I will rise up, says the L ORD, ^isaiah-33-10
+10 Now I will rise up, says the LORD, ^isaiah-33-10
 
 now exalt myself,
 
@@ -143,7 +142,7 @@ Whose pegs will never be pulled up,
 
 nor any of its ropes severed.
 
-21 Indeed the L ORD in majesty will be there for us ^isaiah-33-21
+21 Indeed the LORD in majesty will be there for us ^isaiah-33-21
 
 a place of rivers and wide streams
 
@@ -151,11 +150,11 @@ on which no galley may go,
 
 where no majestic ship may pass.
 
-22 For the L ORD is our judge, ^isaiah-33-22
+22 For the LORD is our judge, ^isaiah-33-22
 
-the L ORD is our lawgiver,
+the LORD is our lawgiver,
 
-the L ORD is our king;
+the LORD is our king;
 
 he it is who will save us.
 

@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 21
+title: John, Chapter 21
+url: https://bible.usccb.org/bible/john/21
 aliases:
   - john-21
   - John, Chapter 21
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/21
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 21
 ---
 
 # John, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **The Appearance to the Seven Disciples.**
 

@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 29
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 29
+title: Genesis, Chapter 29
+url: https://bible.usccb.org/bible/genesis/29
 aliases:
   - 20250508-020311
   - genesis-29
   - Genesis, Chapter 29
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 29
 bible_book: genesis
 bible_chapter: "29"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/29
 ---
 
 [[genesis-28|[← Previous Note]]] · [[genesis-30|[Next Note →]]]
@@ -93,15 +92,15 @@ url: https://bible.usccb.org/bible/genesis/29
 
 **Jacob’s Children.**
 
-31 When the L ORD saw that Leah was unloved, he made her fruitful, while Rachel was barren. ^genesis-29-31
+31 When the LORD saw that Leah was unloved, he made her fruitful, while Rachel was barren. ^genesis-29-31
 
-32 Leah conceived and bore a son, and she named him Reuben; for she said, “It means, ‘The L ORD saw my misery; surely now my husband will love me.’” ^genesis-29-32
+32 Leah conceived and bore a son, and she named him Reuben; for she said, “It means, ‘The LORD saw my misery; surely now my husband will love me.’” ^genesis-29-32
 
-33 She conceived again and bore a son, and said, “It means, ‘The L ORD heard that I was unloved,’ and therefore he has given me this one also”; so she named him Simeon. ^genesis-29-33
+33 She conceived again and bore a son, and said, “It means, ‘The LORD heard that I was unloved,’ and therefore he has given me this one also”; so she named him Simeon. ^genesis-29-33
 
 34 Again she conceived and bore a son, and she said, “Now at last my husband will become attached to me, since I have now borne him three sons”; that is why she named him Levi. ^genesis-29-34
 
-35 Once more she conceived and bore a son, and she said, “This time I will give thanks to the L ORD”; therefore she named him Judah. Then she stopped bearing children. ^genesis-29-35
+35 Once more she conceived and bore a son, and she said, “This time I will give thanks to the LORD”; therefore she named him Judah. Then she stopped bearing children. ^genesis-29-35
 
 \* (29:1] – [14) Jacob’s arrival in Haran. The sight of Rachel inspires Jacob to the superhuman feat of rolling back the enormous stone by himself. The scene evokes the meeting of [[abraham|Abraham]]’s steward and Jacob’s mother Rebekah at a well ([24:11] – [27]).
 
@@ -145,6 +144,6 @@ h. (29:35) ([[matthew-01|Mt 1]]:2]; ([[luke-03| [[luke-03|Lk 3]]:]]:33]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]

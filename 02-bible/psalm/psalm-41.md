@@ -1,20 +1,19 @@
 ---
-title: Psalm 41
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 41
+title: Psalm 41
+url: https://bible.usccb.org/bible/psalms/41
 aliases:
   - Psalm 41
   - psalm-41
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/41
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 41
 ---
 
 # Psalm 41

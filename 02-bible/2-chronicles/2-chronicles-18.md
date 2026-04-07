@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 18
+title: 2 Chronicles, Chapter 18
+url: https://bible.usccb.org/bible/2chronicles/18
 aliases:
   - 2 Chronicles, Chapter 18
   - 2-chronicles-18
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/18
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 18
 ---
 
 # 2 Chronicles, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Alliance with Israel.**
 
@@ -27,31 +26,31 @@ url: https://bible.usccb.org/bible/2chronicles/18
 
 3 Ahab, king of Israel, asked Jehoshaphat, king of Judah, “Will you come with me to Ramoth-gilead?” He answered, “You and I are as one, and your people and my people as well. We will be with you in the battle.” ^2-chronicles-18-3
 
-4 Jehoshaphat also said to the king of Israel, “Seek the word of the L ORD at once.” ^2-chronicles-18-4
+4 Jehoshaphat also said to the king of Israel, “Seek the word of the LORD at once.” ^2-chronicles-18-4
 
 **Prophets in Conflict.**
 
 5 The king of Israel assembled the prophets, four hundred of them, and asked, “Shall we go to fight against Ramoth-gilead, or shall I refrain?” They said, “Attack. God will give it into the power of the king.” ^2-chronicles-18-5
 
-6 But Jehoshaphat said, “Is there no other prophet of the L ORD here we might consult?” ^2-chronicles-18-6
+6 But Jehoshaphat said, “Is there no other prophet of the LORD here we might consult?” ^2-chronicles-18-6
 
-7 The king of Israel answered, “There is one other man through whom we may consult the L ORD; but I hate him, because he prophesies not good but always evil about me. He is Micaiah, son of Imlah.” Jeshoshaphat said, “Let not the king say that.” ^2-chronicles-18-7
+7 The king of Israel answered, “There is one other man through whom we may consult the LORD; but I hate him, because he prophesies not good but always evil about me. He is Micaiah, son of Imlah.” Jeshoshaphat said, “Let not the king say that.” ^2-chronicles-18-7
 
 8 So the king of Israel called an official, and said to him, “Get Micaiah, son of Imlah, at once.” ^2-chronicles-18-8
 
 9 The king of Israel and Jehoshaphat, king of Judah, were seated, each on his throne, clothed in their robes of state in the square at the entrance of the gate of Samaria, and all the prophets were prophesying before them. ^2-chronicles-18-9
 
-10 Zedekiah, son of Chenaanah, made himself two horns of iron and said: “The L ORD says: With these you shall gore Aram until you have destroyed them.” ^2-chronicles-18-10
+10 Zedekiah, son of Chenaanah, made himself two horns of iron and said: “The LORD says: With these you shall gore Aram until you have destroyed them.” ^2-chronicles-18-10
 
-11 The other prophets prophesied in the same vein, saying: “Attack Ramoth-gilead, and conquer! The L ORD will give it into the power of the king.” ^2-chronicles-18-11
+11 The other prophets prophesied in the same vein, saying: “Attack Ramoth-gilead, and conquer! The LORD will give it into the power of the king.” ^2-chronicles-18-11
 
 12 Meanwhile the messenger who had gone to call Micaiah said to him: “Look now, the words of the prophets are as one in speaking good for the king. Let your word be at one with theirs; speak a good word.” ^2-chronicles-18-12
 
-13 Micaiah said, “As the L ORD lives, I shall speak whatever my God says.” ^2-chronicles-18-13
+13 Micaiah said, “As the LORD lives, I shall speak whatever my God says.” ^2-chronicles-18-13
 
 14 When he came to the king, the king said to him, “Micah, shall we go to fight at Ramoth-gilead, or shall I refrain?” He said, “Attack and conquer! They will be delivered into your power.” ^2-chronicles-18-14
 
-15 But the king answered him, “How many times must I adjure you to tell me nothing but the truth in the name of the L ORD?” ^2-chronicles-18-15
+15 But the king answered him, “How many times must I adjure you to tell me nothing but the truth in the name of the LORD?” ^2-chronicles-18-15
 
 16 So Micaiah said: ^2-chronicles-18-16
 
@@ -61,7 +60,7 @@ scattered on the mountains,
 
 like sheep without a shepherd,
 
-And the L ORD saying,
+And the LORD saying,
 
 These have no masters!
 
@@ -69,17 +68,17 @@ Let each of them go back home in peace.”
 
 17 The king of Israel said to Jehoshaphat, “Did I not tell you, he does not prophesy good about me, but only evil?” ^2-chronicles-18-17
 
-18 Micaiah continued: “Therefore hear the word of the L ORD. I saw the L ORD seated on his throne, with the whole host of heaven standing to his right and to his left. ^2-chronicles-18-18
+18 Micaiah continued: “Therefore hear the word of the LORD. I saw the LORD seated on his throne, with the whole host of heaven standing to his right and to his left. ^2-chronicles-18-18
 
-19 The L ORD asked: Who will deceive Ahab, king of Israel, so that he will go up and fall on Ramoth-gilead? And one said this, another that, ^2-chronicles-18-19
+19 The LORD asked: Who will deceive Ahab, king of Israel, so that he will go up and fall on Ramoth-gilead? And one said this, another that, ^2-chronicles-18-19
 
-20 until this spirit came forth and stood before the L ORD, saying, ‘I will deceive him.’ The L ORD asked: How? ^2-chronicles-18-20
+20 until this spirit came forth and stood before the LORD, saying, ‘I will deceive him.’ The LORD asked: How? ^2-chronicles-18-20
 
-21 He answered, ‘I will go forth and become a lying spirit in the mouths of all his prophets.’ The L ORD replied: You shall succeed in deceiving him. Go forth and do this. ^2-chronicles-18-21
+21 He answered, ‘I will go forth and become a lying spirit in the mouths of all his prophets.’ The LORD replied: You shall succeed in deceiving him. Go forth and do this. ^2-chronicles-18-21
 
-22 So now the L ORD has put a lying spirit in the mouths of these prophets of yours; but the L ORD himself has decreed evil against you.” ^2-chronicles-18-22
+22 So now the LORD has put a lying spirit in the mouths of these prophets of yours; but the LORD himself has decreed evil against you.” ^2-chronicles-18-22
 
-23 Thereupon Zedekiah, son of Chenaanah, came up and struck Micaiah on the cheek, saying, “Has the spirit of the L ORD, then, passed from me to speak with you?” ^2-chronicles-18-23
+23 Thereupon Zedekiah, son of Chenaanah, came up and struck Micaiah on the cheek, saying, “Has the spirit of the LORD, then, passed from me to speak with you?” ^2-chronicles-18-23
 
 24 Micaiah said, “You shall find out on the day you go into an innermost room to hide.” ^2-chronicles-18-24
 
@@ -87,7 +86,7 @@ Let each of them go back home in peace.”
 
 26 and say, ‘This is the king’s order: Put this man in prison and feed him scanty rations of bread and water until I come back in safety!’” ^2-chronicles-18-26
 
-27 But Micaiah said, “If ever you return in safety, the L ORD has not spoken through me.” (He also said, “Hear, O peoples, all of you!”) ^2-chronicles-18-27
+27 But Micaiah said, “If ever you return in safety, the LORD has not spoken through me.” (He also said, “Hear, O peoples, all of you!”) ^2-chronicles-18-27
 
 **Ahab’s Death.**
 
@@ -97,7 +96,7 @@ Let each of them go back home in peace.”
 
 30 In the meantime, the king of Aram had given his chariot commanders the order, “Fight with no one, great or small, except the king of Israel alone.” ^2-chronicles-18-30
 
-31 When the chariot commanders saw Jehoshaphat, they thought, “There is the king of Israel!” and wheeled to fight him. But Jehoshaphat cried out and the L ORD helped him; God induced them to leave him alone. ^2-chronicles-18-31
+31 When the chariot commanders saw Jehoshaphat, they thought, “There is the king of Israel!” and wheeled to fight him. But Jehoshaphat cried out and the LORD helped him; God induced them to leave him alone. ^2-chronicles-18-31
 
 32 The chariot commanders, seeing that he was not the king of Israel, turned away from him. ^2-chronicles-18-32
 

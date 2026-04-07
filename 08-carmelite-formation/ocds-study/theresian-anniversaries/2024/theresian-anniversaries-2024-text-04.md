@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2024 - Text 4 the Little Way (Ms. C, 2v-3v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2024 - Text 4 the Little Way (Ms. C, 2v-3v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2024 - Text 4 the Little Way (Ms. C, 2v-3v)
   - theresian-anniversaries-2024-text-04
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2024 - Text 4 the Little Way (Ms. C, 2v-3v)
@@ -36,7 +36,7 @@ And until old age and grey hairs, I will continue to announce them.” What will
 
 Ah! don’t think, dear Mother, that your child wants to leave you; don’t think she feels it is a greater grace to die at the dawn of the day rather than at its close. What she esteems and what she desires only is to please Jesus. Now that He seems to be approaching her in order to draw her into the place of His glory, your child is filled with joy. For a long time she has understood that God needs no one (much less her) to do good on earth.
 
-### Introduction to the Text
+## Introduction to the Text
 
 ‘The grain of sand’ (Ms C, 2v): this symbol, much favoured by Therese since March 1888, had disappeared since the time of her profession (8/9/1890) and reappears here. We know that Therese liked to use grand opposites: mountain/grain of sand corresponds to eagle/little bird in Manuscript B.
 
@@ -52,7 +52,7 @@ She does it for the good of others and no longer to achieve per-sonal perfection
 
 ‘If someone is very little’ (Ms. C, 3r): already cited by Ther-ese as an essential element of the ‘little way’, with the underlying theme of Isaiah 66:12-13: ‘You will be suckled, carried on her hip and fondled in her lap. As a mother comforts a child, so I shall comfort you.’
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -60,7 +60,7 @@ She does it for the good of others and no longer to achieve per-sonal perfection
 
 The purpose of this process is to allow Therese to speak to us herself, to question and encourage us, and to open us up to her clarifying and confirming our own personal and community path. The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. What does Therese rely on to nourish her research? How do we tackle our personal and community research and discernment?
 2. Based on the fundamental experience of the deep gulf between our desire and the reality of our limitations, what attitudes does Therese invite us to cultivate?

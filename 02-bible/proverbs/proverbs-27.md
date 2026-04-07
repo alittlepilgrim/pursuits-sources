@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 27
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 27
+title: Proverbs, Chapter 27
+url: https://bible.usccb.org/bible/proverbs/27
 aliases:
   - proverbs-27
   - Proverbs, Chapter 27
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/27
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 27
 ---
 
 # Proverbs, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 1 Do not boast about tomorrow, ^proverbs-27-1
 

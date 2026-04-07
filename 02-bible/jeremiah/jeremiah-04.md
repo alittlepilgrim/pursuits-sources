@@ -1,27 +1,26 @@
 ---
-title: Jeremiah, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 4
+title: Jeremiah, Chapter 4
+url: https://bible.usccb.org/bible/jeremiah/4
 aliases:
   - jeremiah-04
   - Jeremiah, Chapter 4
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 4
 ---
 
 # Jeremiah, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
-1 If you return, Israel—oracle of the L ORD — ^jeremiah-04-1
+1 If you return, Israel—oracle of the LORD — ^jeremiah-04-1
 
 return to me.
 
@@ -29,7 +28,7 @@ If you put your detestable things out of my sight,
 
 and do not stray,
 
-2 And swear, “As the L ORD lives,” ^jeremiah-04-2
+2 And swear, “As the LORD lives,” ^jeremiah-04-2
 
 in truth, in judgment, and in justice,
 
@@ -37,13 +36,13 @@ Then the nations shall bless themselves in him
 
 and in him glory.
 
-3 For to the people of Judah and Jerusalem, thus says the L ORD: ^jeremiah-04-3
+3 For to the people of Judah and Jerusalem, thus says the LORD: ^jeremiah-04-3
 
 Till your untilled ground,
 
 and do not sow among thorns.
 
-4 Be circumcised for the L ORD, ^jeremiah-04-4
+4 Be circumcised for the LORD, ^jeremiah-04-4
 
 remove the foreskins of your hearts,
 
@@ -55,7 +54,7 @@ and burn so that no one can quench it,
 
 because of your evil deeds.
 
-#### The Invasion from the North
+### The Invasion from the North
 
 5 Proclaim it in Judah, ^jeremiah-04-5
 
@@ -91,11 +90,11 @@ your cities into an uninhabited waste.
 
 mourn and wail:
 
-“The blazing anger of the L ORD
+“The blazing anger of the LORD
 
 has not turned away from us.”
 
-9 In that day—oracle of the L ORD — ^jeremiah-04-9
+9 In that day—oracle of the LORD — ^jeremiah-04-9
 
 The king will lose heart, and the princes;
 
@@ -157,7 +156,7 @@ shouting their war cry against the cities of Judah.”
 
 17 Like watchers in the fields they surround her, ^jeremiah-04-17
 
-for she has rebelled against me—oracle of the L ORD.
+for she has rebelled against me—oracle of the LORD.
 
 18 Your conduct, your deeds, have done this to you; ^jeremiah-04-18
 
@@ -217,9 +216,9 @@ even the birds of the air had flown away!
 
 with all its cities destroyed
 
-before the L ORD, before his blazing anger.
+before the LORD, before his blazing anger.
 
-27 For thus says the L ORD: ^jeremiah-04-27
+27 For thus says the LORD: ^jeremiah-04-27
 
 The whole earth shall be waste,
 
@@ -271,7 +270,7 @@ as she stretches out her hands:
 
 before my killers!”
 
-\* (4:2) As the L ORD lives: this oath, made sincerely, implies Israel’s return and loyal adherence to God. Thus the ancient promises are fulfilled; cf. [[genesis-12|Gen 12]]:3; [18:18]; [22:18]; [26:4]; [Ps 72:17].
+\* (4:2) As the LORD lives: this oath, made sincerely, implies Israel’s return and loyal adherence to God. Thus the ancient promises are fulfilled; cf. [[genesis-12|Gen 12]]:3; [18:18]; [22:18]; [26:4]; [Ps 72:17].
 
 \* (4:4) The external rite of circumcision accomplishes nothing unless it is accompanied by the removal of blindness and obstinacy of heart. Jeremiah’s view is reflected in ([[romans-02|Rom 2]]:25], [29]; ([[1-corinthians-07|1 Cor 7]]:19]; [Gal 5:6]; [6:13], [15].
 

@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 18
+title: 1 Samuel, Chapter 18
+url: https://bible.usccb.org/bible/1samuel/18
 aliases:
   - 1 Samuel, Chapter 18
   - 1-samuel-18
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/18
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 18
 ---
 
 # 1 Samuel, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **David and Jonathan.**
 
@@ -51,11 +50,11 @@ David his tens of thousands.”
 
 11 Saul poised the spear, thinking, “I will nail David to the wall!” But twice David escaped him. ^1-samuel-18-11
 
-12 Saul then began to fear David because the L ORD was with him but had turned away from Saul. ^1-samuel-18-12
+12 Saul then began to fear David because the LORD was with him but had turned away from Saul. ^1-samuel-18-12
 
 13 Saul sent him out of his presence and appointed him a field officer. So David led the people on their military expeditions ^1-samuel-18-13
 
-14 and prospered in all his ways, for the L ORD was with him. ^1-samuel-18-14
+14 and prospered in all his ways, for the LORD was with him. ^1-samuel-18-14
 
 15 Seeing how he prospered, Saul feared David. ^1-samuel-18-15
 
@@ -63,7 +62,7 @@ David his tens of thousands.”
 
 **Saul Plots Against David.**
 
-17 Saul said to David, “Look, I will give you my older daughter, Merob, in marriage if you become my warrior and fight the battles of the L ORD.” Saul thought, “I will not lay a hand on him. Let the hand of the Philistines strike him.” ^1-samuel-18-17
+17 Saul said to David, “Look, I will give you my older daughter, Merob, in marriage if you become my warrior and fight the battles of the LORD.” Saul thought, “I will not lay a hand on him. Let the hand of the Philistines strike him.” ^1-samuel-18-17
 
 18 But David answered Saul: “Who am I? And who are my kindred or my father’s clan in Israel that I should become the king’s son-in-law?” ^1-samuel-18-18
 
@@ -85,7 +84,7 @@ David his tens of thousands.”
 
 27 David arose and went with his men and slew two hundred Philistines. He brought back their foreskins and counted them out before the king that he might become the king’s son-in-law. So Saul gave him his daughter Michal as wife. ^1-samuel-18-27
 
-28 Then Saul realized that the L ORD was with David and that his own daughter Michal loved David. ^1-samuel-18-28
+28 Then Saul realized that the LORD was with David and that his own daughter Michal loved David. ^1-samuel-18-28
 
 29 So Saul feared David all the more and was his enemy ever after. ^1-samuel-18-29
 

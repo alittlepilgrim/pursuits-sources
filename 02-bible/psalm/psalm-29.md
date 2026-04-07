@@ -1,20 +1,19 @@
 ---
-title: Psalm 29
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 29
+title: Psalm 29
+url: https://bible.usccb.org/bible/psalms/29
 aliases:
   - Psalm 29
   - psalm-29
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/29
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 29
 ---
 
 # Psalm 29

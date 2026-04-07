@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 21
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 21
+title: Judges, Chapter 21
+url: https://bible.usccb.org/bible/judges/21
 aliases:
   - judges-21
   - Judges, Chapter 21
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/21
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 21
 ---
 
 # Judges, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **Ensuring a Future for Benjamin.**
 
@@ -27,17 +26,17 @@ url: https://bible.usccb.org/bible/judges/21
 
 2 So the people went to Bethel and remained there before God until evening, raising their voices in bitter weeping. ^judges-21-2
 
-3 They said, “L ORD, God of Israel, why has this happened in Israel that today one tribe of Israel should be lacking?” ^judges-21-3
+3 They said, “LORD, God of Israel, why has this happened in Israel that today one tribe of Israel should be lacking?” ^judges-21-3
 
 4 Early the next day the people built an altar there and offered burnt offerings and communion offerings. ^judges-21-4
 
-5 Then the Israelites asked, “Are there any among all the tribes of Israel who did not come up to the L ORD for the assembly?” For there was a solemn oath that anyone who did not go up to the L ORD at Mizpah should be put to death. ^judges-21-5
+5 Then the Israelites asked, “Are there any among all the tribes of Israel who did not come up to the LORD for the assembly?” For there was a solemn oath that anyone who did not go up to the LORD at Mizpah should be put to death. ^judges-21-5
 
 6 The Israelites were disconsolate over their brother Benjamin and said, “Today one tribe has been cut off from Israel. ^judges-21-6
 
-7 What can we do about wives for the survivors, since we have sworn by the L ORD not to give them any of our daughters in marriage?” ^judges-21-7
+7 What can we do about wives for the survivors, since we have sworn by the LORD not to give them any of our daughters in marriage?” ^judges-21-7
 
-8 And when they asked, “Is there one among the tribes of Israel who did not come up to the L ORD in Mizpah?” they found that none of the men of Jabesh-gilead had come to the encampment for the assembly. ^judges-21-8
+8 And when they asked, “Is there one among the tribes of Israel who did not come up to the LORD in Mizpah?” they found that none of the men of Jabesh-gilead had come to the encampment for the assembly. ^judges-21-8
 
 9 A roll call of the people was taken, and none of the inhabitants of Jabesh-gilead was present. ^judges-21-9
 
@@ -51,7 +50,7 @@ url: https://bible.usccb.org/bible/judges/21
 
 14 So Benjamin returned at that time, and they were given as wives the women of Jabesh-gilead who had been spared; but these proved to be not enough for them. ^judges-21-14
 
-15 The people had regrets about Benjamin because the L ORD had made a breach among the tribes of Israel. ^judges-21-15
+15 The people had regrets about Benjamin because the LORD had made a breach among the tribes of Israel. ^judges-21-15
 
 16 The elders of the assembly said, “What shall we do for wives for the survivors? For the women of Benjamin have been annihilated.” ^judges-21-16
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/judges/21
 
 18 Yet we cannot give them any of our daughters in marriage.” For the Israelites had taken an oath, “Cursed be he who gives a wife to Benjamin!” ^judges-21-18
 
-19 Then they thought of the yearly feast of the L ORD at Shiloh, north of Bethel, east of the highway that goes up from Bethel to Shechem, and south of Lebonah. ^judges-21-19
+19 Then they thought of the yearly feast of the LORD at Shiloh, north of Bethel, east of the highway that goes up from Bethel to Shechem, and south of Lebonah. ^judges-21-19
 
 20 And they instructed the Benjaminites, “Go and set an ambush in the vineyards. ^judges-21-20
 

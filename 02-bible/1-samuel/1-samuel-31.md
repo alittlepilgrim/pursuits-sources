@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 31
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 31
+title: 1 Samuel, Chapter 31
+url: https://bible.usccb.org/bible/1samuel/31
 aliases:
   - 1 Samuel, Chapter 31
   - 1-samuel-31
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/31
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 31
 ---
 
 # 1 Samuel, Chapter 31
 
-### Chapter 31
+## Chapter 31
 
 **Death of Saul and His Sons.**
 

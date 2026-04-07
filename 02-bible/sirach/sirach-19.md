@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 19
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 19
+title: Sirach, Chapter 19
+url: https://bible.usccb.org/bible/sirach/19
 aliases:
   - sirach-19
   - Sirach, Chapter 19
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/19
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 19
 ---
 
 # Sirach, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 1 Whoever does this grows no richer; ^sirach-19-1
 
@@ -37,7 +36,7 @@ and the reckless will be snatched away.
 
 and those who sin wrong themselves.
 
-#### The Proper Use of Speech
+### The Proper Use of Speech
 
 5 Whoever gloats over evil will be destroyed, ^sirach-19-5
 
@@ -87,9 +86,9 @@ who has not sinned with his tongue?
 
 and give due place to the Law of the Most High.
 
-#### How to Recognize True Wisdom
+### How to Recognize True Wisdom
 
-20 All wisdom is fear of the L ORD; ^sirach-19-20
+20 All wisdom is fear of the LORD; ^sirach-19-20
 
 and in all wisdom, the observance of the Law.
 

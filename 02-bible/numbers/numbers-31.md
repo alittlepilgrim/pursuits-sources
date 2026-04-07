@@ -1,33 +1,32 @@
 ---
-title: Numbers, Chapter 31
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 31
+title: Numbers, Chapter 31
+url: https://bible.usccb.org/bible/numbers/31
 aliases:
   - numbers-31
   - Numbers, Chapter 31
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/31
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 31
 ---
 
 # Numbers, Chapter 31
 
-### Chapter 31
+## Chapter 31
 
 **Campaign Against the Midianites.**
 
-1 The L ORD said to Moses: ^numbers-31-1
+1 The LORD said to Moses: ^numbers-31-1
 
 2 Avenge the Israelites on the Midianites, and then you will be gathered to your people. ^numbers-31-2
 
-3 So Moses told the people, “Arm some men among you for the campaign, to attack Midian and to execute the L ORD’s vengeance on Midian. ^numbers-31-3
+3 So Moses told the people, “Arm some men among you for the campaign, to attack Midian and to execute the LORD’s vengeance on Midian. ^numbers-31-3
 
 4 From each of the tribes of Israel you will send a thousand men to the campaign.” ^numbers-31-4
 
@@ -35,7 +34,7 @@ url: https://bible.usccb.org/bible/numbers/31
 
 6 Moses sent them out on the campaign, a thousand from each tribe, with Phinehas, son of Eleazar, the priest for the campaign, who had with him the sacred vessels and the trumpets for sounding the alarm. ^numbers-31-6
 
-7 They waged war against the Midianites, as the L ORD had commanded Moses, and killed every male. ^numbers-31-7
+7 They waged war against the Midianites, as the LORD had commanded Moses, and killed every male. ^numbers-31-7
 
 8 Besides those slain in battle, they killed the kings of Midian: Evi, Rekem, Zur, Hur and Reba, the five kings of Midian; and they also killed Balaam, son of Beor, with the sword. ^numbers-31-8
 
@@ -55,7 +54,7 @@ url: https://bible.usccb.org/bible/numbers/31
 
 15 “So you have spared all the women!” he exclaimed. ^numbers-31-15
 
-16 “These are the very ones who on Balaam’s advice were behind the Israelites’ unfaithfulness to the L ORD in the affair at Peor, so that plague struck the L ORD’s community. ^numbers-31-16
+16 “These are the very ones who on Balaam’s advice were behind the Israelites’ unfaithfulness to the LORD in the affair at Peor, so that plague struck the LORD’s community. ^numbers-31-16
 
 17 Now kill, therefore, every male among the children and kill every woman who has had sexual relations with a man. ^numbers-31-17
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/numbers/31
 
 20 You will also purify every garment, every article of leather, everything made of goats’ hair, and every article of wood.” ^numbers-31-20
 
-21 Eleazar the priest told the soldiers who had taken part in the battle: “This is the prescribed ritual which the L ORD has commanded Moses: ^numbers-31-21
+21 Eleazar the priest told the soldiers who had taken part in the battle: “This is the prescribed ritual which the LORD has commanded Moses: ^numbers-31-21
 
 22 gold, silver, bronze, iron, tin and lead— ^numbers-31-22
 
@@ -77,19 +76,19 @@ url: https://bible.usccb.org/bible/numbers/31
 
 **Division of the Spoils.**
 
-25 The L ORD said to Moses: ^numbers-31-25
+25 The LORD said to Moses: ^numbers-31-25
 
 26 With the help of Eleazar the priest and of the heads of the ancestral houses of the community, inventory all the spoils captured, human being and beast alike; ^numbers-31-26
 
 27 then divide the spoils between the warriors who went on the campaign and the whole community. ^numbers-31-27
 
-28 You will levy a tax for the L ORD on the soldiers who went on the campaign: one out of every five hundred persons, oxen, donkeys, and sheep. ^numbers-31-28
+28 You will levy a tax for the LORD on the soldiers who went on the campaign: one out of every five hundred persons, oxen, donkeys, and sheep. ^numbers-31-28
 
-29 From their half you will take it and give it to Eleazar the priest as a contribution to the L ORD. ^numbers-31-29
+29 From their half you will take it and give it to Eleazar the priest as a contribution to the LORD. ^numbers-31-29
 
-30 From the Israelites’ half you will take one captive from every fifty human beings, oxen, donkeys, and sheep—all the animals—and give them to the Levites, who perform the duties of the L ORD’s tabernacle. ^numbers-31-30
+30 From the Israelites’ half you will take one captive from every fifty human beings, oxen, donkeys, and sheep—all the animals—and give them to the Levites, who perform the duties of the LORD’s tabernacle. ^numbers-31-30
 
-31 So Moses and Eleazar the priest did this, as the L ORD had commanded Moses. ^numbers-31-31
+31 So Moses and Eleazar the priest did this, as the LORD had commanded Moses. ^numbers-31-31
 
 **Amount of the Plunder.**
 
@@ -101,15 +100,15 @@ url: https://bible.usccb.org/bible/numbers/31
 
 35 and thirty-two thousand women who had not had sexual relations. ^numbers-31-35
 
-37 of which six hundred and seventy-five fell as tax to the L ORD; ^numbers-31-37
+37 of which six hundred and seventy-five fell as tax to the LORD; ^numbers-31-37
 
-38 thirty-six thousand oxen, of which seventy-two fell as tax to the L ORD; ^numbers-31-38
+38 thirty-six thousand oxen, of which seventy-two fell as tax to the LORD; ^numbers-31-38
 
-39 thirty thousand five hundred donkeys, of which sixty-one fell as tax to the L ORD; ^numbers-31-39
+39 thirty thousand five hundred donkeys, of which sixty-one fell as tax to the LORD; ^numbers-31-39
 
-40 and sixteen thousand persons, of whom thirty-two persons fell as tax to the L ORD. ^numbers-31-40
+40 and sixteen thousand persons, of whom thirty-two persons fell as tax to the LORD. ^numbers-31-40
 
-41 Moses gave the taxes contributed to the L ORD to Eleazar the priest, exactly as the L ORD had commanded Moses. ^numbers-31-41
+41 Moses gave the taxes contributed to the LORD to Eleazar the priest, exactly as the LORD had commanded Moses. ^numbers-31-41
 
 42 As for the Israelites’ half, which Moses had taken from the men who had fought— ^numbers-31-42
 
@@ -121,7 +120,7 @@ url: https://bible.usccb.org/bible/numbers/31
 
 46 and sixteen thousand persons. ^numbers-31-46
 
-47 From the Israelites’ half, Moses took one captive from every fifty, from human being and beast alike, and gave them to the Levites, who performed the duties of the L ORD’s tabernacle, exactly as the L ORD had commanded Moses. ^numbers-31-47
+47 From the Israelites’ half, Moses took one captive from every fifty, from human being and beast alike, and gave them to the Levites, who performed the duties of the LORD’s tabernacle, exactly as the LORD had commanded Moses. ^numbers-31-47
 
 **Gifts of the Officers.**
 
@@ -129,15 +128,15 @@ url: https://bible.usccb.org/bible/numbers/31
 
 49 and said to him, “Your servants have counted the soldiers under our command, and not one of us is missing. ^numbers-31-49
 
-50 So, we have brought as an offering to the L ORD articles of gold that each of us has picked up—anklets, bracelets, rings, earrings, or pendants—to make atonement for ourselves before the L ORD.” ^numbers-31-50
+50 So, we have brought as an offering to the LORD articles of gold that each of us has picked up—anklets, bracelets, rings, earrings, or pendants—to make atonement for ourselves before the LORD.” ^numbers-31-50
 
 51 Moses and Eleazar the priest accepted the gold from them, all fashioned pieces. ^numbers-31-51
 
-52 The gold that was given as a contribution to the L ORD —from the commanders of thousands and the commanders of hundreds—amounted in all to sixteen thousand seven hundred and fifty shekels. ^numbers-31-52
+52 The gold that was given as a contribution to the LORD —from the commanders of thousands and the commanders of hundreds—amounted in all to sixteen thousand seven hundred and fifty shekels. ^numbers-31-52
 
 53 What the common soldiers had looted each one kept for himself. ^numbers-31-53
 
-54 So Moses and Eleazar the priest accepted the gold from the commanders of thousands and of hundreds, and put it in the tent of meeting as a reminder on behalf of the Israelites before the L ORD. ^numbers-31-54
+54 So Moses and Eleazar the priest accepted the gold from the commanders of thousands and of hundreds, and put it in the tent of meeting as a reminder on behalf of the Israelites before the LORD. ^numbers-31-54
 
 \* (31:1] – [3) The narrative of Israel’s campaign against Midian, which was interrupted after [25:18], is now resumed.
 

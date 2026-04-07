@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 19
+title: Job, Chapter 19
+url: https://bible.usccb.org/bible/job/19
 aliases:
   - job-19
   - Job, Chapter 19
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/19
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 19
 ---
 
 # Job, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **Job’s Fifth Reply.**
 

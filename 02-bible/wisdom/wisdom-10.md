@@ -1,27 +1,26 @@
 ---
-title: Wisdom, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 10
+title: Wisdom, Chapter 10
+url: https://bible.usccb.org/bible/wisdom/10
 aliases:
   - wisdom-10
   - Wisdom, Chapter 10
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/10
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 10
 ---
 
 # Wisdom, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
-#### Wisdom Preserves Her Followers
+### Wisdom Preserves Her Followers
 
 1 She preserved the first-formed father of the world ^wisdom-10-1
 

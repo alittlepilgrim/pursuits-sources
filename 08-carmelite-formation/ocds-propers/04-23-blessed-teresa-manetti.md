@@ -1,10 +1,7 @@
 ---
-title: April 23, Blessed Teresa Maria of the Cross Manetti
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: April 23, Blessed Teresa Maria of the Cross Manetti
+author: OCD General Curia
 aliases:
   - 04-23-blessed-teresa-manetti
   - 20250731-121440
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 04-23
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # April 23, Blessed Teresa Maria of the Cross Manetti

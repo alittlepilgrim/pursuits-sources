@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 33
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 33
+title: Genesis, Chapter 33
+url: https://bible.usccb.org/bible/genesis/33
 aliases:
   - 20250508-020321
   - genesis-33
   - Genesis, Chapter 33
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 33
 bible_book: genesis
 bible_chapter: "33"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/33
 ---
 
 [[genesis-32|[← Previous Note]]] · [[genesis-34|[Next Note →]]]
@@ -83,6 +82,6 @@ c. (33:20) [Jgs 6:24]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-02|[← Previous Note]]] · [[genesis-04|[Next Note →]]]

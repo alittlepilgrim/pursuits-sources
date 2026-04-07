@@ -1,16 +1,16 @@
 ---
-title: "Text 1: Creation as ‘a palace’ - St. John of the Cross and Creation"
-created: 2026-01-17
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: "Text 1: Creation as ‘a palace’ - St. John of the Cross and Creation"
+author: General Curia
 aliases:
   - "Text 1: Creation as ‘a palace’ - St. John of the Cross and Creation"
   - 20260117-175343
   - St. John of the Cross and Creation Creation as a Palace
 tags:
   - carmel/formation
-author: General Curia
+created: 2026-01-17
+modified: 2026-04-04
+publish: true
 ---
 
 # Text 1: Creation as ‘a palace’ - St. John of the Cross and Creation
@@ -35,17 +35,17 @@ These espousals are celebrated in the Incarnation, which is seen as prior to the
 
 It is moreover within this dynamic of the sublimation of matter that John of the Cross expresses himself most readily through poetry. Poetry, like art in general, is the “incarnation” in matter (through sounds, images, etc.) of a thought or an intention—modeled on God’s own creative and redemptive act:
 
-## Romances 3:
+## Romances 3
 
 “My Son, I wish to give you a bride who will love you. Because of you she will deserve to share our company, and eat at our table, the same bread I eat, that she may know the good I have in such a Son; and rejoice with me in your grace and fullness.” “I am very grateful,” the Son answered; “I will show my brightness to the bride you give me, so that by it she may see how great my Father is, and how I have received my being from your being. I will hold her in my arms and she will burn with your love, and with eternal delight she will exalt your goodness.”
 
-## Romances 4 (1-38):
+## Romances 4 (1-38)
 
 “Let it be done, then,” said the Father, for your love has deserved it. And by these words the world was created, a palace for the bride made with great wisdom and divided into rooms, one above, the other below.   The lower was furnished with infinite variety, while the higher was made beautiful with marvelous jewels, that the bride might know the Bridegroom she had. The orders of angels were placed in the higher, but humanity was given the lower place, for it was, in its being, a lesser thing.
 
  And though beings and places were divided in this way, yet all form one, who is called the bride; for love of the same Bridegroom made one bride of them. Those higher ones possessed the Bridegroom in gladness; the lower in hope, founded on the faith that he infused in them, telling them that one day he would exalt them, and that he would lift them up from their lowness so that no one could mock it any more; for he would make himself wholly like them, and he would come to them (…)
 
-## Laudato Si’:
+## Laudato Si’
 
 **LS 13.** The urgent challenge to protect our common home includes a concern to bring the whole human family together to seek a sustainable and integral development, for we know that things can change. The Creator does not abandon us; he never forsakes his loving plan or repents of having created us. Humanity still has the ability to work together in building our common home. Here I want to recognize, encourage and thank all those striving in countless ways to guarantee the protection of the home which we share. (…)
 
@@ -63,10 +63,10 @@ General Curia of the Teresian Carmel www.discalcedcarmelite.com
 4. Can we say that both the “palace” and the “common home” speak of the beauty of nature? In what way do these two images inspire us to take care of it?
 5. How do these two ways of speaking about creation help us to change our way of seeing creation?
 
-## Source:
+## Source
 
-
+[General Curia](https://www.carmelitaniscalzi.com/wp-content/uploads/2026/01/EN_Scheda-1-2026-1.pdf)
 
 ---
 
-←  [[stc-0|Previous]] | Next →
+← [[stc-0|Previous]] | Next →

@@ -1,29 +1,28 @@
 ---
-title: Numbers, Chapter 4
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 4
+title: Numbers, Chapter 4
+url: https://bible.usccb.org/bible/numbers/4
 aliases:
   - numbers-04
   - Numbers, Chapter 4
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 4
 ---
 
 # Numbers, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Duties Further Defined.**
 
-1 The L ORD said to Moses and Aaron: ^numbers-04-1
+1 The LORD said to Moses and Aaron: ^numbers-04-1
 
 2 Take a census among the Levites of the Kohathites, by clans and ancestral houses, ^numbers-04-2
 
@@ -55,7 +54,7 @@ url: https://bible.usccb.org/bible/numbers/4
 
 16 Eleazar, son of Aaron the priest, shall be in charge of the oil for the light, the fragrant incense, the established grain offering, and the anointing oil. He shall be in charge of the whole tabernacle with all the sacred objects and utensils that are in it. ^numbers-04-16
 
-17 The L ORD said to Moses and Aaron: ^numbers-04-17
+17 The LORD said to Moses and Aaron: ^numbers-04-17
 
 18 Do not let the group of Kohathite clans perish from among the Levites. ^numbers-04-18
 
@@ -63,7 +62,7 @@ url: https://bible.usccb.org/bible/numbers/4
 
 20 but the Kohathites shall not go in to look upon the sacred objects even for an instant, or they will die. ^numbers-04-20
 
-21 The L ORD said to Moses: ^numbers-04-21
+21 The LORD said to Moses: ^numbers-04-21
 
 22 Take a census of the Gershonites also, by ancestral houses and clans, ^numbers-04-22
 
@@ -97,7 +96,7 @@ url: https://bible.usccb.org/bible/numbers/4
 
 36 their enrollment by clans was two thousand seven hundred and fifty. ^numbers-04-36
 
-37 Such was the enrollment of the clans of the Kohathites, everyone who was to serve in the tent of meeting, whom Moses enrolled, together with Aaron, as the L ORD directed through Moses. ^numbers-04-37
+37 Such was the enrollment of the clans of the Kohathites, everyone who was to serve in the tent of meeting, whom Moses enrolled, together with Aaron, as the LORD directed through Moses. ^numbers-04-37
 
 38 As for the enrollment of the Gershonites, by clans and ancestral houses, ^numbers-04-38
 
@@ -105,7 +104,7 @@ url: https://bible.usccb.org/bible/numbers/4
 
 40 their enrollment by clans and ancestral houses was two thousand six hundred and thirty. ^numbers-04-40
 
-41 Such was the enrollment of the clans of the Gershonites, everyone who was to serve in the tent of meeting, whom Moses enrolled, together with Aaron, as the L ORD directed. ^numbers-04-41
+41 Such was the enrollment of the clans of the Gershonites, everyone who was to serve in the tent of meeting, whom Moses enrolled, together with Aaron, as the LORD directed. ^numbers-04-41
 
 42 As for the enrollment of the clans of the Merarites, by clans and ancestral houses, ^numbers-04-42
 
@@ -113,7 +112,7 @@ url: https://bible.usccb.org/bible/numbers/4
 
 44 their enrollment by clans was three thousand two hundred. ^numbers-04-44
 
-45 Such was the enrollment of the clans of the Merarites, whom Moses enrolled, together with Aaron, as the L ORD directed through Moses. ^numbers-04-45
+45 Such was the enrollment of the clans of the Merarites, whom Moses enrolled, together with Aaron, as the LORD directed through Moses. ^numbers-04-45
 
 46 As for the total enrollment of the Levites, which Moses and Aaron and the Israelite leaders had made, by clans and ancestral houses, ^numbers-04-46
 
@@ -121,7 +120,7 @@ url: https://bible.usccb.org/bible/numbers/4
 
 48 their total enrollment was eight thousand five hundred and eighty. ^numbers-04-48
 
-49 As the L ORD directed through Moses, they gave each of them their assignments for service and for transport; just as the L ORD had commanded Moses. ^numbers-04-49
+49 As the LORD directed through Moses, they gave each of them their assignments for service and for transport; just as the LORD had commanded Moses. ^numbers-04-49
 
 \* (4:3) Thirty: according to other passages the Levites began to serve when they were twenty-five ([8:24]) or even only twenty years old ([[1-chronicles-23|1 Chr 23]]:24, [27]; [2 Chr 31:17]; ([[ezra-03|Ezr 3]]:8]; but cf. [[1-chronicles-23|1 Chr 23]]:3).
 

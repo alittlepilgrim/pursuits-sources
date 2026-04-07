@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 40
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 40
+title: Isaiah, Chapter 40
+url: https://bible.usccb.org/bible/isaiah/40
 aliases:
   - isaiah-40
   - Isaiah, Chapter 40
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/40
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 40
 ---
 
 # Isaiah, Chapter 40
 
-### Chapter 40
+## Chapter 40
 
-#### Promise of Salvation
+### Promise of Salvation
 
 1 Comfort, give comfort to my people, ^isaiah-40-1
 
@@ -33,13 +32,13 @@ that her service has ended,
 
 that her guilt is expiated,
 
-That she has received from the hand of the L ORD
+That she has received from the hand of the LORD
 
 double for all her sins.
 
 3 A voice proclaims: ^isaiah-40-3
 
-In the wilderness prepare the way of the L ORD!
+In the wilderness prepare the way of the LORD!
 
 Make straight in the wasteland a highway for our God!
 
@@ -51,11 +50,11 @@ The rugged land shall be a plain,
 
 the rough country, a broad valley.
 
-5 Then the glory of the L ORD shall be revealed, ^isaiah-40-5
+5 Then the glory of the LORD shall be revealed, ^isaiah-40-5
 
 and all flesh shall see it together;
 
-for the mouth of the L ORD has spoken.
+for the mouth of the LORD has spoken.
 
 6 A voice says, “Proclaim!” ^isaiah-40-6
 
@@ -67,7 +66,7 @@ and all their loyalty like the flower of the field.
 
 7 The grass withers, the flower wilts, ^isaiah-40-7
 
-when the breath of the L ORD blows upon it.”
+when the breath of the LORD blows upon it.”
 
 “Yes, the people is grass!
 
@@ -107,7 +106,7 @@ Carrying them in his bosom,
 
 leading the ewes with care.
 
-#### Power of God and the Vanity of Idols
+### Power of God and the Vanity of Idols
 
 12 Who has measured with his palm the waters, ^isaiah-40-12
 
@@ -119,7 +118,7 @@ weighed the mountains in scales
 
 and the hills in a balance?
 
-13 Who has directed the spirit of the L ORD, ^isaiah-40-13
+13 Who has directed the spirit of the LORD, ^isaiah-40-13
 
 or instructed him as his counselor?
 
@@ -209,7 +208,7 @@ not one of them is missing!
 
 and declare, O Israel,
 
-“My way is hidden from the L ORD,
+“My way is hidden from the LORD,
 
 and my right is disregarded by my God”?
 
@@ -217,7 +216,7 @@ and my right is disregarded by my God”?
 
 Have you not heard?
 
-The L ORD is God from of old,
+The LORD is God from of old,
 
 creator of the ends of the earth.
 
@@ -233,7 +232,7 @@ abundant strength to the weak.
 
 and youths stagger and fall,
 
-31 They that hope in the L ORD will renew their strength, ^isaiah-40-31
+31 They that hope in the LORD will renew their strength, ^isaiah-40-31
 
 they will soar on eagles’ wings;
 
@@ -251,7 +250,7 @@ walk and not grow faint.
 
 \* (40:9) Herald of good news: i.e., of the imminent restoration of the people to their land. This theme of the proclamation of the good news occurs elsewhere in Second Isaiah; cf. also [41:27]; [52:7].
 
-\* (40:12) The implicit answer is “the hand of the L ORD” (v. [2]). Waters…heavens…earth: together form the universe; cf. [Gn 1:1] – [2]. Span: the distance between the extended little finger and the thumb. Fingers: lit., “three fingers” (i.e., thumb, index, and middle).
+\* (40:12) The implicit answer is “the hand of the LORD” (v. [2]). Waters…heavens…earth: together form the universe; cf. [Gn 1:1] – [2]. Span: the distance between the extended little finger and the thumb. Fingers: lit., “three fingers” (i.e., thumb, index, and middle).
 
 \* (40:15) Drop…wisp of cloud…a speck: the smallest constituent parts of the cosmic waters, heavens, and earth mentioned in v. [12].
 

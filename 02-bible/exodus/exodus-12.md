@@ -1,30 +1,29 @@
 ---
-title: Exodus, Chapter 12
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 12
+title: Exodus, Chapter 12
+url: https://bible.usccb.org/bible/exodus/12
 aliases:
   - 20250731-085901
   - exodus-12
   - Exodus, Chapter 12
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 12
 ---
 
 # Exodus, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **The Passover Ritual Prescribed.**
 
-1 The L ORD said to Moses and Aaron in the land of Egypt: ^exodus-12-1
+1 The LORD said to Moses and Aaron in the land of Egypt: ^exodus-12-1
 
 2 This month will stand at the head of your calendar; you will reckon it the first month of the year. ^exodus-12-2
 
@@ -44,13 +43,13 @@ url: https://bible.usccb.org/bible/exodus/12
 
 10 You must not keep any of it beyond the morning; whatever is left over in the morning must be burned up. ^exodus-12-10
 
-11 This is how you are to eat it: with your loins girt, sandals on your feet and your staff in hand, you will eat it in a hurry. It is the L ORD’s Passover. ^exodus-12-11
+11 This is how you are to eat it: with your loins girt, sandals on your feet and your staff in hand, you will eat it in a hurry. It is the LORD’s Passover. ^exodus-12-11
 
-12 For on this same night I will go through Egypt, striking down every firstborn in the land, human being and beast alike, and executing judgment on all the gods of Egypt—I, the L ORD! ^exodus-12-12
+12 For on this same night I will go through Egypt, striking down every firstborn in the land, human being and beast alike, and executing judgment on all the gods of Egypt—I, the LORD! ^exodus-12-12
 
 13 But for you the blood will mark the houses where you are. Seeing the blood, I will pass over you; thereby, when I strike the land of Egypt, no destructive blow will come upon you. ^exodus-12-13
 
-14 This day will be a day of remembrance for you, which your future generations will celebrate with pilgrimage to the L ORD; you will celebrate it as a statute forever. ^exodus-12-14
+14 This day will be a day of remembrance for you, which your future generations will celebrate with pilgrimage to the LORD; you will celebrate it as a statute forever. ^exodus-12-14
 
 15 For seven days you must eat unleavened bread. From the very first day you will have your houses clear of all leaven. For whoever eats leavened bread from the first day to the seventh will be cut off from Israel. ^exodus-12-15
 
@@ -70,29 +69,29 @@ url: https://bible.usccb.org/bible/exodus/12
 
 22 Then take a bunch of hyssop, and dipping it in the blood that is in the basin, apply some of this blood to the lintel and the two doorposts. And none of you shall go outdoors until morning. ^exodus-12-22
 
-23 For when the L ORD goes by to strike down the Egyptians, seeing the blood on the lintel and the two doorposts, the L ORD will pass over that door and not let the destroyer come into your houses to strike you down. ^exodus-12-23
+23 For when the LORD goes by to strike down the Egyptians, seeing the blood on the lintel and the two doorposts, the LORD will pass over that door and not let the destroyer come into your houses to strike you down. ^exodus-12-23
 
 24 “You will keep this practice forever as a statute for yourselves and your descendants. ^exodus-12-24
 
-25 Thus, when you have entered the land which the L ORD will give you as he promised, you must observe this rite. ^exodus-12-25
+25 Thus, when you have entered the land which the LORD will give you as he promised, you must observe this rite. ^exodus-12-25
 
 26 When your children ask you, ‘What does this rite of yours mean?’ ^exodus-12-26
 
-27 you will reply, ‘It is the Passover sacrifice for the L ORD, who passed over the houses of the Israelites in Egypt; when he struck down the Egyptians, he delivered our houses.’” ^exodus-12-27
+27 you will reply, ‘It is the Passover sacrifice for the LORD, who passed over the houses of the Israelites in Egypt; when he struck down the Egyptians, he delivered our houses.’” ^exodus-12-27
 
 Then the people knelt and bowed down,
 
-28 and the Israelites went and did exactly as the L ORD had commanded Moses and Aaron. ^exodus-12-28
+28 and the Israelites went and did exactly as the LORD had commanded Moses and Aaron. ^exodus-12-28
 
 **Death of the Firstborn.**
 
-29 And so at midnight the L ORD struck down every firstborn in the land of Egypt, from the firstborn of Pharaoh sitting on his throne to the firstborn of the prisoner in the dungeon, as well as all the firstborn of the animals. ^exodus-12-29
+29 And so at midnight the LORD struck down every firstborn in the land of Egypt, from the firstborn of Pharaoh sitting on his throne to the firstborn of the prisoner in the dungeon, as well as all the firstborn of the animals. ^exodus-12-29
 
 30 Pharaoh arose in the night, he and all his servants and all the Egyptians; and there was loud wailing throughout Egypt, for there was not a house without its dead. ^exodus-12-30
 
 **Permission to Depart.**
 
-31 During the night Pharaoh summoned Moses and Aaron and said, “Leave my people at once, you and the Israelites! Go and serve the L ORD as you said. ^exodus-12-31
+31 During the night Pharaoh summoned Moses and Aaron and said, “Leave my people at once, you and the Israelites! Go and serve the LORD as you said. ^exodus-12-31
 
 32 Take your flocks, too, and your herds, as you said, and go; and bless me, too!” ^exodus-12-32
 
@@ -102,7 +101,7 @@ Then the people knelt and bowed down,
 
 35 And the Israelites did as Moses had commanded: they asked the Egyptians for articles of silver and gold and for clothing. ^exodus-12-35
 
-36 Indeed the L ORD had made the Egyptians so well-disposed toward the people that they let them have whatever they asked for. And so they despoiled the Egyptians. ^exodus-12-36
+36 Indeed the LORD had made the Egyptians so well-disposed toward the people that they let them have whatever they asked for. And so they despoiled the Egyptians. ^exodus-12-36
 
 **Departure from Egypt.**
 
@@ -114,13 +113,13 @@ Then the people knelt and bowed down,
 
 40 The time the Israelites had stayed in Egypt was four hundred and thirty years. ^exodus-12-40
 
-41 At the end of four hundred and thirty years, on this very date, all the armies of the L ORD left the land of Egypt. ^exodus-12-41
+41 At the end of four hundred and thirty years, on this very date, all the armies of the LORD left the land of Egypt. ^exodus-12-41
 
-42 This was a night of vigil for the L ORD, when he brought them out of the land of Egypt; so on this night all Israelites must keep a vigil for the L ORD throughout their generations. ^exodus-12-42
+42 This was a night of vigil for the LORD, when he brought them out of the land of Egypt; so on this night all Israelites must keep a vigil for the LORD throughout their generations. ^exodus-12-42
 
 **Law of the Passover.**
 
-43 The L ORD said to Moses and Aaron: This is the Passover statute. No foreigner may eat of it. ^exodus-12-43
+43 The LORD said to Moses and Aaron: This is the Passover statute. No foreigner may eat of it. ^exodus-12-43
 
 44 However, every slave bought for money you will circumcise; then he may eat of it. ^exodus-12-44
 
@@ -130,13 +129,13 @@ Then the people knelt and bowed down,
 
 47 The whole community of Israel must celebrate this feast. ^exodus-12-47
 
-48 If any alien residing among you would celebrate the Passover for the L ORD, all his males must be circumcised, and then he may join in its celebration just like the natives. But no one who is uncircumcised may eat of it. ^exodus-12-48
+48 If any alien residing among you would celebrate the Passover for the LORD, all his males must be circumcised, and then he may join in its celebration just like the natives. But no one who is uncircumcised may eat of it. ^exodus-12-48
 
 49 There will be one law for the native and for the alien residing among you. ^exodus-12-49
 
-50 All the Israelites did exactly as the L ORD had commanded Moses and Aaron. ^exodus-12-50
+50 All the Israelites did exactly as the LORD had commanded Moses and Aaron. ^exodus-12-50
 
-51 On that same day the L ORD brought the Israelites out of the land of Egypt company by company. ^exodus-12-51
+51 On that same day the LORD brought the Israelites out of the land of Egypt company by company. ^exodus-12-51
 
 \* (12:1] – [20) This section, which interrupts the narrative of the exodus, contains later legislation concerning the celebration of Passover.
 

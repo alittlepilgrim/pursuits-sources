@@ -1,13 +1,17 @@
 ---
-title: introduction-tj-ic-ccel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: The interior castle by St. Teresa of Ávila.
+title: Introduction – The Interior Castle by St. Teresa of Ávila
+author: Saint Teresa of Ávila
 aliases:
-  - Introduction - The Interior Castle CCEL
-author: Saint Teresa of Avila
+  - Introduction – The Interior Castle by St. Teresa of Ávila
+tags:
+  - author/saint-teresa-of-avila
+  - book/interior-castle
+  - type/book
+created: 2026-04-01
+modified: 2026-04-04
+publish: true
+description: Introduction – The Interior Castle by St. Teresa of Ávila
 ---
 
 # Introduction

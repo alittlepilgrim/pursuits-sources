@@ -1,41 +1,40 @@
 ---
-title: Isaiah, Chapter 38
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 38
+title: Isaiah, Chapter 38
+url: https://bible.usccb.org/bible/isaiah/38
 aliases:
   - isaiah-38
   - Isaiah, Chapter 38
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/38
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 38
 ---
 
 # Isaiah, Chapter 38
 
-### Chapter 38
+## Chapter 38
 
 **Sickness and Recovery of Hezekiah.**
 
-1 In those days, when Hezekiah was mortally ill, the prophet Isaiah, son of Amoz, came and said to him: “Thus says the L ORD: Put your house in order, for you are about to die; you shall not recover.” ^isaiah-38-1
+1 In those days, when Hezekiah was mortally ill, the prophet Isaiah, son of Amoz, came and said to him: “Thus says the LORD: Put your house in order, for you are about to die; you shall not recover.” ^isaiah-38-1
 
-2 Hezekiah turned his face to the wall and prayed to the L ORD: ^isaiah-38-2
+2 Hezekiah turned his face to the wall and prayed to the LORD: ^isaiah-38-2
 
-3 “Ah, L ORD, remember how faithfully and wholeheartedly I conducted myself in your presence, doing what was good in your sight!” And Hezekiah wept bitterly. ^isaiah-38-3
+3 “Ah, LORD, remember how faithfully and wholeheartedly I conducted myself in your presence, doing what was good in your sight!” And Hezekiah wept bitterly. ^isaiah-38-3
 
-4 Then the word of the L ORD came to Isaiah: ^isaiah-38-4
+4 Then the word of the LORD came to Isaiah: ^isaiah-38-4
 
-5 Go, tell Hezekiah: Thus says the L ORD, the God of your father David: I have heard your prayer; I have seen your tears. Now I will add fifteen years to your life. ^isaiah-38-5
+5 Go, tell Hezekiah: Thus says the LORD, the God of your father David: I have heard your prayer; I have seen your tears. Now I will add fifteen years to your life. ^isaiah-38-5
 
 6 I will rescue you and this city from the hand of the king of Assyria; I will be a shield to this city. ^isaiah-38-6
 
-7 This will be the sign for you from the L ORD that the L ORD will carry out the word he has spoken: ^isaiah-38-7
+7 This will be the sign for you from the LORD that the LORD will carry out the word he has spoken: ^isaiah-38-7
 
 8 See, I will make the shadow cast by the sun on the stairway to the terrace of Ahaz go back the ten steps it has advanced. So the sun came back the ten steps it had advanced. ^isaiah-38-8
 
@@ -51,7 +50,7 @@ To the gates of Sheol I have been consigned
 
 for the rest of my years.
 
-11 I said, I shall see the L ORD no more ^isaiah-38-11
+11 I said, I shall see the LORD no more ^isaiah-38-11
 
 in the land of the living.
 
@@ -91,7 +90,7 @@ All my sleep has fled,
 
 because of the bitterness of my soul.
 
-16 Those live whom the L ORD protects; ^isaiah-38-16
+16 Those live whom the LORD protects; ^isaiah-38-16
 
 yours is the life of my spirit.
 
@@ -123,17 +122,17 @@ Parents declare to their children,
 
 O God, your faithfulness.
 
-20 The L ORD is there to save us. ^isaiah-38-20
+20 The LORD is there to save us. ^isaiah-38-20
 
 We shall play our music
 
-In the house of the L ORD
+In the house of the LORD
 
 all the days of our life.
 
 21 Then Isaiah said, “Bring a poultice of figs and apply it to the boil for his recovery.” ^isaiah-38-21
 
-22 Hezekiah asked, “What is the sign that I shall go up to the house of the L ORD?” ^isaiah-38-22
+22 Hezekiah asked, “What is the sign that I shall go up to the house of the LORD?” ^isaiah-38-22
 
 \* (38:1] – [39:8) The events of this section—sickness and recovery of Hezekiah, embassy of Merodach-baladan—anticipate the rise of Babylon (chaps. [40] – [66]). They occurred prior to the events of [36:1] – [37:38], which point back to Assyria ([1:1] – [35:10]).
 
@@ -145,7 +144,7 @@ all the days of our life.
 
 \* (38:10) In the noontime of life: long before the end of a full span of life; cf. [Ps 55:24]; [102:25].
 
-\* (38:11) See the L ORD: go to the Temple and take part in its service.
+\* (38:11) See the LORD: go to the Temple and take part in its service.
 
 \* (38:12) These two metaphors emphasize the suddenness and finality of death.
 

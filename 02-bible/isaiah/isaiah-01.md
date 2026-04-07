@@ -1,33 +1,32 @@
 ---
-title: Isaiah, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 1
+title: Isaiah, Chapter 1
+url: https://bible.usccb.org/bible/isaiah/1
 aliases:
   - isaiah-01
   - Isaiah, Chapter 1
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 1
 ---
 
 # Isaiah, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 The vision which Isaiah, son of Amoz, saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah. ^isaiah-01-1
 
-#### Accusation and Appeal
+### Accusation and Appeal
 
 2 Hear, O heavens, and listen, O earth, ^isaiah-01-2
 
-for the L ORD speaks:
+for the LORD speaks:
 
 Sons have I raised and reared,
 
@@ -45,7 +44,7 @@ my people has not understood.
 
 evil offspring, corrupt children!
 
-They have forsaken the L ORD,
+They have forsaken the LORD,
 
 spurned the Holy One of Israel,
 
@@ -87,7 +86,7 @@ Like a shed in a melon patch,
 
 like a city blockaded.
 
-9 If the L ORD of hosts had not ^isaiah-01-9
+9 If the LORD of hosts had not ^isaiah-01-9
 
 left us a small remnant,
 
@@ -95,7 +94,7 @@ We would have become as Sodom,
 
 would have resembled Gomorrah.
 
-10 Hear the word of the L ORD, ^isaiah-01-10
+10 Hear the word of the LORD, ^isaiah-01-10
 
 princes of Sodom!
 
@@ -105,7 +104,7 @@ people of Gomorrah!
 
 11 What do I care for the multitude of your sacrifices? ^isaiah-01-11
 
-says the L ORD.
+says the LORD.
 
 I have had enough of whole-burnt rams
 
@@ -159,7 +158,7 @@ hear the orphan’s plea, defend the widow.
 
 18 Come now, let us set things right, ^isaiah-01-18
 
-says the L ORD:
+says the LORD:
 
 Though your sins be like scarlet,
 
@@ -177,9 +176,9 @@ you shall eat the good things of the land;
 
 you shall be eaten by the sword:
 
-for the mouth of the L ORD has spoken!
+for the mouth of the LORD has spoken!
 
-#### The Purification of Jerusalem
+### The Purification of Jerusalem
 
 21 How she has become a prostitute, ^isaiah-01-21
 
@@ -207,7 +206,7 @@ the widow’s plea does not reach them.
 
 24 Now, therefore, says the Lord, ^isaiah-01-24
 
-the L ORD of hosts, the Mighty One of Israel:
+the LORD of hosts, the Mighty One of Israel:
 
 Ah! I will take vengeance on my foes
 
@@ -233,9 +232,9 @@ and her repentant ones by righteousness.
 
 28 Rebels and sinners together shall be crushed, ^isaiah-01-28
 
-those who desert the L ORD shall be consumed.
+those who desert the LORD shall be consumed.
 
-#### Judgment on the Sacred Groves
+### Judgment on the Sacred Groves
 
 29 You shall be ashamed of the terebinths which you desired, ^isaiah-01-29
 
@@ -267,7 +266,7 @@ and there shall be none to quench them.
 
 \* (1:8) Daughter Zion: Jerusalem, as isolated as a little hut erected in a field for the shelter of watchmen and laborers.
 
-\* (1:9) L ORD of hosts: God, who is the Creator and Ruler of the armies of Israel, the angels, stars, etc.
+\* (1:9) LORD of hosts: God, who is the Creator and Ruler of the armies of Israel, the angels, stars, etc.
 
 \* (1:10] – [17) A powerful indictment of the religious hypocrisy of rulers and others who neglect just judgment and oppress the weaker members, yet believe they can please God with sacrifices and other external forms of worship. The long list of observances suggests the Lord’s tedium with such attempts. Sodom…Gomorrah: the names are picked up from v. [9], but now to emphasize their wickedness rather than the good fortune of escaping total destruction.
 

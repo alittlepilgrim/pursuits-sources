@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 15
+title: Isaiah, Chapter 15
+url: https://bible.usccb.org/bible/isaiah/15
 aliases:
   - isaiah-15
   - Isaiah, Chapter 15
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/15
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 15
 ---
 
 # Isaiah, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
-#### Moab
+### Moab
 
 1 Oracle on Moab: ^isaiah-15-1
 

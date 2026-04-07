@@ -1,20 +1,20 @@
 ---
-title: 1 Timothy, The First Letter To Timothy
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Timothy, the First Letter to Timothy
+title: 1 Timothy, The First Letter To Timothy
+url: https://bible.usccb.org/bible/1timothy/0
 aliases:
   - 1 Timothy, the First Letter to Timothy
   - 1 Timothy, The First Letter To Timothy
   - 1-timothy-00
 tags:
   - bible/1-timothy
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/1timothy/0
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Timothy, the First Letter to Timothy
 ---
 
 # 1 Timothy, the First Letter to Timothy
@@ -27,7 +27,7 @@ The first of the Pastorals, 1 Timothy, is presented as having been written from 
 
 The letter instructs Timothy on his duty to restrain false and useless teaching ([1 Tm 1:3] – [11]; [4:1] – [5]; [6:3] – [16]) and proposes principles pertaining to his relationship with the older members of the community ([1 Tm 5:1] – [2]) and with the presbyters ([5:17] – [22]). It gives rules for aid to widows ([1 Tm 5:3] – [8]) and their selection for charitable ministrations ([1 Tm 5:9] – [16]) and also deals with liturgical celebrations ([1 Tm 2:1] – [15]), selections for the offices of bishop and deacon ([1 Tm 3:1] – [13]), relation of slaves with their masters ([1 Tm 6:1] – [2]), and obligations of the wealthier members of the community ([1 Tm 6:17] – [19]). This letter also reminds Timothy of the prophetic character of his office ([1 Tm 1:12] – [20]) and encourages him in his exercise of it ([1 Tm 4:6] – [16]). The central passage of the letter ([1 Tm 3:14] – [16]) expresses the principal motive that should guide the conduct of Timothy—preservation of the purity of the church’s doctrine against false teaching. On this same note the letter concludes ([1 Tm 6:20] – [21]).
 
-From the late second century to the nineteenth, Pauline authorship of the three Pastoral Epistles went unchallenged. Since then, the attribution of these letters to Paul has been questioned. Most scholars are convinced that Paul could not have been responsible for the vocabulary and style, the concept of church organization, or the theological expressions found in these letters. A second group believes, on the basis of statistical evidence, that the vocabulary and style are Pauline, even if at first sight the contrary seems to be the case. They state that the concept of church organization in the letters is not as advanced as the questioners of Pauline authorship hold since the notion of hierarchical order in a religious community existed in Israel before the time of Christ, as evidenced in the Dead Sea Scrolls. Finally, this group sees affinities between the theological thought of the Pastorals and that of the unquestionably genuine letters of Paul. Other scholars, while conceding a degree of validity to the positions mentioned above, suggest that the apostle made use of a secretary who was responsible for the composition of the letters. A fourth group of scholars believes that these letters are the work of a compiler, that they are based on traditions about Paul in his later years, and that they include, in varying amounts, actual fragments of genuine Pauline correspondence.
+From the late second century to the nineteenth, Pauline authorship of the three Pastoral Epistles went unchallenged. Since then, the attribution of these letters to Paul has been questioned. Most scholars are convinced that Paul could not have been responsible for the vocabulary and style, the concept of church organization, or the theological expressions found in these letters. A second group believes, on the basis of statistical evidence, that the vocabulary and style are Pauline, even if at first sight the contrary seems to be the case. They state that the concept of church organization in the letters is not as advanced as the questioners of Pauline authorship hold since the notion of hierarchicaLORDer in a religious community existed in Israel before the time of Christ, as evidenced in the Dead Sea Scrolls. Finally, this group sees affinities between the theological thought of the Pastorals and that of the unquestionably genuine letters of Paul. Other scholars, while conceding a degree of validity to the positions mentioned above, suggest that the apostle made use of a secretary who was responsible for the composition of the letters. A fourth group of scholars believes that these letters are the work of a compiler, that they are based on traditions about Paul in his later years, and that they include, in varying amounts, actual fragments of genuine Pauline correspondence.
 
 If Paul is considered the more immediate author, the Pastorals are to be dated between the end of his first Roman imprisonment (([[acts-of-the-apostles-28|Acts 28]]:16]) and his execution under Nero (A.D. 63–67); if they are regarded as only more remotely Pauline, their date may be as late as the early second century. In spite of these problems of authorship and dating, the Pastorals are illustrative of early Christian life and remain an important element of canonical scripture.
 

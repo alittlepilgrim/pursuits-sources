@@ -1,13 +1,17 @@
 ---
-title: indexes-tj-ic-ccel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
+title: Indexes - The Interior Castle by St. Teresa of Ávila
+author: Saint Teresa of Ávila
+aliases:
+  - Indexes - The Interior Castle by St. Teresa of Ávila
+tags:
+  - author/saint-teresa-of-avila
+  - book/interior-castle
+  - type/book
+created: 2026-04-01
+modified: 2026-04-04
 publish: true
 description: The interior castle by St. Teresa of Ávila.
-aliases:
-  - Indexes - The Interior Castle CCEL
-author: Saint Teresa of Avila
 ---
 
 # Indexes
@@ -680,7 +684,7 @@ author: Saint Teresa of Avila
 
    Zebedee, sons of; VI, xi. 12
 
-### Index of Scripture References
+## Index of Scripture References
 
    Genesis
 
@@ -788,7 +792,7 @@ author: Saint Teresa of Avila
 
    [97]3:27
 
-### Index of Pages of the Print Edition
+## Index of Pages of the Print Edition
 
    [98]1 [99]5 [100]7 [101]8 [102]9 [103]10 [104]11 [105]12
 

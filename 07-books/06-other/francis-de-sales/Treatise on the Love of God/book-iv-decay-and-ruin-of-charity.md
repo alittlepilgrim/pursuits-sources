@@ -1,23 +1,21 @@
 ---
-title: Book IV. Decay and Ruin of Charity - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book IV. Decay and Ruin of Charity - Treatise on the Love of God
+title: Book IV. Decay and Ruin of Charity - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book IV. Decay and Ruin of Charity - Treatise on the Love of God
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book IV. Decay and Ruin of Charity - Treatise on the Love of God
 ---
 
 # Book IV. Decay and Ruin of Charity
 
-### Chapter I. That as Long as We Are in This Mortal Life We May Lose the Love of God
+## Chapter I. That as Long as We Are in This Mortal Life We May Lose the Love of God
 
 We do not now speak of those great elect souls whom God by a most special favour so maintains and confirms in his love, that they run no hazard of losing it. We speak for the rest of mortals, to whom the Holy Ghost addresses these warnings: He that thinketh himself to stand, let him take heed lest he fall. [177] Hold fast that which thou hast, that no man take thy crown. [178] Labour the more that by good works you may make sure your calling and election. [179] Whence he makes them make this prayer: Cast me not away from thy face; and take not thy holy spirit from me. [180] And lead us not into temptation: that they may work out their salvation with a holy trembling, and a sacred fear, [181] knowing that they are not more constant and strong to preserve God's love than were the first angel with his followers and Judas, who receiving it lost it, and losing it lost themselves for ever; nor than Solomon, who, having once left it, holds the whole world in doubt of his damnation; nor than Adam and Eve, David, S. Peter, who being children of salvation, fell yet for a space from the love without which there is no salvation. Alas! Theotimus, who shall then have assurance of preserving sacred love in the navigation of this mortal life, since, as well on earth as in heaven, so many persons of incomparable dignity have suffered such cruel shipwrecks?
 
@@ -47,7 +45,7 @@ It is impossible to see the Divinity and not love it, but here below where we do
 
 [183] Jer. ii. 12.
 
-### Chapter II. How the Soul Grows Cold in Holy Love
+## Chapter II. How the Soul Grows Cold in Holy Love
 
 The soul is often grieved and troubled in the body, even so far as to desert many of its members, which remain deprived of motion and feeling, while it never forsakes the heart, wherein it fully remains till the very end of life. So charity is sometimes weakened and depressed in the affections till it seems to be scarcely in exercise at all, and yet it remains entire in the supreme region of the soul. This happens when, under the multitude of venial sins as under ashes, the fire of holy love remains covered, and its flame smothered, though it is not dead or extinguished. For as the presence of the diamond hinders the exercise and action of that property which the adamant has of drawing iron, and yet does not take it away, as it acts immediately this obstacle is removed, so the presence of venial sins in no sort deprives charity of its force and power to work, yet as it were benumbs it and deprives it of the use of its activity, so that charity remains without action, sterile and unfruitful. It is true that neither venial sin, nor even the affection to it, is contrary to the essential resolution of charity, which is to prefer God before all things; because by this sin we love something outside reason but not against reason, we defer a little too much, and more than is fit, to creatures, yet we do not prefer them before the Creator, we occupy ourselves more than we ought in earthly things, yet do we not for all that forsake heavenly things. In fine, this kind of sin impedes us in the way of charity, but does not put us out of it, and therefore venial sin, not being contrary to charity, never destroys charity either wholly or partially.
 
@@ -75,7 +73,7 @@ In fine, Theotimus, we are wont to say that such as have a very weakly constitut
 
 [189] Apres ses chevaux toute sa chevance.
 
-### Chapter III. How We Forsake Divine Love for That of Creatures
+## Chapter III. How We Forsake Divine Love for That of Creatures
 
 This misery of quitting God for the creature happens thus. We do not love God without intermission, because in this mortal life charity is in us as a simple habit, which, as philosophers have remarked, we use when we like and never against our liking. When then we do not make use of the charity which is in us, that is, when we are not applying our spirit to the exercises of holy love, but, when (keeping it busied in some other affair, or it being idle in itself) it remains useless and negligent, then, Theotimus, it may be assaulted by some bad object and surprised by temptation. And though the habit of charity be at that instant in the bottom of our hearts and perform its office, inclining us to reject the bad suggestion, yet it only urges us or leads us to the action of resistance according as we second it, as is the manner of habits; and therefore charity leaving us in our freedom, it happens often that the bad object having cast its allurements deeply into our hearts, we attach ourselves unto it by an excessive complacency, which when it comes to grow, we can hardly get rid of, and like thorns, according to the saying of Our Saviour, it in the end stifles the seed of grace and heavenly love. So it fell out with our first mother Eve, whose overthrow began by a certain amusement which she took in discoursing with the serpent, receiving complacency in hearing it talk of her advancement in knowledge, and in seeing the beauty of the forbidden fruit, so that the complacency growing with the amusement and the amusement feeding itself in the complacency, she found herself at length so entangled, that giving away to consent, she committed the accursed sin into which afterwards she drew her husband.
 
@@ -95,7 +93,7 @@ Alas! Theotimus, what a pitiful spectacle it is to the angels of peace to see th
 
 [192] Jer. Lam. i. 1.
 
-### Chapter IV. That Heavenly Love Is Lost in a Moment
+## Chapter IV. That Heavenly Love Is Lost in a Moment
 
 The love of God, which brings us as far as contempt of self, makes us citizens of the heavenly Jerusalem; self-love, which pushes us forward to the contempt of God, makes us slaves of the infernal Babylon. It is true that only little by little we come to despise God, but we have no sooner done it than instantly, in a moment, holy charity forsakes us, or rather wholly perishes. Yes, Theotimus, for in this contempt of God does mortal sin consist, and one only mortal sin banishes charity from the soul, inasmuch as it breaks the connection and union with God, which is obedience and submission to his will: and as man's heart cannot live divided, so charity, which is the heart of the soul and the soul of the heart, can never be wounded without being slain: as they say of pearls, which being conceived of heavenly dew perish if any drop of salt water get within the shell that holds them. Our soul, as you know, does not go out of our body by little and little, but in a moment, when the indisposition of the body is so great that it can no longer exercise the actions of life in it: even so, the very instant the heart is so disordered by passions that charity can no longer reign there, she quits and abandons it: for she is so noble, that she cannot cease to reign without ceasing to be.
 
@@ -113,7 +111,7 @@ I will not see the child die, [193] is it strange then that charity, the daughte
 
 [194] Ezech. xviii. 4.
 
-### Chapter V. That the Sole Cause of the Decay and Cooling of Charity Is in the
+## Chapter V. That the Sole Cause of the Decay and Cooling of Charity Is in the
 
 CREATURE'S WILL.
 
@@ -147,7 +145,7 @@ certainly such as, first allured, afterwards drawn, follow the inspiration, have
 
 [202] John i. 9.
 
-### Chapter VI. That We Ought to Acknowledge All the Love We Bear to God to Be from
+## Chapter VI. That We Ought to Acknowledge All the Love We Bear to God to Be from
 
 GOD.
 
@@ -177,7 +175,7 @@ Theotimus, if we have any love for God, his be the honour and glory, who did all
 
 [206] i.e. pearl. See p. 82 [Tr.]
 
-### Chapter VII. That We Must Avoid All Curiosity, and Humbly Acquiesce in God's Most
+## Chapter VII. That We Must Avoid All Curiosity, and Humbly Acquiesce in God's Most
 
 WISE PROVIDENCE.
 
@@ -217,7 +215,7 @@ Augustine says: 'Although the truth of it is most certain, yet is it far removed
 
 [210] Eccli. iii. 22.
 
-### Chapter VIII. an Exhortation to the Amorous Submission Which We Owe to the Decrees of
+## Chapter VIII. an Exhortation to the Amorous Submission Which We Owe to the Decrees of
 
 DIVINE PROVIDENCE.
 
@@ -245,7 +243,7 @@ Let us never permit our minds to flutter with curiosity about God's judgments, f
 
 [215] Rom. xi.
 
-### Chapter IX. of a Certain Remainder of Love That Oftentimes Rests in the Soul That
+## Chapter IX. of a Certain Remainder of Love That Oftentimes Rests in the Soul That
 
 HAS LOST HOLY CHARITY.
 
@@ -259,7 +257,7 @@ After a long habit of preaching or saying Mass with deliberation, it happens oft
 
 Now this is what I would say. When holy charity meets a pliable soul in which she long resides, she produces a second love, which is not a love of charity, though it issues from charity; it is a human love which is yet so like charity, that though afterwards charity perish in the soul it seems to be still there, inasmuch as it leaves behind it this its picture and likeness, which so represents charity that one who was ignorant would be deceived therein, as were the birds by the painting of the grapes of Zeuxis, which they deemed to be true grapes, so exactly had art imitated nature. And yet there is a great difference between charity and the human love it produces in us: for the voice of charity declares, impresses, and effects all the commandments of God in our hearts; the human love which remains after it does indeed sometimes declare and impress all the commandments, yet it never effects them all, but some few only. Charity pronounces and puts together all the syllables, that is, all the circumstances of God's commandments; human love always leaves out some of them, especially that of the right and pure intention; and as for the tone, charity keeps it always steady, sweet, and full of grace, human love takes it always too high in earthly things, or too low in heavenly, and never sets upon its work until charity has ended hers. For so long as charity is in the soul, she uses this human love which is her creature and employs it to facilitate her operations; so that during that time the works of this love, as of a servant, belong to charity its mistress: but when charity is gone, then the actions of this love are entirely its own, and have no longer the price and value of charity. For as the staff of Eliseus, in his absence, though in the hand of Giezi who received it from him, wrought no miracle, so actions done in the absence of charity, by the simple habit of human love, are of no value or merit to eternal life, though this human love learned from charity to do them, and is but charity's servant. And this so comes about because this human love, in the absence of charity, has no supernatural strength to raise the soul to the excellent action of the love of God above all things.
 
-### Chapter X. How Dangerous This Imperfect Love Is
+## Chapter X. How Dangerous This Imperfect Love Is
 
 Alas! my Theotimus, behold, I pray you, the poor Judas after he had betrayed his Master, how he goes to return the money to the Jews, how he acknowledges his sin, how honourably he speaks of the blood of this immaculate Lamb. These were effects of imperfect love, which former charity, now past, had left in his heart. We descend to impiety by certain degrees, and hardly any one arrives in an instant at the extremity of malice.
 
@@ -281,7 +279,7 @@ Self-love deceives us, as Laban did Jacob between Rachel and Lia. We leave chari
 
 Ah! my God! is it not a great pity to see a soul flattering herself in the imagination of being holy, and remaining in repose as though she were possessed of charity, only to find in the end that her holiness is a fiction, her rest a lethargy, and her joy a madness.
 
-### Chapter XI. a Means to Discern This Imperfect Love
+## Chapter XI. a Means to Discern This Imperfect Love
 
 But, you will ask me, what means is there to discern whether it be Rachel or Lia, charity or imperfect love, which gives me the feelings of devotion wherewith I am touched? If when you examine in particular the objects of the desires, affections and designs which you have at the time, you find any one for which you would go against the will and good-pleasure of God by sinning mortally, it is then beyond doubt that all the feeling, all the facility and promptitude which you have in God's service, issue from no other source than human and imperfect love: for if perfect love reigned in us--Ah! it would break every affection, every desire, every design, the object of which was so pernicious, and it would not endure that your heart should behold it.
 

@@ -1,17 +1,18 @@
 ---
-title: Liberation
-created: 2025-05-11
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Liberation
+author:
+source: Divine Intimacy Meditations
 aliases:
   - liberation
   - Liberation
 tags:
   - divine-intimacy
   - term/liberation
-author: Gabriel of Saint Mary Magdalen
-source: Divine Intimacy Meditations
+  - type/term
+created: 2025-05-11
+modified: 2026-04-06
+publish: true
 ---
 
 # Liberation
@@ -22,4 +23,4 @@ source: Divine Intimacy Meditations
 
 ![[sd-10-index-l#Liberation]]
 
-- From our sins by the Blood of Jesus: 154,2.
+- From our sins by the Blood of Jesus: [[154-the-good-shepherd#Meditation 2|154,2]].

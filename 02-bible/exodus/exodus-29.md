@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 29
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 29
+title: Exodus, Chapter 29
+url: https://bible.usccb.org/bible/exodus/29
 aliases:
   - 20250731-090015
   - exodus-29
   - Exodus, Chapter 29
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/29
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 29
 ---
 
 # Exodus, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
 **Consecration of the Priests.**
 
@@ -46,7 +45,7 @@ url: https://bible.usccb.org/bible/exodus/29
 
 10 Now bring forward the bull in front of the tent of meeting. There Aaron and his sons shall lay their hands on its head. ^exodus-29-10
 
-11 Then slaughter the bull before the L ORD, at the entrance of the tent of meeting. ^exodus-29-11
+11 Then slaughter the bull before the LORD, at the entrance of the tent of meeting. ^exodus-29-11
 
 12 Take some of its blood and with your finger put it on the horns of the altar. All the rest of the blood you shall pour out at the base of the altar. ^exodus-29-12
 
@@ -60,7 +59,7 @@ url: https://bible.usccb.org/bible/exodus/29
 
 17 Cut the ram into pieces; you shall wash its inner organs and shanks and put them with the pieces and with the head. ^exodus-29-17
 
-18 Then you shall burn the entire ram on the altar, since it is a burnt offering, a sweet-smelling oblation to the L ORD. ^exodus-29-18
+18 Then you shall burn the entire ram on the altar, since it is a burnt offering, a sweet-smelling oblation to the LORD. ^exodus-29-18
 
 19 After this take the other ram, and when Aaron and his sons have laid their hands on its head, ^exodus-29-19
 
@@ -70,17 +69,17 @@ url: https://bible.usccb.org/bible/exodus/29
 
 22 Now, from this ram you shall take its fat: its fatty tail, the fat that covers its inner organs, the lobe of its liver, its two kidneys with the fat that is on them, and its right thigh, since this is the ram for installation; ^exodus-29-22
 
-23 then, out of the basket of unleavened food that you have set before the L ORD, you shall take one of the loaves of bread, one of the cakes made with oil, and one of the wafers. ^exodus-29-23
+23 then, out of the basket of unleavened food that you have set before the LORD, you shall take one of the loaves of bread, one of the cakes made with oil, and one of the wafers. ^exodus-29-23
 
-24 All these things you shall put into the hands of Aaron and his sons, so that they may raise them as an elevated offering before the L ORD. ^exodus-29-24
+24 All these things you shall put into the hands of Aaron and his sons, so that they may raise them as an elevated offering before the LORD. ^exodus-29-24
 
-25 After you receive them back from their hands, you shall burn them on top of the burnt offering on the altar as a sweet-smelling oblation to the L ORD. ^exodus-29-25
+25 After you receive them back from their hands, you shall burn them on top of the burnt offering on the altar as a sweet-smelling oblation to the LORD. ^exodus-29-25
 
-26 Finally, take the brisket of Aaron’s installation ram and raise it as an elevated offering before the L ORD; this is to be your own portion. ^exodus-29-26
+26 Finally, take the brisket of Aaron’s installation ram and raise it as an elevated offering before the LORD; this is to be your own portion. ^exodus-29-26
 
 27 Thus shall you set aside the brisket of whatever elevated offering is raised, as well as the thigh of whatever contribution is raised up, whether this be the installation ram or anything else belonging to Aaron or to his sons. ^exodus-29-27
 
-28 Such things are due to Aaron and his sons from the Israelites by a perpetual statute as a contribution. From their communion offerings, too, the Israelites shall make a contribution, their contribution to the L ORD. ^exodus-29-28
+28 Such things are due to Aaron and his sons from the Israelites by a perpetual statute as a contribution. From their communion offerings, too, the Israelites shall make a contribution, their contribution to the LORD. ^exodus-29-28
 
 29 The sacred vestments of Aaron shall be passed down to his sons after him, that in them they may be anointed and installed. ^exodus-29-29
 
@@ -106,9 +105,9 @@ url: https://bible.usccb.org/bible/exodus/29
 
 40 With the first lamb there shall be a tenth of an ephah of bran flour mixed with a fourth of a hin of oil of crushed olives and, as its libation, a fourth of a hin of wine. ^exodus-29-40
 
-41 The other lamb you shall offer at the evening twilight, with the same grain offering and libation as in the morning. You shall offer this as a sweet-smelling oblation to the L ORD. ^exodus-29-41
+41 The other lamb you shall offer at the evening twilight, with the same grain offering and libation as in the morning. You shall offer this as a sweet-smelling oblation to the LORD. ^exodus-29-41
 
-42 Throughout your generations this regular burnt offering shall be made before the L ORD at the entrance of the tent of meeting, where I will meet you and speak to you. ^exodus-29-42
+42 Throughout your generations this regular burnt offering shall be made before the LORD at the entrance of the tent of meeting, where I will meet you and speak to you. ^exodus-29-42
 
 43 There, at the altar, I will meet the Israelites; hence, it will be made sacred by my glory. ^exodus-29-43
 
@@ -116,7 +115,7 @@ url: https://bible.usccb.org/bible/exodus/29
 
 45 I will dwell in the midst of the Israelites and will be their God. ^exodus-29-45
 
-46 They shall know that I, the L ORD, am their God who brought them out of the land of Egypt, so that I, the L ORD, their God, might dwell among them. ^exodus-29-46
+46 They shall know that I, the LORD, am their God who brought them out of the land of Egypt, so that I, the LORD, their God, might dwell among them. ^exodus-29-46
 
 \* (29:22) Fatty tail: the thick layer of fat surrounding the tails of sheep and rams bred in the Middle East. It is regarded as a choice food. Cf. [Lv 3:9].
 

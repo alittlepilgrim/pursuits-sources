@@ -1,9 +1,7 @@
 ---
-title: Formation I Year a The Way of Perfection
-created: 2025-08-28
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Formation I Year a The Way of Perfection
+author: Secular Order of Discalced Carmelites
 aliases:
   - 20251008-235952
   - Formation I Year a - the way of Perfection
@@ -12,8 +10,10 @@ aliases:
   - Formation I Year A The Way of Perfection
 tags:
   - carmel/formation
-author: Secular Order of Discalced Carmelites
-status: draft
+  - type/study-guide
+created: 2025-08-28
+modified: 2026-04-06
+publish: false
 ---
 
 Secular Order of Discalced Carmelites

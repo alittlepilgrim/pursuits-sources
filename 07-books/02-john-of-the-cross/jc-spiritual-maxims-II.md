@@ -1,19 +1,19 @@
 ---
-title: Spiritual Maxims Ii by St. John of the Cross
-created: 2025-07-25
-modified: 2026-04-02
 type: book
-publish: false
+title: Spiritual Maxims Ii by St. John of the Cross
+author: Saint John of the Cross
 aliases:
   - jc-spiritual-maxims-II
   - Spiritual Maxims Ii by St. John of the Cross
   - Spiritual Maxims II by St. John of the Cross
   - Spiritual Maxims II By St. John of the Cross
 tags:
-  - author/john-of-the-cross
+  - author/saint-john-of-the-cross
   - book/jc-spiritual-maxims
   - subject
-author: Saint John of the Cross
+created: 2025-07-25
+modified: 2026-04-06
+publish: false
 ---
 
 20250725-191

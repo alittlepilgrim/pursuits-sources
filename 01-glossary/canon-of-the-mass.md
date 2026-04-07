@@ -1,15 +1,16 @@
 ---
-title: Canon of the Mass
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: canon-of-the-mass. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Canon of the Mass
 aliases:
   - Canon of the Mass
   - canon-of-the-mass
 tags:
   - term/canon-of-the-mass
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: canon-of-the-mass. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Canon of the Mass

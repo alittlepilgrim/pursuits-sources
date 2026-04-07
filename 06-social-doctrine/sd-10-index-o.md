@@ -1,30 +1,32 @@
 ---
-title: O - Social Doctrine of the Church Analytical Index
-created: 2025-11-13
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: O - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - O - Social Doctrine of the Church Analytical Index
   - sd-10-index-o
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-13
+modified: 2026-04-06
+publish: true
 ---
 
 # O - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Obligation
+## Obligation
 
 - See Duty
 
-### Old Age
+## Old Age
 
 (see Also [[sd-10-index-e#Elderly|Elderly]], [[sd-10-index-a#Aging|Aging]])
 
@@ -32,7 +34,7 @@ Old age and bringing forth fruit, [[sd-04-part-II#^csdc-222|222]]
 
 Right to insurance for old age, [[sd-04-part-II#^csdc-301|301]]
 
-### Order
+## Order
 
 Humanism and a new social order, [[sd-02-intro#^csdc-19|19]]
 
@@ -178,7 +180,7 @@ States and the private and public order, [[sd-06-conclusion#^csdc-577|577]]
 
 Civilization of love and the international order, [[sd-06-conclusion#^csdc-582|582]]
 
-### Organism
+## Organism
 
 _Iustitia et Pax_, organism of the Church, [[sd-03-part-I#^csdc-99|99]]
 
@@ -186,7 +188,7 @@ The person as a cell of an organism, [[sd-03-part-I#^csdc-125|125]]
 
 Technical interventions and living organisms, [[sd-04-part-II#^csdc-473|473]]
 
-### Organization - Organize
+## Organization - Organize
 
 Transcendence of man and organizations, [[sd-03-part-I#^csdc-47|47]]
 

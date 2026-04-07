@@ -1,15 +1,17 @@
 ---
-title: Peter, Saint
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: peter-saint. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Peter, Saint
+author:
 aliases:
   - peter-st
   - Peter, Saint
 tags:
   - saint/peter
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: peter-saint. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Peter, Saint
@@ -22,8 +24,8 @@ Simon, whom Jesus called Peter or "Rock," upon whom he would build his Church (_
 
 ## Divine Intimacy Meditations
 
-- Conduct of— in the Passion of Jesus: 135,2;
-- — made the head of the Church: 375,1;
-- where— is, there is the Church: 375,1.
-- 135. The Meek Lamb
-- 375. Saints Peter and Paul
+- Conduct of— in the Passion of Jesus: [[135-the-meek-lamb#Meditation 2|135,2]];
+- — made the head of the Church: [[375-sts-peter-and-paul#Meditation 1|375,1]];
+- where— is, there is the Church: [[375-sts-peter-and-paul#Meditation 1|375,1]].
+- [[135-the-meek-lamb|135. The Meek Lamb]]
+- [[375-sts-peter-and-paul|375. Saints Peter and Paul]]

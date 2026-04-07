@@ -1,9 +1,7 @@
 ---
-title: OCDS Companion To The OCDS Constitutions
-created: 2025-05-03
-modified: 2026-04-02
 type: legislation
-publish: true
+title: OCDS Companion To The OCDS Constitutions
+author: Secular Order of Discalced Carmelites
 aliases:
   - 05-06-constitution-companion
   - Companion To The OCDS Constitutions
@@ -11,7 +9,10 @@ aliases:
   - OCDS Companion To The OCDS Constitutions
 tags:
   - carmel/legislation
-author: Secular Order of Discalced Carmelites
+  - type/legislation
+created: 2025-05-03
+modified: 2026-04-06
+publish: true
 ---
 
 Secular Order of Discalced Carmelites
@@ -40,11 +41,11 @@ Secular Order of Discalced Carmelites
 - [[20] WP 4:2 – (The Way Of Perfection)](#%5B20%5D%20WP%204:2%20%E2%80%93%20(The%20Way%20Of%20Perfection))
 - [[21] CL 33 – (Christifideles Laici – The Lay Members Of Christ’s Faithful People – Apostolic Exhortation Of Pope John Paul II)](#%5B21%5D%20CL%2033%20%E2%80%93%20(Christifideles%20Laici%20%E2%80%93%20The%20Lay%20Members%20Of%20Christ%E2%80%99s%20Faithful%20People%20%E2%80%93%20Apostolic%20Exhortation%20Of%20Pope%20John%20Paul%20II))
 - [[22] AA 4 and 10 - (Apostolicam Actuositatum – Decree on The Apostolate Of Lay People) - Vatican II](#%5B22%5D%20AA%204%20and%2010%20-%20(Apostolicam%20Actuositatum%20%E2%80%93%20Decree%20on%20The%20Apostolate%20Of%20Lay%20People)%20-%20Vatican%20II)
-	- %20%E2%80%93%20Apostolic%20Exhortation%20Of%20Pope%20John%20Paul%20II)
+	- [CL 16-17, 25, 28-29 (Christifideles Laici – The Lay Members Of Christ’s Faithful People) – Apostolic Exhortation Of Pope John Paul II](#CL%2016-17,%2025,%2028-29%20(Christifideles%20Laici%20%E2%80%93%20The%20Lay%20Members%20Of%20Christ%E2%80%99s%20Faithful%20People)%20%E2%80%93%20Apostolic%20Exhortation%20Of%20Pope%20John%20Paul%20II)
 - [[23] IC V:3:11; Cf. VII:3 – (The Interior Castle)](#%5B23%5D%20IC%20V:3:11;%20Cf.%20VII:3%20%E2%80%93%20(The%20Interior%20Castle))
 - [[24] Cf. AA 2-3 - (Apostolicam Actuositatum – Decree on The Apostolate Of Lay People) –](#%5B24%5D%20Cf.%20AA%202-3%20-%20(Apostolicam%20Actuositatum%20%E2%80%93%20Decree%20on%20The%20Apostolate%20Of%20Lay%20People)%20%E2%80%93)
 - [[25] Cf. Cristus Dominus 11 – (Decree on The Pastoral Office Of Bishops In The Church) – Vatican II](#%5B25%5D%20Cf.%20Cristus%20Dominus%2011%20%E2%80%93%20(Decree%20on%20The%20Pastoral%20Office%20Of%20Bishops%20In%20The%20Church)%20%E2%80%93%20Vatican%20II)
-- %20%E2%80%93%20Vatican%20II)
+- [26 – (Decree on The Apostolate Of The Laity) – Vatican II](#26%20%E2%80%93%20(Decree%20on%20The%20Apostolate%20Of%20The%20Laity)%20%E2%80%93%20Vatican%20II)
 - [[26] VC 55 – (Vita Consecrata – Consecrated Life) Apostolic Exhortation Of Pope John Paul II](#%5B26%5D%20VC%2055%20%E2%80%93%20(Vita%20Consecrata%20%E2%80%93%20Consecrated%20Life)%20Apostolic%20Exhortation%20Of%20Pope%20John%20Paul%20II)
 - [[27] OCDS Rule Of Life (1979) Article 8](#%5B27%5D%20OCDS%20Rule%20Of%20Life%20(1979)%20Article%208)
 - [[28] Mc 37 – (Marialis Cultus – for the Right Ordering and Development Of Devotion to the Blessed Virgin Mary) – Apostolic Exhortation Of Pope Paul VI](#%5B28%5D%20Mc%2037%20%E2%80%93%20(Marialis%20Cultus%20%E2%80%93%20for%20The%20Right%20Ordering%20and%20Development%20Of%20Devotion%20To%20The%20Blessed%20Virgin%20Mary)%20%E2%80%93%20Apostolic%20Exhortation%20Of%20Pope%20Paul%20VI)
@@ -68,7 +69,7 @@ Secular Order of Discalced Carmelites
 - [[46] LG 38 - (Lumen Gentium – Dogmatic Constitution on The Church) – Vatican II](#%5B46%5D%20LG%2038%20-%20(Lumen%20Gentium%20%E2%80%93%20Dogmatic%20Constitution%20on%20The%20Church)%20%E2%80%93%20Vatican%20II)
 - [[47] LG 38 – (See Reference 46)](#%5B47%5D%20LG%2038%20%E2%80%93%20(See%20Reference%2046))
 
-**Tex of  Cited References**
+**Tex of Cited References**
 
 ## [1] Lumen Gentium 31-35 - (Dogmatic Constitution on the Church) - Vatican Ii
 
@@ -84,7 +85,7 @@ In the Church not everyone marches along the same path, yet all are called to sa
 
 ---
 
-Page  of  24
+Page of 24
 
 established as teachers, dispensers of the mysteries and pastors for the others, there remains, nevertheless, a true equality between all with regard to the dignity and to the activity which is common to all the
 

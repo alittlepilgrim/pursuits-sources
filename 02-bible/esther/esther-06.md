@@ -1,25 +1,24 @@
 ---
-title: Esther, Chapter 6
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 6
+title: Esther, Chapter 6
+url: https://bible.usccb.org/bible/esther/6
 aliases:
   - esther-06
   - Esther, Chapter 6
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/6
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 6
 ---
 
 # Esther, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Mordecai’s Reward from the King.**
 

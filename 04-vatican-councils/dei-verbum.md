@@ -1,22 +1,22 @@
 ---
-title: Dei Verbum
-created: 2025-08-22
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Dogmatic Constitution on Divine Revelation - Dei verbum
+title: Dei Verbum
+author: Catholic Church
+source: vatican.va
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html
 aliases:
   - Dei Verbum
   - DEI VERBUM
   - dei-verbum
 tags:
+  - graph/bible-dv
+  - graph/bible-v2
   - vatican/vatican-II
-  - vault-admin/graph/bible-dv
-  - vault-admin/graph/bible-v2
+created: 2025-08-22
+modified: 2026-04-04
+publish: true
+description: Dogmatic Constitution on Divine Revelation - Dei verbum
 abbreviation: dv
-author: Catholic Church
-source: vatican.va
-url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html
 ---
 
 DOGMATIC CONSTITUTION ON DIVINE REVELATION

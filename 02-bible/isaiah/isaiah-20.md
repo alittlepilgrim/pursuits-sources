@@ -1,33 +1,32 @@
 ---
-title: Isaiah, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 20
+title: Isaiah, Chapter 20
+url: https://bible.usccb.org/bible/isaiah/20
 aliases:
   - isaiah-20
   - Isaiah, Chapter 20
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 20
 ---
 
 # Isaiah, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Isaiah’s Warning Against Trust in Egypt and Ethiopia.**
 
 1 In the year the general sent by Sargon, king of Assyria, came to Ashdod, fought against it, and captured it— ^isaiah-20-1
 
-2 at that time the L ORD had spoken through Isaiah, the son of Amoz: Go and take off the sackcloth from your waist, and remove the sandals from your feet. This he did, walking naked and barefoot. ^isaiah-20-2
+2 at that time the LORD had spoken through Isaiah, the son of Amoz: Go and take off the sackcloth from your waist, and remove the sandals from your feet. This he did, walking naked and barefoot. ^isaiah-20-2
 
-3 Then the L ORD said: Just as my servant Isaiah has gone naked and barefoot for three years as a sign and portent against Egypt and Ethiopia, ^isaiah-20-3
+3 Then the LORD said: Just as my servant Isaiah has gone naked and barefoot for three years as a sign and portent against Egypt and Ethiopia, ^isaiah-20-3
 
 4 so shall the king of Assyria lead away captives from Egypt, and exiles from Ethiopia, young and old, naked and barefoot, with buttocks uncovered, the shame of Egypt. ^isaiah-20-4
 

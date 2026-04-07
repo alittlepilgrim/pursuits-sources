@@ -1,25 +1,24 @@
 ---
-title: 1 Corinthians, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Corinthians, Chapter 5
+title: 1 Corinthians, Chapter 5
+url: https://bible.usccb.org/bible/1corinthians/5
 aliases:
   - 1 Corinthians, Chapter 5
   - 1-corinthians-05
 tags:
   - bible/1-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1corinthians/5
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Corinthians, Chapter 5
 ---
 
 # 1 Corinthians, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **A Case of Incest.**
 

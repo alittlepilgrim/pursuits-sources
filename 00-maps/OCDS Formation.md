@@ -1,10 +1,6 @@
 ---
-title: 🎓 OCDS Formation
-created: 2025-11-12
-modified: 2026-04-02
 type: moc
-publish: true
-description: Navigate Aspirancy, Formation I/II, and Ongoing Formation resources.
+title: OCDS Formation MOC
 aliases:
   - 🎓 OCDS Formation
   - 🎓 Ocds Formation — Map of Content
@@ -13,10 +9,17 @@ aliases:
 tags:
   - carmel/ocds
   - type/moc
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
+permalink: /formation
+description: Navigate Aspirancy, Formation I/II, and Ongoing Formation resources.
 attachment: false
 ---
 
 🧭 MOC | 📚 Reference | Carmel
+
+![[banner-carmel-clear.png]]
 
 # 🎓 OCDS Formation
 
@@ -37,7 +40,7 @@ attachment: false
 - [[OCDS_USA_Ongoing_Formation_Vol2.pdf|Ongoing Formation Volume 2]]
 - [[OCDS_USA_Formation_Handbook.pdf|Formation Handbook]]
 
-#### Ongoing Formation Topics:
+### Ongoing Formation Topics
 
 - [[ongoing-formation-1-general-introduction]]
 - [[ongoing-formation-1-general-principles]]

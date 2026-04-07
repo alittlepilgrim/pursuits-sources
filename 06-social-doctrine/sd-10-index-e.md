@@ -1,26 +1,28 @@
 ---
-title: E - Social Doctrine of the Church Analytical Index
-created: 2025-11-12
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: E - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - E - Social Doctrine of the Church Analytical Index
   - sd-10-index-e
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
 ---
 
 # E - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Earth
+## Earth
 
 (see Also [[sd-10-index-o#Land|Land]])
 
@@ -116,15 +118,15 @@ Dissatisfaction and heaven on earth, [[sd-06-conclusion#^csdc-575|575]], [[sd-06
 
 Action of the Holy Spirit and the earth, [[sd-06-conclusion#^csdc-578|578]]
 
-### Ecclesial Community
+## Ecclesial Community
 
 - See [[sd-10-index-c#Christian Community|Christian Community]]
 
-### Ecocentrism
+## Ecocentrism
 
 Conception of the environment and ecocentrism, [[sd-04-part-II#^csdc-463|463]]
 
-### Economy - Economic
+## Economy - Economic
 
 Christian salvation and the economy, [[sd-02-intro#^csdc-1|1]]
 
@@ -444,7 +446,7 @@ Discernment and economic choices, [[sd-05-part-III#^csdc-569|569]]
 
 Love in social life and the economic level, [[sd-06-conclusion#^csdc-582|582]]
 
-### Ecosystem
+## Ecosystem
 
 Creation, a single ecosystem, [[sd-04-part-II#^csdc-367|367]]
 
@@ -456,7 +458,7 @@ Function of individual beings and the ecosystem, [[sd-04-part-II#^csdc-473|473]]
 
 Biotechnology and safeguarding the ecosystem, [[sd-04-part-II#^csdc-478|478]]
 
-### Educate - Education
+## Educate - Education
 
 (see Also [[sd-10-index-o#Rearing Children|Rearing Children]])
 
@@ -514,7 +516,7 @@ Social doctrine and educational institutions, [[sd-05-part-III#^csdc-532|532]]
 
 Social action and commitment to education, [[sd-05-part-III#^csdc-557|557]]
 
-### Efficiency - Efficient - Effective
+## Efficiency - Efficient - Effective
 
 Work organizations and efficiency, [[sd-04-part-II#^csdc-311|311]]
 
@@ -544,13 +546,13 @@ Controversies and an effective juridical authority, [[sd-04-part-II#^csdc-439|43
 
 Rethinking the economy and efficiency, [[sd-05-part-III#^csdc-564|564]]
 
-### Effort to Destroy
+## Effort to Destroy
 
 (see Also [[sd-10-index-o#Struggle|Struggle]], [[sd-10-index-f#Fight|Fight]], [[sd-10-index-r#Recourse to Arms|Recourse to Arms]], [[sd-10-index-b#Battle|Battle]])
 
 Effort to destroy the enemy and factors of progress, [[sd-04-part-II#^csdc-438|438]]
 
-### Elderly
+## Elderly
 
 (see Also [[sd-10-index-a#Aging|Aging]], [[sd-10-index-o#Old Age|Old Age]])
 
@@ -562,7 +564,7 @@ Families and attention to the elderly, [[sd-04-part-II#^csdc-246|246]]
 
 Sundays and attention to the elderly, [[sd-04-part-II#^csdc-285|285]]
 
-### Elect - Election - Electoral - Electors
+## Elect - Election - Electoral - Electors
 
 Participation and electoral choices, [[sd-03-part-I#^csdc-191|191]]
 
@@ -570,19 +572,19 @@ Democracy and the possibility to hold elections, [[sd-04-part-II#^csdc-406|406]]
 
 Relationship between those elected and the electors, [[sd-04-part-II#^csdc-409|409]]
 
-### Emigration
+## Emigration
 
 - See [[sd-10-index-i#Immigration|Immigration]]
 
-### Employers
+## Employers
 
 Indirect employers, [[sd-04-part-II#^csdc-288|288]]
 
 Employers and remuneration, [[sd-04-part-II#^csdc-302|302]]
 
-### Enrich - See [[sd-10-index-w#Wealth|Wealth]]
+## Enrich - See [[sd-10-index-w#Wealth|Wealth]]
 
-### Enterprise
+## Enterprise
 
 The common good and enterprises of an economic nature, [[sd-03-part-I#^csdc-165|165]]
 
@@ -592,19 +594,19 @@ Cooperative enterprises, [[sd-04-part-II#^csdc-339|339]]
 
 Business enterprise and social ecology of work, [[sd-04-part-II#^csdc-340|340]]
 
-### Entrepreneurship - Entrepreneurial
+## Entrepreneurship - Entrepreneurial
 
 Human labour and entrepreneurial ability, [[sd-04-part-II#^csdc-337|337]]
 
 The market and entrepreneurship, [[sd-04-part-II#^csdc-347|347]]
 
-### Entity
+## Entity
 
 The principle of the common good and social entities, [[sd-03-part-I#^csdc-164|164]]
 
 The principle of subsidiarity and social entities, [[sd-03-part-I#^csdc-186|186]]
 
-### Environment
+## Environment
 
 Ideologies and the natural environment, [[sd-03-part-I#^csdc-100|100]]
 
@@ -660,11 +662,11 @@ Poor countries and sustainable use of the environment, [[sd-04-part-II#^csdc-483
 
 Environmental degradation, [[sd-04-part-II#^csdc-486|486]]
 
-### Episcopal Conference
+## Episcopal Conference
 
 - See [[sd-10-index-b#Bishops' Conference|Bishops' Conference]]
 
-### Equal - Equality
+## Equal - Equality
 
 Man and woman, equal dignity, [[sd-03-part-I#^csdc-111|111]]
 
@@ -718,7 +720,7 @@ Biocentrism and egalitarian considerations, [[sd-04-part-II#^csdc-463|463]]
 
 International law and equality of States, [[sd-04-part-II#^csdc-506|506]]
 
-### Equity
+## Equity
 
 Equity and relations between peoples and States, [[sd-03-part-I#^csdc-145|145]], [[sd-04-part-II#^csdc-433|433]]
 
@@ -738,7 +740,7 @@ Equity and trade relations, [[sd-04-part-II#^csdc-364|364]]
 
 The king, the poor and equity, [[sd-04-part-II#^csdc-378|378]]
 
-### Error
+## Error
 
 Error and immanentistic visions of history, [[sd-03-part-I#^csdc-38|38]]
 
@@ -758,7 +760,7 @@ Error and biotechnology, [[sd-04-part-II#^csdc-474|474]]
 
 Separation of faith and life, an error, [[sd-05-part-III#^csdc-554|554]]
 
-### Ethic - Ethics - Ethical
+## Ethic - Ethics - Ethical
 
 (see Also [[sd-10-index-o#Moral|Moral]])
 
@@ -826,11 +828,11 @@ Legislative choices and ethical duties, [[sd-05-part-III#^csdc-570|570]]
 
 The laity, political instruments and ethical demands, [[sd-05-part-III#^csdc-573|573]]
 
-### Euthanasia
+## Euthanasia
 
 Right to life and illicitness of euthanasia, [[sd-03-part-I#^csdc-155|155]]
 
-### Evangelise - Evangelisation
+## Evangelise - Evangelisation
 
 (see Also [[sd-10-index-o#Proclaim the Gospel|Proclaim the Gospel]])
 
@@ -858,7 +860,7 @@ Social doctrine, catechesis and evangelisation, [[sd-05-part-III#^csdc-530|530]]
 
 The bishop and evangelising social realities, [[sd-05-part-III#^csdc-539|539]]
 
-### Evil
+## Evil
 
 (see Also [[sd-10-index-o#Misfortunes|Misfortunes]], [[sd-10-index-w#Wickedness|Wickedness]])
 
@@ -896,7 +898,7 @@ Recourse to arms and greater evils, [[sd-04-part-II#^csdc-500|500]]
 
 God the possibility of overcoming evil, [[sd-06-conclusion#^csdc-578|578]]
 
-### Exchange - Bartering
+## Exchange - Bartering
 
 (see Also [[sd-10-index-o#Trade|Trade]], [[sd-10-index-c#Commerce|Commerce]])
 
@@ -928,11 +930,11 @@ Arms considered as goods to be exchanged, [[sd-04-part-II#^csdc-508|508]]
 
 Culture and an exchange with regard to the truth about man, [[sd-05-part-III#^csdc-556|556]]
 
-### Ex-convicts
+## Ex-convicts
 
 - See [[sd-10-index-p#Prison|Prison]]
 
-### Exploitation
+## Exploitation
 
 Exploitation of man by man, [[sd-02-intro#^csdc-4|4]]
 

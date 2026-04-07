@@ -1,16 +1,17 @@
 ---
-title: Glossary of the Catechism of the Catholic Church
-created: 2025-07-21
-modified: 2026-03-26
 type: glossary
-publish: true
-description: Glossary of the Catechism of the Catholic Church
+title: Glossary - Catechism of the Catholic Church
 aliases:
   - 02-glossary-catechism
   - 20250725-151100
   - Glossary of the Catechism of the Catholic Church
 tags:
   - term
+  - type/term
+created: 2025-07-21
+modified: 2026-04-06
+publish: true
+description: Glossary of the Catechism of the Catholic Church
 ---
 
 # Glossary of the Catechism of the Catholic Church
@@ -343,7 +344,7 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 - [[pope|Pope]]
 - [[poverty|Poverty]]
 - [[praise|Praise]]
-- [[prayer|Prayer]]
+- [[pursuits-sources/01-glossary/prayer|Prayer]]
 - [[precepts-of-the-church|Precepts of the Church]]
 - [[presbyter|Presbyter]]
 - [[presentation|Presentation]]

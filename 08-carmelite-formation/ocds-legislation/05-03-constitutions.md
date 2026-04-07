@@ -1,31 +1,32 @@
 ---
-title: Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)
-created: 2025-05-03
-modified: 2026-04-02
 type: legislation
-publish: true
+title: Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)
+author: Secular Order of Discalced Carmelites
 aliases:
   - 05-03-constitutions
   - Constitutions of the Secular order of the Teresian Carmel (2003 and 2014)
   - Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)
 tags:
   - carmel/legislation
-author: Secular Order of Discalced Carmelites
+  - type/legislation
+created: 2025-05-03
+modified: 2026-04-06
+publish: true
 ---
 
 # Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)
 
-- )
-- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-	- 
-- 
-- 
+- [Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)](#Constitutions%20Of%20The%20Secular%20Order%20Of%20The%20Teresian%20Carmel%20(2003%20and%202014))
+- [Preface ^ocds-c-preface](#Preface%20%5Eocds-c-preface)
+	- [Our Identity, Values and Commitment](#Our%20Identity,%20Values%20and%20Commitment)
+	- [Following Jesus In The Teresian Secular Carmel](#Following%20Jesus%20In%20The%20Teresian%20Secular%20Carmel)
+	- [Witnesses To The Experience of God](#Witnesses%20To%20The%20Experience%20Of%20God)
+	- [Serving God's Plan](#Serving%20God's%20Plan)
+	- [With Mary, The Mother of Jesus](#With%20Mary,%20The%20Mother%20Of%20Jesus)
+	- [Formation In The School of Carmel](#Formation%20In%20The%20School%20Of%20Carmel)
+	- [Organization and Government](#Organization%20and%20Government)
+- [Epilogue ^ocds-c-epilogue](#Epilogue%20%5Eocds-c-epilogue)
+- [Footnotes](#Footnotes)
 
 # Preface ^ocds-c-preface
 
@@ -45,7 +46,7 @@ The present OCDS Constitutions are the fundamental law for its members, present 
 
 7
 
-###### Constitutions (Page 8)
+### Constitutions (Page 8)
 
 2. Our membership of the Order goes back to the relationship established between laity and members of religious Orders born in the Middle Ages. Gradually these relationships took on an official character, forming part of the religious Institute and taking part in its charism and spirituality. In light of the Church's new theology of the laity, Seculars live this membership with a clear secular identity. ^ocds-c-2
 3. The members of the Secular Order of Discalced Cannelites are faithful members of the Church,[[#^ocds-c-fn-2|2]] called to live "in allegiance to Jesus Christ"[[#^ocds-c-fn-3|3]] through "friendship with the One we know loves us"[[#^ocds-c-fn-4|4]] and in service to the Church. Under the protection of Our Lady of Mount Carmel, in the biblical tradition of the prophet Elijah and inspired by the teachings of St Teresa of Jesus and St John of the Cross, they seek to deepen their Christian commitment received in baptism. ^ocds-c-3
@@ -61,7 +62,7 @@ c)  Giving time to spiritual reading;
 
 ---
 
-###### Constitutions (Page 9)
+### Constitutions (Page 9)
 
 d)   Participating in the Church's Liturgy, both the Eucharist and the Liturgy of the Hours;
 
@@ -89,7 +90,7 @@ d)   to infuse prayer and life with apostolic zeal in a climate of human and C
 
 9
 
-###### Constitutions (Page 10)
+### Constitutions (Page 10)
 
 e) to live evangelical self-denial from a theological perspective;
 
@@ -107,7 +108,7 @@ f)  to give importance to the commitment to evangelization: in the ministry of 
 
 10
 
-###### Constitutions (Page 11)
+### Constitutions (Page 11)
 
 the freedom to love God and neighbor unselfishly[[#^ocds-c-fn-15|15]] giving witness to the divine intimacy promised by the beatitude "blessed are the pure of heart for they shall see God." ([[matthew-05|Mt 5]]:8) The promise of chastity is a commitment to Christian love in its personal and social dimensions in order to create authentic community in the world. By this promise the Secular Carmelite also expresses the conscious desire to respect each person as required by God's law and one's state of life, as a single person or married or widowed. This promise does not prevent a change in state of life.
 
@@ -125,7 +126,7 @@ the freedom to love God and neighbor unselfishly[[#^ocds-c-fn-15|15]] giving wi
 
 11
 
-###### Constitutions (Page 12)
+### Constitutions (Page 12)
 
 ## Witnesses to the Experience of God
 
@@ -136,7 +137,7 @@ the freedom to love God and neighbor unselfishly[[#^ocds-c-fn-15|15]] giving wi
 
 12
 
-###### Constitutions (Page 13)
+### Constitutions (Page 13)
 
 21. Secular Carmelites will commit themselves daily to spending a time in the practice of mental prayer. This is the time to be with God and to strengthen their relationship with Him so that they can be true witnesses of His presence in the world. ^ocds-c-21
 22. The way of Christian prayer demands a life of evangelical self-denial ([[luke-09|Lk 9]]:23) in fulfilling one's own vocation and mission, since "prayer and comfortable living are incompatible." [[#^ocds-c-fn-19|19]] Secular Carmelites accept from the viewpoint of faith, hope and love, the work and suffering of each day, family worries, the uncertainty and limitations in human life, sickness, lack of understanding and all that makes up the fabric of our earthly existence. They will strive to make all this, material for their dialogue with God, in order to grow in an attitude of praise and gratitude to the Lord. In order to live truly, simply, freely, humbly and completely confident in the Lord, the Secular Order observes the practices of evangelical self-denial recommended by the Church. Of particular importance are those days and periods in the liturgical calendar that have a penitential character. ^ocds-c-22
@@ -147,7 +148,7 @@ a)   The Church, the family of God who is Father, Son and Holy Spirit, is a my
 
 13
 
-###### Constitutions (Page 14)
+### Constitutions (Page 14)
 
 something to which every human person created in God's image and likeness (cf. [[genesis-01|Gen 1]]:26-27) is called. In light of this mystery, the true identity and dignity of every human being, and specifically of every member of the Church, is revealed.[[#^ocds-c-fn-21|21]] Being spiritual in nature, the human person grows and matures by being in an authentic relationship with God and with others.[[#^ocds-c-fn-22|22]]
 
@@ -163,7 +164,7 @@ The doctrine of St John of the Cross points to union with God by means of the th
 
 14
 
-###### Constitutions (Page 15)
+### Constitutions (Page 15)
 
 you will draw out love", because that is what the Lord does: by loving us, He makes us capable of loving.[[#^ocds-c-fn-31|31]]
 
@@ -183,7 +184,7 @@ Prayer for one another, mutual concern that includes instances where there is ma
 
 15
 
-###### Constitutions (Page 16)
+### Constitutions (Page 16)
 
 The Secular Carmelite also realizes and expresses communion through meeting and solidarity with other communities, especially within the same Province or Circumscription, as well as through communication and collaboration with the entire Order and family of the Teresian Cannel.
 
@@ -201,7 +202,7 @@ In the case where a member, after a serious evaluation and discernment with the 
 
 16
 
-###### Constitutions (Page 17)
+### Constitutions (Page 17)
 
 faithful followers of Christ, committing them to human society by means of active participation in the apostolic goal of the Church's mission, within the framework of their own charism. As a fruit of this participation in evangelization, Secular Carmelites will share a renewed taste for prayer, contemplation and the liturgical and sacramental life.
 
@@ -215,7 +216,7 @@ faithful followers of Christ, committing them to human society by means of activ
 
 17
 
-###### Constitutions (Page 18)
+### Constitutions (Page 18)
 
 commitment to God's Kingdom. She teaches us to listen to God's Word in Scripture and in life, to believe in it in every circumstance in order to live its demands. All this she did, without understanding many things; pondering all in her heart ([[luke-02|Lk 2]]:19, 50-51) until light dawned through contemplative prayer.
 
@@ -230,7 +231,7 @@ In communion with the Church and the Order, who venerate him as their "provident
 
 18
 
-###### Constitutions (Page 19)
+### Constitutions (Page 19)
 
 ## Formation in the School of Carmel
 
@@ -249,7 +250,7 @@ b)    After the initial period of contact, the council of the community may a
 
 19
 
-###### Constitutions (Page 20)
+### Constitutions (Page 20)
 
 applicant. This is an outward symbol of membership in the Order, and the sign that Mary is both Mother and Model on this journey.
 
@@ -266,7 +267,7 @@ d)   In the last three years of initial formation there is a deeper study of p
 
 20
 
-###### Constitutions (Page 21)
+### Constitutions (Page 21)
 
 41. The Secular Order is juridically dependent on the Discalced Carmelite Friars.[[#^ocds-c-fn-64|64]] The Superior General establishes the local communities and makes pastoral visitations. He may dispense, in particular cases from the Constitutions and local statutes and can grant juridical exceptions. He has the authority to resolve cases which are not foreseen by this legislation and which cannot be resolved by local authorities. A general Delegate assists the Superior General. His responsibility is to further relations between the Religious and the Seculars and to maintain contact with the Provincial Delegates and Assistants to each community to insure the purpose and welfare of the Secular Order. ^ocds-c-41
 42. The General Definitory of the Order approves the regional, [[#^ocds-c-fn-65|65]] provincial, and local statutes of the Secular Order.[[#^ocds-c-fn-66|66]] ^ocds-c-42
@@ -276,7 +277,7 @@ d)   In the last three years of initial formation there is a deeper study of p
 
 21
 
-###### Constitutions (Page 22)
+### Constitutions (Page 22)
 
 46. The Council, composed of the President and three Councilors and the Director of Formation, constitutes the immediate authority of the community. The primary responsibility of the Council is the formation and Christian and Carmelite maturing of the members of the community. ^ocds-c-46
 47. The Council has the authority: ^ocds-c-47
@@ -314,7 +315,7 @@ e)       the place of the community meeting.
 
 22
 
-###### Constitutions (Page 23)
+### Constitutions (Page 23)
 
 Formation from among those who have made definitive promises. The Council then names a Secretary and a Treasurer. The procedure for the elections is to be determined by the Provincial Statutes, respecting the complete liberty of the electors, and the preferences of the majority of the members. For the President to be re-elected to a third term as President, the permission of the Provincial Superior is required.
 
@@ -326,7 +327,7 @@ Formation from among those who have made definitive promises. The Council then n
 
 23
 
-###### Constitutions (Page 24)
+### Constitutions (Page 24)
 
 56. Members of the Secular Order, who for reasons of distance, age, or illness cannot participate in the regular meetings of a community, remain members of the Secular Order and, under the authority of the Provincial Delegate, are to be associated to a particular community. It is the responsibility of the President of the community to establish contact with those members and the responsibility of these members to maintain contact with the community. ^ocds-c-56
 57. Where there is an organized circumscription of the friars of the Order, the Secular Order is to form a Provincial Council to assist one another better in formation and the [[apostolate|Apostolate]], but not for intervening in the government of the local communities. The President of the Provincial Council ought to be a member of the Secular Order with definitive promises. The Provincial Council must submit its statutes to the General Definitory for approval. ^ocds-c-57
@@ -357,7 +358,7 @@ j)     the practices of mortification and expressions of devotion to our Ble
 
 24
 
-###### Constitutions (Page 25)
+### Constitutions (Page 25)
 
 # Epilogue ^ocds-c-epilogue
 

@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 23
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 23
+title: Proverbs, Chapter 23
+url: https://bible.usccb.org/bible/proverbs/23
 aliases:
   - proverbs-23
   - Proverbs, Chapter 23
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/23
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 23
 ---
 
 # Proverbs, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 1 When you sit down to dine with a ruler, ^proverbs-23-1
 
@@ -91,7 +90,7 @@ when your lips speak what is right.
 
 17 Do not let your heart envy sinners, ^proverbs-23-17
 
-but only those who always fear the L ORD;
+but only those who always fear the LORD;
 
 18 For you will surely have a future, ^proverbs-23-18
 

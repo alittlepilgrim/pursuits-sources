@@ -1,27 +1,26 @@
 ---
-title: Amos, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 7
+title: Amos, Chapter 7
+url: https://bible.usccb.org/bible/amos/7
 aliases:
   - amos-07
   - Amos, Chapter 7
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/7
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 7
 ---
 
 # Amos, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-#### First Vision: the Locust Swarm
+### First Vision: the Locust Swarm
 
 1 This is what the Lord G OD showed me: He was forming a locust swarm when the late growth began to come up (the late growth after the king’s mowing). ^amos-07-1
 
@@ -33,9 +32,9 @@ Who will raise up Jacob?
 
 He is so small!
 
-3 The L ORD relented concerning this. “This shall not be,” said the Lord G OD. ^amos-07-3
+3 The LORD relented concerning this. “This shall not be,” said the Lord G OD. ^amos-07-3
 
-#### Second Vision: the Rain of Fire
+### Second Vision: the Rain of Fire
 
 4 This is what the Lord G OD showed me: He was summoning a rain of fire. It had devoured the great abyss and was consuming the fields. ^amos-07-4
 
@@ -47,13 +46,13 @@ Who will raise up Jacob?
 
 He is so small!
 
-6 The L ORD relented concerning this. “This also shall not be,” said the Lord G OD. ^amos-07-6
+6 The LORD relented concerning this. “This also shall not be,” said the Lord G OD. ^amos-07-6
 
-#### Third Vision: the Plummet
+### Third Vision: the Plummet
 
 7 This is what the Lord G OD showed me: He was standing, plummet in hand, by a wall built with a plummet. ^amos-07-7
 
-8 The Lord G OD asked me, “What do you see, Amos?” And I answered, “A plummet.” Then the L ORD said: ^amos-07-8
+8 The Lord G OD asked me, “What do you see, Amos?” And I answered, “A plummet.” Then the LORD said: ^amos-07-8
 
 See, I am laying the plummet
 
@@ -67,7 +66,7 @@ and the sanctuaries of Israel made desolate;
 
 and I will attack the house of Jeroboam with the sword.
 
-#### Biographical Interlude: Amos and Amaziah
+### Biographical Interlude: Amos and Amaziah
 
 10 Amaziah, the priest of Bethel, sent word to Jeroboam, king of Israel: “Amos has conspired against you within the house of Israel; the country cannot endure all his words. ^amos-07-10
 
@@ -83,15 +82,15 @@ and Israel shall surely be exiled from its land.’”
 
 14 Amos answered Amaziah, “I am not a prophet, nor do I belong to a company of prophets. I am a herdsman and a dresser of sycamores, ^amos-07-14
 
-15 but the L ORD took me from following the flock, and the L ORD said to me, ‘Go, prophesy to my people Israel.’ ^amos-07-15
+15 but the LORD took me from following the flock, and the LORD said to me, ‘Go, prophesy to my people Israel.’ ^amos-07-15
 
-16 Now hear the word of the L ORD: ^amos-07-16
+16 Now hear the word of the LORD: ^amos-07-16
 
 You say: ‘Do not prophesy against Israel,
 
 do not preach against the house of Isaac.’
 
-17 Therefore thus says the L ORD: ^amos-07-17
+17 Therefore thus says the LORD: ^amos-07-17
 
 Your wife shall become a prostitute in the city,
 

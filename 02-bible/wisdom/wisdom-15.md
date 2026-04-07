@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 15
+title: Wisdom, Chapter 15
+url: https://bible.usccb.org/bible/wisdom/15
 aliases:
   - wisdom-15
   - Wisdom, Chapter 15
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/15
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 15
 ---
 
 # Wisdom, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 1 But you, our God, are good and true, ^wisdom-15-1
 
@@ -47,7 +46,7 @@ till he longs for the inanimate form of a dead image.
 
 are they who make them and long for them and worship them.
 
-#### The Potter’s Clay Idols
+### The Potter’s Clay Idols
 
 7 For the potter, laboriously working the soft earth, ^wisdom-15-7
 
@@ -129,7 +128,7 @@ For he is better than the things he worships;
 
 he at least lives, but never his idols.
 
-#### Second Example Resumed
+### Second Example Resumed
 
 18 Besides, they worship the most loathsome beasts— ^wisdom-15-18
 

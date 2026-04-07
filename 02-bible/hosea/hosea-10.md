@@ -1,27 +1,26 @@
 ---
-title: Hosea, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 10
+title: Hosea, Chapter 10
+url: https://bible.usccb.org/bible/hosea/10
 aliases:
   - hosea-10
   - Hosea, Chapter 10
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 10
 ---
 
 # Hosea, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
-#### Destruction of Idolatrous Cultic Objects
+### Destruction of Idolatrous Cultic Objects
 
 1 Israel is a luxuriant vine ^hosea-10-1
 
@@ -47,7 +46,7 @@ and destroy their sacred pillars.
 
 “We have no king!
 
-Since we do not fear the L ORD,
+Since we do not fear the LORD,
 
 the king—what could he do for us?”
 
@@ -91,7 +90,7 @@ Then they will cry out to the mountains, “Cover us!”
 
 and to the hills, “Fall upon us!”
 
-#### War Because of Israel’s Wickedness
+### War Because of Israel’s Wickedness
 
 9 Since the days of Gibeah ^hosea-10-9
 
@@ -127,7 +126,7 @@ reap the reward of loyalty;
 
 Break up for yourselves a new field,
 
-for it is time to seek the L ORD,
+for it is time to seek the LORD,
 
 till he comes and rains justice upon you.”
 

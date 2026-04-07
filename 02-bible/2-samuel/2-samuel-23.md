@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 23
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 23
+title: 2 Samuel, Chapter 23
+url: https://bible.usccb.org/bible/2samuel/23
 aliases:
   - 2 Samuel, Chapter 23
   - 2-samuel-23
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/23
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 23
 ---
 
 # 2 Samuel, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 **The Last Words of David.**
 
@@ -33,7 +32,7 @@ Anointed of the God of Jacob,
 
 favorite of the Mighty One of Israel.
 
-2 The spirit of the L ORD spoke through me; ^2-samuel-23-2
+2 The spirit of the LORD spoke through me; ^2-samuel-23-2
 
 his word was on my tongue.
 
@@ -77,11 +76,11 @@ They must be utterly consumed by fire.
 
 9 Next to him was Eleazar, the son of Dodo the Ahohite, one of the Three warriors with David at Ephes-dammim, when they insulted the Philistines who had massed there for battle. The Israelites had retreated, ^2-samuel-23-9
 
-10 but he stood there and struck down the Philistines until his hand grew tired from clutching the sword. The L ORD brought about a great victory on that day; the army turned back to rejoin Eleazar, but only to strip the slain. ^2-samuel-23-10
+10 but he stood there and struck down the Philistines until his hand grew tired from clutching the sword. The LORD brought about a great victory on that day; the army turned back to rejoin Eleazar, but only to strip the slain. ^2-samuel-23-10
 
 11 Next to him was Shammah, son of Agee the Hararite. The Philistines had assembled at Lehi, where there was a plot of land full of lentils. The people were fleeing before the Philistines, ^2-samuel-23-11
 
-12 but he took his stand in the middle of the plot, kept it safe, and cut down the Philistines. Thus the L ORD brought about a great victory. Such deeds as these the Three warriors performed. ^2-samuel-23-12
+12 but he took his stand in the middle of the plot, kept it safe, and cut down the Philistines. Thus the LORD brought about a great victory. Such deeds as these the Three warriors performed. ^2-samuel-23-12
 
 13 Three of the Thirty chiefs went down to David in the cave of Adullam during the harvest, while a Philistine clan was encamped in the Valley of Rephaim. ^2-samuel-23-13
 
@@ -89,9 +88,9 @@ They must be utterly consumed by fire.
 
 15 Now David had a craving and said, “If only someone would give me a drink of water from the cistern by the gate of Bethlehem!” ^2-samuel-23-15
 
-16 Thereupon the three warriors broke through the encampment of the Philistines, drew water from the cistern by the gate of Bethlehem, and carried it back to David. But he refused to drink it, and instead poured it out to the L ORD, ^2-samuel-23-16
+16 Thereupon the three warriors broke through the encampment of the Philistines, drew water from the cistern by the gate of Bethlehem, and carried it back to David. But he refused to drink it, and instead poured it out to the LORD, ^2-samuel-23-16
 
-17 saying: “The L ORD forbid that I do such a thing! Could I drink the blood of these men who went at the risk of their lives?” So he refused to drink it. ^2-samuel-23-17
+17 saying: “The LORD forbid that I do such a thing! Could I drink the blood of these men who went at the risk of their lives?” So he refused to drink it. ^2-samuel-23-17
 
 18 Abishai, the brother of Joab, son of Zeruiah, was the chief of the Thirty; he brandished his spear over three hundred whom he had slain. He made a name among the Thirty, ^2-samuel-23-18
 

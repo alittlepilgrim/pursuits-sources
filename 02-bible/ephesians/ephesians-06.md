@@ -1,25 +1,24 @@
 ---
-title: Ephesians, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ephesians, Chapter 6
+title: Ephesians, Chapter 6
+url: https://bible.usccb.org/bible/ephesians/6
 aliases:
   - ephesians-06
   - Ephesians, Chapter 6
 tags:
+  - bible/chapter
   - bible/ephesians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/ephesians/6
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ephesians, Chapter 6
 ---
 
 # Ephesians, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Children and Parents.**
 
@@ -69,7 +68,7 @@ url: https://bible.usccb.org/bible/ephesians/6
 
 20 for which I am an ambassador in chains, so that I may have the courage to speak as I must. ^ephesians-06-20
 
-## V. Conclusion
+# V. Conclusion
 
 **A Final Message.**
 

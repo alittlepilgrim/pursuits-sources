@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 48
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 48
+title: Genesis, Chapter 48
+url: https://bible.usccb.org/bible/genesis/48
 aliases:
   - 20250508-020404
   - genesis-48
   - Genesis, Chapter 48
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 48
 bible_book: genesis
 bible_chapter: "48"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/48
 ---
 
 [[genesis-47|[← Previous Note]]] · [[genesis-49|[Next Note →]]]
@@ -109,6 +108,6 @@ e. (48:22) [Jos 17:14], [17] – [18]; [Jn 4:5]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-07|[← Previous Note]]] · [[genesis-09|[Next Note →]]]

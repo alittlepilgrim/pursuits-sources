@@ -1,27 +1,26 @@
 ---
-title: Wisdom, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 9
+title: Wisdom, Chapter 9
+url: https://bible.usccb.org/bible/wisdom/9
 aliases:
   - wisdom-09
   - Wisdom, Chapter 9
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/9
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 9
 ---
 
 # Wisdom, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
-#### Solomon’s Prayer
+### Solomon’s Prayer
 
 1 God of my ancestors, Lord of mercy, ^wisdom-09-1
 

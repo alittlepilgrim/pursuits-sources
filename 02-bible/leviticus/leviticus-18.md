@@ -1,39 +1,38 @@
 ---
-title: Leviticus, Chapter 18
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 18
+title: Leviticus, Chapter 18
+url: https://bible.usccb.org/bible/leviticus/18
 aliases:
   - leviticus-18
   - Leviticus, Chapter 18
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/18
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 18
 ---
 
 # Leviticus, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Laws Concerning Sexual Behavior.**
 
-1 The L ORD said to Moses: ^leviticus-18-1
+1 The LORD said to Moses: ^leviticus-18-1
 
-2 Speak to the Israelites and tell them: I, the L ORD, am your God. ^leviticus-18-2
+2 Speak to the Israelites and tell them: I, the LORD, am your God. ^leviticus-18-2
 
 3 You shall not do as they do in the land of Egypt, where you once lived, nor shall you do as they do in the land of Canaan, where I am bringing you; do not conform to their customs. ^leviticus-18-3
 
-4 My decrees you shall carry out, and my statutes you shall take care to follow. I, the L ORD, am your God. ^leviticus-18-4
+4 My decrees you shall carry out, and my statutes you shall take care to follow. I, the LORD, am your God. ^leviticus-18-4
 
-5 Keep, then, my statutes and decrees, for the person who carries them out will find life through them. I am the L ORD. ^leviticus-18-5
+5 Keep, then, my statutes and decrees, for the person who carries them out will find life through them. I am the LORD. ^leviticus-18-5
 
-6 None of you shall approach a close relative to have sexual intercourse. I am the L ORD. ^leviticus-18-6
+6 None of you shall approach a close relative to have sexual intercourse. I am the LORD. ^leviticus-18-6
 
 7 You shall not disgrace your father by having intercourse with your mother. She is your own mother; you shall not have intercourse with her. ^leviticus-18-7
 
@@ -61,7 +60,7 @@ url: https://bible.usccb.org/bible/leviticus/18
 
 20 You shall not have sexual relations with your neighbor’s wife, defiling yourself with her. ^leviticus-18-20
 
-21 You shall not offer any of your offspring for immolation to Molech, thus profaning the name of your God. I am the L ORD. ^leviticus-18-21
+21 You shall not offer any of your offspring for immolation to Molech, thus profaning the name of your God. I am the LORD. ^leviticus-18-21
 
 22 You shall not lie with a male as with a woman; such a thing is an abomination. ^leviticus-18-22
 
@@ -79,9 +78,9 @@ url: https://bible.usccb.org/bible/leviticus/18
 
 29 For whoever does any of these abominations shall be cut off from the people. ^leviticus-18-29
 
-30 Heed my charge, then, not to observe the abominable customs that have been observed before your time, and thus become impure by them. I, the L ORD, am your God. ^leviticus-18-30
+30 Heed my charge, then, not to observe the abominable customs that have been observed before your time, and thus become impure by them. I, the LORD, am your God. ^leviticus-18-30
 
-\* (18:2) I, the L ORD, am your God: this declaration appears frequently elsewhere throughout chaps. [17] – [26], sometimes with a statement of God’s holiness or his sanctifying activity. It emphasizes the importance of the laws and the relationship of the divine lawgiver to the people.
+\* (18:2) I, the LORD, am your God: this declaration appears frequently elsewhere throughout chaps. [17] – [26], sometimes with a statement of God’s holiness or his sanctifying activity. It emphasizes the importance of the laws and the relationship of the divine lawgiver to the people.
 
 \* (18:5) Find life: in [Dt 30:15] – [20] Moses sets before the people life and death. The alternatives are set out in detail in [Lv 26] and [Dt 28]. Cf. [[ezekiel-20|Ez 20]]:11, [13], [21].
 

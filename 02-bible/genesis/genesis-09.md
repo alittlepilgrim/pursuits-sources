@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 9
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 9
+title: Genesis, Chapter 9
+url: https://bible.usccb.org/bible/genesis/9
 aliases:
   - genesis-09
   - Genesis, Chapter 9
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 9
 bible_book: genesis
 bible_chapter: "09"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/9
 ---
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]
@@ -94,7 +93,7 @@ shall he be to his brothers.”
 
 26 He also said: ^genesis-09-26
 
-“Blessed be the L ORD, the God of Shem!
+“Blessed be the LORD, the God of Shem!
 
 Let Canaan be his slave.
 
@@ -150,6 +149,6 @@ m. (9:25) [Dt 27:16]; [Wis 12:11]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]

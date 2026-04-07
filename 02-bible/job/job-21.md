@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 21
+title: Job, Chapter 21
+url: https://bible.usccb.org/bible/job/21
 aliases:
   - job-21
   - Job, Chapter 21
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/21
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 21
 ---
 
 # Job, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **Job’s Sixth Reply.**
 

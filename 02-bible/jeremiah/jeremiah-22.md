@@ -1,37 +1,36 @@
 ---
-title: Jeremiah, Chapter 22
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 22
+title: Jeremiah, Chapter 22
+url: https://bible.usccb.org/bible/jeremiah/22
 aliases:
   - jeremiah-22
   - Jeremiah, Chapter 22
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/22
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 22
 ---
 
 # Jeremiah, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
-1 Thus says the L ORD: Go down to the palace of the king of Judah and there deliver this word: ^jeremiah-22-1
+1 Thus says the LORD: Go down to the palace of the king of Judah and there deliver this word: ^jeremiah-22-1
 
-2 You shall say: Listen to the word of the L ORD, king of Judah, who sit on the throne of David, you, your ministers, and your people who enter by these gates! ^jeremiah-22-2
+2 You shall say: Listen to the word of the LORD, king of Judah, who sit on the throne of David, you, your ministers, and your people who enter by these gates! ^jeremiah-22-2
 
-3 Thus says the L ORD: Do what is right and just. Rescue the victims from the hand of their oppressors. Do not wrong or oppress the resident alien, the orphan, or the widow, and do not shed innocent blood in this place. ^jeremiah-22-3
+3 Thus says the LORD: Do what is right and just. Rescue the victims from the hand of their oppressors. Do not wrong or oppress the resident alien, the orphan, or the widow, and do not shed innocent blood in this place. ^jeremiah-22-3
 
 4 If you carry out these commands, kings who succeed to the throne of David will continue to enter the gates of this house, riding in chariots or mounted on horses, with their ministers, and their people. ^jeremiah-22-4
 
-5 But if you do not obey these commands, I swear by myself—oracle of the L ORD: this house shall become rubble. ^jeremiah-22-5
+5 But if you do not obey these commands, I swear by myself—oracle of the LORD: this house shall become rubble. ^jeremiah-22-5
 
-6 For thus says the L ORD concerning the house of the king of Judah: ^jeremiah-22-6
+6 For thus says the LORD concerning the house of the king of Judah: ^jeremiah-22-6
 
 Though you be to me like Gilead,
 
@@ -49,11 +48,11 @@ They shall cut down your choice cedars,
 
 and cast them into the fire.
 
-8 Many nations will pass by this city and ask one another: “Why has the L ORD done this to so great a city?” ^jeremiah-22-8
+8 Many nations will pass by this city and ask one another: “Why has the LORD done this to so great a city?” ^jeremiah-22-8
 
-9 And they will be told: “Because they have deserted their covenant with the L ORD, their God, by worshiping and serving other gods.” ^jeremiah-22-9
+9 And they will be told: “Because they have deserted their covenant with the LORD, their God, by worshiping and serving other gods.” ^jeremiah-22-9
 
-#### Jehoahaz
+### Jehoahaz
 
 10 Do not weep for him who is dead, ^jeremiah-22-10
 
@@ -65,11 +64,11 @@ never again to see
 
 the land of his birth.
 
-11 Thus says the L ORD concerning Shallum, son of Josiah, king of Judah, his father’s successor, who left this place: He shall never return, ^jeremiah-22-11
+11 Thus says the LORD concerning Shallum, son of Josiah, king of Judah, his father’s successor, who left this place: He shall never return, ^jeremiah-22-11
 
 12 but in the place where they exiled him, there he shall die; he shall never see this land again. ^jeremiah-22-12
 
-#### Jehoiakim
+### Jehoiakim
 
 13 Woe to him who builds his house on wrongdoing, ^jeremiah-22-13
 
@@ -105,7 +104,7 @@ he prospered.
 
 Is this not to know me?—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 17 But your eyes and heart are set on nothing ^jeremiah-22-17
 
@@ -115,7 +114,7 @@ On shedding innocent blood
 
 and practicing oppression and extortion.
 
-18 Therefore, thus says the L ORD concerning Jehoiakim, son of Josiah, king of Judah: ^jeremiah-22-18
+18 Therefore, thus says the LORD concerning Jehoiakim, son of Josiah, king of Judah: ^jeremiah-22-18
 
 They shall not lament him,
 
@@ -131,7 +130,7 @@ dragged forth and cast out
 
 beyond the gates of Jerusalem.
 
-#### Jeconiah
+### Jeconiah
 
 20 Climb Lebanon and cry out, ^jeremiah-22-20
 
@@ -165,7 +164,7 @@ How you shall groan when pains come upon you,
 
 like the pangs of a woman in childbirth!
 
-24 As I live—oracle of the L ORD —even if you, Coniah, son of Jehoiakim, king of Judah, were a signet ring on my right hand, I would snatch you off. ^jeremiah-22-24
+24 As I live—oracle of the LORD —even if you, Coniah, son of Jehoiakim, king of Judah, were a signet ring on my right hand, I would snatch you off. ^jeremiah-22-24
 
 25 I will hand you over to those who seek your life, to those you dread: Nebuchadnezzar, king of Babylon, and the Chaldeans. ^jeremiah-22-25
 
@@ -183,9 +182,9 @@ why thrown into a land they do not know?
 
 29 O land, land, land, ^jeremiah-22-29
 
-hear the word of the L ORD —
+hear the word of the LORD —
 
-30 Thus says the L ORD: ^jeremiah-22-30
+30 Thus says the LORD: ^jeremiah-22-30
 
 Write this man down as childless,
 

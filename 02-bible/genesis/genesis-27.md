@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 27
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 27
+title: Genesis, Chapter 27
+url: https://bible.usccb.org/bible/genesis/27
 aliases:
   - 20250508-020306
   - genesis-27
   - Genesis, Chapter 27
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 27
 bible_book: genesis
 bible_chapter: "27"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/27
 ---
 
 [[genesis-26|[← Previous Note]]] · [[genesis-28|[Next Note →]]]
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/genesis/27
 
 6 Rebekah said to her son Jacob, “Listen! I heard your father tell your brother Esau, ^genesis-27-6
 
-7 ‘Bring me some game and prepare a dish for me to eat, that I may bless you with the L ORD’s approval before I die.’ ^genesis-27-7
+7 ‘Bring me some game and prepare a dish for me to eat, that I may bless you with the LORD’s approval before I die.’ ^genesis-27-7
 
 8 Now, my son, obey me in what I am about to order you. ^genesis-27-8
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/genesis/27
 
 19 Jacob answered his father: “I am Esau, your firstborn. I did as you told me. Please sit up and eat some of my game, so that you may bless me.” ^genesis-27-19
 
-20 But Isaac said to his son, “How did you get it so quickly, my son?” He answered, “The L ORD, your God, directed me.” ^genesis-27-20
+20 But Isaac said to his son, “How did you get it so quickly, my son?” He answered, “The LORD, your God, directed me.” ^genesis-27-20
 
 21 Isaac then said to Jacob, “Come closer, my son, that I may feel you, to learn whether you really are my son Esau or not.” ^genesis-27-21
 
@@ -87,7 +86,7 @@ url: https://bible.usccb.org/bible/genesis/27
 
 is like the fragrance of a field
 
-that the L ORD has blessed!
+that the LORD has blessed!
 
 28 May God give to you ^genesis-27-28
 
@@ -185,6 +184,6 @@ j. (27:46) [Gn 26:34] – [35]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]

@@ -1,29 +1,28 @@
 ---
-title: Jeremiah, Chapter 51
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 51
+title: Jeremiah, Chapter 51
+url: https://bible.usccb.org/bible/jeremiah/51
 aliases:
   - jeremiah-51
   - Jeremiah, Chapter 51
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/51
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 51
 ---
 
 # Jeremiah, Chapter 51
 
-### Chapter 51
+## Chapter 51
 
-#### The Second Oracle Against Babylon
+### The Second Oracle Against Babylon
 
-1 Thus says the L ORD: ^jeremiah-51-1
+1 Thus says the LORD: ^jeremiah-51-1
 
 See! I rouse against Babylon,
 
@@ -53,7 +52,7 @@ the wounded, in its streets;
 
 5 For Israel and Judah are not left widowed ^jeremiah-51-5
 
-by their God, the L ORD of hosts,
+by their God, the LORD of hosts,
 
 Even though the land is full of guilt
 
@@ -65,11 +64,11 @@ each of you save your own life,
 
 do not perish because of her guilt;
 
-This is a time of retribution from the L ORD,
+This is a time of retribution from the LORD,
 
 7 who pays out her due. ^jeremiah-51-7
 
-Babylon was a golden cup in the hand of the L ORD
+Babylon was a golden cup in the hand of the LORD
 
 making the whole earth drunk;
 
@@ -95,21 +94,21 @@ The judgment against her reaches the heavens,
 
 it touches the clouds.
 
-10 The L ORD has brought forth our vindication; ^jeremiah-51-10
+10 The LORD has brought forth our vindication; ^jeremiah-51-10
 
 come, let us tell in Zion
 
-what the L ORD, our God, has done.
+what the LORD, our God, has done.
 
 11 Sharpen the arrows, ^jeremiah-51-11
 
 fill the quivers;
 
-The L ORD has stirred up the spirit of the kings of the Medes,
+The LORD has stirred up the spirit of the kings of the Medes,
 
 for his resolve is Babylon’s destruction.
 
-Yes, it is retribution from the L ORD,
+Yes, it is retribution from the LORD,
 
 retribution for his temple.
 
@@ -121,7 +120,7 @@ Post sentries,
 
 arrange ambushes!
 
-For the L ORD has both planned and carried out
+For the LORD has both planned and carried out
 
 what he spoke against the inhabitants of Babylon.
 
@@ -133,7 +132,7 @@ Your end has come,
 
 the time at which you shall be cut off!
 
-14 The L ORD of hosts has sworn by himself: ^jeremiah-51-14
+14 The LORD of hosts has sworn by himself: ^jeremiah-51-14
 
 I will fill you with people as numerous as locusts,
 
@@ -171,7 +170,7 @@ he is the creator of all things.
 
 Israel is his very own tribe;
 
-L ORD of hosts is his name.
+LORD of hosts is his name.
 
 20 You are my hammer, ^jeremiah-51-20
 
@@ -203,11 +202,11 @@ all the inhabitants of Chaldea,
 
 For all the evil they committed against Zion,
 
-before your very eyes—oracle of the L ORD.
+before your very eyes—oracle of the LORD.
 
 25 Beware! I am against you, ^jeremiah-51-25
 
-destroying mountain—oracle of the L ORD —
+destroying mountain—oracle of the LORD —
 
 destroyer of the entire earth,
 
@@ -223,7 +222,7 @@ or a foundation stone;
 
 You shall remain ruins forever—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 27 Raise a signal in the land, ^jeremiah-51-27
 
@@ -249,7 +248,7 @@ every land in its domain.
 
 29 The earth quakes and writhes, ^jeremiah-51-29
 
-the L ORD’s plan against Babylon is carried out,
+the LORD’s plan against Babylon is carried out,
 
 Turning the land of Babylon
 
@@ -281,7 +280,7 @@ marshes set on fire,
 
 warriors panic.
 
-33 For thus says the L ORD of hosts, the God of Israel: ^jeremiah-51-33
+33 For thus says the LORD of hosts, the God of Israel: ^jeremiah-51-33
 
 Daughter Babylon is like a threshing floor
 
@@ -309,7 +308,7 @@ says enthroned Zion;
 
 says Jerusalem.
 
-36 But now, thus says the L ORD: ^jeremiah-51-36
+36 But now, thus says the LORD: ^jeremiah-51-36
 
 I will certainly defend your cause,
 
@@ -337,7 +336,7 @@ to make them drunk, that they may be overcome
 
 with everlasting sleep, never to awaken—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 40 I will bring them down like lambs to slaughter, ^jeremiah-51-40
 
@@ -371,13 +370,13 @@ Even the wall of Babylon falls!
 
 45 Leave her, my people; each of you save your own life ^jeremiah-51-45
 
-from the burning wrath of the L ORD.
+from the burning wrath of the LORD.
 
 46 Do not be discouraged when rumors spread through the land; this year one rumor comes, next year another: “Violence in the land!” or “Ruler against ruler!” ^jeremiah-51-46
 
 47 Realize that the days are coming when I will punish the idols of Babylon; the whole land shall be put to shame, all her slain shall fall in her midst. ^jeremiah-51-47
 
-48 Then heaven and earth and everything in them shall shout over Babylon with joy, when the destroyers come against her from the north—oracle of the L ORD. ^jeremiah-51-48
+48 Then heaven and earth and everything in them shall shout over Babylon with joy, when the destroyers come against her from the north—oracle of the LORD. ^jeremiah-51-48
 
 49 Babylon, too, must fall, you slain of Israel, because by the hand of Babylon the slain of all the earth have fallen. ^jeremiah-51-49
 
@@ -385,7 +384,7 @@ from the burning wrath of the L ORD.
 
 go, do not stand idle;
 
-Remember the L ORD from far away,
+Remember the LORD from far away,
 
 let Jerusalem come to mind.
 
@@ -393,9 +392,9 @@ let Jerusalem come to mind.
 
 disgrace covers our faces;
 
-strangers have entered sanctuaries in the L ORD’s house.
+strangers have entered sanctuaries in the LORD’s house.
 
-52 Therefore see, the days are coming—oracle of the L ORD — ^jeremiah-51-52
+52 Therefore see, the days are coming—oracle of the LORD — ^jeremiah-51-52
 
 when I will punish her idols,
 
@@ -405,13 +404,13 @@ and throughout the land the wounded will groan.
 
 and make her strong heights inaccessible,
 
-my destroyers shall reach her—oracle of the L ORD.
+my destroyers shall reach her—oracle of the LORD.
 
 54 A sound of crying from Babylon, ^jeremiah-51-54
 
 great destruction from the land of the Chaldeans;
 
-55 For the L ORD lays Babylon waste, ^jeremiah-51-55
+55 For the LORD lays Babylon waste, ^jeremiah-51-55
 
 silences her loud cry,
 
@@ -423,13 +422,13 @@ a clamor resounding.
 
 warriors are captured, their bows broken;
 
-The L ORD is a God of recompense,
+The LORD is a God of recompense,
 
 he will surely repay.
 
-57 I will make her princes and sages drunk, with her governors, officers, and warriors, so that they sleep an everlasting sleep, never to awaken—oracle of the King, whose name is L ORD of hosts. ^jeremiah-51-57
+57 I will make her princes and sages drunk, with her governors, officers, and warriors, so that they sleep an everlasting sleep, never to awaken—oracle of the King, whose name is LORD of hosts. ^jeremiah-51-57
 
-58 Thus says the L ORD of hosts: ^jeremiah-51-58
+58 Thus says the LORD of hosts: ^jeremiah-51-58
 
 The walls of spacious Babylon shall be leveled to the ground,
 
@@ -447,7 +446,7 @@ the nations weary themselves for what the flames consume.
 
 61 And Jeremiah said to Seraiah: “When you reach Babylon, see that you read all these words aloud, ^jeremiah-51-61
 
-62 and then say: L ORD, you yourself spoke against this place in order to cut it down so that nothing, human being or beast, could live in it, because it is to remain a wasteland forever. ^jeremiah-51-62
+62 and then say: LORD, you yourself spoke against this place in order to cut it down so that nothing, human being or beast, could live in it, because it is to remain a wasteland forever. ^jeremiah-51-62
 
 63 When you have finished reading this scroll, tie a stone to it and throw it into the Euphrates, ^jeremiah-51-63
 

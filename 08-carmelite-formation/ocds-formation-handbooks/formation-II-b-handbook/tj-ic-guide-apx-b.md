@@ -1,9 +1,8 @@
 ---
-title: "Interior Castle Handbook Appendix B: Session 9, St. Teresa of Avila"
-created: 2025-06-23
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: "Interior Castle Handbook Appendix B: Session 9, St. Teresa of Avila"
+author: Secular Order of Discalced Carmelites
+source: OCDS Formation Handbook II Year B
 aliases:
   - "Interior Castle Handbook Appendix B: Session 9, St. Teresa of Avila"
   - Interior Castle Handbook Appendix B: Session 9, St. Teresa of Avila
@@ -12,8 +11,10 @@ tags:
   - book/tj-interior-castle
   - carmel/formation
   - saint/teresa-of-avila
-author: Secular Order of Discalced Carmelites
-source: OCDS Formation Handbook II Year B
+  - type/study-guide
+created: 2025-06-23
+modified: 2026-04-06
+publish: false
 ---
 
 # Interior Castle Handbook Appendix B: Session 9, St. Teresa of Avila

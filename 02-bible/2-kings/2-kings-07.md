@@ -1,29 +1,28 @@
 ---
-title: 2 Kings, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 7
+title: 2 Kings, Chapter 7
+url: https://bible.usccb.org/bible/2kings/7
 aliases:
   - 2 Kings, Chapter 7
   - 2-kings-07
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/7
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 7
 ---
 
 # 2 Kings, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-1 Elisha replied: “Hear the word of the L ORD! Thus says the L ORD: At this time tomorrow a seah of fine flour will sell for a shekel, and two seahs of barley for a shekel, in the market of Samaria.” ^2-kings-07-1
+1 Elisha replied: “Hear the word of the LORD! Thus says the LORD: At this time tomorrow a seah of fine flour will sell for a shekel, and two seahs of barley for a shekel, in the market of Samaria.” ^2-kings-07-1
 
-2 But the adjutant, upon whose arm the king leaned, answered the man of God, “Even if the L ORD were to make windows in heaven, how could this happen?” Elisha said, “You shall see it with your own eyes, but you shall not eat of it.” ^2-kings-07-2
+2 But the adjutant, upon whose arm the king leaned, answered the man of God, “Even if the LORD were to make windows in heaven, how could this happen?” Elisha said, “You shall see it with your own eyes, but you shall not eat of it.” ^2-kings-07-2
 
 3 At the city gate four lepers were asking one another, “Why should we sit here until we die? ^2-kings-07-3
 
@@ -53,13 +52,13 @@ url: https://bible.usccb.org/bible/2kings/7
 
 16 The people went out and plundered the camp of the Arameans. ^2-kings-07-16
 
-Then a seah of fine flour sold for a shekel and two seahs of barley for a shekel, according to the word of the L ORD.
+Then a seah of fine flour sold for a shekel and two seahs of barley for a shekel, according to the word of the LORD.
 
 17 The king had put in charge of the gate the officer upon whose arm he leaned; but the people trampled him to death at the gate, just as the man of God had predicted when the messenger came down to him. ^2-kings-07-17
 
 18 This was in accordance with the word the man of God spoke to the king: “Two seahs of barley will sell for a shekel, and a seah of fine flour for a shekel at this time tomorrow in the market of Samaria.” ^2-kings-07-18
 
-19 The adjutant had answered the man of God, “Even if the L ORD were to make windows in heaven, how could this happen?” And Elisha had replied, “You shall see it with your own eyes, but you shall not eat of it.” ^2-kings-07-19
+19 The adjutant had answered the man of God, “Even if the LORD were to make windows in heaven, how could this happen?” And Elisha had replied, “You shall see it with your own eyes, but you shall not eat of it.” ^2-kings-07-19
 
 20 And that is what happened to him, for the people trampled him to death at the gate. ^2-kings-07-20
 

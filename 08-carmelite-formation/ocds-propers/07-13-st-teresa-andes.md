@@ -1,10 +1,7 @@
 ---
-title: July 13, Saint Teresa of Jesus of the Andes Fernandez Solar
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: July 13, Saint Teresa of Jesus of the Andes Fernandez Solar
+author: OCD General Curia
 aliases:
   - 07-13-st-teresa-andes
   - 20250731-121548
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-13
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # July 13, Saint Teresa of Jesus of the Andes Fernandez Solar

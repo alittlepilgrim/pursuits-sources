@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 43
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 43
+title: Sirach, Chapter 43
+url: https://bible.usccb.org/bible/sirach/43
 aliases:
   - sirach-43
   - Sirach, Chapter 43
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/43
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 43
 ---
 
 # Sirach, Chapter 43
 
-### Chapter 43
+## Chapter 43
 
 1 The beauty of the celestial height and the pure firmament, ^sirach-43-1
 
@@ -41,7 +40,7 @@ Its fiery tongue consumes the world;
 
 the eyes are burned by its fire.
 
-5 Great indeed is the L ORD who made it, ^sirach-43-5
+5 Great indeed is the LORD who made it, ^sirach-43-5
 
 at whose orders it urges on its steeds.
 
@@ -65,7 +64,7 @@ it paves the firmament with its brilliance,
 
 a shining ornament in the heights of God.
 
-10 By the L ORD’s command the moon keeps its appointed place, ^sirach-43-10
+10 By the LORD’s command the moon keeps its appointed place, ^sirach-43-10
 
 and does not fade as the stars keep watch.
 
@@ -149,11 +148,11 @@ let the last word be, he is the all!
 
 for greater is he than all his works;
 
-29 Awesome indeed is the L ORD, ^sirach-43-29
+29 Awesome indeed is the LORD, ^sirach-43-29
 
 and wonderful his power.
 
-30 Lift up your voices to glorify the L ORD ^sirach-43-30
+30 Lift up your voices to glorify the LORD ^sirach-43-30
 
 as much as you can, for there is still more.
 
@@ -169,7 +168,7 @@ Who can praise him as he is?
 
 only a few of his works have I seen.
 
-33 It is the L ORD who has made all things; ^sirach-43-33
+33 It is the LORD who has made all things; ^sirach-43-33
 
 to those who fear him he gives wisdom.
 

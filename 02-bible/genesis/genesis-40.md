@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 40
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 40
+title: Genesis, Chapter 40
+url: https://bible.usccb.org/bible/genesis/40
 aliases:
   - 20250508-020343
   - genesis-40
   - Genesis, Chapter 40
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 40
 bible_book: genesis
 bible_chapter: "40"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/40
 ---
 
 [[genesis-39|[← Previous Note]]] · [[genesis-41|[Next Note →]]]
@@ -85,6 +84,6 @@ a. (40:8) [Gn 41:16]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-01|[Next Note →]]]

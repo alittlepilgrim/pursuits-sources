@@ -1,18 +1,19 @@
 ---
-title: July 23, Blessed Virgin Mary Mother of Divine Grace
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: July 23, Blessed Virgin Mary Mother of Divine Grace
+author: OCD General Curia
 aliases:
   - 07-23-divine-grace
   - 20250731-121603
   - July 23, Blessed Virgin Mary Mother of Divine Grace
 tags:
   - carmel/propers
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-23
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # July 23, Blessed Virgin Mary Mother of Divine Grace

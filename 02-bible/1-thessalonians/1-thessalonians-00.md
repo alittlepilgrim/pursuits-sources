@@ -1,20 +1,20 @@
 ---
-title: 1 Thessalonians, The First Letter To The Thessalonians
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Thessalonians, the First Letter to the Thessalonians
+title: 1 Thessalonians, The First Letter To The Thessalonians
+url: https://bible.usccb.org/bible/1thessalonians/0
 aliases:
   - 1 Thessalonians, the First Letter to the Thessalonians
   - 1 Thessalonians, The First Letter To The Thessalonians
   - 1-thessalonians-00
 tags:
   - bible/1-thessalonians
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/1thessalonians/0
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Thessalonians, the First Letter to the Thessalonians
 ---
 
 # 1 Thessalonians, the First Letter to the Thessalonians

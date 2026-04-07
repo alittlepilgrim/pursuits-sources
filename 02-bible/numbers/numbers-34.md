@@ -1,29 +1,28 @@
 ---
-title: Numbers, Chapter 34
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 34
+title: Numbers, Chapter 34
+url: https://bible.usccb.org/bible/numbers/34
 aliases:
   - numbers-34
   - Numbers, Chapter 34
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/34
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 34
 ---
 
 # Numbers, Chapter 34
 
-### Chapter 34
+## Chapter 34
 
 **The Boundaries.**
 
-1 The L ORD spoke to Moses: ^numbers-34-1
+1 The LORD spoke to Moses: ^numbers-34-1
 
 2 Give the Israelites this order: When you enter the land of Canaan, this is the territory that shall fall to you as your heritage—the land of Canaan with its boundaries: ^numbers-34-2
 
@@ -49,7 +48,7 @@ url: https://bible.usccb.org/bible/numbers/34
 
 This will be your land, with the boundaries that surround it.
 
-13 Moses also gave this order to the Israelites: “This is the land, to be apportioned among you by lot, which the L ORD has commanded to be given to the nine and a half tribes. ^numbers-34-13
+13 Moses also gave this order to the Israelites: “This is the land, to be apportioned among you by lot, which the LORD has commanded to be given to the nine and a half tribes. ^numbers-34-13
 
 14 For the tribe of the Reubenites according to their ancestral houses, and the tribe of the Gadites according to their ancestral houses, as well as half of the tribe of Manasseh, have already received their heritage; ^numbers-34-14
 
@@ -57,7 +56,7 @@ This will be your land, with the boundaries that surround it.
 
 **Supervisors of the Allotment.**
 
-16 The L ORD spoke to Moses: ^numbers-34-16
+16 The LORD spoke to Moses: ^numbers-34-16
 
 17 These are the names of the men who shall apportion the land among you: Eleazar the priest, and Joshua, son of Nun; ^numbers-34-17
 
@@ -85,7 +84,7 @@ This will be your land, with the boundaries that surround it.
 
 > 28 from the tribe of the Naphtalites: a leader, Pedahel, son of Ammihud.
 
-> 29 These are the ones whom the L ORD commanded to apportion to the Israelites their heritage in the land of Canaan.
+> 29 These are the ones whom the LORD commanded to apportion to the Israelites their heritage in the land of Canaan.
 
 \* (34:6) The Great Sea: the Mediterranean.
 

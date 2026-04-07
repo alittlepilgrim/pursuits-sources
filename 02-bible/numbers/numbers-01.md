@@ -1,29 +1,28 @@
 ---
-title: Numbers, Chapter 1
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 1
+title: Numbers, Chapter 1
+url: https://bible.usccb.org/bible/numbers/1
 aliases:
   - numbers-01
   - Numbers, Chapter 1
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 1
 ---
 
 # Numbers, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **The Census.**
 
-1 In the second year after the Israelites’ departure from the land of Egypt, on the first day of the second month, the L ORD said to Moses at the tent of meeting in the wilderness of Sinai: ^numbers-01-1
+1 In the second year after the Israelites’ departure from the land of Egypt, on the first day of the second month, the LORD said to Moses at the tent of meeting in the wilderness of Sinai: ^numbers-01-1
 
 3 You and Aaron shall enroll in companies all the men in Israel of twenty years or more who are fit for military service. ^numbers-01-3
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/numbers/1
 
 17 So Moses and Aaron took these men who had been designated by name, ^numbers-01-17
 
-19 as the L ORD had commanded Moses. So he enrolled them in the wilderness of Sinai. ^numbers-01-19
+19 as the LORD had commanded Moses. So he enrolled them in the wilderness of Sinai. ^numbers-01-19
 
 **Count of the Twelve Tribes.**
 
@@ -101,7 +100,7 @@ Of the descendants of Ephraim, registered by name and lineage according to their
 
 47 Now the Levites were not enrolled by their ancestral tribe with the others. ^numbers-01-47
 
-48 For the L ORD had told Moses, ^numbers-01-48
+48 For the LORD had told Moses, ^numbers-01-48
 
 49 The tribe of Levi alone you shall not enroll nor include in the census along with the other Israelites. ^numbers-01-49
 
@@ -113,7 +112,7 @@ Of the descendants of Ephraim, registered by name and lineage according to their
 
 53 but the Levites shall camp around the tabernacle of the covenant to ensure that God’s wrath will not fall upon the Israelite community. The Levites shall keep guard over the tabernacle of the covenant. ^numbers-01-53
 
-54 The Israelites complied; they did just as the L ORD had commanded Moses. ^numbers-01-54
+54 The Israelites complied; they did just as the LORD had commanded Moses. ^numbers-01-54
 
 \* (1:2) All Israel was divided into tribes, each tribe into clans, and each clan into ancestral houses.
 

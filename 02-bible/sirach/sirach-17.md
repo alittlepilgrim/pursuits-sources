@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 17
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 17
+title: Sirach, Chapter 17
+url: https://bible.usccb.org/bible/sirach/17
 aliases:
   - sirach-17
   - Sirach, Chapter 17
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/17
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 17
 ---
 
 # Sirach, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
-#### Creation of Human Beings
+### Creation of Human Beings
 
 1 The Lord created human beings from the earth, ^sirach-17-1
 
@@ -95,7 +94,7 @@ and virtue he keeps like the apple of his eye.
 
 requiting each one as they deserve.
 
-#### Appeal for a Return to God
+### Appeal for a Return to God
 
 24 But to the penitent he provides a way back ^sirach-17-24
 

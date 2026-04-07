@@ -1,45 +1,44 @@
 ---
-title: 2 Samuel, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 21
+title: 2 Samuel, Chapter 21
+url: https://bible.usccb.org/bible/2samuel/21
 aliases:
   - 2 Samuel, Chapter 21
   - 2-samuel-21
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/21
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 21
 ---
 
 # 2 Samuel, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **Gibeonite Vengeance.**
 
-1 In David’s time there was a famine for three years, year after year. David sought the presence of the L ORD, who said: There is bloodguilt on Saul and his family because he put the Gibeonites to death. ^2-samuel-21-1
+1 In David’s time there was a famine for three years, year after year. David sought the presence of the LORD, who said: There is bloodguilt on Saul and his family because he put the Gibeonites to death. ^2-samuel-21-1
 
 2 So the king called the Gibeonites and spoke to them. (Now the Gibeonites were not Israelites, but survivors of the Amorites; and although the Israelites had given them their oath, Saul had sought to kill them off in his zeal for the Israelites and for Judah.) ^2-samuel-21-2
 
-3 David said to the Gibeonites, “What must I do for you and how must I make atonement, that you may bless the heritage of the L ORD?” ^2-samuel-21-3
+3 David said to the Gibeonites, “What must I do for you and how must I make atonement, that you may bless the heritage of the LORD?” ^2-samuel-21-3
 
 4 The Gibeonites answered him, “We have no claim against Saul and his house for silver or gold, nor is it our place to put anyone to death in Israel.” Then he said, “I will do for you whatever you propose.” ^2-samuel-21-4
 
 5 They said to the king, “As for the man who was exterminating us and who intended to destroy us that we might have no place in all the territory of Israel, ^2-samuel-21-5
 
-6 let seven men from among his descendants be given to us, that we may execute them before the L ORD in Gibeon, on the L ORD’s mountain.” The king replied, “I will give them up.” ^2-samuel-21-6
+6 let seven men from among his descendants be given to us, that we may execute them before the LORD in Gibeon, on the LORD’s mountain.” The king replied, “I will give them up.” ^2-samuel-21-6
 
-7 The king, however, spared Meribbaal, son of Jonathan, son of Saul, because of the L ORD’s oath that formed a bond between David and Saul’s son Jonathan. ^2-samuel-21-7
+7 The king, however, spared Meribbaal, son of Jonathan, son of Saul, because of the LORD’s oath that formed a bond between David and Saul’s son Jonathan. ^2-samuel-21-7
 
 8 But the king took Armoni and Meribbaal, the two sons that Aiah’s daughter Rizpah had borne to Saul, and the five sons of Saul’s daughter Merob that she had borne to Adriel, son of Barzillai the Meholathite, ^2-samuel-21-8
 
-9 and delivered them into the power of the Gibeonites, who then executed them on the mountain before the L ORD. The seven fell at the one time; they were put to death during the first days of the harvest—that is, at the beginning of the barley harvest. ^2-samuel-21-9
+9 and delivered them into the power of the Gibeonites, who then executed them on the mountain before the LORD. The seven fell at the one time; they were put to death during the first days of the harvest—that is, at the beginning of the barley harvest. ^2-samuel-21-9
 
 10 Then Rizpah, Aiah’s daughter, took sackcloth and spread it out for herself on the rock from the beginning of the harvest until rain came down on them from the heavens, fending off the birds of the heavens from settling on them by day, and the wild animals by night. ^2-samuel-21-10
 

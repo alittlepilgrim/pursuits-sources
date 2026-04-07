@@ -1,25 +1,24 @@
 ---
-title: Jeremiah, Chapter 41
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 41
+title: Jeremiah, Chapter 41
+url: https://bible.usccb.org/bible/jeremiah/41
 aliases:
   - jeremiah-41
   - Jeremiah, Chapter 41
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/41
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 41
 ---
 
 # Jeremiah, Chapter 41
 
-### Chapter 41
+## Chapter 41
 
 1 In the seventh month, Ishmael, son of Nethaniah, son of Elishama, of royal descent, one of the king’s nobles, came with ten men to Gedaliah, son of Ahikam, at Mizpah. While they were together at table in Mizpah, ^jeremiah-41-1
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/jeremiah/41
 
 4 The day after the murder of Gedaliah, before anyone learned about it, ^jeremiah-41-4
 
-5 eighty men, in ragged clothes, with beards shaved off and gashes on their bodies, came from Shechem, Shiloh, and Samaria, bringing grain offerings and incense for the house of the L ORD. ^jeremiah-41-5
+5 eighty men, in ragged clothes, with beards shaved off and gashes on their bodies, came from Shechem, Shiloh, and Samaria, bringing grain offerings and incense for the house of the LORD. ^jeremiah-41-5
 
 6 Weeping as he went, Ishmael son of Nethaniah, set out from Mizpah to meet them. “Come to Gedaliah, son of Ahikam,” he said as he met them. ^jeremiah-41-6
 

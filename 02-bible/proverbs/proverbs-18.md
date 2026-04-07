@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 18
+title: Proverbs, Chapter 18
+url: https://bible.usccb.org/bible/proverbs/18
 aliases:
   - proverbs-18
   - Proverbs, Chapter 18
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/18
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 18
 ---
 
 # Proverbs, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 1 One who is alienated seeks a pretext, ^proverbs-18-1
 
@@ -57,7 +56,7 @@ they sink into one’s inmost being.
 
 are kin to the destroyer.
 
-10 The name of the L ORD is a strong tower; ^proverbs-18-10
+10 The name of the LORD is a strong tower; ^proverbs-18-10
 
 the just run to it and are safe.
 
@@ -107,7 +106,7 @@ those who choose one shall eat its fruit.
 
 22 To find a wife is to find happiness, ^proverbs-18-22
 
-a favor granted by the L ORD.
+a favor granted by the LORD.
 
 23 The poor implore, ^proverbs-18-23
 

@@ -1,31 +1,30 @@
 ---
-title: Philippians, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Philippians, Chapter 3
+title: Philippians, Chapter 3
+url: https://bible.usccb.org/bible/philippians/3
 aliases:
   - philippians-03
   - Philippians, Chapter 3
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/philippians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/philippians/3
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Philippians, Chapter 3
 ---
 
 # Philippians, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Concluding Admonitions.**
 
 1 Finally, my brothers, rejoice in the Lord. Writing the same things to you is no burden for me but is a safeguard for you. ^philippians-03-1
 
-## V. Polemic: Righteousness and the Goal in Christ
+# V. Polemic: Righteousness and the Goal in Christ
 
 **Against Legalistic Teachers.**
 

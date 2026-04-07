@@ -1,45 +1,44 @@
 ---
-title: Judges, Chapter 4
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 4
+title: Judges, Chapter 4
+url: https://bible.usccb.org/bible/judges/4
 aliases:
   - judges-04
   - Judges, Chapter 4
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 4
 ---
 
 # Judges, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Deborah and Barak.**
 
-1 The Israelites again did what was evil in the sight of the L ORD; Ehud was dead. ^judges-04-1
+1 The Israelites again did what was evil in the sight of the LORD; Ehud was dead. ^judges-04-1
 
-2 So the L ORD sold them into the power of the Canaanite king, Jabin, who reigned in Hazor. The general of his army was Sisera, who lived in Harosheth-ha-goiim. ^judges-04-2
+2 So the LORD sold them into the power of the Canaanite king, Jabin, who reigned in Hazor. The general of his army was Sisera, who lived in Harosheth-ha-goiim. ^judges-04-2
 
-3 But the Israelites cried out to the L ORD; for with his nine hundred iron chariots Jabin harshly oppressed the Israelites for twenty years. ^judges-04-3
+3 But the Israelites cried out to the LORD; for with his nine hundred iron chariots Jabin harshly oppressed the Israelites for twenty years. ^judges-04-3
 
 4 At that time the prophet Deborah, wife of Lappidoth, was judging Israel. ^judges-04-4
 
 5 She used to sit under Deborah’s palm tree, between Ramah and Bethel in the mountain region of Ephraim, where the Israelites came up to her for judgment. ^judges-04-5
 
-6 She had Barak, son of Abinoam, summoned from Kedesh of Naphtali. She said to him, “This is what the L ORD, the God of Israel, commands: Go, march against Mount Tabor, and take with you ten thousand men from Naphtali and Zebulun. ^judges-04-6
+6 She had Barak, son of Abinoam, summoned from Kedesh of Naphtali. She said to him, “This is what the LORD, the God of Israel, commands: Go, march against Mount Tabor, and take with you ten thousand men from Naphtali and Zebulun. ^judges-04-6
 
 7 I will draw Sisera, the general of Jabin’s army, out to you at the Wadi Kishon, together with his chariots and troops, and I will deliver them into your power.” ^judges-04-7
 
 8 But Barak answered her, “If you come with me, I will go; if you do not come with me, I will not go.” ^judges-04-8
 
-9 “I will certainly go with you,” she replied, “but you will not gain glory for the expedition on which you are setting out, for it is into a woman’s power that the L ORD is going to sell Sisera.” So Deborah arose and went with Barak and journeyed with him to Kedesh. ^judges-04-9
+9 “I will certainly go with you,” she replied, “but you will not gain glory for the expedition on which you are setting out, for it is into a woman’s power that the LORD is going to sell Sisera.” So Deborah arose and went with Barak and journeyed with him to Kedesh. ^judges-04-9
 
 10 Barak summoned Zebulun and Naphtali to Kedesh, and ten thousand men followed him. Deborah also went up with him. ^judges-04-10
 
@@ -49,9 +48,9 @@ url: https://bible.usccb.org/bible/judges/4
 
 13 So Sisera called out all nine hundred of his iron chariots and all his forces from Harosheth-ha-goiim to the Wadi Kishon. ^judges-04-13
 
-14 Deborah then said to Barak, “Up! This is the day on which the L ORD has delivered Sisera into your power. The L ORD marches before you.” So Barak went down Mount Tabor, followed by his ten thousand men. ^judges-04-14
+14 Deborah then said to Barak, “Up! This is the day on which the LORD has delivered Sisera into your power. The LORD marches before you.” So Barak went down Mount Tabor, followed by his ten thousand men. ^judges-04-14
 
-15 And the L ORD threw Sisera and all his chariots and forces into a panic before Barak. Sisera himself dismounted from his chariot and fled on foot, ^judges-04-15
+15 And the LORD threw Sisera and all his chariots and forces into a panic before Barak. Sisera himself dismounted from his chariot and fled on foot, ^judges-04-15
 
 16 but Barak pursued the chariots and the army as far as Harosheth-ha-goiim. The entire army of Sisera fell beneath the sword, not even one man surviving. ^judges-04-16
 

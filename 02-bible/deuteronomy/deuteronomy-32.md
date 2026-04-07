@@ -1,25 +1,24 @@
 ---
-title: Deuteronomy, Chapter 32
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 32
+title: Deuteronomy, Chapter 32
+url: https://bible.usccb.org/bible/deuteronomy/32
 aliases:
   - deuteronomy-32
   - Deuteronomy, Chapter 32
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/32
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 32
 ---
 
 # Deuteronomy, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
 1 Give ear, O heavens, and let me speak; ^deuteronomy-32-1
 
@@ -33,7 +32,7 @@ Like a downpour upon the grass,
 
 like a shower upon the crops.
 
-3 For I will proclaim the name of the L ORD, ^deuteronomy-32-3
+3 For I will proclaim the name of the LORD, ^deuteronomy-32-3
 
 praise the greatness of our God!
 
@@ -49,7 +48,7 @@ just and upright is he!
 
 a twisted and crooked generation!
 
-6 Is this how you repay the L ORD, ^deuteronomy-32-6
+6 Is this how you repay the LORD, ^deuteronomy-32-6
 
 so foolish and unwise a people?
 
@@ -73,7 +72,7 @@ He set up the boundaries of the peoples
 
 after the number of the divine beings;
 
-9 But the L ORD’s portion was his people; ^deuteronomy-32-9
+9 But the LORD’s portion was his people; ^deuteronomy-32-9
 
 his allotted share was Jacob.
 
@@ -93,7 +92,7 @@ So he spread his wings, took them,
 
 bore them upon his pinions.
 
-12 The L ORD alone guided them, ^deuteronomy-32-12
+12 The LORD alone guided them, ^deuteronomy-32-12
 
 no foreign god was with them.
 
@@ -141,7 +140,7 @@ before whom your ancestors had never trembled.
 
 you forgot the God who gave you birth.
 
-19 The L ORD saw and was filled with loathing, ^deuteronomy-32-19
+19 The LORD saw and was filled with loathing, ^deuteronomy-32-19
 
 provoked by his sons and daughters.
 
@@ -199,7 +198,7 @@ that their foes might misunderstand,
 
 And say, “Our own hand won the victory;
 
-the L ORD had nothing to do with any of it.”
+the LORD had nothing to do with any of it.”
 
 28 For they are a nation devoid of reason, ^deuteronomy-32-28
 
@@ -215,7 +214,7 @@ or two put ten thousand to flight,
 
 Unless it was because their Rock sold them,
 
-the L ORD delivered them up?”
+the LORD delivered them up?”
 
 31 Indeed, their “rock” is not like our Rock; ^deuteronomy-32-31
 
@@ -245,7 +244,7 @@ Because the day of their disaster is at hand
 
 and their doom is rushing upon them!
 
-36 Surely, the L ORD will do justice for his people; ^deuteronomy-32-36
+36 Surely, the LORD will do justice for his people; ^deuteronomy-32-36
 
 on his servants he will have pity.
 
@@ -319,7 +318,7 @@ and purge his people’s land.
 
 **Moses Looks upon Canaan.**
 
-48 On that very day the L ORD said to Moses, ^deuteronomy-32-48
+48 On that very day the LORD said to Moses, ^deuteronomy-32-48
 
 49 Ascend this mountain of the Abarim, Mount Nebo in the land of Moab facing Jericho, and view the land of Canaan, which I am giving to the Israelites as a possession. ^deuteronomy-32-49
 

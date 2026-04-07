@@ -1,25 +1,24 @@
 ---
-title: Nahum, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nahum, Chapter 3
+title: Nahum, Chapter 3
+url: https://bible.usccb.org/bible/nahum/3
 aliases:
   - nahum-03
   - Nahum, Chapter 3
 tags:
+  - bible/chapter
   - bible/nahum
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nahum/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nahum, Chapter 3
 ---
 
 # Nahum, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 Ah! The bloody city, ^nahum-03-1
 
@@ -61,7 +60,7 @@ and peoples by her witchcraft:
 
 5 I now come against you— ^nahum-03-5
 
-oracle of the L ORD of hosts—
+oracle of the LORD of hosts—
 
 and I will lift your skirt above your face;
 
@@ -85,7 +84,7 @@ Where can I find
 
 any to console you?”
 
-#### Nineveh’s Inescapable Fate
+### Nineveh’s Inescapable Fate
 
 8 Are you better than No-amon ^nahum-03-8
 

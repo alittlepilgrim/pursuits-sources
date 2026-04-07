@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 28
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 28
+title: Exodus, Chapter 28
+url: https://bible.usccb.org/bible/exodus/28
 aliases:
   - 20250731-090002
   - exodus-28
   - Exodus, Chapter 28
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/28
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 28
 ---
 
 # Exodus, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 **The Priestly Vestments.**
 
@@ -48,7 +47,7 @@ url: https://bible.usccb.org/bible/exodus/28
 
 11 As a gem-cutter engraves a seal, so shall you have the two stones engraved with the names of the sons of Israel and then mounted in gold filigree work. ^exodus-28-11
 
-12 Set these two stones on the shoulder straps of the ephod as memorial stones of the sons of Israel. Thus Aaron shall bear their names on his shoulders as a reminder before the L ORD. ^exodus-28-12
+12 Set these two stones on the shoulder straps of the ephod as memorial stones of the sons of Israel. Thus Aaron shall bear their names on his shoulders as a reminder before the LORD. ^exodus-28-12
 
 13 Make filigree rosettes of gold, ^exodus-28-13
 
@@ -82,9 +81,9 @@ url: https://bible.usccb.org/bible/exodus/28
 
 28 Violet ribbons shall bind the rings of the breastpiece to the rings of the ephod, so that the breastpiece will stay right above the embroidered belt of the ephod and not swing loose from it. ^exodus-28-28
 
-29 Whenever Aaron enters the sanctuary, he will thus bear the names of the sons of Israel on the breastpiece of decision over his heart as a constant reminder before the L ORD. ^exodus-28-29
+29 Whenever Aaron enters the sanctuary, he will thus bear the names of the sons of Israel on the breastpiece of decision over his heart as a constant reminder before the LORD. ^exodus-28-29
 
-30 In this breastpiece of decision you shall put the Urim and Thummim, that they may be over Aaron’s heart whenever he enters the presence of the L ORD. Thus he shall always bear the decisions for the Israelites over his heart in the presence of the L ORD. ^exodus-28-30
+30 In this breastpiece of decision you shall put the Urim and Thummim, that they may be over Aaron’s heart whenever he enters the presence of the LORD. Thus he shall always bear the decisions for the Israelites over his heart in the presence of the LORD. ^exodus-28-30
 
 **Other Vestments.**
 
@@ -96,13 +95,13 @@ url: https://bible.usccb.org/bible/exodus/28
 
 34 a gold bell, a pomegranate, a gold bell, a pomegranate, all around the hem of the robe. ^exodus-28-34
 
-35 Aaron shall wear it when ministering, that its sound may be heard as he enters and leaves the L ORD’s presence in the sanctuary; else he will die. ^exodus-28-35
+35 Aaron shall wear it when ministering, that its sound may be heard as he enters and leaves the LORD’s presence in the sanctuary; else he will die. ^exodus-28-35
 
-36 You shall also make a plate of pure gold and engrave on it, as on a seal engraving, “Sacred to the L ORD.” ^exodus-28-36
+36 You shall also make a plate of pure gold and engrave on it, as on a seal engraving, “Sacred to the LORD.” ^exodus-28-36
 
 37 This plate is to be tied over the turban with a violet ribbon in such a way that it rests on the front of the turban, ^exodus-28-37
 
-38 over Aaron’s forehead. Since Aaron bears whatever guilt the Israelites may incur in consecrating any of their sacred gifts, this plate must always be over his forehead, so that they may find favor with the L ORD. ^exodus-28-38
+38 over Aaron’s forehead. Since Aaron bears whatever guilt the Israelites may incur in consecrating any of their sacred gifts, this plate must always be over his forehead, so that they may find favor with the LORD. ^exodus-28-38
 
 39 The tunic of fine linen shall be brocaded. The turban shall be made of fine linen. The sash shall be of variegated work. ^exodus-28-39
 
@@ -112,7 +111,7 @@ url: https://bible.usccb.org/bible/exodus/28
 
 42 You must also make linen pants for them, to cover their naked flesh from their loins to their thighs. ^exodus-28-42
 
-43 Aaron and his sons shall wear them whenever they go into the tent of meeting or approach the altar to minister in the sanctuary, lest they incur guilt and die. This shall be a perpetual ordinance for him and for his descendants. ^exodus-28-43
+43 Aaron and his sons shall wear them whenever they go into the tent of meeting or approach the altar to minister in the sanctuary, lest they incur guilt and die. This shall be a perpetuaLORDinance for him and for his descendants. ^exodus-28-43
 
 \* (28:3) Artisans…endowed with skill: lit., “wise of heart,” and “filled with a spirit of wisdom.” In Hebrew wisdom includes practical skills. Cf. [35:35]; [36:1] – [2].
 

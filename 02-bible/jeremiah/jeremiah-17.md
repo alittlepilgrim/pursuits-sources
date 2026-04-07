@@ -1,27 +1,26 @@
 ---
-title: Jeremiah, Chapter 17
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 17
+title: Jeremiah, Chapter 17
+url: https://bible.usccb.org/bible/jeremiah/17
 aliases:
   - jeremiah-17
   - Jeremiah, Chapter 17
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 17
 ---
 
 # Jeremiah, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
-#### The sin of Judah and Its Punishment
+### The sin of Judah and Its Punishment
 
 1 The sin of Judah is written ^jeremiah-17-1
 
@@ -57,15 +56,15 @@ For a fire has broken out from my anger,
 
 burning forever.
 
-#### True Wisdom
+### True Wisdom
 
-5 Thus says the L ORD: ^jeremiah-17-5
+5 Thus says the LORD: ^jeremiah-17-5
 
 Cursed is the man who trusts in human beings,
 
 who makes flesh his strength,
 
-whose heart turns away from the L ORD.
+whose heart turns away from the LORD.
 
 6 He is like a barren bush in the wasteland ^jeremiah-17-6
 
@@ -75,9 +74,9 @@ But stands in lava beds in the wilderness,
 
 a land, salty and uninhabited.
 
-7 Blessed are those who trust in the L ORD; ^jeremiah-17-7
+7 Blessed are those who trust in the LORD; ^jeremiah-17-7
 
-the L ORD will be their trust.
+the LORD will be their trust.
 
 8 They are like a tree planted beside the waters ^jeremiah-17-8
 
@@ -95,7 +94,7 @@ but still produces fruit.
 
 beyond remedy; who can understand it?
 
-10 I, the L ORD, explore the mind ^jeremiah-17-10
+10 I, the LORD, explore the mind ^jeremiah-17-10
 
 and test the heart,
 
@@ -111,23 +110,23 @@ In midlife it will desert them;
 
 in the end they are only fools.
 
-#### The Source of Life
+### The Source of Life
 
 12 A throne of glory, exalted from the beginning, ^jeremiah-17-12
 
 such is our holy place.
 
-13 O Hope of Israel, L ORD! ^jeremiah-17-13
+13 O Hope of Israel, LORD! ^jeremiah-17-13
 
 all who forsake you shall be put to shame;
 
 The rebels shall be enrolled in the netherworld;
 
-they have forsaken the L ORD, source of living waters.
+they have forsaken the LORD, source of living waters.
 
-#### Prayer for Vengeance
+### Prayer for Vengeance
 
-14 Heal me, L ORD, that I may be healed; ^jeremiah-17-14
+14 Heal me, LORD, that I may be healed; ^jeremiah-17-14
 
 save me, that I may be saved,
 
@@ -135,7 +134,7 @@ for you are my praise.
 
 15 See how they say to me, ^jeremiah-17-15
 
-“Where is the word of the L ORD?
+“Where is the word of the LORD?
 
 Let it come to pass!”
 
@@ -161,21 +160,21 @@ crush them with double destruction.
 
 **Observance of the Sabbath.**
 
-19 Thus said the L ORD to me: Go, stand at the Gate of Benjamin, where the kings of Judah enter and leave, and at the other gates of Jerusalem. ^jeremiah-17-19
+19 Thus said the LORD to me: Go, stand at the Gate of Benjamin, where the kings of Judah enter and leave, and at the other gates of Jerusalem. ^jeremiah-17-19
 
-20 There say to them: Hear the word of the L ORD, you kings of Judah, and all Judah, and all you inhabitants of Jerusalem who enter these gates! ^jeremiah-17-20
+20 There say to them: Hear the word of the LORD, you kings of Judah, and all Judah, and all you inhabitants of Jerusalem who enter these gates! ^jeremiah-17-20
 
-21 Thus says the L ORD: As you love your lives, take care not to carry burdens on the sabbath, to bring them in through the gates of Jerusalem. ^jeremiah-17-21
+21 Thus says the LORD: As you love your lives, take care not to carry burdens on the sabbath, to bring them in through the gates of Jerusalem. ^jeremiah-17-21
 
 22 Bring no burden from your homes on the sabbath. Do no work whatever, but keep holy the sabbath day, as I commanded your ancestors, ^jeremiah-17-22
 
 23 though they did not listen or give ear, but stiffened their necks so they could not hear or take correction. ^jeremiah-17-23
 
-24 If you truly obey me—oracle of the L ORD —and carry no burden through the gates of this city on the sabbath, keeping the sabbath day holy and abstaining from all work on it, ^jeremiah-17-24
+24 If you truly obey me—oracle of the LORD —and carry no burden through the gates of this city on the sabbath, keeping the sabbath day holy and abstaining from all work on it, ^jeremiah-17-24
 
 25 then, through the gates of this city, kings who sit upon the throne of David will continue to enter, riding in their chariots or upon their horses, along with their princes, and the people of Judah, and the inhabitants of Jerusalem. This city will remain inhabited forever. ^jeremiah-17-25
 
-26 To it people will come from the cities of Judah and the neighborhood of Jerusalem, from the land of Benjamin and from the Shephelah, from the hill country and the Negeb, to bring burnt offerings and sacrifices, grain offerings, incense, and thank offerings to the house of the L ORD. ^jeremiah-17-26
+26 To it people will come from the cities of Judah and the neighborhood of Jerusalem, from the land of Benjamin and from the Shephelah, from the hill country and the Negeb, to bring burnt offerings and sacrifices, grain offerings, incense, and thank offerings to the house of the LORD. ^jeremiah-17-26
 
 27 But if you do not obey me and keep holy the sabbath day, if you carry burdens and come through the gates of Jerusalem on the sabbath, I will set fire to its gates—a fire never to be extinguished—and it will consume the palaces of Jerusalem. ^jeremiah-17-27
 

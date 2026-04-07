@@ -1,10 +1,7 @@
 ---
-title: January 8, Saint Peter Thomas
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers 01-08-saint-peter-thomas-bishop
+title: January 8, Saint Peter Thomas
+author: OCD General Curia
 aliases:
   - 01-08-st-peter-thomas
   - 20250731-121415
@@ -12,9 +9,13 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
+  - type/ocd-proper
   - vault-admin/draft
-author: OCD General Curia
 celebration_day: 01-08
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers 01-08-saint-peter-thomas-bishop
 ---
 
 # January 8, Saint Peter Thomas

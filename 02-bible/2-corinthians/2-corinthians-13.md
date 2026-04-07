@@ -1,25 +1,24 @@
 ---
-title: 2 Corinthians, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Corinthians, Chapter 13
+title: 2 Corinthians, Chapter 13
+url: https://bible.usccb.org/bible/2corinthians/13
 aliases:
   - 2 Corinthians, Chapter 13
   - 2-corinthians-13
 tags:
   - bible/2-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2corinthians/13
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Corinthians, Chapter 13
 ---
 
 # 2 Corinthians, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 1 This third time I am coming to you. “On the testimony of two or three witnesses a fact shall be established.” ^2-corinthians-13-1
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/2corinthians/13
 
 10 I am writing this while I am away, so that when I come I may not have to be severe in virtue of the authority that the Lord has given me to build up and not to tear down. ^2-corinthians-13-10
 
-## V. Conclusion
+# V. Conclusion
 
 11 Finally, brothers, rejoice. Mend your ways, encourage one another, agree with one another, live in peace, and the God of love and peace will be with you. ^2-corinthians-13-11
 

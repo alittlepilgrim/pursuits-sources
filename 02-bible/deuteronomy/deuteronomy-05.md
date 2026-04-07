@@ -1,61 +1,60 @@
 ---
-title: Deuteronomy, Chapter 5
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 5
+title: Deuteronomy, Chapter 5
+url: https://bible.usccb.org/bible/deuteronomy/5
 aliases:
   - deuteronomy-05
   - Deuteronomy, Chapter 5
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 5
 ---
 
 # Deuteronomy, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **The Covenant at Horeb.**
 
 1 Moses summoned all Israel and said to them, Hear, O Israel, the statutes and ordinances which I proclaim in your hearing this day, that you may learn them and take care to observe them. ^deuteronomy-05-1
 
-2 The L ORD, our God, made a covenant with us at Horeb; ^deuteronomy-05-2
+2 The LORD, our God, made a covenant with us at Horeb; ^deuteronomy-05-2
 
-3 not with our ancestors did the L ORD make this covenant, but with us, all of us who are alive here this day. ^deuteronomy-05-3
+3 not with our ancestors did the LORD make this covenant, but with us, all of us who are alive here this day. ^deuteronomy-05-3
 
-4 Face to face, the L ORD spoke with you on the mountain from the midst of the fire, ^deuteronomy-05-4
+4 Face to face, the LORD spoke with you on the mountain from the midst of the fire, ^deuteronomy-05-4
 
-5 while I was standing between the L ORD and you at that time, to announce to you these words of the L ORD, since you were afraid of the fire and would not go up the mountain: ^deuteronomy-05-5
+5 while I was standing between the LORD and you at that time, to announce to you these words of the LORD, since you were afraid of the fire and would not go up the mountain: ^deuteronomy-05-5
 
 **The Decalogue.**
 
-6 I am the L ORD your God, who brought you out of the land of Egypt, out of the house of slavery. ^deuteronomy-05-6
+6 I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. ^deuteronomy-05-6
 
 7 You shall not have other gods beside me. ^deuteronomy-05-7
 
 8 You shall not make for yourself an idol or a likeness of anything in the heavens above or on the earth below or in the waters beneath the earth; ^deuteronomy-05-8
 
-9 you shall not bow down before them or serve them. For I, the L ORD, your God, am a jealous God, bringing punishment for their parents’ wickedness on the children of those who hate me, down to the third and fourth generation, ^deuteronomy-05-9
+9 you shall not bow down before them or serve them. For I, the LORD, your God, am a jealous God, bringing punishment for their parents’ wickedness on the children of those who hate me, down to the third and fourth generation, ^deuteronomy-05-9
 
 10 but showing love down to the thousandth generation of those who love me and keep my commandments. ^deuteronomy-05-10
 
-11 You shall not invoke the name of the L ORD, your God, in vain. For the L ORD will not leave unpunished anyone who invokes his name in vain. ^deuteronomy-05-11
+11 You shall not invoke the name of the LORD, your God, in vain. For the LORD will not leave unpunished anyone who invokes his name in vain. ^deuteronomy-05-11
 
-12 Observe the sabbath day—keep it holy, as the L ORD, your God, commanded you. ^deuteronomy-05-12
+12 Observe the sabbath day—keep it holy, as the LORD, your God, commanded you. ^deuteronomy-05-12
 
 13 Six days you may labor and do all your work, ^deuteronomy-05-13
 
-14 but the seventh day is a sabbath of the L ORD your God. You shall not do any work, either you, your son or your daughter, your male or female slave, your ox or donkey or any work animal, or the resident alien within your gates, so that your male and female slave may rest as you do. ^deuteronomy-05-14
+14 but the seventh day is a sabbath of the LORD your God. You shall not do any work, either you, your son or your daughter, your male or female slave, your ox or donkey or any work animal, or the resident alien within your gates, so that your male and female slave may rest as you do. ^deuteronomy-05-14
 
-15 Remember that you too were once slaves in the land of Egypt, and the L ORD, your God, brought you out from there with a strong hand and outstretched arm. That is why the L ORD, your God, has commanded you to observe the sabbath day. ^deuteronomy-05-15
+15 Remember that you too were once slaves in the land of Egypt, and the LORD, your God, brought you out from there with a strong hand and outstretched arm. That is why the LORD, your God, has commanded you to observe the sabbath day. ^deuteronomy-05-15
 
-16 Honor your father and your mother, as the L ORD, your God, has commanded you, that you may have a long life and that you may prosper in the land the L ORD your God is giving you. ^deuteronomy-05-16
+16 Honor your father and your mother, as the LORD, your God, has commanded you, that you may have a long life and that you may prosper in the land the LORD your God is giving you. ^deuteronomy-05-16
 
 17 You shall not kill. ^deuteronomy-05-17
 
@@ -71,19 +70,19 @@ You shall not desire your neighbor’s house or field, his male or female slave,
 
 **Moses as Mediator.**
 
-22 These words the L ORD spoke with a loud voice to your entire assembly on the mountain from the midst of the fire and the dense black cloud, and added no more. He inscribed them on two stone tablets and gave them to me. ^deuteronomy-05-22
+22 These words the LORD spoke with a loud voice to your entire assembly on the mountain from the midst of the fire and the dense black cloud, and added no more. He inscribed them on two stone tablets and gave them to me. ^deuteronomy-05-22
 
 23 But when you heard the voice from the midst of the darkness, while the mountain was ablaze with fire, you came near to me, all your tribal heads and elders, ^deuteronomy-05-23
 
-24 and said, “The L ORD, our God, has indeed let us see his glory and his greatness, and we have heard his voice from the midst of the fire. Today we have found out that God may speak to a mortal and that person may still live. ^deuteronomy-05-24
+24 and said, “The LORD, our God, has indeed let us see his glory and his greatness, and we have heard his voice from the midst of the fire. Today we have found out that God may speak to a mortal and that person may still live. ^deuteronomy-05-24
 
-25 Now, why should we die? For this great fire will consume us. If we hear the voice of the L ORD, our God, any more, we shall die. ^deuteronomy-05-25
+25 Now, why should we die? For this great fire will consume us. If we hear the voice of the LORD, our God, any more, we shall die. ^deuteronomy-05-25
 
 26 For what mortal has heard the voice of the living God speaking from the midst of fire, as we have, and lived? ^deuteronomy-05-26
 
-27 You go closer and listen to all that the L ORD, our God, will say, and then tell us what the L ORD, our God, tells you; we will listen and obey.” ^deuteronomy-05-27
+27 You go closer and listen to all that the LORD, our God, will say, and then tell us what the LORD, our God, tells you; we will listen and obey.” ^deuteronomy-05-27
 
-28 The L ORD heard your words as you were speaking to me and said to me, I have heard the words these people have spoken to you, which are all well said. ^deuteronomy-05-28
+28 The LORD heard your words as you were speaking to me and said to me, I have heard the words these people have spoken to you, which are all well said. ^deuteronomy-05-28
 
 29 Would that they might always be of such a mind, to fear me and to keep all my commandments! Then they and their descendants would prosper forever. ^deuteronomy-05-29
 
@@ -91,9 +90,9 @@ You shall not desire your neighbor’s house or field, his male or female slave,
 
 31 Then you stand here near me and I will give you all the commandments, the statutes and the ordinances; you must teach them, that they may observe them in the land I am giving them to possess. ^deuteronomy-05-31
 
-32 Be careful, therefore, to do as the L ORD, your God, has commanded you, not turning aside to the right or to the left, ^deuteronomy-05-32
+32 Be careful, therefore, to do as the LORD, your God, has commanded you, not turning aside to the right or to the left, ^deuteronomy-05-32
 
-33 but following exactly the way that the L ORD, your God, commanded you that you may live and prosper, and may have long life in the land which you are to possess. ^deuteronomy-05-33
+33 but following exactly the way that the LORD, your God, commanded you that you may live and prosper, and may have long life in the land which you are to possess. ^deuteronomy-05-33
 
 \* (5:3) Not with our ancestors: in fact, the covenant was made with the ancestors, but these had died out during the “forty” years. The covenant is considered to be ongoing—for Israel in Moab and beyond.
 

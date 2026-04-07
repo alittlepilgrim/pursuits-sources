@@ -1,26 +1,28 @@
 ---
-title: P - Social Doctrine of the Church Analytical Index
-created: 2025-11-13
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: P - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - P - Social Doctrine of the Church Analytical Index
   - sd-10-index-p
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-13
+modified: 2026-04-06
+publish: true
 ---
 
 # P - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Parenthood - Fatherhood and Motherhood - Desire to Be Mother or Father
+## Parenthood - Fatherhood and Motherhood - Desire to Be Mother or Father
 
 Human fatherhood and motherhood and likeness to God, [[sd-04-part-II#^csdc-230|230]]
 
@@ -32,7 +34,7 @@ Desire to be mother or father and right to children, [[sd-04-part-II#^csdc-235|2
 
 Spiritual dimension of fatherhood and motherhood, [[sd-04-part-II#^csdc-237|237]]
 
-### Parents
+## Parents
 
 Children, gifts for parents, [[sd-04-part-II#^csdc-218|218]], [[sd-04-part-II#^csdc-230|230]]
 
@@ -58,7 +60,7 @@ Remuneration, house work and parents, [[sd-04-part-II#^csdc-250|250]]
 
 The media and parents, [[sd-05-part-III#^csdc-562|562]]
 
-### Participate - Participation
+## Participate - Participation
 
 The Church, participation and secular dimension, [[sd-02-intro#^csdc-10|10]]
 
@@ -170,7 +172,7 @@ Economic efficiency and participation, [[sd-05-part-III#^csdc-564|564]]
 
 Membership in a party and participation, [[sd-05-part-III#^csdc-573|573]]
 
-### Party
+## Party
 
 Relations between unions and political parties, [[sd-04-part-II#^csdc-307|307]]
 
@@ -178,7 +180,7 @@ Parties and participation in political life, [[sd-04-part-II#^csdc-413|413]]
 
 The laity and membership in a party, [[sd-05-part-III#^csdc-573|573]], [[sd-05-part-III#^csdc-574|574]]
 
-### Pastoral
+## Pastoral
 
 Social doctrine, a pastoral priority, [[sd-02-intro#^csdc-7|7]]
 
@@ -218,7 +220,7 @@ Pastoral action and consecrated persons, [[sd-05-part-III#^csdc-540|540]]
 
 Ecclesial associations and social pastoral activity, [[sd-05-part-III#^csdc-550|550]]
 
-### Peace
+## Peace
 
 The Church, man and the requirements of peace, [[sd-02-intro#^csdc-3|3]], [[sd-03-part-I#^csdc-63|63]]
 
@@ -356,11 +358,11 @@ Peace, Christians and political action, [[sd-05-part-III#^csdc-565|565]]
 
 Civilization of love and lasting peace, [[sd-06-conclusion#^csdc-582|582]]
 
-### Penal Institutions
+## Penal Institutions
 
 Penal institutions and Christian concern, [[sd-04-part-II#^csdc-403|403]]
 
-### People - Peoples
+## People - Peoples
 
 (see Also [[sd-10-index-o#Man|Man]], [[sd-10-index-p#Person|Person]], [[sd-10-index-p#Population|Population]])
 
@@ -566,7 +568,7 @@ Marginalization of Christianity and peoples, [[sd-05-part-III#^csdc-572|572]]
 
 Peoples and love, [[sd-06-conclusion#^csdc-581|581]]
 
-### Persecution
+## Persecution
 
 Prayer for those who govern and persecution, [[sd-04-part-II#^csdc-381|381]]
 
@@ -574,7 +576,7 @@ The Beast of the Apocalypse and the power of the persecutor, [[sd-04-part-II#^cs
 
 Religious persecution and international order, [[sd-04-part-II#^csdc-438|438]]
 
-### Person - People - Men and Women
+## Person - People - Men and Women
 
 The Church and vocation to the person, [[sd-02-intro#^csdc-3|3]], [[sd-03-part-I#^csdc-63|63]]
 
@@ -1004,7 +1006,7 @@ Development of the person and social growth, [[sd-06-conclusion#^csdc-581|581]]
 
 Society, the person and love within social life, [[sd-06-conclusion#^csdc-582|582]]
 
-### Pluralism
+## Pluralism
 
 Today's humanity and gestures of pluralism, [[sd-02-intro#^csdc-16|16]]
 
@@ -1024,7 +1026,7 @@ Pluralistic society, autonomy of the State and communication, [[sd-05-part-III#^
 
 Ethical nature and legitimate pluralism, [[sd-05-part-III#^csdc-572|572]]
 
-### Policy
+## Policy
 
 Private property and economic policies, [[sd-03-part-I#^csdc-176|176]]
 
@@ -1042,7 +1044,7 @@ Countries and trade policies, [[sd-04-part-II#^csdc-476|476]]
 
 Population control policies and global development, [[sd-04-part-II#^csdc-483|483]]
 
-### Political Community
+## Political Community
 
 (see Also [[sd-10-index-o#Community|Community]])
 
@@ -1086,7 +1088,7 @@ The Christian community and the political community, [[sd-05-part-III#^csdc-534|
 
 Moral truth and the political community, [[sd-05-part-III#^csdc-571|571]]
 
-### Politics - Political - Politicians
+## Politics - Political - Politicians
 
 (see Also [[sd-10-index-o#Political Community|Political Community]])
 
@@ -1232,23 +1234,23 @@ Solidarity and political organization, [[sd-06-conclusion#^csdc-580|580]]
 
 Christian love, political charity, [[sd-06-conclusion#^csdc-581|581]]
 
-### Pollution - Polluted
+## Pollution - Polluted
 
 The environment and factors of pollution, [[sd-04-part-II#^csdc-465|465]]
 
 The poor and polluted suburbs, [[sd-05-part-III#^csdc-561|561]]
 
-### Polygamy
+## Polygamy
 
 Polygamy and God's original plan, [[sd-04-part-II#^csdc-217|217]]
 
 Polygamy and the dignity of man and woman, [[sd-04-part-II#^csdc-217|217]]
 
-### Pontifical Council for Justice and Peace
+## Pontifical Council for Justice and Peace
 
 The _Compendium_ and the Pontifical Council for Justice and Peace, [[sd-02-intro#^csdc-7|7]]_Pacem in Terris_ and Pontifical Commission for Justice and Peace, [[sd-03-part-I#^csdc-95|95]]
 
-### Poor
+## Poor
 
 (see Also [[sd-10-index-o#Poverty|Poverty]])
 
@@ -1306,7 +1308,7 @@ Poor countries and demographic changes, [[sd-04-part-II#^csdc-483|483]]
 
 The democratic system, discernment and the poor, [[sd-05-part-III#^csdc-569|569]]
 
-### Population - People
+## Population - People
 
 International financial institutions and the world's population, [[sd-04-part-II#^csdc-371|371]]
 
@@ -1320,7 +1322,7 @@ International humanitarian law and civilian population, [[sd-04-part-II#^csdc-50
 
 Sanctions and entire populations, [[sd-04-part-II#^csdc-507|507]]
 
-### Population Growth
+## Population Growth
 
 Pope John XXIII and population growth, [[sd-03-part-I#^csdc-94|94]]_Octogesima Adveniens_ and population growth, [[sd-03-part-I#^csdc-100|100]]
 
@@ -1328,7 +1330,7 @@ Population growth and morality, [[sd-04-part-II#^csdc-234|234]]
 
 Population growth and the environment, [[sd-04-part-II#^csdc-483|483]]
 
-### Poverty - Impoverishment
+## Poverty - Impoverishment
 
 (see Also [[sd-10-index-o#Poor|Poor]], [[sd-10-index-m#Misery|Misery]], [[sd-10-index-s#Suffering|Suffering]])
 
@@ -1392,7 +1394,7 @@ Rethinking the economy and poverty, [[sd-05-part-III#^csdc-564|564]]
 
 The laity, political commitment and poverty, [[sd-05-part-III#^csdc-565|565]]
 
-### Power
+## Power
 
 Structures of sin and thirst for power, [[sd-03-part-I#^csdc-119|119]]
 
@@ -1456,7 +1458,7 @@ Secret organizations and the exercise of power, [[sd-05-part-III#^csdc-567|567]]
 
 Social magisterium and political power, [[sd-05-part-III#^csdc-571|571]]
 
-### Prayer
+## Prayer
 
 Jesus prays to the Father, [[sd-03-part-I#^csdc-34|34]]
 
@@ -1484,7 +1486,7 @@ The lay faithful and personal prayer, [[sd-05-part-III#^csdc-546|546]]
 
 Ecclesial associations and prayer, [[sd-05-part-III#^csdc-550|550]]
 
-### Priest
+## Priest
 
 The _Compendium_ and pastoral service of priests, [[sd-02-intro#^csdc-11|11]]
 
@@ -1502,7 +1504,7 @@ The laity and Christ's priestly dignity, [[sd-05-part-III#^csdc-541|541]]
 
 The lay person as priest, starting with the sacraments, [[sd-05-part-III#^csdc-542|542]]
 
-### Presence
+## Presence
 
 (see Also [[sd-10-index-o#Close|Close]])
 
@@ -1510,7 +1512,7 @@ Exodus and God's presence, [[sd-03-part-I#^csdc-21|21]]
 
 God's presence and human identity, [[sd-03-part-I#^csdc-45|45]]
 
-### Principle
+## Principle
 
 (see Also [[sd-10-index-o#Principles of Reflection|Principles of Reflection]])
 
@@ -1718,7 +1720,7 @@ Moral principles and the prosperity of States, [[sd-06-conclusion#^csdc-577|577]
 
 Principle of solidarity and charity, [[sd-06-conclusion#^csdc-580|580]]
 
-### Principles of Reflection
+## Principles of Reflection
 
 Social doctrine and principles of reflection, [[sd-02-intro#^csdc-7|7]]
 
@@ -1728,7 +1730,7 @@ Social doctrine, constant in its principles of reflection, [[sd-03-part-I#^csdc-
 
 Political choices and principles of reflection, [[sd-05-part-III#^csdc-574|574]]
 
-### Prison - Ex-convicts
+## Prison - Ex-convicts
 
 Jesus and visiting those in prison, [[sd-03-part-I#^csdc-57|57]]
 
@@ -1738,13 +1740,13 @@ The dignity of detained persons and prisons, [[sd-04-part-II#^csdc-403|403]]
 
 Prison chaplains, [[sd-04-part-II#^csdc-403|403]]
 
-### Proclaim the Gospel
+## Proclaim the Gospel
 
 (see Also [[sd-10-index-o#Evangelize|Evangelize]])
 
 The Church and the right to proclaim the Gospel in society, [[sd-03-part-I#^csdc-70|70]], [[sd-03-part-I#^csdc-71|71]]
 
-### Proclamation
+## Proclamation
 
 The Church and the proclamation of the Gospel, [[sd-02-intro#^csdc-2|2]], [[sd-02-intro#^csdc-3|3]], [[sd-03-part-I#^csdc-63|63]], [[sd-03-part-I#^csdc-49|49]], [[sd-03-part-I#^csdc-50|50]], [[sd-03-part-I#^csdc-62|62]], [[sd-04-part-II#^csdc-383|383]], [[sd-04-part-II#^csdc-431|431]], [[sd-05-part-III#^csdc-524|524]], [[sd-06-conclusion#^csdc-576|576]]
 
@@ -1794,7 +1796,7 @@ The laity and the proclamation of the Gospel, [[sd-05-part-III#^csdc-543|543]]
 
 The Gospel, proclamation and the freedom of the children of God, [[sd-06-conclusion#^csdc-576|576]]
 
-### Procreation
+## Procreation
 
 Unity of the two and the work of procreation, [[sd-03-part-I#^csdc-147|147]], [[sd-04-part-II#^csdc-209|209]]
 
@@ -1814,7 +1816,7 @@ Cloning and the dignity of procreation, [[sd-04-part-II#^csdc-236|236]]
 
 Spiritual dimension of procreation, [[sd-04-part-II#^csdc-237|237]]
 
-### Production - Product - Productivity
+## Production - Product - Productivity
 
 Forms of production, man and solidarity, [[sd-03-part-I#^csdc-47|47]]
 
@@ -1956,7 +1958,7 @@ Productivity and human fulfilment, [[sd-05-part-III#^csdc-544|544]]
 
 Truth as product and the majority, [[sd-05-part-III#^csdc-569|569]]
 
-### Profession - Professional - Professionality
+## Profession - Professional - Professionality
 
 _Rerum Novarum_ and professional associations, [[sd-03-part-I#^csdc-89|89]]_
 
@@ -2004,7 +2006,7 @@ Mission and the professional environment, [[sd-05-part-III#^csdc-550|550]]
 
 Media professionals, [[sd-05-part-III#^csdc-562|562]]
 
-### Profit
+## Profit
 
 Structures of sin and profit, [[sd-03-part-I#^csdc-119|119]]
 
@@ -2028,7 +2030,7 @@ The economy, the environment and profit, [[sd-04-part-II#^csdc-470|470]]
 
 Biotechnology and legitimate profit, [[sd-04-part-II#^csdc-478|478]]
 
-### Progress
+## Progress
 
 Progress and the good of humanity, [[sd-02-intro#^csdc-6|6]]
 
@@ -2098,7 +2100,7 @@ Science, progress and transcendence, [[sd-04-part-II#^csdc-462|462]]
 
 Life and death and scientific progress, [[sd-06-conclusion#^csdc-575|575]]
 
-### Promotion
+## Promotion
 
 Ecumenism and promotion of justice, [[sd-02-intro#^csdc-12|12]]
 
@@ -2180,7 +2182,7 @@ Democracy and promotion of the family, [[sd-05-part-III#^csdc-569|569]]
 
 The faithful and promotion of the person, [[sd-05-part-III#^csdc-571|571]]
 
-### Property
+## Property
 
 (see Also [[sd-10-index-o#Ownership|Ownership]])
 
@@ -2218,13 +2220,13 @@ The market economy, capitalism and property, [[sd-04-part-II#^csdc-335|335]]
 
 The State and guarantees of property, [[sd-04-part-II#^csdc-352|352]]
 
-### Prostitution
+## Prostitution
 
 Human rights and prostitution, [[sd-03-part-I#^csdc-158|158]]
 
 Infidelity of God's people and prostitution, [[sd-04-part-II#^csdc-219|219]]*
 
-### Protect - Protection - Unprotected
+## Protect - Protection - Unprotected
 
 (see Also [[sd-10-index-o#Defence|Defence]], [[sd-10-index-s#Safeguard|Safeguard]])
 
@@ -2244,11 +2246,11 @@ Creation and the task of protection, [[sd-04-part-II#^csdc-451|451]]
 
 Protecting the environment as a collective good, [[sd-04-part-II#^csdc-466|466]]
 
-### Protectionism
+## Protectionism
 
 International trade and protectionistic policies, [[sd-04-part-II#^csdc-364|364]]
 
-### Providence
+## Providence
 
 God's providence concerning his children, [[sd-03-part-I#^csdc-35|35]]
 
@@ -2256,6 +2258,6 @@ Human action and God's providential action, [[sd-04-part-II#^csdc-266|266]]
 
 Rulers, ministers of God's providence, [[sd-04-part-II#^csdc-383|383]]
 
-### Public
+## Public
 
  See [[sd-10-index-g#General Public|General Public]]

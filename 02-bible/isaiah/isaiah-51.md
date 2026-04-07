@@ -1,31 +1,30 @@
 ---
-title: Isaiah, Chapter 51
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 51
+title: Isaiah, Chapter 51
+url: https://bible.usccb.org/bible/isaiah/51
 aliases:
   - isaiah-51
   - Isaiah, Chapter 51
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/51
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 51
 ---
 
 # Isaiah, Chapter 51
 
-### Chapter 51
+## Chapter 51
 
-#### Exhortation to Trust in the Lord
+### Exhortation to Trust in the Lord
 
 1 Listen to me, you who pursue justice, ^isaiah-51-1
 
-who seek the L ORD;
+who seek the LORD;
 
 Look to the rock from which you were hewn,
 
@@ -39,13 +38,13 @@ Though he was but one when I called him,
 
 I blessed him and made him many.
 
-3 Yes, the L ORD shall comfort Zion, ^isaiah-51-3
+3 Yes, the LORD shall comfort Zion, ^isaiah-51-3
 
 shall comfort all her ruins;
 
 Her wilderness he shall make like Eden,
 
-her wasteland like the garden of the L ORD;
+her wasteland like the garden of the LORD;
 
 Joy and gladness shall be found in her,
 
@@ -101,7 +100,7 @@ my salvation, for all generations.
 
 9 Awake, awake, put on strength, ^isaiah-51-9
 
-arm of the L ORD!
+arm of the LORD!
 
 Awake as in the days of old,
 
@@ -119,7 +118,7 @@ You who made the depths of the sea into a way
 
 for the redeemed to pass through?
 
-11 Those whom the L ORD has ransomed will return ^isaiah-51-11
+11 Those whom the LORD has ransomed will return ^isaiah-51-11
 
 and enter Zion singing,
 
@@ -135,7 +134,7 @@ Can you then fear mortals who die,
 
 human beings who are just grass,
 
-13 And forget the L ORD, your maker, ^isaiah-51-13
+13 And forget the LORD, your maker, ^isaiah-51-13
 
 who stretched out the heavens
 
@@ -155,11 +154,11 @@ they shall not die and go down into the pit,
 
 nor shall they want for bread.
 
-15 For I am the L ORD, your God, ^isaiah-51-15
+15 For I am the LORD, your God, ^isaiah-51-15
 
 who stirs up the sea so that its waves roar;
 
-the L ORD of hosts by name.
+the LORD of hosts by name.
 
 16 I have put my words into your mouth, ^isaiah-51-16
 
@@ -171,13 +170,13 @@ laying the foundations of the earth,
 
 saying to Zion: You are my people.
 
-#### The Cup of the Lord
+### The Cup of the Lord
 
 17 Wake up, wake up! ^isaiah-51-17
 
 Arise, Jerusalem,
 
-You who drank at the L ORD’s hand
+You who drank at the LORD’s hand
 
 the cup of his wrath;
 
@@ -207,7 +206,7 @@ at every street corner
 
 like antelopes in a net.
 
-They are filled with the wrath of the L ORD,
+They are filled with the wrath of the LORD,
 
 the rebuke of your God.
 
@@ -215,7 +214,7 @@ the rebuke of your God.
 
 drunk, but not with wine,
 
-22 Thus says the L ORD, your Master, ^isaiah-51-22
+22 Thus says the LORD, your Master, ^isaiah-51-22
 
 your God, who defends his people:
 

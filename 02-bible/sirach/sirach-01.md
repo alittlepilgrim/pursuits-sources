@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 1
+title: Sirach, Chapter 1
+url: https://bible.usccb.org/bible/sirach/1
 aliases:
   - sirach-01
   - Sirach, Chapter 1
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 1
 ---
 
 # Sirach, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-#### God’s Gift of Wisdom
+### God’s Gift of Wisdom
 
 1 All wisdom is from the Lord ^sirach-01-1
 
@@ -57,7 +56,7 @@ Poured her forth upon all his works,
 
 lavished her upon those who love him.
 
-#### Fear of the Lord Is Wisdom
+### Fear of the Lord Is Wisdom
 
 11 The fear of the Lord is glory and exultation, ^sirach-01-11
 

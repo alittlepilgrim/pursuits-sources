@@ -1,47 +1,46 @@
 ---
-title: Hosea, Chapter 1
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Hosea, Chapter 1
+title: Hosea, Chapter 1
+url: https://bible.usccb.org/bible/hosea/1
 aliases:
   - hosea-01
   - Hosea, Chapter 1
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 1
 ---
 
 # Hosea, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-1 The word of the L ORD that came to Hosea son of Beeri, in the days of Uzziah, Jotham, Ahaz, Hezekiah, kings of Judah, and in the days of Jeroboam, son of Joash, king of Israel. ^hosea-01-1
+1 The word of the LORD that came to Hosea son of Beeri, in the days of Uzziah, Jotham, Ahaz, Hezekiah, kings of Judah, and in the days of Jeroboam, son of Joash, king of Israel. ^hosea-01-1
 
-## I. the PROPHET’S Marriage and Its Symbolism
+# I. the PROPHET’S Marriage and Its Symbolism
 
 **Marriage of Hosea and Gomer.**
 
-2 When the L ORD began to speak with Hosea, the L ORD said to Hosea: Go, get for yourself a woman of prostitution and children of prostitution, for the land prostitutes itself, turning away from the L ORD. ^hosea-01-2
+2 When the LORD began to speak with Hosea, the LORD said to Hosea: Go, get for yourself a woman of prostitution and children of prostitution, for the land prostitutes itself, turning away from the LORD. ^hosea-01-2
 
 3 So he went and took Gomer, daughter of Diblaim; and she conceived and bore him a son. ^hosea-01-3
 
-4 Then the L ORD said to him: Give him the name “Jezreel,” for in a little while I will punish the house of Jehu for the bloodshed at Jezreel and bring to an end the kingdom of the house of Israel; ^hosea-01-4
+4 Then the LORD said to him: Give him the name “Jezreel,” for in a little while I will punish the house of Jehu for the bloodshed at Jezreel and bring to an end the kingdom of the house of Israel; ^hosea-01-4
 
 5 on that day I will break the bow of Israel in the valley of Jezreel. ^hosea-01-5
 
-6 She conceived again and bore a daughter. The L ORD said to him: Give her the name “Not-Pitied,” for I will no longer feel pity for the house of Israel: rather, I will utterly abhor them. ^hosea-01-6
+6 She conceived again and bore a daughter. The LORD said to him: Give her the name “Not-Pitied,” for I will no longer feel pity for the house of Israel: rather, I will utterly abhor them. ^hosea-01-6
 
-7 Yet for the house of Judah I will feel pity; I will save them by the L ORD, their God; but I will not save them by bow or sword, by warfare, by horses or horsemen. ^hosea-01-7
+7 Yet for the house of Judah I will feel pity; I will save them by the LORD, their God; but I will not save them by bow or sword, by warfare, by horses or horsemen. ^hosea-01-7
 
 8 After she weaned Not-Pitied, she conceived and bore a son. ^hosea-01-8
 
-9 Then the L ORD said: Give him the name “Not-My-People,” for you are not my people, and I am not “I am” for you. ^hosea-01-9
+9 Then the LORD said: Give him the name “Not-My-People,” for you are not my people, and I am not “I am” for you. ^hosea-01-9
 
 \* (1:1] – [3) This section begins with Hosea’s marriage to Gomer, which symbolizes Israel’s relationship to God. Hence the symbolic names of Hosea’s children and their later renaming ([1:2] – [9]; [2:1] – [3]). The prophet foresees God’s punishment for the unfaithful covenant partner, but knows that God’s last word is always hope ([2:4] – [25]).
 

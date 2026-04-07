@@ -1,25 +1,24 @@
 ---
-title: Micah, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Micah, Chapter 3
+title: Micah, Chapter 3
+url: https://bible.usccb.org/bible/micah/3
 aliases:
   - micah-03
   - Micah, Chapter 3
 tags:
+  - bible/chapter
   - bible/micah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/micah/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Micah, Chapter 3
 ---
 
 # Micah, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 And I said: ^micah-03-1
 
@@ -45,7 +44,7 @@ Who chop them in pieces like flesh in a kettle,
 
 like meat in a pot.
 
-4 When they cry to the L ORD, ^micah-03-4
+4 When they cry to the LORD, ^micah-03-4
 
 he will not answer them;
 
@@ -53,7 +52,7 @@ He will hide his face from them at that time,
 
 because of the evil they have done.
 
-5 Thus says the L ORD regarding the prophets: ^micah-03-5
+5 Thus says the LORD regarding the prophets: ^micah-03-5
 
 O you who lead my people astray,
 
@@ -83,7 +82,7 @@ because there is no answer from God.
 
 8 But as for me, I am filled with power, ^micah-03-8
 
-with the spirit of the L ORD,
+with the spirit of the LORD,
 
 with justice and with might;
 
@@ -109,9 +108,9 @@ the priests teach for pay,
 
 the prophets divine for money,
 
-While they rely on the L ORD, saying,
+While they rely on the LORD, saying,
 
-“Is not the L ORD in the midst of us?
+“Is not the LORD in the midst of us?
 
 No evil can come upon us!”
 

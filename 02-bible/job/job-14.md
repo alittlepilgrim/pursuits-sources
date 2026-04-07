@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 14
+title: Job, Chapter 14
+url: https://bible.usccb.org/bible/job/14
 aliases:
   - job-14
   - Job, Chapter 14
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 14
 ---
 
 # Job, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 1 Man born of woman ^job-14-1
 

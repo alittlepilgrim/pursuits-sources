@@ -1,15 +1,17 @@
 ---
-title: New Testament
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: new-testament. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: New Testament
+author:
 aliases:
   - New Testament
   - new-testament
 tags:
   - term/new-testament
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: new-testament. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # New Testament

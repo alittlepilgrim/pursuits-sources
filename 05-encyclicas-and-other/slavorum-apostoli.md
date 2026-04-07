@@ -1,21 +1,25 @@
 ---
-title: slavorum-apostoli
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Encyclical Letter Slavorum Apostoli (2 June 1985)
+title: Slavorum Apostoli
+author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
 aliases:
+  - Slavorum Apostoli
   - slavorum-apostoli
 tags:
-  - vault-admin/clippings
+  - author/saint-john-paul-II
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-11-14
+modified: 2026-04-06
+publish: true
+description: Encyclical Letter Slavorum Apostoli (2 June 1985)
 abbreviation: jpii-sa
-source: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_19850602_slavorum-apostoli.html
 ---
 
 JOHN PAUL II
 
-***SLAVORUM APOSTOLI***
+# Slavorum Apostoli
 
 **I. INTRODUCTION**
 
@@ -237,96 +241,96 @@ To you, dear brothers and sisters, my Apostolic Blessing.
 
 ---
 
-****. JOHN PAUL II, Apostolic Letter Egregiae Virtutis (31 December 1980): AAS 73 (1981), pp. 258-262.
+**[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. JOHN PAUL II, Apostolic Letter Egregiae Virtutis (31 December 1980): AAS 73 (1981), pp. 258-262.
 
-****. LEO XIII, Encyclical Epistle Grande Munus (30 September 1880), in Leonis XIII Point. Max. Acta, II, PP. 125 137; cf. also PIUS XI, Letter Quod S. Cyrillum (13 February 1927) to the Archbishops and Bishops of the Kingdom of the Serbs- Croats-Slovenes and of the Czechoslovakian Republic: AAS 19 (1927), pp. 93-96; JOHN XXIII, Apostolic Letter Magnifici Eventus (11 May 1963) to the Prelates of the Slav Nations: AAS 55 (1963), pp. 434-439. PAUL VI, Apostolic Epistle Antiquae Nobilitatis (2 February 1969) for the eleventh centenary of the death of Saint Cyril: AAS 61 (1969), pp. 137-149).
+**[2](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2)**. LEO XIII, Encyclical Epistle Grande Munus (30 September 1880), in Leonis XIII Point. Max. Acta, II, PP. 125 137; cf. also PIUS XI, Letter Quod S. Cyrillum (13 February 1927) to the Archbishops and Bishops of the Kingdom of the Serbs- Croats-Slovenes and of the Czechoslovakian Republic: AAS 19 (1927), pp. 93-96; JOHN XXIII, Apostolic Letter Magnifici Eventus (11 May 1963) to the Prelates of the Slav Nations: AAS 55 (1963), pp. 434-439. PAUL VI, Apostolic Epistle Antiquae Nobilitatis (2 February 1969) for the eleventh centenary of the death of Saint Cyril: AAS 61 (1969), pp. 137-149).
 
-****. PAUL VI, Apostolic Letter Pacis Nuntius (24 October 1964): AAS 56 (1964), pp. 965-967.
+**[3](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3)**. PAUL VI, Apostolic Letter Pacis Nuntius (24 October 1964): AAS 56 (1964), pp. 965-967.
 
-****. Cf. Magnae Moraviae Fontes Historici, t. III, Brno 1969, pp. 197- 208.
+**[4](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4)**. Cf. Magnae Moraviae Fontes Historici, t. III, Brno 1969, pp. 197- 208.
 
-****. Only in a few Slav nations is the feast still celebrated on 7 July.
+**[5](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5)**. Only in a few Slav nations is the feast still celebrated on 7 July.
 
-****. Cf. Vita Constantini VIII, 16-18: Constantinus et Methodius Thessalonicenses, Fontes, recensuerunt et illustraverunt Fr. Grivec et Fr. Tomsic (Radovi Staroslavenskog Instituta, Knjiga 4, Zagreb 1960), p. 184.
+**[6](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6)**. Cf. Vita Constantini VIII, 16-18: Constantinus et Methodius Thessalonicenses, Fontes, recensuerunt et illustraverunt Fr. Grivec et Fr. Tomsic (Radovi Staroslavenskog Instituta, Knjiga 4, Zagreb 1960), p. 184.
 
-****. Cf. Vita Constantini XIV, 2-4; ed. cit., pp. l99f.
+**[7](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7)**. Cf. Vita Constantini XIV, 2-4; ed. cit., pp. l99f.
 
-****. Vita Methodii VI, 2-3; ed. cit., p. 225.
+**[8](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-8)**. Vita Methodii VI, 2-3; ed. cit., p. 225.
 
-****. Cf. Magnae Moraviae Fontes Historici, t. III, Brno 1969, pp. 197- 208.
+**[9](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-9)**. Cf. Magnae Moraviae Fontes Historici, t. III, Brno 1969, pp. 197- 208.
 
-****. Cf. Vita Methodii VIII, 1-2: ed. ctt., p. 225.
+**[10](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-A)**. Cf. Vita Methodii VIII, 1-2: ed. ctt., p. 225.
 
-****. Cf. Vita Methodii XVII, 13: ed. cit., p. 237.
+**[11](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-B)**. Cf. Vita Methodii XVII, 13: ed. cit., p. 237.
 
-****. Cf. ibid.; cf. also 1 Cor 9:22.
+**[12](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-C)**. Cf. ibid.; cf. also 1 Cor 9:22.
 
-****. Gen 12:1-2.
+**[13](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-D)**. Gen 12:1-2.
 
-****. Acts 16:9.
+**[14](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-E)**. Acts 16:9.
 
-****. Vita Methodii V, 2: ed. cit., p. 223.
+**[15](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-F)**. Vita Methodii V, 2: ed. cit., p. 223.
 
-****. Vita Constantini XIV, 9: ed. cit., p. 200.
+**[16](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-G)**. Vita Constantini XIV, 9: ed. cit., p. 200.
 
-****. Vita Constantini VI, 7: ed. cit., p. 179.
+**[17](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-H)**. Vita Constantini VI, 7: ed. cit., p. 179.
 
-****. Mk 16:15.
+**[18](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-I)**. Mk 16:15.
 
-****. Mt 28:19.
+**[19](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-J)**. Mt 28:19.
 
-****. Gal 3:26-28
+**[20](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-K)**. Gal 3:26-28
 
-****. The successors of Pope Nicholas 1, even though they were concerned at conflicting reports regarding the teaching and activity of Cyril and Methodius, expressed their full agreement when they had a direct meeting with the Brothers. Prohibitions or limitations in the use of the new liturgy are to be attributed more than anything else to the pressures of the moment, to changing political alliances, and to the need to maintain harmony.
+**[21](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-L)**. The successors of Pope Nicholas 1, even though they were concerned at conflicting reports regarding the teaching and activity of Cyril and Methodius, expressed their full agreement when they had a direct meeting with the Brothers. Prohibitions or limitations in the use of the new liturgy are to be attributed more than anything else to the pressures of the moment, to changing political alliances, and to the need to maintain harmony.
 
-****. Jn 17:21 f.
+**[22](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-M)**. Jn 17:21 f.
 
-****. Ps 117\[116\]:1.
+**[23](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-N)**. Ps 117\[116\]:1.
 
-****. Decree on Ecumenism Unitatis Redintegratio, 4.
+**[24](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-O)**. Decree on Ecumenism Unitatis Redintegratio, 4.
 
-****. Decree on Ecumenism Unitatis Redintegratio, 1.
+**[25](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-P)**. Decree on Ecumenism Unitatis Redintegratio, 1.
 
-****. Vita Methodii IX, 3: VIII, 16: ed. cit., pp. 229; 228.
+**[26](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Q)**. Vita Methodii IX, 3: VIII, 16: ed. cit., pp. 229; 228.
 
-****. Cf. Vita Methodii IX, 2: ed. cit., p. 229.
+**[27](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-R)**. Cf. Vita Methodii IX, 2: ed. cit., p. 229.
 
-****. SECOND VATICAN COUNCIL, Dogmatic Constitution on the Church Lumen Gentium, 13.
+**[28](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-S)**. SECOND VATICAN COUNCIL, Dogmatic Constitution on the Church Lumen Gentium, 13.
 
-****. Vita Constantini XVI, 8: ed. cit., p. 205.
+**[29](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-T)**. Vita Constantini XVI, 8: ed. cit., p. 205.
 
-****. Cf. Mt 5:45.
+**[30](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-U)**. Cf. Mt 5:45.
 
-****. Vita Constantini XVI, 4-6: ed. cit., p. 205.
+**[31](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-V)**. Vita Constantini XVI, 4-6: ed. cit., p. 205.
 
-****. Vita Constantini XVI, 58: ed. cit., p. 208; Phil 2:11.
+**[32](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-W)**. Vita Constantini XVI, 58: ed. cit., p. 208; Phil 2:11.
 
-****. Vita Constantini XVI, 12: ed. cit., p. 206; Ps 66 \[65\]:4.
+**[33](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-X)**. Vita Constantini XVI, 12: ed. cit., p. 206; Ps 66 \[65\]:4.
 
-****. Vita Constantini XVI, 13: ed. cit., p. 206; Ps 117 \[116\]:1.
+**[34](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Y)**. Vita Constantini XVI, 13: ed. cit., p. 206; Ps 117 \[116\]:1.
 
-****. Cf. Ps 112 \[113\]:4; Jl 2-13.
+**[35](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Z)**. Cf. Ps 112 \[113\]:4; Jl 2-13.
 
-****. Cf. 1 Tim 2:4.
+**[36](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-10)**. Cf. 1 Tim 2:4.
 
-****. Vita Constantini I, 1: ed. cit., p. 169.
+**[37](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-11)**. Vita Constantini I, 1: ed. cit., p. 169.
 
-****. Cf. Mt 13:52.
+**[38](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-12)**. Cf. Mt 13:52.
 
-****. Cf. Gen 15:1-21.
+**[39](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-13)**. Cf. Gen 15:1-21.
 
-****. Vita Methodii II, 1: ed. cit., pp. 220f.
+**[40](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-14)**. Vita Methodii II, 1: ed. cit., pp. 220f.
 
-****. Cf. Vita Methodii XI, 2-3: ed. cit., p. 231.
+**[41](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-15)**. Cf. Vita Methodii XI, 2-3: ed. cit., p. 231.
 
-****. Cf. SECOND VATICAN COUNCIL, Decree on the Church's Missionary Activity Ad Gentes, 38.
+**[42](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-16)**. Cf. SECOND VATICAN COUNCIL, Decree on the Church's Missionary Activity Ad Gentes, 38.
 
-****. JOHN PAUL II, Speech at the ecumenical meeting in the Basilica of Saint Nicholas at Bari (26 February 1984), No. 2: Insegnamenti VII, 1 (1984), p. 532.
+**[43](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-17)**. JOHN PAUL II, Speech at the ecumenical meeting in the Basilica of Saint Nicholas at Bari (26 February 1984), No. 2: Insegnamenti VII, 1 (1984), p. 532.
 
-****. Ibid., No. 1: loc. cit., p. 531.
+**[44](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-18)**. Ibid., No. 1: loc. cit., p. 531.
 
-****. SECOND VATICAN COUNCIL, Dogmatic Constitution on the Church Lumen Gentium, 1.
+**[45](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-19)**. SECOND VATICAN COUNCIL, Dogmatic Constitution on the Church Lumen Gentium, 1.
 
-****. Cf. Vita Methodii XVII, 9-10: ed. cit., p. 237; Lk 23:46; Ps 31 \[30\]: 6.
+**[46](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1A)**. Cf. Vita Methodii XVII, 9-10: ed. cit., p. 237; Lk 23:46; Ps 31 \[30\]: 6.
 
-****. Vita Methodii XVII, 11: ed. cit., p. 237.
+**[47](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1B)**. Vita Methodii XVII, 11: ed. cit., p. 237.

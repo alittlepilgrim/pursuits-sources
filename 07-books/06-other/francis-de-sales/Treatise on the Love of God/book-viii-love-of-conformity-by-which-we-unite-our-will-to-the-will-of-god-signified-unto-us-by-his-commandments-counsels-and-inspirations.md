@@ -1,23 +1,21 @@
 ---
-title: Book VIII. Love of Conformity, by Which We Unite Our Will to the Will of God, Signified Unto Us by His Commandments, Counsels and Inspirations - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book VIII. Love of Conformity, by Which We Unite Our Will to the Will of God, Signified Unto Us by His Commandments, Counsels and Inspirations - Treatise on the Love of God
+title: Book VIII. Love of Conformity, by Which We Unite Our Will to the Will of God, Signified Unto Us by His Commandments, Counsels and Inspirations - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book VIII. Love of Conformity by Which We Unite Our Will to the Will of God Counsels and Inspirations Signified Unto Us by His Commandments  - Treatise on the Love of God
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book VIII. Love of Conformity, by Which We Unite Our Will to the Will of God, Signified Unto Us by His Commandments, Counsels and Inspirations - Treatise on the Love of God
 ---
 
-## Book VIII. Love of Conformity, by Which We Unite Our Will to the Will of God, Signified Unto Us by His Commandments, Counsels and Inspirations
+# Book VIII. Love of Conformity, by Which We Unite Our Will to the Will of God, Signified Unto Us by His Commandments, Counsels and Inspirations
 
-### Chapter I. of the Love of Conformity Proceeding from Sacred Complacency
+## Chapter I. of the Love of Conformity Proceeding from Sacred Complacency
 
 As good ground having received the seed renders it back in its season a hundredfold, so the heart which has taken complacency in God cannot hinder itself from wishing to offer another complacency to God. No one pleases us but we desire to please him. Cool wine cools for a while those who drink it, but, as soon as it grows warm within the receiver, it reciprocally warms him, and the more heat is given to it, the more it gives back. True love is never ungrateful, but strives to please those in whom it finds its pleasure; and hence comes that loving conformity, which makes us such as those we love. The most devout and most wise King Solomon, became idolatrous and foolish when he loved women who were foolish and idolatrous, and served as many idols as his wives had. For this cause the Scripture terms those men effeminate who passionately love women as such, because love metamorphoses them from men into women, in manners and humours.
 
@@ -31,7 +29,7 @@ As a holy shepherd he feeds me, his dear sheep, amidst the lilies of his perfect
 
 [355] 1 Tim. i. 9.
 
-### Chapter II. of the Conformity of Submission Which Proceeds from the Love of
+## Chapter II. of the Conformity of Submission Which Proceeds from the Love of
 
 BENEVOLENCE.
 
@@ -47,7 +45,7 @@ Do not we see, Theotimus, that a maiden by a free choice, which proceeds from th
 
 And in this point consists the profoundest obedience of love, which has no need to be spurred by menaces or rewards, nor by any law or any commandment; for it foreruns all this, submitting itself to God solely for the most perfect goodness which is in God, whereby he deserves that all wills should be obedient, subject and submissive to him, conforming and uniting themselves for ever, in everything, and everywhere, to his divine intentions.
 
-### Chapter III. How We Are to Conform Ourselves to That Divine Will, Which Is Called
+## Chapter III. How We Are to Conform Ourselves to That Divine Will, Which Is Called
 
 THE SIGNIFIED WILL.
 
@@ -61,7 +59,7 @@ Now forasmuch as this signified will of God proceeds by way of desire, and not b
 
 The conformity then of our heart to the signified will of God consists in this, that we will all that the divine goodness signifies unto us to be of his intention,--believing according to his doctrine, hoping according to his promises, fearing according to his threats, loving and living according to his ordinances and admonitions, to which all the protestations which we make so often in the holy ceremonies of the Church do tend. For on this account we stand while the Gospel is read, as being prepared to obey the holy signification of God's will contained therein; hence we kiss the book at the place of the Gospel, in adoration of the sacred word which declares his heavenly will. Hence many saints of the old time carried in their bosoms the Gospel written, as an epithem of love, as is related of S. Cecily, and S. Matthew's Gospel was actually found upon the heart of the dead S. Barnabas, written with his own hand. Wherefore in the ancient councils, in the midst of the whole assembly of Bishops, there was erected a high throne, and upon it was placed the book of the holy Gospels, which represented the person of our Saviour,--King, Doctor, Director, Spirit and sole Heart of the Councils, and of the whole Church: so much did they reverence the signification of God's will expressed in that divine book. Indeed that great mirror of the pastoral order, S. Charles, Archbishop of Milan, never studied the holy Scripture but bareheaded and upon his knees, to testify with what respect we are to read and hear the signified will of God.
 
-### Chapter IV. of the Conformity of Our Will to the Will Which God Has to Save Us
+## Chapter IV. of the Conformity of Our Will to the Will Which God Has to Save Us
 
 God has signified unto us by so many ways and means that his will is that we should all be saved, that none can be ignorant of it. To this purpose he made us to his own image and likeness by creation, and made himself to our image and likeness by his Incarnation; after which he suffered death to ransom and save all mankind, which he did with so much love that, as the great S. Denis, apostle of France, recounts, he said once to the holy man Carpus that he was ready to suffer another Passion to save mankind, and that this would be agreeable to him if it could be done without any man's sin.
 
@@ -93,7 +91,7 @@ So also were the Apostles joyous in their tribulations, because they were held w
 
 [359] Ps. cxviii. 71.
 
-### Chapter V. of the Conformity of Our Will to That Will of God's Which Is Signified
+## Chapter V. of the Conformity of Our Will to That Will of God's Which Is Signified
 
 TO US BY HIS COMMANDMENTS.
 
@@ -119,7 +117,7 @@ Thus then does heavenly love conform us to the will of God, and make us carefull
 
 [362] Ps. cxviii. 54.
 
-### Chapter VI. of the Conformity of Our Will to That Will of God Which Is Signified
+## Chapter VI. of the Conformity of Our Will to That Will of God Which Is Signified
 
 UNTO US BY HIS COUNSELS.
 
@@ -145,7 +143,7 @@ Now when charity draws some to poverty and withdraws others from it, when she di
 
 [367] Matt. xxi. 3.
 
-### Chapter VII. That the Love of God's Will Signified in the Commandments Moves Us to
+## Chapter VII. That the Love of God's Will Signified in the Commandments Moves Us to
 
 THE LOVE OF THE COUNSELS.
 
@@ -185,7 +183,7 @@ Verily, as witnesses the divine Psalmist, God hears not only the prayers of his 
 
 [378] Ps. ix. 38 [379] Cant. v. 6.
 
-### Chapter VIII. That the Contempt of the Evangelical Counsels Is a Great sin
+## Chapter VIII. That the Contempt of the Evangelical Counsels Is a Great sin
 
 The words in which our Saviour exhorts us to tend towards and aim at perfection, are so forcible and so pressing, that we cannot dissemble the obligation we have to undertake to carry out that design. Be holy, says he, because I am holy. [380] He that is holy, let him be sanctified still; and he that is just, let him be justified still.
 
@@ -215,7 +213,7 @@ But to reject and contemn God's counsel, can only spring from an idea that he ha
 
 [385] Job xxi. 14.
 
-### Chapter IX. a Continuation of the Preceding Discourse. How Every One, While Bound
+## Chapter IX. a Continuation of the Preceding Discourse. How Every One, While Bound
 
 TO LOVE, IS NOT BOUND TO PRACTISE, ALL THE EVANGELICAL COUNSELS, AND YET HOW EVERY ONE SHOULD PRACTISE WHAT HE IS ABLE.
 
@@ -239,7 +237,7 @@ Virtues have then a certain sphere of perfection, and commonly we are not oblige
 
 [386] Prov. xxvii. 9.
 
-### Chapter X. How We Are to Conform Ourselves to God's Will Signified Unto Us by
+## Chapter X. How We Are to Conform Ourselves to God's Will Signified Unto Us by
 
 INSPIRATIONS, AND FIRST, OF THE VARIETY OF THE MEANS BY WHICH GOD INSPIRES US.
 
@@ -263,7 +261,7 @@ For these are never wanting to any, in so far as they are necessary for living w
 
 [390] Gen. xxiv. 12, 13, 14.
 
-### Chapter XI. of the Union of Our Will with God's in the Inspirations Which Are Given
+## Chapter XI. of the Union of Our Will with God's in the Inspirations Which Are Given
 
 FOR THE EXTRAORDINARY PRACTICE OF VIRTUES; AND OF PERSEVERANCE IN ONE'S VOCATION, THE FIRST MARK OF INSPIRATION.
 
@@ -289,7 +287,7 @@ Young hounds leave the pack at every new scent, and make after the fresh quarry;
 
 [392] Ezech. i. 12.
 
-### Chapter XII. of the Union of Man's Will with God's in Those Inspirations Which Are
+## Chapter XII. of the Union of Man's Will with God's in Those Inspirations Which Are
 
 CONTRARY TO ORDINARY LAWS; AND OF PEACE AND TRANQUILLITY OF HEART, SECOND MARK OF INSPIRATION.
 
@@ -313,7 +311,7 @@ He comes as a mighty wind, [393] and as a heavenly thunder, but he does not over
 
 [395] Cant. vii. 1.
 
-### Chapter XIII. Third Mark of Inspiration, Which Is Holy Obedience to the Church and
+## Chapter XIII. Third Mark of Inspiration, Which Is Holy Obedience to the Church and
 
 SUPERIORS.
 
@@ -335,7 +333,7 @@ And to conclude all that we have said touching the union of our will with that w
 
 [397] Ps. lxxii. 24, 23
 
-### Chapter XIV. a Short Method to Know God's Will
+## Chapter XIV. a Short Method to Know God's Will
 
    S. Basil says that God's will is made clear unto us by his ordinances or commandments, and that then there is no deliberation to be made, for we are simply to do what is ordained; but that for the rest we have freedom to choose what seems good according to our liking; though we are not to do all that is lawful but only what is expedient, and to clearly discern what is expedient we are to follow the advice of our spiritual father.
 

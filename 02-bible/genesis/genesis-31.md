@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 31
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 31
+title: Genesis, Chapter 31
+url: https://bible.usccb.org/bible/genesis/31
 aliases:
   - 20250508-020316
   - genesis-31
   - Genesis, Chapter 31
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 31
 bible_book: genesis
 bible_chapter: "31"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/31
 ---
 
 [[genesis-30|[← Previous Note]]] · [[genesis-32|[Next Note →]]]
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/genesis/31
 
 2 Jacob perceived, too, that Laban’s attitude toward him was not what it had previously been. ^genesis-31-2
 
-3 Then the L ORD said to Jacob: Return to the land of your ancestors, where you were born, and I will be with you. ^genesis-31-3
+3 Then the LORD said to Jacob: Return to the land of your ancestors, where you were born, and I will be with you. ^genesis-31-3
 
 4 So Jacob sent for Rachel and Leah to meet him in the field where his flock was. ^genesis-31-4
 
@@ -127,7 +126,7 @@ url: https://bible.usccb.org/bible/genesis/31
 
 48 Laban said, “This mound will be a witness from now on between you and me.” That is why it was named Galeed— ^genesis-31-48
 
-49 and also Mizpah, for he said: “May the L ORD keep watch between you and me when we are out of each other’s sight. ^genesis-31-49
+49 and also Mizpah, for he said: “May the LORD keep watch between you and me when we are out of each other’s sight. ^genesis-31-49
 
 50 If you mistreat my daughters, or take other wives besides my daughters, know that even though no one else is there, God will be a witness between you and me.” ^genesis-31-50
 
@@ -185,6 +184,6 @@ j. (31:45) [Gn 28:18]; [35:14]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-02|[Next Note →]]]

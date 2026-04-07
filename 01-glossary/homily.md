@@ -1,15 +1,17 @@
 ---
-title: Homily
-created: 1984-01-24
-modified: 2026-04-02
 type: glossary
-publish: true
-description: homily. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Homily
+author:
 aliases:
   - homily
   - Homily
 tags:
   - term/homily
+  - type/term
+created: 1984-01-24
+modified: 2026-04-06
+publish: true
+description: homily. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Homily

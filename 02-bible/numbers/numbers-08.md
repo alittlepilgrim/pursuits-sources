@@ -1,39 +1,38 @@
 ---
-title: numbers-08
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 8
+title: numbers-08
+url: https://bible.usccb.org/bible/numbers/8
 aliases:
   - numbers-08
   - Numbers, Chapter 8
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 8
 ---
 
 Ø# Numbers, Chapter 8
 
-### Chapter 8
+# Chapter 8
 
 **The Menorah.**
 
-1 The L ORD said to Moses: ^numbers-08-1
+1 The LORD said to Moses: ^numbers-08-1
 
 2 Speak to Aaron and say: “When you set up the menorah-lamps, have the seven lamps throw their light in front of the menorah.” ^numbers-08-2
 
-3 Aaron did so, setting up the menorah-lamps to face the area in front of the menorah, just as the L ORD had commanded Moses. ^numbers-08-3
+3 Aaron did so, setting up the menorah-lamps to face the area in front of the menorah, just as the LORD had commanded Moses. ^numbers-08-3
 
-4 This is the construction of the menorah: hammered gold, from its base to its bowls it was hammered; according to the pattern which the L ORD had shown Moses, so he made the menorah. ^numbers-08-4
+4 This is the construction of the menorah: hammered gold, from its base to its bowls it was hammered; according to the pattern which the LORD had shown Moses, so he made the menorah. ^numbers-08-4
 
 **Purification of the Levites.**
 
-5 The L ORD said to Moses: ^numbers-08-5
+5 The LORD said to Moses: ^numbers-08-5
 
 6 Take the Levites from among the Israelites and cleanse them. ^numbers-08-6
 
@@ -43,13 +42,13 @@ url: https://bible.usccb.org/bible/numbers/8
 
 9 Bringing the Levites before the tent of meeting, you shall assemble also the whole community of the Israelites. ^numbers-08-9
 
-10 When you have brought the Levites before the L ORD, the Israelites shall lay their hands upon them. ^numbers-08-10
+10 When you have brought the Levites before the LORD, the Israelites shall lay their hands upon them. ^numbers-08-10
 
-11 Aaron shall then present the Levites before the L ORD as an elevated offering from the Israelites, that they may perform the service of the L ORD. ^numbers-08-11
+11 Aaron shall then present the Levites before the LORD as an elevated offering from the Israelites, that they may perform the service of the LORD. ^numbers-08-11
 
-12 The Levites in turn shall lay their hands on the heads of the bulls, offering one as a purification offering and the other as a burnt offering to the L ORD, to make atonement for the Levites. ^numbers-08-12
+12 The Levites in turn shall lay their hands on the heads of the bulls, offering one as a purification offering and the other as a burnt offering to the LORD, to make atonement for the Levites. ^numbers-08-12
 
-13 Then you shall have the Levites stand before Aaron and his sons, and you shall present them as an elevated offering to the L ORD; ^numbers-08-13
+13 Then you shall have the Levites stand before Aaron and his sons, and you shall present them as an elevated offering to the LORD; ^numbers-08-13
 
 14 thus you shall separate the Levites from the rest of the Israelites, and the Levites shall belong to me. ^numbers-08-14
 
@@ -63,15 +62,15 @@ url: https://bible.usccb.org/bible/numbers/8
 
 19 and from among the Israelites I have given to Aaron and his sons these Levites, who are to be dedicated, to perform the service of the Israelites in the tent of meeting and to make atonement for them, so that no plague may strike among the Israelites should they come too near the sanctuary. ^numbers-08-19
 
-20 This, then, is what Moses and Aaron and the whole community of the Israelites did with respect to the Levites; the Israelites did exactly as the L ORD had commanded Moses concerning them. ^numbers-08-20
+20 This, then, is what Moses and Aaron and the whole community of the Israelites did with respect to the Levites; the Israelites did exactly as the LORD had commanded Moses concerning them. ^numbers-08-20
 
-21 When the Levites had purified themselves and washed their garments, Aaron presented them as an elevated offering before the L ORD, and made atonement for them to cleanse them. ^numbers-08-21
+21 When the Levites had purified themselves and washed their garments, Aaron presented them as an elevated offering before the LORD, and made atonement for them to cleanse them. ^numbers-08-21
 
-22 Only then did they enter upon their service in the tent of meeting under the supervision of Aaron and his sons. Exactly as the L ORD had commanded Moses concerning the Levites, so it was done with regard to them. ^numbers-08-22
+22 Only then did they enter upon their service in the tent of meeting under the supervision of Aaron and his sons. Exactly as the LORD had commanded Moses concerning the Levites, so it was done with regard to them. ^numbers-08-22
 
 **Age Limits for Levitical Service.**
 
-23 The L ORD said to Moses: ^numbers-08-23
+23 The LORD said to Moses: ^numbers-08-23
 
 24 This is the rule for the Levites. Everyone twenty-five years old or more shall join the personnel in the service of the tent of meeting. ^numbers-08-24
 

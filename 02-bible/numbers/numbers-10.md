@@ -1,29 +1,28 @@
 ---
-title: Numbers, Chapter 10
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 10
+title: Numbers, Chapter 10
+url: https://bible.usccb.org/bible/numbers/10
 aliases:
   - numbers-10
   - Numbers, Chapter 10
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 10
 ---
 
 # Numbers, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **The Silver Trumpets.**
 
-1 The L ORD said to Moses: ^numbers-10-1
+1 The LORD said to Moses: ^numbers-10-1
 
 2 Make two trumpets of silver, making them of hammered silver, for you to use in summoning the community and in breaking camp. ^numbers-10-2
 
@@ -39,11 +38,11 @@ url: https://bible.usccb.org/bible/numbers/10
 
 8 The sons of Aaron, the priests, shall blow the trumpets; this is prescribed forever for you and your descendants. ^numbers-10-8
 
-9 When in your own land you go to war against an enemy that is attacking you, you shall sound the alarm on the trumpets, and you shall be remembered before the L ORD, your God, and be saved from your foes. ^numbers-10-9
+9 When in your own land you go to war against an enemy that is attacking you, you shall sound the alarm on the trumpets, and you shall be remembered before the LORD, your God, and be saved from your foes. ^numbers-10-9
 
-10 And when you rejoice on your festivals, and your new-moon feasts, you shall blow the trumpets over your burnt offerings and your communion sacrifices, so that this serves as a reminder of you before your God. I, the L ORD, am your God. ^numbers-10-10
+10 And when you rejoice on your festivals, and your new-moon feasts, you shall blow the trumpets over your burnt offerings and your communion sacrifices, so that this serves as a reminder of you before your God. I, the LORD, am your God. ^numbers-10-10
 
-## Ii. Departure, Rebellion, and Wandering in the Wilderness for Forty Years
+# Ii. Departure, Rebellion, and Wandering in the Wilderness for Forty Years
 
 **Departure from Sinai.**
 
@@ -51,7 +50,7 @@ url: https://bible.usccb.org/bible/numbers/10
 
 12 and the Israelites moved on from the wilderness of Sinai by stages, until the cloud came to rest in the wilderness of Paran. ^numbers-10-12
 
-13 The first time that they broke camp at the direction of the L ORD through Moses, ^numbers-10-13
+13 The first time that they broke camp at the direction of the LORD through Moses, ^numbers-10-13
 
 14 the divisional camp of the Judahites, arranged in companies, was the first to set out. Over its whole company was Nahshon, son of Amminadab, ^numbers-10-14
 
@@ -85,7 +84,7 @@ url: https://bible.usccb.org/bible/numbers/10
 
 **Hobab as Guide.**
 
-29 Moses said to Hobab, son of Reuel the Midianite, Moses’ father-in-law, “We are setting out for the place concerning which the L ORD has said, ‘I will give it to you.’ Come with us, and we will be generous toward you, for the L ORD has promised prosperity to Israel.” ^numbers-10-29
+29 Moses said to Hobab, son of Reuel the Midianite, Moses’ father-in-law, “We are setting out for the place concerning which the LORD has said, ‘I will give it to you.’ Come with us, and we will be generous toward you, for the LORD has promised prosperity to Israel.” ^numbers-10-29
 
 30 But he answered, “No, I will not come. I am going instead to the land of my birth.” ^numbers-10-30
 
@@ -93,25 +92,25 @@ url: https://bible.usccb.org/bible/numbers/10
 
 **Into the Wilderness.**
 
-33 From the mountain of the L ORD they made a journey of three days, and the ark of the covenant of the L ORD went before them for the three-day journey to seek out a resting place for them. ^numbers-10-33
+33 From the mountain of the LORD they made a journey of three days, and the ark of the covenant of the LORD went before them for the three-day journey to seek out a resting place for them. ^numbers-10-33
 
-34 And the cloud of the L ORD was over them by day when they set out from camp. ^numbers-10-34
+34 And the cloud of the LORD was over them by day when they set out from camp. ^numbers-10-34
 
 35 Whenever the ark set out, Moses would say, ^numbers-10-35
 
-“Arise, O L ORD, may your enemies be scattered,
+“Arise, O LORD, may your enemies be scattered,
 
 and may those who hate you flee before you.”
 
 36 And when it came to rest, he would say, ^numbers-10-36
 
-“Bring back, O L ORD, the myriads of Israel’s troops!”
+“Bring back, O LORD, the myriads of Israel’s troops!”
 
 \* (10:10) When you rejoice: cf. [Dt 16:14]. Festivals: the great annual feasts of the Passover, Pentecost and Booths described in [Lv 23]; [Nm 28] – [29].
 
 \* (10:29] – [32) Hobab: one of three names for the father-in-law of Moses (see ([[exodus-02|Ex 2]]:18]; [4:18]; [18:6]; [Jgs 4:11]). Here perhaps Hobab’s initial refusal indicates he wished to be coaxed before granting the favor. From [Jgs 1:16] it seems probable that he did accede to Moses’ request. However, ([[exodus-18|Ex 18]]:27] suggests Moses’ father-in-law returned to his own land. Indeed, to the extent [Nm 10:29] – [32] appears to repeat ([[exodus-18|Ex 18]]:27], it may indicate a resumption of the narrative of Israel’s march through the wilderness after the “digression” formed by the Israelite sojourn at Sinai, ([[exodus-19|Ex 19]]:1] – [Nm 10:28].
 
-\* (10:33) The mountain of the L ORD: Sinai (Horeb), elsewhere always called “the mountain of God.”
+\* (10:33) The mountain of the LORD: Sinai (Horeb), elsewhere always called “the mountain of God.”
 
 a. (10:9) [2 Chr 13:14].
 

@@ -1,29 +1,28 @@
 ---
-title: Song of Songs, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Song of Songs, Chapter 1
+title: Song of Songs, Chapter 1
+url: https://bible.usccb.org/bible/songofsongs/1
 aliases:
   - Song of Songs, Chapter 1
   - song-of-songs-01
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/song-of-songs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Song of Songs, Chapter 1
 ---
 
 # Song of Songs, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 The Song of Songs, which is Solomon’s. ^song-of-songs-01-1
 
-#### The Woman Speaks of Her Lover
+### The Woman Speaks of Her Lover
 
 2 W Let him kiss me with kisses of his mouth, ^song-of-songs-01-2
 
@@ -45,7 +44,7 @@ let us celebrate your love: it is beyond wine!
 
 Rightly do they love you!
 
-#### Love’s Boast
+### Love’s Boast
 
 5 W I am black and beautiful, ^song-of-songs-01-5
 
@@ -65,7 +64,7 @@ they charged me with the care of the vineyards:
 
 my own vineyard I did not take care of.
 
-#### Love’s Inquiry
+### Love’s Inquiry
 
 7 W Tell me, you whom my soul loves, ^song-of-songs-01-7
 
@@ -85,7 +84,7 @@ and pasture your lambs
 
 near the shepherds’ tents.
 
-#### Love’s Vision
+### Love’s Vision
 
 9 M To a mare among Pharaoh’s chariotry ^song-of-songs-01-9
 
@@ -99,7 +98,7 @@ your neck in jewels.
 
 and ornaments of silver.
 
-#### How Near Is Love
+### How Near Is Love
 
 12 W While the king was upon his couch, ^song-of-songs-01-12
 

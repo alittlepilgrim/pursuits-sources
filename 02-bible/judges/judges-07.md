@@ -1,45 +1,44 @@
 ---
-title: Judges, Chapter 7
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 7
+title: Judges, Chapter 7
+url: https://bible.usccb.org/bible/judges/7
 aliases:
   - judges-07
   - Judges, Chapter 7
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 7
 ---
 
 # Judges, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **Defeat of Midian.**
 
 1 Early the next morning Jerubbaal (that is, Gideon) encamped by the spring of Harod with all his soldiers. The camp of Midian was north of him, beside the hill of Moreh in the valley. ^judges-07-1
 
-2 The L ORD said to Gideon: You have too many soldiers with you for me to deliver Midian into their power, lest Israel vaunt itself against me and say, “My own power saved me.” ^judges-07-2
+2 The LORD said to Gideon: You have too many soldiers with you for me to deliver Midian into their power, lest Israel vaunt itself against me and say, “My own power saved me.” ^judges-07-2
 
 3 So announce in the hearing of the soldiers, “If anyone is afraid or fearful, let him leave! Let him depart from Mount Gilead!” Twenty-two thousand of the soldiers left, but ten thousand remained. ^judges-07-3
 
-4 The L ORD said to Gideon: There are still too many soldiers. Lead them down to the water and I will test them for you there. If I tell you that a certain man is to go with you, he must go with you. But no one is to go if I tell you he must not. ^judges-07-4
+4 The LORD said to Gideon: There are still too many soldiers. Lead them down to the water and I will test them for you there. If I tell you that a certain man is to go with you, he must go with you. But no one is to go if I tell you he must not. ^judges-07-4
 
-5 When Gideon led the soldiers down to the water, the L ORD said to him: Everyone who laps up the water as a dog does with its tongue you shall set aside by himself; and everyone who kneels down to drink raising his hand to his mouth you shall set aside by himself. ^judges-07-5
+5 When Gideon led the soldiers down to the water, the LORD said to him: Everyone who laps up the water as a dog does with its tongue you shall set aside by himself; and everyone who kneels down to drink raising his hand to his mouth you shall set aside by himself. ^judges-07-5
 
 6 Those who lapped up the water with their tongues numbered three hundred, but all the rest of the soldiers knelt down to drink the water. ^judges-07-6
 
-7 The L ORD said to Gideon: By means of the three hundred who lapped up the water I will save you and deliver Midian into your power. So let all the other soldiers go home. ^judges-07-7
+7 The LORD said to Gideon: By means of the three hundred who lapped up the water I will save you and deliver Midian into your power. So let all the other soldiers go home. ^judges-07-7
 
 8 They took up such supplies as the soldiers had with them, as well as their horns, and Gideon sent the rest of the Israelites to their tents, but kept the three hundred men. Now the camp of Midian was below him in the valley. ^judges-07-8
 
-9 That night the L ORD said to Gideon: Go, descend on the camp, for I have delivered it into your power. ^judges-07-9
+9 That night the LORD said to Gideon: Go, descend on the camp, for I have delivered it into your power. ^judges-07-9
 
 10 If you are afraid to attack, go down to the camp with your aide Purah ^judges-07-10
 
@@ -51,21 +50,21 @@ url: https://bible.usccb.org/bible/judges/7
 
 14 “This can only be the sword of the Israelite Gideon, son of Joash,” the other replied. “God has delivered Midian and all the camp into his power.” ^judges-07-14
 
-15 When Gideon heard the account of the dream and its explanation, he bowed down. Then returning to the camp of Israel, he said, “Arise, for the L ORD has delivered the camp of Midian into your power.” ^judges-07-15
+15 When Gideon heard the account of the dream and its explanation, he bowed down. Then returning to the camp of Israel, he said, “Arise, for the LORD has delivered the camp of Midian into your power.” ^judges-07-15
 
 16 He divided the three hundred men into three companies, and provided them all with horns and with empty jars and torches inside the jars. ^judges-07-16
 
 17 “Watch me and follow my lead,” he told them. “I shall go to the edge of the camp, and as I do, you must do also. ^judges-07-17
 
-18 When I and those with me blow horns, you too must blow horns all around the camp and cry out, ‘For the L ORD and for Gideon!’” ^judges-07-18
+18 When I and those with me blow horns, you too must blow horns all around the camp and cry out, ‘For the LORD and for Gideon!’” ^judges-07-18
 
 19 So Gideon and the hundred men who were with him came to the edge of the camp at the beginning of the middle watch, just after the posting of the guards. They blew the horns and broke the jars they were holding. ^judges-07-19
 
-20 When the three companies had blown their horns and broken their jars, they took the torches in their left hands, and in their right the horns they had been blowing, and cried out, “A sword for the L ORD and for Gideon!” ^judges-07-20
+20 When the three companies had blown their horns and broken their jars, they took the torches in their left hands, and in their right the horns they had been blowing, and cried out, “A sword for the LORD and for Gideon!” ^judges-07-20
 
 21 They all remained standing in place around the camp, while the whole camp began to run and shout and flee. ^judges-07-21
 
-22 When they blew the three hundred horns, the L ORD set the sword of one against another throughout the camp, and they fled as far as Beth-shittah in the direction of Zeredah, near the border of Abel-meholah at Tabbath. ^judges-07-22
+22 When they blew the three hundred horns, the LORD set the sword of one against another throughout the camp, and they fled as far as Beth-shittah in the direction of Zeredah, near the border of Abel-meholah at Tabbath. ^judges-07-22
 
 23 The Israelites were called to arms from Naphtali, from Asher, and from all Manasseh, and they pursued Midian. ^judges-07-23
 

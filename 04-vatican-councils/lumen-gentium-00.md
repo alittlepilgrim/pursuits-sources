@@ -1,13 +1,14 @@
 ---
-title: Lumen Gentium
-created: 2025-11-20
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: Lumen Gentium
+author: Catholic Church
 aliases:
   - 20251120-192004
   - Lumen Gentium
-author: Catholic Church
+tags: []
+created: 2025-11-20
+modified: 2026-04-04
+publish: true
 ---
 
 # Lumen Gentium

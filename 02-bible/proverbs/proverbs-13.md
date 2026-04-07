@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 13
+title: Proverbs, Chapter 13
+url: https://bible.usccb.org/bible/proverbs/13
 aliases:
   - proverbs-13
   - Proverbs, Chapter 13
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/13
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 13
 ---
 
 # Proverbs, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 1 A wise son loves correction, ^proverbs-13-1
 

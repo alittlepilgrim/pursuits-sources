@@ -1,25 +1,24 @@
 ---
-title: Colossians, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Colossians, Chapter 3
+title: Colossians, Chapter 3
+url: https://bible.usccb.org/bible/colossians/3
 aliases:
   - colossians-03
   - Colossians, Chapter 3
 tags:
+  - bible/chapter
   - bible/colossians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/colossians/3
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Colossians, Chapter 3
 ---
 
 # Colossians, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Mystical Death and Resurrection.**
 

@@ -1,10 +1,7 @@
 ---
-title: October 15, Holy Mother Saint Teresa of Jesus
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: October 15, Holy Mother Saint Teresa of Jesus
+author: OCD General Curia
 aliases:
   - 10-15-st-teresa-of-jesus
   - 20251015-000001
@@ -13,8 +10,12 @@ tags:
   - carmel/propers
   - carmel/saints
   - saint/teresa-of-avila
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 10-15
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # October 15, Holy Mother Saint Teresa of Jesus

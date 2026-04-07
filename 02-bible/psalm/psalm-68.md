@@ -1,20 +1,19 @@
 ---
-title: Psalm 68
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 68
+title: Psalm 68
+url: https://bible.usccb.org/bible/psalms/68
 aliases:
   - Psalm 68
   - psalm-68
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/68
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 68
 ---
 
 # Psalm 68

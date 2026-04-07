@@ -1,31 +1,30 @@
 ---
-title: Leviticus, Chapter 26
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 26
+title: Leviticus, Chapter 26
+url: https://bible.usccb.org/bible/leviticus/26
 aliases:
   - leviticus-26
   - Leviticus, Chapter 26
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/26
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 26
 ---
 
 # Leviticus, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 **The Reward of Obedience.**
 
-1 Do not make idols for yourselves. You shall not erect a carved image or a sacred stone for yourselves, nor shall you set up a carved stone for worship in your land; for I, the L ORD, am your God. ^leviticus-26-1
+1 Do not make idols for yourselves. You shall not erect a carved image or a sacred stone for yourselves, nor shall you set up a carved stone for worship in your land; for I, the LORD, am your God. ^leviticus-26-1
 
-2 Keep my sabbaths, and reverence my sanctuary. I am the L ORD. ^leviticus-26-2
+2 Keep my sabbaths, and reverence my sanctuary. I am the LORD. ^leviticus-26-2
 
 3 If you live in accordance with my statutes and are careful to observe my commandments, ^leviticus-26-3
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/leviticus/26
 
 12 Ever present in your midst, I will be your God, and you will be my people; ^leviticus-26-12
 
-13 I, the L ORD, am your God, who brought you out of the land of Egypt to be their slaves no more, breaking the bars of your yoke and making you walk erect. ^leviticus-26-13
+13 I, the LORD, am your God, who brought you out of the land of Egypt to be their slaves no more, breaking the bars of your yoke and making you walk erect. ^leviticus-26-13
 
 **The Punishment of Disobedience.**
 
@@ -111,11 +110,11 @@ url: https://bible.usccb.org/bible/leviticus/26
 
 43 The land will be forsaken by them, that in its desolation without them, it may make up its sabbaths, and that they, too, may make good the debt of their guilt for having spurned my decrees and loathed my statutes. ^leviticus-26-43
 
-44 Yet even so, even while they are in their enemies’ land, I will not reject or loathe them to the point of wiping them out, thus making void my covenant with them; for I, the L ORD, am their God. ^leviticus-26-44
+44 Yet even so, even while they are in their enemies’ land, I will not reject or loathe them to the point of wiping them out, thus making void my covenant with them; for I, the LORD, am their God. ^leviticus-26-44
 
-45 I will remember for them the covenant I made with their forebears, whom I brought out of the land of Egypt before the eyes of the nations, that I might be their God. I am the L ORD. ^leviticus-26-45
+45 I will remember for them the covenant I made with their forebears, whom I brought out of the land of Egypt before the eyes of the nations, that I might be their God. I am the LORD. ^leviticus-26-45
 
-46 These are the statutes, decrees and laws which the L ORD established between himself and the Israelites through Moses on Mount Sinai. ^leviticus-26-46
+46 These are the statutes, decrees and laws which the LORD established between himself and the Israelites through Moses on Mount Sinai. ^leviticus-26-46
 
 \* (26:1] – [46) This chapter concludes the revelation of laws at Mount Sinai (cf. v. [46]). Blessings and curses are also found at the end of Deuteronomy’s law collection ([Dt 28]). Similar lists of blessings and curses appear in the conclusions of ancient Near Eastern treaties.
 

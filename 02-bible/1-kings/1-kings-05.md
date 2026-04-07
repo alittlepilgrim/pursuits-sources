@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 5
+title: 1 Kings, Chapter 5
+url: https://bible.usccb.org/bible/1kings/5
 aliases:
   - 1 Kings, Chapter 5
   - 1-kings-05
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/5
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 5
 ---
 
 # 1 Kings, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Solomon’s Riches: International Affairs.**
 
@@ -61,15 +60,15 @@ url: https://bible.usccb.org/bible/1kings/5
 
 16 Solomon sent back this message to Hiram: ^1-kings-05-16
 
-17 “You know that David my father, because of the wars that beset him, could not build a house for the name of the L ORD his God until such time as the L ORD should put his enemies under the soles of his feet. ^1-kings-05-17
+17 “You know that David my father, because of the wars that beset him, could not build a house for the name of the LORD his God until such time as the LORD should put his enemies under the soles of his feet. ^1-kings-05-17
 
-18 But now the L ORD, my God, has given me rest on all sides, without adversary or misfortune. ^1-kings-05-18
+18 But now the LORD, my God, has given me rest on all sides, without adversary or misfortune. ^1-kings-05-18
 
-19 So I intend to build a house for the name of the L ORD, my God, as the L ORD said to David my father: Your son whom I will put upon your throne in your place shall build the house for my name. ^1-kings-05-19
+19 So I intend to build a house for the name of the LORD, my God, as the LORD said to David my father: Your son whom I will put upon your throne in your place shall build the house for my name. ^1-kings-05-19
 
 20 Give orders, then, to have cedars from the Lebanon cut down for me. My servants shall accompany yours, and I will pay you whatever you say for your servants’ wages. For you know that there is no one among us who is skilled in cutting timber like the Sidonians.” ^1-kings-05-20
 
-21 When Hiram had heard the words of Solomon, he was overjoyed, and said, “Blessed be the L ORD this day, who has given David a wise son over this numerous people.” ^1-kings-05-21
+21 When Hiram had heard the words of Solomon, he was overjoyed, and said, “Blessed be the LORD this day, who has given David a wise son over this numerous people.” ^1-kings-05-21
 
 22 Hiram then sent word to Solomon, “I have heard the proposal you sent me, and I will provide all the cedars and fir trees you desire. ^1-kings-05-22
 
@@ -79,7 +78,7 @@ url: https://bible.usccb.org/bible/1kings/5
 
 25 while Solomon gave Hiram twenty thousand kors of wheat to provide for his household, and twenty kors of hand-pressed oil. Solomon gave Hiram all this every year. ^1-kings-05-25
 
-26 The L ORD gave Solomon wisdom as he promised him. So there was peace between Hiram and Solomon, and the two of them made a covenant. ^1-kings-05-26
+26 The LORD gave Solomon wisdom as he promised him. So there was peace between Hiram and Solomon, and the two of them made a covenant. ^1-kings-05-26
 
 27 King Solomon raised thirty thousand forced laborers from all Israel. ^1-kings-05-27
 

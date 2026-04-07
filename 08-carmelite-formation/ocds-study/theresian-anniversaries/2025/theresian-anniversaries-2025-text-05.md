@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2025 - Text 5 to Celine, 7th July 1894 (Letter 165)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2025 - Text 5 to Celine, 7th July 1894 (Letter 165)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2025 - Text 5 to Celine, 7th July 1894 (Letter 165)
   - theresian-anniversaries-2025-text-05
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2025 - Text 5 to Celine, 7th July 1894 (Letter 165)
@@ -26,7 +26,7 @@ Suggestion for the community meeting:
 
 It would be helpful to have made individual readings and reflections on Therese’s text before the community meeting.
 
-### To Celine, 7th July 1894 (Letter 165)
+## To Celine, 7th July 1894 (Letter 165)
 
 July 7, 1894.
 
@@ -64,7 +64,7 @@ I kiss my good Uncle, my dear Aunt, and my little Sister. For my darling Papa, I
 
 Therese of the Child Jesus of the Holy Face rel.carm.ind.
 
-### Introduction to the Text
+## Introduction to the Text
 
 Here we are changing register to look at one or two of her numerous letters. There are 276 letters dating from 4th April 1877 to 24th August 1897. They are addressed to 26 different recipients, including 9 members of Martin and Guerin families.
 
@@ -80,7 +80,7 @@ The letter is full of quotations from Scripture, explicit and implicit, that spr
 
 Therese corresponded intensely with Celine, particularly in 1893 (Lt 141 to 145, 147 and 149) and in 1894 (LT 161-162, 165, 167 to 169). Being very at ease with her sister, she expressed herself freely. These letters are therefore a treasure for exploring Ther-ese’s heart. Those who wish, may therefore reread some of those letters, or even the letters that Celine addressed to Therese.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text.
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -90,7 +90,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. On reading Letter 165, how does Therese read and interpret Scripture?
 2. «Keeping Jesus’ word, that’s the only condition of our happiness, the proof of our love for Him, But what is this word?... It seems to me that the word of Jesus, it’s He Himself, the Word, the Word of God!» What is our experience of the Word of God, in the light of this conviction of Therese?

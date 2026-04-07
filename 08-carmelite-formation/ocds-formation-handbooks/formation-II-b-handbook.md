@@ -1,16 +1,17 @@
 ---
-title: Formation Ii Year B the Interior Castle (The Seven Dwelling Places)
-created: 2025-08-28
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Formation Ii Year B the Interior Castle (The Seven Dwelling Places)
+author: Secular Order of Discalced Carmelites
 aliases:
   - 20251009-001020
   - Formation Ii Year B the Interior Castle (The Seven Dwelling Places)
   - Formation II Year B The Interior Castle (The Seven Dwelling Places)
 tags:
   - carmel/formation
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-08-28
+modified: 2026-04-06
+publish: false
 ---
 
 # Formation II Year B the Interior Castle (The Seven Dwelling Places)
@@ -285,7 +286,7 @@ Will: The power to make choices, good or bad. The whole aim of the persons who a
 
 The soul should bend its will if it wishes that prayer be beneficial to it (Glossary, pg. 465; second edition, 437).
 
-### Essential Points to Discuss
+## Essential Points to Discuss
 
 • “This stage pertains to those who have already begun to practice prayer and have understood how important it is not to stay in the first dwelling places” (II, 1:2).
 
@@ -323,7 +324,7 @@ Required Reading: The Interior Castle: Study Edition, the Third Dwelling Places,
 
 (DP III, 2:10).
 
-### Essential Points to Discuss
+## Essential Points to Discuss
 
 • Entry into the third dwelling places, according to Teresa, is somewhat of a moral victory for the soul. “…through perseverance and the mercy of God, they have won these battles and have entered the rooms of the third stage…Certainly we are right in calling such a person blessed…The Lord never fails to give a person this ‘security of conscience,’
 

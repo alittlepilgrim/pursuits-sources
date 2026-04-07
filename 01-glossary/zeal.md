@@ -1,9 +1,8 @@
 ---
-title: Zeal
-created: 2025-05-11
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Zeal
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations
 aliases:
   - zeal
   - Zeal
@@ -11,8 +10,10 @@ tags:
   - divine-intimacy
   - term/apostolate
   - term/zeal
-author: Gabriel of Saint Mary Magdalen
-source: Divine Intimacy Meditations
+  - type/term
+created: 2025-05-11
+modified: 2026-04-06
+publish: true
 ---
 
 # Zeal

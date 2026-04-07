@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 40
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 40
+title: Ezekiel, Chapter 40
+url: https://bible.usccb.org/bible/ezekiel/40
 aliases:
   - ezekiel-40
   - Ezekiel, Chapter 40
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/40
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 40
 ---
 
 # Ezekiel, Chapter 40
 
-### Chapter 40
+## Chapter 40
 
 **The Man with a Measure.**
 
-1 In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, fourteen years after the city had been captured, on that very day the hand of the L ORD came upon me and brought me back there. ^ezekiel-40-1
+1 In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, fourteen years after the city had been captured, on that very day the hand of the LORD came upon me and brought me back there. ^ezekiel-40-1
 
 2 In a divine vision he brought me to the land of Israel, where he set me down on a very high mountain. In front of me, there was something like a city built on it. ^ezekiel-40-2
 
@@ -125,7 +124,7 @@ url: https://bible.usccb.org/bible/ezekiel/40
 
 45 He said to me, “This chamber facing south is reserved for the priests who have charge of the temple area, ^ezekiel-40-45
 
-46 while this chamber facing north is reserved for the priests who have charge of the altar; they are the sons of Zadok, the only Levites who may come near to minister to the L ORD.” ^ezekiel-40-46
+46 while this chamber facing north is reserved for the priests who have charge of the altar; they are the sons of Zadok, the only Levites who may come near to minister to the LORD.” ^ezekiel-40-46
 
 47 He measured the courtyard, a square one hundred cubits long and a hundred cubits wide, with the altar standing in front of the temple. ^ezekiel-40-47
 

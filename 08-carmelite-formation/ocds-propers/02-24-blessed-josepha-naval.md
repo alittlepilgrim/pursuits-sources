@@ -1,10 +1,7 @@
 ---
-title: February 24, Blessed Josepha Naval Girbes
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers 02-24-blessed-josepha-naval-girbes-virgin
+title: February 24, Blessed Josepha Naval Girbes
+author: OCD General Curia
 aliases:
   - 02-24-blessed-josepha-naval
   - 20250731-121427
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 02-24
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers 02-24-blessed-josepha-naval-girbes-virgin
 ---
 
 # February 24, Blessed Josepha Naval Girbes

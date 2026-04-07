@@ -1,30 +1,28 @@
 ---
-title: Joshua, Chapter 13
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 13
+title: Joshua, Chapter 13
+url: https://bible.usccb.org/bible/joshua/13
 aliases:
   - joshua-13
   - Joshua, Chapter 13
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/13
-testament: old
-url: https://bible.usccb.org/bible/joshua/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 13
 ---
 
 # Joshua, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Division of Land Commanded.**
 
-1 When Joshua was old and advanced in years, the L ORD said to him: Though now you are old and advanced in years, a very large part of the land still remains to be possessed. ^joshua-13-1
+1 When Joshua was old and advanced in years, the LORD said to him: Though now you are old and advanced in years, a very large part of the land still remains to be possessed. ^joshua-13-1
 
 2 This is the remaining land: all Geshur and all the districts of the Philistines ^joshua-13-2
 
@@ -40,7 +38,7 @@ url: https://bible.usccb.org/bible/joshua/13
 
 **The Eastern Tribes.**
 
-8 Now the other half of the tribe of Manasseh, as well as the Reubenites and Gadites, had taken as their heritage what Moses, the servant of the L ORD, had given them east of the Jordan: ^joshua-13-8
+8 Now the other half of the tribe of Manasseh, as well as the Reubenites and Gadites, had taken as their heritage what Moses, the servant of the LORD, had given them east of the Jordan: ^joshua-13-8
 
 9 from Aroer on the bank of the Wadi Arnon and the city in the wadi itself, through the tableland of Medeba and Dibon, ^joshua-13-9
 
@@ -52,7 +50,7 @@ url: https://bible.usccb.org/bible/joshua/13
 
 13 But the Israelites did not dispossess the Geshurites and Maacathites, so that Geshur and Maacath dwell in the midst of Israel to this day. ^joshua-13-13
 
-14 However, Moses assigned no heritage to the tribe of Levi; the L ORD, the God of Israel, is their heritage, as the L ORD had promised them. ^joshua-13-14
+14 However, Moses assigned no heritage to the tribe of Levi; the LORD, the God of Israel, is their heritage, as the LORD had promised them. ^joshua-13-14
 
 **Reuben.**
 
@@ -96,7 +94,7 @@ url: https://bible.usccb.org/bible/joshua/13
 
 32 These are the heritages which Moses gave when he was in the plains of Moab, beyond the Jordan east of Jericho. ^joshua-13-32
 
-33 But Moses gave no heritage to the tribe of Levi: the L ORD, the God of Israel, is their heritage, as he had promised them. ^joshua-13-33
+33 But Moses gave no heritage to the tribe of Levi: the LORD, the God of Israel, is their heritage, as he had promised them. ^joshua-13-33
 
 \* (13:2) Geshur: not to be confused with the large Aramean district of the same name in Bashan (vv. [11] – [13]; [Dt 3:14]); here it is a region to the south of the Philistine country, since vv. [2] – [5] list the unconquered lands along the coast from south to north; cf. also [1 Sm 27:8].
 

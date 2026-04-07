@@ -1,18 +1,19 @@
 ---
-title: May 29, Blessed Elia of St Clement Fracasso
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: May 29, Blessed Elia of St Clement Fracasso
+author: OCD General Curia
 aliases:
   - 05-29-blessed-elia-fracasso
   - 20250731-121503
   - May 29, Blessed Elia of St Clement Fracasso
 tags:
   - carmel/propers
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 05-29
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # May 29, Blessed Elia of St Clement Fracasso

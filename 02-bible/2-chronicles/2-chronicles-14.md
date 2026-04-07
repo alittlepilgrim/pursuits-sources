@@ -1,39 +1,38 @@
 ---
-title: 2 Chronicles, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 14
+title: 2 Chronicles, Chapter 14
+url: https://bible.usccb.org/bible/2chronicles/14
 aliases:
   - 2 Chronicles, Chapter 14
   - 2-chronicles-14
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/14
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 14
 ---
 
 # 2 Chronicles, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Asa’s Initial Reforms.**
 
-1 Asa did what was good and right in the sight of the L ORD, his God. ^2-chronicles-14-1
+1 Asa did what was good and right in the sight of the LORD, his God. ^2-chronicles-14-1
 
 2 He removed the illicit altars and the high places, smashed the sacred pillars, and cut down the asherahs. ^2-chronicles-14-2
 
-3 He told Judah to seek the L ORD, the God of their ancestors, and to observe the law and the commandment. ^2-chronicles-14-3
+3 He told Judah to seek the LORD, the God of their ancestors, and to observe the law and the commandment. ^2-chronicles-14-3
 
 4 He removed the high places and incense stands from all the cities of Judah, and under him the kingdom had peace. ^2-chronicles-14-4
 
-5 He built fortified cities in Judah, for the land had peace and no war was waged against him during these years, because the L ORD had given him rest. ^2-chronicles-14-5
+5 He built fortified cities in Judah, for the land had peace and no war was waged against him during these years, because the LORD had given him rest. ^2-chronicles-14-5
 
-6 He said to Judah: “Let us build these cities and surround them with walls, towers, gates and bars. The land is still ours, for we have sought the L ORD, our God; we sought him, and he has given us rest on every side.” So they built and prospered. ^2-chronicles-14-6
+6 He said to Judah: “Let us build these cities and surround them with walls, towers, gates and bars. The land is still ours, for we have sought the LORD, our God; we sought him, and he has given us rest on every side.” So they built and prospered. ^2-chronicles-14-6
 
 **The Ethiopian Invasion.**
 
@@ -43,13 +42,13 @@ url: https://bible.usccb.org/bible/2chronicles/14
 
 9 Asa went out to meet him and they drew up for battle in the valley of Zephathah, near Mareshah. ^2-chronicles-14-9
 
-10 Asa called upon the L ORD, his God: “L ORD, there is none like you to help the powerless against the strong. Help us, L ORD, our God, for we rely on you, and in your name we have come against this multitude. You are the L ORD, our God; do not let men prevail against you.” ^2-chronicles-14-10
+10 Asa called upon the LORD, his God: “LORD, there is none like you to help the powerless against the strong. Help us, LORD, our God, for we rely on you, and in your name we have come against this multitude. You are the LORD, our God; do not let men prevail against you.” ^2-chronicles-14-10
 
-11 And so the L ORD defeated the Ethiopians before Asa and Judah, and the Ethiopians fled. ^2-chronicles-14-11
+11 And so the LORD defeated the Ethiopians before Asa and Judah, and the Ethiopians fled. ^2-chronicles-14-11
 
-12 Asa and those with him pursued them as far as Gerar, and the Ethiopians fell until there were no survivors, for they were crushed before the L ORD and his army, which carried away enormous spoils. ^2-chronicles-14-12
+12 Asa and those with him pursued them as far as Gerar, and the Ethiopians fell until there were no survivors, for they were crushed before the LORD and his army, which carried away enormous spoils. ^2-chronicles-14-12
 
-13 Then the Judahites conquered all the cities around Gerar, for the fear of the L ORD was upon them; they plundered all the cities, for there was much plunder in them. ^2-chronicles-14-13
+13 Then the Judahites conquered all the cities around Gerar, for the fear of the LORD was upon them; they plundered all the cities, for there was much plunder in them. ^2-chronicles-14-13
 
 14 They also attacked the tents of the cattle-herders and carried off a great number of sheep and camels. Then they returned to Jerusalem. ^2-chronicles-14-14
 

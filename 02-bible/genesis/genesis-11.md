@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 11
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 11
+title: Genesis, Chapter 11
+url: https://bible.usccb.org/bible/genesis/11
 aliases:
   - genesis-11
   - Genesis, Chapter 11
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 11
 bible_book: genesis
 bible_chapter: "11"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/11
 ---
 
 [[genesis-10|[← Previous Note]]] · [[genesis-12|[Next Note →]]]
@@ -36,15 +35,15 @@ url: https://bible.usccb.org/bible/genesis/11
 
 4 Then they said, “Come, let us build ourselves a city and a tower with its top in the sky, and so make a name for ourselves; otherwise we shall be scattered all over the earth.” ^genesis-11-4
 
-5 The L ORD came down to see the city and the tower that the people had built. ^genesis-11-5
+5 The LORD came down to see the city and the tower that the people had built. ^genesis-11-5
 
-6 Then the L ORD said: If now, while they are one people and all have the same language, they have started to do this, nothing they presume to do will be out of their reach. ^genesis-11-6
+6 Then the LORD said: If now, while they are one people and all have the same language, they have started to do this, nothing they presume to do will be out of their reach. ^genesis-11-6
 
 7 Come, let us go down and there confuse their language, so that no one will understand the speech of another. ^genesis-11-7
 
-8 So the L ORD scattered them from there over all the earth, and they stopped building the city. ^genesis-11-8
+8 So the LORD scattered them from there over all the earth, and they stopped building the city. ^genesis-11-8
 
-9 That is why it was called Babel, because there the L ORD confused the speech of all the world. From there the L ORD scattered them over all the earth. ^genesis-11-9
+9 That is why it was called Babel, because there the LORD confused the speech of all the world. From there the LORD scattered them over all the earth. ^genesis-11-9
 
 **Descendants from Shem to [[abraham|Abraham]].**
 
@@ -132,6 +131,6 @@ d. (11:31) [Jos 24:3]; [Neh 9:7]; [Jdt 5:6] – [9]; ([[acts-of-the-apostles-07|
 
 ---
 
-#### Navigation
+### Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-02|[Next Note →]]]

@@ -1,35 +1,34 @@
 ---
-title: Leviticus, Chapter 14
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 14
+title: Leviticus, Chapter 14
+url: https://bible.usccb.org/bible/leviticus/14
 aliases:
   - leviticus-14
   - Leviticus, Chapter 14
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 14
 ---
 
 # Leviticus, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Purification After Scaly Infection.**
 
-1 The L ORD said to Moses: ^leviticus-14-1
+1 The LORD said to Moses: ^leviticus-14-1
 
 2 This is the ritual for someone that had a scaly infection at the time of that person’s purification. The individual shall be brought to the priest, ^leviticus-14-2
 
 3 who is to go outside the camp. If the priest, upon inspection, finds that the scaly infection has healed in the afflicted person, ^leviticus-14-3
 
-4 he shall order that two live, clean birds, as well as some cedar wood, scarlet yarn, and hyssop be obtained for the one who is to be purified. ^leviticus-14-4
+4 he shalLORDer that two live, clean birds, as well as some cedar wood, scarlet yarn, and hyssop be obtained for the one who is to be purified. ^leviticus-14-4
 
 5 The priest shall then order that one of the birds be slaughtered over an earthen vessel with fresh water in it. ^leviticus-14-5
 
@@ -43,9 +42,9 @@ url: https://bible.usccb.org/bible/leviticus/14
 
 10 On the eighth day the individual shall take two unblemished male lambs, one unblemished yearling ewe lamb, three tenths of an ephah of bran flour mixed with oil for a grain offering, and one log of oil. ^leviticus-14-10
 
-11 The priest who performs the purification ceremony shall place the person who is being purified, as well as all these offerings, before the L ORD at the entrance of the tent of meeting. ^leviticus-14-11
+11 The priest who performs the purification ceremony shall place the person who is being purified, as well as all these offerings, before the LORD at the entrance of the tent of meeting. ^leviticus-14-11
 
-12 Taking one of the male lambs, the priest shall present it as a reparation offering, along with the log of oil, raising them as an elevated offering before the L ORD. ^leviticus-14-12
+12 Taking one of the male lambs, the priest shall present it as a reparation offering, along with the log of oil, raising them as an elevated offering before the LORD. ^leviticus-14-12
 
 13 This lamb shall be slaughtered in the sacred place where the purification offering and the burnt offering are slaughtered, because the reparation offering is like the purification offering; it belongs to the priest and is most holy. ^leviticus-14-13
 
@@ -53,15 +52,15 @@ url: https://bible.usccb.org/bible/leviticus/14
 
 15 The priest shall also take the log of oil and pour some of it into the palm of his own left hand; ^leviticus-14-15
 
-16 then, dipping his right finger in the oil on his left palm, he shall sprinkle some of it with his finger seven times before the L ORD. ^leviticus-14-16
+16 then, dipping his right finger in the oil on his left palm, he shall sprinkle some of it with his finger seven times before the LORD. ^leviticus-14-16
 
 17 Of the oil left in his hand the priest shall put some on the lobe of the right ear, the thumb of the right hand, and the big toe of the right foot of the person being purified, over the blood of the reparation offering. ^leviticus-14-17
 
-18 The rest of the oil in his hand the priest shall put on the head of the one being purified. Thus shall the priest make atonement for the individual before the L ORD. ^leviticus-14-18
+18 The rest of the oil in his hand the priest shall put on the head of the one being purified. Thus shall the priest make atonement for the individual before the LORD. ^leviticus-14-18
 
 19 The priest shall next offer the purification offering, thus making atonement on behalf of the one being purified from the uncleanness. After this the burnt offering shall be slaughtered. ^leviticus-14-19
 
-20 The priest shall offer the burnt offering and the grain offering on the altar before the L ORD. Thus shall the priest make atonement for the person, and the individual will become clean. ^leviticus-14-20
+20 The priest shall offer the burnt offering and the grain offering on the altar before the LORD. Thus shall the priest make atonement for the person, and the individual will become clean. ^leviticus-14-20
 
 **Poor Person’s Sacrifices.**
 
@@ -69,29 +68,29 @@ url: https://bible.usccb.org/bible/leviticus/14
 
 22 and two turtledoves or pigeons, which the individual can more easily afford, the one as a purification offering and the other as a burnt offering. ^leviticus-14-22
 
-23 On the eighth day of purification the person shall bring them to the priest, at the entrance of the tent of meeting before the L ORD. ^leviticus-14-23
+23 On the eighth day of purification the person shall bring them to the priest, at the entrance of the tent of meeting before the LORD. ^leviticus-14-23
 
-24 Taking the lamb of the reparation offering, along with the log of oil, the priest shall raise them as an elevated offering before the L ORD. ^leviticus-14-24
+24 Taking the lamb of the reparation offering, along with the log of oil, the priest shall raise them as an elevated offering before the LORD. ^leviticus-14-24
 
 25 When the lamb of the reparation offering has been slaughtered, the priest shall take some of its blood, and put it on the lobe of the right ear, on the thumb of the right hand, and on the big toe of the right foot of the person being purified. ^leviticus-14-25
 
 26 The priest shall then pour some of the oil into the palm of his own left hand ^leviticus-14-26
 
-27 and with his right finger sprinkle some of the oil in his left palm seven times before the L ORD. ^leviticus-14-27
+27 and with his right finger sprinkle some of the oil in his left palm seven times before the LORD. ^leviticus-14-27
 
 28 Some of the oil in his hand the priest shall also put on the lobe of the right ear, the thumb of the right hand, and the big toe of the right foot of the person being purified, where he had sprinkled the blood of the reparation offering. ^leviticus-14-28
 
-29 The rest of the oil in his hand the priest shall put on the head of the one being purified. Thus shall he make atonement for the individual before the L ORD. ^leviticus-14-29
+29 The rest of the oil in his hand the priest shall put on the head of the one being purified. Thus shall he make atonement for the individual before the LORD. ^leviticus-14-29
 
 30 Then, of the turtledoves or pigeons, such as the person can afford, ^leviticus-14-30
 
-31 the priest shall offer one as a purification offering and the other as a burnt offering, along with the grain offering. Thus shall the priest make atonement before the L ORD for the person who is being purified. ^leviticus-14-31
+31 the priest shall offer one as a purification offering and the other as a burnt offering, along with the grain offering. Thus shall the priest make atonement before the LORD for the person who is being purified. ^leviticus-14-31
 
 32 This is the ritual for one afflicted with a scaly infection who has insufficient means for purification. ^leviticus-14-32
 
 **Fungal Infection of Houses.**
 
-33 The L ORD said to Moses and Aaron: ^leviticus-14-33
+33 The LORD said to Moses and Aaron: ^leviticus-14-33
 
 34 When you come into the land of Canaan, which I am giving you to possess, if I put a fungal infection in any house of the land you occupy, ^leviticus-14-34
 
@@ -105,7 +104,7 @@ url: https://bible.usccb.org/bible/leviticus/14
 
 39 On the seventh day the priest shall return. If, upon inspection, he finds that the infection has spread on the walls, ^leviticus-14-39
 
-40 he shall order the infected stones to be pulled out and cast in an unclean place outside the city. ^leviticus-14-40
+40 he shalLORDer the infected stones to be pulled out and cast in an unclean place outside the city. ^leviticus-14-40
 
 41 The whole inside of the house shall then be scraped, and the mortar that has been scraped off shall be dumped in an unclean place outside the city. ^leviticus-14-41
 

@@ -1,13 +1,14 @@
 ---
-title: Conceptions of Divine Love
-created: 2025-10-18
-modified: 2026-04-02
 type: book
-publish: false
+title: Conceptions of Divine Love
+author: Saint Teresa of Ávila
 aliases:
   - 20251018-183453
   - Conceptions of Divine Love
-author: Saint Teresa of Avila
+tags: []
+created: 2025-10-18
+modified: 2026-04-04
+publish: false
 ---
 
 # Conceptions of Divine Love
@@ -34,7 +35,7 @@ However good may have been the motives of the confessor, who commanded the Saint
 
 + Ribera says of him: '' lllius qui tam temerd impnidenterque id mandare est ausus — quod non intelligebat." (Lib. iy. cap. iii.)
 
-Page  223
+Page 223
 
 The Saint seems to have composed the book about the year 1517; because in it she refers to the '^ Castle of the Soul/' which was written in the same year. (See Bollandists, p. 454.)
 

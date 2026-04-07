@@ -1,27 +1,26 @@
 ---
-title: Amos, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 6
+title: Amos, Chapter 6
+url: https://bible.usccb.org/bible/amos/6
 aliases:
   - amos-06
   - Amos, Chapter 6
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/6
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 6
 ---
 
 # Amos, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
-#### Third Woe
+### Third Woe
 
 1 Woe to those who are complacent in Zion, ^amos-06-1
 
@@ -69,7 +68,7 @@ and the carousing of those who lounged shall cease.
 
 8 The Lord G OD has sworn by his very self— ^amos-06-8
 
-an oracle of the L ORD, the God of hosts:
+an oracle of the LORD, the God of hosts:
 
 I abhor the pride of Jacob,
 
@@ -91,9 +90,9 @@ If he says to someone in the recesses of the house,
 
 Then he shall say, “Silence!”
 
-for no one must mention the name of the L ORD.
+for no one must mention the name of the LORD.
 
-11 Indeed, the L ORD has given the command ^amos-06-11
+11 Indeed, the LORD has given the command ^amos-06-11
 
 to shatter the great house to bits,
 
@@ -115,7 +114,7 @@ seized Karnaim for ourselves?”
 
 14 Look, I am raising up against you, house of Israel— ^amos-06-14
 
-oracle of the L ORD, the God of hosts—
+oracle of the LORD, the God of hosts—
 
 A nation that shall oppress you
 

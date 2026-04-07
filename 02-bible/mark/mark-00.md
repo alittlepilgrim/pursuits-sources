@@ -1,25 +1,25 @@
 ---
-title: Mark, The Gospel According To Mark
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, the Gospel According to Mark
+title: Mark, The Gospel According To Mark
+url: https://bible.usccb.org/bible/mark/0
 aliases:
   - mark-00
   - Mark, the Gospel according to Mark
   - Mark, The Gospel According To Mark
 tags:
+  - bible/book
   - bible/mark
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/mark/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, the Gospel According to Mark
 ---
 
 # Mark, the Gospel According to Mark
 
-                
+[Introduction](mark-00.md) [1](mark-01.md) [2](mark-02.md) [3](mark-03.md) [4](mark-04.md) [5](mark-05.md) [6](mark-06.md) [7](mark-07.md) [8](mark-08.md) [9](mark-09.md) [10](mark-10.md) [11](mark-11.md) [12](mark-12.md) [13](mark-13.md) [14](mark-14.md) [15](mark-15.md) [16](mark-16.md)
 
 ## The Gospel According to Mark
 

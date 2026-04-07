@@ -1,31 +1,30 @@
 ---
-title: Deuteronomy, Chapter 28
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 28
+title: Deuteronomy, Chapter 28
+url: https://bible.usccb.org/bible/deuteronomy/28
 aliases:
   - deuteronomy-28
   - Deuteronomy, Chapter 28
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/28
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 28
 ---
 
 # Deuteronomy, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 **Blessings for Obedience.**
 
-1 Now, if you diligently obey the voice of the L ORD, your God, carefully observing all his commandments which I give you today, the L ORD, your God, will set you high above all the nations of the earth. ^deuteronomy-28-1
+1 Now, if you diligently obey the voice of the LORD, your God, carefully observing all his commandments which I give you today, the LORD, your God, will set you high above all the nations of the earth. ^deuteronomy-28-1
 
-2 All these blessings will come upon you and overwhelm you when you obey the voice of the L ORD, your God: ^deuteronomy-28-2
+2 All these blessings will come upon you and overwhelm you when you obey the voice of the LORD, your God: ^deuteronomy-28-2
 
 3 May you be blessed in the city, ^deuteronomy-28-3
 
@@ -45,25 +44,25 @@ and blessed in your going out!
 
 **Victory and Prosperity.**
 
-7 The L ORD will beat down before you the enemies that rise up against you; they will come out against you from one direction, and flee before you in seven. ^deuteronomy-28-7
+7 The LORD will beat down before you the enemies that rise up against you; they will come out against you from one direction, and flee before you in seven. ^deuteronomy-28-7
 
-8 The L ORD will affirm the blessing upon you, on your barns and on all your undertakings; he will bless you in the land that the L ORD, your God, is giving you. ^deuteronomy-28-8
+8 The LORD will affirm the blessing upon you, on your barns and on all your undertakings; he will bless you in the land that the LORD, your God, is giving you. ^deuteronomy-28-8
 
-9 The L ORD will establish you as a holy people, as he swore to you, if you keep the commandments of the L ORD, your God, and walk in his ways. ^deuteronomy-28-9
+9 The LORD will establish you as a holy people, as he swore to you, if you keep the commandments of the LORD, your God, and walk in his ways. ^deuteronomy-28-9
 
-10 All the peoples of the earth will see that the name of the L ORD is proclaimed over you, and they will be afraid of you. ^deuteronomy-28-10
+10 All the peoples of the earth will see that the name of the LORD is proclaimed over you, and they will be afraid of you. ^deuteronomy-28-10
 
-11 The L ORD will generously increase the fruit of your womb, the offspring of your livestock, and the produce of your soil, upon the land which the L ORD swore to your ancestors he would give you. ^deuteronomy-28-11
+11 The LORD will generously increase the fruit of your womb, the offspring of your livestock, and the produce of your soil, upon the land which the LORD swore to your ancestors he would give you. ^deuteronomy-28-11
 
-12 The L ORD will open up for you his rich storehouse, the heavens, to give your land rain in due season and to bless all the works of your hands. You will lend to many nations but borrow from none. ^deuteronomy-28-12
+12 The LORD will open up for you his rich storehouse, the heavens, to give your land rain in due season and to bless all the works of your hands. You will lend to many nations but borrow from none. ^deuteronomy-28-12
 
-13 The L ORD will make you the head not the tail, the top not the bottom, if you obey the commandments of the L ORD, your God, which I am giving you today, observing them carefully, ^deuteronomy-28-13
+13 The LORD will make you the head not the tail, the top not the bottom, if you obey the commandments of the LORD, your God, which I am giving you today, observing them carefully, ^deuteronomy-28-13
 
 14 not turning aside, either to the right or to the left, from any of the words which I am giving you today, following other gods and serving them. ^deuteronomy-28-14
 
 **Curses for Disobedience.**
 
-15 But if you do not obey the voice of the L ORD, your God, carefully observing all his commandments and statutes which I give you today, all these curses shall come upon you and overwhelm you: ^deuteronomy-28-15
+15 But if you do not obey the voice of the LORD, your God, carefully observing all his commandments and statutes which I give you today, all these curses shall come upon you and overwhelm you: ^deuteronomy-28-15
 
 16 May you be cursed in the city, and cursed in the country! ^deuteronomy-28-16
 
@@ -75,23 +74,23 @@ and blessed in your going out!
 
 **Sickness and Defeat.**
 
-20 The L ORD will send on you a curse, panic, and frustration in everything you set your hand to, until you are speedily destroyed and perish for the evil you have done in forsaking me. ^deuteronomy-28-20
+20 The LORD will send on you a curse, panic, and frustration in everything you set your hand to, until you are speedily destroyed and perish for the evil you have done in forsaking me. ^deuteronomy-28-20
 
-21 The L ORD will make disease cling to you until he has made an end of you from the land you are entering to possess. ^deuteronomy-28-21
+21 The LORD will make disease cling to you until he has made an end of you from the land you are entering to possess. ^deuteronomy-28-21
 
-22 The L ORD will strike you with consumption, fever, and inflammation, with fiery heat and drought, with blight and mildew, that will pursue you until you perish. ^deuteronomy-28-22
+22 The LORD will strike you with consumption, fever, and inflammation, with fiery heat and drought, with blight and mildew, that will pursue you until you perish. ^deuteronomy-28-22
 
 23 The heavens over your heads will be like bronze and the earth under your feet like iron. ^deuteronomy-28-23
 
-24 For rain the L ORD will give your land powdery dust, which will come down upon you from the heavens until you are destroyed. ^deuteronomy-28-24
+24 For rain the LORD will give your land powdery dust, which will come down upon you from the heavens until you are destroyed. ^deuteronomy-28-24
 
-25 The L ORD will let you be beaten down before your enemies; though you advance against them from one direction, you will flee before them in seven, so that you will become an object of horror to all the kingdoms of the earth. ^deuteronomy-28-25
+25 The LORD will let you be beaten down before your enemies; though you advance against them from one direction, you will flee before them in seven, so that you will become an object of horror to all the kingdoms of the earth. ^deuteronomy-28-25
 
 26 Your corpses will become food for all the birds of the air and for the beasts of the field, with no one to frighten them off. ^deuteronomy-28-26
 
-27 The L ORD will strike you with Egyptian boils and with tumors, skin diseases and the itch, from none of which you can be cured. ^deuteronomy-28-27
+27 The LORD will strike you with Egyptian boils and with tumors, skin diseases and the itch, from none of which you can be cured. ^deuteronomy-28-27
 
-28 And the L ORD will strike you with madness, blindness and panic, ^deuteronomy-28-28
+28 And the LORD will strike you with madness, blindness and panic, ^deuteronomy-28-28
 
 29 so that even at midday you will grope in the dark as though blind, unable to find your way. ^deuteronomy-28-29
 
@@ -107,13 +106,13 @@ and blessed in your going out!
 
 34 until you are driven mad by what your eyes must look upon. ^deuteronomy-28-34
 
-35 The L ORD will strike you with malignant boils of which you cannot be cured, on your knees and legs, and from the soles of your feet to the crown of your head. ^deuteronomy-28-35
+35 The LORD will strike you with malignant boils of which you cannot be cured, on your knees and legs, and from the soles of your feet to the crown of your head. ^deuteronomy-28-35
 
 **Exile.**
 
-36 The L ORD will bring you, and your king whom you have set over you, to a nation which you and your ancestors have not known, and there you will serve other gods, of wood and stone, ^deuteronomy-28-36
+36 The LORD will bring you, and your king whom you have set over you, to a nation which you and your ancestors have not known, and there you will serve other gods, of wood and stone, ^deuteronomy-28-36
 
-37 and you will be a horror, a byword, a taunt among all the peoples to which the L ORD will drive you. ^deuteronomy-28-37
+37 and you will be a horror, a byword, a taunt among all the peoples to which the LORD will drive you. ^deuteronomy-28-37
 
 **Fruitless Labors.**
 
@@ -131,25 +130,25 @@ and blessed in your going out!
 
 44 They will lend to you, not you to them. They will become the head, you the tail. ^deuteronomy-28-44
 
-45 All these curses will come upon you, pursuing you and overwhelming you, until you are destroyed, because you would not obey the voice of the L ORD, your God, by keeping his commandments and statutes which he gave you. ^deuteronomy-28-45
+45 All these curses will come upon you, pursuing you and overwhelming you, until you are destroyed, because you would not obey the voice of the LORD, your God, by keeping his commandments and statutes which he gave you. ^deuteronomy-28-45
 
 46 They will be a sign and a wonder for you and your descendants for all time. ^deuteronomy-28-46
 
-47 Since you would not serve the L ORD, your God, with heartfelt joy for abundance of every kind, ^deuteronomy-28-47
+47 Since you would not serve the LORD, your God, with heartfelt joy for abundance of every kind, ^deuteronomy-28-47
 
-48 in hunger and thirst, in nakedness and utter want, you will serve the enemies whom the L ORD will send against you. He will put an iron yoke on your neck, until he destroys you. ^deuteronomy-28-48
+48 in hunger and thirst, in nakedness and utter want, you will serve the enemies whom the LORD will send against you. He will put an iron yoke on your neck, until he destroys you. ^deuteronomy-28-48
 
 **Invasion and Siege.**
 
-49 The L ORD will raise up against you a nation from afar, from the end of the earth, that swoops down like an eagle, a nation whose language you do not understand, ^deuteronomy-28-49
+49 The LORD will raise up against you a nation from afar, from the end of the earth, that swoops down like an eagle, a nation whose language you do not understand, ^deuteronomy-28-49
 
 50 a nation of fierce appearance, that shows neither respect for the aged nor mercy for the young. ^deuteronomy-28-50
 
 51 They will consume the offspring of your livestock and the produce of your soil, until you are destroyed; they will leave you no grain or wine or oil, no issue of herd, no young of flock, until they have brought about your ruin. ^deuteronomy-28-51
 
-52 They will besiege you in each of your communities, until the great, fortified walls, in which you trust, come tumbling down all over your land. They will besiege you in every community throughout the land which the L ORD, your God, has given you, ^deuteronomy-28-52
+52 They will besiege you in each of your communities, until the great, fortified walls, in which you trust, come tumbling down all over your land. They will besiege you in every community throughout the land which the LORD, your God, has given you, ^deuteronomy-28-52
 
-53 and because of the siege and the distress to which your enemy subjects you, you will eat the fruit of your womb, the flesh of your own sons and daughters whom the L ORD, your God, has given you. ^deuteronomy-28-53
+53 and because of the siege and the distress to which your enemy subjects you, you will eat the fruit of your womb, the flesh of your own sons and daughters whom the LORD, your God, has given you. ^deuteronomy-28-53
 
 54 The most refined and fastidious man among you will begrudge his brother and his beloved wife and his surviving children, ^deuteronomy-28-54
 
@@ -159,37 +158,37 @@ and blessed in your going out!
 
 **Plagues.**
 
-58 If you are not careful to observe all the words of this law which is written in this book, and to fear this glorious and awesome name, the L ORD, your God, ^deuteronomy-28-58
+58 If you are not careful to observe all the words of this law which is written in this book, and to fear this glorious and awesome name, the LORD, your God, ^deuteronomy-28-58
 
-59 the L ORD will bring upon you and your descendants wondrous calamities, severe and constant calamities, and malignant and constant sicknesses. ^deuteronomy-28-59
+59 the LORD will bring upon you and your descendants wondrous calamities, severe and constant calamities, and malignant and constant sicknesses. ^deuteronomy-28-59
 
 60 He will bring back upon you all the diseases of Egypt which you dread, and they will cling to you. ^deuteronomy-28-60
 
-61 Even any sickness or calamity not written in this book of the law, that too the L ORD will bring upon you until you are destroyed. ^deuteronomy-28-61
+61 Even any sickness or calamity not written in this book of the law, that too the LORD will bring upon you until you are destroyed. ^deuteronomy-28-61
 
-62 You who were numerous as the stars of the heavens will be left few in number, because you would not obey the voice of the L ORD, your God. ^deuteronomy-28-62
+62 You who were numerous as the stars of the heavens will be left few in number, because you would not obey the voice of the LORD, your God. ^deuteronomy-28-62
 
 **Exile.**
 
-63 Just as the L ORD once took delight in making you prosper and grow, so will the L ORD now take delight in ruining and destroying you, and you will be plucked out of the land you are now entering to possess. ^deuteronomy-28-63
+63 Just as the LORD once took delight in making you prosper and grow, so will the LORD now take delight in ruining and destroying you, and you will be plucked out of the land you are now entering to possess. ^deuteronomy-28-63
 
-64 The L ORD will scatter you among all the peoples from one end of the earth to the other, and there you will serve other gods, of wood and stone, which you and your ancestors have not known. ^deuteronomy-28-64
+64 The LORD will scatter you among all the peoples from one end of the earth to the other, and there you will serve other gods, of wood and stone, which you and your ancestors have not known. ^deuteronomy-28-64
 
-65 Among these nations you will find no rest, not even a resting place for the sole of your foot, for there the L ORD will give you an anguished heart and wearied eyes and a trembling spirit. ^deuteronomy-28-65
+65 Among these nations you will find no rest, not even a resting place for the sole of your foot, for there the LORD will give you an anguished heart and wearied eyes and a trembling spirit. ^deuteronomy-28-65
 
 66 Your life will hang in suspense and you will stand in dread both day and night, never sure of your life. ^deuteronomy-28-66
 
 67 In the morning you will say, “Would that it were evening!” and in the evening you will say, “Would that it were morning!” because of the dread that your heart must feel and the sight that your eyes must see. ^deuteronomy-28-67
 
-68 The L ORD will send you back in ships to Egypt, by a route which I told you that you would never see again; and there you will offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer. ^deuteronomy-28-68
+68 The LORD will send you back in ships to Egypt, by a route which I told you that you would never see again; and there you will offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer. ^deuteronomy-28-68
 
-69 These are the words of the covenant which the L ORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant he made with them at Horeb. ^deuteronomy-28-69
+69 These are the words of the covenant which the LORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant he made with them at Horeb. ^deuteronomy-28-69
 
 \* (28:6) In your coming in…in your going out: at the beginning and end of every action, or in all actions in general. The rhetorical figure is called merismus. See also [6:7].
 
 \* (28:7) From one direction…in seven: in one disciplined body, contrasted with many scattered groups.
 
-\* (28:10) The name of the L ORD is proclaimed over you: an expression signifying ownership and protection. Cf. [2 Sm 12:28]; [1 Kgs 8:43]; [Is 4:1]; [63:19]; [Jer 7:10] – [11]; [14:9]; [15:16]; [25:29]; [Am 9:12].
+\* (28:10) The name of the LORD is proclaimed over you: an expression signifying ownership and protection. Cf. [2 Sm 12:28]; [1 Kgs 8:43]; [Is 4:1]; [63:19]; [Jer 7:10] – [11]; [14:9]; [15:16]; [25:29]; [Am 9:12].
 
 \* (28:25) From one direction…in seven: see note on v. [7].
 

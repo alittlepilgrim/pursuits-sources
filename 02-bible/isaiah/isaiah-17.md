@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 17
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 17
+title: Isaiah, Chapter 17
+url: https://bible.usccb.org/bible/isaiah/17
 aliases:
   - isaiah-17
   - Isaiah, Chapter 17
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 17
 ---
 
 # Isaiah, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
-#### Damascus
+### Damascus
 
 1 Oracle on Damascus: ^isaiah-17-1
 
@@ -41,7 +40,7 @@ The remnant of Aram shall become like the glory
 
 of the Israelites—
 
-oracle of the L ORD of hosts.
+oracle of the LORD of hosts.
 
 4 On that day ^isaiah-17-4
 
@@ -65,7 +64,7 @@ Two or three olives at the very top,
 
 four or five on its most fruitful branches—
 
-oracle of the L ORD, the God of Israel.
+oracle of the LORD, the God of Israel.
 
 7 On that day people shall turn to their maker, ^isaiah-17-7
 

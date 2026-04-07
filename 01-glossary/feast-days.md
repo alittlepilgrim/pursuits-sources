@@ -1,15 +1,17 @@
 ---
-title: Feast Days
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: feast-days. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Feast Days
+author:
 aliases:
   - Feast Days
   - feast-days
 tags:
   - term/feast-days
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: feast-days. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Feast Days

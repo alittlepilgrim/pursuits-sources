@@ -1,20 +1,19 @@
 ---
-title: Psalm 44
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 44
+title: Psalm 44
+url: https://bible.usccb.org/bible/psalms/44
 aliases:
   - Psalm 44
   - psalm-44
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/44
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 44
 ---
 
 # Psalm 44

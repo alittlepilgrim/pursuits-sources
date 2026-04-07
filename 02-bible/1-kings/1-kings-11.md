@@ -1,49 +1,48 @@
 ---
-title: 1 Kings, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 11
+title: 1 Kings, Chapter 11
+url: https://bible.usccb.org/bible/1kings/11
 aliases:
   - 1 Kings, Chapter 11
   - 1-kings-11
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/11
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 11
 ---
 
 # 1 Kings, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **The End of Solomon’s Reign.**
 
 1 King Solomon loved many foreign women besides the daughter of Pharaoh—Moabites, Ammonites, Edomites, Sidonians, Hittites— ^1-kings-11-1
 
-2 from nations of which the L ORD had said to the Israelites: You shall not join with them and they shall not join with you, lest they turn your hearts to their gods. But Solomon held them close in love. ^1-kings-11-2
+2 from nations of which the LORD had said to the Israelites: You shall not join with them and they shall not join with you, lest they turn your hearts to their gods. But Solomon held them close in love. ^1-kings-11-2
 
 3 He had as wives seven hundred princesses and three hundred concubines, and they turned his heart. ^1-kings-11-3
 
-4 When Solomon was old his wives had turned his heart to follow other gods, and his heart was not entirely with the L ORD, his God, as the heart of David his father had been. ^1-kings-11-4
+4 When Solomon was old his wives had turned his heart to follow other gods, and his heart was not entirely with the LORD, his God, as the heart of David his father had been. ^1-kings-11-4
 
 5 Solomon followed Astarte, the goddess of the Sidonians, and Milcom, the abomination of the Ammonites. ^1-kings-11-5
 
-6 Solomon did what was evil in the sight of the L ORD, and he did not follow the L ORD unreservedly as David his father had done. ^1-kings-11-6
+6 Solomon did what was evil in the sight of the LORD, and he did not follow the LORD unreservedly as David his father had done. ^1-kings-11-6
 
 7 Solomon then built a high place to Chemosh, the abomination of Moab, and to Molech, the abomination of the Ammonites, on the mountain opposite Jerusalem. ^1-kings-11-7
 
 8 He did the same for all his foreign wives who burned incense and sacrificed to their gods. ^1-kings-11-8
 
-9 The L ORD became angry with Solomon, because his heart turned away from the L ORD, the God of Israel, who had appeared to him twice ^1-kings-11-9
+9 The LORD became angry with Solomon, because his heart turned away from the LORD, the God of Israel, who had appeared to him twice ^1-kings-11-9
 
-10 and commanded him not to do this very thing, not to follow other gods. But he did not observe what the L ORD commanded. ^1-kings-11-10
+10 and commanded him not to do this very thing, not to follow other gods. But he did not observe what the LORD commanded. ^1-kings-11-10
 
-11 So the L ORD said to Solomon: Since this is what you want, and you have not kept my covenant and the statutes which I enjoined on you, I will surely tear the kingdom away from you and give it to your servant. ^1-kings-11-11
+11 So the LORD said to Solomon: Since this is what you want, and you have not kept my covenant and the statutes which I enjoined on you, I will surely tear the kingdom away from you and give it to your servant. ^1-kings-11-11
 
 12 But I will not do this during your lifetime, for the sake of David your father; I will tear it away from your son’s hand. ^1-kings-11-12
 
@@ -51,7 +50,7 @@ url: https://bible.usccb.org/bible/1kings/11
 
 **Threats to Solomon’s Kingdom.**
 
-14 The L ORD then raised up an adversary against Solomon: Hadad the Edomite, who was of the royal line in Edom. ^1-kings-11-14
+14 The LORD then raised up an adversary against Solomon: Hadad the Edomite, who was of the royal line in Edom. ^1-kings-11-14
 
 15 Earlier, when David had conquered Edom, Joab, the commander of the army, while going to bury the slain, killed every male in Edom. ^1-kings-11-15
 
@@ -87,7 +86,7 @@ url: https://bible.usccb.org/bible/1kings/11
 
 30 Ahijah took off his new cloak, tore it into twelve pieces, ^1-kings-11-30
 
-31 and said to Jeroboam: “Take ten pieces for yourself. Thus says the L ORD, the God of Israel: I am about to tear the kingdom out of Solomon’s hand and will give you ten of the tribes. ^1-kings-11-31
+31 and said to Jeroboam: “Take ten pieces for yourself. Thus says the LORD, the God of Israel: I am about to tear the kingdom out of Solomon’s hand and will give you ten of the tribes. ^1-kings-11-31
 
 32 He shall have one tribe for the sake of my servant David, and for the sake of Jerusalem, the city I have chosen out of all the tribes of Israel. ^1-kings-11-32
 

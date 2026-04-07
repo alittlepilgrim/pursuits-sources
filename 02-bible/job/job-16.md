@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 16
+title: Job, Chapter 16
+url: https://bible.usccb.org/bible/job/16
 aliases:
   - job-16
   - Job, Chapter 16
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 16
 ---
 
 # Job, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **Job’s Fourth Reply.**
 

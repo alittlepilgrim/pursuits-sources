@@ -1,25 +1,24 @@
 ---
-title: 1 Maccabees, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, Chapter 10
+title: 1 Maccabees, Chapter 10
+url: https://bible.usccb.org/bible/1maccabees/10
 aliases:
   - 1 Maccabees, Chapter 10
   - 1-maccabees-10
 tags:
   - bible/1-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/10
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, Chapter 10
 ---
 
 # 1 Maccabees, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Jonathan Becomes High Priest.**
 

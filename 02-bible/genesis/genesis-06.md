@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 6
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 6
+title: Genesis, Chapter 6
+url: https://bible.usccb.org/bible/genesis/6
 aliases:
   - genesis-06
   - Genesis, Chapter 6
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 6
 bible_book: genesis
 bible_chapter: "06"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/6
 ---
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]
@@ -32,19 +31,19 @@ url: https://bible.usccb.org/bible/genesis/6
 
 2 the sons of God saw how beautiful the daughters of human beings were, and so they took for their wives whomever they pleased. ^genesis-06-2
 
-3 Then the L ORD said: My spirit shall not remain in human beings forever, because they are only flesh. Their days shall comprise one hundred and twenty years. ^genesis-06-3
+3 Then the LORD said: My spirit shall not remain in human beings forever, because they are only flesh. Their days shall comprise one hundred and twenty years. ^genesis-06-3
 
 4 The Nephilim appeared on earth in those days, as well as later, after the sons of God had intercourse with the daughters of human beings, who bore them sons. They were the heroes of old, the men of renown. ^genesis-06-4
 
 **Warning of the Flood.**
 
-5 When the L ORD saw how great the wickedness of human beings was on earth, and how every desire that their heart conceived was always nothing but evil, ^genesis-06-5
+5 When the LORD saw how great the wickedness of human beings was on earth, and how every desire that their heart conceived was always nothing but evil, ^genesis-06-5
 
-6 the L ORD regretted making human beings on the earth, and his heart was grieved. ^genesis-06-6
+6 the LORD regretted making human beings on the earth, and his heart was grieved. ^genesis-06-6
 
-7 So the L ORD said: I will wipe out from the earth the human beings I have created, and not only the human beings, but also the animals and the crawling things and the birds of the air, for I regret that I made them. ^genesis-06-7
+7 So the LORD said: I will wipe out from the earth the human beings I have created, and not only the human beings, but also the animals and the crawling things and the birds of the air, for I regret that I made them. ^genesis-06-7
 
-8 But Noah found favor with the L ORD. ^genesis-06-8
+8 But Noah found favor with the LORD. ^genesis-06-8
 
 9 These are the descendants of Noah. Noah was a righteous man and blameless in his generation; Noah walked with God. ^genesis-06-9
 
@@ -84,7 +83,7 @@ url: https://bible.usccb.org/bible/genesis/6
 
 \* (6:5] – [8:22) The story of the great flood is commonly regarded as a composite narrative based on separate sources woven together. To the Yahwist source, with some later editorial additions, are usually assigned [6:5] – [8]; [7:1] – [5], [7] – [10], [12], [16b], [17b], [22] – [23]; [8:2b] – [3a], [6] – [12], [13b], [20] – [22]. The other sections are usually attributed to the Priestly writer. There are differences between the two sources: the Priestly source has two pairs of every animal, whereas the Yahwist source has seven pairs of clean animals and two pairs of unclean; the floodwater in the Priestly source is the waters under and over the earth that burst forth, whereas in the Yahwist source the floodwater is the rain lasting forty days and nights. In spite of many obvious discrepancies in these two sources, one should read the story as a coherent narrative. The biblical story ultimately draws upon an ancient Mesopotamian tradition of a great flood, preserved in the Sumerian flood story, the eleventh tablet of the Gilgamesh Epic, and (embedded in a longer creation story) the Atrahasis Epic.
 
-\* (6:6) His heart was grieved: the expression can be misleading in English, for “heart” in Hebrew is the seat of memory and judgment rather than emotion. The phrase is actually parallel to the first half of the sentence (“the L ORD regretted…”).
+\* (6:6) His heart was grieved: the expression can be misleading in English, for “heart” in Hebrew is the seat of memory and judgment rather than emotion. The phrase is actually parallel to the first half of the sentence (“the LORD regretted…”).
 
 \* (6:7) Human beings are an essential part of their environment, which includes all living things. In the new beginning after the flood, God makes a covenant with human beings and every living creature ([9:9] – [10]). The same close link between human beings and nature is found elsewhere in the Bible; e.g., in [Is 35], God’s healing transforms human beings along with their physical environment, and in [Rom 8:19] – [23], all creation, not merely human beings, groans in labor pains awaiting the salvation of God.
 
@@ -120,6 +119,6 @@ i. (6:18) [Gn 9:9]; [Wis 14:6]; [Heb 11:7]; [1 Pt 3:20]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]

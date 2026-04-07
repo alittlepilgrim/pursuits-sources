@@ -1,25 +1,24 @@
 ---
-title: Leviticus, Chapter 7
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 7
+title: Leviticus, Chapter 7
+url: https://bible.usccb.org/bible/leviticus/7
 aliases:
   - leviticus-07
   - Leviticus, Chapter 7
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 7
 ---
 
 # Leviticus, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **Reparation Offerings.**
 
@@ -31,7 +30,7 @@ url: https://bible.usccb.org/bible/leviticus/7
 
 4 as well as the two kidneys with the fat on them near the loins, and the lobe of the liver, which is removed with the kidneys. ^leviticus-07-4
 
-5 The priest shall burn these on the altar as an oblation to the L ORD. It is a reparation offering. ^leviticus-07-5
+5 The priest shall burn these on the altar as an oblation to the LORD. It is a reparation offering. ^leviticus-07-5
 
 6 Every male of the priestly line may eat of it; but it must be eaten in a sacred place. It is most holy. ^leviticus-07-6
 
@@ -45,13 +44,13 @@ url: https://bible.usccb.org/bible/leviticus/7
 
 **Communion Sacrifices.**
 
-11 This is the ritual for the communion sacrifice that is offered to the L ORD. ^leviticus-07-11
+11 This is the ritual for the communion sacrifice that is offered to the LORD. ^leviticus-07-11
 
 12 If someone offers it for thanksgiving, that person shall offer it with unleavened cakes mixed with oil, unleavened wafers spread with oil, and cakes made of bran flour mixed with oil and well kneaded. ^leviticus-07-12
 
 13 One shall present this offering together with loaves of leavened bread along with the thanksgiving communion sacrifice. ^leviticus-07-13
 
-14 From this the individual shall offer one bread of each type of offering as a contribution to the L ORD; this shall belong to the priest who splashes the blood of the communion offering. ^leviticus-07-14
+14 From this the individual shall offer one bread of each type of offering as a contribution to the LORD; this shall belong to the priest who splashes the blood of the communion offering. ^leviticus-07-14
 
 15 The meat of the thanksgiving communion sacrifice shall be eaten on the day it is offered; none of it may be kept till the next morning. ^leviticus-07-15
 
@@ -63,19 +62,19 @@ url: https://bible.usccb.org/bible/leviticus/7
 
 19 Should the meat touch anything unclean, it may not be eaten, but shall be burned in the fire. As for other meat, all who are clean may eat of it. ^leviticus-07-19
 
-20 If, however, someone in a state of uncleanness eats the meat of a communion sacrifice belonging to the L ORD, that person shall be cut off from the people. ^leviticus-07-20
+20 If, however, someone in a state of uncleanness eats the meat of a communion sacrifice belonging to the LORD, that person shall be cut off from the people. ^leviticus-07-20
 
-21 Likewise, if someone touches anything unclean, whether it be human uncleanness or an unclean animal or an unclean loathsome creature, and then eats the meat of the communion sacrifice belonging to the L ORD, that person, too, shall be cut off from the people. ^leviticus-07-21
+21 Likewise, if someone touches anything unclean, whether it be human uncleanness or an unclean animal or an unclean loathsome creature, and then eats the meat of the communion sacrifice belonging to the LORD, that person, too, shall be cut off from the people. ^leviticus-07-21
 
 **Prohibition Against Blood and Fat.**
 
-22 The L ORD said to Moses: ^leviticus-07-22
+22 The LORD said to Moses: ^leviticus-07-22
 
 23 Tell the Israelites: You shall not eat the fat of any ox or sheep or goat. ^leviticus-07-23
 
 24 Although the fat of an animal that has died a natural death or has been killed by wild beasts may be put to any other use, you may not eat it. ^leviticus-07-24
 
-25 If anyone eats the fat of an animal from which an oblation is made to the L ORD, that person shall be cut off from the people. ^leviticus-07-25
+25 If anyone eats the fat of an animal from which an oblation is made to the LORD, that person shall be cut off from the people. ^leviticus-07-25
 
 26 Wherever you dwell, you shall not eat any blood, whether of bird or of animal. ^leviticus-07-26
 
@@ -83,11 +82,11 @@ url: https://bible.usccb.org/bible/leviticus/7
 
 **Portions from the Communion Sacrifice for Priests.**
 
-28 The L ORD said to Moses: ^leviticus-07-28
+28 The LORD said to Moses: ^leviticus-07-28
 
-29 Tell the Israelites: The person who offers a communion sacrifice to the L ORD shall be the one to bring from it the offering to the L ORD. ^leviticus-07-29
+29 Tell the Israelites: The person who offers a communion sacrifice to the LORD shall be the one to bring from it the offering to the LORD. ^leviticus-07-29
 
-30 The offerer’s own hands shall carry the oblations for the L ORD: the person shall bring the fat together with the brisket, which is to be raised as an elevated offering before the L ORD. ^leviticus-07-30
+30 The offerer’s own hands shall carry the oblations for the LORD: the person shall bring the fat together with the brisket, which is to be raised as an elevated offering before the LORD. ^leviticus-07-30
 
 31 The priest shall burn the fat on the altar, but the brisket belongs to Aaron and his sons. ^leviticus-07-31
 
@@ -97,13 +96,13 @@ url: https://bible.usccb.org/bible/leviticus/7
 
 34 for from the communion sacrifices of the Israelites I have taken the brisket that is elevated and the leg that is a contribution, and I have given them to Aaron, the priest, and to his sons as their due from the Israelites forever. ^leviticus-07-34
 
-36 which the L ORD ordered to be given them from the Israelites on the day they were anointed, as their due throughout their generations forever. ^leviticus-07-36
+36 which the LORD ordered to be given them from the Israelites on the day they were anointed, as their due throughout their generations forever. ^leviticus-07-36
 
 **Summary.**
 
 37 This is the ritual for the burnt offering, the grain offering, the purification offering, the reparation offering, the ordination offering, and the communion sacrifice, ^leviticus-07-37
 
-38 which the L ORD enjoined on Moses at Mount Sinai at the time when he commanded the Israelites in the wilderness of Sinai to bring their offerings to the L ORD. ^leviticus-07-38
+38 which the LORD enjoined on Moses at Mount Sinai at the time when he commanded the Israelites in the wilderness of Sinai to bring their offerings to the LORD. ^leviticus-07-38
 
 \* (7:1] – [6) These prescriptions may appear here rather than in [5:14] – [26] where this offering is first treated because the monetary equivalent of the offering might have been brought instead of an actual animal. See note on [5:15].
 

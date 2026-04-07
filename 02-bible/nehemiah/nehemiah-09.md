@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 9
+title: Nehemiah, Chapter 9
+url: https://bible.usccb.org/bible/nehemiah/9
 aliases:
   - nehemiah-09
   - Nehemiah, Chapter 9
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 9
 ---
 
 # Nehemiah, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Public Confession of Sin.**
 
@@ -27,13 +26,13 @@ url: https://bible.usccb.org/bible/nehemiah/9
 
 2 Those of Israelite descent separated themselves from all who were of foreign extraction, then stood forward and confessed their sins and the guilty deeds of their ancestors. ^nehemiah-09-2
 
-3 When they had taken their places, they read from the book of the law of the L ORD their God, for a fourth of the day, and during another fourth they made their confession and bowed down before the L ORD their God. ^nehemiah-09-3
+3 When they had taken their places, they read from the book of the law of the LORD their God, for a fourth of the day, and during another fourth they made their confession and bowed down before the LORD their God. ^nehemiah-09-3
 
-4 Standing on the platform of the Levites were Jeshua, Binnui, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, who cried out to the L ORD their God, with a loud voice. ^nehemiah-09-4
+4 Standing on the platform of the Levites were Jeshua, Binnui, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, who cried out to the LORD their God, with a loud voice. ^nehemiah-09-4
 
 5 The Levites Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah said, ^nehemiah-09-5
 
-“Arise, bless the L ORD, your God,
+“Arise, bless the LORD, your God,
 
 from eternity to eternity!”
 
@@ -41,7 +40,7 @@ from eternity to eternity!”
 
 which is exalted above all blessing and praise.”
 
-6 “You are the L ORD, you alone; ^nehemiah-09-6
+6 “You are the LORD, you alone; ^nehemiah-09-6
 
 You made the heavens,
 
@@ -55,7 +54,7 @@ To all of them you give life,
 
 the heavenly hosts bow down before you.
 
-7 You are the L ORD God ^nehemiah-09-7
+7 You are the LORD God ^nehemiah-09-7
 
 who chose Abram,
 

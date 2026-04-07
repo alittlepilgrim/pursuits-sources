@@ -1,26 +1,26 @@
 ---
-title: Book the Third - The Ascent of Mt. Carmel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book the Third - The Ascent of Mt. Carmel
+title: Book the Third - The Ascent of Mt. Carmel
+author: Saint John of the Cross
 aliases:
   - Book the Third - The Ascent of Mt. Carmel
 tags:
-  - author/john-of-the-cross
+  - author/saint-john-of-the-cross
   - book
   - book/ascent-mt-carmel
   - saint/john-of-the-cross
   - type/book
-author: Saint John of the Cross
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book the Third - The Ascent of Mt. Carmel
 ---
 
 # Book the Third
 
 Which treats of the purgation of the active night of the memory and will. Gives instruction how the soul is to behave with respect to the apprehensions of these two faculties, that it may come to union with God, according to the two faculties aforementioned, in perfect hope and charity.
 
-### Chapter I.
+## Chapter I
 
 the First Faculty of the Soul, Which Is the Understanding, Has Now Been Instructed, Through All Its Apprehensions, in the First Theological Virtue, Which Is Faith, to the End That, According to This Faculty, the Soul May Be United with God by Means of the Purity of Faith. It Now Remains to Do Likewise with Respect to the Other Two Faculties of the Soul, Which Are Memory and Will, and to Purify Them Likewise with Respect to Their Apprehensions, to the End That, According to These Two Faculties Also, the Soul May Come to Union with God in Perfect Hope and Charity. This Will Briefly Be Effected in This Third Book. We Have Now Concluded Our Treatment of the Understanding, Which Is the Receptacle of All Other Objects According to Its Mode of Operation; and in Treating of This We Have Gone a Great Part of the Whole Way. It Is Therefore Unnecessary for Us to Write at Equal Length with Respect to These Faculties; for It Is Not Possible That, if the Spiritual Man Instructs His Understanding in Faith According to the Doctrine Which Has Been Given Him, He Should Not, in so Doing, Instruct the Other Two Faculties in the Other Two Virtues Likewise; for the Operations of Each Faculty Depend upon the Others
 
@@ -29,7 +29,7 @@ the First Faculty of the Soul, Which Is the Understanding, Has Now Been Instruct
 
 [480] It will be seen from what follows that in practice the Saint preserves the strictly tripartite division given in the text above, supernatural knowledge being found in each of the sections.
 
-### Chapter II. Which Treats of the Natural Apprehensions of the Memory and Describes How the Soul Must Be Voided of Them in Order to Be Able to Attain to Union with God According to This Faculty
+## Chapter II. Which Treats of the Natural Apprehensions of the Memory and Describes How the Soul Must Be Voided of Them in Order to Be Able to Attain to Union with God According to This Faculty
 
 It is necessary that, in each of these books, the reader should bear in mind the purpose of which we are speaking. For otherwise there may arise within him many such questions with respect to what he is reading as might by this time be occurring to him with respect to what we have said of the understanding, and shall say now of the memory, and afterwards shall say of the will. For, seeing how we annihilate the faculties with respect to their operations, it may perhaps seem to him that we are destroying the road of spiritual practice rather than constructing it.
 
@@ -69,7 +69,7 @@ all that is good, and it is by its means that the soul will most readily rise to
 
 [488] Romans VIII, 14.
 
-### Chapter III. Wherein Are Described Three Kinds of Evil Which Come to the Soul When It Enters Not into Darkness with Respect to Knowledge and Reflections in the Memory. Herein Is Described the First
+## Chapter III. Wherein Are Described Three Kinds of Evil Which Come to the Soul When It Enters Not into Darkness with Respect to Knowledge and Reflections in the Memory. Herein Is Described the First
 
 To three kinds of evil and inconvenience the spiritual man is subject when he persists in desiring to make use of all natural knowledge and reflections of the memory in order to journey toward God, or for any other purpose: two of these are positive and one is privative. The first comes from things of the world; the second, from the devil; the third, which is privative, is the impediment and hindrance to Divine union caused and effected in the soul.
 
@@ -93,7 +93,7 @@ To three kinds of evil and inconvenience the spiritual man is subject when he pe
 
 [495] Isaiah XLVIII, 18.
 
-### Chapter IV. Which Treats of the Second Kind of Evil That May Come to the Soul from the Devil by Way of the Natural Apprehensions of the Memory
+## Chapter IV. Which Treats of the Second Kind of Evil That May Come to the Soul from the Devil by Way of the Natural Apprehensions of the Memory
 
 The second positive evil that may come to the soul by means of the knowledge of the memory proceeds from the devil, who by this means obtains great influence over it. For he can continually bring it new forms, kinds of knowledge and reflections, by means whereof he can taint the soul with pride, avarice, wrath, envy, etc., and cause it unjust hatred, or vain love, and deceive it in many ways. And besides this, he is wont to leave impressions, [496] and to implant them in the fancy, in such wise that those that are false appear true, and those that are true, false, And finally all the worst deceptions which are caused by the devil, and the evils that he brings to the soul, enter by way of knowledge and reflections of the memory, Thus if the memory enter into darkness with respect to them all, and be annihilated in its oblivion to them, it shuts the door altogether upon this evil which proceeds from the devil, and frees itself from all these things, which is a great blessing. For the devil has no power over the soul unless it be through the operations of its faculties, principally by means of knowledge, whereupon depend almost all the other operations of the other faculties. Wherefore, if the memory be annihilated with respect to them, the devil can do naught; for he finds no foothold, and without a foothold he is powerless. [497]
 
@@ -103,14 +103,14 @@ The second positive evil that may come to the soul by means of the knowledge of 
 
 [497] [Lit., he finds nothing to seize upon, and with nothing he can do nothing.']
 
-### Chapter V. of the Third Evil Which Comes to the Soul by Way of the Distinct Natural Knowledge or the Memory
+## Chapter V. of the Third Evil Which Comes to the Soul by Way of the Distinct Natural Knowledge or the Memory
 
 The third evil which comes to the soul through the natural apprehensions of the memory is privative; for these apprehensions can hinder moral good and deprive us of spiritual good. And, in order that we may first of all explain how these apprehensions hinder moral good in the soul, it must be known that moral good consists in the restraining of the passions and the curbing of disorderly desires, from which restraint there come to the soul tranquillity, peace and rest, and moral virtues, all of which things are moral good. This restraining and curbing of the passions cannot be truly accomplished by the soul that forgets not and withdraws not itself from things pertaining to itself, whence arise the affections; and no disturbances ever arise in the soul save through the apprehensions of the memory. For, when all things are forgotten, there is naught that can disturb peace or that moves the desires; since, as they say, that which the eye sees not the heart desires not.
 
    2. This we are constantly learning by experience; for we observe that, whenever the soul begins to think of any matter, it is moved and disturbed, either much or little, with respect to that thing, according to the nature of its apprehension. If it be a troublesome and grievous matter, the soul finds sadness in it; if pleasant, desire and joy, and so forth. Wherefore the result of the changing of that apprehension is necessarily disturbance; and thus the soul is now joyful, now sad; now it hates, now loves; and it cannot continue in one and the same attitude (which is an effect of moral tranquillity save when it strives to forget all things. It is clear, then, that knowledge greatly hinders the good of the moral virtues in the soul.
    3. Again, what has been said clearly proves that an encumbered memory also hinders spiritual good; for the soul that is disturbed, and has no foundation of moral good, is to that extent incapable of spiritual good, which impresses itself only upon souls that are restrained and at peace. And besides this, if the soul pays attention and heed to the apprehensions of the memory -- seeing that it can attend to but one thing at a time -- and busies itself with things that can be apprehended, such as the knowledge of the memory, it is not possible for it to be free to attend to the incomprehensible, which is God. For, in order to approach God, the soul must proceed by not comprehending rather than by comprehending; it must exchange the mutable and comprehensible for the immutable and incomprehensible.
 
-### Chapter VI. of the Benefits Which Come to the Soul from Forgetfulness and Emptiness of All Thoughts and Knowledge Which It May Have in a Natural Way with Respect to the Memory
+## Chapter VI. of the Benefits Which Come to the Soul from Forgetfulness and Emptiness of All Thoughts and Knowledge Which It May Have in a Natural Way with Respect to the Memory
 
 From the evils which, as we have said, come to the soul through the apprehensions of the memory, we can likewise infer the benefits which are contrary to them and come to the soul as a result of its forgetting them and emptying itself of them. For, as natural philosophy puts it, the same doctrine which serves for one thing serves likewise for the contrary. In the first place, the soul enjoys tranquillity and peace of mind, since it is freed from the disturbance and the changeableness which arise from thoughts and ideas of the memory, and consequently, which is more important, it enjoys purity of conscience and soul. And herein the soul has ample preparation for the acquiring of Divine and human wisdom, and of the virtues.
 
@@ -130,7 +130,7 @@ From the evils which, as we have said, come to the soul through the apprehension
 
 [503] Lamentations III, 20.
 
-### Chapter VII. Which Treats or the Second Kind or Apprehension of the Memory -- Namely, Imaginary Apprehensions -- and of Supernatural Knowledge
+## Chapter VII. Which Treats or the Second Kind or Apprehension of the Memory -- Namely, Imaginary Apprehensions -- and of Supernatural Knowledge
 
 Although in writing of natural apprehensions of the first kind we also gave instruction concerning the imaginary, which are likewise natural, it was well to make this division because of the love which the memory always has for other forms and kinds of knowledge, which are of supernatural things, such as visions, revelations, locutions and feelings which come in a supernatural way. When these things have passed through the soul, there is wont to remain impressed upon it some image, form, figure or idea, whether in the soul or in the memory or fancy, at times very vividly and effectively. Concerning these images it is also needful to give advice, lest the memory be encumbered with them and they be a hindrance to its union with God in perfect and pure hope.
 
@@ -140,7 +140,7 @@ Although in writing of natural apprehensions of the first kind we also gave inst
 
 [505] St. Luke XIV, 33.
 
-### Chapter VIII. of the Evils Which May Be Caused in the Soul by the Knowledge of Supernatural Things, if It Reflect upon Them. Says How Many These Evils Are
+## Chapter VIII. of the Evils Which May Be Caused in the Soul by the Knowledge of Supernatural Things, if It Reflect upon Them. Says How Many These Evils Are
 
 The spiritual man incurs the risk of five kinds of evil if he pays heed to, and reflects upon, these forms and ideas which are impressed upon him by the things which pass through his mind in a supernatural way.
 
@@ -151,7 +151,7 @@ The spiritual man incurs the risk of five kinds of evil if he pays heed to, and 
 
 [506] Isaias V, 20.
 
-### Chapter IX. of the Second Kind of Evil, Which Is the Peril of Falling into Self-esteem and Vain Presumption
+## Chapter IX. of the Second Kind of Evil, Which Is the Peril of Falling into Self-esteem and Vain Presumption
 
 The supernatural apprehensions of the memory already described are also a frequent occasion to spiritual persons of falling into some kind of presumption or vanity, if they give heed to them and set store by them.
 
@@ -165,7 +165,7 @@ For, even as he who knows nothing of them is quite free from falling into this v
 
 [508] [Lit., in the heart.']
 
-### Chapter X. of the Third Evil That May Come to the Soul from the Devil, Through the Imaginary Apprehensions of the Memory
+## Chapter X. of the Third Evil That May Come to the Soul from the Devil, Through the Imaginary Apprehensions of the Memory
 
 From all that has been said above it may be clearly understood and inferred how great is the evil that may come to the soul from the devil by way of these supernatural apprehensions. For not only can he represent to the memory and the fancy many false forms and ideas, which seem true and good, impressing them on spirit and sense with great effectiveness and certifying them to be true by means of suggestion (so that it appears to the soul that it cannot be otherwise, but that everything is even as he represents it; for, as he transfigures himself into an angel of light, he appears as light to the soul); but he may also tempt the soul in many ways with respect to true knowledge, which is of God, moving its desires and affections, whether spiritual or sensual, in unruly fashion with respect to these; for, if the soul takes pleasure in such apprehensions, it is very easy for the devil to cause its desires and affections to grow within it, and to make it fall into spiritual gluttony and other evils.
 
@@ -176,7 +176,7 @@ From all that has been said above it may be clearly understood and inferred how 
 
 [510] Psalm CXXXVIII, 11 [A.V., CXXXIX, 11].
 
-### Chapter XI. of the Fourth Evil That Comes to the Soul from the Distinct Supernatural Apprehensions of the Memory, Which Is the Hindrance That It Interposes to Union
+## Chapter XI. of the Fourth Evil That Comes to the Soul from the Distinct Supernatural Apprehensions of the Memory, Which Is the Hindrance That It Interposes to Union
 
 Concerning this fourth evil there is not much to be said, since it has already been treated again and again in this third book, wherein we have proved how, in order that the soul may come to union with God in hope, it must renounce every possession of the memory; for, in order that its hope in God may be perfect, it must have naught in the memory that is not God. And, as we have likewise said, no form or figure or image or other kind of knowledge that may come to the memory can be God, neither can be like Him, whether it be of heaven or of earth, natural or supernatural, even as David teaches, when he says: Lord, among the gods there is none like unto Thee.' [511]
 
@@ -184,7 +184,7 @@ Concerning this fourth evil there is not much to be said, since it has already b
 
 [511] Psalm LXXXV, 8 [A.V., LXXXVI, 8].
 
-### Chapter XII. of the Fifth Evil That May Come to the Soul in Supernatural Imaginary Forms and Apprehensions, Which Is a Low and Unseemly Judgment or God
+## Chapter XII. of the Fifth Evil That May Come to the Soul in Supernatural Imaginary Forms and Apprehensions, Which Is a Low and Unseemly Judgment or God
 
 No less serious is the fifth evil that comes to the soul from its desire to retain in the memory and imagination the said forms and images of things that are supernaturally communicated to it, above all if it desires to use them as a means to Divine union. For it is a very easy thing to judge of the Being and greatness of God less worthily and nobly than befits His incomprehensible nature; for, although our reason and judgment may form no express conception that God is like any one of these things, yet the very esteeming of these apprehensions, if in fact the soul esteems them, makes and causes it not to esteem God, or not to feel concerning Him, as highly as faith teaches, since faith tells us that He is incomparable, incomprehensible, and so forth. For, quite apart from the fact that the soul takes from God all that it gives to the creature, it is natural that its esteem of these apprehensible things should lead it to make a certain inward comparison between such things and God, which would prevent it from judging and esteeming God as highly as it ought. For the creatures, whether terrestrial or celestial, and all distinct images and kinds of knowledge, both natural and supernatural, that can be encompassed by the faculties of the soul, however lofty they be in this life, have no comparison or proportion with the Being of God, since God falls within no genus and no species, whereas the creatures do, or so the theologians tell us. And the soul in this life is not capable of receiving in a clear and distinct manner aught save that which falls within genus and species. For this cause Saint John says that no man hath seen God at any time. [512] And Isaias says it has not entered into the heart of man what God is like. [513]
 
@@ -199,7 +199,7 @@ And God said to Moses that he could not see Him while he was in this mortal stat
 
 [514] Exodus XXXIII, 20.
 
-### Chapter XIII. of the Benefits Which the Soul Receives Through Banishing from Itself the Apprehensions of the Imagination. This Chapter Answers a Certain Objection and Explains a Difference Which Exists Between Apprehensions That Are Imaginary, Natural and Supernatural
+## Chapter XIII. of the Benefits Which the Soul Receives Through Banishing from Itself the Apprehensions of the Imagination. This Chapter Answers a Certain Objection and Explains a Difference Which Exists Between Apprehensions That Are Imaginary, Natural and Supernatural
 
 The benefits that come from voiding the imagination of imaginary forms can be clearly observed in the five evils aforementioned which they inflict upon the soul, if it desires to retain them, even as we also said of the natural forms. But, apart from these, there are other benefits for the spirit -- namely, those of great rest and quiet. For, setting aside that natural rest which the soul obtains when it is free from images and forms, it likewise becomes free from anxiety as to whether they are good or evil, and as to how it must behave with respect to the one and to the other. Nor has it to waste the labour and time of its spiritual masters by requiring them to decide if these things are good or evil, and if they are of this kind or of another; for the soul has no need to desire to know all this if it pays no heed to them. The time and energies which it would have wasted in dealing with these images and forms can be better employed in another and a more profitable exercise, which is that of the will with respect to God, and in having a care to seek detachment and poverty of spirit and sense, which consists in desiring earnestly to be without any consoling support that can be apprehended, whether interior or exterior. This we practise well when we desire and strive to strip ourselves of these forms, since from this there will proceed no less a benefit than that of approach to God (Who has no image, neither form nor figure), and this will be the greater according as the soul withdraws itself the more completely from all forms, images and figures of the imagination.
 
@@ -232,7 +232,7 @@ The benefits that come from voiding the imagination of imaginary forms can be cl
 
 [524] [Lit., because in the arm is.']
 
-### Chapter XIV. Which Treats of Spiritual Knowledge in so Far as It May Concern the Memory
+## Chapter XIV. Which Treats of Spiritual Knowledge in so Far as It May Concern the Memory
 
 We classed spiritual forms of knowledge as the third division of the apprehensions of the memory, not because they belong to the bodily sense of the fancy, as do the others, for they have no bodily form and image, but because they are likewise apprehensible by spiritual memory and reminiscence. Now, after the soul has had experience of one of these apprehensions, it can recall it whensoever it will; and this is not by the effigy and image that the apprehension has left in the bodily sense, for, since this is of bodily form, as we say, it has no capacity for spiritual forms; but because it recalls it, intellectually and spiritually, by means of that form which it has left impressed upon the soul, which is likewise a formal or spiritual form or notion or image, whereby it is recalled, or by means of the effect that it has wrought. It is for this reason that I place these apprehensions among those of the memory, although they belong not to the apprehensions of the fancy.
 
@@ -240,7 +240,7 @@ We classed spiritual forms of knowledge as the third division of the apprehensio
 
 [525] Really the chapter is the twenty-sixth.
 
-### Chapter XV. Which Sets Down the General Method Whereby the Spiritual Person Must Govern Himself with Respect to This Sense
+## Chapter XV. Which Sets Down the General Method Whereby the Spiritual Person Must Govern Himself with Respect to This Sense
 
 In order to conclude this discussion on the memory, it will be well at this point to give the spiritual reader an account of the method which he must observe, and which is of universal application, in order that he may be united with God according to this sense. For, although what has been said makes the subject quite clear, it will nevertheless be more easily apprehended if we summarize it here. To this end it must be remembered that, since our aim is the union of the soul with God in hope, according to the memory, and since that which is hoped for is that which is not possessed, and since, the less we possess of other things, the greater scope and the greater capacity have we for hoping, and consequently the greater hope, therefore, the more things we possess, the less scope and capacity is there for hoping, and consequently the less hope have we. Hence, the more the soul dispossesses the memory of forms and things which may be recalled by it, which are not God, the more will it set its memory upon God, and the emptier will its memory become, so that it may hope for Him Who shall fill it. What must be done, then, that the soul may live in the perfect and pure hope of God is that, whensoever these distinct images, forms and ideas come to it, it must not rest in them, but must turn immediately to God, voiding the memory of them entirely, with loving affection. It must neither think of these things nor consider them beyond the degree which is necessary for the understanding and performing of its obligations, if they have any concern with these. And this it must do without setting any affection or inclination upon them, so that they may produce no effects in the soul. And thus a man must not fail to think and recall that which he ought to know and do, for, provided he preserves no affection or attachments, this will do him no harm. For this matter the lines of the Mount, which are in the thirteenth chapter of the first book, will be of profit.
 
@@ -252,7 +252,7 @@ In order to conclude this discussion on the memory, it will be well at this poin
 
 [528] [Lit., the painted image.']
 
-### Chapter XVI. Which Begins to Treat of the Dark Night of the Will. Makes a Division Between the Affections of the Will
+## Chapter XVI. Which Begins to Treat of the Dark Night of the Will. Makes a Division Between the Affections of the Will
 
 We should have accomplished nothing by the purgation of the understanding in order to ground it in the virtue of faith, and by the purgation of the memory in order to ground it in hope, if we purged not the will also according to the third virtue, which is charity, whereby the works that are done in faith live and have great merit, and without it are of no worth. For, as Saint James says: Without works of charity, faith is dead.' [529] And, now that we have to treat of the active detachment and night of this faculty, in order to form it and make it perfect in this virtue of the charity of God, I find no more fitting authority than that which is written in the sixth chapter of Deuteronomy, where Moses says: Thou shalt love the Lord thy God with thy whole heart and with thy whole soul and with thy whole strength.'
 
@@ -278,7 +278,7 @@ We should have accomplished nothing by the purgation of the understanding in ord
 
 [535] Cf. Bk. III, ch. XVI, above.
 
-### Chapter XVII. Which Begins to Treat of the First Affections of the Will. Describes the Nature of Joy and Makes a Distinction Between the Things in Which the Will Can Rejoice
+## Chapter XVII. Which Begins to Treat of the First Affections of the Will. Describes the Nature of Joy and Makes a Distinction Between the Things in Which the Will Can Rejoice
 
 The first of the passions of the soul and affections of the will is joy, which, in so far as concerns that which we propose to say about it, is naught else than a satisfaction of the will together with esteem for something which it considers desirable; for the will never rejoices save when an object affords it appreciation and satisfaction. This has reference to active joy, which arises when the soul clearly and distinctly understands the reason for its rejoicing, and when it is in its own power to rejoice or not. There is another and a passive joy, a condition in which the will may find itself rejoicing without understanding clearly and distinctly the reason for its rejoicing, and which also occurs at times when it does understand this; but it is not in the soul's power to rejoice or not. Of this condition we shall speak hereafter. For the present we shall speak of joy when it is active and voluntary and arises from things that are distinct and clear.
 
@@ -288,7 +288,7 @@ The first of the passions of the soul and affections of the will is joy, which, 
 
 is bienes, often rendered goods.' I use blessings' or good things' in the following chapters, according as best suits the context.]
 
-### Chapter XVIII. Which Treats of Joy with Respect to Temporal Blessings. Describes How Joy in Them Must Be Directed to God
+## Chapter XVIII. Which Treats of Joy with Respect to Temporal Blessings. Describes How Joy in Them Must Be Directed to God
 
 The first kind of blessing of which we have spoken is temporal. And by temporal blessings we here understand riches, rank, office and other things that men desire; and children, relatives, marriages, etc.: all of which are things wherein the will may rejoice. But it is clear how vain a thing it is for men to rejoice in riches, titles, rank, office and other such things which they are wont to desire; for, if a man were the better servant of God for being rich, he ought to rejoice in riches; but in fact they are rather a cause for his giving offence to God, even as the Wise Man teaches, saying: Son, if thou be rich, thou shalt not be free from sin.' [537] Although it is true that temporal blessings do not necessarily of themselves cause sin, yet, through the frailty of its affections, the heart of man habitually clings to them and fails God (which is a sin, for to fail God is sin); it is for this cause that the Wise Man says: Thou shalt not be free from sin.' For this reason the Lord described riches, in the Gospel, as thorns, [538]
 
@@ -340,7 +340,7 @@ in order to show that he who touches them [539] with the will shall be wounded b
 
 [556] [Lit., bring it no profit.']
 
-### Chapter XIX. of the Evils That May Befall the Soul When It Sets Its Rejoicing upon Temporal Blessings
+## Chapter XIX. of the Evils That May Befall the Soul When It Sets Its Rejoicing upon Temporal Blessings
 
 If we had to describe the evils which encompass the soul when it sets the affections of its will upon temporal blessings, neither ink nor paper would suffice us and our time would be too short. For from very small beginnings a man may attain to great evils and destroy great blessings; even as from a spark of fire, if it be not quenched, may be enkindled great fires which set the world ablaze. All these evils have their root and origin in one important evil of a privative kind that is contained in this joy -- namely, withdrawal from God. For even as, in the soul that is united with Him by the affection of its will, there are born all blessings, even so, when it withdraws itself from Him because of this creature affection, there beset it all evils and disasters proportionately to the joy and affection wherewith it is united with the creature; for this is inherent in [557] withdrawal from God. Wherefore a soul may expect the evils which assail it to be greater or less according to the greater or lesser degree of its withdrawal from God. These evils may be extensive or intensive; for the most part they are both together.
 
@@ -395,7 +395,7 @@ If we had to describe the evils which encompass the soul when it sets the affect
 
 [576] Psalm XLVIII, 17-18 [A.V., XLIX, 16-17].
 
-### Chapter XX. of the Benefits That Come to the Soul from Its Withdrawal of Joy from Temporal Things
+## Chapter XX. of the Benefits That Come to the Soul from Its Withdrawal of Joy from Temporal Things
 
 The spiritual man, then, must look carefully to it that his heart and his rejoicing begin not to lay hold upon temporal things; he must fear lest from being little it should grow to be great, and should increase from one degree to another. For little things, in time, become great; and from a small beginning there comes in the end a great matter, even as a spark suffices to set a mountain on fire and to burn up the whole world. And let him never be self-confident because his attachment is small, and fail to uproot it instantly because he thinks that he will do so later. For if, when it is so small and in its beginnings, he has not the courage to make an end of it, how does he suppose, and presume, that he will be able to do so when it is great and more deeply rooted.
 
@@ -419,7 +419,7 @@ The more so since Our Lord said in the Gospel: He that is unfaithful in little w
 
 [583] Apocalypse XVIII, 7.
 
-### Chapter XXI. Which Describes How It Is Vanity to Set the Rejoicing of the Will upon the Good Things of Nature, and How the Soul Must Direct Itself, by Means of Them, to God
+## Chapter XXI. Which Describes How It Is Vanity to Set the Rejoicing of the Will upon the Good Things of Nature, and How the Soul Must Direct Itself, by Means of Them, to God
 
 By natural blessings we here understand beauty, grace, comeliness, bodily constitution and all other bodily endowments; and likewise, in the soul, good understanding, discretion and other things that pertain to reason. Many a man sets his rejoicing upon all these gifts, to the end that he himself, or those that belong to him, may possess them, and for no other reason, and gives no thanks to God Who bestows them on him so that He may be better known and loved by him because of them. But to rejoice for this cause alone is vanity and deception, as Solomon says in these words: Deceitful is grace and vain is beauty; the woman who fears God, she shall be praised.' [584] Here he teaches us that a man ought rather to be fearful because of these natural gifts, since he may easily be distracted by them from the love of God, and, if he be attracted by them, he may fall into vanity and be deceived. For this reason bodily grace is said to be deceptive because it deceives a man in the ways and attracts him to that which beseems him not, through vain joy and complacency, either in himself or in others that have such grace. And it is said that beauty is vain because it causes a man to fall in many ways when he esteems it and rejoices in it, for he should rejoice only if he serves God or others through it. But he ought rather to fear and harbour misgivings lest perchance his natural graces and gifts should be a cause of his offending God, either by his vain presumption or by the extreme affection with which he regards them.
 
@@ -433,7 +433,7 @@ Wherefore he that has such gifts should be cautious and live carefully, lest, by
 
 [586] Ecclesiastes II, 2.
 
-### Chapter XXII. of the Evils Which Come to the Soul When It Sets the Rejoicing of Its Will upon the Good Things of Nature
+## Chapter XXII. of the Evils Which Come to the Soul When It Sets the Rejoicing of Its Will upon the Good Things of Nature
 
 Although many of these evils and benefits that I am describing in treating of these kinds of joy are common to all, yet, because they follow directly from joy and detachment from joy (although comprised under any one of these six divisions which I am treating), therefore I speak under each heading of some evils and benefits which are also found under another, since these, as I say, are connected with that joy which belongs to them all. But my principal intent is to speak of the particular evils and benefits which come to the soul, with respect to each thing, through its rejoicing or not rejoicing in it. These I call particular evils, because they are primarily and immediately caused by one particular kind of rejoicing, and are not, save in a secondary and mediate sense, caused by another. The evil of spiritual lukewarmness, for example, is caused directly by any and every kind of joy, and this evil is therefore common to all these six kinds; but fornication is a particular evil, which is the direct result only of joy in the good things of nature of which we are speaking.
 
@@ -461,7 +461,7 @@ Although many of these evils and benefits that I am describing in treating of th
 
 [595] Proverbs XXIII, 31-2.
 
-### Chapter XXIII. of the Benefits Which the Soul Receives from Not Setting Its Rejoicing upon the Good Things of Nature
+## Chapter XXIII. of the Benefits Which the Soul Receives from Not Setting Its Rejoicing upon the Good Things of Nature
 
 Many are the benefits which come to the soul through the withdrawal of its heart from this rejoicing; for, besides preparing itself for the love of God and the other virtues, it makes a direct way for its own humility, and for a general charity toward its neighbours. For, as it is not led by the apparent good things of nature, which are deceitful, into affection for anyone, the soul remains free and able [596] to love them all rationally and spiritually, as God wills them to be loved.
 
@@ -481,7 +481,7 @@ Here it must be understood that none deserves to be loved, save for the virtue t
 
 [599] Wisdom I, 5.
 
-### Chapter XXIV. Which Treats of the Third Kind of Good Thing Whereon the Will May Set the Affection of Rejoicing, Which Kind Pertains to Sense. Indicates What These Good Things Are and of How Many Kinds, and How the Will Has to Be Directed to God and Purged of This Rejoicing
+## Chapter XXIV. Which Treats of the Third Kind of Good Thing Whereon the Will May Set the Affection of Rejoicing, Which Kind Pertains to Sense. Indicates What These Good Things Are and of How Many Kinds, and How the Will Has to Be Directed to God and Purged of This Rejoicing
 
 We have next to treat of rejoicing with respect to the good things of sense, which is the third kind of good thing wherein we said that the will may rejoice. And it is to be noted that by the good things of sense we here understand everything in this life that can be apprehended by the senses of sight, hearing, smell, taste or touch, and by the interior fashioning of imaginary reflections, all of which things belong to the bodily senses, interior and exterior.
 
@@ -496,7 +496,7 @@ We have next to treat of rejoicing with respect to the good things of sense, whi
 
 [601] [Lit., that is not in renunciation...']
 
-### Chapter XXV. Which Treats of the Evils That Afflict the Soul When It Desires to Set the Rejoicing of Its Will upon the Good Things of Sense
+## Chapter XXV. Which Treats of the Evils That Afflict the Soul When It Desires to Set the Rejoicing of Its Will upon the Good Things of Sense
 
 In the first place, if the soul does not darken and quench the joy which may arise within it from the things of sense, and direct its rejoicing to God, all the general kinds of evil which we have described as arising from every other kind of rejoicing follow from this joy in the things of sense: such evils are darkness in the reason, lukewarmness, spiritual weariness, etc. But, to come to details, many are the evils, spiritual, bodily and sensual, into which the soul may fall through this rejoicing.
 
@@ -512,7 +512,7 @@ In the first place, if the soul does not darken and quench the joy which may ari
 
 [603] [Lit., to the quantity.']
 
-### Chapter XXVI. of the Benefits That Come to the Soul from Self-denial in Rejoicing as to Things of Sense, Which Benefits Are Spiritual and Temporal
+## Chapter XXVI. of the Benefits That Come to the Soul from Self-denial in Rejoicing as to Things of Sense, Which Benefits Are Spiritual and Temporal
 
 Marvellous are the benefits that the soul derives from self-denial in this rejoicing: some of these are spiritual and some temporal.
 
@@ -536,7 +536,7 @@ Marvellous are the benefits that the soul derives from self-denial in this rejoi
 
 [609] 2 Corinthians IV, 17.
 
-### Chapter XXVII. Which Begins to Treat of the Fourth Kind of Good -- Namely, the Moral. Describes Wherein This Consists, and in What Manner Joy of the Will Therein Is Lawful
+## Chapter XXVII. Which Begins to Treat of the Fourth Kind of Good -- Namely, the Moral. Describes Wherein This Consists, and in What Manner Joy of the Will Therein Is Lawful
 
 The fourth kind of good wherein the will may rejoice is moral. By this we here understand the virtues, and the habits of the virtues, in so far as these are moral, and the practice of any virtue, and the practice of works of mercy, the keeping of the law of God, and of that of the commonweal, [610] and the putting into practice of all good intentions and inclinations.
 
@@ -555,7 +555,7 @@ and theological' virtues. P. Silverio glosses the word as meaning good governmen
 
 [612] 3 Kings [A.V., 1 Kings] III, 11-13.
 
-### Chapter XXVIII. of Seven Evils into Which a Man May Fall if He Set the Rejoicing of His Will upon Moral Good
+## Chapter XXVIII. of Seven Evils into Which a Man May Fall if He Set the Rejoicing of His Will upon Moral Good
 
 The principal evils into which a man may fall through vain rejoicing in his good works and habits I find to be seven; and they are very hurtful because they are spiritual.
 
@@ -590,7 +590,7 @@ The principal evils into which a man may fall through vain rejoicing in his good
 
 [623] Micheas VII, 3.
 
-### Chapter XXIX. of the Benefits Which Come to the Soul Through the Withdrawal of Its Rejoicing from Moral Good
+## Chapter XXIX. of the Benefits Which Come to the Soul Through the Withdrawal of Its Rejoicing from Moral Good
 
 Very great are the benefits which come to the soul when it desires not to set the vain rejoicing of its will on this kind of good. For, in the first place, it is freed from falling into many temptations and deceits of the devil, which are involved in rejoicing in these good works, as we may understand by that which is said in Job, namely: He sleepeth under the shadow, in the covert of the reed and in moist places.' [624]
 
@@ -611,7 +611,7 @@ This he applies to the devil, who deceives the soul in the moisture of rejoicing
 
 [628] St. Matthew V, 3.
 
-### Chapter XXX. Which Begins to Treat of the Fifth Kind of Good Wherein the Will May Rejoice, Which Is the Supernatural. Describes the Nature of These Supernatural Good Things, and How They Are Distinguished from the Spiritual, and How Joy in Them Is to Be Directed to God
+## Chapter XXX. Which Begins to Treat of the Fifth Kind of Good Wherein the Will May Rejoice, Which Is the Supernatural. Describes the Nature of These Supernatural Good Things, and How They Are Distinguished from the Spiritual, and How Joy in Them Is to Be Directed to God
 
 It now behoves us to treat of the fifth kind of good thing wherein the soul may rejoice, which is the supernatural. By this term we here understand all the gifts and graces given by God which transcend natural virtue and capacity and are called gratis datae. Such as these are the gifts of wisdom and knowledge which God gave to Solomon, and the graces whereof Saint Paul speaks [629] -- namely, faith, gifts of healing, the working of miracles, prophecy, knowledge and discernment of spirits, interpretation of words and likewise the gift of tongues.
 
@@ -634,7 +634,7 @@ It now behoves us to treat of the fifth kind of good thing wherein the soul may 
 
 [635] St. Luke X, 20.
 
-### Chapter XXXI. of the Evils Which Come to the Soul When It Sets the Rejoicing of the Will upon This Kind of Good
+## Chapter XXXI. of the Evils Which Come to the Soul When It Sets the Rejoicing of the Will upon This Kind of Good
 
 Three principal evils, it seems to me, may come to the soul when it sets its rejoicing upon supernatural good. These are: that it may deceive and be deceived; that it may fall away from the faith; and that it may indulge in vainglory or some other such vanity.
 
@@ -684,7 +684,7 @@ St. Gregory, Hom. 26 in Evang. (Migne, Vol. LXXVI, p. 1,137).
 
 [652] St. Luke X, 20.
 
-### Chapter XXXII. of Two Benefits Which Are Derived from the Renunciation of Rejoicing in the Matter of the Supernatural Graces
+## Chapter XXXII. of Two Benefits Which Are Derived from the Renunciation of Rejoicing in the Matter of the Supernatural Graces
 
 Besides the benefits which the soul gains by being delivered from the three evils aforementioned through its renunciation of this joy, it acquires two excellent benefits. The first is that it magnifies and exalts God: the second is that it exalts itself. For God is exalted in the soul after two manners: first, by the withdrawal of the heart and the joy of the will from all that is not God, in order that they may be set upon Him alone. This David signified in the verse which we quoted when we began to speak of the night of this faculty; namely: Man shall attain to a lofty heart, and God shall be exalted.' [653] For, when the heart is raised above all things, the soul is exalted above them all.
 
@@ -698,7 +698,7 @@ Besides the benefits which the soul gains by being delivered from the three evil
 
 [655] Psalm LXII, 3 [A.V., LXII, 1-2].
 
-### Chapter XXXIII. Which Begins to Treat of the Sixth Kind of Good Wherein the Soul May Rejoice. Describes Its Nature and Makes the First Division Under This Head
+## Chapter XXXIII. Which Begins to Treat of the Sixth Kind of Good Wherein the Soul May Rejoice. Describes Its Nature and Makes the First Division Under This Head
 
 Since the intention of this work of ours is to lead the spirit through these good things of the spirit even to the Divine union of the soul with God, it will not behove both myself and the reader to give our consideration to this matter with particular care. For, in speaking of this sixth kind of good, we have to treat of the good things of the spirit, which are those that are of the greatest service to this end.
 
@@ -713,13 +713,13 @@ For it is quite certain, and quite an ordinary occurrence, [656] that some perso
 
 [657] [In spite of this promise, the Saint does not return to this subject at such length as his language here would suggest.]
 
-### Chapter XXXIV. of Those Good Things of the Spirit Which Can Be Distinctly Apprehended by the Understanding and the Memory. Describes How the Will Is to Behave in the Matter of Rejoicing in Them
+## Chapter XXXIV. of Those Good Things of the Spirit Which Can Be Distinctly Apprehended by the Understanding and the Memory. Describes How the Will Is to Behave in the Matter of Rejoicing in Them
 
 We might spend much time here upon the multitude of the apprehensions of the memory and the understanding, teaching how the will is to conduct itself with regard to the joy that it may have in them, had we not treated of this at length in the second and the third book. But, since we there spoke of the manner wherein it behoves these two faculties to act with respect to them, in order that they may take the road to Divine union, and since it behoves the will to conduct itself likewise as regards rejoicing in them, it is unnecessary to go over this here; for it suffices to say that wheresoever we there said that those faculties should void themselves of this or that apprehension, it is to be understood also that the will should likewise be voided of joy in them. And in the way wherein it is said that memory and understanding are to conduct themselves with regard to all these apprehensions, the will must conduct itself likewise; for, since the understanding and the other faculties cannot admit or reject anything unless the will intervene therein, it is clear that the same teaching that serves for the one will serve also for the other.
 
    2. It may there be seen, then, what is requisite in this case, for the soul will fall into all the evils and perils to which we there referred if it cannot direct the rejoicing of the will to God in all those apprehensions.
 
-### Chapter XXXV. of the Delectable Spiritual Good Things Which Can Be Distinctly Apprehended by the Will. Describes the Kinds of These
+## Chapter XXXV. of the Delectable Spiritual Good Things Which Can Be Distinctly Apprehended by the Will. Describes the Kinds of These
 
 We can reduce all the kinds of good which can distinctly cause joy to the will to four: namely, motive, provocative, directive and perfective. Of these we shall speak in turn, each in its order; and first, of the motive kind -- namely, images and portraits of saints, oratories and ceremonies.
 
@@ -737,7 +737,7 @@ We can reduce all the kinds of good which can distinctly cause joy to the will t
 
 [660] [In this and the next paragraph the Saint is more than usually personal in his approach to the reader. The word tú(you) is repeated many times, and placed in emphatic positions, in a way which cannot be exactly reproduced in English.]
 
-### Chapter XXXVI. Which Continues to Treat of Images, and Describes the Ignorance Which Certain Persons Have with Respect to Them
+## Chapter XXXVI. Which Continues to Treat of Images, and Describes the Ignorance Which Certain Persons Have with Respect to Them
 
 There is much that might be said of the stupidity which many persons display with regard to images; their foolishness reaches such a point that some of them place more confidence in one kind of image than in another, believing that God will hear them more readily because of these than because of those, even when both represent the same thing, as when there are two of Christ or two of Our Lady. And this happens because they have more affection for the one kind of workmanship than for the other; which implies the crudest ideas concerning intercourse with God and the worship and honour that are owed to Him, which has solely to do with the faith and the purity of heart of him that prays.
 
@@ -752,13 +752,13 @@ For if God sometimes grants more favours by means of one image rather than by an
 
 [662] St. Luke IV, 24. [Rather St. Matthew XIII, 58 or St. Mark VI, 5.]
 
-### Chapter XXXVII. of How the Rejoicing of the Will Must Be Directed, by Way of the Images, to God, so That the Soul May Not Go Astray Because of Them or Be Hindered by Them
+## Chapter XXXVII. of How the Rejoicing of the Will Must Be Directed, by Way of the Images, to God, so That the Soul May Not Go Astray Because of Them or Be Hindered by Them
 
 Just as images are of great benefit for remembering God and the saints, and for moving the will to devotion when they are used in the ordinary way, as is fitting, so they will lead to great error if, when supernatural happenings come to pass in connection with them, the soul should not be able to conduct itself as is fitting for its journey to God. For one of the means by which the devil lays hold on incautious souls, with great ease, and obstructs the way of spiritual truth for them, is the use of extraordinary and supernatural happenings, of which he gives examples by means of images, both the material and corporeal images used by the Church, and also those which he is wont to fix in the fancy in relation to such or such a saint, or an image of him, transforming himself into an angel of light that he may deceive. For in those very means which we possess for our relief and help the astute devil contrives to hide himself in order to catch us when we are least prepared. Wherefore it is concerning good things that the soul that is good must ever have the greatest misgivings, for evil things bear their own testimony with them.
 
    2. Hence, in order to avoid all the evils which may happen to the soul in this connection, which are its being hindered from soaring upward to God, or its using images in an unworthy and ignorant manner, or its being deceived by them through natural or supernatural means, all of which are things that we have touched upon above; and in order likewise to purify the rejoicing of the will in them and by means of them to lead the soul to God, for which reason the Church recommends their use, I desire here to set down only one warning, which will suffice for everything; and this warning is that, since images serve us as a motive for invisible things, we must strive to set the motive and the affection and the rejoicing of our will only upon that which in fact they represent. Let the faithful soul, then, be careful that, when he sees the image, he desire not that his senses should be absorbed by it, whether the image be corporeal or imaginary, whether beautifully made, whether richly adorned, whether the devotion that it causes be of sense or of spirit, whether it produce supernatural manifestations or no. The soul must on no account set store by these accidents, nor even regard them, but must raise up its mind from the image to that which it represents, centering the sweetness and rejoicing of its will, together with the prayer and devotion of its spirit, upon God or upon the saint who is being invoked; for that which belongs to the living reality and to the spirit should not be usurped by sense and by the painted object. If the soul do this, it will not be deceived, for it will set no store by anything that the image may say to it, nor will it occupy its sense or its spirit in such a way that they cannot travel freely to God, nor will it place more confidence in one image than in another. And an image which would cause the soul devotion by supernatural means will now do so more abundantly, since the soul will now go with its affections directly to God. For, whensoever God grants these and other favours, He does so by inclining the affection of the joy of the will to that which is invisible, and this He wishes us also to do, by annihilating the power and sweetness of the faculties with respect to these visible things of sense.
 
-### Chapter XXXVIII. Continues to Describe Motive Good. Speaks of Oratories and Places Dedicated to Prayer
+## Chapter XXXVIII. Continues to Describe Motive Good. Speaks of Oratories and Places Dedicated to Prayer
 
 I think it has now been explained how the spiritual person may find as great imperfection in the accidents of images, by setting his pleasure and rejoicing upon them, as in other corporeal and temporal things, and perchance imperfection more perilous still. And I say perchance more perilous, because, when a person says that the objects of his rejoicing are holy, he feels more secure, and fears not to cling to them and become attached to them in a natural way. And thus such a person is sometimes greatly deceived, thinking himself to be full of devotion because he perceives that he takes pleasure in these holy things, when, perchance, this is due only to his natural desire and temperament, which lead him to this just as they lead him to other things.
 
@@ -781,7 +781,7 @@ I think it has now been explained how the spiritual person may find as great imp
 
 [669] [Lit., that spin more finely' -- a common Spanish metaphor.]
 
-### Chapter XXXIX. of the Way in Which Oratories and Churches Should Be Used, in Order to Direct the Spirit to God
+## Chapter XXXIX. of the Way in Which Oratories and Churches Should Be Used, in Order to Direct the Spirit to God
 
 With regard to the direction of the spirit to God through this kind of good, it is well to point out that it is certainly lawful, and even expedient, for beginners to find some sensible sweetness and pleasure in images, oratories and other visible objects of devotion, since they have not yet weaned or detached their desire [670] from things of the world, so that they can leave the one pleasure for the other. They are like a child holding something in one of its hands; to make it loosen its hold upon it we give it something else to hold in the other hand lest it should cry because both its hands are empty. But the spiritual person that would make progress must strip himself of all those pleasures and desires wherein the will can rejoice, for pure spirituality is bound very little to any of those objects, but only to interior recollection and mental converse with God. So, although he makes use of images and oratories, he does so only fleetingly; his spirit at once comes to rest in God and he forgets all things of sense.
 
@@ -792,7 +792,7 @@ With regard to the direction of the spirit to God through this kind of good, it 
 
 [671] St. John IV, 23-4.
 
-### Chapter XL. Which Continues to Direct the Spirit to Interior Recollection with Reference to What Has Been Said
+## Chapter XL. Which Continues to Direct the Spirit to Interior Recollection with Reference to What Has Been Said
 
 The reason, then, why some spiritual persons never enter perfectly into the true joys of the spirit is that they never succeed in raising their desire for rejoicing above these things that are outward and visible.
 
@@ -804,13 +804,13 @@ Let such take note that, although the visible oratory and temple is a decent pla
 
 [673] St. John IV, 24.
 
-### Chapter XLI. of Certain Evils into Which Those Persons Fall Who Give Themselves to Pleasure in Sensible Objects and Who Frequent Places of Devotion in the Way That Has Been Described
+## Chapter XLI. of Certain Evils into Which Those Persons Fall Who Give Themselves to Pleasure in Sensible Objects and Who Frequent Places of Devotion in the Way That Has Been Described
 
 Many evils, both interior and exterior, come to the spiritual person when he desires to follow after sweetness of sense in these matters aforementioned. For, as regards the spirit, he will never attain to interior spiritual recollection, which consists in neglecting all such things, and in causing the soul to forget all this sensible sweetness, and to enter into true recollection, and to acquire the virtues by dint of effort. As regards exterior things, he will become unable to dispose himself for prayer in all places, but will be confined to places that are to his taste; and thus he will often fail in prayer, because, as the saying goes, he can understand no other book than his own village.
 
    2. Furthermore, this desire leads such persons into great inconstancy. Some of them never continue in one place or even always in one state: now they will be seen in one place, now in another; now they will go to one hermitage, now to another; now they will set up this oratory, now that. Some of them, again, wear out their lives in changing from one state or manner of living to another. For, as they possess only the sensible fervour and joy to be found in spiritual things, and have never had the strength to attain spiritual recollection by the renunciation of their own will, and submitting to suffering inconveniences, whenever they see a place which they think well suited for devotion, or any kind of life or state well adapted to their temperament and inclination, they at once go after it and leave the condition or state in which they were before. And, as they have come under the influence of that sensible pleasure, it follows that they soon seek something new, for sensible pleasure is not constant, but very quickly fails.
 
-### Chapter XLII. of Three Different Kinds of Place for Devotion and of How the Will Should Conduct Itself with Regard to Them
+## Chapter XLII. of Three Different Kinds of Place for Devotion and of How the Will Should Conduct Itself with Regard to Them
 
 I can think of three kinds of place by means of which God is wont to move the will to devotion. The first consists in certain dispositions of the ground and situation, which, by means of a pleasing effect of variety, whether obtained by the arrangement of the ground or of trees, or by means of quiet solitude, naturally awaken devotion. These places it is beneficial to use, if they at once lead the will to God and cause it to forget the places themselves, even as, in order to reach one's journey's end, it is advisable not to pause and consider the means and motive of the journey more than is necessary. For those who strive to refresh their desires and to gain sensible sweetness will rather find spiritual aridity and distraction; for spiritual sweetness and satisfaction are not found save in interior recollection.
 
@@ -834,7 +834,7 @@ I can think of three kinds of place by means of which God is wont to move the wi
 
 [680] 3 Kings [A.V., 1 Kings] XIX, 8.
 
-### Chapter XLIII. Which Treats of Other Motives for Prayer That Many Persons Use -- Namely, a Great Variety of Ceremonies
+## Chapter XLIII. Which Treats of Other Motives for Prayer That Many Persons Use -- Namely, a Great Variety of Ceremonies
 
 The useless joys and the imperfect attachment which many persons have to the things which we have described are perhaps to some extent excusable, since these persons act more or less innocently with regard to them. But the great reliance which some persons place in many kinds of ceremonies introduced by uninstructed persons who lack the simplicity of faith is intolerable. Let us here disregard those which bear various extraordinary names or use terms that signify nothing, and also other things that are not sacred which persons who are foolish and gross and mistrustful in spirit are wont to interpolate in their prayers. For these are clearly evil, and involve sin, and many of them imply a secret compact with the devil; by such means these persons provoke God to wrath and not to mercy, wherefore I treat them not here.
 
@@ -847,7 +847,7 @@ The remainder of Alc. comes from another very early copy which, in the time of P
 
 John of the Cross, above).
 
-### Chapter XLIV. of the Manner Wherein the Rejoicing and Strength of the Will Must Be Directed to God Through These Devotions
+## Chapter XLIV. of the Manner Wherein the Rejoicing and Strength of the Will Must Be Directed to God Through These Devotions
 
 Let these persons, then, know that, the more reliance they place on these things and ceremonies, the less confidence they have in God, and that they will not obtain of God that which they desire. There are certain persons who pray for their own ends rather than for the honour of God. Although they suppose that a thing will be done if it be for the service of God, and not otherwise, yet, because of their attachment to it and the vain rejoicing which they have in it, they multiply a large number of petitions for a thing, when it would be better for them to substitute others of greater importance to them, such as for the true cleansing of their consciences, and for a real application to things concerning their own salvation, leaving to a much later season all those other petitions of theirs which are not of this kind. And in this way they would attain that which is of the greatest importance to them, and at the same time all the other things that are good for them (although they might not have prayed for them), much better and much earlier than if they had expended all their energy on those things. For this the Lord promised, through the Evangelist, saying: Seek ye first and principally the Kingdom of God and His righteousness, and all these other things shall be added unto you.' [682]
 
@@ -876,7 +876,7 @@ Let these persons, then, know that, the more reliance they place on these things
 
 [691] Judith VIII, 11-12.
 
-### Chapter XLV. Which Treats of the Second Kind of Distinct Good, Wherein the Will May Rejoice Vainly
+## Chapter XLV. Which Treats of the Second Kind of Distinct Good, Wherein the Will May Rejoice Vainly
 
 The second kind of distinct and delectable good wherein the will may rejoice vainly is that which provokes or persuades us to serve God and which we have called provocative. This class comprises preachers, and we might speak of it in two ways, namely, as affecting the preachers themselves and as affecting their hearers. For, as regards both, we must not fail to observe that both must direct the rejoicing of their will to God, with respect to this exercise.
 

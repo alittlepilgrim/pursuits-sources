@@ -1,16 +1,18 @@
 ---
-title: Kingdom of God (of Heaven)
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: kingdom-of-god-of-heaven. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Kingdom of God (of Heaven)
+author:
 aliases:
   - Kingdom of God (of Heaven)
   - kingdom-of-god
 tags:
   - term/kingdom-of-god
   - term/kingdom-of-heaven
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: kingdom-of-god-of-heaven. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Kingdom of God (of Heaven)

@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 18
+title: Ezekiel, Chapter 18
+url: https://bible.usccb.org/bible/ezekiel/18
 aliases:
   - ezekiel-18
   - Ezekiel, Chapter 18
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/18
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 18
 ---
 
 # Ezekiel, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Personal Responsibility.**
 
-1 The word of the L ORD came to me: Son of man, ^ezekiel-18-1
+1 The word of the LORD came to me: Son of man, ^ezekiel-18-1
 
 2 what is the meaning of this proverb you recite in the land of Israel: ^ezekiel-18-2
 
@@ -75,7 +74,7 @@ but the children’s teeth are set on edge”?
 
 24 And if the just turn from justice and do evil, like all the abominations the wicked do, can they do this evil and still live? None of the justice they did shall be remembered, because they acted treacherously and committed these sins; because of this, they shall die. ^ezekiel-18-24
 
-25 You say, “The L ORD’s way is not fair!” Hear now, house of Israel: Is it my way that is unfair? Are not your ways unfair? ^ezekiel-18-25
+25 You say, “The LORD’s way is not fair!” Hear now, house of Israel: Is it my way that is unfair? Are not your ways unfair? ^ezekiel-18-25
 
 26 When the just turn away from justice to do evil and die, on account of the evil they did they must die. ^ezekiel-18-26
 
@@ -95,7 +94,7 @@ but the children’s teeth are set on edge”?
 
 \* (18:6) Eat on the mountains: take part in meals after sacrifice at the high places.
 
-\* (18:25) The L ORD’s way is not fair: this chapter rejects the idea that punishment is transferred from one generation to the next and emphasizes individual responsibility and accountability.
+\* (18:25) The LORD’s way is not fair: this chapter rejects the idea that punishment is transferred from one generation to the next and emphasizes individual responsibility and accountability.
 
 a. (18:2) [Jer 31:29]; cf. [[ezekiel-21|Ez 21]]:19.
 

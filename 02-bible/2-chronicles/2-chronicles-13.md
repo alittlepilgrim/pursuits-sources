@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 13
+title: 2 Chronicles, Chapter 13
+url: https://bible.usccb.org/bible/2chronicles/13
 aliases:
   - 2 Chronicles, Chapter 13
   - 2-chronicles-13
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/13
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 13
 ---
 
 # 2 Chronicles, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **War Between Abijah and Jeroboam.**
 
@@ -31,25 +30,25 @@ url: https://bible.usccb.org/bible/2chronicles/13
 
 4 Abijah stood on Mount Zemaraim, which is in the highlands of Ephraim, and said: “Listen to me, Jeroboam and all Israel! ^2-chronicles-13-4
 
-5 Do you not know that the L ORD, the God of Israel, has given David kingship over Israel forever, to him and to his sons, by a covenant of salt? ^2-chronicles-13-5
+5 Do you not know that the LORD, the God of Israel, has given David kingship over Israel forever, to him and to his sons, by a covenant of salt? ^2-chronicles-13-5
 
 6 Yet Jeroboam, son of Nebat, the servant of Solomon, son of David, arose and rebelled against his lord! ^2-chronicles-13-6
 
 7 Worthless men, scoundrels, joined him and overcame Rehoboam, son of Solomon, when Rehoboam was young and inexperienced, and no match for them. ^2-chronicles-13-7
 
-8 But now, do you think you are a match for the kingdom of the L ORD led by the descendants of David, simply because you are a huge multitude and have with you the golden calves which Jeroboam made you for gods? ^2-chronicles-13-8
+8 But now, do you think you are a match for the kingdom of the LORD led by the descendants of David, simply because you are a huge multitude and have with you the golden calves which Jeroboam made you for gods? ^2-chronicles-13-8
 
-9 Have you not expelled the priests of the L ORD, the sons of Aaron, and the Levites, and made for yourselves priests like the peoples of other lands? Everyone who comes to consecrate himself with a young bull and seven rams becomes a priest of no-gods. ^2-chronicles-13-9
+9 Have you not expelled the priests of the LORD, the sons of Aaron, and the Levites, and made for yourselves priests like the peoples of other lands? Everyone who comes to consecrate himself with a young bull and seven rams becomes a priest of no-gods. ^2-chronicles-13-9
 
-10 But as for us, the L ORD is our God, and we have not abandoned him. The priests ministering to the L ORD are sons of Aaron, and the Levites also have their offices. ^2-chronicles-13-10
+10 But as for us, the LORD is our God, and we have not abandoned him. The priests ministering to the LORD are sons of Aaron, and the Levites also have their offices. ^2-chronicles-13-10
 
-11 They sacrifice burnt offerings to the L ORD and fragrant incense morning after morning and evening after evening; they set out the showbread on the pure table, and the lamps of the golden menorah burn evening after evening; for we observe our duties to the L ORD, our God, but you have abandoned him. ^2-chronicles-13-11
+11 They sacrifice burnt offerings to the LORD and fragrant incense morning after morning and evening after evening; they set out the showbread on the pure table, and the lamps of the golden menorah burn evening after evening; for we observe our duties to the LORD, our God, but you have abandoned him. ^2-chronicles-13-11
 
-12 See, God is with us, at our head, and his priests are here with trumpets to sound the attack against you. Israelites, do not fight against the L ORD, the God of your ancestors, for you will not succeed!” ^2-chronicles-13-12
+12 See, God is with us, at our head, and his priests are here with trumpets to sound the attack against you. Israelites, do not fight against the LORD, the God of your ancestors, for you will not succeed!” ^2-chronicles-13-12
 
 13 But Jeroboam had an ambush go around them to come at them from the rear; so that while his army faced Judah, his ambush lay behind them. ^2-chronicles-13-13
 
-14 When Judah turned and saw that they had to battle on both fronts, they cried out to the L ORD and the priests sounded the trumpets. ^2-chronicles-13-14
+14 When Judah turned and saw that they had to battle on both fronts, they cried out to the LORD and the priests sounded the trumpets. ^2-chronicles-13-14
 
 15 Then the Judahites shouted; and when they shouted, God struck down Jeroboam and all Israel before Abijah and Judah. ^2-chronicles-13-15
 
@@ -57,11 +56,11 @@ url: https://bible.usccb.org/bible/2chronicles/13
 
 17 Abijah and his people inflicted a severe defeat upon them; five hundred thousand picked men of Israel fell slain. ^2-chronicles-13-17
 
-18 The Israelites were humbled on that occasion, while the Judahites were victorious because they relied on the L ORD, the God of their ancestors. ^2-chronicles-13-18
+18 The Israelites were humbled on that occasion, while the Judahites were victorious because they relied on the LORD, the God of their ancestors. ^2-chronicles-13-18
 
 19 Abijah pursued Jeroboam and seized cities from him: Bethel and its dependencies, Jeshanah and its dependencies, and Ephron and its dependencies. ^2-chronicles-13-19
 
-20 Jeroboam did not regain power during Abijah’s time; the L ORD struck him down and he died, ^2-chronicles-13-20
+20 Jeroboam did not regain power during Abijah’s time; the LORD struck him down and he died, ^2-chronicles-13-20
 
 21 while Abijah continued to grow stronger. He married fourteen wives and fathered twenty-two sons and sixteen daughters. ^2-chronicles-13-21
 

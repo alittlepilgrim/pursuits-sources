@@ -1,10 +1,9 @@
 ---
-title: Spiritual Canticle by St. John of the Cross
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: A mystical poem and commentary by St. John of the Cross, written during his imprisonment at Toledo, depicting the soul’s journey to union with Christ under the imagery of the Song of Songs.
+title: Spiritual Canticle by St. John of the Cross
+author: Saint John of the Cross
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
 aliases:
   - 20250912-011714
   - jc-spiritual-canticle
@@ -18,10 +17,10 @@ tags:
   - subject/poetry
   - subject/spirituality
   - subject/theology
-author: Saint John of the Cross
-published: 1578 (poem composed in prison); commentary completed ca. 1584
-source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+created: 2025-09-12
+modified: 2026-04-04
+publish: true
+description: A mystical poem and commentary by St. John of the Cross, written during his imprisonment at Toledo, depicting the soul’s journey to union with Christ under the imagery of the Song of Songs.
 ---
 
 # Spiritual Canticle by St. John of the Cross
@@ -1565,11 +1564,11 @@ THE bride perceiving that the desire of her will is now detached from all things
 
 # Indexes
 
-### Index of Scripture References
+## Index of Scripture References
 
 Genesis [1]1:31 [2]2:24 [3]6:21 [4]8:9 Exodus [5]3:7-8 [6]33:12-13 [7]33:12-13 [8]33:20 [9]33:20-23 [10]33:22-23 [11]33:23 [12]34:30 Deuteronomy [13]4:24 [14]30:20 [15]31:21 [16]32:33 Judges [17]13:22 [18]16:15 2 Kingdoms [19]14:14 1 Kings [20]18:1 [21]19:12 1 Chronicles [22]11:18 Esther [23]6:11 Job [24]3:24 [25]4:2 [26]4:12-16 [27]6:8-9 [28]6:8-10 [29]7:2-4 [30]9:11 [31]14:5 [32]41:6-7 [33]41:24 [34]42:5 Psalms [35]9:10 [36]15:4 [37]16:15 [38]17:12 [39]17:12-13 [40]18:10-12 [41]20:4 [42]30:20 [43]33:8 [44]33:20 [45]33:22 [46]34:3 [47]35:9 [48]35:9 [49]35:9 [50]37:11 [51]38:4 [52]38:4 [53]41:1-2 [54]44:10 [55]49:11 [56]53:5 [57]58:10 [58]61:2-3 [59]61:11 [60]62:2 [61]67:14 [62]67:16 [63]67:34 [64]68:2 [65]72:21-22 [66]72:21-22 [67]83:3 [68]83:3 [69]83:4 [70]96:2-3 [71]101:8 [72]115:15 [73]118:32 [74]118:131 [75]138:11 [76]138:12 [77]144:16 Proverbs [78]2:4-5 [79]4:23 [80]8:31 [81]8:31 [82]15:15 [83]30:1-2 Ecclesiastes [84]9:1 Song of Solomon [85]1:3 [86]1:3 [87]1:4 [88]1:6 [89]1:10 [90]1:11 [91]1:15 [92]2:1 [93]2:1 [94]2:3 [95]2:4 [96]2:5 [97]2:6 [98]2:9 [99]2:10-12 [100]2:11-12 [101]2:13-14 [102]2:13-14 [103]2:14 [104]2:14 [105]2:15 [106]3:1 [107]3:2 [108]3:4 [109]3:5 [110]3:5 [111]3:6 [112]3:7-8 [113]3:9-10 [114]3:11 [115]3:11 [116]4:1 [117]4:1 [118]4:4 [119]4:6 [120]4:9 [121]4:9 [122]4:12 [123]4:16 [124]5:1 [125]5:4 [126]5:6 [127]5:6-7 [128]5:7 [129]5:8 [130]5:14 [131]6:1-2 [132]6:2 [133]6:3 [134]6:3 [135]6:4 [136]6:6-7 [137]6:9 [138]6:11 [139]6:11 [140]7:1 [141]7:10-12 [142]7:13 [143]8:1 [144]8:1 [145]8:2 [146]8:2 [147]8:5 [148]8:5 [149]8:6 [150]8:8 [151]30:1 Isaiah [152]2:2 [153]2:3 [154]11:3 [155]24:16 [156]26:20 [157]43:3 [158]43:4 [159]45:3 [160]58:10-14 [161]64:4 [162]65:24 [163]66:12 [164]66:12 Jeremiah [165]2:14-15 Lamentations [166]3:19 Ezekiel [167]1:24 [168]16:5-14 [169]18:22 Daniel [170]10:16 Hosea [171]2:14 [172]2:20 Nahum [173]1:9 Zechariah [174]2:8 Matthew [175]5:26 [176]6:6 [177]6:24 [178]7:14 [179]10:33 [180]13:12 [181]13:44 [182]13:44 [183]16:25 [184]20:6 [185]25:28 Luke [186]1:13 [187]1:52 [188]2:25 [189]10:42 [190]11:9 [191]12:37 [192]15:5 [193]15:8 [194]15:9 [195]17:21 John [196]1:3 [197]1:3-4 [198]1:12 [199]1:16 [200]1:16 [201]1:18 [202]2:3 [203]4:14 [204]4:14 [205]7:39 [206]11:3 [207]12:29 [208]12:32 [209]15:7 [210]15:15 [211]17:3 [212]17:10 [213]17:20-23 [214]17:24 [215]20:15 Acts [216]2:2 [217]17:28 Romans [218]1:20 [219]8:13 [220]8:14 [221]8:23 [222]8:26 [223]11:33 1 Corinthians [224]2:9 [225]2:14 [226]3:19 [227]6:17 [228]10:4 [229]13:2 [230]13:4-7 [231]13:10 [232]13:10 [233]13:12 2 Corinthians [234]5:4 [235]6:16 [236]12:2-4 [237]12:3 [238]12:4 [239]12:4 [240]12:9 Galatians [241]2:20 [242]2:20 [243]4:6 [244]5:17 [245]5:17 Ephesians [246]2:15 [247]3:17-19 [248]6:11 Philippians [249]1:21 [250]1:23 [251]4:7 Colossians [252]2:3 [253]2:3 [254]3:14 [255]3:14 [256]3:14 [257]3:14 Hebrews [258]1:3 [259]1:3 James [260]1:17 1 Peter [261]4:18 2 Peter [262]1:2-4 1 John [263]4:10 [264]4:18 [265]4:18 Revelation [266]2:7 [267]2:10 [268]2:17 [269]2:26-28 [270]3:5 [271]3:12 [272]3:20 [273]3:21-22 [274]10:9 [275]14:2 [276]14:2 [277]21:23 [278]22:1 Tobit [279]5:12 [280]12:12 [281]14:4 Wisdom of Solomon [282]1:7 [283]6:13 [284]8:1 [285]9:15 [286]9:15 Baruch [287]3:10-11 Sirach [288]5:5 [289]9:14 [290]9:15 [291]41:1 [292]41:3
 
-### Index of Latin Words and Phrases
+## Index of Latin Words and Phrases
 
      * Justus et timoratus.: [293]1
      * Omnia per Ipsum facta sunt, et sine Ipso factum est nihil: Quod factum est, in Ipso vita erat: [294]1
@@ -1577,7 +1576,7 @@ Genesis [1]1:31 [2]2:24 [3]6:21 [4]8:9 Exodus [5]3:7-8 [6]33:12-13 [7]33:12-13 [
      * coelesti sapientia refertos: [296]1
      * divinitus instructus: [297]1
 
-## Publication Info
+# Publication Info
 
 Title: A Spiritual Canticle of the Soul and the Bridegroom Christ Creator(s): John of the Cross, St. (1542-1591)
 

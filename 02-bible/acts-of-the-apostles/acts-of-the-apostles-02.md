@@ -1,25 +1,24 @@
 ---
-title: Acts of the Apostles, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Acts of the Apostles, Chapter 2
+title: Acts of the Apostles, Chapter 2
+url: https://bible.usccb.org/bible/acts/2
 aliases:
   - Acts of the Apostles, Chapter 2
   - acts-of-the-apostles-02
 tags:
   - bible/acts-of-the-apostles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/acts/2
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Acts of the Apostles, Chapter 2
 ---
 
 # Acts of the Apostles, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **The Coming of the Spirit.**
 
@@ -49,7 +48,7 @@ url: https://bible.usccb.org/bible/acts/2
 
 13 But others said, scoffing, “They have had too much new wine.” ^acts-of-the-apostles-02-13
 
-## Ii. the Mission in Jerusalem
+# Ii. the Mission in Jerusalem
 
 **Peter’s Speech at Pentecost.**
 

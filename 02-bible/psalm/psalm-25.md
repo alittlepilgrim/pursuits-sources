@@ -1,20 +1,19 @@
 ---
-title: Psalm 25
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 25
+title: Psalm 25
+url: https://bible.usccb.org/bible/psalms/25
 aliases:
   - Psalm 25
   - psalm-25
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/25
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 25
 ---
 
 # Psalm 25

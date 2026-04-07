@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint Francis De Sales
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-224200
   - francis-de-sales-saint
@@ -14,10 +11,13 @@ tags:
   - role/doctor-of-the-church
   - role/founder
   - saint
-birth_date: 1567-08-21
-celebration: 01-24
+  - type/figure
+birthday: 1567-08-21
 death_date: 1622-12-28
-full_name: Saint Francis de Sales
+celebration: 01-24
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Francis de Sales

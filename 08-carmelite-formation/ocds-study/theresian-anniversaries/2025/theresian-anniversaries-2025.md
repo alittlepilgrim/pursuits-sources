@@ -1,16 +1,16 @@
 ---
-title: Theresian Anniversaries 2025 - Prayers and Other Writings
-created: 2025-08-28
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaries 2025 - Prayers and Other Writings
+author: OCD General Curia
 aliases:
   - Reading the Writings of Therese of the Child Jesus 2025 Prayers and Other Writings
   - Reading the Writings of Therese of the Child Jesus 2025 Prayers and other Writings - Table of Contents
 tags:
   - subject
-author: OCD General Curia
-status: draft
+created: 2025-08-28
+modified: 2026-04-04
+publish: true
+permalink: /theresian-anniversaries-2025
 ---
 
 # Reading the Writings of Therese of the Child Jesus 2025 Prayers and Other Writings

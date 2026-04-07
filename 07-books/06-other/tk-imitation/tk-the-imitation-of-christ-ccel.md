@@ -1,30 +1,24 @@
 ---
-title: The Imitation of Christ by Thomas, Kempis (CCEL Edition)
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: One of the most influential works of Christian devotion, attributed to Thomas à Kempis, emphasizing humility, detachment, and the imitation of Christ’s life.
+title: The Imitation of Christ by Thomas, Kempis (CCEL Edition)
+author: Thomas à Kempis
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/k/kempis/imitation/cache/imitation.txt
 aliases:
   - The Imitation of Christ
   - The Imitation of Christ by Thomas, Kempis (CCEL Edition)
   - tk-the-imitation-of-christ
 tags:
-  - book
-  - subject/asceticism
-  - subject/christian-mysticism
-  - subject/classic
-  - subject/devotion
-  - subject/spirituality
-author: Thomas à Kempis
-published: c. 1418–1427 (Latin); 1940 English edition, Croft & Bolton translation
-source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/k/kempis/imitation/cache/imitation.txt
+  - type/book
+created: 2025-09-12
+modified: 2026-04-06
+publish: true
+description: One of the most influential works of Christian devotion, attributed to Thomas à Kempis, emphasizing humility, detachment, and the imitation of Christ’s life.
 ---
 
 # The Imitation of Christ by Thomas, Kempis (CCEL Edition)
 
-
+[Online Source](https://ccel.org/ccel/k/kempis/imitation/cache/imitation.txt)
 
 ## Publication Info
 

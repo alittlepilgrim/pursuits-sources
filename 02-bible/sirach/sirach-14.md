@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 14
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 14
+title: Sirach, Chapter 14
+url: https://bible.usccb.org/bible/sirach/14
 aliases:
   - sirach-14
   - Sirach, Chapter 14
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/14
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 14
 ---
 
 # Sirach, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 1 Happy those whose mouth causes them no grief, ^sirach-14-1
 
@@ -29,7 +28,7 @@ those who are not stung by remorse for sin.
 
 those who have not lost hope.
 
-#### The Use of Wealth
+### The Use of Wealth
 
 3 Wealth is not appropriate for the mean-spirited; ^sirach-14-3
 
@@ -101,7 +100,7 @@ one dies and another flourishes.
 
 the works they do follow after them.
 
-#### The Search for Wisdom and Her Blessings
+### The Search for Wisdom and Her Blessings
 
 20 Happy those who meditate on Wisdom, ^sirach-14-20
 

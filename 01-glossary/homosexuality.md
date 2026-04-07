@@ -1,15 +1,17 @@
 ---
-title: Homosexuality
-created: 1984-01-24
-modified: 2026-04-02
 type: glossary
-publish: true
-description: homosexuality. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Homosexuality
+author:
 aliases:
   - homosexuality
   - Homosexuality
 tags:
   - term/homosexuality
+  - type/term
+created: 1984-01-24
+modified: 2026-04-06
+publish: true
+description: homosexuality. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Homosexuality

@@ -1,25 +1,24 @@
 ---
-title: Ruth, Chapter 4
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ruth, Chapter 4
+title: Ruth, Chapter 4
+url: https://bible.usccb.org/bible/ruth/4
 aliases:
   - ruth-04
   - Ruth, Chapter 4
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/ruth
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ruth/4
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Ruth, Chapter 4
 ---
 
 # Ruth, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Boaz Marries Ruth.**
 
@@ -43,13 +42,13 @@ url: https://bible.usccb.org/bible/ruth/4
 
 10 I also acquire Ruth the Moabite, the widow of Mahlon, as my wife, in order to raise up a family for her late husband on his estate, so that the name of the deceased may not perish from his people and his place. Do you witness this today?” ^ruth-04-10
 
-11 All those at the gate, including the elders, said, “We do. May the L ORD make this woman come into your house like Rachel and Leah, who between them built up the house of Israel. Prosper in Ephrathah! Bestow a name in Bethlehem! ^ruth-04-11
+11 All those at the gate, including the elders, said, “We do. May the LORD make this woman come into your house like Rachel and Leah, who between them built up the house of Israel. Prosper in Ephrathah! Bestow a name in Bethlehem! ^ruth-04-11
 
-12 With the offspring the L ORD will give you from this young woman, may your house become like the house of Perez, whom Tamar bore to Judah.” ^ruth-04-12
+12 With the offspring the LORD will give you from this young woman, may your house become like the house of Perez, whom Tamar bore to Judah.” ^ruth-04-12
 
-13 Boaz took Ruth. When they came together as husband and wife, the L ORD enabled her to conceive and she bore a son. ^ruth-04-13
+13 Boaz took Ruth. When they came together as husband and wife, the LORD enabled her to conceive and she bore a son. ^ruth-04-13
 
-14 Then the women said to Naomi, “Blessed is the L ORD who has not failed to provide you today with a redeemer. May he become famous in Israel! ^ruth-04-14
+14 Then the women said to Naomi, “Blessed is the LORD who has not failed to provide you today with a redeemer. May he become famous in Israel! ^ruth-04-14
 
 15 He will restore your life and be the support of your old age, for his mother is the daughter-in-law who loves you. She is worth more to you than seven sons!” ^ruth-04-15
 

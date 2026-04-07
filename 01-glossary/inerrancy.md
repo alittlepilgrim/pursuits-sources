@@ -1,15 +1,17 @@
 ---
-title: Inerrancy
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: inerrancy. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Inerrancy
+author:
 aliases:
   - inerrancy
   - Inerrancy
 tags:
   - term/inerrancy
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: inerrancy. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Inerrancy

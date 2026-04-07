@@ -1,25 +1,25 @@
 ---
-title: Philippians, The Letter To The Philippians
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Philippians, the Letter to the Philippians
+title: Philippians, The Letter To The Philippians
+url: https://bible.usccb.org/bible/philippians/0
 aliases:
   - philippians-00
   - Philippians, the Letter to the Philippians
   - Philippians, The Letter To The Philippians
 tags:
+  - bible/book
+  - bible/new-testament
   - bible/philippians
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/philippians/0
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Philippians, the Letter to the Philippians
 ---
 
 # Philippians, the Letter to the Philippians
 
-    
+[Introduction](philippians-00.md) [1](philippians-01.md) [2](philippians-02.md) [3](philippians-03.md) [4](philippians-04.md)
 
 ## The Letter to the Philippians
 

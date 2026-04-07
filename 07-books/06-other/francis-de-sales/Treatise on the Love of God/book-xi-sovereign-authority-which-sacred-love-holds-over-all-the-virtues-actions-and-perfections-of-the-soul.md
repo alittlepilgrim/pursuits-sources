@@ -1,23 +1,21 @@
 ---
-title: Book XI. Sovereign Authority Which Sacred Love Holds over All the Virtues, Actions and Perfections of the Soul - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book XI. Sovereign Authority Which Sacred Love Holds over All the Virtues, Actions and Perfections of the Soul - Treatise on the Love of God
+title: Book XI. Sovereign Authority Which Sacred Love Holds over All the Virtues, Actions and Perfections of the Soul - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book XI. Sovereign Authority Which Sacred Love Holds over All the Virtues - Treatise on the Love of God
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book XI. Sovereign Authority Which Sacred Love Holds over All the Virtues, Actions and Perfections of the Soul - Treatise on the Love of God
 ---
 
 # Book XI. Sovereign Authority Which Sacred Love Holds over All the Virtues, Actions and Perfections of the Soul
 
-### Chapter I. How Agreeable All Virtues Are to God
+## Chapter I. How Agreeable All Virtues Are to God
 
 Virtue is of its own nature so amiable, that God favours it wheresoever he finds it. The pagans, though they were enemies of his divine Majesty, now and then practised certain human and moral virtues, which were not by their nature placed above the forces of the reasonable spirit. Now you may guess, Theotimus, how small a matter that was: for though these virtues made a great show, yet in effect they were of little worth, by reason of the lowness of the intention of those who practised them. They laboured for scarcely anything but honour, as S.
 
@@ -53,7 +51,7 @@ Paul says. Watch and pray, that you enter not into temptation. [496] If Our Lord
 
 [496] Matt. xxvi. 41.
 
-### Chapter II. That Divine Love Makes the Virtues Immeasurably More Agreeable to God
+## Chapter II. That Divine Love Makes the Virtues Immeasurably More Agreeable to God
 
 THAN THEY ARE OF THEIR OWN NATURE.
 
@@ -81,7 +79,7 @@ Therefore my beloved brethren, saith the Apostle, be ye steadfast and immovable,
 
 [502] Rom. viii. 28.
 
-### Chapter III. That There Are Some Virtues Which Divine Love Raises to a Higher Degree
+## Chapter III. That There Are Some Virtues Which Divine Love Raises to a Higher Degree
 
 OF EXCELLENCE THAN OTHERS.
 
@@ -93,7 +91,7 @@ Wherefore, Theotimus, of all virtuous actions we ought most carefully to practis
 
 [503] 1 Cor. xiii. 2.
 
-### Chapter IV. That Divine Love More Excellently Sanctifies the Virtues When They Are
+## Chapter IV. That Divine Love More Excellently Sanctifies the Virtues When They Are
 
 PRACTISED BY ITS ORDER AND COMMANDMENT.
 
@@ -109,7 +107,7 @@ A great general of an army having won some important battle, will without doubt 
 
 [504] 1 Cor. xiii. 7.
 
-### Chapter V. How Love Spreads Its Excellence over the Other Virtues, Perfecting
+## Chapter V. How Love Spreads Its Excellence over the Other Virtues, Perfecting
 
 THEIR PARTICULAR EXCELLENCE.
 
@@ -137,7 +135,7 @@ The sacred spouse wounds her beloved with a single one of her hairs, [507] of wh
 
 [507] Cant. iv. 9.
 
-### Chapter VI. of the Excellent Value Which Sacred Love Gives to the Actions Which
+## Chapter VI. of the Excellent Value Which Sacred Love Gives to the Actions Which
 
 ISSUE FROM ITSELF AND TO THOSE WHICH PROCEED FROM THE OTHER VIRTUES.
 
@@ -173,7 +171,7 @@ Theotimus, how merciful is his goodness to us in thus distributing his bounty! W
 
 [516] Ps. cxxxii. 1, 2.
 
-### Chapter VII. That Perfect Virtues Are Never One Without the Other
+## Chapter VII. That Perfect Virtues Are Never One Without the Other
 
 It is said that the heart is the first part of a man which receives life by the infusion of the soul, and the eye the last, as, contrariwise, in a natural death the eye begins first to die, and the heart is the last. Now when the heart begins to live, before the other parts are animated, life is certainly very feeble, frail and imperfect, but ever as it establishes itself more thoroughly in the rest of the body, it is also more vigorous in each part and particularly in the heart, and we see that when life is injured in any one of the members it is weakened in all the rest. If a man's foot or arm be hurt all the body is troubled, excited, disturbed and affected; if the stomach is disordered, the eyes, the voice and the whole countenance show the effects of it, so great is the sympathy amongst the organs of man's natural life.
 
@@ -201,7 +199,7 @@ In truth the great S. Augustine shows, in an epistle which he wrote to
 
 [518] Jer. ix. 21.
 
-### Chapter VIII. How Charity Comprehends All the Virtues
+## Chapter VIII. How Charity Comprehends All the Virtues
 
 There flowed a river out of the place of delights to water Paradise, and thence it was divided into four heads. [519] Now, in man there is a place of delights, whence God makes the river of reason and natural light stream out to water all the paradise of our heart, and this river branches out into four heads; that is, it makes four streams according to the four regions of the soul. For 1°. Over what is called the practical understanding, that is to say the part of the intelligence which discerns the actions we should do or avoid, natural light spreads prudence, which inclines our mind wisely to judge of the evil that we are to avoid and drive away, and of the good we are to do and pursue.
 
@@ -231,7 +229,7 @@ which serves God only, and therefore disposes justly of all that is subject to m
 
 [523] Apoc. iii. 18.
 
-### Chapter IX. That the Virtues Have Their Perfection from Divine Love
+## Chapter IX. That the Virtues Have Their Perfection from Divine Love
 
 Charity is then the bond of perfection, [524] since in it all the perfections of the soul are contained and assembled, and since without it, not only can one not have the whole array of virtues, but one cannot even have the perfection of any virtue. Without the cement and mortar which fasten the stones and walls, the whole edifice goes to rack; were it not for the nerves, muscles and sinews, the whole body would be undone; and without charity the virtues can never sustain one another. Our Saviour ever joins the fulfilling of the commandments to charity. He that hath my commandments, says he, and keepeth them, he it is that loveth me; he that loveth me not keepeth not my words; If any one love me, he will keep my word: [525] which the disciple whom our Saviour loved repeating, says: He that keepeth his word, in him, in very deed, the charity of God is perfected; [526] and this is the charity of God, that we keep his commandments. [527] Now he who should have all virtues, would keep all the commandments: for he that had the virtue of religion would keep the first three commandments; he that had piety would observe the fourth; he that had the virtue of mildness and gentleness would observe the fifth; by the virtue of chastity one would observe the sixth; by liberality one would avoid the breach of the seventh; by truth one would effect the eighth; by frugality and purity one would observe the ninth and tenth. And if without charity we cannot keep the commandments, much less can we without it have all the virtues.
 
@@ -257,7 +255,7 @@ For the rest, the perfection of divine love is so sovereign that it perfects all
 
 [528] Gen. ii. 7.
 
-### Chapter X. a Digression upon the Imperfection of the Virtues of the Pagans
+## Chapter X. a Digression upon the Imperfection of the Virtues of the Pagans
 
 Those ancient sages of the world long ago made glorious discourses in honour of the moral virtues, yea, even in behalf of religion: but what Plutarch observes of the Stoics suits still better the rest of the pagans. We see ships, says he, which bear the grandest titles: some are called the Victory, others the Valour, others the Sun; yet, for all that, they remain dependent on the winds and waves: so the Stoics boast of being exempt from passions, without fear, without grief, without anger, unchanging and unchangeable, yet are they in fact subject to trouble, disquiet, impetuosity, and other follies.
 
@@ -285,7 +283,7 @@ Yet whereas they contain some good, they may be compared to worm-eaten apples; f
 
 [530] Rom. i. 22, 21.
 
-### Chapter XI. How Human Actions Are Without Worth When They Are Done Without Divine
+## Chapter XI. How Human Actions Are Without Worth When They Are Done Without Divine
 
 LOVE.
 
@@ -305,7 +303,7 @@ Alas! Theotimus, what an evil! If the just man turn himself away from his justic
 
 [534] Matth. xvi. 26.
 
-### Chapter XII. How Holy Love Returning into the Soul, Brings Back to Life All the
+## Chapter XII. How Holy Love Returning into the Soul, Brings Back to Life All the
 
 WORKS WHICH SIN HAD DESTROYED.
 
@@ -339,7 +337,7 @@ I never saw, read, or heard, that wasps, gadflies, flies, and such little noxiou
 
 [544] 2 Mac. i. 19.
 
-### Chapter XIII. How We Are to Reduce All the Exercise of the Virtues, and All Our
+## Chapter XIII. How We Are to Reduce All the Exercise of the Virtues, and All Our
 
 ACTIONS TO HOLY LOVE.
 
@@ -359,7 +357,7 @@ Now the sovereign motive of our actions, which is that of heavenly love, has thi
 
 [546] Gen. iv. 7. From the Septuagint (Tr.)
 
-### Chapter XIV. the Practice of What Has Been Said in the Preceding Chapter
+## Chapter XIV. the Practice of What Has Been Said in the Preceding Chapter
 
 Let us purify, then, Theotimus, as far as we can, all our intentions, and since we are able to spread over all the acts of the virtues the sacred motive of divine love, why shall we not do it, rejecting, as occasion requires, all kinds of vicious motives, such as vain-glory, and self-interest, and considering all the good motives which we may have for undertaking the action which presents itself, in order to choose that of holy love, which is the most excellent of all, to pour it over all the rest, or steep them in it. For example, if I desire valorously to expose myself to the hazards of war, I can do it, considering various motives: For the natural motive of this action is that of strength and valour, which moves us reasonably to undertake perilous exploits: yet besides this I may have divers other motives; as that of obeying the prince whom I serve, that of love for the common weal, that of magnanimity, which makes me rejoice in the greatness of this action. Now, coming to the action, I enter on the foreseen peril for all these motives together. But to raise them all to the rank of divine love, and perfectly to purify them, I will say in my soul with all my heart: O eternal God, who art the most dear love of my affections, if valour, obedience to my prince, love of my country, and magnanimity, were not agreeable unto thee, I would never follow the movements I now feel, but because these virtues please thee, I embrace this occasion of putting them in practice, and I will only follow their instinct and leading, because thou lovest and willest them.
 
@@ -381,7 +379,7 @@ God has set over me the standard of love, [550] says the sacred Sulamitess. Love
 
 [550] Cant. ii. 4. From the Septuagint (Tr.).
 
-### Chapter XV. How Charity Contains in It the Gifts of the Holy Ghost
+## Chapter XV. How Charity Contains in It the Gifts of the Holy Ghost
 
 That man's heart may easily follow the motions and instincts of reason, in order to attain the natural felicity which it can aim at, by living according to the laws of rectitude, it requires to have:--1°.
 
@@ -403,7 +401,7 @@ But, if after we have deliciously enjoyed these favours of love, we desire to re
 
 Charity, therefore, comprehends the seven Gifts, and is like to a fair lily, which has six flowers whiter than snow, and in the midst the beautiful little golden hammers of wisdom, which beat into our hearts the taste and loving relish of the goodness of the Father our Creator, of the mercy of the Son our Redeemer, and of the sweetness of the Holy Ghost our Sanctifier. And I place thus this double fear upon the two lowest steps, to reconcile all the translations with the holy and sacred Vulgate edition: for if in the Hebrew, the word fear is twice said, this is not without mystery, but to show that there is a gift of filial fear, which is nothing else but the gift of piety, and a gift of servile fear, which is the beginning of all the progress we make towards the sovereign wisdom.
 
-### Chapter XVI. of the Loving Fear of Spouses; a Continuation of the Same Subject
+## Chapter XVI. of the Loving Fear of Spouses; a Continuation of the Same Subject
 
 Ah! my brother Jonathan, said David, thou wast amiable to me above the love of women: [551] as though he had said, thou wast worthy of a greater love than that of wives for their husbands. All excellent things are rare. Imagine to yourself, Theotimus, a spouse of dove-like heart and having the perfection of nuptial love. Her love is incomparable, not only in excellence, but also in the great variety of beautiful affections and qualities which accompany it; it is not only chaste, but modest; it is strong, but gracious withal; it is violent and yet tender; it is ardent yet respectful, noble yet fearful, bold yet obedient, and all its fear is mingled with a delicious confidence.
 
@@ -425,7 +423,7 @@ Now the love of beginners or learners proceeds from true love, but from a love w
 
 [554] 1 John iv. 18.
 
-### Chapter XVII. How Servile Fear Remains Together with Holy Love
+## Chapter XVII. How Servile Fear Remains Together with Holy Love
 
 Although, however, the lady we spoke of will not leave her needle in her work after it is finished, yet as long as there remains anything to be done in it, if any other occurrence make her stop, she will leave the needle sticking in the pink, the rose, or the pansy which she is embroidering, so as to have it more ready when she returns to her work.
 
@@ -447,7 +445,7 @@ Now although mercenary and servile fear is very necessary for this mortal life, 
 
 [557] Ps. xviii. 8, 10.
 
-### Chapter XVIII. How Love Makes Use of Natural, Servile and Mercenary Fear
+## Chapter XVIII. How Love Makes Use of Natural, Servile and Mercenary Fear
 
 Lightning, thunder, thunderbolts, tempests, inundations, earthquakes, and other such unforeseen accidents, excite even the most indevout persons to fear God, and nature, which goes before reasoning in those occurrences, drives the heart, the eyes, yea the very hands heavenwards to invoke the assistance of the most holy Divinity, according to the common sentiment of mankind, which is, says Titus Livius, that such as serve the Almighty prosper, and such as contemn him are afflicted. In the storm which imperilled Jonas, the mariners feared with a great fear, and immediately each of them turned to his god. They were ignorant, says S. Jerome, of the truth, yet they knew there was a Providence, and believed it was by the judgment of heaven that they were in this danger; as those of Malta, when they saw S. Paul, after the shipwreck, attacked by the viper, believed that it was from the divine vengeance. [558] And indeed thunder and lightning, tempests, thunderbolts, are called by the Psalmist, Voices of the Lord; and he says further, that they fulfil his word, [559] because they proclaim his fear, and are as ministers of his justice. And again, desiring that the divine Majesty should make his enemies tremble, he says: Send forth lightning and thou shalt scatter them: shoot out thy arrows, and thou shalt trouble them: [560] where he terms thunderbolts the arrows and darts of God. And before the Psalmist, Samuel's good mother had already sung, that even God's enemies would fear him, if he would thunder over them from heaven. [561] Indeed Plato, in his Gorgias and elsewhere, testifies that there was some sense of fear among the pagans, not only concerning the chastisements which the sovereign justice of God inflicts in this world, but also concerning the punishments which he inflicts in the other life upon the souls of those who have incurable sins. So deeply is the instinct of fearing the Divinity graven in man's nature.
 
@@ -495,7 +493,7 @@ At the same time, when it happens that this filial fear is joined, mingled and t
 
 [570] Gen. l. 17.
 
-### Chapter XIX. How Sacred Love Contains the Twelve Fruits of the Holy Ghost, Together
+## Chapter XIX. How Sacred Love Contains the Twelve Fruits of the Holy Ghost, Together
 
 WITH THE EIGHT BEATITUDES OF THE GOSPEL.
 
@@ -515,7 +513,7 @@ Thus love is oftentimes represented by the pomegranate, which, as it takes its p
 
 [572] Rom. v. 5.
 
-### Chapter XX. How Divine Love Makes Use of All the Passions and Affections of the
+## Chapter XX. How Divine Love Makes Use of All the Passions and Affections of the
 
 SOUL, AND REDUCES THEM TO ITS OBEDIENCE.
 
@@ -555,7 +553,7 @@ Is there some just occasion for fear? It is thy will, O Lord, that I should fear
 
 [577] Luke vi. 25.
 
-### Chapter XXI. That Sadness Is Almost Always Useless, Yea Contrary to the Service of
+## Chapter XXI. That Sadness Is Almost Always Useless, Yea Contrary to the Service of
 
 HOLY LOVE.
 

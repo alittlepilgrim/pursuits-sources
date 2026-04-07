@@ -1,25 +1,24 @@
 ---
-title: Romans, Chapter 6
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: romans-chapter 6
+title: Romans, Chapter 6
+url: https://bible.usccb.org/bible/romans/6
 aliases:
   - romans-06
   - Romans, Chapter 6
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/romans
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/romans/6
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: romans-chapter 6
 ---
 
 # Romans, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Freedom from Sin; Life in God.**
 

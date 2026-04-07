@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 10
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 10
+title: Joshua, Chapter 10
+url: https://bible.usccb.org/bible/joshua/10
 aliases:
   - joshua-10
   - Joshua, Chapter 10
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/10
-testament: old
-url: https://bible.usccb.org/bible/joshua/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 10
 ---
 
 # Joshua, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **The Siege of Gibeon.**
 
@@ -40,15 +38,15 @@ url: https://bible.usccb.org/bible/joshua/10
 
 7 So Joshua marched up from Gilgal with all his army and all his warriors. ^joshua-10-7
 
-8 The L ORD said to Joshua: Do not fear them, for I have delivered them into your power. Not one of them will be able to withstand you. ^joshua-10-8
+8 The LORD said to Joshua: Do not fear them, for I have delivered them into your power. Not one of them will be able to withstand you. ^joshua-10-8
 
 9 After an all-night march from Gilgal, Joshua made a surprise attack upon them, ^joshua-10-9
 
-10 and the L ORD threw them into disorder before Israel. The Israelites inflicted a great slaughter on them at Gibeon and pursued them down the Beth-horon slope, attacking them as far as Azekah and Makkedah. ^joshua-10-10
+10 and the LORD threw them into disorder before Israel. The Israelites inflicted a great slaughter on them at Gibeon and pursued them down the Beth-horon slope, attacking them as far as Azekah and Makkedah. ^joshua-10-10
 
-11 While they fled before Israel along the descent of Beth-horon, the L ORD hurled great stones from the heavens above them all the way to Azekah, killing many. More died from these hailstones than the Israelites killed with the sword. ^joshua-10-11
+11 While they fled before Israel along the descent of Beth-horon, the LORD hurled great stones from the heavens above them all the way to Azekah, killing many. More died from these hailstones than the Israelites killed with the sword. ^joshua-10-11
 
-12 It was then, when the L ORD delivered up the Amorites to the Israelites, that Joshua prayed to the L ORD, and said in the presence of Israel: ^joshua-10-12
+12 It was then, when the LORD delivered up the Amorites to the Israelites, that Joshua prayed to the LORD, and said in the presence of Israel: ^joshua-10-12
 
 Sun, stand still at Gibeon,
 
@@ -62,7 +60,7 @@ while the nation took vengeance on its foes.
 
 This is recorded in the Book of Jashar. The sun halted halfway across the heavens; not for an entire day did it press on.
 
-14 Never before or since was there a day like this, when the L ORD obeyed the voice of a man; for the L ORD fought for Israel. ^joshua-10-14
+14 Never before or since was there a day like this, when the LORD obeyed the voice of a man; for the LORD fought for Israel. ^joshua-10-14
 
 15 Then Joshua and all Israel returned to the camp at Gilgal. ^joshua-10-15
 
@@ -74,7 +72,7 @@ This is recorded in the Book of Jashar. The sun halted halfway across the heaven
 
 18 he said, “Roll large stones to the mouth of the cave and post guards over it. ^joshua-10-18
 
-19 But do not remain there yourselves. Pursue your enemies, and harry them in the rear. Do not allow them to reach their cities, for the L ORD, your God, has delivered them into your power.” ^joshua-10-19
+19 But do not remain there yourselves. Pursue your enemies, and harry them in the rear. Do not allow them to reach their cities, for the LORD, your God, has delivered them into your power.” ^joshua-10-19
 
 20 Once Joshua and the Israelites had finally inflicted the last blows in this very great slaughter, and the survivors had escaped from them into the fortified cities, ^joshua-10-20
 
@@ -86,7 +84,7 @@ This is recorded in the Book of Jashar. The sun halted halfway across the heaven
 
 24 When they brought the five kings out to Joshua, he summoned all the army of Israel and said to the commanders of the soldiers who had marched with him, “Come forward and put your feet on the necks of these kings.” They came forward and put their feet upon their necks. ^joshua-10-24
 
-25 Then Joshua said to them, “Do not be afraid or dismayed, be firm and steadfast. This is what the L ORD will do to all the enemies against whom you fight.” ^joshua-10-25
+25 Then Joshua said to them, “Do not be afraid or dismayed, be firm and steadfast. This is what the LORD will do to all the enemies against whom you fight.” ^joshua-10-25
 
 26 Thereupon Joshua struck and killed the kings, and hanged them on five trees, where they remained hanging until evening. ^joshua-10-26
 
@@ -98,11 +96,11 @@ This is recorded in the Book of Jashar. The sun halted halfway across the heaven
 
 29 Joshua then passed on with all Israel from Makkedah to Libnah, and attacked it, ^joshua-10-29
 
-30 and the L ORD delivered it, with its king, into the power of Israel. He put it to the sword with every person there, leaving no survivors. Thus he did to its king what he had done to the king of Jericho. ^joshua-10-30
+30 and the LORD delivered it, with its king, into the power of Israel. He put it to the sword with every person there, leaving no survivors. Thus he did to its king what he had done to the king of Jericho. ^joshua-10-30
 
 31 Joshua next passed on with all Israel from Libnah to Lachish, where they set up a camp during the attack. ^joshua-10-31
 
-32 The L ORD delivered Lachish into the power of Israel, so that on the second day Joshua captured it and put it to the sword with every person in it, just as he had done to Libnah. ^joshua-10-32
+32 The LORD delivered Lachish into the power of Israel, so that on the second day Joshua captured it and put it to the sword with every person in it, just as he had done to Libnah. ^joshua-10-32
 
 33 At that time Horam, king of Gezer, came up to help Lachish, but Joshua defeated him and his people, leaving him no survivors. ^joshua-10-33
 
@@ -118,11 +116,11 @@ This is recorded in the Book of Jashar. The sun halted halfway across the heaven
 
 39 capturing it with its king and all its cities. They put them to the sword and put under the ban every person in it, leaving no survivors. Thus he did to Debir and its king what he had done to Hebron, as well as to Libnah and its king. ^joshua-10-39
 
-40 Joshua conquered the entire land; the mountain regions, the Negeb, the Shephelah, and the mountain slopes, with all their kings. He left no survivors, but put under the ban every living being, just as the L ORD, the God of Israel, had commanded. ^joshua-10-40
+40 Joshua conquered the entire land; the mountain regions, the Negeb, the Shephelah, and the mountain slopes, with all their kings. He left no survivors, but put under the ban every living being, just as the LORD, the God of Israel, had commanded. ^joshua-10-40
 
 41 Joshua conquered them from Kadesh-barnea to Gaza, and all the land of Goshen to Gibeon. ^joshua-10-41
 
-42 All these kings and their lands Joshua captured all at once, for the L ORD, the God of Israel, fought for Israel. ^joshua-10-42
+42 All these kings and their lands Joshua captured all at once, for the LORD, the God of Israel, fought for Israel. ^joshua-10-42
 
 43 Thereupon Joshua with all Israel returned to the camp at Gilgal. ^joshua-10-43
 

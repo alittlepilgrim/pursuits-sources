@@ -1,15 +1,17 @@
 ---
-title: Judgment, Rash
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: judgment-rash. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Judgment, Rash
+author:
 aliases:
   - judgment-rash
   - Judgment, Rash
 tags:
   - term/judgment-rash
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: judgment-rash. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Judgment, Rash

@@ -1,39 +1,38 @@
 ---
-title: 2 Kings, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 2
+title: 2 Kings, Chapter 2
+url: https://bible.usccb.org/bible/2kings/2
 aliases:
   - 2 Kings, Chapter 2
   - 2-kings-02
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/2
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 2
 ---
 
 # 2 Kings, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Elijah’s Journey.**
 
-1 When the L ORD was about to take Elijah up to heaven in a whirlwind, he and Elisha were on their way from Gilgal. ^2-kings-02-1
+1 When the LORD was about to take Elijah up to heaven in a whirlwind, he and Elisha were on their way from Gilgal. ^2-kings-02-1
 
-2 Elijah said to Elisha, “Stay here, please. The L ORD has sent me on to Bethel.” Elisha replied, “As the L ORD lives, and as you yourself live, I will not leave you.” So they went down to Bethel. ^2-kings-02-2
+2 Elijah said to Elisha, “Stay here, please. The LORD has sent me on to Bethel.” Elisha replied, “As the LORD lives, and as you yourself live, I will not leave you.” So they went down to Bethel. ^2-kings-02-2
 
-3 The guild prophets who were in Bethel went out to Elisha and asked him, “Do you know that today the L ORD will take your master from you?” He replied, “Yes, I know that. Be still.” ^2-kings-02-3
+3 The guild prophets who were in Bethel went out to Elisha and asked him, “Do you know that today the LORD will take your master from you?” He replied, “Yes, I know that. Be still.” ^2-kings-02-3
 
-4 Elijah said to him, “Elisha, stay here, please. The L ORD has sent me on to Jericho.” Elisha replied, “As the L ORD lives, and as you yourself live, I will not leave you.” So they came to Jericho. ^2-kings-02-4
+4 Elijah said to him, “Elisha, stay here, please. The LORD has sent me on to Jericho.” Elisha replied, “As the LORD lives, and as you yourself live, I will not leave you.” So they came to Jericho. ^2-kings-02-4
 
-5 The guild prophets who were in Jericho approached Elisha and asked him, “Do you know that today the L ORD will take your master from you?” He replied, “Yes, I know that. Be still.” ^2-kings-02-5
+5 The guild prophets who were in Jericho approached Elisha and asked him, “Do you know that today the LORD will take your master from you?” He replied, “Yes, I know that. Be still.” ^2-kings-02-5
 
-6 Elijah said to him, “Stay here, please. The L ORD has sent me on to the Jordan.” Elisha replied, “As the L ORD lives, and as you yourself live, I will not leave you.” So the two went on together. ^2-kings-02-6
+6 Elijah said to him, “Stay here, please. The LORD has sent me on to the Jordan.” Elisha replied, “As the LORD lives, and as you yourself live, I will not leave you.” So the two went on together. ^2-kings-02-6
 
 7 Fifty of the guild prophets followed and stood facing them at a distance, while the two of them stood next to the Jordan. ^2-kings-02-7
 
@@ -53,13 +52,13 @@ He gripped his own garment, tore it into two pieces,
 
 13 and picked up the mantle which had fallen from Elijah. Then he went back and stood at the bank of the Jordan. ^2-kings-02-13
 
-14 Wielding the mantle which had fallen from Elijah, he struck the water and said, “The L ORD, the God of Elijah—where is he now?” He struck the water: it divided, and he crossed over. ^2-kings-02-14
+14 Wielding the mantle which had fallen from Elijah, he struck the water and said, “The LORD, the God of Elijah—where is he now?” He struck the water: it divided, and he crossed over. ^2-kings-02-14
 
 **Elisha’s Journey.**
 
 15 The guild prophets in Jericho, who were on the other side, saw him and said, “The spirit of Elijah rests on Elisha.” They went to meet him, bowing to the ground before him. ^2-kings-02-15
 
-16 They said, “Among your servants are fifty brave men. Let them go in search of your master. Perhaps the spirit of the L ORD has lifted him up and left him on some mountain or in some valley.” He answered, “Do not send them.” ^2-kings-02-16
+16 They said, “Among your servants are fifty brave men. Let them go in search of your master. Perhaps the spirit of the LORD has lifted him up and left him on some mountain or in some valley.” He answered, “Do not send them.” ^2-kings-02-16
 
 17 But they kept urging him, until he was embarrassed and said, “Send them.” So they sent the fifty men, who searched for three days without finding him. ^2-kings-02-17
 
@@ -69,13 +68,13 @@ He gripped his own garment, tore it into two pieces,
 
 20 Elisha said, “Bring me a new bowl and put salt into it.” When they had brought it to him, ^2-kings-02-20
 
-21 he went out to the spring and threw salt into it, saying, “Thus says the L ORD: I have purified this water. Never again shall death or sterility come from it.” ^2-kings-02-21
+21 he went out to the spring and threw salt into it, saying, “Thus says the LORD: I have purified this water. Never again shall death or sterility come from it.” ^2-kings-02-21
 
 22 And the water has stayed pure even to this day, according to the word Elisha had spoken. ^2-kings-02-22
 
 23 From there Elisha went up to Bethel. While he was on the way, some little boys came out of the city and jeered at him: “Go away, baldy; go away, baldy!” ^2-kings-02-23
 
-24 The prophet turned and saw them, and he cursed them in the name of the L ORD. Then two she-bears came out of the woods and tore forty-two of the children to pieces. ^2-kings-02-24
+24 The prophet turned and saw them, and he cursed them in the name of the LORD. Then two she-bears came out of the woods and tore forty-two of the children to pieces. ^2-kings-02-24
 
 25 From there he went to Mount Carmel, and returned to Samaria from there. ^2-kings-02-25
 
@@ -87,7 +86,7 @@ He gripped his own garment, tore it into two pieces,
 
 \* (2:12) My father: a religious title accorded prophetic leaders; cf. [6:21]; [8:9]; and [13:14], where King Joash of Israel reacts to Elisha’s own impending death with the same words Elisha uses here.
 
-\* (2:14) The L ORD, the God of Elijah—where is he now?: the words in Hebrew have an incantatory quality, as if Elisha is invoking both the divine name and the name of his departed master in an attempt to duplicate Elijah’s miracle.
+\* (2:14) The LORD, the God of Elijah—where is he now?: the words in Hebrew have an incantatory quality, as if Elisha is invoking both the divine name and the name of his departed master in an attempt to duplicate Elijah’s miracle.
 
 \* (2:23] – [24) This story probably was told to warn children of the importance of respect for prophets.
 

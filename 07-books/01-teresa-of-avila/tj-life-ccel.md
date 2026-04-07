@@ -1,10 +1,9 @@
 ---
-title: The Life of St. Teresa of Jesus
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: The autobiography of St. Teresa of Avila, recounting her life, mystical experiences, trials, and the foundations of the Discalced Carmelite reform.
+title: The Life of St. Teresa of Jesus
+author: Saint Teresa of Ávila
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/t/teresa/life/cache/life.txt
 aliases:
   - 20250912-011932
   - The Life of St. Teresa of Jesus
@@ -18,10 +17,10 @@ tags:
   - subject/classic
   - subject/spirituality
   - subject/theology
-author: Saint Teresa of Avila
-published: 1565 (autograph manuscript); 1904 (English translation by David Lewis, 3rd edition, with notes by Benedict Zimmerman, O.C.D.)
-source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/t/teresa/life/cache/life.txt
+created: 2025-09-12
+modified: 2026-04-04
+publish: true
+description: The autobiography of St. Teresa of Avila, recounting her life, mystical experiences, trials, and the foundations of the Discalced Carmelite reform.
 ---
 
 # The Life of St. Teresa of Jesus
@@ -31,46 +30,46 @@ Source: [](https://ccel.org/ccel/t/teresa/life/cache/life.txt)
 ## Table of Contents
 
 - Chapters:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - [Chapter I. Childhood and early impressions. the blessing of pious parents. desire of martyrdom. death of the saint's mother](#chapter-i-childhood-and-early-impressions-the-blessing-of-pious-parents-desire-of-martyrdom-death-of-the-saints-mother)
+  - [Chapter II. Early impressions. dangerous books and companions. the saint is placed in a monastery](#chapter-ii-early-impressions-dangerous-books-and-companions-the-saint-is-placed-in-a-monastery)
+  - [Chapter III. The blessing of being with good people. how certain illusions were removed](#chapter-iii-the-blessing-of-being-with-good-people-how-certain-illusions-were-removed)
+  - [Chapter IV. Our lord helps her to become a nun. her many infirmities](#chapter-iv-our-lord-helps-her-to-become-a-nun-her-many-infirmities)
+  - [Chapter V. Illness and patience of the saint. the story of a priest whom she rescued from a life of sin](#chapter-v-illness-and-patience-of-the-saint-the-story-of-a-priest-whom-she-rescued-from-a-life-of-sin)
+  - [Chapter VI. The great debt she owed to our lord for his mercy to her. she takes st. joseph for her patron](#chapter-vi-the-great-debt-she-owed-to-our-lord-for-his-mercy-to-her-she-takes-st-joseph-for-her-patron)
+  - [Chapter VII. Lukewarmness. the loss of grace. inconvenience of laxity in religious houses](#chapter-vii-lukewarmness-the-loss-of-grace-inconvenience-of-laxity-in-religious-houses)
+  - [Chapter VIII. The saint ceases not to pray. prayer the way to recover what is lost. all exhorted to pray. the great advantage of prayer, even to those who may have ceased from it](#chapter-viii-the-saint-ceases-not-to-pray-prayer-the-way-to-recover-what-is-lost-all-exhorted-to-pray-the-great-advantage-of-prayer-even-to-those-who-may-have-ceased-from-it)
+  - [Chapter IX. The means whereby our lord quickened her soul, gave her light in her darkness, and made her strong in goodness](#chapter-ix-the-means-whereby-our-lord-quickened-her-soul-gave-her-light-in-her-darkness-and-made-her-strong-in-goodness)
+  - [Chapter X. The graces she received in prayer. what we can do ourselves. the great importance of understanding what our lord is doing for us. she desires her confessors to keep her writings secret, because of the special graces of our lord to her, which they had commanded her to describe](#chapter-x-the-graces-she-received-in-prayer-what-we-can-do-ourselves-the-great-importance-of-understanding-what-our-lord-is-doing-for-us-she-desires-her-confessors-to-keep-her-writings-secret-because-of-the-special-graces-of-our-lord-to-her-which-they-had-commanded-her-to-describe)
+  - [Chapter XI. Why men do not attain quickly to the perfect love of God. of four degrees of prayer. of the first degree. the doctrine profitable for beginners, and for those who have no sensible sweetness](#chapter-xi-why-men-do-not-attain-quickly-to-the-perfect-love-of-god-of-four-degrees-of-prayer-of-the-first-degree-the-doctrine-profitable-for-beginners-and-for-those-who-have-no-sensible-sweetness)
+  - [Chapter XII. What we can ourselves do. the evil of desiring to attain to supernatural states before our lord calls us](#chapter-xii-what-we-can-ourselves-do-the-evil-of-desiring-to-attain-to-supernatural-states-before-our-lord-calls-us)
+  - [Chapter XIII. Of certain temptations of satan. instructions relating thereto](#chapter-xiii-of-certain-temptations-of-satan-instructions-relating-thereto)
+  - [Chapter XIV. The second state of prayer. its supernatural character](#chapter-xiv-the-second-state-of-prayer-its-supernatural-character)
+  - [Chapter XV. Instructions for those who have attained to the prayer of quiet. many advance so far, but few go farther](#chapter-xv-instructions-for-those-who-have-attained-to-the-prayer-of-quiet-many-advance-so-far-but-few-go-farther)
+  - [Chapter XVI. The third state of prayer. deep matters. what the soul can do that has reached it. effects of the great graces of our lord](#chapter-xvi-the-third-state-of-prayer-deep-matters-what-the-soul-can-do-that-has-reached-it-effects-of-the-great-graces-of-our-lord)
+  - [Chapter XVII. The third state of prayer. the effects thereof. the hindrance caused by the imagination and the memory](#chapter-xvii-the-third-state-of-prayer-the-effects-thereof-the-hindrance-caused-by-the-imagination-and-the-memory)
+  - [Chapter XVIII. The fourth state of prayer. the great dignity of the soul raised to it by our lord. attainable on earth, not by our merit, but by the goodness of our lord](#chapter-xviii-the-fourth-state-of-prayer-the-great-dignity-of-the-soul-raised-to-it-by-our-lord-attainable-on-earth-not-by-our-merit-but-by-the-goodness-of-our-lord)
+  - [Chapter XIX. The effects of this fourth state of prayer. earnest exhortations to those who have attained to it not to go back, nor to cease from prayer, even if they fall. the great calamity of going back](#chapter-xix-the-effects-of-this-fourth-state-of-prayer-earnest-exhortations-to-those-who-have-attained-to-it-not-to-go-back-nor-to-cease-from-prayer-even-if-they-fall-the-great-calamity-of-going-back)
+  - [Chapter XX. The difference between union and rapture. what rapture is. the blessing it is to the soul. the effects of it](#chapter-xx-the-difference-between-union-and-rapture-what-rapture-is-the-blessing-it-is-to-the-soul-the-effects-of-it)
+  - [Chapter XXI. Conclusion of the subject. pain of the awakening. light against delusions](#chapter-xxi-conclusion-of-the-subject-pain-of-the-awakening-light-against-delusions)
+  - [Chapter XXII. The security of contemplatives lies in their not ascending to high things if our lord does not raise them. the sacred humanity must be the road to the highest contemplation. a delusion in which the saint was once entangled](#chapter-xxii-the-security-of-contemplatives-lies-in-their-not-ascending-to-high-things-if-our-lord-does-not-raise-them-the-sacred-humanity-must-be-the-road-to-the-highest-contemplation-a-delusion-in-which-the-saint-was-once-entangled)
+  - [Chapter XXIII. The saint resumes the history of her life. aiming at perfection. means whereby it may be gained. instructions for confessors](#chapter-xxiii-the-saint-resumes-the-history-of-her-life-aiming-at-perfection-means-whereby-it-may-be-gained-instructions-for-confessors)
+  - [Chapter XXIV. Progress under obedience. her inability to resist the graces of God. God multiplies his graces](#chapter-xxiv-progress-under-obedience-her-inability-to-resist-the-graces-of-god-god-multiplies-his-graces)
+  - [Chapter XXV. Divine locutions. discussions on that subject](#chapter-xxv-divine-locutions-discussions-on-that-subject)
+  - [Chapter XXVI. How the fears of the saint vanished. how she was assured that her prayer was the work of the Holy Spirit](#chapter-xxvi-how-the-fears-of-the-saint-vanished-how-she-was-assured-that-her-prayer-was-the-work-of-the-holy-spirit)
+  - [Chapter XXVII. The saint prays to be directed by a different way. intellectual visions](#chapter-xxvii-the-saint-prays-to-be-directed-by-a-different-way-intellectual-visions)
+  - [Chapter XXVIII. Visions of the sacred humanity, and of the glorified bodies. imaginary visions. great fruits thereof when they come from God](#chapter-xxviii-visions-of-the-sacred-humanity-and-of-the-glorified-bodies-imaginary-visions-great-fruits-thereof-when-they-come-from-god)
+  - [Chapter XXIX. Of visions. the graces our lord bestowed on the saint. the answers our lord gave her for those who tried her](#chapter-xxix-of-visions-the-graces-our-lord-bestowed-on-the-saint-the-answers-our-lord-gave-her-for-those-who-tried-her)
+  - [Chapter XXX. St. peter of alcantara comforts the saint. great temptations and interior trials](#chapter-xxx-st-peter-of-alcantara-comforts-the-saint-great-temptations-and-interior-trials)
+  - [Chapter XXXI. Of certain outward temptations and appearances of satan. of the sufferings thereby occasioned. counsels for those who go on unto perfection](#chapter-xxxi-of-certain-outward-temptations-and-appearances-of-satan-of-the-sufferings-thereby-occasioned-counsels-for-those-who-go-on-unto-perfection)
+  - [Chapter XXXII. Our lord shows st. teresa the place which she had by her sins deserved in hell. the torments there. how the monastery of st. joseph was founded](#chapter-xxxii-our-lord-shows-st-teresa-the-place-which-she-had-by-her-sins-deserved-in-hell-the-torments-there-how-the-monastery-of-st-joseph-was-founded)
+  - [Chapter XXXIII. The foundation of the monastery hindered. our lord consoles the saint](#chapter-xxxiii-the-foundation-of-the-monastery-hindered-our-lord-consoles-the-saint)
+  - [Chapter XXXIV. The saint leaves her monastery of the incarnation for a time, at the command of her superior. consoles an afflicted widow](#chapter-xxxiv-the-saint-leaves-her-monastery-of-the-incarnation-for-a-time-at-the-command-of-her-superior-consoles-an-afflicted-widow)
+  - [Chapter XXXV. The foundation of the house of st. joseph. the observation of holy poverty therein. how the saint left toledo](#chapter-xxxv-the-foundation-of-the-house-of-st-joseph-the-observation-of-holy-poverty-therein-how-the-saint-left-toledo)
+  - [Chapter XXXVI. The foundation of the monastery of st. joseph. persecution and temptations. great interior trial of the saint, and her deliverance](#chapter-xxxvi-the-foundation-of-the-monastery-of-st-joseph-persecution-and-temptations-great-interior-trial-of-the-saint-and-her-deliverance)
+  - [Chapter XXXVII. The effects of the divine graces in the soul. the inestimable greatness of one degree of glory](#chapter-xxxvii-the-effects-of-the-divine-graces-in-the-soul-the-inestimable-greatness-of-one-degree-of-glory)
+  - [Chapter XXXVIII. Certain heavenly secrets, visions, and revelations. the effects of them in her soul](#chapter-xxxviii-certain-heavenly-secrets-visions-and-revelations-the-effects-of-them-in-her-soul)
+  - [Chapter XXXIX. Other graces bestowed on the saint. the promises of our lord to her. divine locutions and visions](#chapter-xxxix-other-graces-bestowed-on-the-saint-the-promises-of-our-lord-to-her-divine-locutions-and-visions)
+  - [Chapter XL. Visions, revelations, and locutions](#chapter-xl-visions-revelations-and-locutions)
 
 ## Publication Info
 
@@ -636,7 +635,7 @@ The Bull of Canonisation and the Office in the Breviary also say that she was in
 
 [83] Ch. xxxiv. § 24.
 
-# The Life of the Holy Mother Teresa of Jesus. Written by Herself.
+# The Life of the Holy Mother Teresa of Jesus. Written by Herself
 
 ## Prologue
 
@@ -4100,11 +4099,11 @@ Zeal, indiscreet, [1454]xiii. 11.
 
 # Indexes
 
-### Index of Scripture References
+## Index of Scripture References
 
 Genesis [1455]1:26 Exodus [1456]23:15 2 Chronicles [1457]20:12 [1458]20:12 Job [1459]1 [1460]2:10 [1461]4:15 [1462]4:15 [1463]4:17 [1464]14:2 Psalms [1465]38:3 [1466]41:2 [1467]41:4 [1468]54:7 [1469]72:22 [1470]91:6 [1471]93:20 [1472]101:8 [1473]118:137 [1474]121 [1475]147:14 Proverbs [1476]8:31 Ecclesiastes [1477]9:1 Song of Solomon [1478]5:1 [1479]5:1 [1480]6:4 Daniel [1481]10:16 [1482]12:3 Matthew [1483]3:17 [1484]5:18 [1485]6:31 [1486]8:26 [1487]10:26 [1488]10:28 [1489]11:30 [1490]14:30 [1491]16:16 [1492]16:24 [1493]17:2 [1494]17:4 [1495]19:26 [1496]19:29 [1497]19:29 [1498]20:9-14 [1499]20:16 [1500]20:22 [1501]27:32 Luke [1502]5:8 [1503]9:58 [1504]14:8 [1505]15:9 [1506]16:28 [1507]17:10 [1508]18:13 [1509]23:28 John [1510]3:34 [1511]3:34 [1512]4:5-42 [1513]4:15 [1514]8:44 [1515]10:7 [1516]10:9 [1517]10:20 [1518]10:20 [1519]13:16 [1520]14:23 [1521]14:23 [1522]16:7 Acts [1523]10:34 Romans [1524]7:24 1 Corinthians [1525]2:9 [1526]10:13 [1527]10:13 2 Corinthians [1528]1:12 [1529]2:11 [1530]5:14 [1531]11:14 [1532]11:14 [1533]11:27 [1534]12:2 [1535]12:9 Galatians [1536]2:20 [1537]2:20 [1538]2:20 [1539]6:14 Ephesians [1540]1:14 Philippians [1541]3:20 [1542]4:13 1 Thessalonians [1543]5:19 [1544]5:19-22 Titus [1545]2:5 Revelation [1546]2:23 [1547]4:4 [1548]8:4 2 Maccabees [1549]9:10 [1550]9:12
 
-### Index of Citations
+## Index of Citations
 
      * "De la Clausura,": [1551]1
      * Acta: [1552]1
@@ -4181,7 +4180,7 @@ Genesis [1455]1:26 Exodus [1456]23:15 2 Chronicles [1457]20:12 [1458]20:12 Job [
      * ad Eustochium: [1884]1
      * in Cantica: [1885]1
 
-### Index of Latin Words and Phrases
+## Index of Latin Words and Phrases
 
      * "Ad eum veniemus, et mansionem apud eum faciemus.": [1886]1
      * "Ad imaginem et similitudinem Nostram.": [1887]1
@@ -4334,7 +4333,7 @@ Genesis [1455]1:26 Exodus [1456]23:15 2 Chronicles [1457]20:12 [1458]20:12 Job [
      * in voce: [2047]1
      * unum aut unus apex non præteribit a lege.: [2048]1
 
-### Index of French Words and Phrases
+## Index of French Words and Phrases
 
      * "Les Saints": [2049]1
      * "une alliance honorable pour moi.": [2050]1
@@ -4349,11 +4348,11 @@ Genesis [1455]1:26 Exodus [1456]23:15 2 Chronicles [1457]20:12 [1458]20:12 Job [
      * Sainte Thérèse, Lettres au R. P. Bouix: [2060]1
      * Vie de la Mère Anne de Jésus: [2061]1
 
-### Index of Pages of the Print Edition
+## Index of Pages of the Print Edition
 
 [2062]i [2063]ii [2064]iii [2065]v [2066]vi [2067]vii [2068]ix [2069]x [2070]xi [2071]xii [2072]xiii [2073]xiv [2074]xv [2075]xvi [2076]xvii [2077]xviii [2078]xix [2079]xx [2080]xxi [2081]xxii [2082]xxiii [2083]xxiv [2084]xxv [2085]xxvi [2086]xxvii [2087]xxix [2088]xxx [2089]xxi [2090]xxxii [2091]xxxiii [2092]xxxiv [2093]xxxv [2094]xxxvi [2095]xxxvii [2096]xxxviii [2097]xxxix [2098]xl [2099]xli [2100]xlii [2101]xliii [2102]xlv [2103]xlvi [2104]xlvii [2105]1 [2106]2 [2107]3 [2108]4 [2109]5 [2110]6 [2111]7 [2112]8 [2113]9 [2114]10 [2115]11 [2116]12 [2117]13 [2118]14 [2119]15 [2120]16 [2121]17 [2122]18 [2123]19 [2124]20 [2125]21 [2126]22 [2127]23 [2128]24 [2129]25 [2130]26 [2131]27 [2132]28 [2133]29 [2134]30 [2135]31 [2136]32 [2137]33 [2138]34 [2139]35 [2140]36 [2141]37 [2142]38 [2143]39 [2144]40 [2145]41 [2146]42 [2147]43 [2148]44 [2149]45 [2150]46 [2151]47 [2152]48 [2153]49 [2154]50 [2155]51 [2156]52 [2157]53 [2158]54 [2159]55 [2160]56 [2161]57 [2162]58 [2163]59 [2164]60 [2165]61 [2166]62 [2167]63 [2168]64 [2169]65 [2170]66 [2171]67 [2172]68 [2173]69 [2174]70 [2175]71 [2176]72 [2177]73 [2178]74 [2179]75 [2180]76 [2181]77 [2182]78 [2183]79 [2184]80 [2185]81 [2186]82 [2187]83 [2188]84 [2189]85 [2190]86 [2191]87 [2192]88 [2193]89 [2194]90 [2195]91 [2196]92 [2197]93 [2198]94 [2199]95 [2200]96 [2201]97 [2202]98 [2203]99 [2204]100 [2205]101 [2206]102 [2207]103 [2208]104 [2209]105 [2210]106 [2211]107 [2212]108 [2213]109 [2214]110 [2215]111 [2216]112 [2217]113 [2218]114 [2219]115 [2220]116 [2221]117 [2222]118 [2223]119 [2224]120 [2225]121 [2226]122 [2227]123 [2228]124 [2229]125 [2230]126 [2231]127 [2232]128 [2233]129 [2234]130 [2235]131 [2236]132 [2237]133 [2238]134 [2239]135 [2240]136 [2241]137 [2242]138 [2243]139 [2244]140 [2245]141 [2246]142 [2247]143 [2248]144 [2249]145 [2250]146 [2251]147 [2252]148 [2253]149 [2254]150 [2255]151 [2256]152 [2257]153 [2258]154 [2259]155 [2260]156 [2261]157 [2262]158 [2263]159 [2264]160 [2265]161 [2266]162 [2267]163 [2268]164 [2269]165 [2270]166 [2271]167 [2272]168 [2273]169 [2274]170 [2275]171 [2276]172 [2277]173 [2278]174 [2279]175 [2280]176 [2281]177 [2282]178 [2283]179 [2284]180 [2285]181 [2286]182 [2287]183 [2288]184 [2289]185 [2290]186 [2291]187 [2292]188 [2293]189 [2294]190 [2295]191 [2296]192 [2297]193 [2298]194 [2299]195 [2300]196 [2301]197 [2302]198 [2303]199 [2304]200 [2305]201 [2306]202 [2307]203 [2308]204 [2309]205 [2310]206 [2311]207 [2312]208 [2313]209 [2314]210 [2315]211 [2316]212 [2317]213 [2318]214 [2319]215 [2320]216 [2321]217 [2322]218 [2323]219 [2324]220 [2325]221 [2326]222 [2327]223 [2328]224 [2329]225 [2330]226 [2331]227 [2332]228 [2333]229 [2334]230 [2335]231 [2336]232 [2337]233 [2338]234 [2339]235 [2340]236 [2341]237 [2342]238 [2343]239 [2344]240 [2345]241 [2346]242 [2347]243 [2348]244 [2349]245 [2350]246 [2351]247 [2352]248 [2353]249 [2354]250 [2355]251 [2356]252 [2357]253 [2358]254 [2359]255 [2360]256 [2361]257 [2362]258 [2363]259 [2364]260 [2365]261 [2366]262 [2367]263 [2368]264 [2369]265 [2370]266 [2371]267 [2372]268 [2373]269 [2374]270 [2375]271 [2376]272 [2377]273 [2378]274 [2379]275 [2380]276 [2381]277 [2382]278 [2383]279 [2384]280 [2385]281 [2386]282 [2387]283 [2388]284 [2389]285 [2390]286 [2391]287 [2392]288 [2393]289 [2394]290 [2395]291 [2396]292 [2397]293 [2398]294 [2399]295 [2400]296 [2401]297 [2402]298 [2403]299 [2404]300 [2405]301 [2406]302 [2407]303 [2408]304 [2409]305 [2410]306 [2411]307 [2412]308 [2413]309 [2414]310 [2415]311 [2416]312 [2417]313 [2418]314 [2419]315 [2420]316 [2421]317 [2422]318 [2423]319 [2424]320 [2425]321 [2426]322 [2427]323 [2428]324 [2429]325 [2430]326 [2431]327 [2432]328 [2433]329 [2434]330 [2435]331 [2436]332 [2437]333 [2438]334 [2439]335 [2440]336 [2441]337 [2442]338 [2443]339 [2444]340 [2445]341 [2446]342 [2447]343 [2448]344 [2449]345 [2450]346 [2451]347 [2452]348 [2453]349 [2454]350 [2455]351 [2456]352 [2457]353 [2458]354 [2459]355 [2460]356 [2461]357 [2462]358 [2463]359 [2464]360 [2465]361 [2466]362 [2467]363 [2468]364 [2469]365 [2470]366 [2471]367 [2472]368 [2473]369 [2474]370 [2475]371 [2476]372 [2477]373 [2478]374 [2479]375 [2480]376 [2481]377 [2482]378 [2483]379 [2484]380 [2485]381 [2486]382 [2487]383 [2488]384 [2489]385 [2490]386 [2491]387 [2492]388 [2493]389 [2494]390 [2495]391 [2496]392 [2497]393 [2498]394 [2499]395 [2500]396 [2501]397 [2502]398 [2503]399 [2504]401 [2505]403 [2506]404 [2507]405 [2508]406 [2509]407 [2510]408 [2511]409 [2512]410 [2513]411 [2514]412 [2515]413 [2516]414 [2517]415 [2518]416 [2519]417 [2520]418 [2521]419 [2522]420 [2523]421 [2524]422 [2525]423 [2526]424 [2527]425 [2528]426 [2529]427 [2530]428 [2531]429 [2532]430 [2533]431 [2534]432 [2535]433 [2536]434 [2537]435 [2538]436 [2539]437 [2540]438 [2541]439 [2542]440 [2543]441 [2544]442 [2545]443 [2546]444 [2547]445 [2548]446 [2549]447 [2550]448 [2551]449 [2552]450 [2553]451 [2554]452 [2555]453 [2556]454 [2557]455 [2558]456 [2559]457 [2560]458 [2561]459 [2562]460 [2563]461 [2564]462 [2565]463 [2566]464 [2567]465 [2568]466 [2569]467 [2570]468 [2571]469 [2572]470 [2573]471 [2574]472 [2575]473 [2576]474 [2577]475 [2578]476 [2579]477 [2580]478 [2581]480 [2582]481 [2583]482 [2584]483 [2585]484 [2586]485 [2587]486 [2588]487 [2589]488 [2590]489
 
-## Edition Notes
+# Edition Notes
 
 Saint Teresa The Life of St. Teresa of Jesus Re-imprimatur.
 

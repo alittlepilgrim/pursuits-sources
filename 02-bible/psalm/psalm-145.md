@@ -1,18 +1,19 @@
 ---
-title: Psalm 145
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 145
+title: Psalm 145
+url: https://bible.usccb.org/bible/psalms/145
 aliases:
   - Psalm 145
   - psalm-145
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/145
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 145
 ---
 
 # Psalm 145

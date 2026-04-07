@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 18
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 18
+title: Joshua, Chapter 18
+url: https://bible.usccb.org/bible/joshua/18
 aliases:
   - joshua-18
   - Joshua, Chapter 18
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/18
-testament: old
-url: https://bible.usccb.org/bible/joshua/18
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 18
 ---
 
 # Joshua, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 1 The whole community of the Israelites assembled at Shiloh, where they set up the tent of meeting; and the land was subdued before them. ^joshua-18-1
 
@@ -28,15 +26,15 @@ url: https://bible.usccb.org/bible/joshua/18
 
 2 There remained seven tribes among the Israelites that had not yet received their heritage. ^joshua-18-2
 
-3 Joshua therefore said to the Israelites, “How much longer will you put off taking steps to possess the land which the L ORD, the God of your ancestors, has given you? ^joshua-18-3
+3 Joshua therefore said to the Israelites, “How much longer will you put off taking steps to possess the land which the LORD, the God of your ancestors, has given you? ^joshua-18-3
 
 4 Choose three representatives from each of your tribes; I will send them to go throughout the land and describe it for purposes of acquiring their heritage. When they return to me ^joshua-18-4
 
 5 you shall divide it into seven parts. Judah is to retain its territory in the south, and the house of Joseph its territory in the north. ^joshua-18-5
 
-6 You shall bring to me here the description of the land in seven sections. I will then cast lots for you here before the L ORD, our God. ^joshua-18-6
+6 You shall bring to me here the description of the land in seven sections. I will then cast lots for you here before the LORD, our God. ^joshua-18-6
 
-8 When those who were to describe the land were ready for their journey, Joshua commanded them, “Go throughout the land and describe it; return to me and I will cast lots for you here before the L ORD in Shiloh.” ^joshua-18-8
+8 When those who were to describe the land were ready for their journey, Joshua commanded them, “Go throughout the land and describe it; return to me and I will cast lots for you here before the LORD in Shiloh.” ^joshua-18-8
 
 9 So they went through the land, described its cities in writing in seven sections, and returned to Joshua in the camp at Shiloh. ^joshua-18-9
 

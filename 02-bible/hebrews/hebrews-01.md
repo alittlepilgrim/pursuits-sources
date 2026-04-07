@@ -1,25 +1,24 @@
 ---
-title: Hebrews, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hebrews, Chapter 1
+title: Hebrews, Chapter 1
+url: https://bible.usccb.org/bible/hebrews/1
 aliases:
   - hebrews-01
   - Hebrews, Chapter 1
 tags:
+  - bible/chapter
   - bible/hebrews
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/hebrews/1
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hebrews, Chapter 1
 ---
 
 # Hebrews, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 In times past, God spoke in partial and various ways to our ancestors through the prophets; ^hebrews-01-1
 
@@ -39,7 +38,7 @@ he took his seat at the right hand of the Majesty on high,
 
 as the name he has inherited is more excellent than theirs.
 
-## Ii. the Son Higher than the Angels
+# Ii. the Son Higher than the Angels
 
 **Messianic Enthronement.**
 

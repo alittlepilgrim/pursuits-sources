@@ -1,37 +1,36 @@
 ---
-title: 2 Kings, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 13
+title: 2 Kings, Chapter 13
+url: https://bible.usccb.org/bible/2kings/13
 aliases:
   - 2 Kings, Chapter 13
   - 2-kings-13
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/13
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 13
 ---
 
 # 2 Kings, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Reign of Jehoahaz of Israel.**
 
 1 In the twenty-third year of Joash, son of Ahaziah, king of Judah, Jehoahaz, son of Jehu, became king over Israel in Samaria for seventeen years. ^2-kings-13-1
 
-2 He did what was evil in the L ORD’s sight: he did not depart from following the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-13-2
+2 He did what was evil in the LORD’s sight: he did not depart from following the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-13-2
 
-3 The L ORD was angry with Israel and for a long time gave them into the power of Hazael, king of Aram, and of Ben-hadad, son of Hazael. ^2-kings-13-3
+3 The LORD was angry with Israel and for a long time gave them into the power of Hazael, king of Aram, and of Ben-hadad, son of Hazael. ^2-kings-13-3
 
-4 Then Jehoahaz entreated the L ORD, who heard him, since he saw the oppression to which the king of Aram had subjected Israel. ^2-kings-13-4
+4 Then Jehoahaz entreated the LORD, who heard him, since he saw the oppression to which the king of Aram had subjected Israel. ^2-kings-13-4
 
-5 So the L ORD gave Israel a savior, and the Israelites, freed from the power of Aram, dwelt in their own tents as formerly. ^2-kings-13-5
+5 So the LORD gave Israel a savior, and the Israelites, freed from the power of Aram, dwelt in their own tents as formerly. ^2-kings-13-5
 
 6 Nevertheless, they did not desist from the sins the house of Jeroboam had caused Israel to commit, but persisted in them. The Asherah remained even in Samaria. ^2-kings-13-6
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/2kings/13
 
 10 In the thirty-seventh year of Joash, king of Judah, Joash, son of Jehoahaz, became king over Israel in Samaria sixteen years. ^2-kings-13-10
 
-11 He did what was evil in the L ORD’s sight; he did not desist from any of the sins Jeroboam, son of Nebat, had caused Israel to commit, but persisted in them. ^2-kings-13-11
+11 He did what was evil in the LORD’s sight; he did not desist from any of the sins Jeroboam, son of Nebat, had caused Israel to commit, but persisted in them. ^2-kings-13-11
 
 12 The rest of the acts of Joash, with all that he did and his valor, and how he fought with Amaziah, king of Judah, are recorded in the book of the chronicles of the kings of Israel. ^2-kings-13-12
 
@@ -61,7 +60,7 @@ url: https://bible.usccb.org/bible/2kings/13
 
 17 and said, “Open the window toward the east.” He opened it. Elisha said, “Shoot,” and he shot. He said, ^2-kings-13-17
 
-“An arrow of victory for the L ORD!
+“An arrow of victory for the LORD!
 
 An arrow of victory over Aram!
 
@@ -79,7 +78,7 @@ At that time of year, bands of Moabites used to raid the land.
 
 22 King Hazael of Aram oppressed Israel all the days of Jehoahaz. ^2-kings-13-22
 
-23 But the L ORD was gracious with Israel and looked on them with compassion because of his covenant with [[abraham|Abraham]], Isaac, and Jacob. He was unwilling to destroy them or to cast them out from his presence even up to now. ^2-kings-13-23
+23 But the LORD was gracious with Israel and looked on them with compassion because of his covenant with [[abraham|Abraham]], Isaac, and Jacob. He was unwilling to destroy them or to cast them out from his presence even up to now. ^2-kings-13-23
 
 24 So when King Hazael of Aram died and his son Ben-hadad succeeded him as king, ^2-kings-13-24
 

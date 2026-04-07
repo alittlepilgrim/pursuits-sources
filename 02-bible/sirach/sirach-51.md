@@ -1,29 +1,28 @@
 ---
-title: Sirach, Chapter 51
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 51
+title: Sirach, Chapter 51
+url: https://bible.usccb.org/bible/sirach/51
 aliases:
   - sirach-51
   - Sirach, Chapter 51
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/51
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 51
 ---
 
 # Sirach, Chapter 51
 
-### Chapter 51
+## Chapter 51
 
-#### A Prayer of Thanksgiving
+### A Prayer of Thanksgiving
 
-1 I give you thanks, L ORD and King, ^sirach-51-1
+1 I give you thanks, LORD and King, ^sirach-51-1
 
 I praise you, God my savior!
 
@@ -67,7 +66,7 @@ my life was nearing the depths of Sheol;
 
 I looked for support but there was none.
 
-8 Then I remembered the mercies of the L ORD, ^sirach-51-8
+8 Then I remembered the mercies of the LORD, ^sirach-51-8
 
 his acts of kindness through ages past;
 
@@ -79,7 +78,7 @@ and rescues them from every evil.
 
 from the gates of Sheol I cried for help.
 
-10 I called out: L ORD, you are my Father, ^sirach-51-10
+10 I called out: LORD, you are my Father, ^sirach-51-10
 
 my champion, my savior!
 
@@ -91,7 +90,7 @@ in the midst of storms and dangers.
 
 and remember you in prayer!
 
-Then the L ORD heard my voice,
+Then the LORD heard my voice,
 
 and listened to my appeal.
 
@@ -101,9 +100,9 @@ and preserved me in time of trouble.
 
 For this reason I thank and praise him;
 
-I bless the name of the L ORD.
+I bless the name of the LORD.
 
-#### Ben Sira’s Pursuit of Wisdom
+### Ben Sira’s Pursuit of Wisdom
 
 13 When I was young and innocent, ^sirach-51-13
 
@@ -157,7 +156,7 @@ such that I will never forsake her.
 
 therefore I have made her my prize possession.
 
-22 The L ORD has rewarded me with lips, ^sirach-51-22
+22 The LORD has rewarded me with lips, ^sirach-51-22
 
 with a tongue for praising him.
 
@@ -203,7 +202,7 @@ and in his own time God will give you your reward.
 
 \* (51:12) After this verse the Hebrew text gives the litany of praise contained below. It is similar to [Ps 136]. Though not found in any versions, and therefore of doubtful authenticity, the litany seems from internal evidence to go back to the time of Ben Sira.
 
-Give praise to the L ORD, for he is good, for God’s love endures forever;
+Give praise to the LORD, for he is good, for God’s love endures forever;
 
 Give praise to the God of glory, for God’s love endures forever;
 

@@ -1,25 +1,25 @@
 ---
-title: Nahum, The Book of Nahum
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nahum, the Book of Nahum
+title: Nahum, The Book of Nahum
+url: https://bible.usccb.org/bible/nahum/0
 aliases:
   - nahum-00
   - Nahum, the Book of Nahum
   - Nahum, The Book of Nahum
 tags:
+  - bible/book
   - bible/nahum
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/nahum/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nahum, the Book of Nahum
 ---
 
 # Nahum, the Book of Nahum
 
-   
+[Introduction](nahum-00.md) [1](nahum-01.md) [2](nahum-02.md) [3](nahum-03.md)
 
 ## The Book of Nahum
 

@@ -1,13 +1,15 @@
 ---
-title: Part II – Resource Materials - OCDS Ongoing Formation Volume I
-created: 2025-10-30
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Part II – Resource Materials - OCDS Ongoing Formation Volume I
+author: Secular Order of Discalced Carmelites
 aliases:
   - 20251030-140235
   - Part II – Resource Materials
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-10-30
+modified: 2026-04-06
+publish: false
 ---
 
 # Part II
@@ -244,7 +246,7 @@ Various chapters of this book are required reading throughout Formation I and II
 
 Reading biographies and works of our Carmelite saints and blesseds gives us a priceless glimpse of their lives and spiritual development. By reading about their family life, their struggles, and virtues, we are inspired and encouraged to live our vocation faithfully. Biographies are a powerful tool for one’s growth in prayer and developing a closer relationship with God. The following books are a few suggestions for spiritual enrichment, discussion, and building communities in Carmel.
 
-#### St. Teresa of Jesus (Avila) Saint Teresa of Avila: 100 Themes on Her Life and Work, Tomás Alvarez, O.C.D. Translated by Kieran Kavanaugh, O.C.D. Ics
+### St. Teresa of Jesus (Avila) Saint Teresa of Avila: 100 Themes on Her Life and Work, Tomás Alvarez, O.C.D. Translated by Kieran Kavanaugh, O.C.D. Ics
 
 This book contains a collection of 100 themes on Teresa’s life and work. These themes offer the reader a number of other facets of Teresa’s image: The cultural and family context in which she lived, her biographical profile, her leadership qualities as a founder, and her work as a writer. In addition, this book includes a comprehensive introduction to The Book of Her Life (and its two redactions); The Book of Her Foundations; The Way of Perfection; The Interior Castle; Spiritual Testimonies; Meditation on the Song of Songs; Soliloquies; her poetry and letters.
 
@@ -256,15 +258,15 @@ Note: This book could be an excellent study guide for ongoing formation.
 
 Various selected themes could be used for community formation as well.
 
-#### In Context: Teresa of Avila, John of the Cross and Their World, Mark O’Keefe, O.S.B. Ics
+### In Context: Teresa of Avila, John of the Cross and Their World, Mark O’Keefe, O.S.B. Ics
 
 “The word ‘context’ in the title of this book signals the author’s intention: to explore the various situations that influenced the life and times of Teresa and John, two Carmelites who have been recognized as two of the best known and most influential Christian mystics. Fr. O’Keefe has produced a wide-ranging exploration of the back stories of these two Carmelites who have made large imprints on the tapestry that is Carmelite spirituality and mysticism. The horizons of these two mystics seem endless as one gets to know their writings, their backgrounds, and their significance for contemporary Christianity” (Foreword).
 
-#### St. John of the Cross John of the Cross: Man and Mystic, Richard P. Hardy. Pauline Books and Media. (Sold by ICS)
+### St. John of the Cross John of the Cross: Man and Mystic, Richard P. Hardy. Pauline Books and Media. (Sold by ICS)
 
 This engaging contemporary biography is the perfect introduction—or an enjoyable reacquaintance—to a man whose life, writings, and spirituality have illuminated the Christian world. This book eloquently portrays the real and compassionate saint named John of the Cross. The author writes: “The more I read and reread his work, the more I found that they spoke of a man so different from the one I had read about in biographies. So, I set out to do something about it. I determined to research his life once more…Slowly a new figure emerged: a man, human being who had fallen in love with God IN the world. I discovered a man who is indeed a saint, but not because he fled the world. I found a man who had discovered that sanctity meant searching for and finding God in THIS world of ours and in the vicissitudes of his own life and times. Here was a man for whom the incarnation of the Word of God in Jesus meant the consecration of the world and its history. For Fray Juan, God was one who speaks in time, in life, in the world” (Introduction).
 
-#### St. Thérèse of Lisieux with Empty Hands: the Message of St. Thérèse of Lisieux, Conrad de Meester O.C.D. Ics
+### St. Thérèse of Lisieux with Empty Hands: the Message of St. Thérèse of Lisieux, Conrad de Meester O.C.D. Ics
 
 This book contains a “brilliant and moving presentation of the life, thought and spirituality of St. Thérèse of Lisieux. Fr. de Meester asks why and how this young girl, who asked to be admitted to the Carmel of Lisieux and persevered in her vocation to a hidden life in an obscure corner of France, is not only loved and invoked by millions of people but has become a profound influence on theology, spirituality, and the missionary apostolate, culminating in her being declared a Doctor of the Church.”
 
@@ -272,7 +274,7 @@ This book contains a “brilliant and moving presentation of the life, thought a
 
 2025 Vol. I; 10-1-25
 
-#### Saint Thérèse of Lisieux: Story of a Life, Guy Gaucher, O.C.D. Ignatius Press
+### Saint Thérèse of Lisieux: Story of a Life, Guy Gaucher, O.C.D. Ignatius Press
 
 This book is the answer to a widespread demand for the finest biography of this greatest saint of modern times. “This book is based entirely, and scrupulously, on authentic documents. It contains no fiction. These pages try to be faithful to Thérèse, who said on her deathbed: ‘I only love simplicity. I have a horror of pretense’” (Prologue).
 
@@ -368,7 +370,7 @@ Letter to the OCDS, March 20, 2020: “… I urge you to know your [legislative]
 
 ## 7. Church Documents, Letters, Homilies, and General Audiences Specific to the Discalced Carmelites
 
-#### Documents on the Call to Holiness
+### Documents on the Call to Holiness
 
 **Gaudete et exsultate – On the Call to Holiness in Today’s World, Pope Francis, March 19, 2018**
 

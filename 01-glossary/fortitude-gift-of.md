@@ -1,17 +1,18 @@
 ---
-title: Fortitude (Gift Of)
-created: 2025-05-11
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Fortitude (Gift Of)
+author:
+source: Divine Intimacy Meditations
 aliases:
   - Fortitude (Gift Of)
   - fortitude-gift-of
 tags:
   - divine-intimacy
   - term/fortitude-gift-of
-author: Gabriel of Saint Mary Magdalen
-source: Divine Intimacy Meditations
+  - type/term
+created: 2025-05-11
+modified: 2026-04-06
+publish: true
 ---
 
 # Fortitude (Gift Of)
@@ -25,5 +26,5 @@ source: Divine Intimacy Meditations
 
 ## Divine Intimacy Meditations
 
-- 302. The Gift of Fortitude
-- 303. Blessed Are They that Hunger and Thirst after Justice
+- [[302-the-gift-of-fortitude|302. The Gift of Fortitude]]
+- [[303-blessed-are-they-that-hunger-and-thirst-after-justice|303. Blessed Are They that Hunger and Thirst after Justice]]

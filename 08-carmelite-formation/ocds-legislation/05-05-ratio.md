@@ -1,28 +1,29 @@
 ---
-title: Ratio Institutionis of Secular Order of Carmel
-created: 2025-05-03
-modified: 2026-04-02
 type: legislation
-publish: true
+title: Ratio Institutionis of Secular Order of Carmel
+author: Secular Order of Discalced Carmelites
 aliases:
   - 05-05-ratio
   - Ratio Institutionis of Secular order of Carmel
   - Ratio Institutionis of Secular Order of Carmel
 tags:
   - carmel/legislation
-author: Secular Order of Discalced Carmelites
+  - type/legislation
+created: 2025-05-03
+modified: 2026-04-06
+publish: true
 ---
 
 # Ratio Institutionis of Secular Order of Carmel
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- [Essential of Formation](#Essential%20Of%20Formation)
+- [The Blessed Virgin Mary](#The%20Blessed%20Virgin%20Mary)
+- [The Church](#The%20Church)
+- [The Carmelite Order](#The%20Carmelite%20Order)
+- [The Candidate](#The%20Candidate)
+- [The Community](#The%20Community)
+- [The President of the Community](#The%20President%20Of%20The%20Community)
+- [The Director of Formation](#The%20Director%20Of%20Formation)
 
 1 This Ratio Institutionis seeks to present the purpose of a program of formation for the members of the Secular Order of Carmel and to offer a general outline of a syllabus to achieve that formation.
 

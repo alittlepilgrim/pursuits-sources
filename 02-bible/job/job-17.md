@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 17
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 17
+title: Job, Chapter 17
+url: https://bible.usccb.org/bible/job/17
 aliases:
   - job-17
   - Job, Chapter 17
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 17
 ---
 
 # Job, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
 1 My spirit is broken, my days finished, ^job-17-1
 

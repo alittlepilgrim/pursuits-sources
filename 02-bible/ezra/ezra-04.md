@@ -1,33 +1,32 @@
 ---
-title: Ezra, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezra, Chapter 4
+title: Ezra, Chapter 4
+url: https://bible.usccb.org/bible/ezra/4
 aliases:
   - ezra-04
   - Ezra, Chapter 4
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezra, Chapter 4
 ---
 
 # Ezra, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Outside Interference.**
 
-1 When the enemies of Judah and Benjamin heard that the exiles were building a temple for the L ORD, the God of Israel, ^ezra-04-1
+1 When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel, ^ezra-04-1
 
 2 they approached Zerubbabel and the heads of ancestral houses and said to them, “Let us build with you, for we seek your God just as you do, and we have sacrificed to him since the days of Esarhaddon, king of Assyria, who brought us here.” ^ezra-04-2
 
-3 But Zerubbabel, Jeshua, and the rest of the heads of ancestral houses of Israel answered them, “It is not your responsibility to build with us a house for our God, but we alone must build it for the L ORD, the God of Israel, as Cyrus king of Persia has commanded us.” ^ezra-04-3
+3 But Zerubbabel, Jeshua, and the rest of the heads of ancestral houses of Israel answered them, “It is not your responsibility to build with us a house for our God, but we alone must build it for the LORD, the God of Israel, as Cyrus king of Persia has commanded us.” ^ezra-04-3
 
 4 Thereupon the local inhabitants discouraged the people of Judah and frightened them off from building. ^ezra-04-4
 

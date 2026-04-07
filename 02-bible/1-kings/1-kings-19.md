@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 19
+title: 1 Kings, Chapter 19
+url: https://bible.usccb.org/bible/1kings/19
 aliases:
   - 1 Kings, Chapter 19
   - 1-kings-19
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/19
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 19
 ---
 
 # 1 Kings, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **Flight to Horeb.**
 
@@ -29,29 +28,29 @@ url: https://bible.usccb.org/bible/1kings/19
 
 3 Elijah was afraid and fled for his life, going to Beer-sheba of Judah. He left his servant there ^1-kings-19-3
 
-4 and went a day’s journey into the wilderness, until he came to a solitary broom tree and sat beneath it. He prayed for death: “Enough, L ORD! Take my life, for I am no better than my ancestors.” ^1-kings-19-4
+4 and went a day’s journey into the wilderness, until he came to a solitary broom tree and sat beneath it. He prayed for death: “Enough, LORD! Take my life, for I am no better than my ancestors.” ^1-kings-19-4
 
 5 He lay down and fell asleep under the solitary broom tree, but suddenly a messenger touched him and said, “Get up and eat!” ^1-kings-19-5
 
 6 He looked and there at his head was a hearth cake and a jug of water. After he ate and drank, he lay down again, ^1-kings-19-6
 
-7 but the angel of the L ORD came back a second time, touched him, and said, “Get up and eat or the journey will be too much for you!” ^1-kings-19-7
+7 but the angel of the LORD came back a second time, touched him, and said, “Get up and eat or the journey will be too much for you!” ^1-kings-19-7
 
 8 He got up, ate, and drank; then strengthened by that food, he walked forty days and forty nights to the mountain of God, Horeb. ^1-kings-19-8
 
-9 There he came to a cave, where he took shelter. But the word of the L ORD came to him: Why are you here, Elijah? ^1-kings-19-9
+9 There he came to a cave, where he took shelter. But the word of the LORD came to him: Why are you here, Elijah? ^1-kings-19-9
 
-10 He answered: “I have been most zealous for the L ORD, the God of hosts, but the Israelites have forsaken your covenant. They have destroyed your altars and murdered your prophets by the sword. I alone remain, and they seek to take my life.” ^1-kings-19-10
+10 He answered: “I have been most zealous for the LORD, the God of hosts, but the Israelites have forsaken your covenant. They have destroyed your altars and murdered your prophets by the sword. I alone remain, and they seek to take my life.” ^1-kings-19-10
 
-11 Then the L ORD said: Go out and stand on the mountain before the L ORD; the L ORD will pass by. There was a strong and violent wind rending the mountains and crushing rocks before the L ORD —but the L ORD was not in the wind; after the wind, an earthquake—but the L ORD was not in the earthquake; ^1-kings-19-11
+11 Then the LORD said: Go out and stand on the mountain before the LORD; the LORD will pass by. There was a strong and violent wind rending the mountains and crushing rocks before the LORD —but the LORD was not in the wind; after the wind, an earthquake—but the LORD was not in the earthquake; ^1-kings-19-11
 
-12 after the earthquake, fire—but the L ORD was not in the fire; after the fire, a light silent sound. ^1-kings-19-12
+12 after the earthquake, fire—but the LORD was not in the fire; after the fire, a light silent sound. ^1-kings-19-12
 
 13 When he heard this, Elijah hid his face in his cloak and went out and stood at the entrance of the cave. A voice said to him, Why are you here, Elijah? ^1-kings-19-13
 
-14 He replied, “I have been most zealous for the L ORD, the God of hosts, but the Israelites have forsaken your covenant. They have destroyed your altars and murdered your prophets by the sword. I alone remain, and they seek to take my life.” ^1-kings-19-14
+14 He replied, “I have been most zealous for the LORD, the God of hosts, but the Israelites have forsaken your covenant. They have destroyed your altars and murdered your prophets by the sword. I alone remain, and they seek to take my life.” ^1-kings-19-14
 
-15 The L ORD said to him: Go back! Take the desert road to Damascus. When you arrive, you shall anoint Hazael as king of Aram. ^1-kings-19-15
+15 The LORD said to him: Go back! Take the desert road to Damascus. When you arrive, you shall anoint Hazael as king of Aram. ^1-kings-19-15
 
 16 You shall also anoint Jehu, son of Nimshi, as king of Israel, and Elisha, son of Shaphat of Abel-meholah, as prophet to succeed you. ^1-kings-19-16
 

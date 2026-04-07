@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 6
+title: Judith, Chapter 6
+url: https://bible.usccb.org/bible/judith/6
 aliases:
   - judith-06
   - Judith, Chapter 6
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 6
 ---
 
 # Judith, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 1 When the noise of the crowd surrounding the council had subsided, Holofernes, the ranking general of the Assyrian forces, said to Achior, in the presence of the whole throng of foreigners, of the Moabites, and of the Ammonite mercenaries: ^judith-06-1
 

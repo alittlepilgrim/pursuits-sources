@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 35
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 35
+title: Job, Chapter 35
+url: https://bible.usccb.org/bible/job/35
 aliases:
   - job-35
   - Job, Chapter 35
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/35
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 35
 ---
 
 # Job, Chapter 35
 
-### Chapter 35
+## Chapter 35
 
 1 Then Elihu answered and said: ^job-35-1
 

@@ -1,27 +1,26 @@
 ---
-title: Joel, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joel, Chapter 4
+title: Joel, Chapter 4
+url: https://bible.usccb.org/bible/joel/4
 aliases:
   - joel-04
   - Joel, Chapter 4
 tags:
+  - bible/chapter
   - bible/joel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/joel/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Joel, Chapter 4
 ---
 
 # Joel, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
-#### The Lord’s Case Against the Nations
+### The Lord’s Case Against the Nations
 
 1 For see, in those days and at that time, ^joel-04-1
 
@@ -55,9 +54,9 @@ exchanging a young girl for the wine they drank.
 
 7 Look! I am rousing them from the place to which you sold them, and I will turn your deeds back upon your own head. ^joel-04-7
 
-8 I will sell your sons and daughters to the Judahites who will sell them to the Sabeans, a distant nation. The L ORD has spoken! ^joel-04-8
+8 I will sell your sons and daughters to the Judahites who will sell them to the Sabeans, a distant nation. The LORD has spoken! ^joel-04-8
 
-#### The Nations Destroyed
+### The Nations Destroyed
 
 9 Announce this to the nations: ^joel-04-9
 
@@ -77,7 +76,7 @@ let the weakling boast, “I am a warrior!”
 
 assemble there!
 
-Bring down, L ORD, your warriors!
+Bring down, LORD, your warriors!
 
 12 Let the nations rouse themselves and come up ^joel-04-12
 
@@ -103,7 +102,7 @@ for their crimes are numerous.
 
 in the Valley of Decision;
 
-For near is the day of the L ORD
+For near is the day of the LORD
 
 in the Valley of Decision.
 
@@ -111,19 +110,19 @@ in the Valley of Decision.
 
 and the stars withhold their brightness,
 
-16 The L ORD roars from Zion, ^joel-04-16
+16 The LORD roars from Zion, ^joel-04-16
 
 and from Jerusalem raises his voice,
 
 The heavens and the earth quake,
 
-but the L ORD will be a shelter for his people,
+but the LORD will be a shelter for his people,
 
 a fortress for the people of Israel.
 
-#### A Secure Future for Judah
+### A Secure Future for Judah
 
-17 Then you will know that I the L ORD am your God, ^joel-04-17
+17 Then you will know that I the LORD am your God, ^joel-04-17
 
 dwelling on Zion, my holy mountain;
 
@@ -141,7 +140,7 @@ All the streams of Judah
 
 will flow with water.
 
-A spring will rise from the house of the L ORD,
+A spring will rise from the house of the LORD,
 
 watering the Valley of Shittim.
 
@@ -161,7 +160,7 @@ and Jerusalem for all generations.
 
 and I will not acquit the guilt.
 
-The L ORD dwells in Zion.
+The LORD dwells in Zion.
 
 \* (4:2) Valley of Jehoshaphat: one of the symbolic names of the place of punishment for Judah’s enemies; the other is “Valley of Decision” (v. [14]). The name Jehoshaphat means “the Lord judges.” If the popular identification of this place as the Kidron Valley is accurate, Joel may imagine the Lord seated above the valley on Mount Zion directing his troops in the destruction of nations in the valley below.
 
@@ -175,7 +174,7 @@ The L ORD dwells in Zion.
 
 \* (4:17) Then you will know: this verse further develops the motif of knowledge introduced in [2:27]. The Judahites will learn that the Lord is present in their economic prosperity and political autonomy, even though they did not associate God’s presence with their crop failure.
 
-\* (4:18) Images of agricultural abundance illustrate the harmony and order Joel expects the Lord to establish in Judah; like [2:18] – [27], this section reverses the deprivation and drought of chap. [1]. A spring…house of the L ORD: streams of water flowing from the Temple of an ideal Jerusalem also appear in [Ez 47:1]. The Valley of Shittim: or “the ravine of the acacia trees”; while there is a Shittim east of the Jordan, the reference here is probably to that rocky part of the Kidron Valley southeast of Jerusalem, an arid region where acacia trees flourished.
+\* (4:18) Images of agricultural abundance illustrate the harmony and order Joel expects the Lord to establish in Judah; like [2:18] – [27], this section reverses the deprivation and drought of chap. [1]. A spring…house of the LORD: streams of water flowing from the Temple of an ideal Jerusalem also appear in [Ez 47:1]. The Valley of Shittim: or “the ravine of the acacia trees”; while there is a Shittim east of the Jordan, the reference here is probably to that rocky part of the Kidron Valley southeast of Jerusalem, an arid region where acacia trees flourished.
 
 a. (4:1) [Jer 33:15]; [50:4], [20].
 

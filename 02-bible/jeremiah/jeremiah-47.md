@@ -1,31 +1,30 @@
 ---
-title: Jeremiah, Chapter 47
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 47
+title: Jeremiah, Chapter 47
+url: https://bible.usccb.org/bible/jeremiah/47
 aliases:
   - jeremiah-47
   - Jeremiah, Chapter 47
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/47
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 47
 ---
 
 # Jeremiah, Chapter 47
 
-### Chapter 47
+## Chapter 47
 
 **Against the Philistines.**
 
-1 The word of the L ORD that came to Jeremiah the prophet concerning the Philistines, before Pharaoh attacked Gaza: ^jeremiah-47-1
+1 The word of the LORD that came to Jeremiah the prophet concerning the Philistines, before Pharaoh attacked Gaza: ^jeremiah-47-1
 
-2 Thus says the L ORD: ^jeremiah-47-2
+2 Thus says the LORD: ^jeremiah-47-2
 
 See: waters are rising from the north,
 
@@ -55,7 +54,7 @@ And cut off from Tyre and Sidon
 
 the last of their allies.
 
-Yes, the L ORD is destroying the Philistines,
+Yes, the LORD is destroying the Philistines,
 
 the remnant from the coasts of Caphtor.
 
@@ -67,7 +66,7 @@ Ashdod, remnant of their strength,
 
 how long will you gash yourself?
 
-6 Ah! Sword of the L ORD! ^jeremiah-47-6
+6 Ah! Sword of the LORD! ^jeremiah-47-6
 
 When will you find rest?
 
@@ -77,7 +76,7 @@ stop, be still!
 
 7 How can it find rest ^jeremiah-47-7
 
-when the L ORD has commanded it?
+when the LORD has commanded it?
 
 Against Ashkelon and the seacoast,
 

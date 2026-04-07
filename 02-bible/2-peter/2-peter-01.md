@@ -1,25 +1,24 @@
 ---
-title: 2 Peter, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Peter, Chapter 1
+title: 2 Peter, Chapter 1
+url: https://bible.usccb.org/bible/2peter/1
 aliases:
   - 2 Peter, Chapter 1
   - 2-peter-01
 tags:
   - bible/2-peter
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2peter/1
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Peter, Chapter 1
 ---
 
 # 2 Peter, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/2peter/1
 
 2 may grace and peace be yours in abundance through knowledge of God and of Jesus our Lord. ^2-peter-01-2
 
-## Ii. Exhortation to Christian Virtue
+# Ii. Exhortation to Christian Virtue
 
 **The Power of God’s Promise.**
 

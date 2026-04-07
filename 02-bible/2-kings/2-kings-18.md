@@ -1,25 +1,24 @@
 ---
-title: 2 Kings, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 18
+title: 2 Kings, Chapter 18
+url: https://bible.usccb.org/bible/2kings/18
 aliases:
   - 2 Kings, Chapter 18
   - 2-kings-18
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/18
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 18
 ---
 
 # 2 Kings, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Reign of Hezekiah.**
 
@@ -27,15 +26,15 @@ url: https://bible.usccb.org/bible/2kings/18
 
 2 He was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abi, daughter of Zechariah. ^2-kings-18-2
 
-3 He did what was right in the L ORD’s sight, just as David his father had done. ^2-kings-18-3
+3 He did what was right in the LORD’s sight, just as David his father had done. ^2-kings-18-3
 
 4 It was he who removed the high places, shattered the pillars, cut down the asherah, and smashed the bronze serpent Moses had made, because up to that time the Israelites were burning incense to it. (It was called Nehushtan.) ^2-kings-18-4
 
-5 He put his trust in the L ORD, the God of Israel; and neither before nor after him was there anyone like him among all the kings of Judah. ^2-kings-18-5
+5 He put his trust in the LORD, the God of Israel; and neither before nor after him was there anyone like him among all the kings of Judah. ^2-kings-18-5
 
-6 Hezekiah held fast to the L ORD and never turned away from following him, but observed the commandments the L ORD had given Moses. ^2-kings-18-6
+6 Hezekiah held fast to the LORD and never turned away from following him, but observed the commandments the LORD had given Moses. ^2-kings-18-6
 
-7 The L ORD was with him, and he succeeded in all he set out to do. He rebelled against the king of Assyria and did not serve him. ^2-kings-18-7
+7 The LORD was with him, and he succeeded in all he set out to do. He rebelled against the king of Assyria and did not serve him. ^2-kings-18-7
 
 8 It was he who struck the Philistines as far as Gaza, and all its territory from guard post to garrisoned town. ^2-kings-18-8
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/2kings/18
 
 11 The king of Assyria then deported the Israelites to Assyria and led them off to Halah, and the Habor, a river of Gozan, and the cities of the Medes. ^2-kings-18-11
 
-12 This happened because they did not obey the L ORD, their God, but violated his covenant; they did not obey nor do all that Moses, the servant of the L ORD, commanded. ^2-kings-18-12
+12 This happened because they did not obey the LORD, their God, but violated his covenant; they did not obey nor do all that Moses, the servant of the LORD, commanded. ^2-kings-18-12
 
 **Sennacherib and Hezekiah.**
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/2kings/18
 
 14 Hezekiah, king of Judah, sent this message to the king of Assyria at Lachish: “I have done wrong. Leave me, and whatever you impose on me I will bear.” The king of Assyria exacted three hundred talents of silver and thirty talents of gold from Hezekiah, king of Judah. ^2-kings-18-14
 
-15 Hezekiah gave him all the funds there were in the house of the L ORD and in the treasuries of the king’s house. ^2-kings-18-15
+15 Hezekiah gave him all the funds there were in the house of the LORD and in the treasuries of the king’s house. ^2-kings-18-15
 
 17 The king of Assyria sent the general, the lord chamberlain, and the commander from Lachish with a great army to King Hezekiah at Jerusalem. They went up and came to Jerusalem, to the conduit of the upper pool on the highway of the fuller’s field, where they took their stand. ^2-kings-18-17
 
@@ -65,13 +64,13 @@ url: https://bible.usccb.org/bible/2kings/18
 
 21 Do you trust in Egypt, that broken reed of a staff, which pierces the hand of anyone who leans on it? That is what Pharaoh, king of Egypt, is to all who trust in him. ^2-kings-18-21
 
-22 Or do you people say to me, “It is in the L ORD our God we trust!”? Is it not he whose high places and altars Hezekiah has removed, commanding Judah and Jerusalem, “Worship before this altar in Jerusalem”?’ ^2-kings-18-22
+22 Or do you people say to me, “It is in the LORD our God we trust!”? Is it not he whose high places and altars Hezekiah has removed, commanding Judah and Jerusalem, “Worship before this altar in Jerusalem”?’ ^2-kings-18-22
 
 23 “Now, make a wager with my lord, the king of Assyria: I will give you two thousand horses if you are able to put riders on them. ^2-kings-18-23
 
 24 How then can you turn back even a captain, one of the least servants of my lord, trusting, as you do, in Egypt for chariots and horses? ^2-kings-18-24
 
-25 Did I come up to destroy this place without the L ORD? The L ORD himself said to me: Go up and destroy that land!” ^2-kings-18-25
+25 Did I come up to destroy this place without the LORD? The LORD himself said to me: Go up and destroy that land!” ^2-kings-18-25
 
 26 Then Eliakim, son of Hilkiah, and Shebnah and Joah said to the commander: “Please speak to your servants in Aramaic; we understand it. Do not speak to us in the language of Judah within earshot of the people who are on the wall.” ^2-kings-18-26
 
@@ -81,17 +80,17 @@ url: https://bible.usccb.org/bible/2kings/18
 
 29 Thus says the king: Do not let Hezekiah deceive you, for he cannot rescue you from my hand. ^2-kings-18-29
 
-30 And do not let Hezekiah induce you to trust in the L ORD, saying, ‘The L ORD will surely rescue us, and this city will not be handed over to the king of Assyria.’ ^2-kings-18-30
+30 And do not let Hezekiah induce you to trust in the LORD, saying, ‘The LORD will surely rescue us, and this city will not be handed over to the king of Assyria.’ ^2-kings-18-30
 
 31 Do not listen to Hezekiah, for thus says the king of Assyria: Make peace with me, and surrender to me! Eat, each of you, from your vine, each from your own fig tree. Drink water, each from your own well, ^2-kings-18-31
 
-32 until I arrive and take you to a land like your own, a land of grain and wine, a land of bread and vineyards, a land of rich olives and honey. Live, and do not die! And do not listen to Hezekiah when he would incite you by saying, ‘The L ORD will rescue us.’ ^2-kings-18-32
+32 until I arrive and take you to a land like your own, a land of grain and wine, a land of bread and vineyards, a land of rich olives and honey. Live, and do not die! And do not listen to Hezekiah when he would incite you by saying, ‘The LORD will rescue us.’ ^2-kings-18-32
 
 33 Has any of the gods of the nations ever rescued his land from the power of the king of Assyria? ^2-kings-18-33
 
 34 Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena, and Ivvah? Did they indeed rescue Samaria from my power? ^2-kings-18-34
 
-35 Which of the gods for all these lands ever rescued his land from my power? Will the L ORD then rescue Jerusalem from my power?” ^2-kings-18-35
+35 Which of the gods for all these lands ever rescued his land from my power? Will the LORD then rescue Jerusalem from my power?” ^2-kings-18-35
 
 36 But the people remained silent and did not answer at all, for the king’s command was, “Do not answer him.” ^2-kings-18-36
 

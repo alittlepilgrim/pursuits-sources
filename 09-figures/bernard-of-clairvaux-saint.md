@@ -1,11 +1,7 @@
 ---
+type: figure
 title: Saint Bernard of Clairvaux
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
-  - 20250912-224200
   - bernard-of-clairvaux-saint
   - Saint Bernard of Clairvaux
 tags:
@@ -13,10 +9,13 @@ tags:
   - role/doctor-of-the-church
   - role/mystic
   - saint
-birth_date: 1090
-celebration: "08-20"
+  - type/figure
+birthday: 1090
 death_date: 1153-08-20
-full_name: "Saint Bernard of Clairvaux"
+celebration: 08-20
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Bernard of Clairvaux

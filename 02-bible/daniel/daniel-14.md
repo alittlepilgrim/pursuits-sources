@@ -1,25 +1,24 @@
 ---
-title: Daniel, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Daniel, Chapter 14
+title: Daniel, Chapter 14
+url: https://bible.usccb.org/bible/daniel/14
 aliases:
   - daniel-14
   - Daniel, Chapter 14
 tags:
+  - bible/chapter
   - bible/daniel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/daniel/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Daniel, Chapter 14
 ---
 
 # Daniel, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Bel and the Dragon.**
 
@@ -51,7 +50,7 @@ There were seventy priests of Bel, besides their wives and children.
 
 13 They were not perturbed, because under the table they had made a secret entrance through which they always came in to consume the food. ^daniel-14-13
 
-14 After they departed the king set the food before Bel, while Daniel ordered his servants to bring some ashes, which they scattered through the whole temple; the king alone was present. Then they went outside, sealed the closed door with the king’s ring, and departed. ^daniel-14-14
+14 After they departed the king set the food before Bel, while DanieLORDered his servants to bring some ashes, which they scattered through the whole temple; the king alone was present. Then they went outside, sealed the closed door with the king’s ring, and departed. ^daniel-14-14
 
 15 The priests entered that night as usual, with their wives and children, and they ate and drank everything. ^daniel-14-15
 

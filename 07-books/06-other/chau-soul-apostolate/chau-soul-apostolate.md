@@ -1,20 +1,23 @@
 ---
-title: The Soul of the Apostolate by Dom Jean-baptist Chautard, O.C.S.O.
-created: 2026-03-25
-modified: 2026-04-02
 type: book
-publish: false
-description: The Soul of the Apostolate by Dom Jean-baptist Chautard, O.C.S.O.
+title: The Soul of the Apostolate by Dom Jean-baptist Chautard, O.C.S.O.
+author: Dom Chautard
 aliases:
   - O.C.S.O.
   - The Soul of the Apostolate by Dom Jean-baptist Chautard
+tags:
+  - author/chautard-dom
+  - type/book
+created: 2026-03-25
+modified: 2026-04-06
+publish: false
+description: The Soul of the Apostolate by Dom Jean-baptist Chautard, O.C.S.O.
 attachment: false
-author: Dom Chautard
 ---
 
-# The Soul of the Apostolate by Dom Jean-baptist Chautard, O.C.S.O.
+# The Soul of the Apostolate by Dom Jean-baptist Chautard, O.C.S.O
 
-# Table of Contents.
+# Table of Contents
 
 ## [[prologue-chau-soul]]
 

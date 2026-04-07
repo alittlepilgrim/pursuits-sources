@@ -1,47 +1,46 @@
 ---
-title: Leviticus, Chapter 9
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 9
+title: Leviticus, Chapter 9
+url: https://bible.usccb.org/bible/leviticus/9
 aliases:
   - leviticus-09
   - Leviticus, Chapter 9
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 9
 ---
 
 # Leviticus, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Octave of the Ordination.**
 
 1 On the eighth day Moses summoned Aaron and his sons, together with the elders of Israel, ^leviticus-09-1
 
-2 and said to Aaron, “Take a calf of the herd for a purification offering and a ram for a burnt offering, both without blemish, and offer them before the L ORD. ^leviticus-09-2
+2 and said to Aaron, “Take a calf of the herd for a purification offering and a ram for a burnt offering, both without blemish, and offer them before the LORD. ^leviticus-09-2
 
 3 Tell the Israelites, too: Take a he-goat for a purification offering, a calf and a lamb, both unblemished yearlings, for a burnt offering, ^leviticus-09-3
 
-4 and an ox and a ram for a communion sacrifice, to sacrifice before the L ORD, along with a grain offering mixed with oil; for today the L ORD will appear to you.” ^leviticus-09-4
+4 and an ox and a ram for a communion sacrifice, to sacrifice before the LORD, along with a grain offering mixed with oil; for today the LORD will appear to you.” ^leviticus-09-4
 
-5 So they brought what Moses had ordered before the tent of meeting. When the whole community had come forward and stood before the L ORD, ^leviticus-09-5
+5 So they brought what Moses had ordered before the tent of meeting. When the whole community had come forward and stood before the LORD, ^leviticus-09-5
 
-6 Moses said, “This is what the L ORD orders you to do, that the glory of the L ORD may appear to you. ^leviticus-09-6
+6 Moses said, “This is what the LORD orders you to do, that the glory of the LORD may appear to you. ^leviticus-09-6
 
-7 Approach the altar,” Moses then told Aaron, “and make your purification offering and your burnt offering in atonement for yourself and for your household; then make the offering of the people in atonement for them, as the L ORD has commanded.” ^leviticus-09-7
+7 Approach the altar,” Moses then told Aaron, “and make your purification offering and your burnt offering in atonement for yourself and for your household; then make the offering of the people in atonement for them, as the LORD has commanded.” ^leviticus-09-7
 
 8 Approaching the altar, Aaron first slaughtered the calf of the purification offering that was his own offering. ^leviticus-09-8
 
 9 When his sons presented the blood to him, he dipped his finger in the blood and put it on the horns of the altar. The rest of the blood he poured out at the base of the altar. ^leviticus-09-9
 
-10 He then burned on the altar the fat, the kidneys and the lobe of the liver from the purification offering, as the L ORD had commanded Moses; ^leviticus-09-10
+10 He then burned on the altar the fat, the kidneys and the lobe of the liver from the purification offering, as the LORD had commanded Moses; ^leviticus-09-10
 
 11 but the flesh and the hide he burned in the fire outside the camp. ^leviticus-09-11
 
@@ -63,15 +62,15 @@ url: https://bible.usccb.org/bible/leviticus/9
 
 20 they placed on top of the briskets. Aaron burned the fat pieces on the altar, ^leviticus-09-20
 
-21 but the briskets and the right thigh he raised as an elevated offering before the L ORD, as the L ORD had commanded Moses. ^leviticus-09-21
+21 but the briskets and the right thigh he raised as an elevated offering before the LORD, as the LORD had commanded Moses. ^leviticus-09-21
 
 **Revelation of the Lord’s Glory.**
 
 22 Aaron then raised his hands over the people and blessed them. When he came down from offering the purification offering, the burnt offering, and the communion offering, ^leviticus-09-22
 
-23 Moses and Aaron went into the tent of meeting. On coming out they blessed the people. Then the glory of the L ORD appeared to all the people. ^leviticus-09-23
+23 Moses and Aaron went into the tent of meeting. On coming out they blessed the people. Then the glory of the LORD appeared to all the people. ^leviticus-09-23
 
-24 Fire came forth from the L ORD’s presence and consumed the burnt offering and the fat on the altar. Seeing this, all the people shouted with joy and fell prostrate. ^leviticus-09-24
+24 Fire came forth from the LORD’s presence and consumed the burnt offering and the fat on the altar. Seeing this, all the people shouted with joy and fell prostrate. ^leviticus-09-24
 
 \* (9:1) Eighth day: this is the conclusion of the priestly initiation ceremony.
 

@@ -1,22 +1,22 @@
 ---
-title: Theresian Anniversaires 2025 - Presentation
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2025 - Presentation
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires - Presentation
   - theresian-anniversaries-2025-presentation
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires - Presentation
 
 Reading the writings of Therese of the Child Jesus Theresian anniversaries 2023-2025 2025: Prayers and other writings
 
-### Introductory Summary: Presentation
+## Introductory Summary: Presentation
 
 In 2023, we celebrated the 150th anniversary of the birth of Therese of the Child Jesus (2nd January 1873), as well as the first centenary of her beatification (29th April 1923); and in 2025, we will be celebrating the first centenary of her canonisation (17th May 1925). At this point, the General Chapter of the Discalced Carmelites, held in Rome from 30th August to 14th September 2021, decided to propose to the Order a series of readings of Saint Therese’s writings.
 
@@ -56,7 +56,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 3.c.8. Yellow Notebook, 6/7/12 August 1897 Presentation 5
 
-### General Introduction
+## General Introduction
 
 We continue our reading of the writings of Saint Therese of the Child Jesus for a third year, and for this new year we are going to read various texts taken not from the Manuscripts that we have perused in the last two years, but texts taken from her prayers and her letters, a selection of eight encounters in the works of the saint.
 

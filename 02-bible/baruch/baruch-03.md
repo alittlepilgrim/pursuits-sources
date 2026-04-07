@@ -1,45 +1,44 @@
 ---
-title: Baruch, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Baruch, Chapter 3
+title: Baruch, Chapter 3
+url: https://bible.usccb.org/bible/baruch/3
 aliases:
   - baruch-03
   - Baruch, Chapter 3
 tags:
   - bible/baruch
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/baruch/3
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Baruch, Chapter 3
 ---
 
 # Baruch, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-1 “L ORD Almighty, God of Israel, the anguished soul, the dismayed spirit cries out to you. ^baruch-03-1
+1 “LORD Almighty, God of Israel, the anguished soul, the dismayed spirit cries out to you. ^baruch-03-1
 
-2 Hear, L ORD, and have mercy, for you are a merciful God; have mercy on us, who have sinned against you: ^baruch-03-2
+2 Hear, LORD, and have mercy, for you are a merciful God; have mercy on us, who have sinned against you: ^baruch-03-2
 
 3 for you are enthroned forever, while we are perishing forever. ^baruch-03-3
 
-4 L ORD Almighty, God of Israel, hear the prayer of the dead of Israel, children who sinned against you; they did not listen to the voice of the L ORD, their God, and their evils cling to us. ^baruch-03-4
+4 LORD Almighty, God of Israel, hear the prayer of the dead of Israel, children who sinned against you; they did not listen to the voice of the LORD, their God, and their evils cling to us. ^baruch-03-4
 
 5 Do not remember the wicked deeds of our ancestors, but remember at this time your power and your name, ^baruch-03-5
 
-6 for you are the L ORD our God; and you, L ORD, we will praise! ^baruch-03-6
+6 for you are the LORD our God; and you, LORD, we will praise! ^baruch-03-6
 
 7 This is why you put into our hearts the fear of you: that we may call upon your name, and praise you in our exile, when we have removed from our hearts all the wickedness of our ancestors who sinned against you. ^baruch-03-7
 
-8 See, today we are in exile, where you have scattered us, an object of reproach and cursing and punishment for all the wicked deeds of our ancestors, who withdrew from the L ORD, our God.” ^baruch-03-8
+8 See, today we are in exile, where you have scattered us, an object of reproach and cursing and punishment for all the wicked deeds of our ancestors, who withdrew from the LORD, our God.” ^baruch-03-8
 
-## Ii. Praise of Wisdom
+# Ii. Praise of Wisdom
 
-#### A. Importance of Wisdom
+## A. Importance of Wisdom
 
 9 Hear, Israel, the commandments of life: ^baruch-03-9
 
@@ -119,7 +118,7 @@ These have not known the way to wisdom,
 
 nor have they kept her paths in mind.
 
-#### B. Inaccessibility of Wisdom
+## B. Inaccessibility of Wisdom
 
 24 O Israel, how vast is the dwelling of God, ^baruch-03-24
 
@@ -179,7 +178,7 @@ shining with joy for their Maker.
 
 no other is to be compared to him:
 
-#### C. Wisdom Contained in the Law
+## C. Wisdom Contained in the Law
 
 37 He has uncovered the whole way of understanding, ^baruch-03-37
 

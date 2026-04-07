@@ -1,24 +1,24 @@
 ---
-title: Malachi, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Malachi, Chapter 2
+title: Malachi, Chapter 2
+url: https://bible.usccb.org/bible/malachi/2
 aliases:
   - malachi-02
   - Malachi, Chapter 2
 tags:
+  - bible/chapter
   - bible/malachi
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-url: https://bible.usccb.org/bible/malachi/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Malachi, Chapter 2
 ---
 
 # Malachi, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 And now, priests, this commandment is for you: ^malachi-02-1
 
@@ -26,7 +26,7 @@ If you do not listen,
 
 2 And if you do not take to heart ^malachi-02-2
 
-giving honor to my name, says the L ORD of hosts,
+giving honor to my name, says the LORD of hosts,
 
 I will send a curse upon you
 
@@ -48,7 +48,7 @@ and will carry you to it.
 
 so that my covenant with Levi might endure,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 5 My covenant with him was the life and peace which I gave him, ^malachi-02-5
 
@@ -68,7 +68,7 @@ and turned many away from evil.
 
 and instruction is to be sought from his mouth,
 
-because he is the messenger of the L ORD of hosts.
+because he is the messenger of the LORD of hosts.
 
 8 But you have turned aside from the way, ^malachi-02-8
 
@@ -76,7 +76,7 @@ and have caused many to stumble by your instruction;
 
 You have corrupted the covenant of Levi,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 9 I, therefore, have made you contemptible ^malachi-02-9
 
@@ -86,7 +86,7 @@ For you do not keep my ways,
 
 but show partiality in your instruction.
 
-#### Iii. Marriage and Divorce
+### Iii. Marriage and Divorce
 
 10 Have we not all one father? ^malachi-02-10
 
@@ -100,17 +100,17 @@ profaning the covenant of our ancestors?
 
 has been done in Israel and in Jerusalem.
 
-Judah has profaned the L ORD’s holy place, which he loves,
+Judah has profaned the LORD’s holy place, which he loves,
 
 and has married a daughter of a foreign god.
 
-12 May the L ORD cut off from the man who does this ^malachi-02-12
+12 May the LORD cut off from the man who does this ^malachi-02-12
 
 both witness and advocate from the tents of Jacob,
 
-and anyone to bring an offering to the L ORD of hosts!
+and anyone to bring an offering to the LORD of hosts!
 
-13 This also you do: the altar of the L ORD you cover ^malachi-02-13
+13 This also you do: the altar of the LORD you cover ^malachi-02-13
 
 with tears, weeping, and groaning,
 
@@ -120,7 +120,7 @@ or accepts it favorably from your hand.
 
 14 And you say, “Why?”— ^malachi-02-14
 
-Because the L ORD is witness
+Because the LORD is witness
 
 between you and the wife of your youth
 
@@ -138,25 +138,25 @@ and do not break faith with the wife of your youth.
 
 16 For I hate divorce, ^malachi-02-16
 
-says the L ORD, the God of Israel,
+says the LORD, the God of Israel,
 
 And the one who covers his garment with violence,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 You should be on guard, then, for your life,
 
 and you must not break faith.
 
-#### Iv. Purification and Just Judgment
+### Iv. Purification and Just Judgment
 
-17 You have wearied the L ORD with your words, ^malachi-02-17
+17 You have wearied the LORD with your words, ^malachi-02-17
 
 yet you say, “How have we wearied him?”
 
 By saying, “All evildoers
 
-are good in the sight of the L ORD,
+are good in the sight of the LORD,
 
 And he is pleased with them,”
 

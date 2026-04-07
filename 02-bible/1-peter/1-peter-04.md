@@ -1,25 +1,24 @@
 ---
-title: 1 Peter, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Peter, Chapter 4
+title: 1 Peter, Chapter 4
+url: https://bible.usccb.org/bible/1peter/4
 aliases:
   - 1 Peter, Chapter 4
   - 1-peter-04
 tags:
   - bible/1-peter
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1peter/4
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Peter, Chapter 4
 ---
 
 # 1 Peter, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Christian Restraint.**
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/1peter/4
 
 11 Whoever preaches, let it be with the words of God; whoever serves, let it be with the strength that God supplies, so that in all things God may be glorified through Jesus Christ, to whom belong glory and dominion forever and ever. Amen. ^1-peter-04-11
 
-## Iv. Advice to the Persecuted
+# Iv. Advice to the Persecuted
 
 **Trial of Persecution.**
 

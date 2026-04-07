@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 8
+title: Mark, Chapter 8
+url: https://bible.usccb.org/bible/mark/8
 aliases:
   - mark-08
   - Mark, Chapter 8
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/8
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 8
 ---
 
 # Mark, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **The Feeding of the Four Thousand.**
 
@@ -83,7 +82,7 @@ He dismissed them
 
 26 Then he sent him home and said, “Do not even go into the village.” ^mark-08-26
 
-## Iii. the Mystery Begins to Be Revealed
+# Iii. the Mystery Begins to Be Revealed
 
 **Peter’s Confession About Jesus.**
 

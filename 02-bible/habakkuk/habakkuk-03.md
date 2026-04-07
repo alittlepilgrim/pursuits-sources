@@ -1,33 +1,32 @@
 ---
-title: Habakkuk, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Habakkuk, Chapter 3
+title: Habakkuk, Chapter 3
+url: https://bible.usccb.org/bible/habakkuk/3
 aliases:
   - habakkuk-03
   - Habakkuk, Chapter 3
 tags:
+  - bible/chapter
   - bible/habakkuk
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/habakkuk/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Habakkuk, Chapter 3
 ---
 
 # Habakkuk, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### Hymn About God’s Reign
+### Hymn About God’s Reign
 
 1 Prayer of Habakkuk, the prophet. According to Shigyonot. ^habakkuk-03-1
 
-2 O L ORD, I have heard your renown, ^habakkuk-03-2
+2 O LORD, I have heard your renown, ^habakkuk-03-2
 
-and am in awe, O L ORD, of your work.
+and am in awe, O LORD, of your work.
 
 In the course of years revive it,
 
@@ -69,7 +68,7 @@ age-old orbits collapsed.
 
 the pavilions of the land of Midian.
 
-8 Was your anger against the rivers, O L ORD? ^habakkuk-03-8
+8 Was your anger against the rivers, O LORD? ^habakkuk-03-8
 
 your wrath against the rivers,
 
@@ -149,7 +148,7 @@ Though the flocks disappear from the fold
 
 and there is no herd in the stalls,
 
-18 Yet I will rejoice in the L ORD ^habakkuk-03-18
+18 Yet I will rejoice in the LORD ^habakkuk-03-18
 
 and exult in my saving God.
 

@@ -1,15 +1,17 @@
 ---
-title: Painful Prayer
-created: 2025-07-19
-modified: 2026-04-02
 type: glossary
-publish: true
-description: Painful Prayer. The Interior Castle Study Edition
+title: Painful Prayer
+author:
 aliases:
   - Painful Prayer
   - prayer-painful
 tags:
   - term/prayer
+  - type/term
+created: 2025-07-19
+modified: 2026-04-06
+publish: true
+description: Painful Prayer. The Interior Castle Study Edition
 ---
 
 # Painful Prayer
@@ -24,7 +26,7 @@ The soul is in total dryness; no consolation is admitted into its interior. It
 
 See also:
 
-[[prayer|Prayer]]
+[[pursuits-sources/01-glossary/prayer|Prayer]]
 
  [[prayer-ascetical|Ascetical Prayer]]
 

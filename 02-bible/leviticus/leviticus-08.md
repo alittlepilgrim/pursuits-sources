@@ -1,39 +1,38 @@
 ---
-title: Leviticus, Chapter 8
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 8
+title: Leviticus, Chapter 8
+url: https://bible.usccb.org/bible/leviticus/8
 aliases:
   - leviticus-08
   - Leviticus, Chapter 8
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 8
 ---
 
 oO
 
 # Leviticus, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Ordination of Aaron and His Sons.**
 
-1 The L ORD said to Moses: ^leviticus-08-1
+1 The LORD said to Moses: ^leviticus-08-1
 
 2 Take Aaron along with his sons, the vestments, the anointing oil, the bull for a purification offering, the two rams, and the basket of unleavened bread, ^leviticus-08-2
 
 3 then assemble the whole community at the entrance of the tent of meeting. ^leviticus-08-3
 
-4 Moses did as the L ORD had commanded. When the community had assembled at the entrance of the tent of meeting, ^leviticus-08-4
+4 Moses did as the LORD had commanded. When the community had assembled at the entrance of the tent of meeting, ^leviticus-08-4
 
-5 Moses told them: “This is what the L ORD has ordered to be done.” ^leviticus-08-5
+5 Moses told them: “This is what the LORD has ordered to be done.” ^leviticus-08-5
 
 6 Bringing forward Aaron and his sons, Moses first washed them with water. ^leviticus-08-6
 
@@ -41,7 +40,7 @@ oO
 
 8 He then set the breastpiece on him, putting the Urim and Thummim in it. ^leviticus-08-8
 
-9 He put the turban on his head, attaching the gold medallion, the sacred headband, on the front of the turban, as the L ORD had commanded Moses to do. ^leviticus-08-9
+9 He put the turban on his head, attaching the gold medallion, the sacred headband, on the front of the turban, as the LORD had commanded Moses to do. ^leviticus-08-9
 
 10 Taking the anointing oil, Moses anointed and consecrated the tabernacle and all that was in it. ^leviticus-08-10
 
@@ -49,7 +48,7 @@ oO
 
 12 He also poured some of the anointing oil on Aaron’s head and anointed him, to consecrate him. ^leviticus-08-12
 
-13 Moses likewise brought forward Aaron’s sons, clothed them with tunics, girded them with sashes, and put skullcaps on them, as the L ORD had commanded him to do. ^leviticus-08-13
+13 Moses likewise brought forward Aaron’s sons, clothed them with tunics, girded them with sashes, and put skullcaps on them, as the LORD had commanded him to do. ^leviticus-08-13
 
 **Ordination Sacrifices.**
 
@@ -59,7 +58,7 @@ oO
 
 16 Taking all the fat that was over the inner organs, as well as the lobe of the liver and the two kidneys with their fat, Moses burned them on the altar. ^leviticus-08-16
 
-17 The bull, however, with its hide and flesh and dung he burned in the fire outside the camp, as the L ORD had commanded Moses to do. ^leviticus-08-17
+17 The bull, however, with its hide and flesh and dung he burned in the fire outside the camp, as the LORD had commanded Moses to do. ^leviticus-08-17
 
 18 He next brought forward the ram of the burnt offering, and Aaron and his sons laid their hands on its head. ^leviticus-08-18
 
@@ -67,7 +66,7 @@ oO
 
 20 After the ram was cut up into pieces, Moses burned the head, the cut-up pieces and the suet. ^leviticus-08-20
 
-21 After the inner organs and the shanks were washed with water, Moses burned these remaining parts of the ram on the altar. It was a burnt offering for a sweet aroma, an oblation to the L ORD, as the L ORD had commanded Moses. ^leviticus-08-21
+21 After the inner organs and the shanks were washed with water, Moses burned these remaining parts of the ram on the altar. It was a burnt offering for a sweet aroma, an oblation to the LORD, as the LORD had commanded Moses. ^leviticus-08-21
 
 22 Then he brought forward the second ram, the ordination ram, and Aaron and his sons laid their hands on its head. ^leviticus-08-22
 
@@ -77,13 +76,13 @@ oO
 
 25 He then took the fat: the fatty tail and all the fat over the inner organs, the lobe of the liver and the two kidneys with their fat, and likewise the right thigh; ^leviticus-08-25
 
-26 from the basket of unleavened bread that was set before the L ORD he took one unleavened cake, one loaf of bread made with oil, and one wafer; these he placed on top of the portions of fat and the right thigh. ^leviticus-08-26
+26 from the basket of unleavened bread that was set before the LORD he took one unleavened cake, one loaf of bread made with oil, and one wafer; these he placed on top of the portions of fat and the right thigh. ^leviticus-08-26
 
-27 He then put all these things upon the palms of Aaron and his sons, whom he had raise them as an elevated offering before the L ORD. ^leviticus-08-27
+27 He then put all these things upon the palms of Aaron and his sons, whom he had raise them as an elevated offering before the LORD. ^leviticus-08-27
 
-28 When Moses had removed them from their palms, he burned them on the altar with the burnt offering. They were an ordination offering for a sweet aroma, an oblation to the L ORD. ^leviticus-08-28
+28 When Moses had removed them from their palms, he burned them on the altar with the burnt offering. They were an ordination offering for a sweet aroma, an oblation to the LORD. ^leviticus-08-28
 
-29 He then took the brisket and raised it as an elevated offering before the L ORD; this was Moses’ own portion of the ordination ram, as the L ORD had commanded Moses. ^leviticus-08-29
+29 He then took the brisket and raised it as an elevated offering before the LORD; this was Moses’ own portion of the ordination ram, as the LORD had commanded Moses. ^leviticus-08-29
 
 30 Taking some of the anointing oil and some of the blood that was on the altar, Moses sprinkled it upon Aaron and his vestments, as well as his sons and their vestments, thus consecrating both Aaron and his vestments and his sons and their vestments. ^leviticus-08-30
 
@@ -93,11 +92,11 @@ oO
 
 33 Moreover, you are not to depart from the entrance of the tent of meeting for seven days, until the days of your ordination are completed; for your ordination is to last for seven days. ^leviticus-08-33
 
-34 What has been done today the L ORD has commanded be done, to make atonement for you. ^leviticus-08-34
+34 What has been done today the LORD has commanded be done, to make atonement for you. ^leviticus-08-34
 
-35 You must remain at the entrance of the tent of meeting day and night for seven days, carrying out the prescriptions of the L ORD, so that you do not die, for this is the command I have received.” ^leviticus-08-35
+35 You must remain at the entrance of the tent of meeting day and night for seven days, carrying out the prescriptions of the LORD, so that you do not die, for this is the command I have received.” ^leviticus-08-35
 
-36 So Aaron and his sons did all that the L ORD had commanded through Moses. ^leviticus-08-36
+36 So Aaron and his sons did all that the LORD had commanded through Moses. ^leviticus-08-36
 
 \* (8:1] – [2) This chapter presents the fulfillment of the commands in [Ex 28] – [29]; [30:26] – [30]; and [40:9] – [15].
 

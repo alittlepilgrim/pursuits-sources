@@ -1,10 +1,9 @@
 ---
-title: The Way of Perfection by St. Teresa of Ávila (CCEL Edition)
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: A practical guide to prayer and spiritual life by St. Teresa of Avila, written for the Carmelite nuns of her reform, focusing on fraternal love, detachment, humility, and the Our Father.
+title: The Way of Perfection by St. Teresa of Ávila (CCEL Edition)
+author: Saint Teresa of Ávila
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/t/teresa/way/cache/way.txt
 aliases:
   - 20250912-011851
   - The way of Perfection by St. Teresa of Avila (CCEL Edition)
@@ -21,10 +20,10 @@ tags:
   - subject/classic
   - subject/spirituality
   - subject/theology
-author: Saint Teresa of Avila
-published: 1566 (Escorial autograph); 1583 (Évora edition); 1946 (E. Allison Peers English translation, from Silverio de Santa Teresa critical edition)
-source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/t/teresa/way/cache/way.txt
+created: 2025-09-12
+modified: 2026-04-04
+publish: true
+description: A practical guide to prayer and spiritual life by St. Teresa of Avila, written for the Carmelite nuns of her reform, focusing on fraternal love, detachment, humility, and the Our Father.
 ---
 
 # The Way of Perfection by St. Teresa of Ávila (CCEL Edition)

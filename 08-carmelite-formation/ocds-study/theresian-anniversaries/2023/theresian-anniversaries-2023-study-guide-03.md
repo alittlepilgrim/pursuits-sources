@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Study Guide 3 the Grace of Christmas (Ms A, 44r-45v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Study Guide 3 the Grace of Christmas (Ms A, 44r-45v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 - Study Guide 3 the Grace of Christmas (Ms A, 44r-45v)
   - theresian-anniversaries-2023-study-guide-03
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 - Study Guide 3 the Grace of Christmas (Ms A, 44r-45v)
@@ -24,7 +24,7 @@ Proposal for the Community meeting:
 
 It would be good if the community meeting was preceded by a personal reading and meditation on the text of Therese
 
-### Manuscript A, 44r-45v (ICS English Translation Pp. 93 – 99)
+## Manuscript A, 44r-45v (ICS English Translation Pp. 93 – 99)
 
 When Marie entered Carmel, I was still very scrupulous. No longer able to confide in her I turned toward heaven. I addressed myself to the four angels who had preceded me there, for I thought that these innocent souls, having never known troubles or fear, would have pity on their poor little sister who was suffering on earth.
 
@@ -52,7 +52,7 @@ I could say to Him like His apostles: “Master, I fished all night and caught n
 
 I felt charity enter into my soul, and the need to forget myself and to please others; since then I’ve been happy!
 
-### Introduction to the Text
+## Introduction to the Text
 
 Therese of Lisieux turned fourteen shortly after this event she recounted. At Christmas, she experienced a full re-covery from a hypersensitivity that had wounded her life since the death of her mother when Therese was aged four-and-a-half. Her temperament changed: she became shy, a little withdrawn. Hypersensitive, she cried for nothing and then cried again because she had cried! Nine years later, she evoked this foundational event that we often call «the grace of Christmas».
 
@@ -72,7 +72,7 @@ The «four little angels» are Helene, born October 10, 1864, died February 22, 
 
 «To work for the conversion of sinners» (Ms A, 45v): Ce-line went on to declare in the Process: «This transformation was not limited to the mastery of herself, but it was seen, at the same time, that her soul flourished and was exercised in the practices of zeal and charity. She dreamed of the salvation of souls and worked ardently and generously for the conversion of sinners».
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What does the text say? Understanding the content and primary meaning of Therese’s text.
 2. What does the text say to us today? Grasping the relevance (social, ecclesial, spiritual…) of the text.
@@ -80,7 +80,7 @@ The «four little angels» are Helene, born October 10, 1864, died February 22, 
 
 The purpose of doing things in this manner is to allow Therese to speak to us, to question us, to encourage us, and to welcome her to shed light upon and confirm our personal and community journey. The questions proposed are therefore only indicative and can possibly accompany personal meditation and community sharing.
 
-### Questions
+## Questions
 
 1. Therese, when faced with her scrupulous illness, prays to her brothers and sisters who died in infancy. We can wonder about our relationship with all those who have gone before us. How do we live this communion of saints, pray for them and pray to them?
 2. In what sense does this represent a conversion for Therese?

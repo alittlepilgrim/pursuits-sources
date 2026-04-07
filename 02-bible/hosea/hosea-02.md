@@ -1,25 +1,24 @@
 ---
-title: Hosea, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 2
+title: Hosea, Chapter 2
+url: https://bible.usccb.org/bible/hosea/2
 aliases:
   - hosea-02
   - Hosea, Chapter 2
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 2
 ---
 
 # Hosea, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 The number of the Israelites ^hosea-02-1
 
@@ -49,7 +48,7 @@ great indeed shall be the day of Jezreel!
 
 and to your sisters, “Pitied.”
 
-#### The Lord and Israel His Spouse
+### The Lord and Israel His Spouse
 
 4 Accuse your mother, accuse! ^hosea-02-4
 
@@ -149,7 +148,7 @@ When she decked herself out with her rings and her jewelry,
 
 and went after her lovers—
 
-but me she forgot—oracle of the L ORD.
+but me she forgot—oracle of the LORD.
 
 16 Therefore, I will allure her now; ^hosea-02-16
 
@@ -165,7 +164,7 @@ There she will respond as in the days of her youth,
 
 as on the day when she came up from the land of Egypt.
 
-18 On that day—oracle of the L ORD — ^hosea-02-18
+18 On that day—oracle of the LORD — ^hosea-02-18
 
 You shall call me “My husband,”
 
@@ -197,9 +196,9 @@ with loyalty and with compassion;
 
 22 I will betroth you to me with fidelity, ^hosea-02-22
 
-and you shall know the L ORD.
+and you shall know the LORD.
 
-23 On that day I will respond—oracle of the L ORD — ^hosea-02-23
+23 On that day I will respond—oracle of the LORD — ^hosea-02-23
 
 I will respond to the heavens,
 

@@ -1,25 +1,24 @@
 ---
-title: Daniel, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Daniel, Chapter 4
+title: Daniel, Chapter 4
+url: https://bible.usccb.org/bible/daniel/4
 aliases:
   - daniel-04
   - Daniel, Chapter 4
 tags:
+  - bible/chapter
   - bible/daniel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/daniel/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Daniel, Chapter 4
 ---
 
 # Daniel, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Nebuchadnezzar’s Madness.**
 

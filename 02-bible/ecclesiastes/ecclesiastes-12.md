@@ -1,25 +1,24 @@
 ---
-title: Ecclesiastes, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ecclesiastes, Chapter 12
+title: Ecclesiastes, Chapter 12
+url: https://bible.usccb.org/bible/ecclesiastes/12
 aliases:
   - ecclesiastes-12
   - Ecclesiastes, Chapter 12
 tags:
+  - bible/chapter
   - bible/ecclesiastes
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ecclesiastes/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ecclesiastes, Chapter 12
 ---
 
 # Ecclesiastes, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 1 Remember your Creator in the days of your youth, ^ecclesiastes-12-1
 

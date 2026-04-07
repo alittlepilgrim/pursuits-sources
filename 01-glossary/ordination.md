@@ -1,15 +1,17 @@
 ---
-title: Ordination
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: ordination. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Ordination
+author:
 aliases:
   - ordination
   - Ordination
 tags:
   - term/ordination
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: ordination. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Ordination

@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 46
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 46
+title: Isaiah, Chapter 46
+url: https://bible.usccb.org/bible/isaiah/46
 aliases:
   - isaiah-46
   - Isaiah, Chapter 46
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/46
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 46
 ---
 
 # Isaiah, Chapter 46
 
-### Chapter 46
+## Chapter 46
 
-#### The Gods of Babylon
+### The Gods of Babylon
 
 1 Bel bows down, Nebo stoops, ^isaiah-46-1
 

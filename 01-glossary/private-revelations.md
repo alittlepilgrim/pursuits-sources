@@ -1,15 +1,17 @@
 ---
-title: Private Revelations
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
+title: Private Revelations
+author:
 aliases:
   - Private Revelations
   - private-revelations
 tags:
   - catechism
   - term
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
 ---
 
 # Private Revelations

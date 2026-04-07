@@ -1,27 +1,26 @@
 ---
-title: Lamentations, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Lamentations, Chapter 2
+title: Lamentations, Chapter 2
+url: https://bible.usccb.org/bible/lamentations/2
 aliases:
   - lamentations-02
   - Lamentations, Chapter 2
 tags:
+  - bible/chapter
   - bible/lamentations
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/lamentations/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Lamentations, Chapter 2
 ---
 
 # Lamentations, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
-#### The Lord’s Wrath and Zion’s Ruin
+### The Lord’s Wrath and Zion’s Ruin
 
 1 How the Lord in his wrath ^lamentations-02-1
 
@@ -87,7 +86,7 @@ throughout daughter Judah.
 
 destroyed his shrine;
 
-The L ORD has blotted out in Zion
+The LORD has blotted out in Zion
 
 feast day and sabbath,
 
@@ -103,11 +102,11 @@ He has handed over to the enemy
 
 the walls of its strongholds.
 
-They shout in the house of the L ORD
+They shout in the house of the LORD
 
 as on a feast day.
 
-8 The L ORD was bent on destroying ^lamentations-02-8
+8 The LORD was bent on destroying ^lamentations-02-8
 
 the wall of daughter Zion:
 
@@ -129,7 +128,7 @@ instruction is wanting,
 
 Even her prophets do not obtain
 
-any vision from the L ORD.
+any vision from the LORD.
 
 10 The elders of daughter Zion ^lamentations-02-10
 
@@ -215,7 +214,7 @@ How we have waited for this day—
 
 we have lived to see it!”
 
-17 The L ORD has done what he planned. ^lamentations-02-17
+17 The LORD has done what he planned. ^lamentations-02-17
 
 He has fulfilled the threat
 
@@ -255,7 +254,7 @@ Who collapse from hunger
 
 at the corner of every street.
 
-20 “Look, O L ORD, and pay attention: ^lamentations-02-20
+20 “Look, O LORD, and pay attention: ^lamentations-02-20
 
 to whom have you been so ruthless?
 
@@ -283,7 +282,7 @@ slaughtered without pity.
 
 terrors on every side;
 
-On the day of the L ORD’s wrath,
+On the day of the LORD’s wrath,
 
 none survived or escaped.
 

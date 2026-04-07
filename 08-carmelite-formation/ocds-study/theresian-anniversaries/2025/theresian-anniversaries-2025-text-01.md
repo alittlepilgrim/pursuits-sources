@@ -1,15 +1,15 @@
 ---
-title: "Theresian Anniversaires 2025 - Text 1: Act of Oblation to Merciful Love (Prayer 6)"
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: "Theresian Anniversaires 2025 - Text 1: Act of Oblation to Merciful Love (Prayer 6)"
+author: OCD General Curia
 aliases:
   - "Theresian Anniversaires 2025 - Text 1: Act of Oblation to Merciful Love (Prayer 6)"
   - theresian-anniversaries-2025-text-01
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2025 - Text 1: Act of Oblation to Merciful Love (Prayer 6)
@@ -24,7 +24,7 @@ Suggestion for the community meeting:
 
 It would be helpful to have made individual readings and reflections on Therese’s text before the community meeting.
 
-### Act of Oblation to Merciful Love (Prayer 6)
+## Act of Oblation to Merciful Love (Prayer 6)
 
 J.M.J.T.**
 
@@ -58,7 +58,7 @@ Marie, Françoise, Thérèse of the Child Jesus and the Holy Face, unworthy Carm
 
 This 9th day of June, Feast of the Most Holy Trinity, In the year of grace, 1895
 
-### Introduction to the Text
+## Introduction to the Text
 
 We are starting this new cycle with a prayer that you probably know well, it is long and also full of rich teachings.
 
@@ -76,7 +76,7 @@ Therese’s oblation, however personal for her, was made as part of the Church, 
 
 In 1896-1897, Therese had to incorporate into her Obla-tion to Merciful Love a dimension of pain that was not foreseen at the start. The morning of 9th June, 1895, she was car-ried by joy alone. We know how, at first, Sister Marie of the Sacred Heart refused the Oblation as a victim of love out of fear of suffering.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text.
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.

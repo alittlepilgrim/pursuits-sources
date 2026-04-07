@@ -1,31 +1,30 @@
 ---
-title: Isaiah, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 12
+title: Isaiah, Chapter 12
+url: https://bible.usccb.org/bible/isaiah/12
 aliases:
   - isaiah-12
   - Isaiah, Chapter 12
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 12
 ---
 
 # Isaiah, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
-#### Song of Thanksgiving
+### Song of Thanksgiving
 
 1 On that day, you will say: ^isaiah-12-1
 
-I give you thanks, O L ORD;
+I give you thanks, O LORD;
 
 though you have been angry with me,
 
@@ -35,7 +34,7 @@ your anger has abated, and you have consoled me.
 
 I am confident and unafraid.
 
-For the L ORD is my strength and my might,
+For the LORD is my strength and my might,
 
 and he has been my salvation.
 
@@ -45,13 +44,13 @@ from the fountains of salvation,
 
 4 And you will say on that day: ^isaiah-12-4
 
-give thanks to the L ORD, acclaim his name;
+give thanks to the LORD, acclaim his name;
 
 Among the nations make known his deeds,
 
 proclaim how exalted is his name.
 
-5 Sing praise to the L ORD for he has done glorious things; ^isaiah-12-5
+5 Sing praise to the LORD for he has done glorious things; ^isaiah-12-5
 
 let this be known throughout all the earth.
 

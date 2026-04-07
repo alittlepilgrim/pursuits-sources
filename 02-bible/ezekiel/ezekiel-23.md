@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 23
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 23
+title: Ezekiel, Chapter 23
+url: https://bible.usccb.org/bible/ezekiel/23
 aliases:
   - ezekiel-23
   - Ezekiel, Chapter 23
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/23
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 23
 ---
 
 # Ezekiel, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 **The Two Sisters.**
 
-1 The word of the L ORD came to me: ^ezekiel-23-1
+1 The word of the LORD came to me: ^ezekiel-23-1
 
 2 Son of man, there were two women, daughters of the same mother. ^ezekiel-23-2
 
@@ -111,7 +110,7 @@ for I have spoken—oracle of the Lord G OD.
 
 35 Therefore thus says the Lord G OD: You have forgotten me and cast me behind your back; now suffer for your depravity and prostitution. ^ezekiel-23-35
 
-36 Then the L ORD said to me: Son of man, would you judge Oholah and Oholibah? Then make known to them their abominations. ^ezekiel-23-36
+36 Then the LORD said to me: Son of man, would you judge Oholah and Oholibah? Then make known to them their abominations. ^ezekiel-23-36
 
 37 For they committed [[adultery]], and blood covers their hands. They committed [[adultery]] with their idols; even the children they bore for me they burnt as food for them. ^ezekiel-23-37
 

@@ -1,26 +1,25 @@
 ---
-title: 2 Kings, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 1
+title: 2 Kings, Chapter 1
+url: https://bible.usccb.org/bible/2kings/1
 aliases:
   - 2 Kings, Chapter 1
   - 2-kings-01
   - 20250730-120258
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 1
 ---
 
 # 2 Kings, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Reign of Ahaziah, Continued.**
 
@@ -28,13 +27,13 @@ url: https://bible.usccb.org/bible/2kings/1
 
 2 Ahaziah fell through the lattice of his roof terrace at Samaria and was injured. So he sent out messengers with the instructions: “Go and inquire of Baalzebub, the god of Ekron, whether I shall recover from this injury.” ^2-kings-01-2
 
-3 Meanwhile, the messenger of the L ORD said to Elijah the Tishbite: Go and meet the messengers of Samaria’s king, and tell them: “Is it because there is no God in Israel that you are going to inquire of Baalzebub, the god of Ekron?” ^2-kings-01-3
+3 Meanwhile, the messenger of the LORD said to Elijah the Tishbite: Go and meet the messengers of Samaria’s king, and tell them: “Is it because there is no God in Israel that you are going to inquire of Baalzebub, the god of Ekron?” ^2-kings-01-3
 
-4 For this, the L ORD says: You shall not leave the bed upon which you lie; instead, you shall die. And Elijah departed. ^2-kings-01-4
+4 For this, the LORD says: You shall not leave the bed upon which you lie; instead, you shall die. And Elijah departed. ^2-kings-01-4
 
 5 The messengers then returned to Ahaziah, who asked them, “Why have you returned?” ^2-kings-01-5
 
-6 They answered, “A man met us and said to us, ‘Go back to the king who sent you and tell him: The L ORD says: Is it because there is no God in Israel that you are sending to inquire of Baalzebub, the god of Ekron? For this you shall not leave the bed upon which you lie; instead, you shall die.’” ^2-kings-01-6
+6 They answered, “A man met us and said to us, ‘Go back to the king who sent you and tell him: The LORD says: Is it because there is no God in Israel that you are sending to inquire of Baalzebub, the god of Ekron? For this you shall not leave the bed upon which you lie; instead, you shall die.’” ^2-kings-01-6
 
 7 The king asked them, “What was the man like who met you and said these things to you?” ^2-kings-01-7
 
@@ -52,11 +51,11 @@ url: https://bible.usccb.org/bible/2kings/1
 
 14 Already fire has come down from heaven, consuming the first two captains with their companies of fifty men. But now, let my life count for something in your sight!” ^2-kings-01-14
 
-15 Then the messenger of the L ORD said to Elijah: Go down with him; you need not be afraid of him. So Elijah left and went down with him to the king. ^2-kings-01-15
+15 Then the messenger of the LORD said to Elijah: Go down with him; you need not be afraid of him. So Elijah left and went down with him to the king. ^2-kings-01-15
 
-16 He declared to the king: “Thus says the L ORD: Because you sent messengers to inquire of Baalzebub, the god of Ekron—do you think there is no God in Israel to inquire of?—you shall not leave the bed upon which you lie; instead you shall die.” ^2-kings-01-16
+16 He declared to the king: “Thus says the LORD: Because you sent messengers to inquire of Baalzebub, the god of Ekron—do you think there is no God in Israel to inquire of?—you shall not leave the bed upon which you lie; instead you shall die.” ^2-kings-01-16
 
-17 Ahaziah died according to the word of the L ORD spoken by Elijah. Since he had no son, Joram succeeded him as king, in the second year of Joram, son of Jehoshaphat, king of Judah. ^2-kings-01-17
+17 Ahaziah died according to the word of the LORD spoken by Elijah. Since he had no son, Joram succeeded him as king, in the second year of Joram, son of Jehoshaphat, king of Judah. ^2-kings-01-17
 
 18 The rest of the acts of Ahaziah, which he did, are recorded in the book of chronicles of the kings of Israel. ^2-kings-01-18
 
@@ -64,7 +63,7 @@ url: https://bible.usccb.org/bible/2kings/1
 
 \* (1:8) Hairy garment: a sign of prophetic calling; see [Zec 13:4]. John the Baptizer wore a similarly distinctive mantle; see ([[matthew-03|Mt 3]]:4]; ([[mark-01|Mk 1]]:6].
 
-\* (1:12) Divine fire: lit., “fire of God,” which in Hebrew sounds quite like “man of God.” The play on words is the basis for Elijah’s retort. This story was told among the people to enhance the dignity of the prophet and to reflect the power of God whom he served. A similar phrase, “the L ORD’s fire,” described the miraculous divine fire that fell from a cloudless sky to consume Elijah’s offering in [[1-kings-18|1 Kgs 18]]:38.
+\* (1:12) Divine fire: lit., “fire of God,” which in Hebrew sounds quite like “man of God.” The play on words is the basis for Elijah’s retort. This story was told among the people to enhance the dignity of the prophet and to reflect the power of God whom he served. A similar phrase, “the LORD’s fire,” described the miraculous divine fire that fell from a cloudless sky to consume Elijah’s offering in [[1-kings-18|1 Kgs 18]]:38.
 
 \* (1:17) Joram: in 2 Kings the name “Joram” (*yoram*) and its variant “Jehoram” (*yehoram*) are used interchangeably. To avoid the impression that they are different names and designate different people, both forms are rendered “Joram” in this translation. Confusion arises, however, because the king of Israel whose reign is recounted beginning in [3:1] and the contemporary king of Judah whose reign is recounted beginning in [8:16] share this name. On the relationship of Joram of Israel to Joram of Judah, see note on [3:1].
 

@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 32
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 32
+title: Genesis, Chapter 32
+url: https://bible.usccb.org/bible/genesis/32
 aliases:
   - 20250508-020319
   - genesis-32
   - Genesis, Chapter 32
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 32
 bible_book: genesis
 bible_chapter: "32"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/32
 ---
 
 [[genesis-31|[← Previous Note]]] · [[genesis-33|[Next Note →]]]
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/genesis/32
 
 9 “If Esau should come and attack one camp,” he reasoned, “the remaining camp may still escape.” ^genesis-32-9
 
-10 Then Jacob prayed: “God of my father [[abraham|Abraham]] and God of my father Isaac! You, L ORD, who said to me, ‘Go back to your land and your relatives, and I will be good to you.’ ^genesis-32-10
+10 Then Jacob prayed: “God of my father [[abraham|Abraham]] and God of my father Isaac! You, LORD, who said to me, ‘Go back to your land and your relatives, and I will be good to you.’ ^genesis-32-10
 
 11 I am unworthy of all the acts of kindness and faithfulness that you have performed for your servant: although I crossed the Jordan here with nothing but my staff, I have now grown into two camps. ^genesis-32-11
 
@@ -123,6 +122,6 @@ f. (32:31) [Jgs 13:22]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-01|[← Previous Note]]] · [[genesis-03|[Next Note →]]]

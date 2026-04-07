@@ -1,23 +1,21 @@
 ---
-title: Book XII. Containing Certain Counsels for the Progress of the Soul in Holy Love - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book XII. Containing Certain Counsels for the Progress of the Soul in Holy Love - Treatise on the Love of God
+title: Book XII. Containing Certain Counsels for the Progress of the Soul in Holy Love - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book XII. Containing Certain Counsels for the Progress of the Soul in Holy Love - Treatise on the Love of God
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book XII. Containing Certain Counsels for the Progress of the Soul in Holy Love - Treatise on the Love of God
 ---
 
 # Book XII. Containing Certain Counsels for the Progress of the Soul in Holy Love
 
-### Chapter I. That Our Progress in Holy Love Does Not Depend on Our Natural Temperament
+## Chapter I. That Our Progress in Holy Love Does Not Depend on Our Natural Temperament
 
 A great religious of our age has written that our natural temperament much conduces to contemplative love, and that such as are of an affectionate and loving nature are best adapted for it. Now I suppose he means not that sacred love is distributed to men or angels according to, or much less in virtue of, natural conditions; nor would he say that the distribution of divine love is made to men according to their natural qualities and abilities: for this were to belie the Scripture, and to violate the ecclesiastical canon, by which the Pelagians were declared heretics.
 
@@ -29,7 +27,7 @@ Nevertheless, if two persons, the one of whom is loving and sweet by nature, the
 
 It imports not much then, whether one have a natural inclination to love, when it is a question of a love which is supernatural and exercised supernaturally. Only this, Theotimus, I would gladly cry out to all men: O mortals, if you have hearts disposed for love, why do you not devote yourselves to celestial and divine love? But if you be hard and sour-tempered--since you are wanting in natural love, why do you not aspire to supernatural love, which shall be lovingly bestowed upon you by him who calls you to his so holy love?
 
-### Chapter II. That We Are to Have a Continual Desire to Love
+## Chapter II. That We Are to Have a Continual Desire to Love
 
 Lay up treasures in heaven. [582] One treasure is not enough for the pleasure of this divine, lover, but he desires that we should have so much treasure that our treasure may be composed of many treasures; that is to say, Theotimus, that we are to have an insatiable desire of loving God, adding continually love upon love. What is it that so strongly urges the bees to increase their honey but the love they bear to it? O heart of my soul, created to love the infinite good, what love canst thou desire but this love, which is the most to be desired of all loves! Ah! O soul of my heart, what desire canst thou love but the most lovely of all desires! O love of sacred desires! O desires of sacred love! Oh! how have I coveted to long for thy perfections. [583]
 
@@ -53,7 +51,7 @@ Let us cry, night and day, Theotimus: Come, O Holy Spirit! fill the hearts of th
 
 [587] Prov. viii. 35.
 
-### Chapter III. That to Have the Desire of Sacred Love We Are to Cut off All Other
+## Chapter III. That to Have the Desire of Sacred Love We Are to Cut off All Other
 
 DESIRES.
 
@@ -71,7 +69,7 @@ A religious man demanded of the Blessed Giles what he could do most grateful to 
 
 [589] Cant. iv. 9.
 
-### Chapter IV. That Our Lawful Occupations Do Not Hinder Us from Practicising Divine
+## Chapter IV. That Our Lawful Occupations Do Not Hinder Us from Practicising Divine
 
 LOVE.
 
@@ -85,7 +83,7 @@ While the plague afflicted the Milanese, S. Charles never made any difficulty in
 
 [591] Ps. cxxxvi. 4.
 
-### Chapter V. a Very Sweet Example on This Subject
+## Chapter V. a Very Sweet Example on This Subject
 
 God is innocent to the innocent, [592] good to the good, cordial to the cordial, tender towards the tender, and his love often makes him do acts of a sacred and holy fondness (mignardise) towards souls who, out of an amorous purity and simplicity, make themselves as little children with him.
 
@@ -97,7 +95,7 @@ What sweetness, Theotimus, of this heavenly spouse towards this sweet and faithf
 
 [592] Ps. xvii. 26.
 
-### Chapter VI. That We Are to Employ in the Practice of Divine Love All the Occasions
+## Chapter VI. That We Are to Employ in the Practice of Divine Love All the Occasions
 
 THAT PRESENT THEMSELVES.
 
@@ -113,13 +111,13 @@ Those condescensions to the humours of others, that bearing with the clownish an
 
 [593] Devout Life, iii. 35.
 
-### Chapter VII. That We Must Take Pains to Do Our Actions Very Perfectly
+## Chapter VII. That We Must Take Pains to Do Our Actions Very Perfectly
 
 Our Saviour, as the ancients report, was wont to say to his disciples: Be good exchangers. If the crown be not good gold, if it want weight, if it be not struck with the lawful stamp, it is rejected as not current: if a work be not of a good species, if it be not adorned with charity, if the intention be not pious, it will not be admitted amongst the good works. If I fast, but out of sparingness, my fast is not of a good metal; if it be out of temperance, but I have some mortal sin in my soul, the work wants weight, for it is charity that gives weight to all that we do; if it be only through complaisance, and to accommodate myself to my company, the work is not marked with the stamp of a right intention: but if I fast out of temperance, and be in the grace of God, and have an intention to please his Divine majesty by this temperance, the work shall be current money, fit to augment in me the treasure of charity.
 
 To do little actions with a great purity of intention and with a strong will to please God, is to do them excellently, and then they greatly sanctify us. Some eat much, and yet are ever lean, attenuated and languid, because their digestive power is not good; there are others who eat little, and yet are always in good plight, and vigorous, because their stomach is good. Even so there are some souls that do many good works, and yet increase but little in charity, because they do them either coldly and negligently, or by natural instinct and inclination rather than by Divine inspiration or heavenly fervour; and, on the contrary, others there are who get through little work, but do it with so holy a will and inclination, that they make a wonderful advancement in charity; they have little talent, but they husband it so faithfully that the Lord largely rewards them for it.
 
-### Chapter VIII. a General Means for Applying Our Works to God's Service
+## Chapter VIII. a General Means for Applying Our Works to God's Service
 
 All whatsoever you do in word and in work, do all in the name of Jesus Christ. [594] Whether you eat or drink or whatever you do, do all to the glory of God. [595] These are the words of the Divine Apostle; which, as the great S. Thomas says in explaining them, are sufficiently put in practice when we have the habit of holy charity, whereby, though we have not an express and set purpose of doing every work for God, that intention is implicitly contained in the union and communion we have with God, which dedicates all the good we can do, with ourselves, to his Divine goodness. It is not necessary that a child, while living in the house and under the authority of his father, should declare that all he gets is got for his father; for since his person belongs to his father, all that depends on it also belongs to him. So it suffices that we be God's children by love, to make all that we do entirely directed to his glory.
 
@@ -143,7 +141,7 @@ Indeed S. Bonaventure acknowledges that a man who has got so great an inclinatio
 
 [595] Col. iii. 17.
 
-### Chapter IX. of Certain Other Means by Which We May Apply Our Works More
+## Chapter IX. of Certain Other Means by Which We May Apply Our Works More
 
 PARTICULARLY TO THE LOVE OF GOD.
 
@@ -173,7 +171,7 @@ In this sort we are to undertake the gravest affairs, and to meet the sharpest t
 
 [597] Matt. xi. 26.
 
-### Chapter X. an Exhortation to the Sacrifice Which We Are to Make to God of Our
+## Chapter X. an Exhortation to the Sacrifice Which We Are to Make to God of Our
 
 FREE-WILL.
 
@@ -203,7 +201,7 @@ We have freedom to do good or evil; yet to make choice of evil, is not to use, b
 
 [601] Matt. v. 28.
 
-### Chapter XI. the Motives We Have of Holy Love
+## Chapter XI. the Motives We Have of Holy Love
 
    S. Bonaventure, Father Louis of Granada, Father Louis de Ponte, Father Diego di Stella, have sufficiently discoursed upon this subject. I will only sum up those points on which I have touched in this treatise.
 
@@ -217,7 +215,7 @@ The fourth motive is to consider how God brings to effect this Providence and Re
 
 The fifth motive is the eternal glory which the Divine goodness has provided for us, which is the crown of God's benefits towards us: of which we have said something from chapter ix. to the end of Book III.
 
-### Chapter XII. a Most Useful Method of Employing These Motives
+## Chapter XII. a Most Useful Method of Employing These Motives
 
 Now to receive from these motives a profound and strong heat of love, it is necessary, 1°, that after having considered one of them in a general way, we apply it in particular to ourselves. For example: O how amiable this great God is, who out of his infinite goodness gave his son for the whole world's redemption! Yes, indeed for all in general, but in particular for me, who am the first of sinners. [602] Ah! he hath loved me, yea, I say, he hath loved even me, even me myself, such as I am, and delivered himself to his Passion for me. [603]
 
@@ -235,7 +233,7 @@ Thus within his maternal breast his divine heart foresaw, disposed, merited and 
 
 [603] Gal. ii. 20.
 
-### Chapter XIII. That Mount Calvary Is the Academy of Love
+## Chapter XIII. That Mount Calvary Is the Academy of Love
 
 And at last, as our conclusion,--the death and passion of Our Lord is the sweetest and most constraining motive that can animate our hearts in this mortal life: and it is the very truth, that mystical bees make their most excellent honey within the wounds of this Lion of the tribe of Judah, slain, rent and torn upon the Mount of Calvary. And the children of the cross glory in their admirable problem, which the world understands not: Out of death, the eater of all, has come forth the meat of our consolation; and out of death, strong above all, has come forth the sweetness of the honey of our love. [604] O Jesus, my Saviour, how love-worthy is thy death, since it is the sovereign effect of thy love!
 

@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 8
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 8
+title: Sirach, Chapter 8
+url: https://bible.usccb.org/bible/sirach/8
 aliases:
   - sirach-08
   - Sirach, Chapter 8
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/8
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 8
 ---
 
 # Sirach, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
-#### Prudence in Dealing with Others
+### Prudence in Dealing with Others
 
 1 Do not contend with the mighty, ^sirach-08-1
 

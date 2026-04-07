@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 13
+title: Mark, Chapter 13
+url: https://bible.usccb.org/bible/mark/13
 aliases:
   - mark-13
   - Mark, Chapter 13
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/13
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 13
 ---
 
 # Mark, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **The Destruction of the Temple Foretold.**
 

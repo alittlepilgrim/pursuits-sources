@@ -1,33 +1,32 @@
 ---
-title: Leviticus, Chapter 2
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 2
+title: Leviticus, Chapter 2
+url: https://bible.usccb.org/bible/leviticus/2
 aliases:
   - leviticus-02
   - Leviticus, Chapter 2
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 2
 ---
 
 # Leviticus, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Grain Offerings.**
 
-1 When anyone brings a grain offering to the L ORD, the offering must consist of bran flour. The offerer shall pour oil on it and put frankincense over it, ^leviticus-02-1
+1 When anyone brings a grain offering to the LORD, the offering must consist of bran flour. The offerer shall pour oil on it and put frankincense over it, ^leviticus-02-1
 
-2 and bring it to Aaron’s sons, the priests. A priest shall take a handful of the bran flour and oil, together with all the frankincense, and shall burn it on the altar as a token of the offering, a sweet-smelling oblation to the L ORD. ^leviticus-02-2
+2 and bring it to Aaron’s sons, the priests. A priest shall take a handful of the bran flour and oil, together with all the frankincense, and shall burn it on the altar as a token of the offering, a sweet-smelling oblation to the LORD. ^leviticus-02-2
 
-3 The rest of the grain offering belongs to Aaron and his sons, a most holy portion from the oblations to the L ORD. ^leviticus-02-3
+3 The rest of the grain offering belongs to Aaron and his sons, a most holy portion from the oblations to the LORD. ^leviticus-02-3
 
 4 When you offer a grain offering baked in an oven, it must be in the form of unleavened cakes made of bran flour mixed with oil, or of unleavened wafers spread with oil. ^leviticus-02-4
 
@@ -37,23 +36,23 @@ url: https://bible.usccb.org/bible/leviticus/2
 
 7 If your offering is a grain offering that is prepared in a pan, it must be made of bran flour, fried in oil. ^leviticus-02-7
 
-8 A grain offering that is made in any of these ways you shall bring to the L ORD. It shall be presented to the priest, who shall take it to the altar. ^leviticus-02-8
+8 A grain offering that is made in any of these ways you shall bring to the LORD. It shall be presented to the priest, who shall take it to the altar. ^leviticus-02-8
 
-9 The priest shall then remove from the grain offering a token and burn it on the altar as a sweet-smelling oblation to the L ORD. ^leviticus-02-9
+9 The priest shall then remove from the grain offering a token and burn it on the altar as a sweet-smelling oblation to the LORD. ^leviticus-02-9
 
-10 The rest of the grain offering belongs to Aaron and his sons, a most holy portion from the oblations to the L ORD. ^leviticus-02-10
+10 The rest of the grain offering belongs to Aaron and his sons, a most holy portion from the oblations to the LORD. ^leviticus-02-10
 
-11 Every grain offering that you present to the L ORD shall be unleavened, for you shall not burn any leaven or honey as an oblation to the L ORD. ^leviticus-02-11
+11 Every grain offering that you present to the LORD shall be unleavened, for you shall not burn any leaven or honey as an oblation to the LORD. ^leviticus-02-11
 
-12 Such you may present to the L ORD in the offering of the first produce that is processed, but they are not to be placed on the altar for a pleasing odor. ^leviticus-02-12
+12 Such you may present to the LORD in the offering of the first produce that is processed, but they are not to be placed on the altar for a pleasing odor. ^leviticus-02-12
 
 13 You shall season all your grain offerings with salt. Do not let the salt of the covenant with your God be lacking from your grain offering. On every offering you shall offer salt. ^leviticus-02-13
 
-14 If you offer a grain offering of first ripe fruits to the L ORD, you shall offer it in the form of fresh early grain, roasted by fire and crushed as a grain offering of your first ripe fruits. ^leviticus-02-14
+14 If you offer a grain offering of first ripe fruits to the LORD, you shall offer it in the form of fresh early grain, roasted by fire and crushed as a grain offering of your first ripe fruits. ^leviticus-02-14
 
 15 You shall put oil on it and set frankincense on it. It is a grain offering. ^leviticus-02-15
 
-16 The priest shall then burn some of the groats and oil, together with all the frankincense, as a token of the offering, an oblation to the L ORD. ^leviticus-02-16
+16 The priest shall then burn some of the groats and oil, together with all the frankincense, as a token of the offering, an oblation to the LORD. ^leviticus-02-16
 
 \* (2:1) Grain offerings are used as independent offerings (those in this chapter and cf. [6:12] – [16]; [8:26] – [27]; [23:10] – [11]), as substitutes for other offerings in a case of poverty ([5:11] – [13]), and as accompaniments to animal offerings (cf. [Nm 15:1] – [12]; [28:1] – [29:39]; [Lv 14:20]; [23:12], [18], [37]). Chapter [2] describes two basic types of grain offering: uncooked (vv. [1] – [3]) and cooked (vv. [4] – [10]). The flour (*sōlet*) used was made of wheat (([[exodus-29|Ex 29]]:2]) and Jewish tradition and Semitic cognates indicate that it is a coarse rather than a fine flour.
 

@@ -1,25 +1,24 @@
 ---
-title: 1 Peter, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Peter, Chapter 5
+title: 1 Peter, Chapter 5
+url: https://bible.usccb.org/bible/1peter/5
 aliases:
   - 1 Peter, Chapter 5
   - 1-peter-05
 tags:
   - bible/1-peter
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1peter/5
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Peter, Chapter 5
 ---
 
 # 1 Peter, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Advice to Presbyters.**
 
@@ -49,7 +48,7 @@ but bestows favor on the humble.”
 
 11 To him be dominion forever. Amen. ^1-peter-05-11
 
-## V. Conclusion
+# V. Conclusion
 
 12 I write you this briefly through Silvanus, whom I consider a faithful brother, exhorting you and testifying that this is the true grace of God. Remain firm in it. ^1-peter-05-12
 

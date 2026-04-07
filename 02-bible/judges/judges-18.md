@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 18
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 18
+title: Judges, Chapter 18
+url: https://bible.usccb.org/bible/judges/18
 aliases:
   - judges-18
   - Judges, Chapter 18
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/18
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 18
 ---
 
 # Judges, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Migration of the Danites.**
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/judges/18
 
 5 They said to him, “Consult God, that we may know whether the journey we are making will lead to success.” ^judges-18-5
 
-6 The priest said to them, “Go in peace! The journey you are making is under the eye of the L ORD.” ^judges-18-6
+6 The priest said to them, “Go in peace! The journey you are making is under the eye of the LORD.” ^judges-18-6
 
 7 So the five men went on and came to Laish. They saw the people there living securely after the manner of the Sidonians, quiet and trusting, with no lack of any natural resource. They were distant from the Sidonians and had no dealings with the Arameans. ^judges-18-7
 

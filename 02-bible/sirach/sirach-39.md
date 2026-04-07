@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 39
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 39
+title: Sirach, Chapter 39
+url: https://bible.usccb.org/bible/sirach/39
 aliases:
   - sirach-39
   - Sirach, Chapter 39
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/39
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 39
 ---
 
 # Sirach, Chapter 39
 
-### Chapter 39
+## Chapter 39
 
 How different the person who devotes himself
 
@@ -87,7 +86,7 @@ and the assembly will declare his praise.
 
 and when he dies he leaves a good name.
 
-#### Praise of God the Creator
+### Praise of God the Creator
 
 12 Once more I will set forth my theme ^sirach-39-12
 

@@ -1,12 +1,15 @@
 ---
-title: Prologue – The Soul of the Apostolate
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: false
+title: Prologue – The Soul of the Apostolate
+author: Dom Chautard
 aliases:
   - Prologue – The Soul of the Apostolate
-author: Dom Chautard
+tags:
+  - author/chautard-dom
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: false
 ---
 
 # Prologue – The Soul of the Apostolate
@@ -49,7 +52,7 @@ Spirit of Light, imprint upon their minds, in characters that can never be erase
 
 O infinite Charity, make their wills burn with thirst for the interior life. Penetrate and flood their hearts with Thy sweetness and strength, and show them that, even here on this
 
-###### Footnotes
+## Footnotes
 
 1 Liturgy, Fifth antiphon of Matins for the Feast of the Most Holy Trinity – Quoted from 1 Cor. viii: 6.
 

@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 4
+title: Mark, Chapter 4
+url: https://bible.usccb.org/bible/mark/4
 aliases:
   - mark-04
   - Mark, Chapter 4
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/4
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 4
 ---
 
 # Mark, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **The Parable of the Sower.**
 

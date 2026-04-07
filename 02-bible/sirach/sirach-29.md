@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 29
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 29
+title: Sirach, Chapter 29
+url: https://bible.usccb.org/bible/sirach/29
 aliases:
   - sirach-29
   - Sirach, Chapter 29
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/29
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 29
 ---
 
 # Sirach, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
-#### Loans, Alms and Surety
+### Loans, Alms and Surety
 
 1 The merciful lend to their neighbor, ^sirach-29-1
 
@@ -115,7 +114,7 @@ and whoever undertakes too much will fall into lawsuits.
 
 but take care lest you fall yourself.
 
-#### Frugality and Its Rewards
+### Frugality and Its Rewards
 
 21 Life’s prime needs are water, bread, and clothing, ^sirach-29-21
 

@@ -1,25 +1,24 @@
 ---
-title: Exodus, Chapter 32
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: exodus-chapter 32
+title: Exodus, Chapter 32
+url: https://bible.usccb.org/bible/exodus/32
 aliases:
   - exodus-32
   - Exodus, Chapter 32
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/32
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 32
 ---
 
 # Exodus, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
 **The Golden Calf.**
 
@@ -31,25 +30,25 @@ url: https://bible.usccb.org/bible/exodus/32
 
 4 He received their offering, and fashioning it with a tool, made a molten calf. Then they cried out, “These are your gods, Israel, who brought you up from the land of Egypt.” ^exodus-32-4
 
-5 On seeing this, Aaron built an altar in front of the calf and proclaimed, “Tomorrow is a feast of the L ORD.” ^exodus-32-5
+5 On seeing this, Aaron built an altar in front of the calf and proclaimed, “Tomorrow is a feast of the LORD.” ^exodus-32-5
 
 6 Early the next day the people sacrificed burnt offerings and brought communion sacrifices. Then they sat down to eat and drink, and rose up to revel. ^exodus-32-6
 
-7 Then the L ORD said to Moses: Go down at once because your people, whom you brought out of the land of Egypt, have acted corruptly. ^exodus-32-7
+7 Then the LORD said to Moses: Go down at once because your people, whom you brought out of the land of Egypt, have acted corruptly. ^exodus-32-7
 
 8 They have quickly turned aside from the way I commanded them, making for themselves a molten calf and bowing down to it, sacrificing to it and crying out, “These are your gods, Israel, who brought you up from the land of Egypt!” ^exodus-32-8
 
-9 I have seen this people, how stiff-necked they are, continued the L ORD to Moses. ^exodus-32-9
+9 I have seen this people, how stiff-necked they are, continued the LORD to Moses. ^exodus-32-9
 
 10 Let me alone, then, that my anger may burn against them to consume them. Then I will make of you a great nation. ^exodus-32-10
 
-11 But Moses implored the L ORD, his God, saying, “Why, O L ORD, should your anger burn against your people, whom you brought out of the land of Egypt with great power and with a strong hand? ^exodus-32-11
+11 But Moses implored the LORD, his God, saying, “Why, O LORD, should your anger burn against your people, whom you brought out of the land of Egypt with great power and with a strong hand? ^exodus-32-11
 
 12 Why should the Egyptians say, ‘With evil intent he brought them out, that he might kill them in the mountains and wipe them off the face of the earth’? Turn from your burning wrath; change your mind about punishing your people. ^exodus-32-12
 
 13 Remember your servants [[abraham|Abraham]], Isaac, and Israel, and how you swore to them by your own self, saying, ‘I will make your descendants as numerous as the stars in the sky; and all this land that I promised, I will give your descendants as their perpetual heritage.’” ^exodus-32-13
 
-14 So the L ORD changed his mind about the punishment he had threatened to inflict on his people. ^exodus-32-14
+14 So the LORD changed his mind about the punishment he had threatened to inflict on his people. ^exodus-32-14
 
 15 Moses then turned and came down the mountain with the two tablets of the covenant in his hands, tablets that were written on both sides, front and back. ^exodus-32-15
 
@@ -79,29 +78,29 @@ the sound I hear is singing.”
 
 25 Moses saw that the people were running wild because Aaron had lost control—to the secret delight of their foes. ^exodus-32-25
 
-26 Moses stood at the gate of the camp and shouted, “Whoever is for the L ORD, come to me!” All the Levites then rallied to him, ^exodus-32-26
+26 Moses stood at the gate of the camp and shouted, “Whoever is for the LORD, come to me!” All the Levites then rallied to him, ^exodus-32-26
 
-27 and he told them, “Thus says the L ORD, the God of Israel: Each of you put your sword on your hip! Go back and forth through the camp, from gate to gate, and kill your brothers, your friends, your neighbors!” ^exodus-32-27
+27 and he told them, “Thus says the LORD, the God of Israel: Each of you put your sword on your hip! Go back and forth through the camp, from gate to gate, and kill your brothers, your friends, your neighbors!” ^exodus-32-27
 
 28 The Levites did as Moses had commanded, and that day about three thousand of the people fell. ^exodus-32-28
 
-29 Then Moses said, “Today you are installed as priests for the L ORD, for you went against your own sons and brothers, to bring a blessing upon yourselves this day.” ^exodus-32-29
+29 Then Moses said, “Today you are installed as priests for the LORD, for you went against your own sons and brothers, to bring a blessing upon yourselves this day.” ^exodus-32-29
 
 **The Atonement.**
 
-30 On the next day Moses said to the people, “You have committed a grave sin. Now I will go up to the L ORD; perhaps I may be able to make atonement for your sin.” ^exodus-32-30
+30 On the next day Moses said to the people, “You have committed a grave sin. Now I will go up to the LORD; perhaps I may be able to make atonement for your sin.” ^exodus-32-30
 
-31 So Moses returned to the L ORD and said, “Ah, this people has committed a grave sin in making a god of gold for themselves! ^exodus-32-31
+31 So Moses returned to the LORD and said, “Ah, this people has committed a grave sin in making a god of gold for themselves! ^exodus-32-31
 
 32 Now if you would only forgive their sin! But if you will not, then blot me out of the book that you have written.” ^exodus-32-32
 
-33 The L ORD answered Moses: Only the one who has sinned against me will I blot out of my book. ^exodus-32-33
+33 The LORD answered Moses: Only the one who has sinned against me will I blot out of my book. ^exodus-32-33
 
 34 Now, go and lead the people where I have told you. See, my angel will go before you. When it is time for me to punish, I will punish them for their sin. ^exodus-32-34
 
-35 Thus the L ORD struck the people for making the calf, the one that Aaron made. ^exodus-32-35
+35 Thus the LORD struck the people for making the calf, the one that Aaron made. ^exodus-32-35
 
-\* (32:4] – [5) Who brought you…a feast of the L ORD: it seems that the golden calf was intended as an image, not of another god, but of the Lord, whose strength was symbolized by the strength of a young bull. The Israelites, however, had been forbidden to represent the Lord under any visible form. Cf. [20:4]. In the tenth century Jeroboam made golden calves for the shrines at Bethel and Dan, presumably to function as thrones for the Lord as the ark did in Jerusalem (see [[1-kings-12|1 Kgs 12]]:27 – [30]).
+\* (32:4] – [5) Who brought you…a feast of the LORD: it seems that the golden calf was intended as an image, not of another god, but of the Lord, whose strength was symbolized by the strength of a young bull. The Israelites, however, had been forbidden to represent the Lord under any visible form. Cf. [20:4]. In the tenth century Jeroboam made golden calves for the shrines at Bethel and Dan, presumably to function as thrones for the Lord as the ark did in Jerusalem (see [[1-kings-12|1 Kgs 12]]:27 – [30]).
 
 \* (32:11] – [13) Moses uses three arguments to persuade the Lord to remain faithful to the Sinai covenant even though the people have broken it: (1) they are God’s own people, redeemed with God’s great power; (2) God’s reputation will suffer if they are destroyed; (3) the covenant with [[abraham|Abraham]] still stands. The Lord’s change of mind is a testimony to Israel’s belief in the power of intercessory prayer.
 

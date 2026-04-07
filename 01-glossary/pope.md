@@ -1,16 +1,18 @@
 ---
-title: Pope
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: pope. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Pope
+author:
 aliases:
   - pope
   - Pope
 tags:
   - catechism
   - term/pope
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: pope. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Pope

@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint Joseph
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - joseph-saint
@@ -12,8 +9,11 @@ aliases:
 tags:
   - role/blessed
   - term/virgin
+  - type/figure
 celebration: 03-19
-full_name: ST. JOSEPH
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Joseph

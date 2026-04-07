@@ -1,23 +1,27 @@
 ---
-title: centesimus-annus
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Encyclical Letter Centesimus Annus (1 May 1991)
+title: Centesimus Annus
+author:
+  - Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
 aliases:
   - centesimus-annus
 tags:
-  - vault-admin/clippings
+  - author/saint-john-paul-II
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-11-14
+modified: 2026-04-06
+publish: true
+description: Encyclical Letter Centesimus Annus (1 May 1991)
 abbreviation: jpii-ca
-source: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html
 ---
 
 **JOHN PAUL II**
 
 HOLY FATHER
 
-***« CENTESIMUS ANNUS »***
+# Centesimus Annus
 
 ENCYCLICAL LETTER
 
@@ -47,7 +51,7 @@ Beloved Sons and Daughters,
 
 Health and the Apostolic Blessing!*
 
-## Introduction
+# Introduction
 
 1\. The Centenary of the promulgation of the Encyclical which begins with the words *"Rerum novarum* ",1 by my predecessor of venerable memory Pope Leo XIII, is an occasion of great importance for the present history of the Church and for my own Pontificate. It is an Encyclical that has the distinction of having been commemorated by solemn Papal documents from its fortieth anniversary to its ninetieth. It may be said that its path through history has been marked by other documents which paid tribute to it and applied it to the circumstances of the day.2 ^jpii-ca-1
 
@@ -349,7 +353,7 @@ In the light of today's "new things", we have re-read *the relationship between 
 
 The obligation to earn one's bread by the sweat of one's brow also presumes the right to do so. A society in which this right is systematically denied, in which economic policies do not allow workers to reach satisfactory levels of employment, cannot be justified from an ethical point of view, nor can that society attain social peace.88 Just as the person fully realizes himself in the free gift of self, so too ownership morally justifies itself in the creation, at the proper time and in the proper way, of opportunities for work and human growth for all.
 
-## V. State and Culture
+# V. State and Culture
 
 44\. Pope Leo XIII was aware of the need for a sound *theory of the State* in order to ensure the normal development of man's spiritual and temporal activities, both of which are indispensable.89 For this reason, in one passage of *Rerum novarum* he presents the organization of society according to the three powers — legislative, executive and judicial —, something which at the time represented a novelty in Church teaching.90 Such an ordering reflects a realistic vision of man's social nature, which calls for legislation capable of protecting the freedom of all. To that end, it is preferable that each power be balanced by other powers and by other spheres of responsibility which keep it within proper bounds. This is the principle of the "rule of law", in which the law is sovereign, and not the arbitrary will of individuals. ^jpii-ca-44
 
@@ -403,7 +407,7 @@ For this reason, another name for peace is *development*.105 Just as there is a 
 
 This may mean making important changes in established life-styles, in order to limit the waste of environmental and human resources, thus enabling every individual and all the peoples of the earth to have a sufficient share of those resources. In addition, the new material and spiritual resources must be utilized which are the result of the work and culture of peoples who today are on the margins of the international community, so as to obtain an overall human enrichment of the family of nations.
 
-## Vi. Man Is the Way of the Church
+# Vi. Man Is the Way of the Church
 
 53\. Faced with the poverty of the working class, Pope Leo XIII wrote: "We approach this subject with confidence, and in the exercise of the rights which manifestly pertain to us... By keeping silence we would seem to neglect the duty incumbent on us".107 During the last hundred years the Church has repeatedly expressed her thinking, while closely following the continuing development of the social question. She has certainly not done this in order to recover former privileges or to impose her own vision. Her sole purpose has been *care and responsibility* for man, who has been entrusted to her by Christ himself: for *this man,* whom, as the Second Vatican Council recalls, is the only creature on earth which God willed for its own sake, and for which God has his plan, that is, a share in eternal salvation. We are not dealing here with man in the "abstract", but with the real, "concrete", "historical" man. We are dealing with *each individual,* since each one is included in the mystery of Redemption, and through this mystery Christ has united himself with each one for ever.108 It follows that the Church cannot abandon man, and that *"this man* is the primary route that the Church must travel in fulfilling her mission... the way traced out by Christ himself, the way that leads invariably through the mystery of the Incarnation and the Redemption".109 ^jpii-ca-53
 
@@ -465,234 +469,234 @@ Mary, the Mother of the Redeemer, constantly remained beside Christ in his journ
 
 ---
 
-****. Leo XIII, Encyclical Letter *Rerum Novarum* (May 15, 1891): *Leonis XIII P.M. Acta*, XI, Romae 1892, 97-144.
+**[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. Leo XIII, Encyclical Letter *Rerum Novarum* (May 15, 1891): *Leonis XIII P.M. Acta*, XI, Romae 1892, 97-144.
 
-****. Pius XI, Encyclical Letter *QuadragesimoAnno* (May 15,1931): *AAS* 23 (1931),177-228; Pius XII, Radio Message of June 1, 1941: *AAS* 33 (1941), 195-205; John XXIII, Encyclical Letter *Mater et Magistra* (May 15, 1961): *AAS* 53 (1961), 401-464; Paul VI, Apostolic Epistle *Octogesima Adveniens* (May 14, 1971): *AAS* 63 (1971), 401-441.
+**[2](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2)**. Pius XI, Encyclical Letter *QuadragesimoAnno* (May 15,1931): *AAS* 23 (1931),177-228; Pius XII, Radio Message of June 1, 1941: *AAS* 33 (1941), 195-205; John XXIII, Encyclical Letter *Mater et Magistra* (May 15, 1961): *AAS* 53 (1961), 401-464; Paul VI, Apostolic Epistle *Octogesima Adveniens* (May 14, 1971): *AAS* 63 (1971), 401-441.
 
-****. Cf. Pius XI, Encyclical Letter *QuadragesimoAnno*, III, *loc. cit*., 228.
+**[3](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3)**. Cf. Pius XI, Encyclical Letter *QuadragesimoAnno*, III, *loc. cit*., 228.
 
-****. Encyclical Letter *Laborem Exercens* (September 14, 1981): *AAS* 73 (1981), 577-647; Encyclical Letter *Sollicitudo Rei Socialis* (December 30, 1987): *AAS* 80 (1988), 513-586.
+**[4](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4)**. Encyclical Letter *Laborem Exercens* (September 14, 1981): *AAS* 73 (1981), 577-647; Encyclical Letter *Sollicitudo Rei Socialis* (December 30, 1987): *AAS* 80 (1988), 513-586.
 
-****. Cf. St. Irenaeus, *Adversus Haereses*, I, 10, 1; III, 4, 1: *PG* 7, 549f.; 855f.; *S. Ch.* 264, 154f.; 211, 44-46.
+**[5](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5)**. Cf. St. Irenaeus, *Adversus Haereses*, I, 10, 1; III, 4, 1: *PG* 7, 549f.; 855f.; *S. Ch.* 264, 154f.; 211, 44-46.
 
-****. Leo XIII, Encyclical Letter *Rerum Novarum*: *loc. cit*., 132.
+**[6](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6)**. Leo XIII, Encyclical Letter *Rerum Novarum*: *loc. cit*., 132.
 
-****. Cf., e.g., Leo XIII, Encyclical Epistle *Arcanum Divinae Sapientiae* (February 10,1880): *Leonis XIII P.M. Acta*, II, Romae 1882, 10-40; Encyclical Epistle *Diuturnum Illud* (June 29, 1881): *Leonis XIII P.M. Acta*, II, Romae 1882, 269-287; Encyclical Letter *Libertas Praestantissimum* (June 20, 1888): *Leonis XIII P.M.* Acta, VIII, Romae 1889, 212-246; Encyclical Epistle *Graves de communi* (January 18, 1901): *Leonis XIII P.M. Acta*, XXI, Romae 1902, 320.
+**[7](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7)**. Cf., e.g., Leo XIII, Encyclical Epistle *Arcanum Divinae Sapientiae* (February 10,1880): *Leonis XIII P.M. Acta*, II, Romae 1882, 10-40; Encyclical Epistle *Diuturnum Illud* (June 29, 1881): *Leonis XIII P.M. Acta*, II, Romae 1882, 269-287; Encyclical Letter *Libertas Praestantissimum* (June 20, 1888): *Leonis XIII P.M.* Acta, VIII, Romae 1889, 212-246; Encyclical Epistle *Graves de communi* (January 18, 1901): *Leonis XIII P.M. Acta*, XXI, Romae 1902, 320.
 
-****. Encyclical Letter *Rerum Novarum*: *loc. cit*., 97.
+**[8](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-8)**. Encyclical Letter *Rerum Novarum*: *loc. cit*., 97.
 
-****. *Ibid*.: *loc. cit.*, 98.
+**[9](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-9)**. *Ibid*.: *loc. cit.*, 98.
 
-****. Cf. *ibid*.: *loc. cit*., 109f.
+**[10](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-A)**. Cf. *ibid*.: *loc. cit*., 109f.
 
-****. Cf. *ibid*.: description of working conditions; 44: anti-Christian workers' associations: *loc. cit*., 110f.; 136f.
+**[11](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-B)**. Cf. *ibid*.: description of working conditions; 44: anti-Christian workers' associations: *loc. cit*., 110f.; 136f.
 
-****. *Ibid*.: *loc. cit*., 130; cf. also 114f.
+**[12](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-C)**. *Ibid*.: *loc. cit*., 130; cf. also 114f.
 
-****. *Ibid*.: *loc. cit*., 130.
+**[13](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-D)**. *Ibid*.: *loc. cit*., 130.
 
-****. *Ibid*.: *loc. cit*., 123.
+**[14](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-E)**. *Ibid*.: *loc. cit*., 123.
 
-****. Cf. Encyclical Letter *Laborem Exercens*, 1, 2, 6: *loc. cit*., 578-583; 589-592.
+**[15](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-F)**. Cf. Encyclical Letter *Laborem Exercens*, 1, 2, 6: *loc. cit*., 578-583; 589-592.
 
-****. Cf. Encyclical Letter *Rerum Novarum*: *loc. cit*., 99-107.
+**[16](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-G)**. Cf. Encyclical Letter *Rerum Novarum*: *loc. cit*., 99-107.
 
-****. Cf. *ibid.: loc. cit.*, 102f.
+**[17](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-H)**. Cf. *ibid.: loc. cit.*, 102f.
 
-****. Cf. *ibid.: loc. cit*., 101-104.
+**[18](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-I)**. Cf. *ibid.: loc. cit*., 101-104.
 
-****. Cf. *ibid.: loc. cit*., 134f.; 137f.
+**[19](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-J)**. Cf. *ibid.: loc. cit*., 134f.; 137f.
 
-****. *Ibid.: loc. cit*., 135.
+**[20](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-K)**. *Ibid.: loc. cit*., 135.
 
-****. Cf. *Ibid.: loc. cit*., 128-129.
+**[21](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-L)**. Cf. *Ibid.: loc. cit*., 128-129.
 
-****. *Ibid.: loc. cit*., 129.
+**[22](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-M)**. *Ibid.: loc. cit*., 129.
 
-****. *Ibid.: loc. cit*., 129.
+**[23](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-N)**. *Ibid.: loc. cit*., 129.
 
-****. *Ibid.: loc. cit*., 130f.
+**[24](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-O)**. *Ibid.: loc. cit*., 130f.
 
-****. *Ibid.: loc. cit*., 131.
+**[25](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-P)**. *Ibid.: loc. cit*., 131.
 
-****. Cf. Universal Declaration of Human Rights.
+**[26](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Q)**. Cf. Universal Declaration of Human Rights.
 
-****. Cf. Encyclical Letter *Rerum Novarum*: *loc. cit*., 121-123.
+**[27](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-R)**. Cf. Encyclical Letter *Rerum Novarum*: *loc. cit*., 121-123.
 
-****. Cf. *ibid.: loc. cit*., 127.
+**[28](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-S)**. Cf. *ibid.: loc. cit*., 127.
 
-****. *Ibid.: loc. cit*., 126f.
+**[29](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-T)**. *Ibid.: loc. cit*., 126f.
 
-****. Cf. Universal Declaration of Human Rights; Declaration on the elimination of every form of intolerance and discrimination based on religion or convictions.
+**[30](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-U)**. Cf. Universal Declaration of Human Rights; Declaration on the elimination of every form of intolerance and discrimination based on religion or convictions.
 
-****. Second Vatican Ecumenical Council, Declaration on Religious Freedom *Dignitatis Humanae*; John Paul II, Letter to Heads of State (September 1, 1980): *AAS* 72 (1980), 1252-1260; Message for the 1988 World Day of Peace (January 1, 1988): *AAS* 80 (1988), 278-286.
+**[31](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-V)**. Second Vatican Ecumenical Council, Declaration on Religious Freedom *Dignitatis Humanae*; John Paul II, Letter to Heads of State (September 1, 1980): *AAS* 72 (1980), 1252-1260; Message for the 1988 World Day of Peace (January 1, 1988): *AAS* 80 (1988), 278-286.
 
-****. Cf. Encyclical Letter *Rerum Novarum*: 42: *loc. cit*., 99-105; 130f.; 135.
+**[32](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-W)**. Cf. Encyclical Letter *Rerum Novarum*: 42: *loc. cit*., 99-105; 130f.; 135.
 
-****. *Ibid.: loc. cit*., 125.
+**[33](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-X)**. *Ibid.: loc. cit*., 125.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 38-40: *loc. cit*., 564-569; cf. also John XXIII, Encyclical Letter *Mater et Magistra*, *loc. cit*., 407.
+**[34](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Y)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 38-40: *loc. cit*., 564-569; cf. also John XXIII, Encyclical Letter *Mater et Magistra*, *loc. cit*., 407.
 
-****. Cf. Leo XIII, Encyclical Letter *Rerum Novarum*: *loc. cit*., 114-116; Pius XI, Encyclical Letter *Quadragesimo Anno*, III, *loc. cit*., 208; Paul VI, Homily for the Closing of the Holy Year (December 25,1975): *AAS* 68 (1976), 145; Message for the 1977 World Day of Peace (January 1, 1977): *AAS* 68 (1976), 709.
+**[35](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Z)**. Cf. Leo XIII, Encyclical Letter *Rerum Novarum*: *loc. cit*., 114-116; Pius XI, Encyclical Letter *Quadragesimo Anno*, III, *loc. cit*., 208; Paul VI, Homily for the Closing of the Holy Year (December 25,1975): *AAS* 68 (1976), 145; Message for the 1977 World Day of Peace (January 1, 1977): *AAS* 68 (1976), 709.
 
-****. Encyclical Letter *Sollicitudo Rei Socialis*, 42*: loc. cit*., 572.
+**[36](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-10)**. Encyclical Letter *Sollicitudo Rei Socialis*, 42*: loc. cit*., 572.
 
-****. Cf. Encyclical Letter *Rerum Novarum*: *loc. cit*., 101f.; 104f.; 130f.; 136.
+**[37](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-11)**. Cf. Encyclical Letter *Rerum Novarum*: *loc. cit*., 101f.; 104f.; 130f.; 136.
 
-****. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 24.
+**[38](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-12)**. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 24.
 
-****. Encyclical Letter *Rerum Novarum*: *loc. cit*., 99.
+**[39](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-13)**. Encyclical Letter *Rerum Novarum*: *loc. cit*., 99.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 15, 28: *loc. cit*., 530; 548ff.
+**[40](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-14)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 15, 28: *loc. cit*., 530; 548ff.
 
-****. Cf. Encyclical Letter *Laborem Exercens*, 11-15: *loc. cit*., 602-618.
+**[41](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-15)**. Cf. Encyclical Letter *Laborem Exercens*, 11-15: *loc. cit*., 602-618.
 
-****. Pius XI, Encyclical Letter *Quadragesimo Anno*, III, 113: *loc. cit*., 213.
+**[42](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-16)**. Pius XI, Encyclical Letter *Quadragesimo Anno*, III, 113: *loc. cit*., 213.
 
-****. Cf. Encyclical Letter *Rerum Novarum*: *loc. cit*., 121-125.
+**[43](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-17)**. Cf. Encyclical Letter *Rerum Novarum*: *loc. cit*., 121-125.
 
-****. Cf. Encyclical Letter *Laborem Exercen* s, 20: loc. cit., 629-632; Discourse to the International Labor Organization (I.L.O.) in Geneva (June 15, 1982): *Insegnamenti* V/2 (1982), 2250-2266; Paul VI, Discourse to the same Organization (June 10, 1969): *AAS* 61 (1969), 491-502.
+**[44](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-18)**. Cf. Encyclical Letter *Laborem Exercen* s, 20: loc. cit., 629-632; Discourse to the International Labor Organization (I.L.O.) in Geneva (June 15, 1982): *Insegnamenti* V/2 (1982), 2250-2266; Paul VI, Discourse to the same Organization (June 10, 1969): *AAS* 61 (1969), 491-502.
 
-****. Cf. Encyclical Letter *Laborem Exercens*, 8: *loc. cit.*, 594-598.
+**[45](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-19)**. Cf. Encyclical Letter *Laborem Exercens*, 8: *loc. cit.*, 594-598.
 
-****. Cf. Pius XI, Encyclical Letter *Quadragesimo Anno*, 14: *loc. cit*., 178-181.
+**[46](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1A)**. Cf. Pius XI, Encyclical Letter *Quadragesimo Anno*, 14: *loc. cit*., 178-181.
 
-****. Cf. Encyclical Epistle *Arcanum Divinae Sapientiae* (February 10, 1880): *Leonis XIII P.M. Acta,* II, Romae 1882, 10-40; Encyclical Epistle *Diuturnum Illud* (June 29, 1881): *Leonis XIII P.M. Acta*, II, Romae 1882, 269287; Encyclical Epistle *Immortale Dei* (November 1, 1885): *Leonis XIII P.M. Acta,* V, Romae 1886, 118-150; Encyclical Letter *Sapientiae Christianae* (January 10, 1890): *Leonis XIII P.M. Acta*, X, Romae 1891,10-41; Encyclical Epistle *Quod Apostolici Muneris* (December 28,1878): *Leonis XIII P.M. Acta,* I, Romae 1881, 170-183; Encyclical Letter *Libertas Praestantissimum* (June 20, 1888): *Leonis XIII P.M. Acta*, VIII, Romae 1889, 212-246.
+**[47](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1B)**. Cf. Encyclical Epistle *Arcanum Divinae Sapientiae* (February 10, 1880): *Leonis XIII P.M. Acta,* II, Romae 1882, 10-40; Encyclical Epistle *Diuturnum Illud* (June 29, 1881): *Leonis XIII P.M. Acta*, II, Romae 1882, 269287; Encyclical Epistle *Immortale Dei* (November 1, 1885): *Leonis XIII P.M. Acta,* V, Romae 1886, 118-150; Encyclical Letter *Sapientiae Christianae* (January 10, 1890): *Leonis XIII P.M. Acta*, X, Romae 1891,10-41; Encyclical Epistle *Quod Apostolici Muneris* (December 28,1878): *Leonis XIII P.M. Acta,* I, Romae 1881, 170-183; Encyclical Letter *Libertas Praestantissimum* (June 20, 1888): *Leonis XIII P.M. Acta*, VIII, Romae 1889, 212-246.
 
-****. Cf. Leo XIII, Encyclical Letter *Libertas Praestantissimum*, 10: *loc. cit*., 224-226.
+**[48](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1C)**. Cf. Leo XIII, Encyclical Letter *Libertas Praestantissimum*, 10: *loc. cit*., 224-226.
 
-****. Cf. Message for the 1980 World Day of Peace: *AAS* 71 (1979),1572-1580.
+**[49](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1D)**. Cf. Message for the 1980 World Day of Peace: *AAS* 71 (1979),1572-1580.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 20: *loc. cit*., 536f.
+**[50](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1E)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 20: *loc. cit*., 536f.
 
-****. Cf. John XXIII, Encyclical Letter *Pacem in Terris* (April 11, 1963), III: *AAS* 55 (1963), 286-289.
+**[51](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1F)**. Cf. John XXIII, Encyclical Letter *Pacem in Terris* (April 11, 1963), III: *AAS* 55 (1963), 286-289.
 
-****. Cf. Universal Declaration of Human Rights, issued in 1948; John XXIII, Encyclical Letter *Pacem in Terris*, IV: *loc. cit*., 291-296; "Final Act" of the Conference on Cooperation and Security in Europe, Helsinki, 1975.
+**[52](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1G)**. Cf. Universal Declaration of Human Rights, issued in 1948; John XXIII, Encyclical Letter *Pacem in Terris*, IV: *loc. cit*., 291-296; "Final Act" of the Conference on Cooperation and Security in Europe, Helsinki, 1975.
 
-****. Cf. Paul VI, Encyclical Letter *Populorum Progressio* (March 26, 1967), 61-65: *AAS* 59 (1967), 287-289.
+**[53](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1H)**. Cf. Paul VI, Encyclical Letter *Populorum Progressio* (March 26, 1967), 61-65: *AAS* 59 (1967), 287-289.
 
-****. Cf. Message for the 1980 World Day of Peace: *loc. cit.*, 1572-1580.
+**[54](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1I)**. Cf. Message for the 1980 World Day of Peace: *loc. cit.*, 1572-1580.
 
-****. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 36; 39.
+**[55](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1J)**. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 36; 39.
 
-****. Cf. Apostolic Exhortation *Christifideles Laici* (December 30, 1988), 32-44: *AAS* 81 (1989), 431-481.
+**[56](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1K)**. Cf. Apostolic Exhortation *Christifideles Laici* (December 30, 1988), 32-44: *AAS* 81 (1989), 431-481.
 
-****. Cf. Encyclical Letter *Laborem Exercens*, 20: *loc. cit.*, 629-632.
+**[57](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1L)**. Cf. Encyclical Letter *Laborem Exercens*, 20: *loc. cit.*, 629-632.
 
-****. Cf Congregation for the Doctrine of the Faith, Instruction on Christian Freedom and Liberation *Libertatis Conscientia* (March 22, 1986): *AAS* 79 (1987), 554-599.
+**[58](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1M)**. Cf Congregation for the Doctrine of the Faith, Instruction on Christian Freedom and Liberation *Libertatis Conscientia* (March 22, 1986): *AAS* 79 (1987), 554-599.
 
-****. Cf. Discourse at the Headquarters of the E.C.W.A. on the occasion of the Tenth Anniversary of the "Appeal for the Sahel" (Ouagadougou, Burkina Faso, January 29, 1990): *AAS* 82 (1990), 816-821.
+**[59](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1N)**. Cf. Discourse at the Headquarters of the E.C.W.A. on the occasion of the Tenth Anniversary of the "Appeal for the Sahel" (Ouagadougou, Burkina Faso, January 29, 1990): *AAS* 82 (1990), 816-821.
 
-****. Cf. John XXIII, Encyclical Letter *Pacem in Terris*, III: *loc. cit.*, 286-288.
+**[60](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1O)**. Cf. John XXIII, Encyclical Letter *Pacem in Terris*, III: *loc. cit.*, 286-288.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 27-28: loc. cit., 547-550; Paul VI, Encyclical Letter *Populorum Progressio*, 43-44: *loc. cit.*, 278f.
+**[61](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1P)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 27-28: loc. cit., 547-550; Paul VI, Encyclical Letter *Populorum Progressio*, 43-44: *loc. cit.*, 278f.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 29-31: *loc. cit*., 550-556.
+**[62](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Q)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 29-31: *loc. cit*., 550-556.
 
-****. Cf. Helsinki Final Act and Vienna Accord; Leo XIII, Encyclical Letter *Libertas Praestantissimum*, 5: *loc. cit.*, 215-217.
+**[63](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1R)**. Cf. Helsinki Final Act and Vienna Accord; Leo XIII, Encyclical Letter *Libertas Praestantissimum*, 5: *loc. cit.*, 215-217.
 
-****. Cf. Encyclical Letter *Redemptoris Missio* (December 7, 1990), 7: *L'Osservatore Romano*, January 23, 1991.
+**[64](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1S)**. Cf. Encyclical Letter *Redemptoris Missio* (December 7, 1990), 7: *L'Osservatore Romano*, January 23, 1991.
 
-****. Cf. Encyclical Letter *Rerum Novarum: loc. cit*., 99-107; 131-133.
+**[65](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1T)**. Cf. Encyclical Letter *Rerum Novarum: loc. cit*., 99-107; 131-133.
 
-****.*Ibid*., 111-113f.
+**[66](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1U)**.*Ibid*., 111-113f.
 
-****. Cf. Pius XI, Encyclical Letter *Quadragesimo Anno*, II; *loc. cit*., 191; Pius XII, Radio Message on June 1,1941: *loc. cit.*, 199; John XXIII, Encyclical Letter *Mater et Magistra: loc. cit*., 428-429; Paul VI, Encyclical Letter *Populorum Progressio*, 22-24: *loc. cit.*, 268f.
+**[67](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1V)**. Cf. Pius XI, Encyclical Letter *Quadragesimo Anno*, II; *loc. cit*., 191; Pius XII, Radio Message on June 1,1941: *loc. cit.*, 199; John XXIII, Encyclical Letter *Mater et Magistra: loc. cit*., 428-429; Paul VI, Encyclical Letter *Populorum Progressio*, 22-24: *loc. cit.*, 268f.
 
-****. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 69; 71.
+**[68](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1W)**. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 69; 71.
 
-****. Cf. Discourse to Latin American Bishops at Puebla (January 28, 1979), III, 4: *AAS* 71 (1979), 199-201; Encyclical Letter *Laborem Exercens*, 14: *loc. cit.*, 612-616; Encyclical Letter *Sollicitudo Rei Socialis*, 42: *loc. cit*., 572-574.
+**[69](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1X)**. Cf. Discourse to Latin American Bishops at Puebla (January 28, 1979), III, 4: *AAS* 71 (1979), 199-201; Encyclical Letter *Laborem Exercens*, 14: *loc. cit.*, 612-616; Encyclical Letter *Sollicitudo Rei Socialis*, 42: *loc. cit*., 572-574.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 15: *loc. cit*., 528-531.
+**[70](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Y)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 15: *loc. cit*., 528-531.
 
-****. Cf. Encyclical Letter *Laborem Exercens*, 21: *loc. cit.*, 632-634.
+**[71](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Z)**. Cf. Encyclical Letter *Laborem Exercens*, 21: *loc. cit.*, 632-634.
 
-****. Cf. Paul VI, Encyclical Letter *Populorum Progressio*, 33-42: *loc. cit.*, 273-278.
+**[72](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-20)**. Cf. Paul VI, Encyclical Letter *Populorum Progressio*, 33-42: *loc. cit.*, 273-278.
 
-****. Cf. Encyclical Letter *Laborem Exercens*, 7: *loc. cit.*, 592-594.
+**[73](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-21)**. Cf. Encyclical Letter *Laborem Exercens*, 7: *loc. cit.*, 592-594.
 
-****. Cf. *ibid*., 8: *loc. cit*., 594-598.
+**[74](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-22)**. Cf. *ibid*., 8: *loc. cit*., 594-598.
 
-****. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 35; Paul VI, Encyclical Letter *Populorum Progressio*, 19: *loc. cit*., 266f.
+**[75](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-23)**. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 35; Paul VI, Encyclical Letter *Populorum Progressio*, 19: *loc. cit*., 266f.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 34: *loc. cit.*, 559f.; Message for the 1990 World Day of Peace: *AAS* 82 (1990), 147-156.
+**[76](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-24)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 34: *loc. cit.*, 559f.; Message for the 1990 World Day of Peace: *AAS* 82 (1990), 147-156.
 
-****. Cf. Apostolic Exhortation *Reconciliatio et Poenitentia* (December 2,1984),16:*AAS* 77 (1985), 213-217; Pius XI, Encyclical Letter *Quadragesimo Anno*, III: *loc. cit*., 219.
+**[77](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-25)**. Cf. Apostolic Exhortation *Reconciliatio et Poenitentia* (December 2,1984),16:*AAS* 77 (1985), 213-217; Pius XI, Encyclical Letter *Quadragesimo Anno*, III: *loc. cit*., 219.
 
-****. Encyclical Letter *Sollicitudo Rei Socialis,* 25: *loc. cit.*, 544.
+**[78](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-26)**. Encyclical Letter *Sollicitudo Rei Socialis,* 25: *loc. cit.*, 544.
 
-****. Cf. *ibid*., 34: *loc. cit.*, 559f.
+**[79](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-27)**. Cf. *ibid*., 34: *loc. cit.*, 559f.
 
-****. Cf. Encyclical Letter *Redemptor Hominis* (March 4,1979),15: *AAS* 71 (1979), 286-289.
+**[80](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-28)**. Cf. Encyclical Letter *Redemptor Hominis* (March 4,1979),15: *AAS* 71 (1979), 286-289.
 
-****. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 24.
+**[81](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-29)**. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 24.
 
-****. Cf. *ibid*., 41.
+**[82](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2A)**. Cf. *ibid*., 41.
 
-****. Cf. *ibid*., 26.
+**[83](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2B)**. Cf. *ibid*., 26.
 
-****. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 36; Paul VI, Apostolic Epistle *Octogesima Adveniens*, 2-5: *loc. cit.*, 402-405.
+**[84](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2C)**. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 36; Paul VI, Apostolic Epistle *Octogesima Adveniens*, 2-5: *loc. cit.*, 402-405.
 
-****. Cf. Encyclical Letter *Laborem Exercens*, 15: *loc. cit.*, 616-618.
+**[85](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2D)**. Cf. Encyclical Letter *Laborem Exercens*, 15: *loc. cit.*, 616-618.
 
-****. Cf. *ibid*., 10: *loc. cit*., 600-602.
+**[86](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2E)**. Cf. *ibid*., 10: *loc. cit*., 600-602.
 
-****. *Ibid*., 14: *loc. cit.*, 612-616.
+**[87](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2F)**. *Ibid*., 14: *loc. cit.*, 612-616.
 
-****. Cf. *ibid*., 18: *loc. cit.*, 622-625.
+**[88](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2G)**. Cf. *ibid*., 18: *loc. cit.*, 622-625.
 
-****. Cf. Encyclical Letter *Rerum Novarum: loc. cit.*, 126-128.
+**[89](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2H)**. Cf. Encyclical Letter *Rerum Novarum: loc. cit.*, 126-128.
 
-****. *Ibid*., 121 f.
+**[90](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2I)**. *Ibid*., 121 f.
 
-****. Cf. Leo XIII, Encyclical Letter *Libertas Praestantissimum*: *loc. cit.*, 224-226.
+**[91](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2J)**. Cf. Leo XIII, Encyclical Letter *Libertas Praestantissimum*: *loc. cit.*, 224-226.
 
-****. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 76.
+**[92](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2K)**. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 76.
 
-****. Cf. *ibid*., 29; Pius XII, Christmas Radio Message on December 24, 1944: *AAS* 37 (1945), 10-20.
+**[93](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2L)**. Cf. *ibid*., 29; Pius XII, Christmas Radio Message on December 24, 1944: *AAS* 37 (1945), 10-20.
 
-****. Cf. Second Vatican Ecumenical Council, Declaration on Religious Freedom *Dignitatis Humanae*.
+**[94](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2M)**. Cf. Second Vatican Ecumenical Council, Declaration on Religious Freedom *Dignitatis Humanae*.
 
-****. Cf. Encyclical Letter *Redemptoris Missio*, l l: *L'OsservatoreRomano*, January 23, 1991.
+**[95](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2N)**. Cf. Encyclical Letter *Redemptoris Missio*, l l: *L'OsservatoreRomano*, January 23, 1991.
 
-****. Cf. Encyclical Letter *Redemptor Hominis*, 17: *loc. cit.*, 270-272.
+**[96](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2O)**. Cf. Encyclical Letter *Redemptor Hominis*, 17: *loc. cit.*, 270-272.
 
-****. Cf. Message for the 1988 World Day of Peace: *loc. cit.*, 1572-1580; Message for the 1991 World Day of Peace: *L'OsservatoreRomano*, December 19, 1990; Second Vatican Ecumenical Council, Declaration on Religious Freedom *Dignitatis Humanae*, 1-2.
+**[97](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2P)**. Cf. Message for the 1988 World Day of Peace: *loc. cit.*, 1572-1580; Message for the 1991 World Day of Peace: *L'OsservatoreRomano*, December 19, 1990; Second Vatican Ecumenical Council, Declaration on Religious Freedom *Dignitatis Humanae*, 1-2.
 
-****. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 26.
+**[98](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Q)**. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 26.
 
-****. Cf. *ibid*., 22.
+**[99](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2R)**. Cf. *ibid*., 22.
 
-****. Pius XI, Encyclical Letter *Quadragesimo Anno*, I: *loc. cit.*, 184-186.
+**[100](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2S)**. Pius XI, Encyclical Letter *Quadragesimo Anno*, I: *loc. cit.*, 184-186.
 
-****. Cf. Apostolic Exhortation *Familiaris Consortio* (November 22, 1981), 45: *AAS* 74 (1982), 136f.
+**[101](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2T)**. Cf. Apostolic Exhortation *Familiaris Consortio* (November 22, 1981), 45: *AAS* 74 (1982), 136f.
 
-****. Cf. Discourse to UNESCO (June 2, 1980): AAS 72 (1980), 735-752.
+**[102](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2U)**. Cf. Discourse to UNESCO (June 2, 1980): AAS 72 (1980), 735-752.
 
-****. Cf. Encyclical Letter *Redemptoris Missio,* 39; 52 *L'Osservatore Romano*, January 23, 1991.
+**[103](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2V)**. Cf. Encyclical Letter *Redemptoris Missio,* 39; 52 *L'Osservatore Romano*, January 23, 1991.
 
-****. Cf. Benedict XV, Exhortation *Ubi Primum* (September 8, 1914): *AAS* 6 (1914), 501f.; Pius XI, Radio Message to the Catholic Faithful and to the entire world (September 29, 1938): *AAS* 30 (1938), 309f.; Pius XII, Radio Message to the entire world (August 24, 1939): *AAS* 31 (1939), 333-335; John XXIII, Encyclical Letter *Pacem in Terris*, III: *loc. cit.*, 285-289; Paul VI, Discourse at the United Nations (October 4, 1965): *AAS* 57 (1965), 877-885.
+**[104](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2W)**. Cf. Benedict XV, Exhortation *Ubi Primum* (September 8, 1914): *AAS* 6 (1914), 501f.; Pius XI, Radio Message to the Catholic Faithful and to the entire world (September 29, 1938): *AAS* 30 (1938), 309f.; Pius XII, Radio Message to the entire world (August 24, 1939): *AAS* 31 (1939), 333-335; John XXIII, Encyclical Letter *Pacem in Terris*, III: *loc. cit.*, 285-289; Paul VI, Discourse at the United Nations (October 4, 1965): *AAS* 57 (1965), 877-885.
 
-****. Cf. Paul VI, Encyclical Letter *Populorum Progressio*, 76-77: *loc. cit.,* 294f.
+**[105](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2X)**. Cf. Paul VI, Encyclical Letter *Populorum Progressio*, 76-77: *loc. cit.,* 294f.
 
-****. Cf. Apostolic Exhortation *Familiaris Consortio*, 48: *loc. cit*., 139f.
+**[106](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Y)**. Cf. Apostolic Exhortation *Familiaris Consortio*, 48: *loc. cit*., 139f.
 
-****. Encyclical Letter *Rerum Novarum: loc. cit.*, 107.
+**[107](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Z)**. Encyclical Letter *Rerum Novarum: loc. cit.*, 107.
 
-****. Cf. Encyclical Letter *Redemptor Hominis,* 13: *loc. cit.*, 283.
+**[108](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-30)**. Cf. Encyclical Letter *Redemptor Hominis,* 13: *loc. cit.*, 283.
 
-****. *Ibid*., 14: *loc. cit.*, 284f.
+**[109](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-31)**. *Ibid*., 14: *loc. cit.*, 284f.
 
-****. Paul VI, Homily at the Final Public Session of the Second Vatican Ecumenical Council (December 7, 1965): *AAS* 58 (1966), 58.
+**[110](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-32)**. Paul VI, Homily at the Final Public Session of the Second Vatican Ecumenical Council (December 7, 1965): *AAS* 58 (1966), 58.
 
-****. Encyclical Letter *Sollicitudo Rei Socialis*, 41: *loc. cit*., 571.
+**[111](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-33)**. Encyclical Letter *Sollicitudo Rei Socialis*, 41: *loc. cit*., 571.
 
-****. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 76; cf. John Paul II, Encyclical Letter *Redemptor Hominis*, 13: *loc. cit.*, 283.
+**[112](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-34)**. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the World of Today *Gaudium et Spes*, 76; cf. John Paul II, Encyclical Letter *Redemptor Hominis*, 13: *loc. cit.*, 283.
 
-****. Encyclical Letter *Rerum Novarum*: *loc. cit*., 143.
+**[113](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-35)**. Encyclical Letter *Rerum Novarum*: *loc. cit*., 143.
 
-****. *Ibid*., 107.
+**[114](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-36)**. *Ibid*., 107.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 38: *loc. cit*., 564566.
+**[115](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-37)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 38: *loc. cit*., 564566.
 
-****. *Ibid*., 47: *loc. cit.,* 582.
+**[116](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-38)**. *Ibid*., 47: *loc. cit.,* 582.

@@ -1,25 +1,24 @@
 ---
-title: Luke, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Luke, Chapter 7
+title: Luke, Chapter 7
+url: https://bible.usccb.org/bible/luke/7
 aliases:
   - luke-07
   - Luke, Chapter 7
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/7
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 7
 ---
 
 # Luke, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **The Healing of a Centurion’s Slave.**
 

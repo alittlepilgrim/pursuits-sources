@@ -1,10 +1,7 @@
 ---
-title: Penance, Sacrament Of
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: penance-sacrament-of. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Penance, Sacrament Of
+author:
 aliases:
   - penance-sacrament-of
   - Penance, Sacrament of
@@ -12,6 +9,11 @@ aliases:
 tags:
   - catechism
   - term/penance-sacrament-of
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: penance-sacrament-of. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Penance, Sacrament of

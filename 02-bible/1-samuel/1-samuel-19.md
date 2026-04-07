@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 19
+title: 1 Samuel, Chapter 19
+url: https://bible.usccb.org/bible/1samuel/19
 aliases:
   - 1 Samuel, Chapter 19
   - 1-samuel-19
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/19
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 19
 ---
 
 # 1 Samuel, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **Persecution of David.**
 
@@ -31,9 +30,9 @@ url: https://bible.usccb.org/bible/1samuel/19
 
 4 Jonathan then spoke well of David to his father Saul, telling him: “The king should not harm his servant David. He has not harmed you, but has helped you very much by his deeds. ^1-samuel-19-4
 
-5 When he took his life in his hands and killed the Philistine, and the L ORD won a great victory for all Israel, you were glad to see it. Why, then, should you become guilty of shedding innocent blood by killing David without cause?” ^1-samuel-19-5
+5 When he took his life in his hands and killed the Philistine, and the LORD won a great victory for all Israel, you were glad to see it. Why, then, should you become guilty of shedding innocent blood by killing David without cause?” ^1-samuel-19-5
 
-6 Saul heeded Jonathan’s plea and swore, “As the L ORD lives, he shall not be killed.” ^1-samuel-19-6
+6 Saul heeded Jonathan’s plea and swore, “As the LORD lives, he shall not be killed.” ^1-samuel-19-6
 
 7 So Jonathan summoned David and repeated the whole conversation to him. He then brought David to Saul, and David served him as before. ^1-samuel-19-7
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/1samuel/19
 
 8 When war broke out again, David went out to fight against the Philistines and inflicted such a great defeat upon them that they fled from him. ^1-samuel-19-8
 
-9 Then an evil spirit from the L ORD came upon Saul as he was sitting in his house with spear in hand while David was playing the harp nearby. ^1-samuel-19-9
+9 Then an evil spirit from the LORD came upon Saul as he was sitting in his house with spear in hand while David was playing the harp nearby. ^1-samuel-19-9
 
 10 Saul tried to pin David to the wall with the spear, but David eluded Saul, and the spear struck only the wall, while David got away safely. ^1-samuel-19-10
 

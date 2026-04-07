@@ -1,26 +1,26 @@
 ---
-title: Zephaniah, The Book of Zephaniah
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Zephaniah, the Book of Zephaniah
+title: Zephaniah, The Book of Zephaniah
+url: https://bible.usccb.org/bible/zephaniah/0
 aliases:
   - 20250730-154646
   - zephaniah-00
   - Zephaniah, the Book of Zephaniah
   - Zephaniah, The Book Of Zephaniah
 tags:
+  - bible/book
+  - bible/old-testament
   - bible/zephaniah
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/zephaniah/0
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zephaniah, the Book of Zephaniah
 ---
 
 # Zephaniah, the Book of Zephaniah
 
-   
+[Introduction](zephaniah-00.md) [1](zephaniah-01.md) [2](zephaniah-02.md) [3](zephaniah-03.md)
 
 ## The Book of Zephaniah
 

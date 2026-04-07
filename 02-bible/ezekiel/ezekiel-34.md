@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 34
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 34
+title: Ezekiel, Chapter 34
+url: https://bible.usccb.org/bible/ezekiel/34
 aliases:
   - ezekiel-34
   - Ezekiel, Chapter 34
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/34
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 34
 ---
 
 # Ezekiel, Chapter 34
 
-### Chapter 34
+## Chapter 34
 
 **Parable of the Shepherds.**
 
-1 The word of the L ORD came to me: ^ezekiel-34-1
+1 The word of the LORD came to me: ^ezekiel-34-1
 
 2 Son of man, prophesy against the shepherds of Israel. Prophesy and say to them: To the shepherds, thus says the Lord G OD: Woe to the shepherds of Israel who have been pasturing themselves! Should not shepherds pasture the flock? ^ezekiel-34-2
 
@@ -35,11 +34,11 @@ url: https://bible.usccb.org/bible/ezekiel/34
 
 6 and wandered over all the mountains and high hills; over the entire surface of the earth my sheep were scattered. No one looked after them or searched for them. ^ezekiel-34-6
 
-7 Therefore, shepherds, hear the word of the L ORD: ^ezekiel-34-7
+7 Therefore, shepherds, hear the word of the LORD: ^ezekiel-34-7
 
 8 As I live—oracle of the Lord G OD —because my sheep became plunder, because my sheep became food for wild beasts, for lack of a shepherd, because my shepherds did not look after my sheep, but pastured themselves and did not pasture my sheep, ^ezekiel-34-8
 
-9 therefore, shepherds, hear the word of the L ORD: ^ezekiel-34-9
+9 therefore, shepherds, hear the word of the LORD: ^ezekiel-34-9
 
 10 Thus says the Lord G OD: Look! I am coming against these shepherds. I will take my sheep out of their hand and put a stop to their shepherding my flock, so that these shepherds will no longer pasture them. I will deliver my flock from their mouths so it will not become their food. ^ezekiel-34-10
 
@@ -71,19 +70,19 @@ url: https://bible.usccb.org/bible/ezekiel/34
 
 23 I will appoint one shepherd over them to pasture them, my servant David; he shall pasture them and be their shepherd. ^ezekiel-34-23
 
-24 I, the L ORD, will be their God, and my servant David will be prince in their midst. I, the L ORD, have spoken. ^ezekiel-34-24
+24 I, the LORD, will be their God, and my servant David will be prince in their midst. I, the LORD, have spoken. ^ezekiel-34-24
 
 25 I will make a covenant of peace with them and rid the country of wild beasts so they will dwell securely in the wilderness and sleep in the forests. ^ezekiel-34-25
 
 26 I will settle them around my hill and send rain in its season, the blessing of abundant rain. ^ezekiel-34-26
 
-27 The trees of the field shall bear their fruits, and the land its crops, and they shall dwell securely on their own soil. They shall know that I am the L ORD when I break the bars of their yoke and deliver them from the power of those who enslaved them. ^ezekiel-34-27
+27 The trees of the field shall bear their fruits, and the land its crops, and they shall dwell securely on their own soil. They shall know that I am the LORD when I break the bars of their yoke and deliver them from the power of those who enslaved them. ^ezekiel-34-27
 
 28 They shall no longer be plundered by the nations nor will wild beasts devour them, but they shall dwell securely, with no one to frighten them. ^ezekiel-34-28
 
 29 I will prepare for them peaceful fields for planting so they are never again swept away by famine in the land or bear taunts from the nations. ^ezekiel-34-29
 
-30 Thus they shall know that I, the L ORD, their God, am with them, and that they are my people, the house of Israel—oracle of the Lord G OD. ^ezekiel-34-30
+30 Thus they shall know that I, the LORD, their God, am with them, and that they are my people, the house of Israel—oracle of the Lord G OD. ^ezekiel-34-30
 
 31 Yes, you are my flock: you people are the flock of my pasture, and I am your God—oracle of the Lord G OD. ^ezekiel-34-31
 

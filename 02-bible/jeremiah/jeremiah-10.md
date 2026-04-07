@@ -1,31 +1,30 @@
 ---
-title: Jeremiah, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 10
+title: Jeremiah, Chapter 10
+url: https://bible.usccb.org/bible/jeremiah/10
 aliases:
   - jeremiah-10
   - Jeremiah, Chapter 10
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 10
 ---
 
 # Jeremiah, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **The Folly of Idolatry.**
 
-1 Hear the word the L ORD speaks to you, house of Israel. ^jeremiah-10-1
+1 Hear the word the LORD speaks to you, house of Israel. ^jeremiah-10-1
 
-2 Thus says the L ORD: ^jeremiah-10-2
+2 Thus says the LORD: ^jeremiah-10-2
 
 Do not learn the ways of the nations,
 
@@ -57,7 +56,7 @@ Do not fear them, they can do no harm,
 
 neither can they do good.
 
-6 No one is like you, L ORD, ^jeremiah-10-6
+6 No one is like you, LORD, ^jeremiah-10-6
 
 you are great,
 
@@ -91,7 +90,7 @@ Clothed with violet and purple—
 
 all of them the work of skilled workers.
 
-10 The L ORD is truly God, ^jeremiah-10-10
+10 The LORD is truly God, ^jeremiah-10-10
 
 he is the living God, the eternal King,
 
@@ -133,15 +132,15 @@ for he is the maker of everything!
 
 Israel is his very own tribe,
 
-L ORD of hosts is his name.
+LORD of hosts is his name.
 
-#### Abandonment of Judah
+### Abandonment of Judah
 
 17 Gather up your bundle from the land, ^jeremiah-10-17
 
 City living under siege!
 
-18 For thus says the L ORD: ^jeremiah-10-18
+18 For thus says the LORD: ^jeremiah-10-18
 
 Now, at this time
 
@@ -171,7 +170,7 @@ no one to raise its curtains.
 
 21 How stupid are the shepherds! ^jeremiah-10-21
 
-The L ORD they have not sought;
+The LORD they have not sought;
 
 For this reason they have failed,
 
@@ -185,9 +184,9 @@ To make the cities of Judah a desolation,
 
 the haunt of jackals.
 
-#### Prayer of Jeremiah
+### Prayer of Jeremiah
 
-23 I know, L ORD, ^jeremiah-10-23
+23 I know, LORD, ^jeremiah-10-23
 
 that no one chooses their way,
 
@@ -195,7 +194,7 @@ Nor determines their course
 
 nor directs their own step.
 
-24 Correct me, L ORD, but with equity, ^jeremiah-10-24
+24 Correct me, LORD, but with equity, ^jeremiah-10-24
 
 not in anger, lest you diminish me.
 

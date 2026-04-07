@@ -1,15 +1,17 @@
 ---
-title: Preface  - Treatise on the Love of God by St. Francis de Sales
-slug: preface
-created: 2026-04-02
-modified: 2026-04-02
 type: book
-publish: false
-description: Preface  - Treatise on the Love of God by St. Francis de Sales
+title: Preface  - Treatise on the Love of God by St. Francis de Sales
+author: Saint Francis de Sales
 aliases:
   - Preface  - Treatise on the Love of God by St. Francis de Sales
+tags:
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-02
+modified: 2026-04-06
+publish: false
+description: Preface  - Treatise on the Love of God by St. Francis de Sales
 attachment: false
-author: Saint Francis de Sales
 ---
 
 # Preface - Treatise on the Love of God by St. Francis de Sales

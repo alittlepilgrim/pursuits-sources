@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 28
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 28
+title: Isaiah, Chapter 28
+url: https://bible.usccb.org/bible/isaiah/28
 aliases:
   - isaiah-28
   - Isaiah, Chapter 28
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/28
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 28
 ---
 
 # Isaiah, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
-#### The Fate of Samaria
+### The Fate of Samaria
 
 1 Ah! majestic garland ^isaiah-28-1
 
@@ -33,7 +32,7 @@ at the head of the fertile valley,
 
 upon those stupefied with wine.
 
-2 See, the L ORD has a strong one, a mighty one, ^isaiah-28-2
+2 See, the LORD has a strong one, a mighty one, ^isaiah-28-2
 
 who, like an onslaught of hail, a destructive storm,
 
@@ -55,7 +54,7 @@ whoever sees it,
 
 swallows it as soon as it is in hand.
 
-5 On that day the L ORD of hosts ^isaiah-28-5
+5 On that day the LORD of hosts ^isaiah-28-5
 
 will be a glorious crown
 
@@ -71,7 +70,7 @@ And strength for those
 
 who turn back the battle at the gate.
 
-#### Against Judah
+### Against Judah
 
 7 But these also stagger from wine ^isaiah-28-7
 
@@ -123,7 +122,7 @@ And this is the place of repose”—
 
 but they refused to hear.
 
-13 So for them the word of the L ORD shall be: ^isaiah-28-13
+13 So for them the word of the LORD shall be: ^isaiah-28-13
 
 “Command on command, command on command,
 
@@ -135,7 +134,7 @@ So that when they walk, they shall stumble backward,
 
 broken, ensnared, and captured.
 
-14 Therefore, hear the word of the L ORD, you scoffers, ^isaiah-28-14
+14 Therefore, hear the word of the LORD, you scoffers, ^isaiah-28-14
 
 who rule this people in Jerusalem:
 
@@ -191,7 +190,7 @@ to impart the message!
 
 and the cover too narrow to wrap in.
 
-21 For the L ORD shall rise up as on Mount Perazim, ^isaiah-28-21
+21 For the LORD shall rise up as on Mount Perazim, ^isaiah-28-21
 
 bestir himself as in the Valley of Gibeon,
 
@@ -209,7 +208,7 @@ from the Lord, the G OD of hosts,
 
 for the whole land.
 
-#### The Parable of the Farmer
+### The Parable of the Farmer
 
 23 Give ear and hear my voice, ^isaiah-28-23
 
@@ -247,7 +246,7 @@ and drive his cartwheel and horses over it,
 
 he does not pulverize it.
 
-29 This too comes from the L ORD of hosts; ^isaiah-28-29
+29 This too comes from the LORD of hosts; ^isaiah-28-29
 
 wonderful is his counsel and great his wisdom.
 

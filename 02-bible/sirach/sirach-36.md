@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 36
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 36
+title: Sirach, Chapter 36
+url: https://bible.usccb.org/bible/sirach/36
 aliases:
   - sirach-36
   - Sirach, Chapter 36
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/36
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 36
 ---
 
 # Sirach, Chapter 36
 
-### Chapter 36
+## Chapter 36
 
-#### A Prayer for God’s People
+### A Prayer for God’s People
 
 1 Come to our aid, O God of the universe, ^sirach-36-1
 
@@ -91,7 +90,7 @@ Thus all the ends of the earth will know
 
 that you are the eternal God.
 
-#### Choice of Associates
+### Choice of Associates
 
 23 The throat can swallow any food, ^sirach-36-23
 

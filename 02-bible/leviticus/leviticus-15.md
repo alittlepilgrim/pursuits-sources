@@ -1,29 +1,28 @@
 ---
-title: Leviticus, Chapter 15
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 15
+title: Leviticus, Chapter 15
+url: https://bible.usccb.org/bible/leviticus/15
 aliases:
   - leviticus-15
   - Leviticus, Chapter 15
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/15
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 15
 ---
 
 # Leviticus, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Sexual Uncleanness.**
 
-1 The L ORD said to Moses and Aaron: ^leviticus-15-1
+1 The LORD said to Moses and Aaron: ^leviticus-15-1
 
 2 Speak to the Israelites and tell them: When any man has a genital discharge, he is thereby unclean. ^leviticus-15-2
 
@@ -49,9 +48,9 @@ url: https://bible.usccb.org/bible/leviticus/15
 
 13 When a man with a discharge becomes clean of his discharge, he shall count seven days for his purification. Then he shall wash his garments and bathe his body in fresh water, and so he will be clean. ^leviticus-15-13
 
-14 On the eighth day he shall take two turtledoves or two pigeons, and going before the L ORD, to the entrance of the tent of meeting, he shall give them to the priest, ^leviticus-15-14
+14 On the eighth day he shall take two turtledoves or two pigeons, and going before the LORD, to the entrance of the tent of meeting, he shall give them to the priest, ^leviticus-15-14
 
-15 who shall offer them up, the one as a purification offering and the other as a burnt offering. Thus shall the priest make atonement before the L ORD for the man because of his discharge. ^leviticus-15-15
+15 who shall offer them up, the one as a purification offering and the other as a burnt offering. Thus shall the priest make atonement before the LORD for the man because of his discharge. ^leviticus-15-15
 
 16 When a man has an emission of semen, he shall bathe his whole body in water and be unclean until evening. ^leviticus-15-16
 
@@ -81,7 +80,7 @@ url: https://bible.usccb.org/bible/leviticus/15
 
 29 On the eighth day she shall take two turtledoves or two pigeons and bring them to the priest at the entrance of the tent of meeting. ^leviticus-15-29
 
-30 The priest shall offer one of them as a purification offering and the other as a burnt offering. Thus shall the priest make atonement before the L ORD for her because of her unclean flow. ^leviticus-15-30
+30 The priest shall offer one of them as a purification offering and the other as a burnt offering. Thus shall the priest make atonement before the LORD for her because of her unclean flow. ^leviticus-15-30
 
 31 You shall warn the Israelites of their uncleanness, lest they die through their uncleanness by defiling my tabernacle, which is in their midst. ^leviticus-15-31
 

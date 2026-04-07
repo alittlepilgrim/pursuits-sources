@@ -1,35 +1,34 @@
 ---
-title: Numbers, Chapter 33
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 33
+title: Numbers, Chapter 33
+url: https://bible.usccb.org/bible/numbers/33
 aliases:
   - numbers-33
   - Numbers, Chapter 33
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/33
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 33
 ---
 
 # Numbers, Chapter 33
 
-### Chapter 33
+## Chapter 33
 
 **Stages of the Journey.**
 
 1 The following are the stages by which the Israelites went out by companies from the land of Egypt under the guidance of Moses and Aaron. ^numbers-33-1
 
-2 Moses recorded the starting points of the various stages at the direction of the L ORD. These are the stages according to their starting points: ^numbers-33-2
+2 Moses recorded the starting points of the various stages at the direction of the LORD. These are the stages according to their starting points: ^numbers-33-2
 
 3 They set out from Rameses in the first month, on the fifteenth day of the first month. On the day after the Passover the Israelites went forth in triumph, in view of all Egypt, ^numbers-33-3
 
-4 while the Egyptians buried those whom the L ORD had struck down, every firstborn; on their gods, too, the L ORD executed judgments. ^numbers-33-4
+4 while the Egyptians buried those whom the LORD had struck down, every firstborn; on their gods, too, the LORD executed judgments. ^numbers-33-4
 
 **From Egypt to Sinai.**
 
@@ -103,7 +102,7 @@ url: https://bible.usccb.org/bible/numbers/33
 
 37 Setting out from Kadesh, they camped at Mount Hor on the border of the land of Edom. ^numbers-33-37
 
-38 Aaron the priest ascended Mount Hor at the L ORD’s direction, and there he died in the fortieth year after the departure of the Israelites from the land of Egypt, on the first day of the fifth month. ^numbers-33-38
+38 Aaron the priest ascended Mount Hor at the LORD’s direction, and there he died in the fortieth year after the departure of the Israelites from the land of Egypt, on the first day of the fifth month. ^numbers-33-38
 
 39 Aaron was a hundred and twenty-three years old when he died on Mount Hor. ^numbers-33-39
 
@@ -129,7 +128,7 @@ url: https://bible.usccb.org/bible/numbers/33
 
 **Conquest and Division of Canaan.**
 
-50 The L ORD spoke to Moses on the plains of Moab by the Jordan opposite Jericho: ^numbers-33-50
+50 The LORD spoke to Moses on the plains of Moab by the Jordan opposite Jericho: ^numbers-33-50
 
 51 Speak to the Israelites and say to them: When you go across the Jordan into the land of Canaan, ^numbers-33-51
 

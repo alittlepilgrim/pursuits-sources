@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 15
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 15
+title: Judges, Chapter 15
+url: https://bible.usccb.org/bible/judges/15
 aliases:
   - judges-15
   - Judges, Chapter 15
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/15
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 15
 ---
 
 # Judges, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Samson Defeats the Philistines.**
 
@@ -49,7 +48,7 @@ url: https://bible.usccb.org/bible/judges/15
 
 13 “No,” they replied, “we will only bind you and hand you over to them. We will certainly not kill you.” So they bound him with two new ropes and brought him up from the crag. ^judges-15-13
 
-14 When he reached Lehi, and the Philistines came shouting to meet him, the spirit of the L ORD rushed upon him: the ropes around his arms became like flax that is consumed by fire, and his bonds melted away from his hands. ^judges-15-14
+14 When he reached Lehi, and the Philistines came shouting to meet him, the spirit of the LORD rushed upon him: the ropes around his arms became like flax that is consumed by fire, and his bonds melted away from his hands. ^judges-15-14
 
 15 Coming upon the fresh jawbone of an ass, he reached out, grasped it, and with it killed a thousand men. ^judges-15-15
 
@@ -65,7 +64,7 @@ I have slain a thousand men.”
 
 17 As he finished speaking he threw the jawbone from him; and so that place was named Ramath-lehi. ^judges-15-17
 
-18 Being very thirsty, he cried to the L ORD and said, “You have put this great victory into the hand of your servant. Must I now die of thirst and fall into the hands of the uncircumcised?” ^judges-15-18
+18 Being very thirsty, he cried to the LORD and said, “You have put this great victory into the hand of your servant. Must I now die of thirst and fall into the hands of the uncircumcised?” ^judges-15-18
 
 19 Then God split the cavity in Lehi, and water issued from it, and Samson drank till his spirit returned and he revived. Hence it is called En-hakkore in Lehi to this day. ^judges-15-19
 

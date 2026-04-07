@@ -1,25 +1,25 @@
 ---
-title: Nehemiah, The Book of Nehemiah
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, the Book of Nehemiah
+title: Nehemiah, The Book of Nehemiah
+url: https://bible.usccb.org/bible/nehemiah/0
 aliases:
   - nehemiah-00
   - Nehemiah, the Book of Nehemiah
   - Nehemiah, The Book of Nehemiah
 tags:
+  - bible/book
   - bible/nehemiah
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, the Book of Nehemiah
 ---
 
 # Nehemiah, the Book of Nehemiah
 
-             
+[Introduction](nehemiah-00.md) [1](nehemiah-01.md) [2](nehemiah-02.md) [3](nehemiah-03.md) [4](nehemiah-04.md) [5](nehemiah-05.md) [6](nehemiah-06.md) [7](nehemiah-07.md) [8](nehemiah-08.md) [9](nehemiah-09.md) [10](nehemiah-10.md) [11](nehemiah-11.md) [12](nehemiah-12.md) [13](nehemiah-13.md)
 
 ## The Book of Nehemiah
 

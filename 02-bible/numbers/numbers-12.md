@@ -1,39 +1,38 @@
 ---
-title: Numbers, Chapter 12
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 12
+title: Numbers, Chapter 12
+url: https://bible.usccb.org/bible/numbers/12
 aliases:
   - numbers-12
   - Numbers, Chapter 12
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 12
 ---
 
 # Numbers, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **Jealousy of Aaron and Miriam.**
 
 1 Miriam and Aaron spoke against Moses on the pretext of the Cushite woman he had married; for he had in fact married a Cushite woman. ^numbers-12-1
 
-2 They complained, “Is it through Moses alone that the L ORD has spoken? Has he not spoken through us also?” And the L ORD heard this. ^numbers-12-2
+2 They complained, “Is it through Moses alone that the LORD has spoken? Has he not spoken through us also?” And the LORD heard this. ^numbers-12-2
 
 3 Now the man Moses was very humble, more than anyone else on earth. ^numbers-12-3
 
-4 So at once the L ORD said to Moses and Aaron and Miriam: Come out, you three, to the tent of meeting. And the three of them went. ^numbers-12-4
+4 So at once the LORD said to Moses and Aaron and Miriam: Come out, you three, to the tent of meeting. And the three of them went. ^numbers-12-4
 
-5 Then the L ORD came down in a column of cloud, and standing at the entrance of the tent, called, “Aaron and Miriam.” When both came forward, ^numbers-12-5
+5 Then the LORD came down in a column of cloud, and standing at the entrance of the tent, called, “Aaron and Miriam.” When both came forward, ^numbers-12-5
 
-6 the L ORD said: Now listen to my words: ^numbers-12-6
+6 the LORD said: Now listen to my words: ^numbers-12-6
 
 If there are prophets among you,
 
@@ -49,11 +48,11 @@ Throughout my house he is worthy of trust:
 
 plainly and not in riddles.
 
-The likeness of the L ORD he beholds.
+The likeness of the LORD he beholds.
 
 Why, then, do you not fear to speak against my servant Moses?
 
-9 And so the L ORD’s wrath flared against them, and he departed. ^numbers-12-9
+9 And so the LORD’s wrath flared against them, and he departed. ^numbers-12-9
 
 **Miriam’s Punishment.**
 
@@ -63,9 +62,9 @@ Why, then, do you not fear to speak against my servant Moses?
 
 12 Do not let her be like the stillborn baby that comes forth from its mother’s womb with its flesh half consumed.” ^numbers-12-12
 
-13 Then Moses cried to the L ORD, “Please, not this! Please, heal her!” ^numbers-12-13
+13 Then Moses cried to the LORD, “Please, not this! Please, heal her!” ^numbers-12-13
 
-14 But the L ORD answered Moses: Suppose her father had spit in her face, would she not bear her shame for seven days? Let her be confined outside the camp for seven days; afterwards she may be brought back. ^numbers-12-14
+14 But the LORD answered Moses: Suppose her father had spit in her face, would she not bear her shame for seven days? Let her be confined outside the camp for seven days; afterwards she may be brought back. ^numbers-12-14
 
 15 So Miriam was confined outside the camp for seven days, and the people did not start out again until she was brought back. ^numbers-12-15
 

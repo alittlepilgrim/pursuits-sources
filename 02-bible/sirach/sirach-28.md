@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 28
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 28
+title: Sirach, Chapter 28
+url: https://bible.usccb.org/bible/sirach/28
 aliases:
   - sirach-28
   - Sirach, Chapter 28
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/28
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 28
 ---
 
 # Sirach, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 1 The vengeful will face the Lord’s vengeance; ^sirach-28-1
 
@@ -31,7 +30,7 @@ then when you pray, your own sins will be forgiven.
 
 3 Does anyone nourish anger against another ^sirach-28-3
 
-and expect healing from the L ORD?
+and expect healing from the LORD?
 
 4 Can one refuse mercy to a sinner like oneself, ^sirach-28-4
 
@@ -69,7 +68,7 @@ the greater the wealth, the greater the wrath.
 
 and a hasty quarrel provokes bloodshed.
 
-#### The Evil Tongue
+### The Evil Tongue
 
 12 If you blow on a spark, it turns into flame, ^sirach-28-12
 

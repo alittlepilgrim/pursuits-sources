@@ -1,19 +1,18 @@
 ---
+type: figure
 title: Saint Albert of Jerusalem
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
-  - 20250912-204812
   - albert-of-jerusalem-saint
   - Saint Albert of Jerusalem
 tags:
   - carmel/feast
   - role/bishop
   - saint
-celebration: "09-17"
-full_name: "Saint Albert of Jerusalem"
+  - type/figure
+celebration: 09-17
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Albert of Jerusalem

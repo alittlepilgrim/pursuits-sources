@@ -1,47 +1,46 @@
 ---
-title: Deuteronomy, Chapter 27
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 27
+title: Deuteronomy, Chapter 27
+url: https://bible.usccb.org/bible/deuteronomy/27
 aliases:
   - deuteronomy-27
   - Deuteronomy, Chapter 27
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/27
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 27
 ---
 
 # Deuteronomy, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 **The Altar on Mount Ebal.**
 
 1 Then Moses, with the elders of Israel, commanded the people, saying: Keep this whole commandment which I give you today. ^deuteronomy-27-1
 
-2 On the day you cross the Jordan into the land which the L ORD, your God, is giving you, set up some large stones and coat them with plaster. ^deuteronomy-27-2
+2 On the day you cross the Jordan into the land which the LORD, your God, is giving you, set up some large stones and coat them with plaster. ^deuteronomy-27-2
 
-3 Write on them, at the time you cross, all the words of this law, so that you may enter the land which the L ORD, your God, is giving you, a land flowing with milk and honey, just as the L ORD, the God of your ancestors, promised you. ^deuteronomy-27-3
+3 Write on them, at the time you cross, all the words of this law, so that you may enter the land which the LORD, your God, is giving you, a land flowing with milk and honey, just as the LORD, the God of your ancestors, promised you. ^deuteronomy-27-3
 
 4 When you cross the Jordan, on Mount Ebal you shall set up these stones concerning which I command you today, and coat them with plaster, ^deuteronomy-27-4
 
-5 and you shall build there an altar to the L ORD, your God, an altar made of stones that no iron tool has touched. ^deuteronomy-27-5
+5 and you shall build there an altar to the LORD, your God, an altar made of stones that no iron tool has touched. ^deuteronomy-27-5
 
-6 You shall build this altar of the L ORD, your God, with unhewn stones, and shall offer on it burnt offerings to the L ORD, your God. ^deuteronomy-27-6
+6 You shall build this altar of the LORD, your God, with unhewn stones, and shall offer on it burnt offerings to the LORD, your God. ^deuteronomy-27-6
 
-7 You shall also offer communion sacrifices and eat them there, rejoicing in the presence of the L ORD, your God. ^deuteronomy-27-7
+7 You shall also offer communion sacrifices and eat them there, rejoicing in the presence of the LORD, your God. ^deuteronomy-27-7
 
 8 On the stones you shall inscribe all the words of this law very clearly. ^deuteronomy-27-8
 
-9 Moses, with the levitical priests, then said to all Israel: Be silent, Israel, and listen! This day you have become the people of the L ORD, your God. ^deuteronomy-27-9
+9 Moses, with the levitical priests, then said to all Israel: Be silent, Israel, and listen! This day you have become the people of the LORD, your God. ^deuteronomy-27-9
 
-10 You shall obey the voice of the L ORD, your God, and keep his commandments and statutes which I am giving you today. ^deuteronomy-27-10
+10 You shall obey the voice of the LORD, your God, and keep his commandments and statutes which I am giving you today. ^deuteronomy-27-10
 
 **Preparation for Blessings and Curses.**
 
@@ -55,7 +54,7 @@ url: https://bible.usccb.org/bible/deuteronomy/27
 
 14 The Levites shall proclaim in a loud voice to all the Israelites: ^deuteronomy-27-14
 
-15 “Cursed be anyone who makes a carved or molten idol, an abomination to the L ORD, the work of a craftsman’s hands, and sets it up in secret!” And all the people shall answer, “Amen!” ^deuteronomy-27-15
+15 “Cursed be anyone who makes a carved or molten idol, an abomination to the LORD, the work of a craftsman’s hands, and sets it up in secret!” And all the people shall answer, “Amen!” ^deuteronomy-27-15
 
 16 “Cursed be anyone who dishonors father or mother!” And all the people shall answer, “Amen!” ^deuteronomy-27-16
 

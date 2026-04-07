@@ -1,29 +1,28 @@
 ---
-title: Numbers, Chapter 2
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 2
+title: Numbers, Chapter 2
+url: https://bible.usccb.org/bible/numbers/2
 aliases:
   - numbers-02
   - Numbers, Chapter 2
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 2
 ---
 
 # Numbers, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Arrangement of the Tribes.**
 
-1 The L ORD said to Moses and Aaron: ^numbers-02-1
+1 The LORD said to Moses and Aaron: ^numbers-02-1
 
 2 The Israelites shall camp, each in their own divisions, under the ensigns of their ancestral houses. They shall camp at some distance all around the tent of meeting. ^numbers-02-2
 
@@ -87,9 +86,9 @@ url: https://bible.usccb.org/bible/numbers/2
 
 32 These are the enrollments of the Israelites according to their ancestral houses. The total enrollment of the camps by companies is six hundred and three thousand five hundred and fifty. ^numbers-02-32
 
-33 The Levites, however, were not enrolled with the other Israelites, just as the L ORD had commanded Moses. ^numbers-02-33
+33 The Levites, however, were not enrolled with the other Israelites, just as the LORD had commanded Moses. ^numbers-02-33
 
-34 The Israelites did just as the L ORD had commanded Moses; both in camp and on the march they were in their own divisions, everyone by clan and according to ancestral house. ^numbers-02-34
+34 The Israelites did just as the LORD had commanded Moses; both in camp and on the march they were in their own divisions, everyone by clan and according to ancestral house. ^numbers-02-34
 
 \* (2:3] – [31) A similar arrangement of the tribes around the central sanctuary in the ideal Israel is given in [Ez 48].
 

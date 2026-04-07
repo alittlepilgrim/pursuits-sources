@@ -1,51 +1,50 @@
 ---
-title: Proverbs, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 16
+title: Proverbs, Chapter 16
+url: https://bible.usccb.org/bible/proverbs/16
 aliases:
   - proverbs-16
   - Proverbs, Chapter 16
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/16
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 16
 ---
 
 # Proverbs, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 1 Plans are made in human hearts, ^proverbs-16-1
 
-but from the L ORD comes the tongue’s response.
+but from the LORD comes the tongue’s response.
 
 2 All one’s ways are pure in one’s own eyes, ^proverbs-16-2
 
-but the measurer of motives is the L ORD.
+but the measurer of motives is the LORD.
 
-3 Entrust your works to the L ORD, ^proverbs-16-3
+3 Entrust your works to the LORD, ^proverbs-16-3
 
 and your plans will succeed.
 
-4 The L ORD has made everything for a purpose, ^proverbs-16-4
+4 The LORD has made everything for a purpose, ^proverbs-16-4
 
 even the wicked for the evil day.
 
-5 Every proud heart is an abomination to the L ORD; ^proverbs-16-5
+5 Every proud heart is an abomination to the LORD; ^proverbs-16-5
 
 be assured that none will go unpunished.
 
 6 By steadfast loyalty guilt is expiated, ^proverbs-16-6
 
-and by the fear of the L ORD evil is avoided.
+and by the fear of the LORD evil is avoided.
 
-7 When the L ORD is pleased with someone’s ways, ^proverbs-16-7
+7 When the LORD is pleased with someone’s ways, ^proverbs-16-7
 
 he makes even enemies be at peace with them.
 
@@ -55,13 +54,13 @@ than a large income with injustice.
 
 9 The human heart plans the way, ^proverbs-16-9
 
-but the L ORD directs the steps.
+but the LORD directs the steps.
 
 10 An oracle is upon the king’s lips, ^proverbs-16-10
 
 no judgment of his mouth is false.
 
-11 Balance and scales belong to the L ORD; ^proverbs-16-11
+11 Balance and scales belong to the LORD; ^proverbs-16-11
 
 every weight in the sack is his concern.
 
@@ -99,7 +98,7 @@ than to share plunder with the proud.
 
 20 Whoever ponders a matter will be successful; ^proverbs-16-20
 
-happy the one who trusts in the L ORD!
+happy the one who trusts in the LORD!
 
 21 The wise of heart is esteemed for discernment, ^proverbs-16-21
 
@@ -151,7 +150,7 @@ and those who rule their temper, better than the conqueror of a city.
 
 33 Into the bag the lot is cast, ^proverbs-16-33
 
-but from the L ORD comes every decision.
+but from the LORD comes every decision.
 
 \* (16:1) Words, like actions, often produce results different from those which were planned, and this comes under the agency of God.
 
@@ -165,7 +164,7 @@ but from the L ORD comes every decision.
 
 \* (16:9) As in vv. [1] – [3], the antithesis is between human plans and divine disposal. The saying uses the familiar metaphor of path for the course of life.
 
-\* (16:10) Six sayings on the king and his divine authority begin here, following the series of sayings about the Lord’s governance in [15:33] – [16:9], in which “L ORD” was mentioned nine times.
+\* (16:10) Six sayings on the king and his divine authority begin here, following the series of sayings about the Lord’s governance in [15:33] – [16:9], in which “LORD” was mentioned nine times.
 
 \* (16:15) The last of six sayings about the king. In the previous verse, royal wrath means death; in this verse royal favor means life. It is significant that royal favor is compared to something not under human control—the clouds preceding the spring rains.
 

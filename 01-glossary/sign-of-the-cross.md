@@ -1,15 +1,16 @@
 ---
-title: Sign of the Cross
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: sign-of-the-cross. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Sign of the Cross
 aliases:
   - Sign of the Cross
   - sign-of-the-cross
 tags:
   - term/sign-of-the-cross
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: sign-of-the-cross. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Sign of the Cross

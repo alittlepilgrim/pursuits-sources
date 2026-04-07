@@ -1,16 +1,16 @@
 ---
-title: Formation II. Year C - Story of a Soul (The Autobiography of St. Thérèse of Lisieux)
-created: 2025-08-28
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Formation II. Year C - Story of a Soul (The Autobiography of St. Thérèse of Lisieux)
+author: Secular Order of Discalced Carmelites
 aliases:
   - Formation II. Year C -  Story of a Soul
   - Formation II. Year C - Story of a Soul (The Autobiography of St. Thérèse of Lisieux)
 tags:
   - carmel/formation
-author: Secular Order of Discalced Carmelites
-status: draft
+  - type/study-guide
+created: 2025-08-28
+modified: 2026-04-06
+publish: false
 ---
 
 # Formation II. Year C - Story of a Soul (The Autobiography of St. Thérèse of Lisieux)
@@ -83,7 +83,7 @@ iv 01.24
 
 Formation II is in preparation for the Definitive Promise and takes a minimum of three years, and in some instances, due to discernment by the candidate and the community’s council, may take longer. The purpose of this period of formation is to prepare the candidate to maturely make a lifetime commitment to living the Discalced Carmelite charism as expressed in the OCDS Constitutions. Deepening union with God in interior prayer should lead the candidate to grow in virtue, in the desire to serve others, and in faithfulness to the Evangelical Counsels and Beatitudes. Growth in community life continues to be an important aspect of formation. Because this period leads to the Definitive Promise, serious ongoing discernment of the vocation by the Council and the candidate is crucial during this time.
 
-### Candidate Responsibilities:
+### Candidate Responsibilities
 
 • The candidate will strive to be consistent in the practices begun in earlier stages of formation and be faithful to the Promise made at the end of Formation I. (The noted references are not exhaustive; there are many others throughout the Constitutions, Provincial Statutes, and Ratio.)
 
@@ -683,7 +683,7 @@ The first eight chapters of the Story of a Soul (Manuscript A) were written when
 
 Upon reading the manuscript, Sister Agnes realized that Thérèse’s life as a nun was not included in her story. Since Sister Agnes was no longer prioress, she approached Mother de Gonzague (who was the elected prioress at the time) and asked her to order Thérèse to continue her writings, this time focusing on her life as a religious sister. The very next day, Mother de Gonzague commanded Thérèse to write about her experience in Carmel and the result was Manuscript C of the Story of a Soul. Given her failing health, this was a difficult task. In June 1897, prior to Thérèse’s death at the age of twenty-four, she took up the pen again and continued with her writings. She stopped writing at the beginning of July. She was so weak that she had to use a pencil for the last pages. Manuscript C deals with several aspects of Thérèse’s spiritual life but emphasizes her trial of faith, charity and most importantly, her understanding of “the Little Way.”
 
-## Essential Points to Discuss the Little Way:
+## Essential Points to Discuss the Little Way
 
 • Thérèse began to observe the progression of prayer in a totally different manner. She wrote: “He [Jesus] has no doubt found her sufficiently watered, for now it is the sun that aids her growth” (pg. 327). She spent the last two years of her life discovering and sharing the deepest wisdom of God. One of the gifts that she discovered was her desire to become a saint. She was not discouraged by the difference between her and the saints (an obscure grain of sand compared to a mountain whose summit is lost in the clouds). In her mind, Thérèse was convinced that: “God cannot inspire unrealizable desires. I can, then, in spite of my littleness, aspire to holiness” (pg. 328). Thérèse realized that she was too small to climb the rough stairs to perfection. While meditating on the Scriptures, she made a profound discovery of her “little way”: “... I want to seek out a means of going to heaven by a little way, a way that is very straight, very short, and totally new” (pg. 328).
 
@@ -932,7 +932,7 @@ You who came to smile at me in the morning of my life, Come smile at me again…
 
 Why I Love You, O Mary! Poetry of St. Thérèse PN54.
 
-## Essential Points to Discuss Note:
+## Essential Points to Discuss Note
 
 Thérèse continued to meditate on her vocation of love and the mission of Carmel in the midst of her failing health.
 
@@ -1270,7 +1270,7 @@ Appendix A
 
 # Appendices
 
-# Appendix A: Introduction to Year C, Thérèse and Maturity,
+# Appendix A: Introduction to Year C, Thérèse and Maturity
 
 Sam Anthony Morello, OCD
 

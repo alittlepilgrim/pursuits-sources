@@ -1,25 +1,24 @@
 ---
-title: Song of Songs, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Song of Songs, Chapter 8
+title: Song of Songs, Chapter 8
+url: https://bible.usccb.org/bible/songofsongs/8
 aliases:
   - Song of Songs, Chapter 8
   - song-of-songs-08
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/song-of-songs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/8
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Song of Songs, Chapter 8
 ---
 
 # Song of Songs, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 1 Would that you were a brother to me, ^song-of-songs-08-1
 
@@ -47,7 +46,7 @@ do not awaken or stir up love
 
 until it is ready!
 
-#### The Return from the Desert
+### The Return from the Desert
 
 5 D? Who is this coming up from the desert, ^song-of-songs-08-5
 
@@ -59,7 +58,7 @@ there your mother conceived you;
 
 there she who bore you conceived.
 
-#### True Love
+### True Love
 
 6 Set me as a seal upon your heart, ^song-of-songs-08-6
 
@@ -81,7 +80,7 @@ Were one to offer all the wealth of his house for love,
 
 he would be utterly despised.
 
-#### An Answer to the Brothers
+### An Answer to the Brothers
 
 8 W “We have a little sister; ^song-of-songs-08-8
 
@@ -107,7 +106,7 @@ I became in his eyes
 
 as one who brings peace.
 
-#### A Boast
+### A Boast
 
 11 M? Solomon had a vineyard at Baal-hamon; ^song-of-songs-08-11
 
@@ -123,7 +122,7 @@ the thousand pieces are for you, Solomon,
 
 and two hundred for the caretakers of its fruit.
 
-#### The Lovers’ Yearnings
+### The Lovers’ Yearnings
 
 13 M You who dwell in the gardens, ^song-of-songs-08-13
 

@@ -1,47 +1,46 @@
 ---
-title: Ezekiel, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 21
+title: Ezekiel, Chapter 21
+url: https://bible.usccb.org/bible/ezekiel/21
 aliases:
   - ezekiel-21
   - Ezekiel, Chapter 21
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/21
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 21
 ---
 
 # Ezekiel, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **The Sword of the Lord.**
 
-1 The word of the L ORD came to me: ^ezekiel-21-1
+1 The word of the LORD came to me: ^ezekiel-21-1
 
 2 Son of man, turn your face to the south: preach against the south, prophesy against the forest land in the south. ^ezekiel-21-2
 
-3 Say to the forest in the south: Hear the word of the L ORD! Thus says the Lord G OD: See! I am kindling a fire in you that shall devour every green tree as well as every dry tree. The blazing flame shall not be quenched so that from south to north every face shall be scorched by it. ^ezekiel-21-3
+3 Say to the forest in the south: Hear the word of the LORD! Thus says the Lord G OD: See! I am kindling a fire in you that shall devour every green tree as well as every dry tree. The blazing flame shall not be quenched so that from south to north every face shall be scorched by it. ^ezekiel-21-3
 
-4 All flesh shall see that I, the L ORD, have kindled it; it shall not be quenched. ^ezekiel-21-4
+4 All flesh shall see that I, the LORD, have kindled it; it shall not be quenched. ^ezekiel-21-4
 
 5 But I said, “Ah! Lord G OD, they are saying about me, ‘Is not this the one who is forever spinning parables?’” ^ezekiel-21-5
 
-6 Then the word of the L ORD came to me: ^ezekiel-21-6
+6 Then the word of the LORD came to me: ^ezekiel-21-6
 
 7 Son of man, turn your face toward Jerusalem: preach against its sanctuary, prophesy against the land of Israel. ^ezekiel-21-7
 
-8 Say to the land of Israel: Thus says the L ORD: See! I am coming against you; I will draw my sword from its scabbard and cut off from you the righteous and the wicked. ^ezekiel-21-8
+8 Say to the land of Israel: Thus says the LORD: See! I am coming against you; I will draw my sword from its scabbard and cut off from you the righteous and the wicked. ^ezekiel-21-8
 
 9 Thus my sword shall come out from its scabbard against all flesh from south to north ^ezekiel-21-9
 
-10 and all flesh shall know that I, the L ORD, have drawn my sword from its scabbard. It cannot return again. ^ezekiel-21-10
+10 and all flesh shall know that I, the LORD, have drawn my sword from its scabbard. It cannot return again. ^ezekiel-21-10
 
 **Act Symbolic of the City’s Fall.**
 
@@ -51,9 +50,9 @@ url: https://bible.usccb.org/bible/ezekiel/21
 
 **Song of the Sword.**
 
-13 The word of the L ORD came to me: ^ezekiel-21-13
+13 The word of the LORD came to me: ^ezekiel-21-13
 
-14 Son of man, prophesy! say: Thus says the L ORD: ^ezekiel-21-14
+14 Son of man, prophesy! say: Thus says the LORD: ^ezekiel-21-14
 
 A sword, a sword has been sharpened,
 
@@ -127,11 +126,11 @@ Wherever your edge is directed!
 
 and spend my fury.
 
-I, the L ORD, have spoken.
+I, the LORD, have spoken.
 
 **Nebuchadnezzar at the Crossroads.**
 
-23 The word of the L ORD came to me: ^ezekiel-21-23
+23 The word of the LORD came to me: ^ezekiel-21-23
 
 24 Son of man, make for yourself two roads over which the sword of the king of Babylon can come. Both roads shall start out from the same land. Then put a signpost at the head of each road ^ezekiel-21-24
 
@@ -189,7 +188,7 @@ your blood shall flow throughout the land;
 
 You shall not be remembered,
 
-for I, the L ORD, have spoken.
+for I, the LORD, have spoken.
 
 \* (21:2] – [4) In Babylon Ezekiel looks toward Judah, pictured as a forest about to be destroyed by fire.
 

@@ -1,25 +1,24 @@
 ---
-title: Zechariah, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 5
+title: Zechariah, Chapter 5
+url: https://bible.usccb.org/bible/zechariah/5
 aliases:
   - zechariah-05
   - Zechariah, Chapter 5
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/5
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 5
 ---
 
 # Zechariah, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Fifth Vision: The Flying Scroll.**
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/zechariah/5
 
 3 Then he said to me: “This is the curse which is to go forth over the whole land. According to it, every thief and every perjurer will be expelled. ^zechariah-05-3
 
-4 I will send it forth—oracle of the L ORD of hosts—so that it will come to the house of the thief, and into the house of the one who swears falsely by my name. It shall lodge within each house, consuming it, timber and stones.” ^zechariah-05-4
+4 I will send it forth—oracle of the LORD of hosts—so that it will come to the house of the thief, and into the house of the one who swears falsely by my name. It shall lodge within each house, consuming it, timber and stones.” ^zechariah-05-4
 
 **Sixth Vision: The Basket of Wickedness.**
 

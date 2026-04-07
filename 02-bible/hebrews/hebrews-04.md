@@ -1,25 +1,24 @@
 ---
-title: Hebrews, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hebrews, Chapter 4
+title: Hebrews, Chapter 4
+url: https://bible.usccb.org/bible/hebrews/4
 aliases:
   - hebrews-04
   - Hebrews, Chapter 4
 tags:
+  - bible/chapter
   - bible/hebrews
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/hebrews/4
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hebrews, Chapter 4
 ---
 
 # Hebrews, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **The Sabbath Rest.**
 

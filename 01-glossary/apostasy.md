@@ -1,10 +1,6 @@
 ---
-title: Apostasy
-created: 2025-07-20
-modified: 2026-03-19
 type: glossary
-publish: true
-description: apostasy. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Apostasy
 aliases:
   - 20250720-212722
   - apostasy
@@ -12,6 +8,11 @@ aliases:
 tags:
   - catechism
   - term/apostasy
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: apostasy. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Apostasy

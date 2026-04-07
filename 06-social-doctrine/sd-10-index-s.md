@@ -1,26 +1,28 @@
 ---
-title: S - Social Doctrine of the Church Analytical Index
-created: 2025-11-13
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: S - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - S - Social Doctrine of the Church Analytical Index
   - sd-10-index-s
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-13
+modified: 2026-04-06
+publish: true
 ---
 
 # S - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Safeguard
+## Safeguard
 
 *(see Also [[sd-10-index-o#Defence|Defence]], [[sd-10-index-p#Protect|Protect]])*
 
@@ -30,7 +32,7 @@ Religious freedom and safeguarding the rights of citizens, [[sd-04-part-II#^csdc
 
 Christian anthropology and safeguarding personal transcendence, [[sd-05-part-III#^csdc-527|527]]
 
-### Salary - Wage - Remuneration
+## Salary - Wage - Remuneration
 
 _Rerum Novarum_ and salaried workers, [[sd-03-part-I#^csdc-89|89]], [[sd-04-part-II#^csdc-268|268]]_
 
@@ -48,7 +50,7 @@ Just wage, legitimate fruit of work, [[sd-04-part-II#^csdc-302|302]]
 
 Salaried workers and social security, [[sd-04-part-II#^csdc-309|309]]
 
-### Sanctification - Sanctify
+## Sanctification - Sanctify
 
 Work, a means of sanctification, [[sd-04-part-II#^csdc-263|263]]
 
@@ -58,7 +60,7 @@ Priests and the mission to sanctify, [[sd-05-part-III#^csdc-539|539]]
 
 The laity, sanctified and sanctifiers, [[sd-05-part-III#^csdc-545|545]]
 
-### Savings - Saver
+## Savings - Saver
 
 Family wage and savings, [[sd-04-part-II#^csdc-250|250]]
 
@@ -68,7 +70,7 @@ Lifestyles and savings, [[sd-04-part-II#^csdc-360|360]], [[sd-04-part-II#^csdc-4
 
 Financial markets and savings, [[sd-04-part-II#^csdc-368|368]]
 
-### School
+## School
 
 The family, first school of social life, [[sd-04-part-II#^csdc-221|221]], [[sd-04-part-II#^csdc-238|238]]
 
@@ -78,7 +80,7 @@ Private schools and economic assistance, [[sd-04-part-II#^csdc-241|241]]
 
 Right to free and open schools, [[sd-05-part-III#^csdc-557|557]]
 
-### Science
+## Science
 
 Autonomy of earthly realities and science, [[sd-03-part-I#^csdc-45|45]]
 
@@ -136,7 +138,7 @@ Discernment and scientific research, [[sd-05-part-III#^csdc-569|569]]
 
 Meaning of life and scientific progress, [[sd-06-conclusion#^csdc-575|575]]
 
-### Security
+## Security
 
 Access to land and social security, [[sd-03-part-I#^csdc-180|180]]
 
@@ -156,11 +158,11 @@ Universal authority and security, [[sd-04-part-II#^csdc-441|441]]
 
 Armed forces and the security of a country, [[sd-04-part-II#^csdc-502|502]]
 
-### Self-management
+## Self-management
 
 Initiatives and forms of self-management, [[sd-04-part-II#^csdc-293|293]]
 
-### Sex - Sexuality
+## Sex - Sexuality
 
 Equality, irrespective of sex, [[sd-03-part-I#^csdc-144|144]]
 
@@ -190,7 +192,7 @@ Culture and sexual discrimination, [[sd-05-part-III#^csdc-557|557]]
 
 Marriage between persons of the same sex, [[sd-05-part-III#^csdc-569|569]]
 
-### Share - Sharing
+## Share - Sharing
 
 God and forms of sharing, [[sd-03-part-I#^csdc-24|24]]
 
@@ -220,7 +222,7 @@ Sharing of goods and ecology, [[sd-04-part-II#^csdc-481|481]]-[[sd-04-part-II#^c
 
 Sharing the riches of mind and talents, [[sd-04-part-II#^csdc-495|495]]
 
-### Sick - Sickness
+## Sick - Sickness
 
 (see Also [[sd-10-index-o#Disease|Disease]])
 
@@ -244,7 +246,7 @@ Workers and insurance for the sick, [[sd-04-part-II#^csdc-301|301]]
 
 Right to insurance for sickness, [[sd-04-part-II#^csdc-301|301]]
 
-### Sin - Sinner
+## Sin - Sinner
 
 In Jesus Christ, God has freed us from sin, [[sd-02-intro#^csdc-17|17]]
 
@@ -318,7 +320,7 @@ God and man, redeemed from sin, [[sd-06-conclusion#^csdc-576|576]]
 
 Christian commitment, hope and sin, [[sd-06-conclusion#^csdc-578|578]]
 
-### Slave - Slavery
+## Slave - Slavery
 
 Presence and liberation from slavery, [[sd-03-part-I#^csdc-21|21]], [[sd-04-part-II#^csdc-451|451]]
 
@@ -352,13 +354,13 @@ Disciples of Christ, not slaves to things, [[sd-04-part-II#^csdc-453|453]]
 
 The Gospel and slavery to sin, [[sd-06-conclusion#^csdc-576|576]]
 
-### Social Body
+## Social Body
 
 The social dimension, work and the social body, [[sd-04-part-II#^csdc-273|273]]
 
 The economy and intermediate social bodies, [[sd-04-part-II#^csdc-346|346]]
 
-### Social Communty
+## Social Communty
 
 (see Also [[sd-10-index-o#Communty|Communty]])
 
@@ -370,7 +372,7 @@ Rural people and the social community, [[sd-04-part-II#^csdc-299|299]]
 
 Moral truths and the social community, [[sd-04-part-II#^csdc-471|471]]
 
-### Social Doctrine - Social Teaching - Social Magisterium
+## Social Doctrine - Social Teaching - Social Magisterium
 
 Social doctrine and its unity, [[sd-02-intro#^csdc-3|3]]
 
@@ -588,17 +590,17 @@ Social teaching and reflection on realities, [[sd-05-part-III#^csdc-568|568]]
 
 Social doctrine and a society worthy of man, [[sd-06-conclusion#^csdc-580|580]]
 
-### Social Living
+## Social Living
 
 The family, first school of social living, [[sd-04-part-II#^csdc-221|221]]
 
 The family and educating in social living, [[sd-04-part-II#^csdc-242|242]]
 
-### Social Magisterium
+## Social Magisterium
 
 - See [[sd-10-index-s#Social Doctrine|Social Doctrine]]
 
-### Social Nature
+## Social Nature
 
 Trinitarian love and social nature, [[sd-03-part-I#^csdc-34|34]], [[sd-03-part-I#^csdc-54|54]]
 
@@ -630,17 +632,17 @@ The family, social nature and the good of society, [[sd-04-part-II#^csdc-213|213
 
 Christian couples and new social nature, [[sd-04-part-II#^csdc-220|220]]
 
-### Social Teaching
+## Social Teaching
 
 - See [[sd-10-index-s#Social Doctrine|Social Doctrine]]
 
-### Social Weeks
+## Social Weeks
 
 ÂÂ“Social WeeksÂÂ”, cultural laboratory, [[sd-05-part-III#^csdc-532|532]]
 
 ÂÂ“Social WeeksÂÂ”, formational opportunities, [[sd-05-part-III#^csdc-532|532]]
 
-### Socialization
+## Socialization
 
 _Mater et Magister_ and socialization, [[sd-03-part-I#^csdc-94|94]]
 
@@ -648,7 +650,7 @@ Socialization and tendencies to create associations, [[sd-03-part-I#^csdc-151|15
 
 Interdependence and socialization, [[sd-03-part-I#^csdc-192|192]]*
 
-### Society
+## Society
 
 (see Also [[sd-10-index-o#Civil Society|Civil Society]])
 
@@ -936,7 +938,7 @@ Selfishness and ordered society, [[sd-06-conclusion#^csdc-581|581]]
 
 A more human society and love in social life, [[sd-06-conclusion#^csdc-582|582]]
 
-### Solidarity
+## Solidarity
 
 Social doctrine, philosophy and solidarity, [[sd-03-part-I#^csdc-77|77]]_Quadragesimo Anno_ and the principle of solidarity, [[sd-03-part-I#^csdc-91|91]]_
 
@@ -1096,13 +1098,13 @@ Principle of solidarity and primacy of love, [[sd-06-conclusion#^csdc-580|580]]
 
 Civilization of love, justice and solidarity, [[sd-06-conclusion#^csdc-582|582]]
 
-### Son - See [[sd-10-index-c#Children|Children]]
+## Son - See [[sd-10-index-c#Children|Children]]
 
-### Son of God
+## Son of God
 
 - See [[sd-10-index-j#Jesus Christ|Jesus Christ]]
 
-### Soul
+## Soul
 
 The whole person, with body and soul, [[sd-02-intro#^csdc-13|13]], [[sd-03-part-I#^csdc-127|127]]
 
@@ -1128,7 +1130,7 @@ Parents, soul of educational activity, [[sd-04-part-II#^csdc-239|239]]
 
 Mankind and the human soul, [[sd-04-part-II#^csdc-260|260]]
 
-### State
+## State
 
 Totalitarian vision of the State, [[sd-03-part-I#^csdc-48|48]]
 
@@ -1246,21 +1248,21 @@ Terrorism and principle of a State ruled by law, [[sd-04-part-II#^csdc-514|514]]
 
 Autonomy of the State and religious confession, [[sd-05-part-III#^csdc-572|572]]
 
-### Sterilization
+## Sterilization
 
 Sterilization, morally illicit, [[sd-04-part-II#^csdc-233|233]]
 
 Assistance and campaigns of sterilization, [[sd-04-part-II#^csdc-234|234]]
 
-### Strike
+## Strike
 
 Right to strike: legitimacy and limits, [[sd-04-part-II#^csdc-304|304]]
 
-### Structure
+## Structure
 
 Moral law and the legal structure of the State, [[sd-04-part-II#^csdc-397|397]]
 
-### Struggle
+## Struggle
 
 (see Also [[sd-10-index-o#Fight|Fight]], [[sd-10-index-r#Recourse to Arms|Recourse to Arms]], [[sd-10-index-e#Effort to Destroy|Effort to Destroy]], [[sd-10-index-b#Battle|Battle]])
 
@@ -1276,7 +1278,7 @@ Unions and instruments of struggle, [[sd-04-part-II#^csdc-306|306]]
 
 Unions and parties that struggle for power, [[sd-04-part-II#^csdc-307|307]]
 
-### Subsidiarity
+## Subsidiarity
 
 Subsidiarity and social doctrine, [[sd-03-part-I#^csdc-77|77]], [[sd-03-part-I#^csdc-160|160]], [[sd-03-part-I#^csdc-185|185]]
 
@@ -1308,13 +1310,13 @@ Solidarity, poverty and subsidiarity, [[sd-04-part-II#^csdc-449|449]]
 
 Subsidiarity, the laity and political action, [[sd-05-part-III#^csdc-565|565]]
 
-### Suffering
+## Suffering
 
 (see Also [[sd-10-index-o#Misery|Misery]], [[sd-10-index-p#Poverty|Poverty]])
 
 Exodus and the suffering of the Israelites in Egypt, [[sd-03-part-I#^csdc-21|21]]
 
-### System
+## System
 
 The Church and ties to a political system, [[sd-03-part-I#^csdc-50|50]]
 

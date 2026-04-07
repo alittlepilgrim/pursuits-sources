@@ -1,25 +1,24 @@
 ---
-title: Numbers, Chapter 32
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 32
+title: Numbers, Chapter 32
+url: https://bible.usccb.org/bible/numbers/32
 aliases:
   - numbers-32
   - Numbers, Chapter 32
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/32
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 32
 ---
 
 # Numbers, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
 **Request of Gad and Reuben.**
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/numbers/32
 
 3 “The region of Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo and Baal-meon— ^numbers-32-3
 
-4 the land which the L ORD has laid low before the community of Israel, is a land for livestock, and your servants have livestock.” ^numbers-32-4
+4 the land which the LORD has laid low before the community of Israel, is a land for livestock, and your servants have livestock.” ^numbers-32-4
 
 5 They continued, “If we find favor with you, let this land be given to your servants as their possession. Do not make us cross the Jordan.” ^numbers-32-5
 
@@ -37,21 +36,21 @@ url: https://bible.usccb.org/bible/numbers/32
 
 6 But Moses answered the Gadites and Reubenites: “Are your kindred, then, to go to war, while you remain here? ^numbers-32-6
 
-7 Why do you wish to discourage the Israelites from crossing to the land the L ORD has given them? ^numbers-32-7
+7 Why do you wish to discourage the Israelites from crossing to the land the LORD has given them? ^numbers-32-7
 
 8 That is just what your ancestors did when I sent them from Kadesh-barnea to reconnoiter the land. ^numbers-32-8
 
-9 They went up to the Wadi Eshcol and reconnoitered the land, then so discouraged the Israelites that they would not enter the land the L ORD had given them. ^numbers-32-9
+9 They went up to the Wadi Eshcol and reconnoitered the land, then so discouraged the Israelites that they would not enter the land the LORD had given them. ^numbers-32-9
 
-10 At that time the anger of the L ORD flared up, and he swore: ^numbers-32-10
+10 At that time the anger of the LORD flared up, and he swore: ^numbers-32-10
 
 11 None of the men twenty years old or more who have come up from Egypt will see the land I promised under oath to [[abraham|Abraham]] and Isaac and Jacob, because they have not followed me unreservedly— ^numbers-32-11
 
-12 except the Kenizzite Caleb, son of Jephunneh, the Kenizzite, and Joshua, son of Nun, since they have followed the L ORD unreservedly. ^numbers-32-12
+12 except the Kenizzite Caleb, son of Jephunneh, the Kenizzite, and Joshua, son of Nun, since they have followed the LORD unreservedly. ^numbers-32-12
 
-13 So the anger of the L ORD flared up against the Israelites and he made them wander in the wilderness forty years, until the whole generation that had done evil in the sight of the L ORD had disappeared. ^numbers-32-13
+13 So the anger of the LORD flared up against the Israelites and he made them wander in the wilderness forty years, until the whole generation that had done evil in the sight of the LORD had disappeared. ^numbers-32-13
 
-14 And now here you are, offspring of sinful stock, rising up in your ancestors’ place to add still more to the L ORD’s blazing anger against the Israelites. ^numbers-32-14
+14 And now here you are, offspring of sinful stock, rising up in your ancestors’ place to add still more to the LORD’s blazing anger against the Israelites. ^numbers-32-14
 
 15 If you turn away from following him, he will again abandon them in the wilderness, and you will bring about the ruin of this entire people.” ^numbers-32-15
 
@@ -67,13 +66,13 @@ url: https://bible.usccb.org/bible/numbers/32
 
 **Agreement Reached.**
 
-20 Moses said to them in reply: “If you do this—if you march as troops before the L ORD into battle ^numbers-32-20
+20 Moses said to them in reply: “If you do this—if you march as troops before the LORD into battle ^numbers-32-20
 
-21 and cross the Jordan in full force before the L ORD until he has driven his enemies out of his way ^numbers-32-21
+21 and cross the Jordan in full force before the LORD until he has driven his enemies out of his way ^numbers-32-21
 
-22 and the land is subdued before the L ORD, then you may return here, free from every obligation to the L ORD and to Israel, and this land will be your possession before the L ORD. ^numbers-32-22
+22 and the land is subdued before the LORD, then you may return here, free from every obligation to the LORD and to Israel, and this land will be your possession before the LORD. ^numbers-32-22
 
-23 But if you do not do this, you will have sinned against the L ORD, and you can be sure that the consequences of your sin will overtake you. ^numbers-32-23
+23 But if you do not do this, you will have sinned against the LORD, and you can be sure that the consequences of your sin will overtake you. ^numbers-32-23
 
 24 Build the towns, then, for your families, and the folds for your flocks, but fulfill what you have promised.” ^numbers-32-24
 
@@ -81,17 +80,17 @@ url: https://bible.usccb.org/bible/numbers/32
 
 26 While our wives and children, our livestock and other animals remain there in the towns of Gilead, ^numbers-32-26
 
-27 all your servants will go across as armed troops before the L ORD to battle, just as my lord says.” ^numbers-32-27
+27 all your servants will go across as armed troops before the LORD to battle, just as my lord says.” ^numbers-32-27
 
 28 So Moses gave this command in their regard to Eleazar the priest, to Joshua, son of Nun, and to the heads of the ancestral houses of the Israelite tribes: ^numbers-32-28
 
-29 He said to them, “If all the Gadites and Reubenites cross the Jordan with you in full force before the L ORD into battle, the land will be subdued before you, and you will give them Gilead as a possession. ^numbers-32-29
+29 He said to them, “If all the Gadites and Reubenites cross the Jordan with you in full force before the LORD into battle, the land will be subdued before you, and you will give them Gilead as a possession. ^numbers-32-29
 
-30 But if they will not go across in force with you before the L ORD, you will bring their wives and children and livestock across before you into Canaan, and they will possess a holding among you in the land of Canaan.” ^numbers-32-30
+30 But if they will not go across in force with you before the LORD, you will bring their wives and children and livestock across before you into Canaan, and they will possess a holding among you in the land of Canaan.” ^numbers-32-30
 
-31 To this the Gadites and Reubenites replied, “We will do what the L ORD has ordered your servants. ^numbers-32-31
+31 To this the Gadites and Reubenites replied, “We will do what the LORD has ordered your servants. ^numbers-32-31
 
-32 We ourselves will go across in force before the L ORD into the land of Canaan, but we will retain our hereditary property on this side of the Jordan.” ^numbers-32-32
+32 We ourselves will go across in force before the LORD into the land of Canaan, but we will retain our hereditary property on this side of the Jordan.” ^numbers-32-32
 
 33 So Moses gave them—the Gadites and Reubenites, as well as half the tribe of Manasseh, son of Joseph—the kingdom of Sihon, king of the Amorites, and the kingdom of Og, king of Bashan, the land with its towns, and the districts of the surrounding towns. ^numbers-32-33
 

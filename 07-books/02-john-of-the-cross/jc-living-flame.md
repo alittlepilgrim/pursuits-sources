@@ -1,15 +1,15 @@
 ---
-title: The Living Flame of Love by John of the Cross
-created: 2026-03-28
-modified: 2026-04-02
 type: book
-publish: false
+title: The Living Flame of Love by John of the Cross
+author: Saint John of the Cross
+url: https://www.ewtn.com/catholicism/library/living-flame-of-love-12524|
 aliases:
   - The Living Flame of Love
 tags:
   - book
-author: Saint John of the Cross
-source: https://www.ewtn.com/catholicism/library/living-flame-of-love-12524|
+created: 2026-03-28
+modified: 2026-04-04
+publish: false
 ---
 
 # The Living Flame of Love by John of the Cross
@@ -45,7 +45,7 @@ ST.4. How gently and lovingly you wake in my heart, where in secret you dwell al
 
 P.4.(4). The composition of these lyric lines is like those that in Boscn are given a religious meaning and that go: La soledad siguiendo. llorando mi fortuna, me voy por los caminos que se ofrecen, and so on. In these stanzas there are six lines; the fourth rhymes with the first, the fifth with the second, and the sixth with the third.2
 
-# Stanza 1. o Living Flame of Love That Tenderly Wounds My Soul in Its Deepest Center! Since Now You Are Not Oppressive, Now Consummate! if It Be Your Will: Tear Through the Veil of This Sweet Encounter!
+# Stanza 1. o Living Flame of Love That Tenderly Wounds My Soul in Its Deepest Center! Since Now You Are Not Oppressive, Now Consummate! if It Be Your Will: Tear Through the Veil of This Sweet Encounter
 
 ## Stanza 1 Commentary
 

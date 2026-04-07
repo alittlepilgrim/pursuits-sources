@@ -1,25 +1,24 @@
 ---
-title: 2 Corinthians, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Corinthians, Chapter 7
+title: 2 Corinthians, Chapter 7
+url: https://bible.usccb.org/bible/2corinthians/7
 aliases:
   - 2 Corinthians, Chapter 7
   - 2-corinthians-07
 tags:
   - bible/2-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2corinthians/7
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Corinthians, Chapter 7
 ---
 
 # 2 Corinthians, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 1 Since we have these promises, beloved, let us cleanse ourselves from every defilement of flesh and spirit, making holiness perfect in the fear of God. ^2-corinthians-07-1
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/2corinthians/7
 
 4 I have great confidence in you, I have great pride in you; I am filled with encouragement, I am overflowing with joy all the more because of all our affliction. ^2-corinthians-07-4
 
-### C. Resolution of the Crisis
+## C. Resolution of the Crisis
 
 **Paul’s Joy in Macedonia.**
 

@@ -1,25 +1,24 @@
 ---
-title: 1 Maccabees, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, Chapter 16
+title: 1 Maccabees, Chapter 16
+url: https://bible.usccb.org/bible/1maccabees/16
 aliases:
   - 1 Maccabees, Chapter 16
   - 1-maccabees-16
 tags:
   - bible/1-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/16
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, Chapter 16
 ---
 
 # 1 Maccabees, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 1 John then went up from Gazara and told his father Simon what Cendebeus was doing. ^1-maccabees-16-1
 

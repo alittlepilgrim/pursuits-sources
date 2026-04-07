@@ -1,35 +1,34 @@
 ---
-title: Jeremiah, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 1
+title: Jeremiah, Chapter 1
+url: https://bible.usccb.org/bible/jeremiah/1
 aliases:
   - jeremiah-01
   - Jeremiah, Chapter 1
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 1
 ---
 
 # Jeremiah, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 The words of Jeremiah, son of Hilkiah, one of the priests from Anathoth, in the land of Benjamin. ^jeremiah-01-1
 
-2 The word of the L ORD came to him in the days of Josiah, son of Amon, king of Judah, in the thirteenth year of his reign, ^jeremiah-01-2
+2 The word of the LORD came to him in the days of Josiah, son of Amon, king of Judah, in the thirteenth year of his reign, ^jeremiah-01-2
 
 3 and again in the days of Jehoiakim, son of Josiah, king of Judah, until the end of the eleventh year of Zedekiah, son of Josiah, king of Judah—down to the exile of Jerusalem, in the fifth month. ^jeremiah-01-3
 
-#### Call of Jeremiah
+### Call of Jeremiah
 
-4 The word of the L ORD came to me: ^jeremiah-01-4
+4 The word of the LORD came to me: ^jeremiah-01-4
 
 5 Before I formed you in the womb I knew you, ^jeremiah-01-5
 
@@ -41,7 +40,7 @@ a prophet to the nations I appointed you.
 
 “I do not know how to speak. I am too young!”
 
-7 But the L ORD answered me, ^jeremiah-01-7
+7 But the LORD answered me, ^jeremiah-01-7
 
 Do not say, “I am too young.”
 
@@ -51,9 +50,9 @@ whatever I command you, you shall speak.
 
 8 Do not be afraid of them, ^jeremiah-01-8
 
-for I am with you to deliver you—oracle of the L ORD.
+for I am with you to deliver you—oracle of the LORD.
 
-9 Then the L ORD extended his hand and touched my mouth, saying to me, ^jeremiah-01-9
+9 Then the LORD extended his hand and touched my mouth, saying to me, ^jeremiah-01-9
 
 See, I place my words in your mouth!
 
@@ -67,17 +66,17 @@ to destroy and to demolish,
 
 to build and to plant.
 
-11 The word of the L ORD came to me: What do you see, Jeremiah? “I see a branch of the almond tree,” I replied. ^jeremiah-01-11
+11 The word of the LORD came to me: What do you see, Jeremiah? “I see a branch of the almond tree,” I replied. ^jeremiah-01-11
 
-12 Then the L ORD said to me: You have seen well, for I am watching over my word to carry it out. ^jeremiah-01-12
+12 Then the LORD said to me: You have seen well, for I am watching over my word to carry it out. ^jeremiah-01-12
 
-13 A second time the word of the L ORD came to me: What do you see? I replied, “I see a boiling kettle whose mouth is tipped away from the north.” ^jeremiah-01-13
+13 A second time the word of the LORD came to me: What do you see? I replied, “I see a boiling kettle whose mouth is tipped away from the north.” ^jeremiah-01-13
 
-14 The L ORD said to me, And from the north evil will pour out over all who dwell in the land. ^jeremiah-01-14
+14 The LORD said to me, And from the north evil will pour out over all who dwell in the land. ^jeremiah-01-14
 
 15 Look, I am summoning ^jeremiah-01-15
 
-all the kingdoms of the north—oracle of the L ORD —
+all the kingdoms of the north—oracle of the LORD —
 
 Each king shall come and set up his throne
 
@@ -119,7 +118,7 @@ its priests and the people of the land.
 
 19 They will fight against you, but not prevail over you, ^jeremiah-01-19
 
-for I am with you to deliver you—oracle of the L ORD.
+for I am with you to deliver you—oracle of the LORD.
 
 \* (1:1) Anathoth: a village about three miles northeast of Jerusalem, to which Solomon had exiled Abiathar the priest ([1 Kgs 2:26] – [27]); it is likely that Jeremiah belonged to that priestly family.
 

@@ -1,19 +1,17 @@
 ---
-title: Dialogue by St. Catherine of Siena
-created: 2026-03-28
-modified: 2026-04-02
 type: book
-publish: true
-description: Dialogue by St. Catherine of Siena
+title: Dialogue by St. Catherine of Siena
+author: Saint Catherine of Siena
+url: https://www.ewtn.com/catholicism/library/dialogue-1450|
 aliases:
   - Dialogue by St. Catherine of Siena
 tags:
-  - author/catherine-of-siena
-  - book
-  - book/dialogue
-  - saint/catherine-of-siena
-author: Saint Catherine of Siena
-source: https://www.ewtn.com/catholicism/library/dialogue-1450|
+  - author/saint-catherine-of-siena
+  - type/book
+created: 2026-03-28
+modified: 2026-04-06
+publish: true
+description: Dialogue by St. Catherine of Siena
 ---
 
 # The Dialogue of the Seraphic Virgin Catherine of Siena Dictated by Her, While in a State of Ecstasy, to Her Secretaries, and Completed in the Year of Our Lord 1370, Together with an Account of Her Death by an Eye-witness

@@ -1,9 +1,7 @@
 ---
-title: November 14, All Saints of Our Order
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: November 14, All Saints of Our Order
+author: OCD General Curia
 aliases:
   - 11-14-all-carmelite-sts
   - 20251114-000001
@@ -12,9 +10,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-attachment: true
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 11-14
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+attachment: true
 ---
 
 # November 14, All Saints of Our Order
@@ -603,7 +604,7 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, forever and ever.
 
-!
+![14 November- ALL SAINTS OF OUR ORDER-2024-07-22-1](images/14%20November-%20ALL%20SAINTS%20OF%20OUR ORDER-2024-07-22-1.jpeg)
 
 Iconography from the Carmel of Ravenna, Italy | Photo credit: the Carmelites
 

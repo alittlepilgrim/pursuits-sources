@@ -1,25 +1,24 @@
 ---
-title: 2 Kings, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 15
+title: 2 Kings, Chapter 15
+url: https://bible.usccb.org/bible/2kings/15
 aliases:
   - 2 Kings, Chapter 15
   - 2-kings-15
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/15
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 15
 ---
 
 # 2 Kings, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Reign of Azariah of Judah.**
 
@@ -27,11 +26,11 @@ url: https://bible.usccb.org/bible/2kings/15
 
 2 He was sixteen years old when he became king, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecholiah, from Jerusalem. ^2-kings-15-2
 
-3 He did what was right in the L ORD’s sight, just as his father Amaziah had done, ^2-kings-15-3
+3 He did what was right in the LORD’s sight, just as his father Amaziah had done, ^2-kings-15-3
 
 4 though the high places did not disappear, and the people continued to sacrifice and to burn incense on the high places. ^2-kings-15-4
 
-5 The L ORD afflicted the king, and he was a leper until the day he died. He lived in a house apart, while Jotham, the king’s son, was master of the palace and ruled the people of the land. ^2-kings-15-5
+5 The LORD afflicted the king, and he was a leper until the day he died. He lived in a house apart, while Jotham, the king’s son, was master of the palace and ruled the people of the land. ^2-kings-15-5
 
 6 The rest of the acts of Azariah, and all that he did, are recorded in the book of the chronicles of the kings of Judah. ^2-kings-15-6
 
@@ -41,13 +40,13 @@ url: https://bible.usccb.org/bible/2kings/15
 
 8 In the thirty-eighth year of Azariah, king of Judah, Zechariah, son of Jeroboam, became king over Israel in Samaria for six months. ^2-kings-15-8
 
-9 He did what was evil in the L ORD’s sight, as his ancestors had done, and did not desist from the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-15-9
+9 He did what was evil in the LORD’s sight, as his ancestors had done, and did not desist from the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-15-9
 
 10 Shallum, son of Jabesh, plotted against him and struck him down at Ibleam. He killed him and reigned in his place. ^2-kings-15-10
 
 11 As for the rest of the acts of Zechariah, these are recorded in the book of the chronicles of the kings of Israel. ^2-kings-15-11
 
-12 This was the word the L ORD had spoken to Jehu: Sons of your line to the fourth generation shall sit upon the throne of Israel; and so it was. ^2-kings-15-12
+12 This was the word the LORD had spoken to Jehu: Sons of your line to the fourth generation shall sit upon the throne of Israel; and so it was. ^2-kings-15-12
 
 **Reign of Shallum of Israel.**
 
@@ -63,7 +62,7 @@ url: https://bible.usccb.org/bible/2kings/15
 
 17 In the thirty-ninth year of Azariah, king of Judah, Menahem, son of Gadi, became king over Israel for ten years in Samaria. ^2-kings-15-17
 
-18 He did what was evil in the L ORD’s sight as long as he lived, not desisting from the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-15-18
+18 He did what was evil in the LORD’s sight as long as he lived, not desisting from the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-15-18
 
 19 Pul, king of Assyria, came against the land. But Menahem gave Pul a thousand talents of silver to have his help in holding onto his kingdom. ^2-kings-15-19
 
@@ -77,7 +76,7 @@ url: https://bible.usccb.org/bible/2kings/15
 
 23 In the fiftieth year of Azariah, king of Judah, Pekahiah, son of Menahem, became king over Israel in Samaria for two years. ^2-kings-15-23
 
-24 He did what was evil in the L ORD’s sight, not desisting from the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-15-24
+24 He did what was evil in the LORD’s sight, not desisting from the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-15-24
 
 25 His adjutant Pekah, son of Remaliah, conspired against him, and struck him down at Samaria within the palace stronghold; he had with him fifty men from Gilead. He killed him and reigned in his place. ^2-kings-15-25
 
@@ -87,7 +86,7 @@ url: https://bible.usccb.org/bible/2kings/15
 
 27 In the fifty-second year of Azariah, king of Judah, Pekah, son of Remaliah, became king over Israel in Samaria for twenty years. ^2-kings-15-27
 
-28 He did what was evil in the L ORD’s sight, not desisting from the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-15-28
+28 He did what was evil in the LORD’s sight, not desisting from the sins that Jeroboam, son of Nebat, had caused Israel to commit. ^2-kings-15-28
 
 29 In the days of Pekah, king of Israel, Tiglath-pileser, king of Assyria, came and took Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee—all the land of Naphtali—deporting the inhabitants to Assyria. ^2-kings-15-29
 
@@ -101,13 +100,13 @@ url: https://bible.usccb.org/bible/2kings/15
 
 33 He was twenty-five years old when he became king, and he reigned sixteen years in Jerusalem. His mother’s name was Jerusha, daughter of Zadok. ^2-kings-15-33
 
-34 He did what was right in the L ORD’s sight, just as his father Uzziah had done, ^2-kings-15-34
+34 He did what was right in the LORD’s sight, just as his father Uzziah had done, ^2-kings-15-34
 
-35 though the high places did not disappear, and the people continued to sacrifice and to burn incense on the high places. It was he who built the Upper Gate of the L ORD’s house. ^2-kings-15-35
+35 though the high places did not disappear, and the people continued to sacrifice and to burn incense on the high places. It was he who built the Upper Gate of the LORD’s house. ^2-kings-15-35
 
 36 The rest of the acts of Jotham, with what he did, are recorded in the book of the chronicles of the kings of Judah. ^2-kings-15-36
 
-37 It was at that time that the L ORD began to unleash Rezin, king of Aram, and Pekah, son of Remaliah, against Judah. ^2-kings-15-37
+37 It was at that time that the LORD began to unleash Rezin, king of Aram, and Pekah, son of Remaliah, against Judah. ^2-kings-15-37
 
 38 Jotham rested with his ancestors; he was buried with his ancestors in the City of David his father, and his son Ahaz succeeded him as king. ^2-kings-15-38
 

@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 43
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 43
+title: Isaiah, Chapter 43
+url: https://bible.usccb.org/bible/isaiah/43
 aliases:
   - isaiah-43
   - Isaiah, Chapter 43
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/43
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 43
 ---
 
 # Isaiah, Chapter 43
 
-### Chapter 43
+## Chapter 43
 
-#### Promises of Redemption and Restoration
+### Promises of Redemption and Restoration
 
-1 But now, thus says the L ORD, ^isaiah-43-1
+1 But now, thus says the LORD, ^isaiah-43-1
 
 who created you, Jacob, and formed you, Israel:
 
@@ -39,7 +38,7 @@ When you walk through fire, you shall not be burned,
 
 nor will flames consume you.
 
-3 For I, the L ORD, am your God, ^isaiah-43-3
+3 For I, the LORD, am your God, ^isaiah-43-3
 
 the Holy One of Israel, your savior.
 
@@ -91,7 +90,7 @@ Let them produce witnesses to prove themselves right,
 
 that one may hear and say, “It is true!”
 
-10 You are my witnesses—oracle of the L ORD — ^isaiah-43-10
+10 You are my witnesses—oracle of the LORD — ^isaiah-43-10
 
 my servant whom I have chosen
 
@@ -103,7 +102,7 @@ Before me no god was formed,
 
 and after me there shall be none.
 
-11 I, I am the L ORD; ^isaiah-43-11
+11 I, I am the LORD; ^isaiah-43-11
 
 there is no savior but me.
 
@@ -111,7 +110,7 @@ there is no savior but me.
 
 who announced, not some strange god among you;
 
-You are my witnesses—oracle of the L ORD.
+You are my witnesses—oracle of the LORD.
 
 I am God,
 
@@ -121,7 +120,7 @@ There is none who can deliver from my hand:
 
 I act and who can cancel it?
 
-14 Thus says the L ORD, your redeemer, ^isaiah-43-14
+14 Thus says the LORD, your redeemer, ^isaiah-43-14
 
 the Holy One of Israel:
 
@@ -131,11 +130,11 @@ I will bring down all her defenses,
 
 and the Chaldeans shall cry out in lamentation.
 
-15 I am the L ORD, your Holy One, ^isaiah-43-15
+15 I am the LORD, your Holy One, ^isaiah-43-15
 
 the creator of Israel, your King.
 
-16 Thus says the L ORD, ^isaiah-43-16
+16 Thus says the LORD, ^isaiah-43-16
 
 who opens a way in the sea,
 

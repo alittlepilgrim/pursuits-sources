@@ -1,23 +1,21 @@
 ---
-title: Part IV-fs-devout-life
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Part IV. Containing Needful Counsels Concerning Some Ordinary Temptations
+title: Part IV-fs-devout-life
+author: Saint Francis de Sales
 aliases:
   - Part IV. Containing Needful Counsels Concerning Some Ordinary Temptations
 tags:
-  - author/francis-de-sales
-  - book
-  - book/introduction-devout-life
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Part IV. Containing Needful Counsels Concerning Some Ordinary Temptations
 ---
 
 # Part IV. Containing Needful Counsels Concerning Some Ordinary Temptations
 
-### Chapter I. We Must Not Trifle with the Words of Worldly Wisdom
+## Chapter I. We Must Not Trifle with the Words of Worldly Wisdom
 
 DIRECTLY that your worldly friends perceive that you aim at leading a devout life, they will let loose endless shafts of mockery and misrepresentation upon you; the more malicious will attribute your change to hypocrisy, designing, or bigotry; they will affirm that the world having looked coldly upon you, failing its favour you turn to God; while your friends will make a series of what, from their point of view, are prudent and charitable remonstrances. They will tell you that you are growing morbid; that you will lose your worldly credit, and will make yourself unacceptable to the world; they will prognosticate your premature old age, the ruin of your material prosperity; they will tell you that in the world you must live as the world does; that you can be saved without all this fuss; and much more of the like nature.
 
@@ -35,7 +33,7 @@ The planets and a wandering comet shine with much the same brightness, but the c
 
 [180] S. Luke vii. 33, 34.
 
-### Chapter II. the Need of a Good Courage
+## Chapter II. the Need of a Good Courage
 
 HOWEVER much we may admire and crave for light, it is apt to dazzle our eyes when they have been long accustomed to darkness; and on first visiting a foreign country, we are sure to feel strange among its inhabitants, however kindly or courteous they may be. Even so, my child, your changed life may be attended with some inward discomfort, and you may feel some reaction of discouragement and weariness after you have taken a final farewell of the world and its follies. Should it be so, I pray you take it patiently, for it will not last,--it is merely the disturbance caused by novelty; and when it is gone by, you will abound in consolations. At first you may suffer somewhat under the loss what you enjoyed among your vain, frivolous companions; but would you forfeit the eternal gifts of God for such things as these? The empty amusements which have engrossed you hitherto may rise up attractively before your imagination, and strive to win you back to rest in them; but are you bold enough to give up a blessed eternity for such deceitful snares? Believe me, if you will but persevere you will not fail to enjoy a sweetness so real and satisfying, that you will be constrained to confess that the world has only gall to give as compared with this honey, and that one single day of devotion is worth more than a thousand years of worldly life.
 
@@ -45,7 +43,7 @@ Be of good cheer, my child. When the young bees first begin to live they are mer
 
 wings, so that we may not only fly during this life, but find an abiding resting-place in Eternity.
 
-### Chapter III. of Temptations, and the Difference Between Experiencing Them and
+## Chapter III. of Temptations, and the Difference Between Experiencing Them and
 
 consenting to them.
 
@@ -73,7 +71,7 @@ Look at it some ten or twelve hours afterwards, and there will scarce be any liv
 
 [183] Gal. v. 17.
 
-### Chapter IV. Two Striking Illustrations of the Same
+## Chapter IV. Two Striking Illustrations of the Same
 
 THIS distinction, which is very important, is well illustrated by the description S. Jerome gives of a young man bound to a voluptuous bed by the softest silken cords, and subjected to the wiles and lures of a treacherous tempter, with the express object of causing him to fall.
 
@@ -83,13 +81,13 @@ Greatly as all his senses and imagination must inevitably have been possessed by
 
 Here, you see, were the embers covered over with ashes, while temptation and delectation had entered the heart and surrounded the will, which, aided only by the Saviour, resisted all evil inspirations with great disgust, and a persevering refusal to consent to sin. Verily the soul which loves God is sometimes in sore straits to know whether He abideth in it or no, and whether that Divine Love for which it fights is extinguished or burns yet. But it is the very essence of the perfection of that Heavenly Love to require its lovers to endure and fight for Love's sake, without knowing even whether they possess the very Love for which and in which they strive.
 
-### Chapter V. Encouragement for the Tempted Soul
+## Chapter V. Encouragement for the Tempted Soul
 
 GOD never permits such grievous temptations and assaults to try any, save those souls whom He designs to lead on to His own living, highest love, but nevertheless it does not follow as a natural consequence that they are certain to attain thereto. Indeed, it has often happened that those who had been stedfast under violent assaults, failing to correspond faithfully to Divine Grace, have yielded under the pressure of very trifling temptations. I would warn you of this, my child, so that, should you ever be tried by great temptations, you may know that God is showing special favour to you, thereby proving that He means to exalt you in His Sight; but that at the same time you may ever be humble and full of holy fear, not overconfident in your power to resist lesser temptations because you have overcome those that were greater, unless by means of a most stedfast faithfulness to God.
 
 Come what may in the shape of temptation, attended by whatsoever of delectation,--so long as your will refuses consent, not merely to the temptation itself, but also to the delectation, you need have no fear,--God is not offended. When any one has swooned away, and gives no sign of life, we put our hand to his heart, and if we find the slightest fluttering there, we conclude that he still lives, and that, with the help of stimulants and counter-irritants, we may restore consciousness and power. Even so, sometimes amid the violence of temptation the soul seems altogether to faint away, and to lose all spiritual life and action. But if you would be sure how it really is, put your hand on the heart. See whether heart and will yet have any spiritual motion; that is to say, whether they fulfil their own special duty in refusing consent to and acceptance of temptation and its gratification; for so long as the power to refuse exists within the soul, we may be sure that Love, the life of the soul, is there, and that Jesus Christ, our Lord and Saviour, is within, although, it may be, hidden; and that by means of stedfast perseverance in prayer, and the Sacraments, and confidence in God, strength will be restored, and the soul will live with a full and joyous life.
 
-### Chapter VI. When Temptation and Delectation Are sin
+## Chapter VI. When Temptation and Delectation Are sin
 
 THAT princess, whom we have already taken as an illustration, was not to blame in the unlawful pursuit we supposed to be made of her, because it was against her will; but if, on the contrary, she had in any way led to it, or sought to attract him who sought her, she were certainly guilty of the pursuit itself; and even if she withheld her consent, she would still deserve censure and punishment. Thus it sometimes happens that temptation in itself is sin to us, because we have ourselves brought it upon us. For instance, if I know that gaming leads me to passion and blasphemy, and that all play is a temptation to me, I sin each and every time that I play, and I am responsible for all the temptations which may come upon me at the gaming table. So again, if I know that certain society involves me in temptation to evil, and yet I voluntarily seek it, I am unquestionably responsible for all that I may encounter in the way of temptation therein.
 
@@ -103,7 +101,7 @@ Sometimes we are taken by surprise by some sense of delectation following so clo
 
 This can be but a very slight venial sin, which would become greater if, after once we perceive the danger, we allow ourselves to dally with it, or question as to admitting or rejecting it,--greater still if we carelessly neglect to resist it;--and if we deliberately allow ourselves to rest in any such pleasure, it becomes very great sin, especially if the thing attracting us be unquestionably evil. Thus it is a great sin in a woman to allow herself to dwell upon any unlawful affections, although she may have no intention of ever really yielding to them.
 
-### Chapter VII. Remedies for Great Occasions
+## Chapter VII. Remedies for Great Occasions
 
 SO soon as you feel yourself anywise tempted, do as our little children when they see a wolf or a bear in the mountains. Forthwith they run to the protection of their father or mother, or at least cry out for help.
 
@@ -123,7 +121,7 @@ Do not argue with your Enemy, and give but one answer,--that with which Our Lord
 
 [185] S. Matt. iv. 10.
 
-### Chapter VIII. How to Resist Minor Temptations
+## Chapter VIII. How to Resist Minor Temptations
 
 WHILE it is right to resist great temptations with invincible courage, and all such victories will be most valuable, still there is perhaps more absolute profit to our souls in resisting little ones. For although the greater temptations exceed in power, there are so infinitely more in number of little temptations, that a victory over them is fully as important as over the greater but rarer ones. No one will question but that wolves and bears are more dangerous than flies, but they do not worry and annoy us, or try our patience as these do.
 
@@ -131,7 +129,7 @@ While is not a hard thing to abstain from murder, but it is very difficult to av
 
 In short, all these minor temptations to anger, suspicion, jealousy, envy, levity, vanity, duplicity, affectation, foolish thoughts, and the like, are a perpetual trial even to those who are most devout and most resolute; and therefore, my daughter, we ought carefully and diligently to prepare for this warfare. Be assured that every victory won over these little foes is as a precious stone in the crown of glory which God prepares for us in Paradise. So, while awaiting and making ready for a stedfast and brave resistance to great temptations should they come, let us not fail diligently to fight against these meaner, weaker foes.
 
-### Chapter IX. How Remedy Minor Temptations
+## Chapter IX. How Remedy Minor Temptations
 
 NOW as to all these trifling temptations of vanity, suspicion, vexation, jealousy, envy, and the like, which flit around one like flies or gnats, now settling on one's nose,--anon stinging one's cheek,--as it is wholly impossible altogether to free one's-self from their importunity; the best resistance one can make is not to be fretted by them. All these things may worry one, but they cannot really harm us, so long as our wills are firmly resolved to serve God.
 
@@ -139,7 +137,7 @@ Therefore despise all these trivial onslaughts, and do not even deign to think a
 
 In short, you may be sure that if you dally with your minor, oft-recurring temptations, and examine too closely into them in detail, you will simply stupefy yourself to no purpose.
 
-### Chapter X. How to Strengthen the Heart Against Temptation
+## Chapter X. How to Strengthen the Heart Against Temptation
 
 EXAMINE from time to time what are the dominant passions of your soul, and having ascertained this, mould your life, so that in thought, word and deed you may as far as possible counteract them. For instance, if you know that you are disposed to be vain, reflect often upon the emptiness of this earthly life, call to mind how burdensome all mere earthly vanities will be to the conscience at the hour of death, how unworthy of a generous heart, how puerile and childish, and the like.
 
@@ -149,7 +147,7 @@ Indeed, by dint of steady opposition to anything, we teach ourselves to hate eve
 
 In a word, let your time of peace,--that is to say, the time when you are not beset by temptations to sin,--be used in cultivating the graces most opposed to your natural difficulties, and if opportunities for their exercise do not arise, go out of your way to seek them, and by so doing you will strengthen your heart against future temptations.
 
-### Chapter XI. Anxiety of Mind
+## Chapter XI. Anxiety of Mind
 
 ANXIETY of mind is not so much an abstract temptation, as the source whence various temptations arise. Sadness, when defined, is the mental grief we feel because of our involuntary ailments;--whether the evil be exterior, such as poverty, sickness or contempt; or interior, such as ignorance, dryness, depression or temptation. Directly that the soul is conscious of some such trouble, it is downcast, and so trouble sets in.
 
@@ -169,7 +167,7 @@ If you can lay your anxiety before your spiritual guide, or at least before some
 
 [186] Ps. cxix. 109.
 
-### Chapter XII. of Sadness and Sorrow
+## Chapter XII. of Sadness and Sorrow
 
    S. PAUL says that "godly sorrow worketh repentance to salvation not to be repented of, but the sorrow of the world worketh death." [187] So we see that sorrow may be good or bad according to the several results it produces in us. And indeed there are more bad than good results arising from it, for the only good ones are mercy and repentance; whereas there are six evil results, namely, anguish, sloth, indignation, jealousy, envy and impatience. The Wise Man says that "sorrow hath killed many, and there is no profit therein," [188] and that because for the two good streams which flow from the spring of sadness, there are these six which are downright evil.
 
@@ -207,7 +205,7 @@ Ecclus. xxx. 25.
 
 [192] Rom. viii 35.
 
-### Chapter XIII. of Spiritual and Sensible Consolations, and How to Receive Them
+## Chapter XIII. of Spiritual and Sensible Consolations, and How to Receive Them
 
 THE order of God's Providence maintains a perpetual vicissitude in the material being of this world; day is continually turning to night, spring to summer, summer to autumn, autumn to winter, winter to spring; no two days are ever exactly alike. Some are foggy, rainy, some dry or windy; and this endless variety greatly enhances the beauty of the universe. And even so precisely is it with man (who, as ancient writers have said, is a miniature of the world), for he is never long in any one condition, and his life on earth flows by like the mighty waters, heaving and tossing with an endless variety of motion; one while raising him on high with hope, another plunging him low in fear; now turning him to the right with rejoicing, then driving him to the left with sorrows; and no single day, no, not even one hour, is entirely the same as any other of his life.
 
@@ -232,7 +230,7 @@ Lastly, I advise you to take counsel with your director concerning any unusual f
 
 [197] Prov. xxv. 16.
 
-### Chapter XIV. of Dryness and Spiritual Barrenness
+## Chapter XIV. of Dryness and Spiritual Barrenness
 
 SO much for what is to be done in times of spiritual consolations. But these bright days will not last for ever, and sometimes you will be so devoid of all devout feelings, that it will seem to you that your soul is a desert land, fruitless, sterile, wherein you can find no path leading to God, no drop of the waters of Grace to soften the dryness which threatens to choke it entirely. Verily, at such a time the soul is greatly to be pitied, above all, when this trouble presses heavily, for then, like David, its meat are tears day and night, while the Enemy strives to drive it to despair, crying out, "Where is now thy God? how thinkest thou to find Him, or how wilt thou ever find again the joy of His Holy Grace?"
 
@@ -259,7 +257,7 @@ Some people, especially women, fall into the great mistake of imagining that whe
 
 [199] Cant. v. 2-7.
 
-### Chapter XV. an Illustration
+## Chapter XV. an Illustration
 
 LET me illustrate what I have said by an anecdote of Saint Bernard.
 

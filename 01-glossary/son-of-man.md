@@ -1,15 +1,16 @@
 ---
-title: Son of Man
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: son-of-man. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Son of Man
 aliases:
   - Son of Man
   - son-of-man
 tags:
   - term/son-of-man
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: son-of-man. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Son of Man

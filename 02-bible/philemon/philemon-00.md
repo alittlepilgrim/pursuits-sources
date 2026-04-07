@@ -1,25 +1,25 @@
 ---
-title: Philemon, The Letter To Philemon
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Philemon, the Letter to Philemon
+title: Philemon, The Letter To Philemon
+url: https://bible.usccb.org/bible/philemon/0
 aliases:
   - philemon-00
   - Philemon, the Letter to Philemon
   - Philemon, The Letter To Philemon
 tags:
+  - bible/book
+  - bible/new-testament
   - bible/philemon
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/philemon/0
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Philemon, the Letter to Philemon
 ---
 
 # Philemon, the Letter to Philemon
 
- 
+[Introduction](philemon-00.md) [1](philemon-01.md)
 
 ## The Letter to Philemon
 

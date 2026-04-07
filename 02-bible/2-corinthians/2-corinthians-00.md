@@ -1,20 +1,20 @@
 ---
-title: 2 Corinthians, The Second Letter To The Corinthians
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Corinthians, the Second Letter to the Corinthians
+title: 2 Corinthians, The Second Letter To The Corinthians
+url: https://bible.usccb.org/bible/2corinthians/0
 aliases:
   - 2 Corinthians, the Second Letter to the Corinthians
   - 2 Corinthians, The Second Letter To The Corinthians
   - 2-corinthians-00
 tags:
   - bible/2-corinthians
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/2corinthians/0
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Corinthians, the Second Letter to the Corinthians
 ---
 
 # 2 Corinthians, the Second Letter to the Corinthians

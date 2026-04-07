@@ -1,26 +1,26 @@
 ---
-title: DIGNITATIS HUMANAE
-created: 2025-08-22
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Declaration on religious freedom - Dignitatis Humanae
+title: Dignitatis Humanae
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html
 aliases:
   - "*DIGNITATIS HUMANAE*"
   - 20250822-142033
   - Dignitatis Humanae
   - dignitatis-humanae
 tags:
+  - graph/bible-v2
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-08-22
+modified: 2026-04-06
+publish: true
+description: Declaration on religious freedom - Dignitatis Humanae
 abbreviation: dh
-author: Catholic Church
-url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html
 ---
 
-DECLARATION ON RELIGIOUS FREEDOM
+Apostolicam Actuositatem
 
-# *DIGNITATIS HUMANAE*
+# Dignitatis Humanae
 
 ON THE RIGHT OF THE PERSON AND OF COMMUNITIES
 
@@ -128,21 +128,21 @@ May the God and Father of all grant that the human family, through careful obser
 
 ## Notes
 
-1\. Cf. John XXIII, encycl. "**", April 11, 1963: AAS 55 (1963) p. 279; ibid., p. 265; Pius XII, radio message, Dec. 24, 1944: AAS 37 (1945), p. 14. ^dh-fn-1
+1\. Cf. John XXIII, encycl. "*[Pacem in Terris](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem_en.html)*", April 11, 1963: AAS 55 (1963) p. 279; ibid., p. 265; Pius XII, radio message, Dec. 24, 1944: AAS 37 (1945), p. 14. ^dh-fn-1
 
-2\. Cf. John XXIII, encycL "**", April 11, 1963: AAS 55 (1963), pp. 260-261; Pius XII, radio message, Dec. 24, 1942: AAS 35 (1943), p. 19; Pius XI, encycl. "**", March 14, 1937: AAS 29 (1937), p. 160; Leo XIII, encycl. "**", June 20, 1888: Acts of Leo XIII 8 (1888), p. 237-238. ^dh-fn-2
+2\. Cf. John XXIII, encycL "*[Pacem in Terris](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem_en.html)*", April 11, 1963: AAS 55 (1963), pp. 260-261; Pius XII, radio message, Dec. 24, 1942: AAS 35 (1943), p. 19; Pius XI, encycl. "*[Mit Brennender Sorge](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge_en.html)*", March 14, 1937: AAS 29 (1937), p. 160; Leo XIII, encycl. "*[Libertas Praestantissimum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_20061888_libertas_en.html)*", June 20, 1888: Acts of Leo XIII 8 (1888), p. 237-238. ^dh-fn-2
 
-3\. Cf. John XXIII, encycl. "**", April 11, 1963: AAS 55 (1963), p. 270; Paul VI, radio message, Dec. 22, 1964: AAS 57 (1965), pp. 181-182. ^dh-fn-3
+3\. Cf. John XXIII, encycl. "*[Pacem in Terris](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem_en.html)*", April 11, 1963: AAS 55 (1963), p. 270; Paul VI, radio message, Dec. 22, 1964: AAS 57 (1965), pp. 181-182. ^dh-fn-3
 
-4\. Cf. John XXIII, encycl. "**", May 15, 1961: AAS 53 (1961), p. 417; idem, encycl. "Pacem in Terris", April 11, 1963: AAS 55 (1963), p. 273. ^dh-fn-4
+4\. Cf. John XXIII, encycl. "*[Mater et Magistra](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_15051961_mater_en.html)*", May 15, 1961: AAS 53 (1961), p. 417; idem, encycl. "Pacem in Terris", April 11, 1963: AAS 55 (1963), p. 273. ^dh-fn-4
 
-5\. Cf. John XXIII, encycl. "**", April 11, 1963: AAS 55 (1963), pp. 273-274; Pius XII, radio message, June 1 1941: AAS 33 (1941), p. 200. ^dh-fn-5
+5\. Cf. John XXIII, encycl. "*[Pacem in Terris](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem_en.html)*", April 11, 1963: AAS 55 (1963), pp. 273-274; Pius XII, radio message, June 1 1941: AAS 33 (1941), p. 200. ^dh-fn-5
 
-6\. Cf. Leo XIII, encycl. "**", Nov. 1, 1885: AAS 18 (1885) p. 161. ^dh-fn-6
+6\. Cf. Leo XIII, encycl. "*[Immortale Dei](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei_en.html)*", Nov. 1, 1885: AAS 18 (1885) p. 161. ^dh-fn-6
 
 7\. Cf. Lactantius "*Divinarum Institutionum*", Book V, 19: CSEL 19, pp. 463-464, 465: PL 6, 614 and 616 (ch. 20); St. Ambrose, "*Epistola ad Valentianum Imp*.", Letter 21: PL 16, 1005; St. Augustine, "*Contra Litteras Petiliani*", Book II, ch. 83: CSEL 52 p. 112: PL 43, 315; cf. C. 23, q. 5, c. 33, (ed. Friedberg, col. 939); idem, Letter 23: PL 33, 98, idem, Letter 34: PL 33, 132; idem, Letter 35: PL 33, 135; St. Gregory the Great, "*Epistola ad Virgilium et Theodorum Episcopos Massiliae Galliarum*, Register of Letters I, 45: MGH Ep. 1, p. 72: PL 77, 510-511 (Book I, ep. 47); idem, "*Epistola ad Johannem Episcopum Constantinopolitanum*", Register of Letters, III, 52: MGH Letter 1, p. 210: PL 77, 649 (Book III, Letter 53); cf. D. 45, c. 1 (ed. Friedberg, col 160); Council of Toledo IV, c. 57: Mansi 10, 633; cf. D. 45, c. 5 (ed. Friedberg, col. 161-162); Clement III: X., V, 6, 9: ed. Friedberg, col. 774; Innocent III, "*Epistola ad Arelatensem Archiepiscopum*", X., III, 42, 3: Friedberg, col. 646. ^dh-fn-7
 
-8\. Cf. CIC, c. **; Pius XII, *allocution to prelate auditors and other officials and administrators of the tribune of the Holy Roman Rota*, Oct. 6, 1946: AAS 38 (1946), p. 394; idem. Encycl **", June 29, 1943: AAS (1943) p. 243. ^dh-fn-8
+8\. Cf. CIC, c. *[1351](https://www.vatican.va/archive/ENG1104/__P50.HTM)*; Pius XII, *allocution to prelate auditors and other officials and administrators of the tribune of the Holy Roman Rota*, Oct. 6, 1946: AAS 38 (1946), p. 394; idem. Encycl *[Mystici Corporis](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi_en.html)*", June 29, 1943: AAS (1943) p. 243. ^dh-fn-8
 
 9\. Cf. *Eph*. 1:5. ^dh-fn-9
 
@@ -154,7 +154,7 @@ May the God and Father of all grant that the human family, through careful obser
 
 13\. Cf. *Matt*. 11:28-30; *John* 6:67-68. ^dh-fn-13
 
-14\. Cf. *Matt*. 9:28-29; *Mark* 9:23-24; 6:5-6; Paul VI, encycl. "**", Aug. 6, 1964: AAS 56 (1964), pp. 642-643. ^dh-fn-14
+14\. Cf. *Matt*. 9:28-29; *Mark* 9:23-24; 6:5-6; Paul VI, encycl. "*[Ecclesiam Suam](https://www.vatican.va/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam_en.html)*", Aug. 6, 1964: AAS 56 (1964), pp. 642-643. ^dh-fn-14
 
 15\. Cf. *Matt*. 11:20-24; *Rom*. 12:19-20; 2 *Thess*. 1:8. ^dh-fn-15
 
@@ -188,9 +188,9 @@ May the God and Father of all grant that the human family, through careful obser
 
 30\. Cf. *Acts* 4: 19-20. ^dh-fn-30
 
-31\. Cf. Leo XIII, letter "**", Dec. 22 1887: AAS 20 (1887), p. 269; idem, letter "Ex Litteris", April 7 1887: AAS 19 (1886), p. 465. ^dh-fn-31
+31\. Cf. Leo XIII, letter "*[Officio Sanctissimo](http://www.vatican.net/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_22121887_officio-sanctissimo_en.html)*", Dec. 22 1887: AAS 20 (1887), p. 269; idem, letter "Ex Litteris", April 7 1887: AAS 19 (1886), p. 465. ^dh-fn-31
 
-32\. Cf. [[mark-16#^mark-16-15|Mark 16:15;]] [[matthew-28#^matthew-28-18|Matt. 28:18-20,]]Pius XII, encycl. "**", Oct. 20, 1939: AAS 31 (1939). pp. 445-446. ^dh-fn-32
+32\. Cf. [[mark-16#^mark-16-15|Mark 16:15;]] [[matthew-28#^matthew-28-18|Matt. 28:18-20,]]Pius XII, encycl. "*[Summi Pontificatus](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus_en.html)*", Oct. 20, 1939: AAS 31 (1939). pp. 445-446. ^dh-fn-32
 
 33\. Cf. Pius XI, letter "*Firmissiman Constantiam*", March 28, 1937: AAS 29 (1937), p. 196. ^dh-fn-33
 
@@ -200,6 +200,6 @@ May the God and Father of all grant that the human family, through careful obser
 
 36\. Cf. [[acts-of-the-apostles-04|Acts 4]]:29. ^dh-fn-36
 
-37\. Cf. John XXIII, encycl. "**", April 11, 1963:AAS 55 (1963), pp. 299-300. ^dh-fn-37
+37\. Cf. John XXIII, encycl. "*[Pacem in Terris](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem_en.html)*", April 11, 1963:AAS 55 (1963), pp. 299-300. ^dh-fn-37
 
-38\. Cf. John XXIII, encycl. "**", April 11, 1963:AAS 55 (1963) pp. 295-296. ^dh-fn-38
+38\. Cf. John XXIII, encycl. "*[Pacem in Terris](https://www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem_en.html)*", April 11, 1963:AAS 55 (1963) pp. 295-296. ^dh-fn-38

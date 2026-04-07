@@ -1,18 +1,19 @@
 ---
-title: Psalm 149
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 149
+title: Psalm 149
+url: https://bible.usccb.org/bible/psalms/149
 aliases:
   - Psalm 149
   - psalm-149
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/149
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 149
 ---
 
 # Psalm 149

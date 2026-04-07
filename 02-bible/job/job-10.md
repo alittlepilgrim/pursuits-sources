@@ -1,25 +1,24 @@
 ---
-title: Job, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Job, Chapter 10
+title: Job, Chapter 10
+url: https://bible.usccb.org/bible/job/10
 aliases:
   - job-10
   - Job, Chapter 10
 tags:
+  - bible/chapter
   - bible/job
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/job/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Job, Chapter 10
 ---
 
 # Job, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 I will give myself up to complaint;
 

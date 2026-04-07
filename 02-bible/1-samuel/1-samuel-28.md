@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 28
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 28
+title: 1 Samuel, Chapter 28
+url: https://bible.usccb.org/bible/1samuel/28
 aliases:
   - 1 Samuel, Chapter 28
   - 1-samuel-28
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/28
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 28
 ---
 
 # 1 Samuel, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 1 In those days the Philistines mustered their military forces to fight against Israel. So Achish said to David, “You realize, of course, that you and your warriors must march out for battle with me.” ^1-samuel-28-1
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/1samuel/28
 
 5 When Saul saw the Philistine camp, he grew afraid and lost heart completely. ^1-samuel-28-5
 
-6 He consulted the L ORD; but the L ORD gave no answer, neither in dreams nor by Urim nor through prophets. ^1-samuel-28-6
+6 He consulted the LORD; but the LORD gave no answer, neither in dreams nor by Urim nor through prophets. ^1-samuel-28-6
 
 7 Then Saul said to his servants, “Find me a medium through whom I can seek counsel.” His servants answered him, “There is a woman in Endor who is a medium.” ^1-samuel-28-7
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/1samuel/28
 
 9 But the woman answered him, “You know what Saul has done, how he expelled the mediums and diviners from the land. Then why are you trying to entrap me and get me killed?” ^1-samuel-28-9
 
-10 But Saul swore to her by the L ORD, “As the L ORD lives, you shall incur no blame for this.” ^1-samuel-28-10
+10 But Saul swore to her by the LORD, “As the LORD lives, you shall incur no blame for this.” ^1-samuel-28-10
 
 11 “Whom do you want me to conjure up?” the woman asked him. “Conjure up Samuel for me,” he replied. ^1-samuel-28-11
 
@@ -59,13 +58,13 @@ url: https://bible.usccb.org/bible/1samuel/28
 
 15 Samuel then said to Saul, “Why do you disturb me by conjuring me up?” Saul replied: “I am in great distress, for the Philistines are waging war against me and God has turned away from me. Since God no longer answers me through prophets or in dreams, I have called upon you to tell me what I should do.” ^1-samuel-28-15
 
-16 To this Samuel said: “But why do you ask me, if the L ORD has abandoned you for your neighbor? ^1-samuel-28-16
+16 To this Samuel said: “But why do you ask me, if the LORD has abandoned you for your neighbor? ^1-samuel-28-16
 
-17 The L ORD has done to you what he declared through me: he has torn the kingdom from your hand and has given it to your neighbor David. ^1-samuel-28-17
+17 The LORD has done to you what he declared through me: he has torn the kingdom from your hand and has given it to your neighbor David. ^1-samuel-28-17
 
-18 “Because you disobeyed the L ORD’s directive and would not carry out his fierce anger against Amalek, the L ORD has done this to you today. ^1-samuel-28-18
+18 “Because you disobeyed the LORD’s directive and would not carry out his fierce anger against Amalek, the LORD has done this to you today. ^1-samuel-28-18
 
-19 Moreover, the L ORD will deliver Israel, and you as well, into the hands of the Philistines. By tomorrow you and your sons will be with me, and the L ORD will have delivered the army of Israel into the hands of the Philistines.” ^1-samuel-28-19
+19 Moreover, the LORD will deliver Israel, and you as well, into the hands of the Philistines. By tomorrow you and your sons will be with me, and the LORD will have delivered the army of Israel into the hands of the Philistines.” ^1-samuel-28-19
 
 20 Immediately Saul fell full length on the ground, in great fear because of Samuel’s message. He had no strength left, since he had eaten nothing all that day and night. ^1-samuel-28-20
 

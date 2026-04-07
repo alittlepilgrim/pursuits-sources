@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 19
+title: 2 Samuel, Chapter 19
+url: https://bible.usccb.org/bible/2samuel/19
 aliases:
   - 2 Samuel, Chapter 19
   - 2-samuel-19
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/19
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 19
 ---
 
 # 2 Samuel, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 1 The king was shaken, and went up to the room over the city gate and wept. He said as he wept, “My son Absalom! My son, my son Absalom! If only I had died instead of you, Absalom, my son, my son!” ^2-samuel-19-1
 
@@ -37,7 +36,7 @@ url: https://bible.usccb.org/bible/2samuel/19
 
 7 by loving those who hate you and hating those who love you. For you have announced today that officers and servants are nothing to you. Indeed I am now certain that if Absalom were alive today and all of us dead, that would be fine with you. ^2-samuel-19-7
 
-8 Now then, get up! Go out and speak kindly to your servants. I swear by the L ORD that if you do not go out, not a single man will remain with you overnight, and this will be a far greater disaster for you than any that has come upon you from your youth until now.” ^2-samuel-19-8
+8 Now then, get up! Go out and speak kindly to your servants. I swear by the LORD that if you do not go out, not a single man will remain with you overnight, and this will be a far greater disaster for you than any that has come upon you from your youth until now.” ^2-samuel-19-8
 
 9 So the king got up and sat at the gate. When all the people were told, “The king is sitting at the gate,” they came into his presence. ^2-samuel-19-9
 
@@ -69,7 +68,7 @@ url: https://bible.usccb.org/bible/2samuel/19
 
 21 For your servant knows that I have done wrong. But I now am the first of the whole house of Joseph to come down today to meet my lord the king.” ^2-samuel-19-21
 
-22 But Abishai, son of Zeruiah, countered: “Shimei must be put to death for this. He cursed the anointed of the L ORD.” ^2-samuel-19-22
+22 But Abishai, son of Zeruiah, countered: “Shimei must be put to death for this. He cursed the anointed of the LORD.” ^2-samuel-19-22
 
 23 David replied: “What has come between you and me, sons of Zeruiah, that you would become my adversaries this day? Should anyone die today in Israel? Am I not aware that today I am king over Israel?” ^2-samuel-19-23
 

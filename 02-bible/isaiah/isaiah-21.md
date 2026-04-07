@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 21
+title: Isaiah, Chapter 21
+url: https://bible.usccb.org/bible/isaiah/21
 aliases:
   - isaiah-21
   - Isaiah, Chapter 21
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/21
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 21
 ---
 
 # Isaiah, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
-#### Fall of Babylon
+### Fall of Babylon
 
 1 Oracle on the wastelands by the sea: ^isaiah-21-1
 
@@ -115,13 +114,13 @@ beaten on my threshing floor,
 
 What I have heard
 
-from the L ORD of hosts,
+from the LORD of hosts,
 
 The God of Israel,
 
 I have announced to you.
 
-#### Dumah
+### Dumah
 
 11 Oracle on Dumah: ^isaiah-21-11
 
@@ -137,7 +136,7 @@ Watchman, how much longer the night?”
 
 If you will ask, ask; come back again.”
 
-#### In the Steppe
+### In the Steppe
 
 13 Oracle: in the steppe: ^isaiah-21-13
 
@@ -161,7 +160,7 @@ from the thick of battle.
 
 16 For thus the Lord has said to me: In another year, like the years of a hired laborer, all the glory of Kedar shall come to an end. ^isaiah-21-16
 
-17 Few of Kedar’s stalwart archers shall remain, for the L ORD, the God of Israel, has spoken. ^isaiah-21-17
+17 Few of Kedar’s stalwart archers shall remain, for the LORD, the God of Israel, has spoken. ^isaiah-21-17
 
 \* (21:1] – [10) This oracle against Babylon is probably to be dated to the period just before the fall of Babylon to the Persians in 539 B.C. (v. [9]).
 

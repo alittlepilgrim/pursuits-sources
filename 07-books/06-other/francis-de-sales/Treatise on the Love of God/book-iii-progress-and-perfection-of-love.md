@@ -1,23 +1,21 @@
 ---
-title: Book III. Progress and Perfection of Love - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book III. Progress and Perfection of Love
+title: Book III. Progress and Perfection of Love - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book III. Progress and Perfection of Love
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book III. Progress and Perfection of Love
 ---
 
 # Book III. Progress and Perfection of Love
 
-### Chapter I. That Holy Love May Be Augmented Still More and More in Every One of Us
+## Chapter I. That Holy Love May Be Augmented Still More and More in Every One of Us
 
 The sacred Council of Trent assures us, that the friends of God, proceeding from virtue to virtue, are day by day renewed, that is, they increase by good works in the justice which they have received by God's grace, and are more and more justified, according to those heavenly admonitions; He that is just let him be justified still: and he that is holy, let him be sanctified still. [122] And: Be not afraid to be justified even to death. [123] The path of the just, as a shining light, goeth forwards and increaseth even to perfect day. [124] Doing the truth in charity, let us in all things grow up in him who is the head, even Christ. [125] And finally: This I pray, that your charity may more and more abound in knowledge and in all understanding. [126]
 
@@ -63,7 +61,7 @@ Meanwhile it is an extreme honour to our souls that they may still grow more and
 
 [134] Ps. lxxxiii. 6.
 
-### Chapter II. How Easy Our Saviour Has Made the Increase of Love
+## Chapter II. How Easy Our Saviour Has Made the Increase of Love
 
 Do you see, Theotimus, that glass of water or that piece of bread which a holy soul gives to a poor body for God's sake; it is a small matter, God knows, and in human judgment hardly worthy of consideration: God, notwithstanding, recompenses it, and forthwith gives for it some increase of charity. The goat's-hair which was anciently presented to the Tabernacle was received in good part, and had place amongst the holy offerings; and the little actions which proceed from charity are agreeable to God, and have their place among merits. For as in Araby the Blest, not only the plants which are by nature aromatic, but even all the others, are sweet, gaining a share in the felicity of that soil; so in a charitable soul not only the works which are excellent of their own nature, but also the little actions, smell of the virtue of holy love, and have a good odour before the majesty of God, who in consideration of them increases charity. And I say God does it, because Charity does not produce her own increase as a tree does, which by its own virtue produces and throws out, one from another, its boughs: but as Faith, Hope and Charity are virtues which have their origin from the divine goodness, so thence also they draw their increase and perfection, not unlike bees, which, having their extraction from honey, have also their food from it.
 
@@ -87,7 +85,7 @@ In the action of moral virtues little works bring no increase to the virtue when
 
 [138] Matt vi. 20.
 
-### Chapter III. How a Soul in Charity Makes Progress in It
+## Chapter III. How a Soul in Charity Makes Progress in It
 
 Let us make use of a parable, Theotimus, seeing that this method was so agreeable to the sovereign Master of the love which we are teaching. A great and brave King, having espoused a most amiable young princess, and having on a certain day led her into a very retired cabinet, there to converse with her more at his pleasure, after some discourse saw her by a certain sudden accident fall down as dead at his feet. Alas! he was extremely disturbed at this, and it well nigh put him also into a swoon; for she was dearer to him than his own life. Yet the same love that gave him this assault of grief, gave him an equal strength to sustain it, and set him into action to remedy, with an incomparable promptitude, the evil which had happened to the dear companion of his life. Therefore rapidly opening a sideboard which stood by, he takes a cordial-water, infinitely precious, and having filled his mouth with it, by force he opens the lips and the set teeth of his well-beloved princess, then breathing and spurting the precious liquor which he held in his mouth, into that of his poor lifeless one who lay in a swoon, and pouring what was left in the phial about the nostrils, the temples, and the heart, he made her return to herself and to her senses again; that done, he helps her up gently, and by virtue of remedies so strengthens and revives her, that she begins to stand and walk very quietly with him; but in no sort without his help, for he goes assisting and sustaining her by her arm, till at length he lays to her heart an epithem so precious and of so great virtue, that finding herself entirely restored to her wonted health, she walks all alone, her dear spouse not now sustaining her so much, but only holding her right hand softly between his, and his right arm folded over hers on to her bosom. Thus he went on treating her, and fulfilling to her in all this four most agreeable offices: for 1. He gave testimony that his heart was lovingly careful of her. 2. He continued ever a little nursing her. 3. If she had felt any touch of her former faintness he would have sustained her. 4. If she had lighted on any rough and difficult place in her walking he would have been her support and stay: and in accidents, or when she would make a little more haste, he raised her and powerfully succoured her. In fine he stayed by her with this heartfelt care till night approached, and then he assisted to lay her in her royal bed.
 
@@ -125,7 +123,7 @@ And Our Saviour revealed to S. Catharine of Sienna, that he was in the midst of 
 
 [146] Ps. xxii.
 
-### Chapter IV. of Holy Perseverance in Sacred Love
+## Chapter IV. of Holy Perseverance in Sacred Love
 
 Even as a tender mother, leading with her her little babe, assists and supports him as need requires, letting him now and then venture a step by himself in less dangerous and very smooth places, now taking him by the hand and steadying him, now taking him up in her arms and bearing him, so Our Lord has a continual care to conduct his children, that is such as are in charity; making them walk before him, reaching them his hand in difficulties, and bearing them himself in such travails, as he sees otherwise insupportable unto them. This he declared by Isaias saying: I am the Lord thy God, who take thee by the hand, and say to thee: fear not, I have helped thee. [147] So that with a good heart we must have a firm confidence in God, and his assistance, for if we fail not to second his grace, he will accomplish in us the good work of our salvation, which he also began working in us both to will and to accomplish, [148] as the holy Council of Trent assures us.
 
@@ -163,7 +161,7 @@ So, Theotimus, following the advice of the holy Council, we ought to place our w
 
 [155] Ps. lxx. 9.
 
-### Chapter V. That the Happiness of Dying in Heavenly Charity Is a Special Gift of
+## Chapter V. That the Happiness of Dying in Heavenly Charity Is a Special Gift of
 
 GOD.
 
@@ -187,7 +185,7 @@ But mark, I pray you, Theotimus, how ardently God desires we should be his, sinc
 
 [156] Ps. lxxii. 24.
 
-### Chapter VI. That We Cannot Attain to Perfect Union with God in This Mortal Life
+## Chapter VI. That We Cannot Attain to Perfect Union with God in This Mortal Life
 
 All the rivers flow incessantly, and, as the wise man says: Unto the place from whence they come they return to flow again. [157] The sea which is the place whence they spring, is also the place of their final repose; all their motion tends no farther than to unite themselves to their fountain. "O God," says S. Augustine, "thou hast created my heart for thyself, and it can never repose but in thee." For what have I in heaven, and besides thee what do I desire upon earth? Thou art the God of my heart, and the God that is my portion for ever. [158] Still the union which our heart aspires to cannot attain to its perfection in this mortal life; we can commence our loves in this, but we can consummate them only in the other.
 
@@ -211,7 +209,7 @@ Whence, according to the original Hebrew text and the Seventy interpreters, she 
 
 [161] Cant. i. 1.
 
-### Chapter VII. That the Charity of Saints in This Mortal Life Equals, Yea Sometimes
+## Chapter VII. That the Charity of Saints in This Mortal Life Equals, Yea Sometimes
 
 SURPASSES, THAT OF THE BLESSED.
 
@@ -229,7 +227,7 @@ And as, when comparing hot iron and a burning lamp, we say the iron has more fir
 
 [162] Luke vi. 38.
 
-### Chapter VIII. of the Incomparable Love Which the Mother of God, Our Blessed Lady
+## Chapter VIII. of the Incomparable Love Which the Mother of God, Our Blessed Lady
 
 HAD.
 
@@ -255,7 +253,7 @@ To conclude, as the precious stone, asbestos, does by a peerless propriety prese
 
 [166] Gen. xxxvii.; Apoc. xii. 1.
 
-### Chapter IX. a Preparation for the Discourse on the Union of the Blessed with God
+## Chapter IX. a Preparation for the Discourse on the Union of the Blessed with God
 
 The triumphant love which the blessed in heaven exercise, consists in the final, invariable and eternal union of the soul with its God. But this union--what is it?
 
@@ -279,7 +277,7 @@ then, dearest Theotimus, what raptures! what ecstasies! what admiration! what lo
 
 [169] Luke xxiv. 32.
 
-### Chapter X. That the Preceding Desire Will Much Increase the Union of the Blessed
+## Chapter X. That the Preceding Desire Will Much Increase the Union of the Blessed
 
 WITH GOD.
 
@@ -289,7 +287,7 @@ Be, be ever, my soul, without any rest or tranquillity on this earth, till thou 
 
 Now, Theotimus, imagine to yourself with the Psalmist, that hart which, hard set by the hounds, has neither wind nor legs; how greedily he plunges himself into the waters which he panted after, and with what ardour he rolls into and buries himself in that element. One would think he would willingly be dissolved and converted into water, more fully to enjoy its coolness. Ah! what a union of our hearts shall there be with God there above in heaven, where, after these infinite desires of the true good never assuaged in this world, we shall find the living and powerful source thereof. Then, truly, as we see a hungry child closely fixed to his mother's breast, greedily press this dear fountain of most desired sweetness, so that one would think that either it would thrust itself into its mother's breast, or else suck and draw all that breast into itself; so our soul, panting with an extreme thirst for the true good, when she shall find that inexhaustible source in the Divinity,--O good God! what a holy and sweet ardour to be united and joined to the plentiful breasts of the All-goodness, either to be altogether absorbed in it, or to have it come entirely into us!
 
-### Chapter XI. of the Union of the Blessed Spirits with God, in the Vision of the
+## Chapter XI. of the Union of the Blessed Spirits with God, in the Vision of the
 
 DIVINITY.
 
@@ -309,7 +307,7 @@ Infinite bliss, Theotimus, and one which has not been promised only, but of whic
 
 [172] Is. lxvi. 10, 11, 12.
 
-### Chapter XII. of the Eternal Union of the Blessed Spirits with God, in the Vision of
+## Chapter XII. of the Eternal Union of the Blessed Spirits with God, in the Vision of
 
 THE ETERNAL BIRTH OF THE SON OF GOD.
 
@@ -327,7 +325,7 @@ The most sweet S. Bernard, as yet a little boy at Chastillon-sur-Seine, was wait
 
 [174] Ps. xviii. 6.
 
-### Chapter XIII. of the Union of the Blessed with God in the Vision of the Production of
+## Chapter XIII. of the Union of the Blessed with God in the Vision of the Production of
 
 THE HOLY GHOST.
 
@@ -343,7 +341,7 @@ But, O God! if human friendship be so agreeably lovely, and spread so delicious 
 
 [175] Ps. cxxxii.
 
-### Chapter XIV. That the Holy Light of Glory Will Serve for the Union of the Blessed
+## Chapter XIV. That the Holy Light of Glory Will Serve for the Union of the Blessed
 
 SPIRITS WITH GOD.
 
@@ -355,7 +353,7 @@ Divers, who, fishing for precious stones, go down into the water, take oil, says
 
 [176] Ps. xxxv. 10.
 
-### Chapter XV. That There Shall Be Different Degrees of the Union of the Blessed with
+## Chapter XV. That There Shall Be Different Degrees of the Union of the Blessed with
 
 GOD.
 

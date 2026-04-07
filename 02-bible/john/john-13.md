@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 13
+title: John, Chapter 13
+url: https://bible.usccb.org/bible/john/13
 aliases:
   - john-13
   - John, Chapter 13
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/13
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 13
 ---
 
 # John, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **The Washing of the Disciples’ Feet.**
 

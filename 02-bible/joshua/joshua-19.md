@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 19
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 19
+title: Joshua, Chapter 19
+url: https://bible.usccb.org/bible/joshua/19
 aliases:
   - joshua-19
   - Joshua, Chapter 19
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/19
-testament: old
-url: https://bible.usccb.org/bible/joshua/19
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 19
 ---
 
 # Joshua, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **Simeon.**
 
@@ -134,9 +132,9 @@ url: https://bible.usccb.org/bible/joshua/19
 
 49 When the last of them had received the portions of the land they were to inherit, the Israelites assigned a heritage in their midst to Joshua, son of Nun. ^joshua-19-49
 
-50 According to the command of the L ORD, they gave him the city he requested, Timnah-serah in the mountain region of Ephraim. He rebuilt the city and made it his home. ^joshua-19-50
+50 According to the command of the LORD, they gave him the city he requested, Timnah-serah in the mountain region of Ephraim. He rebuilt the city and made it his home. ^joshua-19-50
 
-51 These are the heritages which Eleazar the priest, Joshua, son of Nun, and the heads of families in the tribes of the Israelites apportioned by lot in the presence of the L ORD, at the door of the tent of meeting in Shiloh. Thus they finished dividing the land. ^joshua-19-51
+51 These are the heritages which Eleazar the priest, Joshua, son of Nun, and the heads of families in the tribes of the Israelites apportioned by lot in the presence of the LORD, at the door of the tent of meeting in Shiloh. Thus they finished dividing the land. ^joshua-19-51
 
 \* (19:10] – [16) Zebulun’s territory was in the central section of the Jezreel Valley and of southern Galilee; it was bounded on the south by Manasseh, on the southeast by Issachar, on the northeast and north by Naphtali, and on the west by Asher. The site of the later city of Nazareth was within its borders. Bethlehem of Zebulun was, of course, distinct from the city of the same name in Judah. Twelve cities: apparently seven of the names are missing from v. [15], unless some of the places mentioned in vv. [12] – [14] are to be included in the number.
 

@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 19
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 19
+title: Judges, Chapter 19
+url: https://bible.usccb.org/bible/judges/19
 aliases:
   - judges-19
   - Judges, Chapter 19
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/19
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 19
 ---
 
 # Judges, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **The Levite from Ephraim.**
 

@@ -1,29 +1,28 @@
 ---
-title: Judges, Chapter 6
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 6
+title: Judges, Chapter 6
+url: https://bible.usccb.org/bible/judges/6
 aliases:
   - judges-06
   - Judges, Chapter 6
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 6
 ---
 
 # Judges, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **The Call of Gideon.**
 
-1 The Israelites did what was evil in the sight of the L ORD, who therefore delivered them into the power of Midian for seven years, ^judges-06-1
+1 The Israelites did what was evil in the sight of the LORD, who therefore delivered them into the power of Midian for seven years, ^judges-06-1
 
 2 so that Midian held Israel subject. From fear of Midian the Israelites made dens in the mountains, the caves, and the strongholds. ^judges-06-2
 
@@ -33,27 +32,27 @@ url: https://bible.usccb.org/bible/judges/6
 
 5 For they would come up with their livestock, and their tents would appear as thick as locusts. They would be too many to count when they came into the land to lay it waste. ^judges-06-5
 
-6 Israel was reduced to utter poverty by Midian, and so the Israelites cried out to the L ORD. ^judges-06-6
+6 Israel was reduced to utter poverty by Midian, and so the Israelites cried out to the LORD. ^judges-06-6
 
-7 When Israel cried out to the L ORD because of Midian, ^judges-06-7
+7 When Israel cried out to the LORD because of Midian, ^judges-06-7
 
-8 the L ORD sent a prophet to the Israelites who said to them: Thus says the L ORD, the God of Israel: I am the one who brought you up from Egypt; I brought you out of the house of slavery. ^judges-06-8
+8 the LORD sent a prophet to the Israelites who said to them: Thus says the LORD, the God of Israel: I am the one who brought you up from Egypt; I brought you out of the house of slavery. ^judges-06-8
 
 9 I rescued you from the power of Egypt and all your oppressors. I drove them out before you and gave you their land. ^judges-06-9
 
-10 And I said to you: I, the L ORD, am your God; you shall not fear the gods of the Amorites in whose land you are dwelling. But you did not listen to me. ^judges-06-10
+10 And I said to you: I, the LORD, am your God; you shall not fear the gods of the Amorites in whose land you are dwelling. But you did not listen to me. ^judges-06-10
 
-11 Then the messenger of the L ORD came and sat under the terebinth in Ophrah that belonged to Joash the Abiezrite. Joash’s son Gideon was beating out wheat in the wine press to save it from the Midianites, ^judges-06-11
+11 Then the messenger of the LORD came and sat under the terebinth in Ophrah that belonged to Joash the Abiezrite. Joash’s son Gideon was beating out wheat in the wine press to save it from the Midianites, ^judges-06-11
 
-12 and the messenger of the L ORD appeared to him and said: The L ORD is with you, you mighty warrior! ^judges-06-12
+12 and the messenger of the LORD appeared to him and said: The LORD is with you, you mighty warrior! ^judges-06-12
 
-13 “My lord,” Gideon said to him, “if the L ORD is with us, why has all this happened to us? Where are his wondrous deeds about which our ancestors told us when they said, ‘Did not the L ORD bring us up from Egypt?’ For now the L ORD has abandoned us and has delivered us into the power of Midian.” ^judges-06-13
+13 “My lord,” Gideon said to him, “if the LORD is with us, why has all this happened to us? Where are his wondrous deeds about which our ancestors told us when they said, ‘Did not the LORD bring us up from Egypt?’ For now the LORD has abandoned us and has delivered us into the power of Midian.” ^judges-06-13
 
-14 The L ORD turned to him and said: Go with the strength you have, and save Israel from the power of Midian. Is it not I who send you? ^judges-06-14
+14 The LORD turned to him and said: Go with the strength you have, and save Israel from the power of Midian. Is it not I who send you? ^judges-06-14
 
 15 But he answered him, “Please, my Lord, how can I save Israel? My family is the poorest in Manasseh, and I am the most insignificant in my father’s house.” ^judges-06-15
 
-16 The L ORD said to him: I will be with you, and you will cut down Midian to the last man. ^judges-06-16
+16 The LORD said to him: I will be with you, and you will cut down Midian to the last man. ^judges-06-16
 
 17 He answered him, “If you look on me with favor, give me a sign that you are the one speaking with me. ^judges-06-17
 
@@ -63,19 +62,19 @@ url: https://bible.usccb.org/bible/judges/6
 
 20 The messenger of God said to him: Take the meat and unleavened cakes and lay them on this rock; then pour out the broth. When he had done so, ^judges-06-20
 
-21 the messenger of the L ORD stretched out the tip of the staff he held. When he touched the meat and unleavened cakes, a fire came up from the rock and consumed the meat and unleavened cakes. Then the messenger of the L ORD disappeared from sight. ^judges-06-21
+21 the messenger of the LORD stretched out the tip of the staff he held. When he touched the meat and unleavened cakes, a fire came up from the rock and consumed the meat and unleavened cakes. Then the messenger of the LORD disappeared from sight. ^judges-06-21
 
-22 Gideon, now aware that it had been the messenger of the L ORD, said, “Alas, Lord G OD, that I have seen the messenger of the L ORD face to face!” ^judges-06-22
+22 Gideon, now aware that it had been the messenger of the LORD, said, “Alas, Lord G OD, that I have seen the messenger of the LORD face to face!” ^judges-06-22
 
-23 The L ORD answered him: You are safe. Do not fear. You shall not die. ^judges-06-23
+23 The LORD answered him: You are safe. Do not fear. You shall not die. ^judges-06-23
 
-24 So Gideon built there an altar to the L ORD and called it Yahweh-shalom. To this day it is still in Ophrah of the Abiezrites. ^judges-06-24
+24 So Gideon built there an altar to the LORD and called it Yahweh-shalom. To this day it is still in Ophrah of the Abiezrites. ^judges-06-24
 
-25 That same night the L ORD said to him: Take your father’s bull, the bull fattened for seven years, and pull down your father’s altar to Baal. As for the asherah beside it, cut it down ^judges-06-25
+25 That same night the LORD said to him: Take your father’s bull, the bull fattened for seven years, and pull down your father’s altar to Baal. As for the asherah beside it, cut it down ^judges-06-25
 
-26 and build an altar to the L ORD, your God, on top of this stronghold with the pile of wood. Then take the fattened bull and offer it as a whole-burnt sacrifice on the wood from the asherah you have cut down. ^judges-06-26
+26 and build an altar to the LORD, your God, on top of this stronghold with the pile of wood. Then take the fattened bull and offer it as a whole-burnt sacrifice on the wood from the asherah you have cut down. ^judges-06-26
 
-27 So Gideon took ten of his servants and did as the L ORD had commanded him. But he was too afraid of his family and of the townspeople to do it by day; he did it at night. ^judges-06-27
+27 So Gideon took ten of his servants and did as the LORD had commanded him. But he was too afraid of his family and of the townspeople to do it by day; he did it at night. ^judges-06-27
 
 28 Early the next morning the townspeople found that the altar of Baal had been dismantled, the asherah beside it cut down, and the fattened bull offered on the altar that was built. ^judges-06-28
 
@@ -89,7 +88,7 @@ url: https://bible.usccb.org/bible/judges/6
 
 33 Then all Midian and Amalek and the Kedemites mustered and crossed over into the valley of Jezreel, where they encamped. ^judges-06-33
 
-34 And Gideon was clothed with the spirit of the L ORD, and he blew the horn summoning Abiezer to follow him. ^judges-06-34
+34 And Gideon was clothed with the spirit of the LORD, and he blew the horn summoning Abiezer to follow him. ^judges-06-34
 
 35 He sent messengers throughout Manasseh, and they, too, were summoned to follow him; he also sent messengers throughout Asher, Zebulun, and Naphtali, and they advanced to meet the others. ^judges-06-35
 
@@ -117,7 +116,7 @@ url: https://bible.usccb.org/bible/judges/6
 
 \* (6:32) Jerubbaal: similar in sound to the Hebrew words meaning, “Let Baal take action.”
 
-\* (6:34) Clothed with the spirit of the L ORD: narratives about the selection of leaders in early Israel typically attribute their prowess to “the spirit of the Lord,” not to their own qualities (cf. v. [15]). The Lord’s spirit “comes upon” them ([3:10]; [11:29]; [13:25]) or “rushes upon” them ([14:6], [19]; [15:14]; [1 Sm 11:6]), and they are transformed into effective leaders. Here, Gideon is “clothed” with the Lord’s spirit; cf. the clothing or vesture imagery in [Is 59:17]; [61:10]; [[ezekiel-16|Ez 16]]:10 – [14]; [Jb 29:14].
+\* (6:34) Clothed with the spirit of the LORD: narratives about the selection of leaders in early Israel typically attribute their prowess to “the spirit of the Lord,” not to their own qualities (cf. v. [15]). The Lord’s spirit “comes upon” them ([3:10]; [11:29]; [13:25]) or “rushes upon” them ([14:6], [19]; [15:14]; [1 Sm 11:6]), and they are transformed into effective leaders. Here, Gideon is “clothed” with the Lord’s spirit; cf. the clothing or vesture imagery in [Is 59:17]; [61:10]; [[ezekiel-16|Ez 16]]:10 – [14]; [Jb 29:14].
 
 a. (6:2) [1 Sm 13:6].
 

@@ -1,15 +1,16 @@
 ---
-title: Consecrated Virgins
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: consecrated-virgins. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Consecrated Virgins
 aliases:
   - Consecrated Virgins
   - consecrated-virgins
 tags:
   - term/consecrated-virgins
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: consecrated-virgins. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Consecrated Virgins

@@ -1,25 +1,24 @@
 ---
-title: Colossians, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Colossians, Chapter 4
+title: Colossians, Chapter 4
+url: https://bible.usccb.org/bible/colossians/4
 aliases:
   - colossians-04
   - Colossians, Chapter 4
 tags:
+  - bible/chapter
   - bible/colossians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/colossians/4
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Colossians, Chapter 4
 ---
 
 # Colossians, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 Masters, treat your slaves justly and fairly, realizing that you too have a Master in heaven. ^colossians-04-1
 
@@ -35,7 +34,7 @@ url: https://bible.usccb.org/bible/colossians/4
 
 6 Let your speech always be gracious, seasoned with salt, so that you know how you should respond to each one. ^colossians-04-6
 
-## V. Conclusion
+# V. Conclusion
 
 **Tychicus and Onesimus.**
 

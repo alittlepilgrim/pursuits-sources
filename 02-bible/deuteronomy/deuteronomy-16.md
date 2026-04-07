@@ -1,51 +1,50 @@
 ---
-title: Deuteronomy, Chapter 16
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 16
+title: Deuteronomy, Chapter 16
+url: https://bible.usccb.org/bible/deuteronomy/16
 aliases:
   - deuteronomy-16
   - Deuteronomy, Chapter 16
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 16
 ---
 
 # Deuteronomy, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **Feast of the Passover.**
 
-1 Observe the month of Abib by keeping the Passover of the L ORD, your God, since it was in the month of Abib that the L ORD, your God, brought you out of Egypt by night. ^deuteronomy-16-1
+1 Observe the month of Abib by keeping the Passover of the LORD, your God, since it was in the month of Abib that the LORD, your God, brought you out of Egypt by night. ^deuteronomy-16-1
 
-2 You shall offer the Passover sacrifice from your flock and your herd to the L ORD, your God, in the place the L ORD will choose as the dwelling place of his name. ^deuteronomy-16-2
+2 You shall offer the Passover sacrifice from your flock and your herd to the LORD, your God, in the place the LORD will choose as the dwelling place of his name. ^deuteronomy-16-2
 
 3 You shall not eat leavened bread with it. For seven days you shall eat with it only unleavened bread, the bread of affliction, so that you may remember as long as you live the day you left the land of Egypt; for in hurried flight you left the land of Egypt. ^deuteronomy-16-3
 
 4 No leaven is to be found with you in all your territory for seven days, and none of the meat which you sacrificed on the evening of the first day shall be kept overnight for the next day. ^deuteronomy-16-4
 
-5 You may not sacrifice the Passover in any of the communities which the L ORD, your God, gives you; ^deuteronomy-16-5
+5 You may not sacrifice the Passover in any of the communities which the LORD, your God, gives you; ^deuteronomy-16-5
 
-6 only at the place which the L ORD, your God, will choose as the dwelling place of his name, and in the evening at sunset, at the very time when you left Egypt, shall you sacrifice the Passover. ^deuteronomy-16-6
+6 only at the place which the LORD, your God, will choose as the dwelling place of his name, and in the evening at sunset, at the very time when you left Egypt, shall you sacrifice the Passover. ^deuteronomy-16-6
 
-7 You shall cook and eat it at the place the L ORD, your God, will choose; then in the morning you may return to your tents. ^deuteronomy-16-7
+7 You shall cook and eat it at the place the LORD, your God, will choose; then in the morning you may return to your tents. ^deuteronomy-16-7
 
-8 For six days you shall eat unleavened bread, and on the seventh day there shall be a solemn assembly for the L ORD, your God; on that day you shall do no work. ^deuteronomy-16-8
+8 For six days you shall eat unleavened bread, and on the seventh day there shall be a solemn assembly for the LORD, your God; on that day you shall do no work. ^deuteronomy-16-8
 
 **Feast of Weeks.**
 
 9 You shall count off seven weeks; begin to count the seven weeks from the day when the sickle is first put to the standing grain. ^deuteronomy-16-9
 
-10 You shall then keep the feast of Weeks for the L ORD, your God, and the measure of your own voluntary offering which you will give shall be in proportion to the blessing the L ORD, your God, has given you. ^deuteronomy-16-10
+10 You shall then keep the feast of Weeks for the LORD, your God, and the measure of your own voluntary offering which you will give shall be in proportion to the blessing the LORD, your God, has given you. ^deuteronomy-16-10
 
-11 You shall rejoice in the presence of the L ORD, your God, together with your son and daughter, your male and female slave, and the Levite within your gates, as well as the resident alien, the orphan, and the widow among you, in the place which the L ORD, your God, will choose as the dwelling place of his name. ^deuteronomy-16-11
+11 You shall rejoice in the presence of the LORD, your God, together with your son and daughter, your male and female slave, and the Levite within your gates, as well as the resident alien, the orphan, and the widow among you, in the place which the LORD, your God, will choose as the dwelling place of his name. ^deuteronomy-16-11
 
 12 Remember that you too were slaves in Egypt, so carry out these statutes carefully. ^deuteronomy-16-12
 
@@ -55,25 +54,25 @@ url: https://bible.usccb.org/bible/deuteronomy/16
 
 14 You shall rejoice at your feast, together with your son and daughter, your male and female slave, and also the Levite, the resident alien, the orphan and the widow within your gates. ^deuteronomy-16-14
 
-15 For seven days you shall celebrate this feast for the L ORD, your God, in the place which the L ORD will choose; since the L ORD, your God, has blessed you in all your crops and in all your undertakings, you will be full of joy. ^deuteronomy-16-15
+15 For seven days you shall celebrate this feast for the LORD, your God, in the place which the LORD will choose; since the LORD, your God, has blessed you in all your crops and in all your undertakings, you will be full of joy. ^deuteronomy-16-15
 
-16 Three times a year, then, all your males shall appear before the L ORD, your God, in the place which he will choose: at the feast of Unleavened Bread, at the feast of Weeks, and at the feast of Booths. They shall not appear before the L ORD empty-handed, ^deuteronomy-16-16
+16 Three times a year, then, all your males shall appear before the LORD, your God, in the place which he will choose: at the feast of Unleavened Bread, at the feast of Weeks, and at the feast of Booths. They shall not appear before the LORD empty-handed, ^deuteronomy-16-16
 
-17 but each with his own gift, in proportion to the blessing which the L ORD, your God, has given to you. ^deuteronomy-16-17
+17 but each with his own gift, in proportion to the blessing which the LORD, your God, has given to you. ^deuteronomy-16-17
 
 **Justice.**
 
-18 In all the communities which the L ORD, your God, is giving you, you shall appoint judges and officials throughout your tribes to administer true justice for the people. ^deuteronomy-16-18
+18 In all the communities which the LORD, your God, is giving you, you shall appoint judges and officials throughout your tribes to administer true justice for the people. ^deuteronomy-16-18
 
 19 You must not distort justice: you shall not show partiality; you shall not take a bribe, for a bribe blinds the eyes even of the wise and twists the words even of the just. ^deuteronomy-16-19
 
-20 Justice, justice alone shall you pursue, so that you may live and possess the land the L ORD, your God, is giving you. ^deuteronomy-16-20
+20 Justice, justice alone shall you pursue, so that you may live and possess the land the LORD, your God, is giving you. ^deuteronomy-16-20
 
 **Illicit Worship.**
 
-21 You shall not plant an asherah of any kind of wood next to the altar of the L ORD, your God, which you will build; ^deuteronomy-16-21
+21 You shall not plant an asherah of any kind of wood next to the altar of the LORD, your God, which you will build; ^deuteronomy-16-21
 
-22 nor shall you erect a sacred pillar, such as the L ORD, your God, hates. ^deuteronomy-16-22
+22 nor shall you erect a sacred pillar, such as the LORD, your God, hates. ^deuteronomy-16-22
 
 \* (16:1) Abib: “ear of grain, ripe grain,” the name of the month in which the barley harvest fell, corresponding to our March and April; at a later period this month received the Babylonian name of “Nisan.”
 

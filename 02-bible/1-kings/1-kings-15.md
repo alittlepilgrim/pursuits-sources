@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 15
+title: 1 Kings, Chapter 15
+url: https://bible.usccb.org/bible/1kings/15
 aliases:
   - 1 Kings, Chapter 15
   - 1-kings-15
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/15
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 15
 ---
 
 # 1 Kings, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Reign of Abijam.**
 
@@ -27,11 +26,11 @@ url: https://bible.usccb.org/bible/1kings/15
 
 2 he reigned three years in Jerusalem. His mother’s name was Maacah, daughter of Abishalom. ^1-kings-15-2
 
-3 He followed all the sins his father had committed before him, and his heart was not entirely with the L ORD, his God, as was the heart of David his father. ^1-kings-15-3
+3 He followed all the sins his father had committed before him, and his heart was not entirely with the LORD, his God, as was the heart of David his father. ^1-kings-15-3
 
-4 Yet for David’s sake the L ORD, his God, gave him a holding in Jerusalem, raising up his son after him and permitting Jerusalem to endure, ^1-kings-15-4
+4 Yet for David’s sake the LORD, his God, gave him a holding in Jerusalem, raising up his son after him and permitting Jerusalem to endure, ^1-kings-15-4
 
-5 because David had done what was right in the sight of the L ORD and did not disobey any of his commands as long as he lived, except in the case of Uriah the Hittite. ^1-kings-15-5
+5 because David had done what was right in the sight of the LORD and did not disobey any of his commands as long as he lived, except in the case of Uriah the Hittite. ^1-kings-15-5
 
 6 There was war between Rehoboam and Jeroboam all their days. ^1-kings-15-6
 
@@ -45,21 +44,21 @@ url: https://bible.usccb.org/bible/1kings/15
 
 10 he reigned forty-one years in Jerusalem. His mother’s name was Maacah, daughter of Abishalom. ^1-kings-15-10
 
-11 Asa did what was right in the sight of the L ORD like David his father, ^1-kings-15-11
+11 Asa did what was right in the sight of the LORD like David his father, ^1-kings-15-11
 
 12 banishing the pagan priests from the land and removing all the idols his ancestors had made. ^1-kings-15-12
 
 13 He also deposed his grandmother Maacah from her position as queen mother, because she had made an outrageous object for Asherah. Asa cut down this object and burned it in the Wadi Kidron. ^1-kings-15-13
 
-14 The high places did not disappear; yet Asa’s heart was entirely with the L ORD as long as he lived. ^1-kings-15-14
+14 The high places did not disappear; yet Asa’s heart was entirely with the LORD as long as he lived. ^1-kings-15-14
 
-15 He brought into the house of the L ORD his father’s and his own votive offerings of silver and gold and various vessels. ^1-kings-15-15
+15 He brought into the house of the LORD his father’s and his own votive offerings of silver and gold and various vessels. ^1-kings-15-15
 
 16 There was war between Asa and Baasha, king of Israel, all their days. ^1-kings-15-16
 
 17 Baasha, king of Israel, attacked Judah and fortified Ramah to blockade Asa, king of Judah. ^1-kings-15-17
 
-18 Asa then took all the silver and gold remaining in the treasuries of the house of the L ORD and the house of the king. Entrusting them to his ministers, King Asa sent them to Ben-hadad, son of Tabrimmon, son of Hezion, king of Aram, who ruled in Damascus. He said: ^1-kings-15-18
+18 Asa then took all the silver and gold remaining in the treasuries of the house of the LORD and the house of the king. Entrusting them to his ministers, King Asa sent them to Ben-hadad, son of Tabrimmon, son of Hezion, king of Aram, who ruled in Damascus. He said: ^1-kings-15-18
 
 19 “There is a treaty between you and me, as there was between your father and my father. I am sending you a present of silver and gold. Go, break your treaty with Baasha, king of Israel, that he may withdraw from me.” ^1-kings-15-19
 
@@ -77,15 +76,15 @@ url: https://bible.usccb.org/bible/1kings/15
 
 25 Nadab, son of Jeroboam, became king of Israel in the second year of Asa, king of Judah. For two years he reigned over Israel. ^1-kings-15-25
 
-26 He did what was evil in the L ORD’s sight, walking in the way of his father and the sin he had caused Israel to commit. ^1-kings-15-26
+26 He did what was evil in the LORD’s sight, walking in the way of his father and the sin he had caused Israel to commit. ^1-kings-15-26
 
 27 Baasha, son of Ahijah, of the house of Issachar, plotted against him and struck him down at Gibbethon of the Philistines, which Nadab and all Israel were besieging. ^1-kings-15-27
 
 28 Baasha killed him in the third year of Asa, king of Judah, and succeeded him as king. ^1-kings-15-28
 
-29 Once he was king, he killed the entire house of Jeroboam, not leaving a single soul but destroying Jeroboam utterly, according to the word of the L ORD spoken through his servant, Ahijah the Shilonite, ^1-kings-15-29
+29 Once he was king, he killed the entire house of Jeroboam, not leaving a single soul but destroying Jeroboam utterly, according to the word of the LORD spoken through his servant, Ahijah the Shilonite, ^1-kings-15-29
 
-30 because of the sins Jeroboam committed and caused Israel to commit, by which he provoked the L ORD, the God of Israel, to anger. ^1-kings-15-30
+30 because of the sins Jeroboam committed and caused Israel to commit, by which he provoked the LORD, the God of Israel, to anger. ^1-kings-15-30
 
 31 The rest of the acts of Nadab, with all that he did, are recorded in the book of the chronicles of the kings of Israel. ^1-kings-15-31
 
@@ -95,7 +94,7 @@ url: https://bible.usccb.org/bible/1kings/15
 
 33 In the third year of Asa, king of Judah, Baasha, son of Ahijah, became king of all Israel in Tirzah for twenty-four years. ^1-kings-15-33
 
-34 He did what was evil in the L ORD’s sight, walking in the way of Jeroboam and the sin he had caused Israel to commit. ^1-kings-15-34
+34 He did what was evil in the LORD’s sight, walking in the way of Jeroboam and the sin he had caused Israel to commit. ^1-kings-15-34
 
 \* (15:10]\] Maacah was in fact Asa’s grandmother (see v. [2]), but “king’s mother” was perhaps a title for the *gebira*, the “Great Lady” or “queen mother” (see, for instance, [2:19]). This influential position was usually held by the king’s biological mother, but Maacah may have retained it after the early death of her son Abijam.
 

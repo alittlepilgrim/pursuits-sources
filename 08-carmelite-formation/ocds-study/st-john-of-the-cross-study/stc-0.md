@@ -1,15 +1,15 @@
 ---
-title: St. John of the Cross and Creation Introductory Summary
-created: 2026-01-17
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: St. John of the Cross and Creation Introductory Summary
+author: General Curia
 aliases:
   - 20260117-175343
   - St. John of the Cross and Creation Introductory Summary
 tags:
   - carmel/formation
-author: General Curia
+created: 2026-01-17
+modified: 2026-04-04
+publish: true
 ---
 
 # St. John of the Cross and Creation Introductory Summary
@@ -41,3 +41,4 @@ For 2026, the texts chosen are as follows:
 
 General Curia of the Teresian Carmel www.discalcedcarmelite.com
 
+[Source: General Curia](https://www.carmelitaniscalzi.com/wp-content/uploads/2026/01/EN_Scheda-0-2026.pdf)

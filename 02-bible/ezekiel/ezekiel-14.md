@@ -1,45 +1,44 @@
 ---
-title: Ezekiel, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 14
+title: Ezekiel, Chapter 14
+url: https://bible.usccb.org/bible/ezekiel/14
 aliases:
   - ezekiel-14
   - Ezekiel, Chapter 14
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 14
 ---
 
 # Ezekiel, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Idolatry and Unfaithfulness.**
 
 1 Some elders of Israel came and sat down before me. ^ezekiel-14-1
 
-2 Then the word of the L ORD came to me: ^ezekiel-14-2
+2 Then the word of the LORD came to me: ^ezekiel-14-2
 
 3 Son of man, these men keep the memory of their idols alive in their hearts, setting the stumbling block of their sin before them. Should I allow myself to be consulted by them? ^ezekiel-14-3
 
-4 Therefore say to them: Thus says the Lord G OD: If any of the house of Israel who keep the memory of their idols in their hearts, setting the stumbling block of their sin before them, come to a prophet, I the L ORD will answer in person because of their many idols, ^ezekiel-14-4
+4 Therefore say to them: Thus says the Lord G OD: If any of the house of Israel who keep the memory of their idols in their hearts, setting the stumbling block of their sin before them, come to a prophet, I the LORD will answer in person because of their many idols, ^ezekiel-14-4
 
 5 in order to catch the hearts of the house of Israel, estranged from me because of all their idols. ^ezekiel-14-5
 
 6 Therefore say to the house of Israel: Thus says the Lord G OD: Return, turn away from your idols; from all your abominations, turn your faces. ^ezekiel-14-6
 
-7 For if anyone of the house of Israel or any alien residing in Israel who are estranged from me and who keep their idols in their hearts, setting the stumbling block of their sin before them, come to ask a prophet to consult me on their behalf, I the L ORD will answer them in person. ^ezekiel-14-7
+7 For if anyone of the house of Israel or any alien residing in Israel who are estranged from me and who keep their idols in their hearts, setting the stumbling block of their sin before them, come to ask a prophet to consult me on their behalf, I the LORD will answer them in person. ^ezekiel-14-7
 
-8 I will set my face against them and make them a sign and a byword, and cut them off from the midst of my people. Thus you shall know that I am the L ORD. ^ezekiel-14-8
+8 I will set my face against them and make them a sign and a byword, and cut them off from the midst of my people. Thus you shall know that I am the LORD. ^ezekiel-14-8
 
-9 As for the prophet, if he speaks a deceiving word, I the L ORD am the one who deceives that prophet. I will stretch out my hand against him and destroy him from the midst of my people Israel. ^ezekiel-14-9
+9 As for the prophet, if he speaks a deceiving word, I the LORD am the one who deceives that prophet. I will stretch out my hand against him and destroy him from the midst of my people Israel. ^ezekiel-14-9
 
 10 They will be punished for their own sins, the inquirer and the prophet alike, ^ezekiel-14-10
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/ezekiel/14
 
 **Just Cause.**
 
-12 The word of the L ORD came to me: ^ezekiel-14-12
+12 The word of the LORD came to me: ^ezekiel-14-12
 
 13 Son of man, if a land sins against me by breaking faith, and I stretch out my hand against it, breaking its staff of bread and setting famine loose upon it, cutting off from it human being and beast alike— ^ezekiel-14-13
 

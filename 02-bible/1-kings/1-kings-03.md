@@ -1,41 +1,40 @@
 ---
-title: 1 Kings, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 3
+title: 1 Kings, Chapter 3
+url: https://bible.usccb.org/bible/1kings/3
 aliases:
   - 1 Kings, Chapter 3
   - 1-kings-03
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/3
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 3
 ---
 
 # 1 Kings, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Early Promise of Solomon’s Reign.**
 
-1 Solomon allied himself by marriage with Pharaoh, king of Egypt. He married the daughter of Pharaoh and brought her to the City of David, until he should finish building his own house, and the house of the L ORD, and the wall around Jerusalem. ^1-kings-03-1
+1 Solomon allied himself by marriage with Pharaoh, king of Egypt. He married the daughter of Pharaoh and brought her to the City of David, until he should finish building his own house, and the house of the LORD, and the wall around Jerusalem. ^1-kings-03-1
 
-2 The people were sacrificing on the high places, however, for up to that time no house had been built for the name of the L ORD. ^1-kings-03-2
+2 The people were sacrificing on the high places, however, for up to that time no house had been built for the name of the LORD. ^1-kings-03-2
 
-3 Although Solomon loved the L ORD, walking in the statutes of David his father, he offered sacrifice and burned incense on the high places. ^1-kings-03-3
+3 Although Solomon loved the LORD, walking in the statutes of David his father, he offered sacrifice and burned incense on the high places. ^1-kings-03-3
 
 4 The king went to Gibeon to sacrifice there, because that was the great high place. Upon its altar Solomon sacrificed a thousand burnt offerings. ^1-kings-03-4
 
-5 In Gibeon the L ORD appeared to Solomon in a dream at night. God said: Whatever you ask I shall give you. ^1-kings-03-5
+5 In Gibeon the LORD appeared to Solomon in a dream at night. God said: Whatever you ask I shall give you. ^1-kings-03-5
 
 6 Solomon answered: “You have shown great kindness to your servant, David my father, because he walked before you with fidelity, justice, and an upright heart; and you have continued this great kindness toward him today, giving him a son to sit upon his throne. ^1-kings-03-6
 
-7 Now, L ORD, my God, you have made me, your servant, king to succeed David my father; but I am a mere youth, not knowing at all how to act— ^1-kings-03-7
+7 Now, LORD, my God, you have made me, your servant, king to succeed David my father; but I am a mere youth, not knowing at all how to act— ^1-kings-03-7
 
 8 I, your servant, among the people you have chosen, a people so vast that it cannot be numbered or counted. ^1-kings-03-8
 

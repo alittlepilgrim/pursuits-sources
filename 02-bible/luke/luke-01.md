@@ -1,25 +1,24 @@
 ---
-title: Luke, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Luke, Chapter 1
+title: Luke, Chapter 1
+url: https://bible.usccb.org/bible/luke/1
 aliases:
   - luke-01
   - Luke, Chapter 1
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/1
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 1
 ---
 
 # Luke, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 Since many have undertaken to compile a narrative of the events that have been fulfilled among us, ^luke-01-1
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/luke/1
 
 4 so that you may realize the certainty of the teachings you have received. ^luke-01-4
 
-## Ii. the Infancy Narrative
+# Ii. the Infancy Narrative
 
 **Announcement of the Birth of John.**
 

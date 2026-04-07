@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 47
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 47
+title: Sirach, Chapter 47
+url: https://bible.usccb.org/bible/sirach/47
 aliases:
   - sirach-47
   - Sirach, Chapter 47
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/47
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 47
 ---
 
 # Sirach, Chapter 47
 
-### Chapter 47
+## Chapter 47
 
-#### Nathan, David, and Solomon
+### Nathan, David, and Solomon
 
 1 After him came N ATHAN ^sirach-47-1
 
@@ -83,7 +82,7 @@ providing sweet melody for the psalms
 
 before daybreak the sanctuary would resound.
 
-11 The L ORD forgave him his sins ^sirach-47-11
+11 The LORD forgave him his sins ^sirach-47-11
 
 and exalted his strength forever;
 
@@ -155,7 +154,7 @@ So he gave to Jacob a remnant,
 
 to David a root from his own family.
 
-#### Rehoboam and Jeroboam
+### Rehoboam and Jeroboam
 
 23 Solomon finally slept with his ancestors, ^sirach-47-23
 
@@ -173,7 +172,7 @@ Who brought ruin to Ephraim
 
 24 and caused them to be exiled from their land. ^sirach-47-24
 
-#### Elijah and Elisha
+### Elijah and Elisha
 
 25 Their sinfulness grew more and more, ^sirach-47-25
 

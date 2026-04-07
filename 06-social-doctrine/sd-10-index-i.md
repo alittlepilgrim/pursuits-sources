@@ -1,26 +1,28 @@
 ---
-title: I - Social Doctrine of the Church Analytical Index
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: false
+title: I - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - I - Social Doctrine of the Church Analytical Index
   - sd-10-index-i
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-14
+modified: 2026-04-06
+publish: false
 ---
 
 # I - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Ideology - Ideological
+## Ideology - Ideological
 
 Intraworldly ideologies of progress, [[sd-03-part-I#^csdc-48|48]]
 
@@ -54,7 +56,7 @@ Ideological control and social communications, [[sd-05-part-III#^csdc-557|557]]
 
 Christian commitment and ideological visions, [[sd-05-part-III#^csdc-558|558]]
 
-### Illiteracy
+## Illiteracy
 
 Illiteracy, poverty and the Church, [[sd-02-intro#^csdc-5|5]]
 
@@ -62,7 +64,7 @@ Illiteracy, underdevelopment and poverty, [[sd-04-part-II#^csdc-447|447]]
 
 Illiteracy and ecumenical cooperation, [[sd-05-part-III#^csdc-535|535]]
 
-### Imbalance - Disparity
+## Imbalance - Disparity
 
 (see Also [[sd-10-index-o#Inequality|Inequality]])
 
@@ -76,7 +78,7 @@ Imbalances in the world of work, [[sd-04-part-II#^csdc-321|321]]
 
 Imbalances between man and nature, [[sd-04-part-II#^csdc-454|454]]
 
-### Immigration - Emigration - Immigrants
+## Immigration - Emigration - Immigrants
 
 _Octogesima Adveniens_ and emigration, [[sd-03-part-I#^csdc-100|100]]
 
@@ -88,31 +90,31 @@ Regulating immigration, [[sd-04-part-II#^csdc-298|298]]
 
 Globalisation, unions and immigrants, [[sd-04-part-II#^csdc-308|308]]
 
-### Immoral
+## Immoral
 
 - See [[sd-10-index-m#Moral|Moral]]
 
-### Impoverishment
+## Impoverishment
 
 - See [[sd-10-index-p#Poverty|Poverty]]
 
-### Income
+## Income
 
 Distribution of income and justice, [[sd-04-part-II#^csdc-303|303]]
 
 Informal economic activities and low incomes, [[sd-04-part-II#^csdc-316|316]]
 
-### Incorporated
+## Incorporated
 
 The laity, incorporated into Christ by baptism, [[sd-05-part-III#^csdc-541|541]]
 
-### Inculturation
+## Inculturation
 
 Christian anthropology and inculturation, [[sd-05-part-III#^csdc-523|523]]
 
 Educational institutions and inculturation, [[sd-05-part-III#^csdc-532|532]]
 
-### Individual Person
+## Individual Person
 
 Sin, free act of an individual person, [[sd-03-part-I#^csdc-117|117]]
 
@@ -120,13 +122,13 @@ What is true for the individual is also true for peoples, [[sd-03-part-I#^csdc-1
 
 The individual person and development, [[sd-03-part-I#^csdc-168|168]]
 
-### Industriousness
+## Industriousness
 
 Labour, human capital and industriousness, [[sd-04-part-II#^csdc-278|278]]
 
 Independent work and industriousness, [[sd-04-part-II#^csdc-315|315]]
 
-### Industry - Industrial
+## Industry - Industrial
 
 The industrial revolution and the labour question, [[sd-03-part-I#^csdc-88|88]]
 
@@ -158,7 +160,7 @@ Indigenous peoples and agro-industrial interests, [[sd-04-part-II#^csdc-471|471]
 
 Industrial production and the order of creation, [[sd-04-part-II#^csdc-486|486]]
 
-### Inequality
+## Inequality
 
 (see Also [[sd-10-index-o#Imbalance|Imbalance]])
 
@@ -180,7 +182,7 @@ Public authorities and inequalities, [[sd-04-part-II#^csdc-389|389]]
 
 The media and inequalities, [[sd-05-part-III#^csdc-561|561]]
 
-### Infidelity
+## Infidelity
 
 (see Also [[sd-10-index-o#Failings|Failings]])
 
@@ -188,7 +190,7 @@ Infidelity of the people of God, [[sd-04-part-II#^csdc-219|219]]*
 
 Messianic tradition and infidelities of David, [[sd-04-part-II#^csdc-378|378]]
 
-### Information
+## Information
 
 Requirements of the common good and information, [[sd-03-part-I#^csdc-106|106]], [[sd-04-part-II#^csdc-415|415]]
 
@@ -222,7 +224,7 @@ Structures and policies of communication and information, [[sd-05-part-III#^csdc
 
 Discernment, accuracy and information, [[sd-05-part-III#^csdc-569|569]]
 
-### Injustice
+## Injustice
 
 The sabbatical year and social injustice, [[sd-03-part-I#^csdc-24|24]]
 
@@ -262,7 +264,7 @@ The media and injustice, [[sd-05-part-III#^csdc-561|561]]
 
 Renewal and forms of social injustice, [[sd-06-conclusion#^csdc-577|577]]
 
-### The Institution of the Family
+## The Institution of the Family
 
 The family, divine institution, [[sd-04-part-II#^csdc-211|211]]
 
@@ -272,17 +274,17 @@ The institution of the family and the social order, [[sd-04-part-II#^csdc-211|21
 
 The family, a natural institution, [[sd-04-part-II#^csdc-225|225]]
 
-### The Institution of the Free Market
+## The Institution of the Free Market
 
 The free market, an important institution, [[sd-04-part-II#^csdc-347|347]]
 
 The free market, an inhuman institution, [[sd-04-part-II#^csdc-348|348]]
 
-### The Institution of the Lord's Day
+## The Institution of the Lord's Day
 
 The institution of the Lord's Day, [[sd-04-part-II#^csdc-284|284]]
 
-### The Institution of Marriage
+## The Institution of Marriage
 
 Jesus and dignity of the institution of marriage, [[sd-04-part-II#^csdc-210|210]]
 
@@ -296,15 +298,15 @@ Foundations of the institution of marriage, [[sd-04-part-II#^csdc-220|220]]
 
 The institutional character of marriage, [[sd-04-part-II#^csdc-225|225]], [[sd-04-part-II#^csdc-229|229]]
 
-### The Institution of Private Property
+## The Institution of Private Property
 
 Labour, capital and the institution of private property, [[sd-04-part-II#^csdc-282|282]]
 
-### The Institution of Representation
+## The Institution of Representation
 
 The institution of representation and citizens, [[sd-04-part-II#^csdc-413|413]]
 
-### Institutions - Institutional - Institutionalization
+## Institutions - Institutional - Institutionalization
 
 The plan of God the Creator and human institutions, [[sd-02-intro#^csdc-11|11]]
 
@@ -408,7 +410,7 @@ Morality and the dehumanization of institutions, [[sd-05-part-III#^csdc-566|566]
 
 Democracy and legitimate institutions, [[sd-05-part-III#^csdc-567|567]]
 
-### Instruct - Instruction
+## Instruct - Instruction
 
 _Rerum Novarum_ and giving momentum to instruction, [[sd-04-part-II#^csdc-268|268]]
 
@@ -420,13 +422,13 @@ The right to work, the third sector and instruction, [[sd-04-part-II#^csdc-293|2
 
 The laity and the magisterium to instruct consciences, [[sd-05-part-III#^csdc-571|571]]
 
-### Insurance
+## Insurance
 
 _Rerum Novarum_, social initiatives and insurance, [[sd-04-part-II#^csdc-268|268]]
 
 Insurance, old age, disease and accidents, [[sd-04-part-II#^csdc-301|301]]
 
-### Interdependence
+## Interdependence
 
 Interdependence, model of unity and humanity, [[sd-03-part-I#^csdc-33|33]]
 
@@ -452,7 +454,7 @@ Interdependence and processes of globalization, [[sd-05-part-III#^csdc-564|564]]
 
 International relations and interdependence, [[sd-06-conclusion#^csdc-575|575]]
 
-### Intermediate
+## Intermediate
 
 The common good, the State and intermediate groups, [[sd-03-part-I#^csdc-168|168]]
 
@@ -468,7 +470,7 @@ Political authority and intermediate bodies, [[sd-04-part-II#^csdc-394|394]]
 
 The world community and intermediate associations, [[sd-04-part-II#^csdc-441|441]]
 
-### International Community - World Community - Community of Peoples - Global Community
+## International Community - World Community - Community of Peoples - Global Community
 
 (see Also [[sd-10-index-o#Community|Community]])
 
@@ -528,7 +530,7 @@ The international community and the removal of landmines, [[sd-04-part-II#^csdc-
 
 The international community and terrorism, [[sd-04-part-II#^csdc-513|513]]
 
-### International Law
+## International Law
 
 Foundations of international law, [[sd-03-part-I#^csdc-157|157]]
 

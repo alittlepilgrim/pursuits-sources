@@ -1,15 +1,17 @@
 ---
-title: Revelation (Definition)
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: revelation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Revelation (Definition)
+author:
 aliases:
   - Revelation (Definition)
   - revelation-definition
 tags:
   - term/revelation-definition
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: revelation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Revelation (Definition)

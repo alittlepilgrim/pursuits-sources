@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 47
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 47
+title: Genesis, Chapter 47
+url: https://bible.usccb.org/bible/genesis/47
 aliases:
   - 20250508-020402
   - genesis-47
   - Genesis, Chapter 47
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 47
 bible_book: genesis
 bible_chapter: "47"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/47
 ---
 
 [[genesis-46|[← Previous Note]]] · [[genesis-48|[Next Note →]]]
@@ -111,6 +110,6 @@ c. (47:30) [Gn 50:5]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]

@@ -1,16 +1,18 @@
 ---
-title: Remission of Sins
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: remission-of-sins. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Remission of Sins
+author:
 aliases:
   - Remission of Sins
   - Remission Of Sins
   - remission-of-sins
 tags:
   - term/remission-of-sins
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: remission-of-sins. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Remission of Sins

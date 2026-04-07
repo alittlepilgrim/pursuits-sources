@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 19
+title: Proverbs, Chapter 19
+url: https://bible.usccb.org/bible/proverbs/19
 aliases:
   - proverbs-19
   - Proverbs, Chapter 19
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/19
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 19
 ---
 
 # Proverbs, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 1 Better to be poor and walk in integrity ^proverbs-19-1
 
@@ -31,7 +30,7 @@ and whoever acts hastily, blunders.
 
 3 Their own folly leads people astray; ^proverbs-19-3
 
-in their hearts they rage against the L ORD.
+in their hearts they rage against the LORD.
 
 4 Wealth adds many friends, ^proverbs-19-4
 
@@ -75,7 +74,7 @@ and a quarrelsome wife is water constantly dripping.
 
 14 Home and possessions are an inheritance from parents, ^proverbs-19-14
 
-but a prudent wife is from the L ORD.
+but a prudent wife is from the LORD.
 
 15 Laziness brings on deep sleep, ^proverbs-19-15
 
@@ -85,7 +84,7 @@ and the sluggard goes hungry.
 
 but those who despise these ways will die.
 
-17 Whoever cares for the poor lends to the L ORD, ^proverbs-19-17
+17 Whoever cares for the poor lends to the LORD, ^proverbs-19-17
 
 who will pay back the sum in full.
 
@@ -103,13 +102,13 @@ that you may eventually become wise.
 
 21 Many are the plans of the human heart, ^proverbs-19-21
 
-but it is the decision of the L ORD that endures.
+but it is the decision of the LORD that endures.
 
 22 What is desired of a person is fidelity; ^proverbs-19-22
 
 rather be poor than a liar.
 
-23 The fear of the L ORD leads to life; ^proverbs-19-23
+23 The fear of the LORD leads to life; ^proverbs-19-23
 
 one eats and sleeps free from any harm.
 

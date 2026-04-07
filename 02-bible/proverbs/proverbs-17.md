@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 17
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 17
+title: Proverbs, Chapter 17
+url: https://bible.usccb.org/bible/proverbs/17
 aliases:
   - proverbs-17
   - Proverbs, Chapter 17
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/17
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 17
 ---
 
 # Proverbs, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
 1 Better a dry crust with quiet ^proverbs-17-1
 
@@ -31,7 +30,7 @@ and will share the inheritance of the children.
 
 3 The crucible for silver, and the furnace for gold, ^proverbs-17-3
 
-but the tester of hearts is the L ORD.
+but the tester of hearts is the LORD.
 
 4 The evildoer gives heed to wicked lips, ^proverbs-17-4
 
@@ -79,7 +78,7 @@ check a quarrel before it bursts forth!
 
 15 Whoever acquits the wicked, whoever condemns the just— ^proverbs-17-15
 
-both are an abomination to the L ORD.
+both are an abomination to the LORD.
 
 16 Of what use is money in the hands of fools ^proverbs-17-16
 

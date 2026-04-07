@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 8
+title: Judith, Chapter 8
+url: https://bible.usccb.org/bible/judith/8
 aliases:
   - judith-08
   - Judith, Chapter 8
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 8
 ---
 
 # Judith, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Description of Judith.**
 

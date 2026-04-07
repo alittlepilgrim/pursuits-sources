@@ -1,61 +1,60 @@
 ---
-title: Judges, Chapter 3
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 3
+title: Judges, Chapter 3
+url: https://bible.usccb.org/bible/judges/3
 aliases:
   - judges-03
   - Judges, Chapter 3
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 3
 ---
 
 # Judges, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-1 These are the nations the L ORD allowed to remain, so that through them he might test Israel, all those who had not experienced any of the Canaanite wars— ^judges-03-1
+1 These are the nations the LORD allowed to remain, so that through them he might test Israel, all those who had not experienced any of the Canaanite wars— ^judges-03-1
 
 2 to teach warfare to those generations of Israelites who had never experienced it: ^judges-03-2
 
 3 the five lords of the Philistines, and all the Canaanites, the Sidonians, and the Hivites who lived in the mountain region of the Lebanon between Baal-hermon and Lebo-hamath. ^judges-03-3
 
-4 These served as a test for Israel, to know whether they would obey the commandments the L ORD had enjoined on their ancestors through Moses. ^judges-03-4
+4 These served as a test for Israel, to know whether they would obey the commandments the LORD had enjoined on their ancestors through Moses. ^judges-03-4
 
 5 So the Israelites settled among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites. ^judges-03-5
 
 6 They took their daughters in marriage, and gave their own daughters to their sons in marriage, and served their gods. ^judges-03-6
 
-## Ii. Stories of the Judges
+# Ii. Stories of the Judges
 
 **Othniel.**
 
-7 Then the Israelites did what was evil in the sight of the L ORD; they forgot the L ORD, their God, and served the Baals and the Asherahs, ^judges-03-7
+7 Then the Israelites did what was evil in the sight of the LORD; they forgot the LORD, their God, and served the Baals and the Asherahs, ^judges-03-7
 
-8 and the anger of the L ORD flared up against them. He sold them into the power of Cushan-rishathaim, king of Aram Naharaim; and the Israelites served Cushan-rishathaim for eight years. ^judges-03-8
+8 and the anger of the LORD flared up against them. He sold them into the power of Cushan-rishathaim, king of Aram Naharaim; and the Israelites served Cushan-rishathaim for eight years. ^judges-03-8
 
-9 But when the Israelites cried out to the L ORD, he raised up a savior for them, to save them. It was Othniel, son of Caleb’s younger brother Kenaz. ^judges-03-9
+9 But when the Israelites cried out to the LORD, he raised up a savior for them, to save them. It was Othniel, son of Caleb’s younger brother Kenaz. ^judges-03-9
 
-10 The spirit of the L ORD came upon him, and he judged Israel. When he marched out to war, the L ORD delivered Cushan-rishathaim, king of Aram, into his power, and his hold on Cushan-rishathaim was firm. ^judges-03-10
+10 The spirit of the LORD came upon him, and he judged Israel. When he marched out to war, the LORD delivered Cushan-rishathaim, king of Aram, into his power, and his hold on Cushan-rishathaim was firm. ^judges-03-10
 
 11 So the land was at rest for forty years, until Othniel, son of Kenaz, died. ^judges-03-11
 
 **Ehud.**
 
-12 Again the Israelites did what was evil in the sight of the L ORD, so he strengthened Eglon, king of Moab, against Israel because they did what was evil in the sight of the L ORD. ^judges-03-12
+12 Again the Israelites did what was evil in the sight of the LORD, so he strengthened Eglon, king of Moab, against Israel because they did what was evil in the sight of the LORD. ^judges-03-12
 
 13 Taking the Ammonites and Amalek as allies, he went and defeated Israel, taking possession of the City of Palms. ^judges-03-13
 
 14 So the Israelites served Eglon, king of Moab, for eighteen years. ^judges-03-14
 
-15 But when the Israelites cried out to the L ORD, he raised up for them a savior, Ehud, son of Gera, a Benjaminite who was left-handed. The Israelites would send their tribute to Eglon, king of Moab, by him. ^judges-03-15
+15 But when the Israelites cried out to the LORD, he raised up for them a savior, Ehud, son of Gera, a Benjaminite who was left-handed. The Israelites would send their tribute to Eglon, king of Moab, by him. ^judges-03-15
 
 16 Ehud made himself a two-edged dagger a foot long, and strapped it under his clothes on his right thigh. ^judges-03-16
 

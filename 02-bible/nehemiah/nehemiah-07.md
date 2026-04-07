@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 7
+title: Nehemiah, Chapter 7
+url: https://bible.usccb.org/bible/nehemiah/7
 aliases:
   - nehemiah-07
   - Nehemiah, Chapter 7
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 7
 ---
 
 # Nehemiah, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 1 Now that the wall had been rebuilt, I had the doors set up, and the gatekeepers, the singers, and the Levites were put in charge of them. ^nehemiah-07-1
 

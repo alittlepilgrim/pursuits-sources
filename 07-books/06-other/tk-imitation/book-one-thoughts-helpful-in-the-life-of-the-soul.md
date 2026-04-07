@@ -1,21 +1,20 @@
 ---
-title: Book One. Thoughts Helpful in the Life of the Soul - The Imitation of Christ
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book One. Thoughts Helpful in the Life of the Soul - The Imitation of Christ
+title: Book One. Thoughts Helpful in the Life of the Soul - The Imitation of Christ
+author: Thomas à Kempis
 aliases:
   - Book One. Thoughts Helpful in the Life of the Soul - The Imitation of Christ
 tags:
-  - author/thomas-a-kempis
-  - book/imitation-of-christ
-author: Thomas à Kempis
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book One. Thoughts Helpful in the Life of the Soul - The Imitation of Christ
 ---
 
 # Book One. Thoughts Helpful in the Life of the Soul
 
-### Chapter 1. Imitating Christ and Despising All Vanities on Earth
+## Chapter 1. Imitating Christ and Despising All Vanities on Earth
 
 HE WHO follows Me, walks not in darkness," says the Lord (John 8:12).
 
@@ -31,7 +30,7 @@ Often recall the proverb: "The eye is not satisfied with seeing nor the ear fill
 
 [1] Eccles. 1:8.
 
-### Chapter 2. Having a Humble Opinion of Self
+## Chapter 2. Having a Humble Opinion of Self
 
 EVERY man naturally desires knowledge [2]; but what good is knowledge without fear of God? Indeed a humble rustic who serves God is better than a proud intellectual who neglects his soul to study the course of the stars. [3] He who knows himself well becomes mean in his own eyes and is not happy when praised by men.
 
@@ -49,7 +48,7 @@ If you wish to learn and appreciate something worth while, then love to be unkno
 
 [3] Augustine, Confessions V. 4.
 
-### Chapter 3. the Doctrine of Truth
+## Chapter 3. the Doctrine of Truth
 
 HAPPY is he to whom truth manifests itself, not in signs and words that fade, but as it actually is. Our opinions, our senses often deceive us and we discern very little.
 
@@ -83,7 +82,7 @@ How many there are who perish because of vain worldly knowledge and too little c
 
 He is truly great who has great charity. He is truly great who is little in his own eyes and makes nothing of the highest honor. He is truly wise who looks upon all earthly things as folly that he may gain Christ. He who does God's will and renounces his own is truly very learned.
 
-### Chapter 4. Prudence in Action
+## Chapter 4. Prudence in Action
 
 DO NOT yield to every impulse and suggestion but consider things carefully and patiently in the light of God's will. For very often, sad to say, we are so weak that we believe and speak evil of others rather than good. Perfect men, however, do not readily believe every talebearer, because they know that human frailty is prone to evil and is likely to appear in speech.
 
@@ -93,7 +92,7 @@ Take counsel with a wise and conscientious man. Seek the advice of your betters 
 
 A good life makes a man wise according to God and gives him experience in many things, for the more humble he is and the more subject to God, the wiser and the more at peace he will be in all things.
 
-### Chapter 5. Reading the Holy Scripture
+## Chapter 5. Reading the Holy Scripture
 
 TRUTH, not eloquence, is to be sought in reading the Holy Scriptures; and every part must be read in the spirit in which it was written. For in the Scriptures we ought to seek profit rather than polished diction.
 
@@ -103,13 +102,13 @@ Our curiosity often impedes our reading of the Scriptures, when we wish to under
 
 If you would profit from it, therefore, read with humility, simplicity, and faith, and never seek a reputation for being learned. Seek willingly and listen attentively to the words of the saints; do not be displeased with the sayings of the ancients, for they were not made without purpose.
 
-### Chapter 6. Unbridled Affections
+## Chapter 6. Unbridled Affections
 
 WHEN a man desires a thing too much, he at once becomes ill at ease. A proud and avaricious man never rests, whereas he who is poor and humble of heart lives in a world of peace. An unmortified man is quickly tempted and overcome in small, trifling evils; his spirit is weak, in a measure carnal and inclined to sensual things; he can hardly abstain from earthly desires. Hence it makes him sad to forego them; he is quick to anger if reproved. Yet if he satisfies his desires, remorse of conscience overwhelms him because he followed his passions and they did not lead to the peace he sought.
 
 True peace of heart, then, is found in resisting passions, not in satisfying them. There is no peace in the carnal man, in the man given to vain attractions, but there is peace in the fervent and spiritual man.
 
-### Chapter 7. Avoiding False Hope and Pride
+## Chapter 7. Avoiding False Hope and Pride
 
 VAIN is the man who puts his trust in men, in created things.
 
@@ -119,7 +118,7 @@ If you have wealth, do not glory in it, nor in friends because they are powerful
 
 Do not think yourself better than others lest, perhaps, you be accounted worse before God Who knows what is in man. Do not take pride in your good deeds, for God's judgments differ from those of men and what pleases them often displeases Him. If there is good in you, see more good in others, so that you may remain humble. It does no harm to esteem yourself less than anyone else, but it is very harmful to think yourself better than even one. The humble live in continuous peace, while in the hearts of the proud are envy and frequent anger.
 
-### Chapter 8. Shunning Over-familiarity
+## Chapter 8. Shunning Over-familiarity
 
 DO NOT open your heart to every man, but discuss your affairs with one who is wise and who fears God. Do not keep company with young people and strangers. Do not fawn upon the rich, and do not be fond of mingling with the great. Associate with the humble and the simple, with the devout and virtuous, and with them speak of edifying things. Be not intimate with any woman, but generally commend all good women to God.
 
@@ -127,7 +126,7 @@ Seek only the intimacy of God and of His angels, and avoid the notice of men.
 
 We ought to have charity for all men but familiarity with all is not expedient. Sometimes it happens that a person enjoys a good reputation among those who do not know him, but at the same time is held in slight regard by those who do. Frequently we think we are pleasing others by our presence and we begin rather to displease them by the faults they find in us.
 
-### Chapter 9. Obedience and Subjection
+## Chapter 9. Obedience and Subjection
 
 IT IS a very great thing to obey, to live under a superior and not to be one's own master, for it is much safer to be subject than it is to command. Many live in obedience more from necessity than from love.
 
@@ -139,7 +138,7 @@ Everyone, it is true, wishes to do as he pleases and is attracted to those who a
 
 Furthermore, who is so wise that he can have full knowledge of everything? Do not trust too much in your own opinions, but be willing to listen to those of others. If, though your own be good, you accept another's opinion for love of God, you will gain much more merit; for I have often heard that it is safer to listen to advice and take it than to give it. It may happen, too, that while one's own opinion may be good, refusal to agree with others when reason and occasion demand it, is a sign of pride and obstinacy.
 
-### Chapter 10. Avoiding Idle Talk
+## Chapter 10. Avoiding Idle Talk
 
 SHUN the gossip of men as much as possible, for discussion of worldly affairs, even though sincere, is a great distraction inasmuch as we are quickly ensnared and captivated by vanity.
 
@@ -151,7 +150,7 @@ When the right and opportune moment comes for speaking, say something that will 
 
 Bad habits and indifference to spiritual progress do much to remove the guard from the tongue. Devout conversation on spiritual matters, on the contrary, is a great aid to spiritual progress, especially when persons of the same mind and spirit associate together in God.
 
-### Chapter 11. Acquiring Peace and Zeal for Perfection
+## Chapter 11. Acquiring Peace and Zeal for Perfection
 
 WE SHOULD enjoy much peace if we did not concern ourselves with what others say and do, for these are no concern of ours. How can a man who meddles in affairs not his own, who seeks strange distractions, and who is little or seldom inwardly recollected, live long in peace?
 
@@ -175,13 +174,13 @@ If you do not overcome small, trifling things, how will you overcome the more di
 
 If you but consider what peace a good life will bring to yourself and what joy it will give to others, I think you will be more concerned about your spiritual progress.
 
-### Chapter 12. the Value of Adversity
+## Chapter 12. the Value of Adversity
 
 IT IS good for us to have trials and troubles at times, for they often remind us that we are on probation and ought not to hope in any worldly thing. It is good for us sometimes to suffer contradiction, to be misjudged by men even though we do well and mean well. These things help us to be humble and shield us from vainglory. When to all outward appearances men give us no credit, when they do not think well of us, then we are more inclined to seek God Who sees our hearts. Therefore, a man ought to root himself so firmly in God that he will not need the consolations of men.
 
 When a man of good will is afflicted, tempted, and tormented by evil thoughts, he realizes clearly that his greatest need is God, without Whom he can do no good. Saddened by his miseries and sufferings, he laments and prays. He wearies of living longer and wishes for death that he might be dissolved and be with Christ. Then he understands fully that perfect security and complete peace cannot be found on earth.
 
-### Chapter 13. Resisting Temptation
+## Chapter 13. Resisting Temptation
 
 SO LONG as we live in this world we cannot escape suffering and temptation. Whence it is written in Job: "The life of man upon earth is a warfare." [4] Everyone, therefore, must guard against temptation and must watch in prayer lest the devil, who never sleeps but goes about seeking whom he may devour, find occasion to deceive him. No one is so perfect or so holy but he is sometimes tempted; man cannot be altogether free from temptation.
 
@@ -209,7 +208,7 @@ Some, guarded against great temptations, are frequently overcome by small ones i
 
 [4] Job 7:1.
 
-### Chapter 14. Avoiding Rash Judgment
+## Chapter 14. Avoiding Rash Judgment
 
 TURN your attention upon yourself and beware of judging the deeds of other men, for in judging others a man labors vainly, often makes mistakes, and easily sins; whereas, in judging and taking stock of himself he does something that is always profitable.
 
@@ -223,7 +222,7 @@ An old habit is hard to break, and no one is willing to be led farther than he c
 
 If you rely more upon your intelligence or industry than upon the virtue of submission to Jesus Christ, you will hardly, and in any case slowly, become an enlightened man. God wants us to be completely subject to Him and, through ardent love, to rise above all human wisdom.
 
-### Chapter 15. Works Done in Charity
+## Chapter 15. Works Done in Charity
 
 NEVER do evil for anything in the world, or for the love of any man.
 
@@ -237,7 +236,7 @@ Now, that which seems to be charity is oftentimes really sensuality, for man's o
 
 If man had but a spark of true charity he would surely sense that all the things of earth are full of vanity!
 
-### Chapter 16. Bearing with the Faults of Others
+## Chapter 16. Bearing with the Faults of Others
 
 UNTIL God ordains otherwise, a man ought to bear patiently whatever he cannot correct in himself and in others. Consider it better thus--perhaps to try your patience and to test you, for without such patience and trial your merits are of little account. Nevertheless, under such difficulties you should pray that God will consent to help you bear them calmly.
 
@@ -247,7 +246,7 @@ If you cannot make yourself what you would wish to be, how can you bend others t
 
 If all were perfect, what should we have to suffer from others for God's sake? But God has so ordained, that we may learn to bear with one another's burdens, for there is no man without fault, no man without burden, no man sufficient to himself nor wise enough. Hence we must support one another, console one another, mutually help, counsel, and advise, for the measure of every man's virtue is best revealed in time of adversity--adversity that does not weaken a man but rather shows what he is.
 
-### Chapter 17. Monastic Life
+## Chapter 17. Monastic Life
 
 IF YOU wish peace and concord with others, you must learn to break your will in many things. To live in monasteries or religious communities, to remain there without complaint, and to persevere faithfully till death is no small matter. Blessed indeed is he who there lives a good life and there ends his days in happiness.
 
@@ -257,7 +256,7 @@ He who seeks anything but God alone and the salvation of his soul will find only
 
 You have come to serve, not to rule. You must understand, too, that you have been called to suffer and to work, not to idle and gossip away your time. Here men are tried as gold in a furnace. Here no man can remain unless he desires with all his heart to humble himself before God.
 
-### Chapter 18. the Example Set Us by the Holy Fathers
+## Chapter 18. the Example Set Us by the Holy Fathers
 
 CONSIDER the lively examples set us by the saints, who possessed the light of true perfection and religion, and you will see how little, how nearly nothing, we do. What, alas, is our life, compared with theirs?
 
@@ -275,7 +274,7 @@ How great was the fervor of all religious in the beginning of their holy institu
 
 Today, he who is not a transgressor and who can bear patiently the duties which he has taken upon himself is considered great. How lukewarm and negligent we are! We lose our original fervor very quickly and we even become weary of life from laziness! Do not you, who have seen so many examples of the devout, fall asleep in the pursuit of virtue!
 
-### Chapter 19. the Practices of a Good Religious
+## Chapter 19. the Practices of a Good Religious
 
 THE life of a good religious ought to abound in every virtue so that he is interiorly what to others he appears to be. With good reason there ought to be much more within than appears on the outside, for He who sees within is God, Whom we ought to reverence most highly wherever we are and in Whose sight we ought to walk pure as the angels.
 
@@ -307,7 +306,7 @@ During holy seasons, finally, we ought to prepare ourselves carefully, to live h
 
 [5] Luke 12:43, 44.
 
-### Chapter 20. the Love of Solitude and Silence
+## Chapter 20. the Love of Solitude and Silence
 
 SEEK a suitable time for leisure and meditate often on the favors of God. Leave curiosities alone. Read such matters as bring sorrow to the heart rather than occupation to the mind. If you withdraw yourself from unnecessary talking and idle running about, from listening to gossip and rumors, you will find enough time that is suitable for holy meditation.
 
@@ -343,7 +342,7 @@ Raise your eyes to God in heaven and pray because of your sins and shortcomings.
 
 But since you love, sometimes, to hear news, it is only right that you should suffer sorrow of heart from it.
 
-### Chapter 21. Sorrow of Heart
+## Chapter 21. Sorrow of Heart
 
 IF YOU wish to make progress in virtue, live in the fear of the Lord, do not look for too much freedom, discipline your senses, and shun inane silliness. Sorrow opens the door to many a blessing which dissoluteness usually destroys.
 
@@ -369,7 +368,7 @@ Pray humbly to the Lord, therefore, that He may give you the spirit of contritio
 
 [6] Ps. 80:9.
 
-### Chapter 22. Thoughts on the Misery of Man
+## Chapter 22. Thoughts on the Misery of Man
 
 WHEREVER you are, wherever you go, you are miserable unless you turn to God. So why be dismayed when things do not happen as you wish and desire? Is there anyone who has everything as he wishes? No--neither I, nor you, nor any man on earth. There is no one in the world, be he Pope or king, who does not suffer trial and anguish.
 
@@ -405,7 +404,7 @@ We have cause, therefore, because of our frailty and feebleness, to humble ourse
 
 [7] Ps. 34:17.
 
-### Chapter 23. Thoughts on Death
+## Chapter 23. Thoughts on Death
 
 VERY soon your life here will end; consider, then, what may be in store for you elsewhere. Today we live; tomorrow we die and are quickly forgotten. Oh, the dullness and hardness of a heart which looks only to the present instead of preparing for that which is to come!
 
@@ -437,7 +436,7 @@ Care only for the things of God. Make friends for yourself now by honoring the s
 
 Keep yourself as a stranger here on earth, a pilgrim whom its affairs do not concern at all. Keep your heart free and raise it up to God, for you have not here a lasting home. To Him direct your daily prayers, your sighs and tears, that your soul may merit after death to pass in happiness to the Lord.
 
-### Chapter 24. Judgment and the Punishment of sin
+## Chapter 24. Judgment and the Punishment of sin
 
 IN ALL things consider the end; how you shall stand before the strict Judge from Whom nothing is hidden and Who will pronounce judgment in all justice, accepting neither bribes nor excuses. And you, miserable and wretched sinner, who fear even the countenance of an angry man, what answer will you make to the God Who knows all your sins? Why do you not provide for yourself against the day of judgment when no man can be excused or defended by another because each will have enough to do to answer for himself? In this life your work is profitable, your tears acceptable, your sighs audible, your sorrow satisfying and purifying.
 
@@ -467,7 +466,7 @@ It is no wonder that he who still delights in sin fears death and judgment.
 
 It is good, however, that even if love does not as yet restrain you from evil, at least the fear of hell does. The man who casts aside the fear of God cannot continue long in goodness but will quickly fall into the snares of the devil.
 
-### Chapter 25. Zeal in Amending Our Lives
+## Chapter 25. Zeal in Amending Our Lives
 
 BE WATCHFUL and diligent in God's service and often think of why you left the world and came here. Was it not that you might live for God and become a spiritual man? Strive earnestly for perfection, then, because in a short time you will receive the reward of your labor, and neither fear nor sorrow shall come upon you at the hour of death.
 

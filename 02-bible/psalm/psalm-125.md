@@ -1,18 +1,17 @@
 ---
-title: Psalm 125
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 125
+title: Psalm 125
+url: https://bible.usccb.org/bible/psalms/125
 aliases:
   - Psalm 125
   - psalm-125
 tags:
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/125
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 125
 ---
 
 # Psalm 125

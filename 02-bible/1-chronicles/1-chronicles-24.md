@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 24
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 24
+title: 1 Chronicles, Chapter 24
+url: https://bible.usccb.org/bible/1chronicles/24
 aliases:
   - 1 Chronicles, Chapter 24
   - 1-chronicles-24
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/24
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 24
 ---
 
 # 1 Chronicles, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
 **The Priestly Divisions.**
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/1chronicles/24
 
 18 the twenty-third to Delaiah, the twenty-fourth to Maaziah. ^1-chronicles-24-18
 
-19 This was the appointed order of their service when they functioned in the house of the L ORD according to the precepts given them by Aaron, their father, as the L ORD, the God of Israel, had commanded him. ^1-chronicles-24-19
+19 This was the appointed order of their service when they functioned in the house of the LORD according to the precepts given them by Aaron, their father, as the LORD, the God of Israel, had commanded him. ^1-chronicles-24-19
 
 **Other Levites.**
 

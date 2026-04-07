@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 19
+title: 1 Chronicles, Chapter 19
+url: https://bible.usccb.org/bible/1chronicles/19
 aliases:
   - 1 Chronicles, Chapter 19
   - 1-chronicles-19
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/19
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 19
 ---
 
 # 1 Chronicles, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **Campaigns Against Ammon.**
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/1chronicles/19
 
 12 And he said: “If the Arameans prove too strong for me, you must come and save me; and if the Ammonites prove too strong for you, I will save you. ^1-chronicles-19-12
 
-13 Hold firm and let us show ourselves courageous for the sake of our people and the cities of our God; and may the L ORD do what is good in his sight.” ^1-chronicles-19-13
+13 Hold firm and let us show ourselves courageous for the sake of our people and the cities of our God; and may the LORD do what is good in his sight.” ^1-chronicles-19-13
 
 14 Joab therefore advanced with his men to engage the Arameans in battle; but they fled before him. ^1-chronicles-19-14
 

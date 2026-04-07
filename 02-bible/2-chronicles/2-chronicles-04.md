@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 4
+title: 2 Chronicles, Chapter 4
+url: https://bible.usccb.org/bible/2chronicles/4
 aliases:
   - 2 Chronicles, Chapter 4
   - 2-chronicles-04
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/4
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 4
 ---
 
 # 2 Chronicles, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 Then he made a bronze altar twenty cubits long, twenty cubits wide and ten cubits high. ^2-chronicles-04-1
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/2chronicles/4
 
 15 one sea, and the twelve oxen under it; ^2-chronicles-04-15
 
-16 pots, shovels, forks, and all the articles Huram-abi made for King Solomon for the house of the L ORD; they were of burnished bronze. ^2-chronicles-04-16
+16 pots, shovels, forks, and all the articles Huram-abi made for King Solomon for the house of the LORD; they were of burnished bronze. ^2-chronicles-04-16
 
 17 The king had them cast in the neighborhood of the Jordan, between Succoth and Zeredah, in thick clay molds. ^2-chronicles-04-17
 

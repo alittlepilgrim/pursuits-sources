@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 45
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 45
+title: Isaiah, Chapter 45
+url: https://bible.usccb.org/bible/isaiah/45
 aliases:
   - isaiah-45
   - Isaiah, Chapter 45
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/45
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 45
 ---
 
 # Isaiah, Chapter 45
 
-### Chapter 45
+## Chapter 45
 
-1 Thus says the L ORD to his anointed, Cyrus, ^isaiah-45-1
+1 Thus says the LORD to his anointed, Cyrus, ^isaiah-45-1
 
 whose right hand I grasp,
 
@@ -45,7 +44,7 @@ iron bars I will snap.
 
 riches hidden away,
 
-That you may know I am the L ORD,
+That you may know I am the LORD,
 
 the God of Israel, who calls you by name.
 
@@ -57,7 +56,7 @@ I have called you by name,
 
 giving you a title, though you do not know me.
 
-5 I am the L ORD, there is no other, ^isaiah-45-5
+5 I am the LORD, there is no other, ^isaiah-45-5
 
 there is no God besides me.
 
@@ -67,13 +66,13 @@ It is I who arm you, though you do not know me,
 
 to its setting, that there is none besides me.
 
-I am the L ORD, there is no other.
+I am the LORD, there is no other.
 
 7 I form the light, and create the darkness, ^isaiah-45-7
 
 I make weal and create woe;
 
-I, the L ORD, do all these things.
+I, the LORD, do all these things.
 
 8 Let justice descend, you heavens, like dew from above, ^isaiah-45-8
 
@@ -83,7 +82,7 @@ Let the earth open and salvation bud forth;
 
 let righteousness spring up with them!
 
-I, the L ORD, have created this.
+I, the LORD, have created this.
 
 9 Woe to anyone who contends with their Maker; ^isaiah-45-9
 
@@ -97,7 +96,7 @@ or, “What you are making has no handles”?
 
 or a woman, “What are you giving birth to?”
 
-11 Thus says the L ORD, ^isaiah-45-11
+11 Thus says the LORD, ^isaiah-45-11
 
 the Holy One of Israel, his maker:
 
@@ -123,9 +122,9 @@ and let my exiles go free
 
 Without price or payment,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
-14 Thus says the L ORD: ^isaiah-45-14
+14 Thus says the LORD: ^isaiah-45-14
 
 The earnings of Egypt, the gain of Ethiopia,
 
@@ -151,7 +150,7 @@ the God of Israel, the savior!
 
 they go in disgrace who carve images.
 
-17 Israel has been saved by the L ORD, ^isaiah-45-17
+17 Israel has been saved by the LORD, ^isaiah-45-17
 
 saved forever!
 
@@ -159,7 +158,7 @@ You shall never be put to shame or disgrace
 
 in any future age.”
 
-18 For thus says the L ORD, ^isaiah-45-18
+18 For thus says the LORD, ^isaiah-45-18
 
 The creator of the heavens,
 
@@ -173,7 +172,7 @@ Not as an empty waste did he create it,
 
 but designing it to be lived in:
 
-I am the L ORD, and there is no other.
+I am the LORD, and there is no other.
 
 19 I have not spoken in secret ^isaiah-45-19
 
@@ -183,7 +182,7 @@ I have not said to the descendants of Jacob,
 
 “Look for me in an empty waste.”
 
-I, the L ORD, promise justice,
+I, the LORD, promise justice,
 
 I declare what is right.
 
@@ -203,7 +202,7 @@ Who announced this from the beginning,
 
 declared it from of old?
 
-Was it not I, the L ORD,
+Was it not I, the LORD,
 
 besides whom there is no other God?
 
@@ -225,7 +224,7 @@ To me every knee shall bend;
 
 by me every tongue shall swear,
 
-24 Saying, “Only in the L ORD ^isaiah-45-24
+24 Saying, “Only in the LORD ^isaiah-45-24
 
 are just deeds and power.
 
@@ -233,7 +232,7 @@ Before him in shame shall come
 
 all who vent their anger against him.
 
-25 In the L ORD all the descendants of Israel ^isaiah-45-25
+25 In the LORD all the descendants of Israel ^isaiah-45-25
 
 shall have vindication and glory.”
 

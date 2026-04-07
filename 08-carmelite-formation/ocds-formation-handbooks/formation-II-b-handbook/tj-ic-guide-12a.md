@@ -1,9 +1,8 @@
 ---
-title: Session 12
-created: 2025-06-23
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Session 12
+author: Secular Order of Discalced Carmelites
+source: OCDS Formation Handbook II Year B
 aliases:
   - "Interior Castle Handbook Session Twelve: Overall Understanding of one’s Spiritual Journey Within The Context of Church, Order, Community, Family and Work"
   - Session 12
@@ -12,13 +11,15 @@ tags:
   - book/tj-interior-castle
   - carmel/formation
   - saint/teresa-of-avila
-author: Secular Order of Discalced Carmelites
-source: OCDS Formation Handbook II Year B
+  - type/study-guide
+created: 2025-06-23
+modified: 2026-04-06
+publish: false
 ---
 
 # Session 12
 
-> [!Example]  Interior Castle Handbook Session Twelve
+> [!Example] Interior Castle Handbook Session Twelve
 > Overall Understanding of one’s Spiritual Journey within the Context of Church, Order, Community, Family and Work
 
 OCDS Constitutions 32: _The central object of the process of formation in the Secular Order is to_ _prepare_ _the person to_ _live the_ _charism_ _and spirituality_ _of Carmel_ _in its following of_ _Christ, and in_ _service to its mission._
@@ -46,7 +47,7 @@ After the personal sharing, and as time allows, the formator guides a discussion
 
 # Bibliography
 
-St. Teresa of Avila, *The Interior Castle Study Edition, ICS Publications, 2010 or second edition, 2020 (page numbers differ)*.
+St. Teresa of Avila, *[[tj-ic-book-0.1-contents|The Interior Castle Study Edition, ICS Publications, 2010 or second edition, 2020 (page numbers differ)]]*.
 
 Ahlgren, Gillian T.W., _Entering Teresa of Avila’s Interior Castle. A Reader’s Companion_, Paulist Press, 2005.
 

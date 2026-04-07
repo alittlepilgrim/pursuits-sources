@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 1
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 1
+title: Genesis, Chapter 1
+url: https://bible.usccb.org/bible/genesis/1
 aliases:
   - genesis-01
   - Genesis, Chapter 1
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 1
 bible_book: genesis
 bible_chapter: "01"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/1
 ---
 
 [[genesis-00|[← Previous Note]]] · [[genesis-02|[Next Note →]]]
@@ -152,6 +151,6 @@ o. (1:31) [1 Tm 4:4]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-02|[Next Note →]]]

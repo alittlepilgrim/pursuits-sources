@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 14
+title: 2 Samuel, Chapter 14
+url: https://bible.usccb.org/bible/2samuel/14
 aliases:
   - 2 Samuel, Chapter 14
   - 2-samuel-14
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/14
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 14
 ---
 
 # 2 Samuel, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **The Wise Woman of Tekoa.**
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/2samuel/14
 
 10 Then the king said, “If anyone says a word to you, have him brought to me, and he shall not touch you again.” ^2-samuel-14-10
 
-11 But she said, “Please, let the king remember the L ORD your God, that the avenger of blood may not go too far in destruction and that my son may not be done away with.” He replied, “As the L ORD lives, not a hair of your son shall fall to the ground.” ^2-samuel-14-11
+11 But she said, “Please, let the king remember the LORD your God, that the avenger of blood may not go too far in destruction and that my son may not be done away with.” He replied, “As the LORD lives, not a hair of your son shall fall to the ground.” ^2-samuel-14-11
 
 12 But the woman continued, “Please let your servant say still another word to my lord the king.” He replied, “Speak.” ^2-samuel-14-12
 
@@ -55,7 +54,7 @@ url: https://bible.usccb.org/bible/2samuel/14
 
 16 For the king must surely listen and rescue his servant from the grasp of one who would destroy both me and my son from the heritage of God.’ ^2-samuel-14-16
 
-17 And your servant says, ‘Let the word of my lord the king lead to rest; indeed, my lord the king is like an angel of God, discerning good and evil. The L ORD your God be with you.’” ^2-samuel-14-17
+17 And your servant says, ‘Let the word of my lord the king lead to rest; indeed, my lord the king is like an angel of God, discerning good and evil. The LORD your God be with you.’” ^2-samuel-14-17
 
 18 The king answered the woman, “Now do not conceal from me anything I may ask you!” The woman said, “Let my lord the king speak.” ^2-samuel-14-18
 

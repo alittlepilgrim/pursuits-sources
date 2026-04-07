@@ -1,25 +1,24 @@
 ---
-title: Song of Songs, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Song of Songs, Chapter 2
+title: Song of Songs, Chapter 2
+url: https://bible.usccb.org/bible/songofsongs/2
 aliases:
   - Song of Songs, Chapter 2
   - song-of-songs-02
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/song-of-songs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/2
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Song of Songs, Chapter 2
 ---
 
 # Song of Songs, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 W I am a flower of Sharon, ^song-of-songs-02-1
 
@@ -59,7 +58,7 @@ Do not awaken, or stir up love
 
 until it is ready.
 
-#### Her Lover’s Visit Remembered
+### Her Lover’s Visit Remembered
 
 8 W The sound of my lover! here he comes ^song-of-songs-02-8
 

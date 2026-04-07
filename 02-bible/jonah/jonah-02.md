@@ -1,33 +1,32 @@
 ---
-title: Jonah, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jonah, Chapter 2
+title: Jonah, Chapter 2
+url: https://bible.usccb.org/bible/jonah/2
 aliases:
   - jonah-02
   - Jonah, Chapter 2
 tags:
+  - bible/chapter
   - bible/jonah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jonah/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jonah, Chapter 2
 ---
 
 # Jonah, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Jonah’s Prayer.**
 
-1 But the L ORD sent a great fish to swallow Jonah, and he remained in the belly of the fish three days and three nights. ^jonah-02-1
+1 But the LORD sent a great fish to swallow Jonah, and he remained in the belly of the fish three days and three nights. ^jonah-02-1
 
-2 Jonah prayed to the L ORD, his God, from the belly of the fish: ^jonah-02-2
+2 Jonah prayed to the LORD, his God, from the belly of the fish: ^jonah-02-2
 
-3 Out of my distress I called to the L ORD, ^jonah-02-3
+3 Out of my distress I called to the LORD, ^jonah-02-3
 
 and he answered me;
 
@@ -59,11 +58,11 @@ to the land whose bars closed behind me forever,
 
 But you brought my life up from the pit,
 
-O L ORD, my God.
+O LORD, my God.
 
 8 When I became faint, ^jonah-02-8
 
-I remembered the L ORD;
+I remembered the LORD;
 
 My prayer came to you
 
@@ -79,9 +78,9 @@ will sacrifice to you;
 
 What I have vowed I will pay:
 
-deliverance is from the L ORD.
+deliverance is from the LORD.
 
-11 Then the L ORD commanded the fish to vomit Jonah upon dry land. ^jonah-02-11
+11 Then the LORD commanded the fish to vomit Jonah upon dry land. ^jonah-02-11
 
 \* (2:3] – [10) These verses, which may have originally been an independent composition, are a typical example of a song of thanksgiving, a common psalm genre (e.g., [Ps 116]; [Is 38:9] – [20]). Such a song is relevant here, since Jonah has not drowned, and the imagery of vv. [4], [6] is appropriate.
 

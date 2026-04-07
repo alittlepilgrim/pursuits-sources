@@ -1,25 +1,25 @@
 ---
-title: Romans, The Letter To The Romans
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Romans, the Letter to the Romans
+title: Romans, The Letter To The Romans
+url: https://bible.usccb.org/bible/romans/0
 aliases:
   - romans-00
   - Romans, the Letter to the Romans
   - Romans, The Letter To The Romans
 tags:
+  - bible/book
+  - bible/new-testament
   - bible/romans
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/romans/0
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Romans, the Letter to the Romans
 ---
 
 # Romans, the Letter to the Romans
 
-          [[romans-10|10]]      
+[Introduction](romans-00.md) [1](romans-01.md) [2](romans-02.md) [3](romans-03.md) [4](romans-04.md) [5](romans-05.md) [6](romans-06.md) [7](romans-07.md) [8](romans-08.md) [9](romans-09.md) [[romans-10|10]] [11](romans-11.md) [12](romans-12.md) [13](romans-13.md) [14](romans-14.md) [15](romans-15.md) [16](romans-16.md)
 
 ## The Letter to the Romans
 

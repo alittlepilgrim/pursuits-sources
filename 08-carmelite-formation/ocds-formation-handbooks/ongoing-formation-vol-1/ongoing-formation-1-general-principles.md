@@ -1,20 +1,22 @@
 ---
-title: General Principles of Ongoing Formation - OCDS Ongoing Formation Volume I
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: General Principles of Ongoing Formation - OCDS Ongoing Formation Volume I
+author: Secular Order of Discalced Carmelites
 aliases:
   - General Principles
   - General Principles of Ongoing Formation
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
 # General Principles - OCDS Ongoing Formation Volume I
 
  Because there are no deadlines to finish materials in ongoing formation, the members are free to go into greater depth. It is allowable to continue a session over several months or to spend more than a year on a single theme or book. Once we are definitively professed and taking on more responsibilities in our community, it is tempting to give ongoing formation a lower priority. It is too easy to sacrifice the “important” to the “immediate.” The other side of the same coin is to feel we have “graduated” and can take things easy. This is unfortunate, because to serve well, to assist others, and to grow in prayer and virtue, we need to continually feed our souls and mature in our vocation. Initial formation is the foundation for life-long ongoing formation. No one stands still in their spiritual life; we either continue to advance on the way of perfection or eventually grow lukewarm. The challenge for Definitives is to guard against complacency. We need to maintain our first fervor, return to our roots, and keep our eyes on the prize. Our ultimate goal is eternal union with God. This is the pearl of great price, all that really matters. “Yet I hold this against you: You have forsaken the love you had at first. Consider how far you have fallen! Repent and do the things you did at first” (Rev. 2:4-5). “Do not merely listen to the word and so deceive yourselves. Do what it says. Anyone who listens to the word but does not do what it says is like someone who looks at his face in a mirror and, after looking at himself, goes away and immediately forgets what he looks like. But whoever looks intently into the perfect law that gives freedom and continues in it—not forgetting what they have heard but doing it—they will be blessed in what they do” (James 1:22-25). Our hope and prayer is that communities will give ongoing formation the attention and effort it requires to increase the Carmelite charism of those who have made their Definitive Promise. These guidelines are intended to help local councils, communities, and provinces do just that.
 
-### Responsibilities of the Local Council
+## Responsibilities of the Local Council
 
  “The Council, composed of the President and three Councilors and the Director of Formation, constitutes the immediate authority of the community. The primary responsibility of the Council is the formation and Christian and Carmelite maturing of the members of the community” (OCDS Const., Art. 46, emphasis added). After prayerful discussion and discernment, the local Council as a whole chooses themes and materials that are appropriate for the definitively professed members of their community. While the decision ultimately rests with the Council, it is good practice to ask the definitively professed members for their input.
 
@@ -24,7 +26,7 @@ author: Secular Order of Discalced Carmelites
 
  The Council chooses the areas of formation for deeper growth. Once the area of formation is decided upon, then pertinent book titles may be discussed, as opposed to deciding on a specific book before discussing areas for deeper growth. The Council, with the help of the members in ongoing formation, decides who will facilitate the discussions. This could be several members who trade off every month. Or even better, everyone should take a turn facilitating. Having everyone take a turn lets the members practice some of the skills needed to be a formator. A facilitator does not have to be more “learned” than the other Definitives to do the job. The facilitator’s role is to keep the discussion on topic and see to it that everyone has a chance to participate. As can be seen here, it is the responsibility of the local Council, and the definitively professed members themselves, to ensure that all definitively professed members receive and participate in ongoing formation with their community. Such formation involves a life-long study of solid spiritual materials that will enhance their Carmelite vocation, offering opportunities to share, live, and grow in accord with God’s grace. Therefore, it is important to frequently return to the fundamentals of our charism. Recognizing that some definitively professed members are called to serve as formators, local councils may wish to find ways for the formators to receive their own ongoing formation.
 
-### Some Suggestions for Facilitators and the Participating Members
+## Some Suggestions for Facilitators and the Participating Members
 
   Begin each session with prayer, invoking the Holy Spirit.  Ask if anyone has any questions about last month’s topics or about the reading assignment. Ask how the past month’s reading assignment went for them.  Discussion points may be used to get the conversation started. Avoid questions that require the members to search through the book for specific answers.  The purpose of our discussions is to give each other mutual support and encouragement. Participants help each other better understand and live our vocation, grow in prayer and virtue, live out the Gospel values in the world, and grow in the spirit of faith, hope, and love. Our goal is continual faithfulness and growth in our vocation, not simply to master a book’s contents.  Don’t feel that you must stop a good discussion to get to the next point. Going into depth on a useful topic will help the members more than working through a checklist of questions.  Help everyone have a chance to speak. This may mean gently restraining the more talkative members and asking the quieter members to share their thoughts.  Make an effort to stay on topic. While the discussions should be a free give-and-take among the participants and there is almost always personal sharing, try to keep it relevant to the matter at hand.  Be respectful of differing points of view.
 

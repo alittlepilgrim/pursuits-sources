@@ -1,39 +1,38 @@
 ---
-title: Deuteronomy, Chapter 29
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 29
+title: Deuteronomy, Chapter 29
+url: https://bible.usccb.org/bible/deuteronomy/29
 aliases:
   - deuteronomy-29
   - Deuteronomy, Chapter 29
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/29
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 29
 ---
 
 # Deuteronomy, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
-## Iii. Third Address
+# Iii. Third Address
 
 **Past Favors Recalled.**
 
-1 Moses summoned all Israel and said to them, You have seen with your own eyes all that the L ORD did in the land of Egypt to Pharaoh and all his servants and to all his land, ^deuteronomy-29-1
+1 Moses summoned all Israel and said to them, You have seen with your own eyes all that the LORD did in the land of Egypt to Pharaoh and all his servants and to all his land, ^deuteronomy-29-1
 
 2 the great testings your own eyes have seen, and those great signs and wonders. ^deuteronomy-29-2
 
-3 But the L ORD has not given you a heart to understand, or eyes to see, or ears to hear until this day. ^deuteronomy-29-3
+3 But the LORD has not given you a heart to understand, or eyes to see, or ears to hear until this day. ^deuteronomy-29-3
 
 4 I led you for forty years in the wilderness. Your clothes did not fall from you in tatters nor your sandals from your feet; ^deuteronomy-29-4
 
-5 it was not bread that you ate, nor wine or beer that you drank—so that you might know that I, the L ORD, am your God. ^deuteronomy-29-5
+5 it was not bread that you ate, nor wine or beer that you drank—so that you might know that I, the LORD, am your God. ^deuteronomy-29-5
 
 6 When you came to this place, Sihon, king of Heshbon, and Og, king of Bashan, came out to engage us in battle, but we defeated them ^deuteronomy-29-6
 
@@ -43,17 +42,17 @@ url: https://bible.usccb.org/bible/deuteronomy/29
 
 **All Israel Bound by Covenant.**
 
-9 You are standing today, all of you, in the presence of the L ORD, your God—your tribal heads, elders, and officials, all of the men of Israel, ^deuteronomy-29-9
+9 You are standing today, all of you, in the presence of the LORD, your God—your tribal heads, elders, and officials, all of the men of Israel, ^deuteronomy-29-9
 
 10 your children, your wives, and the resident alien who lives in your camp, from those who cut wood to those who draw water for you— ^deuteronomy-29-10
 
-11 to enter into the covenant of the L ORD, your God, which the L ORD, your God, is making with you today, with its curse, ^deuteronomy-29-11
+11 to enter into the covenant of the LORD, your God, which the LORD, your God, is making with you today, with its curse, ^deuteronomy-29-11
 
 12 so that he may establish you today as his people and he may be your God, as he promised you and as he swore to your ancestors, to [[abraham|Abraham]], Isaac and Jacob. ^deuteronomy-29-12
 
 13 But it is not with you alone that I am making this covenant, with its curse, ^deuteronomy-29-13
 
-14 but with those who are standing here with us today in the presence of the L ORD, our God, and with those who are not here with us today. ^deuteronomy-29-14
+14 but with those who are standing here with us today in the presence of the LORD, our God, and with those who are not here with us today. ^deuteronomy-29-14
 
 **Warning Against Idolatry.**
 
@@ -61,31 +60,31 @@ url: https://bible.usccb.org/bible/deuteronomy/29
 
 16 and saw the loathsome things and idols of wood and stone, of gold and silver, that they possess. ^deuteronomy-29-16
 
-17 There may be among you a man or woman, or a clan or tribe, whose heart is now turning away from the L ORD, our God, to go and serve the gods of these nations; there may be among you a root bearing poison and wormwood; ^deuteronomy-29-17
+17 There may be among you a man or woman, or a clan or tribe, whose heart is now turning away from the LORD, our God, to go and serve the gods of these nations; there may be among you a root bearing poison and wormwood; ^deuteronomy-29-17
 
 18 if any such persons, after hearing the words of this curse, should congratulate themselves, saying in their hearts, “I am safe, even though I walk in stubbornness of heart,” thereby sweeping away moist and dry alike, ^deuteronomy-29-18
 
-19 the L ORD will never consent to pardon them. Instead, the L ORD’s burning wrath will flare up against them; every curse written in this book will pounce on them, and the L ORD will blot out their names from under the heavens. ^deuteronomy-29-19
+19 the LORD will never consent to pardon them. Instead, the LORD’s burning wrath will flare up against them; every curse written in this book will pounce on them, and the LORD will blot out their names from under the heavens. ^deuteronomy-29-19
 
-20 The L ORD will single them out from all the tribes of Israel for doom, in keeping with all the curses of the covenant written in this book of the law. ^deuteronomy-29-20
+20 The LORD will single them out from all the tribes of Israel for doom, in keeping with all the curses of the covenant written in this book of the law. ^deuteronomy-29-20
 
 **Punishment for Idolatry.**
 
-21 Future generations, your descendants who will rise up after you, as well as the foreigners who will come here from distant lands, when they see the calamities of this land and the ills the L ORD has inflicted upon it— ^deuteronomy-29-21
+21 Future generations, your descendants who will rise up after you, as well as the foreigners who will come here from distant lands, when they see the calamities of this land and the ills the LORD has inflicted upon it— ^deuteronomy-29-21
 
-22 all its soil burned out by sulphur and salt, unsown and unfruitful, without a blade of grass, like the catastrophe of Sodom and Gomorrah, Admah and Zeboiim, which the L ORD overthrew in his furious wrath— ^deuteronomy-29-22
+22 all its soil burned out by sulphur and salt, unsown and unfruitful, without a blade of grass, like the catastrophe of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in his furious wrath— ^deuteronomy-29-22
 
-23 they and all the nations will ask, “Why has the L ORD dealt thus with this land? Why this great outburst of wrath?” ^deuteronomy-29-23
+23 they and all the nations will ask, “Why has the LORD dealt thus with this land? Why this great outburst of wrath?” ^deuteronomy-29-23
 
-24 And they will say, “Because they abandoned the covenant of the L ORD, the God of their ancestors, which he had made with them when he brought them out of the land of Egypt, ^deuteronomy-29-24
+24 And they will say, “Because they abandoned the covenant of the LORD, the God of their ancestors, which he had made with them when he brought them out of the land of Egypt, ^deuteronomy-29-24
 
 25 and they went and served other gods and bowed down to them, gods whom they did not know and whom he had not apportioned to them. ^deuteronomy-29-25
 
-26 So the anger of the L ORD flared up against this land and brought on it every curse written in this book. ^deuteronomy-29-26
+26 So the anger of the LORD flared up against this land and brought on it every curse written in this book. ^deuteronomy-29-26
 
-27 The L ORD uprooted them from their soil in anger, fury, and great wrath, and cast them out into another land, as they are today.” ^deuteronomy-29-27
+27 The LORD uprooted them from their soil in anger, fury, and great wrath, and cast them out into another land, as they are today.” ^deuteronomy-29-27
 
-28 The hidden things belong to the L ORD our God, but the revealed things are for us and for our children forever, to observe all the words of this law. ^deuteronomy-29-28
+28 The hidden things belong to the LORD our God, but the revealed things are for us and for our children forever, to observe all the words of this law. ^deuteronomy-29-28
 
 \* (29:14) Not here with us: this includes future generations. This attitude appears also in [5:3].
 

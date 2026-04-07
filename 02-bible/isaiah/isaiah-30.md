@@ -1,31 +1,30 @@
 ---
-title: Isaiah, Chapter 30
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 30
+title: Isaiah, Chapter 30
+url: https://bible.usccb.org/bible/isaiah/30
 aliases:
   - isaiah-30
   - Isaiah, Chapter 30
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/30
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 30
 ---
 
 # Isaiah, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
-#### Oracle on the Futility of an Alliance with Egypt
+### Oracle on the Futility of an Alliance with Egypt
 
 1 Ah! Rebellious children, ^isaiah-30-1
 
-oracle of the L ORD,
+oracle of the LORD,
 
 Who carry out a plan that is not mine,
 
@@ -91,7 +90,7 @@ deceitful children,
 
 Children who refuse
 
-to listen to the instruction of the L ORD;
+to listen to the instruction of the LORD;
 
 10 Who say to the seers, “Do not see”; ^isaiah-30-10
 
@@ -159,13 +158,13 @@ You will then be left like a flagstaff on a mountaintop,
 
 like a flag on a hill.
 
-#### Zion’s Future Deliverance
+### Zion’s Future Deliverance
 
-18 Truly, the L ORD is waiting to be gracious to you, ^isaiah-30-18
+18 Truly, the LORD is waiting to be gracious to you, ^isaiah-30-18
 
 truly, he shall rise to show you mercy;
 
-For the L ORD is a God of justice:
+For the LORD is a God of justice:
 
 happy are all who wait for him!
 
@@ -231,13 +230,13 @@ and the light of the sun will be seven times greater,
 
 like the light of seven days,
 
-On the day the L ORD binds up the wounds of his people
+On the day the LORD binds up the wounds of his people
 
 and heals the bruises left by his blows.
 
-#### Divine Judgment on Assyria
+### Divine Judgment on Assyria
 
-27 See, the name of the L ORD is coming from afar, ^isaiah-30-27
+27 See, the name of the LORD is coming from afar, ^isaiah-30-27
 
 burning with anger, heavy with threat,
 
@@ -261,11 +260,11 @@ And joy of heart
 
 as when one marches along with a flute
 
-Going to the mountain of the L ORD,
+Going to the mountain of the LORD,
 
 to the Rock of Israel.
 
-30 The L ORD will make his glorious voice heard, ^isaiah-30-30
+30 The LORD will make his glorious voice heard, ^isaiah-30-30
 
 and reveal his arm coming down
 
@@ -273,13 +272,13 @@ In raging fury and flame of consuming fire,
 
 in tempest, and rainstorm, and hail.
 
-31 For at the voice of the L ORD, Assyria will be shattered, ^isaiah-30-31
+31 For at the voice of the LORD, Assyria will be shattered, ^isaiah-30-31
 
 as he strikes with the rod;
 
 32 And every sweep of the rod of his punishment, ^isaiah-30-32
 
-which the L ORD will bring down on him,
+which the LORD will bring down on him,
 
 Will be accompanied by timbrels and lyres,
 
@@ -293,7 +292,7 @@ His firepit made both deep and wide,
 
 with fire and firewood in abundance,
 
-And the breath of the L ORD, like a stream of sulfur,
+And the breath of the LORD, like a stream of sulfur,
 
 setting it afire.
 
@@ -313,7 +312,7 @@ setting it afire.
 
 \* (30:20) Teacher: God, who in the past made the people blind and deaf through the prophetic message ([6:9] – [10]) and who in his anger hid his face from the house of Jacob ([8:17]), shall in the future help them to understand his teaching clearly (cf. [Jer 31:34]).
 
-\* (30:27] – [33) God’s punishment of Assyria. The name of the L ORD: here, God himself; cf. ([[psalm-20|Ps 20]]:2].
+\* (30:27] – [33) God’s punishment of Assyria. The name of the LORD: here, God himself; cf. ([[psalm-20|Ps 20]]:2].
 
 \* (30:33) Tophet: a site, near Jerusalem, where children were sacrificed by fire to Molech ([[2-kings-23|2 Kgs 23]]:10), and where, probably, Ahaz sacrificed his son ([[2-kings-16|2 Kgs 16]]:3). Here, Isaiah speaks of “his tophet,” the site prepared for burning up the king of Assyria. King: there seems to be a play on words between the Heb. word for king (*melek*) and the name Molech. This defeat of Assyria becomes the occasion for Israel’s festal rejoicing (v. [32]).
 

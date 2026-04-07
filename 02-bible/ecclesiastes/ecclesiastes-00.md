@@ -1,20 +1,20 @@
 ---
-title: Ecclesiastes, The Book of Ecclesiastes
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: ecclesiastes-the book of ecclesiastes
+title: Ecclesiastes, The Book of Ecclesiastes
+url: https://bible.usccb.org/bible/ecclesiastes/0
 aliases:
   - ecclesiastes-00
   - Ecclesiastes, the Book of Ecclesiastes
   - Ecclesiastes, The Book of Ecclesiastes
 tags:
+  - bible/book
   - bible/ecclesiastes
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/ecclesiastes/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: ecclesiastes-the book of ecclesiastes
 ---
 
 # Ecclesiastes, the Book of Ecclesiastes

@@ -1,31 +1,30 @@
 ---
-title: Habakkuk, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Habakkuk, Chapter 1
+title: Habakkuk, Chapter 1
+url: https://bible.usccb.org/bible/habakkuk/1
 aliases:
   - habakkuk-01
   - Habakkuk, Chapter 1
 tags:
+  - bible/chapter
   - bible/habakkuk
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/habakkuk/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Habakkuk, Chapter 1
 ---
 
 # Habakkuk, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 The oracle which Habakkuk the prophet received in a vision. ^habakkuk-01-1
 
-#### Habakkuk’s First Complaint
+### Habakkuk’s First Complaint
 
-2 How long, O L ORD, must I cry for help ^habakkuk-01-2
+2 How long, O LORD, must I cry for help ^habakkuk-01-2
 
 and you do not listen?
 
@@ -49,7 +48,7 @@ For the wicked surround the just;
 
 this is why justice comes forth perverted.
 
-#### God’s Response
+### God’s Response
 
 5 Look over the nations and see! ^habakkuk-01-5
 
@@ -99,13 +98,13 @@ heap up an earthen ramp, and conquer it.
 
 they make their own strength their god!
 
-#### Habakkuk’s Second Complaint
+### Habakkuk’s Second Complaint
 
-12 Are you not from of old, O L ORD, ^habakkuk-01-12
+12 Are you not from of old, O LORD, ^habakkuk-01-12
 
 my holy God, immortal?
 
-L ORD, you have appointed them for judgment,
+LORD, you have appointed them for judgment,
 
 O Rock, you have set them in place to punish!
 

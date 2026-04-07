@@ -1,33 +1,32 @@
 ---
-title: Leviticus, Chapter 10
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 10
+title: Leviticus, Chapter 10
+url: https://bible.usccb.org/bible/leviticus/10
 aliases:
   - leviticus-10
   - Leviticus, Chapter 10
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 10
 ---
 
 # Leviticus, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Nadab and Abihu.**
 
-1 Aaron’s sons Nadab and Abihu took their censers and, putting incense on the fire they had set in them, they offered before the L ORD unauthorized fire, such as he had not commanded. ^leviticus-10-1
+1 Aaron’s sons Nadab and Abihu took their censers and, putting incense on the fire they had set in them, they offered before the LORD unauthorized fire, such as he had not commanded. ^leviticus-10-1
 
-2 Fire therefore came forth from the L ORD’s presence and consumed them, so that they died in the L ORD’s presence. ^leviticus-10-2
+2 Fire therefore came forth from the LORD’s presence and consumed them, so that they died in the LORD’s presence. ^leviticus-10-2
 
-3 Moses then said to Aaron, “This is as the L ORD said: ^leviticus-10-3
+3 Moses then said to Aaron, “This is as the LORD said: ^leviticus-10-3
 
 Through those near to me I will be sanctified;
 
@@ -41,35 +40,35 @@ But Aaron said nothing.
 
 **Conduct of the Priests.**
 
-6 Moses said to Aaron and his sons Eleazar and Ithamar, “Do not dishevel your hair or tear your garments, lest you die and bring God’s wrath also on the whole community. While your kindred, the rest of the house of Israel, may mourn for those whom the L ORD’s fire has burned up, ^leviticus-10-6
+6 Moses said to Aaron and his sons Eleazar and Ithamar, “Do not dishevel your hair or tear your garments, lest you die and bring God’s wrath also on the whole community. While your kindred, the rest of the house of Israel, may mourn for those whom the LORD’s fire has burned up, ^leviticus-10-6
 
-7 you shall not go beyond the entrance of the tent of meeting, else you shall die; for the anointing oil of the L ORD is upon you.” So they did as Moses told them. ^leviticus-10-7
+7 you shall not go beyond the entrance of the tent of meeting, else you shall die; for the anointing oil of the LORD is upon you.” So they did as Moses told them. ^leviticus-10-7
 
-8 The L ORD said to Aaron: ^leviticus-10-8
+8 The LORD said to Aaron: ^leviticus-10-8
 
 9 When you are to go to the tent of meeting, you and your sons are forbidden, by a perpetual statute throughout your generations, to drink any wine or strong drink, lest you die. ^leviticus-10-9
 
 10 You must be able to distinguish between what is sacred and what is profane, and between what is clean and what is unclean; ^leviticus-10-10
 
-11 and you must be able to teach the Israelites all the statutes that the L ORD has given them through Moses. ^leviticus-10-11
+11 and you must be able to teach the Israelites all the statutes that the LORD has given them through Moses. ^leviticus-10-11
 
 **The Eating of the Priestly Portions.**
 
-12 Moses said to Aaron and his surviving sons, Eleazar and Ithamar, “Take the grain offering left over from the oblations to the L ORD, and eat it beside the altar in the form of unleavened cakes, since it is most holy. ^leviticus-10-12
+12 Moses said to Aaron and his surviving sons, Eleazar and Ithamar, “Take the grain offering left over from the oblations to the LORD, and eat it beside the altar in the form of unleavened cakes, since it is most holy. ^leviticus-10-12
 
-13 You must eat it in a sacred place because it is your and your sons’ due from the oblations to the L ORD; such is the command I have received. ^leviticus-10-13
+13 You must eat it in a sacred place because it is your and your sons’ due from the oblations to the LORD; such is the command I have received. ^leviticus-10-13
 
 14 The brisket of the elevated offering and the leg of the contribution, however, you and your sons and daughters may eat, in a clean place; for these have been assigned to you and your children as your due from the communion sacrifices of the Israelites. ^leviticus-10-14
 
-15 The leg of the contribution and the brisket of the elevated offering shall be brought in with the oblations of fat to be raised as an elevated offering before the L ORD. They shall belong to you and your children as your due forever, as the L ORD has commanded.” ^leviticus-10-15
+15 The leg of the contribution and the brisket of the elevated offering shall be brought in with the oblations of fat to be raised as an elevated offering before the LORD. They shall belong to you and your children as your due forever, as the LORD has commanded.” ^leviticus-10-15
 
 16 Moses inquired closely about the goat of the purification offering and discovered that it had all been burned. So he was angry with the surviving sons of Aaron, Eleazar and Ithamar, and said, ^leviticus-10-16
 
-17 “Why did you not eat the purification offering in the sacred place, since it is most holy? It has been given to you that you might remove the guilt of the community and make atonement for them before the L ORD. ^leviticus-10-17
+17 “Why did you not eat the purification offering in the sacred place, since it is most holy? It has been given to you that you might remove the guilt of the community and make atonement for them before the LORD. ^leviticus-10-17
 
 18 Since its blood was not brought inside the sanctuary, you should certainly have eaten the offering in the sanctuary, as I was commanded.” ^leviticus-10-18
 
-19 Aaron answered Moses, “Even though they presented their purification offering and burnt offering before the L ORD today, still this misfortune has befallen me. Had I then eaten of the purification offering today, would it have been pleasing to the L ORD?” ^leviticus-10-19
+19 Aaron answered Moses, “Even though they presented their purification offering and burnt offering before the LORD today, still this misfortune has befallen me. Had I then eaten of the purification offering today, would it have been pleasing to the LORD?” ^leviticus-10-19
 
 20 On hearing this, Moses was satisfied. ^leviticus-10-20
 

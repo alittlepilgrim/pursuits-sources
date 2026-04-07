@@ -1,25 +1,24 @@
 ---
-title: Exodus, Chapter 2
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Exodus, Chapter 2
+title: Exodus, Chapter 2
+url: https://bible.usccb.org/bible/exodus/2
 aliases:
   - exodus-02
   - Exodus, Chapter 2
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Exodus, Chapter 2
 ---
 
 # Exodus, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Birth and Adoption of Moses.**
 
@@ -69,7 +68,7 @@ url: https://bible.usccb.org/bible/exodus/2
 
 22 She conceived and bore a son, whom he named Gershom; for he said, “I am a stranger residing in a foreign land.” ^exodus-02-22
 
-## Ii. the Call and Commission of Moses
+# Ii. the Call and Commission of Moses
 
 **The Burning Bush.**
 

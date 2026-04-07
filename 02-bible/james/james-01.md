@@ -1,29 +1,28 @@
 ---
-title: James, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: James, Chapter 1
+title: James, Chapter 1
+url: https://bible.usccb.org/bible/james/1
 aliases:
   - james-01
   - James, Chapter 1
 tags:
+  - bible/chapter
   - bible/james
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/james/1
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: James, Chapter 1
 ---
 
 # James, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 James, a slave of God and of the Lord Jesus Christ, to the twelve tribes in the dispersion, greetings. ^james-01-1
 
-## Ii. the Value of Trials and Temptation
+# Ii. the Value of Trials and Temptation
 
 **Perseverance in Trial.**
 
@@ -63,7 +62,7 @@ url: https://bible.usccb.org/bible/james/1
 
 18 He willed to give us birth by the word of truth that we may be a kind of firstfruits of his creatures. ^james-01-18
 
-## Iii. Exhortations and Warnings
+# Iii. Exhortations and Warnings
 
 **Doers of the Word.**
 

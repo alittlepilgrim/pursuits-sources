@@ -1,47 +1,46 @@
 ---
-title: Jeremiah, Chapter 43
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 43
+title: Jeremiah, Chapter 43
+url: https://bible.usccb.org/bible/jeremiah/43
 aliases:
   - jeremiah-43
   - Jeremiah, Chapter 43
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/43
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 43
 ---
 
 # Jeremiah, Chapter 43
 
-### Chapter 43
+## Chapter 43
 
-1 When Jeremiah finished telling the people all the words the L ORD, their God, sent to them, ^jeremiah-43-1
+1 When Jeremiah finished telling the people all the words the LORD, their God, sent to them, ^jeremiah-43-1
 
-2 Azariah, son of Hoshaiah, Johanan, son of Kareah, and all the others had the insolence to say to Jeremiah: “You lie; the L ORD, our God, did not send you to tell us, ‘Do not go to Egypt to live there.’ ^jeremiah-43-2
+2 Azariah, son of Hoshaiah, Johanan, son of Kareah, and all the others had the insolence to say to Jeremiah: “You lie; the LORD, our God, did not send you to tell us, ‘Do not go to Egypt to live there.’ ^jeremiah-43-2
 
 3 Baruch, son of Neriah, is inciting you against us, to hand us over to the Chaldeans to be killed or exiled to Babylon.” ^jeremiah-43-3
 
-4 So Johanan, son of Kareah, and the rest of the leaders and the people did not listen to the voice of the L ORD to stay in the land of Judah. ^jeremiah-43-4
+4 So Johanan, son of Kareah, and the rest of the leaders and the people did not listen to the voice of the LORD to stay in the land of Judah. ^jeremiah-43-4
 
 5 Instead, Johanan, son of Kareah, and the military leaders took along all the remnant of Judah who had been dispersed among the nations and then had returned to dwell in the land of Judah: ^jeremiah-43-5
 
 6 men, women, and children, the princesses and everyone whom Nebuzaradan, captain of the bodyguard, had consigned to Gedaliah, son of Ahikam, son of Shaphan; also Jeremiah, the prophet, and Baruch, son of Neriah. ^jeremiah-43-6
 
-7 They went to Egypt—they did not listen to the voice of the L ORD —and came to Tahpanhes. ^jeremiah-43-7
+7 They went to Egypt—they did not listen to the voice of the LORD —and came to Tahpanhes. ^jeremiah-43-7
 
 **Jeremiah in Egypt.**
 
-8 The word of the L ORD came to Jeremiah in Tahpanhes: ^jeremiah-43-8
+8 The word of the LORD came to Jeremiah in Tahpanhes: ^jeremiah-43-8
 
 9 Take some large stones in your hand and set them in mortar in the terrace at the entrance to the house of Pharaoh in Tahpanhes, while the Judahites watch. ^jeremiah-43-9
 
-10 Then say to them: Thus says the L ORD of hosts, the God of Israel: I will send for my servant Nebuchadnezzar, king of Babylon. He will place his throne upon these stones which I, Jeremiah, have set up, and stretch his canopy above them. ^jeremiah-43-10
+10 Then say to them: Thus says the LORD of hosts, the God of Israel: I will send for my servant Nebuchadnezzar, king of Babylon. He will place his throne upon these stones which I, Jeremiah, have set up, and stretch his canopy above them. ^jeremiah-43-10
 
 11 He shall come and strike the land of Egypt: with death, those marked for death; with exile, those marked for exile; with the sword, those marked for the sword. ^jeremiah-43-11
 

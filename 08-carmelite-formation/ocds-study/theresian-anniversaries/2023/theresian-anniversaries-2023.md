@@ -1,9 +1,7 @@
 ---
-title: Theresian Anniversaires 2023 Manuscript a - Full Text
-created: 2025-08-28
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 Manuscript a - Full Text
+author: OCD General Curia
 aliases:
   - 20251008-234259
   - 20251008-234308
@@ -14,8 +12,10 @@ aliases:
   - theresian-anniversaries-2023
 tags:
   - subject
-author: OCD General Curia
-status: draft
+created: 2025-08-28
+modified: 2026-04-04
+publish: true
+permalink: /theresian-anniversaries-2023
 ---
 
 # Theresian Anniversaires 2023 Manuscript a - Full Text

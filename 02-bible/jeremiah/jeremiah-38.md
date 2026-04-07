@@ -1,33 +1,32 @@
 ---
-title: Jeremiah, Chapter 38
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 38
+title: Jeremiah, Chapter 38
+url: https://bible.usccb.org/bible/jeremiah/38
 aliases:
   - jeremiah-38
   - Jeremiah, Chapter 38
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/38
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 38
 ---
 
 # Jeremiah, Chapter 38
 
-### Chapter 38
+## Chapter 38
 
 **Jeremiah in the Muddy Cistern.**
 
 1 Shephatiah, son of Mattan, Gedaliah, son of Pashhur, Jucal, son of Shelemiah, and Pashhur, son of Malchiah, heard the words Jeremiah was speaking to all the people: ^jeremiah-38-1
 
-2 Thus says the L ORD: Those who remain in this city shall die by means of the sword, starvation, and disease; but those who go out to the Chaldeans shall live. Their lives shall be spared them as spoils of war that they may live. ^jeremiah-38-2
+2 Thus says the LORD: Those who remain in this city shall die by means of the sword, starvation, and disease; but those who go out to the Chaldeans shall live. Their lives shall be spared them as spoils of war that they may live. ^jeremiah-38-2
 
-3 Thus says the L ORD: This city shall certainly be handed over to the army of the king of Babylon; he shall capture it. ^jeremiah-38-3
+3 Thus says the LORD: This city shall certainly be handed over to the army of the king of Babylon; he shall capture it. ^jeremiah-38-3
 
 4 Then the princes said to the king, “This man ought to be put to death. He is weakening the resolve of the soldiers left in this city and of all the people, by saying such things to them; he is not seeking the welfare of our people, but their ruin.” ^jeremiah-38-4
 
@@ -49,21 +48,21 @@ url: https://bible.usccb.org/bible/jeremiah/38
 
 13 and they pulled him up by rope out of the cistern. But Jeremiah remained in the court of the guard. ^jeremiah-38-13
 
-14 King Zedekiah summoned Jeremiah the prophet to meet him at the third entrance of the house of the L ORD. “I have a question to ask you,” the king said to Jeremiah. “Do not hide anything from me.” ^jeremiah-38-14
+14 King Zedekiah summoned Jeremiah the prophet to meet him at the third entrance of the house of the LORD. “I have a question to ask you,” the king said to Jeremiah. “Do not hide anything from me.” ^jeremiah-38-14
 
 15 Jeremiah answered Zedekiah: “If I tell you anything, will you not have me put to death? If I counsel you, you will not listen to me!” ^jeremiah-38-15
 
-16 But King Zedekiah swore to Jeremiah secretly: “As the L ORD lives who gave us our lives, I will not kill you, nor will I hand you over to those men who seek your life.” ^jeremiah-38-16
+16 But King Zedekiah swore to Jeremiah secretly: “As the LORD lives who gave us our lives, I will not kill you, nor will I hand you over to those men who seek your life.” ^jeremiah-38-16
 
-17 Jeremiah then said to Zedekiah: “Thus says the L ORD God of hosts, the God of Israel: If you will only surrender to the princes of Babylon’s king, you shall save your life; this city shall not be destroyed by fire, and you and your household shall live. ^jeremiah-38-17
+17 Jeremiah then said to Zedekiah: “Thus says the LORD God of hosts, the God of Israel: If you will only surrender to the princes of Babylon’s king, you shall save your life; this city shall not be destroyed by fire, and you and your household shall live. ^jeremiah-38-17
 
 18 But if you do not surrender to the princes of Babylon’s king, this city shall fall into the hand of the Chaldeans, who shall destroy it by fire, and you shall not escape their hand.” ^jeremiah-38-18
 
 19 King Zedekiah said to Jeremiah, “I am afraid of the Judahites who have deserted to the Chaldeans; I could be handed over to them, and they will mistreat me.” ^jeremiah-38-19
 
-20 “You will not be handed over to them,” Jeremiah answered. “I beg you! Please listen to the voice of the L ORD regarding what I tell you so that it may go well with you and your life be spared. ^jeremiah-38-20
+20 “You will not be handed over to them,” Jeremiah answered. “I beg you! Please listen to the voice of the LORD regarding what I tell you so that it may go well with you and your life be spared. ^jeremiah-38-20
 
-21 But if you refuse to surrender, this is what the L ORD has shown: ^jeremiah-38-21
+21 But if you refuse to surrender, this is what the LORD has shown: ^jeremiah-38-21
 
 22 I see all the women who remain in the house of Judah’s king being brought out to the princes of Babylon’s king, and they are crying: ^jeremiah-38-22
 

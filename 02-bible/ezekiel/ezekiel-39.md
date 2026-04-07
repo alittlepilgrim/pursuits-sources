@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 39
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 39
+title: Ezekiel, Chapter 39
+url: https://bible.usccb.org/bible/ezekiel/39
 aliases:
   - ezekiel-39
   - Ezekiel, Chapter 39
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/39
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 39
 ---
 
 # Ezekiel, Chapter 39
 
-### Chapter 39
+## Chapter 39
 
 **Third Prophecy Against Gog.**
 
@@ -33,9 +32,9 @@ url: https://bible.usccb.org/bible/ezekiel/39
 
 5 In the open field you shall fall, for I have spoken—oracle of the Lord G OD. ^ezekiel-39-5
 
-6 I will send fire against Magog and against those who live securely on the seacoast, and they will know that I am the L ORD. ^ezekiel-39-6
+6 I will send fire against Magog and against those who live securely on the seacoast, and they will know that I am the LORD. ^ezekiel-39-6
 
-7 I will reveal my holy name among my people Israel, and I will never again allow my holy name to be defiled. Then the nations shall know that I am the L ORD, the Holy One of Israel. ^ezekiel-39-7
+7 I will reveal my holy name among my people Israel, and I will never again allow my holy name to be defiled. Then the nations shall know that I am the LORD, the Holy One of Israel. ^ezekiel-39-7
 
 8 Yes, it is coming! It shall happen—oracle of the Lord G OD. This is the day I decreed. ^ezekiel-39-8
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/ezekiel/39
 
 21 Then I will display my glory among the nations, and all the nations will see the judgment I executed, the hand I laid upon them. ^ezekiel-39-21
 
-22 From that day forward the house of Israel shall know that I am the L ORD, their God. ^ezekiel-39-22
+22 From that day forward the house of Israel shall know that I am the LORD, their God. ^ezekiel-39-22
 
 23 The nations shall know that the house of Israel went into exile because of its sins. Because they betrayed me, I hid my face from them, handing them over to their foes, so they all fell by the sword. ^ezekiel-39-23
 
@@ -79,7 +78,7 @@ url: https://bible.usccb.org/bible/ezekiel/39
 
 27 When I bring them back from the nations and gather them from the lands of their enemies, I will show my holiness through them in the sight of many nations. ^ezekiel-39-27
 
-28 Thus they shall know that I, the L ORD, am their God, since I who exiled them among the nations will gather them back to their land, not leaving any of them behind. ^ezekiel-39-28
+28 Thus they shall know that I, the LORD, am their God, since I who exiled them among the nations will gather them back to their land, not leaving any of them behind. ^ezekiel-39-28
 
 29 I will no longer hide my face from them once I pour out my spirit upon the house of Israel—oracle of the Lord G OD. ^ezekiel-39-29
 

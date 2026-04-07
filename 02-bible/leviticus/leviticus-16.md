@@ -1,29 +1,28 @@
 ---
-title: Leviticus, Chapter 16
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 16
+title: Leviticus, Chapter 16
+url: https://bible.usccb.org/bible/leviticus/16
 aliases:
   - leviticus-16
   - Leviticus, Chapter 16
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 16
 ---
 
 # Leviticus, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **The Day of Atonement.**
 
-1 After the death of Aaron’s two sons, who died when they encroached on the L ORD’s presence, the L ORD spoke to Moses ^leviticus-16-1
+1 After the death of Aaron’s two sons, who died when they encroached on the LORD’s presence, the LORD spoke to Moses ^leviticus-16-1
 
 2 and said to him: Tell your brother Aaron that he is not to come whenever he pleases into the inner sanctuary, inside the veil, in front of the cover on the ark, lest he die, for I reveal myself in a cloud above the ark’s cover. ^leviticus-16-2
 
@@ -35,19 +34,19 @@ url: https://bible.usccb.org/bible/leviticus/16
 
 6 Aaron shall offer the bull, his purification offering, to make atonement for himself and for his household. ^leviticus-16-6
 
-7 Taking the two male goats and setting them before the L ORD at the entrance of the tent of meeting, ^leviticus-16-7
+7 Taking the two male goats and setting them before the LORD at the entrance of the tent of meeting, ^leviticus-16-7
 
-8 he shall cast lots to determine which one is for the L ORD and which for Azazel. ^leviticus-16-8
+8 he shall cast lots to determine which one is for the LORD and which for Azazel. ^leviticus-16-8
 
-9 The goat that is determined by lot for the L ORD, Aaron shall present and offer up as a purification offering. ^leviticus-16-9
+9 The goat that is determined by lot for the LORD, Aaron shall present and offer up as a purification offering. ^leviticus-16-9
 
-10 But the goat determined by lot for Azazel he shall place before the L ORD alive, so that with it he may make atonement by sending it off to Azazel in the desert. ^leviticus-16-10
+10 But the goat determined by lot for Azazel he shall place before the LORD alive, so that with it he may make atonement by sending it off to Azazel in the desert. ^leviticus-16-10
 
 11 Thus shall Aaron offer his bull for the purification offering, to make atonement for himself and for his family. When he has slaughtered it, ^leviticus-16-11
 
-12 he shall take a censer full of glowing embers from the altar before the L ORD, as well as a double handful of finely ground fragrant incense, and bringing them inside the veil, ^leviticus-16-12
+12 he shall take a censer full of glowing embers from the altar before the LORD, as well as a double handful of finely ground fragrant incense, and bringing them inside the veil, ^leviticus-16-12
 
-13 there before the L ORD he shall put incense on the fire, so that a cloud of incense may shield the cover that is over the covenant, else he will die. ^leviticus-16-13
+13 there before the LORD he shall put incense on the fire, so that a cloud of incense may shield the cover that is over the covenant, else he will die. ^leviticus-16-13
 
 14 Taking some of the bull’s blood, he shall sprinkle it with his finger on the front of the ark’s cover and likewise sprinkle some of the blood with his finger seven times in front of the cover. ^leviticus-16-14
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/leviticus/16
 
 17 No one else may be in the tent of meeting from the time he enters the inner sanctuary to make atonement until he departs. When he has made atonement for himself and his household, as well as for the whole Israelite assembly, ^leviticus-16-17
 
-18 he shall come out to the altar before the L ORD and purge it also. Taking some of the bull’s and the goat’s blood, he shall put it on the horns around the altar, ^leviticus-16-18
+18 he shall come out to the altar before the LORD and purge it also. Taking some of the bull’s and the goat’s blood, he shall put it on the horns around the altar, ^leviticus-16-18
 
 19 and with his finger sprinkle some of the blood on it seven times. Thus he shall purify it and sanctify it from the impurities of the Israelites. ^leviticus-16-19
 
@@ -87,7 +86,7 @@ When the goat is dispatched into the wilderness,
 
 29 This shall be an everlasting statute for you: on the tenth day of the seventh month every one of you, whether a native or a resident alien, shall humble yourselves and shall do no work. ^leviticus-16-29
 
-30 For on this day atonement is made for you to make you clean; of all your sins you will be cleansed before the L ORD. ^leviticus-16-30
+30 For on this day atonement is made for you to make you clean; of all your sins you will be cleansed before the LORD. ^leviticus-16-30
 
 31 It shall be a sabbath of complete rest for you, on which you must humble yourselves—an everlasting statute. ^leviticus-16-31
 
@@ -95,7 +94,7 @@ When the goat is dispatched into the wilderness,
 
 33 and purge the most sacred part of the sanctuary, as well as the tent of meeting, and the altar. He shall also make atonement for the priests and all the people of the assembly. ^leviticus-16-33
 
-34 This, then, shall be an everlasting statute for you: once a year atonement shall be made on behalf of the Israelites for all their sins. And Moses did as the L ORD had commanded him. ^leviticus-16-34
+34 This, then, shall be an everlasting statute for you: once a year atonement shall be made on behalf of the Israelites for all their sins. And Moses did as the LORD had commanded him. ^leviticus-16-34
 
 \* (16:1] – [34) This is the narrative sequel of the story in chap. [10]. The ritual in chapter [16] originally may have been an emergency rite in response to unexpected pollution of the sanctuary.
 

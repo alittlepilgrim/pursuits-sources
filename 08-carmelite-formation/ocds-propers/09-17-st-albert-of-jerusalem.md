@@ -1,9 +1,7 @@
 ---
-title: September 17, Saint Albert of Jerusalem
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: September 17, Saint Albert of Jerusalem
+author: OCD General Curia
 aliases:
   - 09-17-st-albert-of-jerusalem
   - 20240911-000001
@@ -11,10 +9,14 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-attachment: true
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 09-17
 celebration_rank: feast
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+permalink: /09-17-st-albert-of-jerusalem
+attachment: true
 ---
 
 # September 17, Saint Albert of Jerusalem

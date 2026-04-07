@@ -1,24 +1,22 @@
 ---
-title: TOC - Treatise on the Love of God by St. Francis de Sales
-created: 2026-04-01
-modified: 2026-04-02
 type: toc
-publish: false
-description: Treatise on the Love of God by St. Francis de Sales TOC
+title: TOC - Treatise on the Love of God by St. Francis de Sales
+author: Saint Francis de Sales
 aliases:
   - Treatise on the Love of God by St. Francis de Sales TOC
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: false
+description: Treatise on the Love of God by St. Francis de Sales TOC
 attachment: false
-author: Saint Francis de Sales
 ---
 
 # Treatise on the Love of God by St. Francis de Sales - Table of Contents
 
-
+[Source](https://ccel.org/ccel/d/desales/love/cache/love.txt)
 
 ## Table of Contents
 

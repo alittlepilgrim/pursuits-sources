@@ -1,15 +1,16 @@
 ---
-title: Extreme Unction
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: extreme-unction. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Extreme Unction
 aliases:
   - Extreme Unction
   - extreme-unction
 tags:
   - term/extreme-unction
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: extreme-unction. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Extreme Unction
@@ -24,6 +25,6 @@ _See_ [[anointing-of-the-sick|Anointing of the Sick]]. ###
 
 ## Divine Intimacy Meditations
 
-- Perfects the purification of the soul in order to prepare it to meet God: 74,1;
-- necessity of receiving it with proper dispositions: 74,2.
-- 74. Extreme Unction
+- Perfects the purification of the soul in order to prepare it to meet God: [[74-extreme-unction#Meditation 1|74,1]];
+- necessity of receiving it with proper dispositions: [[74-extreme-unction#Meditation 2|74,2]].
+- [[74-extreme-unction|74. Extreme Unction]]

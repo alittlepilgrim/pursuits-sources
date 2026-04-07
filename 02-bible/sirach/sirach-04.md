@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 4
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 4
+title: Sirach, Chapter 4
+url: https://bible.usccb.org/bible/sirach/4
 aliases:
   - sirach-04
   - Sirach, Chapter 4
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/4
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 4
 ---
 
 # Sirach, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 My child, do not mock the life of the poor; ^sirach-04-1
 
@@ -45,7 +44,7 @@ do not give them reason to curse you.
 
 their Rock will hear the sound of their cry.
 
-#### Social Conduct
+### Social Conduct
 
 7 Endear yourself to the assembly; ^sirach-04-7
 
@@ -67,7 +66,7 @@ Then God will call you his child,
 
 and he will be merciful to you and deliver you from the pit.
 
-#### The Rewards of Wisdom
+### The Rewards of Wisdom
 
 11 Wisdom teaches her children ^sirach-04-11
 
@@ -75,11 +74,11 @@ and admonishes all who can understand her.
 
 12 Those who love her love life; ^sirach-04-12
 
-those who seek her out win the L ORD’s favor.
+those who seek her out win the LORD’s favor.
 
 13 Those who hold her fast will attain glory, ^sirach-04-13
 
-and they shall abide in the blessing of the L ORD.
+and they shall abide in the blessing of the LORD.
 
 14 Those who serve her serve the Holy One; ^sirach-04-14
 
@@ -111,7 +110,7 @@ and reveal my secrets to them.
 
 and deliver them over to robbers.”
 
-#### Sincerity and Justice
+### Sincerity and Justice
 
 20 My son, watch for the right time; fear what is evil; ^sirach-04-20
 
@@ -147,7 +146,7 @@ do not refuse to do so before rulers.
 
 28 Even to the death, fight for what is right, ^sirach-04-28
 
-and the L ORD will do battle for you.
+and the LORD will do battle for you.
 
 29 Do not be haughty in your speech, ^sirach-04-29
 

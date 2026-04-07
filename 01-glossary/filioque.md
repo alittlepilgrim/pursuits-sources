@@ -1,16 +1,18 @@
 ---
-title: Filioque
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: filioque. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Filioque
+author:
 aliases:
   - filioque
   - Filioque
 tags:
   - catechism
   - term/filioque
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: filioque. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Filioque

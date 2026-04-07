@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 21
+title: 1 Kings, Chapter 21
+url: https://bible.usccb.org/bible/1kings/21
 aliases:
   - 1 Kings, Chapter 21
   - 1-kings-21
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/21
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 21
 ---
 
 # 1 Kings, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **Seizure of Naboth’s Vineyard.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/1kings/21
 
 2 Ahab said to Naboth, “Give me your vineyard to be my vegetable garden, since it is close by, next to my house. I will give you a better vineyard in exchange, or, if you prefer, I will give you its value in money.” ^1-kings-21-2
 
-3 Naboth said to Ahab, “The L ORD forbid that I should give you my ancestral heritage.” ^1-kings-21-3
+3 Naboth said to Ahab, “The LORD forbid that I should give you my ancestral heritage.” ^1-kings-21-3
 
 4 Ahab went home disturbed and angry at the answer Naboth the Jezreelite had given him: “I will not give you my ancestral heritage.” Lying down on his bed, he turned away and would not eat. ^1-kings-21-4
 
@@ -57,19 +56,19 @@ url: https://bible.usccb.org/bible/1kings/21
 
 **Prophetic Condemnation.**
 
-17 Then the word of the L ORD came to Elijah the Tishbite: ^1-kings-21-17
+17 Then the word of the LORD came to Elijah the Tishbite: ^1-kings-21-17
 
 18 Go down to meet Ahab, king of Israel, who is in Samaria. He will be in the vineyard of Naboth, where he has gone to take possession. ^1-kings-21-18
 
-19 Tell him: “Thus says the L ORD: After murdering, do you also take possession?” And tell him, “Thus says the L ORD: In the place where the dogs licked up the blood of Naboth, the dogs shall lick up your blood, too.” ^1-kings-21-19
+19 Tell him: “Thus says the LORD: After murdering, do you also take possession?” And tell him, “Thus says the LORD: In the place where the dogs licked up the blood of Naboth, the dogs shall lick up your blood, too.” ^1-kings-21-19
 
-20 Ahab said to Elijah, “Have you found me out, my enemy?” He said, “I have found you. Because you have given yourself up to doing evil in the L ORD’s sight, ^1-kings-21-20
+20 Ahab said to Elijah, “Have you found me out, my enemy?” He said, “I have found you. Because you have given yourself up to doing evil in the LORD’s sight, ^1-kings-21-20
 
 21 I am bringing evil upon you: I will consume you and will cut off every male belonging to Ahab, whether bond or free, in Israel. ^1-kings-21-21
 
 22 I will make your house like that of Jeroboam, son of Nebat, and like the house of Baasha, son of Ahijah, because you have provoked me by leading Israel into sin.” ^1-kings-21-22
 
-23 Against Jezebel, too, the L ORD declared: The dogs shall devour Jezebel in the confines of Jezreel. ^1-kings-21-23
+23 Against Jezebel, too, the LORD declared: The dogs shall devour Jezebel in the confines of Jezreel. ^1-kings-21-23
 
 24 Anyone of Ahab’s line who dies in the city, ^1-kings-21-24
 
@@ -79,17 +78,17 @@ Anyone who dies in the field,
 
 the birds of the sky will devour.
 
-25 Indeed, no one gave himself up to the doing of evil in the sight of the L ORD as did Ahab, urged on by his wife Jezebel. ^1-kings-21-25
+25 Indeed, no one gave himself up to the doing of evil in the sight of the LORD as did Ahab, urged on by his wife Jezebel. ^1-kings-21-25
 
-26 He became completely abominable by going after idols, just as the Amorites had done, whom the L ORD drove out of the Israelites’ way. ^1-kings-21-26
+26 He became completely abominable by going after idols, just as the Amorites had done, whom the LORD drove out of the Israelites’ way. ^1-kings-21-26
 
 27 When Ahab heard these words, he tore his garments and put on sackcloth over his bare flesh. He fasted, slept in the sackcloth, and went about subdued. ^1-kings-21-27
 
-28 Then the word of the L ORD came to Elijah the Tishbite, ^1-kings-21-28
+28 Then the word of the LORD came to Elijah the Tishbite, ^1-kings-21-28
 
 29 Have you seen how Ahab has humbled himself before me? Since he has humbled himself before me, I will not bring the evil in his time. I will bring the evil upon his house in his son’s time. ^1-kings-21-29
 
-\* (21:1] – [16]\] The story tells how Jezebel manipulates important structures of Israelite social order, law, and religious observance to eliminate a faithful Israelite landowner who frustrates Ahab’s will.
+\* (21:1] – [16]\] The story tells how Jezebel manipulates important structures of Israelite sociaLORDer, law, and religious observance to eliminate a faithful Israelite landowner who frustrates Ahab’s will.
 
 \* (21:3]\] Heritage: Hebrew *naḥalah*. Naboth is unwilling to sell or exchange his vineyard. According to the Israelite system of land tenure and distribution, land was held in common within a social unit. The ancestral *naḥalah* was not private property, to be alienated at will.
 

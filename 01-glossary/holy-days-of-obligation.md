@@ -1,15 +1,17 @@
 ---
-title: Holy Days of Obligation
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: holy-days-of-obligation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Holy Days of Obligation
+author:
 aliases:
   - Holy Days of Obligation
   - holy-days-of-obligation
 tags:
   - term/holy-days-of-obligation
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: holy-days-of-obligation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Holy Days of Obligation

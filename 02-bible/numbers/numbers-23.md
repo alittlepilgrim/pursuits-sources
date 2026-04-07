@@ -1,35 +1,34 @@
 ---
-title: Numbers, Chapter 23
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 23
+title: Numbers, Chapter 23
+url: https://bible.usccb.org/bible/numbers/23
 aliases:
   - numbers-23
   - Numbers, Chapter 23
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/23
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 23
 ---
 
 # Numbers, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 1 Then Balaam said to Balak, “Build me seven altars here, and here prepare seven bulls and seven rams for me.” ^numbers-23-1
 
 2 So Balak did as Balaam had ordered, and Balak and Balaam offered a bull and a ram on each altar. ^numbers-23-2
 
-3 Balaam said to Balak, “Stand here by your burnt offering while I go over there. Perhaps the L ORD will meet me, and then I will tell you whatever he lets me see.” And so he went out on the barren height. ^numbers-23-3
+3 Balaam said to Balak, “Stand here by your burnt offering while I go over there. Perhaps the LORD will meet me, and then I will tell you whatever he lets me see.” And so he went out on the barren height. ^numbers-23-3
 
 4 Then God met Balaam, and Balak said to him: “I have erected the seven altars, and have offered a bull and a ram on each altar.” ^numbers-23-4
 
-5 The L ORD put an utterance in Balaam’s mouth, and said: Go back to Balak, and speak accordingly. ^numbers-23-5
+5 The LORD put an utterance in Balaam’s mouth, and said: Go back to Balak, and speak accordingly. ^numbers-23-5
 
 6 So he went back to Balak, who was still standing by his burnt offering together with all the princes of Moab. ^numbers-23-6
 
@@ -45,7 +44,7 @@ come, denounce Israel.”
 
 8 How can I lay a curse on the one whom God has not cursed? ^numbers-23-8
 
-How denounce the one whom the L ORD has not denounced?
+How denounce the one whom the LORD has not denounced?
 
 9 For from the top of the crags I see him, ^numbers-23-9
 
@@ -65,7 +64,7 @@ may my end be like theirs!
 
 11 “What have you done to me?” cried Balak to Balaam. “It was to lay a curse on my foes that I brought you here; but instead, you have blessed them!” ^numbers-23-11
 
-12 Balaam replied, “Is it not what the L ORD puts in my mouth that I take care to repeat?” ^numbers-23-12
+12 Balaam replied, “Is it not what the LORD puts in my mouth that I take care to repeat?” ^numbers-23-12
 
 **The Second Oracle.**
 
@@ -75,9 +74,9 @@ may my end be like theirs!
 
 15 Balaam then said to Balak, “Stand here by your burnt offering, while I seek a meeting over there.” ^numbers-23-15
 
-16 Then the L ORD met Balaam, and, having put an utterance in his mouth, said to him: Return to Balak, and speak accordingly. ^numbers-23-16
+16 Then the LORD met Balaam, and, having put an utterance in his mouth, said to him: Return to Balak, and speak accordingly. ^numbers-23-16
 
-17 So he went to Balak, who was still standing by his burnt offering together with the princes of Moab. When Balak asked him, “What did the L ORD say?” ^numbers-23-17
+17 So he went to Balak, who was still standing by his burnt offering together with the princes of Moab. When Balak asked him, “What did the LORD say?” ^numbers-23-17
 
 18 Balaam recited his poem: ^numbers-23-18
 
@@ -101,7 +100,7 @@ I will bless; I cannot revoke it!
 
 nor do I see misery in Israel.
 
-The L ORD, their God, is with them;
+The LORD, their God, is with them;
 
 among them is the war-cry of their King.
 
@@ -127,7 +126,7 @@ and has drunk the blood of the slain.
 
 25 “Neither lay a curse on them nor bless them,” said Balak to Balaam. ^numbers-23-25
 
-26 But Balaam answered Balak, “Did I not tell you, ‘Everything the L ORD tells me I must do’?” ^numbers-23-26
+26 But Balaam answered Balak, “Did I not tell you, ‘Everything the LORD tells me I must do’?” ^numbers-23-26
 
 **The Third Oracle.**
 

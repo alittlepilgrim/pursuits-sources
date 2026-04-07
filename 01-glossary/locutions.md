@@ -1,15 +1,17 @@
 ---
-title: Locutions
-created: 2025-07-19
-modified: 2026-03-19
 type: glossary
-publish: true
-description: locutions
+title: Locutions
+author:
 aliases:
   - locutions
   - Locutions
 tags:
   - term/locutions
+  - type/term
+created: 2025-07-19
+modified: 2026-04-06
+publish: true
+description: locutions
 ---
 
 # Locutions

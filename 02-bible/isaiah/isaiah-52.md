@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 52
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 52
+title: Isaiah, Chapter 52
+url: https://bible.usccb.org/bible/isaiah/52
 aliases:
   - isaiah-52
   - Isaiah, Chapter 52
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/52
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 52
 ---
 
 # Isaiah, Chapter 52
 
-### Chapter 52
+## Chapter 52
 
-#### Let Zion Rejoice
+### Let Zion Rejoice
 
 1 Awake, awake! ^isaiah-52-1
 
@@ -43,7 +42,7 @@ Loose the bonds from your neck,
 
 captive daughter Zion!
 
-3 For thus says the L ORD: ^isaiah-52-3
+3 For thus says the LORD: ^isaiah-52-3
 
 For nothing you were sold,
 
@@ -59,11 +58,11 @@ Assyria, too, oppressed them for nought.
 
 5 But now, what am I to do here? ^isaiah-52-5
 
-—oracle of the L ORD.
+—oracle of the LORD.
 
 My people have been taken away for nothing;
 
-their rulers mock, oracle of the L ORD;
+their rulers mock, oracle of the LORD;
 
 constantly, every day, my name is reviled.
 
@@ -87,17 +86,17 @@ together they shout for joy,
 
 For they see directly, before their eyes,
 
-the L ORD’s return to Zion.
+the LORD’s return to Zion.
 
 9 Break out together in song, ^isaiah-52-9
 
 O ruins of Jerusalem!
 
-For the L ORD has comforted his people,
+For the LORD has comforted his people,
 
 has redeemed Jerusalem.
 
-10 The L ORD has bared his holy arm ^isaiah-52-10
+10 The LORD has bared his holy arm ^isaiah-52-10
 
 in the sight of all the nations;
 
@@ -111,17 +110,17 @@ touch nothing unclean!
 
 Out from there! Purify yourselves,
 
-you who carry the vessels of the L ORD.
+you who carry the vessels of the LORD.
 
 12 But not in hurried flight will you go out, ^isaiah-52-12
 
 nor leave in headlong haste,
 
-For the L ORD goes before you,
+For the LORD goes before you,
 
 and your rear guard is the God of Israel.
 
-#### Suffering and Triumph of the Servant of the Lord
+### Suffering and Triumph of the Servant of the Lord
 
 13 See, my servant shall prosper, ^isaiah-52-13
 
@@ -145,7 +144,7 @@ those who have not heard shall ponder it.
 
 \* (52:7] – [10) God leads the people back from Babylon to Zion, from whose ruined walls sentinels greet the returning exiles.
 
-\* (52:11) From there: from Babylon. Vessels of the L ORD: taken to Babylon by Nebuchadnezzar, now carried back by the exiles returning in procession to Zion; cf. ([[ezra-01|Ezr 1]]:7].
+\* (52:11) From there: from Babylon. Vessels of the LORD: taken to Babylon by Nebuchadnezzar, now carried back by the exiles returning in procession to Zion; cf. ([[ezra-01|Ezr 1]]:7].
 
 \* (52:13] – [53:12) The last of the “servant of the Lord” oracles (see note on [42:1] – [4]). Taken together, these oracles depict a figure of one called by God for a vocation to Israel and the nations ([42:4]; [49:5] – [6]); the servant’s exaltation both opens and closes the passage ([52:13]; [53:12]). The servant responded in fidelity but has suffered opposition ([50:4] – [6]). In this fourth oracle the servant is characterized as “a man of suffering” ([53:3]) and appears to be unjustly put to death ([53:8] – [9]). Those who have witnessed his career somehow recognize that he is innocent, has undergone suffering for their sins ([53:4] – [6]), and his death is referred to as a reparation offering (see note on [53:10] – [11]). The servant is described in ways that identify him with Israel (which is frequently referred to as “servant” in the context of Second Isaiah—e.g., [41:8], [9]; [44:2], [21]; [43:4]) and is designated as “Israel” in [49:3]; yet Israel outside the “servant of the Lord” oracles is not presented as sinless, but rather in exile because of sin ([40:2]; [42:21] – [25]) and even as servant as deaf and blind ([42:18] – [19]). The servant is thus both identified with Israel and distinguished from it. As with the previous servant poems, this chapter helped the followers of Jesus to interpret his suffering, death, and resurrection; see especially the passion narratives.
 

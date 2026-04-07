@@ -1,35 +1,34 @@
 ---
-title: Deuteronomy, Chapter 20
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: deuteronomy-chapter 20
+title: Deuteronomy, Chapter 20
+url: https://bible.usccb.org/bible/deuteronomy/20
 aliases:
   - deuteronomy-20
   - Deuteronomy, Chapter 20
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: deuteronomy-chapter 20
 ---
 
 # Deuteronomy, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Courage in War.**
 
-1 When you go out to war against your enemies and you see horses and chariots and an army greater than your own, you shall not be afraid of them, for the L ORD, your God, who brought you up from the land of Egypt, will be with you. ^deuteronomy-20-1
+1 When you go out to war against your enemies and you see horses and chariots and an army greater than your own, you shall not be afraid of them, for the LORD, your God, who brought you up from the land of Egypt, will be with you. ^deuteronomy-20-1
 
 2 When you are drawing near to battle, the priest shall come forward and speak to the army, ^deuteronomy-20-2
 
 3 and say to them, “Hear, O Israel! Today you are drawing near for battle against your enemies. Do not be weakhearted or afraid, alarmed or frightened by them. ^deuteronomy-20-3
 
-4 For it is the L ORD, your God, who goes with you to fight for you against your enemies and give you victory.” ^deuteronomy-20-4
+4 For it is the LORD, your God, who goes with you to fight for you against your enemies and give you victory.” ^deuteronomy-20-4
 
 5 Then the officials shall speak to the army: “Is there anyone who has built a new house and not yet dedicated it? Let him return home, lest he die in battle and another dedicate it. ^deuteronomy-20-5
 
@@ -45,17 +44,17 @@ url: https://bible.usccb.org/bible/deuteronomy/20
 
 12 But if it refuses to make peace with you and instead joins battle with you, lay siege to it, ^deuteronomy-20-12
 
-13 and when the L ORD, your God, delivers it into your power, put every male in it to the sword; ^deuteronomy-20-13
+13 and when the LORD, your God, delivers it into your power, put every male in it to the sword; ^deuteronomy-20-13
 
-14 but the women and children and livestock and anything else in the city—all its spoil—you may take as plunder for yourselves, and you may enjoy this spoil of your enemies, which the L ORD, your God, has given you. ^deuteronomy-20-14
+14 but the women and children and livestock and anything else in the city—all its spoil—you may take as plunder for yourselves, and you may enjoy this spoil of your enemies, which the LORD, your God, has given you. ^deuteronomy-20-14
 
 15 That is how you shall deal with any city at a considerable distance from you, which does not belong to these nations here. ^deuteronomy-20-15
 
-16 But in the cities of these peoples that the L ORD, your God, is giving you as a heritage, you shall not leave a single soul alive. ^deuteronomy-20-16
+16 But in the cities of these peoples that the LORD, your God, is giving you as a heritage, you shall not leave a single soul alive. ^deuteronomy-20-16
 
-17 You must put them all under the ban—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—just as the L ORD, your God, has commanded you, ^deuteronomy-20-17
+17 You must put them all under the ban—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—just as the LORD, your God, has commanded you, ^deuteronomy-20-17
 
-18 so that they do not teach you to do all the abominations that they do for their gods, and you thus sin against the L ORD, your God. ^deuteronomy-20-18
+18 so that they do not teach you to do all the abominations that they do for their gods, and you thus sin against the LORD, your God. ^deuteronomy-20-18
 
 **Trees of a Besieged City.**
 

@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 13
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 13
+title: Sirach, Chapter 13
+url: https://bible.usccb.org/bible/sirach/13
 aliases:
   - sirach-13
   - Sirach, Chapter 13
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/13
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 13
 ---
 
 # Sirach, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
-#### Caution Regarding Associates
+### Caution Regarding Associates
 
 1 Touch pitch and you blacken your hand; ^sirach-13-1
 

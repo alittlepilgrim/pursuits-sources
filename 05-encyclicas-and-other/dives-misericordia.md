@@ -1,23 +1,27 @@
 ---
-title: dives-misericordia
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Encyclical Letter Dives in Misericordia (30 November 1980)
+title: Dives In Misericordia
+author:
+  - Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
 aliases:
   - dives-misericordia
 tags:
-  - vault-admin/clippings
+  - author/saint-john-paul-II
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-11-14
+modified: 2026-04-06
+publish: true
+description: Encyclical Letter Dives in Misericordia (30 November 1980)
 abbreviation: jpii-dm
-source: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html
 ---
 
 IOANNES PAULUS PP. II
 
 ***
 
-DIVES IN MISERICORDIA
+# Dives In Misericordia
 
 ***
 
@@ -287,109 +291,109 @@ With my apostolic blessing.
 
 ---
 
-****. Eph. 2:4.
+**[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. Eph. 2:4.
 
-****. Cf. Jn. 1:18; Heb. 1:1f.
+**[2](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2)**. Cf. Jn. 1:18; Heb. 1:1f.
 
-****. Jn. 14:8-9.
+**[3](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3)**. Jn. 14:8-9.
 
-****. Eph. 2:4-5.
+**[4](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4)**. Eph. 2:4-5.
 
-****. 2 Cor. 1:3.
+**[5](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5)**. 2 Cor. 1:3.
 
-****. Pastoral Constitution on the Church in the Modern World *Gaudium et spes*, no. 22: AAS 58 (1966), p. 1042.
+**[6](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6)**. Pastoral Constitution on the Church in the Modern World *Gaudium et spes*, no. 22: AAS 58 (1966), p. 1042.
 
-****. Cf. ibid
+**[7](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7)**. Cf. ibid
 
-****. 1 Tm. 6:16.
+**[8](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-8)**. 1 Tm. 6:16.
 
-****. Rom. 1:20.
+**[9](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-9)**. Rom. 1:20.
 
-****. Jn. 1:18.
+**[10](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-A)**. Jn. 1:18.
 
-****. 1 Tm. 6:16.
+**[11](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-B)**. 1 Tm. 6:16.
 
-****. Ti. 3:4.
+**[12](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-C)**. Ti. 3:4.
 
-****. Eph. 2:4.
+**[13](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-D)**. Eph. 2:4.
 
-****. Cf. Gn. 1:28.
+**[14](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-E)**. Cf. Gn. 1:28.
 
-****. Pastoral Constitution on the Church in the Modern World *Gaudium et spes*, no. 9: AAS 58 (1966), p. 1032.
+**[15](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-F)**. Pastoral Constitution on the Church in the Modern World *Gaudium et spes*, no. 9: AAS 58 (1966), p. 1032.
 
-****. 2 Cor. 1:3.
+**[16](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-G)**. 2 Cor. 1:3.
 
-****. Mt. 6:4, 6, 18.
+**[17](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-H)**. Mt. 6:4, 6, 18.
 
-****. Cf. Eph. 3:18; also Lk. 11:5-13.
+**[18](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-I)**. Cf. Eph. 3:18; also Lk. 11:5-13.
 
-****. Lk. 4:18-19.
+**[19](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-J)**. Lk. 4:18-19.
 
-****. Lk. 7:19.
+**[20](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-K)**. Lk. 7:19.
 
-****. Lk. 7:22-23.
+**[21](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-L)**. Lk. 7:22-23.
 
-****. 1 Jn. 4:16
+**[22](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-M)**. 1 Jn. 4:16
 
-****. Eph. 2:4.
+**[23](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-N)**. Eph. 2:4.
 
-****. Lk. 15:11-32.
+**[24](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-O)**. Lk. 15:11-32.
 
-****. Lk. 10:30-37.
+**[25](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-P)**. Lk. 10:30-37.
 
-****. Mt. 18:23-35.
+**[26](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Q)**. Mt. 18:23-35.
 
-****. Mt. 18:12-14; Lk. 15:3-7.
+**[27](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-R)**. Mt. 18:12-14; Lk. 15:3-7.
 
-****. Lk. 15:8-10.
+**[28](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-S)**. Lk. 15:8-10.
 
-****. Mt. 22:38.
+**[29](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-T)**. Mt. 22:38.
 
-****. Mt. 5:7.
+**[30](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-U)**. Mt. 5:7.
 
-****. Cf. Jgs. 3:7-9.
+**[31](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-V)**. Cf. Jgs. 3:7-9.
 
-****. Cf. 1 Kgs. 8:22-53.
+**[32](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-W)**. Cf. 1 Kgs. 8:22-53.
 
-****. Cf. Mi. 7:18-20.
+**[33](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-X)**. Cf. Mi. 7:18-20.
 
-****. Cf. Is. 1:18; 51:4-16.
+**[34](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Y)**. Cf. Is. 1:18; 51:4-16.
 
-****. Cf. Bar. 2:11-3, 8.
+**[35](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Z)**. Cf. Bar. 2:11-3, 8.
 
-****. Cf. Neh. 9.
+**[36](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-10)**. Cf. Neh. 9.
 
-****. Cf. e.g. Hos. 2:21-25 and 15;Is. 54:6-8.
+**[37](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-11)**. Cf. e.g. Hos. 2:21-25 and 15;Is. 54:6-8.
 
-****. Cf. Jer. 31:20; Lz. 39:25-29.
+**[38](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-12)**. Cf. Jer. 31:20; Lz. 39:25-29.
 
-****. Cf. 2 Sm. 11; 12; 24:10.
+**[39](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-13)**. Cf. 2 Sm. 11; 12; 24:10.
 
-****. Job passim.
+**[40](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-14)**. Job passim.
 
-****. Est.. 4:17k ff.
+**[41](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-15)**. Est.. 4:17k ff.
 
-****. Cf. e.g. Neh. 9:30-32; Tb. 3:2-3, 11-12; 8:16-17; 1 Mc. 4:24.
+**[42](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-16)**. Cf. e.g. Neh. 9:30-32; Tb. 3:2-3, 11-12; 8:16-17; 1 Mc. 4:24.
 
-****. Cf. Ex. 3:7f.
+**[43](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-17)**. Cf. Ex. 3:7f.
 
-****. Cf. Is. 63:9.
+**[44](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-18)**. Cf. Is. 63:9.
 
-****. Ex. 34:6.
+**[45](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-19)**. Ex. 34:6.
 
-****. Cf. Nm. 14:18; 2 Chr. 30:9; Neh. 9:17; Ps. 86(85); Wis. 15:1; Sir. 2:11; Jl. 2:13.
+**[46](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1A)**. Cf. Nm. 14:18; 2 Chr. 30:9; Neh. 9:17; Ps. 86(85); Wis. 15:1; Sir. 2:11; Jl. 2:13.
 
-****. Cf. Is. 63:16.
+**[47](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1B)**. Cf. Is. 63:16.
 
-****. Cf. Ex. 4:22.
+**[48](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1C)**. Cf. Ex. 4:22.
 
-****. Cf. Hos. 2:3.
+**[49](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1D)**. Cf. Hos. 2:3.
 
-****. Cf. Hos. 11:7-9; Jer. 31:20; Is. 54:7f.
+**[50](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1E)**. Cf. Hos. 11:7-9; Jer. 31:20; Is. 54:7f.
 
-****. Cf. Ps. 103(102) and 145(144).
+**[51](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1F)**. Cf. Ps. 103(102) and 145(144).
 
-****. In describing mercy, the books of the Old Testament use two expressions in particular, each having a different semantic nuance. First there is the term hesed, which indicates a profound attitude of "goodness." When this is established between two individuals, they do not just wish each other well; they are also faithful to each other by virtue of an interior commitment, and therefore also by virtue of a faithfulness to themselves. Since hesed also means "grace" or "love," this occurs precisely on the basis of this fidelity. The fact that the commitment in question has not only a moral character but almost a juridical one makes no difference. When in the Old Testament the word hesed is used of the Lord, this always occurs in connection with the covenant that God established with Israel. This covenant was, on God's part, a gift and a grace for Israel. Nevertheless, since, in harmony with the covenant entered into, God had made a commitment to respect it, hesed also acquired in a certain sense a legal content. The juridical commitment on God's part ceased to oblige whenever Israel broke the covenant and did not respect its conditions. But precisely at this point, hesed, in ceasing to be a juridical obligation, revealed its deeper aspect: it showed itself as what it was at the beginning, that is, as love that gives, love more powerful than betrayal, grace stronger than sin.
+**[52](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1G)**. In describing mercy, the books of the Old Testament use two expressions in particular, each having a different semantic nuance. First there is the term hesed, which indicates a profound attitude of "goodness." When this is established between two individuals, they do not just wish each other well; they are also faithful to each other by virtue of an interior commitment, and therefore also by virtue of a faithfulness to themselves. Since hesed also means "grace" or "love," this occurs precisely on the basis of this fidelity. The fact that the commitment in question has not only a moral character but almost a juridical one makes no difference. When in the Old Testament the word hesed is used of the Lord, this always occurs in connection with the covenant that God established with Israel. This covenant was, on God's part, a gift and a grace for Israel. Nevertheless, since, in harmony with the covenant entered into, God had made a commitment to respect it, hesed also acquired in a certain sense a legal content. The juridical commitment on God's part ceased to oblige whenever Israel broke the covenant and did not respect its conditions. But precisely at this point, hesed, in ceasing to be a juridical obligation, revealed its deeper aspect: it showed itself as what it was at the beginning, that is, as love that gives, love more powerful than betrayal, grace stronger than sin.
 
 This fidelity vis-a-vis the unfaithful "daughter of my people"(cf. Lam. 4:3, 6) is, in brief, on God's part, fidelity to Himself. This becomes obvious in the frequent recurrence together of the two terms hesed we'e met (= grace and fidelity), which could be considered a case of hendiadys (cf. e.g. Ex. 34:6; 2 Sm. 2:6; 15:20; Ps. 25\[24\]:10; 40\[39\]:11-12; 85\[84\]:11; 138\[137\]:2; Mi. 7:20). "It is not for your sake, O house of Israel, that I am about to act, but for the sake of my holy name" (Ez. 36:22). Therefore Israel, although burdened with guilt for having broken the covenant, cannot lay claim to God's hesed on the basis of (legal) justice; yet it can and must go on hoping and trusting to obtain it, since the God of the covenant is really "responsible for his love." The fruits of this love are forgiveness and restoration to grace, the reestablishment of the interior covenant.
 
@@ -401,178 +405,178 @@ In the terminology of the Old Testament we also find other expressions, referrin
 
 In this way, we have inherited from the Old Testament-as it were in a special synthesis-not only the wealth of expressions used by those books in order to define God's mercy, but also a specific and obviously anthropomorphic "psychology" of God: the image of His anxious love, which in contact with evil, and in particular with the sin of the individual and of the people, is manifested as mercy. This image is made up not only of the rather general content of the verb hanan but also of the content of hesed and rahamim. The term hanan expresses a wider concept: it means in fact the manifestation of grace, which involves, so to speak, a constant predisposition to be generous, benevolent and merciful. In addition to these basic semantic elements, the Old Testament concept of mercy is also made up of what is included in the verb hamal, which literally means "to spare" (a defeated enemy) but also "to show mercy and compassion," and in consequence forgiveness and remission of guilt. There is also the term hus, which expresses pity and compassion, but especially in the affective sense. These terms appear more rarely in the biblical texts to denote mercy. In addition, one must note the word 'emet already mentioned: it means primarily "solidity, security" (in the Greek of the Septuagint: "truth") and then "fidelity," land in this way it seems to link up with the semantic content proper to the term hesed.
 
-****. Ps. 40(39):11; 98(97):2f.; Is. 45:21; 51:5, 8; 56:1.
+**[53](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1H)**. Ps. 40(39):11; 98(97):2f.; Is. 45:21; 51:5, 8; 56:1.
 
-****. Wis. 11:24.
+**[54](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1I)**. Wis. 11:24.
 
-****. 1 Jn. 4:16.
+**[55](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1J)**. 1 Jn. 4:16.
 
-****. Jer. 31:3.
+**[56](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1K)**. Jer. 31:3.
 
-****. Is. 54:10.
+**[57](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1L)**. Is. 54:10.
 
-****. Jon. 4:2, 11; Ps. 145(144):9; Sir. 18:8-14; Wis. 11:23-12:1.
+**[58](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1M)**. Jon. 4:2, 11; Ps. 145(144):9; Sir. 18:8-14; Wis. 11:23-12:1.
 
-****. Jn. 14:9.
+**[59](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1N)**. Jn. 14:9.
 
-****. In both places it is a case of hesed, i..e., the fidelity that God manifests to His own love for the people, fidelity to he promises that will find their definitive fulfillment precisely in the motherhood of the Mother of God (cf. Lk. 1:49-54).
+**[60](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1O)**. In both places it is a case of hesed, i..e., the fidelity that God manifests to His own love for the people, fidelity to he promises that will find their definitive fulfillment precisely in the motherhood of the Mother of God (cf. Lk. 1:49-54).
 
-****. Cf. Lk. 1:72. Here too it is a case of mercy in the meaning of hesed, insofar as in the following sentences, in which Zechariah speaks of the "tender mercy of our God," there is clearly expressed the second meaning, namely, rahamim (Latin translation: viscera misericordiae), which rather identifies God's mercy with a mother's love.
+**[61](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1P)**. Cf. Lk. 1:72. Here too it is a case of mercy in the meaning of hesed, insofar as in the following sentences, in which Zechariah speaks of the "tender mercy of our God," there is clearly expressed the second meaning, namely, rahamim (Latin translation: viscera misericordiae), which rather identifies God's mercy with a mother's love.
 
-****. Cf. Lk. 15:14-32.
+**[62](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Q)**. Cf. Lk. 15:14-32.
 
-****. Lk. 15:18-19.
+**[63](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1R)**. Lk. 15:18-19.
 
-****. Lk. 15:20.
+**[64](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1S)**. Lk. 15:20.
 
-****. Lk. 15:32.
+**[65](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1T)**. Lk. 15:32.
 
-****. Cf. Lk. 15:3-6.
+**[66](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1U)**. Cf. Lk. 15:3-6.
 
-****. Cf. Lk. 15:8-9.
+**[67](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1V)**. Cf. Lk. 15:8-9.
 
-****. 1 Cor. 13:4-8.
+**[68](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1W)**. 1 Cor. 13:4-8.
 
-****. Cf. Rom. 12:21.
+**[69](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1X)**. Cf. Rom. 12:21.
 
-****. Cf. the liturgy of the Easter Vigil: the Exsultet.
+**[70](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Y)**. Cf. the liturgy of the Easter Vigil: the Exsultet.
 
-****. Acts 10:38.
+**[71](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Z)**. Acts 10:38.
 
-****. Mt. 9:35.
+**[72](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-20)**. Mt. 9:35.
 
-****. Cf. Mk. 15:37; Jn. 19:30.
+**[73](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-21)**. Cf. Mk. 15:37; Jn. 19:30.
 
-****. Is. 53:5
+**[74](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-22)**. Is. 53:5
 
-****. 2 Cor. 5:21.
+**[75](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-23)**. 2 Cor. 5:21.
 
-****. Ibid.
+**[76](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-24)**. Ibid.
 
-****. The Nicene-Constantinopolitan Creed.
+**[77](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-25)**. The Nicene-Constantinopolitan Creed.
 
-****. Jn. 3:16.
+**[78](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-26)**. Jn. 3:16.
 
-****. Cf. Jn. 14:9.
+**[79](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-27)**. Cf. Jn. 14:9.
 
-****. Mt. 10:28.
+**[80](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-28)**. Mt. 10:28.
 
-****. Phil. 2:8.
+**[81](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-29)**. Phil. 2:8.
 
-****. 2 Cor. 5:21.
+**[82](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2A)**. 2 Cor. 5:21.
 
-****. Cf. 1 Cor. 15:54-55.
+**[83](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2B)**. Cf. 1 Cor. 15:54-55.
 
-****. Cf. Lk. 4:18-21.
+**[84](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2C)**. Cf. Lk. 4:18-21.
 
-****. Cf. Lk. 7:20-23.
+**[85](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2D)**. Cf. Lk. 7:20-23.
 
-****. Cf. Is. 35:5; 61:1-3.
+**[86](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2E)**. Cf. Is. 35:5; 61:1-3.
 
-****. 1 Cor. 15:4.
+**[87](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2F)**. 1 Cor. 15:4.
 
-****. Rv. 21:1.
+**[88](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2G)**. Rv. 21:1.
 
-****. Rv. 21:4.
+**[89](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2H)**. Rv. 21:4.
 
-****. Cf. Rv. 21:4.
+**[90](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2I)**. Cf. Rv. 21:4.
 
-****. Rv. 3:20.
+**[91](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2J)**. Rv. 3:20.
 
-****. Cf. Mt. 24:35.
+**[92](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2K)**. Cf. Mt. 24:35.
 
-****. Cf. Rv. 3:20.
+**[93](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2L)**. Cf. Rv. 3:20.
 
-****. Mt. 25:40.
+**[94](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2M)**. Mt. 25:40.
 
-****. Mt. 5:7.
+**[95](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2N)**. Mt. 5:7.
 
-****. Jn. 14:9.
+**[96](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2O)**. Jn. 14:9.
 
-****. Rom. 8:32.
+**[97](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2P)**. Rom. 8:32.
 
-****. Mk. 12:27.
+**[98](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Q)**. Mk. 12:27.
 
-****. Jn. 20:19-23.
+**[99](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2R)**. Jn. 20:19-23.
 
-****. Ps. 89(88):2.
+**[100](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2S)**. Ps. 89(88):2.
 
-****. Lk. 1:50.
+**[101](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2T)**. Lk. 1:50.
 
-****. Cf. 2 Cor. 1:21-22.
+**[102](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2U)**. Cf. 2 Cor. 1:21-22.
 
-****. Lk. 1:50.
+**[103](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2V)**. Lk. 1:50.
 
-****. Cf. Ps..85(84):11.
+**[104](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2W)**. Cf. Ps..85(84):11.
 
-****. Lk. 1:50.
+**[105](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2X)**. Lk. 1:50.
 
-****. Cf. Lk. 4:18.
+**[106](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Y)**. Cf. Lk. 4:18.
 
-****. Cf. Lk. 7:22.
+**[107](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Z)**. Cf. Lk. 7:22.
 
-****. Dogmatic Constitution on the Church *Lumen gentium*, no. 62: AAS 57 1965), p. 63.
+**[108](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-30)**. Dogmatic Constitution on the Church *Lumen gentium*, no. 62: AAS 57 1965), p. 63.
 
-****. Pastoral Constitution on the Church in the Modern World *Gaudium et spes,* no. 10: AAS 58 (1966), p. 1032.
+**[109](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-31)**. Pastoral Constitution on the Church in the Modern World *Gaudium et spes,* no. 10: AAS 58 (1966), p. 1032.
 
-****. Ibid
+**[110](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-32)**. Ibid
 
-****. Mt. 5:38.
+**[111](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-33)**. Mt. 5:38.
 
-****. Cf. Jn. 14:9-10.
+**[112](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-34)**. Cf. Jn. 14:9-10.
 
-****. Jn. 14:9.
+**[113](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-35)**. Jn. 14:9.
 
-****. Cf. 1 Cor. 11:26; acclamation in the Roman Missal.
+**[114](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-36)**. Cf. 1 Cor. 11:26; acclamation in the Roman Missal.
 
-****. Jn. 3:16.
+**[115](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-37)**. Jn. 3:16.
 
-****. 1 Jn. 4:8.
+**[116](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-38)**. 1 Jn. 4:8.
 
-****. Cf. 1 Cor. 13:4.
+**[117](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-39)**. Cf. 1 Cor. 13:4.
 
-****. 2 Cor. 1:3.
+**[118](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3A)**. 2 Cor. 1:3.
 
-****. Rom. 8:26.
+**[119](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3B)**. Rom. 8:26.
 
-****. Mt. 5:7.
+**[120](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3C)**. Mt. 5:7.
 
-****. Cf. Mt. 25:34-40.
+**[121](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3D)**. Cf. Mt. 25:34-40.
 
-****. Cf. 1 Cor. 13:4.
+**[122](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3E)**. Cf. 1 Cor. 13:4.
 
-****. Cf. Lk. 15:11-32.
+**[123](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3F)**. Cf. Lk. 15:11-32.
 
-****. Cf. Lk. 15:1-10.
+**[124](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3G)**. Cf. Lk. 15:1-10.
 
-****. Cf. *Insegnamenti di Paolo VI*, XIII (1975), p. 1568 (close of the Holy Year, December 25, 1975).
+**[125](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3H)**. Cf. *Insegnamenti di Paolo VI*, XIII (1975), p. 1568 (close of the Holy Year, December 25, 1975).
 
-****. Mt. 5:38.
+**[126](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3I)**. Mt. 5:38.
 
-****. Cf. Pastoral Constitution on the Church in the Modern World *Gaudium et spes*, no. 40 AAS 58 (1966), pp.1057-1059; Pope Paul VI: Apostolic Exhortation *Paterna cum benevolentia*, in particular nos. 1-6: AAS 67 (1975), pp. 7-9, 17-23.
+**[127](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3J)**. Cf. Pastoral Constitution on the Church in the Modern World *Gaudium et spes*, no. 40 AAS 58 (1966), pp.1057-1059; Pope Paul VI: Apostolic Exhortation *Paterna cum benevolentia*, in particular nos. 1-6: AAS 67 (1975), pp. 7-9, 17-23.
 
-****. Cf. 1 Jn. 2:16.
+**[128](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3K)**. Cf. 1 Jn. 2:16.
 
-****. Mt. 6:12.
+**[129](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3L)**. Mt. 6:12.
 
-****. Eph. 4:2; cf. Gal. 6:2.
+**[130](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3M)**. Eph. 4:2; cf. Gal. 6:2.
 
-****. Mt. 18:22.
+**[131](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3N)**. Mt. 18:22.
 
-****. Cf. Lk. 15:32.
+**[132](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3O)**. Cf. Lk. 15:32.
 
-****. Cf. Is. 12:3.
+**[133](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3P)**. Cf. Is. 12:3.
 
-****. Mt. 10:8.
+**[134](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3Q)**. Mt. 10:8.
 
-****. Cf. Heb. 5:7.
+**[135](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3R)**. Cf. Heb. 5:7.
 
-****. Cf. Wis. 11:24; Ps. 145(144):9; Gn. 1:31.
+**[136](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3S)**. Cf. Wis. 11:24; Ps. 145(144):9; Gn. 1:31.
 
-****. Lk. 23:34.
+**[137](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3T)**. Lk. 23:34.
 
-****. Cf. 1 Cor. 4:1.
+**[138](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3U)**. Cf. 1 Cor. 4:1.
 
-****. Mt. 5:7.
+**[139](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3V)**. Mt. 5:7.
 
-****. Cf. Jn. 14:9.
+**[140](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3W)**. Cf. Jn. 14:9.

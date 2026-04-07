@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 65
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 65
+title: Isaiah, Chapter 65
+url: https://bible.usccb.org/bible/isaiah/65
 aliases:
   - isaiah-65
   - Isaiah, Chapter 65
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/65
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 65
 ---
 
 # Isaiah, Chapter 65
 
-### Chapter 65
+## Chapter 65
 
 1 I was ready to respond to those who did not ask, ^isaiah-65-1
 
@@ -67,7 +66,7 @@ I will not remain quiet until I have repaid in full
 
 7 Your crimes and the crimes of your ancestors as well, ^isaiah-65-7
 
-says the L ORD.
+says the LORD.
 
 Since they burned incense on the mountains,
 
@@ -77,9 +76,9 @@ I will at once pour out in full measure
 
 their recompense into their laps.
 
-#### Fate of the Just and Unjust in Israel
+### Fate of the Just and Unjust in Israel
 
-8 Thus says the L ORD: ^isaiah-65-8
+8 Thus says the LORD: ^isaiah-65-8
 
 As when the juice is pressed from a cluster,
 
@@ -105,7 +104,7 @@ the Valley of Anchor a resting place for the cattle,
 
 for my people who have sought me.
 
-11 But you who forsake the L ORD, ^isaiah-65-11
+11 But you who forsake the LORD, ^isaiah-65-11
 
 who forget my holy mountain,
 
@@ -165,7 +164,7 @@ For the hardships of the past shall be forgotten
 
 and hidden from my eyes.
 
-#### A World Renewed
+### A World Renewed
 
 17 See, I am creating new heavens ^isaiah-65-17
 
@@ -219,7 +218,7 @@ the work of their hands.
 
 nor beget children for sudden destruction;
 
-For they shall be a people blessed by the L ORD
+For they shall be a people blessed by the LORD
 
 and their descendants with them.
 
@@ -235,7 +234,7 @@ but the serpent’s food shall be dust.
 
 None shall harm or destroy
 
-on all my holy mountain, says the L ORD.
+on all my holy mountain, says the LORD.
 
 \* (65:1] – [7) These verses serve as a response to the preceding questions about God’s inaction ([64:6], [11]). It is not God who has been absent, but the people who have walked away from God by idolatrous acts and rituals (vv. [3] – [4]). That is the reason for their punishment (vv. [6] – [7]).
 

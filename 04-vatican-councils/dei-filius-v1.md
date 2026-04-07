@@ -1,24 +1,23 @@
 ---
-title: Dei Filius V1
-created: 2025-08-24
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Dogmatic Constitution Dei Filius
+title: Dei Filius V1
+author: Catholic Church
+url: https://inters.org/Vatican-Council-I-Dei-Filius
 aliases:
   - dei-filius-v1
   - Dogmatic Constitution Dei Filius
 tags:
   - vatican/vatican-I
+created: 2025-08-24
+modified: 2026-04-04
+publish: true
+description: Dogmatic Constitution Dei Filius
 abbreviation: df
-author: Catholic Church
-source: https://inters.org/Vatican-Council-I-Dei-Filius
-url: https://inters.org/Vatican-Council-I-Dei-Filius
 ---
 
 Vatican Council I - 1870
 
-## Chap. 1. God, Creator of All Things
+# Chap. 1. God, Creator of All Things
 
 The holy, Catholic, Apostolic, Roman Church believes and confesses that there is one, true, living God, Creator and Lord of heaven and earth, omnipotent, eternal, immense, incomprehensible, infinite in intellect and will, and in every perfection; who, although He is one, singular, altogether simple and unchangeable spiritual substance, must be proclaimed distinct in reality and essence from the world; most blessed in Himself and of Himself, and ineffably most high above all things which are or can be conceived outside Himself.
 
@@ -26,7 +25,7 @@ This sole true God by His goodness and "omnipotent power," not to increase His o
 
 But God protects and governs by His providence all things which He created, "reaching from end to end mightily and ordering all things sweetly" \[cf. *Wis* 8:1\]. For "all things are naked and open to His eyes" \[*Heb* 4:13\], even those which by the free action of creatures are in the future.
 
-## Chap. 2. Revelation
+# Chap. 2. Revelation
 
 The same Holy Mother Church holds and teaches that God, the beginning and end of all things, can be known with certitude by the natural light of human reason from created things; "for the invisible things of him, from the creation of the world, are clearly seen, being understood by the things that are made" \[*Rom* 1:20\]; nevertheless, it has pleased His wisdom and goodness to reveal Himself and the eternal decrees of His will to the human race in another and supernatural way, as the Apostle says: "God, who at sundry times and in divers manners, spoke in times past to the fathers by the prophets, last of all, in these days hath spoken to us by His Son" \[*Heb* 1:1 f\].
 
@@ -36,7 +35,7 @@ Furthermore, this supernatural revelation, according to the faith of the univers
 
 But, since the rules which the holy Synod of Trent salutarily decreed concerning the interpretation of Divine Scripture in order to restrain impetuous minds, are wrongly explained by certain men, We, renewing the same decree, declare this to be its intention: that, in matters of faith and morals pertaining to the instruction of Christian Doctrine, that must be considered as the true sense of Sacred Scripture which Holy Mother Church has held and holds, whose office it is to judge concerning the true understanding and interpretation of the Sacred Scriptures; and, for that reason, no one is permitted to interpret Sacred Scripture itself contrary to this sense, or even contrary to the unanimous agreement of the Fathers.
 
-## Chap. 3. Faith
+# Chap. 3. Faith
 
 Since man is wholly dependent on God as his Creator and Lord, and since created reason is completely subject to uncreated truth, we are bound by faith to give full obedience of intellect and will to God who reveals. But the Catholic Church professes that this faith, which is the beginning of human salvation, is a supernatural virtue by which we, with the aid and inspiration of the grace of God, believe that the things revealed by Him are true, not because the intrinsic truth of the revealed things has been perceived by the natural light of reason, but because of the authority of God Himself who reveals them, who can neither deceive nor be deceived. For, "faith is," as the Apostle testifies, "the substance of things to be hoped for, the evidence of things that appear not" \[*Heb* 11:1\].
 
@@ -52,7 +51,7 @@ For, to the Catholic Church alone belong all those many and marvelous things whi
 
 By this it happens that the Church as "a standard set up unto the nations" \[*Is* 11:12\], both invites to itself those who have not yet believed, and makes its sons more certain that the faith, which they profess, rests on a very firm foundation. Indeed, an efficacious aid to this testimony has come from supernatural virtue. For, the most benign God both excites the erring by His grace and aids them so that they can "come to a knowledge of the truth" \[*1Tim* 2:4\], and also confirms in His grace those whom "He has called out of darkness into his marvelous light" \[*1Pet* 2:9\], so that they may persevere in this same light, not deserting if He be not deserted. Wherefore, not at all equal is the condition of those, who, through the heavenly gift of faith, have adhered to the Catholic truth, and of those, who, led by human opinions, follow a false religion; for, those who have accepted the faith under the teaching power of the Church can never have a just cause of changing or doubting that faith. Since this is so, "giving thanks to God the Father, who hath made us worthy to be partakers of the lot of the saints in light" \[*Col* 1:12\], let us not neglect such salvation, but "looking on Jesus, the author and finisher of faith" \[*Heb* 12:2\], "let us hold fast the confession of our hope without wavering" \[*Heb* 10:23\].
 
-## Chap. 4. Faith and Reason
+# Chap. 4. Faith and Reason
 
 By enduring agreement the Catholic Church has held and holds that there is a twofold order of knowledge, distinct not only in principle but also in object: (1) in principle, indeed, because we know in one way by natural reason, in another by divine faith; (2) in object, however, because, in addition to things to which natural reason can attain, mysteries hidden in God are proposed to us for belief which, had they not been divinely revealed, could not become known. Wherefore, the Apostle, who testifies that God was known to the Gentiles "by the things that are made" \[*Rom* 1:20\], nevertheless, when discoursing about grace and truth which "was made through Jesus Christ" \[cf. *Jn* 1:17\] proclaims: "We speak the wisdom of God in a mystery, a wisdom which is hidden, which God ordained before the world, unto our glory, which none of the princes of this world know. \[…\] But to us God hath revealed them by His Spirit For the Spirit searcheth all things, yea the deep things of God" \[*1Cor* 2:7,8,10\]. And the Only-begotten Himself "confesses to the Father, because He hath hid these things from the wise and prudent, and hath revealed them to little ones" \[cf. *Mt* 11:25\]
 
@@ -70,4 +69,4 @@ Source publishing
 
 Original Latin text in H. DENZINGER, *Enchiridion Simbolorum, definitionum et declarationum de rebus fidei et morum,* ed. by P.  Hünermann (Freiburg i.B.: Herder, 1991), DH 3001-3020. English translation provided by *Welcome to Catholic Church*, Harmony Media inc.
 
-
+[From the Catholic Church Magisterium](https://inters.org/Documents-from-the-Catholic-Church)

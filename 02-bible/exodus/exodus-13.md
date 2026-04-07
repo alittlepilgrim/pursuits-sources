@@ -1,62 +1,61 @@
 ---
-title: Exodus, Chapter 13
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 13
+title: Exodus, Chapter 13
+url: https://bible.usccb.org/bible/exodus/13
 aliases:
   - 20250731-085907
   - exodus-13
   - Exodus, Chapter 13
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 13
 ---
 
 # Exodus, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Consecration of Firstborn.**
 
-1 The L ORD spoke to Moses and said: ^exodus-13-1
+1 The LORD spoke to Moses and said: ^exodus-13-1
 
 2 Consecrate to me every firstborn; whatever opens the womb among the Israelites, whether of human being or beast, belongs to me. ^exodus-13-2
 
-3 Moses said to the people, “Remember this day on which you came out of Egypt, out of a house of slavery. For it was with a strong hand that the L ORD brought you out from there. Nothing made with leaven may be eaten. ^exodus-13-3
+3 Moses said to the people, “Remember this day on which you came out of Egypt, out of a house of slavery. For it was with a strong hand that the LORD brought you out from there. Nothing made with leaven may be eaten. ^exodus-13-3
 
 4 This day on which you are going out is in the month of Abib. ^exodus-13-4
 
-5 Therefore, when the L ORD, your God, has brought you into the land of the Canaanites, the Hittites, the Amorites, the Perrizites, the Girgashites, the Hivites, and the Jebusites, which he swore to your ancestors to give you, a land flowing with milk and honey, you will perform the following service in this month. ^exodus-13-5
+5 Therefore, when the LORD, your God, has brought you into the land of the Canaanites, the Hittites, the Amorites, the Perrizites, the Girgashites, the Hivites, and the Jebusites, which he swore to your ancestors to give you, a land flowing with milk and honey, you will perform the following service in this month. ^exodus-13-5
 
-6 For seven days you will eat unleavened bread, and the seventh day will also be a festival to the L ORD. ^exodus-13-6
+6 For seven days you will eat unleavened bread, and the seventh day will also be a festival to the LORD. ^exodus-13-6
 
 7 Unleavened bread may be eaten during the seven days, but nothing leavened and no leaven may be found in your possession in all your territory. ^exodus-13-7
 
-8 And on that day you will explain to your son, ‘This is because of what the L ORD did for me when I came out of Egypt.’ ^exodus-13-8
+8 And on that day you will explain to your son, ‘This is because of what the LORD did for me when I came out of Egypt.’ ^exodus-13-8
 
-9 It will be like a sign on your hand and a reminder on your forehead, so that the teaching of the L ORD will be on your lips: with a strong hand the L ORD brought you out of Egypt. ^exodus-13-9
+9 It will be like a sign on your hand and a reminder on your forehead, so that the teaching of the LORD will be on your lips: with a strong hand the LORD brought you out of Egypt. ^exodus-13-9
 
 10 You will keep this statute at its appointed time from year to year. ^exodus-13-10
 
-11 “When the L ORD, your God, has brought you into the land of the Canaanites, just as he swore to you and your ancestors, and gives it to you, ^exodus-13-11
+11 “When the LORD, your God, has brought you into the land of the Canaanites, just as he swore to you and your ancestors, and gives it to you, ^exodus-13-11
 
-12 you will dedicate to the L ORD every newborn that opens the womb; and every firstborn male of your animals will belong to the L ORD. ^exodus-13-12
+12 you will dedicate to the LORD every newborn that opens the womb; and every firstborn male of your animals will belong to the LORD. ^exodus-13-12
 
 13 Every firstborn of a donkey you will ransom with a sheep. If you do not ransom it, you will break its neck. Every human firstborn of your sons you must ransom. ^exodus-13-13
 
-14 And when your son asks you later on, ‘What does this mean?’ you will tell him, ‘With a strong hand the L ORD brought us out of Egypt, out of a house of slavery. ^exodus-13-14
+14 And when your son asks you later on, ‘What does this mean?’ you will tell him, ‘With a strong hand the LORD brought us out of Egypt, out of a house of slavery. ^exodus-13-14
 
-15 When Pharaoh stubbornly refused to let us go, the L ORD killed every firstborn in the land of Egypt, the firstborn of human being and beast alike. That is why I sacrifice to the L ORD every male that opens the womb, and why I ransom every firstborn of my sons.’ ^exodus-13-15
+15 When Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in the land of Egypt, the firstborn of human being and beast alike. That is why I sacrifice to the LORD every male that opens the womb, and why I ransom every firstborn of my sons.’ ^exodus-13-15
 
-16 It will be like a sign on your hand and a band on your forehead that with a strong hand the L ORD brought us out of Egypt.” ^exodus-13-16
+16 It will be like a sign on your hand and a band on your forehead that with a strong hand the LORD brought us out of Egypt.” ^exodus-13-16
 
-## Iv. the Deliverance of the Israelites from Pharaoh and Victory at the Sea
+# Iv. the Deliverance of the Israelites from Pharaoh and Victory at the Sea
 
 **Toward the Red Sea.**
 
@@ -68,7 +67,7 @@ url: https://bible.usccb.org/bible/exodus/13
 
 20 Setting out from Succoth, they camped at Etham near the edge of the wilderness. ^exodus-13-20
 
-21 The L ORD preceded them, in the daytime by means of a column of cloud to show them the way, and at night by means of a column of fire to give them light. Thus they could travel both day and night. ^exodus-13-21
+21 The LORD preceded them, in the daytime by means of a column of cloud to show them the way, and at night by means of a column of fire to give them light. Thus they could travel both day and night. ^exodus-13-21
 
 22 Neither the column of cloud by day nor the column of fire by night ever left its place in front of the people. ^exodus-13-22
 

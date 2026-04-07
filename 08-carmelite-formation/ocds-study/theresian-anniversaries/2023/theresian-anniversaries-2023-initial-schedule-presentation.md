@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Presentation
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Presentation
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 - Presentation
   - theresian-anniversaries-2023-initial-schedule-presentation
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 - Presentation

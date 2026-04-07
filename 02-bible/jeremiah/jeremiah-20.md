@@ -1,41 +1,40 @@
 ---
-title: Jeremiah, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 20
+title: Jeremiah, Chapter 20
+url: https://bible.usccb.org/bible/jeremiah/20
 aliases:
   - jeremiah-20
   - Jeremiah, Chapter 20
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 20
 ---
 
 # Jeremiah, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
-1 Now the priest Pashhur, son of Immer, chief officer in the house of the L ORD, heard Jeremiah prophesying these things. ^jeremiah-20-1
+1 Now the priest Pashhur, son of Immer, chief officer in the house of the LORD, heard Jeremiah prophesying these things. ^jeremiah-20-1
 
-2 So he struck the prophet and put him in the stocks at the upper Gate of Benjamin in the house of the L ORD. ^jeremiah-20-2
+2 So he struck the prophet and put him in the stocks at the upper Gate of Benjamin in the house of the LORD. ^jeremiah-20-2
 
-3 The next morning, after Pashhur had released Jeremiah from the stocks, the prophet said to him: “Instead of Pashhur, the L ORD names you ‘Terror on every side.’ ^jeremiah-20-3
+3 The next morning, after Pashhur had released Jeremiah from the stocks, the prophet said to him: “Instead of Pashhur, the LORD names you ‘Terror on every side.’ ^jeremiah-20-3
 
-4 For thus says the L ORD: Indeed, I will hand you over to terror, you and all your friends. Your own eyes shall see them fall by the sword of their enemies. All Judah I will hand over to the power of the king of Babylon, who shall take them captive to Babylon or strike them down with the sword. ^jeremiah-20-4
+4 For thus says the LORD: Indeed, I will hand you over to terror, you and all your friends. Your own eyes shall see them fall by the sword of their enemies. All Judah I will hand over to the power of the king of Babylon, who shall take them captive to Babylon or strike them down with the sword. ^jeremiah-20-4
 
 5 All the wealth of this city, all its resources and its valuables, all the treasures of the kings of Judah, I will hand over to their enemies, who will plunder it and carry it away to Babylon. ^jeremiah-20-5
 
 6 You, Pashhur, and all the members of your household shall go into exile. To Babylon you shall go; there you shall die and be buried, you and all your friends, because you have prophesied lies to them.” ^jeremiah-20-6
 
-#### Jeremiah’s Interior Crisis
+### Jeremiah’s Interior Crisis
 
-7 You seduced me, L ORD, and I let myself be seduced; ^jeremiah-20-7
+7 You seduced me, LORD, and I let myself be seduced; ^jeremiah-20-7
 
 you were too strong for me, and you prevailed.
 
@@ -47,7 +46,7 @@ everyone mocks me.
 
 violence and outrage I proclaim;
 
-The word of the L ORD has brought me
+The word of the LORD has brought me
 
 reproach and derision all day long.
 
@@ -77,7 +76,7 @@ are on the watch for any misstep of mine.
 
 and take our revenge on him.”
 
-11 But the L ORD is with me, like a mighty champion: ^jeremiah-20-11
+11 But the LORD is with me, like a mighty champion: ^jeremiah-20-11
 
 my persecutors will stumble, they will not prevail.
 
@@ -85,7 +84,7 @@ In their failure they will be put to utter shame,
 
 to lasting, unforgettable confusion.
 
-12 L ORD of hosts, you test the just, ^jeremiah-20-12
+12 LORD of hosts, you test the just, ^jeremiah-20-12
 
 you see mind and heart,
 
@@ -93,9 +92,9 @@ Let me see the vengeance you take on them,
 
 for to you I have entrusted my cause.
 
-13 Sing to the L ORD, ^jeremiah-20-13
+13 Sing to the LORD, ^jeremiah-20-13
 
-praise the L ORD,
+praise the LORD,
 
 For he has rescued the life of the poor
 
@@ -119,7 +118,7 @@ filling him with great joy.
 
 16 Let that man be like the cities ^jeremiah-20-16
 
-which the L ORD relentlessly overthrew;
+which the LORD relentlessly overthrew;
 
 Let him hear war cries in the morning,
 
@@ -137,7 +136,7 @@ to see sorrow and pain,
 
 to end my days in shame?
 
-\* (20:1) Chief officer in the house of the L ORD: head of the Temple police; cf. [29:26]. By entering the Temple court ([19:14]), Jeremiah had put himself under Pashhur’s jurisdiction.
+\* (20:1) Chief officer in the house of the LORD: head of the Temple police; cf. [29:26]. By entering the Temple court ([19:14]), Jeremiah had put himself under Pashhur’s jurisdiction.
 
 \* (20:3) Terror on every side: the name indicates the siege that will beset Jerusalem.
 

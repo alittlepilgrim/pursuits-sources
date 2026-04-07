@@ -1,35 +1,34 @@
 ---
-title: Ezekiel, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 7
+title: Ezekiel, Chapter 7
+url: https://bible.usccb.org/bible/ezekiel/7
 aliases:
   - ezekiel-07
   - Ezekiel, Chapter 7
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 7
 ---
 
 # Ezekiel, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **The End Has Come.**
 
-1 The word of the L ORD came to me: ^ezekiel-07-1
+1 The word of the LORD came to me: ^ezekiel-07-1
 
 2 Son of man, now say: Thus says the Lord G OD to the land of Israel: An end! The end comes upon the four corners of the land! ^ezekiel-07-2
 
 3 Now the end is upon you; I will unleash my anger against you, judge you according to your ways, and hold against you all your abominations. ^ezekiel-07-3
 
-4 My eye will not spare you, nor will I have pity; but I will hold your conduct against you, since your abominations remain within you; then shall you know that I am the L ORD. ^ezekiel-07-4
+4 My eye will not spare you, nor will I have pity; but I will hold your conduct against you, since your abominations remain within you; then shall you know that I am the LORD. ^ezekiel-07-4
 
 5 Thus says the Lord G OD: Evil upon evil! See it coming! ^ezekiel-07-5
 
@@ -39,7 +38,7 @@ url: https://bible.usccb.org/bible/ezekiel/7
 
 8 Soon now I will pour out my fury upon you and spend my anger against you; I will judge you according to your ways and hold against you all your abominations. ^ezekiel-07-8
 
-9 My eye will not spare, nor will I take pity; I will hold your conduct against you since your abominations remain within you, then you shall know that it is I, the L ORD, who strikes. ^ezekiel-07-9
+9 My eye will not spare, nor will I take pity; I will hold your conduct against you since your abominations remain within you, then you shall know that it is I, the LORD, who strikes. ^ezekiel-07-9
 
 10 The day is here! Look! it is coming! The crisis has come! Lawlessness is blooming, insolence budding; ^ezekiel-07-10
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/ezekiel/7
 
 18 They put on sackcloth, horror clothes them; shame is on all their faces, all their heads are shaved bald. ^ezekiel-07-18
 
-19 They fling their silver into the streets, and their gold is considered unclean. Their silver and gold cannot save them on the day of the L ORD’s wrath. They cannot satisfy their hunger or fill their bellies, for it has been the occasion of their sin. ^ezekiel-07-19
+19 They fling their silver into the streets, and their gold is considered unclean. Their silver and gold cannot save them on the day of the LORD’s wrath. They cannot satisfy their hunger or fill their bellies, for it has been the occasion of their sin. ^ezekiel-07-19
 
 20 In their beautiful ornaments they took pride; out of them they made their abominable images, their detestable things. For this reason I will make them unclean. ^ezekiel-07-20
 
@@ -75,7 +74,7 @@ url: https://bible.usccb.org/bible/ezekiel/7
 
 26 Disaster after disaster, rumor upon rumor. They keep seeking a vision from the prophet; instruction from the priest is missing, and counsel from the elders. ^ezekiel-07-26
 
-27 The king mourns, the prince is terror-stricken, the hands of the common people tremble. I will deal with them according to their ways, and according to their judgments I will judge them. They shall know that I am the L ORD. ^ezekiel-07-27
+27 The king mourns, the prince is terror-stricken, the hands of the common people tremble. I will deal with them according to their ways, and according to their judgments I will judge them. They shall know that I am the LORD. ^ezekiel-07-27
 
 \* (7:12] – [13) Normal affairs will cease to have any meaning in view of the disaster that is to come.
 

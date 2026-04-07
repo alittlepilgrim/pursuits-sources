@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 9
+title: Ezekiel, Chapter 9
+url: https://bible.usccb.org/bible/ezekiel/9
 aliases:
   - ezekiel-09
   - Ezekiel, Chapter 9
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 9
 ---
 
 # Ezekiel, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Slaughter of the Idolaters.**
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/ezekiel/9
 
 3 Then the glory of the God of Israel moved off the cherub and went up to the threshold of the temple. He called to the man dressed in linen with the scribe’s case at his waist, ^ezekiel-09-3
 
-4 and the L ORD said to him: Pass through the city, through the midst of Jerusalem, and mark an X on the foreheads of those who grieve and lament over all the abominations practiced within it. ^ezekiel-09-4
+4 and the LORD said to him: Pass through the city, through the midst of Jerusalem, and mark an X on the foreheads of those who grieve and lament over all the abominations practiced within it. ^ezekiel-09-4
 
 5 To the others he said in my hearing: Pass through the city after him and strike! Do not let your eyes spare; do not take pity. ^ezekiel-09-5
 
@@ -39,7 +38,7 @@ url: https://bible.usccb.org/bible/ezekiel/9
 
 8 As they were striking, I was left alone. I fell on my face, crying out, “Alas, Lord G OD! Will you destroy all that is left of Israel when you pour out your fury on Jerusalem?” ^ezekiel-09-8
 
-9 He answered me: The guilt of the house of Israel and the house of Judah is too great to measure; the land is filled with bloodshed, the city with lawlessness. They think that the L ORD has abandoned the land, that he does not see them. ^ezekiel-09-9
+9 He answered me: The guilt of the house of Israel and the house of Judah is too great to measure; the land is filled with bloodshed, the city with lawlessness. They think that the LORD has abandoned the land, that he does not see them. ^ezekiel-09-9
 
 10 My eye, however, will not spare, nor shall I take pity, but I will bring their conduct down upon their heads. ^ezekiel-09-10
 

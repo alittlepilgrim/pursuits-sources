@@ -1,25 +1,24 @@
 ---
-title: Zechariah, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 6
+title: Zechariah, Chapter 6
+url: https://bible.usccb.org/bible/zechariah/6
 aliases:
   - zechariah-06
   - Zechariah, Chapter 6
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/6
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 6
 ---
 
 # Zechariah, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Seventh Vision: Four Chariots.**
 
@@ -31,7 +30,7 @@ url: https://bible.usccb.org/bible/zechariah/6
 
 4 I asked the angel who spoke with me, “What are these, my lord?” ^zechariah-06-4
 
-5 The angel answered me, “These are the four winds of the heavens, which are coming forth after presenting themselves before the L ORD of all the earth. ^zechariah-06-5
+5 The angel answered me, “These are the four winds of the heavens, which are coming forth after presenting themselves before the LORD of all the earth. ^zechariah-06-5
 
 6 The one with the black horses is going toward the land of the north, and the white horses go toward the west, and the dappled ones go toward the land of the south.” ^zechariah-06-6
 
@@ -41,19 +40,19 @@ url: https://bible.usccb.org/bible/zechariah/6
 
 **The Crowning.**
 
-9 Then the word of the L ORD came to me: ^zechariah-06-9
+9 Then the word of the LORD came to me: ^zechariah-06-9
 
 10 Take from the exiles—Heldai, Tobijah, Jedaiah—and go the same day to the house of Josiah, son of Zephaniah. (These had come from Babylon.) ^zechariah-06-10
 
 11 You will take silver and gold, and make crowns; place one on the head of Joshua, son of Jehozadak, the high priest. ^zechariah-06-11
 
-12 And say to him: Thus says the L ORD of hosts: There is a man whose name is Branch—and from his place he will branch out and he will build the temple of the L ORD. ^zechariah-06-12
+12 And say to him: Thus says the LORD of hosts: There is a man whose name is Branch—and from his place he will branch out and he will build the temple of the LORD. ^zechariah-06-12
 
-13 He will build the temple of the L ORD, and taking up the royal insignia, he will sit as ruler upon his throne. The priest will be at his right hand, and between the two of them there will be peaceful understanding. ^zechariah-06-13
+13 He will build the temple of the LORD, and taking up the royal insignia, he will sit as ruler upon his throne. The priest will be at his right hand, and between the two of them there will be peaceful understanding. ^zechariah-06-13
 
-14 The other crown will be in the temple of the L ORD as a gracious reminder to Heldai, Tobijah, Jedaiah, and the son of Zephaniah. ^zechariah-06-14
+14 The other crown will be in the temple of the LORD as a gracious reminder to Heldai, Tobijah, Jedaiah, and the son of Zephaniah. ^zechariah-06-14
 
-15 And they who are from afar will come and build the temple of the L ORD, and you will know that the L ORD of hosts has sent me to you. This will happen if you truly obey the L ORD your God. ^zechariah-06-15
+15 And they who are from afar will come and build the temple of the LORD, and you will know that the LORD of hosts has sent me to you. This will happen if you truly obey the LORD your God. ^zechariah-06-15
 
 \* (6:1) Four chariots: vehicles with horses of four different colors (vv. [2] – [3]) represent God’s presence throughout the world and correspond to the four horses of [1:7] – [11].
 

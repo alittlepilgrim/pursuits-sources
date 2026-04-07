@@ -1,10 +1,8 @@
 ---
-title: Social Doctrine of the Church - Part Three
-created: 2025-08-22
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Compendium of the Social Doctrine of the Church
+title: Social Doctrine of the Church - Part Three
+author: Catholic Church
+url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
   - 20250822-143109
   - Compendium of the Social Doctrine of the Church part Three
@@ -12,9 +10,14 @@ aliases:
   - Social Doctrine of the Church - Part Three
   - social-doctrine-05
 tags:
+  - author/catholic-church
   - term/social-doctrine
-author: Catholic Church
-url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
+  - type/magisterium
+  - vatican/social-doctrine
+created: 2025-08-22
+modified: 2026-04-06
+publish: true
+description: Compendium of the Social Doctrine of the Church
 ---
 
 ---
@@ -27,7 +30,7 @@ url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/
 
 “As far as the Church is concerned, the social message of the Gospel must not be considered a theory, but above all else a basis and a motivation for action”.
 
-(**, 57)
+(*[Centesimus Annus](https://www.vatican.va/edocs/ENG0214/__P8.HTM)*, 57)
 
 ## Chapter Twelve
 
@@ -37,7 +40,7 @@ SOCIAL DOCTRINE AND ECCLESIAL ACTION
 
 #### A. **Social Doctrine and the Inculturation of faith**
 
-**521\.** *Aware of the power of Christianity to renew even cultural and social realities*\[1105\], *the Church offers the contribution of her teaching to the building up of the human community by bringing out the social significance of the Gospel*\[1106\]. At the end of the nineteenth century, the Church's Magisterium systematically addressed the pressing social questions of the time, creating “a lasting paradigm for the Church. The Church, in fact, has something to say about specific human situations, individual, and communal, national and international. She formulates a genuine doctrine for these situations, a *corpus* which enables her to analyze social realities, to make judgments about them and to indicate directions to be taken for the just resolution of the problems involved”\[1107\]. The intervention of Pope Leo XIII in the social and political reality of his time with the Encyclical ** “gave the Church ‘citizenship status' as it were, amid the changing realities of public life, and this standing would be more fully confirmed later on”\[1108\]. ^csdc-521
+**521\.** *Aware of the power of Christianity to renew even cultural and social realities*\[1105\], *the Church offers the contribution of her teaching to the building up of the human community by bringing out the social significance of the Gospel*\[1106\]. At the end of the nineteenth century, the Church's Magisterium systematically addressed the pressing social questions of the time, creating “a lasting paradigm for the Church. The Church, in fact, has something to say about specific human situations, individual, and communal, national and international. She formulates a genuine doctrine for these situations, a *corpus* which enables her to analyze social realities, to make judgments about them and to indicate directions to be taken for the just resolution of the problems involved”\[1107\]. The intervention of Pope Leo XIII in the social and political reality of his time with the Encyclical *[Rerum Novarum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum_en.html)* “gave the Church ‘citizenship status' as it were, amid the changing realities of public life, and this standing would be more fully confirmed later on”\[1108\]. ^csdc-521
 
 **522\.** In her social doctrine the Church offers above all an integral vision of man and a complete understanding of his personal and social dimensions. Christian anthropology reveals the inviolable dignity of every person and places the realities of work, economics and politics into an original perspective that sheds light on authentic human values while at the same time inspiring and sustaining the task of Christian witness in the varied areas of personal, cultural and social life. Thanks to the “first fruits of the Spirit” (*Rom* 8:23), Christians become “capable of discharging the new law of love (cf. *Rom* 8:1-11). Through this Spirit, who is ‘the pledge of our inheritance' (*Eph* 1:14), the whole man is renewed from within, even to the achievement of ‘the redemption of the body' (*Rom* 8:23)”.\[1109\] In this sense the Church's social doctrine shows how the moral basis of all social action consists in the human development of the person and identifies the norm for social action corresponding to humanity's true good and as efforts aimed at creating the conditions that will allow every person to satisfy his integral vocation. ^csdc-522
 

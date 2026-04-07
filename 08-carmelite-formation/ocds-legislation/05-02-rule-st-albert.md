@@ -1,15 +1,16 @@
 ---
-title: Rule of Saint Albert
-created: 2025-05-03
-modified: 2026-04-02
 type: legislation
-publish: true
+title: Rule of Saint Albert
+author: Secular Order of Discalced Carmelites
 aliases:
   - 05-02-rule-st-albert
   - Rule of Saint Albert
 tags:
   - carmel/legislation
-author: Secular Order of Discalced Carmelites
+  - type/legislation
+created: 2025-05-03
+modified: 2026-04-06
+publish: true
 ---
 
 # Rule of Saint Albert

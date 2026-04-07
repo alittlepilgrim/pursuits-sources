@@ -1,25 +1,24 @@
 ---
-title: Zephaniah, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zephaniah, Chapter 2
+title: Zephaniah, Chapter 2
+url: https://bible.usccb.org/bible/zephaniah/2
 aliases:
   - zephaniah-02
   - Zephaniah, Chapter 2
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zephaniah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zephaniah/2
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zephaniah, Chapter 2
 ---
 
 # Zephaniah, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 Gather, gather yourselves together, ^zephaniah-02-1
 
@@ -31,13 +30,13 @@ like chaff that disappears;
 
 Before there comes upon you
 
-the blazing anger of the L ORD;
+the blazing anger of the LORD;
 
 Before there comes upon you
 
-the day of the L ORD’s anger.
+the day of the LORD’s anger.
 
-3 Seek the L ORD, ^zephaniah-02-3
+3 Seek the LORD, ^zephaniah-02-3
 
 all you humble of the land,
 
@@ -49,9 +48,9 @@ seek humility;
 
 Perhaps you will be sheltered
 
-on the day of the L ORD’s anger.
+on the day of the LORD’s anger.
 
-#### Ii. Judgment on the Nations
+### Ii. Judgment on the Nations
 
 4 For Gaza shall be forsaken, ^zephaniah-02-4
 
@@ -65,7 +64,7 @@ and Ekron shall be uprooted.
 
 the nation of Cherethites,
 
-the word of the L ORD is against you!
+the word of the LORD is against you!
 
 O Canaan, land of the Philistines,
 
@@ -85,7 +84,7 @@ In the houses of Ashkelon
 
 they shall lie down in the evening.
 
-For the L ORD their God will take care of them,
+For the LORD their God will take care of them,
 
 and bring about their restoration.
 
@@ -99,7 +98,7 @@ and made boasts against their territory.
 
 9 Therefore, as I live— ^zephaniah-02-9
 
-oracle of the L ORD of hosts—
+oracle of the LORD of hosts—
 
 the God of Israel,
 
@@ -121,9 +120,9 @@ the survivors of my nation dispossess them.
 
 because they taunted and boasted against
 
-the people of the L ORD of hosts.
+the people of the LORD of hosts.
 
-11 The L ORD shall inspire them with terror ^zephaniah-02-11
+11 The LORD shall inspire them with terror ^zephaniah-02-11
 
 when he makes all the gods of earth waste away;
 
@@ -135,7 +134,7 @@ shall bow down to him.
 
 12 You too, O Cushites, ^zephaniah-02-12
 
-shall be slain by the sword of the L ORD.
+shall be slain by the sword of the LORD.
 
 13 He will stretch out his hand against the north, ^zephaniah-02-13
 

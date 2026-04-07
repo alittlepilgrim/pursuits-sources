@@ -1,20 +1,20 @@
 ---
-title: Acts of the Apostles, The Acts of the Apostles
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Acts of the Apostles, the Acts of the Apostles
+title: Acts of the Apostles, The Acts of the Apostles
+url: https://bible.usccb.org/bible/acts/0
 aliases:
   - Acts of the Apostles, the Acts of the Apostles
   - Acts of the Apostles, The Acts of the Apostles
   - acts-of-the-apostles-00
 tags:
   - bible/acts-of-the-apostles
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/acts/0
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Acts of the Apostles, the Acts of the Apostles
 ---
 
 # Acts of the Apostles, the Acts of the Apostles

@@ -1,10 +1,6 @@
 ---
-title: Anointing of the Sick
-created: 2025-07-20
-modified: 2026-03-19
 type: glossary
-publish: true
-description: anointing-of-the-sick. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Anointing of the Sick
 aliases:
   - 20250720-212722
   - Anointing of the Sick
@@ -12,6 +8,11 @@ aliases:
 tags:
   - catechism
   - term/anointing-of-the-sick
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: anointing-of-the-sick. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Anointing of the Sick

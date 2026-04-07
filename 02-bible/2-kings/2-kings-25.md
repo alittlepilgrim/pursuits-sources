@@ -1,25 +1,24 @@
 ---
-title: 2 Kings, Chapter 25
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 25
+title: 2 Kings, Chapter 25
+url: https://bible.usccb.org/bible/2kings/25
 aliases:
   - 2 Kings, Chapter 25
   - 2-kings-25
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/25
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 25
 ---
 
 # 2 Kings, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 1 In the tenth month of the ninth year of Zedekiah’s reign, on the tenth day of the month, Nebuchadnezzar, king of Babylon, and his whole army advanced against Jerusalem, encamped around it, and built siege walls on every side. ^2-kings-25-1
 
@@ -37,7 +36,7 @@ url: https://bible.usccb.org/bible/2kings/25
 
 8 On the seventh day of the fifth month (this was in the nineteenth year of Nebuchadnezzar, king of Babylon), Nebuzaradan, captain of the bodyguard, came to Jerusalem as the agent of the king of Babylon. ^2-kings-25-8
 
-9 He burned the house of the L ORD, the house of the king, and all the houses of Jerusalem (every noble house); he destroyed them by fire. ^2-kings-25-9
+9 He burned the house of the LORD, the house of the king, and all the houses of Jerusalem (every noble house); he destroyed them by fire. ^2-kings-25-9
 
 10 The Chaldean troops who were with the captain of the guard tore down the walls that surrounded Jerusalem, ^2-kings-25-10
 
@@ -45,13 +44,13 @@ url: https://bible.usccb.org/bible/2kings/25
 
 12 But some of the country’s poor the captain of the guard left behind as vinedressers and farmers. ^2-kings-25-12
 
-13 The bronze columns that belonged to the house of the L ORD, and the stands and the bronze sea in the house of the L ORD, the Chaldeans broke into pieces; they carried away the bronze to Babylon. ^2-kings-25-13
+13 The bronze columns that belonged to the house of the LORD, and the stands and the bronze sea in the house of the LORD, the Chaldeans broke into pieces; they carried away the bronze to Babylon. ^2-kings-25-13
 
 14 They took also the pots, the shovels, the snuffers, the cups and all the bronze articles used for service. ^2-kings-25-14
 
 15 The fire pans and the bowls that were of solid gold or silver the captain of the guard also carried off. ^2-kings-25-15
 
-16 The two columns, the one bronze sea, and the stands, which Solomon had made for the house of the L ORD —the weight in bronze of all these articles was never calculated. ^2-kings-25-16
+16 The two columns, the one bronze sea, and the stands, which Solomon had made for the house of the LORD —the weight in bronze of all these articles was never calculated. ^2-kings-25-16
 
 17 Each of the columns was eighteen cubits high; a bronze capital three cubits high surmounted each column, and a netting with pomegranates encircled the capital, all of bronze; and they were duplicated on the other column, on the netting. ^2-kings-25-17
 

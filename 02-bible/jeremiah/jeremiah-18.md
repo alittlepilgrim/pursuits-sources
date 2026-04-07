@@ -1,29 +1,28 @@
 ---
-title: Jeremiah, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 18
+title: Jeremiah, Chapter 18
+url: https://bible.usccb.org/bible/jeremiah/18
 aliases:
   - jeremiah-18
   - Jeremiah, Chapter 18
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/18
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 18
 ---
 
 # Jeremiah, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **The Potter’s Vessel.**
 
-1 This word came to Jeremiah from the L ORD: ^jeremiah-18-1
+1 This word came to Jeremiah from the LORD: ^jeremiah-18-1
 
 2 Arise and go down to the potter’s house; there you will hear my word. ^jeremiah-18-2
 
@@ -31,9 +30,9 @@ url: https://bible.usccb.org/bible/jeremiah/18
 
 4 Whenever the vessel of clay he was making turned out badly in his hand, he tried again, making another vessel of whatever sort he pleased. ^jeremiah-18-4
 
-5 Then the word of the L ORD came to me: ^jeremiah-18-5
+5 Then the word of the LORD came to me: ^jeremiah-18-5
 
-6 Can I not do to you, house of Israel, as this potter has done?—oracle of the L ORD. Indeed, like clay in the hand of the potter, so are you in my hand, house of Israel. ^jeremiah-18-6
+6 Can I not do to you, house of Israel, as this potter has done?—oracle of the LORD. Indeed, like clay in the hand of the potter, so are you in my hand, house of Israel. ^jeremiah-18-6
 
 7 At one moment I may decree concerning a nation or kingdom that I will uproot and tear down and destroy it; ^jeremiah-18-7
 
@@ -43,13 +42,13 @@ url: https://bible.usccb.org/bible/jeremiah/18
 
 10 but if that nation does what is evil in my eyes, refusing to obey my voice, then I will have a change of heart regarding the good with which I planned to bless it. ^jeremiah-18-10
 
-11 And now, tell this to the people of Judah and the inhabitants of Jerusalem: Thus says the L ORD: Look, I am fashioning evil against you and making a plan. Return, all of you, from your evil way; reform your ways and your deeds. ^jeremiah-18-11
+11 And now, tell this to the people of Judah and the inhabitants of Jerusalem: Thus says the LORD: Look, I am fashioning evil against you and making a plan. Return, all of you, from your evil way; reform your ways and your deeds. ^jeremiah-18-11
 
 12 But they will say, “No use! We will follow our own devices; each one of us will behave according to the stubbornness of our evil hearts!” ^jeremiah-18-12
 
-#### Unnatural [[apostasy]]
+### Unnatural [[apostasy]]
 
-13 Therefore thus says the L ORD: ^jeremiah-18-13
+13 Therefore thus says the LORD: ^jeremiah-18-13
 
 Ask among the nations—
 
@@ -99,7 +98,7 @@ in their day of disaster.
 
 18 “Come,” they said, “let us devise a plot against Jeremiah, for instruction will not perish from the priests, nor counsel from the wise, nor the word from the prophets. Come, let us destroy him by his own tongue. Let us pay careful attention to his every word.” ^jeremiah-18-18
 
-19 Pay attention to me, O L ORD, ^jeremiah-18-19
+19 Pay attention to me, O LORD, ^jeremiah-18-19
 
 and listen to what my adversaries say.
 
@@ -131,7 +130,7 @@ For they have dug a pit to capture me,
 
 they have hidden snares for my feet;
 
-23 But you, L ORD, know ^jeremiah-18-23
+23 But you, LORD, know ^jeremiah-18-23
 
 all their planning for my death.
 

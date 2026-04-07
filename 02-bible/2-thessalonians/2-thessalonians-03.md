@@ -1,25 +1,24 @@
 ---
-title: 2 Thessalonians, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Thessalonians, Chapter 3
+title: 2 Thessalonians, Chapter 3
+url: https://bible.usccb.org/bible/2thessalonians/3
 aliases:
   - 2 Thessalonians, Chapter 3
   - 2-thessalonians-03
 tags:
   - bible/2-thessalonians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2thessalonians/3
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Thessalonians, Chapter 3
 ---
 
 # 2 Thessalonians, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Request for Prayers.**
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/2thessalonians/3
 
 16 May the Lord of peace himself give you peace at all times and in every way. The Lord be with all of you. ^2-thessalonians-03-16
 
-## Iv. Final Greetings
+# Iv. Final Greetings
 
 18 The grace of our Lord Jesus Christ be with all of you. ^2-thessalonians-03-18
 

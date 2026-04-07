@@ -1,27 +1,26 @@
 ---
-title: Wisdom, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 7
+title: Wisdom, Chapter 7
+url: https://bible.usccb.org/bible/wisdom/7
 aliases:
   - wisdom-07
   - Wisdom, Chapter 7
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/7
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 7
 ---
 
 # Wisdom, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-#### Solomon Is Like All Others
+### Solomon Is Like All Others
 
 1 I too am a mortal, the same as all the rest, ^wisdom-07-1
 
@@ -47,7 +46,7 @@ wailing, I uttered that first sound common to all.
 
 and in one same way they leave it.
 
-#### Solomon Prayed and Wisdom and Riches Came to Him
+### Solomon Prayed and Wisdom and Riches Came to Him
 
 7 Therefore I prayed, and prudence was given me; ^wisdom-07-7
 
@@ -77,7 +76,7 @@ and countless riches at her hands;
 
 though I had not known that she is their mother.
 
-#### Solomon Prays for Help to Speak Worthily of Wisdom
+### Solomon Prays for Help to Speak Worthily of Wisdom
 
 her riches I do not hide away;
 
@@ -119,7 +118,7 @@ uses of plants and virtues of roots—
 
 22 for Wisdom, the artisan of all, taught me. ^wisdom-07-22
 
-#### Nature and Incomparable Dignity of Wisdom
+### Nature and Incomparable Dignity of Wisdom
 
 For in her is a spirit
 

@@ -1,35 +1,34 @@
 ---
-title: Leviticus, Chapter 25
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 25
+title: Leviticus, Chapter 25
+url: https://bible.usccb.org/bible/leviticus/25
 aliases:
   - leviticus-25
   - Leviticus, Chapter 25
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/25
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 25
 ---
 
 # Leviticus, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 **The Sabbatical Year.**
 
-1 The L ORD said to Moses on Mount Sinai: ^leviticus-25-1
+1 The LORD said to Moses on Mount Sinai: ^leviticus-25-1
 
-2 Speak to the Israelites and tell them: When you enter the land that I am giving you, let the land, too, keep a sabbath for the L ORD. ^leviticus-25-2
+2 Speak to the Israelites and tell them: When you enter the land that I am giving you, let the land, too, keep a sabbath for the LORD. ^leviticus-25-2
 
 3 For six years you may sow your field, and for six years prune your vineyard, gathering in their produce. ^leviticus-25-3
 
-4 But during the seventh year the land shall have a sabbath of complete rest, a sabbath for the L ORD, when you may neither sow your field nor prune your vineyard. ^leviticus-25-4
+4 But during the seventh year the land shall have a sabbath of complete rest, a sabbath for the LORD, when you may neither sow your field nor prune your vineyard. ^leviticus-25-4
 
 5 The aftergrowth of your harvest you shall not reap, nor shall you pick the grapes of your untrimmed vines. It shall be a year of rest for the land. ^leviticus-25-5
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/leviticus/25
 
 16 When the years are many, the price shall be so much the more; when the years are few, the price shall be so much the less. For it is really the number of harvests that the person sells you. ^leviticus-25-16
 
-17 Do not deal unfairly with one another, then; but stand in fear of your God. I, the L ORD, am your God. ^leviticus-25-17
+17 Do not deal unfairly with one another, then; but stand in fear of your God. I, the LORD, am your God. ^leviticus-25-17
 
 18 Observe my statutes and be careful to keep my ordinances, so that you will dwell securely in the land. ^leviticus-25-18
 
@@ -101,7 +100,7 @@ url: https://bible.usccb.org/bible/leviticus/25
 
 37 Do not give your money at interest or your food at a profit. ^leviticus-25-37
 
-38 I, the L ORD, am your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God. ^leviticus-25-38
+38 I, the LORD, am your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God. ^leviticus-25-38
 
 39 When your kindred with you, having been so reduced to poverty, sell themselves to you, do not make them work as slaves. ^leviticus-25-39
 
@@ -135,7 +134,7 @@ url: https://bible.usccb.org/bible/leviticus/25
 
 54 And if they are not redeemed by these means, they shall nevertheless be released, together with any children, in the jubilee year. ^leviticus-25-54
 
-55 For the Israelites belong to me as servants; they are my servants, whom I brought out of the land of Egypt, I, the L ORD, your God. ^leviticus-25-55
+55 For the Israelites belong to me as servants; they are my servants, whom I brought out of the land of Egypt, I, the LORD, your God. ^leviticus-25-55
 
 \* (25:2] – [7) As every seventh day is to be a day of rest (cf. [23:3]), so every seventh year is a year of rest (cf. [26:34] – [35], [43]). The rest consists in not doing agricultural work. The people are to live off what grows naturally in the fields (vv. [6] – [7]). Verses [19] – [22] add insurance by saying that God will make the sixth-year crop abundant such that its excess will stretch over the seventh sabbatical year as well as the eighth year when new crops are not yet harvested (cf. [26:10]). Cf. ([[exodus-23|Ex 23]]:10] – [11].
 

@@ -1,35 +1,34 @@
 ---
-title: Jeremiah, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 15
+title: Jeremiah, Chapter 15
+url: https://bible.usccb.org/bible/jeremiah/15
 aliases:
   - jeremiah-15
   - Jeremiah, Chapter 15
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/15
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 15
 ---
 
 # Jeremiah, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
-1 The L ORD said to me: Even if Moses and Samuel stood before me, my heart would not turn toward this people. Send them away from me and let them go. ^jeremiah-15-1
+1 The LORD said to me: Even if Moses and Samuel stood before me, my heart would not turn toward this people. Send them away from me and let them go. ^jeremiah-15-1
 
-2 If they ask you, “Where should we go?” tell them, Thus says the L ORD: Whoever is marked for death, to death; whoever is marked for the sword, to the sword; whoever is marked for famine, to famine; whoever is marked for captivity, to captivity. ^jeremiah-15-2
+2 If they ask you, “Where should we go?” tell them, Thus says the LORD: Whoever is marked for death, to death; whoever is marked for the sword, to the sword; whoever is marked for famine, to famine; whoever is marked for captivity, to captivity. ^jeremiah-15-2
 
-3 Four kinds of scourge I have decreed against them—oracle of the L ORD —the sword to kill them; dogs to drag them off; the birds of the sky and the beasts of the earth to devour and destroy them. ^jeremiah-15-3
+3 Four kinds of scourge I have decreed against them—oracle of the LORD —the sword to kill them; dogs to drag them off; the birds of the sky and the beasts of the earth to devour and destroy them. ^jeremiah-15-3
 
 4 And I will make them an object of horror to all the kingdoms of the earth because of what Manasseh, son of Hezekiah, king of Judah, did in Jerusalem. ^jeremiah-15-4
 
-#### Scene of Tragedy
+### Scene of Tragedy
 
 5 Who will pity you, Jerusalem, ^jeremiah-15-5
 
@@ -39,7 +38,7 @@ Who will stop to ask
 
 about your welfare?
 
-6 It is you who have disowned me—oracle of the L ORD — ^jeremiah-15-6
+6 It is you who have disowned me—oracle of the LORD — ^jeremiah-15-6
 
 turned your back upon me;
 
@@ -77,9 +76,9 @@ she is ashamed, abashed.
 
 Their survivors I will give to the sword
 
-in the presence of their enemies—oracle of the L ORD.
+in the presence of their enemies—oracle of the LORD.
 
-#### Jeremiah’s Complaint
+### Jeremiah’s Complaint
 
 10 Woe to me, my mother, that you gave me birth! ^jeremiah-15-10
 
@@ -89,7 +88,7 @@ I neither borrow nor lend,
 
 yet everyone curses me.
 
-11 Tell me, L ORD, have I not served you for their good? ^jeremiah-15-11
+11 Tell me, LORD, have I not served you for their good? ^jeremiah-15-11
 
 Have I not interceded with you
 
@@ -113,7 +112,7 @@ For fire has broken out from my anger,
 
 it is kindled against you.
 
-15 You know, L ORD: ^jeremiah-15-15
+15 You know, LORD: ^jeremiah-15-15
 
 Remember me and take care of me,
 
@@ -129,7 +128,7 @@ your words were my joy, the happiness of my heart,
 
 Because I bear your name,
 
-L ORD, God of hosts.
+LORD, God of hosts.
 
 17 I did not sit celebrating ^jeremiah-15-17
 
@@ -147,7 +146,7 @@ To me you are like a deceptive brook,
 
 waters that cannot be relied on!
 
-19 Thus the L ORD answered me: ^jeremiah-15-19
+19 Thus the LORD answered me: ^jeremiah-15-19
 
 If you come back and I take you back,
 
@@ -171,7 +170,7 @@ they shall not prevail,
 
 For I am with you,
 
-to save and rescue you—oracle of the L ORD.
+to save and rescue you—oracle of the LORD.
 
 21 I will rescue you from the hand of the wicked, ^jeremiah-15-21
 

@@ -1,35 +1,34 @@
 ---
-title: Jeremiah, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 7
+title: Jeremiah, Chapter 7
+url: https://bible.usccb.org/bible/jeremiah/7
 aliases:
   - jeremiah-07
   - Jeremiah, Chapter 7
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 7
 ---
 
 # Jeremiah, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **The Temple Sermon.**
 
-1 The word came to Jeremiah from the L ORD: ^jeremiah-07-1
+1 The word came to Jeremiah from the LORD: ^jeremiah-07-1
 
-2 Stand at the gate of the house of the L ORD and proclaim this message there: Hear the word of the L ORD, all you of Judah who enter these gates to worship the L ORD! ^jeremiah-07-2
+2 Stand at the gate of the house of the LORD and proclaim this message there: Hear the word of the LORD, all you of Judah who enter these gates to worship the LORD! ^jeremiah-07-2
 
-3 Thus says the L ORD of hosts, the God of Israel: Reform your ways and your deeds so that I may dwell with you in this place. ^jeremiah-07-3
+3 Thus says the LORD of hosts, the God of Israel: Reform your ways and your deeds so that I may dwell with you in this place. ^jeremiah-07-3
 
-4 Do not put your trust in these deceptive words: “The temple of the L ORD! The temple of the L ORD! The temple of the L ORD!” ^jeremiah-07-4
+4 Do not put your trust in these deceptive words: “The temple of the LORD! The temple of the LORD! The temple of the LORD!” ^jeremiah-07-4
 
 5 Only if you thoroughly reform your ways and your deeds; if each of you deals justly with your neighbor; ^jeremiah-07-5
 
@@ -43,11 +42,11 @@ url: https://bible.usccb.org/bible/jeremiah/7
 
 10 and then come and stand in my presence in this house, which bears my name, and say: “We are safe! We can commit all these abominations again!”? ^jeremiah-07-10
 
-11 Has this house which bears my name become in your eyes a den of thieves? I have seen it for myself!—oracle of the L ORD. ^jeremiah-07-11
+11 Has this house which bears my name become in your eyes a den of thieves? I have seen it for myself!—oracle of the LORD. ^jeremiah-07-11
 
 12 Go to my place at Shiloh, where I made my name dwell in the beginning. See what I did to it because of the wickedness of my people Israel. ^jeremiah-07-12
 
-13 And now, because you have committed all these deeds—oracle of the L ORD —because you did not listen, though I spoke to you untiringly, and because you did not answer, though I called you, ^jeremiah-07-13
+13 And now, because you have committed all these deeds—oracle of the LORD —because you did not listen, though I spoke to you untiringly, and because you did not answer, though I called you, ^jeremiah-07-13
 
 14 I will do to this house, which bears my name, in which you trust, and to the place which I gave you and your ancestors, exactly what I did to Shiloh. ^jeremiah-07-14
 
@@ -61,11 +60,11 @@ url: https://bible.usccb.org/bible/jeremiah/7
 
 18 The children gather wood, their fathers light the fire, and the women knead dough to make cakes for the Queen of Heaven, while libations are poured out to other gods—all to offend me! ^jeremiah-07-18
 
-19 Are they really offending me—oracle of the L ORD —or rather themselves, to their own disgrace? ^jeremiah-07-19
+19 Are they really offending me—oracle of the LORD —or rather themselves, to their own disgrace? ^jeremiah-07-19
 
 20 Therefore, thus says the Lord G OD: my anger and my wrath will pour out upon this place, upon human being and beast, upon the trees of the field and the fruits of the earth; it will burn and not be quenched. ^jeremiah-07-20
 
-21 Thus says the L ORD of hosts, the God of Israel: Heap your burnt offerings upon your sacrifices; eat up the meat! ^jeremiah-07-21
+21 Thus says the LORD of hosts, the God of Israel: Heap your burnt offerings upon your sacrifices; eat up the meat! ^jeremiah-07-21
 
 22 In speaking to your ancestors on the day I brought them out of the land of Egypt, I gave them no command concerning burnt offering or sacrifice. ^jeremiah-07-22
 
@@ -79,21 +78,21 @@ url: https://bible.usccb.org/bible/jeremiah/7
 
 27 When you speak all these words to them, they will not listen to you either. When you call to them, they will not answer you. ^jeremiah-07-27
 
-28 Say to them: This is the nation which does not listen to the voice of the L ORD, its God, or take correction. Faithfulness has disappeared; the word itself is banished from their speech. ^jeremiah-07-28
+28 Say to them: This is the nation which does not listen to the voice of the LORD, its God, or take correction. Faithfulness has disappeared; the word itself is banished from their speech. ^jeremiah-07-28
 
 29 Cut off your hair and throw it away! ^jeremiah-07-29
 
 on the heights raise a lament;
 
-The L ORD has indeed rejected and cast off
+The LORD has indeed rejected and cast off
 
 the generation that draws down his wrath.
 
-30 The people of Judah have done what is evil in my eyes—oracle of the L ORD. They have set up their detestable things in the house which bears my name, thereby defiling it. ^jeremiah-07-30
+30 The people of Judah have done what is evil in my eyes—oracle of the LORD. They have set up their detestable things in the house which bears my name, thereby defiling it. ^jeremiah-07-30
 
 31 In the Valley of Ben-hinnom they go on building the high places of Topheth to sacrifice their sons and daughters by fire, something I never commanded or considered. ^jeremiah-07-31
 
-32 Be assured! Days are coming—oracle of the L ORD —when they will no longer say “Topheth” or “Valley of Ben-hinnom” but “Valley of Slaughter.” For want of space, Topheth will become burial ground. ^jeremiah-07-32
+32 Be assured! Days are coming—oracle of the LORD —when they will no longer say “Topheth” or “Valley of Ben-hinnom” but “Valley of Slaughter.” For want of space, Topheth will become burial ground. ^jeremiah-07-32
 
 33 The corpses of this people will be food for the birds of the sky and beasts of the earth, which no one will drive away. ^jeremiah-07-33
 

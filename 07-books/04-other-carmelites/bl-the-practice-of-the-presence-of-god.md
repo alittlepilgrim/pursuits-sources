@@ -1,32 +1,30 @@
 ---
-title: The Practice of the Presence of God by Brother Lawrence
-created: 2025-08-28
-modified: 2026-04-02
 type: book
-publish: true
-description: Brother Lawrence is one of the most admired and imitated sons of the Catholic church. He worked for a time as a soldier before entering the Discalced Carmelite Prior in Paris. Lawrence was uneducated, and so had to enter the monastery as a layman. He worked in the kitchens and as a cobbler there for the remainder of his life. Lawrence is known for his devotion and ability to bring God into every aspect of his life. His classic Christian work, Practice of the Presence of God, details how to gain that constant and comforting connection to God. Readers have treasured this short and easy book for centuries because of Lawrence's honest advice and his obvious passion for spiritual matters. He rejoiced in everyday tasks, prayed constantly, and was known around the monastery for his kindness and willingness to help others. Practice of the Presence of God is a creative Christian work that is required reading according to many believers. Readers will come away with great peace and joy, and a better understanding of what it means to constantly be in God's presence. Abby Zwart CCEL Staff Writer
+title: The Practice of the Presence of God by Brother Lawrence
+author: Brother Lawrence (Nicholas Herman)
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/lawrence/practice.html
 aliases:
-  - 20251006-192510
   - bl-the-practice-of-the-presence-of-god
   - The Practice of the Presence of God
-  - The Practice Of The Presence Of God
   - The Practice of the Presence of God by Brother Lawrence
 tags:
-  - book/
+  - book
   - carmel
   - subject/christian-mysticism
   - subject/classic
   - subject/spirituality
   - type/book
-author: Brother Lawrence (Nicholas Herman)
-published: 1692 (posthumous collection of conversations and letters)
-source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/lawrence/practice.html
+created: 2025-08-28
+modified: 2026-04-04
+publish: true
+permalink: /bl-the-practice-of-the-presence-of-god
+description: Brother Lawrence is one of the most admired and imitated sons of the Catholic church. He worked for a time as a soldier before entering the Discalced Carmelite Prior in Paris. Lawrence was uneducated, and so had to enter the monastery as a layman. He worked in the kitchens and as a cobbler there for the remainder of his life. Lawrence is known for his devotion and ability to bring God into every aspect of his life. His classic Christian work, Practice of the Presence of God, details how to gain that constant and comforting connection to God. Readers have treasured this short and easy book for centuries because of Lawrence's honest advice and his obvious passion for spiritual matters. He rejoiced in everyday tasks, prayed constantly, and was known around the monastery for his kindness and willingness to help others. Practice of the Presence of God is a creative Christian work that is required reading according to many believers. Readers will come away with great peace and joy, and a better understanding of what it means to constantly be in God's presence. Abby Zwart CCEL Staff Writer
 ---
 
 # The Practice of the Presence of God by Brother Lawrence
 
-Source: 
+Source: [The Practice of the Presence of God](https://ccel.org/ccel/lawrence/practice.html)
 
 ## Title Page
 

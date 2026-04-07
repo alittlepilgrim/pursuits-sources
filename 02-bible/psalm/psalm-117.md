@@ -1,18 +1,19 @@
 ---
-title: Psalm 117
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 117
+title: Psalm 117
+url: https://bible.usccb.org/bible/psalms/117
 aliases:
   - Psalm 117
   - psalm-117
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/117
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 117
 ---
 
 # Psalm 117

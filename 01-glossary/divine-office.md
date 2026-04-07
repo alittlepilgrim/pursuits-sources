@@ -1,15 +1,16 @@
 ---
-title: Divine Office
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: divine-office. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Divine Office
 aliases:
   - Divine Office
   - divine-office
 tags:
   - term/divine-office
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: divine-office. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Divine Office
@@ -20,9 +21,9 @@ The Liturgy of the Hours, the public prayer of the Church which sanctifies the w
 
 ## Divine Intimacy Meditations
 
-- Prayer of the Mystical Body of Christ: 167,1, 167,2;
-- universal prayer offered in union with Christ and in the name of the whole Church: 167,1, 167,2.
-- 167. The Divine Office
+- Prayer of the Mystical Body of Christ: [[167-the-divine-office#Meditation 1|167,1]], [[167-the-divine-office#Meditation 2|167,2]];
+- universal prayer offered in union with Christ and in the name of the whole Church: [[167-the-divine-office#Meditation 1|167,1]], [[167-the-divine-office#Meditation 2|167,2]].
+- [[167-the-divine-office|167. The Divine Office]]
 
 ---
 

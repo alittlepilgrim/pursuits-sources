@@ -1,18 +1,17 @@
 ---
-title: Psalm 134
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 134
+title: Psalm 134
+url: https://bible.usccb.org/bible/psalms/134
 aliases:
   - Psalm 134
   - psalm-134
 tags:
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/134
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 134
 ---
 
 # Psalm 134

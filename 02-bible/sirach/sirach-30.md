@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 30
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 30
+title: Sirach, Chapter 30
+url: https://bible.usccb.org/bible/sirach/30
 aliases:
   - sirach-30
   - Sirach, Chapter 30
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/30
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 30
 ---
 
 # Sirach, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
-#### The Training of Children
+### The Training of Children
 
 1 Whoever loves a son will chastise him often, ^sirach-30-1
 
@@ -77,7 +76,7 @@ and leave you disconsolate.
 
 lest you be offended by his shamelessness.
 
-#### Health and Cheerfulness
+### Health and Cheerfulness
 
 14 Better the poor in vigorous health ^sirach-30-14
 

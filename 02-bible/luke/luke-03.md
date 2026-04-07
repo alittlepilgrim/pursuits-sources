@@ -1,26 +1,25 @@
 ---
-title: Luke, Chapter 3
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Luke, Chapter 3
+title: Luke, Chapter 3
+url: https://bible.usccb.org/bible/luke/3
 aliases:
   - 20250730-160739
   - luke-03
   - Luke, Chapter 3
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/3
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 3
 ---
 
 # Luke, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **The Preaching of John the Baptist.**
 

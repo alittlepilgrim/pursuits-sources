@@ -1,10 +1,7 @@
 ---
-title: May 4, Blesseds Angelus Maria Prat Hostench and Lucas of St Joseph Pujol and Companions
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: May 4, Blesseds Angelus Maria Prat Hostench and Lucas of St Joseph Pujol and Companions
+author: OCD General Curia
 aliases:
   - 05-04-blesseds-angelus-maria
   - 20250731-121446
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 05-04
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # May 4, Blesseds Angelus Maria Prat Hostench and Lucas of St Joseph Pujol and Companions

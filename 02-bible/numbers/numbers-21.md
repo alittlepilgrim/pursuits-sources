@@ -1,33 +1,32 @@
 ---
-title: Numbers, Chapter 21
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 21
+title: Numbers, Chapter 21
+url: https://bible.usccb.org/bible/numbers/21
 aliases:
   - numbers-21
   - Numbers, Chapter 21
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/21
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 21
 ---
 
 # Numbers, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **Victory over Arad.**
 
 1 When the Canaanite, the king of Arad, who ruled over the Negeb, heard that the Israelites were coming along the way of Atharim, he engaged Israel in battle and took some of them captive. ^numbers-21-1
 
-2 Israel then made this vow to the L ORD: “If you deliver this people into my hand, I will put their cities under the ban.” ^numbers-21-2
+2 Israel then made this vow to the LORD: “If you deliver this people into my hand, I will put their cities under the ban.” ^numbers-21-2
 
-3 The L ORD paid attention to Israel and delivered up the Canaanites, and they put them and their cities under the ban. Hence that place was named Hormah. ^numbers-21-3
+3 The LORD paid attention to Israel and delivered up the Canaanites, and they put them and their cities under the ban. Hence that place was named Hormah. ^numbers-21-3
 
 **The Bronze Serpent.**
 
@@ -35,11 +34,11 @@ url: https://bible.usccb.org/bible/numbers/21
 
 5 so the people complained against God and Moses, “Why have you brought us up from Egypt to die in the wilderness, where there is no food or water? We are disgusted with this wretched food!” ^numbers-21-5
 
-6 So the L ORD sent among the people seraph serpents, which bit the people so that many of the Israelites died. ^numbers-21-6
+6 So the LORD sent among the people seraph serpents, which bit the people so that many of the Israelites died. ^numbers-21-6
 
-7 Then the people came to Moses and said, “We have sinned in complaining against the L ORD and you. Pray to the L ORD to take the serpents from us.” So Moses prayed for the people, ^numbers-21-7
+7 Then the people came to Moses and said, “We have sinned in complaining against the LORD and you. Pray to the LORD to take the serpents from us.” So Moses prayed for the people, ^numbers-21-7
 
-8 and the L ORD said to Moses: Make a seraph and mount it on a pole, and everyone who has been bitten will look at it and recover. ^numbers-21-8
+8 and the LORD said to Moses: Make a seraph and mount it on a pole, and everyone who has been bitten will look at it and recover. ^numbers-21-8
 
 9 Accordingly Moses made a bronze serpent and mounted it on a pole, and whenever the serpent bit someone, the person looked at the bronze serpent and recovered. ^numbers-21-9
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/numbers/21
 
 13 Moving on from there, they encamped on the other side of the Arnon, in the wilderness that extends from the territory of the Amorites; for the Arnon forms Moab’s boundary, between Moab and the Amorites. ^numbers-21-13
 
-14 Hence it is said in the “Book of the Wars of the L ORD”: ^numbers-21-14
+14 Hence it is said in the “Book of the Wars of the LORD”: ^numbers-21-14
 
 “Waheb in Suphah and the wadies,
 
@@ -63,7 +62,7 @@ That reach back toward the site of Ar
 
 and lean against the border of Moab.”
 
-16 From there they went to Beer, which is the well of which the L ORD said to Moses, Gather the people together so that I may give them water. ^numbers-21-16
+16 From there they went to Beer, which is the well of which the LORD said to Moses, Gather the people together so that I may give them water. ^numbers-21-16
 
 17 Then Israel sang this song: ^numbers-21-17
 
@@ -129,7 +128,7 @@ Ar is laid waste; fires blaze as far as Medeba.”
 
 33 Then they turned and went up along the road to Bashan. But Og, king of Bashan, advanced against them with all his forces to give battle at Edrei. ^numbers-21-33
 
-34 The L ORD, however, said to Moses: Do not fear him; for into your hand I deliver him with all his forces and his land. You will do to him as you did to Sihon, king of the Amorites, who reigned in Heshbon. ^numbers-21-34
+34 The LORD, however, said to Moses: Do not fear him; for into your hand I deliver him with all his forces and his land. You will do to him as you did to Sihon, king of the Amorites, who reigned in Heshbon. ^numbers-21-34
 
 35 So they struck him down with his sons and all his forces, until not a survivor was left to him, and they took possession of his land. ^numbers-21-35
 
@@ -147,7 +146,7 @@ Ar is laid waste; fires blaze as far as Medeba.”
 
 \* (21:11) Iye-abarim: probably means “the ruins in the Abarim (Mountains).” See note on [27:12].
 
-\* (21:14) The “Book of the Wars of the L ORD”: an ancient collection of Israelite songs, now lost. Waheb in Suphah: since neither place is mentioned elsewhere, it is uncertain whether these Hebrew words are to be considered as place names; some Hebrew words, now lost, must have preceded this phrase.
+\* (21:14) The “Book of the Wars of the LORD”: an ancient collection of Israelite songs, now lost. Waheb in Suphah: since neither place is mentioned elsewhere, it is uncertain whether these Hebrew words are to be considered as place names; some Hebrew words, now lost, must have preceded this phrase.
 
 \* (21:15) Ar: a city or district in Moab, located on the Arnon; see v. [28]; [Dt 2:18].
 

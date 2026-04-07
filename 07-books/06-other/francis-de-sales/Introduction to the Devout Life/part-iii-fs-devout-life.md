@@ -1,23 +1,21 @@
 ---
-title: Part III-fs-devout-life
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Part III. Containing Counsels Concerning the Practice of Virtue
+title: Part III-fs-devout-life
+author: Saint Francis de Sales
 aliases:
   - Part III. Containing Counsels Concerning the Practice of Virtue
 tags:
-  - author/francis-de-sales
-  - book
-  - book/introduction-devout-life
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Part III. Containing Counsels Concerning the Practice of Virtue
 ---
 
 # Part III. Containing Counsels Concerning the Practice of Virtue
 
-### Chapter I. How to Select That Which We Should Chiefly Practice
+## Chapter I. How to Select That Which We Should Chiefly Practice
 
 THE queen bee never takes wing without being surrounded by all her Subjects; even so Love never enters the heart but it is sure to bring all other virtues in its train; marshalling and employing them as a captain his soldiers; yet, nevertheless, Love does not set them all to work suddenly, or equally, at all times and everywhere. The righteous man is "like a tree planted by the water side, that will bring forth his fruit in due season;" [50] inasmuch as Love, watering and refreshing the soul, causes it to bring forth good works, each in season as required. There is an old proverb to the effect that the sweetest music is unwelcome at a time of mourning; and certain persons have made a great mistake when, seeking to cultivate some special virtue, they attempt to obtrude it on all occasions, like the ancient philosophers we read of, who were always laughing or weeping. Worse still if they take upon themselves to censure those who do not make a continual study of this their pet virtue. S. Paul tells us to "rejoice with them that do rejoice, and weep with them that weep;" [51] and Charity is patient, kind, liberal, prudent, indulgent.
 
@@ -59,7 +57,7 @@ And Saint Gregory Nazianzen says, that sometimes a person has attained the heigh
 
    S. Paul. Heb. xi. 31.
 
-### Chapter II. the Same Subject Continued
+## Chapter II. the Same Subject Continued
 
 SAINT AUGUSTINE says very admirably, that beginners in devotion are wont to commit certain faults which, while they are blameable according to the strict laws of perfection, are yet praiseworthy by reason of the promise they hold forth of a future excellent goodness, to which they actually tend. For instance, that common shrinking fear which gives rise to an excessive scrupulosity in the souls of some who are but just set free from a course of sin, is commendable at that early stage, and is the almost certain forerunner of future purity of conscience. But this same fear would be blameable in those who are farther advanced, because love should reign in their hearts, and love is sure to drive away all such servile fear by degrees.
 
@@ -93,7 +91,7 @@ Only, while thanking God for the pre-eminence of others, let us abide contentedl
 
 [59] Ruth ii. iii.
 
-### Chapter III. on Patience
+## Chapter III. on Patience
 
 "YE have need of patience, that, after ye have done the Will of God, ye might receive the promise," says Saint Paul; [60] and the Saviour said, "In your patience possess ye your souls." [61] The greatest happiness of any one is "to possess his soul;" and the more perfect our patience, the more fully we do so possess our souls. Call often to mind that our Saviour redeemed us by bearing and suffering, and in like manner we must seek our own salvation amid sufferings and afflictions; bearing insults, contradictions and troubles with all the gentleness we can possibly command. Do not limit your patience to this or that kind of trial, but extend it universally to whatever God may send, or allow to befall you. Some people will only bear patiently with trials which carry their own salve of dignity,--such as being wounded in battle, becoming a prisoner of war, being ill-used for the sake of their religion, being impoverished by some strife out of which they came triumphant. Now these persons do not love tribulation, but only the honour which attends it. A really patient servant of God is as ready to bear inglorious troubles as those which are honourable. A brave man can easily bear with contempt, slander and false accusation from an evil world; but to bear such injustice at the hands of good men, of friends and relations, is a great test of patience. I have a greater respect for the gentleness with which the great S. Charles Borromeo long endured the public reproaches which a celebrated preacher of a reformed Order used to pour out upon him, than for all the other attacks he bore with. For, just as the sting of a bee hurts far more than that of a fly, so the injuries or contradictions we endure from good people are much harder to bear than any others. But it is a thing which very often happens, and sometimes two worthy men, who are both highly well-intentioned after their own fashion, annoy and even persecute one another grievously.
 
@@ -129,7 +127,7 @@ Consider the pains which martyrs have endured, and think how even now many peopl
 
 [64] S. John xvi. 21.
 
-### Chapter IV. on Greater Humility
+## Chapter IV. on Greater Humility
 
 ELISHA bade the poor widow "borrow vessels, even empty vessels not a few, and pour oil into all those vessels;" [65] and so in order to receive God's Grace in our hearts, they must be as empty vessels--not filled with self-esteem. The swallow with its sharp cry and keen glance has the power of frightening away birds of prey, and for that reason the dove prefers it to all other birds, and lives surely beside it;--even so humility drives Satan away, and cherishes the gifts and graces of the Holy Spirit within us, and for that reason all the Saints--and especially the King of Saints and His Blessed Mother--have always esteemed the grace of humility above all other virtues.
 
@@ -147,7 +145,7 @@ Undoubtedly every one is justified in keeping his own place, and there is no wan
 
 [65] 2 Kings iv. 3, 4.
 
-### Chapter V. on Interior Humility
+## Chapter V. on Interior Humility
 
 TO you however, my daughter, I would teach a deeper humility, for that of which I have been speaking is almost more truly to be called worldly wisdom than humility. There are some persons who dare not or will not think about the graces with which God has endowed them, fearing lest they should become self-complacent and vain-glorious; but they are quite wrong. For if, as the Angelic Doctor says, the real way of attaining to the Love of God is by a careful consideration of all His benefits given to us, then the better we realise these the more we shall love Him; and inasmuch as individual gifts are more acceptable than general gifts, so they ought to be more specially dwelt upon. Of a truth, nothing so tends to humble us before the Mercy of God as the multitude of His gifts to us; just as nothing so tends to humble us before His Justice as the multitude of our misdeeds. Let us consider what He has done for us, and what we have done contrary to His Will, and as we review our sins in detail, so let us review His Grace in the same. There is no fear that a perception of what He has given you will puff you up, so long as you keep steadily in mind that whatever is good in you is not of yourself. Do mules cease to be clumsy, stinking beasts because they are used to carry the dainty treasures and perfumes of a prince? "What hast thou that thou didst not receive? Now, if thou didst receive it, why dost thou glory as if thou hadst not received it?" [66]
 
@@ -175,7 +173,7 @@ I would not affect either folly or wisdom; for just as humility deters me from p
 
 [70] 2 Sam. vi. 14.
 
-### Chapter VI. Humility Makes Us Rejoice in Our Own Abjection
+## Chapter VI. Humility Makes Us Rejoice in Our Own Abjection
 
 BUT, my daughter, I am going a step further, and I bid you everywhere and in everything to rejoice in your own abjection. Perhaps you will ask in reply what I mean by that. In Latin abjection means humility, and humility means abjection, so that when Our Lady says in the Magnificat that all generations shall call her blessed, because God hath regarded the low estate of His handmaiden, [71] she means that He has accepted her abjection and lowliness in order to fill her with graces and favours. Nevertheless, there is a difference between humility and abjection; for abjection is the poverty, vileness and littleness which exist in us, without our taking heed to them; but humility implies a real knowledge and voluntary recognition of that abjection. And the highest point of humility consists in not merely acknowledging one's abjection, but in taking pleasure therein, not from any want of breadth or courage, but to give the more glory to God's Divine Majesty, and to esteem one's neighbour more highly than one's self. This is what I would have you do; and to explain myself more clearly, let me tell you that the trials which afflict us are sometimes abject, sometimes honourable. NOW many people will accept the latter, but very few are willing to accept the former. Everybody respects and pities a pious hermit shivering in his worn-out garb; but let a poor gentleman or lady be in like case, and they are despised for it,--and so their poverty is abject. A religious receives a sharp rebuke from his superior meekly, or a child from his parent, and every one will call it obedience, mortification, wisdom; but let a knight or a lady accept the like from some one, albeit for the Love of God, and they will forthwith be accused of cowardice. This again is abject suffering.
 
@@ -199,7 +197,7 @@ Unquestionably, those most helpful to our own souls, and most acceptable to God,
 
 [72] Ps. lxxxiv. 10.
 
-### Chapter VII. How to Combine Due Care for a Good Reputation with Humility
+## Chapter VII. How to Combine Due Care for a Good Reputation with Humility
 
 PRAISE, honour, and glory are not bestowed on men for ordinary, but for extraordinary virtue. By praise we intend to lead men to appreciate the excellence of certain individuals; giving them honour is the expression of our own esteem for them; and I should say that glory is the combination of praise and honour from many persons. If praise and honour are like precious stones, glory is as an enamel thereof. Now, as humility forbids us to aim at excelling or being preferred to others, it likewise forbids us to aim at praise, honour, and glory; but it allows us to give heed, as the Wise Man says, to our good name, and that because a good name does not imply any one particular excellence, but a general straightforward integrity of purpose, which we may recognise in ourselves, and desire to be known as possessing, without any breach of humility. Humility might make us indifferent even to a good reputation, were it not for charity's sake; but seeing that it is a groundwork of society, and without it we are not merely useless but positively harmful to the world, because of the scandal given by such a deficiency, therefore charity requires, and humility allows, us to desire and to maintain a good reputation with care.
 
@@ -221,7 +219,7 @@ Of course certain crimes, so grievous that no one who can justify himself should
 
 [75] Ps. lxix. 7.
 
-### Chapter VIII. Gentleness Towards Others and Remedies Against Anger
+## Chapter VIII. Gentleness Towards Others and Remedies Against Anger
 
 THE holy Chrism, used by the Church according to apostolic tradition, is made of olive oil mingled with balm, which, among other things, are emblematic of two virtues very specially conspicuous in our Dear Lord Himself, and which He has specially commended to us, as though they, above all things, drew us to Him and taught us to imitate Him: "Take My yoke upon you, and learn of Me, for I am meek and lowly in heart." [76]
 
@@ -259,7 +257,7 @@ So we must not only speak gently to our neighbour, but we must be filled, heart 
 
 [82] Cant. iv. 11.
 
-### Chapter IX. on Gentleness Towards Ourselves
+## Chapter IX. on Gentleness Towards Ourselves
 
 ONE important direction in which to exercise gentleness, is with respect to ourselves, never growing irritated with one's self or one's imperfections; for although it is but reasonable that we should be displeased and grieved at our own faults, yet ought we to guard against a bitter, angry, or peevish feeling about them. Many people fall into the error of being angry because they have been angry, vexed because they have given way to vexation, thus keeping up a chronic state of irritation, which adds to the evil of what is past, and prepares the way for a fresh fall on the first occasion. Moreover, all this anger and irritation against one's self fosters pride, and springs entirely from self-love, which is disturbed and fretted by its own imperfection.
 
@@ -273,7 +271,7 @@ So then, when you have fallen, lift up your heart in quietness, humbling yoursel
 
 [83] Ps. xlii. 11, 15.
 
-### Chapter X. We Must Attend to the Business of Life Carefully, but Without
+## Chapter X. We Must Attend to the Business of Life Carefully, but Without
 
 Eagerness or Over-anxiety.
 
@@ -295,7 +293,7 @@ So doing, God will work with you, in you, and for you, and your work will be ble
 
 [86] Ecclus. xi. 11.
 
-### Chapter XI. on Obedience
+## Chapter XI. on Obedience
 
 LOVE alone leads to perfection, but the three chief means for acquiring it are obedience, chastity, and poverty. Obedience is a consecration of the heart, chastity of the body, and poverty of all worldly goods to the Love and Service of God. These are the three members of the Spiritual Cross, and all three must be raised upon the fourth, which is humility. I am not going here to speak of these three virtues as solemn vows, which only concern religious, nor even as ordinary vows, although when sought under the shelter of a vow all virtues receive an enhanced grace and merit; but it is not necessary for perfection that they should be undertaken as vows, so long as they are practised diligently.
 
@@ -317,7 +315,7 @@ Thus, in all public and legal matters, we are bound to obey our King; in ecclesi
 
 Seek to be directed in your religious exercises by your spiritual father, because thereby they will have double grace and virtue;--that which is inherent in that they are devout, and that which comes by reason of the spirit of obedience in which they are performed. Blessed indeed are the obedient, for God will never permit them to go astray.
 
-### Chapter XII. on Purity
+## Chapter XII. on Purity
 
 PURITY is the lily among virtues--by it men approach to the Angels.
 
@@ -339,7 +337,7 @@ The Apostle says, "Follow peace with all men, and holiness, without which no man
 
 [89] Ps. xv. 2.
 
-### Chapter XIII. How to Maintain Purity
+## Chapter XIII. How to Maintain Purity
 
 BE exceedingly quick in turning aside from the slightest thing leading to impurity, for it is an evil which approaches stealthily, and in which the very smallest beginnings are apt to grow rapidly. It is always easier to fly from such evils than to cure them.
 
@@ -365,7 +363,7 @@ Remember that there are things which blemish perfect purity, without being in th
 
 [96] Ps. cxix. 127.
 
-### Chapter XIV. on Poverty of Spirit Amid Riches
+## Chapter XIV. on Poverty of Spirit Amid Riches
 
 "BLESSED are the poor in spirit, for theirs is the Kingdom of God;"
 
@@ -393,7 +391,7 @@ Therefore, do not fix your longings on anything which you do not possess; do not
 
 [99] I Kings xxi.
 
-### Chapter XV. How to Exercise Real Poverty, Although Actually Rich
+## Chapter XV. How to Exercise Real Poverty, Although Actually Rich
 
 THE painter Parrhasius drew an ingenious and imaginative representation of the Athenians, ascribing sundry opposite qualities to them, calling them at once capricious, irascible, unjust, inconstant, courteous, merciful, compassionate, haughty, vain-glorious, humble, boastful, and cowardly;--and for my part, dear daughter, I would fain see united in your heart both riches and poverty, a great care and a great contempt for temporal things.
 
@@ -427,7 +425,7 @@ Again, if you are impoverished much or little by unforeseen events, such as stor
 
 [103] Gen. xxvii.
 
-### Chapter XVI. How to Possess a Rich Spirit Amid Real Poverty
+## Chapter XVI. How to Possess a Rich Spirit Amid Real Poverty
 
 BUT if you are really poor, my daughter, for God's Sake be so in spirit; make a virtue of necessity, and turn that precious stone poverty to its true value. The brilliancy thereof is not perceived in this world, but nevertheless it is very great.
 
@@ -441,7 +439,7 @@ Do not complain then of your poverty, my daughter,--we only complain of that whi
 
 Do not be ashamed of being poor, or of asking alms. Receive what is given you with humility, and accept a refusal meekly. Frequently call to mind Our Lady's journey into Egypt with her Holy Child, and of all the poverty, contempt and suffering they endured. If you follow their example you will indeed be rich amid your poverty.
 
-### Chapter XVII. on Friendship: Evil and Frivolous Friendship
+## Chapter XVII. on Friendship: Evil and Frivolous Friendship
 
 FOREMOST among the soul's affections is love. Love is the ruler of every motion of the heart; drawing all to itself, and making us like to that we love. Beware, then, my daughter, of harbouring any evil affection, or you too will become evil. And friendship is the most dangerous of all affections, because any other love may exist without much mental communication, but as friendship is founded thereon, it is hardly possible to be closely bound by its ties to any one without sharing in his qualities.
 
@@ -453,7 +451,7 @@ Mere sensual intercourse is not worthy of the name of friendship; and were there
 
 Whatever is founded on mere sensuality, vanity, or frivolity, is unworthy to be called friendship. I mean such attractions as are purely external; a sweet voice, personal beauty, and the cleverness or outward show which have great weight with some. You will often hear women and young people unhesitatingly decide that such an one is very delightful, very admirable, because he is good-looking, well-dressed, sings, or dances, or talks well. Even charlatans esteem the wittiest clown amongst them as their best man. But all these things are purely sensual, and the connections built on such foundation must be vain and frivolous, more fitly to be called trifling than friendship. They spring up chiefly among young people, who are easily fascinated by personal attractions, dress, and gossip--friendships in which the tailor and hairdresser have the chief part. How can such friendships be other than shortlived, melting away like snow wreaths in the sun!
 
-### Chapter XVIII. on Frivolous Attachments
+## Chapter XVIII. on Frivolous Attachments
 
 SUCH foolish attachments between man and woman without any matrimonial intentions as are called amourettes,--mere abortions, or rather phantoms of friendship,--must not, idle and empty as they are, profane the name of friendship or love. Yet such frivolous, contemptible attractions often snare the hearts of both men and women, and although they may end in downright sin, there is no such intention on the part of their victims, who consciously do but yield to foolish trifling and toying. Some such have no object beyond the actual indulgence of a passing inclination; others are excited by vanity, which takes pleasure in captivating hearts; some are stimulated by a combination of both these motives. But all such friendships are evil, hollow, and vain; evil, in that they often lead to sinful deeds, and draw the heart from God, and from the husband or wife who is its lawful owner; hollow, in that they are baseless and without root; vain, in that neither gain, honour, nor satisfaction can come from such. On the contrary, nothing comes of them but a loss of time and credit, and unreasoning excitement, mistrust, jealousy, and perturbation.
 
@@ -467,7 +465,7 @@ They may be the plaything of courts, but assuredly they are as a plague spot of 
 
 [105] "C'est en un mot le jouet des cours, mais la peste des coeurs."
 
-### Chapter XIX. of Real Friendship
+## Chapter XIX. of Real Friendship
 
 DO you, my child, love every one with the pure love of charity, but have no friendship save with those whose intercourse is good and true, and the purer the bond which unites you so much higher will your friendship be. If your intercourse is based on science it is praiseworthy, still more if it arises from a participation in goodness, prudence, justice and the like; but if the bond of your mutual liking be charity, devotion and Christian perfection, God knows how very precious a friendship it is! Precious because it comes from God, because it tends to God, because God is the link that binds you, because it will last for ever in Him. Truly it is a blessed thing to love on earth as we hope to love in Heaven, and to begin that friendship here which is to endure for ever there. I am not now speaking of simple charity, a love due to all mankind, but of that spiritual friendship which binds souls together, leading them to share devotions and spiritual interests, so as to have but one mind between them. Such as these may well cry out, "Behold, how good and joyful a thing it is, brethren, to dwell together in unity!" [106] Even so, for the "precious ointment" of devotion trickles continually from one heart to the other, so that truly we may say that to such friendship the Lord promises His Blessing and life for evermore. To my mind all other friendship is but as a shadow with respect to this, its links mere fragile glass compared to the golden bond of true devotion. Do you form no other friendships. I say "form," because you have no right to cast aside or neglect the natural bonds which draw you to relations, connexions, benefactors or neighbours. My rules apply to those you deliberately choose to make. There are some who will tell you that you should avoid all special affection or friendship, as likely to engross the heart, distract the mind, excite jealousy, and what not. But they are confusing things. They have read in the works of saintly and devout writers that individual friendships and special intimacies are a great hindrance in the religious life, and therefore they suppose it to be the same with all the world, which is not at all the case. Whereas in a well-regulated community every one's aim is true devotion, there is no need for individual intercourse, which might exceed due limits;--in the world those who aim at a devout life require to be united one with another by a holy friendship, which excites, stimulates and encourages them in well-doing. Just as men traversing a plain have no need to hold one another up, as they have who are amid slippery mountain paths, so religious do not need the stay of individual friendships; but those who are living in the world require such for strength and comfort amid the difficulties which beset them. In the world all have not one aim, one mind, and therefore we must take to us congenial friends, nor is there any undue partiality in such attachments, which are but as the separation of good from evil, the sheep from the goats, the bee from the drone--a necessary separation.
 
@@ -493,7 +491,7 @@ Paul, who kindled so strong a love of virginity in her heart that she broke off 
 
 [108] Rom. i. 31.
 
-### Chapter XX. of the Difference Between True and False Friendship
+## Chapter XX. of the Difference Between True and False Friendship
 
 TAKE notice, my child, that the honey of Heraclyum, which is so poisonous, altogether resembles that which is wholesome, and there is great danger of mistaking one for the other, or of mixing them, for the virtue of one would not counteract the harmfulness of the other. We must be on our guard not to be deceived in making friendships, especially between persons of the opposite sexes, for not unfrequently Satan deludes those who love one another. They may begin with a virtuous affection, but if discretion be lacking, frivolity will creep in, and then sensuality, till their love becomes carnal: even in spiritual love there is a danger if people are not on the watch, although it is not so easy to be deluded therein, inasmuch as the very purity and transparency of spiritual affection show Satan's stains more promptly. Consequently, when he seeks to interpose, he does it stealthily, and strives to insinuate impurity almost imperceptibly.
 
@@ -503,7 +501,7 @@ When young people indulge in looks, words or actions which they would not like t
 
 [109] S. Luke i. 29.
 
-### Chapter XXI. Remedies Against Evil Friendships
+## Chapter XXI. Remedies Against Evil Friendships
 
 HOW are you to meet the swarm of foolish attachments, triflings, and undesirable inclinations which beset you? By turning sharply away, and thoroughly renouncing such vanities, flying to the Saviour's Cross, and clasping His Crown of thorns to your heart, so that these little foxes may not spoil your vines. [110] Beware of entering into any manner of treaty with the Enemy; do not delude yourself by listening to him while intending to reject him. For God's Sake, my daughter, be firm on all such occasions; the heart and ear are closely allied, and just as you would vainly seek to check the downward course of a mountain torrent, so difficult will you find it to keep the smooth words which enter in at the ear from finding their way down into the heart. Alcmeon says (what indeed Aristotle denies) that the goat breathes through its ears, not its nostrils. I know not whether this be so, but one thing I know, that our heart breathes through the ear, and that while it exhales its own thoughts through the mouth, it inhales those of others by the ear.
 
@@ -529,7 +527,7 @@ Surely it were a happy unkindness which is acceptable to God; but of a truth, my
 
 [111] Ps. cxvi. 14, 15.
 
-### Chapter XXII. Further Advice Concerning Intimacies
+## Chapter XXII. Further Advice Concerning Intimacies
 
 FRIENDSHIP demands very close correspondence between those who love one another, otherwise it can never take root or continue. And together with the interchange of friendship, other things imperceptibly glide in, and a mutual giving and receiving of emotions and inclinations takes place; especially when we esteem the object of our love very highly, because then we so entirely open our heart to him, that his influence rules us altogether, whether for good or evil. The bees which make that oriental honey of which I spoke, seek to gather nought save honey, but with it they suck up the poisonous juices of the aconite on which they light. So here, my child, we must bear in mind what our Saviour said about putting out our money to the exchangers; [112] we must seek to make a good exchange, not receiving bad money and good alike, and learning to distinguish that which is valuable from what is worthless, since scarcely any one is free from some imperfection, nor is there any reason why we should adopt all our friend's faults as well as his friendship. Of course we should love him notwithstanding his faults, but without loving those faults; true friendship implies an interchange of what is good, not what is evil. As men who drag the river Tagus sift the gold from its sands and throw the latter back upon the shore, so true friends should sift the sand of imperfections and reject it. S. Gregory Nazianzen tells us how certain persons who loved and admired S. Basil were led to imitate even his external blemishes, his slow, abstracted manner of speaking, the cut of his beard, and his peculiar gait. And so we see husbands and wives, children, friends, who, by reason of their great affection for one another, acquire--either accidentally or designedly--many foolish little ways and tricks peculiar to each. This ought not to be; for every one has enough imperfections of their own without adding those of anybody else, and friendship requires no such thing; on the contrary, it rather constrains us to help one another in getting rid of all sorts of imperfections. Of course we should bear with our friend's infirmities, but we should not encourage them, much less copy them.
 
@@ -547,7 +545,7 @@ There are two sayings in Holy Scripture on which all Christian friendship should
 
 [114] S. James iv. 4.
 
-### Chapter XXIII. on the Practice of Bodily Mortification
+## Chapter XXIII. on the Practice of Bodily Mortification
 
 IT has been said that if one writes a word on an almond, and then replace it carefully in its husk, and sow it, all the fruit borne by that tree will be marked by the word so inscribed. For my own part, I never could approve of beginning to reform any one by merely external things,--dress, the arrangement of hair, and outward show. On the contrary, it seems to me that one should begin from within. "Turn ye to Me with all your heart;" [115] "My son, give Me thine heart; " [116]
 
@@ -581,7 +579,7 @@ you afflict your body, which can do nothing when God stands before you with His 
 
 [121] 2 Sam. xii. 16.
 
-### Chapter XXIV. of Society and Solitude
+## Chapter XXIV. of Society and Solitude
 
 EITHER to seek or to shun society is a fault in one striving to lead a devout life in the world, such as I am now speaking of. To shun society implies indifference and contempt for one's neighbours; and to seek it savours of idleness and uselessness. We are told to love one's neighbour as one's self. In token that we love him, we must not avoid being with him, and the test of loving one's self is to be happy when alone. "Think first on thyself," says S. Bernard, "and then on other men." So that, if nothing obliges you to mix in society either at home or abroad, retire within yourself, and hold converse with your own heart. But if friends come to you, or there is fitting cause for you to go forth into society, then, my daughter, by all means go, and meet your neighbour with a kindly glance and a kindly heart.
 
@@ -605,7 +603,7 @@ I have already spoken of that mental solitude into which you can retire when ami
 
 [124] S. Mark vi. 30, 31.
 
-### Chapter XXV. on Modesty in Dress
+## Chapter XXV. on Modesty in Dress
 
    S. PAUL expresses his desire that all Christian women should wear "modest apparel, with shamefacedness and sobriety;" [125] --and for that matter he certainly meant that men should do so likewise. Now, modesty in dress and its appurtenances depends upon the quality, the fashion and the cleanliness thereof. As to cleanliness, that should be uniform, and we should never, if possible, let any part of our dress be soiled or stained. External seemliness is a sort of indication of inward good order, and God requires those who minister at His Altar, or minister in holy things, to be attentive in respect of personal cleanliness. As to the quality and fashion of clothes, modesty in these points must depend upon various circumstances, age, season, condition, the society we move in, and the special occasion. Most people dress better on a high festival than at other times; in Lent, or other penitential seasons, they lay aside all gay apparel; at a wedding they wear wedding garments, at a funeral, mourning garb; and at a king's court the dress which would be unsuitable at home is suitable. A wife may and should adorn herself according to her husband's wishes when he is present;--if she does as much in his absence one is disposed to ask in whose eyes she seeks to shine? We may grant somewhat greater latitude to maidens, who may lawfully desire to attract many, although only with the view of ultimately winning one in holy matrimony. Neither do I blame such widows as purpose to marry again for adorning themselves, provided they keep within such limits as are seemly for those who are at the head of a family, and who have gone through the sobering sorrows of widowhood. But for those who are widows indeed, in heart as well as outwardly, humility, modesty and devotion are the only suitable ornaments. If they seek to attract men's admiration they are not widows indeed, and if they have no such intention, why should they wear its tokens? Those who do not mean to entertain guests should take down their signboard. So, again, every one laughs at old women who affect youthful graces,--such things are only tolerable in the young.
 
@@ -619,7 +617,7 @@ Louis said that the right thing is for every one to dress according to his posit
 
 [126] 1 Pet. iii. 3.
 
-### Chapter XXVI. of Conversation; And, First, How to Speak of God
+## Chapter XXVI. of Conversation; And, First, How to Speak of God
 
 PHYSICIANS judge to a great extent as to the health or disease of a man by the state of his tongue, and our words are a true test of the state of our soul. "By thy words thou shalt be justified, and by thy words thou shalt be condemned," [127] the Saviour says. We are apt to apply the hand quickly to the place where we feel pain, and so too the tongue is quick to point out what we love.
 
@@ -635,7 +633,7 @@ Take care, then, never to speak of God, or those things which concern Him, in a 
 
 [129] Cant. iv. 11.
 
-### Chapter XXVII. of Unseemly Words, and the Respect Due to Others
+## Chapter XXVII. of Unseemly Words, and the Respect Due to Others
 
 SAINT JAMES says, "If any man offend not in word, the same is, a perfect man." [130] Beware most watchfully against ever uttering any unseemly expression; even though you may have no evil intention, those who hear it may receive it with a different meaning. An impure word falling upon a weak mind spreads its infection like a drop of oil on a garment, and sometimes it will take such a hold of the heart, as to fill it with an infinitude of lascivious thoughts and temptations. The body is poisoned through the mouth, even so is the heart through the ear; and the tongue which does the deed is a murderer, even when the venom it has infused is counteracted by some antidote preoccupying the listener's heart. It was not the speaker's fault that he did not slay that soul. Nor let any one answer that he meant no harm. Our Lord, Who knoweth the hearts of men, has said, "Out of the abundance of the heart the mouth speaketh." [131] And even if we do mean no harm, the Evil One means a great deal, and he will use those idle words as a sharp weapon against some neighbour's heart. It is said that those who eat the plant called Angelica always have a sweet, pleasant breath; and those who cherish the angelic virtues of purity and modesty, will always speak simply, courteously, and modestly. As to unclean and light-minded talk,
 
@@ -659,7 +657,7 @@ There is a light-hearted talk, full of modest life and gaiety, which the Greeks 
 
 [133] 1 Cor. xv. 33.
 
-### Chapter XXVIII. of Hasty Judgments
+## Chapter XXVIII. of Hasty Judgments
 
 JUDGE not, and ye shall not be judged," said the Saviour of our souls; "condemn not, and ye shall not be condemned:" [134] and the Apostle S.
 
@@ -711,7 +709,7 @@ No surer sign of an unprofitable life than when people give way to censoriousnes
 
 [143] Gen. xxiv. 22.
 
-### Chapter XXIX. on Slander
+## Chapter XXIX. on Slander
 
 FROM rash judgments proceed mistrust, contempt for others, pride, and self-sufficiency, and numberless other pernicious results, among which stands forth prominently the sin of slander, which is a veritable pest of society. Oh, wherefore can I not take a live coal from God's Altar, and touch the lips of men, so that their iniquity may be taken away and their sin purged, even as the Seraphim purged the lips of Isaiah. [144]
 
@@ -759,7 +757,7 @@ Public, notorious sinners may be spoken of freely, provided always even then tha
 
 [149] S. Luke xviii. 11.
 
-### Chapter XXX. Further Counsels as to Conversation
+## Chapter XXX. Further Counsels as to Conversation
 
 LET your words be kindly, frank, sincere, straightforward, simple and true; avoid all artifice, duplicity and pretence, remembering that, although it is not always well to publish abroad everything that may be true, yet it is never allowable to oppose the truth. Make it your rule never knowingly to say what is not strictly true, either accusing or excusing, always remembering that God is the God of Truth. If you have unintentionally said what is not true, and it is possible to correct yourself at once by means of explanation or reparation, do so. A straightforward excuse has far greater weight than any falsehood.
 
@@ -787,13 +785,13 @@ ii. c. 6.
 
 [152] Ps. cxli. 3.
 
-### Chapter XXXI. of Amusements and Recreations: What Are Allowable
+## Chapter XXXI. of Amusements and Recreations: What Are Allowable
 
 WE must needs occasionally relax the mind, and the body requires some recreation also. Cassian relates how S. John the Evangelist was found by a certain hunter amusing himself by caressing a partridge, which sat upon his wrist. The hunter asked how a man of his mental powers could find time for so trifling an occupation. In reply, S. John asked why he did not always carry his bow strung? The man answered, Because, if always bent, the bow would lose its spring when really wanted. "Do not marvel then," the Apostle replied, "if I slacken my mental efforts from time to time, and recreate myself, in order to return more vigorously to contemplation." It is a great mistake to be so strict as to grudge any recreation either to others or one's self.
 
 Walking, harmless games, music, instrumental or vocal, field sports, etc., are such entirely lawful recreations that they need no rules beyond those of ordinary discretion, which keep every thing within due limits of time, place, and degree. So again games of skill, which exercise and strengthen body or mind, such as tennis, rackets, running at the ring, chess, and the like, are in themselves both lawful and good. Only one must avoid excess, either in the time given to them, or the amount of interest they absorb; for if too much time be given up to such things, they cease to be a recreation and become an occupation; and so far from resting and restoring mind or body, they have precisely the contrary effect. After five or six hours spent over chess, one's mind is spent and weary, and too long a time given to tennis results in physical exhaustion; or if people play for a high stake, they get anxious and discomposed, and such unimportant objects are unworthy of so much care and thought. But, above all, beware of setting your heart upon any of these things, for however lawful an amusement may be, it is wrong to give one's heart up to it. Not that I would not have you take pleasure in what you are doing,--it were no recreation else,--but I would not have you engrossed by it, or become eager or over fond of any of these things.
 
-### Chapter XXXII. of Forbidden Amusements
+## Chapter XXXII. of Forbidden Amusements
 
 DICE, cards, and the like games of hazard, are not merely dangerous amusements, like dancing, but they are plainly bad and harmful, and therefore they are forbidden by the civil as by the ecclesiastical law.
 
@@ -803,7 +801,7 @@ What harm is there in them? you ask. Such games are unreasonable:--the winner of
 
 [153] It is not very clear what S. Francis means by this. In the English version, Sara only says, "Thou knowest, Lord... that I never polluted my name, nor the name of my father" (Tobit iii. 15). In the Vulgate the words are "Numquam cum ludentibus miscui me; neque cum his, qui in levitate ambulant, participem me praebui" (iii. 17).
 
-### Chapter XXXIII. of Balls, and Other Lawful but Dangerous Amusements
+## Chapter XXXIII. of Balls, and Other Lawful but Dangerous Amusements
 
 DANCES and balls are things in themselves indifferent, but the circumstances ordinarily surrounding them have so generally an evil tendency, that they become full of temptation and danger. The time of night at which they take place is in itself conducive to harm, both as the season when people's nerves are most excited and open to evil impressions; and because, after being up the greater part of the night, they spend the mornings afterwards in sleep, and lose the best part of the day for God's Service. It is a senseless thing to turn day into night, light into darkness, and to exchange good works for mere trifling follies. Moreover, those who frequent balls almost inevitably foster their Vanity, and vanity is very conducive to unholy desires and dangerous attachments.
 
@@ -824,7 +822,7 @@ To return to the medical simile;--it is said that after eating mushrooms you sho
 
 [154] S. Francis de Sales doubtless had in his thoughts the then common pictorial representations of the Dance of Death, with which (although to our own modern ideas there would be almost irreverence if reproduced) we are familiar through Holbein's celebrated Dance, and others. The old covered bridge at Lucerne is one of the most striking illustrations.
 
-### Chapter XXXIV. When to Use Such Amusements Rightly
+## Chapter XXXIV. When to Use Such Amusements Rightly
 
 IF you would dance or play rightly, it must be done as a recreation, not as a pursuit, for a brief space of time, not so as make you unfit for other things, and even then but seldom. If it is a constant habit, recreation turns into occupation. You will ask when it is right to dance or play? The occasions on which it is right to play at questionable games are rare; ordinary games and dances may be indulged in more frequently. But let your rule be to do so chiefly when courteous consideration for others among whom you are thrown requires it, subject to prudence and discretion; for consideration towards others often sanctions things indifferent or dangerous, and turns them to good, taking away what is evil. Thus certain games of chance, bad in themselves, cease to be so to you, if you join in them merely out of a due courtesy. I have been much comforted by reading in the Life of S.
 
@@ -832,7 +830,7 @@ Carlo Borromeo, how he joined in certain things to please the Swiss, concerning 
 
 Great fires are fanned by the wind, but a little one is soon extinguished if left without shelter.
 
-### Chapter XXXV. We Must Be Faithful in Things Great and Small
+## Chapter XXXV. We Must Be Faithful in Things Great and Small
 
 THE Bridegroom of the Canticles says that the Bride has ravished His heart with "one of her eyes, one lock of her hair." [155] In all the human body no part is nobler either in mechanism or activity than the eye, none more unimportant than the hair. And so the Divine Bridegroom makes us to know that He accepts not only the great works of devout people, but every poor and lowly offering too; and that they who would serve Him acceptably must give heed not only to lofty and important matters, but to things mean and little, since by both alike we may win His Heart and Love.
 
@@ -850,7 +848,7 @@ Landriot's "Femme Forte," a series of lectures on this chapter of Holy Scripture
 
 [157] S. Luke xvi. 10.
 
-### Chapter XXXVI. of a Well-balanced, Reasonable Mind
+## Chapter XXXVI. of a Well-balanced, Reasonable Mind
 
 REASON is the special characteristic of man, and yet it is a rare thing to find really reasonable men, all the more that self-love hinders reason, and beguiles us insensibly into all manner of trifling, but yet dangerous acts of injustice and untruth, which, like the little foxes in the Canticles, [158] spoil our vines, while, just because they are trifling, people pay no attention to them, and because they are numerous, they do infinite harm. Let me give some instances of what I mean.
 
@@ -862,7 +860,7 @@ Be just and fair in all you do. Always put yourself in your neighbour's place, a
 
 [159] Prov. xii. 22.
 
-### Chapter XXXVII. of Wishes
+## Chapter XXXVII. of Wishes
 
 EVERYBODY grants that we must guard against the desire for evil things, since evil desires make evil men. But I say yet further, my daughter, do not desire dangerous things, such as balls or pleasures, office or honour, visions or ecstacies. Do not long after things afar off; such, I mean, as cannot happen till a distant time, as some do who by this means wear themselves out and expend their energies uselessly, fostering a dangerous spirit of distraction. If a young man gives way to overweening longings for an employment he cannot obtain yet a while, what good will it do him? If a married woman sets her heart on becoming a religious, or if I crave to buy my neighbour's estate, he not being willing to sell it, is it not mere waste of time? If, when sick, I am restlessly anxious to preach or celebrate, to visit other sick people, or generally to do work befitting the strong, is it not an unprofitable desire, inasmuch as I have no power to fulfil it? and meanwhile these useless wishes take the place of such as I ought to have,--namely, to be patient, resigned, self-denying, obedient, gentle under suffering,--which are what God requires of me under the circumstances.
 
@@ -874,7 +872,7 @@ Do not desire temptations, that is temerity, but prepare your heart to meet them
 
 Too great variety and quantity of food loads the stomach, and (especially when it is weakly) spoils the digestion. Do not overload your soul with innumerable longings, either worldly, for that were destruction,--or even spiritual, for these only cumber you. When the soul is purged of the evil humours of sin, it experiences a ravenous hunger for spiritual things, and sets to work as one famished at all manner of spiritual exercises;--mortification, penitence, humility, charity, prayer. Doubtless such an appetite is a good sign, but it behoves you to reflect whether you are able to digest all that you fain would eat. Make rather a selection from all these desires, under the guidance of your spiritual father, of such as you are able to perform, and then use them as perfectly as you are able. When you have done this, God will send you more, to be fulfilled in their turn, and so you will not waste time in unprofitable wishes. Not that I would have you lose any good desires, but rather treat them methodically, putting them aside in one corner of your heart till due time comes, while you carry out such as are ripe for action. And this counsel I give to worldly people as well as those who are spiritual, for without heeding it no one can avoid anxiety and over-eagerness.
 
-### Chapter XXXVIII. Counsels to Married People
+## Chapter XXXVIII. Counsels to Married People
 
 MARRIAGE is a great Sacrament both in Jesus Christ and His Church, and one to be honoured to all, by all and in all. To all, for even those who do not enter upon it should honour it in all humility. By all, for it is holy alike to poor as to rich. In all, for its origin, its end, its form and matter are holy. It is the nursery of Christianity, whence the earth is peopled with faithful, till the number of the elect in Heaven be perfected; so that respect for the marriage tie is exceedingly important to the commonwealth, of which it is the source and supply.
 
@@ -944,7 +942,7 @@ Moreover, each should have such forbearance towards the other, that they never g
 
 [168] 1 Cor. vii. 14.
 
-### Chapter XXXIX. the Sanctity of the Marriage Bed
+## Chapter XXXIX. the Sanctity of the Marriage Bed
 
 THE marriage bed should be undefiled, as the Apostle tells us, [169]
 
@@ -956,7 +954,7 @@ Let every one, then, use this world according to his vocation, but so as not to 
 
 [170] 1 Cor. vii. 30, 31.
 
-### Chapter XL. Counsels to Widows
+## Chapter XL. Counsels to Widows
 
 SAINT PAUL teaches us all in the person of S. Timothy when he says, "Honour widows that are widows indeed." [171] Now to be "a widow indeed" it is necessary:--
 
@@ -1001,7 +999,7 @@ Therefore, beloved, let none despair of his calling, since Christ suffered for a
 
 [178] 1 Cor. vii. 40. "Beatior autem erit si sic permanserit."--Vulgate.
 
-### Chapter XLI. One Word to Maidens
+## Chapter XLI. One Word to Maidens
 
 O YE virgins, I have but a word to say to you. If you look to married life in this life, guard your first love jealously for your husband. It seems to me a miserable fraud to give a husband a worn-out heart, whose love has been frittered away and despoiled of its first bloom instead of a true, whole-hearted love. But if you are happily called to be the chaste and holy bride of spiritual nuptials, and purpose to live a life of virginity, then in Christ's Name I bid you keep all your purest, most sensitive love for your Heavenly Bridegroom, Who, being Very Purity Himself, has a special love for purity; Him to Whom the first-fruits of all good things are due, above all those of love.
 

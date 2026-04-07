@@ -1,25 +1,24 @@
 ---
-title: Ezra, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezra, Chapter 8
+title: Ezra, Chapter 8
+url: https://bible.usccb.org/bible/ezra/8
 aliases:
   - ezra-08
   - Ezra, Chapter 8
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezra, Chapter 8
 ---
 
 # Ezra, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Ezra’s Caravan.**
 
@@ -79,9 +78,9 @@ url: https://bible.usccb.org/bible/ezra/8
 
 27 twenty golden bowls valued at a thousand darics; two vases of excellent polished bronze, as precious as gold. ^ezra-08-27
 
-28 I addressed them in these words: “You are consecrated to the L ORD, and the vessels are also consecrated; the silver and the gold are a voluntary offering to the L ORD, the God of your ancestors. ^ezra-08-28
+28 I addressed them in these words: “You are consecrated to the LORD, and the vessels are also consecrated; the silver and the gold are a voluntary offering to the LORD, the God of your ancestors. ^ezra-08-28
 
-29 Watch over them carefully until you weigh them out in Jerusalem in the presence of the chief priests and Levites and the leaders of ancestral houses of Israel, in the chambers of the house of the L ORD.” ^ezra-08-29
+29 Watch over them carefully until you weigh them out in Jerusalem in the presence of the chief priests and Levites and the leaders of ancestral houses of Israel, in the chambers of the house of the LORD.” ^ezra-08-29
 
 30 The priests and the Levites then took over the silver, the gold, and the vessels that had been weighed out, to bring them to Jerusalem, to the house of our God. ^ezra-08-30
 
@@ -93,7 +92,7 @@ url: https://bible.usccb.org/bible/ezra/8
 
 33 On the fourth day, the silver, the gold, and the vessels were weighed out in the house of our God and given to the priest Meremoth, son of Uriah, with whom was Eleazar, son of Phinehas; they were assisted by the Levites Jozabad, son of Jeshua, and Noadiah, son of Binnui. ^ezra-08-33
 
-35 those who had returned from the captivity, the exiles, offered as burnt offerings to the God of Israel twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve goats as sin offerings: all these as a burnt offering to the L ORD. ^ezra-08-35
+35 those who had returned from the captivity, the exiles, offered as burnt offerings to the God of Israel twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve goats as sin offerings: all these as a burnt offering to the LORD. ^ezra-08-35
 
 36 Finally, the orders of the king were presented to the king’s satraps and to the governors in West-of-Euphrates, who gave their support to the people and to the house of God. ^ezra-08-36
 

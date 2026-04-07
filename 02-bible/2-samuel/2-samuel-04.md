@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 4
+title: 2 Samuel, Chapter 4
+url: https://bible.usccb.org/bible/2samuel/4
 aliases:
   - 2 Samuel, Chapter 4
   - 2-samuel-04
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/4
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 4
 ---
 
 # 2 Samuel, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Death of Ishbaal.**
 
@@ -39,9 +38,9 @@ url: https://bible.usccb.org/bible/2samuel/4
 
 **The Murder Avenged.**
 
-8 They brought the head of Ishbaal to David in Hebron and said to the king: “This is the head of Ishbaal, son of your enemy Saul, who sought your life. Thus has the L ORD this day avenged my lord the king on Saul and his posterity.” ^2-samuel-04-8
+8 They brought the head of Ishbaal to David in Hebron and said to the king: “This is the head of Ishbaal, son of your enemy Saul, who sought your life. Thus has the LORD this day avenged my lord the king on Saul and his posterity.” ^2-samuel-04-8
 
-9 But David replied to Rechab and his brother Baanah, sons of Rimmon the Beerothite: “As the L ORD lives, who rescued me from every distress: ^2-samuel-04-9
+9 But David replied to Rechab and his brother Baanah, sons of Rimmon the Beerothite: “As the LORD lives, who rescued me from every distress: ^2-samuel-04-9
 
 10 the man who reported to me, ‘Saul is dead,’ and thought he was bringing good news, that man I seized and killed in Ziglag: that was the reward I gave him. ^2-samuel-04-10
 

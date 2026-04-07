@@ -1,33 +1,32 @@
 ---
-title: Judges, Chapter 17
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 17
+title: Judges, Chapter 17
+url: https://bible.usccb.org/bible/judges/17
 aliases:
   - judges-17
   - Judges, Chapter 17
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 17
 ---
 
 # Judges, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
 **Micah and the Levite.**
 
 1 There was a man from the mountain region of Ephraim whose name was Micah. ^judges-17-1
 
-2 He said to his mother, “The eleven hundred pieces of silver that were taken from you, about which you pronounced a curse and even said it in my hearing—I have that silver. I took it. So now I will restore it to you.” Then his mother said, “May my son be blessed by the L ORD!” ^judges-17-2
+2 He said to his mother, “The eleven hundred pieces of silver that were taken from you, about which you pronounced a curse and even said it in my hearing—I have that silver. I took it. So now I will restore it to you.” Then his mother said, “May my son be blessed by the LORD!” ^judges-17-2
 
-3 When he restored the eleven hundred pieces of silver to his mother, she said, “I consecrate the silver to the L ORD from my own hand on behalf of my son to make an idol overlaid with silver.” ^judges-17-3
+3 When he restored the eleven hundred pieces of silver to his mother, she said, “I consecrate the silver to the LORD from my own hand on behalf of my son to make an idol overlaid with silver.” ^judges-17-3
 
 4 So when he restored the silver to his mother, she took two hundred pieces and gave them to the silversmith, who made of them an idol overlaid with silver. So it remained in the house of Micah. ^judges-17-4
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/judges/17
 
 12 Micah installed the Levite, and the young man became his priest, remaining in the house of Micah. ^judges-17-12
 
-13 Then Micah said, “Now I know that the L ORD will prosper me, since I have the Levite as my priest.” ^judges-17-13
+13 Then Micah said, “Now I know that the LORD will prosper me, since I have the Levite as my priest.” ^judges-17-13
 
 \* (17:2) The narrator picks up the story after a number of events, including a theft and a mother’s curse, have already taken place.
 

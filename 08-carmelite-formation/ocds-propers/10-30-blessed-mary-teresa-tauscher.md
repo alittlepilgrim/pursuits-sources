@@ -1,10 +1,7 @@
 ---
-title: October 30, Blessed Mary Teresa of St Joseph Tauscher
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers
+title: October 30, Blessed Mary Teresa of St Joseph Tauscher
+author: OCD General Curia
 aliases:
   - 10-30-blessed-mary-teresa-tauscher
   - 20251030-000001
@@ -12,10 +9,14 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-attachment: true
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 10-30
 celebration_rank: optional-memorial
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers
+attachment: true
 ---
 
 # October 30, Blessed Mary Teresa of St Joseph Tauscher

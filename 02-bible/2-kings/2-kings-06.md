@@ -1,25 +1,24 @@
 ---
-title: 2 Kings, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 6
+title: 2 Kings, Chapter 6
+url: https://bible.usccb.org/bible/2kings/6
 aliases:
   - 2 Kings, Chapter 6
   - 2-kings-06
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/6
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 6
 ---
 
 # 2 Kings, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **The Lost Ax.**
 
@@ -59,11 +58,11 @@ Informed that Elisha was in Dothan,
 
 16 Elisha answered, “Do not be afraid. Our side outnumbers theirs.” ^2-kings-06-16
 
-17 Then he prayed, “O L ORD, open his eyes, that he may see.” And the L ORD opened the eyes of the servant, and he saw that the mountainside was filled with fiery chariots and horses around Elisha. ^2-kings-06-17
+17 Then he prayed, “O LORD, open his eyes, that he may see.” And the LORD opened the eyes of the servant, and he saw that the mountainside was filled with fiery chariots and horses around Elisha. ^2-kings-06-17
 
-18 When the Arameans came down to get him, Elisha prayed to the L ORD, “Strike this people blind, I pray you.” And the L ORD struck them blind, according to Elisha’s word. ^2-kings-06-18
+18 When the Arameans came down to get him, Elisha prayed to the LORD, “Strike this people blind, I pray you.” And the LORD struck them blind, according to Elisha’s word. ^2-kings-06-18
 
-20 When they entered Samaria, Elisha prayed, “O L ORD, open their eyes that they may see.” The L ORD opened their eyes, and they saw that they were inside Samaria. ^2-kings-06-20
+20 When they entered Samaria, Elisha prayed, “O LORD, open their eyes that they may see.” The LORD opened their eyes, and they saw that they were inside Samaria. ^2-kings-06-20
 
 21 When the king of Israel saw them, he asked, “Shall I kill them, my father? Shall I kill them?” ^2-kings-06-21
 
@@ -79,7 +78,7 @@ Informed that Elisha was in Dothan,
 
 26 One day, as the king of Israel was walking on the city wall, a woman cried out to him, “Save us, my lord king!” ^2-kings-06-26
 
-27 He replied, “If the L ORD does not save you, where could I find means to save you? On the threshing floor? In the wine press?” ^2-kings-06-27
+27 He replied, “If the LORD does not save you, where could I find means to save you? On the threshing floor? In the wine press?” ^2-kings-06-27
 
 28 Then the king asked her, “What is your trouble?” She replied: “This woman said to me, ‘Give up your son that we may eat him today; then tomorrow we will eat my son.’ ^2-kings-06-28
 
@@ -91,7 +90,7 @@ Informed that Elisha was in Dothan,
 
 32 Meanwhile, Elisha was sitting in his house in conference with the elders. The king had sent one of his courtiers; but before the messenger reached him, Elisha said to the elders: “Do you know that this murderer is sending someone to cut off my head? When the messenger comes, see that you close the door and hold it fast against him. His master’s footsteps are echoing behind him.” ^2-kings-06-32
 
-33 While Elisha was still speaking, the messenger came down to him and said, “This evil is from the L ORD. Why should I trust in the L ORD any longer?” ^2-kings-06-33
+33 While Elisha was still speaking, the messenger came down to him and said, “This evil is from the LORD. Why should I trust in the LORD any longer?” ^2-kings-06-33
 
 \* (6:22) With your sword or bow: since the king would not slay prisoners who had surrendered to his power, much less should he slay prisoners captured by God’s power. This wartime practice stands in contrast to that of holy war, where prisoners were placed under the ban and so devoted to destruction (see [[1-kings-20|1 Kgs 20]]:35 – [43]).
 

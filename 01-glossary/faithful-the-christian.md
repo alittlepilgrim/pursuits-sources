@@ -1,16 +1,17 @@
 ---
-title: Faithful, The Christian
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: faithful-the-christian. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Faithful, The Christian
 aliases:
   - faithful-the-christian
   - Faithful, the Christian
   - Faithful, The Christian
 tags:
   - term/faithful-the-christian
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: faithful-the-christian. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Faithful, the Christian

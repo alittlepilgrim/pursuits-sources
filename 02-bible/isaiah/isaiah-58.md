@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 58
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 58
+title: Isaiah, Chapter 58
+url: https://bible.usccb.org/bible/isaiah/58
 aliases:
   - isaiah-58
   - Isaiah, Chapter 58
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/58
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 58
 ---
 
 # Isaiah, Chapter 58
 
-### Chapter 58
+## Chapter 58
 
-#### Reasons for Judgment
+### Reasons for Judgment
 
 1 Cry out full-throated and unsparingly, ^isaiah-58-1
 
@@ -69,9 +68,9 @@ and lie upon sackcloth and ashes?
 
 Is this what you call a fast,
 
-a day acceptable to the L ORD?
+a day acceptable to the LORD?
 
-#### Authentic Fasting That Leads to Blessing
+### Authentic Fasting That Leads to Blessing
 
 6 Is this not, rather, the fast that I choose: ^isaiah-58-6
 
@@ -97,9 +96,9 @@ and your wound shall quickly be healed;
 
 Your vindication shall go before you,
 
-and the glory of the L ORD shall be your rear guard.
+and the glory of the LORD shall be your rear guard.
 
-9 Then you shall call, and the L ORD will answer, ^isaiah-58-9
+9 Then you shall call, and the LORD will answer, ^isaiah-58-9
 
 you shall cry for help, and he will say: “Here I am!”
 
@@ -115,7 +114,7 @@ Then your light shall rise in the darkness,
 
 and your gloom shall become like midday;
 
-11 Then the L ORD will guide you always ^isaiah-58-11
+11 Then the LORD will guide you always ^isaiah-58-11
 
 and satisfy your thirst in parched places,
 
@@ -133,7 +132,7 @@ the foundations from ages past you shall raise up;
 
 “Restorer of ruined dwellings.”
 
-#### Authentic Sabbath Observance That Leads to Blessing
+### Authentic Sabbath Observance That Leads to Blessing
 
 13 If you refrain from trampling the sabbath, ^isaiah-58-13
 
@@ -141,19 +140,19 @@ from following your own pursuits on my holy day;
 
 If you call the sabbath a delight,
 
-the L ORD’s holy day glorious;
+the LORD’s holy day glorious;
 
 If you glorify it by not following your ways,
 
 seeking your own interests, or pursuing your own affairs—
 
-14 Then you shall delight in the L ORD, ^isaiah-58-14
+14 Then you shall delight in the LORD, ^isaiah-58-14
 
 and I will make you ride upon the heights of the earth;
 
 I will nourish you with the heritage of Jacob, your father,
 
-for the mouth of the L ORD has spoken.
+for the mouth of the LORD has spoken.
 
 \* (58:1] – [5) The prophet is commanded to condemn the formalism of the people, specifically their hypocritical fasting.
 

@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 18
+title: Isaiah, Chapter 18
+url: https://bible.usccb.org/bible/isaiah/18
 aliases:
   - isaiah-18
   - Isaiah, Chapter 18
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/18
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 18
 ---
 
 # Isaiah, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
-#### Ethiopia
+### Ethiopia
 
 1 Ah! Land of buzzing insects, ^isaiah-18-1
 
@@ -49,7 +48,7 @@ When the signal is raised on the mountain, look!
 
 When the trumpet blows, listen!
 
-4 For thus says the L ORD to me: ^isaiah-18-4
+4 For thus says the LORD to me: ^isaiah-18-4
 
 I will be quiet, looking on from where I dwell,
 
@@ -73,7 +72,7 @@ The vultures shall summer on them,
 
 all the beasts of the earth shall winter on them.
 
-7 Then will gifts be brought to the L ORD of hosts—to the place of the name of the L ORD of hosts, Mount Zion—from a people tall and bronzed, from a people dreaded near and far, a nation strong and conquering, whose land is washed by rivers. ^isaiah-18-7
+7 Then will gifts be brought to the LORD of hosts—to the place of the name of the LORD of hosts, Mount Zion—from a people tall and bronzed, from a people dreaded near and far, a nation strong and conquering, whose land is washed by rivers. ^isaiah-18-7
 
 \* (18:1] – [2) Land of buzzing insects: the region of the Upper Nile where these multiplied with great rapidity. Ethiopia: in Hebrew, *Kush*. The center of this ancient kingdom corresponds geographically to the modern Sudan, Roman Nubia. Papyrus boats: light and serviceable vessels made of bundles of papyrus stalks and sealed with pitch. Egypt, ruled by a dynasty from Ethiopia, had invited Judah to join a coalition against Assyria, but Isaiah told the ambassadors to return to their own people.
 

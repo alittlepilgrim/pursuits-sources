@@ -1,23 +1,21 @@
 ---
-title: Book I. Containing a Preparation for the Whole Treatise - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book I. Containing a Preparation for the Whole Treatise
+title: Book I. Containing a Preparation for the Whole Treatise - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book I. Containing a Preparation for the Whole Treatise
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book I. Containing a Preparation for the Whole Treatise
 ---
 
 # Book I. Containing a Preparation for the Whole Treatise
 
-### Chapter I. That for the Beauty of Human Nature God Has Given the Government of All the Faculties of the Soul to the Will
+## Chapter I. That for the Beauty of Human Nature God Has Given the Government of All the Faculties of the Soul to the Will
 
 Union in distinction makes order; order produces agreement; and proportion and agreement, in complete and finished things, make beauty.
 
@@ -39,7 +37,7 @@ This dominion of the will is exercised indeed in very various ways.
 
 [22] Gen. xli. 40.
 
-### Chapter II. How the Will Variously Governs the Powers of the Soul
+## Chapter II. How the Will Variously Governs the Powers of the Soul
 
 A Father directs his wife, his children and his servants by his ordinances and commandments, which they are obliged to obey though they are able not to obey; but if he have servants and slaves, he rules them by force which they have no power to contradict; his horses, oxen and mules he manages by industry, binding, bridling, goading, shutting in, or letting out.
 
@@ -57,7 +55,7 @@ So we are often forced to complain that we think not of the good which we love, 
 
 [23] Rom. vii. 15.
 
-### Chapter III. How the Will Governs the Sensual Appetite
+## Chapter III. How the Will Governs the Sensual Appetite
 
 The will then, Theotimus, bears rule over the memory, understanding and fancy, not by force but by authority, so that she is not infallibly obeyed any more than the father of a family is always obeyed by his children and servants. It is the same as regards the sensitive appetite, which, as S. Augustine says, is called in us sinners concupiscence, and is subject to the will and understanding as the wife to her husband, because as it was said to the woman: Be under thy husband, and he shall have dominion over thee, [24] so was it said to Cain, that the lust of sin should be under him and he should have dominion over it. [25] And this being under means nothing else than being submitted and subjected to him. "O man," says S. Bernard, "it is in thy power if thou wilt to bring thy enemy to be thy servant so that all things may go well with thee; thy appetite is under thee and thou shalt domineer over it. Thy enemy can move in thee the feeling of temptation, but it is in thy power if thou wilt to give or refuse consent. In case thou permit thy appetite to carry thee away to sin, then thou shalt be under it, and it shall domineer over thee, for whosoever sinneth is made the servant of sin, but before thou sinnest, so long as sin gets not entry into thy consent, but only into thy sense, that is to say, so long as it stays in the appetite, not going so far as thy will, thy appetite is subject unto thee and thou lord over it." Before the Emperor is created he is subject to the electors'
 
@@ -85,7 +83,7 @@ A great folly, to wish to be wise with an impossible wisdom Truly the Church has
 
 [26] Rom. vii. 23.
 
-### Chapter IV. That Love Rules over All the Affections and Passions, and Even Governs the Will, Although the Will Has Also Dominion over It
+## Chapter IV. That Love Rules over All the Affections and Passions, and Even Governs the Will, Although the Will Has Also Dominion over It
 
 Love being the first complacency which we take in good, as we shall presently show, it of course precedes desire; and indeed what other thing do we desire, but that which we love? It precedes delectation, for how could we rejoice in the enjoyment of a thing if we loved it not? It precedes hope, for we hope only for the good which we love: it precedes hatred, for we hate not evil, except for the love we have for good: nor is evil evil but because it is contrary to good. And, Theotimus, it is the same with all the other passions and affections; for they all proceed from love, as from their source and root.
 
@@ -97,7 +95,7 @@ But it does not follow hence that the will does not also rule over love, seeing 
 
 [27] De Civ. Dei, xiv. ix.
 
-### Chapter V. of the Affections of the Will
+## Chapter V. of the Affections of the Will
 
 There are no fewer movements in the intellectual or reasonable appetite which is called the will, than there are in the sensitive or sensual, but the first are customarily named affections, the latter passions.
 
@@ -111,7 +109,7 @@ Now these affections which we feel in our reasonable part are more or less noble
 
 [28] De Civ. Dei, xiv.
 
-### Chapter VI. How the Love of God Has Dominion over Other Loves
+## Chapter VI. How the Love of God Has Dominion over Other Loves
 
 The will governs all the other faculties of man's soul, yet it is governed by its love which makes it such as its love is. Now of all loves that of God holds the sceptre, and has the authority of commanding so inseparably united to it and proper to its nature, that if it be not master it ceases to be and perishes.
 
@@ -127,7 +125,7 @@ The virtues are in the soul to moderate its movements, and charity, as first of 
 
 [29] 1 Cor. xv. 46.
 
-### Chapter VII. Description of Love in General
+## Chapter VII. Description of Love in General
 
 The will has so great a sympathy with good that as soon as she perceives it she turns towards it to delight therein as in her most agreeable object, to which she is so closely allied that her nature cannot be explained except by the relation she has thereto, just as one cannot show the nature of what is good except by the affinity it has with the will. For, tell me, Theotimus, what is good but that which every one wills. And what is the will, if not the faculty which bears us towards and makes us tend to good or what the will believes to be such?
 
@@ -159,7 +157,7 @@ Thus the wish which Herod had not to behead S. John was more imperfect than that
 
 And these wishes which are hindered, not by impossibility, but by incompatibility with stronger desires, are called indeed wishes and desires, but vain, stifled and unprofitable ones. As to wishes of things impossible, we say: I wish, but cannot; and of the wishes of possible things we say: I wish, but will not.
 
-### Chapter VIII. What Kind of Affinity (convenance) It Is Which Excites Love
+## Chapter VIII. What Kind of Affinity (convenance) It Is Which Excites Love
 
 We say the eye sees, the ear hears, the tongue speaks, the understanding reasons, the memory remembers, the will loves: but still we know well that it is the man, to speak properly, who by divers faculties and different organs works all this variety of operations.
 
@@ -169,7 +167,7 @@ But when this mutual correspondence is joined with resemblance, love without dou
 
 The affinity then of the lover and the thing loved is the first source of love, and this affinity consists in correspondence, which is nothing else than a mutual relation, which makes things apt to unite in order to communicate to one another some perfection. But this will be understood better in the progress of our discourse.
 
-### Chapter IX. That Love Tends to Union
+## Chapter IX. That Love Tends to Union
 
 The great Solomon describes, in an admirably delicious manner, the loves of the Saviour and the devout soul, in that divine work which for its excellent sweetness is named the Canticle of Canticles. And to raise ourselves by a more easy flight to the consideration of this spiritual love which is exercised between God and us by the correspondence of the movements of our hearts with the inspirations of his divine majesty, he makes use of a perpetual representation of the loves of a chaste shepherd and a modest shepherdess. Now making the spouse or bride begin first by manner of a certain surprise of love, he first puts into her mouth this ejaculation: Let him kiss me with the kiss of his mouth. [30] Notice, Theotimus, how the soul, in the person of this shepherdess, has but the one aim, in the first expression of her desire, of a chaste union with her spouse, protesting that it is the only end of her ambition and the only thing she aspires after; for, I pray you, what other thing would this first sigh intimate? Let him kiss me with the kiss of his mouth.
 
@@ -203,7 +201,7 @@ Paul warns us to be careful to preserve the unity of the spirit in the bond of p
 
 [39] Kings xviii. 1.
 
-### Chapter X. That the Union to Which Love Aspires Is Spiritual
+## Chapter X. That the Union to Which Love Aspires Is Spiritual
 
 We must, however, take notice that there are natural unions, as those of similitude, consanguinity, and of cause and effect; and others which not being natural may be termed voluntary; for though they be according to Nature yet they are only made at our will: like that union which takes its origin from benefits--which undoubtedly unite him that receives them to the giver,--that of conversation, society and the like. Now natural union produces love, and the love which it produces inclines us to another and voluntary union, perfecting the natural.
 
@@ -235,7 +233,7 @@ True it is that many having gross, earthly and vile hearts rate the value of lov
 
 Gregory, "between spiritual and corporal pleasures, that corporal ones beget a desire before we obtain them, and a disgust when we have obtained them; but spiritual ones, on the contrary, are not cared for when we have them not, but are desired when we have them."
 
-### Chapter XI. That There Are Two Portions in the Soul, and How We Have but One Soul,
+## Chapter XI. That There Are Two Portions in the Soul, and How We Have but One Soul
 
 Theotimus, and an indivisible one; but in that one soul there are various degrees of perfection, for it is living, sensible and reasonable; and according to these different degrees it has also different properties and inclinations by which it is moved to the avoidance or to the acceptance of things. For first, as we see that the vine hates, so to speak and avoids the cabbage, so that the one is pernicious to the other; and, on the contrary, is delighted in the olive:--so we perceive a natural opposition between man and the serpent, so great that a man's fasting spittle is mortal to the serpent: on the contrary, man and the sheep have a wondrous affinity, and are agreeable one to the other. Now this inclination does not proceed from any knowledge that the one has of the hurtfulness of its contrary, or of the advantage of the one with which it has affinity, but only from a certain occult and secret quality which produces this insensible opposition and antipathy, or this complacency and sympathy.
 
@@ -255,7 +253,7 @@ But the example of our Saviour is admirable in this point, and being considered 
 
 [41] Ib. xv. 6.
 
-### Chapter XII. That in These Two Portions of the Soul There Are Four Different Degrees of Reason.
+## Chapter XII. That in These Two Portions of the Soul There Are Four Different Degrees of Reason
 
 There were three courts in Solomon's temple. One was for the Gentiles and strangers who, wishing to have recourse to God, went to adore in Jerusalem; the second for the Israelites, men and women (the separation of men from women not being made by Solomon); the third for the priests and Levites; and in fine, besides all this, there was the sanctuary or sacred house, which was open to the high priest only, and that but once a year. Our reason, or, to speak better, our soul in so far as it is reasonable, is the true temple of the great God, who there takes up his chief residence. "I sought thee," says S. Augustine, "outside myself, but I found thee not, because thou art within me." In this mystical temple there are also three courts, which are three different degrees of reason; in the first we reason according to the experience of sense, in the second according to human sciences, in the third according to faith: and in fine, beyond this, there is a certain eminence or supreme point of the reason and spiritual faculty, which is not guided by the light of argument or reasoning, but by a simple view of the understanding and a simple movement of the will, by which the spirit bends and submits to the truth and the will of God.
 
@@ -275,7 +273,7 @@ So that, Theotimus, in the superior part of reason there are two degrees of reas
 
 But if faith, hope and charity be formed by this holy acquiescence in the point of the spirit, how can reasonings which depend on the light of faith be made in the inferior part of the soul? As, Theotimus, we see that barristers dispute with many arguments on the acts and rights of parties to a suit, and that the high parliament or senate settles all the strife by a positive sentence, though even after this is pronounced the advocates and auditors do not give up discoursing among themselves the motives parliament may have had:--even so, after reasoning, and above all the grace of God have persuaded the point and highest part of the spirit to acquiesce, and make the act of faith after the manner of a sentence or judgment, the understanding does not at once cease discoursing upon that same act of faith already conceived, to consider the motives and reasons thereof. But always the arguments of theology are stated at the pleading place and bar of the superior portion of the soul, but the acquiescence is given above, on the bench and tribunal of the point of the spirit. Now, because the knowledge of these four degrees of the reason is much required for understanding all treatises on spiritual things, I have thought well to explain it rather fully.
 
-### Chapter XIII. on the Difference of Loves
+## Chapter XIII. on the Difference of Loves
 
 Love is divided into two species, whereof one is called love of benevolence (or goodwill) the other of cupidity (convoitise). The love of cupidity is that by which we love something for the profit we expect from it. Love of benevolence is that by which we love a thing for its own good. For what other thing is it to have the love of benevolence for any one than to wish him good.
 
@@ -291,7 +289,7 @@ If the esteem and preference of our friend, though great and without equal, do y
 
 [42] Meaning dear, dearly, to endear. The Saint's argument cannot be given in English. It rests on the connection between cher and charité, like the Latin carus and caritas. (Tr.)
 
-### Chapter XIV. That Charity May Be Named Love
+## Chapter XIV. That Charity May Be Named Love
 
 Origin says somewhere [43] that in his opinion the Divine Scripture wishing to hinder the word love from giving occasion of evil thoughts to the weak, as being more proper to signify a carnal passion than a spiritual affection, instead of this name of love has used the words charity and dilection, which are more honest. But S. Augustine having deeply weighed the use of God's word clearly shows that the name love is no less sacred than the word dilection, and that the one and the other signify sometimes a holy affection and sometimes also a depraved passion, alleging to this purpose different passages of Holy Scripture.
 
@@ -305,7 +303,7 @@ Wherefore one of them, as S. Denis reports, said: "Thy dilection has entered int
 
    26. S. Francis is careful to quote S. Denis, who used the Septuagint text, agapesis. The Vulgate does not mark the difference. (Tr.)
 
-### Chapter XV. of the Affinity There Is Between God and Man
+## Chapter XV. of the Affinity There Is Between God and Man
 
 As soon as man thinks with even a little attention of the divinity, he feels a certain delightful emotion of the heart, which testifies that God is God of the human heart; and our understanding is never so filled with pleasure as in this thought of the divinity, the smallest knowledge of which, as says the prince of philosophers, is worth more than the greatest knowledge of other things; as the least beam of the sun is more luminous than the greatest of the moon or stars, yea is more luminous than the moon and stars together. And if some accident terrifies our heart, it immediately has recourse to the Divinity, protesting thereby that when all other things fail him, It alone stands his friend, and that when he is in peril, It only, as his sovereign good, can save and secure him.
 
@@ -325,7 +323,7 @@ Our soul then seeing that nothing can perfectly content her, and that nothing th
 
 [46] Cant. i. 1.
 
-### Chapter XVI. That We Have a Natural Inclination to Love God Above All Things
+## Chapter XVI. That We Have a Natural Inclination to Love God Above All Things
 
 If there could be found any men who were in the integrity of original justice in which Adam was created, though otherwise not helped by another assistance from God than that which he affords to each creature, in order that it may be able to do the actions befitting its nature, such men would not only have an inclination to love God above all things but even naturally would be able to put into execution so just an inclination. For as this heavenly author and master of nature co-operates with and lends his strong hand to fire to spring on high, to water to flow towards the sea, to earth to sink down to its centre and stay there--so having himself planted in man's heart a special natural inclination not only to love good in general but to love in particular and above all things his divine goodness which is better and sweeter than all things--the sweetness of his sovereign providence required that he should contribute to these blessed men of whom we speak as much help as should be necessary to practise and effectuate that inclination. This help would be on the one hand natural, as being suitable to nature, and tending to the love of God as author and sovereign master of nature, and on the other hand it would be supernatural, because it would correspond not with the simple nature of man, but with nature adorned, enriched and honoured by original justice, which is a supernatural quality proceeding from a most special favour of God. But as to the love above all things which such help would enable these men to practise, it would be called natural, because virtuous actions take their names from their objects and motives, and this love of which we speak would only tend to God as acknowledged to be author, lord and sovereign of every creature by natural light only, and consequently to be amiable and estimable above all things by natural inclination and tendency.
 
@@ -333,7 +331,7 @@ And although now our human nature be not endowed with that original soundness an
 
 It happens often amongst partridges that one steals away another's eggs with intention to sit on them, whether moved by greediness to become a mother, or by a stupidity which makes them mistake their own, and behold a strange thing, yet well supported by testimony!--the young one which was hatched and nourished under the wings of a stranger partridge, at the first call of the true mother, who had laid the egg whence she was hatched, quits the thief-partridge, goes back to the first mother, and puts herself in her brood, from the correspondence which she has with her first origin. Yet this correspondence appeared not, but remained secret, shut up and as it were sleeping in the bottom of nature, till it met with its object; when suddenly excited, and in a sort awakened, it produces its effect, and turns the young partridge's inclination to its first duty. It is the same, Theotimus, with our heart, which though it be formed, nourished and bred amongst corporal, base and transitory things, and in a manner under the wings of nature, notwithstanding, at the first look it throws on God, at its first knowledge of him, the natural and first inclination to love God which was dull and imperceptible, awakes in an instant, and suddenly appears as a spark from amongst the ashes, which touching our will gives it a movement of the supreme love due to the sovereign and first principle of all things.
 
-### Chapter XVII. That We Have Not Naturally the Power to Love God Above All Things
+## Chapter XVII. That We Have Not Naturally the Power to Love God Above All Things
 
 Eagles have a great heart, and much strength of flight, yet they have incomparably more sight than flight, and extend their vision much quicker and further than their wings. So our souls animated with a holy natural inclination towards the divinity, have far more light in the understanding to see how lovable it is than force in the will to love it. Sin has much more weakened man's will than darkened his intellect, and the rebellion of the sensual appetite, which we call concupiscence, does indeed disturb the understanding, but still it is against the will that it principally stirs up sedition and revolt: so that the poor will, already quite infirm, being shaken with the continual assaults which concupiscence directs against it, cannot make so great progress in divine love as reason and natural inclination suggest to it that it should do.
 
@@ -351,7 +349,7 @@ In a word, Theotimus, our wretched nature spoilt by sin, is like palm-trees in t
 
 [48] Rom. vii. 18.
 
-### Chapter XVIII. That the Natural Inclination Which We Have to Love God Is Not Useless
+## Chapter XVIII. That the Natural Inclination Which We Have to Love God Is Not Useless
 
 But seeing we have not power naturally to love God above all things, why have we naturally an inclination to it? Is not nature vain to incite us to a love which she cannot bestow upon us? Why does she give us a thirst for a precious water of which she cannot give us to drink?
 

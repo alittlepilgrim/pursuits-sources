@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 41
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 41
+title: Genesis, Chapter 41
+url: https://bible.usccb.org/bible/genesis/41
 aliases:
   - 20250508-020346
   - genesis-41
   - Genesis, Chapter 41
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 41
 bible_book: genesis
 bible_chapter: "41"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/41
 ---
 
 [[genesis-40|[← Previous Note]]] · [[genesis-42|[Next Note →]]]
@@ -175,6 +174,6 @@ g. (41:54) [Ps 105:16]; ([[acts-of-the-apostles-07|Acts 7]]:11]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-02|[Next Note →]]]

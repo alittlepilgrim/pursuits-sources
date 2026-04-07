@@ -1,9 +1,7 @@
 ---
-title: December 16, Blessed Mary of the Angels Fontanella
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: December 16, Blessed Mary of the Angels Fontanella
+author: OCD General Curia
 aliases:
   - 12-16-blessed-mary-fontanella
   - 20251216-000001
@@ -11,10 +9,13 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-attachment: true
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 12-16
 celebration_rank: optional-memorial
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+attachment: true
 ---
 
 # December 16, Blessed Mary of the Angels Fontanella
@@ -75,7 +76,7 @@ Evening Prayer
 
 **Ant.** Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me.
 
-!
+![16 December- Blessed Mary of the Angels Fontanella-2024-07-22-1](images/16%20December-%20Blessed%20Mary%20of%20the%20Angels Fontanella-2024-07-22-1.jpeg)
 
  *Blessed Mary of the Angels* *(Marianna Fontanella)*
 

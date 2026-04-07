@@ -1,27 +1,26 @@
 ---
-title: Galatians, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Galatians, Chapter 1
+title: Galatians, Chapter 1
+url: https://bible.usccb.org/bible/galatians/1
 aliases:
   - galatians-01
   - Galatians, Chapter 1
 tags:
+  - bible/chapter
   - bible/galatians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/galatians/1
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Galatians, Chapter 1
 ---
 
 # Galatians, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-## I. Address
+# I. Address
 
 **Greeting.**
 
@@ -35,7 +34,7 @@ url: https://bible.usccb.org/bible/galatians/1
 
 5 to whom be glory forever and ever. Amen. ^galatians-01-5
 
-## Ii. Loyalty to the Gospel
+# Ii. Loyalty to the Gospel
 
 6 I am amazed that you are so quickly forsaking the one who called you by \[the\] grace \[of Christ\] for a different gospel ^galatians-01-6
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/galatians/1
 
 10 Am I now currying favor with human beings or God? Or am I seeking to please people? If I were still trying to please people, I would not be a slave of Christ. ^galatians-01-10
 
-## Iii. Paul’s Defense of His Gospel and His Authority
+# Iii. Paul’s Defense of His Gospel and His Authority
 
 **His Call by Christ.**
 

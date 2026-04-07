@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 6
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 6
+title: Sirach, Chapter 6
+url: https://bible.usccb.org/bible/sirach/6
 aliases:
   - sirach-06
   - Sirach, Chapter 6
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/6
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 6
 ---
 
 # Sirach, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 1 Do not be a foe instead of a friend. ^sirach-06-1
 
@@ -27,7 +26,7 @@ A bad name, disgrace, and dishonor you will inherit.
 
 Thus the wicked, the double-tongued!
 
-#### Unruly Passions
+### Unruly Passions
 
 2 Do not fall into the grip of your passion, ^sirach-06-2
 
@@ -41,7 +40,7 @@ and you will be left like a dry tree.
 
 and makes him the sport of his enemies.
 
-#### True Friendship
+### True Friendship
 
 5 Pleasant speech multiplies friends, ^sirach-06-5
 
@@ -95,7 +94,7 @@ those who fear God will find them.
 
 for as they are, so will their neighbors be.
 
-#### Blessings of Wisdom
+### Blessings of Wisdom
 
 18 My child, from your youth choose discipline; ^sirach-06-18
 

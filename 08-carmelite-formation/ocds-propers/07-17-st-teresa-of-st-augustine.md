@@ -1,10 +1,7 @@
 ---
-title: July 17, Saint Teresa of St Augustine and Companions
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: July 17, Saint Teresa of St Augustine and Companions
+author: OCD General Curia
 aliases:
   - 07-17-st-teresa-augustine-saint
   - 20250731-121556
@@ -13,8 +10,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-17
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # July 17, Saint Teresa of St Augustine and Companions

@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 7
+title: John, Chapter 7
+url: https://bible.usccb.org/bible/john/7
 aliases:
   - john-07
   - John, Chapter 7
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/7
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 7
 ---
 
 # John, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **The Feast of Tabernacles.**
 

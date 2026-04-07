@@ -1,31 +1,30 @@
 ---
-title: 2 Kings, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 3
+title: 2 Kings, Chapter 3
+url: https://bible.usccb.org/bible/2kings/3
 aliases:
   - 2 Kings, Chapter 3
   - 2-kings-03
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/3
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 3
 ---
 
 # 2 Kings, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Reign of Joram of Israel.**
 
 1 Joram, son of Ahab, became king over Israel in Samaria in the eighteenth year of Jehoshaphat, king of Judah, and he reigned twelve years. ^2-kings-03-1
 
-2 He did what was evil in the L ORD’s sight, though not like his father and mother. He did away with the pillar of Baal that his father had made, ^2-kings-03-2
+2 He did what was evil in the LORD’s sight, though not like his father and mother. He did away with the pillar of Baal that his father had made, ^2-kings-03-2
 
 3 but he still held fast unceasingly to the sins which Jeroboam, son of Nebat, caused Israel to commit. ^2-kings-03-3
 
@@ -43,23 +42,23 @@ url: https://bible.usccb.org/bible/2kings/3
 
 9 So the king of Israel set out, accompanied by the king of Judah and the king of Edom. After a roundabout journey of seven days the water gave out for the army and for the animals with them. ^2-kings-03-9
 
-10 The king of Israel exclaimed, “Alas! The L ORD has called three kings together only to deliver us into the power of Moab.” ^2-kings-03-10
+10 The king of Israel exclaimed, “Alas! The LORD has called three kings together only to deliver us into the power of Moab.” ^2-kings-03-10
 
-11 But Jehoshaphat asked, “Is there no prophet of the L ORD here through whom we may inquire of the L ORD?” One of the servants of the king of Israel replied, “Elisha, son of Shaphat, who poured water on the hands of Elijah, is here.” ^2-kings-03-11
+11 But Jehoshaphat asked, “Is there no prophet of the LORD here through whom we may inquire of the LORD?” One of the servants of the king of Israel replied, “Elisha, son of Shaphat, who poured water on the hands of Elijah, is here.” ^2-kings-03-11
 
-12 Jehoshaphat agreed, “He has the word of the L ORD.” So the king of Israel, along with Jehoshaphat and the king of Edom, went down to Elisha. ^2-kings-03-12
+12 Jehoshaphat agreed, “He has the word of the LORD.” So the king of Israel, along with Jehoshaphat and the king of Edom, went down to Elisha. ^2-kings-03-12
 
-13 Elisha asked the king of Israel, “What do you want with me? Go to the prophets of your father and to the prophets of your mother.” The king of Israel replied, “No, the L ORD has called these three kings together only to deliver us into the power of Moab.” ^2-kings-03-13
+13 Elisha asked the king of Israel, “What do you want with me? Go to the prophets of your father and to the prophets of your mother.” The king of Israel replied, “No, the LORD has called these three kings together only to deliver us into the power of Moab.” ^2-kings-03-13
 
-14 Then Elisha said, “As the L ORD of hosts lives, whom I serve, were it not that I respect Jehoshaphat, the king of Judah, I should neither look at you nor notice you at all. ^2-kings-03-14
+14 Then Elisha said, “As the LORD of hosts lives, whom I serve, were it not that I respect Jehoshaphat, the king of Judah, I should neither look at you nor notice you at all. ^2-kings-03-14
 
-15 Now get me a minstrel.” When the minstrel played, the hand of the L ORD came upon Elisha, ^2-kings-03-15
+15 Now get me a minstrel.” When the minstrel played, the hand of the LORD came upon Elisha, ^2-kings-03-15
 
-16 and he announced: “Thus says the L ORD: Provide many catch basins in this wadi. ^2-kings-03-16
+16 and he announced: “Thus says the LORD: Provide many catch basins in this wadi. ^2-kings-03-16
 
-17 For the L ORD says: Though you will see neither wind nor rain, yet this wadi will be filled with water for you to drink, and for your livestock and pack animals. ^2-kings-03-17
+17 For the LORD says: Though you will see neither wind nor rain, yet this wadi will be filled with water for you to drink, and for your livestock and pack animals. ^2-kings-03-17
 
-18 And since the L ORD does not consider this enough, he will also deliver Moab into your power. ^2-kings-03-18
+18 And since the LORD does not consider this enough, he will also deliver Moab into your power. ^2-kings-03-18
 
 19 You shall destroy every fortified city and every choice city, fell every fruit tree, stop up all the springs, and ruin every fertile field with stones.” ^2-kings-03-19
 

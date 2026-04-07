@@ -1,20 +1,19 @@
 ---
-title: Psalm 78
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 78
+title: Psalm 78
+url: https://bible.usccb.org/bible/psalms/78
 aliases:
   - Psalm 78
   - psalm-78
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/78
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 78
 ---
 
 # Psalm 78

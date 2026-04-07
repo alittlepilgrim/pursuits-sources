@@ -1,25 +1,24 @@
 ---
-title: Numbers, Chapter 22
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 22
+title: Numbers, Chapter 22
+url: https://bible.usccb.org/bible/numbers/22
 aliases:
   - numbers-22
   - Numbers, Chapter 22
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/22
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 22
 ---
 
 # Numbers, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 1 Then the Israelites moved on and encamped in the plains of Moab on the other side of the Jordan opposite Jericho. ^numbers-22-1
 
@@ -37,7 +36,7 @@ url: https://bible.usccb.org/bible/numbers/22
 
 7 So the elders of Moab and the elders of Midian, themselves experts in divination, left and went to Balaam, to whom they gave Balak’s message. ^numbers-22-7
 
-8 He said to them, “Stay here overnight, and I will give you whatever answer the L ORD gives me.” So the princes of Moab lodged with Balaam. ^numbers-22-8
+8 He said to them, “Stay here overnight, and I will give you whatever answer the LORD gives me.” So the princes of Moab lodged with Balaam. ^numbers-22-8
 
 9 Then God came to Balaam and said: Who are these men with you? ^numbers-22-9
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/numbers/22
 
 12 But God said to Balaam: Do not go with them and do not curse this people, for they are blessed. ^numbers-22-12
 
-13 The next morning Balaam arose and told the princes of Balak, “Go back to your own country, for the L ORD has refused to let me go with you.” ^numbers-22-13
+13 The next morning Balaam arose and told the princes of Balak, “Go back to your own country, for the LORD has refused to let me go with you.” ^numbers-22-13
 
 14 So the princes of Moab went back to Balak with the report, “Balaam refused to come with us.” ^numbers-22-14
 
@@ -59,9 +58,9 @@ url: https://bible.usccb.org/bible/numbers/22
 
 17 I will reward you very handsomely and will do anything you ask of me. Come, lay a curse on this people for me.” ^numbers-22-17
 
-18 But Balaam replied to Balak’s servants, “Even if Balak gave me his house full of silver and gold, I could not do anything, small or great, contrary to the command of the L ORD, my God. ^numbers-22-18
+18 But Balaam replied to Balak’s servants, “Even if Balak gave me his house full of silver and gold, I could not do anything, small or great, contrary to the command of the LORD, my God. ^numbers-22-18
 
-19 But, you too stay here overnight, so that I may learn what else the L ORD may say to me.” ^numbers-22-19
+19 But, you too stay here overnight, so that I may learn what else the LORD may say to me.” ^numbers-22-19
 
 20 That night God came to Balaam and said to him: If these men have come to summon you, go back with them; yet only on the condition that you do exactly as I tell you. ^numbers-22-20
 
@@ -69,33 +68,33 @@ url: https://bible.usccb.org/bible/numbers/22
 
 **The Talking Donkey.**
 
-22 But now God’s anger flared up at him for going, and the angel of the L ORD took up a position on the road as his adversary. As Balaam was riding along on his donkey, accompanied by two of his servants, ^numbers-22-22
+22 But now God’s anger flared up at him for going, and the angel of the LORD took up a position on the road as his adversary. As Balaam was riding along on his donkey, accompanied by two of his servants, ^numbers-22-22
 
-23 the donkey saw the angel of the L ORD standing in the road with sword drawn. The donkey turned off the road and went into the field, and Balaam beat the donkey to bring her back on the road. ^numbers-22-23
+23 the donkey saw the angel of the LORD standing in the road with sword drawn. The donkey turned off the road and went into the field, and Balaam beat the donkey to bring her back on the road. ^numbers-22-23
 
-24 Then the angel of the L ORD stood in a narrow lane between vineyards with a stone wall on each side. ^numbers-22-24
+24 Then the angel of the LORD stood in a narrow lane between vineyards with a stone wall on each side. ^numbers-22-24
 
-25 When the donkey saw the angel of the L ORD there, she pressed against the wall; and since she squeezed Balaam’s leg against the wall, he beat her again. ^numbers-22-25
+25 When the donkey saw the angel of the LORD there, she pressed against the wall; and since she squeezed Balaam’s leg against the wall, he beat her again. ^numbers-22-25
 
-26 Then the angel of the L ORD again went ahead, and stood next in a passage so narrow that there was no room to move either to the right or to the left. ^numbers-22-26
+26 Then the angel of the LORD again went ahead, and stood next in a passage so narrow that there was no room to move either to the right or to the left. ^numbers-22-26
 
-27 When the donkey saw the angel of the L ORD there, she lay down under Balaam. Balaam’s anger flared up and he beat the donkey with his stick. ^numbers-22-27
+27 When the donkey saw the angel of the LORD there, she lay down under Balaam. Balaam’s anger flared up and he beat the donkey with his stick. ^numbers-22-27
 
-28 Then the L ORD opened the mouth of the donkey, and she asked Balaam, “What have I done to you that you beat me these three times?” ^numbers-22-28
+28 Then the LORD opened the mouth of the donkey, and she asked Balaam, “What have I done to you that you beat me these three times?” ^numbers-22-28
 
 29 “You have acted so willfully against me,” said Balaam to the donkey, “that if I only had a sword at hand, I would kill you here and now.” ^numbers-22-29
 
 30 But the donkey said to Balaam, “Am I not your donkey, on which you have always ridden until now? Have I been in the habit of treating you this way before?” “No,” he replied. ^numbers-22-30
 
-31 Then the L ORD opened Balaam’s eyes, so that he saw the angel of the L ORD standing on the road with sword drawn; and he knelt and bowed down to the ground. ^numbers-22-31
+31 Then the LORD opened Balaam’s eyes, so that he saw the angel of the LORD standing on the road with sword drawn; and he knelt and bowed down to the ground. ^numbers-22-31
 
-32 But the angel of the L ORD said to him: “Why have you beaten your donkey these three times? I have come as an adversary because this rash journey of yours is against my will. ^numbers-22-32
+32 But the angel of the LORD said to him: “Why have you beaten your donkey these three times? I have come as an adversary because this rash journey of yours is against my will. ^numbers-22-32
 
 33 When the donkey saw me, she turned away from me these three times. If she had not turned away from me, you are the one I would have killed, though I would have spared her.” ^numbers-22-33
 
-34 Then Balaam said to the angel of the L ORD, “I have sinned. Yet I did not know that you took up a position to oppose my journey. Since it has displeased you, I will go back home.” ^numbers-22-34
+34 Then Balaam said to the angel of the LORD, “I have sinned. Yet I did not know that you took up a position to oppose my journey. Since it has displeased you, I will go back home.” ^numbers-22-34
 
-35 But the angel of the L ORD said to Balaam: “Go with the men; but you may say only what I tell you.” So Balaam went on with the princes of Balak. ^numbers-22-35
+35 But the angel of the LORD said to Balaam: “Go with the men; but you may say only what I tell you.” So Balaam went on with the princes of Balak. ^numbers-22-35
 
 36 When Balak heard that Balaam was coming, he went out to meet him at Ar-Moab on the border formed by the Arnon, at its most distant point. ^numbers-22-36
 

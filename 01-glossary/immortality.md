@@ -1,16 +1,18 @@
 ---
-title: Immortality
-created: 2025-07-17
-modified: 2026-04-02
 type: glossary
-publish: true
-description: Glossary of the Catechism of the Catholic Church
+title: Immortality
+author:
 aliases:
   - immortality
   - Immortality
 tags:
   - catechism
   - term/immortality
+  - type/term
+created: 2025-07-17
+modified: 2026-04-06
+publish: true
+description: Glossary of the Catechism of the Catholic Church
 ---
 
 # Immortality

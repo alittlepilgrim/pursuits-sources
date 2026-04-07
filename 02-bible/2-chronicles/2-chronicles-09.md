@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 9
+title: 2 Chronicles, Chapter 9
+url: https://bible.usccb.org/bible/2chronicles/9
 aliases:
   - 2 Chronicles, Chapter 9
   - 2-chronicles-09
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/9
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 9
 ---
 
 # 2 Chronicles, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **The Queen of Sheba.**
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/2chronicles/9
 
 3 When the queen of Sheba witnessed Solomon’s great wisdom, the house he had built, ^2-chronicles-09-3
 
-4 the food at his table, the seating of his ministers, the attendance and dress of his waiters, his cupbearers and their dress, and the burnt offerings he sacrificed in the house of the L ORD, it took her breath away. ^2-chronicles-09-4
+4 the food at his table, the seating of his ministers, the attendance and dress of his waiters, his cupbearers and their dress, and the burnt offerings he sacrificed in the house of the LORD, it took her breath away. ^2-chronicles-09-4
 
 5 “The report I heard in my country about your deeds and your wisdom is true,” she told the king. ^2-chronicles-09-5
 
@@ -37,13 +36,13 @@ url: https://bible.usccb.org/bible/2chronicles/9
 
 7 Happy your servants, happy these ministers of yours, who stand before you always and listen to your wisdom. ^2-chronicles-09-7
 
-8 Blessed be the L ORD, your God, who was pleased to set you on his throne as king for the L ORD, your God. In the love your God has for Israel, to establish them forever, he has made you king over them to carry out judgment and justice.” ^2-chronicles-09-8
+8 Blessed be the LORD, your God, who was pleased to set you on his throne as king for the LORD, your God. In the love your God has for Israel, to establish them forever, he has made you king over them to carry out judgment and justice.” ^2-chronicles-09-8
 
 9 Then she gave the king one hundred and twenty gold talents, a very large quantity of spices, and precious stones. Never again did anyone bring such an abundance of spices as the queen of Sheba gave to King Solomon. ^2-chronicles-09-9
 
 10 The servants of Huram and of Solomon who brought gold from Ophir also brought cabinet wood and precious stones. ^2-chronicles-09-10
 
-11 With the cabinet wood the king made stairs for the house of the L ORD and the house of the king, and harps and lyres for the chanters. The like of these had not been seen before in the land of Judah. ^2-chronicles-09-11
+11 With the cabinet wood the king made stairs for the house of the LORD and the house of the king, and harps and lyres for the chanters. The like of these had not been seen before in the land of Judah. ^2-chronicles-09-11
 
 12 King Solomon gave the queen of Sheba everything she desired and asked for, more than she had brought to the king. Then she returned with her servants to her own country. ^2-chronicles-09-12
 

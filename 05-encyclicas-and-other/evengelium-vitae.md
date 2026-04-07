@@ -1,19 +1,21 @@
 ---
-title: Evangelium Vitae (25 March 1995)
-created: 2025-08-22
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Encyclical Letter Evangelium Vitae (25 March 1995) on the Value and Inviolability  of Human Life
+title: Evangelium Vitae
+author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
 aliases:
   - 20250822-143509
   - Evangelium Vitae (25 March 1995)
   - evengelium-vitae
 tags:
-  - vault-admin/clippings
+  - author/saint-john-paul-II
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-08-22
+modified: 2026-04-06
+publish: true
+description: Encyclical Letter Evangelium Vitae (25 March 1995) on the Value and Inviolability  of Human Life
 abbreviation: jpii-ev
-author: Saint John Paul II
-url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
 ---
 
 # Evangelium Vitae (25 March 1995)

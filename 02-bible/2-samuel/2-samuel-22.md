@@ -1,33 +1,32 @@
 ---
-title: 2 Samuel, Chapter 22
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 22
+title: 2 Samuel, Chapter 22
+url: https://bible.usccb.org/bible/2samuel/22
 aliases:
   - 2 Samuel, Chapter 22
   - 2-samuel-22
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/22
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 22
 ---
 
 # 2 Samuel, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 **Song of Thanksgiving.**
 
-1 David proclaimed the words of this song to the L ORD when the L ORD had rescued him from the grasp of all his enemies and from the grasp of Saul. ^2-samuel-22-1
+1 David proclaimed the words of this song to the LORD when the LORD had rescued him from the grasp of all his enemies and from the grasp of Saul. ^2-samuel-22-1
 
 2 He said: ^2-samuel-22-2
 
-O L ORD, my rock, my fortress, my deliverer,
+O LORD, my rock, my fortress, my deliverer,
 
 3 my God, my rock of refuge! ^2-samuel-22-3
 
@@ -37,7 +36,7 @@ my stronghold, my refuge,
 
 my savior, from violence you keep me safe.
 
-4 Praised be the L ORD, I exclaim! ^2-samuel-22-4
+4 Praised be the LORD, I exclaim! ^2-samuel-22-4
 
 I have been delivered from my enemies.
 
@@ -49,7 +48,7 @@ the menacing floods terrified me;
 
 the snares of death lay in wait for me.
 
-7 In my distress I called out: L ORD! ^2-samuel-22-7
+7 In my distress I called out: LORD! ^2-samuel-22-7
 
 I cried out to my God;
 
@@ -85,7 +84,7 @@ a mass of water, heavy thunderheads.
 
 coals were kindled to flame.
 
-14 The L ORD thundered from heaven; ^2-samuel-22-14
+14 The LORD thundered from heaven; ^2-samuel-22-14
 
 the Most High made his voice resound.
 
@@ -97,7 +96,7 @@ lightning, and dispersed them.
 
 the world’s foundations lay bare,
 
-At the roar of the L ORD,
+At the roar of the LORD,
 
 at the storming breath of his nostrils.
 
@@ -111,17 +110,17 @@ from foes too powerful for me.
 
 19 They attacked me on a day of distress, ^2-samuel-22-19
 
-but the L ORD came to my support.
+but the LORD came to my support.
 
 20 He set me free in the open; ^2-samuel-22-20
 
 he rescued me because he loves me.
 
-21 The L ORD acknowledged my righteousness; ^2-samuel-22-21
+21 The LORD acknowledged my righteousness; ^2-samuel-22-21
 
 rewarded my clean hands.
 
-22 For I kept the ways of the L ORD; ^2-samuel-22-22
+22 For I kept the ways of the LORD; ^2-samuel-22-22
 
 I was not disloyal to my God.
 
@@ -133,7 +132,7 @@ his decrees I did not cast aside.
 
 I was on guard against sin.
 
-25 So the L ORD rewarded my righteousness, ^2-samuel-22-25
+25 So the LORD rewarded my righteousness, ^2-samuel-22-25
 
 the cleanness of my hands in his sight.
 
@@ -149,7 +148,7 @@ but to the perverse you are devious.
 
 though on the haughty your eyes look down.
 
-29 You are my lamp, O L ORD! ^2-samuel-22-29
+29 You are my lamp, O LORD! ^2-samuel-22-29
 
 My God brightens the darkness about me.
 
@@ -159,11 +158,11 @@ with my God to help I can leap a wall.
 
 31 God’s way is unerring; ^2-samuel-22-31
 
-the L ORD’s promise is tried and true;
+the LORD’s promise is tried and true;
 
 he is a shield for all who trust in him.
 
-32 Truly, who is God except the L ORD? ^2-samuel-22-32
+32 Truly, who is God except the LORD? ^2-samuel-22-32
 
 Who but our God is the rock?
 
@@ -205,7 +204,7 @@ those who hated me I destroyed.
 
 42 They cried for help, but no one saved them, ^2-samuel-22-42
 
-cried to the L ORD but got no answer.
+cried to the LORD but got no answer.
 
 43 I ground them fine as the dust of the earth; ^2-samuel-22-43
 
@@ -225,7 +224,7 @@ as soon as they heard of me they obeyed.
 
 they came trembling from their fortresses.
 
-47 The L ORD lives! Blessed be my rock! ^2-samuel-22-47
+47 The LORD lives! Blessed be my rock! ^2-samuel-22-47
 
 Exalted be God, the rock of my salvation.
 
@@ -239,7 +238,7 @@ Truly you have exalted me above my adversaries,
 
 from the violent you have rescued me.
 
-50 Thus I will proclaim you, L ORD, among the nations; ^2-samuel-22-50
+50 Thus I will proclaim you, LORD, among the nations; ^2-samuel-22-50
 
 I will sing the praises of your name.
 

@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 15
+title: Matthew, Chapter 15
+url: https://bible.usccb.org/bible/matthew/15
 aliases:
   - matthew-15
   - Matthew, Chapter 15
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/15
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 15
 ---
 
 # Matthew, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **The Tradition of the Elders.**
 

@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 14
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 14
+title: Genesis, Chapter 14
+url: https://bible.usccb.org/bible/genesis/14
 aliases:
   - genesis-14
   - Genesis, Chapter 14
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 14
 bible_book: genesis
 bible_chapter: "14"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/14
 ---
 
 [[genesis-13|[← Previous Note]]] · [[genesis-15|[Next Note →]]]
@@ -78,7 +77,7 @@ Then Abram gave him a tenth of everything.
 
 21 The king of Sodom said to Abram, “Give me the captives; the goods you may keep.” ^genesis-14-21
 
-22 But Abram replied to the king of Sodom: “I have sworn to the L ORD, God Most High, the creator of heaven and earth, ^genesis-14-22
+22 But Abram replied to the king of Sodom: “I have sworn to the LORD, God Most High, the creator of heaven and earth, ^genesis-14-22
 
 23 that I would not take so much as a thread or a sandal strap from anything that is yours, so that you cannot say, ‘I made Abram rich.’ ^genesis-14-23
 
@@ -102,6 +101,6 @@ c. (14:19) [Ps 110:4]; [Heb 5:6], [10]; [7:1]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-03|[← Previous Note]]] · [[genesis-05|[Next Note →]]]

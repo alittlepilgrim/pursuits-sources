@@ -1,23 +1,21 @@
 ---
-title: Book V. Two Principal Exercises of Holy Love Which Consist in Complacency and Benevolence - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book V. Two Principal Exercises of Holy Love Which Consist in Complacency and Benevolence
+title: Book V. Two Principal Exercises of Holy Love Which Consist in Complacency and Benevolence - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book V. Two Principal Exercises of Holy Love Which Consist in Complacency and Benevolence
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book V. Two Principal Exercises of Holy Love Which Consist in Complacency and Benevolence
 ---
 
 # Book V. Two Principal Exercises of Holy Love Which Consist in Complacency and Benevolence
 
-### Chapter I. of the Sacred Complacency of Love; and First of What It Consists
+## Chapter I. of the Sacred Complacency of Love; and First of What It Consists
 
 Love, as we have said, is no other thing than the movement and outflowing of the heart towards good by means of the complacency which we take in it; so that complacency is the great motive of love, as love is the great movement of complacency.
 
@@ -49,7 +47,7 @@ The love which the great Apostle S. Paul bore to the life, death and passion of 
 
 [221] Gal. vi. 14.
 
-### Chapter II. How by Holy Complacency We Are Made as Little Infants at Our Saviour's
+## Chapter II. How by Holy Complacency We Are Made as Little Infants at Our Saviour's
 
 BREASTS.
 
@@ -91,7 +89,7 @@ So the soul of the great S. Augustine, stayed in suspense between the sacred con
 
 [230] Gen. xxvii. 27.
 
-### Chapter III. That Holy Complacency Gives Our Heart to God, and Makes Us Feel a
+## Chapter III. That Holy Complacency Gives Our Heart to God, and Makes Us Feel a
 
 PERPETUAL DESIRE IN FRUITION.
 
@@ -123,7 +121,7 @@ Finally, Theotimus, the soul which is in the exercise of the love of complacency
 
 [234] Ps. civ. 4.
 
-### Chapter IV. of the Loving Condolence by Which the Complacency of Love Is Still
+## Chapter IV. of the Loving Condolence by Which the Complacency of Love Is Still
 
 BETTER DECLARED.
 
@@ -153,7 +151,7 @@ who does not see his contentment? If even death cannot trouble his joy, who can 
 
 [240] Gen. xlvi. 30.
 
-### Chapter V. of the Condolence and Complacency of Love in the Passion of Our Lord
+## Chapter V. of the Condolence and Complacency of Love in the Passion of Our Lord
 
 When I see my Saviour on the Mount of Olives with his soul sorrowful even unto death:--Ah! Lord Jesus, say I, what can have brought the sorrows of death into the soul of life except love, which, exciting commiseration, drew thereby our miseries into thy sovereign heart? Now a devout soul, seeing this abyss of heaviness and distress in this divine lover, how can she be without a holily loving sorrow? But considering, on the other hand, that all the afflictions of her well-beloved proceed from no imperfection or want of strength, but from the greatness of his dearest love, she cannot but melt away with a holy sorrowful love. So that she cries: I am black with sorrow by compassion, but beautiful with love by complacency; the anguish of my well-beloved has changed my colour: for how could a faithful lover behold such torments in him whom she loves more than her life, without swooning away and becoming all wan and wasted with grief. The tents of nomads, perpetually exposed to the injuries of weather and war, are almost always ragged and covered with dust; and I, ever exposed to the griefs which by condolence I receive from the immeasurable travails of my divine Saviour, I am all covered with distress, and rent with sorrow. But because the pains of him I love come from his love, in what measure they afflict me by compassion, they delight me by complacency; for how could a faithful lover not take an extreme content to see herself so loved by her heavenly spouse? Wherefore the beauty of love is in the ill-favour of sorrow. And if I wear mourning for the passion and death of my King, all swarthy and black with grief, I cease not to have an incomparable sweetness in seeing the excess of his love amid his travails and his sorrows; and the tents of Solomon, all embroidered and worked in an admirable variety of decorations, were never so lovely as I am content, and, consequently, sweet, amiable and agreeable, in the variety of the sentiments of love which I have amid those griefs.
 
@@ -167,7 +165,7 @@ It cannot be declared, Theotimus, how strongly the Saviour desires to enter into
 
 [241] Cant. v. 2.
 
-### Chapter VI. of the Love of Benevolence Which We Exercise Towards Our Saviour by Way
+## Chapter VI. of the Love of Benevolence Which We Exercise Towards Our Saviour by Way
 
 OF DESIRE.
 
@@ -185,7 +183,7 @@ It is yet another kind of benevolence towards God, when feeling we cannot exalt 
 
 [243] Luke i. 47.
 
-### Chapter VII. How the Desire to Exalt and Magnify God Separates Us from Inferior
+## Chapter VII. How the Desire to Exalt and Magnify God Separates Us from Inferior
 
 PLEASURES, AND MAKES US ATTENTIVE TO THE DIVINE PERFECTIONS.
 
@@ -199,7 +197,7 @@ Now still more to magnify this sovereign well-beloved, the soul goes ever seekin
 
 [245] John xx. 13.
 
-### Chapter VIII. How Holy Benevolence Produces the Praise of the Divine Well-beloved
+## Chapter VIII. How Holy Benevolence Produces the Praise of the Divine Well-beloved
 
 Honour, my dear Theotimus, is not in him who is honoured, but in him who honours: for how often it happens that he whom we honour knows nothing of it, nor has so much as thought about it. How often we praise such as know us not, or who are sleeping; and yet according to the common estimation of men, and their ordinary manner of conceiving, it seems that we do one some good when we do him honour, and that we give him much when we give him titles and praises, and we find no difficulty in saying that a man is rich in honour, glory, reputation, praise, though indeed we know that all this is outside the person who is honoured. He oftentimes receives no manner of profit therefrom, according to a saying ascribed to the great S. Augustine: O poor Aristotle, thou art being praised where thou art not, and where thou art, thou art being burned. What fruit, I pray you, do Cæsar and Alexander the Great reap from so many vain words which some vain souls employ in their praise?
 
@@ -219,7 +217,7 @@ But hear an agreeable similitude upon this subject, drawn from the name which th
 
 [248] Ps. xxxiii. 1, 2.
 
-### Chapter IX. How Benevolence Makes Us Call All Creatures to the Praise of God
+## Chapter IX. How Benevolence Makes Us Call All Creatures to the Praise of God
 
 The heart that is taken and pressed with a desire of praising the divine goodness more than it is able, after many endeavours goes oftentimes out of itself, to invite all creatures to help it in its design. As did the three children in the furnace, in that admirable canticle of benedictions, by which they excite all that is in heaven, on earth and under the earth, to render thanks to the eternal God, by blessing and praising him sovereignly. So the glorious Psalmist, quite mastered by holily disordered passion moving him to praise God, goes without order, leaping from heaven to earth, and from earth to heaven again, invoking angels, fishes, mountains, waters, dragons, birds, serpents, fire, hail, mists, assembling by his desires all creatures,--to the end that they all may conspire to lovingly magnify their Creator, some in their own persons celebrating the divine praise, others affording matter of praise by the wonders of their different properties, which manifest their Maker's power; so that this divine royal Psalmist, having composed a great number of psalms with this inscription: Praise God: after he had run through all creatures, holily inviting them to bless the divine Majesty, and gone over a great variety of means and instruments proper for the celebration of the praises of this eternal goodness, in the end, as falling down through lack of breath, closes his sacred song with this ejaculation: Let every spirit praise the Lord; [249] that is, let all that has life, neither live nor breathe but to bless its Creator, according to the invitation he had elsewhere given: O magnify the Lord with me; and let us extol his name together. [250]
 
@@ -231,7 +229,7 @@ It is this divine passion that brings forth so many discourses, sends through al
 
 [250] Ps. xxxiii. 4.
 
-### Chapter X. How the Desire to Praise God Makes Us Aspire to Heaven
+## Chapter X. How the Desire to Praise God Makes Us Aspire to Heaven
 
 The amorous soul, perceiving that she cannot satiate the desire she has to praise her well-beloved while she lives in this world, and knowing that the praises which are given in heaven to the divine goodness are sung to an incomparably more delightful air,--O God! says she, how much to be praised are the praises which are poured forth by those blessed spirits before the throne of my heavenly king; how blessed are their blessings! O what a happiness is it to hear this melody of the most holy eternity, in which by the sweetest concurrence of dissimilar and varied tones, are made those admirable accords--all the parts mingling together with a continued sequence and marvellous linking of progressive movements--by which perpetual Alleluias do resound on every side.
 
@@ -247,7 +245,7 @@ So that glorious and seraphical lover S. Francis, having been long torn with thi
 
 [252] Ps. cxli. 8.
 
-### Chapter XI. How We Practise the Love of Benevolence in the Praises Which Our
+## Chapter XI. How We Practise the Love of Benevolence in the Praises Which Our
 
 SAVIOUR AND HIS MOTHER GIVE TO GOD.
 
@@ -273,7 +271,7 @@ Come, my well-beloved and all-dear; and to see me more clearly, come to the same
 
 [255] Cant. ii.
 
-### Chapter XII. of the Sovereign Praise Which God Gives Unto Himself, and How We
+## Chapter XII. of the Sovereign Praise Which God Gives Unto Himself, and How We
 
 EXERCISE BENEVOLENCE IN IT.
 

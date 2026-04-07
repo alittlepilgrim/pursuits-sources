@@ -1,27 +1,26 @@
 ---
-title: 1 Maccabees, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Maccabees, Chapter 1
+title: 1 Maccabees, Chapter 1
+url: https://bible.usccb.org/bible/1maccabees/1
 aliases:
   - 1 Maccabees, Chapter 1
   - 1-maccabees-01
 tags:
   - bible/1-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1maccabees/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Maccabees, Chapter 1
 ---
 
 ← [[1-maccabees-00|1 Maccabees, Introduction]] · [[1-maccabees-03|1 Maccabees, Chapter 3]] →
 
 # 1 Maccabees, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **From Alexander to Antiochus.**
 

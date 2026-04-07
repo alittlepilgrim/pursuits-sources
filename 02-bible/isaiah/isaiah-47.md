@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 47
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 47
+title: Isaiah, Chapter 47
+url: https://bible.usccb.org/bible/isaiah/47
 aliases:
   - isaiah-47
   - Isaiah, Chapter 47
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/47
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 47
 ---
 
 # Isaiah, Chapter 47
 
-### Chapter 47
+## Chapter 47
 
-#### The Fall of Babylon
+### The Fall of Babylon
 
 1 Come down, sit in the dust, ^isaiah-47-1
 
@@ -55,7 +54,7 @@ says
 
 4 our redeemer, ^isaiah-47-4
 
-Whose name is the L ORD of hosts,
+Whose name is the LORD of hosts,
 
 the Holy One of Israel.
 

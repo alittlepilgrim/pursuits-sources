@@ -1,16 +1,17 @@
 ---
-title: Glossary
-created: 2025-07-21
-modified: 2026-04-02
 type: moc
-publish: true
-description: Untitled
+title: Glossary
 aliases:
   - 01-glossary-all
   - 20250721-133854
   - Glossary
 tags:
   - type/toc
+created: 2025-07-21
+modified: 2026-04-04
+publish: true
+permalink: /glossary
+description: Untitled
 attachment: false
 ---
 
@@ -445,7 +446,7 @@ attachment: false
 - [[prayer-ascetical|Ascetical Prayer]]
 - [[prayer-mystical|Mystical Prayer]]
 - [[prayer-painful|Painful Prayer]]
-- [[prayer|Prayer]]
+- [[pursuits-sources/01-glossary/prayer|Prayer]]
 - [[precepts-of-the-church|Precepts of the Church]]
 - [[presbyter|Presbyter]]
 - [[presence-of-god|Presence of God]]

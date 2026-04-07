@@ -1,20 +1,20 @@
 ---
-title: Hosea, The Book of Hosea
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, the Book of Hosea
+title: Hosea, The Book of Hosea
+url: https://bible.usccb.org/bible/hosea/0
 aliases:
   - hosea-00
   - Hosea, the Book of Hosea
   - Hosea, The Book of Hosea
 tags:
+  - bible/book
   - bible/hosea
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/hosea/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, the Book of Hosea
 ---
 
 # Hosea, the Book of Hosea

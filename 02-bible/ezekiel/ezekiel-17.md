@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 17
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 17
+title: Ezekiel, Chapter 17
+url: https://bible.usccb.org/bible/ezekiel/17
 aliases:
   - ezekiel-17
   - Ezekiel, Chapter 17
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 17
 ---
 
 # Ezekiel, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
 **The Eagles and the Vine.**
 
-1 The word of the L ORD came to me: ^ezekiel-17-1
+1 The word of the LORD came to me: ^ezekiel-17-1
 
 2 Son of man, propose a riddle, and tell this proverb to the house of Israel: ^ezekiel-17-2
 
@@ -99,7 +98,7 @@ When the east wind strikes it,
 
 wither in the very bed where it sprouted?
 
-11 The word of the L ORD came to me: ^ezekiel-17-11
+11 The word of the LORD came to me: ^ezekiel-17-11
 
 12 Now say to the rebellious house: ^ezekiel-17-12
 
@@ -185,7 +184,7 @@ And whoever might survive
 
 will be scattered to the winds.
 
-Thus you will know that I the L ORD have spoken.
+Thus you will know that I the LORD have spoken.
 
 22 Thus says the Lord G OD: ^ezekiel-17-22
 
@@ -215,7 +214,7 @@ in the shade of its branches.
 
 24 Every tree of the field will know ^ezekiel-17-24
 
-that I am the L ORD.
+that I am the LORD.
 
 I bring low the high tree,
 
@@ -225,7 +224,7 @@ Wither up the green tree,
 
 and make the dry tree bloom.
 
-As I, the L ORD, have spoken, so will I do!
+As I, the LORD, have spoken, so will I do!
 
 \* (17:11] – [21) These verses explain the allegory in vv. [3] – [10]. In 597 B.C., Nebuchadnezzar removed Jehoiachin from the throne and took him into exile; in his place he set Zedekiah, Jehoiachin’s uncle, on the throne and received from him the oath of loyalty. But Zedekiah was persuaded to rebel by Pharaoh Hophra of Egypt and thus deserved punishment; cf. [[2-kings-24|2 Kgs 24]]:10 – [25:7].
 

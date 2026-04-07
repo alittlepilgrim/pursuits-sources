@@ -1,31 +1,30 @@
 ---
-title: Isaiah, Chapter 27
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 27
+title: Isaiah, Chapter 27
+url: https://bible.usccb.org/bible/isaiah/27
 aliases:
   - isaiah-27
   - Isaiah, Chapter 27
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/27
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 27
 ---
 
 # Isaiah, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
-#### The Judgment and Deliverance of Israel
+### The Judgment and Deliverance of Israel
 
 1 On that day, ^isaiah-27-1
 
-The L ORD will punish with his sword
+The LORD will punish with his sword
 
 that is cruel, great, and strong,
 
@@ -39,7 +38,7 @@ he will slay the dragon in the sea.
 
 The pleasant vineyard, sing about it!
 
-3 I, the L ORD, am its keeper, ^isaiah-27-3
+3 I, the LORD, am its keeper, ^isaiah-27-3
 
 I water it every moment;
 
@@ -105,7 +104,7 @@ their creator shall not be gracious to them.
 
 12 On that day, ^isaiah-27-12
 
-The L ORD shall beat out grain
+The LORD shall beat out grain
 
 from the channel of the Euphrates to the Wadi of Egypt,
 
@@ -119,7 +118,7 @@ and the lost in the land of Assyria
 
 and the outcasts in the land of Egypt
 
-Shall come and worship the L ORD
+Shall come and worship the LORD
 
 on the holy mountain, in Jerusalem.
 

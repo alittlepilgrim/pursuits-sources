@@ -1,19 +1,25 @@
 ---
-title: Vatican II Documents
-created: 2025-10-26
-modified: 2026-04-02
 type: moc
-publish: true
+title: Vatican II Documents MOC
+author:
+  - Catholic Church
 aliases:
   - Magisterial Documents
   - Vatican II Documents
-attachment: false
+tags: []
 language: EN
+created: 2025-10-26
+modified: 2026-04-06
+publish: true
+permalink: /vatican
+attachment: false
 ---
 
 # Vatican II Documents
 
-- 
+![[banner-pursuits-m.png]]
+
+- [All Vatican II Documents](https://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm)
 
 ## Constitutions
 

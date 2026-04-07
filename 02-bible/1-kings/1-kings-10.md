@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 10
+title: 1 Kings, Chapter 10
+url: https://bible.usccb.org/bible/1kings/10
 aliases:
   - 1 Kings, Chapter 10
   - 1-kings-10
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/10
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 10
 ---
 
 # 1 Kings, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Solomon’s Listening Heart: The Queen of Sheba.**
 
@@ -31,7 +30,7 @@ url: https://bible.usccb.org/bible/1kings/10
 
 4 When the queen of Sheba witnessed Solomon’s great wisdom, the house he had built, ^1-kings-10-4
 
-5 the food at his table, the seating of his ministers, the attendance and dress of his waiters, his servers, and the burnt offerings he offered in the house of the L ORD, it took her breath away. ^1-kings-10-5
+5 the food at his table, the seating of his ministers, the attendance and dress of his waiters, his servers, and the burnt offerings he offered in the house of the LORD, it took her breath away. ^1-kings-10-5
 
 6 “The report I heard in my country about your deeds and your wisdom is true,” she told the king. ^1-kings-10-6
 
@@ -39,13 +38,13 @@ url: https://bible.usccb.org/bible/1kings/10
 
 8 Happy are your servants, happy these ministers of yours, who stand before you always and listen to your wisdom. ^1-kings-10-8
 
-9 Blessed be the L ORD, your God, who has been pleased to place you on the throne of Israel. In his enduring love for Israel, the L ORD has made you king to carry out judgment and justice.” ^1-kings-10-9
+9 Blessed be the LORD, your God, who has been pleased to place you on the throne of Israel. In his enduring love for Israel, the LORD has made you king to carry out judgment and justice.” ^1-kings-10-9
 
 10 Then she gave the king one hundred and twenty gold talents, a very large quantity of spices, and precious stones. Never again did anyone bring such an abundance of spices as the queen of Sheba gave to King Solomon. ^1-kings-10-10
 
 11 Hiram’s fleet, which used to bring gold from Ophir, also brought from there a very large quantity of almug wood and precious stones. ^1-kings-10-11
 
-12 With this wood the king made supports for the house of the L ORD and for the house of the king, and harps and lyres for the singers. Never again was any such almug wood brought or seen to the present day. ^1-kings-10-12
+12 With this wood the king made supports for the house of the LORD and for the house of the king, and harps and lyres for the singers. Never again was any such almug wood brought or seen to the present day. ^1-kings-10-12
 
 13 King Solomon gave the queen of Sheba everything she desired and asked for, besides what King Solomon gave her from Solomon’s royal bounty. Then she returned with her servants to her own country. ^1-kings-10-13
 

@@ -1,9 +1,7 @@
 ---
-title: July 28, Blessed John Soreth
-created: 2025-07-28
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: July 28, Blessed John Soreth
+author: OCD General Curia
 aliases:
   - 07-28-blessed-john-soreth
   - 20250728-175313
@@ -11,8 +9,11 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-28
+created: 2025-07-28
+modified: 2026-04-06
+publish: false
 ---
 
 # July 28, Blessed John Soreth
@@ -33,7 +34,7 @@ John Soreth was born at Caen in Normandy and entered Carmel as a young man. He t
 
 From the Common of Men Saints (Religious), except the following:
 
-###### Office of Readings
+### Office of Readings
 
 **The Second Reading
 
@@ -61,7 +62,7 @@ R/. This is the love of God: that we keep His commandments; * and His command
 
 V/. Those who keep His commandments abide in God, and God abides in them; * and His commandments are not burdensome.
 
-###### Morning Prayer
+### Morning Prayer
 
 **Canticle of Zechariah**
 
@@ -91,14 +92,14 @@ who lives and reigns with you and the Holy Spirit,
 
 God, for ever and ever.
 
-###### Evening Prayer
+### Evening Prayer
 
 **Canticle of Mary**
 
 Ant. This faithful man made his city strong and renewed the faith of sinners.
 
-##### Source
+## Source
 
+[Carmelite Quotes](https://carmelitequotes.blog)
 
-
-Catholic Church  _of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites_ (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church [1993, _Proper of the Liturgy of the Hours_](https://worldcat.org/title/41304501) _of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites_ (Rev. and augm.), Institutum Carmelitanum, Rome.

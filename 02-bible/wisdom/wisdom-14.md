@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 14
+title: Wisdom, Chapter 14
+url: https://bible.usccb.org/bible/wisdom/14
 aliases:
   - wisdom-14
   - Wisdom, Chapter 14
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/14
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 14
 ---
 
 # Wisdom, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 1 Again, one preparing for a voyage and about to traverse the wild waves ^wisdom-14-1
 
@@ -69,7 +68,7 @@ Snares for human souls
 
 and a trap for the feet of the senseless.
 
-#### The Origin and Evils of Idolatry
+### The Origin and Evils of Idolatry
 
 12 For the source of wantonness is the devising of idols; ^wisdom-14-12
 

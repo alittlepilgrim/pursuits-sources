@@ -1,25 +1,25 @@
 ---
-title: Ruth, The Book of Ruth
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ruth, the Book of Ruth
+title: Ruth, The Book of Ruth
+url: https://bible.usccb.org/bible/ruth/0
 aliases:
   - ruth-00
   - Ruth, the Book of Ruth
   - Ruth, The Book of Ruth
 tags:
+  - bible/book
+  - bible/old-testament
   - bible/ruth
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/ruth/0
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ruth, the Book of Ruth
 ---
 
 # Ruth, the Book of Ruth
 
-    
+[Introduction](ruth-00.md) [1](ruth-01.md) [2](ruth-02.md) [3](ruth-03.md) [4](ruth-04.md)
 
 ## The Book of Ruth
 

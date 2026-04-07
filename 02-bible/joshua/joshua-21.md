@@ -1,34 +1,32 @@
 ---
-title: Joshua, Chapter 21
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 21
+title: Joshua, Chapter 21
+url: https://bible.usccb.org/bible/joshua/21
 aliases:
   - joshua-21
   - Joshua, Chapter 21
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/21
-testament: old
-url: https://bible.usccb.org/bible/joshua/21
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 21
 ---
 
 # Joshua, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **Levitical Cities.**
 
 1 The heads of the Levite families approached Eleazar the priest, Joshua, son of Nun, and the heads of families of the other tribes of the Israelites ^joshua-21-1
 
-2 at Shiloh in the land of Canaan, and said to them, “The L ORD commanded, through Moses, that cities be given us to dwell in, with pasture lands for our livestock.” ^joshua-21-2
+2 at Shiloh in the land of Canaan, and said to them, “The LORD commanded, through Moses, that cities be given us to dwell in, with pasture lands for our livestock.” ^joshua-21-2
 
-3 Out of their own heritage, according to the command of the L ORD, the Israelites gave the Levites the following cities with their pasture lands. ^joshua-21-3
+3 Out of their own heritage, according to the command of the LORD, the Israelites gave the Levites the following cities with their pasture lands. ^joshua-21-3
 
 4 When the first lot among the Levites fell to the clans of the Kohathites, the descendants of Aaron the priest obtained by lot from the tribes of Judah, Simeon, and Benjamin, thirteen cities. ^joshua-21-4
 
@@ -38,7 +36,7 @@ url: https://bible.usccb.org/bible/joshua/21
 
 7 From the tribes of Reuben, Gad, and Zebulun, the clans of the Merarites obtained twelve cities. ^joshua-21-7
 
-8 These cities with their pasture lands the Israelites gave by lot to the Levites, as the L ORD had commanded through Moses. ^joshua-21-8
+8 These cities with their pasture lands the Israelites gave by lot to the Levites, as the LORD had commanded through Moses. ^joshua-21-8
 
 **Cities of the Priests.**
 
@@ -116,11 +114,11 @@ url: https://bible.usccb.org/bible/joshua/21
 
 42 With each and every one of these cities went the pasture lands round about it. ^joshua-21-42
 
-43 And so the L ORD gave Israel the entire land he had sworn to their ancestors he would give them. Once they had taken possession of it, and dwelt in it, ^joshua-21-43
+43 And so the LORD gave Israel the entire land he had sworn to their ancestors he would give them. Once they had taken possession of it, and dwelt in it, ^joshua-21-43
 
-44 the L ORD gave them peace on every side, just as he had promised their ancestors. Not one of their enemies could withstand them; the L ORD gave all their enemies into their power. ^joshua-21-44
+44 the LORD gave them peace on every side, just as he had promised their ancestors. Not one of their enemies could withstand them; the LORD gave all their enemies into their power. ^joshua-21-44
 
-45 Not a single word of the blessing that the L ORD had promised to the house of Israel failed; it all came true. ^joshua-21-45
+45 Not a single word of the blessing that the LORD had promised to the house of Israel failed; it all came true. ^joshua-21-45
 
 \* (21:1) The order to establish special cities for the Levites is given in [Nm 35:1] – [8]. The forty-eight cities listed here were hardly the exclusive possession of the Levites; at least the more important of them, such as Hebron, Shechem, and Ramoth in Gilead, were certainly peopled for the most part by the tribe in whose territory they were situated. But in all these cities the Levites had special property rights which they did not possess in other cities; cf. [Lv 25:32] – [34].
 

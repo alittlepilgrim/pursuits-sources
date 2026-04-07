@@ -1,25 +1,24 @@
 ---
-title: Romans, Chapter 9
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: romans-chapter 9
+title: Romans, Chapter 9
+url: https://bible.usccb.org/bible/romans/9
 aliases:
   - romans-09
   - Romans, Chapter 9
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/romans
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/romans/9
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: romans-chapter 9
 ---
 
 # Romans, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Paul’s Love for Israel.**
 

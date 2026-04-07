@@ -1,25 +1,25 @@
 ---
-title: Tobit, The Book of Tobit
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: tobit-the book of tobit
+title: Tobit, The Book of Tobit
+url: https://bible.usccb.org/bible/tobit/0
 aliases:
   - tobit-00
   - Tobit, the Book of Tobit
   - Tobit, The Book of Tobit
 tags:
+  - bible/book
+  - bible/old-testament
   - bible/tobit
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/tobit/0
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: tobit-the book of tobit
 ---
 
 # Tobit, the Book of Tobit
 
-              
+[Introduction](tobit-00.md) [1](tobit-01.md) [2](tobit-02.md) [3](tobit-03.md) [4](tobit-04.md) [5](tobit-05.md) [6](tobit-06.md) [7](tobit-07.md) [8](tobit-08.md) [9](tobit-09.md) [10](tobit-10.md) [11](tobit-11.md) [12](tobit-12.md) [13](tobit-13.md) [14](tobit-14.md)
 
 ## The Book of Tobit
 
@@ -27,7 +27,7 @@ The Book of Tobit, named after its principal character, combines Jewish piety an
 
 Tobit, a devout and wealthy Israelite living among the captives deported to Nineveh from the Northern Kingdom of Israel in 722/721 B.C., suffers severe reverses and is finally blinded. Because of his misfortunes he begs the Lord to let him die. But recalling the large sum he had formerly deposited in far-off Media, he sends his son Tobiah there to bring back the money. In Media, at this same time, a young woman, Sarah, also prays for death, because she has lost seven husbands, each killed in turn on his wedding night by the demon Asmodeus. God hears the prayers of Tobit and Sarah and sends the angel Raphael in human form to aid them both.
 
-Raphael makes the trip to Media with Tobiah. When Tobiah is attacked by a large fish as he bathes in the Tigris River, Raphael orders him to seize it and to remove its gall, heart, and liver because they are useful for medicine. Later, at Raphael’s urging, Tobiah marries Sarah, and uses the fish’s heart and liver to drive Asmodeus from the bridal chamber. Returning to Nineveh with his wife and his father’s money, Tobiah rubs the fish’s gall into his father’s eyes and cures him. Finally, Raphael reveals his true identity and returns to heaven. Tobit then utters his beautiful hymn of praise. Before dying, Tobit tells his son to leave Nineveh because God will destroy that wicked city. After Tobiah buries his father and mother, he and his family depart for Media, where he later learns that the destruction of Nineveh has taken place.
+Raphael makes the trip to Media with Tobiah. When Tobiah is attacked by a large fish as he bathes in the Tigris River, RaphaeLORDers him to seize it and to remove its gall, heart, and liver because they are useful for medicine. Later, at Raphael’s urging, Tobiah marries Sarah, and uses the fish’s heart and liver to drive Asmodeus from the bridal chamber. Returning to Nineveh with his wife and his father’s money, Tobiah rubs the fish’s gall into his father’s eyes and cures him. Finally, Raphael reveals his true identity and returns to heaven. Tobit then utters his beautiful hymn of praise. Before dying, Tobit tells his son to leave Nineveh because God will destroy that wicked city. After Tobiah buries his father and mother, he and his family depart for Media, where he later learns that the destruction of Nineveh has taken place.
 
 The inspired author of the book used the literary form of religious novel (as in Esther and Judith) for the purpose of instruction and edification. The seemingly historical data, names of kings, cities, etc., are used as vivid details not only to create interest and charm, but also to illustrate the negative side of the theory of retribution: the wicked are indeed punished.
 

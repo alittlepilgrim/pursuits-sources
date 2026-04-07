@@ -1,25 +1,24 @@
 ---
-title: Luke, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Luke, Chapter 14
+title: Luke, Chapter 14
+url: https://bible.usccb.org/bible/luke/14
 aliases:
   - luke-14
   - Luke, Chapter 14
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/14
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 14
 ---
 
 # Luke, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Healing of the Man with Dropsy on the Sabbath.**
 

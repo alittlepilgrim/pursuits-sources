@@ -1,17 +1,17 @@
 ---
-title: Theresian Anniversaires 2025 - Text 8 Yellow Notebook, 6th/ 7th/12th August 1897
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2025 - Text 8 Yellow Notebook, 6th/ 7th/12th August 1897
+author: OCD General Curia
+url: https://www.carmelitaniscalzi.com/wp-content/uploads/2025/06/EN_Scheda-8-2025.pdf
 aliases:
   - Text 8 Yellow Notebook, 6th/ 7th/12th August 1897
   - Theresian Anniversaires 2025 - Text 8 Yellow Notebook, 6th/ 7th/12th August 1897
   - Theresian Anniversaries 2025 Text 8
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
-url: https://www.carmelitaniscalzi.com/wp-content/uploads/2025/06/EN_Scheda-8-2025.pdf
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2025 - Text 8 Yellow Notebook, 6th/ 7th/12th August 1897

@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 29
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 29
+title: 1 Samuel, Chapter 29
+url: https://bible.usccb.org/bible/1samuel/29
 aliases:
   - 1 Samuel, Chapter 29
   - 1-samuel-29
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/29
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 29
 ---
 
 # 1 Samuel, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
 **David’s Aid Rejected.**
 
@@ -37,7 +36,7 @@ url: https://bible.usccb.org/bible/1samuel/29
 
 David his tens of thousands’?”
 
-6 So Achish summoned David and said to him: “As the L ORD lives, you are honest, and I would want you with me in all my battles. To this day I have found nothing wrong with you since you came to me. But in the view of the chiefs you are not welcome. ^1-samuel-29-6
+6 So Achish summoned David and said to him: “As the LORD lives, you are honest, and I would want you with me in all my battles. To this day I have found nothing wrong with you since you came to me. But in the view of the chiefs you are not welcome. ^1-samuel-29-6
 
 7 Leave peacefully, now, and do nothing that might displease the Philistine chiefs.” ^1-samuel-29-7
 

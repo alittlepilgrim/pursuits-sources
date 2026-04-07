@@ -1,33 +1,32 @@
 ---
-title: Jeremiah, Chapter 52
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 52
+title: Jeremiah, Chapter 52
+url: https://bible.usccb.org/bible/jeremiah/52
 aliases:
   - jeremiah-52
   - Jeremiah, Chapter 52
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/52
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 52
 ---
 
 # Jeremiah, Chapter 52
 
-### Chapter 52
+## Chapter 52
 
 **Capture of Jerusalem.**
 
 1 Zedekiah was twenty-one years old when he became king; he reigned eleven years in Jerusalem. His mother’s name was Hamutal, daughter of Jeremiah from Libnah. ^jeremiah-52-1
 
-2 He did what was evil in the sight of the L ORD, just as Jehoiakim had done. ^jeremiah-52-2
+2 He did what was evil in the sight of the LORD, just as Jehoiakim had done. ^jeremiah-52-2
 
-3 Indeed, the things done in Jerusalem and in Judah so angered the L ORD that he cast them out from his presence. Thus Zedekiah rebelled against the king of Babylon. ^jeremiah-52-3
+3 Indeed, the things done in Jerusalem and in Judah so angered the LORD that he cast them out from his presence. Thus Zedekiah rebelled against the king of Babylon. ^jeremiah-52-3
 
 4 In the tenth month of the ninth year of his reign, on the tenth day of the month, Nebuchadnezzar, king of Babylon, and his entire army advanced against Jerusalem, encamped around it, and built siege walls on every side. ^jeremiah-52-4
 
@@ -49,7 +48,7 @@ url: https://bible.usccb.org/bible/jeremiah/52
 
 12 On the tenth day of the fifth month, this was in the nineteenth year of Nebuchadnezzar, king of Babylon, Nebuzaradan, captain of the bodyguard, came to Jerusalem as the representative of the king of Babylon. ^jeremiah-52-12
 
-13 He burned the house of the L ORD, the palace of the king, and all the houses of Jerusalem; every large building he destroyed with fire. ^jeremiah-52-13
+13 He burned the house of the LORD, the palace of the king, and all the houses of Jerusalem; every large building he destroyed with fire. ^jeremiah-52-13
 
 14 Then the Chaldean troops with the captain of the guard tore down all the walls that surrounded Jerusalem. ^jeremiah-52-14
 
@@ -57,13 +56,13 @@ url: https://bible.usccb.org/bible/jeremiah/52
 
 16 But Nebuzaradan, captain of the guard, left behind some of the country’s poor as vinedressers and farmers. ^jeremiah-52-16
 
-17 The bronze pillars that belonged to the house of the L ORD, and the wheeled carts and the bronze sea in the house of the L ORD, the Chaldeans broke into pieces; they carried away all the bronze to Babylon. ^jeremiah-52-17
+17 The bronze pillars that belonged to the house of the LORD, and the wheeled carts and the bronze sea in the house of the LORD, the Chaldeans broke into pieces; they carried away all the bronze to Babylon. ^jeremiah-52-17
 
 18 They also took the pots, shovels, snuffers, bowls, pans, and all the bronze vessels used for service; ^jeremiah-52-18
 
 19 the basins, fire holders, bowls, pots, lampstands, pans, the sacrificial bowls made of gold or silver. Along with these furnishings the captain of the guard carried off ^jeremiah-52-19
 
-20 the two pillars, the one sea and its base of twelve oxen cast in bronze, and the wheeled carts King Solomon had commissioned for the house of the L ORD. The bronze from all these furnishings was impossible to weigh. ^jeremiah-52-20
+20 the two pillars, the one sea and its base of twelve oxen cast in bronze, and the wheeled carts King Solomon had commissioned for the house of the LORD. The bronze from all these furnishings was impossible to weigh. ^jeremiah-52-20
 
 21 As for the pillars, each of them was eighteen cubits high and twelve cubits in diameter; each was four fingers thick and hollow inside. ^jeremiah-52-21
 

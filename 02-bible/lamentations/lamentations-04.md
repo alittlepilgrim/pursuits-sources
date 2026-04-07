@@ -1,27 +1,26 @@
 ---
-title: Lamentations, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Lamentations, Chapter 4
+title: Lamentations, Chapter 4
+url: https://bible.usccb.org/bible/lamentations/4
 aliases:
   - lamentations-04
   - Lamentations, Chapter 4
 tags:
+  - bible/chapter
   - bible/lamentations
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/lamentations/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Lamentations, Chapter 4
 ---
 
 # Lamentations, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
-#### Miseries of the Besieged City
+### Miseries of the Besieged City
 
 1 How the gold has lost its luster, ^lamentations-04-1
 
@@ -103,7 +102,7 @@ They became their food
 
 when the daughter of my people was shattered.
 
-11 The L ORD has exhausted his anger, ^lamentations-04-11
+11 The LORD has exhausted his anger, ^lamentations-04-11
 
 poured out his blazing wrath;
 
@@ -145,7 +144,7 @@ it would be said among the nations,
 
 “They can no longer live here!
 
-16 The presence of the L ORD was their portion, ^lamentations-04-16
+16 The presence of the LORD was their portion, ^lamentations-04-16
 
 but he no longer looks upon them.
 
@@ -177,7 +176,7 @@ In the mountains they were hot on our trail,
 
 they ambushed us in the wilderness.
 
-20 The L ORD’s anointed—our very lifebreath!— ^lamentations-04-20
+20 The LORD’s anointed—our very lifebreath!— ^lamentations-04-20
 
 was caught in their snares,
 

@@ -1,25 +1,24 @@
 ---
-title: Luke, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Luke, Chapter 20
+title: Luke, Chapter 20
+url: https://bible.usccb.org/bible/luke/20
 aliases:
   - luke-20
   - Luke, Chapter 20
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/20
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 20
 ---
 
 # Luke, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **The Authority of Jesus Questioned.**
 

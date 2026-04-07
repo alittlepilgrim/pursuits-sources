@@ -1,25 +1,24 @@
 ---
-title: Numbers, Chapter 25
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 25
+title: Numbers, Chapter 25
+url: https://bible.usccb.org/bible/numbers/25
 aliases:
   - numbers-25
   - Numbers, Chapter 25
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/25
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 25
 ---
 
 # Numbers, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 **Worship of Baal of Peor.**
 
@@ -27,9 +26,9 @@ url: https://bible.usccb.org/bible/numbers/25
 
 2 These then invited the people to the sacrifices of their god, and the people ate of the sacrifices and bowed down to their god. ^numbers-25-2
 
-3 Israel thereby attached itself to the Baal of Peor, and the L ORD’s anger flared up against Israel. ^numbers-25-3
+3 Israel thereby attached itself to the Baal of Peor, and the LORD’s anger flared up against Israel. ^numbers-25-3
 
-4 The L ORD said to Moses: Gather all the leaders of the people, and publicly execute them before the L ORD, that the blazing wrath of the L ORD may turn away from Israel. ^numbers-25-4
+4 The LORD said to Moses: Gather all the leaders of the people, and publicly execute them before the LORD, that the blazing wrath of the LORD may turn away from Israel. ^numbers-25-4
 
 5 So Moses told the Israelite judges, “Each of you kill those of his men who have attached themselves to the Baal of Peor.” ^numbers-25-5
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/numbers/25
 
 9 but the dead from the plague were twenty-four thousand. ^numbers-25-9
 
-10 Then the L ORD said to Moses: ^numbers-25-10
+10 Then the LORD said to Moses: ^numbers-25-10
 
 11 Phinehas, son of Eleazar, son of Aaron the priest, has turned my anger from the Israelites by his being as jealous among them as I am; that is why I did not put an end to the Israelites in my jealousy. ^numbers-25-11
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/numbers/25
 
 **Vengeance on the Midianites.**
 
-16 The L ORD then said to Moses: ^numbers-25-16
+16 The LORD then said to Moses: ^numbers-25-16
 
 17 Treat the Midianites as enemies and strike them, ^numbers-25-17
 

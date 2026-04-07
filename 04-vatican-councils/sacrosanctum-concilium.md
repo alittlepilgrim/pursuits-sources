@@ -1,23 +1,22 @@
 ---
-title: Sacrosanctum Concilium
-created: 2025-08-22
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Constitution on the Sacred Liturgy - Sacrosanctum Concilium
+title: Sacrosanctum Concilium
+author: Catholic Church
+source: vatican.va
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html
 aliases:
   - 20250822-140445
   - Sacrosanctum Concilium
   - sacrosanctum-concilium
 tags:
+  - graph/bible-v2
   - vatican/constitutions
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-08-22
+modified: 2026-04-04
+publish: true
+description: Constitution on the Sacred Liturgy - Sacrosanctum Concilium
 abbreviation: sc
-author: Catholic Church
-internal_note: You can link to any SC footnote using ^sc-fn-N with N equal to the printed note number.
-source: vatican.va
-url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html
 ---
 
 CONSTITUTION
@@ -34,7 +33,7 @@ POPE PAUL VI
 
 ON DECEMBER 4, 1963
 
-## Introduction
+# Introduction
 
 1\. This sacred Council has several aims in view: it desires to impart an ever increasing vigor to the Christian life of the faithful; to adapt more suitably to the needs of our own times those institutions which are subject to change; to foster whatever can promote union among all who believe in Christ; to strengthen whatever can help to call the whole of mankind into the household of the Church. The Council therefore sees particularly cogent reasons for undertaking the reform and promotion of the liturgy. ^sc-1
 
@@ -46,11 +45,11 @@ Among these principles and norms there are some which can and should be applied 
 
 4\. Lastly, in faithful obedience to tradition, the sacred Council declares that holy Mother Church holds all lawfully acknowledged rites to be of equal right and dignity; that she wishes to preserve them in the future and to foster them in every way. The Council also desires that, where necessary, the rites be revised carefully in the light of sound tradition, and that they be given new vigor to meet the circumstances and needs of modern times. ^sc-4
 
-## Chapter I
+# Chapter I
 
-### General Principles for the Restoration and Promotion of the Sacred Liturgy
+## General Principles for the Restoration and Promotion of the Sacred Liturgy
 
-### 1\. The Nature of the Sacred Liturgy and Its Importance in the Church's Life
+## 1\. The Nature of the Sacred Liturgy and Its Importance in the Church's Life
 
 5\. God who "wills that all men be saved and come to the knowledge of the truth" ([[1-timothy-02#^1-timothy-02-4|1 Tim. 2:4)]], "who in many and various ways spoke in times past to the fathers by the prophets" ([[hebrews-01#^hebrews-01-1|Heb. 1:1)]], when the fullness of time had come sent His Son, the Word made flesh, anointed by the Holy Spirit, to preach the the gospel to the poor, to heal the contrite of heart <sup>([[#^sc-fn-8|8]])</sup>, to be a "bodily and spiritual medicine" <sup>([[#^sc-fn-9|9]])</sup>, the Mediator between God and man <sup>([[#^sc-fn-10|10]])</sup>. For His humanity, united with the person of the Word, was the instrument of our salvation. Therefore in Christ "the perfect achievement of our reconciliation came forth, and the fullness of divine worship was given to us" <sup>([[#^sc-fn-11|11]])</sup>. ^sc-5
 
@@ -86,7 +85,7 @@ Devotions proper to individual Churches also have a special dignity if they are 
 
 But these devotions should be so drawn up that they harmonize with the liturgical seasons, accord with the sacred liturgy, are in some fashion derived from it, and lead the people to it, since, in fact, the liturgy by its very nature far surpasses any of them.
 
-### Ii. the Promotion of Liturgical Instruction and Active Participation
+## Ii. the Promotion of Liturgical Instruction and Active Participation
 
 14\. Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy. Such participation by the Christian people as "a chosen race, a royal priesthood, a holy nation, a redeemed people ([[1-peter-02#^1-peter-02-9|1 Pet. 2:9;]] cf. 2:4-5), is their right and duty by reason of their baptism. ^sc-14
 
@@ -106,7 +105,7 @@ Yet it would be futile to entertain any hopes of realizing this unless the pasto
 
 20\. Transmissions of the sacred rites by radio and television shall be done with discretion and dignity, under the leadership and direction of a suitable person appointed for this office by the bishops. This is especially important when the service to be broadcast is the Mass. ^sc-20
 
-### Iii. the Reform of the Sacred Liturgy
+## Iii. the Reform of the Sacred Liturgy
 
 21\. In order that the Christian people may more certainly derive an abundance of graces from the sacred liturgy, holy Mother Church desires to undertake with great care a general restoration of the liturgy itself. For the liturgy is made up of immutable elements divinely instituted, and of elements subject to change. These not only may but ought to be changed with the passage of time if they have suffered from the intrusion of anything out of harmony with the inner nature of the liturgy or have become unsuited to it. ^sc-21
 
@@ -114,7 +113,7 @@ In this restoration, both texts and rites should be drawn up so that they expres
 
 Wherefore the sacred Council establishes the following general norms:
 
-### A) General Norms
+## A) General Norms
 
 22\. 1. Regulation of the sacred liturgy depends solely on the authority of the Church, that is, on the Apostolic See and, as laws may determine, on the bishop. ^sc-22
 
@@ -130,7 +129,7 @@ As far as possible, notable differences between the rites used in adjacent regio
 
 25\. The liturgical books are to be revised as soon as possible; experts are to be employed on the task, and bishops are to be consulted, from various parts of the world. ^sc-25
 
-### B) Norms Drawn from the Hierarchic and Communal Nature of the Liturgy
+## B) Norms Drawn from the Hierarchic and Communal Nature of the Liturgy
 
 26\. Liturgical services are not private functions, but are celebrations of the Church, which is the "sacrament of unity," namely, the holy people united and ordered under their bishops [#^sc-fn-33] ^sc-26
 
@@ -152,7 +151,7 @@ Consequently they must all be deeply imbued with the spirit of the liturgy, each
 
 32\. The liturgy makes distinctions between persons according to their liturgical function and sacred Orders, and there are liturgical laws providing for due honors to be given to civil authorities. Apart from these instances, no special honors are to be paid in the liturgy to any private persons or classes of persons, whether in the ceremonies or by external display. ^sc-32
 
-### C) Norms Based upon the Didactic and Pastoral Nature of the Liturgy
+## C) Norms Based upon the Didactic and Pastoral Nature of the Liturgy
 
 33\. Although the sacred liturgy is above all things the worship of the divine Majesty, it likewise contains much instruction for the faithful [#^sc-fn-34]. For in the liturgy God speaks to His people and Christ is still proclaiming His gospel. And the people reply to God both by song and prayer. ^sc-33
 
@@ -180,7 +179,7 @@ Wherefore, in the revision of the liturgy, the following general norms should be
 
 4\. Translations from the Latin text into the mother tongue intended for use in the liturgy must be approved by the competent territorial ecclesiastical authority mentioned above. ^sc-4
 
-### D) Norms for Adapting the Liturgy to the Culture and Traditions of Peoples
+## D) Norms for Adapting the Liturgy to the Culture and Traditions of Peoples
 
 37\. Even in the liturgy, the Church has no wish to impose a rigid uniformity in matters which do not implicate the faith or the good of the whole community; rather does she respect and foster the genius and talents of the various races and peoples. Anything in these peoples' way of life which is not indissolubly bound up with superstition and error she studies with sympathy and, if possible, preserves intact. Sometimes in fact she admits such things into the liturgy itself, so long as they harmonize with its true and authentic spirit. ^sc-37
 
@@ -196,7 +195,7 @@ Wherefore, in the revision of the liturgy, the following general norms should be
 
 3) Because liturgical laws often involve special difficulties with respect to adaptation, particularly in mission lands, men who are experts in these matters must be employed to formulate them.
 
-### E) Promotion of Liturgical Life in Diocese and Parish
+## E) Promotion of Liturgical Life in Diocese and Parish
 
 41\. The bishop is to be considered as the high priest of his flock, from whom the life in Christ of his faithful is in some way derived and dependent. ^sc-41
 
@@ -206,7 +205,7 @@ Therefore all should hold in great esteem the liturgical life of the diocese cen
 
 And therefore the liturgical life of the parish and its relationship to the bishop must be fostered theoretically and practically among the faithful and clergy; efforts also must be made to encourage a sense of community within the parish, above all in the common celebration of the Sunday Mass.
 
-### F) The Promotion of Pastoral-liturgical Action
+## F) The Promotion of Pastoral-liturgical Action
 
 43\. Zeal for the promotion and restoration of the liturgy is rightly held to be a sign of the providential dispositions of God in our time, as a movement of the Holy Spirit in His Church. It is today a distinguishing mark of the Church's life, indeed of the whole tenor of contemporary religious thought and action. ^sc-43
 
@@ -222,9 +221,9 @@ Sometimes it may be expedient that several dioceses should form between them one
 
 These three commissions must work in closest collaboration; indeed it will often be best to fuse the three of them into one single commission.
 
-## Chapter Ii
+# Chapter Ii
 
-### The Most Sacred Mystery of the Eucharist
+## The Most Sacred Mystery of the Eucharist
 
 47\. At the Last Supper, on the night when He was betrayed, our Saviour instituted the eucharistic sacrifice of His Body and Blood. He did this in order to perpetuate the sacrifice of the Cross throughout the centuries until He should come again, and so to entrust to His beloved spouse, the Church, a memorial of His death and resurrection: a sacrament of love, a sign of unity, a bond of charity [#^sc-fn-36], a paschal banquet in which Christ is eaten, the mind is filled with grace, and a pledge of future glory is given to us [#^sc-fn-37]. ^sc-47
 
@@ -274,9 +273,9 @@ b) at Masses celebrated at any kind of priests' meetings, whether the priests be
 
 58\. A new rite for concelebration is to be drawn up and inserted into the Pontifical and into the Roman Missal. ^sc-58
 
-## Chapter Iii
+# Chapter Iii
 
-### The Other Sacraments and the Sacramentals
+## The Other Sacraments and the Sacramentals
 
 59\. The purpose of the sacraments is to sanctify men, to build up the body of Christ, and, finally, to give worship to God; because they are signs they also instruct. They not only presuppose faith, but by words and objects they also nourish, strengthen, and express it; that is why they are called "sacraments of faith." They do indeed impart grace, but, in addition, the very act of celebrating them most effectively disposes the faithful to receive this grace in a fruitful manner, to worship God duly, and to practice charity. ^sc-59
 
@@ -352,9 +351,9 @@ Religious profession should preferably be made within the Mass.
 
 82\. The rite for the burial of infants is to be revised, and a special Mass for the occasion should be provided. ^sc-82
 
-## Chapter Iv
+# Chapter Iv
 
-### The Divine Office
+## The Divine Office
 
 83\. Christ Jesus, high priest of the new and eternal covenant, taking human nature, introduced into this earthly exile that hymn which is sung throughout all ages in the halls of heaven. He joins the entire community of mankind to Himself, associating it with His own singing of this canticle of divine praise. ^sc-83
 
@@ -432,9 +431,9 @@ It is, moreover, fitting that the office, both in choir and in common, be sung w
 
 3\. Any cleric bound to the divine office fulfills his obligation if he prays the office in the vernacular together with a group of the faithful or with those mentioned in 52 above provided that the text of the translation is approved. ^sc-3
 
-## Chapter V
+# Chapter V
 
-### The Liturgical Year
+## The Liturgical Year
 
 102\. Holy Mother Church is conscious that she must celebrate the saving work of her divine Spouse by devoutly recalling it on certain days throughout the course of the year. Every week, on the day which she has called the Lord's day, she keeps the memory of the Lord's resurrection, which she also celebrates once in the year, together with His blessed passion, in the most solemn festival of Easter. ^sc-102
 
@@ -470,9 +469,9 @@ Nevertheless, let the paschal fast be kept sacred. Let it be celebrated everywhe
 
 Lest the feasts of the saints should take precedence over the feasts which commemorate the very mysteries of salvation, many of them should be left to be celebrated by a particular Church or nation or family of religious; only those should be extended to the universal Church which commemorate saints who are truly of universal importance.
 
-## Chapter Vi
+# Chapter Vi
 
-### Sacred Music
+## Sacred Music
 
 112\. The musical tradition of the universal Church is a treasure of inestimable value, greater even than that of any other art. The main reason for this pre-eminence is that, as sacred song united to the words, it forms a necessary or integral part of the solemn liturgy. ^sc-112
 
@@ -518,9 +517,9 @@ Let them produce compositions which have the qualities proper to genuine sacred 
 
 The texts intended to be sung must always be in conformity with Catholic doctrine; indeed they should be drawn chiefly from holy scripture and from liturgical sources.
 
-## Chapter Vii
+# Chapter Vii
 
-### Sacred Art and Sacred Furnishings
+## Sacred Art and Sacred Furnishings
 
 122\. Very rightly the fine arts are considered to rank among the noblest activities of man's genius, and this applies especially to religious art and to its highest achievement, which is sacred art. These arts, by their very nature, are oriented toward the infinite beauty of God which they attempt in some way to portray by the work of human hands; they achieve their purpose of redounding to God's praise and glory in proportion as they are directed the more exclusively to the single aim of turning men's minds devoutly toward God. ^sc-122
 
@@ -560,7 +559,7 @@ According to the norm of Art. 22 of this Constitution, the territorial bodies of
 
 ---
 
-## Appendix
+# Appendix
 
 ***A DECLARATION OF THE SECOND ECUMENICAL COUNCIL OF THE VATICAN ON REVISION OF THE CALENDAR***
 
@@ -574,7 +573,7 @@ But among the various systems which are being suggested to stabilize a perpetual
 
 ---
 
-## Notes
+# Notes
 
 1\. Secret of the ninth Sunday after Pentecost. ^sc-fn-1
 

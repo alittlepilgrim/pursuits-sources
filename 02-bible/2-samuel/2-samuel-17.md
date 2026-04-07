@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 17
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 17
+title: 2 Samuel, Chapter 17
+url: https://bible.usccb.org/bible/2samuel/17
 aliases:
   - 2 Samuel, Chapter 17
   - 2-samuel-17
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/17
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 17
 ---
 
 # 2 Samuel, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
 1 Ahithophel went on to say to Absalom: “Let me choose twelve thousand men and be off in pursuit of David tonight. ^2-samuel-17-1
 
@@ -49,7 +48,7 @@ url: https://bible.usccb.org/bible/2samuel/17
 
 13 And if he retires into a city, all Israel shall bring ropes to that city and we can drag it into the gorge, so that not even a pebble of it can be found.” ^2-samuel-17-13
 
-14 Then Absalom and all the Israelites said, “The counsel of Hushai the Archite is better than the counsel of Ahithophel.” For the L ORD had commanded that Ahithophel’s good counsel should be thwarted, so that he might bring Absalom to ruin. ^2-samuel-17-14
+14 Then Absalom and all the Israelites said, “The counsel of Hushai the Archite is better than the counsel of Ahithophel.” For the LORD had commanded that Ahithophel’s good counsel should be thwarted, so that he might bring Absalom to ruin. ^2-samuel-17-14
 
 **David Told of the Plan.**
 

@@ -1,29 +1,28 @@
 ---
-title: Proverbs, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 6
+title: Proverbs, Chapter 6
+url: https://bible.usccb.org/bible/proverbs/6
 aliases:
   - proverbs-06
   - Proverbs, Chapter 6
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/6
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 6
 ---
 
 # Proverbs, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
-#### Miscellaneous Proverbs
+### Miscellaneous Proverbs
 
-##### Against Going Surety for One’s Neighbor
+#### Against Going Surety for One’s Neighbor
 
 1 My son, if you have become surety to your neighbor, ^proverbs-06-1
 
@@ -47,7 +46,7 @@ nor slumber to your eyelids;
 
 or like a bird from the hand of the fowler.
 
-##### The Ant and the Sluggard at Harvest
+#### The Ant and the Sluggard at Harvest
 
 6 Go to the ant, O sluggard, ^proverbs-06-6
 
@@ -73,7 +72,7 @@ a little folding of the arms to rest—
 
 and want like a brigand.
 
-##### The Scoundrel
+#### The Scoundrel
 
 12 Scoundrels, villains, are they ^proverbs-06-12
 
@@ -95,9 +94,9 @@ sowing discord.
 
 in an instant they are crushed beyond cure.
 
-##### What the Lord Rejects
+#### What the Lord Rejects
 
-16 There are six things the L ORD hates, ^proverbs-06-16
+16 There are six things the LORD hates, ^proverbs-06-16
 
 yes, seven are an abomination to him;
 
@@ -113,7 +112,7 @@ feet that are quick to run to evil,
 
 and the one who sows discord among kindred.
 
-##### Warning Against [[adultery]]
+#### Warning Against [[adultery]]
 
 20 Observe, my son, your father’s command, ^proverbs-06-20
 

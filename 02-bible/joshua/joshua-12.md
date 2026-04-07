@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 12
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 12
+title: Joshua, Chapter 12
+url: https://bible.usccb.org/bible/joshua/12
 aliases:
   - joshua-12
   - Joshua, Chapter 12
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/12
-testament: old
-url: https://bible.usccb.org/bible/joshua/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 12
 ---
 
 # Joshua, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **Lists of Conquered Kings.**
 
@@ -34,7 +32,7 @@ url: https://bible.usccb.org/bible/joshua/12
 
 5 He ruled over Mount Hermon, Salecah, and all Bashan as far as the boundary of the Geshurites and Maacathites, and over half of Gilead as far as the territory of Sihon, king of Heshbon. ^joshua-12-5
 
-6 It was Moses, the servant of the L ORD, and the Israelites who conquered them; Moses, the servant of the L ORD, gave possession of their land to the Reubenites, the Gadites, and the half-tribe of Manasseh. ^joshua-12-6
+6 It was Moses, the servant of the LORD, and the Israelites who conquered them; Moses, the servant of the LORD, gave possession of their land to the Reubenites, the Gadites, and the half-tribe of Manasseh. ^joshua-12-6
 
 7 This is a list of the kings of the land whom Joshua and the Israelites conquered west of the Jordan, from Baal-gad in the Lebanon valley to Mount Halak which rises toward Seir; Joshua apportioned their land and gave possession of it to the tribes of Israel; ^joshua-12-7
 

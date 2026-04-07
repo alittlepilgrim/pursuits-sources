@@ -1,12 +1,14 @@
 ---
-title: Appendix - OCDS Ongoing Formation Volume II
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Appendix - OCDS Ongoing Formation Volume II
+author: Secular Order of Discalced Carmelites
 aliases:
   - Appendix
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
 # Appendix - OCDS Ongoing Formation Volume II
@@ -85,7 +87,7 @@ Mt. 5:14
 
 p.129
 
-### Task Force Completion and Appreciation
+## Task Force Completion and Appreciation
 
 “In Him we live, and move, and have our being” (Acts 17:28).
 
@@ -109,7 +111,7 @@ The members of the US Formation Task Force California-Arizona Province of St. Jo
 
 p.130
 
-### Copyright Notice
+## Copyright Notice
 
 OCDS Provinces, Communities, and Groups are granted permission to print/copy the Formation Program solely for OCDS non-commercial use. Reproduction and/or distribution of the formation program for commercial purposes with the intent to make a profit is strictly prohibited. This includes selling booklets at fundraising events.
 

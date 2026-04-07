@@ -1,25 +1,24 @@
 ---
-title: Numbers, Chapter 27
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 27
+title: Numbers, Chapter 27
+url: https://bible.usccb.org/bible/numbers/27
 aliases:
   - numbers-27
   - Numbers, Chapter 27
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/27
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 27
 ---
 
 # Numbers, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 **Zelophehad’s Daughters.**
 
@@ -27,15 +26,15 @@ url: https://bible.usccb.org/bible/numbers/27
 
 2 Standing before Moses, Eleazar the priest, the princes, and the whole community at the entrance of the tent of meeting, they said: ^numbers-27-2
 
-3 “Our father died in the wilderness. Although he did not join the faction of those who conspired against the L ORD, Korah’s faction, he died for his own sin without leaving any sons. ^numbers-27-3
+3 “Our father died in the wilderness. Although he did not join the faction of those who conspired against the LORD, Korah’s faction, he died for his own sin without leaving any sons. ^numbers-27-3
 
 4 But why should our father’s name be cut off from his clan merely because he had no son? Give us land among our father’s kindred.” ^numbers-27-4
 
 **Laws Concerning Heiresses.**
 
-5 So Moses laid their case before the L ORD, ^numbers-27-5
+5 So Moses laid their case before the LORD, ^numbers-27-5
 
-6 and the L ORD said to him: ^numbers-27-6
+6 and the LORD said to him: ^numbers-27-6
 
 7 The plea of Zelophehad’s daughters is just; you shall give them hereditary land among their father’s kindred and transfer their father’s heritage to them. ^numbers-27-7
 
@@ -47,35 +46,35 @@ url: https://bible.usccb.org/bible/numbers/27
 
 11 if his father had no brothers, you shall give his heritage to his nearest relative in his clan, who shall then take possession of it. ^numbers-27-11
 
-This will be the statutory procedure for the Israelites, as the L ORD commanded Moses.
+This will be the statutory procedure for the Israelites, as the LORD commanded Moses.
 
 **Joshua to Succeed Moses.**
 
-12 The L ORD said to Moses: Go up into this mountain of the Abarim range and view the land that I have given to the Israelites. ^numbers-27-12
+12 The LORD said to Moses: Go up into this mountain of the Abarim range and view the land that I have given to the Israelites. ^numbers-27-12
 
 13 When you have viewed it, you will be gathered to your people, as was Aaron your brother. ^numbers-27-13
 
 14 For in the rebellion of the community in the wilderness of Zin you both rebelled against my order to acknowledge my holiness before them by means of the water. (These were the waters of Meribah of Kadesh in the wilderness of Zin.) ^numbers-27-14
 
-15 Then Moses said to the L ORD, ^numbers-27-15
+15 Then Moses said to the LORD, ^numbers-27-15
 
-16 “May the L ORD, the God of the spirits of all humanity, set over the community someone ^numbers-27-16
+16 “May the LORD, the God of the spirits of all humanity, set over the community someone ^numbers-27-16
 
-17 who will be their leader in battle and who will lead them out and bring them in, that the L ORD’s community may not be like sheep without a shepherd.” ^numbers-27-17
+17 who will be their leader in battle and who will lead them out and bring them in, that the LORD’s community may not be like sheep without a shepherd.” ^numbers-27-17
 
-18 And the L ORD replied to Moses: Take Joshua, son of Nun, a man of spirit, and lay your hand upon him. ^numbers-27-18
+18 And the LORD replied to Moses: Take Joshua, son of Nun, a man of spirit, and lay your hand upon him. ^numbers-27-18
 
 19 Have him stand before Eleazar the priest and the whole community, and commission him in their sight. ^numbers-27-19
 
 20 Invest him with some of your own power, that the whole Israelite community may obey him. ^numbers-27-20
 
-21 He shall present himself to Eleazar the priest, who will seek for him the decision of the Urim in the L ORD’s presence; and as it directs, Joshua, all the Israelites with him, and the whole community will go out for battle; and as it directs, they will come in. ^numbers-27-21
+21 He shall present himself to Eleazar the priest, who will seek for him the decision of the Urim in the LORD’s presence; and as it directs, Joshua, all the Israelites with him, and the whole community will go out for battle; and as it directs, they will come in. ^numbers-27-21
 
-22 Moses did as the L ORD had commanded him. Taking Joshua and having him stand before Eleazar the priest and the whole community, ^numbers-27-22
+22 Moses did as the LORD had commanded him. Taking Joshua and having him stand before Eleazar the priest and the whole community, ^numbers-27-22
 
-23 he laid his hands on him and commissioned him, as the L ORD had directed through Moses. ^numbers-27-23
+23 he laid his hands on him and commissioned him, as the LORD had directed through Moses. ^numbers-27-23
 
-\* (27:3) He did not join…against the L ORD: had he done so, he and his heirs could have been deprived of a portion in the promised land.
+\* (27:3) He did not join…against the LORD: had he done so, he and his heirs could have been deprived of a portion in the promised land.
 
 \* (27:5] – [11) The purpose of this law, as also that of the related laws in [36:2] – [10] (marriage within the same tribe), [Dt 25:5] – [10] (levirate marriage), and [Lv 25:10] (return of property in the jubilee year), was to keep the landed property within the proper domain of each tribe.
 

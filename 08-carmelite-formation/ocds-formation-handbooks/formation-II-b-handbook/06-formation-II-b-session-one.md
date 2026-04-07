@@ -1,12 +1,14 @@
 ---
-title: Session One Preface, General Introduction and Prologue
-created: 2025-10-26
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Session One Preface, General Introduction and Prologue
+author: Secular Order of Discalced Carmelites
 aliases:
   - Session One Preface, General Introduction and Prologue
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-10-26
+modified: 2026-04-06
+publish: false
 ---
 
 # Session One Preface, General Introduction and Prologue

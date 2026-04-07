@@ -1,20 +1,19 @@
 ---
-title: Psalm 61
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 61
+title: Psalm 61
+url: https://bible.usccb.org/bible/psalms/61
 aliases:
   - Psalm 61
   - psalm-61
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/61
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 61
 ---
 
 # Psalm 61

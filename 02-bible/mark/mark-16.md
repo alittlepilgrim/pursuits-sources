@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 16
+title: Mark, Chapter 16
+url: https://bible.usccb.org/bible/mark/16
 aliases:
   - mark-16
   - Mark, Chapter 16
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/16
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 16
 ---
 
 # Mark, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **The Resurrection of Jesus.**
 
@@ -39,7 +38,7 @@ url: https://bible.usccb.org/bible/mark/16
 
 8 Then they went out and fled from the tomb, seized with trembling and bewilderment. They said nothing to anyone, for they were afraid. ^mark-16-8
 
-## The Longer Ending
+# The Longer Ending
 
 **The Appearance to Mary Magdalene.**\[
 
@@ -73,7 +72,7 @@ url: https://bible.usccb.org/bible/mark/16
 
 20 But they went forth and preached everywhere, while the Lord worked with them and confirmed the word through accompanying signs.\] ^mark-16-20
 
-## The Shorter Ending
+# The Shorter Ending
 
 \[And they reported all the instructions briefly to Peter’s companions. Afterwards Jesus himself, through them, sent forth from east to west the sacred and imperishable proclamation of eternal salvation. Amen.\]
 

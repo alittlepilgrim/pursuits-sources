@@ -1,15 +1,17 @@
 ---
-title: Piety
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: piety. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Piety
+author:
 aliases:
   - Piety
   - piety-gift-of
 tags:
   - term/piety
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: piety. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Piety
@@ -20,12 +22,12 @@ One of the seven gifts of the Holy Spirit which leads one to devotion to God ([[
 
 ## Divine Intimacy Meditations
 
-- Infuses the sense of divine sonship and filial piety: 198,1;
-- perfects the virtue of justice: 304,1;
-- inspires the sense of filial piety toward God: 304,1;
-- under its influence prayer becomes more filial: 304,1;
-- it renders contacts with one’s neighbor more brotherly and cordial 304,2;
-- beatitude of mercy corresponds to —: 305,1, 305,2.
-- 198. The Holy Spirit and Prayer
-- 304. The Gift of Piety
-- 305. Blessed Are the Meek
+- Infuses the sense of divine sonship and filial piety: [[198-the-holy-spirit-and-prayer#Meditation 1|198,1]];
+- perfects the virtue of justice: [[304-the-gift-of-piety#Meditation 1|304,1]];
+- inspires the sense of filial piety toward God: [[304-the-gift-of-piety#Meditation 1|304,1]];
+- under its influence prayer becomes more filial: [[304-the-gift-of-piety#Meditation 1|304,1]];
+- it renders contacts with one’s neighbor more brotherly and cordial [[304-the-gift-of-piety#Meditation 2|304,2]];
+- beatitude of mercy corresponds to —: [[305-blessed-are-the-meek#Meditation 1|305,1]], [[305-blessed-are-the-meek#Meditation 2|305,2]].
+- [[198-the-holy-spirit-and-prayer|198. The Holy Spirit and Prayer]]
+- [[304-the-gift-of-piety|304. The Gift of Piety]]
+- [[305-blessed-are-the-meek|305. Blessed Are the Meek]]

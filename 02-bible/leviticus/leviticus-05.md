@@ -1,25 +1,24 @@
 ---
-title: Leviticus, Chapter 5
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 5
+title: Leviticus, Chapter 5
+url: https://bible.usccb.org/bible/leviticus/5
 aliases:
   - leviticus-05
   - Leviticus, Chapter 5
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 5
 ---
 
 # Leviticus, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Special Cases for Purification Offerings.**
 
@@ -33,9 +32,9 @@ url: https://bible.usccb.org/bible/leviticus/5
 
 5 when someone is guilty in regard to any of these matters, that person shall confess the wrong committed, ^leviticus-05-5
 
-6 and make reparation to the L ORD for the wrong committed: a female animal from the flock, a ewe lamb or a she-goat, as a purification offering. Thus the priest shall make atonement on the individual’s behalf for the wrong. ^leviticus-05-6
+6 and make reparation to the LORD for the wrong committed: a female animal from the flock, a ewe lamb or a she-goat, as a purification offering. Thus the priest shall make atonement on the individual’s behalf for the wrong. ^leviticus-05-6
 
-7 If, however, the person cannot afford an animal of the flock, that person shall bring to the L ORD as reparation for the wrong committed two turtledoves or two pigeons, one for a purification offering and the other for a burnt offering. ^leviticus-05-7
+7 If, however, the person cannot afford an animal of the flock, that person shall bring to the LORD as reparation for the wrong committed two turtledoves or two pigeons, one for a purification offering and the other for a burnt offering. ^leviticus-05-7
 
 8 The guilty party shall bring them to the priest, who shall offer the one for the purification offering first. Wringing its head at the neck, yet without breaking it off, ^leviticus-05-8
 
@@ -45,27 +44,27 @@ url: https://bible.usccb.org/bible/leviticus/5
 
 11 If the person is unable to afford even two turtledoves or two pigeons, that person shall bring as an offering for the wrong committed one tenth of an ephah of bran flour for a purification offering. The guilty party shall not put oil or place frankincense on it, because it is a purification offering. ^leviticus-05-11
 
-12 The individual shall bring it to the priest, who shall take a handful as a token of the offering and burn it on the altar with the other oblations for the L ORD. It is a purification offering. ^leviticus-05-12
+12 The individual shall bring it to the priest, who shall take a handful as a token of the offering and burn it on the altar with the other oblations for the LORD. It is a purification offering. ^leviticus-05-12
 
 13 Thus the priest shall make atonement on the person’s behalf for the wrong committed in any of the above cases, so that the individual may be forgiven. The rest of the offering, like the grain offering, shall belong to the priest. ^leviticus-05-13
 
 **Reparation Offerings.**
 
-14 The L ORD said to Moses: ^leviticus-05-14
+14 The LORD said to Moses: ^leviticus-05-14
 
-15 When a person commits sacrilege by inadvertently misusing any of the L ORD’s sacred objects, the wrongdoer shall bring to the L ORD as reparation an unblemished ram from the flock, at the established value in silver shekels according to the sanctuary shekel, as a reparation offering. ^leviticus-05-15
+15 When a person commits sacrilege by inadvertently misusing any of the LORD’s sacred objects, the wrongdoer shall bring to the LORD as reparation an unblemished ram from the flock, at the established value in silver shekels according to the sanctuary shekel, as a reparation offering. ^leviticus-05-15
 
 16 The wrongdoer shall also restore what has been misused of the sacred objects, adding a fifth of its value, and give this to the priest. Thus the priest shall make atonement for the person with the ram of the reparation offering, so that the individual may be forgiven. ^leviticus-05-16
 
-17 If someone does wrong and violates one of the L ORD’s prohibitions without realizing it, that person is guilty and shall bear the penalty. ^leviticus-05-17
+17 If someone does wrong and violates one of the LORD’s prohibitions without realizing it, that person is guilty and shall bear the penalty. ^leviticus-05-17
 
 18 The individual shall bring to the priest an unblemished ram of the flock, at the established value, for a reparation offering. The priest shall then make atonement on the offerer’s behalf for the error inadvertently and unknowingly committed so that the individual may be forgiven. ^leviticus-05-18
 
-19 It is a reparation offering. The individual must make reparation to the L ORD. ^leviticus-05-19
+19 It is a reparation offering. The individual must make reparation to the LORD. ^leviticus-05-19
 
-20 The L ORD said to Moses: ^leviticus-05-20
+20 The LORD said to Moses: ^leviticus-05-20
 
-21 When someone does wrong and commits sacrilege against the L ORD by deceiving a neighbor about a deposit or a pledge or a stolen article, or by otherwise retaining a neighbor’s goods unjustly; ^leviticus-05-21
+21 When someone does wrong and commits sacrilege against the LORD by deceiving a neighbor about a deposit or a pledge or a stolen article, or by otherwise retaining a neighbor’s goods unjustly; ^leviticus-05-21
 
 22 or if, having found a lost article, the person lies about it, swearing falsely about any of the things that a person may do wrong— ^leviticus-05-22
 
@@ -73,9 +72,9 @@ url: https://bible.usccb.org/bible/leviticus/5
 
 24 or whatever else the individual swore falsely about. That person shall make full restitution of the thing itself, and add one fifth of its value to it, giving it to its owner at the time of reparation. ^leviticus-05-24
 
-25 Then that person shall bring to the priest as reparation to the L ORD an unblemished ram of the flock, at the established value, as a reparation offering. ^leviticus-05-25
+25 Then that person shall bring to the priest as reparation to the LORD an unblemished ram of the flock, at the established value, as a reparation offering. ^leviticus-05-25
 
-26 The priest shall make atonement on the person’s behalf before the L ORD, so that the individual may be forgiven for whatever was done to incur guilt. ^leviticus-05-26
+26 The priest shall make atonement on the person’s behalf before the LORD, so that the individual may be forgiven for whatever was done to incur guilt. ^leviticus-05-26
 
 \* (5:1] – [13) This differs from the prescriptions for purification offerings in chap. [4] by listing four specific wrongs for which a purification offering is brought and allowing the substitution of birds and grain offerings in the case of poverty.
 

@@ -1,26 +1,28 @@
 ---
-title: G - Social Doctrine of the Church Analytical Index
-created: 2025-11-12
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: G - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - G - Social Doctrine of the Church Analytical Index
   - sd-10-index-g
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
 ---
 
 # G - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Generation
+## Generation
 
 Present generations and decisive choices, [[sd-02-intro#^csdc-16|16]]
 
@@ -62,7 +64,7 @@ Biotechnology, patrimony and future generations, [[sd-04-part-II#^csdc-477|477]]
 
 The United Nations, future generations and war, 501
 
-### Genocide
+## Genocide
 
 Human rights and genocide, [[sd-03-part-I#^csdc-158|158]]
 
@@ -70,7 +72,7 @@ Minorities and forms of genocide, [[sd-04-part-II#^csdc-387|387]]
 
 The twentieth century and genocide, [[sd-04-part-II#^csdc-506|506]]
 
-### Gift
+## Gift
 
 The perfect gift and God, [[sd-02-intro#^csdc-12|12]]
 
@@ -156,7 +158,7 @@ The gift of tongues, [[sd-05-part-III#^csdc-562|562]]
 
 Charity and a life of self-giving, [[sd-06-conclusion#^csdc-583|583]]
 
-### Global
+## Global
 
 Social doctrine and global vision of man, [[sd-03-part-I#^csdc-81|81]]
 
@@ -188,11 +190,11 @@ The environment and globality of the ecological crisis, [[sd-04-part-II#^csdc-46
 
 Demographic policy and global development, [[sd-04-part-II#^csdc-483|483]]
 
-### Global Community
+## Global Community
 
 - See [[sd-10-index-i#International Community|International Community]]
 
-### Globalization - Globalized
+## Globalization - Globalized
 
 Fundamental questions and globalisation, [[sd-02-intro#^csdc-16|16]]
 
@@ -228,7 +230,7 @@ Politics and the globalisation of problems, [[sd-04-part-II#^csdc-442|442]]
 
 Rethinking the economy and globalisation, [[sd-05-part-III#^csdc-564|564]]
 
-### God
+## God
 
 Social doctrine and the love of God, [[sd-02-intro#^csdc-3|3]]
 
@@ -556,7 +558,7 @@ Love, God and man, [[sd-06-conclusion#^csdc-582|582]]
 
 Love, effectiveness and relation to God, [[sd-06-conclusion#^csdc-583|583]]
 
-### Good - Goodness
+## Good - Goodness
 
 (see Also [[sd-10-index-o#Common Good|Common Good]])
 
@@ -696,7 +698,7 @@ God and the possibility of attaining good, [[sd-06-conclusion#^csdc-578|578]]
 
 Love, an historical force towards good, [[sd-06-conclusion#^csdc-580|580]], [[sd-06-conclusion#^csdc-581|581]]
 
-### Goods
+## Goods
 
 God, conditions of life and necessary goods, [[sd-03-part-I#^csdc-20|20]], [[sd-04-part-II#^csdc-428|428]]
 
@@ -822,7 +824,7 @@ Religious freedom, one of the highest goods, [[sd-05-part-III#^csdc-553|553]]
 
 Hearts and material goods, [[sd-06-conclusion#^csdc-581|581]]
 
-### Gospel
+## Gospel
 
 Third millennium and proclamation of the Gospel, [[sd-02-intro#^csdc-2|2]]
 
@@ -912,7 +914,7 @@ Hope, social commitment and the Gospel, [[sd-06-conclusion#^csdc-579|579]]
 
 Social relations, Christian love and the Gospel, [[sd-06-conclusion#^csdc-581|581]]
 
-### Govern - Government - Governor
+## Govern - Government - Governor
 
 (see Also [[sd-10-index-o#Ruler|Ruler]])
 
@@ -968,7 +970,7 @@ The laity, democracy and the governed, [[sd-05-part-III#^csdc-567|567]]
 
 Autonomy of the State and the government of individual countries, [[sd-05-part-III#^csdc-571|571]]
 
-### Gratuitous - Gratuitousness
+## Gratuitous - Gratuitousness
 
 Gratuitousness and religious experience, [[sd-03-part-I#^csdc-20|20]]
 
@@ -996,7 +998,7 @@ Love and relations of gratuitousness, [[sd-04-part-II#^csdc-221|221]]
 
 The person and the mentality of gratuitousness, [[sd-04-part-II#^csdc-391|391]]
 
-### Groups
+## Groups
 
 The human dimension of relationships and intermediate groups, [[sd-03-part-I#^csdc-61|61]]
 

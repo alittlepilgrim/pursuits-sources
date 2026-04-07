@@ -1,25 +1,24 @@
 ---
-title: Romans, Chapter 3
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: romans-chapter 3
+title: Romans, Chapter 3
+url: https://bible.usccb.org/bible/romans/3
 aliases:
   - romans-03
   - Romans, Chapter 3
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/romans
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/romans/3
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: romans-chapter 3
 ---
 
 # Romans, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Answers to Objections.**
 
@@ -81,7 +80,7 @@ the venom of asps is on their lips;
 
 20 since no human being will be justified in his sight by observing the law; for through the law comes consciousness of sin. ^romans-03-20
 
-## Iii. Justification Through Faith in Christ
+# Iii. Justification Through Faith in Christ
 
 **Justification apart from the Law.**
 

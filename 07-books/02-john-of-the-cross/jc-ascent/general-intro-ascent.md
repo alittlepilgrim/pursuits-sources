@@ -1,24 +1,24 @@
 ---
-title: General Introduction to the Works of St. John of the Cross - The Ascent of Mt. Carmel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: General Introduction to the Works of St. John of the Cross - The Ascent of Mt. Carmel
+title: General Introduction to the Works of St. John of the Cross - The Ascent of Mt. Carmel
+author: Saint John of the Cross
 aliases:
   - General Introduction to the Works of St. John of the Cross - The Ascent of Mt. Carmel
 tags:
-  - author/john-of-the-cross
+  - author/saint-john-of-the-cross
   - book
   - book/ascent-mt-carmel
   - saint/john-of-the-cross
   - type/book
-author: Saint John of the Cross
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: General Introduction to the Works of St. John of the Cross - The Ascent of Mt. Carmel
 ---
 
 # General Introduction to the Works of St. John of the Cross
 
-### I\. Dates and Methods of Composition
+## I\. Dates and Methods of Composition
 
 GENERAL CHARACTERISTICS WITH regard to the times and places at which the works of St. John of the Cross were written, and also with regard to the number of these works, there have existed, from a very early date, considerable differences of opinion. Of internal evidence from the Saint's own writings there is practically none, and such external testimony as can be found in contemporary documents needs very careful examination.
 

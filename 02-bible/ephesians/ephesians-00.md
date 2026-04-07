@@ -1,20 +1,20 @@
 ---
-title: Ephesians, The Letter To The Ephesians
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ephesians, the Letter to the Ephesians
+title: Ephesians, The Letter To The Ephesians
+url: https://bible.usccb.org/bible/ephesians/0
 aliases:
   - ephesians-00
   - Ephesians, the Letter to the Ephesians
   - Ephesians, The Letter To The Ephesians
 tags:
+  - bible/book
   - bible/ephesians
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/ephesians/0
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ephesians, the Letter to the Ephesians
 ---
 
 # Ephesians, the Letter to the Ephesians

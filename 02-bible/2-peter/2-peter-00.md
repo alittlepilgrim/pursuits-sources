@@ -1,19 +1,19 @@
 ---
-title: The Second Letter of Peter
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: The Second Letter of Peter
+title: The Second Letter of Peter
+url: https://bible.usccb.org/bible/2peter/0
 aliases:
   - 2-peter-00
   - The Second Letter of Peter
 tags:
   - bible/2-peter
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/2peter/0
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: The Second Letter of Peter
 ---
 
 # The Second Letter of Peter

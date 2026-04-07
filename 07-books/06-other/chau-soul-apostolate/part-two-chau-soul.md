@@ -1,12 +1,15 @@
 ---
-title: Part Two – The Soul of the Apostolate
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: false
+title: Part Two – The Soul of the Apostolate
+author: Dom Chautard
 aliases:
   - Part Two – The Soul of the Apostolate
-author: Dom Chautard
+tags:
+  - author/chautard-dom
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: false
 ---
 
 # Part Two – The Soul of the Apostolate

@@ -1,19 +1,19 @@
 ---
-title: Perfectae Caritatis
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree on the Adaptation and Renewal of Religious Life - Perfectae Caritatis
+title: Perfectae Caritatis
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_en.html
 aliases:
   - perfectae-caritatis
 tags:
+  - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-11-14
+modified: 2026-04-04
+publish: true
+description: Decree on the Adaptation and Renewal of Religious Life - Perfectae Caritatis
 abbreviation: pc
-author: Catholic Church
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_en.html
 ---
 
 DECREE ON

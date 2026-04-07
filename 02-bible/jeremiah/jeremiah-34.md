@@ -1,37 +1,36 @@
 ---
-title: Jeremiah, Chapter 34
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 34
+title: Jeremiah, Chapter 34
+url: https://bible.usccb.org/bible/jeremiah/34
 aliases:
   - jeremiah-34
   - Jeremiah, Chapter 34
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/34
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 34
 ---
 
 # Jeremiah, Chapter 34
 
-### Chapter 34
+## Chapter 34
 
 **Fate of Zedekiah.**
 
-1 The word which came to Jeremiah from the L ORD while Nebuchadnezzar, king of Babylon, and all his army and all the earth’s kingdoms under his rule, and all the peoples were attacking Jerusalem and all her cities: ^jeremiah-34-1
+1 The word which came to Jeremiah from the LORD while Nebuchadnezzar, king of Babylon, and all his army and all the earth’s kingdoms under his rule, and all the peoples were attacking Jerusalem and all her cities: ^jeremiah-34-1
 
-2 Thus says the L ORD, the God of Israel: Go to Zedekiah, king of Judah, and tell him: Thus says the L ORD: I am handing this city over to the king of Babylon; he will burn it with fire. ^jeremiah-34-2
+2 Thus says the LORD, the God of Israel: Go to Zedekiah, king of Judah, and tell him: Thus says the LORD: I am handing this city over to the king of Babylon; he will burn it with fire. ^jeremiah-34-2
 
 3 You yourself shall not escape his hand; rather you will be captured and fall into his hand. You shall see the king of Babylon eye to eye and speak to him face to face. Then you shall go to Babylon. ^jeremiah-34-3
 
-4 Just hear the word of the L ORD, Zedekiah, king of Judah! Then, says the L ORD concerning you, you shall not die by the sword. ^jeremiah-34-4
+4 Just hear the word of the LORD, Zedekiah, king of Judah! Then, says the LORD concerning you, you shall not die by the sword. ^jeremiah-34-4
 
-5 You shall die in peace, and they will burn spices for you as they did for your ancestors, the earlier kings who preceded you, and they shall make lament over you, “Alas, Lord.” I myself make this promise—oracle of the L ORD. ^jeremiah-34-5
+5 You shall die in peace, and they will burn spices for you as they did for your ancestors, the earlier kings who preceded you, and they shall make lament over you, “Alas, Lord.” I myself make this promise—oracle of the LORD. ^jeremiah-34-5
 
 6 Jeremiah the prophet told all these things to Zedekiah, king of Judah, in Jerusalem, ^jeremiah-34-6
 
@@ -39,7 +38,7 @@ url: https://bible.usccb.org/bible/jeremiah/34
 
 **The Pact Broken.**
 
-8 This is the word that came to Jeremiah from the L ORD after King Zedekiah had made a covenant with all the people in Jerusalem to proclaim freedom: ^jeremiah-34-8
+8 This is the word that came to Jeremiah from the LORD after King Zedekiah had made a covenant with all the people in Jerusalem to proclaim freedom: ^jeremiah-34-8
 
 9 Everyone must free their Hebrew slaves, male and female, so that no one should hold another Judahite in servitude. ^jeremiah-34-9
 
@@ -47,9 +46,9 @@ url: https://bible.usccb.org/bible/jeremiah/34
 
 11 afterward they took back their male and female servants whom they had set free and again forced them into servitude. ^jeremiah-34-11
 
-12 Then this word of the L ORD came to Jeremiah: ^jeremiah-34-12
+12 Then this word of the LORD came to Jeremiah: ^jeremiah-34-12
 
-13 Thus says the L ORD, the God of Israel: I myself made a covenant with your ancestors the day I brought them out of the land of Egypt, out of the house of slavery: ^jeremiah-34-13
+13 Thus says the LORD, the God of Israel: I myself made a covenant with your ancestors the day I brought them out of the land of Egypt, out of the house of slavery: ^jeremiah-34-13
 
 14 Every seventh year each of you must set free all Hebrews who have sold themselves to you; six years they shall serve you, but then you shall let them go free. Your ancestors, however, did not listen to me or obey me. ^jeremiah-34-14
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/jeremiah/34
 
 16 But then you again profaned my name by taking back your male and female slaves whom you had just set free for life; you forced them to become your slaves again. ^jeremiah-34-16
 
-17 Therefore, thus says the L ORD: You for your part did not obey me by proclaiming freedom for your families and neighbors. So I now proclaim freedom for you—oracle of the L ORD —for the sword, starvation, and disease. I will make you an object of horror to all the kingdoms of the earth. ^jeremiah-34-17
+17 Therefore, thus says the LORD: You for your part did not obey me by proclaiming freedom for your families and neighbors. So I now proclaim freedom for you—oracle of the LORD —for the sword, starvation, and disease. I will make you an object of horror to all the kingdoms of the earth. ^jeremiah-34-17
 
 19 the princes of Judah and of Jerusalem, the court officials, the priests, and all the people of the land, who passed between the parts of the calf. ^jeremiah-34-19
 
@@ -65,7 +64,7 @@ url: https://bible.usccb.org/bible/jeremiah/34
 
 21 Zedekiah, king of Judah, and his princes, I will hand also over to their enemies, to those who seek their lives, to the army of the king of Babylon which is now withdrawing from you. ^jeremiah-34-21
 
-22 I am giving the command—oracle of the L ORD —to bring them back to this city. They shall attack and capture it, and burn it with fire; the cities of Judah I will turn into a waste, where no one dwells. ^jeremiah-34-22
+22 I am giving the command—oracle of the LORD —to bring them back to this city. They shall attack and capture it, and burn it with fire; the cities of Judah I will turn into a waste, where no one dwells. ^jeremiah-34-22
 
 \* (34:7) Lachish, and Azekah: fortress towns southwest of Jerusalem which Nebuchadnezzar besieged to prevent any help coming to Jerusalem from Egypt. At Lachish, archaeologists found several letters written on ostraca (pottery fragments) dated to 598 or 588 B.C., which mention both Lachish and Azekah.
 

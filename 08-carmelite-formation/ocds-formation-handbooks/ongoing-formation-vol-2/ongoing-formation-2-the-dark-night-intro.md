@@ -1,17 +1,18 @@
 ---
-title: The Dark Night Leading To GOD’S Action, an Introduction (The Dark Night – Books One and Two)
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: The Dark Night Leading To GOD’S Action, an Introduction (The Dark Night – Books One and Two)
+author: Secular Order of Discalced Carmelites
 aliases:
   - The Dark Night Leading To GOD’S Action, an Introduction (The Dark Night – Books One and Two)
 tags:
   - carmel
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
-## The Dark Night Leading to GOD’S Action, an Introduction (The Dark Night – Books One and Two) - OCDS Ongoing Formation Volume II
+# The Dark Night Leading to GOD’S Action, an Introduction (The Dark Night – Books One and Two) - OCDS Ongoing Formation Volume II
 
 “The way of perfection passes by way of the Cross. There is no holiness without renunciation and spiritual battle. Spiritual progress entails the
 

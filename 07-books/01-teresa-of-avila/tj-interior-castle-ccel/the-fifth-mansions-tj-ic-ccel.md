@@ -1,252 +1,54 @@
 ---
-title: the-fifth-mansions-tj-ic-ccel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: The interior castle by St. Teresa of Ávila.
+title: The Fifth Mansions – – The Interior Castle by St. Teresa of Ávila
+author: Saint Teresa of Ávila
 aliases:
-  - The Fifth Mansions - The Interior Castle CCEL
-author: Saint Teresa of Avila
+  - The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
+tags:
+  - author/saint-teresa-of-avila
+  - book/interior-castle
+  - type/book
+created: 2026-04-01
+modified: 2026-04-04
+publish: true
+description: The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
 ---
 
 # The Fifth Mansions
 
-### Chapter I. Begins to Treat of the Union of the Soul with God in Prayer. How to Be Sure That We Are Not Deceived in This Matter.
+## Chapter I. Begins to Treat of the Union of the Soul with God in Prayer. How to Be Sure That We Are Not Deceived in This Matter
 
 ```
 1. Graces of the fifth mansions. 2. Contemplation to be striven for. 3.Physical effects of the Prayer of union. 4. Amazement of the intellect.  5. The Prayer of union and of quiet contrasted. 6. Divine and earthly union. 7. Competent directors in these matters. 8. Proof of union. 9. Assurance left in the soul. 10. Divine union beyond our Power to obtain.
 ```
 
-   1. OH, my sisters, how shall I describe the riches, treasures, and joys
-   contained in the fifth mansions! Would it not be better to say nothing
-   about them? They are impossible to depict, nor can the mind conceive,
-   nor any comparisons portray them, all earthly things being too vile to
-   serve the purpose. Send me, O my Lord, light from heaven that I may
-   give some to these Thy servants, some of whom by Thy good will often
-   enjoy these delights, lest the devil in the guise of an angel of light
-   should deceive those whose only desire is to please Thee.
+   1. OH, my sisters, how shall I describe the riches, treasures, and joys contained in the fifth mansions! Would it not be better to say nothing about them? They are impossible to depict, nor can the mind conceive, nor any comparisons portray them, all earthly things being too vile to serve the purpose. Send me, O my Lord, light from heaven that I may give some to these Thy servants, some of whom by Thy good will often enjoy these delights, lest the devil in the guise of an angel of light should deceive those whose only desire is to please Thee.
+   2. I said some,' but in reality there are very few [154] who never enter this mansion: some more and some less, but most of them may be said at least to gain admittance into these rooms. I think that certain graces I am about to describe are bestowed on only a few of the nuns, but if the rest only arrive at the portal they receive a great boon from God, for many are called, but few are chosen.' [155] All we who wear the holy habit of the Carmelites are called to prayer and contemplation. This was the object of our Order, [156] to this lineage we belong. Our holy Fathers of Mount Carmel sought in perfect solitude and utter contempt of the world for this treasure, this precious pearl, [157] of which we speak, and we are their descendants. How little do most of us care to prepare our souls, that our Lord may reveal this jewel to us! Outwardly we may appear to practise the requisite virtues, but we have far more to do than this before it is possible to attain to contemplation, to gain which we should neglect no means, either small or great. Rouse yourselves, my sisters, and since some foretaste of heaven may be had on earth, beg our Lord to give us grace not to miss it through our own fault. Ask Him to show us where to find it--ask Him to give us strength of soul to dig until we find this hidden treasure, which lies buried within our hearts, as I wish to show you if it please God to enable me. I said strength of soul,' that you might understand that strength of body is not indispensable when our Lord God chooses to withhold it. He makes it impossible for no one to gain these riches, but is content that each should do his best. Blessed be so just a God!
+   3. But, daughters, if you would purchase this treasure of which we are speaking, God would have you keep back nothing from Him, little or great. He will have it all; [158] in proportion to what you know you have given will your reward be great or small. There is no more certain sign whether or not we have reached the prayer of union. Do not imagine that this state of prayer is, like the one preceding it, a sort of drowsiness (I call it 'drowsiness' because the soul seems to slumber, being neither quite asleep nor wholly awake). In the prayer of union the soul is asleep, fast asleep, as regards the world and itself: in fact, during the short time this state lasts it is deprived of all feeling whatever, being unable to think on any subject, even if it wished. No effort is needed here to suspend the thoughts: if the soul can love it knows not how, nor whom it loves, nor what it desires. In fact, it has died entirely to this world, to live more truly than ever in God. This is a delicious death, for the soul is deprived of the faculties it exercised while in the body: [159] delicious because, (although not really the case), it seems to have left its mortal covering to abide more entirely in God. So completely does this take place, that I know not whether the body retains sufficient life to continue breathing; on consideration, I believe it does not; at any rate, if it still breathes, it does so unconsciously.
+   4. The mind entirely concentrates itself on trying to understand what is happening, which is beyond its power; it is so astounded that, if consciousness is not completely lost, at least no movement is possible: the person may be compared to one who falls into a dead faint with dismay. [160]
+   5. Oh, mighty secrets of God! Never should I weary of trying to explain them if I thought it possible to succeed! I would write a thousand foolish things that one might be to the point, if only it might make us praise God more. I said this prayer produced no drowsiness in the mind; on the other hand, in the prayer (of quiet) described in the last mansion, until the soul has gained much experience it doubts what really happened to it. Was it nothing but fancy, or was it a sleep? Did it come from God or from the devil, disguised as an angel of light?' The mind feels a thousand misgivings, and well for it that it should, because, at I said, nature may sometimes deceive us in this case. Although there is little chance of the poisonous reptiles entering here, yet agile little lizards will try to slip in, though they can do no harm, especially if they remain unnoticed. These, as I said, are trivial fancies of the imagination, which are often very troublesome. However active these small lizards may be, they cannot enter the fifth mansion, for neither the imagination, the understanding, nor the memory has power to hinder the graces bestowed on it. 6. I dare venture to assert that, if this is genuine union with God, the devil cannot interfere nor do any harm, for His Majesty is so joined and united with the essence of the soul, that the evil one dare not approach, nor can he even understand this mystery. This is certain, for it is said that the devil does not know our thoughts, much less can he penetrate a secret so profound that God does not reveal it even to us. [161] Oh, blessed state, in which this cursed one cannot injure us! What riches we receive while God so works in us that neither we ourselves nor any one else can impede Him! What will He not bestow, Who is so eager to give, and Who can give us all He desires! You may perhaps have been puzzled at my saying if this is genuine union with God,' as if there might be other unions. There are indeed--not with God, but with vanities--when the devil transports the soul passionately addicted to them, but the union differs from that which is divine and the mind misses the delight and satisfaction, peace and happiness of divine union. These heavenly consolations are above all earthly joys, pleasure, and satisfaction. As great a difference exists between their origin and that of worldly pleasures as between their opposite effects, as you know by experience.
+   7. I said somewhere [162] that the one seems only to touch the surface of the body, while the other penetrates to the very marrow: I believe this is correct, and I cannot express myself better. I fancy that you are not yet satisfied on this question, but are afraid of deception, for spiritual matters are very hard to explain. Enough, however, has been said for those who have received this grace, as the difference between divine union and any other is very striking. However, I will give you a clear proof which cannot mislead you, nor leave any doubt whether the favour comes from God or no. His Majesty brought it back to my memory this very day; it appears to me to be an unmistakable sign. In difficult questions, although I think I understand them and am speaking the truth, I always say it appears to me'; for, in case my opinion is wrong, I am most willing to submit to the judgment of theologians. Although they may not have had personal experience in such matters, yet in some way I do not understand, God Who sets them to give light to His Church enables them to recognize the truth when it is put before them. If they are not thoughtless and indevout, but servants of God, they are never dismayed at His mighty works, knowing perfectly well that it is in His power to perform far greater wonders. If some of the marvels told are new to them, yet they have read of others of the same kind, showing the former to be possible. I have had great experience as to this and have also met with timid, half-instructed people whose ignorance has cost me very dear. [163] I am convinced that those who refuse to believe that God can do far more than this, and that He is pleased now, as in the past, to communicate Himself to His creatures, shut fast their hearts against receiving such favours themselves. Do not imitate them, sisters: be convinced that it is possible for God to perform still greater wonders. Do not concern yourselves as to whether those who receive these graces are good or wicked; as I said, He knows best and it is no business of yours: you should serve Him with a single heart and with humility, and should praise Him for His works and wonders. [164]
+   8. Let us now speak of the sign which proves the prayer of union to have been genuine. As you have seen, God then deprives the soul of all its senses that He may the better imprint in it true wisdom: it neither sees, hears, nor understands anything while this state lasts, which is never more than a very brief time; [165] it appears to the soul to be much shorter than it really is. God visits the soul in a manner which prevents its doubting, on returning to itself, that it dwelt in Him and that He was within it, and so firmly is it convinced of this truth that, although years may pass before this favour recurs, the soul can never forget it nor doubt the fact, [166] setting aside the effects left by this prayer, to which I will refer later on. The conviction felt by the soul is the main point.
+   9. But, you may ask, how can a person who is incapable of sight and hearing see [167] or know these things? I do not say that she saw it at the time, but that she perceives it clearly afterwards, not by any vision but by a certitude which remains in the heart which God alone could give. I know of some one who was unaware of God's being in all things by presence, power and essence, yet was firmly convinced of it by a divine favour of this sort. [168] She asked an ill-instructed priest of the kind I mentioned to tell her in what way God dwelt within us: he was as ignorant on the subject as she had been before our Lord revealed to her the truth, and answered that the Almighty was only present in us by grace. [169] Yet so strong was her conviction of the truth learnt during her prayer that she did not believe him and questioned other spiritual persons on the subject, who confirmed her in the true doctrine, much to her joy. Do not mistake and imagine that this certainty of God's having visited the soul concerns any corporal presence such as that of our Lord Jesus Christ Who dwells in the Blessed Sacrament, although we do not see Him: it relates solely to the Divinity. If we did not see it, how can we feel so sure of it? That I do not know: it is the work of the Almighty and I am certain that what I say is the fact. I maintain that a soul which does not feel this assurance has not been united to God entirely, but only by one of its powers, or has received one of the many other favours God is accustomed to bestow on men. In all such matters we must not seek to know how things happened: our understanding could not grasp them, therefore why trouble ourselves on the subject? It is enough to know that it is He, the all-powerful God, Who has performed the work. We can do nothing on our own part to gain this favour; it comes from God alone; therefore let us not strive to understand it.
+   10. Concerning my words: We can do nothing on our own part,' I was struck by the words of the Bride in the Canticles, which you will remember to have heard: 'The King brought me into the cellar of wine,' [170] (or placed me' I think she says): she does not say she went of her own accord, although telling us how she wandered up and down seeking her Beloved. [171] I think the prayer of union is the cellar' in which our Lord places us when and how He chooses, but we cannot enter it through any effort of our own. His Majesty alone can bring us there and come into the centre of our souls. In order to declare His wondrous works more clearly, He will leave us no share in them except complete conformity of our wills to His and abandonment of all things: He does not require the faculties or senses to open the door to Him; they are all asleep. He enters the innermost depths of our souls without a door, as He entered the room where the disciples sat, saying Pax vobis,' [172] and as He emerged from the sepulchre without removing the stone that closed the entrance. You will see farther on, in the seventh mansion, far better than here, how God makes the soul enjoy His presence in its very centre. O daughters, what wonders shall we see, if we keep ever before our eyes our own baseness and frailty and recognize how unworthy we are to be the handmaids of so great a Lord, Whose marvels are beyond our comprehension! May He be for ever praised! Amen.
 
-   2. I said some,' but in reality there are very few [154] who never
-   enter this mansion: some more and some less, but most of them may be
-   said at least to gain admittance into these rooms. I think that certain
-   graces I am about to describe are bestowed on only a few of the nuns,
-   but if the rest only arrive at the portal they receive a great boon
-   from God, for many are called, but few are chosen.' [155] All we who
-   wear the holy habit of the Carmelites are called to prayer and
-   contemplation. This was the object of our Order, [156] to this
-   lineage we belong. Our holy Fathers of Mount Carmel sought in perfect
-   solitude and utter contempt of the world for this treasure, this
-   precious pearl, [157] of which we speak, and we are their
-   descendants. How little do most of us care to prepare our souls, that
-   our Lord may reveal this jewel to us! Outwardly we may appear to
-   practise the requisite virtues, but we have far more to do than this
-   before it is possible to attain to contemplation, to gain which we
-   should neglect no means, either small or great. Rouse yourselves, my
-   sisters, and since some foretaste of heaven may be had on earth, beg
-   our Lord to give us grace not to miss it through our own fault. Ask Him
-   to show us where to find it--ask Him to give us strength of soul to dig
-   until we find this hidden treasure, which lies buried within our
-   hearts, as I wish to show you if it please God to enable me. I said
-   strength of soul,' that you might understand that strength of body is
-   not indispensable when our Lord God chooses to withhold it. He makes it
-   impossible for no one to gain these riches, but is content that each
-   should do his best. Blessed be so just a God!
-
-   3. But, daughters, if you would purchase this treasure of which we are
-   speaking, God would have you keep back nothing from Him, little or
-   great. He will have it all; [158] in proportion to what you know you
-   have given will your reward be great or small. There is no more certain
-   sign whether or not we have reached the prayer of union. Do not imagine
-   that this state of prayer is, like the one preceding it, a sort of
-   drowsiness (I call it 'drowsiness' because the soul seems to slumber,
-   being neither quite asleep nor wholly awake). In the prayer of union
-   the soul is asleep, fast asleep, as regards the world and itself: in
-   fact, during the short time this state lasts it is deprived of all
-   feeling whatever, being unable to think on any subject, even if it
-   wished. No effort is needed here to suspend the thoughts: if the soul
-   can love it knows not how, nor whom it loves, nor what it desires. In
-   fact, it has died entirely to this world, to live more truly than ever
-   in God. This is a delicious death, for the soul is deprived of the
-   faculties it exercised while in the body: [159] delicious because,
-   (although not really the case), it seems to have left its mortal
-   covering to abide more entirely in God. So completely does this take
-   place, that I know not whether the body retains sufficient life to
-   continue breathing; on consideration, I believe it does not; at any
-   rate, if it still breathes, it does so unconsciously.
-
-   4. The mind entirely concentrates itself on trying to understand what
-   is happening, which is beyond its power; it is so astounded that, if
-   consciousness is not completely lost, at least no movement is possible:
-   the person may be compared to one who falls into a dead faint with
-   dismay. [160]
-
-   5. Oh, mighty secrets of God! Never should I weary of trying to explain
-   them if I thought it possible to succeed! I would write a thousand
-   foolish things that one might be to the point, if only it might make us
-   praise God more. I said this prayer produced no drowsiness in the mind;
-   on the other hand, in the prayer (of quiet) described in the last
-   mansion, until the soul has gained much experience it doubts what
-   really happened to it. Was it nothing but fancy, or was it a sleep? Did
-   it come from God or from the devil, disguised as an angel of light?'
-   The mind feels a thousand misgivings, and well for it that it should,
-   because, at I said, nature may sometimes deceive us in this case.
-   Although there is little chance of the poisonous reptiles entering
-   here, yet agile little lizards will try to slip in, though they can do
-   no harm, especially if they remain unnoticed. These, as I said, are
-   trivial fancies of the imagination, which are often very troublesome.
-   However active these small lizards may be, they cannot enter the fifth
-   mansion, for neither the imagination, the understanding, nor the memory
-   has power to hinder the graces bestowed on it. 6. I dare venture to
-   assert that, if this is genuine union with God, the devil cannot
-   interfere nor do any harm, for His Majesty is so joined and united with
-   the essence of the soul, that the evil one dare not approach, nor can
-   he even understand this mystery. This is certain, for it is said that
-   the devil does not know our thoughts, much less can he penetrate a
-   secret so profound that God does not reveal it even to us. [161] Oh,
-   blessed state, in which this cursed one cannot injure us! What riches
-   we receive while God so works in us that neither we ourselves nor any
-   one else can impede Him! What will He not bestow, Who is so eager to
-   give, and Who can give us all He desires! You may perhaps have been
-   puzzled at my saying if this is genuine union with God,' as if there
-   might be other unions. There are indeed--not with God, but with
-   vanities--when the devil transports the soul passionately addicted to
-   them, but the union differs from that which is divine and the mind
-   misses the delight and satisfaction, peace and happiness of divine
-   union. These heavenly consolations are above all earthly joys,
-   pleasure, and satisfaction. As great a difference exists between their
-   origin and that of worldly pleasures as between their opposite effects,
-   as you know by experience.
-
-   7. I said somewhere [162] that the one seems only to touch the
-   surface of the body, while the other penetrates to the very marrow: I
-   believe this is correct, and I cannot express myself better. I fancy
-   that you are not yet satisfied on this question, but are afraid of
-   deception, for spiritual matters are very hard to explain. Enough,
-   however, has been said for those who have received this grace, as the
-   difference between divine union and any other is very striking.
-   However, I will give you a clear proof which cannot mislead you, nor
-   leave any doubt whether the favour comes from God or no. His Majesty
-   brought it back to my memory this very day; it appears to me to be an
-   unmistakable sign. In difficult questions, although I think I
-   understand them and am speaking the truth, I always say it appears to
-   me'; for, in case my opinion is wrong, I am most willing to submit to
-   the judgment of theologians. Although they may not have had personal
-   experience in such matters, yet in some way I do not understand, God
-   Who sets them to give light to His Church enables them to recognize the
-   truth when it is put before them. If they are not thoughtless and
-   indevout, but servants of God, they are never dismayed at His mighty
-   works, knowing perfectly well that it is in His power to perform far
-   greater wonders. If some of the marvels told are new to them, yet they
-   have read of others of the same kind, showing the former to be
-   possible. I have had great experience as to this and have also met with
-   timid, half-instructed people whose ignorance has cost me very dear.
-   [163] I am convinced that those who refuse to believe that God can do
-   far more than this, and that He is pleased now, as in the past, to
-   communicate Himself to His creatures, shut fast their hearts against
-   receiving such favours themselves. Do not imitate them, sisters: be
-   convinced that it is possible for God to perform still greater wonders.
-   Do not concern yourselves as to whether those who receive these graces
-   are good or wicked; as I said, He knows best and it is no business of
-   yours: you should serve Him with a single heart and with humility, and
-   should praise Him for His works and wonders. [164]
-
-   8. Let us now speak of the sign which proves the prayer of union to
-   have been genuine. As you have seen, God then deprives the soul of all
-   its senses that He may the better imprint in it true wisdom: it neither
-   sees, hears, nor understands anything while this state lasts, which is
-   never more than a very brief time; [165] it appears to the soul to be
-   much shorter than it really is. God visits the soul in a manner which
-   prevents its doubting, on returning to itself, that it dwelt in Him and
-   that He was within it, and so firmly is it convinced of this truth
-   that, although years may pass before this favour recurs, the soul can
-   never forget it nor doubt the fact, [166] setting aside the effects
-   left by this prayer, to which I will refer later on. The conviction
-   felt by the soul is the main point.
-
-   9. But, you may ask, how can a person who is incapable of sight and
-   hearing see [167] or know these things? I do not say that she saw it at
-   the time, but that she perceives it clearly afterwards, not by any
-   vision but by a certitude which remains in the heart which God alone
-   could give. I know of some one who was unaware of God's being in all
-   things by presence, power and essence, yet was firmly convinced of it
-   by a divine favour of this sort. [168] She asked an ill-instructed
-   priest of the kind I mentioned to tell her in what way God dwelt within
-   us: he was as ignorant on the subject as she had been before our Lord
-   revealed to her the truth, and answered that the Almighty was only
-   present in us by grace. [169] Yet so strong was her conviction of the
-   truth learnt during her prayer that she did not believe him and
-   questioned other spiritual persons on the subject, who confirmed her in
-   the true doctrine, much to her joy. Do not mistake and imagine that
-   this certainty of God's having visited the soul concerns any corporal
-   presence such as that of our Lord Jesus Christ Who dwells in the
-   Blessed Sacrament, although we do not see Him: it relates solely to the
-   Divinity. If we did not see it, how can we feel so sure of it? That I
-   do not know: it is the work of the Almighty and I am certain that what
-   I say is the fact. I maintain that a soul which does not feel this
-   assurance has not been united to God entirely, but only by one of its
-   powers, or has received one of the many other favours God is accustomed
-   to bestow on men. In all such matters we must not seek to know how
-   things happened: our understanding could not grasp them, therefore why
-   trouble ourselves on the subject? It is enough to know that it is He,
-   the all-powerful God, Who has performed the work. We can do nothing on
-   our own part to gain this favour; it comes from God alone; therefore
-   let us not strive to understand it.
-
-   10. Concerning my words: We can do nothing on our own part,' I was
-   struck by the words of the Bride in the Canticles, which you will
-   remember to have heard: 'The King brought me into the cellar of wine,'
-   [170] (or placed me' I think she says): she does not say she went of
-   her own accord, although telling us how she wandered up and down
-   seeking her Beloved. [171] I think the prayer of union is the cellar'
-   in which our Lord places us when and how He chooses, but we cannot
-   enter it through any effort of our own. His Majesty alone can bring us
-   there and come into the centre of our souls. In order to declare His
-   wondrous works more clearly, He will leave us no share in them except
-   complete conformity of our wills to His and abandonment of all things:
-   He does not require the faculties or senses to open the door to Him;
-   they are all asleep. He enters the innermost depths of our souls
-   without a door, as He entered the room where the disciples sat, saying
-   Pax vobis,' [172] and as He emerged from the sepulchre without
-   removing the stone that closed the entrance. You will see farther on,
-   in the seventh mansion, far better than here, how God makes the soul
-   enjoy His presence in its very centre. O daughters, what wonders shall
-   we see, if we keep ever before our eyes our own baseness and frailty
-   and recognize how unworthy we are to be the handmaids of so great a
-   Lord, Whose marvels are beyond our comprehension! May He be for ever
-   praised! Amen.
-
-### Footnotes
+## Footnotes
 
    [154] Found. ch. iv. 8.
 
    [155] St. Matt. xx. 16: Multi enim sunt vocati, pauci vero electi.'
 
-   [156] Maneant singuli in cellulis suis, vel juxta eas, die ac nocte in
-
-   lege Domini meditantes et in orationibus vigilantes.' (Carmelite Rule).
+   [156] Maneant singuli in cellulis suis, vel juxta eas, die ac nocte in lege Domini meditantes et in orationibus vigilantes.' (Carmelite Rule).
 
    [157] St. Matt, xiii. 46.
 
-   [158] 'The reason why there are so few contemplatives is that there are
-
-   so few persons who wholly withdraw themselves from transitory and
-
-   created things' (Imitation, bk. iii. ch. xxxi. 1). See also Way of
-
-   Perf. ch. xvi. 5. Life, ch. xi. 2-4; xxii. 18, 19.
+   [158] 'The reason why there are so few contemplatives is that there are so few persons who wholly withdraw themselves from transitory and created things' (Imitation, bk. iii. ch. xxxi. 1). See also Way of Perf. ch. xvi. 5. Life, ch. xi. 2-4; xxii. 18, 19.
 
    [159] Way of Perf. ch. xxv. 1. Life, ch. xvi. Rel. I. i; viii. 7.
 
    [160] [[tj-life-ccel|Life]], ch. xvii. 2.
 
-   [161] According to St. Thomas, angels--whether good or bad--do not know
-
-   the thoughts of man unless they become manifest by some exterior sign.
-
-   S. Theol. I. q. lvii. art. 4. See also St. John of the Cross, Dark
-
-   Night, bk. II, ch. xxiii. 2, 5.
+   [161] According to St. Thomas, angels--whether good or bad--do not know the thoughts of man unless they become manifest by some exterior sign. S. Theol. I. q. lvii. art. 4. See also St. John of the Cross, Dark Night, bk. II, ch. xxiii. 2, 5.
 
    [162] Mansion iv. ch. i, 5.
 
@@ -256,317 +58,46 @@ author: Saint Teresa of Avila
 
    [165] [[tj-life-ccel|Life]], ch. xx. 13, 24.
 
-   [166] Philippus a SS. Trinitate, l.c., pars iii. tr. i. disc. iv. art,
+   [166] Philippus a SS. Trinitate, l.c., pars iii. tr. i. disc. iv. art, 2, where he adds some further signs. Anton. a Sp. S., l.c., tract. i. no. 116 and 117.
 
-   2, where he adds some further signs. Anton. a Sp. S., l.c., tract. i.
+   [167] 'The soul does not see the good Master who teaches it, although clearly conscious of His presence.' (Concept. ch. iv. 3.)
 
-   no. 116 and 117.
+   [168] 'There are three ways in which God is present in the soul. The first is His presence in essence, not in holy souls only, but in wretched and sinful souls as well, and also in all created things; for it is by this presence that He gives life and being, and were it withdrawn at once all things would return to nothing. This presence never fails in the soul. The second is His presence by grace, whereby He dwells in the soul, pleased and satisfied with it. This presence is not in all souls; for those who fall into mortal sin lose it, and no soul can know in a natural way whether it has it or not. The third is His presence by spiritual affection. God is wont to show His presence in many devout souls in divers ways, in refreshment, joy and gladness.' (St. John of the Cross, Spiritual Canticle, stanza xi. 2.) 'In every soul, even that of the greatest sinner in the world, God dwells and is substantially present. This way of union or presence of God, in the order of nature, subsists between Him and all His creatures; by this He preserves them in being, and if He withdraws it they immediately perish and cease to be. And so, when I speak of the union of the soul with God, I do not mean this substantial presence which is in every creature, but that union and transformation of the soul in God by love which is only then accomplished when there subsists the likeness which love begets.' (St. John of the Cross, Ascent, bk. ii. ch. v. 3.) Fr. Gracian, Peregrinacion de Anastasio (Burgos, 1905), p. 171.
 
-   [167] 'The soul does not see the good Master who teaches it, although
+   [169] [[tj-life-ccel|Life]], ch. xviii. 20. Rel. ix. 17; xi. 8. St. Teresa was so deeply impressed by the ignorance of this priest that she very frequently referred to it.
 
-   clearly conscious of His presence.' (Concept. ch. iv. 3.)
+   [170] Cant. i. 3: Introduxit me rex in cellaria sua.' Castle, M. v. ch. i. Way of Perf. ch. xviii. I. Concep. ch. iv. 4-8; v. 5; vi. 7; vii. 2-5. Life, ch. xviii. 17.
 
-   [168] 'There are three ways in which God is present in the soul. The
-
-   first is His presence in essence, not in holy souls only, but in
-
-   wretched and sinful souls as well, and also in all created things; for
-
-   it is by this presence that He gives life and being, and were it
-
-   withdrawn at once all things would return to nothing. This presence
-
-   never fails in the soul. The second is His presence by grace, whereby
-
-   He dwells in the soul, pleased and satisfied with it. This presence is
-
-   not in all souls; for those who fall into mortal sin lose it, and no
-
-   soul can know in a natural way whether it has it or not. The third is
-
-   His presence by spiritual affection. God is wont to show His presence
-
-   in many devout souls in divers ways, in refreshment, joy and gladness.'
-
-   (St. John of the Cross, Spiritual Canticle, stanza xi. 2.) 'In every
-
-   soul, even that of the greatest sinner in the world, God dwells and is
-
-   substantially present. This way of union or presence of God, in the
-
-   order of nature, subsists between Him and all His creatures; by this He
-
-   preserves them in being, and if He withdraws it they immediately perish
-
-   and cease to be. And so, when I speak of the union of the soul with
-
-   God, I do not mean this substantial presence which is in every
-
-   creature, but that union and transformation of the soul in God by love
-
-   which is only then accomplished when there subsists the likeness which
-
-   love begets.' (St. John of the Cross, Ascent, bk. ii. ch. v. 3.) Fr.
-
-   Gracian, Peregrinacion de Anastasio (Burgos, 1905), p. 171.
-
-   [169] [[tj-life-ccel|Life]], ch. xviii. 20. Rel. ix. 17; xi. 8. St. Teresa was so deeply
-
-   impressed by the ignorance of this priest that she very frequently
-
-   referred to it.
-
-   [170] Cant. i. 3: Introduxit me rex in cellaria sua.' Castle, M. v. ch.
-
-   i. Way of Perf. ch. xviii. I. Concep. ch. iv. 4-8; v. 5; vi. 7; vii.
-
-   2-5. Life, ch. xviii. 17.
-
-   [171] Cant. iii. 2: Per vicos et plateas quæram quem diligit anima
-
-   mea.'
+   [171] Cant. iii. 2: Per vicos et plateas quæram quem diligit anima mea.'
 
    [172] St. John, xx. 19.
 
-### Chapter II. Continues the Same Subject: Explains the Prayer of Union by a Delicate Comparison and Speaks of the Effects It Leaves upon the Soul. This Chapter Should Receive Great Attention.
+## Chapter II. Continues the Same Subject: Explains the Prayer of Union by a Delicate Comparison and Speaks of the Effects It Leaves upon the Soul. This Chapter Should Receive Great Attention
 
-   1. The soul compared to a butterfly. 2. The grandeurs of creation. 3.
-   Symbol of the soul and the silkworm. 4. Preparation of the soul for
-   God's indwelling. 5. Mystic death of the silkworm. 6. Effects of divine
-   union. 7. Increase of fervour and detachment. 8. Trials succeeding the
-   prayer of union. 9. Longing for death and zeal for God's honour. 10.
-   This zeal supernatural. 11. God alone works this grace. 12. The same
-   zeal as that felt by our Lord on earth. 13. Christ's keenest suffering.
+   1. The soul compared to a butterfly. 2. The grandeurs of creation. 3. Symbol of the soul and the silkworm. 4. Preparation of the soul for God's indwelling. 5. Mystic death of the silkworm. 6. Effects of divine union. 7. Increase of fervour and detachment. 8. Trials succeeding the prayer of union. 9. Longing for death and zeal for God's honour. 10. This zeal supernatural. 11. God alone works this grace. 12. The same zeal as that felt by our Lord on earth. 13. Christ's keenest suffering.
+   1. You may imagine that there is no more left to be described of the contents of this mansion, but a great deal remains to be told, for as I said, it contains favours of various degrees. I think there is nothing to add about the prayer of union, but when the soul on which God bestows this grace disposes itself for their reception, I could tell you much about the marvels our Lord works in it. I will describe some of them in my own way, also the state in which they leave the soul, and will use a suitable comparison to elucidate the matter, explaining that though we can take no active part in this work of God within us, [173] yet we may do much to prepare ourselves to receive this grace. You have heard how wonderfully silk is made--in a way such as God alone could plan--how it all comes from an egg resembling a tiny pepper-corn. Not having seen it myself, I only know of it by hearsay, so if the facts are inaccurate the fault will not be mine. When, in the warm weather, the mulberry trees come into leaf, the little egg which was lifeless before its food was ready, begins to live. The caterpillar nourishes itself upon the mulberry leaves until, when it has grown large, people place near it small twigs upon which, of its own accord, it spins silk from its tiny mouth until it has made a narrow little cocoon in which it buries itself. Then this large and ugly worm leaves the cocoon as a lovely little white butterfly.
+   2. If we had not seen this but had only heard of it as an old legend, who could believe it? Could we persuade ourselves that insects so utterly without the use of reason as a silkworm or a bee would work with such industry and skill in our service that the poor little silkworm loses its life over the task? This would suffice for a short meditation, sisters, without my adding more, for you may learn from it the wonders and the wisdom of God. How if we knew the properties of all things? It is most profitable to ponder over the grandeurs of creation and to exult in being the brides of such a wise and mighty King.
+   3. Let us return to our subject. The silkworm symbolizes the soul which begins to live when, kindled by the Holy Spirit, it commences using the ordinary aids given by God to all, and applies the remedies left by Him in His Church, such as regular confession, religious hooks, and sermons; these are the cure for a soul dead in its negligence and sins and liable to fall into temptation. Then it comes to life and continues nourishing itself on this food and on devout meditation until it has attained full vigour, which is the essential point, for I attach no importance to the rest. When the silkworm is full-grown as I told you in the first part of this chapter, it begins to spin silk and to build the house wherein it must die. By this house, when speaking of the soul, I mean Christ. I think I read or heard somewhere, either that our life is hid in Christ, or in God (which means the same thing) or that Christ is our life. [174] It makes little difference to my meaning which of these quotations is correct.
+   4. This shows, my daughters, how much, by God's grace, we can do, by preparing this home for ourselves, towards making Him our dwelling-place as He is in the prayer of union. You will suppose that I mean we can take away from or add something to God when I say that He is our home, and that we can make this home and dwell in it by our own power. Indeed we can: though we can neither deprive God of anything nor add aught to Him, yet we can take away from and add to ourselves, like the silkworms. The little we can do will hardly have been accomplished when this insignificant work of ours, which amounts to nothing at all, will be united by God to His greatness and thus enhanced with such immense value that our Lord Himself will be the reward of our toil. Although He has had the greatest share in it, He will join our trifling pains to the bitter sufferings He endured for us and make them one.
+   5. Forward then, my daughters! hasten over your work and build the little cocoon. Let us renounce self-love and self-will, [175] care for nothing earthly, do penance, pray, mortify ourselves, be obedient, and perform all the other good works of which you know. Act up to your light; you have been taught your duties. Die! die as the silkworm does when it has fulfilled the office of its creation, and you will see God and be immersed in His greatness, as the little silkworm is enveloped in its cocoon. Understand that when I say you will see God,' I mean in the manner described, in which He manifests Himself in this kind of union.
+   6. Now let us see what becomes of the silkworm,' for all I have been saying leads to this. As soon as, by means of this prayer, the soul has become entirely dead to the world, it comes forth like a lovely little white butterfly! [176] Oh, how great God is! How beautiful is the soul after having been immersed in God's grandeur and united closely to Him for but a short time! Indeed, I do not think it is ever as long as half an hour. [177] Truly, the spirit does not recognize itself, being as different from what it was as is the white butterfly from the repulsive caterpillar. It does not know how it can have merited so great a good, or rather, whence this grace came [178] which it well knows it merits not. The soul desires to praise our Lord God and longs to sacrifice itself and die a thousand deaths for Him. It feels an unconquerable desire for great crosses and would like to perform the most severe penances; it sighs for solitude and would have all men know God, while it is bitterly grieved at seeing them offend Him. These matters will be described more fully in the next mansion; there they are of the same nature, yet in a more advanced state the effects are far stronger, because, as I told you, if; after the soul has received these favours, it strives to make still farther progress, it will experience great things. Oh, to see the restlessness of this charming little butterfly, although never in its life has it been more tranquil and at peace! May God be praised! It knows not where to stay nor take its rest; everything on earth disgusts it after what it has experienced, particularly when God has often given it this wine which leaves fresh graces behind it at every draught.
+   7. It despises the work it did while yet a caterpillar--the slow weaving of its cocoon thread by thread--its wings have grown and it can fly; could it be content to crawl? All that it can do for God seems nothing to the soul compared with its desire. It no longer wonders at what the saints bore for Him, knowing by experience how our Lord aids and transforms the soul until it no longer seems the same in character and appearance. Formerly it feared penance, now it is strong: it wanted courage to forsake relations, friends, or possessions: neither its actions, its resolutions, nor separation from those it loved could detach the soul, but rather seemed to increase its fondness. Now it finds even their rightful claims a burden, [179] fearing contact with them lest it should offend God. It wearies of everything, realizing that no true rest can be found in creatures.
+   8. I seem to have enlarged on this subject, yet far more might be said about it; those who have received this favour will think I have treated it too briefly. No wonder this pretty butterfly, estranged from earthly things, seeks repose elsewhere. Where can the poor little creature go? It cannot return to whence it came, for as I told you, that is not in the soul's power, do what it will, but depends upon God's pleasure. Alas, what fresh trials begin to afflict the mind! Who would expect this after such a sublime grace? [180] In fact in one way or another we must carry the cross all our lives. If people told me that ever since attaining to the prayer of union they had enjoyed constant peace and consolation, I should reply that they could never have reached that state, but that, at the most, if they had arrived as far as the last mansion, their emotion must have been some spiritual satisfaction joined to physical debility. It might even have been a false sweetness caused by the devil, who gives peace for a time only to wage far fiercer war later on. I do not mean that those who reach this stage possess no peace; they do so in a very high degree, for their sorrows, though extremely severe, are so beneficial and proceed from so good a source as to procure both peace and happiness.
+   9. Discontent with this world gives such a painful longing to quit it that, if the heart finds comfort, it is solely from the thought that God wishes it to remain here in banishment. Even this is not enough to reconcile it to fate, for after all the gifts received, it is not yet so entirely surrendered to the will of God as it afterwards becomes. Here, although conformed to His will, the soul feels an unconquerable reluctance to submit, for our Lord has not given it higher grace. During prayer this grief breaks forth in floods of tears, probably from the great pain felt at seeing God offended and at thinking how many souls, both heretics and heathens, are lost eternally, and keenest grief of all, Christians also! The soul realizes the greatness of God's mercy and knows that however wicked men are, they may still repent and be saved; yet it fears that many precipitate themselves into hell.
+   10. Oh, infinite greatness of God! A few years ago--indeed, perhaps but a few days--this soul thought of nothing but itself. Who has made it feel such tormenting cares? If we tried for many years to obtain such sorrow by means of meditation, we could not succeed.
+   11. God help me! If for long days and years I considered how great a wrong it is that God should be offended, and that lost souls are His children and my brethren; if I pondered over the dangers of this world and how blessed it would be to leave this wretched life, would not that suffice? No, daughters, the pain would not be the same. for this, by the help of God, we can obtain by such meditation; but it does not seem to penetrate the very depths of our being like the other which appears to cut the soul to pieces and grind it to powder through no action--even sometimes with no wish--of its own. What is this sorrow, then? Whence does it come? I will tell you. Have you not heard (I quoted the words to you just now, but did not apply to them this meaning) [181] how the Bride says that God brought her into the cellar of wine and set in order charity in her'? [182] This is what happens here. The soul has so entirely yielded itself into His hands and is so subdued by love for Him that it knows or cares for nothing but that God should dispose of it according to His will. I believe that He only bestows this grace on those He takes entirely for His own. He desires that, without knowing how, the spirit should come forth stamped with His seal for indeed it does no more than does the wax when impressed with the signet. It does not mould itself but need only be in a fit condition--soft and pliable; even then it does not soften itself but must merely remain still and submit to the impression.
+   12. How good Thou art, O God! All is done for us by Thee, Who dost but ask us to give our wills to Thee that we may be plastic as wax in Thy hands. You see, sisters, what God does to this soul so that it may know that it is His. He gives it something of His own--that which His Son possessed when living on earth--He could bestow on greater gift on us. Who could ever have longed more eagerly to leave this life than did Christ? As He said at the Last Supper: With desire have I desired' [183] this. O Lord! does not that bitter death Thou art to undergo present itself before Thine eyes in all its pain and horror? 'No, for My ardent love and My desire to save souls are immeasurably stronger than the torments. This deeper sorrow I have suffered and still suffer while living here on earth, makes other pain seem as nothing in comparison.'
+   13. I have often meditated on this and I know that the torture a friend of mine [184] has felt, and still feels, at seeing our Lord sinned against is so unbearable that she would far rather die than continue in such anguish. Then I thought that if a soul whose charity is so weak compared to that of Christ--indeed, in comparison with His this charity might be said not to exist--experiences this insufferable grief, what must have been the feelings of our Lord Jesus Christ and what must His life have been? for all things were present before His eyes and He was the constant witness of the great offences committed against His Father. I believe without doubt that this pained Him far more than His most sacred Passion. There, at least, He found the end of all His trials, while His agony was allayed by the consolation of gaining our salvation through His death and of proving how He loved His Father by suffering for Him. Thus, people who, urged by fervent love, perform great penances hardly feel them but want to do still more and count even that as little. What, then, must His Majesty have felt at thus publicly manifesting His perfect obedience to His Father and His love for His brethren? What joy to suffer in doing God's will! Yet I think the constant sight of the many sins committed against God and of the numberless souls on their way to hell must have caused Him such anguish that, had He not been more than man, one day of such torment would have destroyed not only His life but many more lives, had they been His.
 
-   1. You may imagine that there is no more left to be described of the
-   contents of this mansion, but a great deal remains to be told, for as I
-   said, it contains favours of various degrees. I think there is nothing
-   to add about the prayer of union, but when the soul on which God
-   bestows this grace disposes itself for their reception, I could tell
-   you much about the marvels our Lord works in it. I will describe some
-   of them in my own way, also the state in which they leave the soul, and
-   will use a suitable comparison to elucidate the matter, explaining that
-   though we can take no active part in this work of God within us, [173]
-     yet we may do much to prepare ourselves to receive this grace. You
-   have heard how wonderfully silk is made--in a way such as God alone
-   could plan--how it all comes from an egg resembling a tiny pepper-corn.
-   Not having seen it myself, I only know of it by hearsay, so if the
-   facts are inaccurate the fault will not be mine. When, in the warm
-   weather, the mulberry trees come into leaf, the little egg which was
-   lifeless before its food was ready, begins to live. The caterpillar
-   nourishes itself upon the mulberry leaves until, when it has grown
-   large, people place near it small twigs upon which, of its own accord,
-   it spins silk from its tiny mouth until it has made a narrow little
-   cocoon in which it buries itself. Then this large and ugly worm leaves
-   the cocoon as a lovely little white butterfly.
-
-   2. If we had not seen this but had only heard of it as an old legend,
-   who could believe it? Could we persuade ourselves that insects so
-   utterly without the use of reason as a silkworm or a bee would work
-   with such industry and skill in our service that the poor little
-   silkworm loses its life over the task? This would suffice for a short
-   meditation, sisters, without my adding more, for you may learn from it
-   the wonders and the wisdom of God. How if we knew the properties of all
-   things? It is most profitable to ponder over the grandeurs of creation
-   and to exult in being the brides of such a wise and mighty King.
-
-   3. Let us return to our subject. The silkworm symbolizes the soul which
-   begins to live when, kindled by the Holy Spirit, it commences using the
-   ordinary aids given by God to all, and applies the remedies left by Him
-   in His Church, such as regular confession, religious hooks, and
-   sermons; these are the cure for a soul dead in its negligence and sins
-   and liable to fall into temptation. Then it comes to life and continues
-   nourishing itself on this food and on devout meditation until it has
-   attained full vigour, which is the essential point, for I attach no
-   importance to the rest. When the silkworm is full-grown as I told you
-   in the first part of this chapter, it begins to spin silk and to build
-   the house wherein it must die. By this house, when speaking of the
-   soul, I mean Christ. I think I read or heard somewhere, either that our
-   life is hid in Christ, or in God (which means the same thing) or that
-   Christ is our life. [174] It makes little difference to my meaning
-   which of these quotations is correct.
-
-   4. This shows, my daughters, how much, by God's grace, we can do, by
-   preparing this home for ourselves, towards making Him our
-   dwelling-place as He is in the prayer of union. You will suppose that I
-   mean we can take away from or add something to God when I say that He
-   is our home, and that we can make this home and dwell in it by our own
-   power. Indeed we can: though we can neither deprive God of anything nor
-   add aught to Him, yet we can take away from and add to ourselves, like
-   the silkworms. The little we can do will hardly have been accomplished
-   when this insignificant work of ours, which amounts to nothing at all,
-   will be united by God to His greatness and thus enhanced with such
-   immense value that our Lord Himself will be the reward of our toil.
-   Although He has had the greatest share in it, He will join our trifling
-   pains to the bitter sufferings He endured for us and make them one.
-
-   5. Forward then, my daughters! hasten over your work and build the
-   little cocoon. Let us renounce self-love and self-will, [175] care
-   for nothing earthly, do penance, pray, mortify ourselves, be obedient,
-   and perform all the other good works of which you know. Act up to your
-   light; you have been taught your duties. Die! die as the silkworm does
-   when it has fulfilled the office of its creation, and you will see God
-   and be immersed in His greatness, as the little silkworm is enveloped
-   in its cocoon. Understand that when I say you will see God,' I mean in
-   the manner described, in which He manifests Himself in this kind of
-   union.
-
-   6. Now let us see what becomes of the silkworm,' for all I have been
-   saying leads to this. As soon as, by means of this prayer, the soul has
-   become entirely dead to the world, it comes forth like a lovely little
-   white butterfly! [176] Oh, how great God is! How beautiful is the
-   soul after having been immersed in God's grandeur and united closely to
-   Him for but a short time! Indeed, I do not think it is ever as long as
-   half an hour. [177] Truly, the spirit does not recognize itself,
-   being as different from what it was as is the white butterfly from the
-   repulsive caterpillar. It does not know how it can have merited so
-   great a good, or rather, whence this grace came [178] which it well
-   knows it merits not. The soul desires to praise our Lord God and longs
-   to sacrifice itself and die a thousand deaths for Him. It feels an
-   unconquerable desire for great crosses and would like to perform the
-   most severe penances; it sighs for solitude and would have all men know
-   God, while it is bitterly grieved at seeing them offend Him. These
-   matters will be described more fully in the next mansion; there they
-   are of the same nature, yet in a more advanced state the effects are
-   far stronger, because, as I told you, if; after the soul has received
-   these favours, it strives to make still farther progress, it will
-   experience great things. Oh, to see the restlessness of this charming
-   little butterfly, although never in its life has it been more tranquil
-   and at peace! May God be praised! It knows not where to stay nor take
-   its rest; everything on earth disgusts it after what it has
-   experienced, particularly when God has often given it this wine which
-   leaves fresh graces behind it at every draught.
-
-   7. It despises the work it did while yet a caterpillar--the slow
-   weaving of its cocoon thread by thread--its wings have grown and it can
-   fly; could it be content to crawl? All that it can do for God seems
-   nothing to the soul compared with its desire. It no longer wonders at
-   what the saints bore for Him, knowing by experience how our Lord aids
-   and transforms the soul until it no longer seems the same in character
-   and appearance. Formerly it feared penance, now it is strong: it wanted
-   courage to forsake relations, friends, or possessions: neither its
-   actions, its resolutions, nor separation from those it loved could
-   detach the soul, but rather seemed to increase its fondness. Now it
-   finds even their rightful claims a burden, [179] fearing contact with
-   them lest it should offend God. It wearies of everything, realizing
-   that no true rest can be found in creatures.
-
-   8. I seem to have enlarged on this subject, yet far more might be said
-   about it; those who have received this favour will think I have treated
-   it too briefly. No wonder this pretty butterfly, estranged from earthly
-   things, seeks repose elsewhere. Where can the poor little creature go?
-   It cannot return to whence it came, for as I told you, that is not in
-   the soul's power, do what it will, but depends upon God's pleasure.
-   Alas, what fresh trials begin to afflict the mind! Who would expect
-   this after such a sublime grace? [180] In fact in one way or another
-   we must carry the cross all our lives. If people told me that ever
-   since attaining to the prayer of union they had enjoyed constant peace
-   and consolation, I should reply that they could never have reached that
-   state, but that, at the most, if they had arrived as far as the last
-   mansion, their emotion must have been some spiritual satisfaction
-   joined to physical debility. It might even have been a false sweetness
-   caused by the devil, who gives peace for a time only to wage far
-   fiercer war later on. I do not mean that those who reach this stage
-   possess no peace; they do so in a very high degree, for their sorrows,
-   though extremely severe, are so beneficial and proceed from so good a
-   source as to procure both peace and happiness.
-
-   9. Discontent with this world gives such a painful longing to quit it
-   that, if the heart finds comfort, it is solely from the thought that
-   God wishes it to remain here in banishment. Even this is not enough to
-   reconcile it to fate, for after all the gifts received, it is not yet
-   so entirely surrendered to the will of God as it afterwards becomes.
-   Here, although conformed to His will, the soul feels an unconquerable
-   reluctance to submit, for our Lord has not given it higher grace.
-   During prayer this grief breaks forth in floods of tears, probably from
-   the great pain felt at seeing God offended and at thinking how many
-   souls, both heretics and heathens, are lost eternally, and keenest
-   grief of all, Christians also! The soul realizes the greatness of God's
-   mercy and knows that however wicked men are, they may still repent and
-   be saved; yet it fears that many precipitate themselves into hell.
-
-   10. Oh, infinite greatness of God! A few years ago--indeed, perhaps but
-   a few days--this soul thought of nothing but itself. Who has made it
-   feel such tormenting cares? If we tried for many years to obtain such
-   sorrow by means of meditation, we could not succeed.
-
-   11. God help me! If for long days and years I considered how great a
-   wrong it is that God should be offended, and that lost souls are His
-   children and my brethren; if I pondered over the dangers of this world
-   and how blessed it would be to leave this wretched life, would not that
-   suffice? No, daughters, the pain would not be the same. for this, by
-   the help of God, we can obtain by such meditation; but it does not seem
-   to penetrate the very depths of our being like the other which appears
-   to cut the soul to pieces and grind it to powder through no
-   action--even sometimes with no wish--of its own. What is this sorrow,
-   then? Whence does it come? I will tell you. Have you not heard (I
-   quoted the words to you just now, but did not apply to them this
-   meaning) [181] how the Bride says that God brought her into the
-   cellar of wine and set in order charity in her'? [182] This is what
-   happens here. The soul has so entirely yielded itself into His hands
-   and is so subdued by love for Him that it knows or cares for nothing
-   but that God should dispose of it according to His will. I believe that
-   He only bestows this grace on those He takes entirely for His own. He
-   desires that, without knowing how, the spirit should come forth stamped
-   with His seal for indeed it does no more than does the wax when
-   impressed with the signet. It does not mould itself but need only be in
-   a fit condition--soft and pliable; even then it does not soften itself
-   but must merely remain still and submit to the impression.
-
-   12. How good Thou art, O God! All is done for us by Thee, Who dost but
-   ask us to give our wills to Thee that we may be plastic as wax in Thy
-   hands. You see, sisters, what God does to this soul so that it may know
-   that it is His. He gives it something of His own--that which His Son
-   possessed when living on earth--He could bestow on greater gift on us.
-   Who could ever have longed more eagerly to leave this life than did
-   Christ? As He said at the Last Supper: With desire have I desired'
-   [183] this. O Lord! does not that bitter death Thou art to undergo
-   present itself before Thine eyes in all its pain and horror? 'No, for
-   My ardent love and My desire to save souls are immeasurably stronger
-   than the torments. This deeper sorrow I have suffered and still suffer
-   while living here on earth, makes other pain seem as nothing in
-   comparison.'
-
-   13. I have often meditated on this and I know that the torture a friend
-   of mine [184] has felt, and still feels, at seeing our Lord sinned
-   against is so unbearable that she would far rather die than continue in
-   such anguish. Then I thought that if a soul whose charity is so weak
-   compared to that of Christ--indeed, in comparison with His this charity
-   might be said not to exist--experiences this insufferable grief, what
-   must have been the feelings of our Lord Jesus Christ and what must His
-   life have been? for all things were present before His eyes and He was
-   the constant witness of the great offences committed against His
-   Father. I believe without doubt that this pained Him far more than His
-   most sacred Passion. There, at least, He found the end of all His
-   trials, while His agony was allayed by the consolation of gaining our
-   salvation through His death and of proving how He loved His Father by
-   suffering for Him. Thus, people who, urged by fervent love, perform
-   great penances hardly feel them but want to do still more and count
-   even that as little. What, then, must His Majesty have felt at thus
-   publicly manifesting His perfect obedience to His Father and His love
-   for His brethren? What joy to suffer in doing God's will! Yet I think
-   the constant sight of the many sins committed against God and of the
-   numberless souls on their way to hell must have caused Him such anguish
-   that, had He not been more than man, one day of such torment would have
-   destroyed not only His life but many more lives, had they been His.
-
-### Footnotes
+## Footnotes
 
    [173] Way of Perf. ch. xxv. 3.
 
-   [174] Col. iii. 3: 'Vita vestra est abscondita cum Christo in Deo.'
-
-   Gal. ii. w: Vivo autem, jam on ego; vivit vero in me Christus.'
+   [174] Col. iii. 3: 'Vita vestra est abscondita cum Christo in Deo.' Gal. ii. w: Vivo autem, jam on ego; vivit vero in me Christus.'
 
    [175] Way of Perf. ch. xxxi. i 1.
 
-   [176] St. Teresa must have been thinking of this simile when she chose
-
-   butterflies' as the pseudonym for her nuns in her letters at the time
-
-   when she was obliged to be cautious on account of the troubles of the
-
-   Reform.
+   [176] St. Teresa must have been thinking of this simile when she chose butterflies' as the pseudonym for her nuns in her letters at the time when she was obliged to be cautious on account of the troubles of the Reform.
 
    [177] [[tj-life-ccel|Life]], ch. xviii. 16.
 
@@ -574,265 +105,55 @@ author: Saint Teresa of Avila
 
    [179] Rel. ix, 11.
 
-   [180] Way of Perf. ch. xviii. 1-4. Castle, M. vi ch. i. 3, sqq. M. vii.
-
-   ch. iv. 7.
+   [180] Way of Perf. ch. xviii. 1-4. Castle, M. vi ch. i. 3, sqq. M. vii. ch. iv. 7.
 
    [181] Fifth Mansions, ch. i. 10.
 
-   [182] Cant. ii. 4. Introduxit me in cellam vinariam, ordinavit in me
+   [182] Cant. ii. 4. Introduxit me in cellam vinariam, ordinavit in me caritatem.'
 
-   caritatem.'
+   [183] St. Luke xxii. 15: Desiderio desideravi hoc pascha manducare vobiscum, antequam patiar.'
 
-   [183] St. Luke xxii. 15: Desiderio desideravi hoc pascha manducare
+   [184] This friend is, of course, St. Teresa herself. See Life, ch. xiii. 14; xxxii. 9. Way of Perf. ch. i. 3. Castle, M. vii. ch. i. 5, 6. Excl. x. 9.
 
-   vobiscum, antequam patiar.'
+## Chapter III. This Chapter Continues the Same Subject and Speaks of Another Kind of Union Which the Soul Can Obtain with the Help of God. the Importance of Love of Our Neighbour in This Matter. This Is Very Useful to Read
 
-   [184] This friend is, of course, St. Teresa herself. See Life, ch.
+   1. Zeal for souls left by divine union. 2. The soul may fall from such a state. 3. How divine union may always be obtained. 4. Union with the will of God the basis of all supernatural union. 5. Advantage of union gained by self-mortification. 6. Defects which hinder this union. 7. Divine union obtained by perfect love of God and our neighbour. 8. Love for God and our neighbour are proportionate. 9. Real and imaginary virtues. 10. Illusionary good resolutions. 11. Works, not feelings, procure union. 12. Fraternal charity will certainly gain this union.
+   1. LET us now return to our little dove and see what graces God gives it in this state. This implies that the soul endeavours to advance in the service of our Lord and in self-knowledge. If it receives the grace of union and then does no more, thinking itself safe, and so leads a careless life, wandering off the road to heaven (that is, the keeping of the commandments) it will share the fate of the butterfly that comes from the silkworm, which lays some eggs that produce more of its kind and then dies for ever. I say it leaves some eggs, for I believe God will not allow so great a favour to be lost but that if the recipient does not profit by it, others will. For while it keeps to the right path, this soul, with its ardent desires and great virtues, helps others and kindles their fervour with its own. Yet even after having lost this it may still long to benefit others and delight to make known the mercies shown by God to those who love and serve Him. [185]
+   2. I knew a person to whom this happened. Although greatly erring, she longed that others should profit by the favours God had bestowed on her and taught the way of prayer to people ignorant of it, thus helping them immensely. God afterwards bestowed fresh light upon her; indeed the prayer of union had not hitherto produced the above effects in her. How many people there must be to whom our Lord communicates Himself, who, like Judas, are called to the Apostleship and made kings by Him, as was Saul, yet who afterwards lose everything by their own fault! We should learn from this, sisters, that if we would merit fresh favours and avoid losing those we already possess, our only safety lies in obedience and in following the law of God. This I say, both to those who have received these graces and to those who have not. [186]
+   3. In spite of all I have written, there still seems some difficulty in understanding this mansion. The advantage of entering is so great, that it is well that none should despair of doing so because God does not give them the supernatural gifts described above. With the help of divine grace true union can always be attained by forcing ourselves to renounce our own will and by following the will of God in all things. [187]
+   4. Oh, how many of us affirm that we do this, and believe we seek nothing else--indeed we would die for the truth of what we say! If this be the case I can only declare, as I fancy I did before, and I shall again and again, that we have already obtained this grace from God. Therefore we need not wish for that other delightful union described above, for its chief value lies in the resignation of our will to that of God without which it could not be reached. [188] Oh, how desirable is this union! The happy soul which has attained it will live in this world and in the next without care of any sort. No earthly events can trouble it, unless it should see itself in danger of losing God or should witness any offence offered Him. Neither sickness, poverty, nor the loss of any one by death affect it, except that of persons useful to the Church of God, for the soul realizes thoroughly that God's disposal is wiser than its own desires.
+   5. You must know that there are different kinds of sorrow: there are both griefs and joys rising from an impulse of nature or from a charity which makes us pity our neighbour, like that felt by our Saviour when He raised Lazarus from the dead. [189] These feelings do not destroy union with the will of God nor do they disturb the soul by a restless, turbulent, and lasting passion. They soon pass away, for as I said of sweetness in prayer, [190] they do not affect the depths of the soul but only its senses and faculties. They are found in the former mansions, but do not enter the last of all. Is it necessary, in order to attain to this kind of divine union, for the powers of the soul to be suspended? No; God has many ways of enriching the soul and bringing it to these mansions besides what might be called a short cut.' But, be sure of this, my daughters: in any case the silkworm must die and it will cost you more in this way. In the former manner this death is facilitated by finding ourselves introduced into a new life; here, on the contrary, we must give ourselves the death-blow. I own that the work will be much harder, but then it will be of higher value so that your reward will be greater if you come forth victorious; [191] yet there is no doubt it is possible for you to attain this true union with the will of God.
+   6. This is the union I have longed for all my life and that I beg our Lord to grant me; it is the most certain and the safest. But alas, how few of us ever obtain it! Those who are careful not to offend God, and who enter the religious state, think there is nothing more to do. How many maggots remain in hiding until, like the worm which gnawed at Jonas's ivy, [192] they have destroyed our virtues. These pests are such evils as self-love, self-esteem, rash judgment of others even in small matters, and a want of charity in not loving our neighbour quite as much as ourselves. Although perforce we satisfy our obligations sufficiently to avoid sin, yet we fall far short of what must be done in order to obtain perfect union with the will of God.
+   7. What do you think, daughters, is His will? That we may become quite perfect and so be made one with Him and with His Father as He prayed we might be. [193] Observe, then, what is wanting in us to obtain this. I assure you it is most painful for me to write on this subject, for I see how far I am, through my own fault, from having attained perfection. There is no need for us to receive special consolations from God in order to arrive at conformity with His will; He has done enough in giving us His Son to teach the way. This does not mean that we must so submit to the will of God as not to sorrow at such troubles as the death of a father or brother, or that we must bear crosses and sickness with joy. [194] This is well, but it sometimes comes from common sense which, as we cannot help ourselves, makes a virtue of necessity. How often the great wisdom of the heathen philosophers led them to act thus in trials of this kind! Our Lord asks but two things of us: love, for Him and for our neighbour: these are what we must strive to obtain. If we practise both these virtues perfectly we shall be doing His will and so shall be united to Him. But, as I said, we are very far from obeying and serving our great Master perfectly in these two matters: may His Majesty give us the grace to merit union with Him; it is in our power to gain it if we will.
+   8. I think the most certain sign that we keep these two commandments is that we have a genuine love for others. We cannot know whether we love God although there may be strong reasons for thinking so, but there can be no doubt about whether we love our neighbour or no. [195] Be sure that in proportion as you advance in fraternal charity, you are increasing in your love of God, [196] for His Majesty bears so tender an affection for us that I cannot doubt He will repay our love for others by augmenting, in a thousand different ways, that which we bear for Him. We should watch most carefully over ourselves in this matter, for if we are faultless on this point we have done all. I believe human nature is so evil that we could not feel a perfect charity for our neighbour unless it were rooted in the love of God.
+   9. In this most important matter, sisters, we should be most vigilant in little things, taking no notice of the great works we plan during prayer which we imagine that we would perform for other people, even perhaps for the sake of saving a single soul. If our actions afterwards belie these grand schemes, there is no reason to imagine that we should do anything of the sort. I say the same of humility and the other virtues. The devil's wiles are many; he would turn hell upside down a thousand times to make us think ourselves better than we are. He has good reason for it, for such fancies are most injurious; sham virtues springing from this root are always accompanied by a vainglory never found in those of divine origin, which are free from pride.
+   10. It is amusing to see souls who, while they are at prayer, fancy they are willing to be despised and publicly insulted for the love of God, yet afterwards do all they can to hide their small defects; if any one unjustly accuses them of a fault, God deliver us from their outcries! Let those who cannot bear such things take no notice of the splendid plans they made when alone, which could have been no genuine determination of the will but only some trick of the imagination, or the results would have been very different. The devil assaults and deceives people in this way, often doing great harm to women and others too ignorant to understand the difference between the powers of the soul and the imagination, and a thousand other matters of the sort. O sisters! how easy it is to know which of you have attained to a sincere love of your neighbour, and which of you are far from it. If you knew the importance of this virtue, your only care would be to gain it.
+   11. When I see people very anxious to know what sort of prayer they practise, covering their faces and afraid to move or think lest they should lose any slight tenderness and devotion they feel, I know how little they understand how to attain union with God since they think it consists in such things as these. No, sisters, no; our Lord expects works from us. If you see a sick sister whom you can relieve, [197] never fear losing your devotion; compassionate her; if she is in pain, feel for it as if it were your own and, when there is need, fast so that she may eat, not so much for her sake as because you know your Lord asks it of you. This is the true union of our will with the will of God. If some one else is well spoken of, be more pleased than if it were yourself; this is easy enough, for if you were really humble it would vex you to be praised. It is a great good to rejoice at your sister's virtues being known and to feel as sorry for the fault you see in her as if it were yours, hiding it from the sight of others.
+   12. I have often spoken on this subject elsewhere, [198] because, my sisters, if we fail in this I know that all is lost: please God this may never be our case. If you possess fraternal charity, I assure you that you will certainly obtain the union I have described. If you are conscious that you are wanting in this charity, although you may feel devotion and sweetness and a short absorption in the prayer of quiet (which makes you think you have attained to union with God), believe me you have not yet reached it. Beg our Lord to grant you perfect love for your neighbour, and leave the rest to Him. He will give you more than you know how to desire if you constrain yourselves and strive with all your power to gain it, forcing your will as far as possible to comply in all things with your sisters' wishes although you may sometimes forfeit your own rights by so doing. Forget your self-interests for theirs, how ever much nature may rebel; when opportunity occurs take some burden upon yourself to ease your neighbour of it. Do not fancy it will cost you nothing and that you will find it all done for you: think what the love He bore for us cost our Spouse, Who to free us from death, Himself suffered the most painful death of all--the death of the Cross.
 
-   xiii. 14; xxxii. 9. Way of Perf. ch. i. 3. Castle, M. vii. ch. i. 5, 6.
-
-   Excl. x. 9.
-
-### Chapter III. This Chapter Continues the Same Subject and Speaks of Another Kind of Union Which the Soul Can Obtain with the Help of God. the Importance of Love of Our Neighbour in This Matter. This Is Very Useful to Read.
-
-   1. Zeal for souls left by divine union. 2. The soul may fall from such
-   a state. 3. How divine union may always be obtained. 4. Union with the
-   will of God the basis of all supernatural union. 5. Advantage of union
-   gained by self-mortification. 6. Defects which hinder this union. 7.
-   Divine union obtained by perfect love of God and our neighbour. 8. Love
-   for God and our neighbour are proportionate. 9. Real and imaginary
-   virtues. 10. Illusionary good resolutions. 11. Works, not feelings,
-   procure union. 12. Fraternal charity will certainly gain this union.
-
-   1. LET us now return to our little dove and see what graces God gives
-   it in this state. This implies that the soul endeavours to advance in
-   the service of our Lord and in self-knowledge. If it receives the grace
-   of union and then does no more, thinking itself safe, and so leads a
-   careless life, wandering off the road to heaven (that is, the keeping
-   of the commandments) it will share the fate of the butterfly that comes
-   from the silkworm, which lays some eggs that produce more of its kind
-   and then dies for ever. I say it leaves some eggs, for I believe God
-   will not allow so great a favour to be lost but that if the recipient
-   does not profit by it, others will. For while it keeps to the right
-   path, this soul, with its ardent desires and great virtues, helps
-   others and kindles their fervour with its own. Yet even after having
-   lost this it may still long to benefit others and delight to make known
-   the mercies shown by God to those who love and serve Him. [185]
-
-   2. I knew a person to whom this happened. Although greatly erring, she
-   longed that others should profit by the favours God had bestowed on her
-   and taught the way of prayer to people ignorant of it, thus helping
-   them immensely. God afterwards bestowed fresh light upon her; indeed
-   the prayer of union had not hitherto produced the above effects in her.
-   How many people there must be to whom our Lord communicates Himself,
-   who, like Judas, are called to the Apostleship and made kings by Him,
-   as was Saul, yet who afterwards lose everything by their own fault! We
-   should learn from this, sisters, that if we would merit fresh favours
-   and avoid losing those we already possess, our only safety lies in
-   obedience and in following the law of God. This I say, both to those
-   who have received these graces and to those who have not. [186]
-
-   3. In spite of all I have written, there still seems some difficulty in
-   understanding this mansion. The advantage of entering is so great, that
-   it is well that none should despair of doing so because God does not
-   give them the supernatural gifts described above. With the help of
-   divine grace true union can always be attained by forcing ourselves to
-   renounce our own will and by following the will of God in all things.
-   [187]
-
-   4. Oh, how many of us affirm that we do this, and believe we seek
-   nothing else--indeed we would die for the truth of what we say! If this
-   be the case I can only declare, as I fancy I did before, and I shall
-   again and again, that we have already obtained this grace from God.
-   Therefore we need not wish for that other delightful union described
-   above, for its chief value lies in the resignation of our will to that
-   of God without which it could not be reached. [188] Oh, how desirable
-   is this union! The happy soul which has attained it will live in this
-   world and in the next without care of any sort. No earthly events can
-   trouble it, unless it should see itself in danger of losing God or
-   should witness any offence offered Him. Neither sickness, poverty, nor
-   the loss of any one by death affect it, except that of persons useful
-   to the Church of God, for the soul realizes thoroughly that God's
-   disposal is wiser than its own desires.
-
-   5. You must know that there are different kinds of sorrow: there are
-   both griefs and joys rising from an impulse of nature or from a charity
-   which makes us pity our neighbour, like that felt by our Saviour when
-   He raised Lazarus from the dead. [189] These feelings do not destroy
-   union with the will of God nor do they disturb the soul by a restless,
-   turbulent, and lasting passion. They soon pass away, for as I said of
-   sweetness in prayer, [190] they do not affect the depths of the soul
-   but only its senses and faculties. They are found in the former
-   mansions, but do not enter the last of all. Is it necessary, in order
-   to attain to this kind of divine union, for the powers of the soul to
-   be suspended? No; God has many ways of enriching the soul and bringing
-   it to these mansions besides what might be called a short cut.' But, be
-   sure of this, my daughters: in any case the silkworm must die and it
-   will cost you more in this way. In the former manner this death is
-   facilitated by finding ourselves introduced into a new life; here, on
-   the contrary, we must give ourselves the death-blow. I own that the
-   work will be much harder, but then it will be of higher value so that
-   your reward will be greater if you come forth victorious; [191] yet
-   there is no doubt it is possible for you to attain this true union with
-   the will of God.
-
-   6. This is the union I have longed for all my life and that I beg our
-   Lord to grant me; it is the most certain and the safest. But alas, how
-   few of us ever obtain it! Those who are careful not to offend God, and
-   who enter the religious state, think there is nothing more to do. How
-   many maggots remain in hiding until, like the worm which gnawed at
-   Jonas's ivy, [192] they have destroyed our virtues. These pests are
-   such evils as self-love, self-esteem, rash judgment of others even in
-   small matters, and a want of charity in not loving our neighbour quite
-   as much as ourselves. Although perforce we satisfy our obligations
-   sufficiently to avoid sin, yet we fall far short of what must be done
-   in order to obtain perfect union with the will of God.
-
-   7. What do you think, daughters, is His will? That we may become quite
-   perfect and so be made one with Him and with His Father as He prayed we
-   might be. [193] Observe, then, what is wanting in us to obtain this.
-   I assure you it is most painful for me to write on this subject, for I
-   see how far I am, through my own fault, from having attained
-   perfection. There is no need for us to receive special consolations
-   from God in order to arrive at conformity with His will; He has done
-   enough in giving us His Son to teach the way. This does not mean that
-   we must so submit to the will of God as not to sorrow at such troubles
-   as the death of a father or brother, or that we must bear crosses and
-   sickness with joy. [194] This is well, but it sometimes comes from
-   common sense which, as we cannot help ourselves, makes a virtue of
-   necessity. How often the great wisdom of the heathen philosophers led
-   them to act thus in trials of this kind! Our Lord asks but two things
-   of us: love, for Him and for our neighbour: these are what we must
-   strive to obtain. If we practise both these virtues perfectly we shall
-   be doing His will and so shall be united to Him. But, as I said, we are
-   very far from obeying and serving our great Master perfectly in these
-   two matters: may His Majesty give us the grace to merit union with Him;
-   it is in our power to gain it if we will.
-
-   8. I think the most certain sign that we keep these two commandments is
-   that we have a genuine love for others. We cannot know whether we love
-   God although there may be strong reasons for thinking so, but there can
-   be no doubt about whether we love our neighbour or no. [195] Be sure
-   that in proportion as you advance in fraternal charity, you are
-   increasing in your love of God, [196] for His Majesty bears so tender
-   an affection for us that I cannot doubt He will repay our love for
-   others by augmenting, in a thousand different ways, that which we bear
-   for Him. We should watch most carefully over ourselves in this matter,
-   for if we are faultless on this point we have done all. I believe human
-   nature is so evil that we could not feel a perfect charity for our
-   neighbour unless it were rooted in the love of God.
-
-   9. In this most important matter, sisters, we should be most vigilant
-   in little things, taking no notice of the great works we plan during
-   prayer which we imagine that we would perform for other people, even
-   perhaps for the sake of saving a single soul. If our actions afterwards
-   belie these grand schemes, there is no reason to imagine that we should
-   do anything of the sort. I say the same of humility and the other
-   virtues. The devil's wiles are many; he would turn hell upside down a
-   thousand times to make us think ourselves better than we are. He has
-   good reason for it, for such fancies are most injurious; sham virtues
-   springing from this root are always accompanied by a vainglory never
-   found in those of divine origin, which are free from pride.
-
-   10. It is amusing to see souls who, while they are at prayer, fancy
-   they are willing to be despised and publicly insulted for the love of
-   God, yet afterwards do all they can to hide their small defects; if any
-   one unjustly accuses them of a fault, God deliver us from their
-   outcries! Let those who cannot bear such things take no notice of the
-   splendid plans they made when alone, which could have been no genuine
-   determination of the will but only some trick of the imagination, or
-   the results would have been very different. The devil assaults and
-   deceives people in this way, often doing great harm to women and others
-   too ignorant to understand the difference between the powers of the
-   soul and the imagination, and a thousand other matters of the sort. O
-   sisters! how easy it is to know which of you have attained to a sincere
-   love of your neighbour, and which of you are far from it. If you knew
-   the importance of this virtue, your only care would be to gain it.
-
-   11. When I see people very anxious to know what sort of prayer they
-   practise, covering their faces and afraid to move or think lest they
-   should lose any slight tenderness and devotion they feel, I know how
-   little they understand how to attain union with God since they think it
-   consists in such things as these. No, sisters, no; our Lord expects
-   works from us. If you see a sick sister whom you can relieve, [197]
-   never fear losing your devotion; compassionate her; if she is in pain,
-   feel for it as if it were your own and, when there is need, fast so
-   that she may eat, not so much for her sake as because you know your
-   Lord asks it of you. This is the true union of our will with the will
-   of God. If some one else is well spoken of, be more pleased than if it
-   were yourself; this is easy enough, for if you were really humble it
-   would vex you to be praised. It is a great good to rejoice at your
-   sister's virtues being known and to feel as sorry for the fault you see
-   in her as if it were yours, hiding it from the sight of others.
-
-   12. I have often spoken on this subject elsewhere, [198] because, my
-   sisters, if we fail in this I know that all is lost: please God this
-   may never be our case. If you possess fraternal charity, I assure you
-   that you will certainly obtain the union I have described. If you are
-   conscious that you are wanting in this charity, although you may feel
-   devotion and sweetness and a short absorption in the prayer of quiet
-   (which makes you think you have attained to union with God), believe me
-   you have not yet reached it. Beg our Lord to grant you perfect love for
-   your neighbour, and leave the rest to Him. He will give you more than
-   you know how to desire if you constrain yourselves and strive with all
-   your power to gain it, forcing your will as far as possible to comply
-   in all things with your sisters' wishes although you may sometimes
-   forfeit your own rights by so doing. Forget your self-interests for
-   theirs, how ever much nature may rebel; when opportunity occurs take
-   some burden upon yourself to ease your neighbour of it. Do not fancy it
-   will cost you nothing and that you will find it all done for you: think
-   what the love He bore for us cost our Spouse, Who to free us from
-   death, Himself suffered the most painful death of all--the death of the
-   Cross.
-
-### Footnotes
+## Footnotes
 
    [185] [[tj-life-ccel|Life]], ch. vii. 18. Way of Perf. xli. 8.
 
    [186] Life. ch, vii. 21.
 
-   [187] Found. ch. v. 10. These shall not attain to the true liberty of a
-
-   pure heart, nor to the grace of a delightful familiarity with Me,
-
-   unless they first resign themselves and offer themselves a daily
-
-   sacrifice to Me: for without this, divine union neither is nor will be
-
-   obtained.' (Imitation, book iii. ch. xxxvii. 4.)
+   [187] Found. ch. v. 10. These shall not attain to the true liberty of a pure heart, nor to the grace of a delightful familiarity with Me, unless they first resign themselves and offer themselves a daily sacrifice to Me: for without this, divine union neither is nor will be obtained.' (Imitation, book iii. ch. xxxvii. 4.)
 
    [188] Philippus a SS. Trinitate, l.c., p. iii. tr. i, disc. ii. art. 4.
 
-   [189] St. John xi. 35, 36: Et lacrymatus est Jesus. Dixerunt ergo
-
-   Judæi: Ecce quomodo amabat cum.'
+   [189] St. John xi. 35, 36: Et lacrymatus est Jesus. Dixerunt ergo Judæi: Ecce quomodo amabat cum.'
 
    [190] Fourth Mansions, ch. i. 5. Fifth Mansions, ch. i. 7.
 
    [191] Way of Perf. ch. xvii. 2.
 
-   [192] Jonas iv. 6, 7: And the Lord God prepared an ivy, and it came up
+   [192] Jonas iv. 6, 7: And the Lord God prepared an ivy, and it came up over the head of Jonas, to be a shadow over his head, and to cover him, for he was fatigued; and Jonas was exceeding glad of the ivy. But God prepared a worm, when the morning arose on the following day: and it struck the ivy and it withered.'
 
-   over the head of Jonas, to be a shadow over his head, and to cover him,
-
-   for he was fatigued; and Jonas was exceeding glad of the ivy. But God
-
-   prepared a worm, when the morning arose on the following day: and it
-
-   struck the ivy and it withered.'
-
-   [193] St. John xvii. 22, 23: Ut sint unum, sicut et nos unum sumus. Ego
-
-   in eis, et tu in me: ut sint consummati in unum.' Way of Perf. ch.
-
-   xxxii. 6.
+   [193] St. John xvii. 22, 23: Ut sint unum, sicut et nos unum sumus. Ego in eis, et tu in me: ut sint consummati in unum.' Way of Perf. ch. xxxii. 6.
 
    [194] Way of Perf. ch. ix. i, 2.
 
-   [195] 1 St. John iv. 20: Qui enim non diligit fratrem suum quem videt,
-
-   Deum quem non videt quomodo potest diligere?'
+   [195] 1 St. John iv. 20: Qui enim non diligit fratrem suum quem videt, Deum quem non videt quomodo potest diligere?'
 
    [196] Way of Perf. ch. xviii. 5.
 
@@ -840,183 +161,37 @@ author: Saint Teresa of Avila
 
    [198] Way of Perf. ch. iv. 3; vii. 4.
 
-### Chapter IV. Further Explanation of the Same Subject; Explains This Prayer. the Importance of Being on One's Guard, as the Devil Eagerly Desires to Turn Souls Back from the Right Path.
+## Chapter IV. Further Explanation of the Same Subject; Explains This Prayer. the Importance of Being on One's Guard, as the Devil Eagerly Desires to Turn Souls Back from the Right Path
 
-   1. *The spiritual espousals. 2. The prayer of union resembles a*
-   *betrothal. 3. Before the spiritual nuptials temptations are dangerous.*
-   4. *The great good done by souls faithful to these graces. 5. Religious*
-   *subject to the devil's deceptions. 6. Satan's strata-gems. 7. Why they*
-   *are permitted. 8. Prayer and watchfulness our safeguards. 9. God's*
-   *watchfulness over such souls. 10. Progress in virtue. 11.*
-   *Insignificance of our actions compared with their reward. 12. St.*
-   *Teresa's motives for writing on prayer.*
+   1. *The spiritual espousals. 2. The prayer of union resembles a* *betrothal. 3. Before the spiritual nuptials temptations are dangerous.* 4. *The great good done by souls faithful to these graces. 5. Religious* *subject to the devil's deceptions. 6. Satan's strata-gems. 7. Why they* *are permitted. 8. Prayer and watchfulness our safeguards. 9. God's* *watchfulness over such souls. 10. Progress in virtue. 11.* *Insignificance of our actions compared with their reward. 12. St.* *Teresa's motives for writing on prayer.*
 
-   1. You appear anxious to know what has become of the little dove and
-   where she obtains rest, since obviously she can find it neither in
-   spiritual consolations nor in earthly pleasures but takes a higher
-   flight. I cannot tell you until we come to the last mansion: God grant
-   I may remember or have leisure to write it. It is nearly five months
-   since I began this work, and as my head is too weak to read it again,
-   no doubt it will be very disconnected and full of repetitions: however,
-   as it is only for my sisters, that will matter little. Yet I should
-   like to express myself more fully about the prayer of union and will
-   make use, to the best of my scanty wits, of a comparison. Later on we
-   will speak of the little butterfly, which is never still, for it can
-   find no true repose, yet always fertile, doing good both to itself and
-   others. [199] You have often heard that God spiritually espouses
-   souls: may He be praised for His mercy in thus humbling Himself so
-   utterly. Though but a homely comparison, yet I can find nothing better
-   to express my meaning than the Sacrament of Matrimony although the two
-   things are very different. In divine union everything is spiritual and
-   far removed from anything corporal, all the joys our Lord gives and the
-   mutual delight felt in it being celestial and very unlike human
-   marriage, which it excels a thousand times. Here all is love united to
-   love; its operations are more pure, refined, and sweet than can be
-   described, though our Lord knows how to make the soul sensible of them.
+   1\. You appear anxious to know what has become of the little dove and where she obtains rest, since obviously she can find it neither in spiritual consolations nor in earthly pleasures but takes a higher flight. I cannot tell you until we come to the last mansion: God grant I may remember or have leisure to write it. It is nearly five months since I began this work, and as my head is too weak to read it again, no doubt it will be very disconnected and full of repetitions: however, as it is only for my sisters, that will matter little. Yet I should like to express myself more fully about the prayer of union and will make use, to the best of my scanty wits, of a comparison. Later on we will speak of the little butterfly, which is never still, for it can find no true repose, yet always fertile, doing good both to itself and others. [199] You have often heard that God spiritually espouses souls: may He be praised for His mercy in thus humbling Himself so utterly. Though but a homely comparison, yet I can find nothing better to express my meaning than the Sacrament of Matrimony although the two things are very different. In divine union everything is spiritual and far removed from anything corporal, all the joys our Lord gives and the mutual delight felt in it being celestial and very unlike human marriage, which it excels a thousand times. Here all is love united to love; its operations are more pure, refined, and sweet than can be described, though our Lord knows how to make the soul sensible of them.
 
-   2. I think this union does not attain as far as the spiritual espousals
-   but resembles the preliminaries that take place when two people are
-   contemplating a betrothal. Their suitability and willingness for the
-   alliance are first discussed; then they may be allowed to see one
-   another sometimes so as to come to a decision. Thus it is in the
-   spiritual espousals: when the preliminary agreement has been made and
-   the soul thoroughly understands what great advantages she will gain,
-   having resolved to fulfil the will of her Spouse in all things and to
-   do all she can to please Him, His Majesty Who knows well whether this
-   is so in reality, wishes in return to gratify His bride. He therefore
-   bestows this favour upon her, visits her and draws her into His
-   presence, as He wishes her to know Him better. We might compare the
-   prayer of union to a visit, for it lasts but a very little while. [200]
-     There is no longer any question of deliberation, but the soul in a
-   secret manner sees to what a Bridegroom it is betrothed; the senses and
-   faculties could not, in a thousand years, gain the knowledge thus
-   imparted in a very short time. The Spouse, being Who He is, leaves the
-   soul far more deserving of completing the espousals, as we may call
-   them; the enamoured soul in its love for Him makes every effort to
-   prevent their being frustrated. Should it grow neglectful and set its
-   affections on anything except our Lord, it will forfeit everything:
-   this loss is as great as are the favours the soul has continually
-   received, which are precious beyond description. [201]
+   2\. I think this union does not attain as far as the spiritual espousals but resembles the preliminaries that take place when two people are contemplating a betrothal. Their suitability and willingness for the alliance are first discussed; then they may be allowed to see one another sometimes so as to come to a decision. Thus it is in the spiritual espousals: when the preliminary agreement has been made and the soul thoroughly understands what great advantages she will gain, having resolved to fulfil the will of her Spouse in all things and to do all she can to please Him, His Majesty Who knows well whether this is so in reality, wishes in return to gratify His bride. He therefore bestows this favour upon her, visits her and draws her into His presence, as He wishes her to know Him better. We might compare the prayer of union to a visit, for it lasts but a very little while. [200] There is no longer any question of deliberation, but the soul in a secret manner sees to what a Bridegroom it is betrothed; the senses and faculties could not, in a thousand years, gain the knowledge thus imparted in a very short time. The Spouse, being Who He is, leaves the soul far more deserving of completing the espousals, as we may call them; the enamoured soul in its love for Him makes every effort to prevent their being frustrated. Should it grow neglectful and set its affections on anything except our Lord, it will forfeit everything: this loss is as great as are the favours the soul has continually received, which are precious beyond description. [201]
 
-   3. O Christian souls! you whom God has brought thus far! I implore you
-   for His dear sake not to grow careless, but to avoid all occasions of
-   sin; you are not strong enough yet to undergo temptation, as you will
-   be after the espousals which take place in the next mansion. Here the
-   betrothed are, as they say, only acquainted by sight, [202] and the
-   devil will spare no pains to oppose and prevent their nuptials.
-   Afterwards, when he sees the Bride is wholly given to her Bridegroom,
-   he is afraid to interfere, having learnt by experience that if he
-   molests her, while he loses much, she will gain greatly in merit.
+   3\. O Christian souls! you whom God has brought thus far! I implore you for His dear sake not to grow careless, but to avoid all occasions of sin; you are not strong enough yet to undergo temptation, as you will be after the espousals which take place in the next mansion. Here the betrothed are, as they say, only acquainted by sight, [202] and the devil will spare no pains to oppose and prevent their nuptials. Afterwards, when he sees the Bride is wholly given to her Bridegroom, he is afraid to interfere, having learnt by experience that if he molests her, while he loses much, she will gain greatly in merit.
 
-   4. I can assure you, my daughters, [203] that I have known people far
-   advanced in the spiritual life who had reached this state of prayer yet
-   whom the devil reclaimed by his subtlety and wiles: as I have often
-   said, all hell leagues together against such souls because the loss of
-   one of them entails the perdition of many more, as Satan is well aware.
-   If we considered how many men God draws to Himself by means of one, we
-   should praise Him fervently. Think of the multitudes converted by the
-   martyrs or by one young maiden like St. Ursula! Again, of how many
-   victims the evil one was deprived by St. Dominic, St. Francis, and
-   other founders of religious orders. How many more he loses, even now,
-   through Father Ignatius [Loyola], who founded the Company [of Jesus]!
-   As we read their lives, we learn that they received such graces from
-   God. How was this great good done except by their efforts not to
-   forfeit, through any fault of theirs, these divine espousals? Oh, my
-   daughters, how willing our Lord is to grant us the same graces! In
-   fact, there is even more urgent need now for persons to prepare for
-   such favours, since there are fewer who care for His honour. We love
-   ourselves too much and are too prudent to give up any of our rights.
-   What a deception! May God in His mercy give us light, lest we sink into
-   such darkness.
+   4\. I can assure you, my daughters, [203] that I have known people far advanced in the spiritual life who had reached this state of prayer yet whom the devil reclaimed by his subtlety and wiles: as I have often said, all hell leagues together against such souls because the loss of one of them entails the perdition of many more, as Satan is well aware. If we considered how many men God draws to Himself by means of one, we should praise Him fervently. Think of the multitudes converted by the martyrs or by one young maiden like St. Ursula! Again, of how many victims the evil one was deprived by St. Dominic, St. Francis, and other founders of religious orders. How many more he loses, even now, through Father Ignatius [Loyola], who founded the Company [of Jesus]! As we read their lives, we learn that they received such graces from God. How was this great good done except by their efforts not to forfeit, through any fault of theirs, these divine espousals? Oh, my daughters, how willing our Lord is to grant us the same graces! In fact, there is even more urgent need now for persons to prepare for such favours, since there are fewer who care for His honour. We love ourselves too much and are too prudent to give up any of our rights. What a deception! May God in His mercy give us light, lest we sink into such darkness.
 
-   5. You may question or be in doubt on two points. Firstly: if the soul
-   is entirely united with the will of God, as I have stated, how can it
-   be deceived, since it ever seeks to follow His pleasure? Secondly, how
-   can the devil enter and work such havoc as to destroy your soul while
-   you are so utterly withdrawn from the world and constantly frequent the
-   Sacraments? [204] At the same time you enjoy the society of angels
-   (as we might call them) and by the mercy of God you desire nothing but
-   to serve and please Him in all things? [205] It is not surprising
-   that people in the world should run such risks. I admit you have the
-   right to say this, for God has shown us signal mercy; but, as I said
-   above, knowing as I do that Judas was amongst the Apostles and that he
-   held constant intercourse with God Himself, to Whose words he listened,
-   I learn that the state of religion does not make us safe.
+   5\. You may question or be in doubt on two points. Firstly: if the soul is entirely united with the will of God, as I have stated, how can it be deceived, since it ever seeks to follow His pleasure? Secondly, how can the devil enter and work such havoc as to destroy your soul while you are so utterly withdrawn from the world and constantly frequent the Sacraments? [204] At the same time you enjoy the society of angels (as we might call them) and by the mercy of God you desire nothing but to serve and please Him in all things? [205] It is not surprising that people in the world should run such risks. I admit you have the right to say this, for God has shown us signal mercy; but, as I said above, knowing as I do that Judas was amongst the Apostles and that he held constant intercourse with God Himself, to Whose words he listened, I learn that the state of religion does not make us safe.
 
-   6. To your first question I reply that doubtless if such a soul is
-   always faithful to the will of God, it cannot be lost; the evil one,
-   however, comes with his keen subtlety and, under the pretext of good,
-   leads it astray in some trivial matter and causes it to commit small
-   defects which he makes it believe are harmless. Thus, little by little,
-   the reason is obscured and the will is weakened while the devil fosters
-   his victim's self-love, until, by degrees, he succeeds in withdrawing
-   it from union with the will of God and makes it follow its own will.
+   6\. To your first question I reply that doubtless if such a soul is always faithful to the will of God, it cannot be lost; the evil one, however, comes with his keen subtlety and, under the pretext of good, leads it astray in some trivial matter and causes it to commit small defects which he makes it believe are harmless. Thus, little by little, the reason is obscured and the will is weakened while the devil fosters his victim's self-love, until, by degrees, he succeeds in withdrawing it from union with the will of God and makes it follow its own will.
 
-   7. The answer to your first inquiry will serve for the second. No
-   enclosure can be too strict for Satan to enter nor any desert too
-   remote for him to visit. Besides, God may permit him to tempt the soul
-   to prove its virtue; for as He intends it to enlighten others, it is
-   better for it to fail in the beginning than when it might do them great
-   harm.
+   7\. The answer to your first inquiry will serve for the second. No enclosure can be too strict for Satan to enter nor any desert too remote for him to visit. Besides, God may permit him to tempt the soul to prove its virtue; for as He intends it to enlighten others, it is better for it to fail in the beginning than when it might do them great harm.
 
-   8. We must beg God constantly in our prayers to uphold us by His hand;
-   we should keep ever in our minds the truth that if He leaves us, most
-   certainly we shall fall at once into the abyss, for we must never be so
-   foolish as to trust in ourselves. After this I think the greatest
-   safeguard is to be very careful and to watch how we advance in virtue;
-   we must notice whether we are making progress or falling back in it,
-   especially as regards the love of our neighbour, the desire to be
-   thought the least of all and how we perform our ordinary, everyday
-   duties. If we attend to this and beg Our Lord to enlighten us, we shall
-   at once perceive our gain or loss.
+   8\. We must beg God constantly in our prayers to uphold us by His hand; we should keep ever in our minds the truth that if He leaves us, most certainly we shall fall at once into the abyss, for we must never be so foolish as to trust in ourselves. After this I think the greatest safeguard is to be very careful and to watch how we advance in virtue; we must notice whether we are making progress or falling back in it, especially as regards the love of our neighbour, the desire to be thought the least of all and how we perform our ordinary, everyday duties. If we attend to this and beg Our Lord to enlighten us, we shall at once perceive our gain or loss.
 
-   9. Do not suppose that after advancing the soul to such a state God
-   abandons it so easily that it is light work for the devil to regain it.
-   When His Majesty sees it leaving Him, He feels the loss so keenly that
-   He gives it in many a way a thousand secret warnings which reveal to it
-   the hidden danger. [206]
+   9\. Do not suppose that after advancing the soul to such a state God abandons it so easily that it is light work for the devil to regain it. When His Majesty sees it leaving Him, He feels the loss so keenly that He gives it in many a way a thousand secret warnings which reveal to it the hidden danger. [206]
 
-   10. In conclusion, let us strive to make constant progress: we ought to
-   feel great alarm if we do not find ourselves advancing, for without
-   doubt the evil one must be planning to injure us in some way; it is
-   impossible for a soul that has come to this state not to go still
-   farther, for love is never idle. Therefore it is a very bad sign when
-   one comes to a stand-still in virtue. She who aspires to become the
-   spouse of God Himself, and has treated with His Majesty and come to
-   such an understanding with Him, must not leave off and go to sleep.
-   [207]
+   10\. In conclusion, let us strive to make constant progress: we ought to feel great alarm if we do not find ourselves advancing, for without doubt the evil one must be planning to injure us in some way; it is impossible for a soul that has come to this state not to go still farther, for love is never idle. Therefore it is a very bad sign when one comes to a stand-still in virtue. She who aspires to become the spouse of God Himself, and has treated with His Majesty and come to such an understanding with Him, must not leave off and go to sleep. [207]
 
-   11. To show you, my daughters, how Christ treats the souls He takes for
-   His brides, I will now speak of the sixth mansions. You will then see
-   how little in comparison is all that we can do or suffer in His service
-   to prepare ourselves for the reception of such immense favours. Perhaps
-   our Lord decreed that I should write this in order that the knowledge
-   of the great reward to come, and of His infinite mercy in seeking to
-   give and to manifest Himself to such worms as we are, might make us
-   forget our wretched, petty, earthly pleasures and run on our way with
-   eyes fixed on His grandeur, inflamed with love for Him.
+   11\. To show you, my daughters, how Christ treats the souls He takes for His brides, I will now speak of the sixth mansions. You will then see how little in comparison is all that we can do or suffer in His service to prepare ourselves for the reception of such immense favours. Perhaps our Lord decreed that I should write this in order that the knowledge of the great reward to come, and of His infinite mercy in seeking to give and to manifest Himself to such worms as we are, might make us forget our wretched, petty, earthly pleasures and run on our way with eyes fixed on His grandeur, inflamed with love for Him.
 
-   12. May He enable me to explain some of these difficult matters; if our
-   Lord and the Holy Ghost do not guide my pen, I know the task will prove
-   impossible. 1 beg Him to prevent my saying anything unless it will
-   profit you. His Majesty knows that, as far as I can judge, I have no
-   other wish but that His Name may be glorified and that we may strive to
-   serve a Lord Who thus recompenses our efforts even in this world. What,
-   then, will be our joy in heaven where it will be continuous, without
-   the interruptions, labours, and dangers of this tempestuous sea of
-   life? Were it not for the fear of losing or offending Him, we should
-   wish to live until the end of the world [208] in order to work for so
-   great a God--our Lord and our Spouse. May His Majesty enable us to
-   render Him some service free from the many faults we always commit,
-   even in good works! Amen.
+   12\. May He enable me to explain some of these difficult matters; if our Lord and the Holy Ghost do not guide my pen, I know the task will prove impossible. 1 beg Him to prevent my saying anything unless it will profit you. His Majesty knows that, as far as I can judge, I have no other wish but that His Name may be glorified and that we may strive to serve a Lord Who thus recompenses our efforts even in this world. What, then, will be our joy in heaven where it will be continuous, without the interruptions, labours, and dangers of this tempestuous sea of life? Were it not for the fear of losing or offending Him, we should wish to live until the end of the world [208] in order to work for so great a God--our Lord and our Spouse. May His Majesty enable us to render Him some service free from the many faults we always commit, even in good works! Amen.
 
-### Footnotes
+## Footnotes
 
-   [199] Compare: habebit fructum in respectione animarum sanctarum'
-
-   (Breviar. Rom. Ant. ad Laudes de Com. Virg.); quasi apis argumentosa
-
-   Domino deservisti' (Ibid. Feast of St. Cæcilia.)
+   [199] Compare: habebit fructum in respectione animarum sanctarum' (Breviar. Rom. Ant. ad Laudes de Com. Virg.); quasi apis argumentosa Domino deservisti' (Ibid. Feast of St. Cæcilia.)
 
    [200] [[tj-life-ccel|Life]], ch. xviii.
 
@@ -1024,9 +199,7 @@ author: Saint Teresa of Avila
 
    [202] Phil. a SS. Trinit. l.c. p. iii. tract. i. disc. ii. art. 2.
 
-   [203] Contrast with this paragraph what the Saint says in her Life, ch.
-
-   xix. § 8.
+   [203] Contrast with this paragraph what the Saint says in her Life, ch. xix. § 8.
 
    [204] [[tj-life-ccel|Life]], ch, xxxvi. 26; xxxix. 14. Found. ch. i. 1-4.
 

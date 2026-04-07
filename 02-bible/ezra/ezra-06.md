@@ -1,25 +1,24 @@
 ---
-title: Ezra, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezra, Chapter 6
+title: Ezra, Chapter 6
+url: https://bible.usccb.org/bible/ezra/6
 aliases:
   - ezra-06
   - Ezra, Chapter 6
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezra, Chapter 6
 ---
 
 # Ezra, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **The Decree of Darius.**
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/ezra/6
 
 20 The Levites, every one of whom had purified himself for the occasion, sacrificed the Passover for all the exiles, for their colleagues the priests, and for themselves. ^ezra-06-20
 
-22 They joyfully kept the feast of Unleavened Bread for seven days, for the L ORD had filled them with joy by making the king of Assyria favorable to them, so that he gave them help in their work on the house of God, the God of Israel. ^ezra-06-22
+22 They joyfully kept the feast of Unleavened Bread for seven days, for the LORD had filled them with joy by making the king of Assyria favorable to them, so that he gave them help in their work on the house of God, the God of Israel. ^ezra-06-22
 
 \* (6:1] – [2) Babylon was the capital city of the satrapy to which Judah belonged; it was therefore the natural place to look. The decree was discovered eventually, however, in Ecbatana (Hamadan), the former capital of the Medes and summer residence of the Persian kings. Cf. the Hebrew version of the decree ([1:2] – [4]).
 

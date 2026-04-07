@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 5
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 5
+title: Sirach, Chapter 5
+url: https://bible.usccb.org/bible/sirach/5
 aliases:
   - sirach-05
   - Sirach, Chapter 5
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/5
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 5
 ---
 
 # Sirach, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
-#### Against Presumption
+### Against Presumption
 
 1 Do not rely on your wealth, ^sirach-05-1
 
@@ -33,11 +32,11 @@ in following the desires of your heart.
 
 3 Do not say, “Who can prevail against me?” ^sirach-05-3
 
-for the L ORD will exact punishment.
+for the LORD will exact punishment.
 
 4 Do not say, “I have sinned, yet what has happened to me?” ^sirach-05-4
 
-for the L ORD is slow to anger!
+for the LORD is slow to anger!
 
 5 Do not be so confident of forgiveness ^sirach-05-5
 
@@ -51,7 +50,7 @@ For mercy and anger alike are with him;
 
 his wrath comes to rest on the wicked.
 
-7 Do not delay turning back to the L ORD, ^sirach-05-7
+7 Do not delay turning back to the LORD, ^sirach-05-7
 
 do not put it off day after day.
 
@@ -63,7 +62,7 @@ at the time of vengeance, you will perish.
 
 for it will be no help on the day of wrath.
 
-#### Use and Abuse of the Tongue
+### Use and Abuse of the Tongue
 
 9 Do not winnow in every wind, ^sirach-05-9
 

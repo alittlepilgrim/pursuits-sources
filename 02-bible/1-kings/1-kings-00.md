@@ -1,20 +1,20 @@
 ---
-title: 1 Kings, The Books of Kings
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, the Books of Kings
+title: 1 Kings, The Books of Kings
+url: https://bible.usccb.org/bible/1kings/0
 aliases:
   - 1 Kings, the Books of Kings
   - 1 Kings, The Books of Kings
   - 1-kings-00
 tags:
   - bible/1-kings
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/1kings/0
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, the Books of Kings
 ---
 
 # 1 Kings, the Books of Kings

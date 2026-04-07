@@ -1,30 +1,29 @@
 ---
-title: Exodus, Chapter 18
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 18
+title: Exodus, Chapter 18
+url: https://bible.usccb.org/bible/exodus/18
 aliases:
   - 20250731-085928
   - exodus-18
   - Exodus, Chapter 18
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/18
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 18
 ---
 
 # Exodus, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Meeting with Jethro.**
 
-1 Now Moses’ father-in-law Jethro, the priest of Midian, heard of all that God had done for Moses and for his people Israel: how the L ORD had brought Israel out of Egypt. ^exodus-18-1
+1 Now Moses’ father-in-law Jethro, the priest of Midian, heard of all that God had done for Moses and for his people Israel: how the LORD had brought Israel out of Egypt. ^exodus-18-1
 
 2 So his father-in-law Jethro took along Zipporah, Moses’ wife—now this was after Moses had sent her back— ^exodus-18-2
 
@@ -38,13 +37,13 @@ url: https://bible.usccb.org/bible/exodus/18
 
 7 Moses went out to meet his father-in-law, bowed down, and then kissed him. Having greeted each other, they went into the tent. ^exodus-18-7
 
-8 Moses then told his father-in-law of all that the L ORD had done to Pharaoh and the Egyptians for the sake of Israel, and of all the hardships that had beset them on their journey, and how the L ORD had rescued them. ^exodus-18-8
+8 Moses then told his father-in-law of all that the LORD had done to Pharaoh and the Egyptians for the sake of Israel, and of all the hardships that had beset them on their journey, and how the LORD had rescued them. ^exodus-18-8
 
-9 Jethro rejoiced over all the goodness that the L ORD had shown Israel in rescuing them from the power of the Egyptians. ^exodus-18-9
+9 Jethro rejoiced over all the goodness that the LORD had shown Israel in rescuing them from the power of the Egyptians. ^exodus-18-9
 
-10 “Blessed be the L ORD,” he said, “who has rescued you from the power of the Egyptians and of Pharaoh. ^exodus-18-10
+10 “Blessed be the LORD,” he said, “who has rescued you from the power of the Egyptians and of Pharaoh. ^exodus-18-10
 
-11 Now I know that the L ORD is greater than all the gods; for he rescued the people from the power of the Egyptians when they treated them arrogantly.” ^exodus-18-11
+11 Now I know that the LORD is greater than all the gods; for he rescued the people from the power of the Egyptians when they treated them arrogantly.” ^exodus-18-11
 
 **Appointment of Minor Judges.**
 

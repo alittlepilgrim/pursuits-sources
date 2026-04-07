@@ -1,27 +1,26 @@
 ---
-title: Proverbs, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 8
+title: Proverbs, Chapter 8
+url: https://bible.usccb.org/bible/proverbs/8
 aliases:
   - proverbs-08
   - Proverbs, Chapter 8
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/8
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 8
 ---
 
 # Proverbs, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
-#### The Discourse of Wisdom
+### The Discourse of Wisdom
 
 1 Does not Wisdom call, ^proverbs-08-1
 
@@ -71,7 +70,7 @@ and no treasures can compare with her.\]
 
 and useful knowledge I have.
 
-13 \[The fear of the L ORD is hatred of evil;\] ^proverbs-08-13
+13 \[The fear of the LORD is hatred of evil;\] ^proverbs-08-13
 
 Pride, arrogance, the evil way,
 
@@ -109,7 +108,7 @@ along the paths of justice,
 
 and filling their treasuries.
 
-22 “The L ORD begot me, the beginning of his works, ^proverbs-08-22
+22 “The LORD begot me, the beginning of his works, ^proverbs-08-22
 
 the forerunner of his deeds of long ago;
 
@@ -169,7 +168,7 @@ keeping watch at my doorposts;
 
 35 For whoever finds me finds life, ^proverbs-08-35
 
-and wins favor from the L ORD;
+and wins favor from the LORD;
 
 36 But those who pass me by do violence to themselves; ^proverbs-08-36
 
@@ -195,7 +194,7 @@ Chapter [8] is the best-known chapter in Proverbs and has profoundly influenced 
 
 \* (8:14) What is here predicated of Wisdom is elsewhere attributed to God ([Jb 12:13] – [16]).
 
-\* (8:22] – [31) Wisdom is of divine origin. She is represented as existing before all things (vv. [22] – [26]), when God planned and created the universe, adorning it with beauty and variety, and establishing its wonderful order (vv. [27] – [30]). The purpose of the two cosmogonies (vv. [22] – [26] and [27] – [31]) is to ground Wisdom’s claims. The first cosmogony emphasizes that she was born before all else (and so deserving of honor) and the second underscores that she was with the Lord during the creation of the universe. The pre-existence of Woman Wisdom with God is developed in [Sir 24] and in New Testament hymns to Christ, especially in [Jn 1] and [Col 1:15] – [20].
+\* (8:22] – [31) Wisdom is of divine origin. She is represented as existing before all things (vv. [22] – [26]), when God planned and created the universe, adorning it with beauty and variety, and establishing its wonderfuLORDer (vv. [27] – [30]). The purpose of the two cosmogonies (vv. [22] – [26] and [27] – [31]) is to ground Wisdom’s claims. The first cosmogony emphasizes that she was born before all else (and so deserving of honor) and the second underscores that she was with the Lord during the creation of the universe. The pre-existence of Woman Wisdom with God is developed in [Sir 24] and in New Testament hymns to Christ, especially in [Jn 1] and [Col 1:15] – [20].
 
 \* (8:23) Formed: since the other verbs of the origin of Wisdom in these verses describe birth, it is likely that the somewhat uncertain verb is to be understood of birth as in [Ps 139:13].
 

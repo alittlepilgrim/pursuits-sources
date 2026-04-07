@@ -1,25 +1,24 @@
 ---
-title: Romans, Chapter 11
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: romans-chapter 11
+title: Romans, Chapter 11
+url: https://bible.usccb.org/bible/romans/11
 aliases:
   - romans-11
   - Romans, Chapter 11
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/romans
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/romans/11
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: romans-chapter 11
 ---
 
 # Romans, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **The Remnant of Israel.**
 

@@ -1,10 +1,7 @@
 ---
-title: November 5, Blessed Frances Damboise
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers.
+title: November 5, Blessed Frances Damboise
+author: OCD General Curia
 aliases:
   - 11-05-blessed-frances-damboise
   - 20251105-000001
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 11-05
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers.
 ---
 
 # November 5, Blessed Frances Damboise

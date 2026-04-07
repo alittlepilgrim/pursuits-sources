@@ -1,33 +1,32 @@
 ---
-title: Deuteronomy, Chapter 19
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 19
+title: Deuteronomy, Chapter 19
+url: https://bible.usccb.org/bible/deuteronomy/19
 aliases:
   - deuteronomy-19
   - Deuteronomy, Chapter 19
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/19
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 19
 ---
 
 # Deuteronomy, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **Cities of Refuge.**
 
-1 When the L ORD, your God, cuts down the nations whose land the L ORD, your God, is giving you, and you have dispossessed them and settled in their cities and houses, ^deuteronomy-19-1
+1 When the LORD, your God, cuts down the nations whose land the LORD, your God, is giving you, and you have dispossessed them and settled in their cities and houses, ^deuteronomy-19-1
 
-2 you shall set apart three cities in the land the L ORD, your God, is giving you to possess. ^deuteronomy-19-2
+2 you shall set apart three cities in the land the LORD, your God, is giving you to possess. ^deuteronomy-19-2
 
-3 You shall measure the distances and divide into three regions the land of which the L ORD, your God, is giving you possession, so that every homicide will be able to find a refuge. ^deuteronomy-19-3
+3 You shall measure the distances and divide into three regions the land of which the LORD, your God, is giving you possession, so that every homicide will be able to find a refuge. ^deuteronomy-19-3
 
 4 This is the case of a homicide who may take refuge there and live: when someone strikes down a neighbor unintentionally and not out of previous hatred. ^deuteronomy-19-4
 
@@ -37,11 +36,11 @@ url: https://bible.usccb.org/bible/deuteronomy/19
 
 7 for this reason I command you: Set apart three cities. ^deuteronomy-19-7
 
-8 But if the L ORD, your God, enlarges your territory, as he swore to your ancestors, and gives you all the land he promised your ancestors he would give, ^deuteronomy-19-8
+8 But if the LORD, your God, enlarges your territory, as he swore to your ancestors, and gives you all the land he promised your ancestors he would give, ^deuteronomy-19-8
 
-9 because you carefully observe this whole commandment which I give you today, loving the L ORD, your God, and ever walking in his ways, then add three more cities to these three. ^deuteronomy-19-9
+9 because you carefully observe this whole commandment which I give you today, loving the LORD, your God, and ever walking in his ways, then add three more cities to these three. ^deuteronomy-19-9
 
-10 Thus, in the land which the L ORD, your God, is giving you as a heritage, innocent blood will not be shed and you will not become guilty of bloodshed. ^deuteronomy-19-10
+10 Thus, in the land which the LORD, your God, is giving you as a heritage, innocent blood will not be shed and you will not become guilty of bloodshed. ^deuteronomy-19-10
 
 11 However, if someone, hating a neighbor, lies in wait, attacks, and strikes the neighbor dead, and then flees to one of these cities, ^deuteronomy-19-11
 
@@ -51,7 +50,7 @@ url: https://bible.usccb.org/bible/deuteronomy/19
 
 **Removal of Landmarks.**
 
-14 You shall not move your neighbor’s boundary markers erected by your forebears in the heritage that will be allotted to you in the land the L ORD, your God, is giving you to possess. ^deuteronomy-19-14
+14 You shall not move your neighbor’s boundary markers erected by your forebears in the heritage that will be allotted to you in the land the LORD, your God, is giving you to possess. ^deuteronomy-19-14
 
 **False Witnesses.**
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/deuteronomy/19
 
 16 If a hostile witness rises against someone to accuse that person of wrongdoing, ^deuteronomy-19-16
 
-17 the two parties in the dispute shall appear in the presence of the L ORD, in the presence of the priests and judges in office at that time, ^deuteronomy-19-17
+17 the two parties in the dispute shall appear in the presence of the LORD, in the presence of the priests and judges in office at that time, ^deuteronomy-19-17
 
 18 and the judges must investigate it thoroughly. If the witness is a false witness and has falsely accused the other, ^deuteronomy-19-18
 

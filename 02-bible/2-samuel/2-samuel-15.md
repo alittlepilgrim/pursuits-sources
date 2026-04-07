@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 15
+title: 2 Samuel, Chapter 15
+url: https://bible.usccb.org/bible/2samuel/15
 aliases:
   - 2 Samuel, Chapter 15
   - 2-samuel-15
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/15
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 15
 ---
 
 # 2 Samuel, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 **Absalom’s Ambition.**
 
@@ -37,9 +36,9 @@ url: https://bible.usccb.org/bible/2samuel/15
 
 **Conspiracy in Hebron.**
 
-7 After a period of four years, Absalom said to the king: “Please let me go to Hebron and fulfill a vow I made to the L ORD. ^2-samuel-15-7
+7 After a period of four years, Absalom said to the king: “Please let me go to Hebron and fulfill a vow I made to the LORD. ^2-samuel-15-7
 
-8 For while living in Geshur in Aram, your servant made this vow: ‘If the L ORD ever brings me back to Jerusalem, I will worship him in Hebron.’” ^2-samuel-15-8
+8 For while living in Geshur in Aram, your servant made this vow: ‘If the LORD ever brings me back to Jerusalem, I will worship him in Hebron.’” ^2-samuel-15-8
 
 9 The king said to him, “Go in peace,” and he went off to Hebron. ^2-samuel-15-9
 
@@ -67,9 +66,9 @@ url: https://bible.usccb.org/bible/2samuel/15
 
 19 the king said to Ittai the Gittite: “Why should you also go with us? Go back and stay with the king, for you are a foreigner and you, too, are an exile from your own country. ^2-samuel-15-19
 
-20 You came only yesterday, and today shall I have you wander off with us wherever I have to go? Return and take your brothers with you, and may the L ORD show you kindness and fidelity.” ^2-samuel-15-20
+20 You came only yesterday, and today shall I have you wander off with us wherever I have to go? Return and take your brothers with you, and may the LORD show you kindness and fidelity.” ^2-samuel-15-20
 
-21 But Ittai answered the king, “As the L ORD lives, and as my lord the king lives, your servant shall be wherever my lord the king is, whether for death or for life.” ^2-samuel-15-21
+21 But Ittai answered the king, “As the LORD lives, and as my lord the king lives, your servant shall be wherever my lord the king is, whether for death or for life.” ^2-samuel-15-21
 
 22 So the king said to Ittai, “Go, then, march on.” And Ittai the Gittite, with all his men and all the dependents that were with him, marched on. ^2-samuel-15-22
 
@@ -79,7 +78,7 @@ url: https://bible.usccb.org/bible/2samuel/15
 
 24 Zadok, too, and all the Levites bearing the ark of the covenant of God set down the ark of God until the whole army had finished marching out of the city; and Abiathar came up. ^2-samuel-15-24
 
-25 Then the king said to Zadok: “Take the ark of God back to the city. If I find favor with the L ORD, he will bring me back and permit me to see it and its lodging place. ^2-samuel-15-25
+25 Then the king said to Zadok: “Take the ark of God back to the city. If I find favor with the LORD, he will bring me back and permit me to see it and its lodging place. ^2-samuel-15-25
 
 26 But if he should say, ‘I am not pleased with you,’ I am ready; let him do to me as he sees fit.” ^2-samuel-15-26
 
@@ -91,7 +90,7 @@ url: https://bible.usccb.org/bible/2samuel/15
 
 30 As David went up the ascent of the Mount of Olives, he wept without ceasing. His head was covered, and he was walking barefoot. All those who were with him also had their heads covered and were weeping as they went. ^2-samuel-15-30
 
-31 When David was told, “Ahithophel is among the conspirators with Absalom,” he said, “O L ORD, turn the counsel of Ahithophel to folly!” ^2-samuel-15-31
+31 When David was told, “Ahithophel is among the conspirators with Absalom,” he said, “O LORD, turn the counsel of Ahithophel to folly!” ^2-samuel-15-31
 
 **David and Hushai.**
 

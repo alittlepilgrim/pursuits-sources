@@ -1,49 +1,48 @@
 ---
-title: Jeremiah, Chapter 36
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 36
+title: Jeremiah, Chapter 36
+url: https://bible.usccb.org/bible/jeremiah/36
 aliases:
   - jeremiah-36
   - Jeremiah, Chapter 36
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/36
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 36
 ---
 
 # Jeremiah, Chapter 36
 
-### Chapter 36
+## Chapter 36
 
 **Baruch, the Scribe of Jeremiah.**
 
-1 In the fourth year of Jehoiakim, son of Josiah, king of Judah, this word came to Jeremiah from the L ORD: ^jeremiah-36-1
+1 In the fourth year of Jehoiakim, son of Josiah, king of Judah, this word came to Jeremiah from the LORD: ^jeremiah-36-1
 
 2 Take a scroll and write on it all the words I have spoken to you about Israel, Judah, and all the nations, from the day I first spoke to you, from the days of Josiah, until today. ^jeremiah-36-2
 
 3 Perhaps, if the house of Judah hears all the evil I have in mind to do to them, so that all of them turn from their evil way, then I can forgive their wickedness and their sin. ^jeremiah-36-3
 
-4 So Jeremiah called Baruch, son of Neriah, and he wrote down on a scroll what Jeremiah said, all the words which the L ORD had spoken to him. ^jeremiah-36-4
+4 So Jeremiah called Baruch, son of Neriah, and he wrote down on a scroll what Jeremiah said, all the words which the LORD had spoken to him. ^jeremiah-36-4
 
-5 Then Jeremiah commanded Baruch: “I cannot enter the house of the L ORD; I am barred from it. ^jeremiah-36-5
+5 Then Jeremiah commanded Baruch: “I cannot enter the house of the LORD; I am barred from it. ^jeremiah-36-5
 
-6 So you yourself must go. On a fast day in the hearing of the people in the L ORD’s house, read the words of the L ORD from the scroll you wrote at my dictation; read them also to all the people of Judah who come up from their cities. ^jeremiah-36-6
+6 So you yourself must go. On a fast day in the hearing of the people in the LORD’s house, read the words of the LORD from the scroll you wrote at my dictation; read them also to all the people of Judah who come up from their cities. ^jeremiah-36-6
 
-7 Perhaps they will present their supplication before the L ORD and will all turn back from their evil way; for great is the anger and wrath with which the L ORD has threatened this people.” ^jeremiah-36-7
+7 Perhaps they will present their supplication before the LORD and will all turn back from their evil way; for great is the anger and wrath with which the LORD has threatened this people.” ^jeremiah-36-7
 
-8 Baruch, son of Neriah, did everything Jeremiah the prophet commanded; from the scroll he read the L ORD’s words in the L ORD’s house. ^jeremiah-36-8
+8 Baruch, son of Neriah, did everything Jeremiah the prophet commanded; from the scroll he read the LORD’s words in the LORD’s house. ^jeremiah-36-8
 
-9 In the ninth month, in the fifth year of Jehoiakim, son of Josiah, king of Judah, all the people of Jerusalem and all those who came from Judah’s cities to Jerusalem proclaimed a fast before the L ORD. ^jeremiah-36-9
+9 In the ninth month, in the fifth year of Jehoiakim, son of Josiah, king of Judah, all the people of Jerusalem and all those who came from Judah’s cities to Jerusalem proclaimed a fast before the LORD. ^jeremiah-36-9
 
-10 So Baruch read the words of Jeremiah from the scroll in the room of Gemariah, son of the scribe Shaphan, in the upper court of the L ORD’s house, at the entrance of the New Temple Gate, in the hearing of all the people. ^jeremiah-36-10
+10 So Baruch read the words of Jeremiah from the scroll in the room of Gemariah, son of the scribe Shaphan, in the upper court of the LORD’s house, at the entrance of the New Temple Gate, in the hearing of all the people. ^jeremiah-36-10
 
-11 Now Micaiah, son of Gemariah, son of Shaphan, heard all the words of the L ORD read from the scroll. ^jeremiah-36-11
+11 Now Micaiah, son of Gemariah, son of Shaphan, heard all the words of the LORD read from the scroll. ^jeremiah-36-11
 
 12 So he went down to the house of the king, into the scribe’s chamber, where the princes were meeting in session: Elishama, the scribe; Delaiah, son of Shemaiah; Elnathan, son of Achbor; Gemariah, son of Shaphan; Zedekiah, son of Hananiah; and the other princes. ^jeremiah-36-12
 
@@ -73,15 +72,15 @@ url: https://bible.usccb.org/bible/jeremiah/36
 
 25 And though Elnathan, Delaiah, and Gemariah urged the king not to burn the scroll, he would not listen to them. ^jeremiah-36-25
 
-26 He commanded Jerahmeel, a royal prince, and Seraiah, son of Azriel, and Shelemiah, son of Abdeel, to arrest Baruch, the scribe, and Jeremiah the prophet. But the L ORD had hidden them away. ^jeremiah-36-26
+26 He commanded Jerahmeel, a royal prince, and Seraiah, son of Azriel, and Shelemiah, son of Abdeel, to arrest Baruch, the scribe, and Jeremiah the prophet. But the LORD had hidden them away. ^jeremiah-36-26
 
-27 The word of the L ORD came to Jeremiah, after the king burned the scroll and the words Jeremiah had dictated to Baruch: ^jeremiah-36-27
+27 The word of the LORD came to Jeremiah, after the king burned the scroll and the words Jeremiah had dictated to Baruch: ^jeremiah-36-27
 
 28 Take another scroll, and write on it all the words in the first scroll, which Jehoiakim, king of Judah, burned. ^jeremiah-36-28
 
-29 And against Jehoiakim, king of Judah, say this: Thus says the L ORD: You are the one who burned that scroll, saying, “Why did you write on it: Babylon’s king shall surely come and ravage this land, emptying it of every living thing”? ^jeremiah-36-29
+29 And against Jehoiakim, king of Judah, say this: Thus says the LORD: You are the one who burned that scroll, saying, “Why did you write on it: Babylon’s king shall surely come and ravage this land, emptying it of every living thing”? ^jeremiah-36-29
 
-30 The L ORD now says of Jehoiakim, king of Judah: No descendant of his shall sit on David’s throne; his corpse shall be thrown out, exposed to heat by day, frost by night. ^jeremiah-36-30
+30 The LORD now says of Jehoiakim, king of Judah: No descendant of his shall sit on David’s throne; his corpse shall be thrown out, exposed to heat by day, frost by night. ^jeremiah-36-30
 
 31 I will punish him and his descendants and his officials for their wickedness; upon them, the inhabitants of Jerusalem, and the people of Judah I will bring all the evil threats to which they did not listen. ^jeremiah-36-31
 

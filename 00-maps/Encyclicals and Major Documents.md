@@ -1,10 +1,8 @@
 ---
-title: 📜 Encyclicals & Major Documents
-created: 2025-11-12
-modified: 2026-04-02
 type: moc
-publish: true
-description: Papal encyclicals and related major documents indexed by author (Pope).
+title: Encyclicals & Major Documents MOC
+author:
+  - Catholic Church
 aliases:
   - 📜 Encyclicals & Major Documents
   - 📜 Encyclicals & Major Documents — Map of Content
@@ -12,13 +10,19 @@ aliases:
 tags:
   - term/magisterium
   - type/moc
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
+permalink: /encyclicals
+description: Papal encyclicals and related major documents indexed by author (Pope).
 attachment: false
-status: draft
 ---
 
 🧭 MOC | 📚 Reference
 
 # 📜 Encyclicals & Major Documents
+
+![[banner-pursuits-m.png]]
 
 ## Leo XIII
 

@@ -1,29 +1,28 @@
 ---
-title: Jeremiah, Chapter 50
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 50
+title: Jeremiah, Chapter 50
+url: https://bible.usccb.org/bible/jeremiah/50
 aliases:
   - jeremiah-50
   - Jeremiah, Chapter 50
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/50
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 50
 ---
 
 # Jeremiah, Chapter 50
 
-### Chapter 50
+## Chapter 50
 
 **The First Oracle Against Babylon.**
 
-1 The word the L ORD spoke against Babylon, against the land of the Chaldeans, through Jeremiah the prophet: ^jeremiah-50-1
+1 The word the LORD spoke against Babylon, against the land of the Chaldeans, through Jeremiah the prophet: ^jeremiah-50-1
 
 2 Proclaim this among the nations, announce it! ^jeremiah-50-2
 
@@ -41,17 +40,17 @@ So that no one can live there;
 
 human beings and animals have fled.
 
-4 In those days and at that time—oracle of the L ORD — ^jeremiah-50-4
+4 In those days and at that time—oracle of the LORD — ^jeremiah-50-4
 
 Israelite and Judahite shall come together,
 
-Weeping as they come, to seek the L ORD, their God;
+Weeping as they come, to seek the LORD, their God;
 
 5 They shall ask for Zion, ^jeremiah-50-5
 
 seeking out the way.
 
-“Come, let us join ourselves to the L ORD
+“Come, let us join ourselves to the LORD
 
 in an everlasting covenant, never to be forgotten.”
 
@@ -69,7 +68,7 @@ forgetting their fold.
 
 their enemies said, “We are not guilty,
 
-Because they sinned against the L ORD,
+Because they sinned against the LORD,
 
 the abode of justice, the hope of their ancestors.”
 
@@ -95,7 +94,7 @@ who never returns empty-handed.
 
 all its plunderers shall be enriched—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 11 Yes, rejoice and exult, ^jeremiah-50-11
 
@@ -113,7 +112,7 @@ See, the last of the nations,
 
 a wilderness, a dry wasteland.
 
-13 Because of the L ORD’s wrath it shall be uninhabited, ^jeremiah-50-13
+13 Because of the LORD’s wrath it shall be uninhabited, ^jeremiah-50-13
 
 become an utter wasteland;
 
@@ -133,11 +132,11 @@ It surrenders, its bastions fall,
 
 its walls are torn down:
 
-This is retribution from the L ORD! Take retribution on her,
+This is retribution from the LORD! Take retribution on her,
 
 as she has done, do to her;
 
-for she sinned against the L ORD.
+for she sinned against the LORD.
 
 16 Cut off the sower from Babylon ^jeremiah-50-16
 
@@ -157,7 +156,7 @@ The king of Assyria once devoured him;
 
 now Nebuchadnezzar of Babylon gnaws his bones.
 
-18 Therefore, thus says the L ORD of hosts, the God of Israel: ^jeremiah-50-18
+18 Therefore, thus says the LORD of hosts, the God of Israel: ^jeremiah-50-18
 
 I will punish the king of Babylon and his land,
 
@@ -171,7 +170,7 @@ And on Mount Ephraim and Gilead,
 
 until they have their fill.
 
-20 In those days, at that time—oracle of the L ORD: ^jeremiah-50-20
+20 In those days, at that time—oracle of the LORD: ^jeremiah-50-20
 
 The guilt of Israel may be sought, but it no longer exists,
 
@@ -183,7 +182,7 @@ for I will forgive the remnant I preserve.
 
 and those who live in Pekod;
 
-Slaughter and put them under the ban—oracle of the L ORD —
+Slaughter and put them under the ban—oracle of the LORD —
 
 do all I have commanded you.
 
@@ -205,9 +204,9 @@ Babylon, before you knew it!
 
 You were discovered and seized,
 
-because you challenged the L ORD.
+because you challenged the LORD.
 
-25 The L ORD opens his armory, ^jeremiah-50-25
+25 The LORD opens his armory, ^jeremiah-50-25
 
 brings out the weapons of his wrath;
 
@@ -237,7 +236,7 @@ from the land of Babylon:
 
 They announce in Zion
 
-the retribution of the L ORD, our God.
+the retribution of the LORD, our God.
 
 29 Call archers out against Babylon, ^jeremiah-50-29
 
@@ -251,7 +250,7 @@ Repay them for their deeds;
 
 what they have done, do to them,
 
-For they insulted the L ORD,
+For they insulted the LORD,
 
 the Holy One of Israel.
 
@@ -259,7 +258,7 @@ the Holy One of Israel.
 
 all their warriors shall be stilled on that day—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 31 I am against you, O Insolence— ^jeremiah-50-31
 
@@ -277,7 +276,7 @@ I will kindle a fire in his cities
 
 to devour everything around him.
 
-33 Thus says the L ORD of hosts: ^jeremiah-50-33
+33 Thus says the LORD of hosts: ^jeremiah-50-33
 
 Oppressed are the people of Israel,
 
@@ -289,7 +288,7 @@ and refuse to let them go.
 
 34 Strong is their Redeemer, ^jeremiah-50-34
 
-whose name is L ORD of hosts,
+whose name is LORD of hosts,
 
 The sure defender of their cause,
 
@@ -297,7 +296,7 @@ who gives rest to their land,
 
 but unrest to those who live in Babylon.
 
-35 A sword upon the Chaldeans—oracle of the L ORD — ^jeremiah-50-35
+35 A sword upon the Chaldeans—oracle of the LORD — ^jeremiah-50-35
 
 upon the inhabitants of Babylon, her princes and sages!
 
@@ -335,7 +334,7 @@ from age to age.
 
 40 As happened when God overturned Sodom ^jeremiah-50-40
 
-and Gomorrah and their neighbors—oracle of the L ORD —
+and Gomorrah and their neighbors—oracle of the LORD —
 
 No one shall dwell there,
 
@@ -379,7 +378,7 @@ For who is like me? Who can call me to account?
 
 What shepherd can stand against me?
 
-45 Therefore, hear the strategy of the L ORD, ^jeremiah-50-45
+45 Therefore, hear the strategy of the LORD, ^jeremiah-50-45
 
 which he has devised against Babylon;
 

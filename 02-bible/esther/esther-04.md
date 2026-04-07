@@ -1,25 +1,24 @@
 ---
-title: Esther, Chapter 4
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 4
+title: Esther, Chapter 4
+url: https://bible.usccb.org/bible/esther/4
 aliases:
   - esther-04
   - Esther, Chapter 4
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/4
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 4
 ---
 
 # Esther, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Mordecai Exhorts Esther.**
 
@@ -59,7 +58,7 @@ testament: old
 
 \* (4:8) The Greek text adds the following to Mordecai’s message to Esther: “Remember the days of your lowly estate, when you were brought up in my charge; for Haman, who is second to the king, has asked for our death. Invoke the Lord and speak to the king for us: save us from death.”
 
-\* (4:14) From another source: probably Mordecai refers to divine aid; the Greek additions (C) are explicit about this.
+\* (4:14) From another url: probably Mordecai refers to divine aid; the Greek additions (C) are explicit about this.
 
 a. (4:1) [Jdt 4:12].
 

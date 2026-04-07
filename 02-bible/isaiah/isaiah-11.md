@@ -1,41 +1,40 @@
 ---
-title: Isaiah, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 11
+title: Isaiah, Chapter 11
+url: https://bible.usccb.org/bible/isaiah/11
 aliases:
   - isaiah-11
   - Isaiah, Chapter 11
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 11
 ---
 
 # Isaiah, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
-#### The Ideal Davidic King
+### The Ideal Davidic King
 
 1 But a shoot shall sprout from the stump of Jesse, ^isaiah-11-1
 
 and from his roots a bud shall blossom.
 
-2 The spirit of the L ORD shall rest upon him: ^isaiah-11-2
+2 The spirit of the LORD shall rest upon him: ^isaiah-11-2
 
 a spirit of wisdom and of understanding,
 
 A spirit of counsel and of strength,
 
-a spirit of knowledge and of fear of the L ORD,
+a spirit of knowledge and of fear of the LORD,
 
-3 and his delight shall be the fear of the L ORD. ^isaiah-11-3
+3 and his delight shall be the fear of the LORD. ^isaiah-11-3
 
 Not by appearance shall he judge,
 
@@ -73,11 +72,11 @@ and the child lay his hand on the adder’s lair.
 
 9 They shall not harm or destroy on all my holy mountain; ^isaiah-11-9
 
-for the earth shall be filled with knowledge of the L ORD,
+for the earth shall be filled with knowledge of the LORD,
 
 as water covers the sea.
 
-#### Restoration
+### Restoration
 
 10 On that day, ^isaiah-11-10
 
@@ -127,7 +126,7 @@ Edom and Moab shall be their possessions,
 
 and the Ammonites their subjects.
 
-15 The L ORD shall dry up the tongue of the Sea of Egypt, ^isaiah-11-15
+15 The LORD shall dry up the tongue of the Sea of Egypt, ^isaiah-11-15
 
 and wave his hand over the Euphrates with his fierce wind,
 

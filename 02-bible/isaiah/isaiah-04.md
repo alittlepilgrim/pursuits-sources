@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 4
+title: Isaiah, Chapter 4
+url: https://bible.usccb.org/bible/isaiah/4
 aliases:
   - isaiah-04
   - Isaiah, Chapter 4
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 4
 ---
 
 # Isaiah, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 Seven women will take hold of one man ^isaiah-04-1
 
@@ -33,11 +32,11 @@ Only let your name be given us,
 
 put an end to our disgrace!”
 
-#### Jerusalem Purified
+### Jerusalem Purified
 
 2 On that day, ^isaiah-04-2
 
-The branch of the L ORD will be beauty and glory,
+The branch of the LORD will be beauty and glory,
 
 and the fruit of the land will be honor and splendor
 
@@ -59,7 +58,7 @@ And purges Jerusalem’s blood from her midst
 
 with a blast of judgment, a searing blast,
 
-5 Then will the L ORD create, ^isaiah-04-5
+5 Then will the LORD create, ^isaiah-04-5
 
 over the whole site of Mount Zion
 

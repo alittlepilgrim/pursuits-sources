@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 40
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 40
+title: Sirach, Chapter 40
+url: https://bible.usccb.org/bible/sirach/40
 aliases:
   - sirach-40
   - Sirach, Chapter 40
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/40
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 40
 ---
 
 # Sirach, Chapter 40
 
-### Chapter 40
+## Chapter 40
 
-#### Joys and Miseries of Life
+### Joys and Miseries of Life
 
 1 A great anxiety has God allotted, ^sirach-40-1
 

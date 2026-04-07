@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2024 - Text 2 the Eagle and the Little Bird (Ms. B, 4v-5v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2024 - Text 2 the Eagle and the Little Bird (Ms. B, 4v-5v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2024 - Text 2 the Eagle and the Little Bird (Ms. B, 4v-5v)
   - theresian-anniversaries-2024-text-02
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2024 - Text 2 the Eagle and the Little Bird (Ms. B, 4v-5v)
@@ -66,7 +66,7 @@ I beg You to choose a legion of little Victims worthy of Your LOVE!
 
 The very little Sister Therese of the Child Jesus and the Holy Face
 
-### Introduction to the Text
+## Introduction to the Text
 
 Therese is questioning herself anew: Is this love really in her heart? The parable of the little bird illuminates this dilemma ex-perienced in the night of faith; faith remains the only path, and it is in faith that this crazy love is lived. So, the dark images, the storm, do not distress Therese; on the contrary, for her they are the cause of perfect joy; she draws her joy and happiness from her night. This first time of joy consists of being able to name the depth of the darkness in which she finds herself, of being able to have a completely lucid awareness of it. There is then the lasting reality of happiness, as the fruit of a will and an enduring patience.
 
@@ -84,7 +84,7 @@ The images of the eagle and the little bird doubtless come firstly from the book
 
 ‘To a great number of little souls’ (Ms. B, 5v): Here, Therese, who up to now had only been speaking in her own name, made her message universal.
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -94,7 +94,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. How should we name the stages passed by the little bird? What realities are there to undermine her confidence? What does she choose regardless?
 2. Therese depends on self-abasing Love, on the prayer of others (the saints), and on her engagement in prayer for others. Can I testify to the link between these three dimensions in my own prayer-life? What does Therese ask for us?

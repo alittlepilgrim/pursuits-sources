@@ -1,25 +1,24 @@
 ---
-title: 2 Thessalonians, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Thessalonians, Chapter 1
+title: 2 Thessalonians, Chapter 1
+url: https://bible.usccb.org/bible/2thessalonians/1
 aliases:
   - 2 Thessalonians, Chapter 1
   - 2-thessalonians-01
 tags:
   - bible/2-thessalonians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2thessalonians/1
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Thessalonians, Chapter 1
 ---
 
 # 2 Thessalonians, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 

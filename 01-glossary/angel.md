@@ -1,16 +1,17 @@
 ---
-title: Angel
-created: 2025-07-20
-modified: 2026-03-19
 type: glossary
-publish: true
-description: angel. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Angel
 aliases:
   - 20250720-212722
   - angel
   - Angel
 tags:
   - term/angel
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: angel. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Angel

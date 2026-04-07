@@ -1,25 +1,24 @@
 ---
-title: 2 Kings, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 10
+title: 2 Kings, Chapter 10
+url: https://bible.usccb.org/bible/2kings/10
 aliases:
   - 2 Kings, Chapter 10
   - 2-kings-10
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/10
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 10
 ---
 
 # 2 Kings, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Death of the Sons of Ahab of Israel.**
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/2kings/10
 
 9 In the morning he came outside, stood there, and said to all the people: “You are guiltless, for it was I who conspired against my lord and slew him. But who killed all these? ^2-kings-10-9
 
-10 Know that not a single word which the L ORD has spoken against the house of Ahab shall fail. The L ORD has accomplished what he decreed through his servant Elijah.” ^2-kings-10-10
+10 Know that not a single word which the LORD has spoken against the house of Ahab shall fail. The LORD has accomplished what he decreed through his servant Elijah.” ^2-kings-10-10
 
 11 (And so Jehu slew all who were left of the house of Ahab in Jezreel, as well as all his powerful supporters, intimates, and priests, leaving him no survivor.) ^2-kings-10-11
 
@@ -55,11 +54,11 @@ url: https://bible.usccb.org/bible/2kings/10
 
 15 When he set out from there, Jehu met Jehonadab, son of Rechab, on the road. He greeted him and asked, “Are you with me wholeheartedly, as I am with you?” “Yes,” he replied. “If you are, give me your hand.” He gave him his hand, and he had him mount his chariot, ^2-kings-10-15
 
-16 and said, “Come with me and see my zeal for the L ORD.” And they took him along in his chariot. ^2-kings-10-16
+16 and said, “Come with me and see my zeal for the LORD.” And they took him along in his chariot. ^2-kings-10-16
 
 **Slaughter of the Worshipers of Baal.**
 
-17 When he arrived in Samaria, Jehu slew all who were left of Ahab’s line in Samaria, doing away with them completely, according to the word the L ORD spoke to Elijah. ^2-kings-10-17
+17 When he arrived in Samaria, Jehu slew all who were left of Ahab’s line in Samaria, doing away with them completely, according to the word the LORD spoke to Elijah. ^2-kings-10-17
 
 18 Jehu gathered all the people together and said to them: “Ahab served Baal to some extent, but Jehu will serve him yet more. ^2-kings-10-18
 
@@ -71,7 +70,7 @@ url: https://bible.usccb.org/bible/2kings/10
 
 22 Then Jehu said to the custodian of the wardrobe, “Bring out garments for all the servants of Baal.” When he had brought out the garments for them, ^2-kings-10-22
 
-23 Jehu, with Jehonadab, son of Rechab, entered the temple of Baal and said to the servants of Baal, “Search and be sure that there is no one who serves the L ORD here with you, but only servants of Baal.” ^2-kings-10-23
+23 Jehu, with Jehonadab, son of Rechab, entered the temple of Baal and said to the servants of Baal, “Search and be sure that there is no one who serves the LORD here with you, but only servants of Baal.” ^2-kings-10-23
 
 24 Then they proceeded to offer sacrifices and burnt offerings. Now Jehu had stationed eighty troops outside with this warning, “Any of you who lets someone escape of those whom I shall deliver into your hands shall pay life for life.” ^2-kings-10-24
 
@@ -87,11 +86,11 @@ url: https://bible.usccb.org/bible/2kings/10
 
 29 However, Jehu did not desist from the sins which Jeroboam, son of Nebat, had caused Israel to commit, the golden calves at Bethel and at Dan. ^2-kings-10-29
 
-30 The L ORD said to Jehu: Because you have done well what is right in my eyes, and have done to the house of Ahab all that was in my heart, your sons to the fourth generation shall sit upon the throne of Israel. ^2-kings-10-30
+30 The LORD said to Jehu: Because you have done well what is right in my eyes, and have done to the house of Ahab all that was in my heart, your sons to the fourth generation shall sit upon the throne of Israel. ^2-kings-10-30
 
-31 But Jehu was not careful to walk in the law of the L ORD, the God of Israel, with all his heart, since he did not desist from the sins which Jeroboam had caused Israel to commit. ^2-kings-10-31
+31 But Jehu was not careful to walk in the law of the LORD, the God of Israel, with all his heart, since he did not desist from the sins which Jeroboam had caused Israel to commit. ^2-kings-10-31
 
-32 At that time the L ORD began to dismember Israel. Hazael defeated the Israelites throughout their territory ^2-kings-10-32
+32 At that time the LORD began to dismember Israel. Hazael defeated the Israelites throughout their territory ^2-kings-10-32
 
 33 east of the Jordan (all the land of Gilead, of the Gadites, Reubenites, and Manassites), from Aroer on the wadi Arnon up through Gilead and Bashan. ^2-kings-10-33
 

@@ -1,25 +1,24 @@
 ---
-title: Deuteronomy, Chapter 22
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 22
+title: Deuteronomy, Chapter 22
+url: https://bible.usccb.org/bible/deuteronomy/22
 aliases:
   - deuteronomy-22
   - Deuteronomy, Chapter 22
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/22
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 22
 ---
 
 # Deuteronomy, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 **Concern for the Neighbor.**
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/deuteronomy/22
 
 **Various Precepts.**
 
-5 A woman shall not wear a man’s garment, nor shall a man put on a woman’s clothing; for anyone who does such things is an abomination to the L ORD, your God. ^deuteronomy-22-5
+5 A woman shall not wear a man’s garment, nor shall a man put on a woman’s clothing; for anyone who does such things is an abomination to the LORD, your God. ^deuteronomy-22-5
 
 6 If, while walking along, you come across a bird’s nest with young birds or eggs in it, in any tree or on the ground, and the mother bird is sitting on them, you shall not take away the mother bird along with her brood. ^deuteronomy-22-6
 

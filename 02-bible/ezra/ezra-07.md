@@ -1,25 +1,24 @@
 ---
-title: Ezra, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezra, Chapter 7
+title: Ezra, Chapter 7
+url: https://bible.usccb.org/bible/ezra/7
 aliases:
   - ezra-07
   - Ezra, Chapter 7
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezra, Chapter 7
 ---
 
 # Ezra, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **Ezra, Priest and Scribe.**
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/ezra/7
 
 5 son of Abishua, son of Phinehas, son of Eleazar, son of Aaron, the high priest— ^ezra-07-5
 
-6 this Ezra came up from Babylon. He was a scribe, well-versed in the law of Moses given by the L ORD, the God of Israel. The king granted him all that he requested, because the hand of the L ORD, his God, was over him. ^ezra-07-6
+6 this Ezra came up from Babylon. He was a scribe, well-versed in the law of Moses given by the LORD, the God of Israel. The king granted him all that he requested, because the hand of the LORD, his God, was over him. ^ezra-07-6
 
 7 Some of the Israelites and some priests, Levites, singers, gatekeepers, and temple servants also came up to Jerusalem in the seventh year of King Artaxerxes. ^ezra-07-7
 
@@ -41,11 +40,11 @@ url: https://bible.usccb.org/bible/ezra/7
 
 9 On the first day of the first month he began the journey up from Babylon, and on the first day of the fifth month he arrived at Jerusalem, for the favoring hand of his God was over him. ^ezra-07-9
 
-10 Ezra had set his heart on the study and practice of the law of the L ORD and on teaching statutes and ordinances in Israel. ^ezra-07-10
+10 Ezra had set his heart on the study and practice of the law of the LORD and on teaching statutes and ordinances in Israel. ^ezra-07-10
 
 **The Decree of Artaxerxes.**
 
-11 This is a copy of the rescript which King Artaxerxes gave to Ezra the priest-scribe, the scribe versed in matters concerning the L ORD’s commandments and statutes for Israel: ^ezra-07-11
+11 This is a copy of the rescript which King Artaxerxes gave to Ezra the priest-scribe, the scribe versed in matters concerning the LORD’s commandments and statutes for Israel: ^ezra-07-11
 
 12 “Artaxerxes, king of kings, to Ezra the priest, scribe of the law of the God of heaven, greetings! And now, ^ezra-07-12
 
@@ -79,9 +78,9 @@ url: https://bible.usccb.org/bible/ezra/7
 
 **Ezra Prepares for the Journey.**
 
-27 Blessed be the L ORD, the God of our ancestors, who put it into the heart of the king thus to glorify the house of the L ORD in Jerusalem, ^ezra-07-27
+27 Blessed be the LORD, the God of our ancestors, who put it into the heart of the king thus to glorify the house of the LORD in Jerusalem, ^ezra-07-27
 
-28 and who let me find favor with the king, with his counselors, and with all the most influential royal officials. I therefore took courage and, with the hand of the L ORD, my God, over me, I gathered together Israelite leaders to make the return journey with me. ^ezra-07-28
+28 and who let me find favor with the king, with his counselors, and with all the most influential royal officials. I therefore took courage and, with the hand of the LORD, my God, over me, I gathered together Israelite leaders to make the return journey with me. ^ezra-07-28
 
 \* (7:1] – [10) The editor’s introduction to Ezra’s autobiographical narrative. The context suggests the seventh year of Artaxerxes I, therefore, 458 B.C., as the date of Ezra’s arrival in Jerusalem. The arguments often advanced for 398 B.C., the seventh year of Artaxerxes II, or less often for the thirty-seventh year of Artaxerxes I, that is, 428 B.C., are inconclusive. For Ezra’s descent from Aaron, the editor has drawn selectively on [1 Chr 5:27] – [41]. Seraiah, the chief priest executed by the Babylonians after the fall of Jerusalem ([2 Kgs 25:18] – [21]), cannot be Ezra’s father in a literal sense, and Ezra was not himself high priest.
 

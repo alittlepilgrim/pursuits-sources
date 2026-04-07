@@ -1,25 +1,24 @@
 ---
-title: Esther, Chapter 10
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 10
+title: Esther, Chapter 10
+url: https://bible.usccb.org/bible/esther/10
 aliases:
   - esther-10
   - Esther, Chapter 10
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/10
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 10
 ---
 
 # Esther, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **The Rise of Mordecai Completed.**
 

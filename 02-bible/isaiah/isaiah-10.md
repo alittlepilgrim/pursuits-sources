@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 10
+title: Isaiah, Chapter 10
+url: https://bible.usccb.org/bible/isaiah/10
 aliases:
   - isaiah-10
   - Isaiah, Chapter 10
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 10
 ---
 
 # Isaiah, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
-#### Perversion of Justice
+### Perversion of Justice
 
 1 Ah! Those who enact unjust statutes, ^isaiah-10-1
 
@@ -51,7 +50,7 @@ For all this, his wrath is not turned back,
 
 his hand is still outstretched!
 
-#### Judgment on Assyria
+### Judgment on Assyria
 
 5 Ah! Assyria, the rod of my wrath, ^isaiah-10-5
 
@@ -89,7 +88,7 @@ that had more images than Jerusalem and Samaria—
 
 shall I not do to Jerusalem and her graven images?”
 
-12 But when the L ORD has brought to an end all his work on Mount Zion and in Jerusalem, ^isaiah-10-12
+12 But when the LORD has brought to an end all his work on Mount Zion and in Jerusalem, ^isaiah-10-12
 
 I will punish the utterance
 
@@ -129,7 +128,7 @@ As if a rod could sway the one who lifts it,
 
 or a staff could lift the one who is not wood!
 
-16 Therefore the Lord, the L ORD of hosts, ^isaiah-10-16
+16 Therefore the Lord, the LORD of hosts, ^isaiah-10-16
 
 will send leanness among his fat ones,
 
@@ -165,7 +164,7 @@ the survivors of the house of Jacob,
 
 will no more lean upon the one who struck them;
 
-But they will lean upon the L ORD,
+But they will lean upon the LORD,
 
 the Holy One of Israel, in truth.
 
@@ -189,7 +188,7 @@ as overflowing justice demands.
 
 25 For just a brief moment more, and my wrath shall be over, and my anger shall be set for their destruction. ^isaiah-10-25
 
-26 Then the L ORD of hosts will raise against them a scourge such as struck Midian at the rock of Oreb; and he will raise his staff over the sea as he did in Egypt. ^isaiah-10-26
+26 Then the LORD of hosts will raise against them a scourge such as struck Midian at the rock of Oreb; and he will raise his staff over the sea as he did in Egypt. ^isaiah-10-26
 
 27 On that day, ^isaiah-10-27
 
@@ -197,7 +196,7 @@ His burden shall be taken from your shoulder,
 
 and his yoke shattered from your neck.
 
-#### The March of an Enemy Army
+### The March of an Enemy Army
 
 He has come up from Rimmon,
 
@@ -227,7 +226,7 @@ he will shake his fist at the mount of daughter Zion,
 
 the hill of Jerusalem!
 
-33 Now the Lord, the L ORD of hosts, ^isaiah-10-33
+33 Now the Lord, the LORD of hosts, ^isaiah-10-33
 
 is about to lop off the boughs with terrible violence;
 
@@ -247,7 +246,7 @@ and Lebanon in its splendor shall fall.
 
 \* (10:6) Impious nation: Judah. It was God’s intention to use Assyria merely to punish, not to destroy, the nation.
 
-\* (10:9] – [10) The cities mentioned were all cities captured, some more than once, by the Assyrians in the eighth century B.C. Verse [9] suggests a certain historical order in the fall of these cities, and v. [10] suggests that all of them had fallen before Samaria (cf. [Am 6:2]). That implies that one should think primarily of events during the reign of Tiglath-pileser III (745–727).
+\* (10:9] – [10) The cities mentioned were all cities captured, some more than once, by the Assyrians in the eighth century B.C. Verse [9] suggests a certain historicaLORDer in the fall of these cities, and v. [10] suggests that all of them had fallen before Samaria (cf. [Am 6:2]). That implies that one should think primarily of events during the reign of Tiglath-pileser III (745–727).
 
 \* (10:16) His fat ones: the strong men of the enemy army.
 

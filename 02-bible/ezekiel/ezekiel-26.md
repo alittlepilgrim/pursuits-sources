@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 26
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 26
+title: Ezekiel, Chapter 26
+url: https://bible.usccb.org/bible/ezekiel/26
 aliases:
   - ezekiel-26
   - Ezekiel, Chapter 26
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/26
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 26
 ---
 
 # Ezekiel, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 **Against the City of Tyre.**
 
-1 On the first day of the eleventh month of the eleventh year, the word of the L ORD came to me: ^ezekiel-26-1
+1 On the first day of the eleventh month of the eleventh year, the word of the LORD came to me: ^ezekiel-26-1
 
 2 Son of man, because Tyre said of Jerusalem: ^ezekiel-26-2
 
@@ -61,7 +60,7 @@ she will become plunder for the nations.
 
 will be slaughtered by the sword;
 
-then they shall know that I am the L ORD.
+then they shall know that I am the LORD.
 
 7 Indeed thus says the Lord G OD: ^ezekiel-26-7
 
@@ -133,7 +132,7 @@ you will become a place for drying nets.
 
 You shall never be rebuilt,
 
-for I the L ORD have spoken—
+for I the LORD have spoken—
 
 oracle of the Lord G OD.
 

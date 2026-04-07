@@ -1,49 +1,48 @@
 ---
-title: 2 Samuel, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 7
+title: 2 Samuel, Chapter 7
+url: https://bible.usccb.org/bible/2samuel/7
 aliases:
   - 2 Samuel, Chapter 7
   - 2-samuel-07
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/7
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 7
 ---
 
 # 2 Samuel, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **The Oracle of Nathan.**
 
-1 After the king had taken up residence in his house, and the L ORD had given him rest from his enemies on every side, ^2-samuel-07-1
+1 After the king had taken up residence in his house, and the LORD had given him rest from his enemies on every side, ^2-samuel-07-1
 
 2 the king said to Nathan the prophet, “Here I am living in a house of cedar, but the ark of God dwells in a tent!” ^2-samuel-07-2
 
-3 Nathan answered the king, “Whatever is in your heart, go and do, for the L ORD is with you.” ^2-samuel-07-3
+3 Nathan answered the king, “Whatever is in your heart, go and do, for the LORD is with you.” ^2-samuel-07-3
 
-4 But that same night the word of the L ORD came to Nathan: ^2-samuel-07-4
+4 But that same night the word of the LORD came to Nathan: ^2-samuel-07-4
 
-5 Go and tell David my servant, Thus says the L ORD: Is it you who would build me a house to dwell in? ^2-samuel-07-5
+5 Go and tell David my servant, Thus says the LORD: Is it you who would build me a house to dwell in? ^2-samuel-07-5
 
 6 I have never dwelt in a house from the day I brought Israel up from Egypt to this day, but I have been going about in a tent or a tabernacle. ^2-samuel-07-6
 
 7 As long as I have wandered about among the Israelites, did I ever say a word to any of the judges whom I commanded to shepherd my people Israel: Why have you not built me a house of cedar? ^2-samuel-07-7
 
-8 Now then, speak thus to my servant David, Thus says the L ORD of hosts: I took you from the pasture, from following the flock, to become ruler over my people Israel. ^2-samuel-07-8
+8 Now then, speak thus to my servant David, Thus says the LORD of hosts: I took you from the pasture, from following the flock, to become ruler over my people Israel. ^2-samuel-07-8
 
 9 I was with you wherever you went, and I cut down all your enemies before you. And I will make your name like that of the greatest on earth. ^2-samuel-07-9
 
 10 I will assign a place for my people Israel and I will plant them in it to dwell there; they will never again be disturbed, nor shall the wicked ever again oppress them, as they did at the beginning, ^2-samuel-07-10
 
-11 and from the day when I appointed judges over my people Israel. I will give you rest from all your enemies. Moreover, the L ORD also declares to you that the L ORD will make a house for you: ^2-samuel-07-11
+11 and from the day when I appointed judges over my people Israel. I will give you rest from all your enemies. Moreover, the LORD also declares to you that the LORD will make a house for you: ^2-samuel-07-11
 
 12 when your days have been completed and you rest with your ancestors, I will raise up your offspring after you, sprung from your loins, and I will establish his kingdom. ^2-samuel-07-12
 
@@ -59,7 +58,7 @@ url: https://bible.usccb.org/bible/2samuel/7
 
 **David’s Thanksgiving.**
 
-18 Then King David went in and sat in the L ORD’s presence and said, “Who am I, Lord G OD, and what is my house, that you should have brought me so far? ^2-samuel-07-18
+18 Then King David went in and sat in the LORD’s presence and said, “Who am I, Lord G OD, and what is my house, that you should have brought me so far? ^2-samuel-07-18
 
 19 And yet even this is too little in your sight, Lord G OD! For you have made a promise regarding your servant’s house reaching into the future, and giving guidance to the people, Lord G OD! ^2-samuel-07-19
 
@@ -71,13 +70,13 @@ url: https://bible.usccb.org/bible/2samuel/7
 
 23 What other nation on earth is there like your people Israel? What god has ever led a nation, redeeming it as his people and making a name by great and awesome deeds, as you drove out the nations and their gods before your people, whom you redeemed for yourself from Egypt? ^2-samuel-07-23
 
-24 You have established for yourself your people Israel as your people forever, and you, L ORD, have become their God. ^2-samuel-07-24
+24 You have established for yourself your people Israel as your people forever, and you, LORD, have become their God. ^2-samuel-07-24
 
-25 Now, L ORD God, confirm the promise that you have spoken concerning your servant and his house forever. Bring about what you have promised ^2-samuel-07-25
+25 Now, LORD God, confirm the promise that you have spoken concerning your servant and his house forever. Bring about what you have promised ^2-samuel-07-25
 
-26 so that your name may be forever great. People will say: ‘The L ORD of hosts is God over Israel,’ when the house of your servant David is established in your presence. ^2-samuel-07-26
+26 so that your name may be forever great. People will say: ‘The LORD of hosts is God over Israel,’ when the house of your servant David is established in your presence. ^2-samuel-07-26
 
-27 Because you, L ORD of hosts, God of Israel, have revealed to your servant, ‘I will build you a house,’ your servant now finds the courage to make this prayer before you. ^2-samuel-07-27
+27 Because you, LORD of hosts, God of Israel, have revealed to your servant, ‘I will build you a house,’ your servant now finds the courage to make this prayer before you. ^2-samuel-07-27
 
 28 Since you, Lord G OD, are truly God and your words are truth and you have made this generous promise to your servant, ^2-samuel-07-28
 

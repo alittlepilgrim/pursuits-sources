@@ -1,25 +1,24 @@
 ---
-title: Ezra, Chapter 2
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: ezra-chapter 2
+title: Ezra, Chapter 2
+url: https://bible.usccb.org/bible/ezra/2
 aliases:
   - ezra-02
   - Ezra, Chapter 2
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: ezra-chapter 2
 ---
 
 # Ezra, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **A Census of the Returned Exiles.**
 
@@ -159,7 +158,7 @@ The census of the people of Israel:
 
 67 their camels four hundred and thirty-five, their donkeys six thousand seven hundred and twenty. ^ezra-02-67
 
-68 When they arrived at the house of the L ORD in Jerusalem, some of the heads of ancestral houses made voluntary offerings for the house of God, to rebuild it in its place. ^ezra-02-68
+68 When they arrived at the house of the LORD in Jerusalem, some of the heads of ancestral houses made voluntary offerings for the house of God, to rebuild it in its place. ^ezra-02-68
 
 69 According to their means they contributed to the treasury for the temple service: sixty-one thousand drachmas of gold, five thousand minas of silver, and one hundred priestly robes. ^ezra-02-69
 

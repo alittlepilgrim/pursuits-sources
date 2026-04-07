@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 13
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 13
+title: Genesis, Chapter 13
+url: https://bible.usccb.org/bible/genesis/13
 aliases:
   - genesis-13
   - Genesis, Chapter 13
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 13
 bible_book: genesis
 bible_chapter: "13"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/13
 ---
 
 [[genesis-12|[← Previous Note]]] · [[genesis-14|[Next Note →]]]
@@ -34,7 +33,7 @@ url: https://bible.usccb.org/bible/genesis/13
 
 3 From the Negeb he traveled by stages toward Bethel, to the place between Bethel and Ai where his tent had formerly stood, ^genesis-13-3
 
-4 the site where he had first built the altar; and there Abram invoked the L ORD by name. ^genesis-13-4
+4 the site where he had first built the altar; and there Abram invoked the LORD by name. ^genesis-13-4
 
 5 Lot, who went with Abram, also had flocks and herds and tents, ^genesis-13-5
 
@@ -46,15 +45,15 @@ url: https://bible.usccb.org/bible/genesis/13
 
 9 Is not the whole land available? Please separate from me. If you prefer the left, I will go to the right; if you prefer the right, I will go to the left.” ^genesis-13-9
 
-10 Lot looked about and saw how abundantly watered the whole Jordan Plain was as far as Zoar, like the L ORD’s own garden, or like Egypt. This was before the L ORD had destroyed Sodom and Gomorrah. ^genesis-13-10
+10 Lot looked about and saw how abundantly watered the whole Jordan Plain was as far as Zoar, like the LORD’s own garden, or like Egypt. This was before the LORD had destroyed Sodom and Gomorrah. ^genesis-13-10
 
 11 Lot, therefore, chose for himself the whole Jordan Plain and set out eastward. Thus they separated from each other. ^genesis-13-11
 
 12 Abram settled in the land of Canaan, while Lot settled among the cities of the Plain, pitching his tents near Sodom. ^genesis-13-12
 
-13 Now the inhabitants of Sodom were wicked, great sinners against the L ORD. ^genesis-13-13
+13 Now the inhabitants of Sodom were wicked, great sinners against the LORD. ^genesis-13-13
 
-14 After Lot had parted from him, the L ORD said to Abram: Look about you, and from where you are, gaze to the north and south, east and west; ^genesis-13-14
+14 After Lot had parted from him, the LORD said to Abram: Look about you, and from where you are, gaze to the north and south, east and west; ^genesis-13-14
 
 15 all the land that you see I will give to you and your descendants forever. ^genesis-13-15
 
@@ -62,7 +61,7 @@ url: https://bible.usccb.org/bible/genesis/13
 
 17 Get up and walk through the land, across its length and breadth, for I give it to you. ^genesis-13-17
 
-18 Abram moved his tents and went on to settle near the oak of Mamre, which is at Hebron. There he built an altar to the L ORD. ^genesis-13-18
+18 Abram moved his tents and went on to settle near the oak of Mamre, which is at Hebron. There he built an altar to the LORD. ^genesis-13-18
 
 \* (13:2] – [18) In this story of [[abraham|Abraham]] and Lot going their separate ways, [[abraham|Abraham]] resolves a family dispute by an act that shows both trust in God and generosity toward his nephew. The story suggests Lot rather than [[abraham|Abraham]] is the natural choice to be the ancestor of a great family; he is young and he takes the most fertile land (outside the land of Canaan). In contrast to Lot, who lifts his eyes to choose for himself (vv. [10] – [11]), [[abraham|Abraham]] waits for God to tell him to lift his eyes and see the land he will receive (v. [14]). Chaps. [18] – [19] continue the story of [[abraham|Abraham]] and Lot. [[abraham|Abraham]]’s visionary possession of the land foreshadows that of Moses ([Dt 3:27]; [34:4]).
 
@@ -84,6 +83,6 @@ h. (13:18) [[genesis-14|Gen 14]]:13..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-02|[← Previous Note]]] · [[genesis-04|[Next Note →]]]

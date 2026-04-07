@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 9
+title: 2 Samuel, Chapter 9
+url: https://bible.usccb.org/bible/2samuel/9
 aliases:
   - 2 Samuel, Chapter 9
   - 2-samuel-09
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/9
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 9
 ---
 
 # 2 Samuel, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **David and Meribbaal.**
 

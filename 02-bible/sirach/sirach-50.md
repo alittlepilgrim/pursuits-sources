@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 50
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 50
+title: Sirach, Chapter 50
+url: https://bible.usccb.org/bible/sirach/50
 aliases:
   - sirach-50
   - Sirach, Chapter 50
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/50
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 50
 ---
 
 # Sirach, Chapter 50
 
-### Chapter 50
+## Chapter 50
 
-#### Simeon, Son of Jochanan
+### Simeon, Son of Jochanan
 
 1 Greatest of his family, the glory of his people, ^sirach-50-1
 
@@ -91,7 +90,7 @@ And like poplars by the brook they surrounded him,
 
 13 all the sons of Aaron in their glory, ^sirach-50-13
 
-With the offerings to the L ORD in their hands,
+With the offerings to the LORD in their hands,
 
 in the presence of the whole assembly of Israel.
 
@@ -139,9 +138,9 @@ by presenting to God the fitting sacrifice.
 
 over all the congregation of Israel;
 
-The blessing of the L ORD would be upon his lips,
+The blessing of the LORD would be upon his lips,
 
-the name of the L ORD would be his glory.
+the name of the LORD would be his glory.
 
 21 The people would again fall down ^sirach-50-21
 
@@ -167,7 +166,7 @@ So that it may not be abrogated for him
 
 or his descendants while the heavens last.
 
-#### Epilogue
+### Epilogue
 
 25 My whole being loathes two nations, ^sirach-50-25
 
@@ -191,7 +190,7 @@ wise those who take them to heart!
 
 29 If they put them into practice, they can cope with anything, ^sirach-50-29
 
-for the fear of the L ORD is their lamp.
+for the fear of the LORD is their lamp.
 
 \* (50:1] – [21) Son of Jochanan: Simeon II, in whose time as high priest (219–196 B.C.) great works were accomplished for the benefit of public worship and welfare (vv. [1] – [4]). Ben Sira, a contemporary, describes detailed liturgical action, perhaps pertaining to the Day of Atonement (Yom Kippur, cf. [Lv 16]).
 

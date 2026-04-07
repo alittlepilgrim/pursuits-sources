@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 20
+title: 2 Samuel, Chapter 20
+url: https://bible.usccb.org/bible/2samuel/20
 aliases:
   - 2 Samuel, Chapter 20
   - 2-samuel-20
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/20
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 20
 ---
 
 # 2 Samuel, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Sheba’s Rebellion.**
 
@@ -69,7 +68,7 @@ Everyone to your tents, O Israel!”
 
 18 Then she went on to say: “There is a saying from long ago, ‘Let them ask if they will in Abel or in Dan whether loyalty is finished ^2-samuel-20-18
 
-19 or ended in Israel.’ You are seeking to batter down a city that is a mother in Israel. Why do you wish to swallow up the heritage of the L ORD?” ^2-samuel-20-19
+19 or ended in Israel.’ You are seeking to batter down a city that is a mother in Israel. Why do you wish to swallow up the heritage of the LORD?” ^2-samuel-20-19
 
 20 Joab answered, “Not at all, not at all! I do not wish to swallow or batter anything. ^2-samuel-20-20
 

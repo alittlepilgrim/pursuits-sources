@@ -1,25 +1,24 @@
 ---
-title: Romans, Chapter 4
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: romans-chapter 4
+title: Romans, Chapter 4
+url: https://bible.usccb.org/bible/romans/4
 aliases:
   - romans-04
   - Romans, Chapter 4
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/romans
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/romans/4
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: romans-chapter 4
 ---
 
 # Romans, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **[[abraham|Abraham]] Justified by Faith.**
 

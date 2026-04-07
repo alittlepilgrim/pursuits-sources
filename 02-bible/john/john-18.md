@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 18
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 18
+title: John, Chapter 18
+url: https://bible.usccb.org/bible/john/18
 aliases:
   - john-18
   - John, Chapter 18
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/18
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 18
 ---
 
 # John, Chapter 18
 
-### Chapter 18
+## Chapter 18
 
 **Jesus Arrested.**
 

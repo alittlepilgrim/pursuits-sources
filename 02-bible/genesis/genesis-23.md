@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 23
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 23
+title: Genesis, Chapter 23
+url: https://bible.usccb.org/bible/genesis/23
 aliases:
   - 20250508-020256
   - genesis-23
   - Genesis, Chapter 23
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 23
 bible_book: genesis
 bible_chapter: "23"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/23
 ---
 
 [[genesis-22|[← Previous Note]]] · [[genesis-24|[Next Note →]]]
@@ -85,6 +84,6 @@ c. (23:17] – [18) [Gn 49:29] – [30]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-02|[← Previous Note]]] · [[genesis-04|[Next Note →]]]

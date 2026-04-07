@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 15
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 15
+title: Proverbs, Chapter 15
+url: https://bible.usccb.org/bible/proverbs/15
 aliases:
   - proverbs-15
   - Proverbs, Chapter 15
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/15
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 15
 ---
 
 # Proverbs, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
 1 A mild answer turns back wrath, ^proverbs-15-1
 
@@ -29,7 +28,7 @@ but a harsh word stirs up anger.
 
 but the mouth of fools spews folly.
 
-3 The eyes of the L ORD are in every place, ^proverbs-15-3
+3 The eyes of the LORD are in every place, ^proverbs-15-3
 
 keeping watch on the evil and the good.
 
@@ -49,11 +48,11 @@ but the harvest of the wicked is in peril.
 
 but the heart of fools is not steadfast.
 
-8 The sacrifice of the wicked is an abomination to the L ORD, ^proverbs-15-8
+8 The sacrifice of the wicked is an abomination to the LORD, ^proverbs-15-8
 
 but the prayer of the upright is his delight.
 
-9 The way of the wicked is an abomination to the L ORD, ^proverbs-15-9
+9 The way of the wicked is an abomination to the LORD, ^proverbs-15-9
 
 but he loves one who pursues justice.
 
@@ -61,7 +60,7 @@ but he loves one who pursues justice.
 
 one who hates reproof will die.
 
-11 Sheol and Abaddon lie open before the L ORD; ^proverbs-15-11
+11 Sheol and Abaddon lie open before the LORD; ^proverbs-15-11
 
 how much more the hearts of mortals!
 
@@ -81,7 +80,7 @@ but the mouth of fools feeds on folly.
 
 but a good heart is a continual feast.
 
-16 Better a little with fear of the L ORD ^proverbs-15-16
+16 Better a little with fear of the LORD ^proverbs-15-16
 
 than a great fortune with anxiety.
 
@@ -117,11 +116,11 @@ a word in season, how good it is!
 
 turning them from Sheol below.
 
-25 The L ORD pulls down the house of the proud, ^proverbs-15-25
+25 The LORD pulls down the house of the proud, ^proverbs-15-25
 
 but preserves intact the widow’s landmark.
 
-26 The schemes of the wicked are an abomination to the L ORD, ^proverbs-15-26
+26 The schemes of the wicked are an abomination to the LORD, ^proverbs-15-26
 
 but gracious words are pure.
 
@@ -133,7 +132,7 @@ but those who hate bribes will live.
 
 but the mouth of the wicked spews evil.
 
-29 The L ORD is far from the wicked, ^proverbs-15-29
+29 The LORD is far from the wicked, ^proverbs-15-29
 
 but hears the prayer of the just.
 
@@ -149,7 +148,7 @@ is at home among the wise.
 
 but those who heed reproof acquire understanding.
 
-33 The fear of the L ORD is training for wisdom, ^proverbs-15-33
+33 The fear of the LORD is training for wisdom, ^proverbs-15-33
 
 and humility goes before honors.
 

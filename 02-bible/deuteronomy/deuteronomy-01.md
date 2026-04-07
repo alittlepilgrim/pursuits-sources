@@ -1,25 +1,24 @@
 ---
-title: Deuteronomy, Chapter 1
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 1
+title: Deuteronomy, Chapter 1
+url: https://bible.usccb.org/bible/deuteronomy/1
 aliases:
   - deuteronomy-01
   - Deuteronomy, Chapter 1
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 1
 ---
 
 # Deuteronomy, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Introduction.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/deuteronomy/1
 
 2 It is a journey of eleven days from Horeb to Kadesh-barnea by way of the highlands of Seir. ^deuteronomy-01-2
 
-3 In the fortieth year, on the first day of the eleventh month, Moses spoke to the Israelites according to all that the L ORD had commanded him to speak to them, ^deuteronomy-01-3
+3 In the fortieth year, on the first day of the eleventh month, Moses spoke to the Israelites according to all that the LORD had commanded him to speak to them, ^deuteronomy-01-3
 
 4 after he had defeated Sihon, king of the Amorites, who reigned in Heshbon, and Og, king of Bashan, who reigned in Ashtaroth and in Edrei. ^deuteronomy-01-4
 
@@ -35,19 +34,19 @@ url: https://bible.usccb.org/bible/deuteronomy/1
 
 **Departure from Horeb.**
 
-6 The L ORD, our God, said to us at Horeb: You have stayed long enough at this mountain. ^deuteronomy-01-6
+6 The LORD, our God, said to us at Horeb: You have stayed long enough at this mountain. ^deuteronomy-01-6
 
 7 Leave here and go to the hill country of the Amorites and to all the surrounding regions, the Arabah, the mountains, the Shephelah, the Negeb and the seacoast—the land of the Canaanites and the Lebanon as far as the Great River, the Euphrates. ^deuteronomy-01-7
 
-8 See, I have given that land over to you. Go now and possess the land that the L ORD swore to your ancestors, [[abraham|Abraham]], Isaac, and Jacob, to give to them and to their descendants after them. ^deuteronomy-01-8
+8 See, I have given that land over to you. Go now and possess the land that the LORD swore to your ancestors, [[abraham|Abraham]], Isaac, and Jacob, to give to them and to their descendants after them. ^deuteronomy-01-8
 
 **Appointment of Elders.**
 
 9 At that time I said to you, “I am unable to carry you by myself. ^deuteronomy-01-9
 
-10 The L ORD, your God, has made you numerous, and now you are as numerous as the stars of the heavens. ^deuteronomy-01-10
+10 The LORD, your God, has made you numerous, and now you are as numerous as the stars of the heavens. ^deuteronomy-01-10
 
-11 May the L ORD, the God of your ancestors, increase you a thousand times over, and bless you as he promised! ^deuteronomy-01-11
+11 May the LORD, the God of your ancestors, increase you a thousand times over, and bless you as he promised! ^deuteronomy-01-11
 
 12 But how can I, by myself, bear the weight, the contentiousness of you? ^deuteronomy-01-12
 
@@ -65,11 +64,11 @@ url: https://bible.usccb.org/bible/deuteronomy/1
 
 **The Twelve Scouts.**
 
-19 Then we set out from Horeb and journeyed through that whole vast and fearful wilderness that you have seen, in the direction of the hill country of the Amorites, as the L ORD, our God, had commanded; and we came to Kadesh-barnea. ^deuteronomy-01-19
+19 Then we set out from Horeb and journeyed through that whole vast and fearful wilderness that you have seen, in the direction of the hill country of the Amorites, as the LORD, our God, had commanded; and we came to Kadesh-barnea. ^deuteronomy-01-19
 
-20 I said to you, “You have come to the hill country of the Amorites, which the L ORD, our God, is giving us. ^deuteronomy-01-20
+20 I said to you, “You have come to the hill country of the Amorites, which the LORD, our God, is giving us. ^deuteronomy-01-20
 
-21 See, the L ORD, your God, has given this land over to you. Go up and take possession of it, as the L ORD, the God of your ancestors, has promised you. Do not fear or be dismayed.” ^deuteronomy-01-21
+21 See, the LORD, your God, has given this land over to you. Go up and take possession of it, as the LORD, the God of your ancestors, has promised you. Do not fear or be dismayed.” ^deuteronomy-01-21
 
 22 Then all of you approached me and said, “Let us send men ahead to spy out the land for us and report to us on the road we should follow and the cities we will come upon.” ^deuteronomy-01-22
 
@@ -77,33 +76,33 @@ url: https://bible.usccb.org/bible/deuteronomy/1
 
 24 They set out into the hill country as far as the Wadi Eshcol, and explored it. ^deuteronomy-01-24
 
-25 Then, taking along some of the fruit of the land, they brought it down to us and reported, “The land the L ORD, our God, is giving us is good.” ^deuteronomy-01-25
+25 Then, taking along some of the fruit of the land, they brought it down to us and reported, “The land the LORD, our God, is giving us is good.” ^deuteronomy-01-25
 
 **Threats of Revolt.**
 
-26 But you refused to go up; you defied the command of the L ORD, your God. ^deuteronomy-01-26
+26 But you refused to go up; you defied the command of the LORD, your God. ^deuteronomy-01-26
 
-27 You set to murmuring in your tents, “Out of hatred for us the L ORD has brought us out of the land of Egypt, to deliver us into the power of the Amorites and destroy us. ^deuteronomy-01-27
+27 You set to murmuring in your tents, “Out of hatred for us the LORD has brought us out of the land of Egypt, to deliver us into the power of the Amorites and destroy us. ^deuteronomy-01-27
 
 28 What shall we meet with up there? Our men have made our hearts melt by saying, ‘The people are bigger and taller than we, and their cities are large and fortified to the sky; besides, we saw the Anakim there.’” ^deuteronomy-01-28
 
 29 But I said to you, “Have no dread or fear of them. ^deuteronomy-01-29
 
-30 The L ORD, your God, who goes before you, is the one who will fight for you, just as he acted with you before your very eyes in Egypt, ^deuteronomy-01-30
+30 The LORD, your God, who goes before you, is the one who will fight for you, just as he acted with you before your very eyes in Egypt, ^deuteronomy-01-30
 
-31 as well as in the wilderness, where you saw how the L ORD, your God, carried you, as one carries his own child, all along your journey until you arrived at this place.” ^deuteronomy-01-31
+31 as well as in the wilderness, where you saw how the LORD, your God, carried you, as one carries his own child, all along your journey until you arrived at this place.” ^deuteronomy-01-31
 
-32 Despite this, you would not trust the L ORD, your God, ^deuteronomy-01-32
+32 Despite this, you would not trust the LORD, your God, ^deuteronomy-01-32
 
 33 who journeys before you to find you a place to camp—by night in the fire, and by day in the cloud, to show you the way to go. ^deuteronomy-01-33
 
-34 When the L ORD heard your words, he was angry, and took an oath: ^deuteronomy-01-34
+34 When the LORD heard your words, he was angry, and took an oath: ^deuteronomy-01-34
 
 35 Not a single one of this evil generation shall look upon the good land I swore to give to your ancestors, ^deuteronomy-01-35
 
-36 except Caleb, son of Jephunneh. He shall see it, for to him and to his descendants I will give the land he trod upon, because he has fully followed the L ORD. ^deuteronomy-01-36
+36 except Caleb, son of Jephunneh. He shall see it, for to him and to his descendants I will give the land he trod upon, because he has fully followed the LORD. ^deuteronomy-01-36
 
-37 The L ORD was angered against me also on your account, and said, You shall not enter there either, ^deuteronomy-01-37
+37 The LORD was angered against me also on your account, and said, You shall not enter there either, ^deuteronomy-01-37
 
 38 but Joshua, son of Nun, your attendant, shall enter. Encourage him, for he is the one who is to give Israel its possession. ^deuteronomy-01-38
 
@@ -113,15 +112,15 @@ url: https://bible.usccb.org/bible/deuteronomy/1
 
 **Unsuccessful Invasion.**
 
-41 In reply you said to me, “We have sinned against the L ORD. We will go up ourselves and fight, just as the L ORD, our God, commanded us.” And each of you girded on his weapons, making light of going up into the hill country. ^deuteronomy-01-41
+41 In reply you said to me, “We have sinned against the LORD. We will go up ourselves and fight, just as the LORD, our God, commanded us.” And each of you girded on his weapons, making light of going up into the hill country. ^deuteronomy-01-41
 
-42 But the L ORD said to me, Warn them: Do not go up and fight—for I will not be in your midst—lest you be beaten down before your enemies. ^deuteronomy-01-42
+42 But the LORD said to me, Warn them: Do not go up and fight—for I will not be in your midst—lest you be beaten down before your enemies. ^deuteronomy-01-42
 
-43 I gave you this warning but you would not listen. You defied the L ORD’s command and arrogantly went off into the hill country. ^deuteronomy-01-43
+43 I gave you this warning but you would not listen. You defied the LORD’s command and arrogantly went off into the hill country. ^deuteronomy-01-43
 
 44 Then the Amorites living in that hill country came out against you and put you to flight the way bees do, cutting you down in Seir as far as Hormah. ^deuteronomy-01-44
 
-45 On your return you wept before the L ORD, but the L ORD did not listen to your voice or give ear to you. ^deuteronomy-01-45
+45 On your return you wept before the LORD, but the LORD did not listen to your voice or give ear to you. ^deuteronomy-01-45
 
 46 That is why you had to stay as long as you did at Kadesh. ^deuteronomy-01-46
 

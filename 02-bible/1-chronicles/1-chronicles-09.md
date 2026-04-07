@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 9
+title: 1 Chronicles, Chapter 9
+url: https://bible.usccb.org/bible/1chronicles/9
 aliases:
   - 1 Chronicles, Chapter 9
   - 1-chronicles-09
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/9
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 9
 ---
 
 # 1 Chronicles, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 1 Thus all Israel was listed in family lists, and these are recorded in the book of the kings of Israel. ^1-chronicles-09-1
 
@@ -61,15 +60,15 @@ Now Judah had been exiled to Babylon because of its treachery.
 
 18 Previously they had stood guard at the king’s gate on the east side; now they became gatekeepers for the encampments of the Levites. ^1-chronicles-09-18
 
-19 Shallum, son of Kore, son of Ebiasaph, a descendant of Korah, and his brothers of the same ancestral house of the Korahites had as their assigned task the guarding of the threshold of the tent, just as their fathers had guarded the entrance to the encampment of the L ORD. ^1-chronicles-09-19
+19 Shallum, son of Kore, son of Ebiasaph, a descendant of Korah, and his brothers of the same ancestral house of the Korahites had as their assigned task the guarding of the threshold of the tent, just as their fathers had guarded the entrance to the encampment of the LORD. ^1-chronicles-09-19
 
-20 Phinehas, son of Eleazar, had been their chief in times past; the L ORD was with him. ^1-chronicles-09-20
+20 Phinehas, son of Eleazar, had been their chief in times past; the LORD was with him. ^1-chronicles-09-20
 
 21 Zechariah, son of Meshelemiah, guarded the gate of the tent of meeting. ^1-chronicles-09-21
 
 22 In all, those who were chosen for gatekeepers at the threshold were two hundred and twelve. They were inscribed in the family records of their villages. David and Samuel the seer had established them in their position of trust. ^1-chronicles-09-22
 
-23 Thus they and their sons kept guard over the gates of the house of the L ORD, the house which was then a tent. ^1-chronicles-09-23
+23 Thus they and their sons kept guard over the gates of the house of the LORD, the house which was then a tent. ^1-chronicles-09-23
 
 24 The gatekeepers were stationed at the four sides, to the east, the west, the north, and the south. ^1-chronicles-09-24
 
@@ -93,7 +92,7 @@ Now Judah had been exiled to Babylon because of its treachery.
 
 34 These were the levitical family heads by their generations, chiefs who dwelt in Jerusalem. ^1-chronicles-09-34
 
-## Ii. the History of David
+# Ii. the History of David
 
 **Genealogy of Saul.**
 

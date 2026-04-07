@@ -1,29 +1,28 @@
 ---
-title: Matthew, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 11
+title: Matthew, Chapter 11
+url: https://bible.usccb.org/bible/matthew/11
 aliases:
   - matthew-11
   - Matthew, Chapter 11
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/11
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 11
 ---
 
 # Matthew, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 1 When Jesus finished giving these commands to his twelve disciples, he went away from that place to teach and to preach in their towns. ^matthew-11-1
 
-## Iv. Opposition from Israel
+# Iv. Opposition from Israel
 
 **The Messengers from John the Baptist.**
 
@@ -121,7 +120,7 @@ For if the mighty deeds done in your midst had been done in Sodom, it would have
 
 \* (11:12) The meaning of this difficult saying is probably that the opponents of Jesus are trying to prevent people from accepting the kingdom and to snatch it away from those who have received it.
 
-\* (11:13) All the prophets and the law: Matthew inverts the usual order, “law and prophets,” and says that both have prophesied. This emphasis on the prophetic character of the law points to its fulfillment in the teaching of Jesus and to the transitory nature of some of its commandments (see note on ([[matthew-05|Mt 5]]:17] – [20]).
+\* (11:13) All the prophets and the law: Matthew inverts the usuaLORDer, “law and prophets,” and says that both have prophesied. This emphasis on the prophetic character of the law points to its fulfillment in the teaching of Jesus and to the transitory nature of some of its commandments (see note on ([[matthew-05|Mt 5]]:17] – [20]).
 
 \* (11:16] – [19) See ([[luke-07|Lk 7]]:31] – [35]. The meaning of the parable (([[matthew-11|Mt 11]]:16] – [17]) and its explanation (([[matthew-11|Mt 11]]:18] – [19b]) is much disputed. A plausible view is that the children of the parable are two groups, one of which proposes different entertainments to the other that will not agree with either proposal. The first represents John, Jesus, and their disciples; the second those who reject John for his asceticism and Jesus for his table association with those despised by the religiously observant. ([[matthew-11|Mt 11]]:19c] (her works) forms an inclusion with ([[matthew-11|Mt 11]]:2] (“the works of the Messiah”). The original form of the saying is better preserved in ([[luke-07|Lk 7]]:35] “…wisdom is vindicated by all her children.” There John and Jesus are the children of Wisdom; here the works of Jesus the Messiah are those of divine Wisdom, of which he is the embodiment. Some important textual witnesses, however, have essentially the same reading as in Luke.
 

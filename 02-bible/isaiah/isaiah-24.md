@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 24
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 24
+title: Isaiah, Chapter 24
+url: https://bible.usccb.org/bible/isaiah/24
 aliases:
   - isaiah-24
   - Isaiah, Chapter 24
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/24
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 24
 ---
 
 # Isaiah, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
-#### Judgment upon the World and the Lord’s Enthronement on Mount Zion
+### Judgment upon the World and the Lord’s Enthronement on Mount Zion
 
-1 See! The L ORD is about to empty the earth and lay it waste; ^isaiah-24-1
+1 See! The LORD is about to empty the earth and lay it waste; ^isaiah-24-1
 
 he will twist its surface,
 
@@ -43,7 +42,7 @@ creditor and debtor.
 
 3 The earth shall be utterly laid waste, utterly stripped, ^isaiah-24-3
 
-for the L ORD has decreed this word.
+for the LORD has decreed this word.
 
 4 The earth mourns and fades, ^isaiah-24-4
 
@@ -103,17 +102,17 @@ as with a gleaning when the vintage is done.
 
 14 These shall lift up their voice, ^isaiah-24-14
 
-they shall sing for joy in the majesty of the L ORD,
+they shall sing for joy in the majesty of the LORD,
 
 they shall shout from the western sea:
 
 15 “Therefore, in the east ^isaiah-24-15
 
-give glory to the L ORD!
+give glory to the LORD!
 
 In the coastlands of the sea,
 
-to the name of the L ORD, the God of Israel!”
+to the name of the LORD, the God of Israel!”
 
 16 From the end of the earth we hear songs: ^isaiah-24-16
 
@@ -155,7 +154,7 @@ Its rebellion will weigh it down;
 
 it will fall, never to rise again.”
 
-21 On that day the L ORD will punish ^isaiah-24-21
+21 On that day the LORD will punish ^isaiah-24-21
 
 the host of the heavens in the heavens,
 
@@ -173,7 +172,7 @@ and after many days they will be punished.
 
 and the sun be ashamed,
 
-For the L ORD of hosts will reign
+For the LORD of hosts will reign
 
 on Mount Zion and in Jerusalem,
 

@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2025 - Text 3 Abandonment Is the Delicious Fruit of Love (Poem 52)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2025 - Text 3 Abandonment Is the Delicious Fruit of Love (Poem 52)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2025 - Text 3 Abandonment Is the Delicious Fruit of Love (Poem 52)
   - theresian-anniversaries-2025-text-03
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2025 - Text 3 Abandonment Is the Delicious Fruit of Love (Poem 52)
@@ -24,7 +24,7 @@ Suggestion for the community meeting:
 
 It would be helpful to have made individual readings and reflections on Therese’s text before the community meeting.
 
-### Abandonment Is the Delicious Fruit of Love (Poem 52)
+## Abandonment Is the Delicious Fruit of Love (Poem 52)
 
 Abandonment is the delicious fruit of love (Poem 52)
 
@@ -38,7 +38,7 @@ Abandonment is the delicious fruit of love (Poem 52)
 17. Above the Clouds The sky is always blue We touch the shores Where the Good Lord reigns.
 18. I Await in Peace the glory of that heavenly abode Because I find in the Ciborium The sweet Fruit of Love!
 
-### Introduction to the Text
+## Introduction to the Text
 
 This poem dates from May 31st, 1897, and unlike the preceding one (Text 2 – Poem 17), was requested explicitly by Sister Ther-ese of Saint Augustine. It was she who had forced Therese’s hand to her first composition in 1893 (Poem 1: The Divine Dew or The Virginal Milk of Mary). As virtuous as she was rigid, this sister had made the vow of abandonment to God’s good pleasure.
 
@@ -56,7 +56,7 @@ Stanzas 13, 14 and 15 connect abandonment and relinquishmeant, a theme begun a f
 
 The poem concludes with stanzas 16, 17 and 18, with the vic-torious liberty of love. The same day, Mother Agnes cites stanza 17 and speaks of a ‘more powerful attraction to Heaven’ (Letter of correspondents of Therese, LC 182).
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text.
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -64,7 +64,7 @@ The poem concludes with stanzas 16, 17 and 18, with the vic-torious liberty of l
 
 The purpose of this process is to allow Therese to speak to us herself, to question and encourage us, and to open us up to her clarifying and confirming our own personal and community path. The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. This poem, one of Therese’s last, has 18 stanzas. One way to structure this poem is to divide it into 6 parts, each with 3 stanzas: what title could I give to each part?
 2. 3. 4. What are the principal effects of Abandonment for Therese?

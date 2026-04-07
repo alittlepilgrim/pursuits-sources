@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 21
+title: 2 Chronicles, Chapter 21
+url: https://bible.usccb.org/bible/2chronicles/21
 aliases:
   - 2 Chronicles, Chapter 21
   - 2-chronicles-21
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/21
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 21
 ---
 
 # 2 Chronicles, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 1 Jehoshaphat rested with his ancestors; he was buried with them in the City of David. Jehoram, his son, succeeded him as king. ^2-chronicles-21-1
 
@@ -33,33 +32,33 @@ url: https://bible.usccb.org/bible/2chronicles/21
 
 5 Jehoram was thirty-two years old when he became king, and he reigned eight years in Jerusalem. ^2-chronicles-21-5
 
-6 He walked in the way of the kings of Israel as the house of Ahab had done, since the daughter of Ahab was his wife; and he did what was evil in the L ORD’s sight. ^2-chronicles-21-6
+6 He walked in the way of the kings of Israel as the house of Ahab had done, since the daughter of Ahab was his wife; and he did what was evil in the LORD’s sight. ^2-chronicles-21-6
 
-7 Even so, the L ORD was unwilling to destroy the house of David because of the covenant he had made with David and because of his promise to leave him and his sons a holding for all time. ^2-chronicles-21-7
+7 Even so, the LORD was unwilling to destroy the house of David because of the covenant he had made with David and because of his promise to leave him and his sons a holding for all time. ^2-chronicles-21-7
 
 8 During his time Edom revolted against the rule of Judah and installed its own king. ^2-chronicles-21-8
 
 9 Thereupon Jehoram with his officers and all his chariots crossed over. He arose by night and broke through the Edomites when they had surrounded him and the commanders of his chariots. ^2-chronicles-21-9
 
-10 To this day Edom has been in revolt against the rule of Judah. Libnah also revolted at that time against his rule because he had abandoned the L ORD, the God of his ancestors. ^2-chronicles-21-10
+10 To this day Edom has been in revolt against the rule of Judah. Libnah also revolted at that time against his rule because he had abandoned the LORD, the God of his ancestors. ^2-chronicles-21-10
 
 11 He also set up high places in the mountains of Judah, prostituting the inhabitants of Jerusalem, leading Judah astray. ^2-chronicles-21-11
 
 **Jehoram Punished.**
 
-12 A letter came to him from Elijah the prophet with this message: “Thus says the L ORD, the God of David your father: Because you have not walked in the way of your father Jehoshaphat, nor of Asa, king of Judah, ^2-chronicles-21-12
+12 A letter came to him from Elijah the prophet with this message: “Thus says the LORD, the God of David your father: Because you have not walked in the way of your father Jehoshaphat, nor of Asa, king of Judah, ^2-chronicles-21-12
 
 13 but instead have walked in the way of the kings of Israel, leading Judah and the inhabitants of Jerusalem into prostitution, like the harlotries of the house of Ahab, and because you have killed your brothers of your father’s house, who were better than you, ^2-chronicles-21-13
 
-14 the L ORD will strike your people, your children, your wives, and all that is yours with a great plague. ^2-chronicles-21-14
+14 the LORD will strike your people, your children, your wives, and all that is yours with a great plague. ^2-chronicles-21-14
 
 15 You shall have severe pains from a disease in your bowels, which will fall out because of the disease, day after day.” ^2-chronicles-21-15
 
-16 Then the L ORD stirred up against Jehoram the animosity of the Philistines and of the Arabians who were neighbors of the Ethiopians. ^2-chronicles-21-16
+16 Then the LORD stirred up against Jehoram the animosity of the Philistines and of the Arabians who were neighbors of the Ethiopians. ^2-chronicles-21-16
 
 17 They came up against Judah, breached it, and carried away all the wealth found in the king’s house, along with his sons and his wives. He was left with only one son, Jehoahaz, his youngest. ^2-chronicles-21-17
 
-18 After these events, the L ORD afflicted him with a disease of the bowels for which there was no cure. ^2-chronicles-21-18
+18 After these events, the LORD afflicted him with a disease of the bowels for which there was no cure. ^2-chronicles-21-18
 
 19 Some time later, after a period of two years had elapsed, his bowels fell out because of the disease and he died in great pain. His people did not make a fire for him as they had for his ancestors. ^2-chronicles-21-19
 

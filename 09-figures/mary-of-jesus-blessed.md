@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Mary of Jesus
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Blessed Mary of Jesus
@@ -11,8 +8,11 @@ aliases:
 tags:
   - role/blessed
   - term/virgin
-celebration: "09-12"
-full_name: "Blessed Mary of Jesus"
+  - type/figure
+celebration: 09-12
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Mary of Jesus

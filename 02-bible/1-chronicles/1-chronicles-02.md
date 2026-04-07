@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 2
+title: 1 Chronicles, Chapter 2
+url: https://bible.usccb.org/bible/1chronicles/2
 aliases:
   - 1 Chronicles, Chapter 2
   - 1-chronicles-02
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/2
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 2
 ---
 
 # 1 Chronicles, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun, ^1-chronicles-02-1
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/1chronicles/2
 
 **Judah.**
 
-3 The sons of Judah were: Er, Onan, and Shelah; these three Bathshua, a Canaanite woman, bore to him. But Judah’s firstborn, Er, was wicked in the sight of the L ORD, so he took his life. ^1-chronicles-02-3
+3 The sons of Judah were: Er, Onan, and Shelah; these three Bathshua, a Canaanite woman, bore to him. But Judah’s firstborn, Er, was wicked in the sight of the LORD, so he took his life. ^1-chronicles-02-3
 
 4 Judah’s daughter-in-law Tamar bore him Perez and Zerah, so that he had five sons in all. ^1-chronicles-02-4
 

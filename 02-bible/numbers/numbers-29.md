@@ -1,31 +1,30 @@
 ---
-title: Numbers, Chapter 29
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 29
+title: Numbers, Chapter 29
+url: https://bible.usccb.org/bible/numbers/29
 aliases:
   - numbers-29
   - Numbers, Chapter 29
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/29
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 29
 ---
 
 # Numbers, Chapter 29
 
-### Chapter 29
+## Chapter 29
 
 **On New Year’s Day.**
 
 1 In the seventh month on the first day you will declare a holy day, and do no heavy work; it shall be a day on which you sound the trumpet. ^numbers-29-1
 
-2 You will offer a burnt offering for a pleasing aroma to the L ORD: one bull of the herd, one ram, and seven unblemished yearling lambs. ^numbers-29-2
+2 You will offer a burnt offering for a pleasing aroma to the LORD: one bull of the herd, one ram, and seven unblemished yearling lambs. ^numbers-29-2
 
 3 Their grain offerings will be of bran flour mixed with oil: three tenths of an ephah for the bull, two tenths for the ram, ^numbers-29-3
 
@@ -33,13 +32,13 @@ url: https://bible.usccb.org/bible/numbers/29
 
 5 One goat will be a purification offering to make atonement for yourselves. ^numbers-29-5
 
-6 These are in addition to the burnt offering for the new moon with its grain offering, and in addition to the regular burnt offering with its grain offering, together with the libations prescribed for them, for a pleasing aroma, an oblation to the L ORD. ^numbers-29-6
+6 These are in addition to the burnt offering for the new moon with its grain offering, and in addition to the regular burnt offering with its grain offering, together with the libations prescribed for them, for a pleasing aroma, an oblation to the LORD. ^numbers-29-6
 
 **On the Day of Atonement.**
 
 7 On the tenth day of this seventh month you will declare a holy day, humble yourselves, and do no sort of work. ^numbers-29-7
 
-8 You will offer a burnt offering to the L ORD, a pleasing aroma: one bull of the herd, one ram, and seven yearling lambs that you are sure are unblemished. ^numbers-29-8
+8 You will offer a burnt offering to the LORD, a pleasing aroma: one bull of the herd, one ram, and seven yearling lambs that you are sure are unblemished. ^numbers-29-8
 
 9 Their grain offerings of bran flour mixed with oil: three tenths of an ephah for the bull, two tenths for the one ram, ^numbers-29-9
 
@@ -49,9 +48,9 @@ url: https://bible.usccb.org/bible/numbers/29
 
 **On the Feast of Booths.**
 
-12 On the fifteenth day of the seventh month you will declare a holy day: you shall do no heavy work. For the following seven days you will celebrate a pilgrimage feast to the L ORD. ^numbers-29-12
+12 On the fifteenth day of the seventh month you will declare a holy day: you shall do no heavy work. For the following seven days you will celebrate a pilgrimage feast to the LORD. ^numbers-29-12
 
-13 You will offer a burnt offering, an oblation of pleasing aroma to the L ORD: thirteen bulls of the herd, two rams, and fourteen yearling lambs that are unblemished. ^numbers-29-13
+13 You will offer a burnt offering, an oblation of pleasing aroma to the LORD: thirteen bulls of the herd, two rams, and fourteen yearling lambs that are unblemished. ^numbers-29-13
 
 14 Their grain offerings will be of bran flour mixed with oil: three tenths of an ephah for each of the thirteen bulls, two tenths for each of the two rams, ^numbers-29-14
 
@@ -97,13 +96,13 @@ url: https://bible.usccb.org/bible/numbers/29
 
 35 On the eighth day you will hold a public assembly: you shall do no heavy work. ^numbers-29-35
 
-36 You will offer a burnt offering, an oblation of pleasing aroma to the L ORD: one bull, one ram, and seven unblemished yearling lambs, ^numbers-29-36
+36 You will offer a burnt offering, an oblation of pleasing aroma to the LORD: one bull, one ram, and seven unblemished yearling lambs, ^numbers-29-36
 
 37 with the grain offerings and libations for the bulls, rams and lambs in their prescribed number, ^numbers-29-37
 
 38 as well as one goat as a purification offering, besides the regular burnt offering with its grain offering and libation. ^numbers-29-38
 
-39 These are the offerings you will make to the L ORD on your festivals, besides your votive or voluntary offerings of burnt offerings, grain offerings, libations, and communion offerings. ^numbers-29-39
+39 These are the offerings you will make to the LORD on your festivals, besides your votive or voluntary offerings of burnt offerings, grain offerings, libations, and communion offerings. ^numbers-29-39
 
 \* (29:1) In the seventh month on the first day: (about September–October) now the Jewish New Year’s Day. In the older calendar the year began with the first of Nisan (March–April), which is still known as the first month; cf. ([[exodus-12|Ex 12]]:2].
 

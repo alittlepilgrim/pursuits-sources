@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 53
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 53
+title: Isaiah, Chapter 53
+url: https://bible.usccb.org/bible/isaiah/53
 aliases:
   - isaiah-53
   - Isaiah, Chapter 53
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/53
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 53
 ---
 
 # Isaiah, Chapter 53
 
-### Chapter 53
+## Chapter 53
 
 1 Who would believe what we have heard? ^isaiah-53-1
 
-To whom has the arm of the L ORD been revealed?
+To whom has the arm of the LORD been revealed?
 
 2 He grew up like a sapling before him, ^isaiah-53-2
 
@@ -61,7 +60,7 @@ by his wounds we were healed.
 
 all following our own way;
 
-But the L ORD laid upon him
+But the LORD laid upon him
 
 the guilt of us all.
 
@@ -91,13 +90,13 @@ Though he had done no wrong,
 
 nor was deceit found in his mouth.
 
-10 But it was the L ORD’s will to crush him with pain. ^isaiah-53-10
+10 But it was the LORD’s will to crush him with pain. ^isaiah-53-10
 
 By making his life as a reparation offering,
 
 he shall see his offspring, shall lengthen his days,
 
-and the L ORD’s will shall be accomplished through him.
+and the LORD’s will shall be accomplished through him.
 
 11 Because of his anguish he shall see the light; ^isaiah-53-11
 
@@ -123,7 +122,7 @@ and interceded for the transgressors.
 
 \* (53:4) Struck down by God: the Bible often sees suffering as a punishment for sin (e.g., ([[psalm-06|Ps 6]]:2]; [32:1] – [5]), yet sin sometimes appears to go unpunished and the innocent often suffer (cf. [Ps 73]; the Book of Job). In the case of the servant, the onlookers initially judge him guilty because of his suffering but, in some way not explained, they come to understand that his sufferings are for the sins of others. One notes the element of surprise, for such vicarious suffering, in the form described here, is without parallel in the Old Testament.
 
-\* (53:6) The L ORD laid upon him: the servant’s suffering is no accidental or casual matter, but part of God’s plan; see also v. [10]. The bystanders’ speculation of v. [4] is verified, but not in the sense intended by them.
+\* (53:6) The LORD laid upon him: the servant’s suffering is no accidental or casual matter, but part of God’s plan; see also v. [10]. The bystanders’ speculation of v. [4] is verified, but not in the sense intended by them.
 
 \* (53:10] – [11) Reparation offering: the Hebrew term *’asham* is used of a particular kind of sacrifice, one that is intended as compensation for that which is due because of guilt. See [Lv 5:14] – [26] and note. Justify: the verb means “to be acquitted,” “declared innocent,” but since the servant bears “their iniquity,” an effective rather than simply legal action is suggested.
 

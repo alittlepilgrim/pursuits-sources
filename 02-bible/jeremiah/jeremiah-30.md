@@ -1,37 +1,36 @@
 ---
-title: Jeremiah, Chapter 30
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 30
+title: Jeremiah, Chapter 30
+url: https://bible.usccb.org/bible/jeremiah/30
 aliases:
   - jeremiah-30
   - Jeremiah, Chapter 30
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/30
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 30
 ---
 
 # Jeremiah, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
 **The Restoration.**
 
-1 This word came to Jeremiah from the L ORD: ^jeremiah-30-1
+1 This word came to Jeremiah from the LORD: ^jeremiah-30-1
 
-2 Thus says the L ORD, the God of Israel: Write down on a scroll all the words I have spoken to you. ^jeremiah-30-2
+2 Thus says the LORD, the God of Israel: Write down on a scroll all the words I have spoken to you. ^jeremiah-30-2
 
-3 For indeed, the days are coming—oracle of the L ORD —when I will restore the fortunes of my people Israel and Judah—oracle of the L ORD. I will bring them back to the land which I gave to their ancestors, and they shall take possession of it. ^jeremiah-30-3
+3 For indeed, the days are coming—oracle of the LORD —when I will restore the fortunes of my people Israel and Judah—oracle of the LORD. I will bring them back to the land which I gave to their ancestors, and they shall take possession of it. ^jeremiah-30-3
 
-4 These are the words the L ORD spoke to Israel and to Judah: ^jeremiah-30-4
+4 These are the words the LORD spoke to Israel and to Judah: ^jeremiah-30-4
 
-5 Thus says the L ORD: ^jeremiah-30-5
+5 Thus says the LORD: ^jeremiah-30-5
 
 We hear a cry of fear:
 
@@ -57,11 +56,11 @@ A time of distress for Jacob,
 
 though he shall be saved from it.
 
-8 On that day—oracle of the L ORD of hosts—I will break his yoke off your neck and snap your bonds. Strangers shall no longer enslave them; ^jeremiah-30-8
+8 On that day—oracle of the LORD of hosts—I will break his yoke off your neck and snap your bonds. Strangers shall no longer enslave them; ^jeremiah-30-8
 
-9 instead, they shall serve the L ORD, their God, and David, their king, whom I will raise up for them. ^jeremiah-30-9
+9 instead, they shall serve the LORD, their God, and David, their king, whom I will raise up for them. ^jeremiah-30-9
 
-10 But you, my servant Jacob, do not fear!—oracle of the L ORD — ^jeremiah-30-10
+10 But you, my servant Jacob, do not fear!—oracle of the LORD — ^jeremiah-30-10
 
 do not be dismayed, Israel!
 
@@ -73,7 +72,7 @@ Jacob shall again find rest,
 
 secure, with none to frighten him,
 
-11 for I am with you—oracle of the L ORD —to save you. ^jeremiah-30-11
+11 for I am with you—oracle of the LORD —to save you. ^jeremiah-30-11
 
 I will bring to an end all the nations
 
@@ -85,7 +84,7 @@ I will chastise you as you deserve,
 
 I will not let you go unpunished.
 
-12 For thus says the L ORD: ^jeremiah-30-12
+12 For thus says the LORD: ^jeremiah-30-12
 
 Incurable is your wound,
 
@@ -125,13 +124,13 @@ all who pillage you I will hand over to be pillaged.
 
 17 For I will restore your health; ^jeremiah-30-17
 
-I will heal your injuries—oracle of the L ORD.
+I will heal your injuries—oracle of the LORD.
 
 “The outcast” they have called you,
 
 “whom no one looks for.”
 
-18 Thus says the L ORD: ^jeremiah-30-18
+18 Thus says the LORD: ^jeremiah-30-18
 
 See! I will restore the fortunes of Jacob’s tents,
 
@@ -163,13 +162,13 @@ He shall approach me when I summon him;
 
 Why else would he dare
 
-approach me?—oracle of the L ORD.
+approach me?—oracle of the LORD.
 
 22 You shall be my people, ^jeremiah-30-22
 
 and I will be your God.
 
-23 Look! The storm of the L ORD! ^jeremiah-30-23
+23 Look! The storm of the LORD! ^jeremiah-30-23
 
 His wrath breaks out
 
@@ -177,7 +176,7 @@ In a whirling storm
 
 that bursts upon the heads of the wicked.
 
-24 The anger of the L ORD will not abate ^jeremiah-30-24
+24 The anger of the LORD will not abate ^jeremiah-30-24
 
 until he has carried out completely
 

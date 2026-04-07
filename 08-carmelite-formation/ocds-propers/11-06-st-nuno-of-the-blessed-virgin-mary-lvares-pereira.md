@@ -1,9 +1,7 @@
 ---
-title: November 6, Saint Nuno of St. Mary
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: November 6, Saint Nuno of St. Mary
+author: OCD General Curia
 aliases:
   - 11-06-st-nuno-of-the-blessed-virgin-mary-lvares-pereira
   - 20251106-000001
@@ -11,9 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-attachment: true
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 11-06
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+attachment: true
 ---
 
 # November 6, Saint Nuno of St. Mary
@@ -86,7 +87,7 @@ Evening Prayer
 
 Ant. Our faith is the victorious power that overcomes the world
 
-!
+![6 November- Saint Nuno of St- Mary-2024-07-22-1](images/6%20November-%20Saint%20Nuno%20of%20St- Mary-2024-07-22-1.png)
 
  *Equestrian statue of St. Nuno in Batalha, Portugal*
 

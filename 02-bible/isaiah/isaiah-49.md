@@ -1,33 +1,32 @@
 ---
-title: Isaiah, Chapter 49
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 49
+title: Isaiah, Chapter 49
+url: https://bible.usccb.org/bible/isaiah/49
 aliases:
   - isaiah-49
   - Isaiah, Chapter 49
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/49
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 49
 ---
 
 # Isaiah, Chapter 49
 
-### Chapter 49
+## Chapter 49
 
-#### The Servant of the Lord
+### The Servant of the Lord
 
 1 Hear me, coastlands, ^isaiah-49-1
 
 listen, distant peoples.
 
-Before birth the L ORD called me,
+Before birth the LORD called me,
 
 from my mother’s womb he gave me my name.
 
@@ -47,11 +46,11 @@ in you, Israel, I show my glory.
 
 for nothing and for naught spent my strength,
 
-Yet my right is with the L ORD,
+Yet my right is with the LORD,
 
 my recompense is with my God.
 
-5 For now the L ORD has spoken ^isaiah-49-5
+5 For now the LORD has spoken ^isaiah-49-5
 
 who formed me as his servant from the womb,
 
@@ -59,7 +58,7 @@ That Jacob may be brought back to him
 
 and Israel gathered to him;
 
-I am honored in the sight of the L ORD,
+I am honored in the sight of the LORD,
 
 and my God is now my strength!
 
@@ -73,7 +72,7 @@ I will make you a light to the nations,
 
 that my salvation may reach to the ends of the earth.
 
-7 Thus says the L ORD, ^isaiah-49-7
+7 Thus says the LORD, ^isaiah-49-7
 
 the redeemer, the Holy One of Israel,
 
@@ -85,13 +84,13 @@ When kings see you, they shall stand up,
 
 and princes shall bow down
 
-Because of the L ORD who is faithful,
+Because of the LORD who is faithful,
 
 the Holy One of Israel who has chosen you.
 
-#### The Liberation and Restoration of Zion
+### The Liberation and Restoration of Zion
 
-8 Thus says the L ORD: ^isaiah-49-8
+8 Thus says the LORD: ^isaiah-49-8
 
 In a time of favor I answer you,
 
@@ -135,11 +134,11 @@ others from the land of Syene.
 
 break forth into song, you mountains,
 
-For the L ORD comforts his people
+For the LORD comforts his people
 
 and shows mercy to his afflicted.
 
-14 But Zion said, “The L ORD has forsaken me; ^isaiah-49-14
+14 But Zion said, “The LORD has forsaken me; ^isaiah-49-14
 
 my Lord has forgotten me.”
 
@@ -165,7 +164,7 @@ go forth from you;
 
 they are all gathering and coming to you.
 
-As I live—oracle of the L ORD —
+As I live—oracle of the LORD —
 
 you shall don them as jewels,
 
@@ -219,7 +218,7 @@ Face to the ground, they shall bow down before you
 
 and lick the dust at your feet.
 
-Then you shall know that I am the L ORD,
+Then you shall know that I am the LORD,
 
 none who hope in me shall be ashamed.
 
@@ -227,7 +226,7 @@ none who hope in me shall be ashamed.
 
 or captives rescued from a tyrant?
 
-25 Thus says the L ORD: ^isaiah-49-25
+25 Thus says the LORD: ^isaiah-49-25
 
 Yes, captives can be taken from a warrior,
 
@@ -245,7 +244,7 @@ as though with new wine.
 
 All flesh shall know
 
-that I, the L ORD, am your savior,
+that I, the LORD, am your savior,
 
 your redeemer, the Mighty One of Jacob.
 

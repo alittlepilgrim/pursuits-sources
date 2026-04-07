@@ -1,10 +1,6 @@
 ---
-title: 😇 Saints & Figures
-created: 2025-11-12
-modified: 2026-04-02
 type: moc
-publish: true
-description: Alphabetical index for figures, saints, blesseds, and authors noted in this vault.
+title: Saints & Figures MOC
 aliases:
   - 😇 Saints & Figures
   - 😇 Saints & Figures — Map of Content
@@ -12,6 +8,11 @@ aliases:
 tags:
   - role
   - type/moc
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
+permalink: /figures
+description: Alphabetical index for figures, saints, blesseds, and authors noted in this vault.
 attachment: false
 ---
 
@@ -32,7 +33,7 @@ attachment: false
 
 ## A–Z Index
 
-Jump:  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+Jump: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [V](#v)
 
 ### A
 

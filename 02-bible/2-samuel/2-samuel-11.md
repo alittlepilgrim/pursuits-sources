@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 11
+title: 2 Samuel, Chapter 11
+url: https://bible.usccb.org/bible/2samuel/11
 aliases:
   - 2 Samuel, Chapter 11
   - 2-samuel-11
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/11
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 11
 ---
 
 # 2 Samuel, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **David’s Sin.**
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/2samuel/11
 
 10 David was told, “Uriah has not gone down to his house.” So he said to Uriah, “Have you not come from a journey? Why, then, did you not go down to your house?” ^2-samuel-11-10
 
-11 Uriah answered David, “The ark and Israel and Judah are staying in tents, and my lord Joab and my lord’s servants are encamped in the open field. Can I go home to eat and to drink and to sleep with my wife? As the L ORD lives and as you live, I will do no such thing.” ^2-samuel-11-11
+11 Uriah answered David, “The ark and Israel and Judah are staying in tents, and my lord Joab and my lord’s servants are encamped in the open field. Can I go home to eat and to drink and to sleep with my wife? As the LORD lives and as you live, I will do no such thing.” ^2-samuel-11-11
 
 12 Then David said to Uriah, “Stay here today also, and tomorrow I will send you back.” So Uriah stayed in Jerusalem that day. On the following day, ^2-samuel-11-12
 
@@ -75,7 +74,7 @@ url: https://bible.usccb.org/bible/2samuel/11
 
 26 When the wife of Uriah heard that her husband had died, she mourned her lord. ^2-samuel-11-26
 
-27 But once the mourning was over, David sent for her and brought her into his house. She became his wife and bore him a son. But in the sight of the L ORD what David had done was evil. ^2-samuel-11-27
+27 But once the mourning was over, David sent for her and brought her into his house. She became his wife and bore him a son. But in the sight of the LORD what David had done was evil. ^2-samuel-11-27
 
 \* (11:1) At the turn of the year: in the spring.
 

@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 32
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 32
+title: Ezekiel, Chapter 32
+url: https://bible.usccb.org/bible/ezekiel/32
 aliases:
   - ezekiel-32
   - Ezekiel, Chapter 32
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/32
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 32
 ---
 
 # Ezekiel, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
 **Lament over Pharaoh.**
 
-1 On the first day of the twelfth month in the twelfth year, the word of the L ORD came to me: ^ezekiel-32-1
+1 On the first day of the twelfth month in the twelfth year, the word of the LORD came to me: ^ezekiel-32-1
 
 2 Son of man, utter a lament over Pharaoh, the king of Egypt, and say to him: ^ezekiel-32-2
 
@@ -141,7 +140,7 @@ and the land destitute of everything,
 
 When I strike down all its inhabitants
 
-they shall know that I am the L ORD.
+they shall know that I am the LORD.
 
 16 This is the lamentation ^ezekiel-32-16
 
@@ -155,7 +154,7 @@ oracle of the Lord G OD.
 
 **Another Lament over Egypt.**
 
-17 On the fifteenth day of that month in the twelfth year, the word of the L ORD came to me: ^ezekiel-32-17
+17 On the fifteenth day of that month in the twelfth year, the word of the LORD came to me: ^ezekiel-32-17
 
 18 Son of man, wail over the hordes of Egypt— ^ezekiel-32-18
 

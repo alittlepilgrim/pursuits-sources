@@ -1,34 +1,33 @@
 ---
-title: Exodus, Chapter 15
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 15
+title: Exodus, Chapter 15
+url: https://bible.usccb.org/bible/exodus/15
 aliases:
   - 20250731-085916
   - exodus-15
   - Exodus, Chapter 15
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/15
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 15
 ---
 
 # Exodus, Chapter 15
 
-### Chapter 15
+## Chapter 15
 
-1 Then Moses and the Israelites sang this song to the L ORD: ^exodus-15-1
+1 Then Moses and the Israelites sang this song to the LORD: ^exodus-15-1
 
-I will sing to the L ORD, for he is gloriously triumphant;
+I will sing to the LORD, for he is gloriously triumphant;
 
 horse and chariot he has cast into the sea.
 
-2 My strength and my refuge is the L ORD, ^exodus-15-2
+2 My strength and my refuge is the LORD, ^exodus-15-2
 
 and he has become my savior.
 
@@ -36,9 +35,9 @@ This is my God, I praise him;
 
 the God of my father, I extol him.
 
-3 The L ORD is a warrior, ^exodus-15-3
+3 The LORD is a warrior, ^exodus-15-3
 
-L ORD is his name!
+LORD is his name!
 
 4 Pharaoh’s chariots and army he hurled into the sea; ^exodus-15-4
 
@@ -48,9 +47,9 @@ the elite of his officers were drowned in the Red Sea.
 
 they sank into the depths like a stone.
 
-6 Your right hand, O L ORD, magnificent in power, ^exodus-15-6
+6 Your right hand, O LORD, magnificent in power, ^exodus-15-6
 
-your right hand, O L ORD, shattered the enemy.
+your right hand, O LORD, shattered the enemy.
 
 7 In your great majesty you overthrew your adversaries; ^exodus-15-7
 
@@ -72,7 +71,7 @@ I will draw my sword; my hand will despoil them!”
 
 like lead they sank in the mighty waters.
 
-11 Who is like you among the gods, O L ORD? ^exodus-15-11
+11 Who is like you among the gods, O LORD? ^exodus-15-11
 
 Who is like you, magnificent among the holy ones?
 
@@ -98,7 +97,7 @@ All the inhabitants of Canaan melted away;
 
 By the might of your arm they became silent like stone,
 
-while your people, L ORD, passed over,
+while your people, LORD, passed over,
 
 while the people whom you created passed over.
 
@@ -106,23 +105,23 @@ while the people whom you created passed over.
 
 on the mountain that is your own—
 
-The place you made the base of your throne, L ORD,
+The place you made the base of your throne, LORD,
 
-the sanctuary, L ORD, your hands established.
+the sanctuary, LORD, your hands established.
 
-18 May the L ORD reign forever and ever! ^exodus-15-18
+18 May the LORD reign forever and ever! ^exodus-15-18
 
-19 When Pharaoh’s horses and chariots and horsemen entered the sea, the L ORD made the waters of the sea flow back upon them, though the Israelites walked on dry land through the midst of the sea. ^exodus-15-19
+19 When Pharaoh’s horses and chariots and horsemen entered the sea, the LORD made the waters of the sea flow back upon them, though the Israelites walked on dry land through the midst of the sea. ^exodus-15-19
 
 20 Then the prophet Miriam, Aaron’s sister, took a tambourine in her hand, while all the women went out after her with tambourines, dancing; ^exodus-15-20
 
 21 and she responded to them: ^exodus-15-21
 
-Sing to the L ORD, for he is gloriously triumphant;
+Sing to the LORD, for he is gloriously triumphant;
 
 horse and chariot he has cast into the sea.
 
-## V. the Journey in the Wilderness to Sinai
+# V. the Journey in the Wilderness to Sinai
 
 **At Marah and Elim.**
 
@@ -132,11 +131,11 @@ horse and chariot he has cast into the sea.
 
 24 As the people grumbled against Moses, saying, “What are we to drink?” ^exodus-15-24
 
-25 he cried out to the L ORD, who pointed out to him a piece of wood. When he threw it into the water, the water became fresh. ^exodus-15-25
+25 he cried out to the LORD, who pointed out to him a piece of wood. When he threw it into the water, the water became fresh. ^exodus-15-25
 
 It was here that God, in making statutes and ordinances for them, put them to the test.
 
-26 He said: If you listen closely to the voice of the L ORD, your God, and do what is right in his eyes: if you heed his commandments and keep all his statutes, I will not afflict you with any of the diseases with which I afflicted the Egyptians; for I, the L ORD, am your healer. ^exodus-15-26
+26 He said: If you listen closely to the voice of the LORD, your God, and do what is right in his eyes: if you heed his commandments and keep all his statutes, I will not afflict you with any of the diseases with which I afflicted the Egyptians; for I, the LORD, am your healer. ^exodus-15-26
 
 27 Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there near the water. ^exodus-15-27
 

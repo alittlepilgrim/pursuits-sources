@@ -1,15 +1,16 @@
 ---
-title: Evil
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: evil. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Evil
 aliases:
   - evil
   - Evil
 tags:
   - term/evil
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: evil. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Evil
@@ -22,13 +23,13 @@ The opposite or absence of good. One form of evil, physical evil, is a result of
 
 ## Divine Intimacy Meditations
 
-- To omit good is to do —: 112,2;
-- tactics for overcoming —: 112,2;
-- from the double — of sin and suffering, God has drawn the great good of our Redemption: 127,1;
-- the infinite goodness of God draws good even from —: 232,1.
+- To omit good is to do —: [[112-the-power-of-jesus#Meditation 2|112,2]];
+- tactics for overcoming —: [[112-the-power-of-jesus#Meditation 2|112,2]];
+- from the double — of sin and suffering, God has drawn the great good of our Redemption: [[127-the-value-of-suffering#Meditation 1|127,1]];
+- the infinite goodness of God draws good even from —: [[232-gods-infinite-goodness#Meditation 1|232,1]].
 
 ## Divine Intimacy Meditations
 
-- 112. The Power of Jesus
-- 127. The Value of Suffering
-- 232. God's Infinite Goodness
+- [[112-the-power-of-jesus|112. The Power of Jesus]]
+- [[127-the-value-of-suffering|127. The Value of Suffering]]
+- [[232-gods-infinite-goodness|232. God's Infinite Goodness]]

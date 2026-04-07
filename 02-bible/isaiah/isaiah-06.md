@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 6
+title: Isaiah, Chapter 6
+url: https://bible.usccb.org/bible/isaiah/6
 aliases:
   - isaiah-06
   - Isaiah, Chapter 6
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 6
 ---
 
 # Isaiah, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **The Sending of Isaiah.**
 
@@ -29,13 +28,13 @@ url: https://bible.usccb.org/bible/isaiah/6
 
 3 One cried out to the other: ^isaiah-06-3
 
-“Holy, holy, holy is the L ORD of hosts!
+“Holy, holy, holy is the LORD of hosts!
 
 All the earth is filled with his glory!”
 
 4 At the sound of that cry, the frame of the door shook and the house was filled with smoke. ^isaiah-06-4
 
-5 Then I said, “Woe is me, I am doomed! For I am a man of unclean lips, living among a people of unclean lips, and my eyes have seen the King, the L ORD of hosts!” ^isaiah-06-5
+5 Then I said, “Woe is me, I am doomed! For I am a man of unclean lips, living among a people of unclean lips, and my eyes have seen the King, the LORD of hosts!” ^isaiah-06-5
 
 6 Then one of the seraphim flew to me, holding an ember which he had taken with tongs from the altar. ^isaiah-06-6
 
@@ -69,7 +68,7 @@ Houses, without people,
 
 and the land is a desolate waste.
 
-12 Until the L ORD sends the people far away, ^isaiah-06-12
+12 Until the LORD sends the people far away, ^isaiah-06-12
 
 and great is the desolation in the midst of the land.
 

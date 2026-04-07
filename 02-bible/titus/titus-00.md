@@ -1,26 +1,26 @@
 ---
-title: Titus, The Letter To Titus
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Titus, the Letter to Titus
+title: Titus, The Letter To Titus
+url: https://bible.usccb.org/bible/titus/0
 aliases:
   - 20250730-164508
   - titus-00
   - Titus, the Letter to Titus
   - Titus, The Letter To Titus
 tags:
+  - bible/book
+  - bible/new-testament
   - bible/titus
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/titus/0
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Titus, the Letter to Titus
 ---
 
 # Titus, the Letter to Titus
 
-   
+[Introduction](titus-00.md) [1](titus-01.md) [2](titus-02.md) [3](titus-03.md)
 
 ## The Letter to Titus
 

@@ -1,37 +1,36 @@
 ---
-title: 1 Samuel, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 14
+title: 1 Samuel, Chapter 14
+url: https://bible.usccb.org/bible/1samuel/14
 aliases:
   - 1 Samuel, Chapter 14
   - 1-samuel-14
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/14
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 14
 ---
 
 # 1 Samuel, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 1 One day Jonathan, son of Saul, said to his armor-bearer, “Come, let us go over to the Philistine outpost on the other side.” But he did not inform his father— ^1-samuel-14-1
 
 2 Saul was sitting under the pomegranate tree in Migron on the outskirts of Gibeah; with him were about six hundred men. ^1-samuel-14-2
 
-3 Ahijah, son of Ahitub, brother of Ichabod, the son of Phinehas, son of Eli, the priest of the L ORD at Shiloh, was wearing the ephod—nor did the soldiers know that Jonathan had gone. ^1-samuel-14-3
+3 Ahijah, son of Ahitub, brother of Ichabod, the son of Phinehas, son of Eli, the priest of the LORD at Shiloh, was wearing the ephod—nor did the soldiers know that Jonathan had gone. ^1-samuel-14-3
 
 4 Flanking the ravine through which Jonathan intended to cross to the Philistine outpost were rocky crags on each side, one named Bozez and the other Seneh. ^1-samuel-14-4
 
 5 One crag was to the north, toward Michmash; the other to the south, toward Geba. ^1-samuel-14-5
 
-6 Jonathan said to his armor-bearer: “Come, let us go over to that outpost of the uncircumcised. Perhaps the L ORD will help us, because it is no more difficult for the L ORD to grant victory by means of a few than it is by means of many.” ^1-samuel-14-6
+6 Jonathan said to his armor-bearer: “Come, let us go over to that outpost of the uncircumcised. Perhaps the LORD will help us, because it is no more difficult for the LORD to grant victory by means of a few than it is by means of many.” ^1-samuel-14-6
 
 7 His armor-bearer replied, “Do whatever you think best; I am with you in whatever you decide.” ^1-samuel-14-7
 
@@ -39,11 +38,11 @@ url: https://bible.usccb.org/bible/1samuel/14
 
 9 If they say to us, ‘Stay there until we can come to you,’ we will stop where we are; we will not go up to them. ^1-samuel-14-9
 
-10 But if they say, ‘Come up to us,’ we will go up, because the L ORD has delivered them into our hand. That will be our sign.” ^1-samuel-14-10
+10 But if they say, ‘Come up to us,’ we will go up, because the LORD has delivered them into our hand. That will be our sign.” ^1-samuel-14-10
 
 11 When the two of them came into the view of the Philistine outpost, the Philistines remarked, “Look, some Hebrews are coming out of the holes where they have been hiding.” ^1-samuel-14-11
 
-12 The men of the outpost called to Jonathan and his armor-bearer. “Come up here,” they said, “and we will teach you a lesson.” So Jonathan said to his armor-bearer, “Climb up after me, for the L ORD has delivered them into the hand of Israel.” ^1-samuel-14-12
+12 The men of the outpost called to Jonathan and his armor-bearer. “Come up here,” they said, “and we will teach you a lesson.” So Jonathan said to his armor-bearer, “Climb up after me, for the LORD has delivered them into the hand of Israel.” ^1-samuel-14-12
 
 13 Jonathan clambered up with his armor-bearer behind him. As the Philistines fell before Jonathan, his armor-bearer, who followed him, would finish them off. ^1-samuel-14-13
 
@@ -67,7 +66,7 @@ url: https://bible.usccb.org/bible/1samuel/14
 
 22 Likewise, all the Israelites who were hiding in the hill country of Ephraim, hearing that the Philistines were fleeing, kept after them in the battle. ^1-samuel-14-22
 
-23 Thus the L ORD saved Israel that day. ^1-samuel-14-23
+23 Thus the LORD saved Israel that day. ^1-samuel-14-23
 
 **Saul’s Oath.**The battle continued past Beth-aven.
 
@@ -93,11 +92,11 @@ url: https://bible.usccb.org/bible/1samuel/14
 
 32 So the army pounced upon the plunder and took sheep, oxen, and calves, slaughtering them on the ground and eating the meat with the blood in it. ^1-samuel-14-32
 
-33 Informed that the army was sinning against the L ORD by eating the meat with blood in it, Saul said: “You have broken faith. Roll a large stone here for me.” ^1-samuel-14-33
+33 Informed that the army was sinning against the LORD by eating the meat with blood in it, Saul said: “You have broken faith. Roll a large stone here for me.” ^1-samuel-14-33
 
-34 He continued: “Mingle with the people and tell each of them, ‘Bring an ox or sheep to me. Slaughter them here and then eat. But you must not sin against the L ORD by eating meat with blood in it.’” So that night they all brought whatever oxen they had seized, and they slaughtered them there; ^1-samuel-14-34
+34 He continued: “Mingle with the people and tell each of them, ‘Bring an ox or sheep to me. Slaughter them here and then eat. But you must not sin against the LORD by eating meat with blood in it.’” So that night they all brought whatever oxen they had seized, and they slaughtered them there; ^1-samuel-14-34
 
-35 and Saul built an altar to the L ORD —this was the first time he built an altar to the L ORD. ^1-samuel-14-35
+35 and Saul built an altar to the LORD —this was the first time he built an altar to the LORD. ^1-samuel-14-35
 
 **Jonathan in Danger of Death.**
 
@@ -107,11 +106,11 @@ url: https://bible.usccb.org/bible/1samuel/14
 
 38 “All officers of the army,” Saul announced, “come forward. Find out how this sin was committed today. ^1-samuel-14-38
 
-39 As the L ORD lives who has given victory to Israel, even if my son Jonathan has committed it, he shall surely die!” But none of the people answered him. ^1-samuel-14-39
+39 As the LORD lives who has given victory to Israel, even if my son Jonathan has committed it, he shall surely die!” But none of the people answered him. ^1-samuel-14-39
 
 40 So he said to all Israel, “Stand on one side, and my son Jonathan and I will stand on the other.” The people responded, “Do what you think best.” ^1-samuel-14-40
 
-41 And Saul said to the L ORD, the God of Israel: “Why did you not answer your servant this time? If the blame for this resides in me or my son Jonathan, L ORD, God of Israel, respond with Urim; but if this guilt is in your people Israel, respond with Thummim.” Jonathan and Saul were designated, and the people went free. ^1-samuel-14-41
+41 And Saul said to the LORD, the God of Israel: “Why did you not answer your servant this time? If the blame for this resides in me or my son Jonathan, LORD, God of Israel, respond with Urim; but if this guilt is in your people Israel, respond with Thummim.” Jonathan and Saul were designated, and the people went free. ^1-samuel-14-41
 
 42 Saul then said, “Cast lots between me and my son Jonathan.” And Jonathan was designated. ^1-samuel-14-42
 
@@ -121,7 +120,7 @@ url: https://bible.usccb.org/bible/1samuel/14
 
 **Rescue of Jonathan.**
 
-45 But the soldiers protested to Saul: “Is Jonathan to die, the man who won this great victory for Israel? This must not be! As the L ORD lives, not a single hair of his head shall fall to the ground, for God was with him in what he did today!” Thus the soldiers rescued Jonathan and he did not die. ^1-samuel-14-45
+45 But the soldiers protested to Saul: “Is Jonathan to die, the man who won this great victory for Israel? This must not be! As the LORD lives, not a single hair of his head shall fall to the ground, for God was with him in what he did today!” Thus the soldiers rescued Jonathan and he did not die. ^1-samuel-14-45
 
 46 After that Saul gave up the pursuit of the Philistines, who returned to their own territory. ^1-samuel-14-46
 

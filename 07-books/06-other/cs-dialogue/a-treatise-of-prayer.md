@@ -1,18 +1,16 @@
 ---
-title: A Treatise of Prayer - Dialogue by St. Catherine of Siena
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: A Treatise of Prayer - Dialogue by St. Catherine of Siena
+title: A Treatise of Prayer - Dialogue by St. Catherine of Siena
+author: Saint Catherine of Siena
 aliases:
   - A Treatise of Prayer - Dialogue by St. Catherine of Siena
 tags:
-  - author/catherine-of-siena
-  - book
-  - book/dialogue
-  - saint/catherine-of-siena
-author: Saint Catherine of Siena
+  - author/saint-catherine-of-siena
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: A Treatise of Prayer - Dialogue by St. Catherine of Siena
 ---
 
 # A Treatise of Prayer

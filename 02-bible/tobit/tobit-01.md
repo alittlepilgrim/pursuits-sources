@@ -1,25 +1,24 @@
 ---
-title: Tobit, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Tobit, Chapter 1
+title: Tobit, Chapter 1
+url: https://bible.usccb.org/bible/tobit/1
 aliases:
   - tobit-01
   - Tobit, Chapter 1
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/tobit
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/tobit/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Tobit, Chapter 1
 ---
 
 # Tobit, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Tobit.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/tobit/1
 
 2 During the days of Shalmaneser, king of the Assyrians, he was taken captive from Thisbe, which is south of Kedesh Naphtali in upper Galilee, above and to the west of Asher, north of Phogor. ^tobit-01-2
 
-## I. TOBIT’S Ordeals
+# I. TOBIT’S Ordeals
 
 **His Virtue.**
 

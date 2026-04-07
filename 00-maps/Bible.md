@@ -1,24 +1,27 @@
 ---
-title: Books of the Bible
-created: 2025-07-29
-modified: 2026-04-02
 type: moc
-publish: true
-description: Books of the Bible
+title: Books of the Bible TOC
+author:
+  - USCCB
+url: www.usccb.org-offices-new-american-bible-books-bible
 aliases:
   - Bible - NABRE
   - Books of the Bible
 tags:
   - bible
+created: 2025-07-29
+modified: 2026-04-06
+publish: true
+permalink: /bible
+description: Books of the Bible
 attachment: false
-author:
-  - USCCB
-url: www.usccb.org-offices-new-american-bible-books-bible
 ---
 
 🧭 Map | 📚 Reference
 
 # Bible - Nabre
+
+![[banner-pursuits-b.png]]
 
 [[Bible#Books of the Bible in Alphabetical Order|Alphabetical]] | [[Bible#Books of the Bible in Canonical Order|Canonical]] | [[Bible#Books of the Bible by Chapter|Books & Chapters]]
 

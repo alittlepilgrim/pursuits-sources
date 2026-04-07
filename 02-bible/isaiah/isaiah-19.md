@@ -1,31 +1,30 @@
 ---
-title: Isaiah, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 19
+title: Isaiah, Chapter 19
+url: https://bible.usccb.org/bible/isaiah/19
 aliases:
   - isaiah-19
   - Isaiah, Chapter 19
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/19
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 19
 ---
 
 # Isaiah, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
-#### Egypt
+### Egypt
 
 1 Oracle on Egypt: ^isaiah-19-1
 
-See, the L ORD is riding on a swift cloud
+See, the LORD is riding on a swift cloud
 
 on his way to Egypt;
 
@@ -53,7 +52,7 @@ into the power of a cruel master,
 
 A harsh king who shall rule over them—
 
-oracle of the Lord, the L ORD of hosts.
+oracle of the Lord, the LORD of hosts.
 
 5 The waters shall be drained from the sea, ^isaiah-19-5
 
@@ -99,7 +98,7 @@ How can you say to Pharaoh,
 
 Let them tell you and make known
 
-What the L ORD of hosts has planned
+What the LORD of hosts has planned
 
 against Egypt.
 
@@ -111,7 +110,7 @@ The chiefs of its tribes
 
 have led Egypt astray.
 
-14 The L ORD has prepared among them ^isaiah-19-14
+14 The LORD has prepared among them ^isaiah-19-14
 
 a spirit of dizziness,
 
@@ -123,25 +122,25 @@ as a drunkard staggers in his vomit.
 
 neither head nor tail, palm branch nor reed, shall accomplish anything.
 
-16 On that day the Egyptians shall be like women, trembling with fear, because of the L ORD of hosts shaking his fist at them. ^isaiah-19-16
+16 On that day the Egyptians shall be like women, trembling with fear, because of the LORD of hosts shaking his fist at them. ^isaiah-19-16
 
-17 And the land of Judah shall be a terror to the Egyptians. Every time they think of Judah, they shall stand in dread because of the plan the L ORD of hosts has in mind for them. ^isaiah-19-17
+17 And the land of Judah shall be a terror to the Egyptians. Every time they think of Judah, they shall stand in dread because of the plan the LORD of hosts has in mind for them. ^isaiah-19-17
 
-18 On that day there shall be five cities in the land of Egypt that speak the language of Canaan and swear by the L ORD of hosts; one shall be called “City of the Sun.” ^isaiah-19-18
+18 On that day there shall be five cities in the land of Egypt that speak the language of Canaan and swear by the LORD of hosts; one shall be called “City of the Sun.” ^isaiah-19-18
 
-19 On that day there shall be an altar to the L ORD at the center of Egypt, and a sacred pillar to the L ORD near its boundary. ^isaiah-19-19
+19 On that day there shall be an altar to the LORD at the center of Egypt, and a sacred pillar to the LORD near its boundary. ^isaiah-19-19
 
-20 This will be a sign and witness to the L ORD of hosts in the land of Egypt, so that when they cry out to the L ORD because of their oppressors, he will send them a savior to defend and deliver them. ^isaiah-19-20
+20 This will be a sign and witness to the LORD of hosts in the land of Egypt, so that when they cry out to the LORD because of their oppressors, he will send them a savior to defend and deliver them. ^isaiah-19-20
 
-21 The L ORD shall make himself known to Egypt, and the Egyptians shall know the L ORD in that day; they shall offer sacrifices and oblations, make vows to the L ORD and fulfill them. ^isaiah-19-21
+21 The LORD shall make himself known to Egypt, and the Egyptians shall know the LORD in that day; they shall offer sacrifices and oblations, make vows to the LORD and fulfill them. ^isaiah-19-21
 
-22 Although the L ORD shall smite Egypt severely, he shall heal them; they shall turn to the L ORD and he shall be moved by their entreaty and heal them. ^isaiah-19-22
+22 Although the LORD shall smite Egypt severely, he shall heal them; they shall turn to the LORD and he shall be moved by their entreaty and heal them. ^isaiah-19-22
 
 23 On that day there shall be a highway from Egypt to Assyria; the Assyrians shall enter Egypt, and the Egyptians enter Assyria, and the Egyptians shall worship with the Assyrians. ^isaiah-19-23
 
 24 On that day Israel shall be a third party with Egypt and Assyria, a blessing in the midst of the earth, ^isaiah-19-24
 
-25 when the L ORD of hosts gives this blessing: “Blessed be my people Egypt, and the work of my hands Assyria, and my heritage, Israel.” ^isaiah-19-25
+25 when the LORD of hosts gives this blessing: “Blessed be my people Egypt, and the work of my hands Assyria, and my heritage, Israel.” ^isaiah-19-25
 
 \* (19:4) Cruel master…harsh king: possibly the Nubian (Ethiopian) Shabaka who gained control of all of Egypt around 712 B.C.
 

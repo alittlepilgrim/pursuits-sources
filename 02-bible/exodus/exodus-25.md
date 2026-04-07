@@ -1,30 +1,29 @@
 ---
-title: Exodus, Chapter 25
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 25
+title: Exodus, Chapter 25
+url: https://bible.usccb.org/bible/exodus/25
 aliases:
   - 20250731-085953
   - exodus-25
   - Exodus, Chapter 25
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/25
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 25
 ---
 
 # Exodus, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 **Collection of Materials.**
 
-1 The L ORD spoke to Moses: ^exodus-25-1
+1 The LORD spoke to Moses: ^exodus-25-1
 
 2 Speak to the Israelites: Let them receive contributions for me. From each you shall receive the contribution that their hearts prompt them to give me. ^exodus-25-2
 

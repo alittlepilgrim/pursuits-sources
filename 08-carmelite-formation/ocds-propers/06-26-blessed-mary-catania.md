@@ -1,10 +1,7 @@
 ---
-title: June 26, Blessed Mary Josephine of Jesus Crucified Catania
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: June 26, Blessed Mary Josephine of Jesus Crucified Catania
+author: OCD General Curia
 aliases:
   - 06-26-blessed-mary-catania
   - 20250731-121532
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 06-26
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # June 26, Blessed Mary Josephine of Jesus Crucified Catania

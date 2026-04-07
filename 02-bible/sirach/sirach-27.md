@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 27
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 27
+title: Sirach, Chapter 27
+url: https://bible.usccb.org/bible/sirach/27
 aliases:
   - sirach-27
   - Sirach, Chapter 27
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/27
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 27
 ---
 
 # Sirach, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 1 For the sake of profit many sin, ^sirach-27-1
 
@@ -105,7 +104,7 @@ and has escaped like a gazelle from a snare.
 
 but whoever betrays secrets does hopeless damage.
 
-#### Malice, Anger and Vengeance
+### Malice, Anger and Vengeance
 
 22 Whoever has shifty eyes plots mischief ^sirach-27-22
 

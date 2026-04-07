@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 37
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 37
+title: Exodus, Chapter 37
+url: https://bible.usccb.org/bible/exodus/37
 aliases:
   - 20250731-085755
   - exodus-37
   - Exodus, Chapter 37
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/37
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 37
 ---
 
 # Exodus, Chapter 37
 
-### Chapter 37
+## Chapter 37
 
 **The Ark.**
 

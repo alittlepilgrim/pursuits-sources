@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 17
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 17
+title: Joshua, Chapter 17
+url: https://bible.usccb.org/bible/joshua/17
 aliases:
   - joshua-17
   - Joshua, Chapter 17
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/17
-testament: old
-url: https://bible.usccb.org/bible/joshua/17
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 17
 ---
 
 # Joshua, Chapter 17
 
-### Chapter 17
+## Chapter 17
 
 **Manasseh.**
 
@@ -30,7 +28,7 @@ url: https://bible.usccb.org/bible/joshua/17
 
 3 Furthermore, Zelophehad, son of Hepher, son of Gilead, son of Machir, son of Manasseh, had no sons, but only daughters, whose names were Mahlah, Noah, Hoglah, Milcah, and Tirzah. ^joshua-17-3
 
-4 These presented themselves to Eleazar the priest, to Joshua, son of Nun, and to the leaders, saying, “The L ORD commanded Moses to give us a heritage among our relatives.” So in accordance with the command of the L ORD a heritage was given them among their father’s relatives. ^joshua-17-4
+4 These presented themselves to Eleazar the priest, to Joshua, son of Nun, and to the leaders, saying, “The LORD commanded Moses to give us a heritage among our relatives.” So in accordance with the command of the LORD a heritage was given them among their father’s relatives. ^joshua-17-4
 
 6 since these female descendants of Manasseh received each a portion among his sons. The land of Gilead fell to the rest of the Manassites. ^joshua-17-6
 

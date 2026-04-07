@@ -1,25 +1,24 @@
 ---
-title: Nehemiah, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Nehemiah, Chapter 13
+title: Nehemiah, Chapter 13
+url: https://bible.usccb.org/bible/nehemiah/13
 aliases:
   - nehemiah-13
   - Nehemiah, Chapter 13
 tags:
+  - bible/chapter
   - bible/nehemiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/nehemiah/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Nehemiah, Chapter 13
 ---
 
 # Nehemiah, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 1 At that time, when the book of Moses was being read in the hearing of the people, it was found written there: “No Ammonite or Moabite may ever be admitted into the assembly of God; ^nehemiah-13-1
 

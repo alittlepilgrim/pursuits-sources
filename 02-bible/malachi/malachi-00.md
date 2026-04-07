@@ -1,24 +1,25 @@
 ---
-title: Malachi, The Book of Malachi
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Malachi, the Book of Malachi
+title: Malachi, The Book of Malachi
+url: https://bible.usccb.org/bible/malachi/0
 aliases:
   - malachi-00
   - Malachi, the Book of Malachi
   - Malachi, The Book of Malachi
 tags:
+  - bible/book
   - bible/malachi
-layer: canon
-node-type: book
-url: https://bible.usccb.org/bible/malachi/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Malachi, the Book of Malachi
 ---
 
 # Malachi, the Book of Malachi
 
-   
+[Introduction](malachi-00.md) [1](malachi-01.md) [2](malachi-02.md) [3](malachi-03.md)
 
 ## The Book of Malachi
 

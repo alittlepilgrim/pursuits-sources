@@ -1,27 +1,26 @@
 ---
-title: Hosea, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 12
+title: Hosea, Chapter 12
+url: https://bible.usccb.org/bible/hosea/12
 aliases:
   - hosea-12
   - Hosea, Chapter 12
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 12
 ---
 
 # Hosea, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
-#### Infidelity of Israel
+### Infidelity of Israel
 
 1 Ephraim has surrounded me with lies, ^hosea-12-1
 
@@ -41,7 +40,7 @@ They make a covenant with Assyria,
 
 and oil is carried to Egypt.
 
-3 The L ORD has a dispute with Judah, ^hosea-12-3
+3 The LORD has a dispute with Judah, ^hosea-12-3
 
 and will punish Jacob for his conduct,
 
@@ -59,9 +58,9 @@ At Bethel he met with him,
 
 and there he spoke with him.
 
-6 The L ORD is the God of hosts, ^hosea-12-6
+6 The LORD is the God of hosts, ^hosea-12-6
 
-the L ORD is his name!
+the LORD is his name!
 
 7 You must return to your God. ^hosea-12-7
 
@@ -83,7 +82,7 @@ All his gain will not suffice
 
 for the guilt of his sin.
 
-10 I the L ORD have been your God, ^hosea-12-10
+10 I the LORD have been your God, ^hosea-12-10
 
 since the land of Egypt;
 
@@ -111,7 +110,7 @@ and Israel served for a wife;
 
 for a wife he tended sheep.
 
-14 But by a prophet the L ORD brought Israel out of Egypt, ^hosea-12-14
+14 But by a prophet the LORD brought Israel out of Egypt, ^hosea-12-14
 
 and by a prophet Israel was tended.
 

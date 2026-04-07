@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 22
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 22
+title: Sirach, Chapter 22
+url: https://bible.usccb.org/bible/sirach/22
 aliases:
   - sirach-22
   - Sirach, Chapter 22
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/22
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 22
 ---
 
 # Sirach, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
-#### On Laziness and Foolishness
+### On Laziness and Foolishness
 
 1 The sluggard is like a filthy stone; ^sirach-22-1
 
@@ -107,7 +106,7 @@ So a timid mind based on foolish plans
 
 cannot stand up to fear of any kind.
 
-#### The Preservation of Friendship
+### The Preservation of Friendship
 
 19 Whoever jabs the eye brings tears; ^sirach-22-19
 
@@ -149,7 +148,7 @@ and I will not hide from him.
 
 all who hear of it will beware of him.
 
-#### Prayer
+### Prayer
 
 27 Who will set a guard over my mouth, ^sirach-22-27
 

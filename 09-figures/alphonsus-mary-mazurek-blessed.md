@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Alphonsus Mary Mazurek
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - alphonsus-mary-mazurek-blessed
@@ -12,8 +9,11 @@ tags:
   - role/blessed
   - term/martyr
   - term/priest
-celebration: "06-12"
-full_name: "Blessed Alphonsus Mary Mazurek"
+  - type/figure
+celebration: 06-12
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Alphonsus Mary Mazurek

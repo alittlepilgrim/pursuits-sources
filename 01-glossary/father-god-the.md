@@ -1,16 +1,18 @@
 ---
-title: Father, God, The
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: father-god-the. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Father, God, The
+author:
 aliases:
   - father-god-the
   - Father, God, the
   - Father, God, The
 tags:
   - term/father-god-the
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: father-god-the. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Father, God, the
@@ -21,4 +23,4 @@ God, the first Person of the Blessed Trinity. Jesus revealed that God is Father 
 
 ## The Way of Perfection
 
-FATHER (ETERNAL). A divine Person in the one God revealed by Jesus out of love for us and given to us by him as our Father also (27.1–2). Like the father of the prodigal son, the Eternal Father loves, pardons, sustains, and consoles us in our trials (27.1). He makes us his heirs with Jesus (27.2). He dwells in heaven (27.1; 28.1) and also as mighty King within the palace of our soul, where he is present in his majesty, power, and glory (27.5; 28.1). He takes his delight in Jesus (33.2). He consents to allow Jesus to remain every day with us in the Blessed Sacrament (33.2).
+FATHER (ETERNAL). A divine Person in the one God revealed by Jesus out of love for us and given to us by him as our Father also ([[tj-wop-chapter-27#^wop-ch27-1|27.1]]–[[tj-wop-chapter-27#^wop-ch27-2|2]]). Like the father of the prodigal son, the Eternal Father loves, pardons, sustains, and consoles us in our trials ([[tj-wop-chapter-27#^wop-ch27-1|27.1]]). He makes us his heirs with Jesus ([[tj-wop-chapter-27#^wop-ch27-2|27.2]]). He dwells in heaven ([[tj-wop-chapter-27#^wop-ch27-1|27.1]]; [[tj-wop-chapter-28#^wop-ch28-1|28.1]]) and also as mighty King within the palace of our soul, where he is present in his majesty, power, and glory ([[tj-wop-chapter-27#^wop-ch27-5|27.5]]; [[tj-wop-chapter-28#^wop-ch28-1|28.1]]). He takes his delight in Jesus ([[tj-wop-chapter-33#^wop-ch33-2|33.2]]). He consents to allow Jesus to remain every day with us in the Blessed Sacrament ([[tj-wop-chapter-33#^wop-ch33-2|33.2]]).

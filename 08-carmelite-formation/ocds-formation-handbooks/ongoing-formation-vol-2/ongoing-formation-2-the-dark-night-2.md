@@ -1,20 +1,21 @@
 ---
-title: The Dark Night – Book Two  by St. John of the Cross
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: The Dark Night – Book Two  by St. John of the Cross
+author: Secular Order of Discalced Carmelites
 aliases:
   - The Dark Night – Book Two
   - The Dark Night – Book Two  by St. John of the Cross
 tags:
   - carmel
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
-## The Dark Night – Book Two - OCDS Ongoing Formation Volume II
+# The Dark Night – Book Two - OCDS Ongoing Formation Volume II
 
-### Session One: “The One Dark Night”
+## Session One: “The One Dark Night”
 
 (May take multiple sessions, as needed.)
 
@@ -58,7 +59,7 @@ Dark Night, Book Two – Session Two
 
 p.62
 
-### Session Two: Contemplative Purgation
+## Session Two: Contemplative Purgation
 
 (May take multiple sessions as needed.)
 
@@ -124,7 +125,7 @@ Dark Night, Book Two – Session Three
 
 p.65
 
-### Session Three: Impact of Contemplation
+## Session Three: Impact of Contemplation
 
 (May take multiple sessions, as needed.)
 
@@ -184,7 +185,7 @@ Dark Night, Book Two – Session Four
 
 p.68
 
-### Session Four: “Fired with love’s Urgent longings”
+## Session Four: “Fired with love’s Urgent longings”
 
 (May take multiple sessions, as needed.)
 
@@ -264,7 +265,7 @@ Dark Night, Book Two – Session Five
 
 p.71
 
-### Session Five: the Deepening of Transformation
+## Session Five: the Deepening of Transformation
 
 (May take multiple sessions, as needed.)
 
@@ -378,7 +379,7 @@ Dark Night, Book Two – Session Six
 
 p.76
 
-### Session Six: Departing in “disguise” – “in Darkness and Concealment, My House Being Now All stilled”
+## Session Six: Departing in “disguise” – “in Darkness and Concealment, My House Being Now All stilled”
 
 (May take multiple sessions, as needed.)
 
@@ -422,7 +423,7 @@ As a concluding remark, John explains the reason for undertaking this most impor
 
 As previously noted in the introduction, “John’s exposition of the night may seem to disengage that experience from the rest of life. But the night cannot occur apart from the external happenings of every day, nor can we forget, while reading, the event of John’s imprisonment in Toledo with all its social and material deprivations. Our horizons open to many possible forms in which we may experience a dark night, according to the grace, state in life, and historical or personal circumstances of the individual. John leaves to each reader and each age the task of making suitable applications. What is essential is that the sufferings and privations bring about a growing response of faith, hope, and love; without this transforming theological life the night would fail to purify and produce fruit” (DN.1, Introduction, emphasis added).
 
-#### Prayer of St. John of the Cross
+### Prayer of St. John of the Cross
 
 In all our necessities, trials, and difficulties, no better or safer aid exists for us than prayer and hope that God will provide for us by the means he desires....
 
@@ -434,7 +435,7 @@ Dark Night, Book Two – Session Six
 
 p.78
 
-#### Prayer
+### Prayer
 
 Almighty Father, when the path before me is unknown and uncertain; through the intercession of St. John of the Cross,
 
@@ -442,7 +443,7 @@ grant me the humility of heart to praise You and let You be my Guide and Lord of
 
 St. John of the Cross, pray for us!
 
-### Bibliography
+## Bibliography
 
 The Collected Works of John of the Cross, ICS Publications, 1991. 
 

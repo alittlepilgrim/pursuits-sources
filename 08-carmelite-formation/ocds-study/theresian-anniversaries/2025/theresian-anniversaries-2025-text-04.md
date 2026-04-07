@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2025 - Text 4 Why I Love You, o Mary! (Poem 54)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2025 - Text 4 Why I Love You, o Mary! (Poem 54)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2025 - Text 4 Why I Love You, o Mary! (Poem 54)
   - theresian-anniversaries-2025-text-04
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2025 - Text 4 Why I Love You, o Mary! (Poem 54)
@@ -26,7 +26,7 @@ Suggestion for the community meeting:
 
 It would be helpful to have made individual readings and reflections on Therese’s text before the community meeting.
 
-### Why I Love You, o Mary! (Poem 54)
+## Why I Love You, o Mary! (Poem 54)
 
 Why I Love You, O Mary!
 
@@ -168,7 +168,7 @@ I no longer fear the brilliance of your supreme glory With you I suffered and no
 
 Little Therese
 
-### Introduction to the Text
+## Introduction to the Text
 
 Therese, already very sick, confides to her sister Ce-line: ‘I still have something to do before I die. I have always dreamed of writing a song to the Holy Virgin that would ex-press all that I think of her.’ (Apostolic Process, Rome, 268). It is her last poem, like a will. Therese signs it with a failing hand, a humble and moving finale to her entire poetic work.
 
@@ -188,7 +188,7 @@ Her eyes fixed on Mary, Therese made silence the great rampart of her whole cont
 
 In the last stanza, number 25, we can see hope being pointed to in the heart of her great suffering. We see all the themes of her filial love resumed in the single: ‘She is my Mother!’ On 8th July, 1897, on transferring downstairs to the infirmary, Therese finds the Virgin of the Smile there to wel-come her. An hour before her death on 30th September, she gazed at her for a long time.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text.
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -198,7 +198,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. This last poem of Therese (May, 1897) is also one of the longest. It was difficult to select just a few parts. After reading it, and after a time of prayer with the Virgin Mary and Therese, what is the principal tenor of the relationship between Therese and the Virgin Mary?
 2. ‘The mother’s treasure belongs to the child’: is it in this spirit that we experience our relationship with the Virgin Mary? What above all depends on us in our relationship with the Virgin Mary?

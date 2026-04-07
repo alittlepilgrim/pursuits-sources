@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 13
+title: 2 Samuel, Chapter 13
+url: https://bible.usccb.org/bible/2samuel/13
 aliases:
   - 2 Samuel, Chapter 13
   - 2-samuel-13
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/13
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 13
 ---
 
 # 2 Samuel, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Amnon’s Rape of Tamar.**
 

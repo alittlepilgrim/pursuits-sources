@@ -1,16 +1,17 @@
 ---
-title: Annunciation
-created: 2025-07-20
-modified: 2026-03-19
 type: glossary
-publish: true
-description: annunciation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Annunciation
 aliases:
   - 20250720-212722
   - annunciation
   - Annunciation
 tags:
   - term/annunciation
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: annunciation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Annunciation

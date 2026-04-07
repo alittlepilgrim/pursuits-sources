@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 22
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 22
+title: Isaiah, Chapter 22
+url: https://bible.usccb.org/bible/isaiah/22
 aliases:
   - isaiah-22
   - Isaiah, Chapter 22
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/22
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 22
 ---
 
 # Isaiah, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
-#### The Valley of Vision
+### The Valley of Vision
 
 1 Oracle on the Valley of Vision: ^isaiah-22-1
 
@@ -99,13 +98,13 @@ Eating meat and drinking wine:
 
 “Eat and drink, for tomorrow we die!”
 
-14 This message was revealed in my hearing from the L ORD of hosts: ^isaiah-22-14
+14 This message was revealed in my hearing from the LORD of hosts: ^isaiah-22-14
 
 This iniquity will not be forgiven you until you die,
 
 says the Lord, the G OD of hosts.
 
-#### Shebna and Eliakim
+### Shebna and Eliakim
 
 15 Thus says the Lord, the G OD of hosts: ^isaiah-22-15
 
@@ -121,7 +120,7 @@ Hewing a tomb on high,
 
 carving a resting place in the rock?”
 
-17 The L ORD shall hurl you down headlong, mortal man! ^isaiah-22-17
+17 The LORD shall hurl you down headlong, mortal man! ^isaiah-22-17
 
 He shall grip you firmly,
 
@@ -167,7 +166,7 @@ descendants and offspring,
 
 all the little dishes, from bowls to jugs.
 
-25 On that day, says the L ORD of hosts, the peg fixed in a firm place shall give way, break off and fall, and the weight that hung on it shall be done away with; for the L ORD has spoken. ^isaiah-22-25
+25 On that day, says the LORD of hosts, the peg fixed in a firm place shall give way, break off and fall, and the weight that hung on it shall be done away with; for the LORD has spoken. ^isaiah-22-25
 
 \* (22:1] – [14) The title “oracle on the valley of vision,” like the other oracle headings in chaps. [13] – [23], was supplied by an editor and is taken from v. [5]. In all probability it relates to the events of 701, the lifting of Sennacherib’s siege of Jerusalem. The death of the Assyrian king Sargon II in 705 occasioned the revolt of many of the vassal nations subject to Assyria, a revolt in which Hezekiah joined, over Isaiah’s bitter opposition. The biblical and other data concerning the outcome of this adventure are conflicting and confusing. While [2 Kgs 19] ([Is 37]) tells of a miraculous deliverance of the city after the siege had been renewed, Assyrian documents and [[2-kings-18|2 Kgs 18]]:13 – [16] report that Sennacherib, Sargon II’s successor, devastated Judah (the destruction of 46 cities is mentioned in Assyrian records); Hezekiah had to surrender and paid Sennacherib a heavy indemnity, taken from the Temple treasury and adornments. The inhabitants of Jerusalem apparently took the lifting of the siege as occasion for great rejoicing, a response that Isaiah condemns. They should be mourning the dead and learning that their confidence in allies rather than in the Lord leads to disaster.
 

@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 4
+title: 1 Samuel, Chapter 4
+url: https://bible.usccb.org/bible/1samuel/4
 aliases:
   - 1 Samuel, Chapter 4
   - 1-samuel-04
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/4
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 4
 ---
 
 # 1 Samuel, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Defeat of the Israelites.**
 
@@ -27,15 +26,15 @@ url: https://bible.usccb.org/bible/1samuel/4
 
 2 The Philistines then drew up in battle formation against Israel. After a fierce struggle Israel was defeated by the Philistines, who killed about four thousand men on the battlefield. ^1-samuel-04-2
 
-3 When the troops retired to the camp, the elders of Israel said, “Why has the L ORD permitted us to be defeated today by the Philistines? Let us fetch the ark of the L ORD from Shiloh that it may go into battle among us and save us from the grasp of our enemies.” ^1-samuel-04-3
+3 When the troops retired to the camp, the elders of Israel said, “Why has the LORD permitted us to be defeated today by the Philistines? Let us fetch the ark of the LORD from Shiloh that it may go into battle among us and save us from the grasp of our enemies.” ^1-samuel-04-3
 
 **Loss of the Ark.**
 
-4 So the people sent to Shiloh and brought from there the ark of the L ORD of hosts, who is enthroned upon the cherubim. The two sons of Eli, Hophni and Phinehas, accompanied the ark of God. ^1-samuel-04-4
+4 So the people sent to Shiloh and brought from there the ark of the LORD of hosts, who is enthroned upon the cherubim. The two sons of Eli, Hophni and Phinehas, accompanied the ark of God. ^1-samuel-04-4
 
-5 When the ark of the L ORD arrived in the camp, all Israel shouted so loudly that the earth shook. ^1-samuel-04-5
+5 When the ark of the LORD arrived in the camp, all Israel shouted so loudly that the earth shook. ^1-samuel-04-5
 
-6 The Philistines, hearing the uproar, asked, “What does this loud shouting in the camp of the Hebrews mean?” On learning that the ark of the L ORD had come into the camp, ^1-samuel-04-6
+6 The Philistines, hearing the uproar, asked, “What does this loud shouting in the camp of the Hebrews mean?” On learning that the ark of the LORD had come into the camp, ^1-samuel-04-6
 
 7 the Philistines were frightened, crying out, “Gods have come to their camp. Woe to us! This has never happened before. ^1-samuel-04-7
 

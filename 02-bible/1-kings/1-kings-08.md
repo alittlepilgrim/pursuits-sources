@@ -1,53 +1,52 @@
 ---
-title: 1 Kings, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 8
+title: 1 Kings, Chapter 8
+url: https://bible.usccb.org/bible/1kings/8
 aliases:
   - 1 Kings, Chapter 8
   - 1-kings-08
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/8
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 8
 ---
 
 # 1 Kings, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Dedication of the Temple.**
 
-1 Then Solomon assembled the elders of Israel and all the heads of the tribes, the princes in the ancestral houses of the Israelites. They came to King Solomon in Jerusalem, to bring up the ark of the L ORD’s covenant from the city of David (which is Zion). ^1-kings-08-1
+1 Then Solomon assembled the elders of Israel and all the heads of the tribes, the princes in the ancestral houses of the Israelites. They came to King Solomon in Jerusalem, to bring up the ark of the LORD’s covenant from the city of David (which is Zion). ^1-kings-08-1
 
 2 All the people of Israel assembled before King Solomon during the festival in the month of Ethanim (the seventh month). ^1-kings-08-2
 
 3 When all the elders of Israel had arrived, the priests took up the ark; ^1-kings-08-3
 
-4 and they brought up the ark of the L ORD and the tent of meeting with all the sacred vessels that were in the tent. The priests and Levites brought them up. ^1-kings-08-4
+4 and they brought up the ark of the LORD and the tent of meeting with all the sacred vessels that were in the tent. The priests and Levites brought them up. ^1-kings-08-4
 
 5 King Solomon and the entire community of Israel, gathered for the occasion before the ark, sacrificed sheep and oxen too many to number or count. ^1-kings-08-5
 
-6 The priests brought the ark of the covenant of the L ORD to its place, the inner sanctuary of the house, the holy of holies, beneath the wings of the cherubim. ^1-kings-08-6
+6 The priests brought the ark of the covenant of the LORD to its place, the inner sanctuary of the house, the holy of holies, beneath the wings of the cherubim. ^1-kings-08-6
 
 7 The cherubim had their wings spread out over the place of the ark, sheltering the ark and its poles from above. ^1-kings-08-7
 
 8 The poles were so long that their ends could be seen from the holy place in front of the inner sanctuary. They cannot be seen from outside, but they remain there to this day. ^1-kings-08-8
 
-9 There was nothing in the ark but the two stone tablets which Moses had put there at Horeb, when the L ORD made a covenant with the Israelites after they went forth from the land of Egypt. ^1-kings-08-9
+9 There was nothing in the ark but the two stone tablets which Moses had put there at Horeb, when the LORD made a covenant with the Israelites after they went forth from the land of Egypt. ^1-kings-08-9
 
-10 When the priests left the holy place, the cloud filled the house of the L ORD ^1-kings-08-10
+10 When the priests left the holy place, the cloud filled the house of the LORD ^1-kings-08-10
 
-11 so that the priests could no longer minister because of the cloud, since the glory of the L ORD had filled the house of the L ORD. ^1-kings-08-11
+11 so that the priests could no longer minister because of the cloud, since the glory of the LORD had filled the house of the LORD. ^1-kings-08-11
 
 12 Then Solomon said, ^1-kings-08-12
 
-“The L ORD intends to dwell in the dark cloud;
+“The LORD intends to dwell in the dark cloud;
 
 13 I have indeed built you a princely house, ^1-kings-08-13
 
@@ -55,35 +54,35 @@ the base for your enthronement forever.”
 
 14 The king turned and blessed the whole assembly of Israel, while the whole assembly of Israel stood. ^1-kings-08-14
 
-15 He said: “Blessed be the L ORD, the God of Israel, who with his own mouth spoke a promise to David my father and by his hand fulfilled it, saying: ^1-kings-08-15
+15 He said: “Blessed be the LORD, the God of Israel, who with his own mouth spoke a promise to David my father and by his hand fulfilled it, saying: ^1-kings-08-15
 
 16 Since the day I brought my people Israel out of Egypt, I have not chosen a city out of any tribe of Israel for the building of a house, that my name might be there; but I have chosen David to rule my people Israel. ^1-kings-08-16
 
-17 When David my father wished to build a house for the name of the L ORD, the God of Israel, ^1-kings-08-17
+17 When David my father wished to build a house for the name of the LORD, the God of Israel, ^1-kings-08-17
 
-18 the L ORD said to him: In wishing to build a house for my name, you did well. ^1-kings-08-18
+18 the LORD said to him: In wishing to build a house for my name, you did well. ^1-kings-08-18
 
 19 But it is not you who will build the house, but your son, who comes from your loins; he shall build the house for my name. ^1-kings-08-19
 
-20 Now the L ORD has fulfilled the word he spoke: I have succeeded David my father, and I sit on the throne of Israel, as the L ORD has spoken, and I have built this house for the name of the L ORD, the God of Israel. ^1-kings-08-20
+20 Now the LORD has fulfilled the word he spoke: I have succeeded David my father, and I sit on the throne of Israel, as the LORD has spoken, and I have built this house for the name of the LORD, the God of Israel. ^1-kings-08-20
 
-21 I have provided there a place for the ark in which is the covenant of the L ORD that he made with our ancestors when he brought them out of the land of Egypt.” ^1-kings-08-21
+21 I have provided there a place for the ark in which is the covenant of the LORD that he made with our ancestors when he brought them out of the land of Egypt.” ^1-kings-08-21
 
 **Solomon’s Prayer.**
 
-22 Solomon stood before the altar of the L ORD in the presence of the whole assembly of Israel, and stretching forth his hands toward heaven, ^1-kings-08-22
+22 Solomon stood before the altar of the LORD in the presence of the whole assembly of Israel, and stretching forth his hands toward heaven, ^1-kings-08-22
 
-23 he said, “L ORD, God of Israel, there is no God like you in heaven above or on earth below; you keep covenant and love toward your servants who walk before you with their whole heart, ^1-kings-08-23
+23 he said, “LORD, God of Israel, there is no God like you in heaven above or on earth below; you keep covenant and love toward your servants who walk before you with their whole heart, ^1-kings-08-23
 
 24 the covenant that you kept toward your servant, David my father, what you promised him; your mouth has spoken and your hand has fulfilled this very day. ^1-kings-08-24
 
-25 And now, L ORD, God of Israel, keep toward your servant, David my father, what you promised: There shall never be wanting someone from your line to sit before me on the throne of Israel, provided that your descendants keep to their way, walking before me as you have. ^1-kings-08-25
+25 And now, LORD, God of Israel, keep toward your servant, David my father, what you promised: There shall never be wanting someone from your line to sit before me on the throne of Israel, provided that your descendants keep to their way, walking before me as you have. ^1-kings-08-25
 
 26 Now, God of Israel, may the words you spoke to your servant, David my father, be confirmed. ^1-kings-08-26
 
 27 “Is God indeed to dwell on earth? If the heavens and the highest heavens cannot contain you, how much less this house which I have built! ^1-kings-08-27
 
-28 Regard kindly the prayer and petition of your servant, L ORD, my God, and listen to the cry of supplication which I, your servant, utter before you this day. ^1-kings-08-28
+28 Regard kindly the prayer and petition of your servant, LORD, my God, and listen to the cry of supplication which I, your servant, utter before you this day. ^1-kings-08-28
 
 29 May your eyes be open night and day toward this house, the place of which you said, My name shall be there; listen to the prayer your servant makes toward this place. ^1-kings-08-29
 
@@ -115,7 +114,7 @@ the base for your enthronement forever.”
 
 43 listen in heaven, the place of your enthronement. Do all that the foreigner asks of you, that all the peoples of the earth may know your name, may revere you as do your people Israel, and may know that your name has been invoked upon this house that I have built. ^1-kings-08-43
 
-44 “When your people go out to war against their enemies, by whatever way you send them, and they pray to the L ORD toward the city you have chosen and the house I have built for your name, ^1-kings-08-44
+44 “When your people go out to war against their enemies, by whatever way you send them, and they pray to the LORD toward the city you have chosen and the house I have built for your name, ^1-kings-08-44
 
 45 listen in heaven to their prayer and petition, and uphold their cause. ^1-kings-08-45
 
@@ -135,31 +134,31 @@ the base for your enthronement forever.”
 
 53 For you have set them apart from all the peoples of the earth to be your heritage, as you declared through Moses your servant when you brought our ancestors out of Egypt, Lord my G OD.” ^1-kings-08-53
 
-54 After Solomon finished offering this entire prayer and petition to the L ORD, he rose from before the altar of the L ORD, where he had been kneeling, hands outstretched toward heaven. ^1-kings-08-54
+54 After Solomon finished offering this entire prayer and petition to the LORD, he rose from before the altar of the LORD, where he had been kneeling, hands outstretched toward heaven. ^1-kings-08-54
 
 55 He stood and blessed the whole assembly of Israel, saying in a loud voice: ^1-kings-08-55
 
-56 “Blessed be the L ORD who has given rest to his people Israel, just as he promised. Not a single word has gone unfulfilled of the entire gracious promise he made through Moses his servant. ^1-kings-08-56
+56 “Blessed be the LORD who has given rest to his people Israel, just as he promised. Not a single word has gone unfulfilled of the entire gracious promise he made through Moses his servant. ^1-kings-08-56
 
-57 May the L ORD, our God, be with us as he was with our ancestors and may he not forsake us nor cast us off. ^1-kings-08-57
+57 May the LORD, our God, be with us as he was with our ancestors and may he not forsake us nor cast us off. ^1-kings-08-57
 
 58 May he draw our hearts to himself, that we may walk in his ways and keep the commands, statutes, and ordinances that he enjoined on our ancestors. ^1-kings-08-58
 
-59 May these words of mine, the petition I have offered before the L ORD, our God, be present to the L ORD our God day and night, that he may uphold the cause of his servant and the cause of his people Israel as each day requires, ^1-kings-08-59
+59 May these words of mine, the petition I have offered before the LORD, our God, be present to the LORD our God day and night, that he may uphold the cause of his servant and the cause of his people Israel as each day requires, ^1-kings-08-59
 
-60 so that all the peoples of the earth may know that the L ORD is God and there is no other. ^1-kings-08-60
+60 so that all the peoples of the earth may know that the LORD is God and there is no other. ^1-kings-08-60
 
-61 Your heart must be wholly devoted to the L ORD, our God, observing his statutes and keeping his commandments, as on this day.” ^1-kings-08-61
+61 Your heart must be wholly devoted to the LORD, our God, observing his statutes and keeping his commandments, as on this day.” ^1-kings-08-61
 
-62 The king and all Israel with him offered sacrifices before the L ORD. ^1-kings-08-62
+62 The king and all Israel with him offered sacrifices before the LORD. ^1-kings-08-62
 
-63 Solomon offered as communion offerings to the L ORD twenty-two thousand oxen and one hundred twenty thousand sheep. Thus the king and all the Israelites dedicated the house of the L ORD. ^1-kings-08-63
+63 Solomon offered as communion offerings to the LORD twenty-two thousand oxen and one hundred twenty thousand sheep. Thus the king and all the Israelites dedicated the house of the LORD. ^1-kings-08-63
 
-64 On that day the king consecrated the middle of the court facing the house of the L ORD; he offered there the burnt offerings, the grain offerings, and the fat of the communion offerings, because the bronze altar before the L ORD was too small to hold the burnt offering, the grain offering, and the fat of the communion offering. ^1-kings-08-64
+64 On that day the king consecrated the middle of the court facing the house of the LORD; he offered there the burnt offerings, the grain offerings, and the fat of the communion offerings, because the bronze altar before the LORD was too small to hold the burnt offering, the grain offering, and the fat of the communion offering. ^1-kings-08-64
 
-65 On this occasion Solomon and all Israel with him, a great assembly from Lebo-hamath to the Wadi of Egypt, celebrated the festival before the L ORD, our God, for seven days. ^1-kings-08-65
+65 On this occasion Solomon and all Israel with him, a great assembly from Lebo-hamath to the Wadi of Egypt, celebrated the festival before the LORD, our God, for seven days. ^1-kings-08-65
 
-66 On the eighth day he dismissed the people, who blessed the king and went to their tents, rejoicing and glad of heart because of all the blessings the L ORD had given to David his servant and to his people Israel. ^1-kings-08-66
+66 On the eighth day he dismissed the people, who blessed the king and went to their tents, rejoicing and glad of heart because of all the blessings the LORD had given to David his servant and to his people Israel. ^1-kings-08-66
 
 \* (8:1] – [66]\] The account of the Temple’s dedication ceremony is organized concentrically: Solomon gathers the assembly (vv. [1] – [13]), blesses it (vv. [14] – [21]), utters a long dedicatory prayer (vv. [22] – [53]), blesses the assembly again (vv. [54] – [61]), and dismisses it (vv. [62] – [66]). To this account is appended an appearance of the Lord to Solomon ([9:2] – [9]) that balances the divine word to Solomon in the account of the Temple’s construction ([6:11] – [13]).
 

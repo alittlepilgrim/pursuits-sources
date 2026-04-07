@@ -1,45 +1,44 @@
 ---
-title: 2 Chronicles, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 1
+title: 2 Chronicles, Chapter 1
+url: https://bible.usccb.org/bible/2chronicles/1
 aliases:
   - 2 Chronicles, Chapter 1
   - 2-chronicles-01
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 1
 ---
 
 # 2 Chronicles, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Solomon at Gibeon.**
 
-1 Solomon, son of David, strengthened his hold on the kingdom, for the L ORD, his God, was with him, making him ever greater. ^2-chronicles-01-1
+1 Solomon, son of David, strengthened his hold on the kingdom, for the LORD, his God, was with him, making him ever greater. ^2-chronicles-01-1
 
 2 Solomon summoned all Israel, the commanders of thousands and of hundreds, the judges, the princes of all Israel, and the family heads; ^2-chronicles-01-2
 
-3 and, accompanied by the whole assembly, Solomon went to the high place at Gibeon, because the tent of meeting of God, made in the wilderness by Moses, the L ORD’s servant, was there. ^2-chronicles-01-3
+3 and, accompanied by the whole assembly, Solomon went to the high place at Gibeon, because the tent of meeting of God, made in the wilderness by Moses, the LORD’s servant, was there. ^2-chronicles-01-3
 
 4 David had, however, brought up the ark of God from Kiriath-jearim to Jerusalem, where he had provided a place and pitched a tent for it; ^2-chronicles-01-4
 
-5 the bronze altar made by Bezalel, son of Uri, son of Hur, he put in front of the tabernacle of the L ORD. There Solomon and the assembly sought out the L ORD, ^2-chronicles-01-5
+5 the bronze altar made by Bezalel, son of Uri, son of Hur, he put in front of the tabernacle of the LORD. There Solomon and the assembly sought out the LORD, ^2-chronicles-01-5
 
-6 and Solomon offered sacrifice in the L ORD’s presence on the bronze altar at the tent of meeting; he sacrificed a thousand burnt offerings upon it. ^2-chronicles-01-6
+6 and Solomon offered sacrifice in the LORD’s presence on the bronze altar at the tent of meeting; he sacrificed a thousand burnt offerings upon it. ^2-chronicles-01-6
 
 7 That night God appeared to Solomon and said to him: Whatever you ask, I will give you. ^2-chronicles-01-7
 
 8 Solomon answered God: “You have shown great favor to David my father, and you have made me king to succeed him. ^2-chronicles-01-8
 
-9 Now, L ORD God, may your word to David my father be confirmed, for you have made me king over a people as numerous as the dust of the earth. ^2-chronicles-01-9
+9 Now, LORD God, may your word to David my father be confirmed, for you have made me king over a people as numerous as the dust of the earth. ^2-chronicles-01-9
 
 10 Give me, therefore, wisdom and knowledge to govern this people, for otherwise who could rule this vast people of yours?” ^2-chronicles-01-10
 
@@ -61,9 +60,9 @@ url: https://bible.usccb.org/bible/2chronicles/1
 
 **Preparations for the Temple.**
 
-18 Solomon gave orders for the building of a house for the name of the L ORD and also a king’s house for himself. ^2-chronicles-01-18
+18 Solomon gave orders for the building of a house for the name of the LORD and also a king’s house for himself. ^2-chronicles-01-18
 
-\* (1:5) The bronze altar…the tabernacle of the L ORD: by this notice, the Chronicler justifies Solomon’s worship at the high place of Gibeon. He pictures the tabernacle, i.e., the Mosaic meeting tent, and the bronze altar made at Moses’ command ([Ex 31:1] – [9]) as remaining at Gibeon after David had installed the ark of the covenant in another tent in Jerusalem ([[1-chronicles-15|1 Chr 15]]:1, [25]; [16:1]). Bezalel’s altar was made of acacia wood plated with bronze (([[exodus-27|Ex 27]]:1] – [2]). Later, Solomon made an all-bronze altar for the Temple in Jerusalem ([2 Chr 4:1]).
+\* (1:5) The bronze altar…the tabernacle of the LORD: by this notice, the Chronicler justifies Solomon’s worship at the high place of Gibeon. He pictures the tabernacle, i.e., the Mosaic meeting tent, and the bronze altar made at Moses’ command ([Ex 31:1] – [9]) as remaining at Gibeon after David had installed the ark of the covenant in another tent in Jerusalem ([[1-chronicles-15|1 Chr 15]]:1, [25]; [16:1]). Bezalel’s altar was made of acacia wood plated with bronze (([[exodus-27|Ex 27]]:1] – [2]). Later, Solomon made an all-bronze altar for the Temple in Jerusalem ([2 Chr 4:1]).
 
 \* (1:16] – [17) Egypt and Cilicia: it seems likely that the horses came from Cilicia and the chariots from Egypt. Some scholars find a reference to Musur, a mountain district north of Cilicia, rather than to Egypt (Misrayim) in [[1-kings-10|1 Kgs 10]]:28 – [29], the Chronicler’s source for this notice. The Chronicler himself probably understood the source to be speaking of Egypt; cf. [2 Chr 9:28].
 

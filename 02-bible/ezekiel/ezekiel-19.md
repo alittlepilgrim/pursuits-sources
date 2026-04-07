@@ -1,27 +1,26 @@
 ---
-title: Ezekiel, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 19
+title: Ezekiel, Chapter 19
+url: https://bible.usccb.org/bible/ezekiel/19
 aliases:
   - ezekiel-19
   - Ezekiel, Chapter 19
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/19
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 19
 ---
 
 # Ezekiel, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
-#### Allegory of the Lions
+### Allegory of the Lions
 
 1 As for you, raise a lamentation over the princes of Israel, ^ezekiel-19-1
 
@@ -91,7 +90,7 @@ So his roar would no longer be heard
 
 on the mountains of Israel.
 
-#### Allegory of the Vine Branch
+### Allegory of the Vine Branch
 
 10 Your mother was like a leafy vine ^ezekiel-19-10
 

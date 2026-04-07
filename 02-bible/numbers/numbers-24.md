@@ -1,27 +1,26 @@
 ---
-title: Numbers, Chapter 24
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 24
+title: Numbers, Chapter 24
+url: https://bible.usccb.org/bible/numbers/24
 aliases:
   - numbers-24
   - Numbers, Chapter 24
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/24
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 24
 ---
 
 # Numbers, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
-1 Balaam, however, perceiving that the L ORD was pleased to bless Israel, did not go aside as before to seek omens, but turned his gaze toward the wilderness. ^numbers-24-1
+1 Balaam, however, perceiving that the LORD was pleased to bless Israel, did not go aside as before to seek omens, but turned his gaze toward the wilderness. ^numbers-24-1
 
 2 When Balaam looked up and saw Israel encamped, tribe by tribe, the spirit of God came upon him, ^numbers-24-2
 
@@ -47,7 +46,7 @@ your encampments, Israel!
 
 like gardens beside a river,
 
-Like aloes the L ORD planted,
+Like aloes the LORD planted,
 
 like cedars beside water;
 
@@ -77,11 +76,11 @@ and cursed are those who curse you!
 
 10 In a blaze of anger at Balaam, Balak clapped his hands and said to him, “It was to lay a curse on my foes that I summoned you here; yet three times now you have actually blessed them! ^numbers-24-10
 
-11 Now flee to your home. I promised to reward you richly, but the L ORD has withheld the reward from you!” ^numbers-24-11
+11 Now flee to your home. I promised to reward you richly, but the LORD has withheld the reward from you!” ^numbers-24-11
 
 12 Balaam replied to Balak, “Did I not even tell the messengers whom you sent to me, ^numbers-24-12
 
-13 ‘Even if Balak gave me his house full of silver and gold, I could not of my own accord do anything, good or evil, contrary to the command of the L ORD’? Whatever the L ORD says I must say. ^numbers-24-13
+13 ‘Even if Balak gave me his house full of silver and gold, I could not of my own accord do anything, good or evil, contrary to the command of the LORD’? Whatever the LORD says I must say. ^numbers-24-13
 
 **The Fourth Oracle.**
 

@@ -1,15 +1,17 @@
 ---
-title: Powers of the Soul
-created: 2025-07-19
-modified: 2026-04-02
 type: glossary
-publish: true
-description: Powers of the Soul
+title: Powers of the Soul
+author:
 aliases:
   - Powers of the Soul
   - powers-of-the-soul
 tags:
   - term/powers-of-soul
+  - type/term
+created: 2025-07-19
+modified: 2026-04-06
+publish: true
+description: Powers of the Soul
 ---
 
 # Powers of the Soul

@@ -1,15 +1,16 @@
 ---
-title: Canon Law
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: canon-law. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Canon Law
 aliases:
   - Canon Law
   - canon-law
 tags:
   - term/canon-law
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: canon-law. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Canon Law

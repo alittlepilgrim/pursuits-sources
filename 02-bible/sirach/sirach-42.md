@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 42
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 42
+title: Sirach, Chapter 42
+url: https://bible.usccb.org/bible/sirach/42
 aliases:
   - sirach-42
   - Sirach, Chapter 42
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/42
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 42
 ---
 
 # Sirach, Chapter 42
 
-### Chapter 42
+## Chapter 42
 
 1 Of repeating what you hear, ^sirach-42-1
 
@@ -69,7 +68,7 @@ Thus you will be truly refined
 
 and recognized by all as discreet.
 
-#### A Father’s Care for His Daughter
+### A Father’s Care for His Daughter
 
 9 A daughter is a treasure that keeps her father wakeful, ^sirach-42-9
 
@@ -111,23 +110,23 @@ so a woman’s wickedness comes from a woman.
 
 a frightened daughter than any disgrace.
 
-#### The Works of God in Nature
+### The Works of God in Nature
 
 15 Now will I recall God’s works; ^sirach-42-15
 
 what I have seen, I will describe.
 
-By the L ORD’s word his works were brought into being;
+By the LORD’s word his works were brought into being;
 
 he accepts the one who does his will.
 
 16 As the shining sun is clear to all, ^sirach-42-16
 
-so the glory of the L ORD fills all his works;
+so the glory of the LORD fills all his works;
 
 17 Yet even God’s holy ones must fail ^sirach-42-17
 
-in recounting the wonders of the L ORD,
+in recounting the wonders of the LORD,
 
 Though God has given his hosts the strength
 

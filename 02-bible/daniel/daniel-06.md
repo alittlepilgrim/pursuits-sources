@@ -1,25 +1,24 @@
 ---
-title: Daniel, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Daniel, Chapter 6
+title: Daniel, Chapter 6
+url: https://bible.usccb.org/bible/daniel/6
 aliases:
   - daniel-06
   - Daniel, Chapter 6
 tags:
+  - bible/chapter
   - bible/daniel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/daniel/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Daniel, Chapter 6
 ---
 
 # Daniel, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 1 And Darius the Mede succeeded to the kingdom at the age of sixty-two. ^daniel-06-1
 

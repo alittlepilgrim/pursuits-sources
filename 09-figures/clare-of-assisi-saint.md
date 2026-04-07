@@ -1,21 +1,20 @@
 ---
+type: figure
 title: Saint Clare of Assisi
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
-  - 20250912-224200
   - clare-of-assisi-saint
   - Saint Clare of Assisi
 tags:
   - role/mystic
   - saint
   - term/founder
-birth_date: 1194
-celebration: "08-11"
+  - type/figure
+birthday: 1194
 death_date: 1253-08-11
-full_name: "Saint Clare of Assisi"
+celebration: 08-11
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Clare of Assisi

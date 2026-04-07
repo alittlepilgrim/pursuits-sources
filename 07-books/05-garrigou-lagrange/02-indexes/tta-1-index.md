@@ -1,21 +1,21 @@
 ---
-title: The Three Ages of the Interior Life Volume I Index
-created: 2026-03-24
-modified: 2026-04-02
 type: book
-publish: true
+title: Volume I Index – The Three Ages of the Interior Life
 aliases:
-  - The Three Ages of the Interior Life Volume I Index
-author: Reginald Garrigou-Lagrange
-book_author: Rev. Reginald Garrigou-Lagrange, O.P.
-book_volume: "1"
+  - Volume I Index – The Three Ages of the Interior Life
+tags:
+  - author/garrigou-lagrange
+  - type/book
+created: 2026-03-24
+modified: 2026-04-04
+publish: true
 ---
 
 [[tta-vol-1-garrigou-lagrange-index.pdf|PDF]]
 
 ---
 
-# Volume I Index
+# Volume I Index – The Three Ages of the Interior Life
 
 ## Abnegation
 
@@ -45,7 +45,7 @@ Definition of imperfect acts [[tta017|135]]
 
 Imperfect acts not proper to the perfect, [[tta018|160]];
 
-and problem of the increase of charity by imperfect acts  [[tta017|133]] f.
+and problem of the increase of charity by imperfect acts [[tta017|133]] f.
 
 ## Acts, Meritorious
 
@@ -59,7 +59,7 @@ Results of perfect acts [[tta017|136]] ff
 
 ## Ages of the Spiritual Life, Three
 
-### Age of Beginners:
+### Age of Beginners
 
 Characteristics of age of beginners, [[tta026|243]] f., [[tta030|270]] f
 
@@ -147,7 +147,7 @@ See Pride
 
 ## Attraction, Law of Universal, [[tta017|131]] F
 
-## Austerities,
+## Austerities
 
 Attitude of Church Toward [[tta036|335]] Note
 
@@ -370,7 +370,7 @@ and wounds of the soul, [[tta024|206]]-[[tta024|210]]
 
 ## Curiosity
 
-Definition Of,   [[tta038|354]] F
+Definition Of, [[tta038|354]] F
 
 *See Also* Derision, [[tta049|464]] f.
 
@@ -394,7 +394,7 @@ spirit of, [[tta039|374]]
 
 ## Detraction, [[tta049|464]]
 
-## Devotion,
+## Devotion
 
 Definition of True, [[tta036|337]] Note
 
@@ -440,13 +440,13 @@ Subject of His Interior Conversation, [[tta006|41]]
 
 See Also Mortification
 
-## Errors, Refusal to Recognize,
+## Errors, Refusal to Recognize
 
 See [[tta040|382]]
 
 See Also Pride
 
-## Eucharist, Greatest of Sacraments,
+## Eucharist, Greatest of Sacraments
 
 See [[tta044|414]]
 
@@ -464,7 +464,7 @@ See Pride
 
 See Theological
 
-## Fault, Predominant:
+## Fault, Predominant
 
 Definition and Description Of, [[tta034|314]] F
 
@@ -496,7 +496,7 @@ frivolous, [[tta036|336]] note;
 
 true and supernatural, [[tta036|336]] f.
 
-## Gaze:
+## Gaze
 
 First Intellectual, [[tta038|363]] Note
 
@@ -516,7 +516,7 @@ teaching of Scripture on, [[tta012|66]] f.
 
 teaching of tradition on, [[tta012|67]]-[[tta012|70]] two modes of, [[tta012|79]] f.
 
-## Glory:
+## Glory
 
 Definition Of, [[tta005|34]]
 
@@ -556,7 +556,7 @@ see also Progress, spiritual
 
 - state of: seed of eternal life, [[tta005|29]], [[tta005|34]]-[[tta005|37]]
 
-## Happiness,
+## Happiness
 
 True and Lasting: Definition Of, [[tta020|164]]
 
@@ -713,13 +713,13 @@ See Pride
 
 	what it requires, [[tta005|29]]
 
-## Love of God:
+## Love of God
 
 More Perfect than Knowledge of God, [[tta047|447]]
 
 not in golden mean, [[tta023|200]] f. interested: condemned by quietists, [[tta039|368]]
 
-## Luxury, Spiritual,
+## Luxury, Spiritual
 
 See [[tta036|337]]-[[tta036|338]] and Note [[tta003|16]]
 
@@ -729,7 +729,7 @@ See Tepidity
 
 ## Magnanimity in Beginners, [[tta030|273]] F
 
-## Man:
+## Man
 
 Resemblance to Angel, [[tta012|49]]f.'
 St. Paul on Ihe Inward, [[tta006|44]]
@@ -859,7 +859,7 @@ present status of, [[tta001|5]]-[[tta001|8]]
 
 Expressed in Table of virtues and gifts, [[tta012|51]]
 
-## Parable,
+## Parable
 
 Reason for Christ's Use Of, [[tta037|343]]
 
@@ -1005,7 +1005,7 @@ effects of, [[tta035|330]];
 
 See Pride
 
-## Pride Definition Of:
+## Pride Definition Of
 
 According to St. Augustine, [[tta040|380]] F
 
@@ -1025,7 +1025,7 @@ nature of, [[tta040|379]] ff. opposed to humility, [[tta040|381]] remedy for, [[
 
 St. Gregory on degrees of, [[tta040|381]]
 
-# Pride,
+# Pride
 
 Defects Born of presumption, [[tta040|382]], [[tta040|385]];
 
@@ -1053,7 +1053,7 @@ synoptic table of, *[[tta006|45]]
 
 The Mass and remission of, [[tta043|409]]]] f.
 
-## Purgatory, [[tta005|38]]:
+## Purgatory, [[tta005|38]]
 
 of sufferings necessary for illumination, [[tta047|452]] f.
 
@@ -1081,7 +1081,7 @@ necessary before illumination, [[tta047|452]] f. of the spirit: nature of, [[tta
 
 ## Quality, Principal Natural, [[tta034|315]]
 
-## Quietism:
+## Quietism
 
 Confusion of Spiritual Sloth with Divine Trial of Aridity, [[tta041|391]] F
 
@@ -1095,7 +1095,7 @@ results of excessive fear of, [[tta003|16]] f.;
 
 and self-love, [[tta039|368]]
 
-## Reading, Spiritual, [[tta028|247]]-[[tta028|255]]:
+## Reading, Spiritual, [[tta028|247]]-[[tta028|255]]
 
 Dispositions for Profitable, [[tta028|253]] Ff
 
@@ -1117,13 +1117,13 @@ See Pride
 
 ## Rectitude, Lack Of, [[tta039|367]]
 
-## Redemption,
+## Redemption
 
 Essence of Mystery Of, [[tta016|123]]
 
 ## Religion, Virtue Of, [[tta018|153]]
 
-## Sacraments:
+## Sacraments
 
 Grace Produced Ex Opere Opcrato By, [[tta017|141]]
 
@@ -1169,7 +1169,7 @@ source of all sins, [[tta039|367]]
 
 and utilitarianism, [[tta039|367]] f. wound of malice, [[tta039|366]] f.
 
-## Self-love, Inordinate:
+## Self-love, Inordinate
 
 St. Catherine of Siena On, [[tta039|371]]
 
@@ -1245,7 +1245,7 @@ See Also Tepidity
 
 See Pride
 
-## Studiousness,
+## Studiousness
 
 Virtue Of, [[tta038|355]] Note, [[tta038|362]] Note
 
@@ -1329,7 +1329,7 @@ shares imperfection of faith [[tta012|74]]
 
 subordination of self to God by, [[tta039|368]] note
 
-## Theology:
+## Theology
 
 Branches Of, [[tta001|10]]
 
@@ -1351,7 +1351,7 @@ defined, [[tta004|21]]
 
 ## Time, Religious Employment Of, [[tta041|396]]
 
-## Tradition, Importance Of:
+## Tradition, Importance Of
 
 Essentially Divine, [[tta013|99]] note
 
@@ -1379,11 +1379,11 @@ theological explanation of, [[tta013|101]]-[[tta013|105]]
 
 See Gifts of The Holy Ghost
 
-## Union, Hypostatic:
+## Union, Hypostatic
 
 Result on Humanity of Christ, 2iof.
 
-## Universalism,
+## Universalism
 
 True and False: Conflict Between, [[tta038|358]] F
 
@@ -1467,7 +1467,7 @@ See Gifts of The Holy Ghost
 
 ## Wounds of the Soul, [[tta033|306]]-[[tta033|310]]
 
-## Youth, Spiritual:
+## Youth, Spiritual
 
 Renewed Day by Day [[tta006|44]]
 

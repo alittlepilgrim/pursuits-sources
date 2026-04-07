@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 11
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 11
+title: Joshua, Chapter 11
+url: https://bible.usccb.org/bible/joshua/11
 aliases:
   - joshua-11
   - Joshua, Chapter 11
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/11
-testament: old
-url: https://bible.usccb.org/bible/joshua/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 11
 ---
 
 # Joshua, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **Northern Confederacy.**
 
@@ -34,13 +32,13 @@ url: https://bible.usccb.org/bible/joshua/11
 
 5 All these kings made a pact and together they marched to the waters of Merom, where they encamped to fight against Israel. ^joshua-11-5
 
-6 The L ORD said to Joshua, “Do not fear them, for by this time tomorrow I will present them slain to Israel. You must hamstring their horses and burn their chariots.” ^joshua-11-6
+6 The LORD said to Joshua, “Do not fear them, for by this time tomorrow I will present them slain to Israel. You must hamstring their horses and burn their chariots.” ^joshua-11-6
 
 7 Joshua with his whole army came upon them suddenly at the waters of Merom and fell upon them. ^joshua-11-7
 
-8 The L ORD delivered them into the power of the Israelites, who defeated them and pursued them to Greater Sidon, to Misrephoth-maim, and eastward to the valley of Mizpeh. They struck them all down, leaving no survivors. ^joshua-11-8
+8 The LORD delivered them into the power of the Israelites, who defeated them and pursued them to Greater Sidon, to Misrephoth-maim, and eastward to the valley of Mizpeh. They struck them all down, leaving no survivors. ^joshua-11-8
 
-9 Joshua did to them as the L ORD had commanded: he hamstrung their horses and burned their chariots. ^joshua-11-9
+9 Joshua did to them as the LORD had commanded: he hamstrung their horses and burned their chariots. ^joshua-11-9
 
 **Conquest of Northern Canaan.**
 
@@ -48,13 +46,13 @@ url: https://bible.usccb.org/bible/joshua/11
 
 11 He also struck down with the sword every person there, carrying out the ban, till none was left alive. Hazor itself he burned. ^joshua-11-11
 
-12 All the cities of those kings, and the kings themselves, Joshua captured and put to the sword, carrying out the ban on them, as Moses, the servant of the L ORD, had commanded. ^joshua-11-12
+12 All the cities of those kings, and the kings themselves, Joshua captured and put to the sword, carrying out the ban on them, as Moses, the servant of the LORD, had commanded. ^joshua-11-12
 
 13 However, Israel did not destroy by fire any of the cities built on their mounds, except Hazor, which Joshua burned. ^joshua-11-13
 
 14 All the spoil and livestock of these cities the Israelites took as plunder; but the people they put to the sword, until they had destroyed the last of them, leaving none alive. ^joshua-11-14
 
-15 As the L ORD had commanded his servant Moses, so Moses commanded Joshua, and Joshua acted accordingly. He left nothing undone that the L ORD had commanded Moses should be done. ^joshua-11-15
+15 As the LORD had commanded his servant Moses, so Moses commanded Joshua, and Joshua acted accordingly. He left nothing undone that the LORD had commanded Moses should be done. ^joshua-11-15
 
 **Survey of the Conquest.**
 
@@ -66,13 +64,13 @@ url: https://bible.usccb.org/bible/joshua/11
 
 19 With the exception of the Hivites who lived in Gibeon, no city made peace with the Israelites; all were taken in battle. ^joshua-11-19
 
-20 For it was the L ORD’s doing to make their hearts obstinate to meet Israel in battle, that they might be put under the ban without mercy, and be destroyed as the L ORD had commanded Moses. ^joshua-11-20
+20 For it was the LORD’s doing to make their hearts obstinate to meet Israel in battle, that they might be put under the ban without mercy, and be destroyed as the LORD had commanded Moses. ^joshua-11-20
 
 21 At that time Joshua penetrated the mountain regions and exterminated the Anakim in Hebron, Debir, Anab, the entire mountain region of Judah, and the entire mountain region of Israel. Joshua put them and their cities under the ban, ^joshua-11-21
 
 22 so that no Anakim were left in the land of the Israelites. However, some survived in Gaza, in Gath, and in Ashdod. ^joshua-11-22
 
-23 Thus Joshua took the whole land, just as the L ORD had said to Moses. Joshua gave it to Israel as their heritage, apportioning it among the tribes. And the land had rest from war. ^joshua-11-23
+23 Thus Joshua took the whole land, just as the LORD had said to Moses. Joshua gave it to Israel as their heritage, apportioning it among the tribes. And the land had rest from war. ^joshua-11-23
 
 \* (11:1] – [3) Hazor, Madon, Shimron, and Chinneroth: cities and their surrounding districts in eastern Galilee. Achshaph and Naphath-dor: southwest of Galilee. The mountain regions: in central and northern Galilee.
 

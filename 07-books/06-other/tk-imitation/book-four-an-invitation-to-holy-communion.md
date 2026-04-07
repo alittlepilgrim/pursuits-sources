@@ -1,23 +1,22 @@
 ---
-title: Book Four. an Invitation to Holy Communion - The Imitation of Christ
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book Four. an Invitation to Holy Communion - The Imitation of Christ
+title: Book Four. an Invitation to Holy Communion - The Imitation of Christ
+author: Thomas à Kempis
 aliases:
   - Book Four. an Invitation to Holy Communion - The Imitation of Christ
 tags:
-  - author/thomas-a-kempis
-  - book/imitation-of-christ
-author: Thomas à Kempis
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book Four. an Invitation to Holy Communion - The Imitation of Christ
 ---
 
 # Book Four. an Invitation to Holy Communion
 
 The Voice of Christ COME to Me, all you that labor and are burdened, and I will refresh you. [45] The bread which I will give is My Flesh, for the life of the world. [46] Take you and eat: this is My Body, which shall be delivered for you. Do this for the commemoration of Me. [47] He that eateth My flesh, and drinketh My blood, abideth in Me, and I in him. [48] The words that I have spoken to you are spirit and life." [49]
 
-### Chapter 1. the Great Reverence with Which We Should Receive Christ
+## Chapter 1. the Great Reverence with Which We Should Receive Christ
 
 The Disciple THESE are all Your words, O Christ, eternal Truth, though they were not all spoken at one time nor written together in one place. And because they are Yours and true, I must accept them all with faith and gratitude. They are Yours and You have spoken them; they are mine also because You have spoken them for my salvation. Gladly I accept them from Your lips that they may be the more deeply impressed in my heart.
 
@@ -67,7 +66,7 @@ Thanks be to You, Jesus, everlasting Good Shepherd, Who have seen fit to feed us
 
 [50] Matt. 11:28.
 
-### Chapter 2. God's Great Goodness and Love Is Shown to Man in This Sacrament
+## Chapter 2. God's Great Goodness and Love Is Shown to Man in This Sacrament
 
 The Disciple TRUSTING in Your goodness and great mercy, O Lord, I come as one sick to the Healer, as one hungry and thirsty to the Fountain of life, as one in need to the King of heaven, a servant to his Lord, a creature to his Creator, a soul in desolation to my gentle Comforter.
 
@@ -91,7 +90,7 @@ Rejoice, my soul, and give thanks to God for having left you so noble a gift and
 
 Therefore, you should prepare yourself for it by constantly renewing your heart and pondering deeply the great mystery of salvation. As often as you celebrate or hear Mass, it should seem as great, as new, as sweet to you as if on that very day Christ became man in the womb of the Virgin, or, hanging on the Cross, suffered and died for the salvation of man.
 
-### Chapter 3. It Is Profitable to Receive Communion Often
+## Chapter 3. It Is Profitable to Receive Communion Often
 
 The Disciple BEHOLD, I come to You, Lord, that I may prosper by Your gift and be delighted at Your holy banquet which You, O God, in Your sweetness have prepared for Your poor. Behold, all that I can or ought to desire is in You. You are my salvation and my redemption, my hope and strength, my honor and glory.
 
@@ -113,7 +112,7 @@ Oh, wonderful condescension of Your affection toward us, that You, the Lord God,
 
 [51] Matt. 15:32.
 
-### Chapter 4. Many Blessings Are Given Those Who Receive Communion Worthily
+## Chapter 4. Many Blessings Are Given Those Who Receive Communion Worthily
 
 The Disciple O LORD my God, favor Your servant with the blessings of Your sweetness that I may merit to approach Your magnificent Sacrament worthily and devoutly. Lift up my heart to You and take away from me this heavy indolence. Visit me with Your saving grace that I may in spirit taste Your sweetness which lies hidden in this Sacrament like water in the depths of a spring. Enlighten my eyes to behold this great Mystery, and give me strength to believe in it with firm faith.
 
@@ -133,7 +132,7 @@ Whatever is wanting in me, good Jesus, Savior most holy, do You in Your kindness
 
 I, indeed, labor in the sweat of my brow. I am torn with sorrow of heart. I am laden with sin, troubled with temptations, enmeshed and oppressed by many evil passions, and there is none to help me, none to deliver and save me but You, my Lord God and Savior, to Whom I entrust myself and all I have, that You may protect me and lead me to eternal life. For the honor and glory of Your name receive me, You Who have prepared Your Body and Blood as food and drink for me. Grant, O Lord, my God and Savior, that by approaching Your Mysteries frequently, the zeal of my devotion may increase.
 
-### Chapter 5. the Dignity of the Sacrament and of the Priesthood
+## Chapter 5. the Dignity of the Sacrament and of the Priesthood
 
 The Voice of Christ HAD you the purity of an angel and the sanctity of St. John the Baptist, you would not be worthy to receive or administer this Sacrament. It is not because of any human meriting that a man consecrates and administers the Sacrament of Christ, and receives the Bread of Angels for his food. Great is the Mystery and great the dignity of priests to whom is given that which has not been granted the angels. For priests alone, rightly ordained in the Church, have power to celebrate Mass and consecrate the Body of Christ.
 
@@ -149,11 +148,11 @@ He wears the cross before him that he may mourn his own sins, behind him, that i
 
 When the priest celebrates Mass, he honors God, gladdens the angels, strengthens the Church, helps the living, brings rest to the departed, and wins for himself a share in all good things.
 
-### Chapter 6. an Inquiry on the Proper Thing to Do Before Communion
+## Chapter 6. an Inquiry on the Proper Thing to Do Before Communion
 
 The Disciple WHEN I consider Your dignity, O Lord, and my own meanness, I become very much frightened and confused. For if I do not receive, I fly from Life, and if I intrude unworthily, I incur Your displeasure. What, then, shall I do, my God, my Helper and Adviser in necessity? Teach me the right way. Place before me some short exercise suitable for Holy Communion, for it is good to know in what manner I ought to make my heart ready devoutly and fervently for You, to receive Your Sacrament for the good of my soul, or even to celebrate so great and divine a sacrifice.
 
-### Chapter 7. the Examination of Conscience and the Resolution to Amend
+## Chapter 7. the Examination of Conscience and the Resolution to Amend
 
 The Voice of Christ ABOVE all, God's priest should approach the celebration and reception of this Sacrament with the deepest humility of heart and suppliant reverence, with complete faith and the pious intention of giving honor to God.
 
@@ -169,7 +168,7 @@ If a man does what he can and is truly penitent, however often he comes to Me fo
 
 [52] Ezek. 33:11.
 
-### Chapter 8. the Offering of Christ on the Cross; Our Offering
+## Chapter 8. the Offering of Christ on the Cross; Our Offering
 
 The Voice of Christ AS I offered Myself willingly to God the Father for your sins with hands outstretched and body naked on the cross, so that nothing remained in Me that had not become a complete sacrifice to appease the divine wrath, so ought you to be willing to offer yourself to Me day by day in the Mass as a pure and holy oblation, together with all your faculties and affections, with as much inward devotion as you can.
 
@@ -189,7 +188,7 @@ If, therefore, you wish to be My disciple, offer yourself to Me with all your he
 
 [53] Luke 14:33.
 
-### Chapter 9. We Should Offer Ourselves and All That We Have to God, Praying for All
+## Chapter 9. We Should Offer Ourselves and All That We Have to God, Praying for All
 
 The Disciple ALL things in heaven and on earth, O Lord, are Yours. I long to give myself to You as a voluntary offering to remain forever Yours. With a sincere heart I offer myself this day to You, O Lord, to Your eternal service, to Your homage, and as a sacrifice of everlasting praise.
 
@@ -211,7 +210,7 @@ Take away from our hearts, O Lord, all suspicion, anger, wrath, contention, and 
 
 Have mercy, O Lord, have mercy on those who ask Your mercy, give grace to those who need it, and make us such that we may be worthy to enjoy Your favor and gain eternal life.
 
-### Chapter 10. Do Not Lightly Forego Holy Communion
+## Chapter 10. Do Not Lightly Forego Holy Communion
 
 The Voice of Christ YOU must often return to the source of grace and divine mercy, to the fountain of goodness and perfect purity, if you wish to be free from passion and vice, if you desire to be made stronger and more watchful against all the temptations and deceits of the devil.
 
@@ -243,7 +242,7 @@ He who prepares himself only when festivals approach or custom demands, will oft
 
 Be neither too slow nor too fast in celebrating but follow the good custom common to those among whom you are. You ought not to cause others inconvenience or trouble, but observe the accepted rule as laid down by superiors, and look to the benefit of others rather than to your own devotion or inclination.
 
-### Chapter 11. the Body of Christ and Sacred Scripture Are Most Necessary to a Faithful Soul
+## Chapter 11. the Body of Christ and Sacred Scripture Are Most Necessary to a Faithful Soul
 
 The Disciple O MOST sweet Lord Jesus, how great is the happiness of the devout soul that feasts upon You at Your banquet, where there is set before her to be eaten no other food but Yourself alone, her only Lover, most desired of all that her heart can desire!
 
@@ -279,7 +278,7 @@ Oh, how clean those hands should be, how pure the lips, how sanctified the body,
 
 Let Your grace, almighty God, assist us, that we who have undertaken the office of the priesthood may serve You worthily and devoutly in all purity and with a good conscience. And if we cannot live as innocently as we ought, grant us at least to lament duly the wrongs we have committed and in the spirit of humility and the purpose of a good will to serve You more fervently in the future.
 
-### Chapter 12. the Communicant Should Prepare Himself for Christ with Great Care
+## Chapter 12. the Communicant Should Prepare Himself for Christ with Great Care
 
 The Voice of Christ I AM the Lover of purity, the Giver of all holiness. I seek a pure heart and there is the place of My rest.
 
@@ -307,7 +306,7 @@ Beware of much talking. Remain in seclusion and enjoy your God, for you have Him
 
 I am He to Whom you should give yourself entirely, that from now on you may live, not in yourself, but in Me, with all cares cast away.
 
-### Chapter 13. with All Her Heart the Devout Soul Should Desire Union with Christ in the
+## Chapter 13. with All Her Heart the Devout Soul Should Desire Union with Christ in the
 
 Sacrament The Disciple LET it be granted me to find You alone, O Christ, to open to You my whole heart, to enjoy You as my soul desires, to be disturbed by no one, to be moved and troubled by no creature, that You may speak to me and I to You alone, as a lover speaks to his loved one, and friend converses with friend.
 
@@ -325,7 +324,7 @@ Indeed, what other nation is so renowned as the Christian peoples? What creature
 
 What return shall I make to the Lord for this love, this grace so boundless? There is nothing I can give more pleasing than to offer my heart completely to my God, uniting it closely with His. Then shall all my inner self be glad when my soul is perfectly united with God. Then will He say to me: "If you will be with Me, I will be with you." And I will answer Him: "Deign, O Lord, to remain with me. I will gladly be with You. This is my one desire, that my heart may be united with You."
 
-### Chapter 14. the Ardent Longing of Devout Men for the Body of Christ
+## Chapter 14. the Ardent Longing of Devout Men for the Body of Christ
 
 The Disciple HOW great is the abundance of Your kindness, O Lord, which You have hidden from those who fear You!
 
@@ -335,7 +334,7 @@ Such affection and devotion, such mighty love and zeal are often far beyond me. 
 
 Your mercy can give me the grace I long for and can visit me most graciously with fervor of soul according to Your good pleasure. For although I am not now inflamed with as great desire as those who are singularly devoted to You, yet by Your grace I long for this same great flame, praying and seeking a place among all such ardent lovers that I may be numbered among their holy company.
 
-### Chapter 15. the Grace of Devotion Is Acquired Through Humility and Self-denial
+## Chapter 15. the Grace of Devotion Is Acquired Through Humility and Self-denial
 
 The Voice of Christ YOU must seek earnestly the grace of devotion, ask for it fervently, await it patiently and hopefully, receive it gratefully, guard it humbly, cooperate with it carefully and leave to God, when it comes, the length and manner of the heavenly visitation.
 
@@ -353,7 +352,7 @@ So also the more perfectly a man renounces things of this world, and the more co
 
 Then shall he see and abound, then shall his heart marvel and be enlarged within him, because the Hand of the Lord is with him and in the hollow of that Hand he has placed himself forever. Thus shall the man be blessed who seeks God with all his heart and has not regarded his soul in vain. Such a one, receiving the Holy Eucharist, merits the grace of divine union because he looks not on his own thoughts, nor to his own comfort, but above all devotion and consolation to the glory and honor of God.
 
-### Chapter 16. We Should Show Our Needs to Christ and Ask His Grace
+## Chapter 16. We Should Show Our Needs to Christ and Ask His Grace
 
 The Disciple O MOST kind, most loving Lord, Whom I now desire to receive with devotion, You know the weakness and the necessity which I suffer, in what great evils and vices I am involved, how often I am depressed, tempted, defiled, and troubled.
 
@@ -369,7 +368,7 @@ Suffer me not to go from You fasting and thirsty, but deal with me mercifully as
 
 What wonder if I were completely inflamed by You to die to myself, since You are the fire ever burning and never dying, a love purifying the heart and enlightening the understanding.
 
-### Chapter 17. the Burning Love and Strong Desire to Receive Christ
+## Chapter 17. the Burning Love and Strong Desire to Receive Christ
 
 The Disciple WITH greatest devotion and ardent love, with all affection and fervor of heart I wish to receive You, O Lord, as many saints and devout persons, most pleasing to You in their holiness of life and most fervent in devotion, desired You in Holy Communion.
 
@@ -391,7 +390,7 @@ Let all people, races, and tongues praise You and with the greatest joy and most
 
 [55] John 3:29.
 
-### Chapter 18. Man Should Not Scrutinize This Sacrament in Curiosity, but Humbly Imitate
+## Chapter 18. Man Should Not Scrutinize This Sacrament in Curiosity, but Humbly Imitate
 
 Christ and Submit Reason to Holy Faith The Voice of Christ BEWARE of curious and vain examination of this most profound Sacrament, if you do not wish to be plunged into the depths of doubt. He who scrutinizes its majesty too closely will be overwhelmed by its glory.
 

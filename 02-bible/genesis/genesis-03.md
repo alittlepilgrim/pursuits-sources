@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 3
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 3
+title: Genesis, Chapter 3
+url: https://bible.usccb.org/bible/genesis/3
 aliases:
   - genesis-03
   - Genesis, Chapter 3
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 3
 bible_book: genesis
 bible_chapter: "03"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/3
 ---
 
 [[genesis-02|[← Previous Note]]] · [[genesis-04|[Next Note →]]]
@@ -28,7 +27,7 @@ url: https://bible.usccb.org/bible/genesis/3
 
 **Expulsion from Eden.**
 
-1 Now the snake was the most cunning of all the wild animals that the L ORD God had made. He asked the woman, “Did God really say, ‘You shall not eat from any of the trees in the garden’?” ^genesis-03-1
+1 Now the snake was the most cunning of all the wild animals that the LORD God had made. He asked the woman, “Did God really say, ‘You shall not eat from any of the trees in the garden’?” ^genesis-03-1
 
 2 The woman answered the snake: “We may eat of the fruit of the trees in the garden; ^genesis-03-2
 
@@ -42,9 +41,9 @@ url: https://bible.usccb.org/bible/genesis/3
 
 7 Then the eyes of both of them were opened, and they knew that they were naked; so they sewed fig leaves together and made loincloths for themselves. ^genesis-03-7
 
-8 When they heard the sound of the L ORD God walking about in the garden at the breezy time of the day, the man and his wife hid themselves from the L ORD God among the trees of the garden. ^genesis-03-8
+8 When they heard the sound of the LORD God walking about in the garden at the breezy time of the day, the man and his wife hid themselves from the LORD God among the trees of the garden. ^genesis-03-8
 
-9 The L ORD God then called to the man and asked him: Where are you? ^genesis-03-9
+9 The LORD God then called to the man and asked him: Where are you? ^genesis-03-9
 
 10 He answered, “I heard you in the garden; but I was afraid, because I was naked, so I hid.” ^genesis-03-10
 
@@ -52,9 +51,9 @@ url: https://bible.usccb.org/bible/genesis/3
 
 12 The man replied, “The woman whom you put here with me—she gave me fruit from the tree, so I ate it.” ^genesis-03-12
 
-13 The L ORD God then asked the woman: What is this you have done? The woman answered, “The snake tricked me, so I ate it.” ^genesis-03-13
+13 The LORD God then asked the woman: What is this you have done? The woman answered, “The snake tricked me, so I ate it.” ^genesis-03-13
 
-14 Then the L ORD God said to the snake: ^genesis-03-14
+14 Then the LORD God said to the snake: ^genesis-03-14
 
 Because you have done this,
 
@@ -112,11 +111,11 @@ and to dust you shall return.
 
 20 The man gave his wife the name “Eve,” because she was the mother of all the living. ^genesis-03-20
 
-21 The L ORD God made for the man and his wife garments of skin, with which he clothed them. ^genesis-03-21
+21 The LORD God made for the man and his wife garments of skin, with which he clothed them. ^genesis-03-21
 
-22 Then the L ORD God said: See! The man has become like one of us, knowing good and evil! Now, what if he also reaches out his hand to take fruit from the tree of life, and eats of it and lives forever? ^genesis-03-22
+22 Then the LORD God said: See! The man has become like one of us, knowing good and evil! Now, what if he also reaches out his hand to take fruit from the tree of life, and eats of it and lives forever? ^genesis-03-22
 
-23 The L ORD God therefore banished him from the garden of Eden, to till the ground from which he had been taken. ^genesis-03-23
+23 The LORD God therefore banished him from the garden of Eden, to till the ground from which he had been taken. ^genesis-03-23
 
 24 He expelled the man, stationing the cherubim and the fiery revolving sword east of the garden of Eden, to guard the way to the tree of life. ^genesis-03-24
 
@@ -158,6 +157,6 @@ j. (3:22) [Gn 2:9]; [Rv 22:2], [14]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-02|[← Previous Note]]] · [[genesis-04|[Next Note →]]]

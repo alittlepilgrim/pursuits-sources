@@ -1,25 +1,24 @@
 ---
-title: Titus, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Titus, Chapter 1
+title: Titus, Chapter 1
+url: https://bible.usccb.org/bible/titus/1
 aliases:
   - titus-01
   - Titus, Chapter 1
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/titus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/titus/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Titus, Chapter 1
 ---
 
 # Titus, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -31,7 +30,7 @@ url: https://bible.usccb.org/bible/titus/1
 
 4 to Titus, my true child in our common faith: grace and peace from God the Father and Christ Jesus our savior. ^titus-01-4
 
-## Ii. Pastoral Charge
+# Ii. Pastoral Charge
 
 **Titus in Crete.**
 

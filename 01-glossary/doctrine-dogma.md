@@ -1,15 +1,16 @@
 ---
-title: Doctrine / Dogma
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: Doctrine / Dogma. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Doctrine / Dogma
 aliases:
   - Doctrine / Dogma
   - doctrine-dogma
 tags:
   - term/doctrine-dogma
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: Doctrine / Dogma. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Doctrine / Dogma

@@ -1,19 +1,19 @@
 ---
-title: Christus Dominus
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree concerning the Pastoral Office of Bishops - Christus dominus
+title: Christus Dominus
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html
 aliases:
   - christus-dominus
 tags:
+  - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-11-14
+modified: 2026-04-04
+publish: true
+description: Decree concerning the Pastoral Office of Bishops - Christus dominus
 abbreviation: cd
-author: Catholic Church
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html
 ---
 
 DECREE CONCERNING
@@ -30,7 +30,7 @@ HIS HOLINESS, POPE PAUL VI
 
 ON OCTOBER 28, 1965
 
-## Preface
+# Preface
 
 1\. Christ the Lord, Son of the living God, came that He might save His people from their sins<sup>([[#^cd-preface-1|1]])</sup> and that all men might be sanctified. Just as He Himself was sent by the Father, so He also sent His Apostles.<sup>([[#^cd-preface-2|2]])</sup> Therefore, He sanctified them, conferring on them the Holy Spirit, so that they also might glorify the Father upon earth and save men, "to the building up of the body of Christ" ([[ephesians-04#^ephesians-04-12|Eph. 4:12)]], which is the Church. ^cd-1
 
@@ -44,7 +44,7 @@ They exercise this office individually in reference to the portions of the Lord'
 
 This sacred synod, therefore, attentive to the conditions of human association which have brought about a new order of things in our time,(7) intends to determine more exactly the pastoral office of bishops and, therefore, has decreed the things that follow.
 
-## Chapter I
+# Chapter I
 
 **THE RELATIONSHIP OF BISHOPS TO THE UNIVERSAL CHURCH**
 
@@ -80,7 +80,7 @@ It is also desired that some bishops, too-especially diocesan bishops-will be ch
 
 Finally, the fathers of the council think it would be most advantageous if these same departments would listen more attentively to laymen who are outstanding for their virtue, knowledge, and experience. In such a way they will have an appropriate share in Church affairs.
 
-## Chapter Ii
+# Chapter Ii
 
 **BISHOPS AND THEIR PARTICULAR CHURCHES OR DIOCESES**
 
@@ -272,7 +272,7 @@ For those works of the apostolate which Religious are to undertake, bishops or e
 
 6\.) In order to foster harmonious and fruitful mutual relations between bishops and religious, at stated times and as often as it is deemed opportune, bishops and religious superiors should meet to discuss those affairs which pertain to the apostolate in their territory. ^cd-6
 
-## Chapter Iii
+# Chapter Iii
 
 **CONCERNING BISHOPS COOPERATING FOR THE COMMON GOOD OF MANY CHURCHES**
 
@@ -330,9 +330,9 @@ This sacred synod also prescribes that general directories be prepared treating 
 
 There should be prepared also a particular directory concerning the pastoral care of special groups of the faithful as the different circumstances of individual nations or regions require. Another directory should be composed concerning the catechetical instruction of the Christian people; this directory will consider the fundamental principles of such instruction, its disposition and the composition of books on the subject. In preparing these directories, special attention should be given to the views which have been expressed both by the commissions and the council Fathers.
 
-## Notes
+# Notes
 
-### Preface
+## Preface
 
 1\. cf. [[matthew-01#^matthew-01-21|Matt. 1:21.]] ^cd-preface-1
 
@@ -348,7 +348,7 @@ There should be prepared also a particular directory concerning the pastoral car
 
 7\. cf. John XXIII's apostolic constitution, Humanae Salutis, Dec. 25, 1961: A.A.S. 54 (1962) p. 6. ^cd-preface-7
 
-### Chapter I
+## Chapter I
 
 1\. cf. Second Vatican Council, Dogmatic Constitution on the Church, chap. 3, no. 22: A.A.S. 57 (1965) pp. 25-27. ^cd-ch1-1
 
@@ -366,7 +366,7 @@ There should be prepared also a particular directory concerning the pastoral car
 
 8\. cf. Paul VI's allocution to the cardinals, prelates and various officials of the Roman curia, Sept. 21, 1963: A.A.S. 55 (1963) p. 793 ff. ^cd-ch1-8
 
-### Chapter Ii
+## Chapter Ii
 
 1\. cf. Second Vatican Council, Decree on Eastern Catholic Churches, Nov. 21, 1964, nos. 7-11 A.A.S. 57 (1965) p. 29 ff. ^cd-ch2-1
 
@@ -410,7 +410,7 @@ There should be prepared also a particular directory concerning the pastoral car
 
 21\. cf. Pius XII's allocution of Dec. 8, 1950, 1. c. ^cd-ch2-21
 
-### Chapter Iii
+## Chapter Iii
 
 1\. cf. Consistorial Congregation's Instruction to Military Ordinariates, April 23, 1951: A.A.S. 43 (1951) pp. 562-565; Formula Regarding the Conferring of the Status of Military Ordinariates, Oct. 20, 1956: A.A.S. 49 (1957) pp. 150-163; Decree on Ad Limina Visits of Military Ordinariates, Feb. 28, 1959: A.A.S. 51 (1959) pp. 272-274; Decree on the Granting of Faculties for Confessions to Military Chaplains, Nov. 27, 1960: A.A.S. 53 (1961) pp. 49-50. Also cf. Congregation of Religious' Instruction on Religious Military Chaplains, Feb. 2, 1955: A.A.S. 47 (1955) pp. 93-97. ^cd-ch3-1
 

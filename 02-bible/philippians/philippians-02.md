@@ -1,25 +1,24 @@
 ---
-title: Philippians, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Philippians, Chapter 2
+title: Philippians, Chapter 2
+url: https://bible.usccb.org/bible/philippians/2
 aliases:
   - philippians-02
   - Philippians, Chapter 2
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/philippians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/philippians/2
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Philippians, Chapter 2
 ---
 
 # Philippians, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Plea for Unity and Humility.**
 
@@ -79,7 +78,7 @@ to the glory of God the Father.
 
 16 as you hold on to the word of life, so that my boast for the day of Christ may be that I did not run in vain or labor in vain. ^philippians-02-16
 
-## Iv. Travel Plans of Paul and His Assistants
+# Iv. Travel Plans of Paul and His Assistants
 
 **Timothy and Paul.**
 

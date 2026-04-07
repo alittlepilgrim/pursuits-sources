@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 10
+title: Proverbs, Chapter 10
+url: https://bible.usccb.org/bible/proverbs/10
 aliases:
   - proverbs-10
   - Proverbs, Chapter 10
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/10
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 10
 ---
 
 # Proverbs, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 1 The Proverbs of Solomon: ^proverbs-10-1
 
@@ -31,7 +30,7 @@ but a foolish son is a grief to his mother.
 
 but justice saves from death.
 
-3 The L ORD does not let the just go hungry, ^proverbs-10-3
+3 The LORD does not let the just go hungry, ^proverbs-10-3
 
 but the craving of the wicked he thwarts.
 
@@ -107,7 +106,7 @@ the heart of the wicked is of little worth.
 
 but fools die for want of sense.
 
-22 It is the L ORD’s blessing that brings wealth, ^proverbs-10-22
+22 It is the LORD’s blessing that brings wealth, ^proverbs-10-22
 
 and no effort can substitute for it.
 
@@ -127,7 +126,7 @@ but the just are established forever.
 
 are sluggards to those who send them.
 
-27 Fear of the L ORD prolongs life, ^proverbs-10-27
+27 Fear of the LORD prolongs life, ^proverbs-10-27
 
 but the years of the wicked are cut short.
 
@@ -135,7 +134,7 @@ but the years of the wicked are cut short.
 
 but the expectation of the wicked perishes.
 
-29 The L ORD is a stronghold to those who walk honestly, ^proverbs-10-29
+29 The LORD is a stronghold to those who walk honestly, ^proverbs-10-29
 
 downfall for evildoers.
 

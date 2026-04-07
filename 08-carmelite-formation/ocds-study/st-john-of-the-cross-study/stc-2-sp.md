@@ -1,17 +1,17 @@
 ---
-title: Texto 2 – La Creación un Icono. San Juan de la Cruz y la Creación
-created: 2026-03-18
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Texto 2 – La Creación un Icono. San Juan de la Cruz y la Creación
+author: OCD General Curia
 aliases:
   - Texto 2 – La Creación un Icono. San Juan de la Cruz y la Creación
 tags:
-  - author/general-curia
+  - author/ocd-general-curia
   - subject/laudato-si
   - subject/st-john-of-the-cross
+created: 2026-03-18
+modified: 2026-04-06
+publish: true
 attachment: false
-author: OCD General Curia
 ---
 
 # Texto 2 – la Creación, un Icono. San Juan de la Cruz y la Creación

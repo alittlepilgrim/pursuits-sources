@@ -1,25 +1,24 @@
 ---
-title: Ezra, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezra, Chapter 9
+title: Ezra, Chapter 9
+url: https://bible.usccb.org/bible/ezra/9
 aliases:
   - ezra-09
   - Ezra, Chapter 9
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezra, Chapter 9
 ---
 
 # Ezra, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **The Crisis of Mixed Marriages.**
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/ezra/9
 
 4 Around me gathered all who were in dread of the sentence of the God of Israel on the [[apostasy]] of the exiles, while I remained devastated until the evening sacrifice. ^ezra-09-4
 
-5 Then, at the time of the evening sacrifice, I rose in my wretchedness, and with cloak and mantle torn I fell on my knees, stretching out my hands to the L ORD, my God. ^ezra-09-5
+5 Then, at the time of the evening sacrifice, I rose in my wretchedness, and with cloak and mantle torn I fell on my knees, stretching out my hands to the LORD, my God. ^ezra-09-5
 
 **A Penitential Prayer.**
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/ezra/9
 
 7 From the time of our ancestors even to this day our guilt has been great, and for our wicked deeds we have been delivered, we and our kings and our priests, into the hands of the kings of foreign lands, to the sword, to captivity, to pillage, and to disgrace, as is the case today. ^ezra-09-7
 
-8 “And now, only a short time ago, mercy came to us from the L ORD, our God, who left us a remnant and gave us a stake in his holy place; thus our God has brightened our eyes and given us relief in our slavery. ^ezra-09-8
+8 “And now, only a short time ago, mercy came to us from the LORD, our God, who left us a remnant and gave us a stake in his holy place; thus our God has brightened our eyes and given us relief in our slavery. ^ezra-09-8
 
 9 For slaves we are, but in our slavery our God has not abandoned us; rather, he has turned the good will of the kings of Persia toward us. Thus he has given us new life to raise again the house of our God and restore its ruins, and has granted us a protective wall in Judah and Jerusalem. ^ezra-09-9
 
@@ -55,7 +54,7 @@ url: https://bible.usccb.org/bible/ezra/9
 
 14 shall we again violate your commandments by intermarrying with these abominable peoples? Would you not become so angered with us as to destroy us without remnant or survivor? ^ezra-09-14
 
-15 L ORD, God of Israel, you are just; yet we have been spared, the remnant we are today. Here we are before you in our sins. Because of all this, we can no longer stand in your presence.” ^ezra-09-15
+15 LORD, God of Israel, you are just; yet we have been spared, the remnant we are today. Here we are before you in our sins. Because of all this, we can no longer stand in your presence.” ^ezra-09-15
 
 \* (9:4) All who were in dread…God of Israel: lit., “all who trembled”; these people are also mentioned at [10:3], and a similar designation occurs at [Is 66:2], [5], a text more or less contemporary with this passage. The allusion may be to a distinct social group of rigorist tendencies who supported Ezra’s marriage reform.
 

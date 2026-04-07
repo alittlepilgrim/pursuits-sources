@@ -1,33 +1,32 @@
 ---
-title: Zechariah, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 13
+title: Zechariah, Chapter 13
+url: https://bible.usccb.org/bible/zechariah/13
 aliases:
   - zechariah-13
   - Zechariah, Chapter 13
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/13
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 13
 ---
 
 # Zechariah, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **Oracles Concerning the End of False Prophecy.**
 
 1 On that day a fountain will be opened for the house of David and the inhabitants of Jerusalem, to purify from sin and uncleanness. ^zechariah-13-1
 
-2 On that day—oracle of the L ORD of hosts—I will destroy the names of the idols from the land, so that they will be mentioned no more; I will also remove the prophets and the spirit of uncleanness from the land. ^zechariah-13-2
+2 On that day—oracle of the LORD of hosts—I will destroy the names of the idols from the land, so that they will be mentioned no more; I will also remove the prophets and the spirit of uncleanness from the land. ^zechariah-13-2
 
-3 If any still prophesy, their father and mother who bore them will say, “You will not live, because you have spoken a lie in the name of the L ORD.” Their father and mother who bore them will thrust them through when they prophesy. ^zechariah-13-3
+3 If any still prophesy, their father and mother who bore them will say, “You will not live, because you have spoken a lie in the name of the LORD.” Their father and mother who bore them will thrust them through when they prophesy. ^zechariah-13-3
 
 4 On that day, all prophets will be ashamed of the visions they prophesy; and they will not put on the hairy mantle to mislead, ^zechariah-13-4
 
@@ -35,13 +34,13 @@ url: https://bible.usccb.org/bible/zechariah/13
 
 6 And if anyone asks, “What are these wounds on your chest?” each will answer, “I received these wounds in the house of my friends.” ^zechariah-13-6
 
-#### The Song of the Sword
+### The Song of the Sword
 
 7 Awake, O sword, against my shepherd, ^zechariah-13-7
 
 against the one who is my associate
 
-—oracle of the L ORD of hosts.
+—oracle of the LORD of hosts.
 
 Strike the shepherd
 
@@ -49,7 +48,7 @@ that the sheep may be scattered;
 
 I will turn my hand against the little ones.
 
-8 In all the land—oracle of the L ORD — ^zechariah-13-8
+8 In all the land—oracle of the LORD — ^zechariah-13-8
 
 two thirds of them will be cut off and perish,
 
@@ -65,7 +64,7 @@ They will call upon my name, and I will answer them;
 
 I will say, “They are my people,”
 
-and they will say, “The L ORD is my God.”
+and they will say, “The LORD is my God.”
 
 \* (13:1] – [6) False prophecy is a major theme of Second Zechariah (chaps. [9] – [14]) and figures in many other passages ([10:1] – [2]; [11]; [12:10]). Problems of idolatry and false prophecy occurred in postexilic Judah as they had in preexilic times. The understanding of the role of the prophet as an intermediary was challenged because (1) there was no king in Jerusalem, and (2) the texts of earlier prophets were beginning to be accorded the authority of prophetic tradition.
 

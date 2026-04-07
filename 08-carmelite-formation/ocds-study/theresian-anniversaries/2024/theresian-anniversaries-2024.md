@@ -1,9 +1,7 @@
 ---
-title: Theresian Anniversaries 2024 - Manuscripts B and C - Full Text
-created: 2025-08-28
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaries 2024 - Manuscripts B and C - Full Text
+author: OCD General Curia
 aliases:
   - 20251008-234404
   - Reading the Writings of Therese of the Child Jesus 2024 Manuscripts B and C
@@ -12,8 +10,10 @@ aliases:
   - theresian-anniversaries-2024
 tags:
   - subject
-author: OCD General Curia
-status: draft
+created: 2025-08-28
+modified: 2026-04-04
+publish: true
+permalink: /theresian-anniversaries-2024
 ---
 
 # Reading the Writings of Therese of the Child Jesus 2024 Manuscripts B and C - Full Text

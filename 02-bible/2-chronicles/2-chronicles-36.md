@@ -1,25 +1,24 @@
 ---
-title: 2 Chronicles, Chapter 36
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 36
+title: 2 Chronicles, Chapter 36
+url: https://bible.usccb.org/bible/2chronicles/36
 aliases:
   - 2 Chronicles, Chapter 36
   - 2-chronicles-36
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/36
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 36
 ---
 
 # 2 Chronicles, Chapter 36
 
-### Chapter 36
+## Chapter 36
 
 **Jehoahaz.**
 
@@ -33,51 +32,51 @@ url: https://bible.usccb.org/bible/2chronicles/36
 
 **Jehoiakim.**
 
-5 Jehoiakim was twenty-five years old when he became king, and he reigned eleven years in Jerusalem. He did what was evil in the sight of the L ORD, his God. ^2-chronicles-36-5
+5 Jehoiakim was twenty-five years old when he became king, and he reigned eleven years in Jerusalem. He did what was evil in the sight of the LORD, his God. ^2-chronicles-36-5
 
 6 Nebuchadnezzar, king of Babylon, attacked and bound him in chains to take him to Babylon. ^2-chronicles-36-6
 
-7 Nebuchadnezzar also carried away to Babylon some of the vessels of the house of the L ORD and put them in his palace in Babylon. ^2-chronicles-36-7
+7 Nebuchadnezzar also carried away to Babylon some of the vessels of the house of the LORD and put them in his palace in Babylon. ^2-chronicles-36-7
 
 8 The rest of the acts of Jehoiakim, the abominable things that he did, and what therefore happened to him, are recorded in the book of the kings of Israel and Judah. His son Jehoiachin succeeded him as king. ^2-chronicles-36-8
 
 **Jehoiachin.**
 
-9 Jehoiachin was eighteen years old when he became king, and he reigned three months and ten days in Jerusalem. He did what was evil in the L ORD’s sight. ^2-chronicles-36-9
+9 Jehoiachin was eighteen years old when he became king, and he reigned three months and ten days in Jerusalem. He did what was evil in the LORD’s sight. ^2-chronicles-36-9
 
-10 At the turn of the year, King Nebuchadnezzar sent for him and had him brought to Babylon, along with precious vessels from the house of the L ORD. He made his brother Zedekiah king over Judah and Jerusalem. ^2-chronicles-36-10
+10 At the turn of the year, King Nebuchadnezzar sent for him and had him brought to Babylon, along with precious vessels from the house of the LORD. He made his brother Zedekiah king over Judah and Jerusalem. ^2-chronicles-36-10
 
 **Zedekiah.**
 
 11 Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem. ^2-chronicles-36-11
 
-12 He did what was evil in the sight of the L ORD, his God, and he did not humble himself before Jeremiah the prophet, who spoke for the L ORD. ^2-chronicles-36-12
+12 He did what was evil in the sight of the LORD, his God, and he did not humble himself before Jeremiah the prophet, who spoke for the LORD. ^2-chronicles-36-12
 
-13 He also rebelled against King Nebuchadnezzar, who had made him swear by God. He became stiff-necked and hardened his heart rather than return to the L ORD, the God of Israel. ^2-chronicles-36-13
+13 He also rebelled against King Nebuchadnezzar, who had made him swear by God. He became stiff-necked and hardened his heart rather than return to the LORD, the God of Israel. ^2-chronicles-36-13
 
-14 Likewise all the princes of Judah, the priests, and the people added treachery to treachery, practicing all the abominations of the nations and defiling the L ORD’s house which he had consecrated in Jerusalem. ^2-chronicles-36-14
+14 Likewise all the princes of Judah, the priests, and the people added treachery to treachery, practicing all the abominations of the nations and defiling the LORD’s house which he had consecrated in Jerusalem. ^2-chronicles-36-14
 
 **The Fall of Judah.**
 
-15 Early and often the L ORD, the God of their ancestors, sent his messengers to them, for he had compassion on his people and his dwelling place. ^2-chronicles-36-15
+15 Early and often the LORD, the God of their ancestors, sent his messengers to them, for he had compassion on his people and his dwelling place. ^2-chronicles-36-15
 
-16 But they mocked God’s messengers, despised his words, and scoffed at his prophets, until the L ORD’s anger against his people blazed up beyond remedy. ^2-chronicles-36-16
+16 But they mocked God’s messengers, despised his words, and scoffed at his prophets, until the LORD’s anger against his people blazed up beyond remedy. ^2-chronicles-36-16
 
 17 Then he brought up against them the king of the Chaldeans, who killed their young men with the sword in their own sanctuary, with compassion for neither young men nor young women, neither the old nor the infirm; all of them he delivered into his power. ^2-chronicles-36-17
 
-18 All the utensils of the house of God, large and small, the treasures of the L ORD’s house, and the treasures of the king and his princes, all these he brought to Babylon. ^2-chronicles-36-18
+18 All the utensils of the house of God, large and small, the treasures of the LORD’s house, and the treasures of the king and his princes, all these he brought to Babylon. ^2-chronicles-36-18
 
 19 They burnt the house of God, tore down the walls of Jerusalem, burnt down all its palaces, and destroyed all its precious objects. ^2-chronicles-36-19
 
 20 Those who escaped the sword he carried captive to Babylon, where they became servants to him and his sons until the Persian kingdom came to power. ^2-chronicles-36-20
 
-21 All this was to fulfill the word of the L ORD spoken by Jeremiah: Until the land has retrieved its lost sabbaths, during all the time it lies waste it shall have rest while seventy years are fulfilled. ^2-chronicles-36-21
+21 All this was to fulfill the word of the LORD spoken by Jeremiah: Until the land has retrieved its lost sabbaths, during all the time it lies waste it shall have rest while seventy years are fulfilled. ^2-chronicles-36-21
 
 **Decree of Cyrus.**
 
-22 In the first year of Cyrus, king of Persia, in order to realize the word of the L ORD spoken by Jeremiah, the L ORD roused the spirit of Cyrus, King of Persia, to spread this proclamation throughout his kingdom, both by word of mouth and in writing: ^2-chronicles-36-22
+22 In the first year of Cyrus, king of Persia, in order to realize the word of the LORD spoken by Jeremiah, the LORD roused the spirit of Cyrus, King of Persia, to spread this proclamation throughout his kingdom, both by word of mouth and in writing: ^2-chronicles-36-22
 
-23 “Thus says Cyrus, king of Persia: The L ORD, the God of heaven, has given to me all the kingdoms of the earth. He has also charged me to build him a house in Jerusalem, which is in Judah. All among you, therefore, who belong to his people, may their God be with them; let them go up.” ^2-chronicles-36-23
+23 “Thus says Cyrus, king of Persia: The LORD, the God of heaven, has given to me all the kingdoms of the earth. He has also charged me to build him a house in Jerusalem, which is in Judah. All among you, therefore, who belong to his people, may their God be with them; let them go up.” ^2-chronicles-36-23
 
 \* (36:6) Nebuchadnezzar…bound him in chains to take him to Babylon: the Chronicler does not state that Jehoiakim was actually taken to Babylon. According to [[2-kings-24|2 Kgs 24]]:1 – [6], Jehoiakim revolted after being Nebuchadnezzar’s vassal for three years; he died in Jerusalem before the city surrendered to the Babylonians. [Dn 1:1] – [2], apparently based on [2 Chr 36:6] – [7], does speak of Jehoiakim’s deportation to Babylon.
 

@@ -1,29 +1,28 @@
 ---
-title: Joel, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joel, Chapter 1
+title: Joel, Chapter 1
+url: https://bible.usccb.org/bible/joel/1
 aliases:
   - joel-01
   - Joel, Chapter 1
 tags:
+  - bible/chapter
   - bible/joel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/joel/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Joel, Chapter 1
 ---
 
 # Joel, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-1 The word of the L ORD which came to Joel, the son of Pethuel. ^joel-01-1
+1 The word of the LORD which came to Joel, the son of Pethuel. ^joel-01-1
 
-## I. Announcement of Unprecedented Disaster
+# I. Announcement of Unprecedented Disaster
 
 2 Listen to this, you elders! ^joel-01-2
 
@@ -81,11 +80,11 @@ for the husband of her youth.
 
 9 Grain offering and libation are cut off ^joel-01-9
 
-from the house of the L ORD;
+from the house of the LORD;
 
 In mourning are the priests,
 
-the ministers of the L ORD.
+the ministers of the LORD.
 
 10 The field is devastated; ^joel-01-10
 
@@ -117,7 +116,7 @@ Joy itself has dried up
 
 among the people.
 
-#### Cry out to the Lord
+## Cry out to the Lord
 
 13 Gird yourselves and lament, you priests! ^joel-01-13
 
@@ -139,13 +138,13 @@ Gather the elders,
 
 all who dwell in the land,
 
-To the house of the L ORD, your God,
+To the house of the LORD, your God,
 
-and cry out to the L ORD!
+and cry out to the LORD!
 
 15 O! The day! ^joel-01-15
 
-For near is the day of the L ORD,
+For near is the day of the LORD,
 
 like destruction from the Almighty it is coming!
 
@@ -173,7 +172,7 @@ Because they have no pasture,
 
 even the flocks of sheep are starving.
 
-19 To you, L ORD, I cry! ^joel-01-19
+19 To you, LORD, I cry! ^joel-01-19
 
 for fire has devoured the wilderness pastures,
 

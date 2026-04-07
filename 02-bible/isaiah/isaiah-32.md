@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 32
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 32
+title: Isaiah, Chapter 32
+url: https://bible.usccb.org/bible/isaiah/32
 aliases:
   - isaiah-32
   - Isaiah, Chapter 32
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/32
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 32
 ---
 
 # Isaiah, Chapter 32
 
-### Chapter 32
+## Chapter 32
 
-#### The Kingdom of Justice
+### The Kingdom of Justice
 
 1 See, a king will reign justly ^isaiah-32-1
 
@@ -53,7 +52,7 @@ his heart plans evil:
 
 Godless actions,
 
-perverse speech against the L ORD,
+perverse speech against the LORD,
 
 Letting the hungry go empty
 
@@ -71,7 +70,7 @@ and the needy when they plead their case.
 
 and in noble deeds they persist.
 
-#### The Women of Jerusalem
+### The Women of Jerusalem
 
 9 You women so complacent, rise up and hear my voice, ^isaiah-32-9
 

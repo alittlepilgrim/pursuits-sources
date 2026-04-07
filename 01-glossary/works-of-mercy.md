@@ -1,15 +1,16 @@
 ---
-title: Works of Mercy
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: works-of-mercy. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Works of Mercy
 aliases:
   - Works of Mercy
   - works-of-mercy
 tags:
   - term/works-of-mercy
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: works-of-mercy. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Works of Mercy

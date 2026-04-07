@@ -1,26 +1,28 @@
 ---
-title: R - Social Doctrine of the Church Analytical Index
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: false
+title: R - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - R - Social Doctrine of the Church Analytical Index
   - sd-10-index-r
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic ChurchCatholic Church
+created: 2025-11-14
+modified: 2026-04-06
+publish: false
 ---
 
 # R - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Race - Racism
+## Race - Racism
 
 Equality between people and their race, [[sd-03-part-I#^csdc-144|144]]
 
@@ -30,13 +32,13 @@ Racism and racial discrimination, [[sd-04-part-II#^csdc-433|433]]
 
 Culture without racial discrimination, [[sd-05-part-III#^csdc-557|557]]
 
-### Rearing Children
+## Rearing Children
 
 (see Also [[sd-10-index-o#Educate|Educate]])
 
 Human rights and the right to have and rear children, [[sd-03-part-I#^csdc-155|155]]
 
-### Reason
+## Reason
 
 The why of things and human reason, [[sd-02-intro#^csdc-15|15]]
 
@@ -66,7 +68,7 @@ Relations between peoples, law and reason, [[sd-04-part-II#^csdc-433|433]]
 
 Prudence, virtue of practical reason, [[sd-05-part-III#^csdc-548|548]]
 
-### Reconciliation
+## Reconciliation
 
 Social doctrine and a reconciled society, [[sd-03-part-I#^csdc-82|82]]
 
@@ -90,13 +92,13 @@ Reconciliation, justice and truth, [[sd-04-part-II#^csdc-518|518]]
 
 Reconciliation and social commitment, [[sd-05-part-III#^csdc-539|539]]
 
-### Recourse to Arms
+## Recourse to Arms
 
 (see Also [[sd-10-index-o#Struggle|Struggle]], [[sd-10-index-f#Fight|Fight]], [[sd-10-index-e#Effort to Destroy|Effort to Destroy]], [[sd-10-index-b#Battle|Battle]])
 
 Right to resistance and recourse to arms, [[sd-04-part-II#^csdc-401|401]]
 
-### Reform
+## Reform
 
 Public leaders and reform, [[sd-03-part-I#^csdc-197|197]]
 
@@ -104,7 +106,7 @@ Reform of society and the task of education, [[sd-03-part-I#^csdc-198|198]]*
 
 Policies of agrarian reform, [[sd-04-part-II#^csdc-300|300]]
 
-### Refugees
+## Refugees
 
 Refugees, victims of war, [[sd-04-part-II#^csdc-505|505]]
 
@@ -112,7 +114,7 @@ The Church, pastoral presence and refugees, [[sd-04-part-II#^csdc-505|505]]
 
 Refugees and human rights, [[sd-04-part-II#^csdc-505|505]]
 
-### Regime
+## Regime
 
 _Quadragesimo Anno_ and totalitarian regimes, [[sd-03-part-I#^csdc-91|91]]
 
@@ -128,7 +130,7 @@ Values and political regimes, [[sd-04-part-II#^csdc-386|386]]
 
 A people, rulers and political regime, [[sd-04-part-II#^csdc-395|395]]
 
-### Religion - Religious
+## Religion - Religious
 
 (see Also [[sd-10-index-o#Men and Women Religious|Men and Women Religious]])
 
@@ -186,11 +188,11 @@ Autonomy of the State, truth and specific religions, [[sd-05-part-III#^csdc-571|
 
 Autonomy of the State and religious confession, [[sd-05-part-III#^csdc-572|572]]
 
-### Religious Community
+## Religious Community
 
 - See [[sd-10-index-c#Christian Community|Christian Community]]
 
-### Remuneration
+## Remuneration
 
 (see Also [[sd-10-index-o#Salary|Salary]])
 
@@ -200,7 +202,7 @@ Workers and fair remuneration, [[sd-04-part-II#^csdc-301|301]]
 
 Contract, justice and remuneration, [[sd-04-part-II#^csdc-302|302]]
 
-### Resource
+## Resource
 
 (see Also [[sd-10-index-o#Financial Resources|Financial Resources]])
 
@@ -280,7 +282,7 @@ Pastoral activity in society and believers as a resource, [[sd-05-part-III#^csdc
 
 Social doctrine, a resource of formation, [[sd-05-part-III#^csdc-528|528]]
 
-### Responsible - Responsibility
+## Responsible - Responsibility
 
 One sole destiny, humanity and joint responsibility, [[sd-02-intro#^csdc-6|6]]
 
@@ -454,7 +456,7 @@ Political life and tasks of responsibility, [[sd-05-part-III#^csdc-566|566]]
 
 Charity and those who are responsible for the good of peoples, [[sd-06-conclusion#^csdc-581|581]]
 
-### Rest
+## Rest
 
 (see Also [[sd-10-index-o#Fallow|Fallow]])
 
@@ -470,7 +472,7 @@ Public authorities and time for rest, [[sd-04-part-II#^csdc-286|286]]
 
 Dignity of workers and the right to rest from work, [[sd-04-part-II#^csdc-301|301]]
 
-### Revolution
+## Revolution
 
 The industrial revolution and the labour question, [[sd-03-part-I#^csdc-88|88]]
 
@@ -482,9 +484,9 @@ The industrial revolution and new forms of work, [[sd-04-part-II#^csdc-311|311]]
 
 The French revolution and Christian ideas, [[sd-04-part-II#^csdc-390|390]]*
 
-### Rich - Riches - See [[sd-10-index-w#Wealth|Wealth]]
+## Rich - Riches - See [[sd-10-index-w#Wealth|Wealth]]
 
-### Right
+## Right
 
 People of the Covenant and the right of the poor, [[sd-03-part-I#^csdc-23|23]]
 
@@ -678,7 +680,7 @@ Right to a human and civil culture, [[sd-05-part-III#^csdc-557|557]]
 
 Moral truths and right to a community, [[sd-05-part-III#^csdc-571|571]]
 
-### Rights
+## Rights
 
 The Church and contempt for human rights, [[sd-02-intro#^csdc-5|5]]
 
@@ -856,7 +858,7 @@ Need for a sense and awareness of rights, [[sd-06-conclusion#^csdc-575|575]]
 
 Charity and respect of the rights of others, [[sd-06-conclusion#^csdc-583|583]]
 
-### Ruler
+## Ruler
 
 (see Also [[sd-10-index-o#Govern|Govern]])
 
@@ -864,6 +866,6 @@ Prayer for rulers, [[sd-04-part-II#^csdc-381|381]]
 
 Power and snares used by Satan to rule men, [[sd-04-part-II#^csdc-382|382]]
 
-### Rural
+## Rural
 
 See [[sd-10-index-a#Agriculture|Agriculture]]

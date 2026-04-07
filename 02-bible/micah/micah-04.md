@@ -1,29 +1,28 @@
 ---
-title: Micah, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Micah, Chapter 4
+title: Micah, Chapter 4
+url: https://bible.usccb.org/bible/micah/4
 aliases:
   - micah-04
   - Micah, Chapter 4
 tags:
+  - bible/chapter
   - bible/micah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/micah/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Micah, Chapter 4
 ---
 
 # Micah, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 In days to come ^micah-04-1
 
-the mount of the L ORD’s house
+the mount of the LORD’s house
 
 Shall be established as the highest mountain;
 
@@ -33,7 +32,7 @@ And peoples shall stream to it:
 
 2 Many nations shall come, and say, ^micah-04-2
 
-“Come, let us climb the L ORD’s mountain,
+“Come, let us climb the LORD’s mountain,
 
 to the house of the God of Jacob,
 
@@ -43,7 +42,7 @@ that we may walk in his paths.”
 
 For from Zion shall go forth instruction,
 
-and the word of the L ORD from Jerusalem.
+and the word of the LORD from Jerusalem.
 
 3 He shall judge between many peoples ^micah-04-3
 
@@ -61,17 +60,17 @@ nor shall they train for war again.
 
 under their own fig trees, undisturbed;
 
-for the L ORD of hosts has spoken.
+for the LORD of hosts has spoken.
 
 5 Though all the peoples walk, ^micah-04-5
 
 each in the name of its god,
 
-We will walk in the name of the L ORD,
+We will walk in the name of the LORD,
 
 our God, forever and ever.
 
-6 On that day—oracle of the L ORD — ^micah-04-6
+6 On that day—oracle of the LORD — ^micah-04-6
 
 I will gather the lame,
 
@@ -83,7 +82,7 @@ and those whom I have afflicted.
 
 and of the weak a strong nation;
 
-The L ORD shall be king over them on Mount Zion,
+The LORD shall be king over them on Mount Zion,
 
 from now on and forever.
 
@@ -121,7 +120,7 @@ To Babylon you shall go,
 
 there you shall be rescued.
 
-There the L ORD shall redeem you
+There the LORD shall redeem you
 
 from the hand of your enemies.
 
@@ -131,7 +130,7 @@ They say, “Let her be profaned,
 
 let our eyes see Zion’s downfall!”
 
-12 But they do not know the thoughts of the L ORD, ^micah-04-12
+12 But they do not know the thoughts of the LORD, ^micah-04-12
 
 nor understand his plan:
 
@@ -147,7 +146,7 @@ And your hoofs I will make bronze,
 
 that you may crush many peoples;
 
-You shall devote their spoils to the L ORD,
+You shall devote their spoils to the LORD,
 
 their riches to the Lord of the whole earth.
 
@@ -161,7 +160,7 @@ the ruler of Israel.
 
 \* (4:1] – [4) This magnificent prophecy of salvation is almost identical to [Is 2:2] – [5], with the exception of its last verse. See also [Jl 4:9] – [10], which transforms the promise into a call to war. It is not known if Micah or an editor of the book picked up the announcement from his contemporary Isaiah or if Isaiah borrowed it from Micah. Perhaps both Isaiah and Micah depended upon another, more ancient tradition. The ground of the prophetic hope voiced here is the justice and grace of the God who has chosen Israel. The basis for peace shall be a just order where all are obedient to the divine will. While the vision is a universal one, including all peoples and nations (vv. [3] – [4]), its center and wellspring is the Temple of the Lord of Israel on Mount Zion in Jerusalem.
 
-\* (4:6] – [8) An announcement of salvation proclaiming that the Lord will restore the lame and afflicted people of God as a nation on Mount Zion. Oracle of the L ORD: a phrase used extensively in prophetic books to indicate divine speech.
+\* (4:6] – [8) An announcement of salvation proclaiming that the Lord will restore the lame and afflicted people of God as a nation on Mount Zion. Oracle of the LORD: a phrase used extensively in prophetic books to indicate divine speech.
 
 \* (4:8) Tower of the flock: in Hebrew *migdal-eder,* a place name in [Gn 35:21].
 
@@ -169,7 +168,7 @@ the ruler of Israel.
 
 \* (4:11] – [13) The nations who have ridiculed Zion (v. [11]) will be threshed like grain (v. [13]).
 
-\* (4:13) Devote their spoils to the L ORD: the fulfillment of the ancient ordinance of the holy war in which all plunder taken in the war was “put under the ban,” i.e., belonged to the Lord.
+\* (4:13) Devote their spoils to the LORD: the fulfillment of the ancient ordinance of the holy war in which all plunder taken in the war was “put under the ban,” i.e., belonged to the Lord.
 
 \* (4:14) Grieve, O grieving daughter!: the Hebrew actually reflects the ancient Near Eastern mourning practice of afflicting oneself with cuts and gashes, as evidence of grief. A literal rendering would be “gash yourself, O woman who gashes.”
 

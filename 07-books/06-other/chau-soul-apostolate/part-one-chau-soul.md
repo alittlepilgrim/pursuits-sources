@@ -1,12 +1,15 @@
 ---
-title: Part One – The Soul of the Apostolate
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: false
+title: Part One – The Soul of the Apostolate
+author: Dom Chautard
 aliases:
   - Part One – The Soul of the Apostolate
-author: Dom Chautard
+tags:
+  - author/chautard-dom
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: false
 ---
 
 # Part One – The Soul of the Apostolate
@@ -31,7 +34,7 @@ Then, too, at every stage of her history, the Church has received valuable help 
 
 A wonderful and encouraging sight, indeed, this providential harvest of works springing up just when they are most needed and in precisely the way that the situation seems
 
-###### Footnotes
+#### Footnotes
 
 4 _Ad communem legem id pertinet qua Deus providentissimis, uti homines plerumque fere per homines_
 
@@ -57,7 +60,7 @@ In the vegetable and animal order, living beings can grow and multiply: but stil
 
 Per Dominum nostrum Jesum Christum. Per Ipsum et cum Ipso et in Ipso.8
 
-###### Footnotes
+#### Footnotes
 
 5 _Ego autem libentissime impendam et superimpenar ipse pro animabus vestries_. (II Cor. xii: 15.
 
@@ -388,7 +391,7 @@ This truth was well expressed by one of our great bishops, overburdened as he wa
 
 Let us not speak of the lazy man or the spiritual glutton for whom the interior lifeconsists in the delights of a pleasurable idleness, and who are much more avid for theconsolations of God than for the God of consolations. They have only a false piety. But
 
-###### Footnotes
+#### Footnotes
 
 36 Ps. iv.
 

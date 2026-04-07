@@ -1,25 +1,24 @@
 ---
-title: 2 Maccabees, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Maccabees, Chapter
+title: 2 Maccabees, Chapter 7
+url: https://bible.usccb.org/bible/2maccabees/1
 aliases:
   - 2 Maccabees, Chapter 7
   - 2-maccabees-07
 tags:
   - bible/2-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2maccabees/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Maccabees, Chapter
 ---
 
 # 2 Maccabees, Chapter 7
 
-### Chapter
+## Chapter
 
 **Martyrdom of a Mother and Her Seven Sons.**
 
@@ -122,4 +121,4 @@ e. (7:22]–[23]] [2 Mc 7:11], [28]; [Jb 1:10]–[12]; [Ps 139:13]–[16];�
 
 f. (7:32]] [2 Mc 5:17]; [6:12]–[16]; [7:16]–[19].
 
-## V. Victories of Judas and Purification of the Temple
+# V. Victories of Judas and Purification of the Temple

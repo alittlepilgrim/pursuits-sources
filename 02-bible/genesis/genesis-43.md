@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 43
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 43
+title: Genesis, Chapter 43
+url: https://bible.usccb.org/bible/genesis/43
 aliases:
   - 20250508-020351
   - genesis-43
   - Genesis, Chapter 43
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 43
 bible_book: genesis
 bible_chapter: "43"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/43
 ---
 
 [[genesis-42|[← Previous Note]]] · [[genesis-44|[Next Note →]]]
@@ -123,6 +122,6 @@ i. (43:29) [Gn 42:13]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-02|[← Previous Note]]] · [[genesis-04|[Next Note →]]]

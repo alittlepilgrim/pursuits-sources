@@ -1,35 +1,26 @@
 ---
-title: TOC - Introduction to the Devout Life by St. Francis of Sales
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: Classic manual of Christian devotion written for lay people living in the world; practical counsel on prayer, virtue, temptations, and a balanced rule of life.
+title: TOC - Introduction to the Devout Life by St. Francis of Sales
+author: Saint Francis de Sales
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/d/desales/devout_life/cache/devout_life.txt
 aliases:
   - Introduction to the Devout Life by St. Francis of Sales
   - Introduction To The Devout Life by St. Francis Of Sales
   - Introduction To The Devout Life By St. Francis Of Sales
 tags:
-  - author/francis-de-sales
-  - book
-  - book/introduction-devout-life
-  - saint/francis-de-sales
-  - subject/spiritual-classics
-  - subject/spirituality
+  - author/saint-francis-de-sales
   - type/book
-author: Saint Francis de Sales
-dates: 1567–1622
-edition: Public domain; CCEL transcription
-link: https://ccel.org/ccel/d/desales/devout_life/cache/devout_life.txt
-series: Library of Spiritual Works for English Catholics
-source: Christian Classics Ethereal Library (CCEL)
-status: in-progress
-translator: Public-domain English translation (Library of Spiritual Works for English Catholics)
+created: 2025-09-12
+modified: 2026-04-06
+publish: true
+permalink: /introduction-to-the-devout-life-by-saint-francis-of-sales
+description: Classic manual of Christian devotion written for lay people living in the world; practical counsel on prayer, virtue, temptations, and a balanced rule of life.
 ---
 
 # Introduction to the Devout Life by St. Francis of Sales
 
-
+[Online Source](https://ccel.org/ccel/d/desales/devout_life/cache/devout_life.txt)
 
 # Table of Contents
 

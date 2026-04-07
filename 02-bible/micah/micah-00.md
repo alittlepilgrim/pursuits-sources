@@ -1,25 +1,25 @@
 ---
-title: Micah, The Book of Micah
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: micah-the book of micah
+title: Micah, The Book of Micah
+url: https://bible.usccb.org/bible/micah/0
 aliases:
   - micah-00
   - Micah, the Book of Micah
   - Micah, The Book of Micah
 tags:
+  - bible/book
   - bible/micah
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/micah/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: micah-the book of micah
 ---
 
 # Micah, the Book of Micah
 
-       
+[Introduction](micah-00.md) [1](micah-01.md) [2](micah-02.md) [3](micah-03.md) [4](micah-04.md) [5](micah-05.md) [6](micah-06.md) [7](micah-07.md)
 
 ## The Book of Micah
 

@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 25
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 25
+title: Isaiah, Chapter 25
+url: https://bible.usccb.org/bible/isaiah/25
 aliases:
   - isaiah-25
   - Isaiah, Chapter 25
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/25
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 25
 ---
 
 # Isaiah, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
-#### Praise for God’s Deliverance and the Celebration in Zion
+### Praise for God’s Deliverance and the Celebration in Zion
 
-1 O L ORD, you are my God, ^isaiah-25-1
+1 O LORD, you are my God, ^isaiah-25-1
 
 I extol you, I praise your name;
 
@@ -59,7 +58,7 @@ You subdued the heat with the shade of a cloud,
 
 the rain of the tyrants was vanquished.
 
-6 On this mountain the L ORD of hosts ^isaiah-25-6
+6 On this mountain the LORD of hosts ^isaiah-25-6
 
 will provide for all peoples
 
@@ -81,19 +80,19 @@ the tears from all faces;
 
 The reproach of his people he will remove
 
-from the whole earth; for the L ORD has spoken.
+from the whole earth; for the LORD has spoken.
 
 9 On that day it will be said: ^isaiah-25-9
 
 “Indeed, this is our God; we looked to him, and he saved us!
 
-This is the L ORD to whom we looked;
+This is the LORD to whom we looked;
 
 let us rejoice and be glad that he has saved us!”
 
-#### Judgment on Moab
+### Judgment on Moab
 
-10 For the hand of the L ORD will rest on this mountain, ^isaiah-25-10
+10 For the hand of the LORD will rest on this mountain, ^isaiah-25-10
 
 but Moab will be trodden down
 

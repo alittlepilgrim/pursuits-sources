@@ -1,30 +1,28 @@
 ---
-title: Joshua, Chapter 8
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 8
+title: Joshua, Chapter 8
+url: https://bible.usccb.org/bible/joshua/8
 aliases:
   - joshua-08
   - Joshua, Chapter 8
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/8
-testament: old
-url: https://bible.usccb.org/bible/joshua/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 8
 ---
 
 # Joshua, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Capture of Ai.**
 
-1 The L ORD then said to Joshua: Do not be afraid or dismayed. Take all the army with you and prepare to attack Ai. I have delivered the king of Ai into your power, with his people, city, and land. ^joshua-08-1
+1 The LORD then said to Joshua: Do not be afraid or dismayed. Take all the army with you and prepare to attack Ai. I have delivered the king of Ai into your power, with his people, city, and land. ^joshua-08-1
 
 2 Do to Ai and its king what you did to Jericho and its king—except that you may take its spoil and livestock as plunder. Set an ambush behind the city. ^joshua-08-2
 
@@ -36,9 +34,9 @@ url: https://bible.usccb.org/bible/joshua/8
 
 6 They will keep coming out after us until we have drawn them away from the city, for they will think, ‘They are fleeing from us as they did the last time.’ When we flee, ^joshua-08-6
 
-7 then you rise from ambush and take possession of the city, which the L ORD, your God, will deliver into your power. ^joshua-08-7
+7 then you rise from ambush and take possession of the city, which the LORD, your God, will deliver into your power. ^joshua-08-7
 
-8 When you have taken the city, set it on fire in obedience to the L ORD’s command. These are my orders to you.” ^joshua-08-8
+8 When you have taken the city, set it on fire in obedience to the LORD’s command. These are my orders to you.” ^joshua-08-8
 
 9 Then Joshua sent them away. They went to the place of ambush, taking up their position to the west of Ai, toward Bethel. Joshua, however, spent that night with the army. ^joshua-08-9
 
@@ -58,7 +56,7 @@ url: https://bible.usccb.org/bible/joshua/8
 
 17 not a soldier remained in Ai or Bethel. They abandoned the city, leaving it open, as they pursued Israel. ^joshua-08-17
 
-18 Then the L ORD directed Joshua: Stretch out the javelin in your hand toward Ai, for I will deliver it into your power. Joshua stretched out the javelin in his hand toward the city, ^joshua-08-18
+18 Then the LORD directed Joshua: Stretch out the javelin in your hand toward Ai, for I will deliver it into your power. Joshua stretched out the javelin in his hand toward the city, ^joshua-08-18
 
 19 and as soon as he did so, the men in ambush rose from their post, rushed in, captured the city, and immediately set it on fire. ^joshua-08-19
 
@@ -76,7 +74,7 @@ url: https://bible.usccb.org/bible/joshua/8
 
 26 Joshua kept the javelin in his hand stretched out until he had carried out the ban on all the inhabitants of Ai. ^joshua-08-26
 
-27 However, the Israelites took for themselves as plunder the livestock and the spoil of that city, according to the command of the L ORD issued to Joshua. ^joshua-08-27
+27 However, the Israelites took for themselves as plunder the livestock and the spoil of that city, according to the command of the LORD issued to Joshua. ^joshua-08-27
 
 28 Then Joshua destroyed Ai by fire, reducing it to an everlasting mound of ruins, as it remains today. ^joshua-08-28
 
@@ -84,13 +82,13 @@ url: https://bible.usccb.org/bible/joshua/8
 
 **Altar on Mount Ebal.**
 
-30 Later, on Mount Ebal, Joshua built to the L ORD, the God of Israel, an altar ^joshua-08-30
+30 Later, on Mount Ebal, Joshua built to the LORD, the God of Israel, an altar ^joshua-08-30
 
-31 of unhewn stones on which no iron tool had been used, just as Moses, the servant of the L ORD, had commanded the Israelites, as recorded in the book of the law. On this altar they sacrificed burnt offerings to the L ORD and made communion sacrifices. ^joshua-08-31
+31 of unhewn stones on which no iron tool had been used, just as Moses, the servant of the LORD, had commanded the Israelites, as recorded in the book of the law. On this altar they sacrificed burnt offerings to the LORD and made communion sacrifices. ^joshua-08-31
 
 32 There, in the presence of the Israelites, Joshua inscribed upon the stones a copy of the law written by Moses. ^joshua-08-32
 
-33 And all Israel, resident alien and native alike, with their elders, officers, and judges, stood on either side of the ark facing the levitical priests who were carrying the ark of the covenant of the L ORD. Half of them were facing Mount Gerizim and half Mount Ebal, just as Moses, the servant of the L ORD, had first commanded for the blessing of the people of Israel. ^joshua-08-33
+33 And all Israel, resident alien and native alike, with their elders, officers, and judges, stood on either side of the ark facing the levitical priests who were carrying the ark of the covenant of the LORD. Half of them were facing Mount Gerizim and half Mount Ebal, just as Moses, the servant of the LORD, had first commanded for the blessing of the people of Israel. ^joshua-08-33
 
 34 Then were read aloud all the words of the law, the blessings and the curses, exactly as written in the book of the law. ^joshua-08-34
 

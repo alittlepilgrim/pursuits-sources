@@ -1,31 +1,30 @@
 ---
-title: Hosea, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 8
+title: Hosea, Chapter 8
+url: https://bible.usccb.org/bible/hosea/8
 aliases:
   - hosea-08
   - Hosea, Chapter 8
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 8
 ---
 
 # Hosea, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
-#### Corruption of Cult, Domestic and Foreign Politics
+### Corruption of Cult, Domestic and Foreign Politics
 
 1 Put the trumpet to your lips! ^hosea-08-1
 
-One like an eagle is over the house of the L ORD!
+One like an eagle is over the house of the LORD!
 
 Because they have violated my covenant,
 
@@ -109,7 +108,7 @@ they are considered like a stranger’s.
 
 they sacrifice meat and eat it,
 
-but the L ORD is not pleased with them.
+but the LORD is not pleased with them.
 
 Now he will remember their guilt
 

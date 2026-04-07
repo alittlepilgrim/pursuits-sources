@@ -1,31 +1,30 @@
 ---
-title: Deuteronomy, Chapter 14
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 14
+title: Deuteronomy, Chapter 14
+url: https://bible.usccb.org/bible/deuteronomy/14
 aliases:
   - deuteronomy-14
   - Deuteronomy, Chapter 14
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/14
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 14
 ---
 
 # Deuteronomy, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 **Improper Mourning Rites.**
 
-1 You are children of the L ORD, your God. You shall not gash yourselves nor shave the hair above your foreheads for the dead. ^deuteronomy-14-1
+1 You are children of the LORD, your God. You shall not gash yourselves nor shave the hair above your foreheads for the dead. ^deuteronomy-14-1
 
-2 For you are a people holy to the L ORD, your God; the L ORD, your God, has chosen you from all the peoples on the face of the earth to be a people specially his own. ^deuteronomy-14-2
+2 For you are a people holy to the LORD, your God; the LORD, your God, has chosen you from all the peoples on the face of the earth to be a people specially his own. ^deuteronomy-14-2
 
 **Clean and Unclean Animals.**
 
@@ -65,7 +64,7 @@ url: https://bible.usccb.org/bible/deuteronomy/14
 
 20 Any clean winged creatures you may eat. ^deuteronomy-14-20
 
-21 You shall not eat the carcass of any animal that has died of itself; but you may give it to a resident alien within your gates to eat, or you may sell it to a foreigner. For you are a people holy to the L ORD, your God. ^deuteronomy-14-21
+21 You shall not eat the carcass of any animal that has died of itself; but you may give it to a resident alien within your gates to eat, or you may sell it to a foreigner. For you are a people holy to the LORD, your God. ^deuteronomy-14-21
 
 You shall not boil a young goat in its mother’s milk.
 
@@ -73,19 +72,19 @@ You shall not boil a young goat in its mother’s milk.
 
 22 Each year you shall tithe all the produce of your seed that grows in the field; ^deuteronomy-14-22
 
-23 then in the place which the L ORD, your God, chooses as the dwelling place of his name you shall eat in his presence the tithe of your grain, wine and oil, as well as the firstlings of your herd and flock, that you may learn always to fear the L ORD, your God. ^deuteronomy-14-23
+23 then in the place which the LORD, your God, chooses as the dwelling place of his name you shall eat in his presence the tithe of your grain, wine and oil, as well as the firstlings of your herd and flock, that you may learn always to fear the LORD, your God. ^deuteronomy-14-23
 
-24 But if, when the L ORD, your God, blesses you, the journey is too much for you and you are not able to bring your tithe, because the place which the L ORD, your God, chooses to put his name is too far for you, ^deuteronomy-14-24
+24 But if, when the LORD, your God, blesses you, the journey is too much for you and you are not able to bring your tithe, because the place which the LORD, your God, chooses to put his name is too far for you, ^deuteronomy-14-24
 
-25 you may exchange the tithe for money, and with the money securely in hand, go to the place which the L ORD, your God, chooses. ^deuteronomy-14-25
+25 you may exchange the tithe for money, and with the money securely in hand, go to the place which the LORD, your God, chooses. ^deuteronomy-14-25
 
-26 You may then exchange the money for whatever you desire, oxen or sheep, wine or beer, or anything else you want, and there in the presence of the L ORD, your God, you shall consume it and rejoice, you and your household together. ^deuteronomy-14-26
+26 You may then exchange the money for whatever you desire, oxen or sheep, wine or beer, or anything else you want, and there in the presence of the LORD, your God, you shall consume it and rejoice, you and your household together. ^deuteronomy-14-26
 
 27 But do not neglect the Levite within your gates, for he has no hereditary portion with you. ^deuteronomy-14-27
 
 28 At the end of every third year you shall bring out all the tithes of your produce for that year and deposit them within your own communities, ^deuteronomy-14-28
 
-29 that the Levite who has no hereditary portion with you, and also the resident alien, the orphan and the widow within your gates, may come and eat and be satisfied; so that the L ORD, your God, may bless you in all that you undertake. ^deuteronomy-14-29
+29 that the Levite who has no hereditary portion with you, and also the resident alien, the orphan and the widow within your gates, may come and eat and be satisfied; so that the LORD, your God, may bless you in all that you undertake. ^deuteronomy-14-29
 
 \* (14:12] – [18) The identification of several of the birds in these verses is uncertain.
 

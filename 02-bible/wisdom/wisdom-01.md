@@ -1,31 +1,30 @@
 ---
-title: Wisdom, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 1
+title: Wisdom, Chapter 1
+url: https://bible.usccb.org/bible/wisdom/1
 aliases:
   - wisdom-01
   - Wisdom, Chapter 1
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 1
 ---
 
 # Wisdom, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-#### Exhortation to Righteousness, the Key to Life
+### Exhortation to Righteousness, the Key to Life
 
 1 Love righteousness, you who judge the earth; ^wisdom-01-1
 
-think of the L ORD in goodness,
+think of the LORD in goodness,
 
 and seek him in integrity of heart;
 
@@ -57,7 +56,7 @@ and the sure observer of the heart
 
 and the listener to the tongue.
 
-7 For the spirit of the L ORD fills the world, ^wisdom-01-7
+7 For the spirit of the LORD fills the world, ^wisdom-01-7
 
 is all-embracing, and knows whatever is said.
 
@@ -67,7 +66,7 @@ nor will chastising condemnation pass them by.
 
 9 For the devices of the wicked shall be scrutinized, ^wisdom-01-9
 
-and the sound of their words shall reach the L ORD,
+and the sound of their words shall reach the LORD,
 
 for the chastisement of their transgressions;
 
@@ -101,7 +100,7 @@ nor any domain of Hades on earth,
 
 15 For righteousness is undying. ^wisdom-01-15
 
-#### The Wicked Reject Immortality and Righteousness Alike
+### The Wicked Reject Immortality and Righteousness Alike
 
 16 It was the wicked who with hands and words invited death, ^wisdom-01-16
 

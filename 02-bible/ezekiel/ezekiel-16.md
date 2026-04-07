@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 16
+title: Ezekiel, Chapter 16
+url: https://bible.usccb.org/bible/ezekiel/16
 aliases:
   - ezekiel-16
   - Ezekiel, Chapter 16
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 16
 ---
 
 # Ezekiel, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **A Parable of Infidelity.**
 
-1 The word of the L ORD came to me: ^ezekiel-16-1
+1 The word of the LORD came to me: ^ezekiel-16-1
 
 2 Son of man, make known to Jerusalem her abominations. ^ezekiel-16-2
 
@@ -89,7 +88,7 @@ url: https://bible.usccb.org/bible/ezekiel/16
 
 34 Thus in your prostitution you were different from any other woman. No one solicited you for prostitution. Instead, you yourself offered payment; what a reversal! ^ezekiel-16-34
 
-35 Therefore, prostitute, hear the word of the L ORD! ^ezekiel-16-35
+35 Therefore, prostitute, hear the word of the LORD! ^ezekiel-16-35
 
 36 Thus says the Lord G OD: Because you poured out your lust and exposed your nakedness in your prostitution with your lovers and your abominable idols, because you gave the life-blood of your children to them, ^ezekiel-16-36
 
@@ -135,7 +134,7 @@ url: https://bible.usccb.org/bible/ezekiel/16
 
 57 before your evil was exposed? Now you are like her, reproached by the Arameans and all their neighbors, despised on all sides by the Philistines. ^ezekiel-16-57
 
-58 The penalty of your depravity and your abominations—you must bear it all—oracle of the L ORD. ^ezekiel-16-58
+58 The penalty of your depravity and your abominations—you must bear it all—oracle of the LORD. ^ezekiel-16-58
 
 59 For thus says the Lord G OD: I will deal with you for what you did; you despised an oath by breaking a covenant. ^ezekiel-16-59
 
@@ -143,7 +142,7 @@ url: https://bible.usccb.org/bible/ezekiel/16
 
 61 Then you shall remember your ways and be ashamed when you receive your sisters, those older and younger than you; I give them to you as daughters, but not by reason of your covenant. ^ezekiel-16-61
 
-62 For I will re-establish my covenant with you, that you may know that I am the L ORD, ^ezekiel-16-62
+62 For I will re-establish my covenant with you, that you may know that I am the LORD, ^ezekiel-16-62
 
 63 that you may remember and be ashamed, and never again open your mouth because of your disgrace, when I pardon you for all you have done—oracle of the Lord G OD. ^ezekiel-16-63
 

@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 2
+title: Ezekiel, Chapter 2
+url: https://bible.usccb.org/bible/ezekiel/2
 aliases:
   - ezekiel-02
   - Ezekiel, Chapter 2
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 2
 ---
 
 # Ezekiel, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Eating of the Scroll.**
 

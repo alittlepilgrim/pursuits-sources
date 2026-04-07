@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 7
+title: 1 Kings, Chapter 7
+url: https://bible.usccb.org/bible/1kings/7
 aliases:
   - 1 Kings, Chapter 7
   - 1-kings-07
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/7
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 7
 ---
 
 # 1 Kings, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 1 To finish the building of his own house Solomon took thirteen years. ^1-kings-07-1
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/1kings/7
 
 11 Above were fine stones hewn to size, and cedar wood. ^1-kings-07-11
 
-12 The great court had three courses of hewn stones all around and a course of cedar beams. So also were the inner court of the house of the L ORD and its porch. ^1-kings-07-12
+12 The great court had three courses of hewn stones all around and a course of cedar beams. So also were the inner court of the house of the LORD and its porch. ^1-kings-07-12
 
 13 King Solomon brought Hiram from Tyre. ^1-kings-07-13
 
@@ -99,7 +98,7 @@ url: https://bible.usccb.org/bible/1kings/7
 
 39 He placed the stands, five on the south side of the house and five on the north. The sea he placed off to the southeast from the south side of the house. ^1-kings-07-39
 
-40 When Hiram had made the pots, shovels, and bowls, he finished all his work for King Solomon in the house of the L ORD: ^1-kings-07-40
+40 When Hiram had made the pots, shovels, and bowls, he finished all his work for King Solomon in the house of the LORD: ^1-kings-07-40
 
 41 two columns; two nodes for the capitals on top of the columns; two pieces of netting covering the two nodes for the capitals on top of the columns; ^1-kings-07-41
 
@@ -109,17 +108,17 @@ url: https://bible.usccb.org/bible/1kings/7
 
 44 one sea; twelve oxen supporting the sea; ^1-kings-07-44
 
-45 pots, shovels, and bowls. All these articles which Hiram made for King Solomon in the house of the L ORD were of burnished bronze. ^1-kings-07-45
+45 pots, shovels, and bowls. All these articles which Hiram made for King Solomon in the house of the LORD were of burnished bronze. ^1-kings-07-45
 
 46 The king had them cast in the neighborhood of the Jordan, between Succoth and Zarethan, in thick clay molds. ^1-kings-07-46
 
 47 Solomon did not weigh all the articles because they were so numerous; the weight of the bronze, therefore, was not determined. ^1-kings-07-47
 
-48 Solomon made all the articles that were for the house of the L ORD: the golden altar; the table on which the showbread lay; ^1-kings-07-48
+48 Solomon made all the articles that were for the house of the LORD: the golden altar; the table on which the showbread lay; ^1-kings-07-48
 
 49 the lampstands of pure gold, five to the right and five to the left before the inner sanctuary; their flowers, lamps, and tongs of gold; ^1-kings-07-49
 
-51 When all the work undertaken by King Solomon in the house of the L ORD was completed, he brought in the votive offerings of his father David, and put the silver, gold, and other articles in the treasuries of the house of the L ORD. ^1-kings-07-51
+51 When all the work undertaken by King Solomon in the house of the LORD was completed, he brought in the votive offerings of his father David, and put the silver, gold, and other articles in the treasuries of the house of the LORD. ^1-kings-07-51
 
 \* (7:1] – [12]\] The account of Solomon’s building of the Temple (the Lord’s “house”) is interrupted by an account of his building of the palace (Solomon’s “house”), which contained also the main buildings of public administration. The passage is anachronistic, since [6:38] – [7:1] and [9:10] imply that the palace was not begun until the Temple was completed. By placing the account here, the narrator highlights the fact that Solomon spent almost twice as long on his own “house” as on the Lord’s.
 

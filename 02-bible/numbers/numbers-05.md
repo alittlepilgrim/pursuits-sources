@@ -1,45 +1,44 @@
 ---
-title: Numbers, Chapter 5
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 5
+title: Numbers, Chapter 5
+url: https://bible.usccb.org/bible/numbers/5
 aliases:
   - numbers-05
   - Numbers, Chapter 5
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 5
 ---
 
 # Numbers, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **The Unclean Expelled.**
 
-1 The L ORD said to Moses: ^numbers-05-1
+1 The LORD said to Moses: ^numbers-05-1
 
 2 Order the Israelites to expel from camp everyone with a scaly infection, and everyone suffering from a discharge, and everyone who has become unclean by contact with a corpse. ^numbers-05-2
 
 3 Male and female alike, you shall expel them. You shall expel them from the camp so that they do not defile their camp, where I dwell in their midst. ^numbers-05-3
 
-4 This the Israelites did, expelling them from the camp; just as the L ORD had commanded Moses, so the Israelites did. ^numbers-05-4
+4 This the Israelites did, expelling them from the camp; just as the LORD had commanded Moses, so the Israelites did. ^numbers-05-4
 
 **Unjust Possession.**
 
-5 The L ORD said to Moses: ^numbers-05-5
+5 The LORD said to Moses: ^numbers-05-5
 
-6 Tell the Israelites: If a man or a woman commits any offense against another person, thus breaking faith with the L ORD, and thereby becomes guilty, ^numbers-05-6
+6 Tell the Israelites: If a man or a woman commits any offense against another person, thus breaking faith with the LORD, and thereby becomes guilty, ^numbers-05-6
 
 7 that person shall confess the wrong that has been done, make restitution in full, and in addition give one fifth of its value to the one that has been wronged. ^numbers-05-7
 
-8 However, if there is no next of kin, one to whom restitution can be made, the restitution shall be made to the L ORD and shall fall to the priest; this is apart from the ram of atonement with which the priest makes atonement for the guilty individual. ^numbers-05-8
+8 However, if there is no next of kin, one to whom restitution can be made, the restitution shall be made to the LORD and shall fall to the priest; this is apart from the ram of atonement with which the priest makes atonement for the guilty individual. ^numbers-05-8
 
 9 Likewise, every contribution among the sacred offerings that the Israelites present to the priest will belong to him. ^numbers-05-9
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/numbers/5
 
 **Ordeal for Suspected [[adultery]].**
 
-11 The L ORD said to Moses: ^numbers-05-11
+11 The LORD said to Moses: ^numbers-05-11
 
 12 Speak to the Israelites and tell them: If a man’s wife goes astray and becomes unfaithful to him ^numbers-05-12
 
@@ -57,17 +56,17 @@ url: https://bible.usccb.org/bible/numbers/5
 
 15 then the man shall bring his wife to the priest as well as an offering on her behalf, a tenth of an ephah of barley meal. However, he shall not pour oil on it nor put frankincense over it, since it is a grain offering of jealousy, a grain offering of remembrance which recalls wrongdoing. ^numbers-05-15
 
-16 The priest shall first have the woman come forward and stand before the L ORD. ^numbers-05-16
+16 The priest shall first have the woman come forward and stand before the LORD. ^numbers-05-16
 
 17 In an earthen vessel he shall take holy water, as well as some dust from the floor of the tabernacle and put it in the water. ^numbers-05-17
 
-18 Making the woman stand before the L ORD, the priest shall uncover her head and place in her hands the grain offering of remembrance, that is, the grain offering of jealousy, while he himself shall hold the water of bitterness that brings a curse. ^numbers-05-18
+18 Making the woman stand before the LORD, the priest shall uncover her head and place in her hands the grain offering of remembrance, that is, the grain offering of jealousy, while he himself shall hold the water of bitterness that brings a curse. ^numbers-05-18
 
 19 Then the priest shall adjure the woman, saying to her, “If no other man has had intercourse with you, and you have not gone astray by defiling yourself while under the authority of your husband, be immune to this water of bitterness that brings a curse. ^numbers-05-19
 
 20 But if you have gone astray while under the authority of your husband, and if you have defiled yourself and a man other than your husband has had intercourse with you”— ^numbers-05-20
 
-21 so shall the priest adjure the woman with this imprecation—“may the L ORD make you a curse and malediction among your people by causing your uterus to fall and your belly to swell! ^numbers-05-21
+21 so shall the priest adjure the woman with this imprecation—“may the LORD make you a curse and malediction among your people by causing your uterus to fall and your belly to swell! ^numbers-05-21
 
 22 May this water, then, that brings a curse, enter your bowels to make your belly swell and your uterus fall!” And the woman shall say, “Amen, amen!” ^numbers-05-22
 
@@ -75,7 +74,7 @@ url: https://bible.usccb.org/bible/numbers/5
 
 24 and he will have the woman drink the water of bitterness that brings a curse, so that the water that brings a curse may enter into her to her bitter hurt. ^numbers-05-24
 
-25 But first the priest shall take the grain offering of jealousy from the woman’s hand, and having elevated the grain offering before the L ORD, shall bring it to the altar, ^numbers-05-25
+25 But first the priest shall take the grain offering of jealousy from the woman’s hand, and having elevated the grain offering before the LORD, shall bring it to the altar, ^numbers-05-25
 
 26 where he shall take a handful of the grain offering as a token offering and burn it on the altar. Only then shall he have the woman drink the water. ^numbers-05-26
 
@@ -85,7 +84,7 @@ url: https://bible.usccb.org/bible/numbers/5
 
 29 This, then, is the ritual for jealousy when a woman goes astray while under the authority of her husband and defiles herself, ^numbers-05-29
 
-30 or when such a feeling of jealousy comes over a man that he becomes suspicious of his wife; he shall have her stand before the L ORD, and the priest shall perform this entire ritual for her. ^numbers-05-30
+30 or when such a feeling of jealousy comes over a man that he becomes suspicious of his wife; he shall have her stand before the LORD, and the priest shall perform this entire ritual for her. ^numbers-05-30
 
 31 The man shall be free from punishment, but the woman shall bear her punishment. ^numbers-05-31
 

@@ -1,29 +1,28 @@
 ---
-title: Deuteronomy, Chapter 21
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 21
+title: Deuteronomy, Chapter 21
+url: https://bible.usccb.org/bible/deuteronomy/21
 aliases:
   - deuteronomy-21
   - Deuteronomy, Chapter 21
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/21
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 21
 ---
 
 # Deuteronomy, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **Absolution of Untraced Murder.**
 
-1 If the corpse of someone who has been slain is found lying in the open, in the land the L ORD, your God, is giving you to possess, and it is not known who killed the person, ^deuteronomy-21-1
+1 If the corpse of someone who has been slain is found lying in the open, in the land the LORD, your God, is giving you to possess, and it is not known who killed the person, ^deuteronomy-21-1
 
 2 your elders and judges shall go out and measure the distances to the cities that are in the neighborhood of the corpse. ^deuteronomy-21-2
 
@@ -31,19 +30,19 @@ url: https://bible.usccb.org/bible/deuteronomy/21
 
 4 the elders of that city shall bring the heifer down to a wadi with an everflowing stream at a place that has not been plowed or sown, and shall break the heifer’s neck there in the wadi. ^deuteronomy-21-4
 
-5 The priests, the descendants of Levi, shall come forward, for the L ORD, your God, has chosen them to minister to him and to bless in the name of the L ORD, and every case of dispute or assault shall be for them to decide. ^deuteronomy-21-5
+5 The priests, the descendants of Levi, shall come forward, for the LORD, your God, has chosen them to minister to him and to bless in the name of the LORD, and every case of dispute or assault shall be for them to decide. ^deuteronomy-21-5
 
 6 Then all the elders of that city nearest the corpse shall wash their hands over the heifer whose neck was broken in the wadi, ^deuteronomy-21-6
 
 7 and shall declare, “Our hands did not shed this blood, and our eyes did not see the deed. ^deuteronomy-21-7
 
-8 Absolve, O L ORD, your people Israel, whom you have redeemed, and do not let the guilt of shedding innocent blood remain in the midst of your people Israel.” Thus they shall be absolved from the guilt of bloodshed, ^deuteronomy-21-8
+8 Absolve, O LORD, your people Israel, whom you have redeemed, and do not let the guilt of shedding innocent blood remain in the midst of your people Israel.” Thus they shall be absolved from the guilt of bloodshed, ^deuteronomy-21-8
 
-9 and you shall purge the innocent blood from your midst, and do what is right in the eyes of the L ORD. ^deuteronomy-21-9
+9 and you shall purge the innocent blood from your midst, and do what is right in the eyes of the LORD. ^deuteronomy-21-9
 
 **Marriage with a Female Captive.**
 
-10 When you go out to war against your enemies and the L ORD, your God, delivers them into your power, so that you take captives, ^deuteronomy-21-10
+10 When you go out to war against your enemies and the LORD, your God, delivers them into your power, so that you take captives, ^deuteronomy-21-10
 
 11 if you see a beautiful woman among the captives and become so enamored of her that you wish to have her as a wife, ^deuteronomy-21-11
 
@@ -73,7 +72,7 @@ url: https://bible.usccb.org/bible/deuteronomy/21
 
 22 If a man guilty of a capital offense is put to death and you hang him on a tree, ^deuteronomy-21-22
 
-23 his corpse shall not remain on the tree overnight. You must bury it the same day; anyone who is hanged is a curse of God. You shall not defile the land which the L ORD, your God, is giving you as a heritage. ^deuteronomy-21-23
+23 his corpse shall not remain on the tree overnight. You must bury it the same day; anyone who is hanged is a curse of God. You shall not defile the land which the LORD, your God, is giving you as a heritage. ^deuteronomy-21-23
 
 \* (21:1] – [9) This law has to do with absolving the community of bloodguilt that accrues to it and to the land when a homicide occurs and the murderer cannot be identified and punished.
 

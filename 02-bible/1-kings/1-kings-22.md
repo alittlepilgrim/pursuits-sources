@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 22
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 22
+title: 1 Kings, Chapter 22
+url: https://bible.usccb.org/bible/1kings/22
 aliases:
   - 1 Kings, Chapter 22
   - 1-kings-22
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/22
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 22
 ---
 
 # 1 Kings, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 **Ahab’s Defeat by Aram.**
 
@@ -33,29 +32,29 @@ url: https://bible.usccb.org/bible/1kings/22
 
 **Prophetic Condemnation.**
 
-5 Jehoshaphat also said to the king of Israel, “Seek the word of the L ORD at once.” ^1-kings-22-5
+5 Jehoshaphat also said to the king of Israel, “Seek the word of the LORD at once.” ^1-kings-22-5
 
 6 The king of Israel assembled the prophets, about four hundred of them, and asked, “Shall I go to fight against Ramoth-gilead or shall I refrain?” They said, “Attack. The Lord will give it into the power of the king.” ^1-kings-22-6
 
-7 But Jehoshaphat said, “Is there no other prophet of the L ORD here we might consult?” ^1-kings-22-7
+7 But Jehoshaphat said, “Is there no other prophet of the LORD here we might consult?” ^1-kings-22-7
 
-8 The king of Israel answered, “There is one other man through whom we might consult the L ORD; but I hate him because he prophesies not good but evil about me. He is Micaiah, son of Imlah.” Jehoshaphat said, “Let not the king say that.” ^1-kings-22-8
+8 The king of Israel answered, “There is one other man through whom we might consult the LORD; but I hate him because he prophesies not good but evil about me. He is Micaiah, son of Imlah.” Jehoshaphat said, “Let not the king say that.” ^1-kings-22-8
 
 9 So the king of Israel called an official and said to him, “Get Micaiah, son of Imlah, at once.” ^1-kings-22-9
 
 10 The king of Israel and Jehoshaphat, king of Judah, were seated, each on his throne, clothed in their robes of state in the square at the entrance of the gate of Samaria, and all the prophets were prophesying before them. ^1-kings-22-10
 
-11 Zedekiah, son of Chenaanah, made himself two horns of iron and said, “The L ORD says, With these you shall gore Aram until you have destroyed them.” ^1-kings-22-11
+11 Zedekiah, son of Chenaanah, made himself two horns of iron and said, “The LORD says, With these you shall gore Aram until you have destroyed them.” ^1-kings-22-11
 
-12 The other prophets prophesied in a similar vein, saying: “Attack Ramoth-gilead and conquer! The L ORD will give it into the power of the king.” ^1-kings-22-12
+12 The other prophets prophesied in a similar vein, saying: “Attack Ramoth-gilead and conquer! The LORD will give it into the power of the king.” ^1-kings-22-12
 
 13 Meanwhile, the messenger who had gone to call Micaiah said to him, “Look now, the prophets are unanimously predicting good for the king. Let your word be the same as any of theirs; speak a good word.” ^1-kings-22-13
 
-14 Micaiah said, “As the L ORD lives, I shall speak whatever the L ORD tells me.” ^1-kings-22-14
+14 Micaiah said, “As the LORD lives, I shall speak whatever the LORD tells me.” ^1-kings-22-14
 
-15 When he came to the king, the king said to him, “Micaiah, shall we go to fight at Ramoth-gilead, or shall we refrain?” He said, “Attack and conquer! The L ORD will give it into the power of the king.” ^1-kings-22-15
+15 When he came to the king, the king said to him, “Micaiah, shall we go to fight at Ramoth-gilead, or shall we refrain?” He said, “Attack and conquer! The LORD will give it into the power of the king.” ^1-kings-22-15
 
-16 But the king answered him, “How many times must I adjure you to tell me nothing but the truth in the name of the L ORD?” ^1-kings-22-16
+16 But the king answered him, “How many times must I adjure you to tell me nothing but the truth in the name of the LORD?” ^1-kings-22-16
 
 17 So Micaiah said: ^1-kings-22-17
 
@@ -65,7 +64,7 @@ scattered on the mountains,
 
 like sheep without a shepherd,
 
-And the L ORD saying,
+And the LORD saying,
 
 These have no master!
 
@@ -73,17 +72,17 @@ Let each of them go back home in peace.”
 
 18 The king of Israel said to Jehoshaphat, “Did I not tell you, he does not prophesy good about me, but only evil?” ^1-kings-22-18
 
-19 Micaiah continued: “Therefore hear the word of the L ORD: I saw the L ORD seated on his throne, with the whole host of heaven standing to his right and to his left. ^1-kings-22-19
+19 Micaiah continued: “Therefore hear the word of the LORD: I saw the LORD seated on his throne, with the whole host of heaven standing to his right and to his left. ^1-kings-22-19
 
-20 The L ORD asked: Who will deceive Ahab, so that he will go up and fall on Ramoth-gilead? And one said this, another that, ^1-kings-22-20
+20 The LORD asked: Who will deceive Ahab, so that he will go up and fall on Ramoth-gilead? And one said this, another that, ^1-kings-22-20
 
-21 until this spirit came forth and stood before the L ORD, saying, ‘I will deceive him.’ The L ORD asked: How? ^1-kings-22-21
+21 until this spirit came forth and stood before the LORD, saying, ‘I will deceive him.’ The LORD asked: How? ^1-kings-22-21
 
-22 He answered, ‘I will go forth and become a lying spirit in the mouths of all his prophets.’ The L ORD replied: You shall succeed in deceiving him. Go forth and do this. ^1-kings-22-22
+22 He answered, ‘I will go forth and become a lying spirit in the mouths of all his prophets.’ The LORD replied: You shall succeed in deceiving him. Go forth and do this. ^1-kings-22-22
 
-23 So now, the L ORD has put a lying spirit in the mouths of all these prophets of yours; the L ORD himself has decreed evil against you.” ^1-kings-22-23
+23 So now, the LORD has put a lying spirit in the mouths of all these prophets of yours; the LORD himself has decreed evil against you.” ^1-kings-22-23
 
-24 Thereupon Zedekiah, son of Chenaanah, came up and struck Micaiah on the cheek, saying, “Has the spirit of the L ORD, then, left me to speak with you?” ^1-kings-22-24
+24 Thereupon Zedekiah, son of Chenaanah, came up and struck Micaiah on the cheek, saying, “Has the spirit of the LORD, then, left me to speak with you?” ^1-kings-22-24
 
 25 Micaiah said, “You shall find out on the day you go into an inner room to hide.” ^1-kings-22-25
 
@@ -91,7 +90,7 @@ Let each of them go back home in peace.”
 
 27 and say, ‘This is the king’s order: Put this man in prison and feed him scanty rations of bread and water until I come back in safety.’” ^1-kings-22-27
 
-28 But Micaiah said, “If you return in safety, the L ORD has not spoken through me.” (He also said, “Hear, O peoples, all of you.”) ^1-kings-22-28
+28 But Micaiah said, “If you return in safety, the LORD has not spoken through me.” (He also said, “Hear, O peoples, all of you.”) ^1-kings-22-28
 
 **Ahab at Ramoth-gilead.**
 
@@ -113,7 +112,7 @@ Let each of them go back home in peace.”
 
 37 And so the king died, and came back to Samaria, and they buried him there. ^1-kings-22-37
 
-38 When they washed out the chariot at the pool of Samaria, the dogs licked up his blood and prostitutes bathed there, as the L ORD had prophesied. ^1-kings-22-38
+38 When they washed out the chariot at the pool of Samaria, the dogs licked up his blood and prostitutes bathed there, as the LORD had prophesied. ^1-kings-22-38
 
 39 The rest of the acts of Ahab, with all that he did, including the ivory house he built and all the cities he built, are recorded in the book of the chronicles of the kings of Israel. ^1-kings-22-39
 
@@ -125,7 +124,7 @@ Let each of them go back home in peace.”
 
 42 Jehoshaphat was thirty-five years old when he became king, and he reigned twenty-five years in Jerusalem. His mother’s name was Azubah, daughter of Shilhi. ^1-kings-22-42
 
-43 He walked in the way of Asa his father unceasingly, doing what was right in the L ORD’s sight. ^1-kings-22-43
+43 He walked in the way of Asa his father unceasingly, doing what was right in the LORD’s sight. ^1-kings-22-43
 
 44 Nevertheless, the high places did not disappear, and the people still sacrificed on the high places and burned incense there. ^1-kings-22-44
 
@@ -147,13 +146,13 @@ Let each of them go back home in peace.”
 
 52 Ahaziah, son of Ahab, became king over Israel in Samaria in the seventeenth year of Jehoshaphat, king of Judah; he reigned two years over Israel. ^1-kings-22-52
 
-53 He did what was evil in the sight of the L ORD, walking in the way of his father, his mother, and Jeroboam, son of Nebat, who caused Israel to sin. ^1-kings-22-53
+53 He did what was evil in the sight of the LORD, walking in the way of his father, his mother, and Jeroboam, son of Nebat, who caused Israel to sin. ^1-kings-22-53
 
-54 He served Baal and worshiped him, thus provoking the L ORD, the God of Israel, just as his father had done. ^1-kings-22-54
+54 He served Baal and worshiped him, thus provoking the LORD, the God of Israel, just as his father had done. ^1-kings-22-54
 
 \* (22:1] – [40]\] This chapter presents a contrasting parallel to chap. [20], where Ahab enjoyed victories over Aram’s aggression. Here Ahab is the aggressor, but falls in battle against Aram. Like the preceding chapters, it contains a story of Ahab plus an episode of prophetic condemnation. The story ends with the formulaic conclusion to Ahab’s reign (vv. [39] – [40]). Chronicles has a parallel version of this account in [2 Chr 18:1] – [34]. After the story of Ahab’s death come accounts of the reign of Jehoshaphat (paralleled in [2 Chr 20:31] – [37]) and of the beginning of the reign of Ahaziah.
 
-\* (22:6]\] Though Ahab is clearly intended to understand the oracle as prophesying his success, the prophets’ words are ambiguous. “The lord” (not “the L ORD,” i.e., the proper name of Israel’s God) who will give victory is unidentified, as is the king to whom it will be given.
+\* (22:6]\] Though Ahab is clearly intended to understand the oracle as prophesying his success, the prophets’ words are ambiguous. “The lord” (not “the LORD,” i.e., the proper name of Israel’s God) who will give victory is unidentified, as is the king to whom it will be given.
 
 \* (22:11]\] The “two” horns probably symbolize the coalition of two kings, Ahab and Jehoshaphat.
 

@@ -1,10 +1,7 @@
 ---
-title: May 16, Saint Simon Stock
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: May 16, Saint Simon Stock
+author: OCD General Curia
 aliases:
   - 05-16-st-simon-stock
   - 20250731-121449
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 05-16
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # May 16, Saint Simon Stock
@@ -30,7 +31,7 @@ _In the houses in the United Kingdom and Ireland_: Memorial
 
 From the Common of Holy Men (Religious)
 
-###### Office of Readings
+## Office of Readings
 
 **The Second Reading**
 
@@ -60,7 +61,7 @@ R/. O that I had wings like a dove, to fly away and be at rest; * so I would 
 
 V/. The world and its cravings pass away, but those who do God’s will stand firm for ever. * So I would escape far away, and take refuge in the desert (alleluia).
 
-###### Morning Prayer
+## Morning Prayer
 
 **Canticle of Zechariah**
 
@@ -86,7 +87,7 @@ Who lives and reigns with You and the Holy Spirit,
 
 God, for ever and ever.
 
-###### Evening Prayer
+## Evening Prayer
 
 **Canticle of Mary**
 

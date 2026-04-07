@@ -1,10 +1,7 @@
 ---
-title: 2 Kings – Chapter Index
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: 2 Kings, Chapter Index
+title: 2 Kings – Chapter Index
+url: https://bible.usccb.org/bible/2kings/1
 aliases:
   - 2 Kings – Chapter Index
   - 2 Kings, Chapter Index
@@ -12,12 +9,13 @@ aliases:
   - 20250730-120258
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-graph-layer: canon
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/2kings/1
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter Index
 ---
 
 # 2 Kings – Chapter Index

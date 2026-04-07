@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 16
+title: Wisdom, Chapter 16
+url: https://bible.usccb.org/bible/wisdom/16
 aliases:
   - wisdom-16
   - Wisdom, Chapter 16
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/16
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 16
 ---
 
 # Wisdom, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 1 Therefore they were fittingly punished by similar creatures, ^wisdom-16-1
 
@@ -85,7 +84,7 @@ and become unresponsive to your beneficence.
 
 12 For indeed, neither herb nor application cured them, ^wisdom-16-12
 
-but your all-healing word, O L ORD!
+but your all-healing word, O LORD!
 
 13 For you have dominion over life and death; ^wisdom-16-13
 
@@ -99,7 +98,7 @@ or release the soul that death has confined.
 
 15 Your hand no one can escape. ^wisdom-16-15
 
-#### Third Example: a Rain of Manna for Israel Instead of the Plague of Storms
+### Third Example: a Rain of Manna for Israel Instead of the Plague of Storms
 
 16 For the wicked who refused to know you ^wisdom-16-16
 
@@ -161,7 +160,7 @@ it was serving your all-nourishing bounty
 
 according to what they needed and desired;
 
-26 That your children whom you loved might learn, O L ORD, ^wisdom-16-26
+26 That your children whom you loved might learn, O LORD, ^wisdom-16-26
 
 that it is not the various kinds of fruits that nourish,
 

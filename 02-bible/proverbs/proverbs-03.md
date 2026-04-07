@@ -1,27 +1,26 @@
 ---
-title: Proverbs, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 3
+title: Proverbs, Chapter 3
+url: https://bible.usccb.org/bible/proverbs/3
 aliases:
   - proverbs-03
   - Proverbs, Chapter 3
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/3
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 3
 ---
 
 # Proverbs, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### Confidence in God Leads to Prosperity
+### Confidence in God Leads to Prosperity
 
 1 My son, do not forget my teaching, ^proverbs-03-1
 
@@ -41,7 +40,7 @@ write them on the tablet of your heart.
 
 before God and human beings.
 
-5 Trust in the L ORD with all your heart, ^proverbs-03-5
+5 Trust in the LORD with all your heart, ^proverbs-03-5
 
 on your own intelligence do not rely;
 
@@ -51,13 +50,13 @@ and he will make straight your paths.
 
 7 Do not be wise in your own eyes, ^proverbs-03-7
 
-fear the L ORD and turn away from evil;
+fear the LORD and turn away from evil;
 
 8 This will mean health for your flesh ^proverbs-03-8
 
 and vigor for your bones.
 
-9 Honor the L ORD with your wealth, ^proverbs-03-9
+9 Honor the LORD with your wealth, ^proverbs-03-9
 
 with first fruits of all your produce;
 
@@ -65,15 +64,15 @@ with first fruits of all your produce;
 
 with new wine your vats will overflow.
 
-11 The discipline of the L ORD, my son, do not spurn; ^proverbs-03-11
+11 The discipline of the LORD, my son, do not spurn; ^proverbs-03-11
 
 do not disdain his reproof;
 
-12 For whom the L ORD loves he reproves, ^proverbs-03-12
+12 For whom the LORD loves he reproves, ^proverbs-03-12
 
 as a father, the son he favors.
 
-#### The Benefits of Finding Wisdom
+### The Benefits of Finding Wisdom
 
 13 Happy the one who finds wisdom, ^proverbs-03-13
 
@@ -99,7 +98,7 @@ and all her paths are peace;
 
 and those who hold her fast are happy.
 
-19 The L ORD by wisdom founded the earth, ^proverbs-03-19
+19 The LORD by wisdom founded the earth, ^proverbs-03-19
 
 established the heavens by understanding;
 
@@ -107,7 +106,7 @@ established the heavens by understanding;
 
 and the clouds drop down dew.
 
-#### Justice Toward One’s Neighbor Brings Blessing
+### Justice Toward One’s Neighbor Brings Blessing
 
 21 My son, do not let these slip from your sight: ^proverbs-03-21
 
@@ -129,7 +128,7 @@ when you rest, your sleep will be sweet.
 
 of the ruin of the wicked when it comes;
 
-26 For the L ORD will be your confidence, ^proverbs-03-26
+26 For the LORD will be your confidence, ^proverbs-03-26
 
 and will keep your foot from the snare.
 
@@ -153,11 +152,11 @@ with one who has done you no harm.
 
 and choose none of their ways:
 
-32 To the L ORD the devious are an abomination, ^proverbs-03-32
+32 To the LORD the devious are an abomination, ^proverbs-03-32
 
 but the upright are close to him.
 
-33 The curse of the L ORD is on the house of the wicked, ^proverbs-03-33
+33 The curse of the LORD is on the house of the wicked, ^proverbs-03-33
 
 but the dwelling of the just he blesses;
 
@@ -171,7 +170,7 @@ but fools will bear shame.
 
 \* (3:1] – [12) The instruction consists of a series of six four-line exhortations in which the second line of each exhortation mentions a reward or benefit. In the first five exhortations, the teacher promises a reward: long life, a good name, divine protection, health, abundant crops. The last exhortation, vv. [11] – [12], departs from the command-reward scheme, implying that being a disciple of the Lord does not guarantee unalloyed bliss: one must allow God freedom to “reprove” or educate. The process of education is like that described in chap. [2]: the father first invites his son (or disciple) to memorize his teaching (v. [1]), then to enter upon a relationship of trust with him (v. [3]), and finally to place his trust in God, who takes up the parental task of education (v. [5]). Education begun by the parent is brought to full completion by God.
 
-\* (3:1) Do not forget: this word and several others in the section such as “teaching,” “commands,” “years of life,” and the custom of affixing written teaching to one’s body, occur also in Deuteronomy. This vocabulary suggests that Proverbs and Deuteronomy had a common origin in the scribal class of Jerusalem. This section (and vv. [21] – [34]) subtly elaborates [Dt 6:5] – [9], “You shall love the L ORD with all your heart (v. [5])…Take to heart these words (v. [1])…Recite them when you are at home and when you are away (v. [23])…when you lie down (v. [24])…Bind them (v. [3]) on your arm as a sign and let them be a pendant on your forehead” (v. [21]).
+\* (3:1) Do not forget: this word and several others in the section such as “teaching,” “commands,” “years of life,” and the custom of affixing written teaching to one’s body, occur also in Deuteronomy. This vocabulary suggests that Proverbs and Deuteronomy had a common origin in the scribal class of Jerusalem. This section (and vv. [21] – [34]) subtly elaborates [Dt 6:5] – [9], “You shall love the LORD with all your heart (v. [5])…Take to heart these words (v. [1])…Recite them when you are at home and when you are away (v. [23])…when you lie down (v. [24])…Bind them (v. [3]) on your arm as a sign and let them be a pendant on your forehead” (v. [21]).
 
 \* (3:12) One might be tempted to judge the quality of one’s relationship to God by one’s prosperity. It is an inadequate criterion, for God as a teacher might go counter to student expectations. The discipline of God can involve suffering.
 

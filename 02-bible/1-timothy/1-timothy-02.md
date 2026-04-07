@@ -1,25 +1,24 @@
 ---
-title: 1 Timothy, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Timothy, Chapter 2
+title: 1 Timothy, Chapter 2
+url: https://bible.usccb.org/bible/1timothy/2
 aliases:
   - 1 Timothy, Chapter 2
   - 1-timothy-02
 tags:
   - bible/1-timothy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1timothy/2
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Timothy, Chapter 2
 ---
 
 # 1 Timothy, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Prayer and Conduct.**
 
@@ -59,7 +58,7 @@ This was the testimony at the proper time.
 
 15 But she will be saved through motherhood, provided women persevere in faith and love and holiness, with self-control. ^1-timothy-02-15
 
-\* (2:1] – [7) This marked insistence that the liturgical prayer of the community concern itself with the needs of all, whether Christian or not, and especially of those in authority, may imply that a disposition existed at Ephesus to refuse prayer for pagans. In actuality, such prayer aids the community to achieve peaceful relationships with non-Christians ([1 Tm 2:2]) and contributes to salvation, since it derives its value from the presence within the community of Christ, who is the one and only savior of all ([1 Tm 2:3] – [6]). The vital apostolic mission to the Gentiles ([1 Tm 2:7]) reflects Christ’s purpose of universal salvation. [1 Tm 2:5] contains what may well have been a very primitive creed. Some interpreters have called it a Christian version of the Jewish *shema*: “Hear, O Israel, the L ORD is our God, the L ORD alone…” ([Dt 6:4] – [5]). The assertion in [1 Tm 2:7], “I am speaking the truth, I am not lying,” reminds one of similar affirmations in [Rom 9:1]; [2 Cor 11:31]; and [Gal 1:20].
+\* (2:1] – [7) This marked insistence that the liturgical prayer of the community concern itself with the needs of all, whether Christian or not, and especially of those in authority, may imply that a disposition existed at Ephesus to refuse prayer for pagans. In actuality, such prayer aids the community to achieve peaceful relationships with non-Christians ([1 Tm 2:2]) and contributes to salvation, since it derives its value from the presence within the community of Christ, who is the one and only savior of all ([1 Tm 2:3] – [6]). The vital apostolic mission to the Gentiles ([1 Tm 2:7]) reflects Christ’s purpose of universal salvation. [1 Tm 2:5] contains what may well have been a very primitive creed. Some interpreters have called it a Christian version of the Jewish *shema*: “Hear, O Israel, the LORD is our God, the LORD alone…” ([Dt 6:4] – [5]). The assertion in [1 Tm 2:7], “I am speaking the truth, I am not lying,” reminds one of similar affirmations in [Rom 9:1]; [2 Cor 11:31]; and [Gal 1:20].
 
 \* (2:6) The testimony: to make sense of this overly concise phrase, many manuscripts supply “to which” (or “to whom”); two others add “was given.” The translation has supplied “this was.”
 

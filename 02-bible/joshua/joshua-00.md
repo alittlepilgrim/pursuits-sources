@@ -1,20 +1,19 @@
 ---
-title: Joshua, The Book of Joshua
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, the Book of Joshua
+title: Joshua, The Book of Joshua
+url: https://bible.usccb.org/bible/joshua/0
 aliases:
   - joshua-00
   - Joshua, the Book of Joshua
-  - Joshua, The Book of Joshua
 tags:
+  - bible/book
   - bible/joshua
-layer: canon
-node-type: book
-source: https://bible.usccb.org/bible/joshua/0
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, the Book of Joshua
 ---
 
 # Joshua, the Book of Joshua

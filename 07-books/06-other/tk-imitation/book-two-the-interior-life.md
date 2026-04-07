@@ -1,21 +1,20 @@
 ---
-title: Book Two. the Interior Life - The Imitation of Christ
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book Two. the Interior Life - The Imitation of Christ
+title: Book Two. the Interior Life - The Imitation of Christ
+author: Thomas à Kempis
 aliases:
   - Book Two. the Interior Life - The Imitation of Christ
 tags:
-  - author/thomas-a-kempis
-  - book/imitation-of-christ
-author: Thomas à Kempis
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book Two. the Interior Life - The Imitation of Christ
 ---
 
 # Book Two. the Interior Life
 
-### Chapter 1. Meditation
+## Chapter 1. Meditation
 
 THE kingdom of God is within you," says the Lord. [9]
 
@@ -55,7 +54,7 @@ If all were well with you, therefore, and if you were purified from all sin, eve
 
 [10] John 14:23.
 
-### Chapter 2. Humility
+## Chapter 2. Humility
 
 BE NOT troubled about those who are with you or against you, but take care that God be with you in everything you do. Keep your conscience clear and God will protect you, for the malice of man cannot harm one whom God wishes to help. If you know how to suffer in silence, you will undoubtedly experience God's help. He knows when and how to deliver you; therefore, place yourself in His hands, for it is a divine prerogative to help men and free them from all distress.
 
@@ -63,7 +62,7 @@ It is often good for us to have others know our faults and rebuke them, for it g
 
 It is the humble man whom God protects and liberates; it is the humble whom He loves and consoles. To the humble He turns and upon them bestows great grace, that after their humiliation He may raise them up to glory. He reveals His secrets to the humble, and with kind invitation bids them come to Him. Thus, the humble man enjoys peace in the midst of many vexations, because his trust is in God, not in the world. Hence, you must not think that you have made any progress until you look upon yourself as inferior to all others.
 
-### Chapter 3. Goodness and Peace in Man
+## Chapter 3. Goodness and Peace in Man
 
 FIRST keep peace with yourself; then you will be able to bring peace to others. A peaceful man does more good than a learned man. Whereas a passionate man turns even good to evil and is quick to believe evil, the peaceful man, being good himself, turns all things to good.
 
@@ -79,7 +78,7 @@ Some people live at peace with themselves and with their fellow men, but others 
 
 Now, all our peace in this miserable life is found in humbly enduring suffering rather than in being free from it. He who knows best how to suffer will enjoy the greater peace, because he is the conqueror of himself, the master of the world, a friend of Christ, and an heir of heaven.
 
-### Chapter 4. Purity of Mind and Unity of Purpose
+## Chapter 4. Purity of Mind and Unity of Purpose
 
 A MAN is raised up from the earth by two wings--simplicity and purity.
 
@@ -93,7 +92,7 @@ If your heart were right, then every created thing would be a mirror of life for
 
 As iron cast into fire loses its rust and becomes glowing white, so he who turns completely to God is stripped of his sluggishness and changed into a new man. When a man begins to grow lax, he fears a little toil and welcomes external comfort, but when he begins perfectly to conquer himself and to walk bravely in the ways of God, then he thinks those things less difficult which he thought so hard before.
 
-### Chapter 5. Ourselves
+## Chapter 5. Ourselves
 
 WE MUST not rely too much upon ourselves, for grace and understanding are often lacking in us. We have but little inborn light, and this we quickly lose through negligence. Often we are not aware that we are so blind in heart. Meanwhile we do wrong, and then do worse in excusing it. At times we are moved by passion, and we think it zeal. We take others to task for small mistakes, and overlook greater ones in ourselves. We are quick enough to feel and brood over the things we suffer from others, but we think nothing of how much others suffer from us. If a man would weigh his own deeds fully and rightly, he would find little cause to pass severe judgment on others.
 
@@ -105,7 +104,7 @@ You will make great progress if you keep yourself free from all temporal cares, 
 
 Consider the consolations of creatures as vanity, for the soul that loves God scorns all things that are inferior to Him. God alone, the eternal and infinite, satisfies all, bringing comfort to the soul and true joy to the body.
 
-### Chapter 6. the Joy of a Good Conscience
+## Chapter 6. the Joy of a Good Conscience
 
 THE glory of a good man is the testimony of a good conscience.
 
@@ -131,7 +130,7 @@ To walk with God interiorly, to be free from any external affection--this is the
 
 [12] 2 Cor. 10:18.
 
-### Chapter 7. Loving Jesus Above All Things
+## Chapter 7. Loving Jesus Above All Things
 
 BLESSED is he who appreciates what it is to love Jesus and who despises himself for the sake of Jesus. Give up all other love for His, since He wishes to be loved alone above all things.
 
@@ -147,7 +146,7 @@ You will quickly be deceived if you look only to the outward appearance of men, 
 
 [13] Isa. 15:6.
 
-### Chapter 8. the Intimate Friendship of Jesus
+## Chapter 8. the Intimate Friendship of Jesus
 
 WHEN Jesus is near, all is well and nothing seems difficult. When He is absent, all is hard. When Jesus does not speak within, all other comfort is empty, but if He says only a word, it brings great consolation.
 
@@ -169,7 +168,7 @@ When the grace of God comes to a man he can do all things, but when it leaves hi
 
 [14] John 11:28.
 
-### Chapter 9. Wanting No Share in Comfort
+## Chapter 9. Wanting No Share in Comfort
 
 IT IS not hard to spurn human consolation when we have the divine. It is, however, a very great thing indeed to be able to live without either divine or human comforting and for the honor of God willingly to endure this exile of heart, not to seek oneself in anything, and to think nothing of one's own merit.
 
@@ -203,7 +202,7 @@ The devil does not sleep, nor is the flesh yet dead; therefore, you must never c
 
 [17] Apoc. 2:7.
 
-### Chapter 10. Appreciating God's Grace
+## Chapter 10. Appreciating God's Grace
 
 WHY do you look for rest when you were born to work? Resign yourself to patience rather than to comfort, to carrying your cross rather than to enjoyment.
 
@@ -225,7 +224,7 @@ Be grateful, therefore, for the least gift and you will be worthy to receive a g
 
 He who desires to keep the grace of God ought to be grateful when it is given and patient when it is withdrawn. Let him pray that it return; let him be cautious and humble lest he lose it.
 
-### Chapter 11. Few Love the Cross of Jesus
+## Chapter 11. Few Love the Cross of Jesus
 
 JESUS has always many who love His heavenly kingdom, but few who bear His cross. He has many who desire consolation, but few who care for trial. He finds many to share His table, but few to take part in His fasting. All desire to be happy with Him; few wish to suffer anything for Him. Many follow Him to the breaking of bread, but few to the drinking of the chalice of His passion. Many revere His miracles; few approach the shame of the Cross. Many love Him as long as they encounter no hardship; many praise and bless Him as long as they receive some comfort from Him. But if Jesus hides Himself and leaves them for a while, they fall either into complaints or into deep dejection. Those, on the contrary, who love Him for His own sake and not for any comfort of their own, bless Him in all trial and anguish of heart as well as in the bliss of consolation. Even if He should never give them consolation, yet they would continue to praise Him and wish always to give Him thanks. What power there is in pure love for Jesus--love that is free from all self-interest and self-love!
 
@@ -239,7 +238,7 @@ Then he will be truly poor and stripped in spirit, and with the prophet may say:
 
 [19] Ps. 24:16.
 
-### Chapter 12. the Royal Road of the Holy Cross
+## Chapter 12. the Royal Road of the Holy Cross
 
 TO MANY the saying, "Deny thyself, take up thy cross and follow Me,"
 

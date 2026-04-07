@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint Francis of Assisi
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-224200
   - francis-of-assisi-saint
@@ -13,10 +10,13 @@ tags:
   - saint
   - term/founder
   - term/preacher
-birth_date: 1181
-celebration: 10-04
+  - type/figure
+birthday: 1181
 death_date: 1226-10-03
-full_name: Saint Francis of Assisi
+celebration: 10-04
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Francis of Assisi

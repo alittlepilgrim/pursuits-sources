@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 20
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 20
+title: Sirach, Chapter 20
+url: https://bible.usccb.org/bible/sirach/20
 aliases:
   - sirach-20
   - Sirach, Chapter 20
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/20
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 20
 ---
 
 # Sirach, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
-#### Conduct of the Wise and the Foolish
+### Conduct of the Wise and the Foolish
 
 1 There is an admonition that is untimely, ^sirach-20-1
 

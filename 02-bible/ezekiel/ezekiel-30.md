@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 30
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 30
+title: Ezekiel, Chapter 30
+url: https://bible.usccb.org/bible/ezekiel/30
 aliases:
   - ezekiel-30
   - Ezekiel, Chapter 30
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/30
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 30
 ---
 
 # Ezekiel, Chapter 30
 
-### Chapter 30
+## Chapter 30
 
 **The Day of the Lord Against Egypt.**
 
-1 The word of the L ORD came to me: ^ezekiel-30-1
+1 The word of the LORD came to me: ^ezekiel-30-1
 
 2 Son of man, prophesy and say: Thus says the Lord G OD: ^ezekiel-30-2
 
@@ -55,7 +54,7 @@ and the people of allied lands
 
 shall fall by the sword with them.
 
-6 Thus says the L ORD: ^ezekiel-30-6
+6 Thus says the LORD: ^ezekiel-30-6
 
 The pillars of Egypt shall fall,
 
@@ -75,7 +74,7 @@ Its cities the most ruined
 
 among ruined cities.
 
-8 They shall know that I am the L ORD, ^ezekiel-30-8
+8 They shall know that I am the LORD, ^ezekiel-30-8
 
 when I set fire to Egypt,
 
@@ -115,7 +114,7 @@ By the hand of foreigners I will devastate
 
 the land and everything in it.
 
-I, the L ORD, have spoken.
+I, the LORD, have spoken.
 
 13 Thus says the Lord G OD: ^ezekiel-30-13
 
@@ -169,11 +168,11 @@ and its women will go into captivity.
 
 19 I will execute judgment against Egypt ^ezekiel-30-19
 
-that they may know that I am the L ORD.
+that they may know that I am the LORD.
 
 **Pharaoh’s Broken Arm.**
 
-20 On the seventh day of the first month in the eleventh year, the word of the L ORD came to me: ^ezekiel-30-20
+20 On the seventh day of the first month in the eleventh year, the word of the LORD came to me: ^ezekiel-30-20
 
 21 Son of man, I have broken the arm of Pharaoh, king of Egypt. See! It has not been immobilized for healing, nor set with a splint to make it strong enough to grasp a sword. ^ezekiel-30-21
 
@@ -183,9 +182,9 @@ that they may know that I am the L ORD.
 
 24 I will, however, strengthen the arms of the king of Babylon and put my sword in his hand so he can bring it against Egypt for plunder and pillage. ^ezekiel-30-24
 
-25 When I strengthen the arms of the king of Babylon, and the arms of Pharaoh collapse, they shall know that I am the L ORD, because I put my sword into the hand of the king of Babylon to wield against the land of Egypt. ^ezekiel-30-25
+25 When I strengthen the arms of the king of Babylon, and the arms of Pharaoh collapse, they shall know that I am the LORD, because I put my sword into the hand of the king of Babylon to wield against the land of Egypt. ^ezekiel-30-25
 
-26 When I scatter the Egyptians among the nations and disperse them throughout other lands, they shall know that I am the L ORD. ^ezekiel-30-26
+26 When I scatter the Egyptians among the nations and disperse them throughout other lands, they shall know that I am the LORD. ^ezekiel-30-26
 
 \* (30:5) Mixed rabble: mercenaries.
 

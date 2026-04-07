@@ -1,52 +1,51 @@
 ---
-title: Exodus, Chapter 20
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 20
+title: Exodus, Chapter 20
+url: https://bible.usccb.org/bible/exodus/20
 aliases:
   - 20250731-085936
   - exodus-20
   - Exodus, Chapter 20
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 20
 ---
 
 # Exodus, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **The Ten Commandments.**
 
 1 Then God spoke all these words: ^exodus-20-1
 
-2 I am the L ORD your God, who brought you out of the land of Egypt, out of the house of slavery. ^exodus-20-2
+2 I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. ^exodus-20-2
 
 3 You shall not have other gods beside me. ^exodus-20-3
 
 4 You shall not make for yourself an idol or a likeness of anything in the heavens above or on the earth below or in the waters beneath the earth; ^exodus-20-4
 
-5 you shall not bow down before them or serve them. For I, the L ORD, your God, am a jealous God, inflicting punishment for their ancestors’ wickedness on the children of those who hate me, down to the third and fourth generation; ^exodus-20-5
+5 you shall not bow down before them or serve them. For I, the LORD, your God, am a jealous God, inflicting punishment for their ancestors’ wickedness on the children of those who hate me, down to the third and fourth generation; ^exodus-20-5
 
 6 but showing love down to the thousandth generation of those who love me and keep my commandments. ^exodus-20-6
 
-7 You shall not invoke the name of the L ORD, your God, in vain. For the L ORD will not leave unpunished anyone who invokes his name in vain. ^exodus-20-7
+7 You shall not invoke the name of the LORD, your God, in vain. For the LORD will not leave unpunished anyone who invokes his name in vain. ^exodus-20-7
 
 8 Remember the sabbath day—keep it holy. ^exodus-20-8
 
 9 Six days you may labor and do all your work, ^exodus-20-9
 
-10 but the seventh day is a sabbath of the L ORD your God. You shall not do any work, either you, your son or your daughter, your male or female slave, your work animal, or the resident alien within your gates. ^exodus-20-10
+10 but the seventh day is a sabbath of the LORD your God. You shall not do any work, either you, your son or your daughter, your male or female slave, your work animal, or the resident alien within your gates. ^exodus-20-10
 
-11 For in six days the L ORD made the heavens and the earth, the sea and all that is in them; but on the seventh day he rested. That is why the L ORD has blessed the sabbath day and made it holy. ^exodus-20-11
+11 For in six days the LORD made the heavens and the earth, the sea and all that is in them; but on the seventh day he rested. That is why the LORD has blessed the sabbath day and made it holy. ^exodus-20-11
 
-12 Honor your father and your mother, that you may have a long life in the land the L ORD your God is giving you. ^3e4678 ^exodus-20-12
+12 Honor your father and your mother, that you may have a long life in the land the LORD your God is giving you. ^3e4678 ^exodus-20-12
 
 13 You shall not kill. ^exodus-20-13
 
@@ -70,7 +69,7 @@ url: https://bible.usccb.org/bible/exodus/20
 
 **The Covenant Code.**
 
-22 The L ORD said to Moses: This is what you will say to the Israelites: You have seen for yourselves that I have spoken to you from heaven. ^exodus-20-22
+22 The LORD said to Moses: This is what you will say to the Israelites: You have seen for yourselves that I have spoken to you from heaven. ^exodus-20-22
 
 23 You shall not make alongside of me gods of silver, nor shall you make for yourselves gods of gold. ^exodus-20-23
 

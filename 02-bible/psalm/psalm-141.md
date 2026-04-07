@@ -1,18 +1,17 @@
 ---
-title: Psalm 141
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 141
+title: Psalm 141
+url: https://bible.usccb.org/bible/psalms/141
 aliases:
   - Psalm 141
   - psalm-141
 tags:
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/141
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 141
 ---
 
 # Psalm 141

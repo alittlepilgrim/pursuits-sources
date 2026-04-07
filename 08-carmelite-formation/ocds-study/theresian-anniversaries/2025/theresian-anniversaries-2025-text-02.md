@@ -1,16 +1,16 @@
 ---
-title: Theresian Anniversaires 2025 - Text 2 Living on Love (Poem 17)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2025 - Text 2 Living on Love (Poem 17)
+author: OCD General Curia
 aliases:
   - Text 2 Living on Love (Poem 17)
   - Theresian Anniversaires 2025 - Text 2 Living on Love (Poem 17)
   - theresian-anniversaries-2025-text-02
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2025 - Text 2 Living on Love (Poem 17)
@@ -25,7 +25,7 @@ Suggestion for the community meeting:
 
 It would be helpful to have made individual readings and reflections on Therese’s text before the community meeting.
 
-### Living on Love (Poem 17)
+## Living on Love (Poem 17)
 
 Living on Love
 
@@ -102,7 +102,7 @@ Divine Jesus, realize my dream: Die of Love!...
 
 Of his Love I want to be set ablaze I want to see Him, unite myself to Him always Here is my Heaven... here is my destiny: Live on love!!!...
 
-### Introduction to the Text
+## Introduction to the Text
 
 One cannot fail to be struck by the note of gravity in the fervour of this poem of love, written the 26th February 1895, some months before her Act of Oblation to Merciful Love. This poem is spontaneous, not produced in response to a particular request or on the occasion of a liturgical feast or the feast of one of the community sisters.
 
@@ -122,7 +122,7 @@ Stanza 12 takes us from Saint Veronica to Saint Mary Magdalen.
 
 In Stanza 14, Therese is already hardly on earth any more, being completely oriented towards Heaven.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text.
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.

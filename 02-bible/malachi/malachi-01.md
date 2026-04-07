@@ -1,34 +1,34 @@
 ---
-title: Malachi, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Malachi, Chapter 1
+title: Malachi, Chapter 1
+url: https://bible.usccb.org/bible/malachi/1
 aliases:
   - malachi-01
   - Malachi, Chapter 1
 tags:
+  - bible/chapter
   - bible/malachi
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-url: https://bible.usccb.org/bible/malachi/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Malachi, Chapter 1
 ---
 
 # Malachi, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-1 An oracle. The word of the L ORD to Israel through Malachi. ^malachi-01-1
+1 An oracle. The word of the LORD to Israel through Malachi. ^malachi-01-1
 
-#### I. Israel Preferred to Edom
+### I. Israel Preferred to Edom
 
-2 I love you, says the L ORD; ^malachi-01-2
+2 I love you, says the LORD; ^malachi-01-2
 
 but you say, “How do you love us?”
 
-3 Was not Esau Jacob’s brother?—oracle of the L ORD. ^malachi-01-3
+3 Was not Esau Jacob’s brother?—oracle of the LORD. ^malachi-01-3
 
 I loved Jacob, but rejected Esau;
 
@@ -40,19 +40,19 @@ his heritage a desert for jackals.
 
 but we will rebuild the ruins,”
 
-Thus says the L ORD of hosts:
+Thus says the LORD of hosts:
 
 They indeed may build, but I will tear down,
 
 And they shall be called “territory of wickedness,”
 
-the people with whom the L ORD is angry forever.
+the people with whom the LORD is angry forever.
 
 5 Your own eyes will see it, and you will say, ^malachi-01-5
 
-“Great is the L ORD, even beyond the territory of Israel.”
+“Great is the LORD, even beyond the territory of Israel.”
 
-#### Ii. Offense in Sacrifice and Priestly Duty
+### Ii. Offense in Sacrifice and Priestly Duty
 
 6 A son honors his father, ^malachi-01-6
 
@@ -66,7 +66,7 @@ And if I am a master,
 
 where is the fear due to me?
 
-So says the L ORD of hosts to you, O priests,
+So says the LORD of hosts to you, O priests,
 
 who disdain my name.
 
@@ -76,7 +76,7 @@ But you ask, “How have we disdained your name?”
 
 You ask, “How have we defiled it?”
 
-By saying that the table of the L ORD may be disdained!
+By saying that the table of the LORD may be disdained!
 
 8 When you offer a blind animal for sacrifice, ^malachi-01-8
 
@@ -90,7 +90,7 @@ Present it to your governor!
 
 Will he be pleased with you—or show you favor?
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 9 So now implore God’s favor, that he may have mercy on us! ^malachi-01-9
 
@@ -98,13 +98,13 @@ You are the ones who have done this;
 
 Will he show favor to any of you?
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 10 Oh, that one of you would just shut the temple gates ^malachi-01-10
 
 to keep you from kindling fire on my altar in vain!
 
-I take no pleasure in you, says the L ORD of hosts;
+I take no pleasure in you, says the LORD of hosts;
 
 and I will not accept any offering from your hands!
 
@@ -118,17 +118,17 @@ and a pure offering;
 
 For my name is great among the nations,
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
 12 But you profane it by saying ^malachi-01-12
 
-that the L ORD’s table is defiled,
+that the LORD’s table is defiled,
 
 and its food may be disdained.
 
 13 You say, “See what a burden this is!” ^malachi-01-13
 
-and you exasperate me, says the L ORD of hosts;
+and you exasperate me, says the LORD of hosts;
 
 You bring in what is mutilated, or lame, or sick;
 
@@ -136,13 +136,13 @@ you bring it as an offering!
 
 Will I accept it from your hands?
 
-says the L ORD.
+says the LORD.
 
 14 Cursed is the cheat who has in his flock an intact male, ^malachi-01-14
 
-and vows it, but sacrifices to the L ORD a defective one instead;
+and vows it, but sacrifices to the LORD a defective one instead;
 
-For a great king am I, says the L ORD of hosts,
+For a great king am I, says the LORD of hosts,
 
 and my name is feared among the nations.
 

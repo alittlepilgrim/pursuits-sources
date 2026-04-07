@@ -1,39 +1,38 @@
 ---
-title: Isaiah, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 8
+title: Isaiah, Chapter 8
+url: https://bible.usccb.org/bible/isaiah/8
 aliases:
   - isaiah-08
   - Isaiah, Chapter 8
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/8
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 8
 ---
 
 # Isaiah, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **A Son of Isaiah.**
 
-1 The L ORD said to me: Take a large tablet, and inscribe on it with an ordinary stylus, “belonging to Maher-shalal-hash-baz,” ^isaiah-08-1
+1 The LORD said to me: Take a large tablet, and inscribe on it with an ordinary stylus, “belonging to Maher-shalal-hash-baz,” ^isaiah-08-1
 
 2 and call reliable witnesses for me, Uriah the priest, and Zechariah, son of Jeberechiah. ^isaiah-08-2
 
-3 Then I went to the prophetess and she conceived and bore a son. The L ORD said to me: Name him Maher-shalal-hash-baz, ^isaiah-08-3
+3 Then I went to the prophetess and she conceived and bore a son. The LORD said to me: Name him Maher-shalal-hash-baz, ^isaiah-08-3
 
 4 for before the child learns to say, “My father, my mother,” the wealth of Damascus and the spoils of Samaria shall be carried off by the king of Assyria. ^isaiah-08-4
 
 **The Choice: The Lord or Assyria.**
 
-5 Again the L ORD spoke to me: ^isaiah-08-5
+5 Again the LORD spoke to me: ^isaiah-08-5
 
 6 Because this people has rejected ^isaiah-08-6
 
@@ -75,13 +74,13 @@ for “With us is God!”
 
 **Disciples of Isaiah.**
 
-11 For thus said the L ORD —his hand strong upon me—warning me not to walk in the way of this people: ^isaiah-08-11
+11 For thus said the LORD —his hand strong upon me—warning me not to walk in the way of this people: ^isaiah-08-11
 
 12 Do not call conspiracy what this people calls conspiracy, ^isaiah-08-12
 
 nor fear what they fear, nor feel dread.
 
-13 But conspire with the L ORD of hosts; ^isaiah-08-13
+13 But conspire with the LORD of hosts; ^isaiah-08-13
 
 he shall be your fear, he shall be your dread.
 
@@ -105,9 +104,9 @@ snared and captured.
 
 16 Bind up my testimony, seal the instruction with my disciples. ^isaiah-08-16
 
-17 I will trust in the L ORD, who is hiding his face from the house of Jacob; yes, I will wait for him. ^isaiah-08-17
+17 I will trust in the LORD, who is hiding his face from the house of Jacob; yes, I will wait for him. ^isaiah-08-17
 
-18 Here am I and the children whom the L ORD has given me: we are signs and portents in Israel from the L ORD of hosts, who dwells on Mount Zion. ^isaiah-08-18
+18 Here am I and the children whom the LORD has given me: we are signs and portents in Israel from the LORD of hosts, who dwells on Mount Zion. ^isaiah-08-18
 
 19 And when they say to you, “Inquire of ghosts and soothsayers who chirp and mutter; should not a people inquire of their gods, consulting the dead on behalf of the living, ^isaiah-08-19
 

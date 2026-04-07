@@ -1,11 +1,7 @@
 ---
+type: figure
 title: Saint Thérèse of the Child Jesus
-created: 1984-01-24
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
-  - 20250912-204812
   - Saint Thérèse of the Child Jesus
   - Saint Thérèse of the Child Jesus, Virgin and Doctor of the Church (Saint Thérèse of Lisieux)
   - thérèse-of-lisieux-saint
@@ -13,8 +9,11 @@ tags:
   - role/doctor-of-the-church
   - saint
   - term/virgin
-celebration: "10-01"
-full_name: "Saint Therese of the Child Jesus"
+  - type/figure
+celebration: 10-01
+created: 1984-01-24
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Thérèse of the Child Jesus
@@ -26,8 +25,8 @@ full_name: "Saint Therese of the Child Jesus"
 ## Works
 
 - [[00-story-of-a-soul|tcj-story-of-a-soul]]
-- 
-- 
-- 
-- 
-- 
+- [Saint Thèrése of the Child Jesus and the Holy Face](therese-of-lisieux-saint.md)
+- [counsels-and-souvenirs](tcj-counsels-and-souvenirs.md)
+- [novissima-verba](tcj-novissima-verba.md)
+- [Analysis of Poem 54 "Why I love You, O Mary!"](20250718-soas-analysis-of-why-i-love-you-o-mary-poem-54.md)
+- [Text of Poem 54, "Why I love You, O Mary!"](tcj-poem-54-text.md)

@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 9
+title: Mark, Chapter 9
+url: https://bible.usccb.org/bible/mark/9
 aliases:
   - mark-09
   - Mark, Chapter 9
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/9
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 9
 ---
 
 # Mark, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 1 He also said to them, “Amen, I say to you, there are some standing here who will not taste death until they see that the kingdom of God has come in power.” ^mark-09-1
 
@@ -93,7 +92,7 @@ url: https://bible.usccb.org/bible/mark/9
 
 32 But they did not understand the saying, and they were afraid to question him. ^mark-09-32
 
-## Iv. the Full Revelation of the Mystery
+# Iv. the Full Revelation of the Mystery
 
 **The Greatest in the Kingdom.**
 

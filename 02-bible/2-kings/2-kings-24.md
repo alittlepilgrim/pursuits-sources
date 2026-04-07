@@ -1,33 +1,32 @@
 ---
-title: 2 Kings, Chapter 24
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 24
+title: 2 Kings, Chapter 24
+url: https://bible.usccb.org/bible/2kings/24
 aliases:
   - 2 Kings, Chapter 24
   - 2-kings-24
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/24
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 24
 ---
 
 # 2 Kings, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
 1 During Jehoiakim’s reign Nebuchadnezzar, king of Babylon, attacked, and Jehoiakim became his vassal for three years. Then Jehoiakim turned and rebelled against him. ^2-kings-24-1
 
-2 The L ORD loosed against him bands of Chaldeans, Arameans, Moabites, and Ammonites; he unleashed them against Judah to destroy him, according to the L ORD’s word spoken through his servants the prophets. ^2-kings-24-2
+2 The LORD loosed against him bands of Chaldeans, Arameans, Moabites, and Ammonites; he unleashed them against Judah to destroy him, according to the LORD’s word spoken through his servants the prophets. ^2-kings-24-2
 
-3 This befell Judah because the L ORD had stated that he would put them out of his sight for the sins Manasseh had committed in all that he did, ^2-kings-24-3
+3 This befell Judah because the LORD had stated that he would put them out of his sight for the sins Manasseh had committed in all that he did, ^2-kings-24-3
 
-4 and especially because of the innocent blood he shed; he filled Jerusalem with innocent blood, and the L ORD would not forgive. ^2-kings-24-4
+4 and especially because of the innocent blood he shed; he filled Jerusalem with innocent blood, and the LORD would not forgive. ^2-kings-24-4
 
 5 The rest of the acts of Jehoiakim, with all that he did, are recorded in the book of the chronicles of the kings of Judah. ^2-kings-24-5
 
@@ -39,7 +38,7 @@ url: https://bible.usccb.org/bible/2kings/24
 
 8 Jehoiachin was eighteen years old when he became king, and he reigned three months in Jerusalem. His mother’s name was Nehushta, daughter of Elnathan, from Jerusalem. ^2-kings-24-8
 
-9 He did what was evil in the L ORD’s sight, just as his father had done. ^2-kings-24-9
+9 He did what was evil in the LORD’s sight, just as his father had done. ^2-kings-24-9
 
 10 At that time officers of Nebuchadnezzar, king of Babylon, attacked Jerusalem, and the city came under siege. ^2-kings-24-10
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/2kings/24
 
 12 Then Jehoiachin, king of Judah, together with his mother, his ministers, officers, and functionaries, surrendered to the king of Babylon, who, in the eighth year of his reign, took him captive. ^2-kings-24-12
 
-13 He carried off all the treasures of the house of the L ORD and the treasures of the king’s house, and broke up all the gold utensils that Solomon, king of Israel, had provided in the house of the L ORD, as the L ORD had decreed. ^2-kings-24-13
+13 He carried off all the treasures of the house of the LORD and the treasures of the king’s house, and broke up all the gold utensils that Solomon, king of Israel, had provided in the house of the LORD, as the LORD had decreed. ^2-kings-24-13
 
 14 He deported all Jerusalem: all the officers and warriors of the army, ten thousand in number, and all the artisans and smiths. Only the lowliest of the people of the land were left. ^2-kings-24-14
 
@@ -61,9 +60,9 @@ url: https://bible.usccb.org/bible/2kings/24
 
 18 Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem. His mother’s name was Hamutal, daughter of Jeremiah, from Libnah. ^2-kings-24-18
 
-19 He did what was evil in the sight of the L ORD, just as Jehoiakim had done. ^2-kings-24-19
+19 He did what was evil in the sight of the LORD, just as Jehoiakim had done. ^2-kings-24-19
 
-20 This befell Jerusalem and Judah because the L ORD was so angry that he cast them out of his sight. ^2-kings-24-20
+20 This befell Jerusalem and Judah because the LORD was so angry that he cast them out of his sight. ^2-kings-24-20
 
 Zedekiah rebelled against the king of Babylon.
 

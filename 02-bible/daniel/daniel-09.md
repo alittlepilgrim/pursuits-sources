@@ -1,35 +1,34 @@
 ---
-title: Daniel, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Daniel, Chapter 9
+title: Daniel, Chapter 9
+url: https://bible.usccb.org/bible/daniel/9
 aliases:
   - daniel-09
   - Daniel, Chapter 9
 tags:
+  - bible/chapter
   - bible/daniel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/daniel/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Daniel, Chapter 9
 ---
 
 # Daniel, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **The Seventy Weeks of Years.**
 
 1 It was the first year that Darius, son of Ahasuerus, of the race of the Medes, reigned over the kingdom of the Chaldeans; ^daniel-09-1
 
-2 in the first year of his reign, I, Daniel, perceived in the books the number of years the L ORD had decreed to the prophet Jeremiah: Jerusalem was to lie in ruins for seventy years. ^daniel-09-2
+2 in the first year of his reign, I, Daniel, perceived in the books the number of years the LORD had decreed to the prophet Jeremiah: Jerusalem was to lie in ruins for seventy years. ^daniel-09-2
 
 3 I turned to the Lord God, to seek help, in prayer and petition, with fasting, sackcloth, and ashes. ^daniel-09-3
 
-4 I prayed to the L ORD, my God, and confessed, “Ah, Lord, great and awesome God, you who keep your covenant and show mercy toward those who love you and keep your commandments and your precepts! ^daniel-09-4
+4 I prayed to the LORD, my God, and confessed, “Ah, Lord, great and awesome God, you who keep your covenant and show mercy toward those who love you and keep your commandments and your precepts! ^daniel-09-4
 
 5 We have sinned, been wicked and done evil; we have rebelled and turned from your commandments and your laws. ^daniel-09-5
 
@@ -37,19 +36,19 @@ url: https://bible.usccb.org/bible/daniel/9
 
 7 Justice, O Lord, is on your side; we are shamefaced even to this day: the men of Judah, the residents of Jerusalem, and all Israel, near and far, in all the lands to which you have scattered them because of their treachery toward you. ^daniel-09-7
 
-8 O L ORD, we are ashamed, like our kings, our princes, and our ancestors, for having sinned against you. ^daniel-09-8
+8 O LORD, we are ashamed, like our kings, our princes, and our ancestors, for having sinned against you. ^daniel-09-8
 
 9 But to the Lord, our God, belong compassion and forgiveness, though we rebelled against him ^daniel-09-9
 
-10 and did not hear the voice of the L ORD, our God, by walking in his laws given through his servants the prophets. ^daniel-09-10
+10 and did not hear the voice of the LORD, our God, by walking in his laws given through his servants the prophets. ^daniel-09-10
 
 11 The curse and the oath written in the law of Moses, the servant of God, were poured out over us for our sins, because all Israel transgressed your law and turned aside, refusing to hear your voice. ^daniel-09-11
 
 12 He fulfilled the words he spoke against us and against those who ruled us, by bringing upon us an evil—no evil so great has happened under heaven as happened in Jerusalem. ^daniel-09-12
 
-13 As it is written in the law of Moses, this evil has come upon us. We did not appease the L ORD, our God, by turning back from our wickedness and acting according to your truth, ^daniel-09-13
+13 As it is written in the law of Moses, this evil has come upon us. We did not appease the LORD, our God, by turning back from our wickedness and acting according to your truth, ^daniel-09-13
 
-14 so the L ORD kept watch over the evil and brought it upon us. The L ORD, our God, is just in all that he has done: we did not listen to his voice. ^daniel-09-14
+14 so the LORD kept watch over the evil and brought it upon us. The LORD, our God, is just in all that he has done: we did not listen to his voice. ^daniel-09-14
 
 15 “Now, Lord, our God, who led your people out of the land of Egypt with a strong hand, and made a name for yourself even to this day, we have sinned, we are guilty. ^daniel-09-15
 
@@ -61,7 +60,7 @@ url: https://bible.usccb.org/bible/daniel/9
 
 19 Lord, hear! Lord, pardon! Lord, be attentive and act without delay, for your own sake, my God, because your name is invoked upon your city and your people!” ^daniel-09-19
 
-20 I was still praying to the L ORD, my God, confessing my sin and the sin of my people Israel, presenting my petition concerning the holy mountain of my God— ^daniel-09-20
+20 I was still praying to the LORD, my God, confessing my sin and the sin of my people Israel, presenting my petition concerning the holy mountain of my God— ^daniel-09-20
 
 21 I was still praying, when the man, Gabriel, whom I had seen in vision before, came to me in flight at the time of the evening offering. ^daniel-09-21
 

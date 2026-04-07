@@ -1,9 +1,7 @@
 ---
-title: November 8, Saint Elizabeth of the Trinity Catez
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: November 8, Saint Elizabeth of the Trinity Catez
+author: OCD General Curia
 aliases:
   - 11-08-st-elizabeth-of-the-trinity
   - 20251108-000001
@@ -12,9 +10,12 @@ tags:
   - carmel/propers
   - carmel/saints
   - saint/elizabeth-of-the-trinity
-attachment: true
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 11-08
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
+attachment: true
 ---
 
 # November 8, Saint Elizabeth of the Trinity Catez
@@ -65,7 +66,7 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, forever and ever.
 
-!
+![8 November- Saint Elizabeth of the Trinity Catez-2024-07-22-1](images/8%20November-%20Saint%20Elizabeth%20of%20the%20Trinity Catez-2024-07-22-1.jpeg)
 
 Elizabeth Catez, the prize-winning pianist | Photo credit: Discalced Carmelites
 

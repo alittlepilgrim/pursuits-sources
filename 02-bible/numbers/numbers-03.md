@@ -1,39 +1,38 @@
 ---
-title: Numbers, Chapter 3
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 3
+title: Numbers, Chapter 3
+url: https://bible.usccb.org/bible/numbers/3
 aliases:
   - numbers-03
   - Numbers, Chapter 3
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 3
 ---
 
 # Numbers, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **The Sons of Aaron.**
 
-1 These are the offspring of Aaron and Moses at the time the L ORD spoke to Moses on Mount Sinai. ^numbers-03-1
+1 These are the offspring of Aaron and Moses at the time the LORD spoke to Moses on Mount Sinai. ^numbers-03-1
 
 2 These are the names of Aaron’s sons: Nadab, the firstborn, Abihu, Eleazar, and Ithamar. ^numbers-03-2
 
 3 These are the names of Aaron’s sons, the anointed priests whom he ordained to serve as priests. ^numbers-03-3
 
-4 But Nadab and Abihu died in the presence of the L ORD when they offered unauthorized fire before the L ORD in the wilderness of Sinai; and they left no sons. So only Eleazar and Ithamar served as priests during the lifetime of their father Aaron. ^numbers-03-4
+4 But Nadab and Abihu died in the presence of the LORD when they offered unauthorized fire before the LORD in the wilderness of Sinai; and they left no sons. So only Eleazar and Ithamar served as priests during the lifetime of their father Aaron. ^numbers-03-4
 
 **Levites in Place of the Firstborn.**
 
-5 Now the L ORD said to Moses: ^numbers-03-5
+5 Now the LORD said to Moses: ^numbers-03-5
 
 6 Summon the tribe of Levi and station them before Aaron the priest to serve him. ^numbers-03-6
 
@@ -45,19 +44,19 @@ url: https://bible.usccb.org/bible/numbers/3
 
 10 But you will appoint only Aaron and his descendants to exercise the priesthood. Any unauthorized person who comes near shall be put to death. ^numbers-03-10
 
-11 The L ORD said to Moses: ^numbers-03-11
+11 The LORD said to Moses: ^numbers-03-11
 
 12 I hereby take the Levites from the Israelites in place of every firstborn that opens the womb among the Israelites. The Levites, therefore, are mine, ^numbers-03-12
 
-13 because every firstborn is mine. When I struck down all the firstborn in the land of Egypt, I consecrated to me every firstborn in Israel, human being and beast alike. They belong to me; I am the L ORD. ^numbers-03-13
+13 because every firstborn is mine. When I struck down all the firstborn in the land of Egypt, I consecrated to me every firstborn in Israel, human being and beast alike. They belong to me; I am the LORD. ^numbers-03-13
 
 **Census of the Levites.**
 
-14 The L ORD said to Moses in the wilderness of Sinai: ^numbers-03-14
+14 The LORD said to Moses in the wilderness of Sinai: ^numbers-03-14
 
 15 Enroll the Levites by their ancestral houses and clans, enrolling every male of a month or more. ^numbers-03-15
 
-16 Moses, therefore, enrolled them at the direction of the L ORD, just as the L ORD had charged. ^numbers-03-16
+16 Moses, therefore, enrolled them at the direction of the LORD, just as the LORD had charged. ^numbers-03-16
 
 17 These were the sons of Levi by name: Gershon, Kohath and Merari. ^numbers-03-17
 
@@ -99,19 +98,19 @@ url: https://bible.usccb.org/bible/numbers/3
 
 38 East of the tabernacle, that is, in front of the tent of meeting, toward the sunrise, were camped Moses and Aaron and the latter’s sons, performing the duties of the sanctuary incumbent upon the Israelites. Any unauthorized person who came near was to be put to death. ^numbers-03-38
 
-39 The total enrollment of the Levites whom Moses and Aaron enrolled at the direction of the L ORD, by clans, every male a month old or more, was twenty-two thousand. ^numbers-03-39
+39 The total enrollment of the Levites whom Moses and Aaron enrolled at the direction of the LORD, by clans, every male a month old or more, was twenty-two thousand. ^numbers-03-39
 
 **Census and Ransom of Firstborn.**
 
-40 The L ORD then said to Moses: Enroll every firstborn male of the Israelites a month old or more, and count the number of their names. ^numbers-03-40
+40 The LORD then said to Moses: Enroll every firstborn male of the Israelites a month old or more, and count the number of their names. ^numbers-03-40
 
-41 Then take the Levites for me—I am the L ORD —in place of all the firstborn of the Israelites, as well as the Levites’ cattle, in place of all the firstborn among the cattle of the Israelites. ^numbers-03-41
+41 Then take the Levites for me—I am the LORD —in place of all the firstborn of the Israelites, as well as the Levites’ cattle, in place of all the firstborn among the cattle of the Israelites. ^numbers-03-41
 
-42 So Moses enrolled all the firstborn of the Israelites, as the L ORD had commanded him. ^numbers-03-42
+42 So Moses enrolled all the firstborn of the Israelites, as the LORD had commanded him. ^numbers-03-42
 
-44 The L ORD said to Moses: ^numbers-03-44
+44 The LORD said to Moses: ^numbers-03-44
 
-45 Take the Levites in place of all the firstborn of the Israelites, and the Levites’ cattle in place of their cattle, that the Levites may belong to me. I am the L ORD. ^numbers-03-45
+45 Take the Levites in place of all the firstborn of the Israelites, and the Levites’ cattle in place of their cattle, that the Levites may belong to me. I am the LORD. ^numbers-03-45
 
 46 As a redemption-price for the two hundred and seventy-three firstborn of the Israelites over and above the number of the Levites, ^numbers-03-46
 
@@ -123,7 +122,7 @@ url: https://bible.usccb.org/bible/numbers/3
 
 50 From the firstborn of the Israelites he took the money, one thousand three hundred and sixty-five shekels according to the sanctuary shekel. ^numbers-03-50
 
-51 He then gave this redemption money to Aaron and his sons, at the direction of the L ORD, just as the L ORD had commanded Moses. ^numbers-03-51
+51 He then gave this redemption money to Aaron and his sons, at the direction of the LORD, just as the LORD had commanded Moses. ^numbers-03-51
 
 \* (3:25] – [26) The Gershonites had two wagons for transporting these things; cf. [7:7]. For a description of the tabernacle, see ([[exodus-26|Ex 26]]:1] – [6]; the tent, ([[exodus-26|Ex 26]]:7] – [13]; its covering, ([[exodus-26|Ex 26]]:14]; the curtain at the entrance, ([[exodus-26|Ex 26]]:36]; the hangings of the court, ([[exodus-27|Ex 27]]:9] – [15]; the curtain at the entrance of the court, ([[exodus-27|Ex 27]]:16]; the ropes of the tabernacle, [Ex 35:18].
 

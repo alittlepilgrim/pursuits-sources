@@ -1,25 +1,24 @@
 ---
-title: Ecclesiastes, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ecclesiastes, Chapter 10
+title: Ecclesiastes, Chapter 10
+url: https://bible.usccb.org/bible/ecclesiastes/10
 aliases:
   - ecclesiastes-10
   - Ecclesiastes, Chapter 10
 tags:
+  - bible/chapter
   - bible/ecclesiastes
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ecclesiastes/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ecclesiastes, Chapter 10
 ---
 
 # Ecclesiastes, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 1 Dead flies corrupt and spoil the perfumer’s oil; ^ecclesiastes-10-1
 
@@ -71,7 +70,7 @@ for who can tell anyone what will be?
 
 so they do not know even the way to town.
 
-#### No One Knows What Evil Will Come
+### No One Knows What Evil Will Come
 
 16 Woe to you, O land, whose king is a youth, ^ecclesiastes-10-16
 
@@ -109,7 +108,7 @@ a winged creature may tell what you say.
 
 \* (:4]\] Calmness: a frequent motif of wisdom; silence and reserve characterize the wise, while boisterousness and impetuosity identify the fool.
 
-\* (:6] – [7]\] A fool…the rich…slaves…princes: another wisdom motif: astonishment at the reversal of the usual order in the world and in human affairs.
+\* (:6] – [7]\] A fool…the rich…slaves…princes: another wisdom motif: astonishment at the reversal of the usuaLORDer in the world and in human affairs.
 
 \* (:8] – [9]\] A pit…a wall…stones…wood: popular sayings reflecting the need for caution and alertness against the unexpected. Snakes could find a home in the stone walls of ancient Palestine; cf. [Am 5:19].
 

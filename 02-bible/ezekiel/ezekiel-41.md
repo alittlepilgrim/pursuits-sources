@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 41
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 41
+title: Ezekiel, Chapter 41
+url: https://bible.usccb.org/bible/ezekiel/41
 aliases:
   - ezekiel-41
   - Ezekiel, Chapter 41
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/41
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 41
 ---
 
 # Ezekiel, Chapter 41
 
-### Chapter 41
+## Chapter 41
 
 3 Then he went inside and measured the posts at the other entrance, two cubits wide. The entrance was six cubits wide, with walls seven cubits long on each side. ^ezekiel-41-3
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/ezekiel/41
 
 20 From the floor to the lintel of the door, cherubim and palm trees decorated the walls. ^ezekiel-41-20
 
-22 a wooden altar, three cubits high, two cubits long, and two cubits wide. It had corners and a wooden base and sides. He said to me, “This is the table that stands before the L ORD.” ^ezekiel-41-22
+22 a wooden altar, three cubits high, two cubits long, and two cubits wide. It had corners and a wooden base and sides. He said to me, “This is the table that stands before the LORD.” ^ezekiel-41-22
 
 24 also had a double door; each door had two sections that could move; two sections on one door, and two on the other. ^ezekiel-41-24
 

@@ -1,20 +1,20 @@
 ---
-title: 1 Samuel, The Books of Samuel
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, the Books of Samuel
+title: 1 Samuel, The Books of Samuel
+url: https://bible.usccb.org/bible/1samuel/0
 aliases:
   - 1 Samuel, the Books of Samuel
   - 1 Samuel, The Books of Samuel
   - 1-samuel-00
 tags:
   - bible/1-samuel
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/1samuel/0
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, the Books of Samuel
 ---
 
 # 1 Samuel, the Books of Samuel

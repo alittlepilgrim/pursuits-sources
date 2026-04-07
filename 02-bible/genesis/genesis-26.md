@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 26
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 26
+title: Genesis, Chapter 26
+url: https://bible.usccb.org/bible/genesis/26
 aliases:
   - 20250508-020303
   - genesis-26
   - Genesis, Chapter 26
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 26
 bible_book: genesis
 bible_chapter: "26"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/26
 ---
 
 [[genesis-25|[← Previous Note]]] · [[genesis-27|[Next Note →]]]
@@ -31,7 +30,7 @@ url: https://bible.usccb.org/bible/genesis/26
 
 1 There was a famine in the land, distinct from the earlier one that had occurred in the days of Abraham, and Isaac went down to Abimelech, king of the Philistines in Gerar. ^genesis-26-1
 
-2 The L ORD appeared to him and said: Do not go down to Egypt, but camp in this land wherever I tell you. ^genesis-26-2
+2 The LORD appeared to him and said: Do not go down to Egypt, but camp in this land wherever I tell you. ^genesis-26-2
 
 3 Sojourn in this land, and I will be with you and bless you; for to you and your descendants I will give all these lands, in fulfillment of the oath that I swore to your father Abraham. ^genesis-26-3
 
@@ -51,7 +50,7 @@ url: https://bible.usccb.org/bible/genesis/26
 
 11 Abimelech then commanded all the people: “Anyone who maltreats this man or his wife shall be put to death.” ^genesis-26-11
 
-12 Isaac sowed a crop in that region and reaped a hundredfold the same year. Since the L ORD blessed him, ^genesis-26-12
+12 Isaac sowed a crop in that region and reaped a hundredfold the same year. Since the LORD blessed him, ^genesis-26-12
 
 13 he became richer and richer all the time, until he was very wealthy. ^genesis-26-13
 
@@ -71,21 +70,21 @@ url: https://bible.usccb.org/bible/genesis/26
 
 21 Then they dug another well, and they argued over that one too; so he named it Sitnah. ^genesis-26-21
 
-22 So he moved on from there and dug still another well, but over this one they did not argue. He named it Rehoboth, and said, “Because the L ORD has now given us ample room, we shall flourish in the land.” ^genesis-26-22
+22 So he moved on from there and dug still another well, but over this one they did not argue. He named it Rehoboth, and said, “Because the LORD has now given us ample room, we shall flourish in the land.” ^genesis-26-22
 
 23 From there Isaac went up to Beer-sheba. ^genesis-26-23
 
-24 The same night the L ORD appeared to him and said: I am the God of Abraham, your father. Do not fear, for I am with you. I will bless you and multiply your descendants for the sake of Abraham, my servant. ^genesis-26-24
+24 The same night the LORD appeared to him and said: I am the God of Abraham, your father. Do not fear, for I am with you. I will bless you and multiply your descendants for the sake of Abraham, my servant. ^genesis-26-24
 
-25 So Isaac built an altar there and invoked the L ORD by name. After he had pitched his tent there, Isaac’s servants began to dig a well nearby. ^genesis-26-25
+25 So Isaac built an altar there and invoked the LORD by name. After he had pitched his tent there, Isaac’s servants began to dig a well nearby. ^genesis-26-25
 
 26 Then Abimelech came to him from Gerar, with Ahuzzath, his councilor, and Phicol, the general of his army. ^genesis-26-26
 
 27 Isaac asked them, “Why have you come to me, since you hate me and have driven me away from you?” ^genesis-26-27
 
-28 They answered: “We clearly see that the L ORD has been with you, so we thought: let there be a sworn agreement between our two sides—between you and us. Let us make a covenant with you: ^genesis-26-28
+28 They answered: “We clearly see that the LORD has been with you, so we thought: let there be a sworn agreement between our two sides—between you and us. Let us make a covenant with you: ^genesis-26-28
 
-29 you shall do no harm to us, just as we have not maltreated you, but have always acted kindly toward you and have let you depart in peace. So now, may you be blessed by the L ORD!” ^genesis-26-29
+29 you shall do no harm to us, just as we have not maltreated you, but have always acted kindly toward you and have let you depart in peace. So now, may you be blessed by the LORD!” ^genesis-26-29
 
 30 Isaac then made a feast for them, and they ate and drank. ^genesis-26-30
 
@@ -135,6 +134,6 @@ i. (26:34] – [35) [Gn 27:46]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]

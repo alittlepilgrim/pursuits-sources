@@ -1,43 +1,42 @@
 ---
-title: Jeremiah, Chapter 24
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 24
+title: Jeremiah, Chapter 24
+url: https://bible.usccb.org/bible/jeremiah/24
 aliases:
   - jeremiah-24
   - Jeremiah, Chapter 24
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/24
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 24
 ---
 
 # Jeremiah, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
 **The Two Baskets of Figs.**
 
-1 The L ORD showed me two baskets of figs placed before the temple of the L ORD. This was after Nebuchadnezzar, king of Babylon, had exiled from Jerusalem Jeconiah, son of Jehoiakim, king of Judah, and the princes of Judah, the artisans and smiths, and brought them to Babylon. ^jeremiah-24-1
+1 The LORD showed me two baskets of figs placed before the temple of the LORD. This was after Nebuchadnezzar, king of Babylon, had exiled from Jerusalem Jeconiah, son of Jehoiakim, king of Judah, and the princes of Judah, the artisans and smiths, and brought them to Babylon. ^jeremiah-24-1
 
 2 One basket contained excellent figs, those that ripen early. But the other basket contained very bad figs, so bad they could not be eaten. ^jeremiah-24-2
 
-3 Then the L ORD said to me: What do you see, Jeremiah? “Figs,” I replied; “the good ones are very good, but the bad ones very bad, so bad they cannot be eaten.” ^jeremiah-24-3
+3 Then the LORD said to me: What do you see, Jeremiah? “Figs,” I replied; “the good ones are very good, but the bad ones very bad, so bad they cannot be eaten.” ^jeremiah-24-3
 
-4 Thereupon this word of the L ORD came to me: ^jeremiah-24-4
+4 Thereupon this word of the LORD came to me: ^jeremiah-24-4
 
-5 Thus says the L ORD, the God of Israel: Like these good figs, I will also regard with favor Judah’s exiles whom I sent away from this place into the land of the Chaldeans. ^jeremiah-24-5
+5 Thus says the LORD, the God of Israel: Like these good figs, I will also regard with favor Judah’s exiles whom I sent away from this place into the land of the Chaldeans. ^jeremiah-24-5
 
 6 I will look after them for good and bring them back to this land, to build them up, not tear them down; to plant them, not uproot them. ^jeremiah-24-6
 
-7 I will give them a heart to know me, that I am the L ORD. They shall be my people and I will be their God, for they shall return to me with their whole heart. ^jeremiah-24-7
+7 I will give them a heart to know me, that I am the LORD. They shall be my people and I will be their God, for they shall return to me with their whole heart. ^jeremiah-24-7
 
-8 But like the figs that are bad, so bad they cannot be eaten—yes, thus says the L ORD —even so will I treat Zedekiah, king of Judah, and his princes, the remnant of Jerusalem remaining in this land and those who have settled in the land of Egypt. ^jeremiah-24-8
+8 But like the figs that are bad, so bad they cannot be eaten—yes, thus says the LORD —even so will I treat Zedekiah, king of Judah, and his princes, the remnant of Jerusalem remaining in this land and those who have settled in the land of Egypt. ^jeremiah-24-8
 
 9 I will make them an object of horror to all the kingdoms of the earth, a reproach and a byword, a taunt and a curse, in all the places to which I will drive them. ^jeremiah-24-9
 

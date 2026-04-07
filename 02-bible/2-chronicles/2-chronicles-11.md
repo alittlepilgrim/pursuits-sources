@@ -1,33 +1,32 @@
 ---
-title: 2 Chronicles, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 11
+title: 2 Chronicles, Chapter 11
+url: https://bible.usccb.org/bible/2chronicles/11
 aliases:
   - 2 Chronicles, Chapter 11
   - 2-chronicles-11
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/11
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 11
 ---
 
 # 2 Chronicles, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 1 On his arrival in Jerusalem, Rehoboam assembled the house of Judah and Benjamin—one hundred and eighty thousand elite warriors—to wage war against Israel and restore the kingdom to Rehoboam. ^2-chronicles-11-1
 
-2 However, the word of the L ORD came to Shemaiah, a man of God: ^2-chronicles-11-2
+2 However, the word of the LORD came to Shemaiah, a man of God: ^2-chronicles-11-2
 
 3 Say to Rehoboam, son of Solomon, king of Judah, and to all the Israelites in Judah and Benjamin: ^2-chronicles-11-3
 
-4 “Thus says the L ORD: You must not go out to war against your kinsmen. Return home, each of you, for it is I who have brought this about.” They obeyed the word of the L ORD and turned back from going against Jeroboam. ^2-chronicles-11-4
+4 “Thus says the LORD: You must not go out to war against your kinsmen. Return home, each of you, for it is I who have brought this about.” They obeyed the word of the LORD and turned back from going against Jeroboam. ^2-chronicles-11-4
 
 **Rehoboam’s Works.**
 
@@ -51,11 +50,11 @@ url: https://bible.usccb.org/bible/2chronicles/11
 
 13 Now the priests and Levites throughout Israel presented themselves to him from all parts of their land, ^2-chronicles-11-13
 
-14 for the Levites left their assigned pasture lands and their holdings and came to Judah and Jerusalem, because Jeroboam and his sons rejected them as priests of the L ORD. ^2-chronicles-11-14
+14 for the Levites left their assigned pasture lands and their holdings and came to Judah and Jerusalem, because Jeroboam and his sons rejected them as priests of the LORD. ^2-chronicles-11-14
 
 15 In their place, he himself appointed priests for the high places as well as for the satyrs and calves he had made. ^2-chronicles-11-15
 
-16 After them, all those, of every tribe of Israel, who set their hearts to seek the L ORD, the God of Israel, came to Jerusalem to sacrifice to the L ORD, the God of their ancestors. ^2-chronicles-11-16
+16 After them, all those, of every tribe of Israel, who set their hearts to seek the LORD, the God of Israel, came to Jerusalem to sacrifice to the LORD, the God of their ancestors. ^2-chronicles-11-16
 
 17 Thus they strengthened the kingdom of Judah and made Rehoboam, son of Solomon, prevail for three years; for they walked in the way of David and Solomon three years. ^2-chronicles-11-17
 

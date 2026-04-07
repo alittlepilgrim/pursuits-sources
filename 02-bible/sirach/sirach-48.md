@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 48
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 48
+title: Sirach, Chapter 48
+url: https://bible.usccb.org/bible/sirach/48
 aliases:
   - sirach-48
   - Sirach, Chapter 48
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/48
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 48
 ---
 
 # Sirach, Chapter 48
 
-### Chapter 48
+## Chapter 48
 
 1 Until like fire a prophet appeared, ^sirach-48-1
 
@@ -39,7 +38,7 @@ Whose glory is equal to yours?
 
 5 You brought a dead body back to life ^sirach-48-5
 
-from Sheol, by the will of the L ORD.
+from Sheol, by the will of the LORD.
 
 6 You sent kings down to destruction, ^sirach-48-6
 
@@ -59,7 +58,7 @@ in a chariot with fiery horses.
 
 10 You are destined, it is written, in time to come ^sirach-48-10
 
-to put an end to wrath before the day of the L ORD,
+to put an end to wrath before the day of the LORD,
 
 To turn back the hearts of parents toward their children,
 
@@ -95,7 +94,7 @@ Until they were uprooted from their land
 
 and scattered all over the earth.
 
-#### Judah
+### Judah
 
 But Judah remained, a tiny people,
 
@@ -105,7 +104,7 @@ with its ruler from the house of David.
 
 but others were extremely sinful.
 
-#### Hezekiah and Isaiah
+### Hezekiah and Isaiah
 
 17 H EZEKIAH fortified his city ^sirach-48-17
 

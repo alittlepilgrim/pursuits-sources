@@ -1,25 +1,24 @@
 ---
-title: Hebrews, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hebrews, Chapter 10
+title: Hebrews, Chapter 10
+url: https://bible.usccb.org/bible/hebrews/10
 aliases:
   - hebrews-10
   - Hebrews, Chapter 10
 tags:
+  - bible/chapter
   - bible/hebrews
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/hebrews/10
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hebrews, Chapter 10
 ---
 
 # Hebrews, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **One Sacrifice instead of Many.**
 

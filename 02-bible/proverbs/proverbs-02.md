@@ -1,27 +1,26 @@
 ---
-title: Proverbs, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 2
+title: Proverbs, Chapter 2
+url: https://bible.usccb.org/bible/proverbs/2
 aliases:
   - proverbs-02
   - Proverbs, Chapter 2
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/2
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 2
 ---
 
 # Proverbs, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
-#### The Blessings of Wisdom
+### The Blessings of Wisdom
 
 1 My son, if you receive my words ^proverbs-02-1
 
@@ -39,11 +38,11 @@ and to understanding raise your voice;
 
 and like hidden treasures search her out,
 
-5 Then will you understand the fear of the L ORD; ^proverbs-02-5
+5 Then will you understand the fear of the LORD; ^proverbs-02-5
 
 the knowledge of God you will find;
 
-6 For the L ORD gives wisdom, ^proverbs-02-6
+6 For the LORD gives wisdom, ^proverbs-02-6
 
 from his mouth come knowledge and understanding;
 

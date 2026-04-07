@@ -1,25 +1,24 @@
 ---
-title: Ephesians, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ephesians, Chapter 5
+title: Ephesians, Chapter 5
+url: https://bible.usccb.org/bible/ephesians/5
 aliases:
   - ephesians-05
   - Ephesians, Chapter 5
 tags:
+  - bible/chapter
   - bible/ephesians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/ephesians/5
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ephesians, Chapter 5
 ---
 
 # Ephesians, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 1 So be imitators of God, as beloved children, ^ephesians-05-1
 

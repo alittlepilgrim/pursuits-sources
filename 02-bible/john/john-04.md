@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 4
+title: John, Chapter 4
+url: https://bible.usccb.org/bible/john/4
 aliases:
   - john-04
   - John, Chapter 4
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/4
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 4
 ---
 
 # John, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John ^john-04-1
 

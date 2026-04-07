@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 50
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 50
+title: Genesis, Chapter 50
+url: https://bible.usccb.org/bible/genesis/50
 aliases:
   - 20250508-020411
   - genesis-50
   - Genesis, Chapter 50
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 50
 bible_book: genesis
 bible_chapter: "50"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/50
 ---
 
 [[genesis-49|[← Previous Note]]]
@@ -107,6 +106,6 @@ h. (50:26) [Sir 49:15]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-01|[Next Note →]]]

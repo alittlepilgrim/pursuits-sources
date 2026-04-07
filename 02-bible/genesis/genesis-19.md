@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 19
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 19
+title: Genesis, Chapter 19
+url: https://bible.usccb.org/bible/genesis/19
 aliases:
   - 20250508-020239
   - genesis-19
   - Genesis, Chapter 19
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 19
 bible_book: genesis
 bible_chapter: "19"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/19
 ---
 
 [[genesis-18|[← Previous Note]]] · [[genesis-20|[Next Note →]]]
@@ -53,13 +52,13 @@ url: https://bible.usccb.org/bible/genesis/19
 
 12 Then the guests said to Lot: “Who else belongs to you here? Sons-in-law, your sons, your daughters, all who belong to you in the city—take them away from this place! ^genesis-19-12
 
-13 We are about to destroy this place, for the outcry reaching the L ORD against those here is so great that the L ORD has sent us to destroy it.” ^genesis-19-13
+13 We are about to destroy this place, for the outcry reaching the LORD against those here is so great that the LORD has sent us to destroy it.” ^genesis-19-13
 
-14 So Lot went out and spoke to his sons-in-law, who had contracted marriage with his daughters. “Come on, leave this place,” he told them; “the L ORD is about to destroy the city.” But his sons-in-law thought he was joking. ^genesis-19-14
+14 So Lot went out and spoke to his sons-in-law, who had contracted marriage with his daughters. “Come on, leave this place,” he told them; “the LORD is about to destroy the city.” But his sons-in-law thought he was joking. ^genesis-19-14
 
 15 As dawn was breaking, the angels urged Lot on, saying, “Come on! Take your wife with you and your two daughters who are here, or you will be swept away in the punishment of the city.” ^genesis-19-15
 
-16 When he hesitated, the men, because of the L ORD’s compassion for him, seized his hand and the hands of his wife and his two daughters and led them to safety outside the city. ^genesis-19-16
+16 When he hesitated, the men, because of the LORD’s compassion for him, seized his hand and the hands of his wife and his two daughters and led them to safety outside the city. ^genesis-19-16
 
 17 As soon as they had brought them outside, they said: “Flee for your life! Do not look back or stop anywhere on the Plain. Flee to the hills at once, or you will be swept away.” ^genesis-19-17
 
@@ -75,13 +74,13 @@ url: https://bible.usccb.org/bible/genesis/19
 
 23 The sun had risen over the earth when Lot arrived in Zoar, ^genesis-19-23
 
-24 and the L ORD rained down sulfur upon Sodom and Gomorrah, fire from the L ORD out of heaven. ^genesis-19-24
+24 and the LORD rained down sulfur upon Sodom and Gomorrah, fire from the LORD out of heaven. ^genesis-19-24
 
 25 He overthrew those cities and the whole Plain, together with the inhabitants of the cities and the produce of the soil. ^genesis-19-25
 
 26 But Lot’s wife looked back, and she was turned into a pillar of salt. ^genesis-19-26
 
-27 The next morning [[abraham|Abraham]] hurried to the place where he had stood before the L ORD. ^genesis-19-27
+27 The next morning [[abraham|Abraham]] hurried to the place where he had stood before the LORD. ^genesis-19-27
 
 28 As he looked down toward Sodom and Gomorrah and the whole region of the Plain, he saw smoke over the land rising like the smoke from a kiln. ^genesis-19-28
 
@@ -157,6 +156,6 @@ m. (19:38) [Dt 2:19]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]

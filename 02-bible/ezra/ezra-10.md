@@ -1,25 +1,24 @@
 ---
-title: Ezra, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: ezra-chapter 10
+title: Ezra, Chapter 10
+url: https://bible.usccb.org/bible/ezra/10
 aliases:
   - ezra-10
   - Ezra, Chapter 10
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/10
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: ezra-chapter 10
 ---
 
 # Ezra, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Response to the Crisis.**
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/ezra/10
 
 10 Then Ezra, the priest, stood up and said to them: “Your [[apostasy]] in taking foreign women as wives has added to Israel’s guilt. ^ezra-10-10
 
-11 But now, give praise to the L ORD, the God of your ancestors, and do his will: separate yourselves from the peoples of the land and from the foreign women.” ^ezra-10-11
+11 But now, give praise to the LORD, the God of your ancestors, and do his will: separate yourselves from the peoples of the land and from the foreign women.” ^ezra-10-11
 
 12 In answer, the whole assembly cried out with a loud voice: “Yes, it is our duty to do as you say! ^ezra-10-12
 

@@ -1,29 +1,28 @@
 ---
-title: Ezekiel, Chapter 33
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 33
+title: Ezekiel, Chapter 33
+url: https://bible.usccb.org/bible/ezekiel/33
 aliases:
   - ezekiel-33
   - Ezekiel, Chapter 33
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/33
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 33
 ---
 
 # Ezekiel, Chapter 33
 
-### Chapter 33
+## Chapter 33
 
 **The Prophet as Sentinel.**
 
-1 The word of the L ORD came to me: ^ezekiel-33-1
+1 The word of the LORD came to me: ^ezekiel-33-1
 
 2 Son of man, speak to your people and tell them: When I bring the sword against a land, if the people of that land select one of their number as a sentinel for them, ^ezekiel-33-2
 
@@ -57,23 +56,23 @@ url: https://bible.usccb.org/bible/ezekiel/33
 
 16 None of the sins they committed shall be remembered against them. If they do what is right and just, they shall surely live. ^ezekiel-33-16
 
-17 Your people say, “The way of the L ORD is not fair!” But it is their way that is not fair. ^ezekiel-33-17
+17 Your people say, “The way of the LORD is not fair!” But it is their way that is not fair. ^ezekiel-33-17
 
 18 When the just turn away from justice and do wrong, they shall die for it. ^ezekiel-33-18
 
 19 When the wicked turn away from wickedness and do what is right and just, because of this they shall live. ^ezekiel-33-19
 
-20 But still you say, “The way of the L ORD is not fair!” I will judge each of you according to your ways, house of Israel. ^ezekiel-33-20
+20 But still you say, “The way of the LORD is not fair!” I will judge each of you according to your ways, house of Israel. ^ezekiel-33-20
 
 **The Survivor from Jerusalem.**
 
 21 On the fifth day of the tenth month, in the twelfth year of our exile, the survivor came to me from Jerusalem and said, “The city is taken!” ^ezekiel-33-21
 
-22 The hand of the L ORD had come upon me the evening before the survivor arrived and opened my mouth when he reached me in the morning. My mouth was opened, and I was mute no longer. ^ezekiel-33-22
+22 The hand of the LORD had come upon me the evening before the survivor arrived and opened my mouth when he reached me in the morning. My mouth was opened, and I was mute no longer. ^ezekiel-33-22
 
 **Those Left in Judah.**
 
-23 The word of the L ORD came to me: ^ezekiel-33-23
+23 The word of the LORD came to me: ^ezekiel-33-23
 
 24 Son of man, these who live among the ruins in the land of Israel are saying: “[[abraham|Abraham]] was only one person, yet he was given possession of the land. Since we are many, the land must be given to us as our possession.” ^ezekiel-33-24
 
@@ -85,11 +84,11 @@ url: https://bible.usccb.org/bible/ezekiel/33
 
 28 I will make the land a desolate waste, so that its proud strength will come to an end, and the mountains of Israel shall be so desolate that no one will cross them. ^ezekiel-33-28
 
-29 Thus they shall know that I am the L ORD, when I make the land a desolate waste because of all the abominations they committed. ^ezekiel-33-29
+29 Thus they shall know that I am the LORD, when I make the land a desolate waste because of all the abominations they committed. ^ezekiel-33-29
 
 **Popular Misunderstanding.**
 
-30 As for you, son of man, your people are talking about you beside the walls and in the doorways of houses. They say to one another, “Let’s go hear the latest word that comes from the L ORD.” ^ezekiel-33-30
+30 As for you, son of man, your people are talking about you beside the walls and in the doorways of houses. They say to one another, “Let’s go hear the latest word that comes from the LORD.” ^ezekiel-33-30
 
 31 My people come to you, gathering as a crowd and sitting in front of you to hear your words, but they will not act on them. Love songs are on their lips, but in their hearts they pursue dishonest gain. ^ezekiel-33-31
 

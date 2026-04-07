@@ -1,25 +1,24 @@
 ---
-title: Hebrews, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hebrews, Chapter 8
+title: Hebrews, Chapter 8
+url: https://bible.usccb.org/bible/hebrews/8
 aliases:
   - hebrews-08
   - Hebrews, Chapter 8
 tags:
+  - bible/chapter
   - bible/hebrews
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/hebrews/8
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hebrews, Chapter 8
 ---
 
 # Hebrews, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Heavenly Priesthood of Jesus.**
 

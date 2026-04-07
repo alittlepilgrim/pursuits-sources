@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 16
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 16
+title: Genesis, Chapter 16
+url: https://bible.usccb.org/bible/genesis/16
 aliases:
   - genesis-16
   - Genesis, Chapter 16
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 16
 bible_book: genesis
 bible_chapter: "16"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/16
 ---
 
 [[genesis-15|[← Previous Note]]] · [[genesis-17|[Next Note →]]]
@@ -30,31 +29,31 @@ url: https://bible.usccb.org/bible/genesis/16
 
 1 Abram’s wife Sarai had borne him no children. Now she had an Egyptian maidservant named Hagar. ^genesis-16-1
 
-2 Sarai said to Abram: “The L ORD has kept me from bearing children. Have intercourse with my maid; perhaps I will have sons through her.” Abram obeyed Sarai. ^genesis-16-2
+2 Sarai said to Abram: “The LORD has kept me from bearing children. Have intercourse with my maid; perhaps I will have sons through her.” Abram obeyed Sarai. ^genesis-16-2
 
 3 Thus, after Abram had lived ten years in the land of Canaan, his wife Sarai took her maid, Hagar the Egyptian, and gave her to her husband Abram to be his wife. ^genesis-16-3
 
 4 He had intercourse with her, and she became pregnant. As soon as Hagar knew she was pregnant, her mistress lost stature in her eyes. ^genesis-16-4
 
-5 So Sarai said to Abram: “This outrage against me is your fault. I myself gave my maid to your embrace; but ever since she knew she was pregnant, I have lost stature in her eyes. May the L ORD decide between you and me!” ^genesis-16-5
+5 So Sarai said to Abram: “This outrage against me is your fault. I myself gave my maid to your embrace; but ever since she knew she was pregnant, I have lost stature in her eyes. May the LORD decide between you and me!” ^genesis-16-5
 
 6 Abram told Sarai: “Your maid is in your power. Do to her what you regard as right.” Sarai then mistreated her so much that Hagar ran away from her. ^genesis-16-6
 
-7 The L ORD’s angel found her by a spring in the wilderness, the spring on the road to Shur, ^genesis-16-7
+7 The LORD’s angel found her by a spring in the wilderness, the spring on the road to Shur, ^genesis-16-7
 
 8 and he asked, “Hagar, maid of Sarai, where have you come from and where are you going?” She answered, “I am running away from my mistress, Sarai.” ^genesis-16-8
 
-9 But the L ORD’s angel told her: “Go back to your mistress and submit to her authority. ^genesis-16-9
+9 But the LORD’s angel told her: “Go back to your mistress and submit to her authority. ^genesis-16-9
 
-10 I will make your descendants so numerous,” added the L ORD’s angel, “that they will be too many to count.” ^genesis-16-10
+10 I will make your descendants so numerous,” added the LORD’s angel, “that they will be too many to count.” ^genesis-16-10
 
-11 Then the L ORD’s angel said to her: ^genesis-16-11
+11 Then the LORD’s angel said to her: ^genesis-16-11
 
 “You are now pregnant and shall bear a son;
 
 you shall name him Ishmael,
 
-For the L ORD has heeded your affliction.
+For the LORD has heeded your affliction.
 
 12 He shall be a wild ass of a man, ^genesis-16-12
 
@@ -66,7 +65,7 @@ Alongside all his kindred
 
 shall he encamp.”
 
-13 To the L ORD who spoke to her she gave a name, saying, “You are God who sees me”; she meant, “Have I really seen God and remained alive after he saw me?” ^genesis-16-13
+13 To the LORD who spoke to her she gave a name, saying, “You are God who sees me”; she meant, “Have I really seen God and remained alive after he saw me?” ^genesis-16-13
 
 14 That is why the well is called Beer-lahai-roi. It is between Kadesh and Bered. ^genesis-16-14
 
@@ -80,7 +79,7 @@ shall he encamp.”
 
 \* (16:4) Because barrenness was at that time normally blamed on the woman and regarded as a disgrace, it is not surprising that Hagar looks down on Sarah. Ancient Near Eastern legal practice addresses such cases of insolent slaves and allows disciplining of them. [Prv 30:23] uses as an example of intolerable behavior “a maidservant when she ousts her mistress.”
 
-\* (16:7) The L ORD’s angel: a manifestation of God in human form; in v. [13] the messenger is identified with God. See note on ([[exodus-03|Ex 3]]:2].
+\* (16:7) The LORD’s angel: a manifestation of God in human form; in v. [13] the messenger is identified with God. See note on ([[exodus-03|Ex 3]]:2].
 
 \* (16:11) Ishmael: in Hebrew the name means “God has heard.” It is the same Hebrew verb that is translated “heeded” in the next clause. In other ancient Near Eastern texts, the name commemorated the divine answer to the parents’ prayer to have a child, but here it is broadened to mean that God has “heard” Hagar’s plight. In vv. [13] – [14], the verb “to see” is similarly broadened to describe God’s special care for those in need.
 
@@ -110,6 +109,6 @@ i. (16:15) [[genesis-16|Gen 16]]:2; [Gal 4:22]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]

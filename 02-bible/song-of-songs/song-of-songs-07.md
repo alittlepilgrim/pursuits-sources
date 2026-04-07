@@ -1,27 +1,26 @@
 ---
-title: Song of Songs, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Song of Songs, Chapter 7
+title: Song of Songs, Chapter 7
+url: https://bible.usccb.org/bible/songofsongs/7
 aliases:
   - Song of Songs, Chapter 7
   - song-of-songs-07
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/song-of-songs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/7
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Song of Songs, Chapter 7
 ---
 
 # Song of Songs, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-#### The Beauty of the Beloved
+### The Beauty of the Beloved
 
 1 D? Turn, turn, O Shulammite! ^song-of-songs-07-1
 
@@ -67,7 +66,7 @@ your hair is like purple;
 
 a king is caught in its locks.
 
-#### Love’s Desires
+### Love’s Desires
 
 7 How beautiful you are, how fair, ^song-of-songs-07-7
 

@@ -1,25 +1,24 @@
 ---
-title: Revelation, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, Chapter 2
+title: Revelation, Chapter 2
+url: https://bible.usccb.org/bible/revelation/2
 aliases:
   - revelation-02
   - Revelation, Chapter 2
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/revelation
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/revelation/2
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, Chapter 2
 ---
 
 # Revelation, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **To Ephesus.**
 

@@ -1,37 +1,26 @@
 ---
-title: Uniformity with God's Will by St. Alphonsus de Liguori
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: A spiritual classic on perfect charity through union of our will with God's; concise treatise attributed to c. 1755.
+title: Uniformity with God's Will by St. Alphonsus de Liguori
+author: Saint Alphonsus de Liguori
+source: Christian Classics Ethereal Library
+url: https://www.ccel.org/ccel/a/alphonsus/uniformity/cache/uniformity.txt
 aliases:
   - "Uniformity with God's Will by St. Alphonsus de Liguori"
-  - 20250912-003744
   - al-uniformity
   - Uniformity with God's Will
   - Uniformity With God's Will
 tags:
-  - author/st-alphonsus
-  - book
-  - subject/ascetical-theology
-  - subject/divine-will
-  - subject/spiritual-classics
   - type/book
-author: Saint Alphonsus de Liguori
-collection: Ascetical Works — Lesser Works on Divine Love
-dates: 1696–1787
-edition: Public Domain text (based on TAN edition); CCEL transcription
-publisher: TAN Books
-source: Christian Classics Ethereal Library
-status: complete
-translator: Thomas W. Tobin, C.Ss.R.
-url: https://www.ccel.org/ccel/a/alphonsus/uniformity/cache/uniformity.txt
+created: 2025-09-12
+modified: 2026-04-06
+publish: true
+permalink: /al-uniformity-with-gods-will
+description: A spiritual classic on perfect charity through union of our will with God's; concise treatise attributed to c. 1755.
 ---
 
 # Uniformity with God's Will by St. Alphonsus de Liguori
 
-Source: 
+Source: [Uniformity with God's Will](https://www.ccel.org/ccel/a/alphonsus/uniformity/cache/uniformity.txt)
 
 ## Publication Info
 

@@ -1,19 +1,19 @@
 ---
-title: Translator's Preface to the Second Edition - The Ascent of Mt. Carmel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Translator's Preface to the Second Edition - The Ascent of Mt. Carmel
+title: Translator's Preface to the Second Edition - The Ascent of Mt. Carmel
+author: Saint John of the Cross
 aliases:
   - Translator's Preface to the Second Edition - The Ascent of Mt. Carmel
 tags:
-  - author/john-of-the-cross
+  - author/saint-john-of-the-cross
   - book
   - book/ascent-mt-carmel
   - saint/john-of-the-cross
   - type/book
-author: Saint John of the Cross
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Translator's Preface to the Second Edition - The Ascent of Mt. Carmel
 ---
 
 # Translator's Preface to the Second Edition

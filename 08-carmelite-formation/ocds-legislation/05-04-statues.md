@@ -1,16 +1,17 @@
 ---
-title: OCDS Provincial Statutes for the Oklahoma Province
-created: 2025-05-03
-modified: 2026-04-02
 type: legislation
-publish: true
+title: OCDS Provincial Statutes for the Oklahoma Province
+author: Secular Order of Discalced Carmelites
 aliases:
   - 05-04-statues
   - Ocds Provincial Statutes for the Oklahoma Province
   - OCDS Provincial Statutes for the Oklahoma Province
 tags:
   - carmel/legislation
-author: Secular Order of Discalced Carmelites
+  - type/legislation
+created: 2025-05-03
+modified: 2026-04-06
+publish: true
 ---
 
 # Ocds Provincial Statutes for the Oklahoma Province

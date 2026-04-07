@@ -1,25 +1,24 @@
 ---
-title: Revelation, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, Chapter 6
+title: Revelation, Chapter 6
+url: https://bible.usccb.org/bible/revelation/6
 aliases:
   - revelation-06
   - Revelation, Chapter 6
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/revelation
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/revelation/6
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, Chapter 6
 ---
 
 # Revelation, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **The First Six Seals.**
 

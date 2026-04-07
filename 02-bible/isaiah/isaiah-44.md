@@ -1,31 +1,30 @@
 ---
-title: Isaiah, Chapter 44
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 44
+title: Isaiah, Chapter 44
+url: https://bible.usccb.org/bible/isaiah/44
 aliases:
   - isaiah-44
   - Isaiah, Chapter 44
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/44
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 44
 ---
 
 # Isaiah, Chapter 44
 
-### Chapter 44
+## Chapter 44
 
 1 Hear then, Jacob, my servant, ^isaiah-44-1
 
 Israel, whom I have chosen.
 
-2 Thus says the L ORD who made you, ^isaiah-44-2
+2 Thus says the LORD who made you, ^isaiah-44-2
 
 your help, who formed you from the womb:
 
@@ -45,19 +44,19 @@ my blessing upon your descendants.
 
 like poplars beside flowing waters.
 
-5 One shall say, “I am the L ORD’s,” ^isaiah-44-5
+5 One shall say, “I am the LORD’s,” ^isaiah-44-5
 
 another shall be named after Jacob,
 
-And this one shall write on his hand, “The L ORD’s,”
+And this one shall write on his hand, “The LORD’s,”
 
 and receive the name Israel.
 
-#### The True God and False Gods
+### The True God and False Gods
 
-6 Thus says the L ORD, Israel’s king, ^isaiah-44-6
+6 Thus says the LORD, Israel’s king, ^isaiah-44-6
 
-its redeemer, the L ORD of hosts:
+its redeemer, the LORD of hosts:
 
 I am the first, I am the last;
 
@@ -205,7 +204,7 @@ your sins like a mist;
 
 return to me, for I have redeemed you.
 
-23 Raise a glad cry, you heavens—the L ORD has acted! ^isaiah-44-23
+23 Raise a glad cry, you heavens—the LORD has acted! ^isaiah-44-23
 
 Shout, you depths of the earth.
 
@@ -213,17 +212,17 @@ Break forth, mountains, into song,
 
 forest, with all your trees.
 
-For the L ORD has redeemed Jacob,
+For the LORD has redeemed Jacob,
 
 shows his glory through Israel.
 
-#### Cyrus, Anointed of the Lord, Agent of Israel’s Liberation
+### Cyrus, Anointed of the Lord, Agent of Israel’s Liberation
 
-24 Thus says the L ORD, your redeemer, ^isaiah-44-24
+24 Thus says the LORD, your redeemer, ^isaiah-44-24
 
 who formed you from the womb:
 
-I am the L ORD, who made all things,
+I am the LORD, who made all things,
 
 who alone stretched out the heavens,
 

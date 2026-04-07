@@ -1,73 +1,72 @@
 ---
-title: Judges, Chapter 2
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 2
+title: Judges, Chapter 2
+url: https://bible.usccb.org/bible/judges/2
 aliases:
   - judges-02
   - Judges, Chapter 2
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 2
 ---
 
 # Judges, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Infidelities of the Israelites.**
 
-1 A messenger of the L ORD went up from Gilgal to Bochim and said, I brought you up from Egypt and led you into the land which I promised on oath to your ancestors. I said, I will never break my covenant with you, ^judges-02-1
+1 A messenger of the LORD went up from Gilgal to Bochim and said, I brought you up from Egypt and led you into the land which I promised on oath to your ancestors. I said, I will never break my covenant with you, ^judges-02-1
 
 2 but you must not make a covenant with the inhabitants of this land; you must pull down their altars. But you did not listen to me. Look what you have done! ^judges-02-2
 
 3 For I also said, I will not clear them out of your way; they will become traps for you, and their gods a snare for you. ^judges-02-3
 
-4 When the messenger of the L ORD had spoken these things to all the Israelites, the people wept aloud. ^judges-02-4
+4 When the messenger of the LORD had spoken these things to all the Israelites, the people wept aloud. ^judges-02-4
 
-5 They named that place Bochim, and they offered sacrifice there to the L ORD. ^judges-02-5
+5 They named that place Bochim, and they offered sacrifice there to the LORD. ^judges-02-5
 
 6 Then Joshua dismissed the people, and the Israelites went, each to their own heritage, to take possession of the land. ^judges-02-6
 
-7 The people served the L ORD during the entire lifetime of Joshua, and of those elders who outlived Joshua and who had seen all the great work the L ORD had done for Israel. ^judges-02-7
+7 The people served the LORD during the entire lifetime of Joshua, and of those elders who outlived Joshua and who had seen all the great work the LORD had done for Israel. ^judges-02-7
 
-8 Joshua, son of Nun, the servant of the L ORD, died at the age of a hundred and ten, ^judges-02-8
+8 Joshua, son of Nun, the servant of the LORD, died at the age of a hundred and ten, ^judges-02-8
 
 9 and they buried him within the borders of his heritage at Timnath-heres in the mountain region of Ephraim north of Mount Gaash. ^judges-02-9
 
-10 When the rest of that generation were also gathered to their ancestors, and a later generation arose that did not know the L ORD or the work he had done for Israel, ^judges-02-10
+10 When the rest of that generation were also gathered to their ancestors, and a later generation arose that did not know the LORD or the work he had done for Israel, ^judges-02-10
 
-11 the Israelites did what was evil in the sight of the L ORD. They served the Baals, ^judges-02-11
+11 the Israelites did what was evil in the sight of the LORD. They served the Baals, ^judges-02-11
 
-12 and abandoned the L ORD, the God of their ancestors, the one who had brought them out of the land of Egypt. They followed other gods, the gods of the peoples around them, and bowed down to them, and provoked the L ORD. ^judges-02-12
+12 and abandoned the LORD, the God of their ancestors, the one who had brought them out of the land of Egypt. They followed other gods, the gods of the peoples around them, and bowed down to them, and provoked the LORD. ^judges-02-12
 
-13 Because they had abandoned the L ORD and served Baal and the Astartes, ^judges-02-13
+13 Because they had abandoned the LORD and served Baal and the Astartes, ^judges-02-13
 
-14 the anger of the L ORD flared up against Israel, and he delivered them into the power of plunderers who despoiled them. He sold them into the power of the enemies around them, and they were no longer able to withstand their enemies. ^judges-02-14
+14 the anger of the LORD flared up against Israel, and he delivered them into the power of plunderers who despoiled them. He sold them into the power of the enemies around them, and they were no longer able to withstand their enemies. ^judges-02-14
 
-15 Whenever they marched out, the hand of the L ORD turned against them, as the L ORD had said, and as the L ORD had sworn to them; and they were in great distress. ^judges-02-15
+15 Whenever they marched out, the hand of the LORD turned against them, as the LORD had said, and as the LORD had sworn to them; and they were in great distress. ^judges-02-15
 
-16 But the L ORD raised up judges to save them from the power of their plunderers; ^judges-02-16
+16 But the LORD raised up judges to save them from the power of their plunderers; ^judges-02-16
 
-17 but they did not listen to their judges either, for they prostituted themselves by following other gods, bowing down to them. They were quick to stray from the way their ancestors had taken, who obeyed the commandments of the L ORD; but these did not. ^judges-02-17
+17 but they did not listen to their judges either, for they prostituted themselves by following other gods, bowing down to them. They were quick to stray from the way their ancestors had taken, who obeyed the commandments of the LORD; but these did not. ^judges-02-17
 
-18 When the L ORD raised up judges for them, he would be with the judge and save them from the power of their enemies as long as the judge lived. The L ORD would change his mind when they groaned in their affliction under their oppressors. ^judges-02-18
+18 When the LORD raised up judges for them, he would be with the judge and save them from the power of their enemies as long as the judge lived. The LORD would change his mind when they groaned in their affliction under their oppressors. ^judges-02-18
 
 19 But when the judge died, they would again do worse than their ancestors, following other gods, serving and bowing down to them, relinquishing none of their evil practices or stubborn ways. ^judges-02-19
 
-20 The anger of the L ORD flared up against Israel, and he said: Because this nation has transgressed my covenant, which I enjoined on their ancestors, and has not listened to me, ^judges-02-20
+20 The anger of the LORD flared up against Israel, and he said: Because this nation has transgressed my covenant, which I enjoined on their ancestors, and has not listened to me, ^judges-02-20
 
 21 I for my part will not clear away for them any more of the nations Joshua left when he died. ^judges-02-21
 
-22 They will be made to test Israel, to see whether or not they will keep to the way of the L ORD and continue in it as their ancestors did. ^judges-02-22
+22 They will be made to test Israel, to see whether or not they will keep to the way of the LORD and continue in it as their ancestors did. ^judges-02-22
 
-23 Therefore the L ORD allowed these nations to remain instead of expelling them immediately. He had not delivered them into the power of Joshua. ^judges-02-23
+23 Therefore the LORD allowed these nations to remain instead of expelling them immediately. He had not delivered them into the power of Joshua. ^judges-02-23
 
 \* (2:3) I also said: the Lord explicitly warned the Israelites of the consequences of disobedience; see [Nm 33:55] and especially [Jos 23:13].
 

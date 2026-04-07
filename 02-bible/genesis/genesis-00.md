@@ -1,35 +1,35 @@
 ---
-title: Genesis, Chapter Index
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, the Book of Genesis
+title: Genesis, Chapter Index
+url: https://bible.usccb.org/bible/genesis/0
 aliases:
   - genesis-00
   - Genesis, Chapter Index
 tags:
   - bible
+  - bible/book
   - bible/genesis
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, the Book of Genesis
 bible_book: genesis
 bible_chapter: "00"
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/genesis/0
 ---
 
 [[genesis-01|[Next Note →]]]
 
 ---
 
-## The Book of Genesis
+# The Book of Genesis
 
 Genesis is the first book of the Pentateuch (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), the first section of the Jewish and the Christian Scriptures. Its title in English, “Genesis,” comes from the Greek of [Gn 2:4], literally, “the book of the generation (*genesis*) of the heavens and earth.” Its title in the Jewish Scriptures is the opening Hebrew word, *Bereshit*, “in the beginning.”
 
 The book has two major sections—the creation and expansion of the human race ([2:4] – [11:9]), and the story of [[abraham|Abraham]] and his descendants ([11:10] – [50:26]). The first section deals with God and the nations, and the second deals with God and a particular nation, Israel. The opening creation account ([1:1] – [2:3]) lifts up two themes that play major roles in each section—the divine command to the first couple (standing for the whole race) to produce offspring and to possess land ([1:28]). In the first section, progeny and land appear in the form of births and genealogies (chaps. [2] – [9]) and allotment of land (chaps. [10] – [11]), and in the second, progeny and land appear in the form of promises of descendants and land to the ancestors. Another indication of editing is the formulaic introduction, “this is the story; these are the descendants” (Hebrew *tōledôt*), which occurs five times in Section I ([2:4]; [5:1]; [6:9]; [10:1]; [10:31]) and five times in Section II ([11:10]; [25:12], [19]; [36:1] \[v. [9] is an addition\]; [37:2]).
 
-#### The Composition of the Book
+## The Composition of the Book
 
 For the literary sources of Genesis, see Introduction to the Pentateuch. As far as the sources of Genesis are concerned, contemporary readers can reasonably assume that ancient traditions (J and E) were edited in the sixth or fifth century B.C. for a Jewish audience that had suffered the effects of the exile and was now largely living outside of Palestine. The editor highlighted themes of vital concern to this audience: God intends that every nation have posterity and land; the ancestors of Israel are models for their descendants who also live in hope rather than in full possession of what has been promised; the ancient covenant with God is eternal, remaining valid even when the human party has been unfaithful. By highlighting such concerns, the editor addressed the worries of exiled Israel and indeed of contemporary Jews and Christians.
 
@@ -45,11 +45,11 @@ The historicity of the ancestral stories has been much discussed. Scholars have 
 
 The last cycle of ancestor stories is about Jacob’s son Joseph ([37:1] – [50:26], though in chaps. [48] – [49] the focus swings back to Jacob). The Joseph stories are sophisticated in theme, deftly plotted, and show keen interest in the psychology of the characters. Jacob’s favoring of Joseph, the son of his beloved wife Rachel, provokes his brothers to kill him. Joseph escapes death through the intercession of Reuben, the eldest, and of Judah, but is sold into slavery in Egypt. In the immediately following chap. [38], Judah undergoes experiences similar to Joseph’s. Joseph, endowed by God with wisdom, becomes second only to Pharaoh in Egypt. From that powerful position, he encounters his unsuspecting brothers who have come to Egypt because of the famine, and tests them to see if they have repented. Joseph learns that they have given up their hatred because of their love for Israel, their father. Judah, who seems to have inherited the mantle of the failed oldest brother Reuben, expresses the brothers’ new and profound appreciation of their father and Joseph (chap. [44]). At the end of Genesis, the entire family of Jacob/Israel is in Egypt, which prepares for the events in the Book of Exodus.
 
-#### Genesis in Later Biblical Books
+## Genesis in Later Biblical Books
 
 The historical and prophetic books constantly refer to the covenant with the ancestors [[abraham|Abraham]], Isaac, and Jacob. [Hos 10] sees the traits of Jacob in the behavior of the Israel of his own day. [Is 51:2] cites [[abraham|Abraham]] and Sarah as a model for his dispirited community, for though only a couple, they became a great nation. [Jn 1], “In the beginning was the word,” alludes to [Gn 1:1] (and [Prv 8:22]) to show that Jesus is creating a new world. St. Paul interprets Jesus as the New Adam in [Rom 5:14] and [1 Cor 15:22], [24], whose obedience brings life just as the Old Adam’s disobedience brought death. In [Rom 4], Paul cites [[abraham|Abraham]] as someone who was righteous in God’s eyes centuries before the Law was given at Sinai.
 
-#### Outline of Genesis
+## Outline of Genesis
 
 1. Preamble. The Creation of the World ([1:1] – [2:3])
 2. I. The Story of the Nations ([2:4] – [11:26])
@@ -121,6 +121,6 @@ The historical and prophetic books constantly refer to the covenant with the anc
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-01|[Next Note →]]]

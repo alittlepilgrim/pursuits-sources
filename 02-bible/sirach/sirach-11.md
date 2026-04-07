@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 11
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 11
+title: Sirach, Chapter 11
+url: https://bible.usccb.org/bible/sirach/11
 aliases:
   - sirach-11
   - Sirach, Chapter 11
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/11
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 11
 ---
 
 # Sirach, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 1 The wisdom of the poor lifts their head high ^sirach-11-1
 
@@ -37,7 +36,7 @@ but it reaps the choicest of harvests.
 
 or scoff at a person’s bitter day.
 
-For strange are the deeds of the L ORD,
+For strange are the deeds of the LORD,
 
 hidden from mortals his work.
 
@@ -49,7 +48,7 @@ some that none would consider wear a crown.
 
 many the honored who are given into the power of the few.
 
-#### Moderation and Patience
+### Moderation and Patience
 
 7 Before investigating, do not find fault; ^sirach-11-7
 
@@ -79,7 +78,7 @@ and fall short all the same.
 
 with little strength and great misery—
 
-Yet the eye of the L ORD looks favorably upon them,
+Yet the eye of the LORD looks favorably upon them,
 
 shaking them free of the stinking mire.
 
@@ -89,7 +88,7 @@ to the amazement of the many.
 
 14 Good and evil, life and death, ^sirach-11-14
 
-poverty and riches—all are from the L ORD.
+poverty and riches—all are from the LORD.
 
 17 The Lord’s gift remains with the devout; ^sirach-11-17
 
@@ -113,9 +112,9 @@ grow old while doing your work.
 
 21 Do not marvel at the works of a sinner, ^sirach-11-21
 
-but trust in the L ORD and wait for his light;
+but trust in the LORD and wait for his light;
 
-For it is easy in the eyes of the L ORD
+For it is easy in the eyes of the LORD
 
 suddenly, in an instant, to make the poor rich.
 
@@ -147,7 +146,7 @@ at the end of life one’s deeds are revealed.
 
 for how they end, they are known.
 
-#### Care in Choosing Friends
+### Care in Choosing Friends
 
 29 Not everyone should be brought into your house, ^sirach-11-29
 

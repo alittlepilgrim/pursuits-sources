@@ -1,29 +1,28 @@
 ---
-title: 2 Kings, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Kings, Chapter 5
+title: 2 Kings, Chapter 5
+url: https://bible.usccb.org/bible/2kings/5
 aliases:
   - 2 Kings, Chapter 5
   - 2-kings-05
 tags:
   - bible/2-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2kings/5
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Kings, Chapter 5
 ---
 
 # 2 Kings, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Elisha Cures Naaman’s Leprosy.**
 
-1 Naaman, the army commander of the king of Aram, was highly esteemed and respected by his master, for through him the L ORD had brought victory to Aram. But valiant as he was, the man was a leper. ^2-kings-05-1
+1 Naaman, the army commander of the king of Aram, was highly esteemed and respected by his master, for through him the LORD had brought victory to Aram. But valiant as he was, the man was a leper. ^2-kings-05-1
 
 2 Now the Arameans had captured from the land of Israel in a raid a little girl, who became the servant of Naaman’s wife. ^2-kings-05-2
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/2kings/5
 
 10 Elisha sent him the message: “Go and wash seven times in the Jordan, and your flesh will heal, and you will be clean.” ^2-kings-05-10
 
-11 But Naaman went away angry, saying, “I thought that he would surely come out to me and stand there to call on the name of the L ORD his God, and would move his hand over the place, and thus cure the leprous spot. ^2-kings-05-11
+11 But Naaman went away angry, saying, “I thought that he would surely come out to me and stand there to call on the name of the LORD his God, and would move his hand over the place, and thus cure the leprous spot. ^2-kings-05-11
 
 12 Are not the rivers of Damascus, the Abana and the Pharpar, better than all the waters of Israel? Could I not wash in them and be cleansed?” With this, he turned about in anger and left. ^2-kings-05-12
 
@@ -53,17 +52,17 @@ url: https://bible.usccb.org/bible/2kings/5
 
 15 He returned with his whole retinue to the man of God. On his arrival he stood before him and said, “Now I know that there is no God in all the earth, except in Israel. Please accept a gift from your servant.” ^2-kings-05-15
 
-16 Elisha replied, “As the L ORD lives whom I serve, I will not take it.” And despite Naaman’s urging, he still refused. ^2-kings-05-16
+16 Elisha replied, “As the LORD lives whom I serve, I will not take it.” And despite Naaman’s urging, he still refused. ^2-kings-05-16
 
-17 Naaman said: “If you will not accept, please let me, your servant, have two mule-loads of earth, for your servant will no longer make burnt offerings or sacrifices to any other god except the L ORD. ^2-kings-05-17
+17 Naaman said: “If you will not accept, please let me, your servant, have two mule-loads of earth, for your servant will no longer make burnt offerings or sacrifices to any other god except the LORD. ^2-kings-05-17
 
-18 But may the L ORD forgive your servant this: when my master enters the temple of Rimmon to bow down there, as he leans upon my arm, I too must bow down in the temple of Rimmon. When I bow down in the temple of Rimmon, may the L ORD please forgive your servant this.” ^2-kings-05-18
+18 But may the LORD forgive your servant this: when my master enters the temple of Rimmon to bow down there, as he leans upon my arm, I too must bow down in the temple of Rimmon. When I bow down in the temple of Rimmon, may the LORD please forgive your servant this.” ^2-kings-05-18
 
 19 Elisha said to him, “Go in peace.” ^2-kings-05-19
 
 Naaman had gone some distance
 
-20 when Gehazi, the servant of Elisha, the man of God, thought to himself: “My master was too easy on this Aramean Naaman, not accepting what he brought. As the L ORD lives, I will run after him and get something out of him.” ^2-kings-05-20
+20 when Gehazi, the servant of Elisha, the man of God, thought to himself: “My master was too easy on this Aramean Naaman, not accepting what he brought. As the LORD lives, I will run after him and get something out of him.” ^2-kings-05-20
 
 21 So Gehazi hurried after Naaman. Seeing that someone was running after him, Naaman alighted from his chariot to wait for him. He asked, “Is everything all right?” ^2-kings-05-21
 

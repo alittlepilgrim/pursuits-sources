@@ -1,18 +1,17 @@
 ---
-title: Psalm 136
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 136
+title: Psalm 136
+url: https://bible.usccb.org/bible/psalms/136
 aliases:
   - Psalm 136
   - psalm-136
 tags:
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/136
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 136
 ---
 
 # Psalm 136

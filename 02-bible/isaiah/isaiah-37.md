@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 37
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 37
+title: Isaiah, Chapter 37
+url: https://bible.usccb.org/bible/isaiah/37
 aliases:
   - isaiah-37
   - Isaiah, Chapter 37
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/37
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 37
 ---
 
 # Isaiah, Chapter 37
 
-### Chapter 37
+## Chapter 37
 
-1 When King Hezekiah heard this, he tore his garments, covered himself with sackcloth, and went into the house of the L ORD. ^isaiah-37-1
+1 When King Hezekiah heard this, he tore his garments, covered himself with sackcloth, and went into the house of the LORD. ^isaiah-37-1
 
 2 He sent Eliakim, the master of the palace, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to tell the prophet Isaiah, son of Amoz, ^isaiah-37-2
 
@@ -35,11 +34,11 @@ Children are due to come forth,
 
 but the strength to give birth is lacking.
 
-4 Perhaps the L ORD, your God, will hear the words of the commander, whom his lord, the king of Assyria, sent to taunt the living God, and will rebuke him for the words which the L ORD, your God, has heard. So lift up a prayer for the remnant that is here.” ^isaiah-37-4
+4 Perhaps the LORD, your God, will hear the words of the commander, whom his lord, the king of Assyria, sent to taunt the living God, and will rebuke him for the words which the LORD, your God, has heard. So lift up a prayer for the remnant that is here.” ^isaiah-37-4
 
 5 When the servants of King Hezekiah had come to Isaiah, ^isaiah-37-5
 
-6 he said to them: “Tell this to your lord: Thus says the L ORD: Do not be frightened by the words you have heard, by which the deputies of the king of Assyria have blasphemed me. ^isaiah-37-6
+6 he said to them: “Tell this to your lord: Thus says the LORD: Do not be frightened by the words you have heard, by which the deputies of the king of Assyria have blasphemed me. ^isaiah-37-6
 
 7 I am putting in him such a spirit ^isaiah-37-7
 
@@ -61,11 +60,11 @@ I will make him fall by the sword in his land.”
 
 13 Where are the king of Hamath, the king of Arpad, or a king of the cities Sepharvaim, Hena or Ivvah?” ^isaiah-37-13
 
-14 Hezekiah took the letter from the hand of the messengers and read it; then he went up to the house of the L ORD, and spreading it out before the L ORD, ^isaiah-37-14
+14 Hezekiah took the letter from the hand of the messengers and read it; then he went up to the house of the LORD, and spreading it out before the LORD, ^isaiah-37-14
 
-15 Hezekiah prayed to the L ORD: ^isaiah-37-15
+15 Hezekiah prayed to the LORD: ^isaiah-37-15
 
-16 “L ORD of hosts, God of Israel, ^isaiah-37-16
+16 “LORD of hosts, God of Israel, ^isaiah-37-16
 
 enthroned on the cherubim!
 
@@ -77,15 +76,15 @@ It is you who made
 
 the heavens and the earth.
 
-17 Incline your ear, L ORD, and listen! ^isaiah-37-17
+17 Incline your ear, LORD, and listen! ^isaiah-37-17
 
-open your eyes, L ORD, and see!
+open your eyes, LORD, and see!
 
 Hear all the words Sennacherib has sent
 
 to taunt the living God.
 
-18 Truly, O L ORD, ^isaiah-37-18
+18 Truly, O LORD, ^isaiah-37-18
 
 the kings of Assyria have laid waste
 
@@ -99,17 +98,17 @@ but the work of human hands—
 
 Wood and stone, they destroyed them.
 
-20 Therefore, L ORD, our God, ^isaiah-37-20
+20 Therefore, LORD, our God, ^isaiah-37-20
 
 save us from this man’s power,
 
 That all the kingdoms of the earth may know
 
-that you alone, L ORD, are God.”
+that you alone, LORD, are God.”
 
-21 Then Isaiah, son of Amoz, sent this message to Hezekiah: “Thus says the L ORD, the God of Israel, to whom you have prayed concerning Sennacherib, king of Assyria: I have listened! ^isaiah-37-21
+21 Then Isaiah, son of Amoz, sent this message to Hezekiah: “Thus says the LORD, the God of Israel, to whom you have prayed concerning Sennacherib, king of Assyria: I have listened! ^isaiah-37-21
 
-22 This is the word the L ORD has spoken concerning him: ^isaiah-37-22
+22 This is the word the LORD has spoken concerning him: ^isaiah-37-22
 
 She despises you, laughs you to scorn,
 
@@ -213,9 +212,9 @@ and bear fruit above.
 
 and from Mount Zion, survivors.
 
-The zeal of the L ORD of hosts shall do this.
+The zeal of the LORD of hosts shall do this.
 
-33 Therefore, thus says the L ORD about the king of Assyria: ^isaiah-37-33
+33 Therefore, thus says the LORD about the king of Assyria: ^isaiah-37-33
 
 He shall not come as far as this city,
 
@@ -229,13 +228,13 @@ Nor cast up a siege-work against it.
 
 never coming as far as this city,
 
-oracle of the L ORD.
+oracle of the LORD.
 
 35 I will shield and save this city ^isaiah-37-35
 
 for my own sake and the sake of David my servant.”
 
-36 Then the angel of the L ORD went forth and struck down one hundred and eighty-five thousand in the Assyrian camp. Early the next morning, there they were, all those corpses, dead! ^isaiah-37-36
+36 Then the angel of the LORD went forth and struck down one hundred and eighty-five thousand in the Assyrian camp. Early the next morning, there they were, all those corpses, dead! ^isaiah-37-36
 
 37 So Sennacherib, the king of Assyria, broke camp, departed, returned home, and stayed in Nineveh. ^isaiah-37-37
 

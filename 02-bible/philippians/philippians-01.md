@@ -1,25 +1,24 @@
 ---
-title: Philippians, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Philippians, Chapter 1
+title: Philippians, Chapter 1
+url: https://bible.usccb.org/bible/philippians/1
 aliases:
   - philippians-01
   - Philippians, Chapter 1
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/philippians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/philippians/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Philippians, Chapter 1
 ---
 
 # Philippians, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Greeting.**
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/philippians/1
 
 11 filled with the fruit of righteousness that comes through Jesus Christ for the glory and praise of God. ^philippians-01-11
 
-## Ii. Progress of the Gospel
+# Ii. Progress of the Gospel
 
 12 I want you to know, brothers, that my situation has turned out rather to advance the gospel, ^philippians-01-12
 
@@ -81,7 +80,7 @@ Indeed I shall continue to rejoice,
 
 26 so that your boasting in Christ Jesus may abound on account of me when I come to you again. ^philippians-01-26
 
-## Iii. Instructions for the Community
+# Iii. Instructions for the Community
 
 **Steadfastness in Faith.**
 

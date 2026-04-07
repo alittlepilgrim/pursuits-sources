@@ -1,29 +1,28 @@
 ---
-title: Micah, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Micah, Chapter 1
+title: Micah, Chapter 1
+url: https://bible.usccb.org/bible/micah/1
 aliases:
   - micah-01
   - Micah, Chapter 1
 tags:
+  - bible/chapter
   - bible/micah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/micah/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Micah, Chapter 1
 ---
 
 # Micah, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-1 The word of the L ORD which came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem. ^micah-01-1
+1 The word of the LORD which came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem. ^micah-01-1
 
-## I. Oracles of Punishment
+# I. Oracles of Punishment
 
 2 Hear, O peoples, all of you, ^micah-01-2
 
@@ -33,7 +32,7 @@ Let the Lord G OD be witness against you,
 
 the Lord from his holy temple!
 
-3 For see, the L ORD goes out from his place ^micah-01-3
+3 For see, the LORD goes out from his place ^micah-01-3
 
 and descending, treads upon the heights of the earth.
 
@@ -113,7 +112,7 @@ It will withdraw its support from you.
 
 hope for good,
 
-But evil has come down from the L ORD
+But evil has come down from the LORD
 
 to the gate of Jerusalem.
 

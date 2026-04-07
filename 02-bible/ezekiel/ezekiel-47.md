@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 47
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 47
+title: Ezekiel, Chapter 47
+url: https://bible.usccb.org/bible/ezekiel/47
 aliases:
   - ezekiel-47
   - Ezekiel, Chapter 47
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/47
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 47
 ---
 
 # Ezekiel, Chapter 47
 
-### Chapter 47
+## Chapter 47
 
 **The Wonderful Stream.**
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/ezekiel/47
 
 12 Along each bank of the river every kind of fruit tree will grow; their leaves will not wither, nor will their fruit fail. Every month they will bear fresh fruit because the waters of the river flow out from the sanctuary. Their fruit is used for food, and their leaves for healing.” ^ezekiel-47-12
 
-#### The New Israel
+### The New Israel
 
 **Boundaries of the Land.**
 

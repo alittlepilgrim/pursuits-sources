@@ -1,27 +1,26 @@
 ---
-title: Hosea, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 6
+title: Hosea, Chapter 6
+url: https://bible.usccb.org/bible/hosea/6
 aliases:
   - hosea-06
   - Hosea, Chapter 6
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 6
 ---
 
 # Hosea, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
-1 “Come, let us return to the L ORD, ^hosea-06-1
+1 “Come, let us return to the LORD, ^hosea-06-1
 
 For it is he who has torn, but he will heal us;
 
@@ -33,7 +32,7 @@ on the third day he will raise us up,
 
 to live in his presence.
 
-3 Let us know, let us strive to know the L ORD; ^hosea-06-3
+3 Let us know, let us strive to know the LORD; ^hosea-06-3
 
 as certain as the dawn is his coming.
 
@@ -59,7 +58,7 @@ my judgment shines forth like the light.
 
 and knowledge of God rather than burnt offerings.
 
-#### Further Crimes of Israel
+### Further Crimes of Israel
 
 7 But they, at Adam, violated the covenant; ^hosea-06-7
 

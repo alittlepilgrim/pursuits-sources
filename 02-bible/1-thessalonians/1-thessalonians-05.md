@@ -1,25 +1,24 @@
 ---
-title: 1 Thessalonians, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Thessalonians, Chapter 5
+title: 1 Thessalonians, Chapter 5
+url: https://bible.usccb.org/bible/1thessalonians/5
 aliases:
   - 1 Thessalonians, Chapter 5
   - 1-thessalonians-05
 tags:
   - bible/1-thessalonians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1thessalonians/5
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Thessalonians, Chapter 5
 ---
 
 # 1 Thessalonians, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 **Vigilance.**
 
@@ -77,7 +76,7 @@ url: https://bible.usccb.org/bible/1thessalonians/5
 
 25 Brothers, pray for us \[too\]. ^1-thessalonians-05-25
 
-## Iv. Final Greeting
+# Iv. Final Greeting
 
 26 Greet all the brothers with a holy kiss. ^1-thessalonians-05-26
 

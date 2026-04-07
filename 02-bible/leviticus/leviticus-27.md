@@ -1,31 +1,30 @@
 ---
-title: Leviticus, Chapter 27
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 27
+title: Leviticus, Chapter 27
+url: https://bible.usccb.org/bible/leviticus/27
 aliases:
   - leviticus-27
   - Leviticus, Chapter 27
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/27
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 27
 ---
 
 # Leviticus, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 **Votive Offerings and Dedications.**
 
-1 The L ORD said to Moses: ^leviticus-27-1
+1 The LORD said to Moses: ^leviticus-27-1
 
-2 Speak to the Israelites and tell them: When anyone makes a vow to the L ORD with respect to the value of a human being, ^leviticus-27-2
+2 Speak to the Israelites and tell them: When anyone makes a vow to the LORD with respect to the value of a human being, ^leviticus-27-2
 
 3 the value for males between the ages of twenty and sixty shall be fifty silver shekels, by the sanctuary shekel; ^leviticus-27-3
 
@@ -39,21 +38,21 @@ url: https://bible.usccb.org/bible/leviticus/27
 
 8 However, if the one who made the vow is too poor to meet the sum, the person must be set before the priest, who shall determine a value; the priest will do this in keeping with the means of the one who made the vow. ^leviticus-27-8
 
-9 If the offering vowed to the L ORD is an animal that may be sacrificed, every such animal given to the L ORD becomes sacred. ^leviticus-27-9
+9 If the offering vowed to the LORD is an animal that may be sacrificed, every such animal given to the LORD becomes sacred. ^leviticus-27-9
 
 10 The offerer shall not substitute or exchange another for it, either a worse or a better one. If the offerer exchanges one animal in place of another, both the original and its substitute shall become sacred. ^leviticus-27-10
 
-11 If any unclean animal which is unfit for sacrifice to the L ORD is vowed, it must be set before the priest, ^leviticus-27-11
+11 If any unclean animal which is unfit for sacrifice to the LORD is vowed, it must be set before the priest, ^leviticus-27-11
 
 12 who shall determine its value in keeping with its good or bad qualities, and the value set by the priest shall stand. ^leviticus-27-12
 
 13 If the offerer wishes to redeem the animal, the person shall pay one fifth more than this valuation. ^leviticus-27-13
 
-14 When someone dedicates a house as sacred to the L ORD, the priest shall determine its value in keeping with its good or bad qualities, and the value set by the priest shall stand. ^leviticus-27-14
+14 When someone dedicates a house as sacred to the LORD, the priest shall determine its value in keeping with its good or bad qualities, and the value set by the priest shall stand. ^leviticus-27-14
 
 15 A person dedicating a house who then wishes to redeem it shall pay one fifth more than the price thus established, and then it will again belong to that individual. ^leviticus-27-15
 
-16 If someone dedicates to the L ORD a portion of hereditary land, its valuation shall be made according to the amount of seed required to sow it, the acreage sown with a homer of barley seed being valued at fifty silver shekels. ^leviticus-27-16
+16 If someone dedicates to the LORD a portion of hereditary land, its valuation shall be made according to the amount of seed required to sow it, the acreage sown with a homer of barley seed being valued at fifty silver shekels. ^leviticus-27-16
 
 17 If the dedication of a field is made at the beginning of a jubilee period, the full valuation shall hold; ^leviticus-27-17
 
@@ -63,11 +62,11 @@ url: https://bible.usccb.org/bible/leviticus/27
 
 20 If, instead of redeeming such a field, one sells it to another, it may no longer be redeemed; ^leviticus-27-20
 
-21 but at the jubilee it shall be released as sacred to the L ORD; like a field that is put under the ban, it shall become priestly property. ^leviticus-27-21
+21 but at the jubilee it shall be released as sacred to the LORD; like a field that is put under the ban, it shall become priestly property. ^leviticus-27-21
 
-22 If someone dedicates to the L ORD a field that was purchased and was not part of hereditary property, ^leviticus-27-22
+22 If someone dedicates to the LORD a field that was purchased and was not part of hereditary property, ^leviticus-27-22
 
-23 the priest shall compute its value in proportion to the number of years until the next jubilee, and on the same day the person shall pay the price thus established, a sacred donation to the L ORD; ^leviticus-27-23
+23 the priest shall compute its value in proportion to the number of years until the next jubilee, and on the same day the person shall pay the price thus established, a sacred donation to the LORD; ^leviticus-27-23
 
 24 at the jubilee the field shall revert to the hereditary owner of this land from whom it had been purchased. ^leviticus-27-24
 
@@ -75,23 +74,23 @@ url: https://bible.usccb.org/bible/leviticus/27
 
 **Irredeemable Offerings.**
 
-26 Note that a firstborn animal, which as such already belongs to the L ORD, may not be dedicated. Whether an ox or a sheep, it is the L ORD’s. ^leviticus-27-26
+26 Note that a firstborn animal, which as such already belongs to the LORD, may not be dedicated. Whether an ox or a sheep, it is the LORD’s. ^leviticus-27-26
 
 27 But if it is an unclean animal, it may be redeemed by paying one fifth more than its value. If it is not redeemed, it shall be sold at its value. ^leviticus-27-27
 
-28 Note, also, that any possession which someone puts under the ban for the L ORD, whether it is a human being, an animal, or a hereditary field, shall be neither sold nor redeemed; everything that is put under the ban becomes most holy to the L ORD. ^leviticus-27-28
+28 Note, also, that any possession which someone puts under the ban for the LORD, whether it is a human being, an animal, or a hereditary field, shall be neither sold nor redeemed; everything that is put under the ban becomes most holy to the LORD. ^leviticus-27-28
 
 29 All human beings that are put under the ban cannot be redeemed; they must be put to death. ^leviticus-27-29
 
-30 All tithes of the land, whether in grain from the fields or in fruit from the trees, belong to the L ORD; they are sacred to the L ORD. ^leviticus-27-30
+30 All tithes of the land, whether in grain from the fields or in fruit from the trees, belong to the LORD; they are sacred to the LORD. ^leviticus-27-30
 
 31 If someone wishes to redeem any of the tithes, the person shall pay one fifth more than their value. ^leviticus-27-31
 
-32 The tithes of the herd and the flock, every tenth animal that passes under the herdsman’s rod, shall be sacred to the L ORD. ^leviticus-27-32
+32 The tithes of the herd and the flock, every tenth animal that passes under the herdsman’s rod, shall be sacred to the LORD. ^leviticus-27-32
 
 33 It shall not matter whether good ones or bad ones are thus chosen, and no exchange may be made. If any exchange is made, both the original animal and its substitute become sacred and cannot be redeemed. ^leviticus-27-33
 
-34 These are the commandments which the L ORD gave Moses on Mount Sinai for the Israelites. ^leviticus-27-34
+34 These are the commandments which the LORD gave Moses on Mount Sinai for the Israelites. ^leviticus-27-34
 
 \* (27:2] – [13) Vows are conditional promissory oaths. One covenants to do something for the benefit of God, usually to make a dedication, if God fulfills the individual’s accompanying request (cf. [Gn 28:20] – [21]; [Jgs 11:30] – [31]; [1 Sm 1:11]; [2 Sm 15:7] – [8]; [Ps 56:13] – [14]). Vows must be fulfilled ([Nm 30:3]; [Dt 23:22]; cf. [Ps 66:13] – [15]). Verses [2] – [8] deal with votive offerings involving human beings. Actual dedication of human beings (cf. [Jgs 11:30] – [31], [34] – [40]; [1 Sm 1:11], [24] – [28]) is obviated by payment of the person’s value (mentioned in the temple income in [[2-kings-12|2 Kgs 12]]:5). The values reflect the different economic and administrative roles of people in different age and gender groups within ancient Israelite society. Verses [9] – [13] concern the bringing of animals for a vow.
 
@@ -99,7 +98,7 @@ url: https://bible.usccb.org/bible/leviticus/27
 
 \* (27:14] – [24) These verses deal with dedications. They take effect when uttered and, unlike vows, they are not conditional. They are related to the jubilee year laws in [25:23] – [31].
 
-\* (27:14) House as sacred to the L ORD: the house becomes sanctuary property and presumably may be sold to another if the owner does not redeem it (cf. notes on vv. [20] and [21]). While [25:31] requires that unredeemed houses in unwalled towns be returned to the original owners at the jubilee, in the laws here such houses apparently become the property of the sanctuary (cf. v. [21]). It is likely that dedicated houses in a walled city needed to be redeemed within one year, following [25:29] – [30].
+\* (27:14) House as sacred to the LORD: the house becomes sanctuary property and presumably may be sold to another if the owner does not redeem it (cf. notes on vv. [20] and [21]). While [25:31] requires that unredeemed houses in unwalled towns be returned to the original owners at the jubilee, in the laws here such houses apparently become the property of the sanctuary (cf. v. [21]). It is likely that dedicated houses in a walled city needed to be redeemed within one year, following [25:29] – [30].
 
 \* (27:16) Homer: see note on [Is 5:10].
 

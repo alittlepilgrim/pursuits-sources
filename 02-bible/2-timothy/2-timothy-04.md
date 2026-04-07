@@ -1,25 +1,24 @@
 ---
-title: 2 Timothy, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Timothy, Chapter 4
+title: 2 Timothy, Chapter 4
+url: https://bible.usccb.org/bible/2timothy/4
 aliases:
   - 2 Timothy, Chapter 4
   - 2-timothy-04
 tags:
   - bible/2-timothy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2timothy/4
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Timothy, Chapter 4
 ---
 
 # 2 Timothy, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Solemn Charge.**
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/2timothy/4
 
 8 From now on the crown of righteousness awaits me, which the Lord, the just judge, will award to me on that day, and not only to me, but to all who have longed for his appearance. ^2-timothy-04-8
 
-## Iv. Personal Requests and Final Greetings
+# Iv. Personal Requests and Final Greetings
 
 **Paul’s Loneliness.**
 

@@ -1,43 +1,42 @@
 ---
-title: Zechariah, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 12
+title: Zechariah, Chapter 12
+url: https://bible.usccb.org/bible/zechariah/12
 aliases:
   - zechariah-12
   - Zechariah, Chapter 12
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/12
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 12
 ---
 
 # Zechariah, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **Oracles Concerning the Nations and Judah.**
 
-1 An oracle: The word of the L ORD concerning Israel—oracle of the L ORD, who spreads out the heavens, lays the foundations of the earth, and fashions the human spirit within: ^zechariah-12-1
+1 An oracle: The word of the LORD concerning Israel—oracle of the LORD, who spreads out the heavens, lays the foundations of the earth, and fashions the human spirit within: ^zechariah-12-1
 
 2 See, I will make Jerusalem a cup of reeling for all peoples round about. Judah will be besieged, even Jerusalem. ^zechariah-12-2
 
 3 On that day I will make Jerusalem a heavy stone for all peoples. All who attempt to lift it will injure themselves badly, though all the nations of the earth will gather against it. ^zechariah-12-3
 
-4 On that day—oracle of the L ORD —I will strike every horse with fright, and its rider with madness. But over the house of Judah I will keep watch, while I strike blind all the horses of the peoples. ^zechariah-12-4
+4 On that day—oracle of the LORD —I will strike every horse with fright, and its rider with madness. But over the house of Judah I will keep watch, while I strike blind all the horses of the peoples. ^zechariah-12-4
 
-5 Then the clans of Judah will say to themselves, “The inhabitants of Jerusalem have their strength in the L ORD of hosts, their God.” ^zechariah-12-5
+5 Then the clans of Judah will say to themselves, “The inhabitants of Jerusalem have their strength in the LORD of hosts, their God.” ^zechariah-12-5
 
 6 On that day I will make the clans of Judah like a brazier of fire in the woodland and like a burning torch among sheaves, and they will devour right and left all the surrounding peoples; but Jerusalem will again inhabit its own place. ^zechariah-12-6
 
-7 The L ORD will save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem may not be exalted over Judah. ^zechariah-12-7
+7 The LORD will save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem may not be exalted over Judah. ^zechariah-12-7
 
-8 On that day the L ORD will shield the inhabitants of Jerusalem, so that the weakest among them will be like David on that day; and the house of David will be like God, like the angel of the L ORD before them. ^zechariah-12-8
+8 On that day the LORD will shield the inhabitants of Jerusalem, so that the weakest among them will be like David on that day; and the house of David will be like God, like the angel of the LORD before them. ^zechariah-12-8
 
 9 On that day I will seek the destruction of all nations that come against Jerusalem. ^zechariah-12-9
 

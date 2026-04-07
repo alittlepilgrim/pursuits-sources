@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 28
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 28
+title: Matthew, Chapter 28
+url: https://bible.usccb.org/bible/matthew/28
 aliases:
   - matthew-28
   - Matthew, Chapter 28
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/28
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 28
 ---
 
 # Matthew, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 **The Resurrection of Jesus.**
 

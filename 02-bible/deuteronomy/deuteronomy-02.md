@@ -1,31 +1,30 @@
 ---
-title: Deuteronomy, Chapter 2
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 2
+title: Deuteronomy, Chapter 2
+url: https://bible.usccb.org/bible/deuteronomy/2
 aliases:
   - deuteronomy-02
   - Deuteronomy, Chapter 2
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 2
 ---
 
 # Deuteronomy, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Northward Along Edom.**
 
-1 Then we turned and proceeded into the wilderness on the Red Sea road, as the L ORD had told me, and circled around the highlands of Seir for a long time. ^deuteronomy-02-1
+1 Then we turned and proceeded into the wilderness on the Red Sea road, as the LORD had told me, and circled around the highlands of Seir for a long time. ^deuteronomy-02-1
 
-2 Finally the L ORD said to me, ^deuteronomy-02-2
+2 Finally the LORD said to me, ^deuteronomy-02-2
 
 3 You have wandered round these highlands long enough; turn and go north. ^deuteronomy-02-3
 
@@ -35,33 +34,33 @@ url: https://bible.usccb.org/bible/deuteronomy/2
 
 6 You shall purchase from them with money the food you eat; even the water you drink you shall buy from them with money. ^deuteronomy-02-6
 
-7 Surely, the L ORD, your God, has blessed you in all your undertakings; he has been concerned about your journey through this vast wilderness. It is now forty years that the L ORD, your God, has been with you, and you have lacked nothing. ^deuteronomy-02-7
+7 Surely, the LORD, your God, has blessed you in all your undertakings; he has been concerned about your journey through this vast wilderness. It is now forty years that the LORD, your God, has been with you, and you have lacked nothing. ^deuteronomy-02-7
 
 8 So we passed by our relatives, the descendants of Esau who live in Seir, leaving behind us the Arabah route, Elath, and Ezion-geber. ^deuteronomy-02-8
 
 **Along Moab.**Then we turned and passed on toward the wilderness of Moab.
 
-9 And the L ORD said to me, Do not show hostility to the Moabites or engage them in battle, for I will not give you possession of any of their land, since I have given Ar to the descendants of Lot as their possession. ^deuteronomy-02-9
+9 And the LORD said to me, Do not show hostility to the Moabites or engage them in battle, for I will not give you possession of any of their land, since I have given Ar to the descendants of Lot as their possession. ^deuteronomy-02-9
 
 10 (Formerly the Emim lived there, a people great and numerous and as tall as the Anakim; ^deuteronomy-02-10
 
 11 like the Anakim they are considered Rephaim, though the Moabites call them Emim. ^deuteronomy-02-11
 
-12 In Seir, however, the former inhabitants were the Horites; the descendants of Esau dispossessed them, clearing them out of the way and dwelling in their place, just as Israel has done in the land of its possession which the L ORD gave it.) ^deuteronomy-02-12
+12 In Seir, however, the former inhabitants were the Horites; the descendants of Esau dispossessed them, clearing them out of the way and dwelling in their place, just as Israel has done in the land of its possession which the LORD gave it.) ^deuteronomy-02-12
 
 13 Now get ready to cross the Wadi Zered. ^deuteronomy-02-13
 
 So we crossed the Wadi Zered.
 
-14 Now thirty-eight years had elapsed between our departure from Kadesh-barnea and the crossing of the Wadi Zered; in the meantime the whole generation of soldiers had perished from the camp, as the L ORD had sworn they should. ^deuteronomy-02-14
+14 Now thirty-eight years had elapsed between our departure from Kadesh-barnea and the crossing of the Wadi Zered; in the meantime the whole generation of soldiers had perished from the camp, as the LORD had sworn they should. ^deuteronomy-02-14
 
-15 Indeed the L ORD’s own hand was against them, to rout them from the camp completely. ^deuteronomy-02-15
+15 Indeed the LORD’s own hand was against them, to rout them from the camp completely. ^deuteronomy-02-15
 
 **Along Ammon.**
 
 16 When at length death had put an end to all the soldiers among the people, ^deuteronomy-02-16
 
-17 the L ORD said to me, ^deuteronomy-02-17
+17 the LORD said to me, ^deuteronomy-02-17
 
 18 You are now about to leave Ar and the territory of Moab behind. ^deuteronomy-02-18
 
@@ -69,7 +68,7 @@ So we crossed the Wadi Zered.
 
 20 (This also is considered a country of the Rephaim; formerly the Rephaim dwelt there. The Ammonites call them Zamzummim, ^deuteronomy-02-20
 
-21 a people great and numerous and as tall as the Anakim. But these, too, the L ORD cleared out of the way for the Ammonites, so that they dispossessed them and dwelt in their place. ^deuteronomy-02-21
+21 a people great and numerous and as tall as the Anakim. But these, too, the LORD cleared out of the way for the Ammonites, so that they dispossessed them and dwelt in their place. ^deuteronomy-02-21
 
 22 He did the same for the descendants of Esau, who live in Seir, by clearing the Horites out of their way, so that they dispossessed them and dwelt in their place down to the present. ^deuteronomy-02-22
 
@@ -87,23 +86,23 @@ So we crossed the Wadi Zered.
 
 28 The food I eat you will sell me for money, and the water I drink, you will give me for money. Only let me march through, ^deuteronomy-02-28
 
-29 as the descendants of Esau who dwell in Seir and the Moabites who dwell in Ar have done, until I cross the Jordan into the land the L ORD, our God, is about to give us.” ^deuteronomy-02-29
+29 as the descendants of Esau who dwell in Seir and the Moabites who dwell in Ar have done, until I cross the Jordan into the land the LORD, our God, is about to give us.” ^deuteronomy-02-29
 
-30 But Sihon, king of Heshbon, refused to let us pass through his land, because the L ORD, your God, made him stubborn in mind and obstinate in heart that he might deliver him into your power, as indeed he has now done. ^deuteronomy-02-30
+30 But Sihon, king of Heshbon, refused to let us pass through his land, because the LORD, your God, made him stubborn in mind and obstinate in heart that he might deliver him into your power, as indeed he has now done. ^deuteronomy-02-30
 
-31 Then the L ORD said to me, Now that I have already begun to give over to you Sihon and his land, begin to take possession. ^deuteronomy-02-31
+31 Then the LORD said to me, Now that I have already begun to give over to you Sihon and his land, begin to take possession. ^deuteronomy-02-31
 
 32 So Sihon and all his people advanced against us to join battle at Jahaz; ^deuteronomy-02-32
 
-33 but since the L ORD, our God, had given him over to us, we defeated him and his sons and all his people. ^deuteronomy-02-33
+33 but since the LORD, our God, had given him over to us, we defeated him and his sons and all his people. ^deuteronomy-02-33
 
 34 At that time we captured all his cities and put every city under the ban, men, women and children; we left no survivor. ^deuteronomy-02-34
 
 35 Our only plunder was the livestock and the spoils of the captured cities. ^deuteronomy-02-35
 
-36 From Aroer on the edge of the Wadi Arnon and from the town in the wadi itself, as far as Gilead, no city was too well fortified for us. All of them the L ORD, our God, gave over to us. ^deuteronomy-02-36
+36 From Aroer on the edge of the Wadi Arnon and from the town in the wadi itself, as far as Gilead, no city was too well fortified for us. All of them the LORD, our God, gave over to us. ^deuteronomy-02-36
 
-37 However, just as the L ORD, our God, commanded us, you did not encroach upon any of the Ammonite land, neither the region bordering on the Wadi Jabbok, nor the cities of the highlands. ^deuteronomy-02-37
+37 However, just as the LORD, our God, commanded us, you did not encroach upon any of the Ammonite land, neither the region bordering on the Wadi Jabbok, nor the cities of the highlands. ^deuteronomy-02-37
 
 \* (2:7) Concerned: lit., “known”; cf. ([[exodus-02|Ex 2]]:25].
 

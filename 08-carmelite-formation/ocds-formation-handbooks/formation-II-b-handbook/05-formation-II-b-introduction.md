@@ -1,13 +1,15 @@
 ---
-title: Introduction To Formation II (Members Who Have Made The First Promise)
-created: 2025-10-26
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: Introduction To Formation II (Members Who Have Made The First Promise)
+author: Secular Order of Discalced Carmelites
 aliases:
   - Introduction to Formation Ii (Members Who Have Made the First Promise)
   - Introduction To Formation II (Members Who Have Made The First Promise)
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-10-26
+modified: 2026-04-06
+publish: false
 ---
 
 # Introduction to Formation Ii (Members Who Have Made the First Promise)

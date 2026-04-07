@@ -1,15 +1,15 @@
 ---
-title: Quo vadis humanitas  ewtn-
-created: 2026-03-28
-modified: 2026-04-02
 type: book
-publish: false
+title: Quo vadis humanitas  ewtn-
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509|
 aliases:
   - Quo Vadis Humanitas  EWTN
   - Quo Vadis Humanitas | Ewtn
 tags:
   - book
-source: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509|
+created: 2026-03-28
+modified: 2026-04-04
+publish: false
 ---
 
 # Quo Vadis Humanitas | Ewtn

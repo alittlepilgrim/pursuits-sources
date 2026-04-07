@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 31
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 31
+title: Proverbs, Chapter 31
+url: https://bible.usccb.org/bible/proverbs/31
 aliases:
   - proverbs-31
   - Proverbs, Chapter 31
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/31
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 31
 ---
 
 # Proverbs, Chapter 31
 
-### Chapter 31
+## Chapter 31
 
 1 The words of Lemuel, king of Massa, the instruction his mother taught him: ^proverbs-31-1
 
@@ -59,7 +58,7 @@ and for the rights of the destitute;
 
 defend the needy and the poor!
 
-## Ix. Poem on the Woman of Worth
+# Ix. Poem on the Woman of Worth
 
 10 Who can find a woman of worth? ^proverbs-31-10
 
@@ -145,7 +144,7 @@ but you have excelled them all.”
 
 30 Charm is deceptive and beauty fleeting; ^proverbs-31-30
 
-the woman who fears the L ORD is to be praised.
+the woman who fears the LORD is to be praised.
 
 31 Acclaim her for the work of her hands, ^proverbs-31-31
 

@@ -1,23 +1,24 @@
 ---
-title: The Dark Night – Book One 1
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: The Dark Night – Book One 1
+author: Secular Order of Discalced Carmelites
 aliases:
   - The Dark Night – Book One 1
 tags:
   - carmel
-author: Secular Order of Discalced Carmelites
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
-## The Dark Night – Book One - OCDS Ongoing Formation Volume II
+# The Dark Night – Book One - OCDS Ongoing Formation Volume II
 
 Required Reading: The Dark Night. This book is included in The Collected Works of St. John of the Cross, ICS Publications, 1991.
 
 Recommended Reading: The Dark Night, Marc Foley, O.C.D. ICS Publications, 2018.
 
-### Session One: the Imperfections of Beginners
+## Session One: the Imperfections of Beginners
 
 (May take multiple sessions, as needed.)
 
@@ -29,7 +30,7 @@ Explanatory note: Chapters 1-7 cover the imperfections of beginners within the f
 
 Essential Points to Discuss:
 
-#### Chapter 1: Imperfections of Beginners
+### Chapter 1: Imperfections of Beginners
 
  Beginners in prayer are joyful but are so weak in the practice of the virtues that they are subject to many distractions and imperfections.
 
@@ -41,7 +42,7 @@ Dark Night, Book One – Session One
 
 p.48
 
-#### Chapter 2: Spiritual Pride
+### Chapter 2: Spiritual Pride
 
  Spiritual pride in beginners results in complacency because they do not have true self-knowledge.
 
@@ -51,7 +52,7 @@ p.48
 
  “Their charity and love make them want to do so much for God that what they actually do accomplish seems as nothing. This loving solicitude goads them, preoccupies them, and absorbs them to such an extent that they never notice what others do or do not accomplish...” (DN.1.2:6).
 
-#### Chapter 3: Spiritual Avarice
+### Chapter 3: Spiritual Avarice
 
  Spiritual avarice gets in the way of poverty of spirit. The result is that the soul blocks the spiritual purgation that God desires for it.
 
@@ -73,7 +74,7 @@ possessiveness, any appetite for these things must be uprooted if some degree of
 
 For personal reflection: One of the core issues contained in this chapter is our purpose for acquiring knowledge. Do we want to know in order to increase our stockpile of information, or do we want to receive the wisdom “to know how to live for love of God and neighbor”? (DN.1.3:2) (Dark Night, Foley, pg. 28).
 
-#### Chapter 4: Spiritual Lust
+### Chapter 4: Spiritual Lust
 
 Explanatory note: “Lust” in the old meaning of the word signified an inordinate desire for sensual gratification. In this context, we are not speaking of sexual gratification, but rather the gratification of the senses and emotions.
 
@@ -87,7 +88,7 @@ Explanatory note: “Lust” in the old meaning of the word signified an inordin
 
 For personal reflection: Have you ever been in a relationship in which you asked yourself the question, “Where is this going; where will this end?” (Dark Night, Foley, pg. 38).
 
-#### Chapter 5: Spiritual Anger
+### Chapter 5: Spiritual Anger
 
  “Because of the strong desire of many beginners for spiritual gratification, they usually have many imperfections of anger” (DN.1.5:1). Anger results from three things: o The soul encounters dryness when it desires delight (see DN.1.5:1). o The soul sees that others fail to measure up to its spiritual standards. “Through a
 
@@ -103,7 +104,7 @@ patience to wait until God gives them what they need, when he so desires. Their 
 
 For personal reflection: To what extent do you keep watch over the conduct of others, ready to punish the sins that you find? (Dark Night, Foley, pg. 48).
 
-##### Chapter 6: Spiritual Gluttony
+#### Chapter 6: Spiritual Gluttony
 
  Spiritual gluttony is the inordinate desire for spiritual satisfaction instead of God. Spiritual satisfaction can be sought through excessive penance, consolations, or through over-valuing personal experiences as one undertakes the long and winding spiritual journey to God.
 
@@ -121,7 +122,7 @@ For personal reflection: To what extent do you keep watch over the conduct of ot
 
 Side note: “Throughout these chapters, describing the situation of beginners in regard to each capital vice, John repeatedly points out their need for the purification of the dark night, which he begins to treat in ch. 8” (footnote #2, DN.1.6:6).
 
-#### Chapter 7: Spiritual Envy and Sloth
+### Chapter 7: Spiritual Envy and Sloth
 
  The imperfection of spiritual envy occurs when the spiritual good of others causes the soul grief and resentment. “In regard to envy, many of them feel sad about the spiritual
 
@@ -139,7 +140,7 @@ Dark Night, Book One – Session Two
 
 p.52
 
-### Session Two: Beginning of the Exposition of the Dark Night. Signs of Passive Night and Purgation
+## Session Two: Beginning of the Exposition of the Dark Night. Signs of Passive Night and Purgation
 
 (May take multiple sessions, as needed.)
 
@@ -157,7 +158,7 @@ This dark night of contemplation is composed of two purgations that correspond t
 
 John further observes that the sensory night “is a more common occurrence, so one finds more written on it.” But of the spiritual night “hardly anything has been said of it in sermons or in writing; and even experience of it is rare” (DN.1.8:2).
 
-#### Chapter 8: “One Dark Night”
+### Chapter 8: “One Dark Night”
 
 Note: Chapter 8 is an important chapter. It summarizes God’s action in preparing the soul to face the intense purification described in The Dark Night Book Two. Read this chapter in its entirety.
 
@@ -217,7 +218,7 @@ Dark Night, Book One – Session Three
 
 p.56
 
-### Session Three: “Fired with love’s Urgent Longings – Ah, the Sheer Grace! I Went out unseen.”
+## Session Three: “Fired with love’s Urgent Longings – Ah, the Sheer Grace! I Went out unseen.”
 
 (May take multiple sessions, as needed.)
 
@@ -227,7 +228,7 @@ Recommended Reading: The Dark Night, Marc Foley, chapters 11-14, pg. 94-128.
 
 Essential Points to Discuss:
 
-#### Chapter 11: This Chapter Describes the Joy of the Soul Who Is Free of Sensory Considerations
+### Chapter 11: This Chapter Describes the Joy of the Soul Who Is Free of Sensory Considerations
 
  Fired with love’s urgent longings, “In the measure that the fire [of love] increases, the soul becomes aware of being attracted by the love of God and enkindled in it, without knowing how or where this attraction and love originates” (DN.1.11:1). Note: In the beginning, individuals do not perceive this love; rather, they experience dryness and void. This dryness is accompanied by a habitual care and solicitude for God (see DN.1.11:2).
 
@@ -239,7 +240,7 @@ Side note: St. Teresa explains in The Interior Castle (IC.IV.3:2), that instead 
 
 This inward searching takes the form of “... a gentle drawing inward,... [like] a turtle drawing into a shell... so that the soul, instead of striving to engage in discourse, strives to remain attentive and aware of what the Lord is working in it” (IC.IV.3:3-4).
 
-#### Chapter 12: This Chapter Explains the Benefits This Night Causes in the Soul: Self-knowledge and Knowledge of God’s Majesty, Leading to Humility and Charity Toward Others
+### Chapter 12: This Chapter Explains the Benefits This Night Causes in the Soul: Self-knowledge and Knowledge of God’s Majesty, Leading to Humility and Charity Toward Others
 
  “The first and chief benefit this dry and dark night of contemplation causes is the knowledge of self and of one’s own misery. … As a result the soul recognizes the truth
 
@@ -273,7 +274,7 @@ Dark Night, Book One – Session Three
 
 p.58
 
-#### Chapter 13: Other Benefits of the Passive Night of the Senses
+### Chapter 13: Other Benefits of the Passive Night of the Senses
 
  All appetites fade away and “... the soul dwells in spiritual peace and tranquility” (DN.1.13:3).
 
@@ -303,7 +304,7 @@ p.59
 
 Note: John observes that all these virtues are practiced during the time the soul was experiencing voids, aridities, and dryness in prayer. “These aridities, then, make people walk with purity in the love of God” (DN.1.13:12). Hence, this dark night is a happy night and a sheer grace for the soul.
 
-#### Chapter 14: “My House Being Now All stilled.”
+### Chapter 14: “My House Being Now All stilled.”
 
  “When this house of the senses was stilled (that is, mortified), its passions quenched, and its appetites calmed and put to sleep through this happy night of the purgation of the senses, the soul went out in order to begin its journey along the road of the spirit, which is that of proficients and which by another terminology is referred to as the illuminative way or the way of infused contemplation. On this road God himself pastures and refreshes the soul without any of its own discursive meditation or active help” (DN.1.14:1).
 

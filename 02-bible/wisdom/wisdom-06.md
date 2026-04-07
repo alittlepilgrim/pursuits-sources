@@ -1,27 +1,26 @@
 ---
-title: Wisdom, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 6
+title: Wisdom, Chapter 6
+url: https://bible.usccb.org/bible/wisdom/6
 aliases:
   - wisdom-06
   - Wisdom, Chapter 6
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/6
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 6
 ---
 
 # Wisdom, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
-#### Exhortation to Seek Wisdom
+### Exhortation to Seek Wisdom
 
 1 Hear, therefore, kings, and understand; ^wisdom-06-1
 
@@ -111,9 +110,9 @@ To observe her laws is the basis for incorruptibility;
 
 honor Wisdom, that you may reign as kings forever.
 
-## Ii. Praise of Wisdom by Solomon
+# Ii. Praise of Wisdom by Solomon
 
-#### Introduction
+## Introduction
 
 22 Now what wisdom is, and how she came to be I shall proclaim; ^wisdom-06-22
 

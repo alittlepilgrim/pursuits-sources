@@ -1,25 +1,24 @@
 ---
-title: Mark, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Mark, Chapter 6
+title: Mark, Chapter 6
+url: https://bible.usccb.org/bible/mark/6
 aliases:
   - mark-06
   - Mark, Chapter 6
 tags:
+  - bible/chapter
   - bible/mark
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/mark/6
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Mark, Chapter 6
 ---
 
 # Mark, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **The Rejection at Nazareth.**
 

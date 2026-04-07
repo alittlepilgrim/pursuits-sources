@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 17
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 17
+title: Genesis, Chapter 17
+url: https://bible.usccb.org/bible/genesis/17
 aliases:
   - genesis-17
   - Genesis, Chapter 17
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 17
 bible_book: genesis
 bible_chapter: "17"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/17
 ---
 
 [[genesis-16|[← Previous Note]]] · [[genesis-18|[Next Note →]]]
@@ -28,7 +27,7 @@ url: https://bible.usccb.org/bible/genesis/17
 
 **Covenant of Circumcision.**
 
-1 When Abram was ninety-nine years old, the L ORD appeared to Abram and said: I am God the Almighty. Walk in my presence and be blameless. ^genesis-17-1
+1 When Abram was ninety-nine years old, the LORD appeared to Abram and said: I am God the Almighty. Walk in my presence and be blameless. ^genesis-17-1
 
 2 Between you and me I will establish my covenant, and I will multiply you exceedingly. ^genesis-17-2
 
@@ -124,6 +123,6 @@ o. (17:24) [[genesis-17|Gen 17]]:10; ([[romans-04|Rom 4]]:11]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]

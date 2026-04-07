@@ -1,30 +1,32 @@
 ---
-title: W - Social Doctrine of the Church Analytical Index
-created: 2025-11-12
-modified: 2026-04-02
 type: magisterium
-publish: true
+title: W - Social Doctrine of the Church Analytical Index
+author: Catholic Church
 aliases:
   - sd-10-index-w
   - W - Social Doctrine of the Church Analytical Index
 tags:
+  - author/catholic-church
+  - type/magisterium
   - vatican
-author: Catholic Church
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
 ---
 
 # W - Social Doctrine of the Church Analytical Index
 
 > [!NOTE] Quick Links:
 >
->  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  · 
+> [A](sd-10-index-a.md) · [B](sd-10-index-b.md) · [C](sd-10-index-c.md) · [D](sd-10-index-d.md) · [E](sd-10-index-e.md) · [F](sd-10-index-f.md) · [G](sd-10-index-g.md) · [H](sd-10-index-h.md) · [I](sd-10-index-i.md) · [J](sd-10-index-j.md) · [K](sd-10-index-k.md) · [L](sd-10-index-l.md) · [M](sd-10-index-m.md) · [N](sd-10-index-n.md) · [O](sd-10-index-o.md) · [P](sd-10-index-p.md) · [Q](sd-10-index-q.md) · [R](sd-10-index-r.md) · [S](sd-10-index-s.md) · [T](sd-10-index-t.md) · [U](sd-10-index-u.md) · [V](sd-10-index-v.md) · [W](sd-10-index-w.md) · [Y](sd-10-index-y.md)
 
 [[#Table of Contents|Back to top]]
 
-### Wage
+## Wage
 
 - See [[sd-10-index-s#Salary|Salary]]
 
-### War
+## War
 
 Pope Pius XII and the Second World War, [[sd-03-part-I#^csdc-93|93]]
 
@@ -64,7 +66,7 @@ The Church, reconciliation and war, [[sd-04-part-II#^csdc-517|517]]
 
 Cultural perspectives and the post-war period, [[sd-05-part-III#^csdc-555|555]]
 
-### Water
+## Water
 
 Wealth is like water, [[sd-04-part-II#^csdc-329|329]]
 
@@ -76,7 +78,7 @@ Jesus Christ, the bearer of the water of life, [[sd-04-part-II#^csdc-463|463]]*
 
 Universal destination of goods and water, [[sd-04-part-II#^csdc-484|484]]
 
-### Wealth - Riches - Rich - Enrich
+## Wealth - Riches - Rich - Enrich
 
 An equitable world, solidarity and wealth, [[sd-03-part-I#^csdc-174|174]]
 
@@ -130,11 +132,11 @@ Peace, man and the riches of the human soul, [[sd-04-part-II#^csdc-495|495]]
 
 A culture capable of enriching man, [[sd-05-part-III#^csdc-556|556]]
 
-### Weapons
+## Weapons
 
 - See [[sd-10-index-a#Arms|Arms]]
 
-### Well-being
+## Well-being
 
 The common good and socio-economic well-being, [[sd-03-part-I#^csdc-170|170]]
 
@@ -164,13 +166,13 @@ Access to water and the well-being of people, [[sd-04-part-II#^csdc-484|484]]
 
 Biblical revelations, peace and wellbeing, [[sd-04-part-II#^csdc-489|489]]
 
-### Wickedness
+## Wickedness
 
 (see Also [[sd-10-index-o#Evil|Evil]], [[sd-10-index-m#Misfortunes|Misfortunes]])
 
 Christian hope and the spiritual forces of wickedness, [[sd-06-conclusion#^csdc-579|579]]
 
-### Woman
+## Woman
 
 The _Compendium_ and women of good will, [[sd-02-intro#^csdc-12|12]]
 
@@ -246,15 +248,15 @@ Man, woman and creation, [[sd-04-part-II#^csdc-451|451]]
 
 Lay spirituality and women, [[sd-05-part-III#^csdc-545|545]]
 
-### Woman and Man, Women and Men
+## Woman and Man, Women and Men
 
 - See [[sd-10-index-m#Man|Man]], [[sd-10-index-p#Person|Person]], [[sd-10-index-p#People|People]]
 
-### Workshops
+## Workshops
 
 - See [[sd-10-index-b#Business|Business]]
 
-### Work
+## Work
 
 (see Also [[sd-10-index-o#Labour|Labour]])
 
@@ -444,7 +446,7 @@ Associations and the work of formation, [[sd-05-part-III#^csdc-549|549]]
 
 Man and the meaning of work, [[sd-06-conclusion#^csdc-575|575]]
 
-### Worker
+## Worker
 
 The Church and the worker question, [[sd-03-part-I#^csdc-88|88]], [[sd-04-part-II#^csdc-267|267]]_
 
@@ -528,13 +530,13 @@ Social doctrine and worker associations, [[sd-05-part-III#^csdc-550|550]]
 
 Christian associations and workers, [[sd-05-part-III#^csdc-564|564]]
 
-### Works of Mercy
+## Works of Mercy
 
 The Church and works of mercy, [[sd-03-part-I#^csdc-184|184]]
 
 Periods of rest and works of mercy, [[sd-04-part-II#^csdc-284|284]]
 
-### World
+## World
 
 Salvation and the world of the economy, [[sd-02-intro#^csdc-1|1]]
 
@@ -720,11 +722,11 @@ Cultural causes and injustices in the world, [[sd-06-conclusion#^csdc-577|577]]
 
 Divine promise, the world and the Kingdom of God, [[sd-06-conclusion#^csdc-578|578]], [[sd-06-conclusion#^csdc-579|579]]
 
-### World Community
+## World Community
 
 - See [[sd-10-index-i#International Community|International Community]]
 
-### World Day of Peace
+## World Day of Peace
 
 Pope Paul VI and the World Day of Peace, [[sd-03-part-I#^csdc-99|99]]
 

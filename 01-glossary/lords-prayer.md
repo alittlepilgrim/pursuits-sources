@@ -1,16 +1,17 @@
 ---
-title: "Lord's Prayer"
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: lord's-prayer. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Lord's Prayer
+author:
 aliases:
-  - "Lord's Prayer"
   - Lord's Prayer
   - lords-prayer
 tags:
   - term/our-father
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: lord's-prayer. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Lord's Prayer

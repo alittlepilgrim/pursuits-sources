@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed John Soreth
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Blessed John Soreth
@@ -12,8 +9,11 @@ tags:
   - carmel
   - role/blessed
   - term/priest
-celebration: "07-28"
-full_name: "Blessed John Soreth"
+  - type/figure
+celebration: 07-28
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed John Soreth

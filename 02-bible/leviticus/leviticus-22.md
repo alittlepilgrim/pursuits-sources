@@ -1,33 +1,32 @@
 ---
-title: Leviticus, Chapter 22
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 22
+title: Leviticus, Chapter 22
+url: https://bible.usccb.org/bible/leviticus/22
 aliases:
   - leviticus-22
   - Leviticus, Chapter 22
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/22
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 22
 ---
 
 # Leviticus, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 **Priestly Purity.**
 
-1 The L ORD said to Moses: ^leviticus-22-1
+1 The LORD said to Moses: ^leviticus-22-1
 
-2 Tell Aaron and his sons to treat with respect the sacred offerings which the Israelites consecrate to me; otherwise they will profane my holy name. I am the L ORD. ^leviticus-22-2
+2 Tell Aaron and his sons to treat with respect the sacred offerings which the Israelites consecrate to me; otherwise they will profane my holy name. I am the LORD. ^leviticus-22-2
 
-3 Tell them: If any one of you, or of your descendants in any future generation, dares, while he is in a state of uncleanness, to draw near the sacred offerings which the Israelites consecrate to the L ORD, such a one shall be cut off from my presence. I am the L ORD. ^leviticus-22-3
+3 Tell them: If any one of you, or of your descendants in any future generation, dares, while he is in a state of uncleanness, to draw near the sacred offerings which the Israelites consecrate to the LORD, such a one shall be cut off from my presence. I am the LORD. ^leviticus-22-3
 
 4 No descendant of Aaron who is stricken with a scaly infection, or who suffers from a genital discharge, may eat of the sacred offerings, until he again becomes clean. Moreover, if anyone touches a person who has become unclean by contact with a corpse, or if anyone has had an emission of semen, ^leviticus-22-4
 
@@ -37,9 +36,9 @@ url: https://bible.usccb.org/bible/leviticus/22
 
 7 Then, when the sun sets, he shall be clean. Only then may he eat of the sacred offerings, for they are his food. ^leviticus-22-7
 
-8 He shall not make himself unclean by eating of any animal that has died of itself or has been killed by wild beasts. I am the L ORD. ^leviticus-22-8
+8 He shall not make himself unclean by eating of any animal that has died of itself or has been killed by wild beasts. I am the LORD. ^leviticus-22-8
 
-9 They shall keep my charge so that they will not bear the punishment in this matter and die for their profanation. I am the L ORD who makes them holy. ^leviticus-22-9
+9 They shall keep my charge so that they will not bear the punishment in this matter and die for their profanation. I am the LORD who makes them holy. ^leviticus-22-9
 
 10 Neither an unauthorized person nor a priest’s tenant or laborer may eat of any sacred offering. ^leviticus-22-10
 
@@ -51,45 +50,45 @@ url: https://bible.usccb.org/bible/leviticus/22
 
 14 If such a one eats of a sacred offering through inadvertence, that person shall make restitution to the priest for the sacred offering, with an increment of one fifth of the amount. ^leviticus-22-14
 
-15 The priests shall not allow the sacred offerings which the Israelites contribute to the L ORD to be profaned ^leviticus-22-15
+15 The priests shall not allow the sacred offerings which the Israelites contribute to the LORD to be profaned ^leviticus-22-15
 
-16 nor make them incur a penalty when they eat their sacred offerings. For I, the L ORD, make them holy. ^leviticus-22-16
+16 nor make them incur a penalty when they eat their sacred offerings. For I, the LORD, make them holy. ^leviticus-22-16
 
 **Unacceptable Victims.**
 
-17 The L ORD said to Moses: ^leviticus-22-17
+17 The LORD said to Moses: ^leviticus-22-17
 
-18 Speak to Aaron and his sons and to all the Israelites, and tell them: When anyone of the house of Israel, or any alien residing in Israel, who presents an offering, brings a burnt offering as a votive offering or as a voluntary offering to the L ORD, ^leviticus-22-18
+18 Speak to Aaron and his sons and to all the Israelites, and tell them: When anyone of the house of Israel, or any alien residing in Israel, who presents an offering, brings a burnt offering as a votive offering or as a voluntary offering to the LORD, ^leviticus-22-18
 
 19 if it is to be acceptable for you, it must be an unblemished male of the herd, of the sheep or of the goats. ^leviticus-22-19
 
 20 You shall not offer one that has any blemish, for such a one would not be acceptable on your behalf. ^leviticus-22-20
 
-21 When anyone presents a communion sacrifice to the L ORD from the herd or the flock in fulfillment of a vow, or as a voluntary offering, if it is to find acceptance, it must be unblemished; it shall not have any blemish. ^leviticus-22-21
+21 When anyone presents a communion sacrifice to the LORD from the herd or the flock in fulfillment of a vow, or as a voluntary offering, if it is to find acceptance, it must be unblemished; it shall not have any blemish. ^leviticus-22-21
 
-22 One that is blind or lame or maimed, or one that has running lesions or sores or scabs, you shall not offer to the L ORD; do not put such an animal on the altar as an oblation to the L ORD. ^leviticus-22-22
+22 One that is blind or lame or maimed, or one that has running lesions or sores or scabs, you shall not offer to the LORD; do not put such an animal on the altar as an oblation to the LORD. ^leviticus-22-22
 
 23 An ox or a sheep that has a leg that is too long or is stunted you may indeed present as a voluntary offering, but it will not be acceptable as a votive offering. ^leviticus-22-23
 
-24 One that has its testicles bruised or crushed or torn out or cut off you shall not offer to the L ORD. You shall neither do this in your own land ^leviticus-22-24
+24 One that has its testicles bruised or crushed or torn out or cut off you shall not offer to the LORD. You shall neither do this in your own land ^leviticus-22-24
 
 25 nor receive from a foreigner any such animals to offer up as the food of your God; since they are deformed or blemished, they will not be acceptable on your behalf. ^leviticus-22-25
 
-26 The L ORD said to Moses: ^leviticus-22-26
+26 The LORD said to Moses: ^leviticus-22-26
 
-27 When an ox or a lamb or a goat is born, it shall remain with its mother for seven days; only from the eighth day onward will it be acceptable, to be offered as an oblation to the L ORD. ^leviticus-22-27
+27 When an ox or a lamb or a goat is born, it shall remain with its mother for seven days; only from the eighth day onward will it be acceptable, to be offered as an oblation to the LORD. ^leviticus-22-27
 
 28 You shall not slaughter an ox or a sheep on one and the same day with its young. ^leviticus-22-28
 
-29 Whenever you offer a thanksgiving sacrifice to the L ORD, so offer it that it may be acceptable on your behalf; ^leviticus-22-29
+29 Whenever you offer a thanksgiving sacrifice to the LORD, so offer it that it may be acceptable on your behalf; ^leviticus-22-29
 
-30 it must be eaten on the same day; none of it shall be left over until morning. I am the L ORD. ^leviticus-22-30
+30 it must be eaten on the same day; none of it shall be left over until morning. I am the LORD. ^leviticus-22-30
 
-31 Be careful to observe my commandments. I am the L ORD. ^leviticus-22-31
+31 Be careful to observe my commandments. I am the LORD. ^leviticus-22-31
 
-32 Do not profane my holy name, that in the midst of the Israelites I may be hallowed. I, the L ORD, make you holy, ^leviticus-22-32
+32 Do not profane my holy name, that in the midst of the Israelites I may be hallowed. I, the LORD, make you holy, ^leviticus-22-32
 
-33 who led you out of the land of Egypt to be your God. I am the L ORD. ^leviticus-22-33
+33 who led you out of the land of Egypt to be your God. I am the LORD. ^leviticus-22-33
 
 \* (22:1] – [16) While priests with bodily imperfections may eat the holy sacrifices ([21:16] – [23]), those impure and those not of the priestly household may not.
 

@@ -1,27 +1,26 @@
 ---
-title: Jeremiah, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 5
+title: Jeremiah, Chapter 5
+url: https://bible.usccb.org/bible/jeremiah/5
 aliases:
   - jeremiah-05
   - Jeremiah, Chapter 5
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 5
 ---
 
 # Jeremiah, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
-#### Universal Corruption
+### Universal Corruption
 
 1 Roam the streets of Jerusalem, ^jeremiah-05-1
 
@@ -37,11 +36,11 @@ and seeks honesty,
 
 and I will pardon her!
 
-2 They say, “As the L ORD lives,” ^jeremiah-05-2
+2 They say, “As the LORD lives,” ^jeremiah-05-2
 
 but in fact they swear falsely.
 
-3 L ORD, do your eyes not search for honesty? ^jeremiah-05-3
+3 LORD, do your eyes not search for honesty? ^jeremiah-05-3
 
 You struck them, but they did not flinch;
 
@@ -55,7 +54,7 @@ and refused to return.
 
 they behave foolishly;
 
-For they do not know the way of the L ORD,
+For they do not know the way of the LORD,
 
 the justice of their God.
 
@@ -63,7 +62,7 @@ the justice of their God.
 
 and speak with them;
 
-For they must know the way of the L ORD,
+For they must know the way of the LORD,
 
 the justice of their God.
 
@@ -97,7 +96,7 @@ to the prostitute’s house they throng.
 
 each neighs after the other’s wife.
 
-9 Should I not punish them for this?—oracle of the L ORD; ^jeremiah-05-9
+9 Should I not punish them for this?—oracle of the LORD; ^jeremiah-05-9
 
 on a nation like this should I not take vengeance?
 
@@ -107,15 +106,15 @@ destroy them completely.
 
 Tear away her tendrils,
 
-they do not belong to the L ORD.
+they do not belong to the LORD.
 
 11 For they have openly rebelled against me, ^jeremiah-05-11
 
 both the house of Israel and the house of Judah—
 
-oracle of the L ORD.
+oracle of the LORD.
 
-12 They denied the L ORD, ^jeremiah-05-12
+12 They denied the LORD, ^jeremiah-05-12
 
 saying, “He is nothing,
 
@@ -129,7 +128,7 @@ and the word is not with them.
 
 Let it be done to them!”
 
-14 Therefore, thus says the L ORD, the God of hosts, ^jeremiah-05-14
+14 Therefore, thus says the LORD, the God of hosts, ^jeremiah-05-14
 
 because you have said this—
 
@@ -145,7 +144,7 @@ that it shall devour!—
 
 a nation from far away,
 
-O House of Israel—oracle of the L ORD;
+O House of Israel—oracle of the LORD;
 
 A long-lived nation, an ancient nation,
 
@@ -169,9 +168,9 @@ With their swords they will beat down
 
 the fortified cities in which you trust.
 
-18 Yet even in those days—oracle of the L ORD —I will not completely destroy you. ^jeremiah-05-18
+18 Yet even in those days—oracle of the LORD —I will not completely destroy you. ^jeremiah-05-18
 
-19 And when they ask, “Why has the L ORD our God done all these things to us?” say to them, “As you have abandoned me to serve foreign gods in your own land, so shall you serve foreigners in a land not your own.” ^jeremiah-05-19
+19 And when they ask, “Why has the LORD our God done all these things to us?” say to them, “As you have abandoned me to serve foreign gods in your own land, so shall you serve foreigners in a land not your own.” ^jeremiah-05-19
 
 20 Announce this to the house of Jacob, ^jeremiah-05-20
 
@@ -185,7 +184,7 @@ Who have eyes and do not see,
 
 who have ears and do not hear.
 
-22 Should you not fear me—oracle of the L ORD — ^jeremiah-05-22
+22 Should you not fear me—oracle of the LORD — ^jeremiah-05-22
 
 should you not tremble before me?
 
@@ -203,7 +202,7 @@ they turn and go away,
 
 24 And do not say in their hearts, ^jeremiah-05-24
 
-“Let us fear the L ORD, our God,
+“Let us fear the LORD, our God,
 
 Who gives us rain
 
@@ -239,7 +238,7 @@ By advancing the claim of the orphan
 
 or judging the cause of the poor.
 
-29 Shall I not punish these things?—oracle of the L ORD; ^jeremiah-05-29
+29 Shall I not punish these things?—oracle of the LORD; ^jeremiah-05-29
 
 on a nation such as this shall I not take vengeance?
 
@@ -255,7 +254,7 @@ Yet my people like it this way;
 
 what will you do when the end comes?
 
-\* (5:12) They denied the L ORD: the people act as though God does not matter and will not interfere.
+\* (5:12) They denied the LORD: the people act as though God does not matter and will not interfere.
 
 \* (5:24) Rain early and late: autumn and spring rains respectively. Appointed weeks of harvest: the seven weeks between the Passover ([Dt 16:9] – [10]) and the feast of Weeks (Pentecost), when it did not ordinarily rain.
 

@@ -1,20 +1,22 @@
 ---
-title: General Introduction to Ongoing Formation
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: false
+title: General Introduction to Ongoing Formation
+author: Secular Order of Discalced Carmelites
 aliases:
   - General Introduction
   - General Introduction to Ongoing Formation
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: false
 ---
 
 # General Introduction - OCDS Ongoing Formation Volume I
 
 “It is not that I have reached it yet or have already finished my course; but I am racing to grasp the prize, if possible, since I have been grasped by Christ [Jesus]…I do not think of myself as having reached the finish line. I give no thought to what lies behind but push on to what is ahead” (Phil. 3:12-13). After the National Formation Program was implemented, many communities requested assistance with ongoing formation for definitively professed members. The following program is intended to serve as a model and resource. The program provides flexible and versatile options, and it differs from the structured format of initial formation (Aspirancy, Formation I and II). Communities can use this formation program with flexibility by adapting the content to meet their unique needs and goals. With the guidance of the local council, participants may use the entire program as outlined, or they may choose an individual topic (such as a Church document or St. Elizabeth of the Trinity, etc.). Again, with the guidance of the local council, participants may choose other books for study and discussion while following the program’s format. Our ongoing formation program contains two volumes. Volume I is divided into two parts covering the relevant sources of information. Part I addresses the topics of interest for study and reflection and incorporates some specific guidelines of community formation/discussion. Part II includes a comprehensive list of resource materials, giving prominence to the three Carmelite doctors of the Church (St. Teresa of Avila, St. John of the Cross, and St. Thérèse of Lisieux). Volume II explores the teachings of our Holy Father, St. John of the Cross, pertaining to ongoing purification, transformation, and union with God.
 
-### The Purpose of Ongoing Formation
+## The Purpose of Ongoing Formation
 
 The purpose of ongoing formation for the definitively professed is the support and continued development of their human, Christian, and Carmelite maturity (see Ratio 93). The call to “mysterious union with God by way of contemplation...” (Const., Art. 9:b) “...will awaken in [them] a desire for greater apostolic commitment...” and faithfulness to the Promise they have made. Through active participation in community life and the sharing of their unique gifts, they will serve as role models for their community, and work to fulfill their obligation for service to the Church and the needs of the world by living lives that make God known and loved (see Ratio 48). As noted, the Discalced Carmelite family is present in the world in three distinct forms: the friars, the nuns, and the seculars. “It is the one Order with the same charism” (Const., Preface). “It is one family with the same spiritual possessions, the same call to holiness and the same apostolic mission” (Ratio 38).
 
@@ -24,7 +26,7 @@ p.4
 
  “There is an intellectual aspect to the formation of a Discalced Carmelite. There is a doctrinal basis to the spirituality and identity of one who is called to the Order. As the friars and nuns, the seculars too ought to have a good intellectual and doctrinal formation since as members of the Order they represent and give witness to a mature and profound spirituality” (Ratio 79, emphasis added). “This intellectual basis is the beginning of an attitude that is open to study. It leads to a deeper interest in Scripture, the teachings and the documents of the Church. The tradition of spiritual reading, lectio divina, and time for reading is the backbone of the spiritual life” (Ratio 80). St. John of the Cross wisely observes that many books are written on the sensory level of purgation, but hardly anything is said of spiritual purgation in sermons or writings (see Dark Night, 1. 8.1:2). Likewise, St. Teresa observes that “we always hear about what a good thing prayer is, and our constitutions oblige us to spend so many hours in prayer. Yet only what we ourselves can do in prayer is explained to us; little is explained about what the Lord does in the soul, I mean about the supernatural” (Interior Castle, 1.2:7). Hence, it is important that we delve deeply into the study of spiritual purgation of our faculties – intellect, memory, will; and further into passive purification. Studying the writings of our Carmelite saints and exploring materials relating to Carmelite topics are essential. If considering non-Carmelite sources, the local council needs to weigh how the material supports the members’ growth in the Carmelite charism. Materials should not be chosen based simply on personal preference or interest. It is important to choose the facet of the charism for ongoing formation that should be studied before selecting a book title. Many communities make the mistake of choosing the book title or author first, without considering the area in which they want to see growth.
 
-### Major Themes and Suggestions for Ongoing Formation
+## Major Themes and Suggestions for Ongoing Formation
 
  The essence of the Carmelite charism is to live and experience (by the action of divine grace) the gradual transformation and divine union that are the fruits of spiritual purification, meditation, and loving contemplation of the Triune God. Ongoing purification and human transformation are the recurring themes of Carmelite spirituality. These qualities find concrete expression in the lives of the saints, blesseds, and many religious of the Discalced Carmelite Order. They lived by the spirit of the Gospel and made a major contribution to our understanding of our spiritual journey in Christ. We find in them immense depths of insight, encouragement, and practical wisdom. These holy and courageous witnesses clearly point toward a multitude of ways to reach our goal of union with God. Additionally, some of the recommended Church documents direct all the faithful in the Church and beyond to connect with the mystical tradition of the Church and point specifically to the three Carmelite doctors of the Church, namely St. Teresa of Avila, St. John of the Cross, and St. Thérèse of Lisieux. Hence, it is pivotal for the definitively professed members to continue reading, reflecting, and incorporating the teachings of our holy parents. Equally important is reading, reflecting, and incorporating Thérèse’s “little way” into our lives. In addition to Story of
 

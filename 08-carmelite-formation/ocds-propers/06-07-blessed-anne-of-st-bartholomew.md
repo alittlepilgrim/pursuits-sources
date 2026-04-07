@@ -1,10 +1,7 @@
 ---
-title: June 7, Blessed Anne of St Bartholomew
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers undefined
+title: June 7, Blessed Anne of St Bartholomew
+author: OCD General Curia
 aliases:
   - 06-07-blessed-anne-of-st-bartholomew
   - 20250731-121508
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 06-07
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers undefined
 ---
 
 # June 7, Blessed Anne of St Bartholomew

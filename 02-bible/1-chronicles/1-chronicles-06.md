@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 6
+title: 1 Chronicles, Chapter 6
+url: https://bible.usccb.org/bible/1chronicles/6
 aliases:
   - 1 Chronicles, Chapter 6
   - 1-chronicles-06
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/6
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 6
 ---
 
 # 1 Chronicles, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 1 The sons of Levi were Gershon, Kohath, and Merari. ^1-chronicles-06-1
 
@@ -53,9 +52,9 @@ These were the clans of Levi, according to their ancestors.
 
 15 whose son was Shimea, whose son was Haggiah, whose son was Asaiah. ^1-chronicles-06-15
 
-16 The following were established by David for the service of song in the L ORD’s house at the time when the ark had a resting place. ^1-chronicles-06-16
+16 The following were established by David for the service of song in the LORD’s house at the time when the ark had a resting place. ^1-chronicles-06-16
 
-17 They served as singers before the tabernacle of the tent of meeting until Solomon built the house of the L ORD in Jerusalem, and they performed their services according to the order prescribed for them. ^1-chronicles-06-17
+17 They served as singers before the tabernacle of the tent of meeting until Solomon built the house of the LORD in Jerusalem, and they performed their services according to the order prescribed for them. ^1-chronicles-06-17
 
 18 Those who so performed are the following, together with their sons. ^1-chronicles-06-18
 

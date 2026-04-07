@@ -1,31 +1,33 @@
 ---
-title: redemptoris-missio
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Encyclical Letter Redemptoris Missio (7 December 1990)
+title: Redemptoris Missio
+author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
 aliases:
+  - Redemptoris Missio
   - redemptoris-missio
 tags:
-  - vault-admin/clippings
+  - author/saint-john-paul-II
+  - type/magisterium
+  - vatican/encyclical
+created: 2025-11-14
+modified: 2026-04-06
+publish: true
+description: Encyclical Letter Redemptoris Missio (7 December 1990)
 abbreviation: jpii-rmi
-source: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html
 ---
 
 IOANNES PAULUS PP. II
 
-***REDEMPTORIS MISSIO***
+# Redemptoris Missio
 
-**On the permanent validity of the Church's missionary mandate
+On the permanent validity of the Church's missionary mandate
 
-**
+Blessing
 
-***Blessing***
+Venerable Brothers, Beloved Sons and Daughters,
 
-*Venerable Brothers, Beloved Sons and Daughters,
-
-Health and the Apostolic Blessing!*
+Health and the Apostolic Blessing!
 
 **INTRODUCTION**
 
@@ -713,358 +715,358 @@ To "Mary's mediation, wholly oriented toward Christ and tending to the revelatio
 
 ---
 
-****. Cf. Paul VI, Message for World Mission Day, 1972, *Insegnamenti* X, (1972), 522: "How many internal tensions, which weaken and divide certain local churches and institutions, would disappear before the firm conviction that the salvation of local communities is procured through cooperation in work for the spread of the Gospel to the farthest bounds of the earth!"
+**[1](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1)**. Cf. Paul VI, Message for World Mission Day, 1972, *Insegnamenti* X, (1972), 522: "How many internal tensions, which weaken and divide certain local churches and institutions, would disappear before the firm conviction that the salvation of local communities is procured through cooperation in work for the spread of the Gospel to the farthest bounds of the earth!"
 
-****. Cf. Benedict XV, Apostolic Letter *Maximum Illud* (November 30, 1919): *AAS* 11 (1919), 440-455; Pius XI, Encyclical Letter *Rerum Ecclesiae* (February 28, 1926): *AAS* 18 (1926), 65-83; Pius XII, Encyclical Letter *Evangelii Praecones* (June 2, 1951): *AAS* 43 (1951), 497-528; Encyclical Letter *Fidei Donum* (April 21, 1957): *AAS* 49 (1957), 225-248; John XXIII, Encyclical Letter *Princeps Pastorum* (November 28, 1959): AAS 51 (1959), 833-864.
+**[2](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2)**. Cf. Benedict XV, Apostolic Letter *Maximum Illud* (November 30, 1919): *AAS* 11 (1919), 440-455; Pius XI, Encyclical Letter *Rerum Ecclesiae* (February 28, 1926): *AAS* 18 (1926), 65-83; Pius XII, Encyclical Letter *Evangelii Praecones* (June 2, 1951): *AAS* 43 (1951), 497-528; Encyclical Letter *Fidei Donum* (April 21, 1957): *AAS* 49 (1957), 225-248; John XXIII, Encyclical Letter *Princeps Pastorum* (November 28, 1959): AAS 51 (1959), 833-864.
 
-****. Encyclical Letter *Redemptor Hominis* (March 4, 1979), 10: *AAS* 71 (1979), 274f.
+**[3](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3)**. Encyclical Letter *Redemptor Hominis* (March 4, 1979), 10: *AAS* 71 (1979), 274f.
 
-****. Ibid.: *loc. cit*., 275.
+**[4](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4)**. Ibid.: *loc. cit*., 275.
 
-****. Nicene-Constantinopolitan Creed: *DS* 150.
+**[5](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-5)**. Nicene-Constantinopolitan Creed: *DS* 150.
 
-****. Encyclical Letter *Redemptor Hominis*, 13: *loc. cit*., 283.
+**[6](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-6)**. Encyclical Letter *Redemptor Hominis*, 13: *loc. cit*., 283.
 
-****. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 2.
+**[7](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-7)**. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 2.
 
-****. Ibid., 22.
+**[8](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-8)**. Ibid., 22.
 
-****. Encyclical Letter *Dives in Misericordia* (November 30, 1980), 7: *AAS* 72 (1980), 1202.
+**[9](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-9)**. Encyclical Letter *Dives in Misericordia* (November 30, 1980), 7: *AAS* 72 (1980), 1202.
 
-****. *Homily* for the celebration of the Eucharist in Krakow, June 10, 1979: *AAS* 71 (1979), 873.
+**[10](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-A)**. *Homily* for the celebration of the Eucharist in Krakow, June 10, 1979: *AAS* 71 (1979), 873.
 
-****. Cf. John XXIII, Encyclical Letter *Mater et Magistra* (May 15, 1961) IV *AAS* 53 (1961), 453.
+**[11](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-B)**. Cf. John XXIII, Encyclical Letter *Mater et Magistra* (May 15, 1961) IV *AAS* 53 (1961), 453.
 
-****. Declaration on Religious Freedom *Dignitatis Humanae*, 2.
+**[12](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-C)**. Declaration on Religious Freedom *Dignitatis Humanae*, 2.
 
-****. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi* (December 8, 1975), 53: *AAS* 68 (1976), 42.
+**[13](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-D)**. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi* (December 8, 1975), 53: *AAS* 68 (1976), 42.
 
-****. Declaration on Religious Freedom *Dignitatis Humanae*, 2.
+**[14](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-E)**. Declaration on Religious Freedom *Dignitatis Humanae*, 2.
 
-****. Cf. Dogmatic Constitution on the Church *Lumen Gentium*, 14-17; Decree on the Missionary Activity of the Church *Ad Gentes*, 3.
+**[15](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-F)**. Cf. Dogmatic Constitution on the Church *Lumen Gentium*, 14-17; Decree on the Missionary Activity of the Church *Ad Gentes*, 3.
 
-****. Cf. Dogmatic Constitution on the Church *Lumen Gentium*, 48; Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 43; Decree on the Missionary Activity of the Church *Ad Gentes*, 7, 21.
+**[16](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-G)**. Cf. Dogmatic Constitution on the Church *Lumen Gentium*, 48; Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 43; Decree on the Missionary Activity of the Church *Ad Gentes*, 7, 21.
 
-****. Dogmatic Constitution on the Church *Lumen Gentium*, 13.
+**[17](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-H)**. Dogmatic Constitution on the Church *Lumen Gentium*, 13.
 
-****. Ibid., 9.
+**[18](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-I)**. Ibid., 9.
 
-****. Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 22.
+**[19](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-J)**. Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 22.
 
-****. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church, *Lumen Gentium*, 14.
+**[20](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-K)**. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church, *Lumen Gentium*, 14.
 
-****. Encyclical Letter *Dives in Misericordia*, 1: *loc. cit*., 1177.
+**[21](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-L)**. Encyclical Letter *Dives in Misericordia*, 1: *loc. cit*., 1177.
 
-****. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 5.
+**[22](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-M)**. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 5.
 
-****. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 22.
+**[23](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-N)**. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 22.
 
-****. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 4.
+**[24](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-O)**. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 4.
 
-****. Ibid., 5.
+**[25](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-P)**. Ibid., 5.
 
-****. Apostolic Exhortation *Evangelii Nuntiandi*, 16: *loc. cit*., 15.
+**[26](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Q)**. Apostolic Exhortation *Evangelii Nuntiandi*, 16: *loc. cit*., 15.
 
-****. *Address* at the opening of the Third Session of the Second Vatican Ecumenical Council, September 14, 1964: *AAS* 56 (1964), 810.
+**[27](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-R)**. *Address* at the opening of the Third Session of the Second Vatican Ecumenical Council, September 14, 1964: *AAS* 56 (1964), 810.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 34: *loc. cit*., 28.
+**[28](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-S)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 34: *loc. cit*., 28.
 
-****. Cf. International Theological Commission, Select Themes of Ecclesiology on the Occasion of the Twentieth Anniversary of the Closing of the Second Vatican Council (October 7, 1985), 10: "The Eschatological Character of the Church: Kingdom and Church."
+**[29](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-T)**. Cf. International Theological Commission, Select Themes of Ecclesiology on the Occasion of the Twentieth Anniversary of the Closing of the Second Vatican Council (October 7, 1985), 10: "The Eschatological Character of the Church: Kingdom and Church."
 
-****. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 39.
+**[30](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-U)**. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 39.
 
-****. Encyclical Letter *Dominum et Vivificantem* (May 18, 1986), 42: *AAS* 78 (1986), 857.
+**[31](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-V)**. Encyclical Letter *Dominum et Vivificantem* (May 18, 1986), 42: *AAS* 78 (1986), 857.
 
-****. Ibid., 64: *loc. cit*., 892.
+**[32](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-W)**. Ibid., 64: *loc. cit*., 892.
 
-****. The Greek word "parrhesia" also means enthusiasm or energy; cf. Acts 2:29; 4:13, 29, 31; 9:27-28; 13:46; 14:3; 18:26; 19:8, 26; 28:31.
+**[33](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-X)**. The Greek word "parrhesia" also means enthusiasm or energy; cf. Acts 2:29; 4:13, 29, 31; 9:27-28; 13:46; 14:3; 18:26; 19:8, 26; 28:31.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 41-42: *loc. cit*., 31-33.
+**[34](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Y)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 41-42: *loc. cit*., 31-33.
 
-****. Cf. Encyclical Letter *Dominum et Vivificantem*, 53: *loc. cit*., 874f.
+**[35](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-Z)**. Cf. Encyclical Letter *Dominum et Vivificantem*, 53: *loc. cit*., 874f.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 3, 11, 15; Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 10-11, 22, 26, 38, 41, 92-93.
+**[36](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-10)**. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 3, 11, 15; Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 10-11, 22, 26, 38, 41, 92-93.
 
-****. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 10, 15, 22.
+**[37](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-11)**. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 10, 15, 22.
 
-****. Ibid., 41.
+**[38](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-12)**. Ibid., 41.
 
-****. Cf. Encyclical Letter *Dominum et Vivificantem*, 54: *loc. cit*., 875f.
+**[39](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-13)**. Cf. Encyclical Letter *Dominum et Vivificantem*, 54: *loc. cit*., 875f.
 
-****. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 26.
+**[40](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-14)**. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 26.
 
-****. Ibid., 38; cf. 93.
+**[41](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-15)**. Ibid., 38; cf. 93.
 
-****. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 17; Decree on the Missionary Activity of the Church *Ad Gentes*, 3, 15.
+**[42](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-16)**. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 17; Decree on the Missionary Activity of the Church *Ad Gentes*, 3, 15.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 4.
+**[43](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-17)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 4.
 
-****. Cf. Encyclical Letter *Dominum et Vivificantem*, 53: *loc. cit*., 874.
+**[44](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-18)**. Cf. Encyclical Letter *Dominum et Vivificantem*, 53: *loc. cit*., 874.
 
-****. *Address* to Representatives of Non-Christian Religions, Madras, February 5, 1986: *AAS* 78 (1986), 767; cf. *Message to the Peoples of Asia*, Manila, February 21, 1981, 2-4: *AAS* 73 (1981), 392f; *Address* to Representatives of Other Religions, Tokyo, February 24, 1981, 3-4: *Insegnamenti* IV/I (1981), 507f.
+**[45](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-19)**. *Address* to Representatives of Non-Christian Religions, Madras, February 5, 1986: *AAS* 78 (1986), 767; cf. *Message to the Peoples of Asia*, Manila, February 21, 1981, 2-4: *AAS* 73 (1981), 392f; *Address* to Representatives of Other Religions, Tokyo, February 24, 1981, 3-4: *Insegnamenti* IV/I (1981), 507f.
 
-****. *Address* to Cardinals and the Roman Curia, December 22, 1986, 11: *AAS* 79 (1987), 1089.
+**[46](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1A)**. *Address* to Cardinals and the Roman Curia, December 22, 1986, 11: *AAS* 79 (1987), 1089.
 
-****. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 16.
+**[47](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1B)**. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 16.
 
-****. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 45; cf. Encyclical Letter *Dominum et Vivificantem*, 54: *loc. cit*., 876.
+**[48](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1C)**. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 45; cf. Encyclical Letter *Dominum et Vivificantem*, 54: *loc. cit*., 876.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 10.
+**[49](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1D)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 10.
 
-****. Apostolic Exhortation *Christifideles Laici* (December 30, 1988), 35: *AAS* 81 (1989), 457.
+**[50](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1E)**. Apostolic Exhortation *Christifideles Laici* (December 30, 1988), 35: *AAS* 81 (1989), 457.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 6.
+**[51](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1F)**. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 6.
 
-****. Cf. ibid.
+**[52](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1G)**. Cf. ibid.
 
-****. Cf. ibid., 6, 23, 27.
+**[53](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1H)**. Cf. ibid., 6, 23, 27.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 18-20: *loc. cit*., 17-19.
+**[54](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1I)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 18-20: *loc. cit*., 17-19.
 
-****. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 457.
+**[55](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1J)**. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 457.
 
-****. Apostolic Exhortation *Evangelii Nuntiandi*, 80: *loc. cit*., 73.
+**[56](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1K)**. Apostolic Exhortation *Evangelii Nuntiandi*, 80: *loc. cit*., 73.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 6.
+**[57](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1L)**. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 6.
 
-****. Apostolic Exhortation *Evangelii Nuntiandi*, 80: *loc. cit*., 73.
+**[58](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1M)**. Apostolic Exhortation *Evangelii Nuntiandi*, 80: *loc. cit*., 73.
 
-****. Cf. Decree on the Missionary Activity of the Church *Ad Gentes*, 6.
+**[59](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1N)**. Cf. Decree on the Missionary Activity of the Church *Ad Gentes*, 6.
 
-****. Cf. ibid, 20.
+**[60](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1O)**. Cf. ibid, 20.
 
-****. Cf. *Address* to the members of the Symposium of the Council of the European Episcopal Conferences, October 11, 1985: *AAS* 78 (1986), 178-189.
+**[61](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1P)**. Cf. *Address* to the members of the Symposium of the Council of the European Episcopal Conferences, October 11, 1985: *AAS* 78 (1986), 178-189.
 
-****. Apostolic Exhortation *Evangelii Nuntiandi*, 20: *loc. cit*., 19.
+**[62](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Q)**. Apostolic Exhortation *Evangelii Nuntiandi*, 20: *loc. cit*., 19.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 5; cf. Dogmatic Constitution on the Church *Lumen Gentium*, 8.
+**[63](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1R)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 5; cf. Dogmatic Constitution on the Church *Lumen Gentium*, 8.
 
-****. Cf. Second Vatican Ecumenical Council, Declaration on Religious Freedom *Dignitatis Humanae*, 3-4; Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 79-80: *loc. cit*., 71-75; John Paul II, Encyclical Letter *Redemptor Hominis*, 12: *loc. cit*., 278-281.
+**[64](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1S)**. Cf. Second Vatican Ecumenical Council, Declaration on Religious Freedom *Dignitatis Humanae*, 3-4; Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 79-80: *loc. cit*., 71-75; John Paul II, Encyclical Letter *Redemptor Hominis*, 12: *loc. cit*., 278-281.
 
-****. Apostolic Letter *Maximum Illud*: *loc. cit*., 446.
+**[65](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1T)**. Apostolic Letter *Maximum Illud*: *loc. cit*., 446.
 
-****. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 62: *loc. cit*., 52.
+**[66](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1U)**. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 62: *loc. cit*., 52.
 
-****. Cf. *De praescriptione haereticorum*, XX: CCL, I, 201f.
+**[67](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1V)**. Cf. *De praescriptione haereticorum*, XX: CCL, I, 201f.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 9; cf. Chapter II, 10-18.
+**[68](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1W)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 9; cf. Chapter II, 10-18.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 41: *loc. cit*., 31 f.
+**[69](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1X)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 41: *loc. cit*., 31 f.
 
-****. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 28, 35, 38; Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 43; Decree on the Missionary Activity of the Church *Ad Gentes*, 11-12.
+**[70](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Y)**. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 28, 35, 38; Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 43; Decree on the Missionary Activity of the Church *Ad Gentes*, 11-12.
 
-****. Cf. Paul VI, Encyclical Letter *Populorum Progressio* (March 26, 1967), 21, 42: *AAS* 59 (1967), 267f, 278.
+**[71](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-1Z)**. Cf. Paul VI, Encyclical Letter *Populorum Progressio* (March 26, 1967), 21, 42: *AAS* 59 (1967), 267f, 278.
 
-****. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 27: *loc. cit*., 23.
+**[72](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-20)**. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 27: *loc. cit*., 23.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 13.
+**[73](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-21)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 13.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 15: *loc. cit*., 13-15; Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 13-14.
+**[74](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-22)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 15: *loc. cit*., 13-15; Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 13-14.
 
-****. Cf. Encyclical Letter *Dominum et Vivificantem*, 42, 64: *loc. cit*., 857-859, 892-894.
+**[75](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-23)**. Cf. Encyclical Letter *Dominum et Vivificantem*, 42, 64: *loc. cit*., 857-859, 892-894.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 60: *loc. cit*., 50f.
+**[76](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-24)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 60: *loc. cit*., 50f.
 
-****. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 6-9.
+**[77](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-25)**. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 6-9.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 2; cf. Dogmatic Constitution on the Church *Lumen Gentium*, 9.
+**[78](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-26)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 2; cf. Dogmatic Constitution on the Church *Lumen Gentium*, 9.
 
-****. Cf. Decree on the Missionary Activity of the Church *Ad Gentes*, Chapter III, 19-22.
+**[79](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-27)**. Cf. Decree on the Missionary Activity of the Church *Ad Gentes*, Chapter III, 19-22.
 
-****. Ibid., 15.
+**[80](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-28)**. Ibid., 15.
 
-****. Ibid., 6.
+**[81](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-29)**. Ibid., 6.
 
-****. Ibid., 15; cf. Decree on Ecumenism *Unitatis Redintegratio*, 3.
+**[82](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2A)**. Ibid., 15; cf. Decree on Ecumenism *Unitatis Redintegratio*, 3.
 
-****. Cf. Apostolic Exhortation *Evangelii Nuntiandi*, 58: *loc. cit.*, 46-49.
+**[83](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2B)**. Cf. Apostolic Exhortation *Evangelii Nuntiandi*, 58: *loc. cit.*, 46-49.
 
-****. Extraordinary Assembly of 1985, *Final Report*, II, C, 6.
+**[84](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2C)**. Extraordinary Assembly of 1985, *Final Report*, II, C, 6.
 
-****. Ibid., II, D, 4.
+**[85](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2D)**. Ibid., II, D, 4.
 
-****. Cf. Apostolic Exhortation *Catechesi Tradendae* (October 16, 1979), 53: *AAS* 71 (1979), 1320; Encyclical Epistle *Slavorum Apostoli* (June 2, 1985), 21: *AAS* 77 (1985), 802f.
+**[86](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2E)**. Cf. Apostolic Exhortation *Catechesi Tradendae* (October 16, 1979), 53: *AAS* 71 (1979), 1320; Encyclical Epistle *Slavorum Apostoli* (June 2, 1985), 21: *AAS* 77 (1985), 802f.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 20: *loc. cit*., 18f.
+**[87](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2F)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 20: *loc. cit*., 18f.
 
-****. *Address* to the Bishops of Zaire, Kinshasa, May 3, 1980, 4-6: *AAS* 72 (1980), 432-435; *Address* to the Bishops of Kenya, Nairobi, May 7, 1980, 6: *AAS* 72 (1980), 497; *Address* to the Bishops of India, Delhi, February 1, 1986, 5: *AAS* 78 (1986), 748f; *Homily* at Cartagena, July 6, 1986, 7-8: *AAS* 79 (1987), 105f; cf. also Encyclical Epistle *Slavorum Apostoli*, 21-22; *loc. cit*., 802-804.
+**[88](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2G)**. *Address* to the Bishops of Zaire, Kinshasa, May 3, 1980, 4-6: *AAS* 72 (1980), 432-435; *Address* to the Bishops of Kenya, Nairobi, May 7, 1980, 6: *AAS* 72 (1980), 497; *Address* to the Bishops of India, Delhi, February 1, 1986, 5: *AAS* 78 (1986), 748f; *Homily* at Cartagena, July 6, 1986, 7-8: *AAS* 79 (1987), 105f; cf. also Encyclical Epistle *Slavorum Apostoli*, 21-22; *loc. cit*., 802-804.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 22.
+**[89](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2H)**. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 22.
 
-****. Cf. ibid.
+**[90](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2I)**. Cf. ibid.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 64: *loc. cit*., 55.
+**[91](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2J)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 64: *loc. cit*., 55.
 
-****. Ibid., 63: *loc. cit*., 53: Particular Churches "have the task of assimilating the essence of the Gospel message and of transposing it, without the slightest betrayal of its essential truth, into the language that these people understand, then of proclaiming it in this language.... And the word ‘language' should be understood here less in the semantic or literary sense than in the sense which one may call anthropological or cultural."
+**[92](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2K)**. Ibid., 63: *loc. cit*., 53: Particular Churches "have the task of assimilating the essence of the Gospel message and of transposing it, without the slightest betrayal of its essential truth, into the language that these people understand, then of proclaiming it in this language.... And the word ‘language' should be understood here less in the semantic or literary sense than in the sense which one may call anthropological or cultural."
 
-****. Cf. *Address* at the General Audience of April 13, 1988: *Insegnamenti* XI/I (1988), 877-881.
+**[93](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2L)**. Cf. *Address* at the General Audience of April 13, 1988: *Insegnamenti* XI/I (1988), 877-881.
 
-****. Apostolic Exhortation *Familiaris Consortio*, (November 22, 1981), 10: *AAS* 74 (1982), 91, which speaks of inculturation "in the context of marriage and the family."
+**[94](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2M)**. Apostolic Exhortation *Familiaris Consortio*, (November 22, 1981), 10: *AAS* 74 (1982), 91, which speaks of inculturation "in the context of marriage and the family."
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 63-65: *loc. cit*., 53-56.
+**[95](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2N)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 63-65: *loc. cit*., 53-56.
 
-****. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 17.
+**[96](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2O)**. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 17.
 
-****. *Address* to those participating in the Symposium of African Bishops at Kampala, July 31, 1969, 2: *AAS* 61 (1969), 577.
+**[97](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2P)**. *Address* to those participating in the Symposium of African Bishops at Kampala, July 31, 1969, 2: *AAS* 61 (1969), 577.
 
-****. Paul VI, *Address* at the opening of the Second Session of the Second Vatican Ecumenical Council, September 29, 1963: *AAS* 55 (1963), 858; cf. Second Vatican Ecumenical Council, Declaration on the Church's Relation to Non-Christian Religions *Nostra Aetate*, 2; Dogmatic Constitution on the Church *Lumen Gentium*, 16; Decree on the Missionary Activity of the Church *Ad Gentes*, 9; Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 53: *loc. cit*. 41f.
+**[98](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Q)**. Paul VI, *Address* at the opening of the Second Session of the Second Vatican Ecumenical Council, September 29, 1963: *AAS* 55 (1963), 858; cf. Second Vatican Ecumenical Council, Declaration on the Church's Relation to Non-Christian Religions *Nostra Aetate*, 2; Dogmatic Constitution on the Church *Lumen Gentium*, 16; Decree on the Missionary Activity of the Church *Ad Gentes*, 9; Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 53: *loc. cit*. 41f.
 
-****. Cf. Paul VI, Encyclical Letter *Ecclesiam Suam* (August 6, 1964): *AAS* 56 (1964), 609-659; Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 11, 41; Secretariat for Non-Christians, Document *L'atteggiamento della Chiesa di fronte ai seguaci di altre religioni:* Riflessioni e orientamenti su dialogo e missione (September 4, 1984): *AAS* 76 (1984), 816-828.
+**[99](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2R)**. Cf. Paul VI, Encyclical Letter *Ecclesiam Suam* (August 6, 1964): *AAS* 56 (1964), 609-659; Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 11, 41; Secretariat for Non-Christians, Document *L'atteggiamento della Chiesa di fronte ai seguaci di altre religioni:* Riflessioni e orientamenti su dialogo e missione (September 4, 1984): *AAS* 76 (1984), 816-828.
 
-****. *Letter* to the Fifth Plenary Assembly of Asian Bishops' Conferences (June 23, 1990), 4: *L'Osservatore Romano*, July 18, 1990.
+**[100](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2S)**. *Letter* to the Fifth Plenary Assembly of Asian Bishops' Conferences (June 23, 1990), 4: *L'Osservatore Romano*, July 18, 1990.
 
-****. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 14; cf. Decree on the Missionary Activity of the Church *Ad Gentes*, 7.
+**[101](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2T)**. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 14; cf. Decree on the Missionary Activity of the Church *Ad Gentes*, 7.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on Ecumenism *Unitatis Redintegratio*, 3; Decree on the Missionary Activity of the Church *Ad Gentes*, 7.
+**[102](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2U)**. Cf. Second Vatican Ecumenical Council, Decree on Ecumenism *Unitatis Redintegratio*, 3; Decree on the Missionary Activity of the Church *Ad Gentes*, 7.
 
-****. Cf. Encyclical Letter *Redemptor Hominis*, 12: *loc. cit*., 279.
+**[103](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2V)**. Cf. Encyclical Letter *Redemptor Hominis*, 12: *loc. cit*., 279.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 11, 15.
+**[104](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2W)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 11, 15.
 
-****. Second Vatican Ecumenical Council, Declaration on the Church's Relation to Non-Christian Religions *Nostra Aetate*, 2.
+**[105](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2X)**. Second Vatican Ecumenical Council, Declaration on the Church's Relation to Non-Christian Religions *Nostra Aetate*, 2.
 
-****. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 458.
+**[106](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Y)**. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 458.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 41.
+**[107](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-2Z)**. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 41.
 
-****. Encyclical Letter *Sollicitudo Rei Socialis* (December 30, 1987), 41: *AAS* 80 (1988), 570f.
+**[108](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-30)**. Encyclical Letter *Sollicitudo Rei Socialis* (December 30, 1987), 41: *AAS* 80 (1988), 570f.
 
-****. *Documents* of the Third General Conference of Latin American Bishops, Puebla (1979), 3760 (1145).
+**[109](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-31)**. *Documents* of the Third General Conference of Latin American Bishops, Puebla (1979), 3760 (1145).
 
-****. *Address* to Clergy and Religious, Jakarta, October 10, 1989, 5: *L'Osservatore Romano,* October 11, 1989.
+**[110](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-32)**. *Address* to Clergy and Religious, Jakarta, October 10, 1989, 5: *L'Osservatore Romano,* October 11, 1989.
 
-****. Cf. Paul VI, Encyclical Letter *Populorum Progressio*, 14-21, 40-42: *loc. cit*., 264-268, 277f; John Paul II, Encyclical Letter *Sollicitudo Rei Socialis*, 27-41: *loc. cit*., 547-572.
+**[111](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-33)**. Cf. Paul VI, Encyclical Letter *Populorum Progressio*, 14-21, 40-42: *loc. cit*., 264-268, 277f; John Paul II, Encyclical Letter *Sollicitudo Rei Socialis*, 27-41: *loc. cit*., 547-572.
 
-****. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 28: *loc. cit*., 548-550.
+**[112](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-34)**. Cf. Encyclical Letter *Sollicitudo Rei Socialis*, 28: *loc. cit*., 548-550.
 
-****. Cf. ibid., Chapter IV, 27-34: *loc. cit*., 547-560; Paul VI, Encyclical Letter *Populorum Progressio*, 19-21, 41-42: *loc. cit*., 266-268, 277f.
+**[113](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-35)**. Cf. ibid., Chapter IV, 27-34: *loc. cit*., 547-560; Paul VI, Encyclical Letter *Populorum Progressio*, 19-21, 41-42: *loc. cit*., 266-268, 277f.
 
-****. *Address* to the residents of "Favela Vidigal" in Rio de Janeiro, July 2, 1980, 4: *AAS* 72 (1980), 854.
+**[114](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-36)**. *Address* to the residents of "Favela Vidigal" in Rio de Janeiro, July 2, 1980, 4: *AAS* 72 (1980), 854.
 
-****. *Documents* of the Third General Conference of Latin American Bishops, Puebla, (1979), 3757 (1142).
+**[115](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-37)**. *Documents* of the Third General Conference of Latin American Bishops, Puebla, (1979), 3757 (1142).
 
-****. Isaac of Stella, *Sermon* 31, *PL* 194, 1793.
+**[116](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-38)**. Isaac of Stella, *Sermon* 31, *PL* 194, 1793.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 20.
+**[117](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-39)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 20.
 
-****. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 458.
+**[118](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3A)**. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 458.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 38.
+**[119](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3B)**. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 38.
 
-****. *Address* to Cardinals and those associated in the work of the Roman Curia, Vatican City and the Vicariate of Rome, June 28, 1980, 10: *Insegnamenti*, III/1 (1980), 1887.
+**[120](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3C)**. *Address* to Cardinals and those associated in the work of the Roman Curia, Vatican City and the Vicariate of Rome, June 28, 1980, 10: *Insegnamenti*, III/1 (1980), 1887.
 
-****. Dogmatic Constitution on the Church *Lumen Gentium*, 23.
+**[121](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3D)**. Dogmatic Constitution on the Church *Lumen Gentium*, 23.
 
-****. Decree on the Missionary Activity of the Church *Ad Gentes*, 38.
+**[122](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3E)**. Decree on the Missionary Activity of the Church *Ad Gentes*, 38.
 
-****. Ibid., 29.
+**[123](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3F)**. Ibid., 29.
 
-****. Cf. ibid., 38.
+**[124](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3G)**. Cf. ibid., 38.
 
-****. Ibid., 30.
+**[125](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3H)**. Ibid., 30.
 
-****. *Documents* of the Third General Conference of Latin American Bishops, Puebla (1979): 2941 (368).
+**[126](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3I)**. *Documents* of the Third General Conference of Latin American Bishops, Puebla (1979): 2941 (368).
 
-****. Cf. Norms for the Cooperation of the Local Churches Among Themselves and especially for a Better Distribution of the Clergy in the World *Postquam Apostoli* (March 25, 1980): *AAS* 72 (1980), 343-364.
+**[127](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3J)**. Cf. Norms for the Cooperation of the Local Churches Among Themselves and especially for a Better Distribution of the Clergy in the World *Postquam Apostoli* (March 25, 1980): *AAS* 72 (1980), 343-364.
 
-****. Cf. Decree on the Missionary Activity of the Church *Ad Gentes*, Chapter IV, 23-27.
+**[128](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3K)**. Cf. Decree on the Missionary Activity of the Church *Ad Gentes*, Chapter IV, 23-27.
 
-****. Ibid., 23.
+**[129](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3L)**. Ibid., 23.
 
-****. Ibid.
+**[130](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3M)**. Ibid.
 
-****. Ibid., 23, 27.
+**[131](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3N)**. Ibid., 23, 27.
 
-****. Cf. Sacred Congregation for Religious and Secular Institutes and Sacred Congregation for Bishops, Directives for Mutual Relations between Bishops and Religious in the Church *Mutuae Relationes* (May 14, 1978), 14b: *AAS* 70 (1978), 482; cf. n. 28: *loc. cit*., 490.
+**[132](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3O)**. Cf. Sacred Congregation for Religious and Secular Institutes and Sacred Congregation for Bishops, Directives for Mutual Relations between Bishops and Religious in the Church *Mutuae Relationes* (May 14, 1978), 14b: *AAS* 70 (1978), 482; cf. n. 28: *loc. cit*., 490.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 27.
+**[133](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3P)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 27.
 
-****. Second Vatican Ecumenical Council, Decree on the Ministry and Life of Priests *Presbyterorum Ordinis*, 10; cf. Decree on the Missionary Activity of the Church *Ad Gentes*, 39.
+**[134](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3Q)**. Second Vatican Ecumenical Council, Decree on the Ministry and Life of Priests *Presbyterorum Ordinis*, 10; cf. Decree on the Missionary Activity of the Church *Ad Gentes*, 39.
 
-****. Second Vatican Ecumenical Council, Decree on Priestly Formation *Optatam Totius*, 20: cf. "Guide de la vie pastorale pour les pretres diocesains des Eglises qui dependent de la Congregation pour l'Evangélisation des Peuples," Rome, 1989.
+**[135](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3R)**. Second Vatican Ecumenical Council, Decree on Priestly Formation *Optatam Totius*, 20: cf. "Guide de la vie pastorale pour les pretres diocesains des Eglises qui dependent de la Congregation pour l'Evangélisation des Peuples," Rome, 1989.
 
-****. *Address* to the Plenary Assembly of the Congregation for the Evangelization of Peoples, April 14, 1989, 4: *AAS* 81 (1989), 1140.
+**[136](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3S)**. *Address* to the Plenary Assembly of the Congregation for the Evangelization of Peoples, April 14, 1989, 4: *AAS* 81 (1989), 1140.
 
-****. *Message* for World Mission Day, 1982: *Insegnamenti* V/2 (1982), 1879.
+**[137](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3T)**. *Message* for World Mission Day, 1982: *Insegnamenti* V/2 (1982), 1879.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 38; Sacred Congregation for the Clergy, Norms Postquam Apostoli, 24-25: *loc. cit*., 361.
+**[138](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3U)**. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 38; Sacred Congregation for the Clergy, Norms Postquam Apostoli, 24-25: *loc. cit*., 361.
 
-****. Cf. Sacred Congregation for the Clergy, Norms *Postquam Apostoli*, 29: *loc. cit*., 362f; Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 20.
+**[139](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3V)**. Cf. Sacred Congregation for the Clergy, Norms *Postquam Apostoli*, 29: *loc. cit*., 362f; Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 20.
 
-****. *CIC*, c. 783.
+**[140](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3W)**. *CIC*, c. 783.
 
-****. Decree on the Missionary Activity of the Church *Ad Gentes*, 40.
+**[141](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3X)**. Decree on the Missionary Activity of the Church *Ad Gentes*, 40.
 
-****. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 69: *loc. cit*., 58f.
+**[142](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3Y)**. Cf. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 69: *loc. cit*., 58f.
 
-****. Apostolic Letter *Mulieris Dignitatem* (August 15, 1988), 20: *AAS* 80 (1988), 1703.
+**[143](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-3Z)**. Apostolic Letter *Mulieris Dignitatem* (August 15, 1988), 20: *AAS* 80 (1988), 1703.
 
-****. Cf. Pius XII, Encyclical Letter *Evangelii Praecones*: *loc. cit*., 510ff; Encyclical Letter *Fidei Donum*: *loc. cit*., 228ff; John XXIII, Encyclical Letter *Princeps Pastorum*: *loc. cit*., 855ff; Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 70-73: *loc. cit*., 59-63.
+**[144](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-40)**. Cf. Pius XII, Encyclical Letter *Evangelii Praecones*: *loc. cit*., 510ff; Encyclical Letter *Fidei Donum*: *loc. cit*., 228ff; John XXIII, Encyclical Letter *Princeps Pastorum*: *loc. cit*., 855ff; Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 70-73: *loc. cit*., 59-63.
 
-****. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 457.
+**[145](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-41)**. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 457.
 
-****. Cf. Encyclical Letter *Evangelii Praecones*: *loc. cit*., 510-514.
+**[146](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-42)**. Cf. Encyclical Letter *Evangelii Praecones*: *loc. cit*., 510-514.
 
-****. Cf. Dogmatic Constitution on the Church *Lumen Gentium*, 17, 33ff.
+**[147](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-43)**. Cf. Dogmatic Constitution on the Church *Lumen Gentium*, 17, 33ff.
 
-****. Cf. Decree on the Missionary Activity of the Church *Ad Gentes*, 35-36, 41.
+**[148](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-44)**. Cf. Decree on the Missionary Activity of the Church *Ad Gentes*, 35-36, 41.
 
-****. Apostolic Exhortation *Christifideles Laici*, 14: *loc. cit*., 410.
+**[149](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-45)**. Apostolic Exhortation *Christifideles Laici*, 14: *loc. cit*., 410.
 
-****. *CIC*, c. 225, 1; cf. Second Vatican Ecumenical Council, Decree on the Apostolate of the Laity *Apostolicam Actuositatem*, 6, 13.
+**[150](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-46)**. *CIC*, c. 225, 1; cf. Second Vatican Ecumenical Council, Decree on the Apostolate of the Laity *Apostolicam Actuositatem*, 6, 13.
 
-****. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 31; cf. *CIC*, c. 225, 2.
+**[151](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-47)**. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *Lumen Gentium*, 31; cf. *CIC*, c. 225, 2.
 
-****. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 70: *loc. cit*., 60.
+**[152](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-48)**. Paul VI, Apostolic Exhortation *Evangelii Nuntiandi*, 70: *loc. cit*., 60.
 
-****. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 458.
+**[153](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-49)**. Apostolic Exhortation *Christifideles Laici*, 35: *loc. cit*., 458.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 17.
+**[154](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4A)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 17.
 
-****. Apostolic Exhortation *Catechesi Tradendae*, 66: *loc. cit*., 1331.
+**[155](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4B)**. Apostolic Exhortation *Catechesi Tradendae*, 66: *loc. cit*., 1331.
 
-****. Cf. c. 785, 1.
+**[156](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4C)**. Cf. c. 785, 1.
 
-****. Decree on the Missionary Activity of the Church *Ad Gentes*, 17.
+**[157](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4D)**. Decree on the Missionary Activity of the Church *Ad Gentes*, 17.
 
-****. Cf. Plenary Assembly of the Sacred Congregation for the Evangelization of Peoples, 1969, on catechists, and the related "Instruction" of April 1970: *Bibliographia Missionaria* 34 (1970), 197-212 and *S. C. de Propaganda Fide Memoria Rerum*, III/2 (1976), 821-831.
+**[158](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4E)**. Cf. Plenary Assembly of the Sacred Congregation for the Evangelization of Peoples, 1969, on catechists, and the related "Instruction" of April 1970: *Bibliographia Missionaria* 34 (1970), 197-212 and *S. C. de Propaganda Fide Memoria Rerum*, III/2 (1976), 821-831.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 28.
+**[159](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4F)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 28.
 
-****. Apostolic Constitution *Pastor Bonus* (June 28, 1988), 85: *AAS* 80 (1988), 881; cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 29.
+**[160](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4G)**. Apostolic Constitution *Pastor Bonus* (June 28, 1988), 85: *AAS* 80 (1988), 881; cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 29.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 29: Cf. John Paul II, Apostolic Constitution *Pastor Bonus*, 86: *loc. cit*., 882.
+**[161](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4H)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 29: Cf. John Paul II, Apostolic Constitution *Pastor Bonus*, 86: *loc. cit*., 882.
 
-****. Decree on the Missionary Activity of the Church *Ad Gentes*, 31.
+**[162](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4I)**. Decree on the Missionary Activity of the Church *Ad Gentes*, 31.
 
-****. Cf. ibid., 33.
+**[163](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4J)**. Cf. ibid., 33.
 
-****. Cf. Paul VI, Apostolic Letter Motu Proprio *Ecclesiae Sanctae* (August 6, 1966), II, 43: *AAS* 58 (1966), 782.
+**[164](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4K)**. Cf. Paul VI, Apostolic Letter Motu Proprio *Ecclesiae Sanctae* (August 6, 1966), II, 43: *AAS* 58 (1966), 782.
 
-****. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 34; Paul VI, Apostolic Letter Motu Proprio *Ecclesiae Sanctae*, III, 22: *loc. cit*., 787.
+**[165](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4L)**. Cf. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 34; Paul VI, Apostolic Letter Motu Proprio *Ecclesiae Sanctae*, III, 22: *loc. cit*., 787.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad* *Gentes*, 35; cf. *CIC*, cc. 211, 781.
+**[166](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4M)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad* *Gentes*, 35; cf. *CIC*, cc. 211, 781.
 
-****. Apostolic Exhortation *Familiaris Consortio*, 54: *loc. cit*., 147.
+**[167](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4N)**. Apostolic Exhortation *Familiaris Consortio*, 54: *loc. cit*., 147.
 
-****. Cf. Paul VI, Apostolic Epistle *Graves et Increscentes* (September 5, 1966): *AAS* 58 (1966), 750-756.
+**[168](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4O)**. Cf. Paul VI, Apostolic Epistle *Graves et Increscentes* (September 5, 1966): *AAS* 58 (1966), 750-756.
 
-****. P Manna, *Le nostre "Chiese" e la propagazione del vangelo*, Trentola Ducenta, 1952 2, p. 35.
+**[169](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4P)**. P Manna, *Le nostre "Chiese" e la propagazione del vangelo*, Trentola Ducenta, 1952 2, p. 35.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 38.
+**[170](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4Q)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 38.
 
-****. Dogmatic Constitution on the Church *Lumen Gentium*, 13.
+**[171](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4R)**. Dogmatic Constitution on the Church *Lumen Gentium*, 13.
 
-****. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 24.
+**[172](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4S)**. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *Ad Gentes*, 24.
 
-****. Second Vatican Ecumenical Council, Decree on the Ministry and Life of Priests *Presbyterorum Ordinis*, 14.
+**[173](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4T)**. Second Vatican Ecumenical Council, Decree on the Ministry and Life of Priests *Presbyterorum Ordinis*, 14.
 
-****. Apostolic Exhortation *Christifideles Laici*, 17: *loc. cit.*, 419.
+**[174](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4U)**. Apostolic Exhortation *Christifideles Laici*, 17: *loc. cit.*, 419.
 
-****. Dogmatic Constitution on the Church *Lumen Gentium*, 1.
+**[175](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4V)**. Dogmatic Constitution on the Church *Lumen Gentium*, 1.
 
-****. Cf. *Address* at CELAM Meeting, Port-au-Prince, March 9, 1983: *AAS* 75 (1983), 771-779; *Homily* for the Opening of the "Novena of Years" promoted by CELAM, Santo Domingo, October 12, 1984: *Insegnamenti* VII/2 (1984), 885-897.
+**[176](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4W)**. Cf. *Address* at CELAM Meeting, Port-au-Prince, March 9, 1983: *AAS* 75 (1983), 771-779; *Homily* for the Opening of the "Novena of Years" promoted by CELAM, Santo Domingo, October 12, 1984: *Insegnamenti* VII/2 (1984), 885-897.
 
-****. Encyclical Letter *Redemptoris Mater* (March 25, 1987), 2: *AAS* 79 (1987), 362f.
+**[177](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4X)**. Encyclical Letter *Redemptoris Mater* (March 25, 1987), 2: *AAS* 79 (1987), 362f.
 
-****. Ibid., 22: *loc. cit*., 390.
+**[178](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/#-4Y)**. Ibid., 22: *loc. cit*., 390.

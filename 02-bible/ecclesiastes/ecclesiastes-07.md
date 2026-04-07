@@ -1,27 +1,26 @@
 ---
-title: Ecclesiastes, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ecclesiastes, Chapter 7
+title: Ecclesiastes, Chapter 7
+url: https://bible.usccb.org/bible/ecclesiastes/7
 aliases:
   - ecclesiastes-07
   - Ecclesiastes, Chapter 7
 tags:
+  - bible/chapter
   - bible/ecclesiastes
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ecclesiastes/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ecclesiastes, Chapter 7
 ---
 
 # Ecclesiastes, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-#### Critique of Sages on the Day of Adversity
+### Critique of Sages on the Day of Adversity
 
 1 A good name is better than good ointment, ^ecclesiastes-07-1
 

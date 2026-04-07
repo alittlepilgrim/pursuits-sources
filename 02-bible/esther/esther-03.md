@@ -1,25 +1,24 @@
 ---
-title: Esther, Chapter 3
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 3
+title: Esther, Chapter 3
+url: https://bible.usccb.org/bible/esther/3
 aliases:
   - esther-03
   - Esther, Chapter 3
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/3
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 3
 ---
 
 # Esther, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 **Mordecai Refuses to Honor Haman.**
 
@@ -85,7 +84,7 @@ d. (B:6) [Est 3:13]; [7:4]; [E:11].
 
 15 The couriers set out in haste at the king’s command; meanwhile, the decree was promulgated in the royal precinct of Susa. The king and Haman then sat down to drink, but the city of Susa was thrown into confusion. ^esther-03-15
 
-## Iv. Esther and Mordecai Plead for Help
+# Iv. Esther and Mordecai Plead for Help
 
 \* (3:2) We are not told the reasons for Mordecai’s refusal to bow. It may be the result of a form of Jewish piety that refuses to offer such homage to any mortal; see also Greek addition [C:5] – [7].
 

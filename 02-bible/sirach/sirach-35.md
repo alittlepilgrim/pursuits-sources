@@ -1,25 +1,24 @@
 ---
-title: Sirach, Chapter 35
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 35
+title: Sirach, Chapter 35
+url: https://bible.usccb.org/bible/sirach/35
 aliases:
   - sirach-35
   - Sirach, Chapter 35
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/35
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 35
 ---
 
 # Sirach, Chapter 35
 
-### Chapter 35
+## Chapter 35
 
 1 To keep the law is to make many offerings; ^sirach-35-1
 

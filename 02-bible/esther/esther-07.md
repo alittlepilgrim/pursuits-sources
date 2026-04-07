@@ -1,25 +1,24 @@
 ---
-title: Esther, Chapter 7
-created: 2025-08-04
-modified: 2026-04-02
 type: bible
-publish: true
-description: esther-chapter 7
+title: Esther, Chapter 7
+url: https://bible.usccb.org/bible/esther/7
 aliases:
   - esther-07
   - Esther, Chapter 7
 tags:
+  - bible/chapter
   - bible/esther
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/esther/7
-testament: old
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: esther-chapter 7
 ---
 
 # Esther, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 1 So the king and Haman went to the banquet with Queen Esther. ^esther-07-1
 

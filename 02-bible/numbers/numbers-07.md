@@ -1,25 +1,24 @@
 ---
-title: numbers-07
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 7
+title: numbers-07
+url: https://bible.usccb.org/bible/numbers/7
 aliases:
   - numbers-07
   - Numbers, Chapter 7
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 7
 ---
 
 Ø# Numbers, Chapter 7
 
-### Chapter 7
+# Chapter 7
 
 **Offerings of the Tribal Leaders.**
 
@@ -27,9 +26,9 @@ url: https://bible.usccb.org/bible/numbers/7
 
 2 an offering was made by the tribal leaders of Israel, who were heads of ancestral houses, the same leaders of the tribes who supervised those enrolled. ^numbers-07-2
 
-3 The offering they brought before the L ORD consisted of six wagons for baggage and twelve oxen, that is, a wagon for every two tribal leaders, and an ox for each. These they presented before the tabernacle. ^numbers-07-3
+3 The offering they brought before the LORD consisted of six wagons for baggage and twelve oxen, that is, a wagon for every two tribal leaders, and an ox for each. These they presented before the tabernacle. ^numbers-07-3
 
-4 The L ORD then said to Moses: ^numbers-07-4
+4 The LORD then said to Moses: ^numbers-07-4
 
 5 Accept their offering, that these things may be put to use to maintain the tent of meeting. Assign them to the Levites, to each according to his duties. ^numbers-07-5
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/numbers/7
 
 10 For the dedication of the altar also, the tribal leaders brought offerings when it was anointed; the leaders presented their offering before the altar. ^numbers-07-10
 
-11 But the L ORD said to Moses: Let one leader each day present his offering for the dedication of the altar. ^numbers-07-11
+11 But the LORD said to Moses: Let one leader each day present his offering for the dedication of the altar. ^numbers-07-11
 
 12 The one who presented his offering on the first day was Nahshon, son of Amminadab, of the tribe of Judah. ^numbers-07-12
 

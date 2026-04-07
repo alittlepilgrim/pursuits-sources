@@ -1,26 +1,25 @@
 ---
-title: Luke, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Luke, Chapter 6
+title: Luke, Chapter 6
+url: https://bible.usccb.org/bible/luke/6
 aliases:
   - 20250730-160806
   - luke-06
   - Luke, Chapter 6
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/6
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 6
 ---
 
 # Luke, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
 **Debates About the Sabbath.**
 

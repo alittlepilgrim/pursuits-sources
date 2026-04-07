@@ -1,29 +1,28 @@
 ---
-title: Sirach, Chapter 10
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 10
+title: Sirach, Chapter 10
+url: https://bible.usccb.org/bible/sirach/10
 aliases:
   - sirach-10
   - Sirach, Chapter 10
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/10
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 10
 ---
 
 # Sirach, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 1 A wise magistrate gives stability to his people, ^sirach-10-1
 
-and government by the intelligent is well ordered.
+and government by the intelligent is welLORDered.
 
 2 As the people’s judge, so the officials; ^sirach-10-2
 
@@ -41,7 +40,7 @@ who appoints the right person for the right time.
 
 who imparts his majesty to the ruler.
 
-#### The sin of Pride
+### The sin of Pride
 
 6 No matter what the wrong, never harm your neighbor ^sirach-10-6
 
@@ -99,11 +98,11 @@ erasing their memory from the world.
 
 nor impudent anger those born of women.
 
-#### True Glory
+### True Glory
 
 19 Whose offspring can be honorable? Human offspring. ^sirach-10-19
 
-Those who fear the L ORD are honorable offspring.
+Those who fear the LORD are honorable offspring.
 
 Whose offspring can be disgraceful? Human offspring.
 
@@ -115,7 +114,7 @@ but whoever fears God is honored among God’s people.
 
 22 Resident alien, stranger, foreigner, pauper— ^sirach-10-22
 
-their glory is the fear of the L ORD.
+their glory is the fear of the LORD.
 
 23 It is not right to despise anyone wise but poor, ^sirach-10-23
 

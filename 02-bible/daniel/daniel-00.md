@@ -1,20 +1,20 @@
 ---
-title: Daniel, The Book of Daniel
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Daniel, the Book of Daniel
+title: Daniel, The Book of Daniel
+url: https://bible.usccb.org/bible/daniel/0
 aliases:
   - daniel-00
   - Daniel, the Book of Daniel
   - Daniel, The Book of Daniel
 tags:
+  - bible/book
   - bible/daniel
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/daniel/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Daniel, the Book of Daniel
 ---
 
 # Daniel, the Book of Daniel

@@ -1,25 +1,24 @@
 ---
-title: Acts of the Apostles, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Acts of the Apostles, Chapter 8
+title: Acts of the Apostles, Chapter 8
+url: https://bible.usccb.org/bible/acts/8
 aliases:
   - Acts of the Apostles, Chapter 8
   - acts-of-the-apostles-08
 tags:
   - bible/acts-of-the-apostles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/acts/8
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Acts of the Apostles, Chapter 8
 ---
 
 # Acts of the Apostles, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 1 Now Saul was consenting to his execution. ^acts-of-the-apostles-08-1
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/acts/8
 
 3 Saul, meanwhile, was trying to destroy the church; entering house after house and dragging out men and women, he handed them over for imprisonment. ^acts-of-the-apostles-08-3
 
-## Iii. the Mission in Judea and Samaria
+# Iii. the Mission in Judea and Samaria
 
 **Philip in Samaria.**
 

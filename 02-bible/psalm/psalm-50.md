@@ -1,20 +1,19 @@
 ---
-title: Psalm 50
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 50
+title: Psalm 50
+url: https://bible.usccb.org/bible/psalms/50
 aliases:
   - Psalm 50
   - psalm-50
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/50
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 50
 ---
 
 # Psalm 50

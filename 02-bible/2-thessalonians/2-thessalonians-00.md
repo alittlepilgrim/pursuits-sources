@@ -1,18 +1,18 @@
 ---
-title: 2 Thessalonians – Chapter Index
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
+title: 2 Thessalonians – Chapter Index
 aliases:
   - 2 Thessalonians – Chapter Index
   - 2-thessalonians-00
 tags:
   - bible
   - bible/2-thessalonians
-layer: canon
-node-type: book
-testament: new
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
 ---
 
 # 2 Thessalonians – Chapter Index

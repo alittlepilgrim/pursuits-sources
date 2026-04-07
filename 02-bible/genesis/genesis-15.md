@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 15
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 15
+title: Genesis, Chapter 15
+url: https://bible.usccb.org/bible/genesis/15
 aliases:
   - genesis-15
   - Genesis, Chapter 15
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 15
 bible_book: genesis
 bible_chapter: "15"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/15
 ---
 
 [[genesis-14|[← Previous Note]]] · [[genesis-16|[Next Note →]]]
@@ -28,19 +27,19 @@ url: https://bible.usccb.org/bible/genesis/15
 
 **The Covenant with Abram.**
 
-1 Some time afterward, the word of the L ORD came to Abram in a vision: Do not fear, Abram! I am your shield; I will make your reward very great. ^genesis-15-1
+1 Some time afterward, the word of the LORD came to Abram in a vision: Do not fear, Abram! I am your shield; I will make your reward very great. ^genesis-15-1
 
 2 But Abram said, “Lord G OD, what can you give me, if I die childless and have only a servant of my household, Eliezer of Damascus?” ^genesis-15-2
 
 3 Abram continued, “Look, you have given me no offspring, so a servant of my household will be my heir.” ^genesis-15-3
 
-4 Then the word of the L ORD came to him: No, that one will not be your heir; your own offspring will be your heir. ^genesis-15-4
+4 Then the word of the LORD came to him: No, that one will not be your heir; your own offspring will be your heir. ^genesis-15-4
 
 5 He took him outside and said: Look up at the sky and count the stars, if you can. Just so, he added, will your descendants be. ^genesis-15-5
 
-6 Abram put his faith in the L ORD, who attributed it to him as an act of righteousness. ^genesis-15-6
+6 Abram put his faith in the LORD, who attributed it to him as an act of righteousness. ^genesis-15-6
 
-7 He then said to him: I am the L ORD who brought you from Ur of the Chaldeans to give you this land as a possession. ^genesis-15-7
+7 He then said to him: I am the LORD who brought you from Ur of the Chaldeans to give you this land as a possession. ^genesis-15-7
 
 8 “Lord G OD,” he asked, “how will I know that I will possess it?” ^genesis-15-8
 
@@ -52,7 +51,7 @@ url: https://bible.usccb.org/bible/genesis/15
 
 12 As the sun was about to set, a deep sleep fell upon Abram, and a great, dark dread descended upon him. ^genesis-15-12
 
-13 Then the L ORD said to Abram: Know for certain that your descendants will reside as aliens in a land not their own, where they shall be enslaved and oppressed for four hundred years. ^genesis-15-13
+13 Then the LORD said to Abram: Know for certain that your descendants will reside as aliens in a land not their own, where they shall be enslaved and oppressed for four hundred years. ^genesis-15-13
 
 14 But I will bring judgment on the nation they must serve, and after this they will go out with great wealth. ^genesis-15-14
 
@@ -62,7 +61,7 @@ url: https://bible.usccb.org/bible/genesis/15
 
 17 When the sun had set and it was dark, there appeared a smoking fire pot and a flaming torch, which passed between those pieces. ^genesis-15-17
 
-18 On that day the L ORD made a covenant with Abram, saying: To your descendants I give this land, from the Wadi of Egypt to the Great River, the Euphrates, ^genesis-15-18
+18 On that day the LORD made a covenant with Abram, saying: To your descendants I give this land, from the Wadi of Egypt to the Great River, the Euphrates, ^genesis-15-18
 
 19 the land of the Kenites, the Kenizzites, the Kadmonites, ^genesis-15-19
 
@@ -104,6 +103,6 @@ j. (15:19] – [20) [Dt 7:1]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]

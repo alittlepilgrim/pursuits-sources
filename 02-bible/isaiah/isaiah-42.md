@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 42
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 42
+title: Isaiah, Chapter 42
+url: https://bible.usccb.org/bible/isaiah/42
 aliases:
   - isaiah-42
   - Isaiah, Chapter 42
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/42
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 42
 ---
 
 # Isaiah, Chapter 42
 
-### Chapter 42
+## Chapter 42
 
-#### The Servant of the Lord
+### The Servant of the Lord
 
 1 Here is my servant whom I uphold, ^isaiah-42-1
 
@@ -47,7 +46,7 @@ until he establishes justice on the earth;
 
 the coastlands will wait for his teaching.
 
-5 Thus says God, the L ORD, ^isaiah-42-5
+5 Thus says God, the LORD, ^isaiah-42-5
 
 who created the heavens and stretched them out,
 
@@ -57,7 +56,7 @@ Who gives breath to its people
 
 and spirit to those who walk on it:
 
-6 I, the L ORD, have called you for justice, ^isaiah-42-6
+6 I, the LORD, have called you for justice, ^isaiah-42-6
 
 I have grasped you by the hand;
 
@@ -73,7 +72,7 @@ to bring out prisoners from confinement,
 
 and from the dungeon, those who live in darkness.
 
-8 I am the L ORD, L ORD is my name; ^isaiah-42-8
+8 I am the LORD, LORD is my name; ^isaiah-42-8
 
 my glory I give to no other,
 
@@ -87,9 +86,9 @@ Before they spring forth
 
 I announce them to you.
 
-#### The Lord’s Purpose for Israel
+### The Lord’s Purpose for Israel
 
-10 Sing to the L ORD a new song, ^isaiah-42-10
+10 Sing to the LORD a new song, ^isaiah-42-10
 
 his praise from the ends of the earth:
 
@@ -105,11 +104,11 @@ Let the inhabitants of Sela exult,
 
 and shout from the top of the mountains.
 
-12 Let them give glory to the L ORD, ^isaiah-42-12
+12 Let them give glory to the LORD, ^isaiah-42-12
 
 and utter his praise in the coastlands.
 
-13 The L ORD goes forth like a warrior, ^isaiah-42-13
+13 The LORD goes forth like a warrior, ^isaiah-42-13
 
 like a man of war he stirs up his fury;
 
@@ -163,13 +162,13 @@ or deaf like the messenger I send?
 
 Who is blind like the one I restore,
 
-blind like the servant of the L ORD?
+blind like the servant of the LORD?
 
 20 You see many things but do not observe; ^isaiah-42-20
 
 ears open, but do not hear.
 
-21 It was the L ORD’s will for the sake of his justice ^isaiah-42-21
+21 It was the LORD’s will for the sake of his justice ^isaiah-42-21
 
 to make his teaching great and glorious.
 
@@ -191,7 +190,7 @@ listen and pay attention from now on?
 
 Israel to the plunderers?
 
-Was it not the L ORD, against whom we have sinned?
+Was it not the LORD, against whom we have sinned?
 
 In his ways they refused to walk,
 

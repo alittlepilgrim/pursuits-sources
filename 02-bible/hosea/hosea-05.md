@@ -1,27 +1,26 @@
 ---
-title: Hosea, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Hosea, Chapter 5
+title: Hosea, Chapter 5
+url: https://bible.usccb.org/bible/hosea/5
 aliases:
   - hosea-05
   - Hosea, Chapter 5
 tags:
+  - bible/chapter
   - bible/hosea
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/hosea/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Hosea, Chapter 5
 ---
 
 # Hosea, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
-#### Guilt of the Religious and Political Leaders
+### Guilt of the Religious and Political Leaders
 
 1 Hear this, priests, ^hosea-05-1
 
@@ -53,7 +52,7 @@ to return to their God;
 
 For the spirit of prostitution is in them,
 
-and they do not know the L ORD.
+and they do not know the LORD.
 
 5 The arrogance of Israel bears witness against him; ^hosea-05-5
 
@@ -63,11 +62,11 @@ and Judah stumbles with them.
 
 6 With their flocks and herds they will go ^hosea-05-6
 
-to seek the L ORD, but will not find him;
+to seek the LORD, but will not find him;
 
 he has withdrawn from them.
 
-7 They have betrayed the L ORD, ^hosea-05-7
+7 They have betrayed the LORD, ^hosea-05-7
 
 for they have borne illegitimate children;
 
@@ -75,7 +74,7 @@ Now the new moon will devour them
 
 together with their fields.
 
-#### Political Upheavals
+### Political Upheavals
 
 8 Blow the ram’s horn in Gibeah, ^hosea-05-8
 
@@ -129,7 +128,7 @@ It is I who tear the prey and depart,
 
 I carry it away and no one can save it.
 
-#### Insincere Conversion
+### Insincere Conversion
 
 15 I will go back to my place ^hosea-05-15
 

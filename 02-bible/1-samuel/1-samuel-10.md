@@ -1,29 +1,28 @@
 ---
-title: 1 Samuel, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 10
+title: 1 Samuel, Chapter 10
+url: https://bible.usccb.org/bible/1samuel/10
 aliases:
   - 1 Samuel, Chapter 10
   - 1-samuel-10
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/10
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 10
 ---
 
 # 1 Samuel, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
-1 Then, from a flask he had with him, Samuel poured oil on Saul’s head and kissed him, saying: “The L ORD anoints you ruler over his people Israel. You are the one who will govern the L ORD’s people and save them from the power of their enemies all around them. ^1-samuel-10-1
+1 Then, from a flask he had with him, Samuel poured oil on Saul’s head and kissed him, saying: “The LORD anoints you ruler over his people Israel. You are the one who will govern the LORD’s people and save them from the power of their enemies all around them. ^1-samuel-10-1
 
-**The Signs Foretold.**“This will be the sign for you that the L ORD has anointed you ruler over his heritage:
+**The Signs Foretold.**“This will be the sign for you that the LORD has anointed you ruler over his heritage:
 
 2 When you leave me today, you will meet two men near Rachel’s tomb at Zelzah in the territory of Benjamin. They will say to you, ‘The donkeys you went to look for have been found. Now your father is no longer worried about the donkeys, but is anxious about you and says: What shall I do about my son?’ ^1-samuel-10-2
 
@@ -33,7 +32,7 @@ url: https://bible.usccb.org/bible/1samuel/10
 
 5 After that you will come to Gibeath-elohim, where the Philistine garrison is located. As you enter that city, you will meet a band of prophets coming down from the high place. They will be preceded by lyres, tambourines, flutes, and harps, and will be in prophetic ecstasy. ^1-samuel-10-5
 
-6 The spirit of the L ORD will rush upon you, and you will join them in their prophetic ecstasy and will become a changed man. ^1-samuel-10-6
+6 The spirit of the LORD will rush upon you, and you will join them in their prophetic ecstasy and will become a changed man. ^1-samuel-10-6
 
 7 When these signs have come to pass, do whatever lies to hand, because God is with you. ^1-samuel-10-7
 
@@ -61,25 +60,25 @@ url: https://bible.usccb.org/bible/1samuel/10
 
 **Saul Chosen King.**
 
-17 Samuel called the people together to the L ORD at Mizpah ^1-samuel-10-17
+17 Samuel called the people together to the LORD at Mizpah ^1-samuel-10-17
 
-18 and addressed the Israelites: “Thus says the L ORD, the God of Israel: It was I who brought Israel up from Egypt and delivered you from the power of the Egyptians and from the power of all the kingdoms that oppressed you. ^1-samuel-10-18
+18 and addressed the Israelites: “Thus says the LORD, the God of Israel: It was I who brought Israel up from Egypt and delivered you from the power of the Egyptians and from the power of all the kingdoms that oppressed you. ^1-samuel-10-18
 
-19 But today you have rejected your God, who saves you from all your evils and calamities, by saying, ‘No! You must appoint a king over us.’ Now, therefore, take your stand before the L ORD according to your tribes and families.” ^1-samuel-10-19
+19 But today you have rejected your God, who saves you from all your evils and calamities, by saying, ‘No! You must appoint a king over us.’ Now, therefore, take your stand before the LORD according to your tribes and families.” ^1-samuel-10-19
 
 20 So Samuel had all the tribes of Israel come forward, and the tribe of Benjamin was chosen. ^1-samuel-10-20
 
 21 Next he had the tribe of Benjamin come forward by clans, and the clan of Matri was chosen, and finally Saul, son of Kish, was chosen. But when they went to look for him, he was nowhere to be found. ^1-samuel-10-21
 
-22 Again they consulted the L ORD, “Is there still someone else to come forward?” The L ORD answered: He is hiding among the baggage. ^1-samuel-10-22
+22 Again they consulted the LORD, “Is there still someone else to come forward?” The LORD answered: He is hiding among the baggage. ^1-samuel-10-22
 
 23 They ran to bring him from there; when he took his place among the people, he stood head and shoulders above all the people. ^1-samuel-10-23
 
-24 Then Samuel addressed all the people, “Do you see the man whom the L ORD has chosen? There is no one like him among all the people!” Then all the people shouted out, “Long live the king!” ^1-samuel-10-24
+24 Then Samuel addressed all the people, “Do you see the man whom the LORD has chosen? There is no one like him among all the people!” Then all the people shouted out, “Long live the king!” ^1-samuel-10-24
 
-25 Samuel next explained to the people the rules of the monarchy, wrote them in a book, and placed them before the presence of the L ORD. Samuel then sent the people back to their own homes. ^1-samuel-10-25
+25 Samuel next explained to the people the rules of the monarchy, wrote them in a book, and placed them before the presence of the LORD. Samuel then sent the people back to their own homes. ^1-samuel-10-25
 
-26 Saul also went home to Gibeah, accompanied by warriors whose hearts the L ORD had touched. ^1-samuel-10-26
+26 Saul also went home to Gibeah, accompanied by warriors whose hearts the LORD had touched. ^1-samuel-10-26
 
 27 But some worthless people said, “How can this fellow save us?” They despised him and brought him no tribute. ^1-samuel-10-27
 

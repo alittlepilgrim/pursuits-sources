@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 26
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 26
+title: 1 Samuel, Chapter 26
+url: https://bible.usccb.org/bible/1samuel/26
 aliases:
   - 1 Samuel, Chapter 26
   - 1-samuel-26
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/26
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 26
 ---
 
 # 1 Samuel, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 **David Spares Saul Again.**
 
@@ -39,13 +38,13 @@ url: https://bible.usccb.org/bible/1samuel/26
 
 8 Abishai whispered to David: “God has delivered your enemy into your hand today. Let me nail him to the ground with one thrust of the spear; I will not need to strike him twice!” ^1-samuel-26-8
 
-9 But David said to Abishai, “Do not harm him, for who can lay a hand on the L ORD’s anointed and remain innocent? ^1-samuel-26-9
+9 But David said to Abishai, “Do not harm him, for who can lay a hand on the LORD’s anointed and remain innocent? ^1-samuel-26-9
 
-10 As the L ORD lives,” David declared, “only the L ORD can strike him: either when the time comes for him to die, or when he goes out and perishes in battle. ^1-samuel-26-10
+10 As the LORD lives,” David declared, “only the LORD can strike him: either when the time comes for him to die, or when he goes out and perishes in battle. ^1-samuel-26-10
 
-11 But the L ORD forbid that I lay a hand on the L ORD’s anointed! Now take the spear at his head and the water jug, and let us be on our way.” ^1-samuel-26-11
+11 But the LORD forbid that I lay a hand on the LORD’s anointed! Now take the spear at his head and the water jug, and let us be on our way.” ^1-samuel-26-11
 
-12 So David took the spear and the water jug from their place at Saul’s head, and they withdrew without anyone seeing or knowing or awakening. All remained asleep, because a deep slumber from the L ORD had fallen upon them. ^1-samuel-26-12
+12 So David took the spear and the water jug from their place at Saul’s head, and they withdrew without anyone seeing or knowing or awakening. All remained asleep, because a deep slumber from the LORD had fallen upon them. ^1-samuel-26-12
 
 **David Taunts Abner.**
 
@@ -55,7 +54,7 @@ url: https://bible.usccb.org/bible/1samuel/26
 
 15 David said to Abner: “Are you not a man? Who in Israel is your equal? Why were you not guarding your lord the king when one of his subjects came to assassinate the king, your lord? ^1-samuel-26-15
 
-16 What you have done is not right. As the L ORD lives, you people deserve death because you have not guarded your lord, the anointed of the L ORD. Go, look: where are the king’s spear and the water jug that was at his head?” ^1-samuel-26-16
+16 What you have done is not right. As the LORD lives, you people deserve death because you have not guarded your lord, the anointed of the LORD. Go, look: where are the king’s spear and the water jug that was at his head?” ^1-samuel-26-16
 
 **Saul Admits His Guilt.**
 
@@ -63,15 +62,15 @@ url: https://bible.usccb.org/bible/1samuel/26
 
 18 He continued: “Why does my lord pursue his servant? What have I done? What evil am I planning? ^1-samuel-26-18
 
-20 Do not let my blood spill on the ground far from the presence of the L ORD. For the king of Israel has come out to seek a single flea as if he were hunting partridge in the mountains.” ^1-samuel-26-20
+20 Do not let my blood spill on the ground far from the presence of the LORD. For the king of Israel has come out to seek a single flea as if he were hunting partridge in the mountains.” ^1-samuel-26-20
 
 21 Then Saul said: “I have done wrong. Come back, David, my son! I will not harm you again, because you considered my life precious today even though I have been a fool and have made a serious mistake.” ^1-samuel-26-21
 
 22 But David answered: “Here is the king’s spear. Let an attendant come over to get it. ^1-samuel-26-22
 
-23 The L ORD repays everyone’s righteousness and faithfulness. Although the L ORD delivered you into my hands today, I could not lay a hand on the L ORD’s anointed. ^1-samuel-26-23
+23 The LORD repays everyone’s righteousness and faithfulness. Although the LORD delivered you into my hands today, I could not lay a hand on the LORD’s anointed. ^1-samuel-26-23
 
-24 Just as I regarded your life as precious today, so may the L ORD regard my life as precious and deliver me from all dangers.” ^1-samuel-26-24
+24 Just as I regarded your life as precious today, so may the LORD regard my life as precious and deliver me from all dangers.” ^1-samuel-26-24
 
 25 Then Saul said to David: “Blessed are you, my son David! You shall certainly succeed in whatever you undertake.” David went his way, and Saul returned to his place. ^1-samuel-26-25
 
@@ -83,7 +82,7 @@ url: https://bible.usccb.org/bible/1samuel/26
 
 \* (26:17) David my son: Saul’s reference to David as his son, which appears three times in this chapter (vv. [17], [21], [25]), alludes to David’s role as his successor.
 
-\* (26:19) The L ORD’s heritage: the land and people of Israel ([Dt 32:8] – [9]; [Ps 33:12]). If driven from the land, David could not take part in worship of Israel’s God; nonetheless, God has blessed David (cf. v. [25]).
+\* (26:19) The LORD’s heritage: the land and people of Israel ([Dt 32:8] – [9]; [Ps 33:12]). If driven from the land, David could not take part in worship of Israel’s God; nonetheless, God has blessed David (cf. v. [25]).
 
 \* (26:20) Partridge: lit., “the caller.” The metaphor is built on clever wordplay: in v. [14], David calls out to the army and Abner asks the caller’s identity. David calls out the answer: “the caller” is the object of the king’s pursuit.
 

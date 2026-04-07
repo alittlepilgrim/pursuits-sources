@@ -1,20 +1,20 @@
 ---
-title: Ad Gentes
-created: 2025-08-22
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree on the Mission Activity of the Church - Ad Gentes
+title: Ad Gentes
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html
 aliases:
   - Ad Gentes
   - ad-gentes
 tags:
+  - graph/bible-v2
   - vatican/decrees
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
+created: 2025-08-22
+modified: 2026-04-04
+publish: true
+description: Decree on the Mission Activity of the Church - Ad Gentes
 abbreviation: ag
-author: Catholic Church
-url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html
 ---
 
 DECREE
@@ -25,7 +25,7 @@ ON THE MISSION ACTIVITY
 
 OF THE CHURCH
 
-## Preface
+# Preface
 
 1\. Divinely sent to the nations of the world to be unto them "a universal sacrament of salvation," <sup>[[#^ag-fn-pref-1|(1)]] </sup> the Church, driven by the inner necessity of her own catholicity, and obeying the mandate of her Founder (cf. [[mark-16#^mark-16-16|Mark 16:16)]], strives ever to proclaim the Gospel to all men. The Apostles themselves, on whom the Church was founded, following in the footsteps of Christ, "preached the word of truth and begot churches."<sup>[[#^ag-fn-pref-2|(2)]] </sup> It is the duty of their successors to make this task endure "so that the word of God may run and be glorified ([[2-thessalonians-03#^2-thessalonians-03-1|2 Thess. 3:1)]] and the kingdom of God be proclaimed and established throughout the world. ^ag-1
 
@@ -33,9 +33,9 @@ In the present state of affairs, out of which there is arising a new situation f
 
 Therefore, this sacred synod, while rendering thanks to God for the excellent results that have been achieved through the whole Church's great - hearted endeavor, desires to sketch the principles of missionary activity and to rally the forces of all the faithful in order that the people of God, marching along the narrow way of the Cross, may spread everywhere the reign of Christ, Lord and overseer: of the ages (cf. [[sirach-36#^sirach-36-19|Ecc 36:19]]), and may prepare the way for his coming.
 
-## Chapter I
+# Chapter I
 
-### Principles of Doctrine
+## Principles of Doctrine
 
 2\. The pilgrim Church is missionary by her very nature, since it is from the mission of the Son and the mission of the Holy Spirit that she draws her origin, in accordance with the decree of God the Father.<sup>[[#^ag-fn-ch1-1|(1)]] </sup> ^ag-2
 
@@ -79,13 +79,13 @@ Finally, by means of this missionary activity, God is fully glorified, provided 
 
 Missionary activity is nothing else and nothing less than an epiphany, or a manifesting of God's decree, and its fulfillment in the world and in world history, in the course of which God, by means of mission, manifestly works out the history of salvation. By the preaching of the word and by the celebration of the sacraments, the center and summit of which is the most holy Eucharist, He brings about the presence of Christ, the author of salvation. But whatever truth and grace are to be found among the nations, as a sort of secret presence of God, He frees from all taint of evil and restores to Christ its maker, who overthrows the devil's domain and wards off the manifold malice of vice. And so, whatever good is found to be sown in the hearts and minds of men, or in the rites and cultures peculiar to various peoples, not only is not lost, but is healed, uplifted, and perfected for the glory of God, the shame of the demon, and the bliss of men.<sup>[[#^ag-fn-ch1-24|(24)]] </sup> Thus, missionary activity tends toward eschatological fullness.<sup>[[#^ag-fn-ch1-25|(25)]] </sup> For by it the people of God is increased to that measure and time which the Father has fixed in His power(cf. [[acts-of-the-apostles-01#^acts-of-the-apostles-01-7|Acts 1:7]]). To this people it was said in prophecy: "Enlarge the space for your tent, and spread out your tent cloths unsparingly" ([[isaiah-54#^isaiah-54-2|Is. 54:2)]].<sup>[[#^ag-fn-ch1-26|(26)]] </sup> By missionary activity, the mystical body grows to the mature measure of the fullness of Christ (cf. [[ephesians-04#^ephesians-04-13|Eph. 4:13)]]; and the spiritual temple, where God is adored in spirit and in truth (cf. [[john-04#^john-04-23|John 4:23)]], grows and is built up upon the foundation of the Apostles and prophets, Christ Jesus Himself being the supreme corner stone ([[ephesians-02#^ephesians-02-20|Eph. 2:20)]].
 
-## Chapter Ii
+# Chapter Ii
 
-### Mission Work Itself
+## Mission Work Itself
 
 10\. The Church, sent by Christ to reveal and to communicate the love of God to all men and nations, is aware that there still remains a gigantic missionary task for her to accomplish. For the Gospel message has not yet, or hardly yet, been heard by two million human beings (and their number is increasing daily), who are formed into large and distinct groups by permanent cultural ties, by ancient religious traditions, and by firm bonds of social necessity. Some of these men are followers of one of the great religions, but others remain strangers to the very knowledge of God, while still others expressly deny His existence, and sometimes even attack it. The Church, in order to be able to offer all of them the mystery of salvation and the life brought by God, must implant herself into these groups for the same motive which led Christ to bind Himself, in virtue of His Incarnation, to certain social and cultural conditions of those human beings among whom He dwelt. ^ag-10
 
-### Article 1: Christian Witness
+## Article 1: Christian Witness
 
 11\. The Church must be present in these groups through her children, who dwell among them or who are sent to them. For all Christians, wherever they live, are bound to show forth, by the example of their lives and by the witness of the word, that new man put on at baptism and that power of the Holy Spirit by which they have been strengthened at Conformation. Thus other men, observing their good works, can glorify the Father (cf. Matt. ES:16) and can perceive more fully the real meaning of human life and the universal bond of the community of mankind. ^ag-11
 
@@ -99,7 +99,7 @@ However, the Church has no desire at all to intrude itself into the government o
 
 Closely united with men in their life and work, Christ's disciples hope to render to others true witness of Christ, and to work for their salvation, even where they are not able to announce Christ fully. For they are not seeking a mere material progress and prosperity for men, but are promoting their dignity and brotherly union, teaching those religious and moral truths which Christ illumined with His light; and in this way, they are gradually opening up a fuller approach to God. Thus they help men to attain to salvation by love for God and neighbor, and the mystery of Christ begins to shine forth, in which there appears the new man, created according to God (cf. [[ephesians-04#^ephesians-04-24|Eph. 4:24)]], and in which the charity of God is revealed.
 
-### Article 2: Preaching the Gospel and Gathering Together the People of God
+## Article 2: Preaching the Gospel and Gathering Together the People of God
 
 13\. Wherever God opens a door of speech for proclaiming the mystery of Christ (cf. [[colossians-04#^colossians-04-3|Col. 4:3)]], there is announced to all men (cf. [[mark-16#^mark-16-15|Mark 16:15;]] [[1-corinthians-09#^1-corinthians-09-15|1 Cor. 9:15;]] [[romans-10#^romans-10-14|Rom. 10:14)]] with confidence and constancy (cf. [[acts-of-the-apostles-04#^acts-of-the-apostles-04-13|Acts 4:13, 29, 31]]; 9:27, 28; 13:46; 14:3; 19:8; 26:26; 28:31; [[1-thessalonians-02#^1-thessalonians-02-2|1 Thess. 2:2;]] [[2-corinthians-03#^2-corinthians-03-12|2 Cor. 3:12;]] 7:4; [[philippians-01#^philippians-01-20|Phil. 1:20;]] [[ephesians-03#^ephesians-03-12|Eph. 3:12;]] 6:19, 20) the living God, and He Whom He has sent for the salvation of all, Jesus Christ (cf. [[1-thessalonians-01#^1-thessalonians-01-9|1 Thess. 1:9-10;]] [[1-corinthians-01#^1-corinthians-01-18|1 Cor. 1:18-21;]] [[galatians-01#^galatians-01-31|Gal. 1:31;]] [[acts-of-the-apostles-14#^acts-of-the-apostles-14-15|Acts 14:15-17]], 17:22-31), in order that non - Christians, when the Holy Spirit opens their heart (cf. [[acts-of-the-apostles-16#^acts-of-the-apostles-16-14|Acts 16:14]]), may believe and be freely converted to the Lord, that they may cleave sincerely to Him Who, being the "way, the truth, and the life" ([[john-14#^john-14-6|John 14:6)]], fulfills all their spiritual expectations, and even infinitely surpasses them. ^ag-13
 
@@ -119,7 +119,7 @@ But this Christian initiation in the catechumenate should be taken care of not o
 
 Finally, the juridic status of catechumens should be clearly defined in the new code of Canon law. For since they are joined to the Church, they are already of the household of Christ.<sup>[[#^ag-fn-ch2-7|(7)]] </sup> and not seldom they are already leading a life of faith, hope, and charity.
 
-### Article 3: Forming a Christian Community
+## Article 3: Forming a Christian Community
 
 15\. The Holy Spirit, who calls all men to Christ by the seeds of the Lord and by the preaching of the Gospel, stirs up in their: hearts a submission to the faith Who in the womb of the baptismal font, He begets to a new life those who believe in Christ, He gathers them into the one People of God which is "a chosen race, a royal priesthood, a holy nation, a purchased people" ([[1-peter-02#^1-peter-02-9|1 Peter 2:9)]].<sup>[[#^ag-fn-ch2-8|(8)]] </sup> ^ag-15
 
@@ -169,9 +169,9 @@ Various forms of religious life are to be cultivated in the young churches, in o
 
 Worthy of special mention are the various projects for causing the contemplative life to take root. There are those who in such an attempt have kept the essential element of a monastic institution, and are bent on implanting the rich tradition of their order; there are others again who are returning to the simpler forms of ancient monasticism. But all are studiously looking for a genuine adaptation to local conditions. Since the contemplative life belongs to the fullness of the Church's presence, let it be put into effect everywhere.
 
-## Chapter Iii
+# Chapter Iii
 
-### Particular Churches
+## Particular Churches
 
 19\. The work of planting the Church in a given human community reaches a certain goal when the congregation of the faithful already rooted in social life and somewhat conformed to the local culture, enjoys a certain firmness and stability. That is to say, it is already equipped with its own supple (perhaps still insufficient) of local priests, Religious, and lay men, and is endowed with these institutions and ministries which are necessary for leading and expanding the life of the people of God under the guidance of their own bishop. ^ag-19
 
@@ -217,9 +217,9 @@ Thus it will be more clearly seen in what ways faith may seek for understanding,
 
 And so, it is to be hoped that episcopal conferences within the limits of each major socio - cultural territory will so coordinate their efforts that they may be able to pursue this proposal of adaptation with one mind and with a common plan.
 
-## Chapter Iv
+# Chapter Iv
 
-### Missionaries
+## Missionaries
 
 23\. Although every disciple of Christ, as far in him lies, has the duty of spreading the Faith,<sup>[[#^ag-fn-ch4-1|(1)]] </sup> Christ the Lord always calls whomever He will from among the number of His disciples, to be with Him and to be sent by Him to preach to the nations (cf. [[mark-03#^mark-03-13|Mark 3:13)]]. Therefore, by the Holy Spirit, who distributes the charismata as He wills for the common good ([[1-corinthians-12#^1-corinthians-12-11|1 Cor. 12:11)]], He inspires the missionary vocation in the hearts of individuals, and at the same time He raises up in the Church certain institutes<sup>[[#^ag-fn-ch4-2|(2)]] </sup> which take as their own special task the duty of preaching the Gospel, a duty belonging to the whole Church. ^ag-23
 
@@ -257,9 +257,9 @@ If need be, let them be on hand to help and train, out of their own experience, 
 
 For these reasons, and since there are still many nations to be led to Christ, the institutes remain extremely necessary.
 
-## Chapter V
+# Chapter V
 
-### Planning Missionary Activity
+## Planning Missionary Activity
 
 28\. The Christian faithful, having different gifts (cf. [[romans-12#^romans-12-6|Rom. 12:6)]], according to each one's opportunity, ability, charisms and ministry (cf. [[1-corinthians-03#^1-corinthians-03-10|1 Cor. 3:10)]] must all cooperate in the Gospel. Hence all alike, those who sow and those who reap (cf. [[john-04#^john-04-37|John 4:37)]], those who plant and those who irrigate, must be one (cf. [[1-corinthians-03#^1-corinthians-03-8|1 Cor. 3:8)]], so that "in a free and orderly fashion cooperating toward the same end,"<sup>[[#^ag-fn-ch5-1|(1)]] </sup> they may spend their forces harmoniously for the building up of the Church. ^ag-28
 
@@ -301,9 +301,9 @@ All these things, with equal reason, should be extended to include the cooperati
 
 34\. Since the right and methodical exercise of missionary activity requires that those who labor for the Gospel should be scientifically prepared for their task, and especially for dialogue with non - Christian religions and cultures, and also that they should be effectively assisted in the carrying out of this task, it is desired that, for the sake of the missions, there should be fraternal and generous collaboration on the part of scientific institutes which specialize in missiology and in other arts and disciplines useful for the missions, such as ethnology and linguistics, the history and science of religions, sociology, pastoral skills and the like. ^ag-34
 
-## Chapter Vi
+# Chapter Vi
 
-### Cooperation
+## Cooperation
 
 35\. Since the whole Church is missionary, and the work of evangelization is a basic duty of the People of God, this sacred synod invites all to a deep interior renewal; so that, having a vivid awareness of their own responsibility for spreading the Gospel, they may do their share in missionary work among the nations. ^ag-35
 
@@ -365,7 +365,7 @@ They should cooperate in a brotherly spirit with other Christians, with non - Ch
 
 To be equal to all these tasks, laymen need the necessary technical and spiritual preparation, which should be given in institutes destined for this; so that their lives may be a witness for Christ among non - Christians, according to the words of the Apostle: "Do not be a stumbling - block to Jews and Greeks and to the Church of God, even as I myself in all things please all men, not seeking what is profitable to myself but to the many, that they may be saved." ([[1-corinthians-10#^1-corinthians-10-32|1 Cor. 10:32-33)]].
 
-## Conclusion
+# Conclusion
 
 42\. The council Fathers together with the Roman Pontiff, feeling deeply their duty to spread everywhere the Kingdom of God, lovingly salute all heralds of the Gospel, and especially those who suffer persecution for the name of Christ, being made partakers of their sufferings<sup>[[#^ag-fn-ch6-13|13]] </sup> ^ag-42
 
@@ -373,17 +373,17 @@ They are afire with that same love with which Christ burned toward men. But awar
 
 ---
 
-## Endnotes / Footnotes
+# Endnotes / Footnotes
 
 PREFACE
 
-1\. Dogmatic Constitution "**," 48. ^ag-fn-pref-1
+1\. Dogmatic Constitution "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 48. ^ag-fn-pref-1
 
 2\. St. Augustine, "*Exposition on Psalm 44*," 23 (PL 36, 508; CChr 38, 510). ^ag-fn-pref-2
 
 CHAPTER 1
 
-1\. Cf. Dogmatic constitution, "**," 1. ^ag-fn-ch1-1
+1\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 1. ^ag-fn-ch1-1
 
 2\. Cf. St. Irenaeus, "*Against Heretics*," III, 18, 1: "The word existing in the presence of God, through whom all things were made, and who always is present to the human race..." (PG 7 932)- id. IV, 6, 7: "From the beginning even the Son, assisting at His own creation, reveals the Father to all to whom He wills, and when He wills, and insofar as the Father wills it." (ib. 990); cf. IV, 20, 6 and 7 (ib. 1037); Demonstration No. 34 (Eastern Fathers, XII, 773, "Sources Chretiennes," 62, Paris, 1958, p. 87)Clement of Alexandria, "Protrept." 112, 1 (GCS Clement I, 79), "Strom.' VI, 6, 44, 1 (GCS Clement II, 453); 13, 106, 3 and 4 (ib. 485). For the doctrine itself, cf. Pius XII, radio messages, Dec. 31, 1952; Dogmatic constitution, "Lumen Gentium," 16. ^ag-fn-ch1-2
 
@@ -403,9 +403,9 @@ Concerning Pentecost as the consecration of the Apostles to their mission, cf. J
 
 8\. Cf. John c. 14-17; Paul VI, allocution during the council, Sept. 14, 1964 (AAS 1964, 807). ^ag-fn-ch1-8
 
-9\. Cf. Dogmatic constitution "**," 4. ^ag-fn-ch1-9
+9\. Cf. Dogmatic constitution "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 4. ^ag-fn-ch1-9
 
-10\. St. Augustine, Sermo 267, 4 (PL 38, 1231): "The Holy Spirit does in the whole Church what the soul does in all the members of one body." Cf. Const. Dogm. **, 7 (together with note 8). ^ag-fn-ch1-10
+10\. St. Augustine, Sermo 267, 4 (PL 38, 1231): "The Holy Spirit does in the whole Church what the soul does in all the members of one body." Cf. Const. Dogm. *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*, 7 (together with note 8). ^ag-fn-ch1-10
 
 11\. Cf. [[acts-of-the-apostles-10#^acts-of-the-apostles-10-44|Acts 10:44-47]]; 11:15; 15:8. ^ag-fn-ch1-11
 
@@ -419,9 +419,9 @@ Both the supreme pontiffs and the Fathers and scholastics have spoken of the exp
 
 15\. In this notion of missionary activity, as is evident, according to the circumstances, even those parts of Latin America are included in which there is neither a hierarchy proper to the region, nor maturity of Christian life, nor sufficient preaching of the Gospel. Whether or not such territory de facto is recognized as missionary by the Holy See does not depend on this council. Therefore, regarding the connection between the notion of missionary activity and a certain territory, it is wise to say that this activity "in the majority of cases" is exercised in certain territories recognized by the Holy See. ^ag-fn-ch1-15
 
-16\. Decree "**" 1. ^ag-fn-ch1-16
+16\. Decree "*[Unitates Redintegratio](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)*" 1. ^ag-fn-ch1-16
 
-17\. Cf. Dogmatic constitution, "**" 14. ^ag-fn-ch1-17
+17\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*" 14. ^ag-fn-ch1-17
 
 18\. Cf. [[john-07#^john-07-18|John 7:18;]] 8:30 and 44; 8:50; 17:1. ^ag-fn-ch1-18
 
@@ -435,7 +435,7 @@ Both the supreme pontiffs and the Fathers and scholastics have spoken of the exp
 
 23\. Cf. [[matthew-24#^matthew-24-31|Matt. 24:31,]]Didache, 10, 5 (Funk I, p. 32). ^ag-fn-ch1-23
 
-24\. Dogmatic constitution, "**," 17. St. Augustine 7, "City of God," 1917 (PL 41, 646). Instr. S.C.P.F. (Collectanea I, n. 35, p. 42). ^ag-fn-ch1-24
+24\. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 17. St. Augustine 7, "City of God," 1917 (PL 41, 646). Instr. S.C.P.F. (Collectanea I, n. 35, p. 42). ^ag-fn-ch1-24
 
 25\. According to Origen, the Gospel must be preached before the end of this world: Homily on Luke XXI (GCS, Origen IX, 136, 21 ff.); "Comm. Set. On Matthew" 39 (XI 75, 25 ff; 76, 4 ff.); Homily on Jeremiah III, 2 (VIII 308, 29 ff.), St. Thomas "Summa Theol." Ia, IIae q. 106, a.4, ad 4. ^ag-fn-ch1-25
 
@@ -445,107 +445,107 @@ CHAPTER II
 
 1\. Cf. Allocution of Paul VI of Nov. 21, 1964 in council (AAS 1964, 1013). ^ag-fn-ch2-1
 
-2\. Cf. Declaration on "Religious Liberty" 2, 4, 10; constitution, "**" ^ag-fn-ch2-2
+2\. Cf. Declaration on "Religious Liberty" 2, 4, 10; constitution, "*[The Church in the Modern World.](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*" ^ag-fn-ch2-2
 
-3\. Cf. Dogmatic constitution, "**," 17. ^ag-fn-ch2-3
+3\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 17. ^ag-fn-ch2-3
 
-4\. Cf. Constitution, "**," 64-65. ^ag-fn-ch2-4
+4\. Cf. Constitution, "*[On Sacred Liturgy](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*," 64-65. ^ag-fn-ch2-4
 
 5\. Concerning this liberation from demons and the powers of darkness, in the Gospel, cf. [[matthew-12#^matthew-12-28|Matt. 12:28;]] [[john-08#^john-08-44|John 8:44;]] 12:31 (Cf. [[1-john-03#^1-john-03-8|I John 3:8;]] [[ephesians-02#^ephesians-02-1|Eph. 2:1-2)]]. In Liturgy of Baptism cf. Roman Ritual. ^ag-fn-ch2-5
 
-6\. Cf. Dogmatic constitution, "**," 14. ^ag-fn-ch2-6
+6\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 14. ^ag-fn-ch2-6
 
 7\. Cf. St. Augustine, "*Tract on John*" 11, 4 (PL 35, 1476). ^ag-fn-ch2-7
 
-8\. Cf. Dogmatic constitution, "**," 9. ^ag-fn-ch2-8
+8\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 9. ^ag-fn-ch2-8
 
-9\. Cf. Dogmatic constitution, "**," 10, 11, 34. ^ag-fn-ch2-9
+9\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 10, 11, 34. ^ag-fn-ch2-9
 
-10 Cf. Dogmatic constitution, "**," 21. ^ag-fn-ch2-10
+10 Cf. Dogmatic constitution, "*[On Divine Revelation](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 21. ^ag-fn-ch2-10
 
-11 Cf. Dogmatic constitution, "**," 12, 35. ^ag-fn-ch2-11
+11 Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 12, 35. ^ag-fn-ch2-11
 
 12\. Cf. Ib., 23, 3ff. ^ag-fn-ch2-12
 
 13\. Cf. Ib., 11, 35, 41. ^ag-fn-ch2-13
 
-14 Cf. decree, "**" 30. ^ag-fn-ch2-14
+14 Cf. decree, "*[On Oriental Churches](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html)*" 30. ^ag-fn-ch2-14
 
-15 Epistle to Diognetus, 5 (PG 2, 1173); Cf. Dogmatic constitution, "**," 38. ^ag-fn-ch2-15
+15 Epistle to Diognetus, 5 (PG 2, 1173); Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 38. ^ag-fn-ch2-15
 
-16\. Cf. Dogmatic constitution, "**," 32; Decree "**." ^ag-fn-ch2-16
+16\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 32; Decree "*[On Lay apostolate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html)*." ^ag-fn-ch2-16
 
 17\. Cf. Decree "On Priestly Training," 4, 8, 9. ^ag-fn-ch2-17
 
-18\. Cf. Constitution, "**," 17. ^ag-fn-ch2-18
+18\. Cf. Constitution, "*[On Sacred Liturgy](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*," 17. ^ag-fn-ch2-18
 
-19\. Cf. Decree, "**," 1. ^ag-fn-ch2-19
+19\. Cf. Decree, "*[On Priestly Training](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*," 1. ^ag-fn-ch2-19
 
-20\. Cf. John XXIII, "**" (AAS 1959, 843-844). ^ag-fn-ch2-20
+20\. Cf. John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 843-844). ^ag-fn-ch2-20
 
-21 Cf Decree, "**," 4. ^ag-fn-ch2-21
+21 Cf Decree, "*[On Ecumenism](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)*," 4. ^ag-fn-ch2-21
 
-22 Cf John XXIII, "**" (AAS 1959, 842). ^ag-fn-ch2-22
+22 Cf John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 842). ^ag-fn-ch2-22
 
-23\. Cf. Dogmatic constitution, "**," 29. ^ag-fn-ch2-23
+23\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 29. ^ag-fn-ch2-23
 
-24\. Cf. John XXIII" **" (AAS 1959, 855). ^ag-fn-ch2-24
+24\. Cf. John XXIII" *[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 855). ^ag-fn-ch2-24
 
 25\. The reference is to expressions of this kind: "catechistes a plein temps,n "full time catechists." ^ag-fn-ch2-25
 
-26\. Cf. Dogmatic constitution, "**," 31, 44. ^ag-fn-ch2-26
+26\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 31, 44. ^ag-fn-ch2-26
 
 CHAPTER III
 
-1\. Cf. John XXIII, "**" (AAS 1959, 838). ^ag-fn-ch3-1
+1\. Cf. John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 838). ^ag-fn-ch3-1
 
-2\. Cf. Decree, "**," 11; Decree, "**," 2. ^ag-fn-ch3-2
+2\. Cf. Decree, "*[On Priestly Ministry and Life](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html)*," 11; Decree, "*[On Priestly Training](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*," 2. ^ag-fn-ch3-2
 
-3\. Cf. Dogmatic constitution, "**," 25. ^ag-fn-ch3-3
+3\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 25. ^ag-fn-ch3-3
 
-4\. Cf. Decree, "**," 10, where in order to render particular pastoral labors easier for various social groups, provision is made for the establishment of personal prelacies, insofar as needs of the apostolate demand it. ^ag-fn-ch3-4
+4\. Cf. Decree, "*[On Priestly Ministry and Life](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html)*," 10, where in order to render particular pastoral labors easier for various social groups, provision is made for the establishment of personal prelacies, insofar as needs of the apostolate demand it. ^ag-fn-ch3-4
 
-5\. Cf. Dogmatic constitution, "**," 13. ^ag-fn-ch3-5
+5\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 13. ^ag-fn-ch3-5
 
 6\. Cf. Allocution of Paul VI at the canonization of the Uganda Martyrs (AAS 1964, 908). ^ag-fn-ch3-6
 
-7\. Cf. Dogmatic constitution, "**," 13. ^ag-fn-ch3-7
+7\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 13. ^ag-fn-ch3-7
 
 CHAPTER IV
 
-1\. Dogmatic constitution, "**," 17. ^ag-fn-ch4-1
+1\. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 17. ^ag-fn-ch4-1
 
 2\. "Institutes" refer to orders, congregations, institutions and associations which work in the missions. ^ag-fn-ch4-2
 
-3\. Cf. Pius XI, "**" (AAS 1926, 69-7); Pius XII, "**" (AAS 1940, 256); "**" (AAS 1951, 506). ^ag-fn-ch4-3
+3\. Cf. Pius XI, "*[Rerum Ecclesiae](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_28021926_rerum-ecclesiae_en.html)*" (AAS 1926, 69-7); Pius XII, "*[Saeculo Exeunte](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo_en.html)*" (AAS 1940, 256); "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 506). ^ag-fn-ch4-3
 
 4 Cf Benedict XV, "*Maximum Illud*" (AAS 1919, 449-450). ^ag-fn-ch4-4
 
-5 Cf Benedict XV, "*Maximum Illud*" (AAS 1919, 448-449); Pius XII, "**," (AAS 1951, 507). In the formation of priests to be missionaries consideration is to be given to those things established by statute in the decree "**" of the Second Vatican Council. ^ag-fn-ch4-5
+5 Cf Benedict XV, "*Maximum Illud*" (AAS 1919, 448-449); Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*," (AAS 1951, 507). In the formation of priests to be missionaries consideration is to be given to those things established by statute in the decree "*[On Priestly Training](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*" of the Second Vatican Council. ^ag-fn-ch4-5
 
-6\. Dogmatic constitution, "**," 41. ^ag-fn-ch4-6
+6\. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 41. ^ag-fn-ch4-6
 
-7\. Cf. Benedict XV, "*Maximum Illud*" (AAS 1919 440); Pius XII, "**" (AAS 1951, 507). ^ag-fn-ch4-7
+7\. Cf. Benedict XV, "*Maximum Illud*" (AAS 1919 440); Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 507). ^ag-fn-ch4-7
 
-8\. Benedict XV, "*Maximum Illud*" (AAS 1919, 448); Decree S.C.P.F., May 20, 1923 (AAS 1923, 369-370); Pius XII "**" (AAS 1940, 256), "Evangelii Praecones" (AAS 1951, 507)- John XXIII, "**" (AAS 1959, 843-844). ^ag-fn-ch4-8
+8\. Benedict XV, "*Maximum Illud*" (AAS 1919, 448); Decree S.C.P.F., May 20, 1923 (AAS 1923, 369-370); Pius XII "*[Saeculo Exeunte](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_13061940_saeculo-exeunte-octavo_en.html)*" (AAS 1940, 256), "Evangelii Praecones" (AAS 1951, 507)- John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 843-844). ^ag-fn-ch4-8
 
-9\. Decree "**," 19-21; Apostolic constitution "*Sedes Sapientiae*," with general statutes. ^ag-fn-ch4-9
+9\. Decree "*[On Priestly Training](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*," 19-21; Apostolic constitution "*Sedes Sapientiae*," with general statutes. ^ag-fn-ch4-9
 
-10\. Pius XII, "**" (AAS 1951, 523-524). ^ag-fn-ch4-10
+10\. Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 523-524). ^ag-fn-ch4-10
 
 11\. Benedict XV, "*Maximum Illud*" (AAS 1919, 448); Pius XII, "Evangelii Praecones" (AAS 1951, 507). ^ag-fn-ch4-11
 
 12\. Cf. Pius XII, "*Fidei Donum*" (AAS 1957, 234). ^ag-fn-ch4-12
 
-13\. Cf. "**," 10, refers to dioceses and personal prelatures and the like. ^ag-fn-ch4-13
+13\. Cf. "*[On Priestly Ministry and Life](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_en.html)*," 10, refers to dioceses and personal prelatures and the like. ^ag-fn-ch4-13
 
 CHAPTER V
 
-1\. Cf. Dogmatic constitution, "**," 18. ^ag-fn-ch5-1
+1\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 18. ^ag-fn-ch5-1
 
-2\. Cf. Dogmatic constitution, "**," 23. ^ag-fn-ch5-2
+2\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 23. ^ag-fn-ch5-2
 
-3\. Cf. Motu proprio, "**," Sept. 15, 1965. ^ag-fn-ch5-3
+3\. Cf. Motu proprio, "*[Apostolica Sollicitudo](https://www.vatican.va/holy_father/paul_vi/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo_en.html)*," Sept. 15, 1965. ^ag-fn-ch5-3
 
 4\. Cf. Paul VI, allocution Nov. 21, 1964, in council (AAS 1964). ^ag-fn-ch5-4
 
@@ -553,38 +553,38 @@ CHAPTER V
 
 6\. If these missions for special reasons are made subject to other ecclesiastical jurisdictions for a time, it is fitting that this ecclesiastic jurisdiction establish relations with the Sacred Congregation for the Propagation of the Faith so that in ordering and directing all these missions, a regular and uniform pattern can be realized. ^ag-fn-ch5-6
 
-7\. Cf. Decree, "**," 35, 4. ^ag-fn-ch5-7
+7\. Cf. Decree, "*[Pastoral Duties of Bishops in the Church](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*," 35, 4. ^ag-fn-ch5-7
 
-8\. Cf. Decree "**," 36-38. ^ag-fn-ch5-8
+8\. Cf. Decree "*[Pastoral Duties of Bishops in the Church](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*," 36-38. ^ag-fn-ch5-8
 
-9\. Cf. Decree "**" 35, 5-6. ^ag-fn-ch5-9
+9\. Cf. Decree "*[Pastoral Duties of Bishops in the Church](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*" 35, 5-6. ^ag-fn-ch5-9
 
 CHAPTER VI
 
-1\. Cf. Decree, "**," 12. ^ag-fn-ch6-1
+1\. Cf. Decree, "*[On Ecumenism](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)*," 12. ^ag-fn-ch6-1
 
-2\. Cf. Dogmatic constitution, "**," 23-24. ^ag-fn-ch6-2
+2\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 23-24. ^ag-fn-ch6-2
 
-3\. Cf. Benedict XV, "*Maximum Illud*" (AAS 1919, 453-454); Pius XI, "**" (AAS 1926, 71-73); Pius XII, "**" (AAS 1951, 525-526); Id. "*Fidei Donum*" (AAS 1957, 241.) ^ag-fn-ch6-3
+3\. Cf. Benedict XV, "*Maximum Illud*" (AAS 1919, 453-454); Pius XI, "*[Rerum Ecclesiae](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae_en.html)*" (AAS 1926, 71-73); Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 525-526); Id. "*Fidei Donum*" (AAS 1957, 241.) ^ag-fn-ch6-3
 
 4\. Cf. Pius XII, "*Fidei Donum*" (AAS 1957, 245-246). ^ag-fn-ch6-4
 
-5\. Decree "**," 6. ^ag-fn-ch6-5
+5\. Decree "*[Pastoral Duties of Bishops](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*," 6. ^ag-fn-ch6-5
 
 6\. Cf. Pius XII, "*Fidei Donum*" (AAS 1957, 245). ^ag-fn-ch6-6
 
-7\. Cf. Dogmatic constitution, "**," 28. ^ag-fn-ch6-7
+7\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 28. ^ag-fn-ch6-7
 
-8\. Cf. Pius XI, "**" (AAS 1926, 72). ^ag-fn-ch6-8
+8\. Cf. Pius XI, "*[Rerum Ecclesiae](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae_en.html)*" (AAS 1926, 72). ^ag-fn-ch6-8
 
-9\. Cf. Dogmatic constitution "**," 44. ^ag-fn-ch6-9
+9\. Cf. Dogmatic constitution "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 44. ^ag-fn-ch6-9
 
 10\. Cf. Ibid. 33, 35. ^ag-fn-ch6-10
 
-11\. Cf. Pius XII, "**" (AAS 1951, 510, 514)John XXIII, "**" (AAS 1959, 851-852). ^ag-fn-ch6-11
+11\. Cf. Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 510, 514)John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 851-852). ^ag-fn-ch6-11
 
-12\. Cf. Dogmatic constitution, "**," 46. ^ag-fn-ch6-12
+12\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 46. ^ag-fn-ch6-12
 
-13\. Cf. Pius XII, "**" (AAS 1951, 527)John XXIII, "**" (AAS 1959, 864). ^ag-fn-conclusion-13
+13\. Cf. Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 527)John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 864). ^ag-fn-conclusion-13
 
 In order that this missionary work of the particular church may be performed, there is need of qualified ministers, who are to be prepared in due time in a way suited to the conditions of each church. Now since men are more and more banding together into associations, it is very fitting that episcopal conferences should form a common plan concerning the dialogue to be held with such associations. But if perchance in certain regions, groups of men are to be found who are kept away from embracing the Catholic Faith because they cannot adapt themselves to the peculiar form which the church has taken in there, it is hoped that this condition will be provided for in a special way,<sup>[[#^ag-fn-ch3-4|(4)]] </sup> until such time as all Christians can gather together in

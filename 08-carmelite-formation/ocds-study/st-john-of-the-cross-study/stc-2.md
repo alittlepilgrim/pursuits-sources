@@ -1,23 +1,23 @@
 ---
-title: Text 2 - Creation as an icon
-created: 2026-03-18
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Text 2 - Creation as an icon
+author: General Curia
 aliases:
   - "Text 2: Creation as ‘an icon’- St. John of the Cross and Creation"
   - "Text 2: Creation as ‘an icon’"
 tags:
-  - author/general-curia
+  - author/ocd-general-curia
   - subject/laudato-si
   - subject/st-john-of-the-cross
+created: 2026-03-18
+modified: 2026-04-06
+publish: true
 attachment: false
-author: General Curia
 ---
 
 # Text 2: Creation as ‘an icon’- St. John of the Cross and Creation
 
-## Suggestions for Community Gathering:
+## Suggestions for Community Gathering
 
 1. Read the text together. 
 2. A member of the group who has prepared something in advance presents their reflections on the text, drawing on the commentary and other resources as needed. 
@@ -58,7 +58,7 @@ She declares that this passing was “in haste.” Creatures are the lesser work
 
 4. St. Paul says: the Son of God is the splendor of his glory and the image of his substance [Heb. 1: 3]. It should be known that only with this figure, his Son, did God look a t all things, that is, he communicated to them their natural being and many natural graces and gifts, and made them complete and perfect, as is said in Genesis: God looked at all things that he made, and they were very good [Gn. 1: 31]. To look and behold that they were very good was to make them very good in the Word, his Son. Not only by looking at them did he communicate natural being and graces, as we said, but also, with this image of his Son alone, he clothed them in beauty by imparting to them super-natural being. This he did when he took on our human nature and elevated it in the beauty of God, and consequently all creatures, since in human nature he was united with them all. Accordingly, the Son of God proclaimed: *Si ego exaltatus a terra fuero omnia traham ad me ipsum* (If I be lifted up from the earth, I will elevate all things to myself) [Jn. 12: 32]. And in this elevation of all things through the Incarnation of his Son and through the glory of his resurrection according to the flesh not only did the Father beautify creatures partially, but, we can say, he clothed them entirely in beauty and dignity. 
 
-## Laudato SI’:
+## Laudato SI’
 
 LS 12. What is more, Saint Francis, faithful to Scripture, invites us to see nature as a magnificent book in which God speaks to us and grants us a glimpse of his infinite beauty and goodness. « Through the greatness and the beauty of creatures one comes to know by anal-ogy their maker” (Wis 13:5); indeed, “his eternal power and divinity have been made known through his works since the creation of the world” (Rom 1:20). For this reason, Francis asked that part of the friary garden always be left untouched, so that wild flowers and herbs could grow there, and those who saw them could raise their minds to God, the Creator of such beau-ty. Rather than a problem to be solved, the world is a joyful mystery to be contemplated with gladness and praise. 
 

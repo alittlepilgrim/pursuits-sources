@@ -1,36 +1,35 @@
 ---
-title: Exodus, Chapter 36
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 36
+title: Exodus, Chapter 36
+url: https://bible.usccb.org/bible/exodus/36
 aliases:
   - 20250731-085802
   - exodus-36
   - Exodus, Chapter 36
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/36
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 36
 ---
 
 # Exodus, Chapter 36
 
-### Chapter 36
+## Chapter 36
 
-1 “Bezalel, therefore, will set to work with Oholiab and with all the artisans whom the LORD has endowed with skill and understanding in knowing how to do all the work for the service of the sanctuary, just as the L ORD has commanded.” ^exodus-36-1
+1 “Bezalel, therefore, will set to work with Oholiab and with all the artisans whom the LORD has endowed with skill and understanding in knowing how to do all the work for the service of the sanctuary, just as the LORD has commanded.” ^exodus-36-1
 
-2 Moses then called Bezalel and Oholiab and all the other artisans whom the L ORD had endowed with skill, men whose hearts moved them to come and do the work. ^exodus-36-2
+2 Moses then called Bezalel and Oholiab and all the other artisans whom the LORD had endowed with skill, men whose hearts moved them to come and do the work. ^exodus-36-2
 
 3 They received from Moses all the contributions which the Israelites had brought for the work to be done for the sanctuary service. Still, morning after morning the people continued to bring their voluntary offerings to Moses. ^exodus-36-3
 
 4 Thereupon all the artisans who were doing the work for the sanctuary came from the work each was doing, ^exodus-36-4
 
-5 and told Moses, “The people are bringing much more than is needed to carry out the work which the L ORD has commanded us to do.” ^exodus-36-5
+5 and told Moses, “The people are bringing much more than is needed to carry out the work which the LORD has commanded us to do.” ^exodus-36-5
 
 6 Moses, therefore, ordered a proclamation to be made throughout the camp: “Let neither man nor woman make any more contributions for the sanctuary.” So the people stopped bringing their offerings; ^exodus-36-6
 

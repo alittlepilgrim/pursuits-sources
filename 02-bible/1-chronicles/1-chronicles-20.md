@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 20
+title: 1 Chronicles, Chapter 20
+url: https://bible.usccb.org/bible/1chronicles/20
 aliases:
   - 1 Chronicles, Chapter 20
   - 1-chronicles-20
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/20
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 20
 ---
 
 # 1 Chronicles, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 1 At the turn of the year, the time when kings go to war, Joab led the army out in force, laid waste the land of the Ammonites, and went on to besiege Rabbah; David himself remained in Jerusalem. When Joab had attacked Rabbah and destroyed it, ^1-chronicles-20-1
 

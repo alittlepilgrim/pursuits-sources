@@ -1,15 +1,17 @@
 ---
-title: Proto-evangelium
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: proto-evangelium. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Proto-evangelium
+author:
 aliases:
   - proto-evangelium
   - Proto-evangelium
 tags:
   - term/proto-evangelium
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: proto-evangelium. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Proto-evangelium

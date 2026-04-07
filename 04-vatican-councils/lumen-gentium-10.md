@@ -1,20 +1,19 @@
 ---
-title: Lumen Gentium
-created: 2025-08-04
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Lumen Gentium
+title: Lumen Gentium
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
   - Lumen Gentium
   - lumen-gentium-10
 tags:
+  - graph/bible-v2
   - vatican/constitutions
   - vatican/vatican-II
-  - vault-admin/graph/bible-v2
-author: Catholic Church
-internal_note: You can link to any Lumen Gentium footnote using ^lg-fn-N with N equal to the printed note number.
-url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
+created: 2025-08-04
+modified: 2026-04-04
+publish: true
+description: Lumen Gentium
 ---
 
 - [[lumen-gentium-11|Lumen Gentium Supplemental Notes]] →

@@ -1,14 +1,16 @@
 ---
-title: part3-toc
-created: 2026-03-23
-modified: 2026-04-02
-type: book
-publish: true
-aliases:
-  - Part III Contents
-  - part3-toc
+type: toc
+title: Part III TOC – The Illuminative Way of Proficients – The Three Ages of the Interior Life
 author: Reginald Garrigou-Lagrange
+aliases:
+  - Part III TOC – The Illuminative Way of Proficients
+tags:
+  - author/garrigou-lagrange
+  - type/book
 book_volume: "2"
+created: 2026-03-23
+modified: 2026-04-04
+publish: true
 ---
 
 > [!NOTE]
@@ -18,7 +20,7 @@ book_volume: "2"
 
 [[tta-2-toc|Previous]] | [[tta-4-toc|Next]]
 
-### Part III - the Illuminative Way of Proficients
+# Part III – The Illuminative Way of Proficients
 
 I. [[tta050|THE OBJECT OF THE THIRD PART AND THE LANGUAGE OF SPIRITUAL WRITERS COMPARED WITH THAT OF THEOLOGIANS]]\
 A. [[tta050#^tta050-bk1|The Language of Spiritual Writers Compared with That ofTheologians]]\

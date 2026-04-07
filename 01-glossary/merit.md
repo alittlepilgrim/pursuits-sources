@@ -1,15 +1,17 @@
 ---
-title: Merit
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: merit. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Merit
+author:
 aliases:
   - merit
   - Merit
 tags:
   - term/merit
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: merit. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Merit

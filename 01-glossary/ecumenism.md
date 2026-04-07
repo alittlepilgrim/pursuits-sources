@@ -1,15 +1,16 @@
 ---
-title: Ecumenism
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: ecumenism. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Ecumenism
 aliases:
   - ecumenism
   - Ecumenism
 tags:
   - term/ecumenism
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: ecumenism. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Ecumenism

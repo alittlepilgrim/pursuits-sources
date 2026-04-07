@@ -1,27 +1,26 @@
 ---
-title: Jeremiah, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 12
+title: Jeremiah, Chapter 12
+url: https://bible.usccb.org/bible/jeremiah/12
 aliases:
   - jeremiah-12
   - Jeremiah, Chapter 12
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 12
 ---
 
 # Jeremiah, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
-1 You would be in the right, O L ORD, ^jeremiah-12-1
+1 You would be in the right, O LORD, ^jeremiah-12-1
 
 if I should dispute with you;
 
@@ -39,7 +38,7 @@ You are upon their lips,
 
 but far from their thoughts.
 
-3 L ORD, you know me, you see me, ^jeremiah-12-3
+3 LORD, you know me, you see me, ^jeremiah-12-3
 
 you have found that my heart is with you.
 
@@ -67,7 +66,7 @@ what will you do in the jungle of the Jordan?
 
 6 Your kindred and your father’s house, even they betray you; they have recruited a force against you. Do not believe them, even when they speak fair words to you. ^jeremiah-12-6
 
-#### The Lord’s Complaint
+### The Lord’s Complaint
 
 7 I have abandoned my house, ^jeremiah-12-7
 
@@ -113,7 +112,7 @@ because no one takes it to heart.
 
 marauders have appeared.
 
-The L ORD has a sword that consumes
+The LORD has a sword that consumes
 
 the land from end to end:
 
@@ -125,17 +124,17 @@ they have tired themselves out for no purpose;
 
 They are shamed by their harvest,
 
-the burning anger of the L ORD.
+the burning anger of the LORD.
 
 **Judah’s Neighbors.**
 
-14 Thus says the L ORD, against all my evil neighbors who plunder the heritage I gave my people Israel as their own: See, I will uproot them from their land; the house of Judah I will uproot in their midst. ^jeremiah-12-14
+14 Thus says the LORD, against all my evil neighbors who plunder the heritage I gave my people Israel as their own: See, I will uproot them from their land; the house of Judah I will uproot in their midst. ^jeremiah-12-14
 
 15 But after uprooting them, I will have compassion on them again and bring them back, each to their heritage, each to their land. ^jeremiah-12-15
 
-16 And if they truly learn my people’s custom of swearing by my name, “As the L ORD lives,” just as they taught my people to swear by Baal, then they shall be built up in the midst of my people. ^jeremiah-12-16
+16 And if they truly learn my people’s custom of swearing by my name, “As the LORD lives,” just as they taught my people to swear by Baal, then they shall be built up in the midst of my people. ^jeremiah-12-16
 
-17 But if they do not obey, I will uproot and destroy that nation entirely—oracle of the L ORD. ^jeremiah-12-17
+17 But if they do not obey, I will uproot and destroy that nation entirely—oracle of the LORD. ^jeremiah-12-17
 
 \* (12:3) Jeremiah calls the Lord to account for allowing the wicked to flourish while he himself is persecuted for his fidelity to the Lord’s mission; cf. [20:12]. See Jesus’ judgment, ([[mark-09|Mk 9]]:42]. The metaphors indicate that Jeremiah has even greater trials ahead of him.
 

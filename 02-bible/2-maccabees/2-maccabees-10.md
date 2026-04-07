@@ -1,25 +1,24 @@
 ---
-title: 2 Maccabees, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Maccabees, Chapter
+title: 2 Maccabees, Chapter 10
+url: https://bible.usccb.org/bible/2maccabees/1
 aliases:
   - 2 Maccabees, Chapter 10
   - 2-maccabees-10
 tags:
   - bible/2-maccabees
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2maccabees/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Maccabees, Chapter
 ---
 
 # 2 Maccabees, Chapter 10
 
-### Chapter
+## Chapter
 
 **Purification of the Temple.**
 
@@ -41,7 +40,7 @@ url: https://bible.usccb.org/bible/2maccabees/1
 
 9Such was the end of Antiochus surnamed Epiphanes.
 
-## Vi. Renewed Persecution
+# Vi. Renewed Persecution
 
 **Accession of Antiochus V.**
 
@@ -115,7 +114,7 @@ url: https://bible.usccb.org/bible/2maccabees/1
 * (10:14]–[23) Probably the same campaign of Judas against the Idumeans that is mentioned in [1 Mc 5:1]–[3].
 * (10:24) Timothy, who had previously been defeated by the Jews: as recounted in [8:30]–[33].
 * (10:28) As soon as dawn broke: the same battle at dawn as in [1 Mc 5:30]–[34].
-* (10:37) Timothy…they killed: apparently Timothy is still alive in [12:2], [18]–[25]. Perhaps there was more than one Timothy. Or the present passage is not in chronological order. Gazara, v. [32] (Gezer), was not captured by the Jews until much later (cf. [1 Mc 9:50]–[52]; [13:53]). See [1 Mc 5:8] for the capture of Jazer.
+* (10:37) Timothy…they killed: apparently Timothy is still alive in [12:2], [18]–[25]. Perhaps there was more than one Timothy. Or the present passage is not in chronologicaLORDer. Gazara, v. [32] (Gezer), was not captured by the Jews until much later (cf. [1 Mc 9:50]–[52]; [13:53]). See [1 Mc 5:8] for the capture of Jazer.
 
 a. (10:1]–[8) [1 Mc 4:36]–[61].
 

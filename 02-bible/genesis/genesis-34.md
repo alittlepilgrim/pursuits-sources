@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 34
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 34
+title: Genesis, Chapter 34
+url: https://bible.usccb.org/bible/genesis/34
 aliases:
   - 20250508-020324
   - genesis-34
   - Genesis, Chapter 34
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 34
 bible_book: genesis
 bible_chapter: "34"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/34
 ---
 
 [[genesis-33|[← Previous Note]]] · [[genesis-35|[Next Note →]]]
@@ -111,6 +110,6 @@ d. (34:29) [Jdt 9:3] – [4]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-03|[← Previous Note]]] · [[genesis-05|[Next Note →]]]

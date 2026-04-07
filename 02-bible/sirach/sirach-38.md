@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 38
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 38
+title: Sirach, Chapter 38
+url: https://bible.usccb.org/bible/sirach/38
 aliases:
   - sirach-38
   - Sirach, Chapter 38
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/38
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 38
 ---
 
 # Sirach, Chapter 38
 
-### Chapter 38
+## Chapter 38
 
-#### Sickness and Death
+### Sickness and Death
 
 1 Make friends with the doctor, for he is essential to you; ^sirach-38-1
 
@@ -123,7 +122,7 @@ for him it was yesterday, for you today.
 
 be consoled, once the spirit has gone.
 
-#### Vocations of the Skilled Worker and the Scribe
+### Vocations of the Skilled Worker and the Scribe
 
 24 The scribe’s wisdom increases wisdom; ^sirach-38-24
 

@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 20
+title: 1 Kings, Chapter 20
+url: https://bible.usccb.org/bible/1kings/20
 aliases:
   - 1 Kings, Chapter 20
   - 1-kings-20
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/20
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 20
 ---
 
 # 1 Kings, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Ahab’s Victories over Aram.**
 
@@ -47,9 +46,9 @@ url: https://bible.usccb.org/bible/1kings/20
 
 12 Ben-hadad was drinking in the pavilions with the kings when he heard this reply. He commanded his servants, “Get ready!”; and they got ready to storm the city. ^1-kings-20-12
 
-13 Then a prophet came up to Ahab, king of Israel, and said: “The L ORD says, Do you see all this vast army? Today I am giving it into your power, that you may know that I am the L ORD.” ^1-kings-20-13
+13 Then a prophet came up to Ahab, king of Israel, and said: “The LORD says, Do you see all this vast army? Today I am giving it into your power, that you may know that I am the LORD.” ^1-kings-20-13
 
-14 But Ahab asked, “Through whom will it be given over?” He answered, “The L ORD says, Through the aides of the provincial governors.” Then Ahab asked, “Who is to attack?” He replied, “You are.” ^1-kings-20-14
+14 But Ahab asked, “Through whom will it be given over?” He answered, “The LORD says, Through the aides of the provincial governors.” Then Ahab asked, “Who is to attack?” He replied, “You are.” ^1-kings-20-14
 
 15 So Ahab mustered the aides of the provincial governors, two hundred thirty-two of them. Behind them he mustered all the Israelite soldiery, who numbered seven thousand in all. ^1-kings-20-15
 
@@ -77,7 +76,7 @@ url: https://bible.usccb.org/bible/1kings/20
 
 27 The Israelites, too, were mustered and supplied with provisions; then they went out to meet the enemy. The Israelites, encamped opposite, looked like little flocks of goats, while Aram covered the land. ^1-kings-20-27
 
-28 A man of God approached and said to the king of Israel: “The L ORD says, Because Aram has said the L ORD is a god of mountains, not a god of plains, I will give all this vast army into your power that you may know I am the L ORD.” ^1-kings-20-28
+28 A man of God approached and said to the king of Israel: “The LORD says, Because Aram has said the LORD is a god of mountains, not a god of plains, I will give all this vast army into your power that you may know I am the LORD.” ^1-kings-20-28
 
 29 They were encamped opposite each other for seven days. On the seventh day battle was joined, and the Israelites struck down one hundred thousand foot soldiers of Aram in one day. ^1-kings-20-29
 
@@ -91,9 +90,9 @@ url: https://bible.usccb.org/bible/1kings/20
 
 **Prophetic Condemnation.**
 
-35 Acting on the word of the L ORD, one of the guild prophets said to his companion, “Strike me.” But he refused to strike him. ^1-kings-20-35
+35 Acting on the word of the LORD, one of the guild prophets said to his companion, “Strike me.” But he refused to strike him. ^1-kings-20-35
 
-36 Then he said to him, “Since you did not obey the voice of the L ORD, a lion will attack you when you leave me.” When he left him, a lion came upon him and attacked him. ^1-kings-20-36
+36 Then he said to him, “Since you did not obey the voice of the LORD, a lion will attack you when you leave me.” When he left him, a lion came upon him and attacked him. ^1-kings-20-36
 
 37 Then the prophet met another man and said, “Strike me.” The man struck him a blow and wounded him. ^1-kings-20-37
 
@@ -105,7 +104,7 @@ url: https://bible.usccb.org/bible/1kings/20
 
 41 He quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets. ^1-kings-20-41
 
-42 He said to him: “The L ORD says, Because you have set free the man I put under the ban, your life shall pay for his life, your people for his people.” ^1-kings-20-42
+42 He said to him: “The LORD says, Because you have set free the man I put under the ban, your life shall pay for his life, your people for his people.” ^1-kings-20-42
 
 43 Disturbed and angry, the king of Israel set off for home and entered Samaria. ^1-kings-20-43
 

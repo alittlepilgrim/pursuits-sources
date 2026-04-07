@@ -1,21 +1,20 @@
 ---
-title: 3 John, the Third Letter of John
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 3 John, the Third Letter of John
+title: 3 John, The Third Letter of John
+url: https://bible.usccb.org/bible/3john/1
 aliases:
   - 3 John, the Third Letter of John
   - 3 John, The Third Letter of John
   - 3-john-01
 tags:
   - bible/3-john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/3john/1
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-06
+publish: true
+description: 3 John, the Third Letter of John
 ---
 
 # 3 John, the Third Letter of John

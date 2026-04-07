@@ -1,20 +1,19 @@
 ---
-title: Psalm 93
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 93
+title: Psalm 93
+url: https://bible.usccb.org/bible/psalms/93
 aliases:
   - Psalm 93
   - psalm-93
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/psalms/93
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 93
 ---
 
 # Psalm 93

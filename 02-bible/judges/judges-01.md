@@ -1,35 +1,34 @@
 ---
-title: Judges, Chapter 1
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 1
+title: Judges, Chapter 1
+url: https://bible.usccb.org/bible/judges/1
 aliases:
   - judges-01
   - Judges, Chapter 1
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 1
 ---
 
 # Judges, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Canaanites in Palestine.**
 
-1 After the death of Joshua the Israelites consulted the L ORD, asking, “Who shall be first among us to attack the Canaanites and to do battle with them?” ^judges-01-1
+1 After the death of Joshua the Israelites consulted the LORD, asking, “Who shall be first among us to attack the Canaanites and to do battle with them?” ^judges-01-1
 
-2 The L ORD answered: Judah shall attack: I have delivered the land into his power. ^judges-01-2
+2 The LORD answered: Judah shall attack: I have delivered the land into his power. ^judges-01-2
 
 3 Judah then said to his brother Simeon, “Come up with me into the territory allotted to me, and let us do battle with the Canaanites. I will likewise go with you into the territory allotted to you.” So Simeon went with him. ^judges-01-3
 
-4 When Judah attacked, the L ORD delivered the Canaanites and Perizzites into their power, and they struck down ten thousand of them in Bezek. ^judges-01-4
+4 When Judah attacked, the LORD delivered the Canaanites and Perizzites into their power, and they struck down ten thousand of them in Bezek. ^judges-01-4
 
 5 They came upon Adonibezek in Bezek and fought against him. When they struck down the Canaanites and Perizzites, ^judges-01-5
 
@@ -59,13 +58,13 @@ url: https://bible.usccb.org/bible/judges/1
 
 18 Judah captured Gaza with its territory, Ashkelon with its territory, Ekron with its territory, and Ashdod with its territory. ^judges-01-18
 
-19 The L ORD was with Judah, so they gained possession of the mountain region. But they could not dispossess those who lived on the plain, because they had iron chariots. ^judges-01-19
+19 The LORD was with Judah, so they gained possession of the mountain region. But they could not dispossess those who lived on the plain, because they had iron chariots. ^judges-01-19
 
 20 As Moses had commanded, they gave Hebron to Caleb, who then drove the three sons of Anak away from there. ^judges-01-20
 
 21 As for the Jebusites dwelling in Jerusalem, the Benjaminites did not dispossess them, so that the Jebusites live with the Benjaminites in Jerusalem to the present day. ^judges-01-21
 
-22 The house of Joseph, too, went up against Bethel, and the L ORD was with them. ^judges-01-22
+22 The house of Joseph, too, went up against Bethel, and the LORD was with them. ^judges-01-22
 
 23 The house of Joseph reconnoitered Bethel, which formerly was called Luz. ^judges-01-23
 

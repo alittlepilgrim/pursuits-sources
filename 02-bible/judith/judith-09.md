@@ -1,25 +1,24 @@
 ---
-title: Judith, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 9
+title: Judith, Chapter 9
+url: https://bible.usccb.org/bible/judith/9
 aliases:
   - judith-09
   - Judith, Chapter 9
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 9
 ---
 
 # Judith, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **The Prayer of Judith.**
 

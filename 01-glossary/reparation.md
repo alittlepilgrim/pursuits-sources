@@ -1,15 +1,17 @@
 ---
-title: Reparation
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: reparation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Reparation
+author:
 aliases:
   - reparation
   - Reparation
 tags:
   - term/reparation
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: reparation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Reparation

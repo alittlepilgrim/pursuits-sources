@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 34
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 34
+title: Isaiah, Chapter 34
+url: https://bible.usccb.org/bible/isaiah/34
 aliases:
   - isaiah-34
   - Isaiah, Chapter 34
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/34
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 34
 ---
 
 # Isaiah, Chapter 34
 
-### Chapter 34
+## Chapter 34
 
-#### Judgment upon Edom
+### Judgment upon Edom
 
 1 Come near, nations, and listen; ^isaiah-34-1
 
@@ -31,7 +30,7 @@ Let the earth and what fills it listen,
 
 the world and all it produces.
 
-2 The L ORD is angry with all the nations, ^isaiah-34-2
+2 The LORD is angry with all the nations, ^isaiah-34-2
 
 enraged against all their host;
 
@@ -61,7 +60,7 @@ it shall come down upon Edom for judgment,
 
 upon a people under my ban.
 
-6 The L ORD has a sword sated with blood, ^isaiah-34-6
+6 The LORD has a sword sated with blood, ^isaiah-34-6
 
 greasy with fat,
 
@@ -69,7 +68,7 @@ With the blood of lambs and goats,
 
 with the fat of rams’ kidneys;
 
-For the L ORD has a sacrifice in Bozrah,
+For the LORD has a sacrifice in Bozrah,
 
 a great slaughter in the land of Edom.
 
@@ -81,7 +80,7 @@ Their land shall be soaked with blood,
 
 and their soil greasy with fat.
 
-8 For the L ORD has a day of vengeance, ^isaiah-34-8
+8 For the LORD has a day of vengeance, ^isaiah-34-8
 
 a year of requital for the cause of Zion.
 
@@ -103,7 +102,7 @@ never again shall anyone pass through it.
 
 the screech owl and raven shall dwell in it.
 
-The L ORD will stretch over it the measuring line of chaos,
+The LORD will stretch over it the measuring line of chaos,
 
 the plumb line of confusion.
 
@@ -137,11 +136,11 @@ There shall the kites assemble,
 
 each with its mate.
 
-16 Search through the book of the L ORD and read: ^isaiah-34-16
+16 Search through the book of the LORD and read: ^isaiah-34-16
 
 not one of these shall be lacking,
 
-For the mouth of the L ORD has ordered it,
+For the mouth of the LORD has ordered it,
 
 and his spirit gathers them there.
 
@@ -161,7 +160,7 @@ and dwell in it from generation to generation.
 
 \* (34:14) Satyrs: see note on [13:21]. The lilith: a female demon thought to roam about the desert.
 
-\* (34:16) Book of the L ORD: a list of God’s creatures; cf. [Ex 32:32] – [33]; [Ps 69:29], “the book of the living”; [Ps 139:16], “your book.”
+\* (34:16) Book of the LORD: a list of God’s creatures; cf. [Ex 32:32] – [33]; [Ps 69:29], “the book of the living”; [Ps 139:16], “your book.”
 
 \* (34:17) Casts the lot…measures off: an ironic reference to how land might be distributed to new possessors (cf. [Jos 14] – [21]; [Mi 2:5]).
 

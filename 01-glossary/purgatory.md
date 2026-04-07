@@ -1,15 +1,17 @@
 ---
-title: Purgatory
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: purgatory. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Purgatory
+author:
 aliases:
   - purgatory
   - Purgatory
 tags:
   - term/purgatory
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: purgatory. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Purgatory
@@ -20,6 +22,6 @@ A state of final purification after death and before entrance into heaven for th
 
 ## Divine Intimacy Meditations
 
-- Would not be necessary if we were perfectly faithful to grace: 385,2;
-- in — one suffers without increasing in love, though on earth purification is accomplished with an increase of grace and charity: 385,2.
-- 385.
+- Would not be necessary if we were perfectly faithful to grace: [[385-faithful-departed#Meditation 2|385,2]];
+- in — one suffers without increasing in love, though on earth purification is accomplished with an increase of grace and charity: [[385-faithful-departed#Meditation 2|385,2]].
+- [[385-faithful-departed|385.]]

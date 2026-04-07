@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 4
+title: Ezekiel, Chapter 4
+url: https://bible.usccb.org/bible/ezekiel/4
 aliases:
   - ezekiel-04
   - Ezekiel, Chapter 4
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/4
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 4
 ---
 
 # Ezekiel, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **Acts Symbolic of Siege and Exile.**
 
@@ -47,7 +46,7 @@ url: https://bible.usccb.org/bible/ezekiel/4
 
 12 And the barley cake you eat you must bake on human excrement in the sight of all. ^ezekiel-04-12
 
-13 The L ORD said: Thus the Israelites shall eat their food, unclean, among the nations where I drive them. ^ezekiel-04-13
+13 The LORD said: Thus the Israelites shall eat their food, unclean, among the nations where I drive them. ^ezekiel-04-13
 
 14 “Oh no, Lord G OD,” I protested. “Never have I defiled myself nor have I eaten carrion flesh or flesh torn by wild beasts, nor from my youth till now has any unclean meat entered my mouth.” ^ezekiel-04-14
 

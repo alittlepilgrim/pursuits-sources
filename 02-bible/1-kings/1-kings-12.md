@@ -1,25 +1,24 @@
 ---
-title: 1 Kings, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Kings, Chapter 12
+title: 1 Kings, Chapter 12
+url: https://bible.usccb.org/bible/1kings/12
 aliases:
   - 1 Kings, Chapter 12
   - 1-kings-12
 tags:
   - bible/1-kings
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1kings/12
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Kings, Chapter 12
 ---
 
 # 1 Kings, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **Political Disunity.**
 
@@ -53,7 +52,7 @@ Then Jeroboam and the whole assembly of Israel came and they said to Rehoboam,
 
 14 He spoke to them as the young men had advised: “My father made your yoke heavy, but I will make it heavier. My father beat you with whips, but I will beat you with scorpions.” ^1-kings-12-14
 
-15 The king did not listen to the people, for this turn of events was from the L ORD: he fulfilled the word the L ORD had spoken through Ahijah the Shilonite to Jeroboam, son of Nebat. ^1-kings-12-15
+15 The king did not listen to the people, for this turn of events was from the LORD: he fulfilled the word the LORD had spoken through Ahijah the Shilonite to Jeroboam, son of Nebat. ^1-kings-12-15
 
 16 When all Israel saw that the king did not listen to them, the people answered the king: ^1-kings-12-16
 
@@ -83,7 +82,7 @@ So Israel went off to their tents.
 
 23 Say to Rehoboam, son of Solomon, king of Judah, and to all the house of Judah and to Benjamin, and to the rest of the people: ^1-kings-12-23
 
-24 Thus says the L ORD: You must not go out to war against your fellow Israelites. Return home, each of you, for it is I who have brought this about. They obeyed the word of the L ORD and turned back, according to the word of the L ORD. ^1-kings-12-24
+24 Thus says the LORD: You must not go out to war against your fellow Israelites. Return home, each of you, for it is I who have brought this about. They obeyed the word of the LORD and turned back, according to the word of the LORD. ^1-kings-12-24
 
 25 Jeroboam built up Shechem in the hill country of Ephraim and lived there. Then he left it and built up Penuel. ^1-kings-12-25
 
@@ -91,7 +90,7 @@ So Israel went off to their tents.
 
 26 Jeroboam thought to himself: “Now the kingdom will return to the house of David. ^1-kings-12-26
 
-27 If this people go up to offer sacrifices in the house of the L ORD in Jerusalem, the hearts of this people will return to their master, Rehoboam, king of Judah, and they will kill me and return to Rehoboam, king of Judah.” ^1-kings-12-27
+27 If this people go up to offer sacrifices in the house of the LORD in Jerusalem, the hearts of this people will return to their master, Rehoboam, king of Judah, and they will kill me and return to Rehoboam, king of Judah.” ^1-kings-12-27
 
 28 The king took counsel, made two calves of gold, and said to the people: “You have been going up to Jerusalem long enough. Here are your gods, O Israel, who brought you up from the land of Egypt.” ^1-kings-12-28
 

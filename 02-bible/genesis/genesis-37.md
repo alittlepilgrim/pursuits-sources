@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 37
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 37
+title: Genesis, Chapter 37
+url: https://bible.usccb.org/bible/genesis/37
 aliases:
   - 20250508-020332
   - genesis-37
   - Genesis, Chapter 37
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 37
 bible_book: genesis
 bible_chapter: "37"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/37
 ---
 
 [[genesis-36|[← Previous Note]]] · [[genesis-38|[Next Note →]]]
@@ -139,6 +138,6 @@ j. (37:36) [Ps 105:17]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]

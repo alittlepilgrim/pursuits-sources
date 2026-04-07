@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 21
+title: Matthew, Chapter 21
+url: https://bible.usccb.org/bible/matthew/21
 aliases:
   - matthew-21
   - Matthew, Chapter 21
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/21
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 21
 ---
 
 # Matthew, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **The Entry into Jerusalem.**
 
@@ -161,7 +160,7 @@ and it is wonderful in our eyes’?
 
 \* (21:8) Spread…on the road: cf. [2 Kgs 9:13]. There is a similarity between the cutting and strewing of the branches and the festivities of Tabernacles ([Lv 23:39] – [40]); see also [[2-maccabees-10|2 Mc 10]]:5 – [8] where the celebration of the rededication of the temple is compared to that of Tabernacles.
 
-\* (21:9) Hosanna: the Hebrew means “(O L ord) grant salvation”; see [Ps 118:25], but that invocation had become an acclamation of jubilation and welcome. Blessed is he…in the name of the Lord: see [Ps 118:26] and the note on [Jn 12:13]. In the highest: probably only an intensification of the acclamation, although Hosanna in the highest could be taken as a prayer, “May God save (him).”
+\* (21:9) Hosanna: the Hebrew means “(O LORD) grant salvation”; see [Ps 118:25], but that invocation had become an acclamation of jubilation and welcome. Blessed is he…in the name of the Lord: see [Ps 118:26] and the note on [Jn 12:13]. In the highest: probably only an intensification of the acclamation, although Hosanna in the highest could be taken as a prayer, “May God save (him).”
 
 \* (21:10) Was shaken: in the gospels this verb is peculiar to Matthew where it is used also of the earthquake at the time of the crucifixion (([[matthew-27|Mt 27]]:51]) and of the terror of the guards of Jesus’ tomb at the appearance of the angel (([[matthew-28|Mt 28]]:4]). For Matthew’s use of the cognate noun, see note on ([[matthew-08|Mt 8]]:24].
 

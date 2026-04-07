@@ -1,25 +1,24 @@
 ---
-title: Deuteronomy, Chapter 33
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 33
+title: Deuteronomy, Chapter 33
+url: https://bible.usccb.org/bible/deuteronomy/33
 aliases:
   - deuteronomy-33
   - Deuteronomy, Chapter 33
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/33
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 33
 ---
 
 # Deuteronomy, Chapter 33
 
-### Chapter 33
+## Chapter 33
 
 **Blessing upon the Tribes.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/deuteronomy/33
 
 2 He said: ^deuteronomy-33-2
 
-The L ORD came from Sinai
+The LORD came from Sinai
 
 and dawned on his people from Seir;
 
@@ -61,7 +60,7 @@ but let his numbers be few.
 
 7 of Judah he said this: ^deuteronomy-33-7
 
-Hear, L ORD, the voice of Judah,
+Hear, LORD, the voice of Judah,
 
 and bring him to his people.
 
@@ -99,7 +98,7 @@ They bring incense to your nostrils,
 
 and burnt offerings to your altar.
 
-11 Bless, L ORD, his strength, ^deuteronomy-33-11
+11 Bless, LORD, his strength, ^deuteronomy-33-11
 
 be pleased with the work of his hands.
 
@@ -109,7 +108,7 @@ and of his foes, that they may not rise.
 
 12 of Benjamin he said: ^deuteronomy-33-12
 
-The beloved of the L ORD,
+The beloved of the LORD,
 
 he abides in safety beside him;
 
@@ -119,7 +118,7 @@ the beloved abides at his breast.
 
 13 Of Joseph he said: ^deuteronomy-33-13
 
-Blessed by the L ORD is his land
+Blessed by the LORD is his land
 
 with the best of heaven above
 
@@ -181,7 +180,7 @@ for there the commander’s portion was assigned;
 
 he came at the head of the people.
 
-He carried out the justice of the L ORD
+He carried out the justice of the LORD
 
 and his ordinances for Israel.
 
@@ -195,7 +194,7 @@ that springs away from a viper!
 
 Naphtali, abounding with favor,
 
-filled with the blessing of the L ORD,
+filled with the blessing of the LORD,
 
 take possession of the west and south.
 
@@ -235,7 +234,7 @@ where the heavens drip with dew.
 
 29 Happy are you, Israel! Who is like you, ^deuteronomy-33-29
 
-a people delivered by the L ORD,
+a people delivered by the LORD,
 
 Your help and shield,
 

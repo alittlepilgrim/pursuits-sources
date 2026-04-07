@@ -1,19 +1,19 @@
 ---
-title: 2 Samuel – Chapter Index
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
+title: 2 Samuel – Chapter Index
 aliases:
   - 2 Samuel – Chapter Index
   - 2-samuel-00
 tags:
   - bible
   - bible/2-samuel
+  - bible/book
+  - bible/old-testament
+  - graph/bible-ccc
   - vault-admin/draft
-layer: canon
-node-type: book
-testament: old
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
 ---
 
 # 2 Samuel – Chapter Index

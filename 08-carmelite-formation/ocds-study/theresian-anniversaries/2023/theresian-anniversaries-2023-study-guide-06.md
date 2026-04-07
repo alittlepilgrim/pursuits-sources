@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Study Guide 6 on the Waves of Confidence and Love (Ms A, 80r-81v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Study Guide 6 on the Waves of Confidence and Love (Ms A, 80r-81v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 - Study Guide 6 on the Waves of Confidence and Love (Ms A, 80r-81v)
   - theresian-anniversaries-2023-study-guide-06
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 - Study Guide 6 on the Waves of Confidence and Love (Ms A, 80r-81v)
@@ -28,7 +28,7 @@ Proposal for the Community meeting:
 
 It would be good if the community meeting was preceded by a personal reading and meditation on the text of Therese.
 
-### Manuscript A, 80r-81v [ICS Pp. 173 – 175]
+## Manuscript A, 80r-81v [ICS Pp. 173 – 175]
 
 The year that followed my Profession, that is, two months before Mother Geneviève’s death, I received great graces during my retreat. Ordinarily, the retreats that are preached are more painful to me than the ones I make alone, but this year it was otherwise. I had made a preparatory novena with great fervor, in spite of the inner sentimeant I had, for it seemed to me that the preacher would not be able to understand me since he was sup-posed to do good to great sinners but not [80v°] to religious souls.
 
@@ -52,7 +52,7 @@ As I have always looked upon you, dear Mother, as my ideal, I desired to be like
 
 Instead of doing me any harm, of making me vain, the gifts which God showered upon me (without my hav-ing asked for them) drew me to Him; and I saw that He alone was unchangeable, that He alone could fulfill my im-mense desires.
 
-### Introduction to the Text
+## Introduction to the Text
 
 “During my retreat” (Ms A, 80r): these are the Exercises preached from the 8th to the 15th of October 1891 by Father Alexis Prou, a forty-seven-year-old Franciscan recollect from Caen. This renowned preacher had given over one hundred retreats to men and women religious of all Orders in the West of France.
 
@@ -68,7 +68,7 @@ Prayer for Pranzini (Ms A, 45v-46v) 7“How happy I would be if I were able to p
 
 “He willed also that I write poems and compose little pieces that were considered beautiful” (Ms A, 81v): her first poem, The Divine Dew, is from February the 2nd, 1893, 18 days before the election. Previously, it was Mother Agnes who com-posed poems, hymns and recreations for the community. For these works, Therese could have only one hour from noon to 1.00pm and another from 8.00pm to 9.00pm.
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What does the text say? Understanding the content and primary meaning of Therese’s text.
 2. What does the text say to us today? Grasping the relevance (social, ecclesial, spiritual…) of the text.
@@ -76,7 +76,7 @@ Prayer for Pranzini (Ms A, 45v-46v) 7“How happy I would be if I were able to p
 
 The purpose of doing things in this manner is to allow Therese to speak to us, to question us, to encourage us, and to welcome her to shed light upon and confirm our personal and community journey. The questions proposed are therefore only indicative and can possibly accompany personal meditation and community sharing.
 
-### Questions
+## Questions
 
 1. Therese is very sensitive to human mediations and to those of events. What is the main spiritual fruit of her acceptance of mediations? How is this reflected in our personal, community and apostolic life?
 2. When Therese is asked to exercise her gifts at the service of the community, how is her desire transformed? How do we put our gifts at the service of the communi-ty and others?

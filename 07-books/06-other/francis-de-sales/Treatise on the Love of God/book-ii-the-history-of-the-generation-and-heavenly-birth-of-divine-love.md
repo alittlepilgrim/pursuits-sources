@@ -1,23 +1,21 @@
 ---
-title: Book II. The History of the Generation and Heavenly Birth of Divine Love - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book II. The History of the Generation and Heavenly Birth of Divine Love
+title: Book II. The History of the Generation and Heavenly Birth of Divine Love - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book II. The History of the Generation and Heavenly Birth of Divine Love
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book II. The History of the Generation and Heavenly Birth of Divine Love
 ---
 
 # Book II. the History of the Generation and Heavenly Birth of Divine Love
 
-### Chapter I. That the Divine Perfections Are Only a Single but Infinite Perfection
+## Chapter I. That the Divine Perfections Are Only a Single but Infinite Perfection
 
 When the sun rises red and soon after looks black, or hollow and sunk; or again when it sets wan, pale, and dull, we say it is a sign of rain.
 
@@ -39,7 +37,7 @@ We shall say much, says the Scripture, and yet shall want words: but the sum of 
 
 [55] Ecclus. xliii. 29 [56] 1 John iii. 20.
 
-### Chapter II. That in God There Is but One Only Act, Which Is His Own Divinity
+## Chapter II. That in God There Is but One Only Act, Which Is His Own Divinity
 
 There is in us great diversity of faculties and habits, which produce also a great variety of actions, and those actions an incomparable multitude of works. Thus differ the faculties of hearing, seeing, tasting, touching, moving, feeding, understanding, willing; and the habits of speaking, walking, playing, singing, sewing, leaping, swimming: as also the actions and works which issue from these faculties and habits are greatly different.
 
@@ -63,7 +61,7 @@ To sum up, the sovereign divine unity diversifies all, and his permanent eternit
 
 [60] Gen. i. 14.
 
-### Chapter III. of the Divine Providence in General
+## Chapter III. of the Divine Providence in General
 
 God, then, Theotimus, needs not many acts, because one only divine act of his all-powerful will, by reason of its infinite perfection, is sufficient to produce all the variety of his works. But we mortals must treat them after the method and manner of understanding which our small minds can attain to; according to which, to speak of divine providence, let us consider, I pray you, the reign of the great Solomon, as a perfect model of the art of good government.
 
@@ -85,7 +83,7 @@ You see, Theotimus, the world would have termed this a chance, or fortuitous eve
 
 [63] Gen. xlv. 8; l. 20.
 
-### Chapter IV. of the Supernatural Providence Which God Uses Towards Reasonable
+## Chapter IV. of the Supernatural Providence Which God Uses Towards Reasonable
 
 CREATURES All God's works are ordained to the salvation of men and angels; and the order of his providence is this, as far as, by attention to the Holy Scriptures and the doctrine of the Fathers, we are able to discover and our weakness permits us to describe it.
 
@@ -105,7 +103,7 @@ But in order that the sweetness of his mercy might be adorned with the beauty of
 
 [64] Ps. lxxvii. 39.
 
-### Chapter V. That Heavenly Providence Has Provided Men with a Most Abundant
+## Chapter V. That Heavenly Providence Has Provided Men with a Most Abundant
 
 REDEMPTION.
 
@@ -133,7 +131,7 @@ For though the divine Providence has left in man deep marks of his severity, yea
 
 [72] Ps. cxliv. 9.
 
-### Chapter VI. of Certain Special Favours Exercised by the Divine Providence in the
+## Chapter VI. of Certain Special Favours Exercised by the Divine Providence in the
 
 REDEMPTION OF MAN.
 
@@ -153,7 +151,7 @@ There are yet other souls whom God determined for a time to leave exposed to the
 
 [74] Ps. xv. 11.
 
-### Chapter VII. How Admirable the Divine Providence Is in the Diversity of Graces Given
+## Chapter VII. How Admirable the Divine Providence Is in the Diversity of Graces Given
 
 TO MEN.
 
@@ -177,7 +175,7 @@ But we must be very careful never to make inquiry why the supreme wisdom bestows
 
 [77] 1 Cor. vii. 7.
 
-### Chapter VIII. How Much God Desires We Should Love Him
+## Chapter VIII. How Much God Desires We Should Love Him
 
 Although our Saviour's redemption is applied to us in as many different manners as there are souls, yet still, love is the universal means of salvation which mingles with everything, and without which nothing is profitable, as we shall show elsewhere. The Cherubim were placed at the gate of the earthly paradise with their flaming sword, to teach us that no one shall enter into the heavenly paradise who is not pierced through with the sword of love. For this cause, Theotimus, the sweet Jesus who bought us with his blood, is infinitely desirous that we should love him that we may eternally be saved, and desires we may be saved that we may love him eternally, his love tending to our salvation and our salvation to his love. Ah! said he: I am come to cast fire on the earth; and what will I but that it be kindled? [78] But to set out more to the life the ardour of this desire, he in admirable terms requires this love from us. Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole mind. This is the greatest and the first commandment. [79] Good God! Theotimus, how amorous the divine heart is of our love. Would it not have sufficed to publish a permission giving us leave to love him, as Laban permitted Jacob to love his fair Rachel, and to gain her by services? Ah no! he makes a stronger declaration of his passionate love of us, and commands us to love him with all our power, lest the consideration of his majesty and our misery, which make so great a distance and inequality between us, or some other pretext, might divert us from his love. In this, Theotimus, he well shows that he did not leave in us for nothing the natural inclination to love him, for to the end it may not be idle, he urges us by this general commandment to employ it, and that this commandment may be effected, he leaves no living man without furnishing him abundantly with all means requisite thereto. The visible sun touches everything with its vivifying heat, and as the universal lover of inferior things, imparts to them the vigour requisite to produce, and even so the divine goodness animates all souls and encourages all hearts to its love, none being excluded from its heat. Eternal wisdom, says Solomon, preacheth abroad, she uttereth her voice in the streets: At the head of multitudes she crieth out, in the entrance of the gates of the city she uttereth her words, saying: O children, how long will you love childishness, and fools covet those things which are hurtful to themselves, and the unwise hate knowledge? Turn ye at my reproof: behold I will utter my spirit to you, and will show you my words. [80]
 
@@ -211,7 +209,7 @@ Now what does all this mean, Theotimus, except that God does not only give us a 
 
 [87] 1 Tim. ii. 4.
 
-### Chapter IX. How the Eternal Love of God Prevents Our Hearts with His Inspirations
+## Chapter IX. How the Eternal Love of God Prevents Our Hearts with His Inspirations
 
 IN ORDER THAT WE MAY LOVE HIM.
 
@@ -241,7 +239,7 @@ Now this first stirring or motion which God causes in our hearts to incite them 
 
 [92] 2 Cor. iii. 5.
 
-### Chapter X. How We Oftentimes Repulse the Inspiration and Refuse to Love God
+## Chapter X. How We Oftentimes Repulse the Inspiration and Refuse to Love God
 
 Wo to thee, Corozain, wo to thee, Bethsaida: for if in Tyre and Sidon had been wrought the miracles that have been wrought in you, they had long ago done penance in sackcloth and ashes. [93] Such is the word of Our Saviour. Hark I pray you, Theotimus, how the inhabitants of Corozain and Bethsaida, instructed in the true religion, and having received favours so great that they would effectually have converted the pagans themselves, remained nevertheless obstinate, and never willed to use them, rejecting this holy light by an incomparable rebellion. Certainly at the day of judgment the Ninivites and the Queen of Saba will rise up against the Jews, and will convict them as worthy of damnation: because, as to the Ninivites, though idolators and barbarians, at the voice of Jonas they were converted and did penance; and as to the Queen of Saba, she, though engaged in the affairs of a kingdom, yet having heard the renown of Solomon's wisdom, forsook all, to go and hear him. Yet the Jews, hearing with their ears the heavenly wisdom of the true Solomon, the Saviour of the world; seeing with their eyes his miracles; touching with their hands his virtues and benefits; ceased not for all that to be hardened, and to resist the grace which was proffered them. See then again, Theotimus, how they who had less attractions are brought to penance, and those who had more remain obdurate: those who have less occasion to come, come to the school of wisdom, and those who have more, stay in their folly.
 
@@ -265,7 +263,7 @@ We rob God of his right if we attribute to ourselves the glory of our salvation,
 
 [95] Osee xiii. 9.
 
-### Chapter XI. That It Is No Fault of the Divine Goodness if We Have Not a Most
+## Chapter XI. That It Is No Fault of the Divine Goodness if We Have Not a Most
 
 EXCELLENT LOVE.
 
@@ -293,7 +291,7 @@ The Blessed Mother (S.) Teresa of Jesus, also, in good truth, a quite angelic vi
 
 [97] 1 Tim. i. 15.
 
-### Chapter XII. That Divine Inspirations Leave Us in Full Liberty to Follow or Repulse
+## Chapter XII. That Divine Inspirations Leave Us in Full Liberty to Follow or Repulse
 
 THEM.
 
@@ -319,7 +317,7 @@ To conclude, if any one should say that our free-will does not co-operate in con
 
 [100] John iv. 10.
 
-### Chapter XIII. of the First Sentiments of Love Which Divine Inspirations Cause in the
+## Chapter XIII. of the First Sentiments of Love Which Divine Inspirations Cause in the
 
 SOUL BEFORE SHE HAS FAITH.
 
@@ -339,7 +337,7 @@ Behold, therefore, I pray you, Theotimus, how gently God moves, strengthening by
 
 [101] Cant. i. 3.
 
-### Chapter XIV. of the Sentiment of Divine Love Which Is Had by Faith
+## Chapter XIV. of the Sentiment of Divine Love Which Is Had by Faith
 
 When God gives us faith he enters into our soul and speaks to our spirit, not by manner of discourse, but by way of inspiration, proposing in so sweet a manner unto the understanding that which ought to be believed, that the will receives therefrom a great complacency, so great indeed that it moves the understanding to consent and yield to truth without any doubt or distrust, and here lies the marvel: for God proposes the mysteries of faith to our souls amidst obscurities and darkness, in such sort that we do not see the truths but we only half-see them. [102] It is like what happens sometimes when the face of the earth is covered with mist so that we cannot see the sun, but only see a little more brightness in the direction where he is. Then, as one would say, we see it without seeing it; because on the one hand we see it not so well that we can truly say we see it, yet again we see it not so little that we can say we do not see it; and this is what we call half-seeing. And yet, when this obscure light of faith has entered our spirit, not by force of reasoning or show of argument, but solely by the sweetness of its presence, it makes the understanding believe and obey it with so much authority that the certitude it gives us of the truth surpasses all other certitudes, and keeps the understanding and all its workings in such subjection that they get no hearing in comparison with it.
 
@@ -357,7 +355,7 @@ You have heard, Theotimus, that in general councils there are great disputations
 
 [104] 4 Kings ix. 13.
 
-### Chapter XV. of the Great Sentiment of Love Which We Receive by Holy Hope
+## Chapter XV. of the Great Sentiment of Love Which We Receive by Holy Hope
 
 As when exposed to the rays of the sun at mid-day, we hardly see the brightness before we suddenly feel the heat; so the light of faith has no sooner spread the splendour of its truths in our understanding, but immediately our will feels the holy heat of heavenly love. Faith makes us know by an infallible certitude that God is, that he is infinite in goodness, that he can communicate himself unto us, and not only that he can, but that he will; so that by an ineffable sweetness he has provided us with all things requisite to obtain the happiness of immortal glory. Now we have a natural inclination to the sovereign good, by reason of which our heart is touched with a certain inward anxious desire and continual uneasiness, not being able in any way to quiet itself, or to cease to testify that its perfect satisfaction and solid contentment are wanting to it. But when holy faith has represented to our understanding this lovely object of our natural inclination,--Oh! Theotimus, what joy! what pleasure! how our whole soul is thrilled, and, all amazed at the sight of so excellent a beauty, it cries out with love: Behold, thou art fair, my beloved, behold thou art fair! [105]
 
@@ -371,7 +369,7 @@ We sometimes experience in ourselves a certain joyousness which comes as it were
 
 [105] Cant. i. 14.
 
-### Chapter XVI. How Love Is Practised in Hope
+## Chapter XVI. How Love Is Practised in Hope
 
 Man's understanding then, being property applied to the consideration of that which faith represents to it touching its sovereign good, the will instantly conceives an extreme complacency in this divine object, which, as yet absent, begets an ardent desire of its presence, whence the soul holily cries out: Let him kiss me with the kiss of his mouth.
 
@@ -401,7 +399,7 @@ Aspiration then is a scion of hope, as our co-operation is of grace: and as thos
 
 [110] Cant. v. 8.
 
-### Chapter XVII. That the Love Which Is in Hope Is Very Good, Though Imperfect
+## Chapter XVII. That the Love Which Is in Hope Is Very Good, Though Imperfect
 
 The love which we practise in hope goes indeed to God, Theotimus, but it returns to us; its sight is turned upon the divine goodness, yet with some respect to our own profit; it tends to that supreme perfection, but aiming at our own satisfaction. That is to say, it bears us to God, not because he is sovereignty good in himself, but because he is sovereignty good to us, in which as you see there is something of the our and the us, so that this love is truly love, but love of cupidity and self-interest. Yet I do not say that it does in such sort return to ourselves that it makes us love God only for the love of ourselves; O God! no: for the soul which should only love God for the love of herself, placing the end of the love which she bears to God in her own interest, would, alas! commit an extreme sacrilege. If a wife loved her husband only for the love of his servant, she would love her husband as a servant, and his servant as a husband: and the soul that only loves God for love of herself, loves herself as she ought to love God, and God as she ought to love herself.
 
@@ -415,7 +413,7 @@ But when I say we love God sovereignly, I do not therefore say that we love him 
 
 [111] Cant. ii. 16.
 
-### Chapter XVIII. That Love Is Exercised in Penitence, and First, That There Are Divers
+## Chapter XVIII. That Love Is Exercised in Penitence, and First, That There Are Divers
 
 SORTS OF PENITENCE.
 
@@ -441,7 +439,7 @@ At other times we are provoked to repentance by the beauty of virtue, which brin
 
 [112] Matt. iv. 17.
 
-### Chapter XIX. That Penitence Without Love Is Imperfect
+## Chapter XIX. That Penitence Without Love Is Imperfect
 
 Now all these motives are taught us by faith and the Christian religion, and therefore the repentance which results from them is very laudable though imperfect. Laudable certainly it is, for neither Holy Scripture nor the Church would stir us up by such motives if the penitence thence proceeding were not good, and we see manifestly that it is a most reasonable thing to repent of sin for these considerations, yea, that it is impossible that he who considers them attentively should not repent. Yet still it is an imperfect repentance, because divine love is not as yet found in it. Ah! do you not see, Theotimus, that all these repentances are made for the sake of our own soul, of its felicity, of its interior beauty, its honour, its dignity, and in a word for love of ourselves, although a lawful, just and well-ordered love.
 
@@ -453,7 +451,7 @@ To conclude: the repentance which excludes the love of God is infernal like to t
 
 [113] 1 Cor. xiii. 3.
 
-### Chapter XX. How the Mingling of Love and Sorrow Takes Place in Contrition
+## Chapter XX. How the Mingling of Love and Sorrow Takes Place in Contrition
 
 Nature, as far as I know, never converts fire into water, though some waters turn into fire. Yet God did it once by miracle. For as it is written in the Book of Machabees, [114] when the children of Israel were conducted into Babylon, in the time of Sedecias, the priests, by the counsel of Jeremias, hid the holy fire in a valley, in a dry well, and upon their return, the children of those that had hid it went to seek it, following the direction their fathers had given them, and they found it converted into a thick water, which being drawn by them, and poured upon the sacrifices, as Nehemias commanded, was, when the sunbeams touched it, converted into a great fire.
 
@@ -477,7 +475,7 @@ Now because this loving repentance is ordinarily practised by elevations and rai
 
 [116] John xx. 13.
 
-### Chapter XXI. How Our Saviour's Loving Attractions Assist and Accompany Us to Faith
+## Chapter XXI. How Our Saviour's Loving Attractions Assist and Accompany Us to Faith
 
 AND CHARITY.
 
@@ -497,7 +495,7 @@ In this way, my dear Theotimus, the divine inspiration comes to us, and prevents
 
 [117] Mark ix. 23.
 
-### Chapter XXII. a Short Description of Charity
+## Chapter XXII. a Short Description of Charity
 
 Behold at length, Theotimus, how God, by a progress full of ineffable sweetness, conducts the soul which he makes leave the Egypt of sin, from love to love, as from mansion to mansion, till he has made her enter into the land of promise, I mean into most holy charity, which to say it in one word, is a friendship, and a disinterested love, for by charity we love God for his own sake, by reason of his most sovereignly amiable goodness. But this friendship is a true friendship, being reciprocal, for God has loved eternally all who have loved him, do, or shall love him temporally. It is shown and acknowledged mutually, since God cannot be ignorant of the love we bear him, he himself bestowing it upon us, nor can we be ignorant of his love to us, seeing that he has so published it abroad, and that we acknowledge all the good we have, to be true effects of his benevolence. And in fine we have continual communications with him, who never ceases to speak unto our hearts by inspirations, allurements, and sacred motions; he ceases not to do us good, or to give all sorts of testimonies of his most holy affection, having openly revealed unto us all his secrets, as to his confidential friends. And to crown his holy loving intercourse with us, he has made himself our proper food in the most holy Sacrament of the Eucharist; and as for us, we have freedom to treat with him at all times when we please in holy prayer, having our whole life, movement and being not only with him, but in him and by him.
 

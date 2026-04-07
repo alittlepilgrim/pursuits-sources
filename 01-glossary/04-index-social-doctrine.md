@@ -1,13 +1,14 @@
 ---
-title: Analytical Index from Compendium of Social Doctrine
-created: 2025-11-12
-modified: 2026-03-31
 type: glossary
-publish: true
+title: Analytical Index – Compendium of Social Doctrine
 aliases:
   - Analytical Index from Compendium of Social Doctrine
 tags:
+  - type/term
   - vatican
+created: 2025-11-12
+modified: 2026-04-06
+publish: true
 ---
 
 # Analytical Index from Compendium of Social Doctrine

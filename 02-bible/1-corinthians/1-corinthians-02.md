@@ -1,25 +1,24 @@
 ---
-title: 1 Corinthians, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Corinthians, Chapter 2
+title: 1 Corinthians, Chapter 2
+url: https://bible.usccb.org/bible/1corinthians/2
 aliases:
   - 1 Corinthians, Chapter 2
   - 1-corinthians-02
 tags:
   - bible/1-corinthians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1corinthians/2
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Corinthians, Chapter 2
 ---
 
 # 1 Corinthians, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 When I came to you, brothers, proclaiming the mystery of God, I did not come with sublimity of words or of wisdom. ^1-corinthians-02-1
 

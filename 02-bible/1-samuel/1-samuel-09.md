@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 9
+title: 1 Samuel, Chapter 9
+url: https://bible.usccb.org/bible/1samuel/9
 aliases:
   - 1 Samuel, Chapter 9
   - 1-samuel-09
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/9
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 9
 ---
 
 # 1 Samuel, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Saul.**
 
@@ -57,11 +56,11 @@ url: https://bible.usccb.org/bible/1samuel/9
 
 14 So they went up to the city. As they entered it—there was Samuel coming toward them on his way to the high place. ^1-samuel-09-14
 
-15 The day before Saul’s arrival, the L ORD had revealed to Samuel: ^1-samuel-09-15
+15 The day before Saul’s arrival, the LORD had revealed to Samuel: ^1-samuel-09-15
 
 16 At this time tomorrow I will send you a man from the land of Benjamin whom you are to anoint as ruler of my people Israel. He shall save my people from the hand of the Philistines. I have looked upon my people; their cry has come to me. ^1-samuel-09-16
 
-17 When Samuel caught sight of Saul, the L ORD assured him: This is the man I told you about; he shall govern my people. ^1-samuel-09-17
+17 When Samuel caught sight of Saul, the LORD assured him: This is the man I told you about; he shall govern my people. ^1-samuel-09-17
 
 18 Saul met Samuel in the gateway and said, “Please tell me where the seer lives.” ^1-samuel-09-18
 

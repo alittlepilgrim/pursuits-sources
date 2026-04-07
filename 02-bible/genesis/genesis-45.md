@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 45
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 45
+title: Genesis, Chapter 45
+url: https://bible.usccb.org/bible/genesis/45
 aliases:
   - 20250508-020356
   - genesis-45
   - Genesis, Chapter 45
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 45
 bible_book: genesis
 bible_chapter: "45"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/45
 ---
 
 [[genesis-44|[← Previous Note]]] · [[genesis-46|[Next Note →]]]
@@ -103,6 +102,6 @@ d. (45:18) ([[acts-of-the-apostles-07|Acts 7]]:14]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]

@@ -1,41 +1,40 @@
 ---
-title: 2 Chronicles, Chapter 28
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 28
+title: 2 Chronicles, Chapter 28
+url: https://bible.usccb.org/bible/2chronicles/28
 aliases:
   - 2 Chronicles, Chapter 28
   - 2-chronicles-28
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/28
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 28
 ---
 
 # 2 Chronicles, Chapter 28
 
-### Chapter 28
+## Chapter 28
 
 **Ahaz’s Misdeeds.**
 
-1 Ahaz was twenty years old when he became king, and he reigned sixteen years in Jerusalem. He did not do what was right in the sight of the L ORD as David his father had done. ^2-chronicles-28-1
+1 Ahaz was twenty years old when he became king, and he reigned sixteen years in Jerusalem. He did not do what was right in the sight of the LORD as David his father had done. ^2-chronicles-28-1
 
 2 He walked in the ways of the kings of Israel and even made molten idols for the Baals. ^2-chronicles-28-2
 
-3 Moreover, he offered sacrifice in the Valley of Ben-hinnom, and immolated his children by fire in accordance with the abominable practices of the nations whom the L ORD had dispossessed before the Israelites. ^2-chronicles-28-3
+3 Moreover, he offered sacrifice in the Valley of Ben-hinnom, and immolated his children by fire in accordance with the abominable practices of the nations whom the LORD had dispossessed before the Israelites. ^2-chronicles-28-3
 
 4 He sacrificed and burned incense on the high places, on hills, and under every green tree. ^2-chronicles-28-4
 
 **Ahaz Punished.**
 
-5 Therefore the L ORD, his God, delivered him into the power of the king of Aram. The Arameans defeated him and carried away captive a large number of his people, whom they brought to Damascus. He was also delivered into the power of the king of Israel, who defeated him with great slaughter. ^2-chronicles-28-5
+5 Therefore the LORD, his God, delivered him into the power of the king of Aram. The Arameans defeated him and carried away captive a large number of his people, whom they brought to Damascus. He was also delivered into the power of the king of Israel, who defeated him with great slaughter. ^2-chronicles-28-5
 
-6 For Pekah, son of Remaliah, killed one hundred and twenty thousand of Judah in a single day, all of them valiant men, because they had abandoned the L ORD, the God of their ancestors. ^2-chronicles-28-6
+6 For Pekah, son of Remaliah, killed one hundred and twenty thousand of Judah in a single day, all of them valiant men, because they had abandoned the LORD, the God of their ancestors. ^2-chronicles-28-6
 
 7 Zichri, an Ephraimite warrior, killed Maaseiah, the king’s son, and Azrikam, the master of the palace, and also Elkanah, who was second to the king. ^2-chronicles-28-7
 
@@ -43,15 +42,15 @@ url: https://bible.usccb.org/bible/2chronicles/28
 
 **Oded’s Prophecy.**
 
-9 In Samaria there was a prophet of the L ORD by the name of Oded. He went out to meet the army returning to Samaria and said to them: “It was because the L ORD, the God of your ancestors, was angry with Judah that he delivered them into your power. You, however, have killed them with a fury that has reached up to heaven. ^2-chronicles-28-9
+9 In Samaria there was a prophet of the LORD by the name of Oded. He went out to meet the army returning to Samaria and said to them: “It was because the LORD, the God of your ancestors, was angry with Judah that he delivered them into your power. You, however, have killed them with a fury that has reached up to heaven. ^2-chronicles-28-9
 
-10 And now you are planning to subjugate the people of Judah and Jerusalem as your slaves and bondwomen. Are not you yourselves, therefore, guilty of a crime against the L ORD, your God? ^2-chronicles-28-10
+10 And now you are planning to subjugate the people of Judah and Jerusalem as your slaves and bondwomen. Are not you yourselves, therefore, guilty of a crime against the LORD, your God? ^2-chronicles-28-10
 
-11 Now listen to me: send back the captives you have carried off from among your kin, for the burning anger of the L ORD is upon you.” ^2-chronicles-28-11
+11 Now listen to me: send back the captives you have carried off from among your kin, for the burning anger of the LORD is upon you.” ^2-chronicles-28-11
 
 12 At this, some of the Ephraimite leaders, Azariah, son of Johanan, Berechiah, son of Meshillemoth, Jehizkiah, son of Shallum, and Amasa, son of Hadlai, themselves stood up in opposition to those who had returned from the war. ^2-chronicles-28-12
 
-13 They said to them: “Do not bring the captives here, for what you are planning will make us guilty before the L ORD and increase our sins and our guilt. Great is our guilt, and there is burning anger upon Israel.” ^2-chronicles-28-13
+13 They said to them: “Do not bring the captives here, for what you are planning will make us guilty before the LORD and increase our sins and our guilt. Great is our guilt, and there is burning anger upon Israel.” ^2-chronicles-28-13
 
 14 Therefore the soldiers left their captives and the plunder before the princes and the whole assembly. ^2-chronicles-28-14
 
@@ -65,19 +64,19 @@ url: https://bible.usccb.org/bible/2chronicles/28
 
 18 The Philistines too had raided the cities of the Shephelah and the Negeb of Judah; they captured Beth-shemesh, Aijalon, Gederoth, Soco and its dependencies, Timnah and its dependencies, and Gimzo and its dependencies, and settled there. ^2-chronicles-28-18
 
-19 For the L ORD had brought Judah low because of Ahaz, king of Israel, who let Judah go its own way and committed treachery against the L ORD. ^2-chronicles-28-19
+19 For the LORD had brought Judah low because of Ahaz, king of Israel, who let Judah go its own way and committed treachery against the LORD. ^2-chronicles-28-19
 
 20 Tilgath-pilneser, king of Assyria, did indeed come to him, but to oppress him rather than to lend strength. ^2-chronicles-28-20
 
-21 Though Ahaz plundered the L ORD’s house and the houses of the king and the princes to pay off the king of Assyria, it was no help to him. ^2-chronicles-28-21
+21 Though Ahaz plundered the LORD’s house and the houses of the king and the princes to pay off the king of Assyria, it was no help to him. ^2-chronicles-28-21
 
-22 While he was already in distress, the same King Ahaz increased his treachery to the L ORD. ^2-chronicles-28-22
+22 While he was already in distress, the same King Ahaz increased his treachery to the LORD. ^2-chronicles-28-22
 
 23 He sacrificed to the gods of Damascus who had defeated him, saying, “Since it was the gods of the kings of Aram who helped them, I will sacrifice to them that they may help me also.” However, they only furthered his downfall and that of all Israel. ^2-chronicles-28-23
 
-24 Ahaz gathered up the utensils of God’s house and broke them in pieces. He closed the doors of the L ORD’s house and made altars for himself in every corner of Jerusalem. ^2-chronicles-28-24
+24 Ahaz gathered up the utensils of God’s house and broke them in pieces. He closed the doors of the LORD’s house and made altars for himself in every corner of Jerusalem. ^2-chronicles-28-24
 
-25 In every city throughout Judah he set up high places to offer sacrifice to other gods. Thus he provoked the L ORD, the God of his ancestors, to anger. ^2-chronicles-28-25
+25 In every city throughout Judah he set up high places to offer sacrifice to other gods. Thus he provoked the LORD, the God of his ancestors, to anger. ^2-chronicles-28-25
 
 26 The rest of his words and his deeds, first and last, are recorded in the book of the kings of Judah and Israel. ^2-chronicles-28-26
 

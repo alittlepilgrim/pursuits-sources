@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 23
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 23
+title: Matthew, Chapter 23
+url: https://bible.usccb.org/bible/matthew/23
 aliases:
   - matthew-23
   - Matthew, Chapter 23
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/matthew/23
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 23
 ---
 
 # Matthew, Chapter 23
 
-### Chapter 23
+## Chapter 23
 
 **Denunciation of the Scribes and Pharisees.**
 

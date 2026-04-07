@@ -1,33 +1,32 @@
 ---
-title: Numbers, Chapter 13
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 13
+title: Numbers, Chapter 13
+url: https://bible.usccb.org/bible/numbers/13
 aliases:
   - numbers-13
   - Numbers, Chapter 13
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/13
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 13
 ---
 
 # Numbers, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 **The Twelve Scouts.**
 
-1 The L ORD said to Moses: ^numbers-13-1
+1 The LORD said to Moses: ^numbers-13-1
 
 2 Send men to reconnoiter the land of Canaan, which I am giving the Israelites. You shall send one man from each ancestral tribe, every one a leader among them. ^numbers-13-2
 
-3 So Moses sent them from the wilderness of Paran, at the direction of the L ORD. All of them were leaders among the Israelites. ^numbers-13-3
+3 So Moses sent them from the wilderness of Paran, at the direction of the LORD. All of them were leaders among the Israelites. ^numbers-13-3
 
 4 These were their names: ^numbers-13-4
 
@@ -93,7 +92,7 @@ from the tribe of Reuben, Shammua, son of Zaccur;
 
 33 There we saw the Nephilim (the Anakim are from the Nephilim); in our own eyes we seemed like mere grasshoppers, and so we must have seemed to them.” ^numbers-13-33
 
-\* (13:16) Joshua: in Hebrew, “Jehoshua,” which was later modified to “Jeshua,” the Hebrew name for “Jesus.” Hoshea and Joshua are variants of one original name meaning “the L ORD saves.” Cf. ([[matthew-01|Mt 1]]:21].
+\* (13:16) Joshua: in Hebrew, “Jehoshua,” which was later modified to “Jeshua,” the Hebrew name for “Jesus.” Hoshea and Joshua are variants of one original name meaning “the LORD saves.” Cf. ([[matthew-01|Mt 1]]:21].
 
 \* (13:21) The wilderness of Zin: north of Paran and southwest of the Dead Sea. It is quite distinct from “the wilderness of Sin” near the border of Egypt (([[exodus-16|Ex 16]]:1]; [17:1]; [Nm 33:11]). Lebo-hamath: a town near Riblah ([Jer 39:5] – [6]) at the southern border of Hamath, an independent kingdom in southern Syria. David’s conquests extended as far as Hamath ([2 Sm 8:9] – [11]), and Lebo-hamath thus formed the northern border of the ideal extent of Israel’s possessions ([Nm 34:7] – [9]; [Ez 47:15]; [48:1]). This may suggest that this verse was inserted precisely to extend the scope of the reconnaissance; cf. [Dt 1:24].
 

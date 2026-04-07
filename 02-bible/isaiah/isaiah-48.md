@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 48
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 48
+title: Isaiah, Chapter 48
+url: https://bible.usccb.org/bible/isaiah/48
 aliases:
   - isaiah-48
   - Isaiah, Chapter 48
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/48
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 48
 ---
 
 # Isaiah, Chapter 48
 
-### Chapter 48
+## Chapter 48
 
-#### Exhortations to the Exiles
+### Exhortations to the Exiles
 
 1 Hear this, house of Jacob ^isaiah-48-1
 
@@ -29,7 +28,7 @@ called by the name Israel,
 
 sprung from the stock of Judah,
 
-You who swear by the name of the L ORD
+You who swear by the name of the LORD
 
 and invoke the God of Israel
 
@@ -39,7 +38,7 @@ without sincerity, without justice,
 
 and rely on the God of Israel,
 
-whose name is the L ORD of hosts.
+whose name is the LORD of hosts.
 
 3 Things of the past I declared long ago, ^isaiah-48-3
 
@@ -119,7 +118,7 @@ they stand forth at once.
 
 Who among you declared these things?
 
-The one the L ORD loves shall do his will
+The one the LORD loves shall do his will
 
 against Babylon and the offspring of Chaldea.
 
@@ -135,11 +134,11 @@ At the time it happens, I am there:
 
 “Now the Lord G OD has sent me, and his spirit.”
 
-17 Thus says the L ORD, your redeemer, ^isaiah-48-17
+17 Thus says the LORD, your redeemer, ^isaiah-48-17
 
 the Holy One of Israel:
 
-I am the L ORD, your God,
+I am the LORD, your God,
 
 teaching you how to prevail,
 
@@ -165,7 +164,7 @@ With shouts of joy declare this, announce it;
 
 Make it known to the ends of the earth,
 
-Say: “The L ORD has redeemed his servant Jacob.
+Say: “The LORD has redeemed his servant Jacob.
 
 21 They did not thirst ^isaiah-48-21
 
@@ -177,9 +176,9 @@ he cleft the rock, and waters welled forth.”
 
 22 There is no peace for the wicked, ^isaiah-48-22
 
-says the L ORD.
+says the LORD.
 
-\* (48:14) The one the L ORD loves: the reference is no doubt to Cyrus, who does the Lord’s will by overcoming Babylon and releasing Israel from captivity.
+\* (48:14) The one the LORD loves: the reference is no doubt to Cyrus, who does the Lord’s will by overcoming Babylon and releasing Israel from captivity.
 
 \* (48:16) “Now the Lord…spirit”: said by Cyrus; cf. v. [14].
 

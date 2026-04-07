@@ -1,20 +1,20 @@
 ---
-title: 2 Timothy, The Second Letter To Timothy
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Timothy, the Second Letter to Timothy
+title: 2 Timothy, The Second Letter To Timothy
+url: https://bible.usccb.org/bible/2timothy/0
 aliases:
   - 2 Timothy, the Second Letter to Timothy
   - 2 Timothy, The Second Letter To Timothy
   - 2-timothy-00
 tags:
   - bible/2-timothy
-layer: canon
-node-type: book
-testament: new
-url: https://bible.usccb.org/bible/2timothy/0
+  - bible/book
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Timothy, the Second Letter to Timothy
 ---
 
 # 2 Timothy, the Second Letter to Timothy

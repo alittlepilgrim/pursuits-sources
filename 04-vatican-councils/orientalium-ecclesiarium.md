@@ -1,19 +1,18 @@
 ---
-title: Orientalium Ecclesiarium
-created: 2025-11-14
-modified: 2026-04-02
 type: magisterium
-publish: true
-description: Decree on the Catholic Churches of the eastern rite - Orientalium ecclesiarium
+title: Orientalium Ecclesiarium
+author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html
 aliases:
   - orientalium-ecclesiarium
 tags:
   - vatican/decrees
   - vatican/vatican-II
+created: 2025-11-14
+modified: 2026-04-04
+publish: true
+description: Decree on the Catholic Churches of the eastern rite - Orientalium ecclesiarium
 abbreviation: oe
-author: Catholic Church
-internal_note: You can link to any  footnote using ^oe-fn-N with N equal to the printed note number.
-source: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html
 ---
 
  DECREE ON THE CATHOLIC CHURCHES

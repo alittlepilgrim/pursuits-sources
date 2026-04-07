@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 19
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 19
+title: Exodus, Chapter 19
+url: https://bible.usccb.org/bible/exodus/19
 aliases:
   - 20250731-085933
   - exodus-19
   - Exodus, Chapter 19
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/19
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 19
 ---
 
 # Exodus, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **Arrival at Sinai.**
 
@@ -30,7 +29,7 @@ url: https://bible.usccb.org/bible/exodus/19
 
 While Israel was encamped there in front of the mountain,
 
-3 Moses went up to the mountain of God. Then the L ORD called to him from the mountain, saying: This is what you will say to the house of Jacob; tell the Israelites: ^exodus-19-3
+3 Moses went up to the mountain of God. Then the LORD called to him from the mountain, saying: This is what you will say to the house of Jacob; tell the Israelites: ^exodus-19-3
 
 4 You have seen how I treated the Egyptians and how I bore you up on eagles’ wings and brought you to myself. ^exodus-19-4
 
@@ -38,17 +37,17 @@ While Israel was encamped there in front of the mountain,
 
 6 You will be to me a kingdom of priests, a holy nation. That is what you must tell the Israelites. ^exodus-19-6
 
-7 So Moses went and summoned the elders of the people. When he set before them all that the L ORD had ordered him to tell them, ^exodus-19-7
+7 So Moses went and summoned the elders of the people. When he set before them all that the LORD had ordered him to tell them, ^exodus-19-7
 
-8 all the people answered together, “Everything the L ORD has said, we will do.” Then Moses brought back to the L ORD the response of the people. ^exodus-19-8
+8 all the people answered together, “Everything the LORD has said, we will do.” Then Moses brought back to the LORD the response of the people. ^exodus-19-8
 
-9 The L ORD said to Moses: I am coming to you now in a dense cloud, so that when the people hear me speaking with you, they will also remain faithful to you. ^exodus-19-9
+9 The LORD said to Moses: I am coming to you now in a dense cloud, so that when the people hear me speaking with you, they will also remain faithful to you. ^exodus-19-9
 
-When Moses, then, had reported the response of the people to the L ORD,
+When Moses, then, had reported the response of the people to the LORD,
 
-10 the L ORD said to Moses: Go to the people and have them sanctify themselves today and tomorrow. Have them wash their garments ^exodus-19-10
+10 the LORD said to Moses: Go to the people and have them sanctify themselves today and tomorrow. Have them wash their garments ^exodus-19-10
 
-11 and be ready for the third day; for on the third day the L ORD will come down on Mount Sinai in the sight of all the people. ^exodus-19-11
+11 and be ready for the third day; for on the third day the LORD will come down on Mount Sinai in the sight of all the people. ^exodus-19-11
 
 12 Set limits for the people all around, saying: Take care not to go up the mountain, or even to touch its edge. All who touch the mountain must be put to death. ^exodus-19-12
 
@@ -64,19 +63,19 @@ When Moses, then, had reported the response of the people to the L ORD,
 
 17 But Moses led the people out of the camp to meet God, and they stationed themselves at the foot of the mountain. ^exodus-19-17
 
-18 Now Mount Sinai was completely enveloped in smoke, because the L ORD had come down upon it in fire. The smoke rose from it as though from a kiln, and the whole mountain trembled violently. ^exodus-19-18
+18 Now Mount Sinai was completely enveloped in smoke, because the LORD had come down upon it in fire. The smoke rose from it as though from a kiln, and the whole mountain trembled violently. ^exodus-19-18
 
 19 The blast of the shofar grew louder and louder, while Moses was speaking and God was answering him with thunder. ^exodus-19-19
 
-20 When the L ORD came down upon Mount Sinai, to the top of the mountain, the L ORD summoned Moses to the top of the mountain, and Moses went up. ^exodus-19-20
+20 When the LORD came down upon Mount Sinai, to the top of the mountain, the LORD summoned Moses to the top of the mountain, and Moses went up. ^exodus-19-20
 
-21 Then the L ORD told Moses: Go down and warn the people not to break through to the L ORD in order to see him; otherwise many of them will be struck down. ^exodus-19-21
+21 Then the LORD told Moses: Go down and warn the people not to break through to the LORD in order to see him; otherwise many of them will be struck down. ^exodus-19-21
 
-22 For their part, the priests, who approach the L ORD must sanctify themselves; else the L ORD will break out in anger against them. ^exodus-19-22
+22 For their part, the priests, who approach the LORD must sanctify themselves; else the LORD will break out in anger against them. ^exodus-19-22
 
-23 But Moses said to the L ORD, “The people cannot go up to Mount Sinai, for you yourself warned us, saying: Set limits around the mountain to make it sacred.” ^exodus-19-23
+23 But Moses said to the LORD, “The people cannot go up to Mount Sinai, for you yourself warned us, saying: Set limits around the mountain to make it sacred.” ^exodus-19-23
 
-24 So the L ORD said to him: Go down and come up along with Aaron. But do not let the priests and the people break through to come up to the L ORD; else he will break out against them.” ^exodus-19-24
+24 So the LORD said to him: Go down and come up along with Aaron. But do not let the priests and the people break through to come up to the LORD; else he will break out against them.” ^exodus-19-24
 
 25 So Moses went down to the people and spoke to them. ^exodus-19-25
 

@@ -1,15 +1,17 @@
 ---
-title: Initiation, Christian
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: initiation-christian. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Initiation, Christian
+author:
 aliases:
   - initiation-christian
   - Initiation, Christian
 tags:
   - term/initiation-christian
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: initiation-christian. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Initiation, Christian

@@ -1,20 +1,20 @@
 ---
-title: Joel, the Book of Joel
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joel, the Book of Joel
+title: Joel, the Book of Joel
+url: https://bible.usccb.org/bible/joel/0
 aliases:
   - joel-00
   - Joel, the Book of Joel
   - Joel, The Book of Joel
 tags:
+  - bible/book
   - bible/joel
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/joel/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Joel, the Book of Joel
 ---
 
 # Joel, the Book of Joel

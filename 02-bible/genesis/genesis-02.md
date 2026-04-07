@@ -1,23 +1,22 @@
 ---
-title: Genesis, Chapter 2
-created: 2025-05-08
-modified: 2026-04-02
 type: bible
-publish: true
-description: Genesis, Chapter 2
+title: Genesis, Chapter 2
+url: https://bible.usccb.org/bible/genesis/2
 aliases:
   - genesis-02
   - Genesis, Chapter 2
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 2
 bible_book: genesis
 bible_chapter: "02"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/2
 ---
 
 [[genesis-01|[← Previous Note]]] · [[genesis-03|[Next Note →]]]
@@ -36,15 +35,15 @@ url: https://bible.usccb.org/bible/genesis/2
 
 **The Garden of Eden.**
 
-4 This is the story of the heavens and the earth at their creation. When the L ORD God made the earth and the heavens— ^genesis-02-4
+4 This is the story of the heavens and the earth at their creation. When the LORD God made the earth and the heavens— ^genesis-02-4
 
-5 there was no field shrub on earth and no grass of the field had sprouted, for the L ORD God had sent no rain upon the earth and there was no man to till the ground, ^genesis-02-5
+5 there was no field shrub on earth and no grass of the field had sprouted, for the LORD God had sent no rain upon the earth and there was no man to till the ground, ^genesis-02-5
 
 6 but a stream was welling up out of the earth and watering all the surface of the ground— ^genesis-02-6
 
-7 then the L ORD God formed the man out of the dust of the ground and blew into his nostrils the breath of life, and the man became a living being. ^genesis-02-7
+7 then the LORD God formed the man out of the dust of the ground and blew into his nostrils the breath of life, and the man became a living being. ^genesis-02-7
 
-8 The L ORD God planted a garden in Eden, in the east, and placed there the man whom he had formed. ^genesis-02-8
+8 The LORD God planted a garden in Eden, in the east, and placed there the man whom he had formed. ^genesis-02-8
 
 9 Out of the ground the LORD God made grow every tree that was delightful to look at and good for food, with the tree of life in the middle of the garden and the tree of the knowledge of good and evil[^1]. ^genesis-02-9
 
@@ -58,21 +57,21 @@ url: https://bible.usccb.org/bible/genesis/2
 
 14 The name of the third river is the Tigris; it is the one that flows east of Asshur. The fourth river is the Euphrates. ^genesis-02-14
 
-15 The L ORD God then took the man and settled him in the garden of Eden, to cultivate and care for it. ^genesis-02-15
+15 The LORD God then took the man and settled him in the garden of Eden, to cultivate and care for it. ^genesis-02-15
 
-16 The L ORD God gave the man this order: You are free to eat from any of the trees of the garden ^genesis-02-16
+16 The LORD God gave the man this order: You are free to eat from any of the trees of the garden ^genesis-02-16
 
 17 except the tree of knowledge of good and evil. From that tree you shall not eat; when you eat from it you shall die. ^genesis-02-17
 
-18 The L ORD God said: It is not good for the man to be alone. I will make a helper suited to him. ^genesis-02-18
+18 The LORD God said: It is not good for the man to be alone. I will make a helper suited to him. ^genesis-02-18
 
-19 So the L ORD God formed out of the ground all the wild animals and all the birds of the air, and he brought them to the man to see what he would call them; whatever the man called each living creature was then its name. ^genesis-02-19
+19 So the LORD God formed out of the ground all the wild animals and all the birds of the air, and he brought them to the man to see what he would call them; whatever the man called each living creature was then its name. ^genesis-02-19
 
 20 The man gave names to all the tame animals, all the birds of the air, and all the wild animals; but none proved to be a helper suited to the man. ^genesis-02-20
 
-21 So the L ORD God cast a deep sleep on the man, and while he was asleep, he took out one of his ribs and closed up its place with flesh. ^genesis-02-21
+21 So the LORD God cast a deep sleep on the man, and while he was asleep, he took out one of his ribs and closed up its place with flesh. ^genesis-02-21
 
-22 The L ORD God then built the rib that he had taken from the man into a woman. When he brought her to the man, ^genesis-02-22
+22 The LORD God then built the rib that he had taken from the man into a woman. When he brought her to the man, ^genesis-02-22
 
 23 the man said: ^genesis-02-23
 
@@ -92,7 +91,7 @@ for out of man this one has been taken.”
 
 \* (2:4) This is the story: the distinctive Priestly formula introduces older traditions, belonging to the tradition called Yahwist, and gives them a new setting. In the first part of Genesis, the formula “this is the story” (or a similar phrase) occurs five times ([2:4]; [5:1]; [6:9]; [10:1]; [11:10]), which corresponds to the five occurrences of the formula in the second part of the book ([11:27]; [25:12], [19]; [36:1] (9); [37:2]). Some interpret the formula here as retrospective (“Such is the story”), referring back to chap. [1], but all its other occurrences introduce rather than summarize. It is introductory here; the Priestly source would hardly use the formula to introduce its own material in chap. [1].
 
-The cosmogony that begins in v. [4] is concerned with the nature of human beings, narrating the story of the essential institutions and limits of the human race through their first ancestors. This cosmogony, like [1:1] – [3] (see note there), uses the “when…then” construction common in ancient cosmogonies. The account is generally attributed to the Yahwist, who prefers the divine name “Yhwh” (here rendered L ORD) for God. God in this story is called “the L ORD God” (except in [3:1] – [5]); “L ORD” is to be expected in a Yahwist account but the additional word “God” is puzzling.
+The cosmogony that begins in v. [4] is concerned with the nature of human beings, narrating the story of the essential institutions and limits of the human race through their first ancestors. This cosmogony, like [1:1] – [3] (see note there), uses the “when…then” construction common in ancient cosmogonies. The account is generally attributed to the Yahwist, who prefers the divine name “Yhwh” (here rendered LORD) for God. God in this story is called “the LORD God” (except in [3:1] – [5]); “LORD” is to be expected in a Yahwist account but the additional word “God” is puzzling.
 
 \* (2:5) Man: the Hebrew word *’adam* is a generic term meaning “human being.” In chaps. [2] – [3], however, the archetypal human being is understood to be male (Adam), so the word *’adam* is translated “man” here.
 

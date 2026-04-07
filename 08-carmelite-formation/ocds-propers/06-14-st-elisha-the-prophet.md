@@ -1,9 +1,7 @@
 ---
-title: June 14, Saint Elisha
-created: 2024-07-22
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: June 14, Saint Elisha
+author: OCD General Curia
 aliases:
   - 06-14-st-elisha-the-prophet
   - 20240722-231317
@@ -11,8 +9,11 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 06-14
+created: 2024-07-22
+modified: 2026-04-06
+publish: false
 ---
 
 # June 14, Saint Elisha

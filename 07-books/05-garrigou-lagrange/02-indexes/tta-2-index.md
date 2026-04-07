@@ -1,20 +1,20 @@
 ---
-title: The Three Ages of the Interior Life Volume II Index
-created: 2026-03-24
-modified: 2026-04-02
 type: book
-publish: true
-aliases:
-  - The Three Ages of the Interior Life Index Volume II
-  - The Three Ages of the Interior Life Volume II Index
+title: Volume II Index – The Three Ages of the Interior Life
 author: Reginald Garrigou-Lagrange
-book_author: Rev. Reginald Garrigou-Lagrange, O.P.
-book_volume: "2"
+aliases:
+  - Volume II Index – The Three Ages of the Interior Life
+tags:
+  - author/garrigou-lagrange
+  - type/book
+created: 2026-03-24
+modified: 2026-04-04
+publish: true
 ---
 
 [[tta-vol-2-garrigou-lagrange-index.pdf|PDF]]
 
-# Volume II Index
+# Volume II Index – The Three Ages of the Interior Life
 
 ## Abandonment to Will of God, [[tta068|195]]
 
@@ -224,7 +224,7 @@ see also Vol. I, chap. Three*
 
 Conclusion in Regard To, [[tta080|311]]
 
-confused with initial infused contemplation, [[tta080|326]] note  57;
+confused with initial infused contemplation, [[tta080|326]] note 57;
 
 definition of, [[tta080|309]];
 
@@ -574,7 +574,7 @@ fortitude, [[tta071|228]]: and virtue of fortitude, [[tta097|474]]
 
 influence in proficients, [[tta053|47]]
 
-infused contemplation linked with,  [[tta033|313]]
+infused contemplation linked with, [[tta033|313]]
 
 knowledge, [[tta071|227]]
 
@@ -798,7 +798,7 @@ spiritual childhood, a form of perfect, [[tta092|433]]-[[tta092|439]] supernatur
 
 ## Light, Purifying Infused, [[tta086|375]]-[[tta086|378]]
 
-## Locutions, Purpose of Spiritual, [[tta109|589]] Note 25 * Typo on Original Scan - This Is the Best Guess of Where This Index Goes.
+## Locutions, Purpose of Spiritual, [[tta109|589]] Note 25 * Typo on Original Scan - This Is the Best Guess of Where This Index Goes
 
 see Words, supernatural
 
@@ -1134,7 +1134,7 @@ description of, [[tta085|367]]-[[tta085|374]]
 
 distinguished from neurasthenia, [[tta085|367]] note 1
 
-entrance into unitive way, [[tta083|353]] faith in mystery of the cross in, [[tta088|394]] firm hope and constant prayer in, [[tta088|395]] ff  **A U A** generous acceptance and abandonment in, [[tta088|392]]
+entrance into unitive way, [[tta083|353]] faith in mystery of the cross in, [[tta088|394]] firm hope and constant prayer in, [[tta088|395]] ff **A U A** generous acceptance and abandonment in, [[tta088|392]]
 
 heroic acts and degree of
 
@@ -1478,7 +1478,7 @@ prelude of heaven, [[tta103|547]]
 
 and purgatory, [[tta103|539]]
 
-supreme development of life of grace,  [[tta103|527]], . [[tta103|536]],  [[tta103||539]],
+supreme development of life of grace, [[tta103|527]], . [[tta103|536]], [[tta103||539]],
 
 Tauler's Description Of, [[tta103|539]] ff.
 

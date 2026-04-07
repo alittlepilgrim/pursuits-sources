@@ -1,25 +1,24 @@
 ---
-title: Tobit, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Tobit, Chapter 4
+title: Tobit, Chapter 4
+url: https://bible.usccb.org/bible/tobit/4
 aliases:
   - tobit-04
   - Tobit, Chapter 4
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/tobit
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/tobit/4
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Tobit, Chapter 4
 ---
 
 # Tobit, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **A Father’s Instruction.**
 

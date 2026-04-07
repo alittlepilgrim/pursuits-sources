@@ -1,39 +1,38 @@
 ---
-title: 2 Chronicles, Chapter 35
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Chronicles, Chapter 35
+title: 2 Chronicles, Chapter 35
+url: https://bible.usccb.org/bible/2chronicles/35
 aliases:
   - 2 Chronicles, Chapter 35
   - 2-chronicles-35
 tags:
   - bible/2-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2chronicles/35
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Chronicles, Chapter 35
 ---
 
 # 2 Chronicles, Chapter 35
 
-### Chapter 35
+## Chapter 35
 
 **The Passover.**
 
-1 Josiah celebrated in Jerusalem a Passover to honor the L ORD; the Passover sacrifice was slaughtered on the fourteenth day of the first month. ^2-chronicles-35-1
+1 Josiah celebrated in Jerusalem a Passover to honor the LORD; the Passover sacrifice was slaughtered on the fourteenth day of the first month. ^2-chronicles-35-1
 
-2 He reappointed the priests to their duties and confirmed them in the service of the L ORD’s house. ^2-chronicles-35-2
+2 He reappointed the priests to their duties and confirmed them in the service of the LORD’s house. ^2-chronicles-35-2
 
-3 He said to the Levites who were to instruct all Israel, and who were consecrated to the L ORD: “Put the holy ark in the house built by Solomon, son of David, king of Israel. It shall no longer be a burden on your shoulders. Serve now the L ORD, your God, and his people Israel. ^2-chronicles-35-3
+3 He said to the Levites who were to instruct all Israel, and who were consecrated to the LORD: “Put the holy ark in the house built by Solomon, son of David, king of Israel. It shall no longer be a burden on your shoulders. Serve now the LORD, your God, and his people Israel. ^2-chronicles-35-3
 
 4 Prepare yourselves by your ancestral houses and your divisions according to the prescriptions of David, king of Israel, and the prescriptions of his son Solomon. ^2-chronicles-35-4
 
 5 Stand in the sanctuary according to the branches of the ancestral houses of your kin, the common people, so that the distribution of the Levites and the families may be the same. ^2-chronicles-35-5
 
-6 Slaughter the Passover sacrifice, sanctify yourselves, and be at the disposition of your kin, that all may be done according to the word of the L ORD given through Moses.” ^2-chronicles-35-6
+6 Slaughter the Passover sacrifice, sanctify yourselves, and be at the disposition of your kin, that all may be done according to the word of the LORD given through Moses.” ^2-chronicles-35-6
 
 7 Josiah contributed to the common people a flock of lambs and young goats, thirty thousand in number, each to serve as a Passover victim for all who were present, and also three thousand oxen; these were from the king’s property. ^2-chronicles-35-7
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/2chronicles/35
 
 11 The Passover sacrifice was slaughtered, whereupon the priests splashed some of the blood and the Levites proceeded with the skinning. ^2-chronicles-35-11
 
-12 They separated out what was destined for the burnt offering and gave it to various groups of the ancestral houses of the common people to offer to the L ORD, as is written in the book of Moses. They did the same with the oxen. ^2-chronicles-35-12
+12 They separated out what was destined for the burnt offering and gave it to various groups of the ancestral houses of the common people to offer to the LORD, as is written in the book of Moses. They did the same with the oxen. ^2-chronicles-35-12
 
 13 They cooked the Passover on the fire as prescribed, and also cooked the sacred portions in pots, caldrons, and pans, then brought them quickly to all the common people. ^2-chronicles-35-13
 
@@ -53,7 +52,7 @@ url: https://bible.usccb.org/bible/2chronicles/35
 
 15 The singers, the sons of Asaph, were at their posts as commanded by David and by Asaph, Heman, and Jeduthun, the king’s seer. The gatekeepers were at every gate; there was no need for them to leave their stations, for their fellow Levites prepared for them. ^2-chronicles-35-15
 
-16 Thus the entire service of the L ORD was arranged that day so that the Passover could be celebrated and the burnt offerings sacrificed on the altar of the L ORD, as King Josiah had commanded. ^2-chronicles-35-16
+16 Thus the entire service of the LORD was arranged that day so that the Passover could be celebrated and the burnt offerings sacrificed on the altar of the LORD, as King Josiah had commanded. ^2-chronicles-35-16
 
 17 The Israelites who were present on that occasion kept the Passover and the feast of the Unleavened Bread for seven days. ^2-chronicles-35-17
 
@@ -75,7 +74,7 @@ url: https://bible.usccb.org/bible/2chronicles/35
 
 25 Jeremiah also composed a lamentation for Josiah, which is recited to this day by all the male and female singers in their lamentations for Josiah. These have been made an ordinance for Israel, and can be found written in the Lamentations. ^2-chronicles-35-25
 
-26 The rest of the acts of Josiah, his good deeds in accord with what is written in the law of the L ORD, ^2-chronicles-35-26
+26 The rest of the acts of Josiah, his good deeds in accord with what is written in the law of the LORD, ^2-chronicles-35-26
 
 27 and his words, first and last, are recorded in the book of the kings of Israel and Judah. ^2-chronicles-35-27
 

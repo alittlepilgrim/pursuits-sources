@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2024 - Text 1 My Vocation Is Love (Ms. B, 2v-3v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2024 - Text 1 My Vocation Is Love (Ms. B, 2v-3v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2024 - Text 1 My Vocation Is Love (Ms. B, 2v-3v)
   - theresian-anniversaries-2024-text-01
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2024 - Text 1 My Vocation Is Love (Ms. B, 2v-3v)
@@ -26,7 +26,7 @@ It would be helpful to have made individual readings and reflections on Therese�
 
 Preliminary remark: in order to facilitate the reading of the proposed text, we invite you to first read the letter from her sister Marie of the Sacred Heart (LC 169), and the beginning of Therese’s reply (LT 196). The dialogue proposed concerns folios 2v-3v.
 
-### My Vocation Is Love (Ms. B, 2v-3v)
+## My Vocation Is Love (Ms. B, 2v-3v)
 
 From Sister Marie of the Sacred Heart to Therese (LC 169)
 
@@ -106,7 +106,7 @@ O luminous Beacon of love, I know how to reach You, I have found the secret of p
 
 I am only a child, powerless and weak, and yet it is my weakness that gives me the boldness of offering myself as VIC-TIM of Your Love, O Jesus! In times past, victims, pure and spotless, were the only ones accepted by the Strong and Powerful God. To satisfy Divine Justice, perfect victims were necessary, but the law of Love has succeeded to the law of fear, and Love has chosen me as a holocaust, me, a weak and imperfect creatrue. Is not this choice worthy of Love? Yes, in order that Love be fully satisfied, it is necessary that It lower Itself, and that It lower Itself to nothingness and transform this nothingness into fire.
 
-### Introduction to the Text
+## Introduction to the Text
 
 As we start again this year, the texts are admittedly a bit long, because they include the preliminary reading of the two letters that we are suggesting as an introduction, to provide a basis for understanding the meaning of the selected passage. (LC 169 and LT 196).
 
@@ -128,7 +128,7 @@ Her vocation as a Carmelite ‘was not enough for her’, she needed a response 
 
 1 The battalion of Papal Zouaves, created on 1st January 1861, was modelled on the Zouave troops of the French Army whose exotic uniform was very popular in the mid-19th century, and became a regiment on 1st January 1867; it was constituted of volunteers, mainly French, Belgian and Dutch, coing to defend the Papal State, whose existence was threatened by Italian unification.
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -138,7 +138,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. What is the essential question that Therese puts to herself when she is confronted with the trial of her faith? Is this a question which dwells in us? When does it return during the course of our lives?
 2. What is my essential vocation? When and how does it express itself most insistently? What concrete place does the Church have in our Carmelite vocation?

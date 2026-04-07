@@ -1,9 +1,7 @@
 ---
-title: July 27, Saint Titus Brandsma
-created: 2025-07-28
-modified: 2026-04-02
 type: ocds-proper
-publish: false
+title: July 27, Saint Titus Brandsma
+author: OCD General Curia
 aliases:
   - 07-27-blessed-titus-brandsma
   - 20250728-180315
@@ -11,8 +9,11 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-27
+created: 2025-07-28
+modified: 2026-04-06
+publish: false
 ---
 
 # July 27, Saint Titus Brandsma
@@ -91,6 +92,6 @@ God for ever and ever.
 
 ---
 
-Catholic Church  _of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites_ (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church [1993, _Proper of the Liturgy of the Hours_](https://worldcat.org/title/41304501) _of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites_ (Rev. and augm.), Institutum Carmelitanum, Rome.
 
-
+[Carmelite Quotes](https://carmelitequotes.blog)

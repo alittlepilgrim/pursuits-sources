@@ -1,25 +1,24 @@
 ---
-title: 1 Chronicles, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Chronicles, Chapter 3
+title: 1 Chronicles, Chapter 3
+url: https://bible.usccb.org/bible/1chronicles/3
 aliases:
   - 1 Chronicles, Chapter 3
   - 1-chronicles-03
 tags:
   - bible/1-chronicles
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1chronicles/3
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Chronicles, Chapter 3
 ---
 
 # 1 Chronicles, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
 1 These were the sons of David born to him in Hebron: the firstborn, Amnon, by Ahinoam of Jezreel; the second, Daniel, by Abigail of Carmel; ^1-chronicles-03-1
 

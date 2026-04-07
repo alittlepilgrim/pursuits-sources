@@ -1,29 +1,28 @@
 ---
-title: Joshua, Chapter 1
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 1
+title: Joshua, Chapter 1
+url: https://bible.usccb.org/bible/joshua/1
 aliases:
   - joshua-01
   - Joshua, Chapter 1
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/joshua/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 1
 ---
 
 # Joshua, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **Divine Promise of Assistance.**
 
-1 After Moses, the servant of the L ORD, had died, the L ORD said to Moses’ aide Joshua, son of Nun: ^joshua-01-1
+1 After Moses, the servant of the LORD, had died, the LORD said to Moses’ aide Joshua, son of Nun: ^joshua-01-1
 
 2 Moses my servant is dead. So now, you and the whole people with you, prepare to cross the Jordan to the land that I will give the Israelites. ^joshua-01-2
 
@@ -39,25 +38,25 @@ url: https://bible.usccb.org/bible/joshua/1
 
 8 Do not let this book of the law depart from your lips. Recite it by day and by night, that you may carefully observe all that is written in it; then you will attain your goal; then you will succeed. ^joshua-01-8
 
-9 I command you: be strong and steadfast! Do not fear nor be dismayed, for the L ORD, your God, is with you wherever you go. ^joshua-01-9
+9 I command you: be strong and steadfast! Do not fear nor be dismayed, for the LORD, your God, is with you wherever you go. ^joshua-01-9
 
 10 So Joshua commanded the officers of the people: ^joshua-01-10
 
-11 “Go through the camp and command the people, ‘Prepare your provisions, for three days from now you shall cross the Jordan here, to march in and possess the land the L ORD, your God, is giving as your possession.’” ^joshua-01-11
+11 “Go through the camp and command the people, ‘Prepare your provisions, for three days from now you shall cross the Jordan here, to march in and possess the land the LORD, your God, is giving as your possession.’” ^joshua-01-11
 
 **The Transjordan Tribes.**
 
 12 Joshua addressed the Reubenites, the Gadites, and the half-tribe of Manasseh: ^joshua-01-12
 
-13 “Remember what Moses, the servant of the L ORD, commanded you when he said, ‘The L ORD, your God, is about to give you rest; he will give you this land.’ ^joshua-01-13
+13 “Remember what Moses, the servant of the LORD, commanded you when he said, ‘The LORD, your God, is about to give you rest; he will give you this land.’ ^joshua-01-13
 
 14 Your wives, your children, and your livestock may remain in the land Moses gave you here beyond the Jordan. But all the warriors among you must cross over armed, ahead of your kindred, and you must help them ^joshua-01-14
 
-15 until the L ORD has settled your kindred, and they like you possess the land the L ORD, your God, is giving them. Afterward you may return and possess your own land, which Moses, the servant of the L ORD, has given you east of the Jordan.” ^joshua-01-15
+15 until the LORD has settled your kindred, and they like you possess the land the LORD, your God, is giving them. Afterward you may return and possess your own land, which Moses, the servant of the LORD, has given you east of the Jordan.” ^joshua-01-15
 
 16 They answered Joshua, “We will do all you have commanded us, and we will go wherever you send us. ^joshua-01-16
 
-17 As completely as we obeyed Moses, we will obey you. Only, may the L ORD, your God, be with you as God was with Moses. ^joshua-01-17
+17 As completely as we obeyed Moses, we will obey you. Only, may the LORD, your God, be with you as God was with Moses. ^joshua-01-17
 
 18 Anyone who rebels against your orders and does not obey all your commands shall be put to death. Only be strong and steadfast.” ^joshua-01-18
 

@@ -1,27 +1,26 @@
 ---
-title: Lamentations, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Lamentations, Chapter 1
+title: Lamentations, Chapter 1
+url: https://bible.usccb.org/bible/lamentations/1
 aliases:
   - lamentations-01
   - Lamentations, Chapter 1
 tags:
+  - bible/chapter
   - bible/lamentations
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/lamentations/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Lamentations, Chapter 1
 ---
 
 # Lamentations, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-#### The Desolation of Jerusalem
+### The Desolation of Jerusalem
 
 1 How solitary sits the city, ^lamentations-01-1
 
@@ -75,7 +74,7 @@ her lot is bitter.
 
 her enemies are secure;
 
-Because the L ORD has afflicted her
+Because the LORD has afflicted her
 
 for her many rebellions.
 
@@ -131,7 +130,7 @@ Her downfall is astonishing,
 
 with no one to comfort her.
 
-“Look, O L ORD, at my misery;
+“Look, O LORD, at my misery;
 
 how the enemy triumphs!”
 
@@ -155,7 +154,7 @@ They give their precious things for food,
 
 to retain the breath of life.
 
-“Look, O L ORD, and pay attention
+“Look, O LORD, and pay attention
 
 to how I have been demeaned!
 
@@ -167,7 +166,7 @@ Is there any pain like my pain,
 
 which has been ruthlessly inflicted upon me,
 
-With which the L ORD has tormented me
+With which the LORD has tormented me
 
 on the day of his blazing wrath?
 
@@ -223,7 +222,7 @@ the enemy has prevailed.”
 
 with no one to comfort her;
 
-The L ORD has ordered against Jacob
+The LORD has ordered against Jacob
 
 his foes all around;
 
@@ -231,7 +230,7 @@ Jerusalem has become in their midst
 
 a thing unclean.
 
-18 “The L ORD is in the right; ^lamentations-01-18
+18 “The LORD is in the right; ^lamentations-01-18
 
 I had defied his command.
 
@@ -255,7 +254,7 @@ How desperately they searched for food,
 
 to save their lives!
 
-20 Look, O L ORD, at the anguish I suffer! ^lamentations-01-20
+20 Look, O LORD, at the anguish I suffer! ^lamentations-01-20
 
 My stomach churns,
 

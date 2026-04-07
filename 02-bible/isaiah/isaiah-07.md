@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 7
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 7
+title: Isaiah, Chapter 7
+url: https://bible.usccb.org/bible/isaiah/7
 aliases:
   - isaiah-07
   - Isaiah, Chapter 7
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/7
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 7
 ---
 
 # Isaiah, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-#### The Syro-ephraimite War
+### The Syro-ephraimite War
 
 **Crisis in Judah.**
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/isaiah/7
 
 2 When word came to the house of David that Aram had allied itself with Ephraim, the heart of the king and heart of the people trembled, as the trees of the forest tremble in the wind. ^isaiah-07-2
 
-3 Then the L ORD said to Isaiah: Go out to meet Ahaz, you and your son Shear-jashub, at the end of the conduit of the upper pool, on the highway to the fuller’s field, ^isaiah-07-3
+3 Then the LORD said to Isaiah: Go out to meet Ahaz, you and your son Shear-jashub, at the end of the conduit of the upper pool, on the highway to the fuller’s field, ^isaiah-07-3
 
 4 and say to him: Take care you remain calm and do not fear; do not let your courage fail before these two stumps of smoldering brands, the blazing anger of Rezin and the Arameans and of the son of Remaliah— ^isaiah-07-4
 
@@ -59,11 +58,11 @@ you shall not be firm!
 
 **Emmanuel.**
 
-10 Again the L ORD spoke to Ahaz: ^isaiah-07-10
+10 Again the LORD spoke to Ahaz: ^isaiah-07-10
 
-11 Ask for a sign from the L ORD, your God; let it be deep as Sheol, or high as the sky! ^isaiah-07-11
+11 Ask for a sign from the LORD, your God; let it be deep as Sheol, or high as the sky! ^isaiah-07-11
 
-12 But Ahaz answered, “I will not ask! I will not tempt the L ORD!” ^isaiah-07-12
+12 But Ahaz answered, “I will not ask! I will not tempt the LORD!” ^isaiah-07-12
 
 13 Then he said: Listen, house of David! Is it not enough that you weary human beings? Must you also weary my God? ^isaiah-07-13
 
@@ -73,11 +72,11 @@ you shall not be firm!
 
 16 for before the child learns to reject evil and choose good, the land of those two kings whom you dread shall be deserted. ^isaiah-07-16
 
-17 The L ORD shall bring upon you and your people and your father’s house such days as have not come since Ephraim seceded from Judah (the king of Assyria). ^isaiah-07-17
+17 The LORD shall bring upon you and your people and your father’s house such days as have not come since Ephraim seceded from Judah (the king of Assyria). ^isaiah-07-17
 
 18 On that day ^isaiah-07-18
 
-The L ORD shall whistle
+The LORD shall whistle
 
 for the fly in the farthest streams of Egypt,
 
@@ -115,7 +114,7 @@ on all thornbushes and in all pastures.
 
 \* (7:11) Deep…sky: an extraordinary or miraculous sign that would prove God’s firm will to save the royal house of David from its oppressors.
 
-\* (7:12) Tempt the L ORD: Ahaz prefers to depend upon the might of Assyria rather than the might of God.
+\* (7:12) Tempt the LORD: Ahaz prefers to depend upon the might of Assyria rather than the might of God.
 
 \* (7:14) Isaiah’s sign seeks to reassure Ahaz that he need not fear the invading armies of Syria and Israel in the light of God’s promise to David ([2 Sm 7:12] – [16]). The oracle follows a traditional announcement formula by which the birth and sometimes naming of a child is promised to particular individuals ([[genesis-16|Gen 16]]:11; [Jgs 13:3]). The young woman: Hebrew *‘almah* designates a young woman of marriageable age without specific reference to virginity. The Septuagint translated the Hebrew term as *parthenos*, which normally does mean virgin, and this translation underlies ([[matthew-01|Mt 1]]:23]. Emmanuel: the name means “with us is God.” Since for the Christian the incarnation is the ultimate expression of God’s willingness to “be with us,” it is understandable that this text was interpreted to refer to the birth of Christ.
 

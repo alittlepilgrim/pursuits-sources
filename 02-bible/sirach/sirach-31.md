@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 31
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 31
+title: Sirach, Chapter 31
+url: https://bible.usccb.org/bible/sirach/31
 aliases:
   - sirach-31
   - Sirach, Chapter 31
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/31
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 31
 ---
 
 # Sirach, Chapter 31
 
-### Chapter 31
+## Chapter 31
 
-#### The Proper Attitude Toward Riches
+### The Proper Attitude Toward Riches
 
 1 Wakefulness over wealth wastes away the flesh, ^sirach-31-1
 
@@ -71,7 +70,7 @@ and could have done evil but did not?
 
 and the assembly will recount his praises.
 
-#### Table Etiquette
+### Table Etiquette
 
 12 Are you seated at the table of the great? ^sirach-31-12
 

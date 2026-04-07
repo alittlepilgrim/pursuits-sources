@@ -1,26 +1,24 @@
 ---
-title: Joshua, Chapter 9
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 9
+title: Joshua, Chapter 9
+url: https://bible.usccb.org/bible/joshua/9
 aliases:
   - joshua-09
   - Joshua, Chapter 9
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/9
-testament: old
-url: https://bible.usccb.org/bible/joshua/9
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 9
 ---
 
 # Joshua, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
 **Confederacy Against Israel.**
 
@@ -42,7 +40,7 @@ url: https://bible.usccb.org/bible/joshua/9
 
 8 But they answered Joshua, “We are your servants.” Then Joshua asked them, “Who are you? Where do you come from?” ^joshua-09-8
 
-9 They answered him, “Your servants have come from a far-off land, because of the fame of the L ORD, your God. For we have heard reports of all that he did in Egypt ^joshua-09-9
+9 They answered him, “Your servants have come from a far-off land, because of the fame of the LORD, your God. For we have heard reports of all that he did in Egypt ^joshua-09-9
 
 10 and all that he did to the two kings of the Amorites beyond the Jordan, Sihon, king of Heshbon, and Og, king of Bashan, who lived in Ashtaroth. ^joshua-09-10
 
@@ -52,7 +50,7 @@ url: https://bible.usccb.org/bible/joshua/9
 
 13 Here are our wineskins, which were new when we filled them, but now they are torn. Look at our garments and sandals; they are worn out from the very long journey.” ^joshua-09-13
 
-14 Then the Israelite leaders partook of their provisions, without inquiring of the L ORD. ^joshua-09-14
+14 Then the Israelite leaders partook of their provisions, without inquiring of the LORD. ^joshua-09-14
 
 15 So Joshua made peace with them and made a covenant to let them live, which the leaders of the community sealed with an oath. ^joshua-09-15
 
@@ -62,9 +60,9 @@ url: https://bible.usccb.org/bible/joshua/9
 
 17 The third day on the road, the Israelites came to their cities of Gibeon, Chephirah, Beeroth, and Kiriath-jearim, ^joshua-09-17
 
-18 but did not attack them, because the leaders of the community had sworn to them by the L ORD, the God of Israel. When the entire community grumbled against the leaders, ^joshua-09-18
+18 but did not attack them, because the leaders of the community had sworn to them by the LORD, the God of Israel. When the entire community grumbled against the leaders, ^joshua-09-18
 
-19 these all remonstrated with the community, “We have sworn to them by the L ORD, the God of Israel, and so we cannot harm them. ^joshua-09-19
+19 these all remonstrated with the community, “We have sworn to them by the LORD, the God of Israel, and so we cannot harm them. ^joshua-09-19
 
 20 Let us therefore let them live, and so deal with them that no wrath fall upon us because of the oath we have sworn to them.” ^joshua-09-20
 
@@ -74,13 +72,13 @@ url: https://bible.usccb.org/bible/joshua/9
 
 23 Now are you accursed: every one of you shall always be a slave, hewers of wood and drawers of water, for the house of my God.” ^joshua-09-23
 
-24 They answered Joshua, “Your servants were fully informed of how the L ORD, your God, commanded Moses his servant that you be given the entire land and that all its inhabitants be destroyed before you. Since, therefore, at your advance, we were in great fear for our lives, we acted as we did. ^joshua-09-24
+24 They answered Joshua, “Your servants were fully informed of how the LORD, your God, commanded Moses his servant that you be given the entire land and that all its inhabitants be destroyed before you. Since, therefore, at your advance, we were in great fear for our lives, we acted as we did. ^joshua-09-24
 
 25 And now that we are in your power, do with us what is good and right in your eyes.” ^joshua-09-25
 
 26 Joshua did what he had decided: while he saved them from being killed by the Israelites, ^joshua-09-26
 
-27 on that day he made them, as they still are, hewers of wood and drawers of water for the community and for the altar of the L ORD, in the place the L ORD would choose. ^joshua-09-27
+27 on that day he made them, as they still are, hewers of wood and drawers of water for the community and for the altar of the LORD, in the place the LORD would choose. ^joshua-09-27
 
 \* (9:7) The Hivites: apparently the Gibeonites belonged to this larger ethnic group (cf. also [11:19]), although in [2 Sm 21:2] they are classed as Amorites; both groups are listed among the seven nations of Canaan whom, according to [Dt 7:1] – [2], the Israelites were to dispossess.
 

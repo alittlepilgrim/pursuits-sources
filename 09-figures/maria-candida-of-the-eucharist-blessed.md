@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Blessed Maria Candida of the Eucharist
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Blessed Maria Candida of the Eucharist
@@ -11,8 +8,11 @@ aliases:
 tags:
   - role/blessed
   - term/virgin
-celebration: "06-14"
-full_name: "Blessed Maria Candida of the Eucharist"
+  - type/figure
+celebration: 06-14
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Blessed Maria Candida of the Eucharist

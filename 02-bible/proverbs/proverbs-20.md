@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 20
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 20
+title: Proverbs, Chapter 20
+url: https://bible.usccb.org/bible/proverbs/20
 aliases:
   - proverbs-20
   - Proverbs, Chapter 20
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/20
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 20
 ---
 
 # Proverbs, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 1 Wine is arrogant, strong drink is riotous; ^proverbs-20-1
 
@@ -59,7 +58,7 @@ I am cleansed of my sin”?
 
 10 Varying weights, varying measures, ^proverbs-20-10
 
-are both an abomination to the L ORD.
+are both an abomination to the LORD.
 
 11 In their actions even children can playact ^proverbs-20-11
 
@@ -67,7 +66,7 @@ though their deeds be blameless and right.
 
 12 The ear that hears, the eye that sees— ^proverbs-20-12
 
-the L ORD has made them both.
+the LORD has made them both.
 
 13 Do not love sleep lest you be reduced to poverty; ^proverbs-20-13
 
@@ -107,13 +106,13 @@ will not be blessed in the end.
 
 22 Do not say, “I will repay evil!” ^proverbs-20-22
 
-Wait for the L ORD, who will help you.
+Wait for the LORD, who will help you.
 
-23 Varying weights are an abomination to the L ORD, ^proverbs-20-23
+23 Varying weights are an abomination to the LORD, ^proverbs-20-23
 
 and false scales are not good.
 
-24 Our steps are from the L ORD; ^proverbs-20-24
+24 Our steps are from the LORD; ^proverbs-20-24
 
 how, then, can mortals understand their way?
 
@@ -125,7 +124,7 @@ and after a vow, then to reflect.
 
 and threshes them under the cartwheel.
 
-27 A lamp from the L ORD is human life-breath; ^proverbs-20-27
+27 A lamp from the LORD is human life-breath; ^proverbs-20-27
 
 it searches through the inmost being.
 

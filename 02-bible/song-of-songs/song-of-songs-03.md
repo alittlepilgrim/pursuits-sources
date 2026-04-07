@@ -1,27 +1,26 @@
 ---
-title: Song of Songs, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Song of Songs, Chapter 3
+title: Song of Songs, Chapter 3
+url: https://bible.usccb.org/bible/songofsongs/3
 aliases:
   - Song of Songs, Chapter 3
   - song-of-songs-03
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/song-of-songs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/3
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Song of Songs, Chapter 3
 ---
 
 # Song of Songs, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### Loss and Discovery
+### Loss and Discovery
 
 1 W On my bed at night I sought him ^song-of-songs-03-1
 
@@ -61,7 +60,7 @@ Do not awaken or stir up love
 
 until it is ready.
 
-#### Solomon’s Wedding Procession
+### Solomon’s Wedding Procession
 
 6 D Who is this coming up from the desert, ^song-of-songs-03-6
 

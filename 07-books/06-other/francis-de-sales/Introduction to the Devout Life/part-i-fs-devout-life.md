@@ -1,29 +1,27 @@
 ---
-title: Part I-fs-devout-life
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Part I. Counsels and Practices Suitable for the Soul's Guidance from the First Aspiration After a Devout Life to the Point When It Attains a Confirmed Resolution to Follow the Same
+title: Part I-fs-devout-life
+author: Saint Francis de Sales
 aliases:
   - Part I. Counsels and Practices Suitable for the Soul's Guidance from the First Aspiration After a Devout Life to the Point When It Attains a Confirmed Resolution to Follow the Same
 tags:
-  - author/francis-de-sales
-  - book
-  - book/introduction-devout-life
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Part I. Counsels and Practices Suitable for the Soul's Guidance from the First Aspiration After a Devout Life to the Point When It Attains a Confirmed Resolution to Follow the Same
 ---
 
-## Part I. Counsels and Practices Suitable for the Soul's Guidance from the First Aspiration After a Devout Life to the Point When It Attains a Confirmed Resolution to Follow the Same
+# Part I. Counsels and Practices Suitable for the Soul's Guidance from the First Aspiration After a Devout Life to the Point When It Attains a Confirmed Resolution to Follow the Same
 
-### Chapter I. What True Devotion Is
+## Chapter I. What True Devotion Is
 
 YOU aim at a devout life, dear child, because as a Christian you know that such devotion is most acceptable to God's Divine Majesty. But seeing that the small errors people are wont to commit in the beginning of any under taking are apt to wax greater as they advance, and to become irreparable at last, it is most important that you should thoroughly understand wherein lies the grace of true devotion;--and that because while there undoubtedly is such a true devotion, there are also many spurious and idle semblances thereof; and unless you know which is real, you may mistake, and waste your energy in pursuing an empty, profitless shadow. Arelius was wont to paint all his pictures with the features and expression of the women he loved, and even so we all colour devotion according to our own likings and dispositions. One man sets great value on fasting, and believes himself to be leading a very devout life, so long as he fasts rigorously, although the while his heart is full of bitterness;--and while he will not moisten his lips with wine, perhaps not even with water, in his great abstinence, he does not scruple to steep them in his neighbour's blood, through slander and detraction. Another man reckons himself as devout because he repeats many prayers daily, although at the same time he does not refrain from all manner of angry, irritating, conceited or insulting speeches among his family and neighbours. This man freely opens his purse in almsgiving, but closes his heart to all gentle and forgiving feelings towards those who are opposed to him; while that one is ready enough to forgive his enemies, but will never pay his rightful debts save under pressure. Meanwhile all these people are conventionally called religious, but nevertheless they are in no true sense really devout. When Saul's servants sought to take David, Michal induced them to suppose that the lifeless figure lying in his bed, and covered with his garments, was the man they sought; and in like manner many people dress up an exterior with the visible acts expressive of earnest devotion, and the world supposes them to be really devout and spiritual-minded, while all the time they are mere lay figures, mere phantasms of devotion.
 
 But, in fact, all true and living devotion presupposes the love of God;--and indeed it is neither more nor less than a very real love of God, though not always of the same kind; for that Love one while shining on the soul we call grace, which makes us acceptable to His Divine Majesty;--when it strengthens us to do well, it is called Charity;--but when it attains its fullest perfection, in which it not only leads us to do well, but to act carefully, diligently, and promptly, then it is called Devotion. The ostrich never flies,--the hen rises with difficulty, and achieves but a brief and rare flight, but the eagle, the dove, and the swallow, are continually on the wing, and soar high;--even so sinners do not rise towards God, for all their movements are earthly and earthbound. Well-meaning people, who have not as yet attained a true devotion, attempt a manner of flight by means of their good actions, but rarely, slowly and heavily; while really devout men rise up to God frequently, and with a swift and soaring wing. In short, devotion is simply a spiritual activity and liveliness by means of which Divine Love works in us, and causes us to work briskly and lovingly; and just as charity leads us to a general practice of all God's Commandments, so devotion leads us to practise them readily and diligently. And therefore we cannot call him who neglects to observe all God's Commandments either good or devout, because in order to be good, a man must be filled with love, and to be devout, he must further be very ready and apt to perform the deeds of love. And forasmuch as devotion consists in a high degree of real love, it not only makes us ready, active, and diligent in following all God's Commands, but it also excites us to be ready and loving in performing as many good works as possible, even such as are not enjoined upon us, but are only matters of counsel or inspiration. Even as a man just recovering from illness, walks only so far as he is obliged to go, with a slow and weary step, so the converted sinner journeys along as far as God commands him but slowly and wearily, until he attains a true spirit of devotion, and then, like a sound man, he not only gets along, but he runs and leaps in the way of God's Commands, and hastens gladly along the paths of heavenly counsels and inspirations. The difference between love and devotion is just that which exists between fire and flame;--love being a spiritual fire which becomes devotion when it is fanned into a flame;--and what devotion adds to the fire of love is that flame which makes it eager, energetic and diligent, not merely in obeying God's Commandments, but in fulfilling His Divine Counsels and inspirations.
 
-### Chapter II. the Nature and Excellence of Devotion
+## Chapter II. the Nature and Excellence of Devotion
 
 THOSE who sought to discourage the Israelites from going up to the Promised Land, told them that it was "a land which eateth up the inhabitants thereof;" [7] that is, that the climate was so unhealthy that the inhabitants could not live long, and that the people thereof were "men of a great stature," who looked upon the new-comers as mere locusts to be devoured. It is just so, my daughter, that the world runs down true devotion, painting devout people with gloomy, melancholy aspect, and affirming that religion makes them dismal and unpleasant.
 
@@ -35,7 +33,7 @@ Ponder Jacob's ladder:--it is a true picture of the devout life; the two poles w
 
 [7] Numb. xiii. 32.
 
-### Chapter III. Devotion Is Suitable to Every Vocation and Profession
+## Chapter III. Devotion Is Suitable to Every Vocation and Profession
 
 WHEN God created the world He commanded each tree to bear fruit after its kind; [8] and even so He bids Christians,--the living trees of His Church,--to bring forth fruits of devotion, each one according to his kind and vocation. A different exercise of devotion is required of each--the noble, the artisan, the servant, the prince, the maiden and the wife; and furthermore such practice must be modified according to the strength, the calling, and the duties of each individual. I ask you, my child, would it be fitting that a Bishop should seek to lead the solitary life of a Carthusian? And if the father of a family were as regardless in making provision for the future as a Capucin, if the artisan spent the day in church like a Religious, if the Religious involved himself in all manner of business on his neighbour's behalf as a Bishop is called upon to do, would not such a devotion be ridiculous, ill-regulated, and intolerable? Nevertheless such a mistake is often made, and the world, which cannot or will not discriminate between real devotion and the indiscretion of those who fancy themselves devout, grumbles and finds fault with devotion, which is really nowise concerned in these errors. No indeed, my child, the devotion which is true hinders nothing, but on the contrary it perfects everything; and that which runs counter to the rightful vocation of any one is, you may be sure, a spurious devotion. Aristotle says that the bee sucks honey from flowers without damaging them, leaving them as whole and fresh as it found them;--but true devotion does better still, for it not only hinders no manner of vocation or duty, but, contrariwise, it adorns and beautifies all. Throw precious stones into honey, and each will grow more brilliant according to its several colour:--and in like manner everybody fulfils his special calling better when subject to the influence of devotion:--family duties are lighter, married love truer, service to our King more faithful, every kind of occupation more acceptable and better performed where that is the guide.
 
@@ -45,7 +43,7 @@ It is an error, nay more, a very heresy, to seek to banish the devout life from 
 
 [9] It is probable that S. Francis here means to indicate Amadeo IX., Duke of Savoy, who died 1472.
 
-### Chapter IV. the Need of a Guide for Those Who Would Enter upon and Advance in
+## Chapter IV. the Need of a Guide for Those Who Would Enter upon and Advance in
 
 the Devout Life.
 
@@ -65,7 +63,7 @@ In truth, your spiritual guide should always be as a heaven-sent angel to you;--
 
 [14] Ecclus. vi. 17.
 
-### Chapter V. the First Step Must Be Purifying the Soul
+## Chapter V. the First Step Must Be Purifying the Soul
 
 "THE flowers appear on the earth," [15] says the Heavenly Bridegroom, and the time for pruning and cutting is come. And what, my child, are our hearts' flowers save our good desires? Now, so soon as these begin to appear, we need the pruning-hook to cut off all dead and superfluous works from our conscience. When the daughter of a strange land was about to espouse an Israelite, the law commanded her to put off the garment of her captivity, to pare her nails, and to shave her head; [16] even so the soul which aims at the dignity of becoming the spouse of Christ, must put off the old man, and put on the new man, forsaking sin: moreover, it must pare and shave away every impediment which can hinder the Love of God. The very first step towards spiritual health is to be purged from our sinful humours. S. Paul received perfect purification instantaneously, and the like grace was conferred on S.
 
@@ -79,7 +77,7 @@ The work of the soul's purification neither may nor can end save with life itsel
 
 [16] Deut. xxi. 12.
 
-### Chapter VI. the First Purification, Namely, from Mortal sin
+## Chapter VI. the First Purification, Namely, from Mortal sin
 
 THE first purification to be made is from sin;--the means whereby to make it, the sacrament of penance. Seek the best confessor within your reach, use one of the many little books written in order to help the examination of conscience. [17] Read some such book carefully, examining point by point wherein you have sinned, from the first use of your reason to the present time. And if you mistrust your memory, write down the result of your examination. Having thus sought out the evil spots in your conscience, strive to detest them, and to reject them with the greatest abhorrence and contrition of which your heart is capable;--bearing in mind these four things:--that by sin you have lost God's Grace, rejected your share in Paradise, accepted the pains of Hell, and renounced God's Eternal Love. You see, my child, that I am now speaking of a general confession of your whole life, which, while I grant it is not always necessary, I yet believe will be found most helpful in the beginning of your pursuit after holiness, and therefore I earnestly advise you to make it. Not unfrequently the ordinary confessions of persons leading an everyday life are full of great faults, and that because they make little or no preparation, and have not the needful contrition. Owing to this deficiency such people go to confession with a tacit intention of returning to their old sins, inasmuch as they will not avoid the occasions of sin, or take the necessary measures for amendment of life, and in all such cases a general confession is required to steady and fix the soul. But, furthermore, a general confession forces us to a clearer selfknowledge, kindles a wholesome shame for our past life, and rouses gratitude for God's Mercy, Which has so long waited patiently for us;--it comforts the heart, refreshes the spirit, excites good resolutions, affords opportunity to our spiritual Father for giving the most suitable advice, and opens our hearts so as to make future confessions more effectual. Therefore I cannot enter into the subject of a general change of life and entire turning to God, by means of a devout life, without urging upon you to begin with a general confession.
 
@@ -87,7 +85,7 @@ THE first purification to be made is from sin;--the means whereby to make it, th
 
    T. Carter), "Hints to Penitents" (Palmer), Brett's "Guide to Faith and Piety," Crake's "Bread of Life" (Mowbray), "Paradise of the Christian Soul," etc.
 
-### Chapter VII. the Second Purification, from All Sinful Affections
+## Chapter VII. the Second Purification, from All Sinful Affections
 
 ALL the children of Israel went forth from the land of Egypt, but not all went forth heartily, and so, when wandering in the desert, some of them sighed after the leeks and onions,--the fleshpots of Egypt. Even so there are penitents who forsake sin, yet without forsaking their sinful affections; that is to say, they intend to sin no more, but it goes sorely against them to abstain from the pleasures of sin;--they formally renounce and forsake sinful acts, but they turn back many a fond lingering look to what they have left, like Lot's wife as she fled from Sodom. They are like a sick man who abstains from eating melon when the doctor says it would kill him, but who all the while longs for it, talks about it, bargains when he may have it, would at least like just to sniff the perfume, and thinks those who are free to eat of it very fortunate. And so these weak cowardly penitents abstain awhile from sin, but reluctantly;--they would fain be able to sin without incurring damnation;--they talk with a lingering taste of their sinful deeds, and envy those who are yet indulging in the like. Thus a man who has meditated some revenge gives it up in confession, but soon after he is to be found talking about the quarrel, averring that but for the fear of God he would do this or that; complaining that it is hard to keep the Divine rule of forgiveness; would to God it were lawful to avenge one's self! Who can fail to see that even if this poor man is not actually committing sin, he is altogether bound with the affections thereof, and although he may have come out of Egypt, he yet hungers after it, and longs for the leeks and onions he was wont to feed upon there! It is the same with the woman who, though she has given up her life of sin, yet takes delight in being sought after and admired. Alas!
 
@@ -97,7 +95,7 @@ Be sure, my daughter, that if you seek to lead a devout life, you must not merel
 
 Such souls as I have described lose all the grace of their good deeds, which are probably few and feeble, through their spiritual languor.
 
-### Chapter VIII. How to Effect This Second Purification
+## Chapter VIII. How to Effect This Second Purification
 
 THE first inducement to attain this second purification is a keen and lively apprehension of the great evils resulting from sin, by means of which we acquire a deep, hearty contrition. For just as contrition, (so far as it is real,) however slight, when joined to the virtue of the Sacraments, purges away sin; so, when it becomes strong and urgent, it purges away all the affections which cling around habits of sin. A moderate, slight hatred makes men dislike its object and avoid his society; but when a violent, mortal hatred exists, they not only abhor and shun the person who excites it, but they loathe him, they cannot endure the approach of his relations or connexions, nor even his likeness or anything that concerns him. Just so when a penitent only hates sin through a weakly although real contrition, he will resolve to avoid overt acts of sin; but when his contrition is strong and hearty, he will not merely abhor sin, but every affection, every link and tendency to sin. Therefore, my daughter, it behoves us to kindle our contrition and repentance as much as we possibly can, so that it may reach even to the very smallest appearance of sin. Thus it was that the Magdalen, when converted, so entirely lost all taste for her past sin and its pleasures, that she never again cast back one thought upon them; and David declared that he hated not only sin itself, but every path and way which led thereto. This it is which is that "renewing of the soul" which the same Prophet compares to the eagle's strength. [18]
 
@@ -105,7 +103,7 @@ Now, in order to attain this fear and this contrition, you must use the followin
 
 [18] Ps. ciii. 5, Bible version.
 
-### Chapter IX. First Meditation
+## Chapter IX. First Meditation
 
 Of Creation.
 
@@ -134,7 +132,7 @@ Conclusion.
 
 At the end of your meditation linger a while, and gather, so to say, a little spiritual bouquet from the thoughts you have dwelt upon, the sweet perfume whereof may refresh you through the day.
 
-### Chapter X. Second Meditation
+## Chapter X. Second Meditation
 
 Of the End for which we were Created.
 
@@ -160,7 +158,7 @@ Conclusion.
    2. Offer. O Dearest Lord, I offer Thee all my affections and resolutions, with my whole heart and soul.
    3. Pray. I entreat Thee, O God, that Thou wouldest accept my desires and longings, and give Thy Blessing to my soul, to enable me to fulfil them, through the Merits of Thy Dear Son's Precious Blood shed upon the Cross for me. OUR FATHER, etc. Gather your little spiritual bouquet.
 
-### Chapter XI. Third Meditation
+## Chapter XI. Third Meditation
 
 Of the Gifts of God.
 
@@ -187,7 +185,7 @@ Conclusion.
    2. Offer your heart and all its resolutions to Him.
    3. Ask Him to strengthen you to fulfil them faithfully by the Merits of the Death of His Son. OUR FATHER, etc. Gather the little spiritual bouquet.
 
-### Chapter XII. Fourth Meditation
+## Chapter XII. Fourth Meditation
 
 On Sin.
 
@@ -214,7 +212,7 @@ Conclusion.
 
    1. Thank God for having waited till now for you, and for rousing these good intentions in your heart. 2. Offer Him all your heart to carry them to good effect. 3. Pray that He would strengthen you.
 
-### Chapter XIII. Fifth Meditation
+## Chapter XIII. Fifth Meditation
 
 Of Death.
 
@@ -243,7 +241,7 @@ Thank God for inspiring you with these resolutions: offer them to His Majesty: i
 
 Gather a bouquet of myrrh.
 
-### Chapter XIV. Sixth Meditation
+## Chapter XIV. Sixth Meditation
 
 On Judgment.
 
@@ -271,7 +269,7 @@ Thank God for having given you means of safety in that terrible Day, and time fo
 
 Gather your bouquet.
 
-### Chapter XV. Seventh Meditation
+## Chapter XV. Seventh Meditation
 
 Of Hell.
 
@@ -295,7 +293,7 @@ Give thanks, offer yourself, pray.
 
 [20] Isa. xxxiii. 14. "Who among us shall dwell with the devouring fire? who among us shall dwell with everlasting burnings?"
 
-### Chapter XVI. Eighth Meditation
+## Chapter XVI. Eighth Meditation
 
 On Paradise.
 
@@ -318,7 +316,7 @@ Affections and Resolutions.
 
 Give thanks, offer, pray.
 
-### Chapter XVII. Ninth Meditation
+## Chapter XVII. Ninth Meditation
 
 On the Choice upon to you between Heaven and Hell.
 
@@ -338,7 +336,7 @@ The Choice.
    1. O Hell, I abhor thee now and for ever; I abhor thy griefs and torments, thine endless misery, the unceasing blasphemies and maledictions which thou pourest out upon my God;--and turning to thee, O blessed Paradise, eternal glory, unfading happiness, I choose thee for ever as my abode, thy glorious mansions, thy precious and abiding tabernacles. O my God, I bless Thy Mercy which gives me the power to choose--O Jesus, Saviour, I accept Thine Eternal Love, and praise Thee for the promise Thou hast given me of a place prepared for me in that blessed New Jerusalem, where I shall love and bless Thee for ever.
    2. Dwell lovingly upon the example set before you by the Blessed Virgin and the Saints, and strive to follow where they point you. Give yourself up to your guardian Angel, that he may be your guide, and gird up your courage anew to make this choice.
 
-### Chapter XVIII. Tenth Meditation
+## Chapter XVIII. Tenth Meditation
 
 How the Soul chooses the Devout Life.
 
@@ -365,7 +363,7 @@ The Choice.
 
 O my good Angel, bring me to this heavenly company, leave me not until I have reached them, with whom I will sing for ever, in testimony of my choice, "Glory be to Jesus, my Lord!"
 
-### Chapter XIX. How to Make a General Confession
+## Chapter XIX. How to Make a General Confession
 
 SUCH meditations as these, my daughter, will help you, and having made them, go on bravely in the spirit of humility to make your general confession;--but I entreat you, be not troubled by any sort of fearfulness. The scorpion who stings us is venomous, but when his oil has been distilled, it is the best remedy for his bite;--even so sin is shameful when we commit it, but when reduced to repentance and confession, it becomes salutary and honourable. Contrition and confession are in themselves so lovely and sweet-savoured, that they efface the ugliness and disperse the ill savour of sin. Simon the leper called Magdalene a sinner, [21] but our Lord turned the discourse to the perfume of her ointment and the greatness of her love. If we are really humble, my daughter, our sins will be infinitely displeasing to us, because they offend God;--but it will be welcome and sweet to accuse ourselves thereof because in so doing we honour God; and there is always somewhat soothing in fully telling the physician all details of our pain.
 
@@ -379,7 +377,7 @@ Then take the following protest, as a summary of your contrition, having careful
 
 [22] S. Luke x. 16.
 
-### Chapter XX. a Hearty Protest Made with the Object of Confirming the Soul's
+## Chapter XX. a Hearty Protest Made with the Object of Confirming the Soul's
 
 resolution to serve God, as a conclusion to its acts of Penitence.
 
@@ -389,13 +387,13 @@ But turning to the Throne of Infinite Mercy of this Eternal God, detesting the s
 
 I resolve never to misuse any part of my being by opposing His Divine Will and Sovereign Majesty, to which I wholly immolate myself in intention, vowing ever to be His loyal, obedient and faithful servant without any change or recall. But if unhappily, through the promptings of the enemy, or human infirmity, I should in anywise fail in this my resolution and dedication, I do most earnestly resolve by the grace of the Holy Spirit to rise up again so soon as I shall perceive my fall, and turn anew, without any delay, to seek His Divine Mercy. This is my firm will and intention,--my inviolable, irrevocable resolution, which I make and confirm without any reserve, in the Holy Presence of God, in the sight of the Church triumphant, and before the Church militant, which is my mother, who accepts this my declaration, in the person of him who, as her representative, hears me make it. Be pleased, O Eternal, All-Powerful, and All-Loving God,--Father, Son, and Holy Spirit, to confirm me in this my resolution, and accept my hearty and willing offering. And inasmuch as Thou hast been pleased to inspire me with the will to make it, give me also the needful strength and grace to keep it. O God, Thou art my God, the God of my heart, my soul, and spirit, and as such I acknowledge and adore Thee, now and for all eternity. Glory be to Jesus. Amen.
 
-### Chapter XXI. Conclusion of This First Purification
+## Chapter XXI. Conclusion of This First Purification
 
 HAVING made this resolution, wait attentively, and open the ears of your heart, that you may in spirit hear the absolution which the Lord of your soul, sitting on the throne of His Mercy, will speak in Heaven before the Saints and Angels when His Priest absolves you here below in His Name. Be sure that all that company of blessed ones rejoice in your joy, and sing a song of untold gladness, embracing you and accepting you as cleansed and sanctified. Of a truth, my daughter, this is a marvellous deed, and a most blessed bargain for you, inasmuch as giving yourself to His Divine Majesty, you gain Him, and save yourself for eternal life. No more remains to do, save to take the pen and heartily sign your protest, and then hasten to the Altar, where God on His side will sign and seal your absolution, and His promise of Paradise, giving Himself to you in His Sacrament, as a sacred seal placed upon your renewed heart. And thus, dear child, your soul will be cleansed from sin, and from all its affections. But forasmuch as these affections are easily rekindled, thanks to our infirmity and concupiscence (which maybe mortified, but which can never be altogether extinguished while we live), I will give you certain counsels by the practice of which you may henceforth avoid mortal sin, and the affections pertaining thereto.
 
 And as these counsels will also help you to attain a yet more perfect purification, before giving them, I would say somewhat concerning that absolute perfection to which I seek to lead you.
 
-### Chapter XXII. the Necessity of Purging Away All Tendency to Venial Sins
+## Chapter XXII. the Necessity of Purging Away All Tendency to Venial Sins
 
 AS daylight waxes, we, gazing into a mirror, see more plainly the soils and stains upon our face; and even so as the interior light of the Holy Spirit enlightens our conscience, we see more distinctly the sins, inclinations and imperfections which hinder our progress towards real devotion. And the selfsame light which shows us these blots and stains, kindles in us the desire to be cleansed and purged therefrom. You will find then, my child, that besides the mortal sins and their affections from which your soul has already been purged, you are beset by sundry inclinations and tendencies to venial sin; mind, I do not say you will find venial sins, but the inclination and tendency to them. Now, one is quite different from the other. We can never be altogether free from venial sin,--at least not until after a very long persistence in this purity; but we can be without any affection for venial sin. It is altogether one thing to have said something unimportant not strictly true, out of carelessness or liveliness, and quite a different matter to take pleasure in lying, and in the habitual practice thereof. But I tell you that you must purify your soul from all inclination to venial sin;--that is to say, you must not voluntarily retain any deliberate intention of permitting yourself to commit any venial sin whatever. It would be most unworthy consciously to admit anything so displeasing to God, as the will to offend Him in anywise. Venial sin, however small, is displeasing to God, although it be not so displeasing as the greater sins which involve eternal condemnation; and if venial sin is displeasing to Him, any clinging which we tolerate to mortal sin is nothing less than a resolution to offend His Divine Majesty. Is it really possible that a rightly disposed soul can not only offend God, but take pleasure therein?
 
@@ -403,12 +401,12 @@ These inclinations, my daughter, are in direct opposition to devotion, as inclin
 
 [23] Eccles. x. 1.
 
-### Chapter XXIII. It Is Needful to Put Away All Inclination for Useless and
+## Chapter XXIII. It Is Needful to Put Away All Inclination for Useless and
 
 Dangerous Things.
 
 SPORTS, balls, plays, festivities, pomps, are not in themselves evil, but rather indifferent matters, capable of being used for good or ill; but nevertheless they are dangerous, and it is still more dangerous to take great delight in them. Therefore, my daughter, I say that although it is lawful to amuse yourself, to dance, dress, feast, and see seemly plays,--at the same time, if you are much addicted to these things, they will hinder your devotion, and become extremely hurtful and dangerous to you. The harm lies, not in doing them, but in the degree to which you care for them. It is a pity to sow the seed of vain and foolish tastes in the soil of your heart, taking up the place of better things, and hindering the soul from cultivating good dispositions. It was thus that the Nazarites of old abstained not merely from all intoxicating liquors, but from grapes fresh or dried, and from vinegar, not because these were intoxicating, but because they might excite the desire for fermented liquors. Just so, while I do not forbid the use of these dangerous pleasures, I say that you cannot take an excessive delight in them without their telling upon your devotion. When the stag has waxed fat he hides himself amid the thicket, conscious that his fleetness is impaired should he be in need to fly: and so the human heart which is cumbered with useless, superfluous, dangerous clingings becomes incapacitated for that earnest following after God which is the true life of devotion. No one blames children for running after butterflies, because they are children, but is it not ridiculous and pitiful to see full-grown men eager about such worthless trifles as the worldly amusements before named, which are likely to throw them off their balance and disturb their spiritual life? Therefore, dear child, I would have you cleanse your heart from all such tastes, remembering that while the acts themselves are not necessarily incompatible with a devout life, all delight in them must be harmful.
 
-### Chapter XXIV. All Evil Inclinations Must Be Purged Away
+## Chapter XXIV. All Evil Inclinations Must Be Purged Away
 
 FURTHERMORE, my daughter, we have certain natural inclinations, which are not strictly speaking either mortal or venial sins, but rather imperfections; and the acts in which they take shape, failings and deficiencies. Thus S. Jerome says that S. Paula had so strong a tendency to excessive sorrow, that when she lost her husband and children she nearly died of grief: that was not a sin, but an imperfection, since it did not depend upon her wish and will. Some people are naturally easy, some oppositions; some are indisposed to accept other men's opinions, some naturally disposed to be cross, some to be affectionate--in short, there is hardly any one in whom some such imperfections do not exist. Now, although they be natural and instinctive in each person, they may be remedied and corrected, or even eradicated, by cultivating the reverse disposition. And this, my child, must be done. Gardeners have found how to make the bitter almond tree bear sweet fruit, by grafting the juice of the latter upon it, why should we not purge out our perverse dispositions and infuse such as are good? There is no disposition so good but it may be made bad by dint of vicious habits, and neither is there any natural disposition so perverse but that it may be conquered and overcome by God's Grace primarily, and then by our earnest diligent endeavour. I shall therefore now proceed to give you counsels and suggest practices by which you may purify your soul from all dangerous affections and imperfections, and from all tendencies to venial sin, thereby strengthening yourself more and more against mortal sin. May God give you grace to use them.

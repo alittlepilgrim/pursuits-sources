@@ -1,25 +1,24 @@
 ---
-title: Deuteronomy, Chapter 25
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 25
+title: Deuteronomy, Chapter 25
+url: https://bible.usccb.org/bible/deuteronomy/25
 aliases:
   - deuteronomy-25
   - Deuteronomy, Chapter 25
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/25
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 25
 ---
 
 # Deuteronomy, Chapter 25
 
-### Chapter 25
+## Chapter 25
 
 **Limits on Punishments.**
 
@@ -57,15 +56,15 @@ url: https://bible.usccb.org/bible/deuteronomy/25
 
 14 nor shall you keep two different ephahs in your house, one large and the other small. ^deuteronomy-25-14
 
-15 But use a full and just weight, a full and just ephah, so that you may have a long life on the land the L ORD, your God, is giving you. ^deuteronomy-25-15
+15 But use a full and just weight, a full and just ephah, so that you may have a long life on the land the LORD, your God, is giving you. ^deuteronomy-25-15
 
-16 For everyone who does these things, everyone who does what is dishonest, is an abomination to the L ORD, your God. ^deuteronomy-25-16
+16 For everyone who does these things, everyone who does what is dishonest, is an abomination to the LORD, your God. ^deuteronomy-25-16
 
 17 Bear in mind what Amalek did to you on the journey after you left Egypt, ^deuteronomy-25-17
 
 18 how he surprised you along the way, weak and weary as you were, and struck down at the rear all those who lagged behind; he did not fear God. ^deuteronomy-25-18
 
-19 Therefore, when the L ORD, your God, gives you rest from all your enemies round about in the land which the L ORD, your God, is giving you to possess as a heritage, you shall blot out the memory of Amalek from under the heavens. Do not forget! ^deuteronomy-25-19
+19 Therefore, when the LORD, your God, gives you rest from all your enemies round about in the land which the LORD, your God, is giving you to possess as a heritage, you shall blot out the memory of Amalek from under the heavens. Do not forget! ^deuteronomy-25-19
 
 \* (25:3) Forty lashes: while the punishment is severe, the law seeks to limit it from being overly harsh and inhumane. Later Jewish practice limited the number to thirty-nine; cf. [2 Cor 11:24].
 

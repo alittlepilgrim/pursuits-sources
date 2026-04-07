@@ -1,31 +1,30 @@
 ---
-title: Amos, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 1
+title: Amos, Chapter 1
+url: https://bible.usccb.org/bible/amos/1
 aliases:
   - amos-01
   - Amos, Chapter 1
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/1
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 1
 ---
 
 # Amos, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 The words of Amos, who was one of the sheepbreeders from Tekoa, which he received in a vision concerning Israel in the days of Uzziah, king of Judah, and in the days of Jeroboam, son of Joash, king of Israel, two years before the earthquake. ^amos-01-1
 
 2 He said: ^amos-01-2
 
-The L ORD roars from Zion,
+The LORD roars from Zion,
 
 and raises his voice from Jerusalem;
 
@@ -33,11 +32,11 @@ The pastures of the shepherds languish,
 
 and the summit of Carmel withers.
 
-## Ii. Oracles Against the Nations
+# Ii. Oracles Against the Nations
 
-#### Aram
+## Aram
 
-3 Thus says the L ORD: ^amos-01-3
+3 Thus says the LORD: ^amos-01-3
 
 For three crimes of Damascus, and now four—
 
@@ -57,11 +56,11 @@ From the Valley of Aven I will cut off the one enthroned,
 
 And the sceptered ruler from Beth-eden;
 
-the people of Aram shall be exiled to Kir, says the L ORD.
+the people of Aram shall be exiled to Kir, says the LORD.
 
-#### Philistia
+## Philistia
 
-6 Thus says the L ORD: ^amos-01-6
+6 Thus says the LORD: ^amos-01-6
 
 For three crimes of Gaza, and now four—
 
@@ -85,9 +84,9 @@ and the last of the Philistines shall perish,
 
 says the Lord G OD.
 
-#### Tyre
+## Tyre
 
-9 Thus says the L ORD: ^amos-01-9
+9 Thus says the LORD: ^amos-01-9
 
 For three crimes of Tyre, and now four—
 
@@ -101,9 +100,9 @@ and did not remember their covenant of brotherhood,
 
 and it will devour its strongholds.
 
-#### Edom
+## Edom
 
-11 Thus says the L ORD: ^amos-01-11
+11 Thus says the LORD: ^amos-01-11
 
 For three crimes of Edom, and now four—
 
@@ -121,9 +120,9 @@ his wrath raging without end,
 
 and it will devour the strongholds of Bozrah.
 
-#### Ammon
+## Ammon
 
-13 Thus says the L ORD: ^amos-01-13
+13 Thus says the LORD: ^amos-01-13
 
 For three crimes of the Ammonites, and now four—
 
@@ -143,7 +142,7 @@ amid stormwind on the day of tempest.
 
 15 Their king shall go into exile, ^amos-01-15
 
-he and his princes with him, says the L ORD.
+he and his princes with him, says the LORD.
 
 \* (1:1) The earthquake: a major earthquake during the reign of Uzziah (ca. 783–742 B.C.), so devastating that it was remembered long afterwards (cf. [Zec 14:5]). See the description of an earthquake in Amos’s final vision ([9:1]).
 

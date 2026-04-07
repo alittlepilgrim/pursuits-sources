@@ -1,15 +1,16 @@
 ---
-title: Covenant
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: covenant. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Covenant
 aliases:
   - covenant
   - Covenant
 tags:
   - term/covenant
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: covenant. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Covenant

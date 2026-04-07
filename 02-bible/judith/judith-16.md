@@ -1,27 +1,26 @@
 ---
-title: Judith, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judith, Chapter 16
+title: Judith, Chapter 16
+url: https://bible.usccb.org/bible/judith/16
 aliases:
   - judith-16
   - Judith, Chapter 16
 tags:
+  - bible/chapter
   - bible/judith
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judith/16
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Judith, Chapter 16
 ---
 
 # Judith, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
-#### Judith’s Hymn of Deliverance
+### Judith’s Hymn of Deliverance
 
 1 And Judith sang: ^judith-16-1
 

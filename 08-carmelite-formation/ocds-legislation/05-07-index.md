@@ -1,16 +1,17 @@
 ---
-title: Index of OCDS Legislation for the Province of St. Thérèse (Oklahoma)
-created: 2025-06-27
-modified: 2026-04-02
 type: legislation
-publish: true
+title: Index of OCDS Legislation for the Province of St. Thérèse (Oklahoma)
+author: Secular Order of Discalced Carmelites
 aliases:
   - 05-07-index
   - Index of Ocds Legislation for the Province of St. Thérèse (Oklahoma)
   - Index of OCDS Legislation for the Province of St. Thérèse (Oklahoma)
 tags:
   - carmel/legislation
-author: Secular Order of Discalced Carmelites
+  - type/legislation
+created: 2025-06-27
+modified: 2026-04-06
+publish: true
 ---
 
 20250627-206

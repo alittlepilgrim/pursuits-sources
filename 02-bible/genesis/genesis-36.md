@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 36
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 36
+title: Genesis, Chapter 36
+url: https://bible.usccb.org/bible/genesis/36
 aliases:
   - 20250508-020329
   - genesis-36
   - Genesis, Chapter 36
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 36
 bible_book: genesis
 bible_chapter: "36"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/36
 ---
 
 [[genesis-35|[← Previous Note]]] · [[genesis-37|[Next Note →]]]
@@ -149,6 +148,6 @@ k. (36:31] – [43) [1 Chr 1:43] – [54]..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]

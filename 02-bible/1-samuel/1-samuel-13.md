@@ -1,25 +1,24 @@
 ---
-title: 1 Samuel, Chapter 13
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Samuel, Chapter 13
+title: 1 Samuel, Chapter 13
+url: https://bible.usccb.org/bible/1samuel/13
 aliases:
   - 1 Samuel, Chapter 13
   - 1-samuel-13
 tags:
   - bible/1-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/1samuel/13
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Samuel, Chapter 13
 ---
 
 # 1 Samuel, Chapter 13
 
-### Chapter 13
+## Chapter 13
 
 1 \[Saul was…years old when he became king and he reigned…-two years over Israel.\] ^1-samuel-13-1
 
@@ -47,11 +46,11 @@ url: https://bible.usccb.org/bible/1samuel/13
 
 11 Samuel asked him, “What have you done?” Saul explained: “When I saw that the army was deserting me and you did not come on the appointed day, and that the Philistines were assembling at Michmash, ^1-samuel-13-11
 
-12 I said to myself, ‘Now the Philistines will come down against me at Gilgal, and I have not yet sought the L ORD’s blessing.’ So I thought I should sacrifice the burnt offering.” ^1-samuel-13-12
+12 I said to myself, ‘Now the Philistines will come down against me at Gilgal, and I have not yet sought the LORD’s blessing.’ So I thought I should sacrifice the burnt offering.” ^1-samuel-13-12
 
-13 Samuel replied to Saul: “You have acted foolishly! Had you kept the command the L ORD your God gave you, the L ORD would now establish your kingship in Israel forever; ^1-samuel-13-13
+13 Samuel replied to Saul: “You have acted foolishly! Had you kept the command the LORD your God gave you, the LORD would now establish your kingship in Israel forever; ^1-samuel-13-13
 
-14 but now your kingship shall not endure. The L ORD has sought out a man after his own heart to appoint as ruler over his people because you did not observe what the L ORD commanded you.” ^1-samuel-13-14
+14 but now your kingship shall not endure. The LORD has sought out a man after his own heart to appoint as ruler over his people because you did not observe what the LORD commanded you.” ^1-samuel-13-14
 
 **Philistine Invasion.**
 

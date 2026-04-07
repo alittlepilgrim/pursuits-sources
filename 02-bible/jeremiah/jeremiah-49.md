@@ -1,29 +1,28 @@
 ---
-title: Jeremiah, Chapter 49
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 49
+title: Jeremiah, Chapter 49
+url: https://bible.usccb.org/bible/jeremiah/49
 aliases:
   - jeremiah-49
   - Jeremiah, Chapter 49
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/49
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 49
 ---
 
 # Jeremiah, Chapter 49
 
-### Chapter 49
+## Chapter 49
 
 **Against the Ammonites.**
 
-1 Concerning the Ammonites. Thus says the L ORD: ^jeremiah-49-1
+1 Concerning the Ammonites. Thus says the LORD: ^jeremiah-49-1
 
 Has Israel no sons?
 
@@ -33,7 +32,7 @@ Why has Milcom disinherited Gad,
 
 why are his people living in its cities?
 
-2 Therefore the days are coming—oracle of the L ORD — ^jeremiah-49-2
+2 Therefore the days are coming—oracle of the LORD — ^jeremiah-49-2
 
 when I will sound the battle alarm
 
@@ -45,7 +44,7 @@ and its villages destroyed by fire.
 
 Israel shall then inherit those who disinherited it—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 3 Wail, Heshbon, “The ruin is destroyed!” ^jeremiah-49-3
 
@@ -79,11 +78,11 @@ with no one to gather the fugitives.
 
 6 But afterward I will restore the fortunes ^jeremiah-49-6
 
-of the Ammonites—oracle of the L ORD.
+of the Ammonites—oracle of the LORD.
 
 **Against Edom.**
 
-7 Concerning Edom. Thus says the L ORD of hosts: ^jeremiah-49-7
+7 Concerning Edom. Thus says the LORD of hosts: ^jeremiah-49-7
 
 Is there no more wisdom in Teman,
 
@@ -119,11 +118,11 @@ neighbors, too; he is no more.
 
 your widows, let them trust in me.
 
-12 For thus says the L ORD: Look, even those not sentenced to drink the cup must drink it! Shall you then go unpunished? You shall not! You shall drink every bit of it! ^jeremiah-49-12
+12 For thus says the LORD: Look, even those not sentenced to drink the cup must drink it! Shall you then go unpunished? You shall not! You shall drink every bit of it! ^jeremiah-49-12
 
-13 By myself I have sworn—oracle of the L ORD —Bozrah shall become an object of horror, a disgrace, a desolation, and a curse. Bozrah and all its cities shall become ruins forever. ^jeremiah-49-13
+13 By myself I have sworn—oracle of the LORD —Bozrah shall become an object of horror, a disgrace, a desolation, and a curse. Bozrah and all its cities shall become ruins forever. ^jeremiah-49-13
 
-14 I have heard a report from the L ORD, ^jeremiah-49-14
+14 I have heard a report from the LORD, ^jeremiah-49-14
 
 a herald has been sent among the nations:
 
@@ -145,11 +144,11 @@ occupying towering peaks:
 
 Though you build your nest high as the eagle,
 
-from there I will bring you down—oracle of the L ORD.
+from there I will bring you down—oracle of the LORD.
 
 17 Edom shall become an object of horror. Passersby recoil in terror, hissing at all its wounds. ^jeremiah-49-17
 
-18 As when Sodom, Gomorrah, and their neighbors were overthrown—oracle of the L ORD —no one shall live in it, nor anyone settle there. ^jeremiah-49-18
+18 As when Sodom, Gomorrah, and their neighbors were overthrown—oracle of the LORD —no one shall live in it, nor anyone settle there. ^jeremiah-49-18
 
 19 As when a lion comes up from a thicket of the Jordan ^jeremiah-49-19
 
@@ -165,7 +164,7 @@ What shepherd can stand against me?
 
 20 Therefore, listen to the strategy ^jeremiah-49-20
 
-the L ORD devised for Edom;
+the LORD devised for Edom;
 
 The plans he has drawn up
 
@@ -215,7 +214,7 @@ the town of joy!
 
 all the warriors destroyed on that day—
 
-oracle of the L ORD of hosts.
+oracle of the LORD of hosts.
 
 27 I will set fire to the wall of Damascus; ^jeremiah-49-27
 
@@ -225,7 +224,7 @@ it shall devour the palaces of Ben-hadad.
 
 28 About Kedar and the kingdoms of Hazor, which Nebuchadnezzar, king of Babylon, defeated. ^jeremiah-49-28
 
-Thus says the L ORD:
+Thus says the LORD:
 
 Rise up, attack Kedar,
 
@@ -241,7 +240,7 @@ they shout over them, “Terror on every side!”
 
 30 Flee! wander about, hide deep for lodging, ^jeremiah-49-30
 
-inhabitants of Hazor—oracle of the L ORD;
+inhabitants of Hazor—oracle of the LORD;
 
 For Nebuchadnezzar, king of Babylon, has devised a strategy against you,
 
@@ -249,7 +248,7 @@ drawn up a plan against you,
 
 31 Get up! set out against a tranquil nation, ^jeremiah-49-31
 
-living in security—oracle of the L ORD —
+living in security—oracle of the LORD —
 
 Without gates or bars,
 
@@ -263,7 +262,7 @@ I will scatter to the winds those who shave their temples;
 
 from every side I will bring their ruin—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 33 Hazor shall become a haunt for jackals, ^jeremiah-49-33
 
@@ -275,9 +274,9 @@ no mortal stays.
 
 **Against Elam.**
 
-34 The word of the L ORD that came to Jeremiah the prophet concerning Elam at the beginning of the reign of Zedekiah, king of Judah: ^jeremiah-49-34
+34 The word of the LORD that came to Jeremiah the prophet concerning Elam at the beginning of the reign of Zedekiah, king of Judah: ^jeremiah-49-34
 
-35 Thus says the L ORD of hosts: ^jeremiah-49-35
+35 Thus says the LORD of hosts: ^jeremiah-49-35
 
 Look! I will break the bow of Elam,
 
@@ -297,7 +296,7 @@ those seeking their life;
 
 I will bring evil upon them,
 
-my burning wrath—oracle of the L ORD.
+my burning wrath—oracle of the LORD.
 
 I will send sword after them
 
@@ -307,11 +306,11 @@ until I have finished them off;
 
 and destroy from there king and princes—
 
-oracle of the L ORD.
+oracle of the LORD.
 
 39 But at the end of days I will restore ^jeremiah-49-39
 
-the fortunes of Elam—oracle of the L ORD.
+the fortunes of Elam—oracle of the LORD.
 
 \* (49:1) Milcom: chief god of the Ammonites (cf. [[1-kings-11|1 Kgs 11]]:5). The Ammonites shared a border with Gad, an Israelite tribe in Transjordan ([Jos 13:8] – [10]); the Ammonites occupied its territory after the collapse of the Northern Kingdom.
 

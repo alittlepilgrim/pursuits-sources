@@ -1,25 +1,24 @@
 ---
-title: Revelation, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Revelation, Chapter 12
+title: Revelation, Chapter 12
+url: https://bible.usccb.org/bible/revelation/12
 aliases:
   - revelation-12
   - Revelation, Chapter 12
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/revelation
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/revelation/12
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Revelation, Chapter 12
 ---
 
 # Revelation, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **The Woman and the Dragon.**
 

@@ -1,10 +1,7 @@
 ---
-title: 2 John, The Second Letter of John
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: 2 John, the Second Letter of John
+title: 2 John, The Second Letter of John
+url: https://bible.usccb.org/bible/2john/1
 aliases:
   - 2 John, the Second Letter of John
   - 2 John, The Second Letter of John
@@ -12,11 +9,13 @@ aliases:
   - 20250730-165346
 tags:
   - bible/2-john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/2john/1
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 John, the Second Letter of John
 ---
 
 # 2 John, the Second Letter of John

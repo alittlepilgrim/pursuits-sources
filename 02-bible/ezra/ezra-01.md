@@ -1,41 +1,40 @@
 ---
-title: Ezra, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezra, Chapter 1
+title: Ezra, Chapter 1
+url: https://bible.usccb.org/bible/ezra/1
 aliases:
   - ezra-01
   - Ezra, Chapter 1
 tags:
+  - bible/chapter
   - bible/ezra
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezra/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezra, Chapter 1
 ---
 
 # Ezra, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 **The Decree of Cyrus.**
 
-1 In the first year of Cyrus, king of Persia, in order to fulfill the word of the L ORD spoken by Jeremiah, the L ORD stirred up the spirit of Cyrus king of Persia to issue a proclamation throughout his entire kingdom, both by word of mouth and in writing: ^ezra-01-1
+1 In the first year of Cyrus, king of Persia, in order to fulfill the word of the LORD spoken by Jeremiah, the LORD stirred up the spirit of Cyrus king of Persia to issue a proclamation throughout his entire kingdom, both by word of mouth and in writing: ^ezra-01-1
 
-2 “Thus says Cyrus, king of Persia: ‘All the kingdoms of the earth the L ORD, the God of heaven, has given to me, and he has charged me to build him a house in Jerusalem, which is in Judah. ^ezra-01-2
+2 “Thus says Cyrus, king of Persia: ‘All the kingdoms of the earth the LORD, the God of heaven, has given to me, and he has charged me to build him a house in Jerusalem, which is in Judah. ^ezra-01-2
 
-3 Those among you who belong to any part of his people, may their God be with them! Let them go up to Jerusalem in Judah to build the house of the L ORD the God of Israel, that is, the God who is in Jerusalem. ^ezra-01-3
+3 Those among you who belong to any part of his people, may their God be with them! Let them go up to Jerusalem in Judah to build the house of the LORD the God of Israel, that is, the God who is in Jerusalem. ^ezra-01-3
 
 4 Let all those who have survived, in whatever place they may have lived, be assisted by the people of that place with silver, gold, goods, and livestock, together with voluntary offerings for the house of God in Jerusalem.’” ^ezra-01-4
 
-5 Then the heads of ancestral houses of Judah and Benjamin and the priests and Levites—everyone, that is, whose spirit had been stirred up by God—prepared to go up to build the house of the L ORD in Jerusalem. ^ezra-01-5
+5 Then the heads of ancestral houses of Judah and Benjamin and the priests and Levites—everyone, that is, whose spirit had been stirred up by God—prepared to go up to build the house of the LORD in Jerusalem. ^ezra-01-5
 
 6 All their neighbors gave them help in every way, with silver, gold, goods, livestock, and many precious gifts, besides all their voluntary offerings. ^ezra-01-6
 
-7 King Cyrus, too, had the vessels of the house of the L ORD brought forth that Nebuchadnezzar had taken from Jerusalem and placed in the house of his god. ^ezra-01-7
+7 King Cyrus, too, had the vessels of the house of the LORD brought forth that Nebuchadnezzar had taken from Jerusalem and placed in the house of his god. ^ezra-01-7
 
 8 Cyrus, king of Persia, had them brought forth by the treasurer Mithredath, who counted them out to Sheshbazzar, prince of Judah. ^ezra-01-8
 

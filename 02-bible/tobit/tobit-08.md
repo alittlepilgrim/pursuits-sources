@@ -1,25 +1,24 @@
 ---
-title: Tobit, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Tobit, Chapter 8
+title: Tobit, Chapter 8
+url: https://bible.usccb.org/bible/tobit/8
 aliases:
   - tobit-08
   - Tobit, Chapter 8
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/tobit
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/tobit/8
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Tobit, Chapter 8
 ---
 
 # Tobit, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
 **Expulsion of the Demon.**
 

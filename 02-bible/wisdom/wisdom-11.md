@@ -1,31 +1,30 @@
 ---
-title: Wisdom, Chapter 11
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 11
+title: Wisdom, Chapter 11
+url: https://bible.usccb.org/bible/wisdom/11
 aliases:
   - wisdom-11
   - Wisdom, Chapter 11
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/11
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 11
 ---
 
 # Wisdom, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 1 She prospered their affairs through the holy prophet. ^wisdom-11-1
 
-## Iii. Special Providence of God During the Exodus
+# Iii. Special Providence of God During the Exodus
 
-#### Introduction
+## Introduction
 
 2 They journeyed through the uninhabited desert, ^wisdom-11-2
 
@@ -43,7 +42,7 @@ a quenching of their thirst from the hard stone.
 
 they in their need were benefited.
 
-#### First Example: Water Punishes the Egyptians and Benefits the Israelites
+## First Example: Water Punishes the Egyptians and Benefits the Israelites
 
 6 Instead of a river’s perennial source, ^wisdom-11-6
 
@@ -81,7 +80,7 @@ in the final outcome, they marveled at him,
 
 since their thirst proved unlike that of the righteous.
 
-#### Second Example: Animals Punish the Egyptians and Benefit the Israelites
+## Second Example: Animals Punish the Egyptians and Benefit the Israelites
 
 15 In return for their senseless, wicked thoughts, ^wisdom-11-15
 
@@ -91,7 +90,7 @@ You sent upon them swarms of dumb creatures for vengeance;
 
 16 that they might recognize that one is punished by the very things through which one sins. ^wisdom-11-16
 
-#### Digression on God’s Mercy
+## Digression on God’s Mercy
 
 17 For not without means was your almighty hand, ^wisdom-11-17
 

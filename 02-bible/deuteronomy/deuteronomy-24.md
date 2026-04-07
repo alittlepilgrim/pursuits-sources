@@ -1,25 +1,24 @@
 ---
-title: Deuteronomy, Chapter 24
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Deuteronomy, Chapter 24
+title: Deuteronomy, Chapter 24
+url: https://bible.usccb.org/bible/deuteronomy/24
 aliases:
   - deuteronomy-24
   - Deuteronomy, Chapter 24
 tags:
+  - bible/chapter
   - bible/deuteronomy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/deuteronomy/24
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Deuteronomy, Chapter 24
 ---
 
 # Deuteronomy, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
 **Marriage Legislation.**
 
@@ -29,7 +28,7 @@ url: https://bible.usccb.org/bible/deuteronomy/24
 
 3 and the second husband, too, comes to dislike her and he writes out a bill of divorce and hands it to her, thus dismissing her from his house, or if this second man who has married her dies, ^deuteronomy-24-3
 
-4 then her former husband, who dismissed her, may not again take her as his wife after she has become defiled. That would be an abomination before the L ORD, and you shall not bring such guilt upon the land the L ORD, your God, is giving you as a heritage. ^deuteronomy-24-4
+4 then her former husband, who dismissed her, may not again take her as his wife after she has become defiled. That would be an abomination before the LORD, and you shall not bring such guilt upon the land the LORD, your God, is giving you as a heritage. ^deuteronomy-24-4
 
 5 When a man is newly wed, he shall not go out on a military expedition, nor shall any duty be imposed on him. He shall be exempt for one year for the sake of his family, to bring joy to the wife he has married. ^deuteronomy-24-5
 
@@ -43,7 +42,7 @@ url: https://bible.usccb.org/bible/deuteronomy/24
 
 8 In an attack of scaly infection you shall be careful to observe exactly and to carry out all the instructions the levitical priests give you, as I have commanded them: observe them carefully. ^deuteronomy-24-8
 
-9 Remember what the L ORD, your God, did to Miriam on the journey after you left Egypt. ^deuteronomy-24-9
+9 Remember what the LORD, your God, did to Miriam on the journey after you left Egypt. ^deuteronomy-24-9
 
 **Loans and Wages.**
 
@@ -53,11 +52,11 @@ url: https://bible.usccb.org/bible/deuteronomy/24
 
 12 If the person is poor, you shall not sleep in the pledged garment, ^deuteronomy-24-12
 
-13 but shall definitely return it at sunset, so that your neighbor may sleep in the garment and bless you. That will be your justice before the L ORD, your God. ^deuteronomy-24-13
+13 but shall definitely return it at sunset, so that your neighbor may sleep in the garment and bless you. That will be your justice before the LORD, your God. ^deuteronomy-24-13
 
 14 You shall not exploit a poor and needy hired servant, whether one of your own kindred or one of the resident aliens who live in your land, within your gates. ^deuteronomy-24-14
 
-15 On each day you shall pay the servant’s wages before the sun goes down, since the servant is poor and is counting on them. Otherwise the servant will cry to the L ORD against you, and you will be held guilty. ^deuteronomy-24-15
+15 On each day you shall pay the servant’s wages before the sun goes down, since the servant is poor and is counting on them. Otherwise the servant will cry to the LORD against you, and you will be held guilty. ^deuteronomy-24-15
 
 **Individual Responsibility.**
 
@@ -67,9 +66,9 @@ url: https://bible.usccb.org/bible/deuteronomy/24
 
 17 You shall not deprive the resident alien or the orphan of justice, nor take the clothing of a widow as pledge. ^deuteronomy-24-17
 
-18 For, remember, you were slaves in Egypt, and the L ORD, your God, redeemed you from there; that is why I command you to do this. ^deuteronomy-24-18
+18 For, remember, you were slaves in Egypt, and the LORD, your God, redeemed you from there; that is why I command you to do this. ^deuteronomy-24-18
 
-19 When you reap the harvest in your field and overlook a sheaf in the field, you shall not go back to get it; let it be for the resident alien, the orphan, and the widow, so that the L ORD, your God, may bless you in all your undertakings. ^deuteronomy-24-19
+19 When you reap the harvest in your field and overlook a sheaf in the field, you shall not go back to get it; let it be for the resident alien, the orphan, and the widow, so that the LORD, your God, may bless you in all your undertakings. ^deuteronomy-24-19
 
 20 When you knock down the fruit of your olive trees, you shall not go over the branches a second time; let what remains be for the resident alien, the orphan, and the widow. ^deuteronomy-24-20
 

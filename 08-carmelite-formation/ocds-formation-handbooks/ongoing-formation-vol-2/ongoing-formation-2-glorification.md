@@ -1,18 +1,20 @@
 ---
-title: Glorification — Understanding The Concepts of Transformation and Union
-created: 2025-11-15
-modified: 2026-04-02
 type: formation-handbook
-publish: true
+title: Glorification — Understanding The Concepts of Transformation and Union
+author: Secular Order of Discalced Carmelites
 aliases:
   - Glorification — Understanding The Concepts of Transformation and Union
   - glorification-understanding-the-concepts-of-transformation-and-union
-author: Secular Order of Discalced Carmelites
+tags:
+  - type/study-guide
+created: 2025-11-15
+modified: 2026-04-06
+publish: true
 ---
 
-## Glorification — Understanding the Concepts of Transformation and Union - OCDS Ongoing Formation Volume II
+# Glorification — Understanding the Concepts of Transformation and Union - OCDS Ongoing Formation Volume II
 
-#### Introduction
+## Introduction
 
 Trials, temptations, and sufferings that lead to one’s purification are not an end in themselves. Both Teresa and John understood that they are the means to a glorious transformation and union with God. As Saint John Paul II observes:
 

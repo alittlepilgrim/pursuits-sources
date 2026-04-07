@@ -1,25 +1,24 @@
 ---
-title: Isaiah, Chapter 26
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 26
+title: Isaiah, Chapter 26
+url: https://bible.usccb.org/bible/isaiah/26
 aliases:
   - isaiah-26
   - Isaiah, Chapter 26
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/26
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 26
 ---
 
 # Isaiah, Chapter 26
 
-### Chapter 26
+## Chapter 26
 
 **Judah’s Praise and Prayer for Deliverance.**
 
@@ -39,9 +38,9 @@ one that keeps faith.
 
 in peace, because of our trust in you.”
 
-4 Trust in the L ORD forever! ^isaiah-26-4
+4 Trust in the LORD forever! ^isaiah-26-4
 
-For the L ORD is an eternal Rock.
+For the LORD is an eternal Rock.
 
 5 He humbles those who dwell on high, ^isaiah-26-5
 
@@ -59,7 +58,7 @@ the feet of the poor.
 
 the path of the just you make level.
 
-8 The course of your judgments, L ORD, we await; ^isaiah-26-8
+8 The course of your judgments, LORD, we await; ^isaiah-26-8
 
 your name and your memory are the desire of our souls.
 
@@ -75,9 +74,9 @@ the world’s inhabitants learn justice.
 
 in an upright land they act perversely,
 
-and do not see the majesty of the L ORD.
+and do not see the majesty of the LORD.
 
-11 L ORD, your hand is raised high, ^isaiah-26-11
+11 LORD, your hand is raised high, ^isaiah-26-11
 
 but they do not perceive it;
 
@@ -85,11 +84,11 @@ Let them be put to shame when they see your zeal for your people:
 
 let the fire prepared for your enemies consume them.
 
-12 L ORD, you will decree peace for us, ^isaiah-26-12
+12 LORD, you will decree peace for us, ^isaiah-26-12
 
 for you have accomplished all we have done.
 
-13 L ORD, our God, lords other than you have ruled us; ^isaiah-26-13
+13 LORD, our God, lords other than you have ruled us; ^isaiah-26-13
 
 only because of you can we call upon your name.
 
@@ -101,13 +100,13 @@ Indeed, you have punished and destroyed them,
 
 and wiped out all memory of them.
 
-15 You have increased the nation, L ORD, ^isaiah-26-15
+15 You have increased the nation, LORD, ^isaiah-26-15
 
 you have increased the nation, have added to your glory,
 
 you have extended far all the boundaries of the land.
 
-16 L ORD, oppressed by your punishment, ^isaiah-26-16
+16 LORD, oppressed by your punishment, ^isaiah-26-16
 
 we cried out in anguish under your discipline.
 
@@ -115,7 +114,7 @@ we cried out in anguish under your discipline.
 
 writhes and cries out in pain,
 
-so were we before you, L ORD.
+so were we before you, LORD.
 
 18 We conceived and writhed in pain, ^isaiah-26-18
 
@@ -133,7 +132,7 @@ For your dew is a dew of light,
 
 and you cause the land of shades to give birth.
 
-#### The Lord’s Response
+### The Lord’s Response
 
 20 Go, my people, enter your chambers, ^isaiah-26-20
 
@@ -143,7 +142,7 @@ Hide yourselves for a brief moment,
 
 until the wrath is past.
 
-21 See, the L ORD goes forth from his place, ^isaiah-26-21
+21 See, the LORD goes forth from his place, ^isaiah-26-21
 
 to punish the wickedness of the earth’s inhabitants;
 

@@ -1,27 +1,26 @@
 ---
-title: Isaiah, Chapter 54
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 54
+title: Isaiah, Chapter 54
+url: https://bible.usccb.org/bible/isaiah/54
 aliases:
   - isaiah-54
   - Isaiah, Chapter 54
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/54
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 54
 ---
 
 # Isaiah, Chapter 54
 
-### Chapter 54
+## Chapter 54
 
-#### The New Zion
+### The New Zion
 
 1 Raise a glad cry, you barren one who never bore a child, ^isaiah-54-1
 
@@ -31,7 +30,7 @@ For more numerous are the children of the deserted wife
 
 than the children of her who has a husband,
 
-says the L ORD.
+says the LORD.
 
 2 Enlarge the space for your tent, ^isaiah-54-2
 
@@ -55,13 +54,13 @@ the reproach of your widowhood no longer remember.
 
 5 For your husband is your Maker; ^isaiah-54-5
 
-the L ORD of hosts is his name,
+the LORD of hosts is his name,
 
 Your redeemer, the Holy One of Israel,
 
 called God of all the earth.
 
-6 The L ORD calls you back, ^isaiah-54-6
+6 The LORD calls you back, ^isaiah-54-6
 
 like a wife forsaken and grieved in spirit,
 
@@ -79,7 +78,7 @@ I hid my face from you;
 
 But with enduring love I take pity on you,
 
-says the L ORD, your redeemer.
+says the LORD, your redeemer.
 
 9 This is for me like the days of Noah: ^isaiah-54-9
 
@@ -99,7 +98,7 @@ My love shall never fall away from you
 
 nor my covenant of peace be shaken,
 
-says the L ORD, who has mercy on you.
+says the LORD, who has mercy on you.
 
 11 O afflicted one, storm-battered and unconsoled, ^isaiah-54-11
 
@@ -113,7 +112,7 @@ your gates of jewels,
 
 and all your walls of precious stones.
 
-13 All your children shall be taught by the L ORD; ^isaiah-54-13
+13 All your children shall be taught by the LORD; ^isaiah-54-13
 
 great shall be the peace of your children.
 
@@ -143,9 +142,9 @@ every tongue that brings you to trial
 
 you shall prove false.
 
-This is the lot of the servants of the L ORD,
+This is the lot of the servants of the LORD,
 
-their vindication from me—oracle of the L ORD.
+their vindication from me—oracle of the LORD.
 
 \* (54:1) Jerusalem, pictured as a wife who had been barren and deserted, now suddenly finds herself with innumerable children (the returning exiles); cf. [Gal 4:27] for an application to a new context.
 

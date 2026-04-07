@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 2
+title: Wisdom, Chapter 2
+url: https://bible.usccb.org/bible/wisdom/2
 aliases:
   - wisdom-02
   - Wisdom, Chapter 2
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/2
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 2
 ---
 
 # Wisdom, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 1 For, not thinking rightly, they said among themselves: ^wisdom-02-1
 
@@ -95,7 +94,7 @@ and charges us with violations of our training.
 
 13 He professes to have knowledge of God ^wisdom-02-13
 
-and styles himself a child of the L ORD.
+and styles himself a child of the LORD.
 
 14 To us he is the censure of our thoughts; ^wisdom-02-14
 

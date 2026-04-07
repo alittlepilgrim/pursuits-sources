@@ -1,15 +1,17 @@
 ---
-title: Priesthood of Christ
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: priesthood-of-christ. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Priesthood of Christ
+author:
 aliases:
   - Priesthood of Christ
   - priesthood-of-christ
 tags:
   - term/priesthood-of-christ
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: priesthood-of-christ. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Priesthood of Christ

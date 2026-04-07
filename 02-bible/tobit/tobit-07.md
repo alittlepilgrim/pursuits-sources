@@ -1,25 +1,24 @@
 ---
-title: Tobit, Chapter 7
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: tobit-chapter 7
+title: Tobit, Chapter 7
+url: https://bible.usccb.org/bible/tobit/7
 aliases:
   - tobit-07
   - Tobit, Chapter 7
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/tobit
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/tobit/7
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: tobit-chapter 7
 ---
 
 # Tobit, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
 **At the House of Raguel.**
 

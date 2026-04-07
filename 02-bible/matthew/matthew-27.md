@@ -1,25 +1,24 @@
 ---
-title: Matthew, Chapter 27
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Matthew, Chapter 27
+title: Matthew, Chapter 27
+url: https:bible.usccb.org/bible/matthew/27
 aliases:
   - matthew-27
   - Matthew, Chapter 27
 tags:
+  - bible/chapter
   - bible/matthew
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https:bible.usccb.org/bible/matthew/27
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Matthew, Chapter 27
 ---
 
 # Matthew, Chapter 27
 
-### Chapter 27
+## Chapter 27
 
 **Jesus Before Pilate.**
 

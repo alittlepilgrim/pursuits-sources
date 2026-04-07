@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint Teresa of St. Augustine Lidoine
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - Saint Teresa of St. Augustine Lidoine
@@ -13,8 +10,11 @@ tags:
   - saint
   - term/martyr
   - term/virgin
-celebration: "07-17"
-full_name: "St. Teresa of St. Augustine Lidoine"
+  - type/figure
+celebration: 07-17
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Teresa of St. Augustine Lidoine

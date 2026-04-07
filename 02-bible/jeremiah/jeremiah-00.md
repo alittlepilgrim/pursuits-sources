@@ -1,21 +1,20 @@
 ---
-title: Jeremiah, Chapter Index
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 1
+title: Jeremiah, Chapter Index
+url: https://bible.usccb.org/bible/jeremiah/1
 aliases:
   - jeremiah-01
   - Jeremiah, Chapter 1
   - Jeremiah, Chapter Index
 tags:
+  - bible/book
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/1
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 1
 ---
 
 # Jeremiah, Chapter Index

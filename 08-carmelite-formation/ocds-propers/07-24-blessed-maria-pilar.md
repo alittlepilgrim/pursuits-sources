@@ -1,10 +1,8 @@
 ---
-title: July 24, Blesseds Maria of St Francis Borgia, Maria Sagrario of St Aloysius Gonzaga and Companions
-created: 2025-07-23
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: Maria Sagrario, a pharmacist by trade, she was one of the first women in Spain to be admitted to this qualification. From OCDS propers for July 24.
+title: July 24, Blesseds Maria of St Francis Borgia, Maria Sagrario of St Aloysius Gonzaga and Companions
+author: OCD General Curia
+url: https://www.carmelitaniscalzi.com/en/agenda/
 aliases:
   - 07-24-blessed-maria-pilar
   - 20250723-194055
@@ -12,10 +10,13 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-attachment: true
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 07-24
-url: https://www.carmelitaniscalzi.com/en/agenda/
+created: 2025-07-23
+modified: 2026-04-06
+publish: false
+description: Maria Sagrario, a pharmacist by trade, she was one of the first women in Spain to be admitted to this qualification. From OCDS propers for July 24.
+attachment: true
 ---
 
 > **July 24
@@ -28,7 +29,7 @@ In one single memorial, we remember our sisters who were martyred in the Spanish
 
 From: https://www.carmelitaniscalzi.com/en/agenda/
 
-Propers:
+Propers:[24 July: Blessed Maria Pilar of Saint Francis Borgia Martínez García, Blessed Maria Sagrario of Saint Aloysius Gonzaga Moragas Cantarero and Companions](https://carmelitequotes.blog/2025/07/22/guadalit25/)
 
 **Prayer**
 

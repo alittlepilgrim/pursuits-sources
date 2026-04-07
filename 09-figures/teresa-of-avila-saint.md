@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint Teresa of Jesus (of Avila)
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: true
 aliases:
   - 20250912-204812
   - Saint Teresa of Jesus (of Avila)
@@ -11,7 +8,7 @@ aliases:
   - teresa-of-avila-saint
 tags:
   - author
-  - author/teresa-of-avila
+  - author/saint-teresa-of-avila
   - book/tj-interior-castle
   - book/tj-life
   - book/tj-way-of-perfection
@@ -19,12 +16,14 @@ tags:
   - saint
   - saint/teresa-of-avila
   - term/virgin
-birth_date: 1515-03-28
-canonization: 1622
+  - type/figure
+birthday: 1515-03-28
+death_date: 1582-10-04
 celebration: 10-15
 celebration_day: 10-15
-death_date: 1582-10-04
-full_name: ST. TERESA OF AVILA
+created: 2025-09-12
+modified: 2026-04-06
+publish: true
 ---
 
 # Saint Teresa of Jesus (of Avila)

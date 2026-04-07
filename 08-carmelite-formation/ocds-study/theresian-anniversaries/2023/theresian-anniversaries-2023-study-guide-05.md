@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Study Guide 5 Father’s Illness Ad Therese Receives the Habit (Ms A, 71r-73v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Study Guide 5 Father’s Illness Ad Therese Receives the Habit (Ms A, 71r-73v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 - Study Guide 5 Father’s Illness Ad Therese Receives the Habit (Ms A, 71r-73v)
   - theresian-anniversaries-2023-study-guide-05
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 - Study Guide 5 Father’s Illness Ad Therese Receives the Habit (Ms A, 71r-73v)
@@ -25,7 +25,7 @@ Community dialogue on the text.
 
 It would be good if the community meeting was preceded by a personal reading and meditation on the text of Therese.
 
-### Manuscript A, 71r-73v [ICS Pp. 151 – 157]
+## Manuscript A, 71r-73v [ICS Pp. 151 – 157]
 
 The little flower transplanted to Mount Carmel was to ex-pand under the shadow of the cross. The tears and blood of Jesus were to be her dew, and her Sun was His adorable Face veiled with tears. Until my coming to Carmel, I had never fathomed the depths of the treasures hidden in the Holy Face. It was through you, dear Mother, that I learned to know these treasures. Just as formerly you had preceded us into Carmel, so also you were first to enter deeply into the mysteries of love hidden in the Face of our Spouse. You called me and I understood. I understood what real glory was. He whose Kingdom is not of this world showed me that true wisdom consists in “desiring to be unknown and counted as nothing,” in “placing one’s joy in the contempt of self.” Ah! I desired that, like the Face of Jesus, “my face be truly hidden, that no one on earth would know me.” I thirsted after suffering and I longed to be forgotten.
 
@@ -71,7 +71,7 @@ O dear Mother! how sweet our great trial was since [5]
 
 from our hearts came only sighs of love and gratitude! We were no longer walking in the way of perfection, we were flying, all five of us. The two poor little exiles of Caen, while still in the world, were no longer of it. Ah! what marvels the trial worked in my dear Céline’s soul! All the letters she wrote at this epoch are filled with resignation and love. And who could express the visits we had together? Ah! far from separating us, Carmel’s grilles united our souls more strongly; we had the same thoughts, the same desires, the same love for Jesus and for souls. When Céline and Thérèse were speaking together, never did a word concerning the things of the earth mingle in their conversations which were al-ready in the heavens. As formerly in the belvédère, they dreamed about things of eternity. To enjoy this endless happiness as soon as possible, they chose as their lot here on earth both suffering and contempt.
 
-### Introduction to the Text
+## Introduction to the Text
 
 The depths of treasures hidden in the Holy Face » (Ms A, 71r), [ICS p. 152]. Devotion to the Holy Face developed in the 19th cen-tury following revelations made by Our Lord to sister Marie de Saint-Pierre, of the Tours Carmel. From the beginning of her religious life, Therese was initiated into this devotion by Sister Agnes of Jesus.
 
@@ -93,7 +93,7 @@ Martin was transferred to a nursing home in Caen, following hallucinations that 
 
 « I was still the happiest of creatures » (Ms A, 73v), [ICS p. 157]: as often, Thérèse weaves here the most contradictory impressions to describe the state of heroic love that fills her heart.
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What does the text say? Understanding the content and primary meaning of Therese’s text.
 2. What does the text say to us today? Grasping the relevance (social, ecclesial, spiritual…) of the text.
@@ -101,7 +101,7 @@ Martin was transferred to a nursing home in Caen, following hallucinations that 
 
 The purpose of doing things in this manner is to allow Therese to speak to us, to question us, to encourage us, and to welcome her to shed light upon and confirm our personal and community journey. The questions proposed are therefore only indicative and can possibly accompany personal meditation and community sharing.
 
-### Questions
+## Questions
 
 1. The Holy Face: Therese is nourished by three dimensions that she connects together: a devotion (to the Holy Face), an experience (the sickness of her father) and the Word of God (the suffering servant of Isaiah). This triptych is really enlightening; Does the way she sets it out help us in our way of living through an ordeal and/or accompanying others in their ordeal?
 2. Is contemplation of the Passion of Christ usually a support, a call when we are going through personal and/or community trials? Do we propose this contemplation to the people in the trial we encounter?

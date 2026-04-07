@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2024 - Text 5 the Trial of Faith (Ms. C, 4v-7v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2024 - Text 5 the Trial of Faith (Ms. C, 4v-7v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2024 - Text 5 the Trial of Faith (Ms. C, 4v-7v)
   - theresian-anniversaries-2024-text-05
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2024 - Text 5 the Trial of Faith (Ms. C, 4v-7v)
@@ -58,7 +58,7 @@ My dear Mother, I may perhaps appear to you to be ex-aggerating my trial. In fac
 
 Never have I felt before this, dear Mother, how sweet and merciful the Lord really is, for He did not send me this trial until the moment I was capable of bearing it. A little earlier I believe it would have plunged me into a state of discouragemeant. Now it is taking away everything that could be a natural satisfaction in my desire for heaven. Dear Mother, it seems to me now that nothing could prevent me from flying away, for I no longer have any great desires except that of loving to the point of dying of love. June 9
 
-### Introduction to the Text
+## Introduction to the Text
 
 ‘The trial I am suffering for a year now’ (Ms. C, 4v): this refers to the challenge to her faith that began around Easter 1896, in April.
 
@@ -84,7 +84,7 @@ Never have I felt before this, dear Mother, how sweet and merciful the Lord real
 
 ‘Loving to the point of dying of love’ (Ms. C, 7v): the graphic emotion of these last lines show Therese’s exhaustion, who in fact was working in bed, on a very hard straw mattress.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -92,7 +92,7 @@ Never have I felt before this, dear Mother, how sweet and merciful the Lord real
 
 The purpose of this process is to allow Therese to speak to us herself, to question and encourage us, and to open us up to her clarifying and confirming our own personal and community path. The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. Therese suffered very much. We can bring to mind her physical, emotional and spiritual suffering. How is Therese able to help us in our own trials?
 2. How does Therese deepen her little way in this context? How does this bear fruit on the mystical and apostolic levels?

@@ -1,28 +1,20 @@
 ---
-title: The Living Flame of Love by John of the Cross
-created: 2026-03-28
-modified: 2026-04-02
 type: book
-publish: false
+title: The Living Flame of Love by John of the Cross
+author: Saint John of the Cross
+url: https://www.ewtn.com/catholicism/library/living-flame-of-love-12524|
 aliases:
   - The Living Flame of Love
 tags:
   - book
-author: Saint John of the Cross
-source: https://www.ewtn.com/catholicism/library/living-flame-of-love-12524|
+created: 2026-03-28
+modified: 2026-04-04
+publish: false
 ---
 
-# The Living Flame of Love | Ewtn
-
-2026-03-28
-
-## The Living Flame of Love
+# The Living Flame of Love
 
 **Author:** John of the Cross
-
-Share
-
-THE LIVING FLAME OF LOVE
 
 Jesus Mary Joseph
 

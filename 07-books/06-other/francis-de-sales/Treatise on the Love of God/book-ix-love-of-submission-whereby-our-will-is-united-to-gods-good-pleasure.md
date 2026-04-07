@@ -1,23 +1,21 @@
 ---
-title: Book IX. Love of Submission, Whereby Our Will Is United to God's Good-pleasure - Treatise on the Love of God
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: Book IX. Love of Submission, Whereby Our Will Is United to God's Good-pleasure
+title: Book IX. Love of Submission, Whereby Our Will Is United to God's Good-pleasure - Treatise on the Love of God
+author: Saint Francis de Sales
 aliases:
   - Book IX. Love of Submission, Whereby Our Will Is United to God's Good-pleasure
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
+  - author/saint-francis-de-sales
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: Book IX. Love of Submission, Whereby Our Will Is United to God's Good-pleasure
 ---
 
 # Book IX. Love of Submission, Whereby Our Will Is United to God's Good-pleasure
 
-### Chapter I. of the Union of Our Will to That Divine Will Which Is Called the Will
+## Chapter I. of the Union of Our Will to That Divine Will Which Is Called the Will
 
 OF GOOD-PLEASURE.
 
@@ -39,7 +37,7 @@ Let us come, next, to ourselves in particular, and behold the multitude of inter
 
 [400] Ps. cxviii. 137.
 
-### Chapter II. That the Union of Our Will with the Good-pleasure of God Takes Place
+## Chapter II. That the Union of Our Will with the Good-pleasure of God Takes Place
 
 PRINCIPALLY IN TRIBULATIONS.
 
@@ -67,7 +65,7 @@ Catharine of Siena, having from our Saviour her choice of a crown of gold or a c
 
 [402] Gal. vi. 14.
 
-### Chapter III. of the Union of Our Will to the Divine Good-pleasure in Spiritual
+## Chapter III. of the Union of Our Will to the Divine Good-pleasure in Spiritual
 
 AFFLICTIONS, BY RESIGNATION.
 
@@ -85,7 +83,7 @@ This union or conformity with the divine good-pleasure is made either by holy Re
 
 [404] Job i. 21.
 
-### Chapter IV. of the Union of Our Will to the Good-pleasure of God by Indifference
+## Chapter IV. of the Union of Our Will to the Good-pleasure of God by Indifference
 
 Resignation prefers God's will before all things, yet it loves many other things besides the will of God. Indifference goes beyond resignation: for it loves nothing except for the love of God's will: insomuch that nothing can stir the indifferent heart, in the presence of the will of God. It is true that the most indifferent heart in the world may be touched with some affection, so long as it does not know where the will of God is. Eliezer being come to the fountain of Haran, saw the virgin Rebecca, and found her lovely and amiable beyond his expectation; but yet he stayed in Indifference, till he knew by a sign from God, that the Divine will had prepared her for his master's son; then he presented her with the earrings and bracelets of gold. On the contrary, if Jacob had only loved in Rachel the alliance with Laban, to which his father Isaac had obliged him, Lia would have been as dear unto him as Rachel, they being both Laban's daughters; and consequently his father's will would have been as well fulfilled in the one as in the other. But because, besides his father's will, he desired to satisfy his own liking, charmed with the beauty and grace of Rachel, he disliked marrying Lia, and took her against his inclination, resignedly.
 
@@ -111,7 +109,7 @@ God's will lies in moderation amid consolations, and in patience amid tribulatio
 
 [407] Ps. lxxii. 25.
 
-### Chapter V. That Holy Indifference Extends to All Things
+## Chapter V. That Holy Indifference Extends to All Things
 
 Indifference is to be practised in things belonging to the natural life, as in health, sickness, beauty, deformity, weakness, strength: in the affairs of the spiritual life, as in dryness, consolations, relish, aridity; in actions, in sufferings,--briefly, in all sorts of events.
 
@@ -129,7 +127,7 @@ They say that the fish termed lantern-of-the-sea in the midst of the tempest thr
 
 [408] 2 Cor. vi. 4-10 [409] Ezech. viii. 3.
 
-### Chapter VI. of the Practice of Loving Indifference, in Things Belonging to the
+## Chapter VI. of the Practice of Loving Indifference, in Things Belonging to the
 
 SERVICE OF GOD.
 
@@ -157,7 +155,7 @@ When therefore it happens that in punishment of our fault our holy designs have 
 
 [410] Ps. xliv. 6. According to the Septuagint and the Hebrew (Tr.)
 
-### Chapter VII. of the Indifference Which We Are to Have as to Our Advancement in
+## Chapter VII. of the Indifference Which We Are to Have as to Our Advancement in
 
 VIRTUES.
 
@@ -189,7 +187,7 @@ God wills us to have enemies, and it is also his will that we should repulse the
 
 [415] 2 Cor. xii. 9.
 
-### Chapter VIII. How We Are to Unite Our Will with God's in the Permission of Sins
+## Chapter VIII. How We Are to Unite Our Will with God's in the Permission of Sins
 
 God sovereignly hates sin, and yet he most wisely permits it, in order to let the reasonable creature act according to the condition of its nature; and to make the good more worthy of commendation, when having power to transgress the law they do not transgress it. Let us therefore adore and bless this holy permission, but since the Providence which permits sin infinitely hates it, let us also detest and hate it, desiring with all our power that sin permitted may not be committed, and according to this desire let us make use of all means possible to hinder the birth, growth and reign of sin. Let us in this imitate our Saviour, who never ceases to exhort, promise, threaten, prohibit, command and inspire us, in order to turn our will from sin, so far forth as is possible without depriving us of liberty: and when the sin is once committed let us endeavour what we are able to have it blotted out, like our Saviour, who assured Carpus, as was said above, that, if it were requisite, he was ready to suffer death again to deliver a single soul from sin. But if the sinner grow obstinate, let us weep, Theotimus, groan, pray for him, before the Saviour of our souls, who having all his lifetime shed an abundance of tears over sinners and over those who represented all sinners, died in the end--his eyes full of tears, his body all steeped in blood--lamenting the ruin of sinners.
 
@@ -213,7 +211,7 @@ So the just man who sings the praises of the mercy of God over such as shall be 
 
 [420] Matt. xxi. 43.
 
-### Chapter IX. How the Purity of Indifference Is to Be Practised in the Actions of
+## Chapter IX. How the Purity of Indifference Is to Be Practised in the Actions of
 
 SACRED LOVE.
 
@@ -227,7 +225,7 @@ Notice, I pray you, Theotimus, what I mean. The young nightingales do first essa
 
 [421] Ps. lvi. 8, 9.
 
-### Chapter X. Means to Discover When We Change in the Matter of This Holy Love
+## Chapter X. Means to Discover When We Change in the Matter of This Holy Love
 
 You may easily discover this, Theotimus; for if this mystical nightingale sing to please God, she will sing the song which she knows to be most grateful to the Divine Providence, but if she sing for the delight which she herself takes in her melodious song, she will not sing the canticle which is most agreeable to the heavenly goodness, but that which she herself likes best, and from which she expects to draw the most contentment. Of two canticles which are both divine, it may well be that one may be sung because it is divine, and the other because it is pleasing. Rachel and Lia are equally wife of Jacob, but he loves one only in the quality of wife, the other in quality of beautiful. The canticle is divine, but the motive which moves us to sing it is the spiritual delectation which we expect from it.
 
@@ -241,7 +239,7 @@ He that is in the heat of sacred love, does not turn his heart back upon himself
 
 Why, Theotimus, did Amnon the son of David love Thamar so desperately that he even thought he should die of love? Do you think that it was she herself that he loved? You soon see it was not. Look at this man who prays, apparently, with such great devotion, and is so ardent in the practice of heavenly love. But stay a little, and you will discover whether it be God indeed whom he loves. Alas! as soon as the delight and satisfaction which he took in love departs, and dryness comes, he will stop short, and only casually pray. If it had been God indeed whom he loved, why should he cease loving him, since God is ever God? It was therefore the consolations of God that he loved, not the God of consolation. In truth there are many who take no delight in divine love unless it be candied in the sugar of some sensible sweetness, and they would willingly act like children, who, if they have a little honey spread upon their bread, lick and suck off the honey, casting the bread away; for if the delight could be separated from the love, they would reject love and take the sweetness only. Wherefore as they follow love for the sake of its sweetness, when they find not this they make no account of love. But such persons are exposed to a great danger of either turning back as soon as they miss their relish and consolations, or else of occupying themselves in vain sweetnesses, far remote from true love, and of mistaking the honey of Heraclea for that of Narbonne.
 
-### Chapter XI. of the Perplexity of a Heart Which Loves Without Knowing Whether It
+## Chapter XI. of the Perplexity of a Heart Which Loves Without Knowing Whether It
 
 PLEASES THE BELOVED.
 
@@ -259,7 +257,7 @@ O God! my dear Theotimus, now it is that we are to show an invincible courage to
 
 John upon the day of his Passion. Amongst so many blasphemies, sorrows and deadly distresses, they remained constant in love, yea, even in that instant in which our Saviour, having withdrawn all his holy joy into the very summit of his spirit, left no joy or consolation at all in his Divine countenance, and when his eyes, languishing and covered with the dark veil of death, did only cast looks of sorrow, as the sun also shot forth rays of horror and frightful darkness.
 
-### Chapter XII. How the Soul Amidst These Interior Anguishes Knows Not the Love She
+## Chapter XII. How the Soul Amidst These Interior Anguishes Knows Not the Love She
 
 BEARS TO GOD: AND OF THE MOST LOVE-FULL DEATH OF THE WILL.
 
@@ -281,7 +279,7 @@ But what is the soul to do that finds herself in this case? Theotimus, she knows
 
 [423] Ps. cxxv. 1.
 
-### Chapter XIII. How the Will Being Dead to Itself Lives Entirely in God's Will
+## Chapter XIII. How the Will Being Dead to Itself Lives Entirely in God's Will
 
 We speak with a singular propriety of a man's death in our French tongue, for we call it an overpassing (trespas) and the dead the overpassers, intimating that death amongst men is but a passing over from one life to another, and that to die is no other thing but to overpass the confines of this mortal life, to enter the immortal. True it is, our will can no more die than our soul, yet does it sometimes go out of the limits of its ordinary life, to live wholly in the Divine will. This is when it neither wills nor cares to desire any thing at all, but gives itself over totally and without reserve to the good pleasure of the Divine Providence, so mingling and saturating itself with this good pleasure, that itself is seen no more, but is all hidden with Jesus Christ in God, where it lives, not it, but the will of God lives in it.
 
@@ -293,7 +291,7 @@ It is truly the highest perfection of our will to be thus united to that of our 
 
 [424] Ps. lxxii. 24.
 
-### Chapter XIV. an Explanation of What Has Been Said Touching the Decease of Our Will
+## Chapter XIV. an Explanation of What Has Been Said Touching the Decease of Our Will
 
 We may well believe that the most sacred Virgin Our Lady received so much pleasure in carrying her little Jesus in her arms, that delight beguiled weariness, or at least made it agreeable; for if a branch of agnus castus can solace and unweary travellers, what solace did not the glorious Mother receive in carrying the immaculate Lamb of God? And though she permitted him now and then to run on foot by her, she holding him by the hand, yet this was not because she would not rather have had him hanging about her neck and on her breast, but it was to teach him to form his steps and walk alone. And we ourselves, Theotimus, as little children of the heavenly Father, may walk with him in two ways. For we may, in the first place, walk with the steps of our own will which we conform to his, holding always with the hand of our obedience the hand of his divine intention, and following it wheresoever it leads,--which is what God requires from us by the signification of his will; for since he wills me to do what he ordains, he wills me to have the will to do it: God has signified that he wills me to keep holy the day of rest; since he wills me to do it, he wills then that I will to do it, and that for this end I should have a will of my own, by which I follow his, conforming myself and corresponding to his. But we may on other occasions walk with our Saviour without any will of our own, letting ourselves simply be carried at his divine good pleasure, as a little child in its mother's arms, by a certain kind of consent which may be termed union or rather unity of our heart with God's;--and this is the way that we are to endeavour to comport ourselves in God's will of good-pleasure, since the effects of this will of good-pleasure proceed purely from his Providence, and we do not effect them, but they happen to us. True it is we may will them to come according to God's will, and this willing is excellent; yet we may also receive the events of heaven's good pleasure by a most simple tranquillity of our will, which, willing nothing whatever, simply acquiesces in all that God would have done in us, on us, or by us.
 
@@ -309,7 +307,7 @@ Meanwhile let us affectionately give our attention to blessing God in all his wo
 
 [427] Job i. 21.
 
-### Chapter XV. of the Most Excellent Exercise We Can Make in the Interior and Exterior
+## Chapter XV. of the Most Excellent Exercise We Can Make in the Interior and Exterior
 
 TROUBLES OF THIS LIFE, AFTER ATTAINING THE INDIFFERENCE AND DEATH OF THE WILL.
 
@@ -335,7 +333,7 @@ But mark, I pray you, Theotimus, that even as our Saviour, after he had made his
 
 [430] Is. l. 5, 6.
 
-### Chapter XVI. of the Perfect Stripping of the Soul Which Is United to God's Will
+## Chapter XVI. of the Perfect Stripping of the Soul Which Is United to God's Will
 
 Let us represent to ourselves, Theotimus, the sweet Jesus in Pilate's house, where for love of us he was divested of all his garments one after the other, by the soldiers, the ministers of death. And not content with that, they took his skin from him, tearing it with the blows of rods and whips; then afterwards his soul was bereft of his body, and his body of life, by the death which he endured upon the cross. But three days being run out, his soul, by the most holy Resurrection, put on again its glorious body, and his body its immortal skin, wearing sundry garments, now those of a gardener, now of a pilgrim, or other guise according as the salvation of man and the glory of God required. Love did all this, Theotimus, and it is love also which, entering into a soul to make it happily die to itself and live to God, bereaves it of all human desires, and of self-esteem which is as closely fixed to the spirit as the skin to the flesh, and strips her at length of her best beloved affections, such as those which she had to spiritual consolations, exercises of piety and the perfection of virtues, which seemed to be the very life of the soul.
 

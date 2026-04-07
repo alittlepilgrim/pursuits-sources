@@ -1,15 +1,17 @@
 ---
-title: Last Supper
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: last-supper. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Last Supper
+author:
 aliases:
   - Last Supper
   - last-supper
 tags:
   - term/last-supper
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: last-supper. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Last Supper

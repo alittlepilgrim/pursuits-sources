@@ -1,31 +1,30 @@
 ---
-title: Amos, Chapter 8
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Amos, Chapter 8
+title: Amos, Chapter 8
+url: https://bible.usccb.org/bible/amos/8
 aliases:
   - amos-08
   - Amos, Chapter 8
 tags:
   - bible/amos
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/amos/8
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Amos, Chapter 8
 ---
 
 # Amos, Chapter 8
 
-### Chapter 8
+## Chapter 8
 
-#### Fourth Vision: the Summer Fruit
+### Fourth Vision: the Summer Fruit
 
 1 This is what the Lord G OD showed me: a basket of end-of-summer fruit. ^amos-08-1
 
-2 He asked, “What do you see, Amos?” And I answered, “A basket of end-of-summer fruit.” And the L ORD said to me: ^amos-08-2
+2 He asked, “What do you see, Amos?” And I answered, “A basket of end-of-summer fruit.” And the LORD said to me: ^amos-08-2
 
 The end has come for my people Israel;
 
@@ -63,7 +62,7 @@ and the poor for a pair of sandals;
 
 even the worthless grain we will sell!”
 
-7 The L ORD has sworn by the pride of Jacob: ^amos-08-7
+7 The LORD has sworn by the pride of Jacob: ^amos-08-7
 
 Never will I forget a thing they have done!
 
@@ -99,13 +98,13 @@ when I will send a famine upon the land:
 
 Not a hunger for bread, or a thirst for water,
 
-but for hearing the word of the L ORD.
+but for hearing the word of the LORD.
 
 12 They shall stagger from sea to sea ^amos-08-12
 
 and wander from north to east
 
-In search of the word of the L ORD,
+In search of the word of the LORD,
 
 but they shall not find it.
 

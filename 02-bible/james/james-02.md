@@ -1,25 +1,24 @@
 ---
-title: James, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: James, Chapter 2
+title: James, Chapter 2
+url: https://bible.usccb.org/bible/james/2
 aliases:
   - james-02
   - James, Chapter 2
 tags:
+  - bible/chapter
   - bible/james
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/james/2
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: James, Chapter 2
 ---
 
 # James, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Sin of Partiality.**
 

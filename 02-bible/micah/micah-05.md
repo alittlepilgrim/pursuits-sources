@@ -1,25 +1,24 @@
 ---
-title: Micah, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Micah, Chapter 5
+title: Micah, Chapter 5
+url: https://bible.usccb.org/bible/micah/5
 aliases:
   - micah-05
   - Micah, Chapter 5
 tags:
+  - bible/chapter
   - bible/micah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/micah/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Micah, Chapter 5
 ---
 
 # Micah, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 1 But you, Bethlehem-Ephrathah ^micah-05-1
 
@@ -43,9 +42,9 @@ to the children of Israel.
 
 3 He shall take his place as shepherd ^micah-05-3
 
-by the strength of the L ORD,
+by the strength of the LORD,
 
-by the majestic name of the L ORD, his God;
+by the majestic name of the LORD, his God;
 
 And they shall dwell securely, for now his greatness
 
@@ -75,7 +74,7 @@ when it treads upon our borders.
 
 in the midst of many peoples,
 
-Like dew coming from the L ORD,
+Like dew coming from the LORD,
 
 like showers on the grass,
 
@@ -99,7 +98,7 @@ it tears and no one can rescue.
 
 and all your enemies shall be cut down.
 
-9 On that day—oracle of the L ORD — ^micah-05-9
+9 On that day—oracle of the LORD — ^micah-05-9
 
 I will destroy the horses from your midst
 

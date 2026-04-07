@@ -1,33 +1,32 @@
 ---
-title: Numbers, Chapter 11
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Numbers, Chapter 11
+title: Numbers, Chapter 11
+url: https://bible.usccb.org/bible/numbers/11
 aliases:
   - numbers-11
   - Numbers, Chapter 11
 tags:
+  - bible/chapter
   - bible/numbers
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/numbers/11
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Numbers, Chapter 11
 ---
 
 # Numbers, Chapter 11
 
-### Chapter 11
+## Chapter 11
 
 **Discontent of the People.**
 
-1 Now the people complained bitterly in the hearing of the L ORD; and when he heard it his wrath flared up, so that the L ORD’s fire burned among them and consumed the outskirts of the camp. ^numbers-11-1
+1 Now the people complained bitterly in the hearing of the LORD; and when he heard it his wrath flared up, so that the LORD’s fire burned among them and consumed the outskirts of the camp. ^numbers-11-1
 
-2 But when the people cried out to Moses, he prayed to the L ORD and the fire died out. ^numbers-11-2
+2 But when the people cried out to Moses, he prayed to the LORD and the fire died out. ^numbers-11-2
 
-3 Hence that place was called Taberah, because there the fire of the L ORD burned among them. ^numbers-11-3
+3 Hence that place was called Taberah, because there the fire of the LORD burned among them. ^numbers-11-3
 
 4 The riffraff among them were so greedy for meat that even the Israelites lamented again, “If only we had meat for food! ^numbers-11-4
 
@@ -41,9 +40,9 @@ url: https://bible.usccb.org/bible/numbers/11
 
 9 At night, when the dew fell upon the camp, the manna also fell. ^numbers-11-9
 
-10 When Moses heard the people, family after family, crying at the entrance of their tents, so that the L ORD became very angry, he was grieved. ^numbers-11-10
+10 When Moses heard the people, family after family, crying at the entrance of their tents, so that the LORD became very angry, he was grieved. ^numbers-11-10
 
-11 “Why do you treat your servant so badly?” Moses asked the L ORD. “Why are you so displeased with me that you burden me with all this people? ^numbers-11-11
+11 “Why do you treat your servant so badly?” Moses asked the LORD. “Why are you so displeased with me that you burden me with all this people? ^numbers-11-11
 
 12 Was it I who conceived all this people? or was it I who gave them birth, that you tell me to carry them at my breast, like a nurse carrying an infant, to the land you have promised under oath to their fathers? ^numbers-11-12
 
@@ -55,25 +54,25 @@ url: https://bible.usccb.org/bible/numbers/11
 
 **The Seventy Elders.**
 
-16 Then the L ORD said to Moses: Assemble for me seventy of the elders of Israel, whom you know to be elders and authorities among the people, and bring them to the tent of meeting. When they are in place beside you, ^numbers-11-16
+16 Then the LORD said to Moses: Assemble for me seventy of the elders of Israel, whom you know to be elders and authorities among the people, and bring them to the tent of meeting. When they are in place beside you, ^numbers-11-16
 
-18 To the people, however, you shall say: “Sanctify yourselves for tomorrow, when you shall have meat to eat. For in the hearing of the L ORD you have cried, ‘If only we had meat for food! Oh, how well off we were in Egypt!’ Therefore the L ORD will give you meat to eat, ^numbers-11-18
+18 To the people, however, you shall say: “Sanctify yourselves for tomorrow, when you shall have meat to eat. For in the hearing of the LORD you have cried, ‘If only we had meat for food! Oh, how well off we were in Egypt!’ Therefore the LORD will give you meat to eat, ^numbers-11-18
 
 19 and you will eat it, not for one day, or two days, or five, or ten, or twenty days, ^numbers-11-19
 
-20 but for a whole month—until it comes out of your very nostrils and becomes loathsome to you. For you have rejected the L ORD who is in your midst, and in his presence you have cried, ‘Why did we ever leave Egypt?’” ^numbers-11-20
+20 but for a whole month—until it comes out of your very nostrils and becomes loathsome to you. For you have rejected the LORD who is in your midst, and in his presence you have cried, ‘Why did we ever leave Egypt?’” ^numbers-11-20
 
 21 But Moses said, “The people around me include six hundred thousand soldiers; yet you say, ‘I will give them meat to eat for a whole month.’ ^numbers-11-21
 
 22 Can enough sheep and cattle be slaughtered for them? If all the fish of the sea were caught for them, would they have enough?” ^numbers-11-22
 
-23 The L ORD answered Moses: Is this beyond the L ORD’s reach? You shall see now whether or not what I have said to you takes place. ^numbers-11-23
+23 The LORD answered Moses: Is this beyond the LORD’s reach? You shall see now whether or not what I have said to you takes place. ^numbers-11-23
 
 **The Spirit on the Elders.**
 
-24 So Moses went out and told the people what the L ORD had said. Gathering seventy elders of the people, he had them stand around the tent. ^numbers-11-24
+24 So Moses went out and told the people what the LORD had said. Gathering seventy elders of the people, he had them stand around the tent. ^numbers-11-24
 
-25 The L ORD then came down in the cloud and spoke to him. Taking some of the spirit that was on Moses, he bestowed it on the seventy elders; and as the spirit came to rest on them, they prophesied but did not continue. ^numbers-11-25
+25 The LORD then came down in the cloud and spoke to him. Taking some of the spirit that was on Moses, he bestowed it on the seventy elders; and as the spirit came to rest on them, they prophesied but did not continue. ^numbers-11-25
 
 26 Now two men, one named Eldad and the other Medad, had remained in the camp, yet the spirit came to rest on them also. They too had been on the list, but had not gone out to the tent; and so they prophesied in the camp. ^numbers-11-26
 
@@ -81,17 +80,17 @@ url: https://bible.usccb.org/bible/numbers/11
 
 28 Joshua, son of Nun, who from his youth had been Moses’ aide, said, “My lord, Moses, stop them.” ^numbers-11-28
 
-29 But Moses answered him, “Are you jealous for my sake? If only all the people of the L ORD were prophets! If only the L ORD would bestow his spirit on them!” ^numbers-11-29
+29 But Moses answered him, “Are you jealous for my sake? If only all the people of the LORD were prophets! If only the LORD would bestow his spirit on them!” ^numbers-11-29
 
 30 Then Moses retired to the camp, along with the elders of Israel. ^numbers-11-30
 
 **The Quail.**
 
-31 There arose a wind from the L ORD that drove in quail from the sea and left them all around the camp site, to a distance of a day’s journey and at a depth of two cubits upon the ground. ^numbers-11-31
+31 There arose a wind from the LORD that drove in quail from the sea and left them all around the camp site, to a distance of a day’s journey and at a depth of two cubits upon the ground. ^numbers-11-31
 
 32 So all that day, all night, and all the next day the people set about to gather in the quail. Even the one who got the least gathered ten homers of them. Then they spread them out all around the camp. ^numbers-11-32
 
-33 But while the meat was still between their teeth, before it could be chewed, the L ORD’s wrath flared up against the people, and the L ORD struck them with a very great plague. ^numbers-11-33
+33 But while the meat was still between their teeth, before it could be chewed, the LORD’s wrath flared up against the people, and the LORD struck them with a very great plague. ^numbers-11-33
 
 34 So that place was named Kibroth-hattaavah, because it was there that the greedy people were buried. ^numbers-11-34
 

@@ -1,27 +1,26 @@
 ---
-title: Song of Songs, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Song of Songs, Chapter 6
+title: Song of Songs, Chapter 6
+url: https://bible.usccb.org/bible/songofsongs/6
 aliases:
   - Song of Songs, Chapter 6
   - song-of-songs-06
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/song-of-songs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/songofsongs/6
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Song of Songs, Chapter 6
 ---
 
 # Song of Songs, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
-#### The Lost Lover Found
+### The Lost Lover Found
 
 1 D Where has your lover gone, ^song-of-songs-06-1
 
@@ -43,7 +42,7 @@ and to gather lilies.
 
 he feeds among the lilies.
 
-#### The Beauty of the Woman
+### The Beauty of the Woman
 
 4 M Beautiful as Tirzah are you, my friend; ^song-of-songs-06-4
 
@@ -91,7 +90,7 @@ beautiful as the white moon, pure as the blazing sun,
 
 fearsome as celestial visions?”
 
-#### Love’s Meeting
+### Love’s Meeting
 
 11 W To the walnut grove I went down, ^song-of-songs-06-11
 

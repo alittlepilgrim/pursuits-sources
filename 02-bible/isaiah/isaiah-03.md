@@ -1,29 +1,28 @@
 ---
-title: Isaiah, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Isaiah, Chapter 3
+title: Isaiah, Chapter 3
+url: https://bible.usccb.org/bible/isaiah/3
 aliases:
   - isaiah-03
   - Isaiah, Chapter 3
 tags:
+  - bible/chapter
   - bible/isaiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/isaiah/3
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Isaiah, Chapter 3
 ---
 
 # Isaiah, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### Judgment on Jerusalem and Judah
+### Judgment on Jerusalem and Judah
 
-1 The Lord, the L ORD of hosts, ^isaiah-03-1
+1 The Lord, the LORD of hosts, ^isaiah-03-1
 
 will take away from Jerusalem and from Judah
 
@@ -71,7 +70,7 @@ You will not make me a ruler of the people!”
 
 8 Jerusalem has stumbled, Judah has fallen; ^isaiah-03-8
 
-for their speech and deeds affront the L ORD,
+for their speech and deeds affront the LORD,
 
 a provocation in the sight of his majesty.
 
@@ -101,7 +100,7 @@ My people, your leaders deceive you,
 
 they confuse the paths you should follow.
 
-13 The L ORD rises to accuse, ^isaiah-03-13
+13 The LORD rises to accuse, ^isaiah-03-13
 
 stands to try his people.
 
@@ -119,9 +118,9 @@ and grinding down the faces of the poor?
 
 says the Lord, the G OD of hosts.
 
-#### The Haughty Women of Zion
+### The Haughty Women of Zion
 
-16 The L ORD said: ^isaiah-03-16
+16 The LORD said: ^isaiah-03-16
 
 Because the daughters of Zion are haughty,
 
@@ -133,9 +132,9 @@ their anklets tinkling with every step,
 
 17 The Lord shall cover the scalps of Zion’s daughters with scabs, ^isaiah-03-17
 
-and the L ORD shall lay bare their heads.
+and the LORD shall lay bare their heads.
 
-18 On that day the L ORD will do away with the finery of the anklets, sunbursts, and crescents; ^isaiah-03-18
+18 On that day the LORD will do away with the finery of the anklets, sunbursts, and crescents; ^isaiah-03-18
 
 19 the pendants, bracelets, and veils; ^isaiah-03-19
 

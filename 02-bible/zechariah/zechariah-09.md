@@ -1,33 +1,32 @@
 ---
-title: Zechariah, Chapter 9
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 9
+title: Zechariah, Chapter 9
+url: https://bible.usccb.org/bible/zechariah/9
 aliases:
   - zechariah-09
   - Zechariah, Chapter 9
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/9
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 9
 ---
 
 # Zechariah, Chapter 9
 
-### Chapter 9
+## Chapter 9
 
-#### Restoration of the Land of Israel
+### Restoration of the Land of Israel
 
-1 An oracle: the word of the L ORD is against the land of Hadrach, ^zechariah-09-1
+1 An oracle: the word of the LORD is against the land of Hadrach, ^zechariah-09-1
 
 and Damascus is its destination,
 
-For the cities of Aram are the L ORD’s,
+For the cities of Aram are the LORD’s,
 
 as are all the tribes of Israel.
 
@@ -79,7 +78,7 @@ No oppressor will overrun them again,
 
 for now I have seen their affliction.
 
-#### The King’s Entry into Jerusalem
+### The King’s Entry into Jerusalem
 
 9 Exult greatly, O daughter Zion! ^zechariah-09-9
 
@@ -105,7 +104,7 @@ His dominion will be from sea to sea,
 
 and from the River to the ends of the earth.
 
-#### Restoration of the People
+### Restoration of the People
 
 11 As for you, by the blood of your covenant, ^zechariah-09-11
 
@@ -129,7 +128,7 @@ against your sons, O Yavan,
 
 and I will use you as a warrior’s sword.
 
-14 The L ORD will appear over them, ^zechariah-09-14
+14 The LORD will appear over them, ^zechariah-09-14
 
 God’s arrow will shoot forth as lightning;
 
@@ -137,7 +136,7 @@ The Lord G OD will sound the ram’s horn,
 
 and come in a storm from the south.
 
-15 The L ORD of hosts will protect them; ^zechariah-09-15
+15 The LORD of hosts will protect them; ^zechariah-09-15
 
 they will devour and conquer with sling stones,
 
@@ -145,7 +144,7 @@ they will drink and become heated as with wine;
 
 they will be full like bowls—like the corners of the altar.
 
-16 And the L ORD their God will save them: ^zechariah-09-16
+16 And the LORD their God will save them: ^zechariah-09-16
 
 the people, like a flock on that day;
 

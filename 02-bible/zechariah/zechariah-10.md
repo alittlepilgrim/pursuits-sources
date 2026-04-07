@@ -1,31 +1,30 @@
 ---
-title: Zechariah, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Zechariah, Chapter 10
+title: Zechariah, Chapter 10
+url: https://bible.usccb.org/bible/zechariah/10
 aliases:
   - zechariah-10
   - Zechariah, Chapter 10
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/zechariah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/zechariah/10
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Zechariah, Chapter 10
 ---
 
 # Zechariah, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
-#### The Lord Strengthens Judah and Rescues Ephraim
+### The Lord Strengthens Judah and Rescues Ephraim
 
-1 Ask the L ORD for rain in the spring season, ^zechariah-10-1
+1 Ask the LORD for rain in the spring season, ^zechariah-10-1
 
-the L ORD who brings storm clouds, and heavy rains,
+the LORD who brings storm clouds, and heavy rains,
 
 who gives to everyone grain in the fields.
 
@@ -45,7 +44,7 @@ wretched, for they have no shepherd.
 
 and I will punish the leaders.
 
-For the L ORD of hosts attends to the flock, the house of Judah,
+For the LORD of hosts attends to the flock, the house of Judah,
 
 and will make them like a splendid horse in battle.
 
@@ -61,7 +60,7 @@ from them every officer.
 
 trampling the mud of the streets in battle.
 
-They will wage war because the L ORD is with them,
+They will wage war because the LORD is with them,
 
 and will put the horsemen to shame.
 
@@ -73,7 +72,7 @@ I will bring them back, because I have mercy on them;
 
 they will be as if I had never cast them off,
 
-for I am the L ORD their God, and I will answer them.
+for I am the LORD their God, and I will answer them.
 
 7 Then Ephraim will be like a hero, ^zechariah-10-7
 
@@ -81,7 +80,7 @@ and their hearts will be cheered as by wine.
 
 Their children will see and rejoice—
 
-their hearts will exult in the L ORD.
+their hearts will exult in the LORD.
 
 8 I will whistle for them and gather them in; ^zechariah-10-8
 
@@ -113,9 +112,9 @@ The pride of Assyria will be cast down,
 
 and the scepter of Egypt disappear.
 
-12 I will strengthen them in the L ORD, ^zechariah-10-12
+12 I will strengthen them in the LORD, ^zechariah-10-12
 
-in whose name they will walk—oracle of the L ORD.
+in whose name they will walk—oracle of the LORD.
 
 \* (10:2) Teraphim: household idols or cult objects (see [Gn 31:19], [30] – [35]; [Jgs 17:5]; [1 Sm 19:11] – [17]), or ancestor statuettes (see [[2-kings-23|2 Kgs 23]]:24; [Hos 3:4]).
 

@@ -1,15 +1,16 @@
 ---
-title: Communion of Saints
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: communion-of-saints. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Communion of Saints
 aliases:
   - Communion of Saints
   - communion-of-saints
 tags:
   - term/communion-of-saints
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: communion-of-saints. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Communion of Saints

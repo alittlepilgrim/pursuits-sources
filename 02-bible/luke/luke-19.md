@@ -1,25 +1,24 @@
 ---
-title: Luke, Chapter 19
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Luke, Chapter 19
+title: Luke, Chapter 19
+url: https://bible.usccb.org/bible/luke/19
 aliases:
   - luke-19
   - Luke, Chapter 19
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/19
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 19
 ---
 
 # Luke, Chapter 19
 
-### Chapter 19
+## Chapter 19
 
 **Zacchaeus the Tax Collector.**
 
@@ -79,7 +78,7 @@ url: https://bible.usccb.org/bible/luke/19
 
 27 Now as for those enemies of mine who did not want me as their king, bring them here and slay them before me.’” ^luke-19-27
 
-## Vi. the Teaching Ministry in Jerusalem
+# Vi. the Teaching Ministry in Jerusalem
 
 **The Entry into Jerusalem.**
 

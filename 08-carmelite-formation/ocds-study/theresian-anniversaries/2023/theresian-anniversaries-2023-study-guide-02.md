@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Study Guide 2 the Smile of the Virgin (Ms A, 29v-31v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Study Guide 2 the Smile of the Virgin (Ms A, 29v-31v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 - Study Guide 2 the Smile of the Virgin (Ms A, 29v-31v)
   - theresian-anniversaries-2023-study-guide-02
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 - Study Guide 2 the Smile of the Virgin (Ms A, 29v-31v)
@@ -24,7 +24,7 @@ Proposal for the Community meeting:
 
 It would be good if the community meeting was preceded by a personal reading and meditation on the text of Therese.
 
-### Manuscript A, 29v-31v (ICS English Translation Pp 64 - 71)
+## Manuscript A, 29v-31v (ICS English Translation Pp 64 - 71)
 
 My greatest consolation when I was sick was to re-ceive a letter from Pauline. I read and reread it until I knew it by heart. Once, dear Mother, you sent me an hourglass and one of my dolls dressed as a Carmelite; it was impossible for me to express my joy. Uncle wasn’t too happy, and said that instead of making me think of Carmel, it would be better to remove it from my mind. I am quite convinced, on the contrary, that the thought of one day becoming a Carmelite made me live.
 
@@ -52,7 +52,7 @@ While speaking about the visit to the Car-melites, I am reminded of the first vi
 
 My joy was great and this happy meeting of minds seemed to be a singular favor from my beloved Child Jesus.
 
-### Introduction to the Text
+## Introduction to the Text
 
 Let us repeat what we already said in the first work sheet about the «miraculous statue of the Blessed Virgin»: it is the «Virgin of the Smile» which is now above the tomb of the Saint.
 
@@ -76,7 +76,7 @@ The smile of the Virgin (Ms A, 29v-31v) 9«My happiness was going to disappear a
 
 «Humiliation becoming my lot» (Ms A, 31r): Therese’s particularly strong expression shows that humiliation here is experienced without compensation, perhaps more harshly than at other times in her life, and at a tender age, ten years.
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What does the text say? Understanding the content and primary meaning of Therese’s text.
 2. What does the text say to us today? Grasping the relevance (social, ecclesial, spiritual…) of the text.
@@ -84,7 +84,7 @@ The smile of the Virgin (Ms A, 29v-31v) 9«My happiness was going to disappear a
 
 The purpose of doing things in this manner is to allow Therese to speak to us, to question us, to encourage us, and to welcome her to shed light upon and confirm our personal and community journey. The questions proposed are therefore only indicative and can possibly accompany personal meditation and community sharing.
 
-### Questions
+## Questions
 
 1. This episode of the grace of Our Lady’s smile Therese lived through in a context of separation and difficulty in mourning for her mother and for the one who now represented her, Pauline, who had just entered Carmel.
 

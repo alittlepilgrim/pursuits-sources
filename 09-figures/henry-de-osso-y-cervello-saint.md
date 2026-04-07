@@ -1,9 +1,6 @@
 ---
+type: figure
 title: Saint Henry De Osso Y Cervello
-created: 2025-09-12
-modified: 2026-04-02
-type: figure  
-publish: false
 aliases:
   - 20250912-204812
   - henry-de-osso-y-cervello-saint
@@ -12,8 +9,11 @@ aliases:
 tags:
   - saint
   - term/priest
-celebration: "01-27"
-full_name: "Saint Henry de Osso y Cervello"
+  - type/figure
+celebration: 01-27
+created: 2025-09-12
+modified: 2026-04-06
+publish: false
 ---
 
 # Saint Henry de Osso y Cervello

@@ -1,29 +1,28 @@
 ---
-title: Judges, Chapter 20
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 20
+title: Judges, Chapter 20
+url: https://bible.usccb.org/bible/judges/20
 aliases:
   - judges-20
   - Judges, Chapter 20
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/20
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 20
 ---
 
 # Judges, Chapter 20
 
-### Chapter 20
+## Chapter 20
 
 **Assembly of Israelites.**
 
-1 So all the Israelites came out as one, from Dan to Beer-sheba including the land of Gilead, and the assembly gathered to the L ORD at Mizpah. ^judges-20-1
+1 So all the Israelites came out as one, from Dan to Beer-sheba including the land of Gilead, and the assembly gathered to the LORD at Mizpah. ^judges-20-1
 
 2 The leaders of all the people, all the staff-bearers of Israel, presented themselves in the assembly of the people of God—four hundred thousand foot soldiers who carried swords. ^judges-20-2
 
@@ -57,7 +56,7 @@ url: https://bible.usccb.org/bible/judges/20
 
 17 The men of Israel, without Benjamin, mustered four hundred thousand swordsmen, all of them warriors. ^judges-20-17
 
-18 They went up to Bethel and consulted God. When the Israelites asked, “Who shall go up first for us to do battle with the Benjaminites?” the L ORD said: Judah first. ^judges-20-18
+18 They went up to Bethel and consulted God. When the Israelites asked, “Who shall go up first for us to do battle with the Benjaminites?” the LORD said: Judah first. ^judges-20-18
 
 19 The Israelites rose in the morning and encamped against Gibeah. ^judges-20-19
 
@@ -69,17 +68,17 @@ url: https://bible.usccb.org/bible/judges/20
 
 22 But the army of the men of Israel took courage and again drew up for battle in the place where they had drawn up on the previous day. ^judges-20-22
 
-23 Then the Israelites went up and wept before the L ORD until evening. “Shall I again engage my brother Benjamin in battle?” they asked the L ORD; and the L ORD answered: Attack! ^judges-20-23
+23 Then the Israelites went up and wept before the LORD until evening. “Shall I again engage my brother Benjamin in battle?” they asked the LORD; and the LORD answered: Attack! ^judges-20-23
 
 24 When the Israelites drew near to the Benjaminites on the second day, ^judges-20-24
 
 25 Benjamin marched out of Gibeah against them again and felled eighteen thousand Israelites, all of them swordsmen. ^judges-20-25
 
-26 So the entire Israelite army went up and entered Bethel, where they sat weeping before the L ORD. They fasted that day until evening and presented burnt offerings and communion offerings before the L ORD. ^judges-20-26
+26 So the entire Israelite army went up and entered Bethel, where they sat weeping before the LORD. They fasted that day until evening and presented burnt offerings and communion offerings before the LORD. ^judges-20-26
 
-27 The Israelites consulted the L ORD (for the ark of the covenant of the L ORD was there in those days, ^judges-20-27
+27 The Israelites consulted the LORD (for the ark of the covenant of the LORD was there in those days, ^judges-20-27
 
-28 and Phinehas, son of Eleazar, son of Aaron, was standing in his presence in those days), and asked, “Shall I again go out to battle with my brother Benjamin, or shall I stop?” The L ORD said: Attack! For tomorrow I will deliver him into your power. ^judges-20-28
+28 and Phinehas, son of Eleazar, son of Aaron, was standing in his presence in those days), and asked, “Shall I again go out to battle with my brother Benjamin, or shall I stop?” The LORD said: Attack! For tomorrow I will deliver him into your power. ^judges-20-28
 
 29 So Israel set men in ambush around Gibeah. ^judges-20-29
 
@@ -93,7 +92,7 @@ url: https://bible.usccb.org/bible/judges/20
 
 34 and advanced against Gibeah with ten thousand picked men from all Israel. The fighting was severe, but no one knew that a disaster was closing in. ^judges-20-34
 
-35 The L ORD defeated Benjamin before Israel; and on that day the Israelites killed twenty-five thousand one hundred men of Benjamin, all of them swordsmen. ^judges-20-35
+35 The LORD defeated Benjamin before Israel; and on that day the Israelites killed twenty-five thousand one hundred men of Benjamin, all of them swordsmen. ^judges-20-35
 
 36 Then the Benjaminites saw that they were defeated. The men of Israel gave ground to Benjamin, trusting in the ambush they had set at Gibeah. ^judges-20-36
 

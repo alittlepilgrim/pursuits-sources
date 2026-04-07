@@ -1,15 +1,16 @@
 ---
-title: Contentos
-created: 2025-08-02
-modified: 2026-04-02
 type: glossary
-publish: true
-description: contentos. Carmelite glossary.
+title: Contentos
 aliases:
   - contentos
   - Contentos
 tags:
   - carmel
+  - type/term
+created: 2025-08-02
+modified: 2026-04-06
+publish: true
+description: contentos. Carmelite glossary.
 ---
 
 # Contentos

@@ -1,25 +1,24 @@
 ---
-title: Galatians, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Galatians, Chapter 4
+title: Galatians, Chapter 4
+url: https://bible.usccb.org/bible/galatians/4
 aliases:
   - galatians-04
   - Galatians, Chapter 4
 tags:
+  - bible/chapter
   - bible/galatians
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/galatians/4
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Galatians, Chapter 4
 ---
 
 # Galatians, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **God’s Free Children in Christ.**
 

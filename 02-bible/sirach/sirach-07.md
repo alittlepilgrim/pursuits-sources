@@ -1,27 +1,26 @@
 ---
-title: Sirach, Chapter 7
-created: 2025-07-31
-modified: 2026-04-02
 type: bible
-publish: true
-description: sirach-chapter 7
+title: Sirach, Chapter 7
+url: https://bible.usccb.org/bible/sirach/7
 aliases:
   - sirach-07
   - Sirach, Chapter 7
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/sirach
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/sirach/7
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: sirach-chapter 7
 ---
 
 # Sirach, Chapter 7
 
-### Chapter 7
+## Chapter 7
 
-#### Conduct Toward God and Neighbor
+### Conduct Toward God and Neighbor
 
 1 Do no evil, and evil will not overtake you; ^sirach-07-1
 
@@ -35,7 +34,7 @@ lest you harvest it sevenfold.
 
 or from the king a place of honor.
 
-5 Do not parade your righteousness before the L ORD, ^sirach-07-5
+5 Do not parade your righteousness before the LORD, ^sirach-07-5
 
 and before the king do not flaunt your wisdom.
 
@@ -91,7 +90,7 @@ remember, his wrath will not delay.
 
 what awaits mortals is worms.
 
-#### Duties of Family Life, Religion and Charity
+### Duties of Family Life, Religion and Charity
 
 18 Do not barter a friend for money, ^sirach-07-18
 

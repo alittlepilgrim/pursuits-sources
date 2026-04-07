@@ -1,10 +1,7 @@
 ---
-title: February 4, Blessed Marie Eugene of the Infant Jesus Grialou
-created: 2025-07-31
-modified: 2026-04-02
 type: ocds-proper
-publish: false
-description: OCDS Propers 02-04-blessed-marie-eugene-of-the-infant-jesus-grialou-priest
+title: February 4, Blessed Marie Eugene of the Infant Jesus Grialou
+author: OCD General Curia
 aliases:
   - 02-04-blessed-marie-eugene
   - 20250731-121425
@@ -12,8 +9,12 @@ aliases:
 tags:
   - carmel/propers
   - carmel/saints
-author: OCD General Curia
+  - type/ocd-proper
 celebration_day: 02-04
+created: 2025-07-31
+modified: 2026-04-06
+publish: false
+description: OCDS Propers 02-04-blessed-marie-eugene-of-the-infant-jesus-grialou-priest
 ---
 
 # February 4, Blessed Marie Eugene of the Infant Jesus Grialou

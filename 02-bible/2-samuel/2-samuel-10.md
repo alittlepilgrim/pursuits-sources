@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 10
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 Samuel, Chapter 10
+title: 2 Samuel, Chapter 10
+url: https://bible.usccb.org/bible/2samuel/10
 aliases:
   - 2 Samuel, Chapter 10
   - 2-samuel-10
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/10
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 Samuel, Chapter 10
 ---
 
 # 2 Samuel, Chapter 10
 
-### Chapter 10
+## Chapter 10
 
 **Campaigns Against Ammon.**
 
@@ -45,7 +44,7 @@ url: https://bible.usccb.org/bible/2samuel/10
 
 11 And he said, “If the Arameans prove too strong for me, you must come and save me; and if the Ammonites prove too strong for you, I will come to save you. ^2-samuel-10-11
 
-12 Hold firm and let us show ourselves courageous for the sake of our people and the cities of our God; and may the L ORD do what is good in his sight.” ^2-samuel-10-12
+12 Hold firm and let us show ourselves courageous for the sake of our people and the cities of our God; and may the LORD do what is good in his sight.” ^2-samuel-10-12
 
 13 Joab therefore advanced with his men for battle with the Arameans, but they fled before him. ^2-samuel-10-13
 

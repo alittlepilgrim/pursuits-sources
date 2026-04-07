@@ -1,18 +1,17 @@
 ---
-title: Psalm 142
-created: 2025-07-30
-modified: 2026-04-03
 type: bible
-publish: true
-description: Psalms, Psalm 142
+title: Psalm 142
+url: https://bible.usccb.org/bible/psalms/142
 aliases:
   - Psalm 142
   - psalm-142
 tags:
   - bible/psalms
-  - vault-admin/graph/bible-ccc
-testament: old
-url: https://bible.usccb.org/bible/psalms/142
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Psalms, Psalm 142
 ---
 
 # Psalm 142

@@ -1,9 +1,9 @@
 ---
-title: Interior Castle Handbook Appendix A. Session 9. Excerpt from Gaudium Et Spes Pastoral Constitution on the Church in the Modern World
-created: 2025-06-23
-modified: 2026-04-02
 type: formation-handbook
-publish: true
+title: Interior Castle Handbook Appendix A. Session 9. Excerpt from Gaudium Et Spes Pastoral Constitution on the Church in the Modern World
+author:
+  - Secular Order of Discalced Carmelites
+source: OCDS Formation Handbook II Year B
 aliases:
   - '"Interior Castle Handbook Appendix A. Session 9. Excerpt from Gaudium Et Spes Pastoral Constitution on the Church in the Modern World"'
   - Interior Castle Handbook Appendix A Session 9 Excerpt from Gaudium Et Spes Pastoral Constitution on The Church In The Modern World
@@ -12,12 +12,15 @@ tags:
   - book/tj-interior-castle
   - carmel/formation
   - saint/teresa-of-avila
-source: OCDS Formation Handbook II Year B
+  - type/study-guide
+created: 2025-06-23
+modified: 2026-04-06
+publish: true
 ---
 
 # "Interior Castle Handbook Appendix A. Session 9. Excerpt from Gaudium Et Spes Pastoral Constitution on the Church in the Modern World"
 
-Promulgated by His Holiness, Pope Paul VI, December 7, 1965 (Courtesy: https://)
+Promulgated by His Holiness, Pope Paul VI, December 7, 1965 (Courtesy: https://[www.vatican.va/archive)](http://www.vatican.va/archive\))
 
 22\. The truth is that only in the mystery of the incarnate Word does the mystery of man take on light. For Adam, the first man, was a figure of Him Who was to come,(20) namely Christ the Lord. Christ, the final Adam, by the revelation of the mystery of the Father and His love, fully reveals man to man himself and makes his supreme calling clear. It is not surprising, then, that in Him all the aforementioned truths find their root and attain their crown.
 

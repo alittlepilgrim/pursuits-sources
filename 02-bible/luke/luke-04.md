@@ -1,26 +1,25 @@
 ---
-title: Luke, Chapter 4
-created: 2025-07-30
-modified: 2026-03-19
 type: bible
-publish: true
-description: Luke, Chapter 4
+title: Luke, Chapter 4
+url: https://bible.usccb.org/bible/luke/4
 aliases:
   - 20250730-160749
   - luke-04
   - Luke, Chapter 4
 tags:
+  - bible/chapter
   - bible/luke
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/luke/4
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Luke, Chapter 4
 ---
 
 # Luke, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **The Temptation of Jesus.**
 
@@ -62,7 +61,7 @@ lest you dash your foot against a stone.’”
 
 13 When the devil had finished every temptation, he departed from him for a time. ^luke-04-13
 
-## Iv. the Ministry in Galilee
+# Iv. the Ministry in Galilee
 
 **The Beginning of the Galilean Ministry.**
 

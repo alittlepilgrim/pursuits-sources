@@ -1,15 +1,16 @@
 ---
-title: Ascension
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: ascension. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Ascension
 aliases:
   - ascension
   - Ascension
 tags:
   - term/ascension
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: ascension. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Ascension
@@ -20,4 +21,4 @@ The entry of Jesus' humanity into divine glory in God's heavenly domain, forty d
 
 See also:
 
-179. The Ascension of Our Lord
+[[179-the-ascension-of-our-lord|179. The Ascension of Our Lord]]

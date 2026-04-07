@@ -1,25 +1,24 @@
 ---
-title: 2 Samuel, Chapter 16
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 2 samuel-chapter 16
+title: 2 Samuel, Chapter 16
+url: https://bible.usccb.org/bible/2samuel/16
 aliases:
   - 2 Samuel, Chapter 16
   - 2-samuel-16
 tags:
   - bible/2-samuel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/2samuel/16
+  - bible/chapter
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 2 samuel-chapter 16
 ---
 
 # 2 Samuel, Chapter 16
 
-### Chapter 16
+## Chapter 16
 
 **David and Ziba.**
 
@@ -39,15 +38,15 @@ url: https://bible.usccb.org/bible/2samuel/16
 
 7 Shimei was saying as he cursed: “Get out! Get out! You man of blood, you scoundrel! ^2-samuel-16-7
 
-8 The L ORD has paid you back for all the blood shed from the family of Saul, whom you replaced as king, and the L ORD has handed over the kingdom to your son Absalom. And now look at you: you suffer ruin because you are a man of blood.” ^2-samuel-16-8
+8 The LORD has paid you back for all the blood shed from the family of Saul, whom you replaced as king, and the LORD has handed over the kingdom to your son Absalom. And now look at you: you suffer ruin because you are a man of blood.” ^2-samuel-16-8
 
 9 Abishai, son of Zeruiah, said to the king: “Why should this dead dog curse my lord the king? Let me go over and take off his head.” ^2-samuel-16-9
 
-10 But the king replied: “What business is it of mine or of yours, sons of Zeruiah, that he curses? Suppose the L ORD has told him to curse David; who then will dare to say, ‘Why are you doing this?’” ^2-samuel-16-10
+10 But the king replied: “What business is it of mine or of yours, sons of Zeruiah, that he curses? Suppose the LORD has told him to curse David; who then will dare to say, ‘Why are you doing this?’” ^2-samuel-16-10
 
-11 Then David said to Abishai and to all his servants: “If my own son, who came forth from my loins, is seeking my life, how much more might this Benjaminite do so! Let him alone and let him curse, for the L ORD has told him to. ^2-samuel-16-11
+11 Then David said to Abishai and to all his servants: “If my own son, who came forth from my loins, is seeking my life, how much more might this Benjaminite do so! Let him alone and let him curse, for the LORD has told him to. ^2-samuel-16-11
 
-12 Perhaps the L ORD will look upon my affliction and repay me with good for the curses he is uttering this day.” ^2-samuel-16-12
+12 Perhaps the LORD will look upon my affliction and repay me with good for the curses he is uttering this day.” ^2-samuel-16-12
 
 13 David and his men continued on the road, while Shimei kept up with them on the hillside, all the while cursing and throwing stones and dirt as he went. ^2-samuel-16-13
 
@@ -61,7 +60,7 @@ url: https://bible.usccb.org/bible/2samuel/16
 
 17 But Absalom asked Hushai: “Is this your devotion to your friend? Why did you not go with your friend?” ^2-samuel-16-17
 
-18 Hushai replied to Absalom: “On the contrary, I am his whom the L ORD and all this people and all Israel have chosen, and with him I will stay. ^2-samuel-16-18
+18 Hushai replied to Absalom: “On the contrary, I am his whom the LORD and all this people and all Israel have chosen, and with him I will stay. ^2-samuel-16-18
 
 19 Furthermore, as I was in attendance upon your father, so will I be before you. Whom should I serve, if not his son?” ^2-samuel-16-19
 

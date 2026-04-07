@@ -1,29 +1,28 @@
 ---
-title: Haggai, Chapter 2
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Haggai, Chapter 2
+title: Haggai, Chapter 2
+url: https://bible.usccb.org/bible/haggai/2
 aliases:
   - haggai-02
   - Haggai, Chapter 2
 tags:
+  - bible/chapter
   - bible/haggai
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/haggai/2
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Haggai, Chapter 2
 ---
 
 # Haggai, Chapter 2
 
-### Chapter 2
+## Chapter 2
 
 **Assurance of God’s Presence.**
 
-1 On the twenty-first day of the seventh month, the word of the L ORD came through Haggai the prophet: ^haggai-02-1
+1 On the twenty-first day of the seventh month, the word of the LORD came through Haggai the prophet: ^haggai-02-1
 
 2 Speak to the governor of Judah, Zerubbabel, son of Shealtiel, and to the high priest Joshua, son of Jehozadak, and to the remnant of the people: ^haggai-02-2
 
@@ -35,13 +34,13 @@ And how do you see it now?
 
 Does it not seem like nothing in your eyes?
 
-4 Now be strong, Zerubbabel—oracle of the L ORD — ^haggai-02-4
+4 Now be strong, Zerubbabel—oracle of the LORD — ^haggai-02-4
 
 be strong, Joshua, son of Jehozadak, high priest,
 
-Be strong, all you people of the land—oracle of the L ORD —
+Be strong, all you people of the land—oracle of the LORD —
 
-and work! For I am with you—oracle of the L ORD of hosts.
+and work! For I am with you—oracle of the LORD of hosts.
 
 5 This is the commitment I made to you ^haggai-02-5
 
@@ -51,7 +50,7 @@ My spirit remains in your midst;
 
 do not fear!
 
-6 For thus says the L ORD of hosts: ^haggai-02-6
+6 For thus says the LORD of hosts: ^haggai-02-6
 
 In just a little while,
 
@@ -65,23 +64,23 @@ so that the treasures of all the nations will come in.
 
 And I will fill this house with glory—
 
-says the L ORD of hosts.
+says the LORD of hosts.
 
-8 Mine is the silver and mine the gold—oracle of the L ORD of hosts. ^haggai-02-8
+8 Mine is the silver and mine the gold—oracle of the LORD of hosts. ^haggai-02-8
 
 9 Greater will be the glory of this house ^haggai-02-9
 
-the latter more than the former—says the L ORD of hosts;
+the latter more than the former—says the LORD of hosts;
 
 And in this place I will give you peace—
 
-oracle of the L ORD of hosts.
+oracle of the LORD of hosts.
 
 **Priestly Ruling with Prophetic Interpretation.**
 
-10 On the twenty-fourth day of the ninth month in the second year of Darius, the word of the L ORD came to Haggai the prophet: ^haggai-02-10
+10 On the twenty-fourth day of the ninth month in the second year of Darius, the word of the LORD came to Haggai the prophet: ^haggai-02-10
 
-11 Thus says the L ORD of hosts: Ask the priests for a ruling: ^haggai-02-11
+11 Thus says the LORD of hosts: Ask the priests for a ruling: ^haggai-02-11
 
 12 If someone carries sanctified meat in the fold of a garment and the fold touches bread, soup, wine, oil, or any other food, do they become sanctified? “No,” the priests answered. ^haggai-02-12
 
@@ -91,13 +90,13 @@ oracle of the L ORD of hosts.
 
 So is this people, and so is this nation
 
-in my sight—oracle of the L ORD —
+in my sight—oracle of the LORD —
 
 And so is all the work of their hands;
 
 what they offer there is defiled.
 
-15 Now reflect, from this day forward—before you set stone to stone in the temple of the L ORD, ^haggai-02-15
+15 Now reflect, from this day forward—before you set stone to stone in the temple of the LORD, ^haggai-02-15
 
 16 what was your experience? ^haggai-02-16
 
@@ -113,9 +112,9 @@ there were only twenty.
 
 with searing wind, blight, and hail,
 
-yet you did not return to me—oracle of the L ORD.
+yet you did not return to me—oracle of the LORD.
 
-18 Reflect from this day forward, from the twenty-fourth day of the ninth month. From the day on which the temple of the L ORD was founded, reflect! ^haggai-02-18
+18 Reflect from this day forward, from the twenty-fourth day of the ninth month. From the day on which the temple of the LORD was founded, reflect! ^haggai-02-18
 
 19 Is there still seed in the storehouse? ^haggai-02-19
 
@@ -127,7 +126,7 @@ From this day, I will bless you.
 
 **Future Hope.**
 
-20 The word of the L ORD came a second time to Haggai on the twenty-fourth day of the month: ^haggai-02-20
+20 The word of the LORD came a second time to Haggai on the twenty-fourth day of the month: ^haggai-02-20
 
 21 Speak to Zerubbabel, the governor of Judah: ^haggai-02-21
 
@@ -143,7 +142,7 @@ and the riders with their horses
 
 will fall by each other’s swords.
 
-23 On that day—oracle of the L ORD of hosts—I will take you, my servant, Zerubbabel, son of Shealtiel—oracle of the L ORD —and I will make you like a signet ring, for I have chosen you—oracle of the L ORD of hosts. ^haggai-02-23
+23 On that day—oracle of the LORD of hosts—I will take you, my servant, Zerubbabel, son of Shealtiel—oracle of the LORD —and I will make you like a signet ring, for I have chosen you—oracle of the LORD of hosts. ^haggai-02-23
 
 \* (2:1) Twenty-first day of the seventh month: October 17, 520 B.C.
 

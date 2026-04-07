@@ -1,33 +1,32 @@
 ---
-title: Jeremiah, Chapter 40
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jeremiah, Chapter 40
+title: Jeremiah, Chapter 40
+url: https://bible.usccb.org/bible/jeremiah/40
 aliases:
   - jeremiah-40
   - Jeremiah, Chapter 40
 tags:
+  - bible/chapter
   - bible/jeremiah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/jeremiah/40
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jeremiah, Chapter 40
 ---
 
 # Jeremiah, Chapter 40
 
-### Chapter 40
+## Chapter 40
 
 **Jeremiah Still in Judah.**
 
-1 The word which came to Jeremiah from the L ORD, after Nebuzaradan, captain of the bodyguard, had released him in Ramah, where he found him a prisoner in chains among the captives of Jerusalem and Judah being exiled to Babylon. ^jeremiah-40-1
+1 The word which came to Jeremiah from the LORD, after Nebuzaradan, captain of the bodyguard, had released him in Ramah, where he found him a prisoner in chains among the captives of Jerusalem and Judah being exiled to Babylon. ^jeremiah-40-1
 
-2 The captain of the bodyguard took charge of Jeremiah and said to him, “The L ORD, your God, decreed ruin for this place. ^jeremiah-40-2
+2 The captain of the bodyguard took charge of Jeremiah and said to him, “The LORD, your God, decreed ruin for this place. ^jeremiah-40-2
 
-3 Now he has made it happen, accomplishing what he decreed; because you sinned against the L ORD and did not listen to his voice, this decree has been realized against you. ^jeremiah-40-3
+3 Now he has made it happen, accomplishing what he decreed; because you sinned against the LORD and did not listen to his voice, this decree has been realized against you. ^jeremiah-40-3
 
 4 Now, I release you today from the chains upon your hands; if you want to come with me to Babylon, then come: I will look out for you. But if you do not want to come to Babylon, very well. See, the whole land lies before you; go wherever you think good and proper. ^jeremiah-40-4
 

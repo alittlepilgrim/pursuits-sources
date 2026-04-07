@@ -1,31 +1,30 @@
 ---
-title: Proverbs, Chapter 14
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 14
+title: Proverbs, Chapter 14
+url: https://bible.usccb.org/bible/proverbs/14
 aliases:
   - proverbs-14
   - Proverbs, Chapter 14
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/14
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 14
 ---
 
 # Proverbs, Chapter 14
 
-### Chapter 14
+## Chapter 14
 
 1 Wisdom builds her house, ^proverbs-14-1
 
 but Folly tears hers down with her own hands.
 
-2 Those who walk uprightly fear the L ORD, ^proverbs-14-2
+2 Those who walk uprightly fear the LORD, ^proverbs-14-2
 
 but those who are devious in their ways spurn him.
 
@@ -121,11 +120,11 @@ the diadem of fools is folly.
 
 but whoever utters lies is a betrayer.
 
-26 The fear of the L ORD is a strong defense, ^proverbs-14-26
+26 The fear of the LORD is a strong defense, ^proverbs-14-26
 
 a refuge even for one’s children.
 
-27 The fear of the L ORD is a fountain of life, ^proverbs-14-27
+27 The fear of the LORD is a fountain of life, ^proverbs-14-27
 
 turning one from the snares of death.
 

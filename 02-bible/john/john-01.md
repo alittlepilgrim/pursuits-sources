@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 1
+title: John, Chapter 1
+url: https://bible.usccb.org/bible/john/1
 aliases:
   - john-01
   - John, Chapter 1
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/1
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 1
 ---
 
 # John, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
 1 In the beginning was the Word, ^john-01-1
 
@@ -83,7 +82,7 @@ full of grace and truth.
 
 18 No one has ever seen God. The only Son, God, who is at the Father’s side, has revealed him. ^john-01-18
 
-## Ii. the Book of Signs
+# Ii. the Book of Signs
 
 **John the Baptist’s Testimony to Himself.**
 

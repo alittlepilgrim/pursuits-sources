@@ -1,30 +1,23 @@
 ---
-title: Introduction - Treatise on the Love of God by St. Francis de Sales
-created: 2025-09-12
-modified: 2026-04-02
 type: book
-publish: true
-description: Classic theological and devotional masterpiece by St. Francis de Sales exploring the will, affections, and the practice of divine love; foundational for Catholic ascetical and mystical theology.
+title: Introduction - Treatise on the Love of God by St. Francis de Sales
+author: Saint Francis de Sales
+source: Christian Classics Ethereal Library (CCEL)
+url: https://ccel.org/ccel/d/desales/love/cache/love.txt
 aliases:
   - Introduction - Treatise on the Love of God by St. Francis de Sales
 tags:
-  - author/francis-de-sales
-  - book
-  - book/treatise-on-love
-  - saint/francis-de-sales
-author: Saint Francis de Sales
-collection: Catholic Spiritual Classics
-dates: 1616 (original French); 1884 (English translation)
-edition: "English translation, New York: Benziger Brothers, ca. 1884; Public Domain (CCEL)"
-link: https://ccel.org/ccel/d/desales/love/cache/love.txt
-source: Christian Classics Ethereal Library (CCEL)
-status: in-progress
-translator: Rev. Henry Benedict Mackey, O.S.B. (under the direction of Bishop John Cuthbert Hedley, O.S.B.)
+  - author/saint-francis-de-sales
+  - type/book
+created: 2025-09-12
+modified: 2026-04-06
+publish: true
+description: Classic theological and devotional masterpiece by St. Francis de Sales exploring the will, affections, and the practice of divine love; foundational for Catholic ascetical and mystical theology.
 ---
 
 # Treatise on the Love of God by St. Francis de Sales
 
-
+[Source](https://ccel.org/ccel/d/desales/love/cache/love.txt)
 
 ## Publication Info
 
@@ -238,3 +231,9 @@ Weobley, Feast of our most holy Father S. Benedict, 1884.
 
 [14] For instance nuisance as if it were naissance; jeusnes et veilles, as if they were jeunes et vieilles.
 
+# Edition
+
+collection: Catholic Spiritual Classics
+dates: 1616 (original French); 1884 (English translation)
+edition: "English translation, New York: Benziger Brothers, ca. 1884; Public Domain (CCEL)"
+translator: Rev. Henry Benedict Mackey, O.S.B. (under the direction of Bishop John Cuthbert Hedley, O.S.B.)

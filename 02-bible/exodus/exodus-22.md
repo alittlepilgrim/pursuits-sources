@@ -1,26 +1,25 @@
 ---
-title: Exodus, Chapter 22
-created: 2025-07-31
-modified: 2026-03-19
 type: bible
-publish: true
-description: exodus-chapter 22
+title: Exodus, Chapter 22
+url: https://bible.usccb.org/bible/exodus/22
 aliases:
   - 20250731-085943
   - exodus-22
   - Exodus, Chapter 22
 tags:
+  - bible/chapter
   - bible/exodus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/exodus/22
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-31
+modified: 2026-04-04
+publish: true
+description: exodus-chapter 22
 ---
 
 # Exodus, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 1 \[If a thief is caught in the act of housebreaking and beaten to death, there is no bloodguilt involved. ^exodus-22-1
 
@@ -42,7 +41,7 @@ url: https://bible.usccb.org/bible/exodus/22
 
 9 When someone gives an ass, or an ox, or a sheep, or any other animal to another for safekeeping, if it dies, or is maimed or snatched away, without anyone witnessing the fact, ^exodus-22-9
 
-10 there shall be an oath before the L ORD between the two of them that the guardian did not lay hands on his neighbor’s property; the owner must accept the oath, and no restitution is to be made. ^exodus-22-10
+10 there shall be an oath before the LORD between the two of them that the guardian did not lay hands on his neighbor’s property; the owner must accept the oath, and no restitution is to be made. ^exodus-22-10
 
 11 But if the guardian has actually stolen from it, then he must make restitution to the owner. ^exodus-22-11
 
@@ -62,7 +61,7 @@ url: https://bible.usccb.org/bible/exodus/22
 
 18 Anyone who lies with an animal shall be put to death. ^exodus-22-18
 
-19 Whoever sacrifices to any god, except to the L ORD alone, shall be put under the ban. ^exodus-22-19
+19 Whoever sacrifices to any god, except to the LORD alone, shall be put under the ban. ^exodus-22-19
 
 20 You shall not oppress or afflict a resident alien, for you were once aliens residing in the land of Egypt. ^exodus-22-20
 

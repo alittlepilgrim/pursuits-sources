@@ -1,24 +1,23 @@
 ---
-title: Genesis, Chapter 20
-created: 2025-05-08
-modified: 2026-03-19
 type: bible
-publish: true
-description: Genesis, Chapter 20
+title: Genesis, Chapter 20
+url: https://bible.usccb.org/bible/genesis/20
 aliases:
   - 20250508-020247
   - genesis-20
   - Genesis, Chapter 20
 tags:
   - bible
+  - bible/chapter
   - bible/genesis
-  - vault-admin/graph/bible-ccc
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-05-08
+modified: 2026-04-04
+publish: true
+description: Genesis, Chapter 20
 bible_book: genesis
 bible_chapter: "20"
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/genesis/20
 ---
 
 [[genesis-19|[← Previous Note]]] · [[genesis-21|[Next Note →]]]
@@ -63,7 +62,7 @@ url: https://bible.usccb.org/bible/genesis/20
 
 17 [[abraham|Abraham]] then interceded with God, and God restored health to Abimelech, to his wife, and his maidservants, so that they bore children; ^genesis-20-17
 
-18 for the L ORD had closed every womb in Abimelech’s household on account of [[abraham|Abraham]]’s wife Sarah. ^genesis-20-18
+18 for the LORD had closed every womb in Abimelech’s household on account of [[abraham|Abraham]]’s wife Sarah. ^genesis-20-18
 
 \* (20:1] – [18) [[abraham|Abraham]] again passes off his wife Sarah as his sister to escape trouble in a foreign land (cf. [12:10] – [13:1], the J source). The story appears to be from a different source (according to some, E) and deals with the ethical questions of the incident. [Gn 26:6] – [11] is yet another retelling of the story, but with Isaac and Rebekah as characters instead of [[abraham|Abraham]] and Sarah.
 
@@ -81,6 +80,6 @@ a. (20:13) [[genesis-12|Gen 12]]:13..
 
 ---
 
-#### Navigation
+## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-01|[Next Note →]]]

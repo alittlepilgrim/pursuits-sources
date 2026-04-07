@@ -1,25 +1,24 @@
 ---
-title: John, Chapter 12
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: John, Chapter 12
+title: John, Chapter 12
+url: https://bible.usccb.org/bible/john/12
 aliases:
   - john-12
   - John, Chapter 12
 tags:
+  - bible/chapter
   - bible/john
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/john/12
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: John, Chapter 12
 ---
 
 # John, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **The Anointing at Bethany.**
 

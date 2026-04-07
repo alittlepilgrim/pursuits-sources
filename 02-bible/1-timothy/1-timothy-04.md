@@ -1,25 +1,24 @@
 ---
-title: 1 Timothy, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: 1 Timothy, Chapter 4
+title: 1 Timothy, Chapter 4
+url: https://bible.usccb.org/bible/1timothy/4
 aliases:
   - 1 Timothy, Chapter 4
   - 1-timothy-04
 tags:
   - bible/1-timothy
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/1timothy/4
+  - bible/chapter
+  - bible/new-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: 1 Timothy, Chapter 4
 ---
 
 # 1 Timothy, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 **False Asceticism.**
 

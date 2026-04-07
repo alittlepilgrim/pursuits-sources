@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2025 - Text 7 to Father Belliere, 18th July 1897 (Letter 258)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2025 - Text 7 to Father Belliere, 18th July 1897 (Letter 258)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2025 - Text 7 to Father Belliere, 18th July 1897 (Letter 258)
   - theresian-anniversaries-2025-text-07
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2025 - Text 7 to Father Belliere, 18th July 1897 (Letter 258)
@@ -26,7 +26,7 @@ Suggestion for the community meeting:
 
 It would be helpful to have made individual readings and reflections on Therese’s text before the community meeting.
 
-### To Father Belliere, 18th July 1897 (Letter 258)
+## To Father Belliere, 18th July 1897 (Letter 258)
 
 To Father Belliere, 18th July 1897 (Letter 258)
 
@@ -46,7 +46,7 @@ But why talk to you about the life of trust and love? I explain myself so badly 
 
 Th. of the Child Jesus, rel. carm. ind.
 
-### Introduction to the Text
+## Introduction to the Text
 
 Father Maurice Belliere was born on 10th June 1874 in Nor-mandy. In his youth he had to overcome many trials, and, as he himself says, «passed through many storms». He believed that he was to live the rest of his life with the awareness of having wasted his best years. When called up to military service and conscious of his own frailty, he feared the worst for his priestly vocation.
 
@@ -62,7 +62,7 @@ to encourage him in his vocation. From her very first letter, she re-minded him 
 
 8 To Father Belliere, 18th July 1897 (Letter 258)Therese realised very quickly that priests were men, who were both frail and weak. But, as she writes: «No human frailty can be an obstacle to preaching the Gospel, as long as the flame of love burns in the heart of the Church». Later, Maurice was to re-read these letters on several occasions and even made a collection of his chosen passages, while studying at Carthage. Later again, in Malawi, when he was ill and rather discouraged, he will have cer-tainly found in their message the remedy for his despair.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text.
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -72,7 +72,7 @@ The purpose of this process is to allow Therese to speak to us herself, to quest
 
 The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 This is one of Therese’s last letters to Father Belliere who was very much distressed by the prospect of Therese’s approaching death.
 

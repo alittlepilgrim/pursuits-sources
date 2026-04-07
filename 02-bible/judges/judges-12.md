@@ -1,25 +1,24 @@
 ---
-title: Judges, Chapter 12
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Judges, Chapter 12
+title: Judges, Chapter 12
+url: https://bible.usccb.org/bible/judges/12
 aliases:
   - judges-12
   - Judges, Chapter 12
 tags:
+  - bible/chapter
   - bible/judges
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/judges/12
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Judges, Chapter 12
 ---
 
 # Judges, Chapter 12
 
-### Chapter 12
+## Chapter 12
 
 **The Shibboleth Incident.**
 
@@ -27,7 +26,7 @@ url: https://bible.usccb.org/bible/judges/12
 
 2 Jephthah answered them, “My soldiers and I were engaged in a contest with the Ammonites. They were pressing us hard, and I cried out to you, but you did not come to save me from their power. ^judges-12-2
 
-3 When I saw that you were not coming to save me, I took my life in my own hand and crossed over against the Ammonites, and the L ORD delivered them into my power. Why, then, should you come up against me this day to fight with me?” ^judges-12-3
+3 When I saw that you were not coming to save me, I took my life in my own hand and crossed over against the Ammonites, and the LORD delivered them into my power. Why, then, should you come up against me this day to fight with me?” ^judges-12-3
 
 4 Then Jephthah gathered together all the men of Gilead and fought against Ephraim. The men of Gilead defeated Ephraim, ^judges-12-4
 

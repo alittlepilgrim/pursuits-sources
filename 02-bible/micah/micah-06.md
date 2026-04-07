@@ -1,37 +1,36 @@
 ---
-title: Micah, Chapter 6
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Micah, Chapter 6
+title: Micah, Chapter 6
+url: https://bible.usccb.org/bible/micah/6
 aliases:
   - micah-06
   - Micah, Chapter 6
 tags:
+  - bible/chapter
   - bible/micah
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/micah/6
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Micah, Chapter 6
 ---
 
 # Micah, Chapter 6
 
-### Chapter 6
+## Chapter 6
 
-1 Hear, then, what the L ORD says: ^micah-06-1
+1 Hear, then, what the LORD says: ^micah-06-1
 
 Arise, plead your case before the mountains,
 
 and let the hills hear your voice!
 
-2 Hear, O mountains, the L ORD’s case, ^micah-06-2
+2 Hear, O mountains, the LORD’s case, ^micah-06-2
 
 pay attention, O foundations of the earth!
 
-For the L ORD has a case against his people;
+For the LORD has a case against his people;
 
 he enters into trial with Israel.
 
@@ -53,9 +52,9 @@ and how Balaam, the son of Beor, answered him.
 
 Recall the passage from Shittim to Gilgal,
 
-that you may know the just deeds of the L ORD.
+that you may know the just deeds of the LORD.
 
-6 With what shall I come before the L ORD, ^micah-06-6
+6 With what shall I come before the LORD, ^micah-06-6
 
 and bow before God most high?
 
@@ -63,7 +62,7 @@ Shall I come before him with burnt offerings,
 
 with calves a year old?
 
-7 Will the L ORD be pleased with thousands of rams, ^micah-06-7
+7 Will the LORD be pleased with thousands of rams, ^micah-06-7
 
 with myriad streams of oil?
 
@@ -73,13 +72,13 @@ the fruit of my body for the sin of my soul?
 
 8 You have been told, O mortal, what is good, ^micah-06-8
 
-and what the L ORD requires of you:
+and what the LORD requires of you:
 
 Only to do justice and to love goodness,
 
 and to walk humbly with your God.
 
-9 The L ORD cries aloud to the city ^micah-06-9
+9 The LORD cries aloud to the city ^micah-06-9
 
 (It is prudent to fear your name!):
 

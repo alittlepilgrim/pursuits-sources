@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2024 - Text 7 the Power of Prayer (Ms. C, 24v-26r)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2024 - Text 7 the Power of Prayer (Ms. C, 24v-26r)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2024 - Text 7 the Power of Prayer (Ms. C, 24v-26r)
   - theresian-anniversaries-2024-text-07
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2024 - Text 7 the Power of Prayer (Ms. C, 24v-26r)
@@ -45,7 +45,7 @@ Sometimes when my mind is in such a great aridity that it is impossible to draw 
 
 The Blessed Virgin shows me she is not displeased with me, for she never fails to protect me as soon as I invoke her. If some disturbance overtakes me, some embarrassment, I turn very quickly to her and as the most tender of Mothers she always takes care of my interests. How many times, when speaking to the nov-ices, has it happened that I invoked her and felt the benefits of her motherly protection!
 
-### Introduction to the Text
+## Introduction to the Text
 
 ‘The one and only novice’ (Ms. C, 24v): this refers to Sister Marie of the Trinity. In fact, there were a total of 4 young novices (Sister Martha of Jesus, who should have moved on from the novitiate in 1894 but who had stayed there through her affection for Therese; Sister Marie-Made-leine of the Holy Sacrament; Sister Genevieve of Saint Teresa (her bio-logical sister, Celine); and Sister Marie of the Trinity).
 
@@ -57,7 +57,7 @@ She did not give a conference as such. Her teaching was in no way systematic. Sh
 
 ‘An aspiration of the heart, a simple glance directed to heaven, it is a cry of gratitude and love in the midst of trial as well as joy’ (Ms. C, 25r): Therese is wary of beautiful prayers that are recited as beautiful phrases, without meditation or understanding. One is almost liable to forget that this serene Novice Mistress is also a young woman who is sick and prey to the most painful suffering.
 
-### For Community Discussion
+## For Community Discussion
 
 1. What is the text saying? Understanding the content and initial meaning of Therese’s text
 2. What does the text say to us today? Discern the present-day relevance (social, ecclesial, spiritual...) of the text.
@@ -65,7 +65,7 @@ She did not give a conference as such. Her teaching was in no way systematic. Sh
 
 The purpose of this process is to allow Therese to speak to us herself, to question and encourage us, and to open us up to her clarifying and confirming our own personal and community path. The questions suggested are only indicative, and could perhaps be used in individual meditation and community sharing.
 
-### Questions
+## Questions
 
 1. 2. 3. 4. Reread Ms. A, 45v-46v (Text 4 from last year), as a precursor of this passage in Ms. C. What evolutions do you see?
 

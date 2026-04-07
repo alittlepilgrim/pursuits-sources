@@ -1,20 +1,20 @@
 ---
-title: Jonah, The Book of Jonah
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Jonah, the Book of Jonah
+title: Jonah, The Book of Jonah
+url: https://bible.usccb.org/bible/jonah/0
 aliases:
   - jonah-00
   - Jonah, the Book of Jonah
   - Jonah, The Book of Jonah
 tags:
+  - bible/book
   - bible/jonah
-layer: canon
-node-type: book
-testament: old
-url: https://bible.usccb.org/bible/jonah/0
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Jonah, the Book of Jonah
 ---
 
 # Jonah, the Book of Jonah

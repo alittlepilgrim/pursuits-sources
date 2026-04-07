@@ -1,27 +1,26 @@
 ---
-title: Proverbs, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 1
+title: Proverbs, Chapter 1
+url: https://bible.usccb.org/bible/proverbs/1
 aliases:
   - proverbs-01
   - Proverbs, Chapter 1
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 1
 ---
 
 # Proverbs, Chapter 1
 
-### Chapter 1
+## Chapter 1
 
-#### Purpose of the Proverbs of Solomon
+### Purpose of the Proverbs of Solomon
 
 1 The proverbs of Solomon, the son of David, ^proverbs-01-1
 
@@ -47,13 +46,13 @@ the intelligent will gain sound guidance,
 
 the words of the wise and their riddles.
 
-7 Fear of the L ORD is the beginning of knowledge; ^proverbs-01-7
+7 Fear of the LORD is the beginning of knowledge; ^proverbs-01-7
 
 fools despise wisdom and discipline.
 
-## Ii. Instructions of Parents and of Woman Wisdom
+# Ii. Instructions of Parents and of Woman Wisdom
 
-#### The Path of the Wicked: Greed and Violence
+## The Path of the Wicked: Greed and Violence
 
 8 Hear, my son, your father’s instruction, ^proverbs-01-8
 
@@ -103,7 +102,7 @@ they set a trap for their own lives.
 
 it takes away their lives.
 
-#### Wisdom in Person Gives a Warning
+## Wisdom in Person Gives a Warning
 
 20 Wisdom cries aloud in the street, ^proverbs-01-20
 
@@ -149,7 +148,7 @@ they will seek me, but will not find me,
 
 29 Because they hated knowledge, ^proverbs-01-29
 
-and the fear of the L ORD they did not choose.
+and the fear of the LORD they did not choose.
 
 30 They ignored my counsel, ^proverbs-01-30
 
@@ -175,13 +174,13 @@ in peace, without fear of harm.”
 
 \* (1:4) Naive: immature, inexperienced, sometimes the young, hence easily influenced for good or evil.
 
-\* (1:7) Fear of the L ORD: primarily a disposition rather than the emotion of fear; reverential awe and respect toward God combined with obedience to God’s will.
+\* (1:7) Fear of the LORD: primarily a disposition rather than the emotion of fear; reverential awe and respect toward God combined with obedience to God’s will.
 
 \* (1:8] – [19) A parental warning to a young person leaving home, for them to avoid the company of the greedy and violent. Two ways lie before the hearer, a way that leads to death and a way that leads to life. The trap which the wicked set for the innocent (v. [11]) in the end takes away the lives of the wicked themselves (v. [19]). This theme will recur especially in chaps. [1] – [9]. A second theme introduced here is that of founding (or managing) a household and choosing a spouse. A third theme is the human obstacles to attaining wisdom. Here (and in [2:12] – [15] and [4:10] – [19]), the obstacle is men (always in the plural); in [2:16] – [19]; [5:1] – [6]; [6:20] – [35]; chap. [7]; [9:13] – [18], the obstacle to the quest is the “foreign” woman (always in the singular).
 
 \* (1:17) A difficult verse. The most probable interpretation is that no fowler lifts up the net so the bird can see it. The verse might be paraphrased: God does not let those who walk on evil paths see the net that will entrap them. The passive construction (“a net is spread”) is sometimes used to express divine activity. Verse [16] is a later attempt to add clarity. It is a quotation from [Is 59:7] and is not in the best Greek manuscripts.
 
-\* (1:20] – [33) Wisdom is personified as in chaps. [8] and [9:1] – [6]. With divine authority she proclaims the moral order, threatening to leave to their own devices those who disregard her invitation. All three speeches of Woman Wisdom have common features: a setting in city streets; an audience of simple or naive people; a competing appeal (chap. [7] is the competing appeal for chap. [8]); an invitation to a relationship that brings long life, riches, repute.
+\* (1:20] – [33) Wisdom is personified as in chaps. [8] and [9:1] – [6]. With divine authority she proclaims the moraLORDer, threatening to leave to their own devices those who disregard her invitation. All three speeches of Woman Wisdom have common features: a setting in city streets; an audience of simple or naive people; a competing appeal (chap. [7] is the competing appeal for chap. [8]); an invitation to a relationship that brings long life, riches, repute.
 
 The structure of the speeches is: A: setting (vv. [20] – [21]); B: Wisdom’s withdrawal, rebuke and announcement (vv. [22] – [23]); reason and rejection I (vv. [24] – [27]); reason and rejection II (vv. [28] – [31]); summary (v. [32]); C: the effects of Wisdom’s presence (v. [33]). Wisdom’s opening speech is an extended threat ending with a brief invitation (v. [33]). Her second speech is an extended invitation ending with a brief threat ([8:36]). The surprisingly abrupt and harsh tone of her speech is perhaps to be explained as a response to the arrogant words of the men in the previous scene ([1:8] – [19]).
 

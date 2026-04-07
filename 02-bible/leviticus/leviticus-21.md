@@ -1,29 +1,28 @@
 ---
-title: Leviticus, Chapter 21
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Leviticus, Chapter 21
+title: Leviticus, Chapter 21
+url: https://bible.usccb.org/bible/leviticus/21
 aliases:
   - leviticus-21
   - Leviticus, Chapter 21
 tags:
+  - bible/chapter
   - bible/leviticus
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/leviticus/21
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Leviticus, Chapter 21
 ---
 
 # Leviticus, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
 **Sanctity of the Priesthood.**
 
-1 The L ORD said to Moses: Speak to the priests, Aaron’s sons, and tell them: None of you shall make himself unclean for any dead person among his kindred, ^leviticus-21-1
+1 The LORD said to Moses: Speak to the priests, Aaron’s sons, and tell them: None of you shall make himself unclean for any dead person among his kindred, ^leviticus-21-1
 
 2 except for his nearest relatives, his mother or father, his son or daughter, his brother ^leviticus-21-2
 
@@ -33,11 +32,11 @@ url: https://bible.usccb.org/bible/leviticus/21
 
 5 The priests shall not make bald the crown of their head, nor shave the edges of their beard, nor lacerate their body. ^leviticus-21-5
 
-6 They shall be holy to their God, and shall not profane their God’s name, since they offer the oblations of the L ORD, the food of their God; so they must be holy. ^leviticus-21-6
+6 They shall be holy to their God, and shall not profane their God’s name, since they offer the oblations of the LORD, the food of their God; so they must be holy. ^leviticus-21-6
 
 7 A priest shall not marry a woman debased by prostitution, nor a woman who has been divorced by her husband; for the priest is holy to his God. ^leviticus-21-7
 
-8 Honor him as holy for he offers the food of your God; he shall be holy to you, because I, the L ORD, am holy who make you holy. ^leviticus-21-8
+8 Honor him as holy for he offers the food of your God; he shall be holy to you, because I, the LORD, am holy who make you holy. ^leviticus-21-8
 
 9 If a priest’s daughter debases herself by prostitution, she thereby debases her father; she shall be burned with fire. ^leviticus-21-9
 
@@ -45,17 +44,17 @@ url: https://bible.usccb.org/bible/leviticus/21
 
 11 nor shall he go near any dead person. Not even for his father or mother may he thus become unclean; ^leviticus-21-11
 
-12 nor shall he leave the sanctuary and profane the sanctuary of his God, for the consecration of the anointing oil of his God is upon him. I am the L ORD. ^leviticus-21-12
+12 nor shall he leave the sanctuary and profane the sanctuary of his God, for the consecration of the anointing oil of his God is upon him. I am the LORD. ^leviticus-21-12
 
 13 He shall marry only a woman who is a virgin. ^leviticus-21-13
 
 14 He shall not marry a widow or a woman who has been divorced or one who has been debased by prostitution, but only a virgin, taken from his kindred, he shall marry, ^leviticus-21-14
 
-15 so that he not profane his offspring among his kindred. I, the L ORD, make him holy. ^leviticus-21-15
+15 so that he not profane his offspring among his kindred. I, the LORD, make him holy. ^leviticus-21-15
 
 **Priestly Blemishes.**
 
-16 The L ORD said to Moses: ^leviticus-21-16
+16 The LORD said to Moses: ^leviticus-21-16
 
 17 Say to Aaron: None of your descendants, throughout their generations, who has any blemish shall come forward to offer the food of his God. ^leviticus-21-17
 
@@ -65,11 +64,11 @@ url: https://bible.usccb.org/bible/leviticus/21
 
 20 or who is a hunchback or dwarf or has a growth in the eye, or who is afflicted with sores, scabs, or crushed testicles. ^leviticus-21-20
 
-21 No descendant of Aaron the priest who has any such blemish may draw near to offer the oblations of the L ORD; on account of his blemish he may not draw near to offer the food of his God. ^leviticus-21-21
+21 No descendant of Aaron the priest who has any such blemish may draw near to offer the oblations of the LORD; on account of his blemish he may not draw near to offer the food of his God. ^leviticus-21-21
 
 22 He may, however, eat the food of his God: of the most sacred as well as sacred offerings. ^leviticus-21-22
 
-23 Only, he may not enter through the veil nor draw near to the altar on account of his blemish; he shall not profane my sacred precincts, for it is I, the L ORD, who make them holy. ^leviticus-21-23
+23 Only, he may not enter through the veil nor draw near to the altar on account of his blemish; he shall not profane my sacred precincts, for it is I, the LORD, who make them holy. ^leviticus-21-23
 
 24 Moses, therefore, told this to Aaron and his sons and to all the Israelites. ^leviticus-21-24
 

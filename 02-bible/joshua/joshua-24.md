@@ -1,32 +1,30 @@
 ---
-title: Joshua, Chapter 24
-created: 2025-07-29
-modified: 2026-04-02
 type: bible
-publish: true
-description: Joshua, Chapter 24
+title: Joshua, Chapter 24
+url: https://bible.usccb.org/bible/joshua/24
 aliases:
   - joshua-24
   - Joshua, Chapter 24
 tags:
+  - bible/chapter
   - bible/joshua
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-source: https://bible.usccb.org/bible/joshua/24
-testament: old
-url: https://bible.usccb.org/bible/joshua/24
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-29
+modified: 2026-04-04
+publish: true
+description: Joshua, Chapter 24
 ---
 
 # Joshua, Chapter 24
 
-### Chapter 24
+## Chapter 24
 
 **Covenant Ceremony.**
 
 1 Joshua gathered together all the tribes of Israel at Shechem, summoning the elders, leaders, judges, and officers of Israel. When they stood in ranks before God, ^joshua-24-1
 
-2 Joshua addressed all the people: “Thus says the L ORD, the God of Israel: In times past your ancestors, down to Terah, father of [[abraham|Abraham]] and Nahor, lived beyond the River and served other gods. ^joshua-24-2
+2 Joshua addressed all the people: “Thus says the LORD, the God of Israel: In times past your ancestors, down to Terah, father of [[abraham|Abraham]] and Nahor, lived beyond the River and served other gods. ^joshua-24-2
 
 3 But I brought your father [[abraham|Abraham]] from the region beyond the River and led him through the entire land of Canaan. I made his descendants numerous, and gave him Isaac. ^joshua-24-3
 
@@ -36,7 +34,7 @@ url: https://bible.usccb.org/bible/joshua/24
 
 6 And when I led your ancestors out of Egypt, you came to the sea, and the Egyptians pursued your ancestors to the Red Sea with chariots and charioteers. ^joshua-24-6
 
-7 When they cried out to the L ORD, he put darkness between you and the Egyptians, upon whom he brought the sea so that it covered them. Your eyes saw what I did to Egypt. After you dwelt a long time in the wilderness, ^joshua-24-7
+7 When they cried out to the LORD, he put darkness between you and the Egyptians, upon whom he brought the sea so that it covered them. Your eyes saw what I did to Egypt. After you dwelt a long time in the wilderness, ^joshua-24-7
 
 8 I brought you into the land of the Amorites who lived east of the Jordan. They fought against you, but I delivered them into your power. You took possession of their land, and I destroyed them at your approach. ^joshua-24-8
 
@@ -50,43 +48,43 @@ url: https://bible.usccb.org/bible/joshua/24
 
 13 I gave you a land you did not till and cities you did not build, to dwell in; you ate of vineyards and olive groves you did not plant. ^joshua-24-13
 
-14 “Now, therefore, fear the L ORD and serve him completely and sincerely. Cast out the gods your ancestors served beyond the River and in Egypt, and serve the L ORD. ^joshua-24-14
+14 “Now, therefore, fear the LORD and serve him completely and sincerely. Cast out the gods your ancestors served beyond the River and in Egypt, and serve the LORD. ^joshua-24-14
 
-15 If it is displeasing to you to serve the L ORD, choose today whom you will serve, the gods your ancestors served beyond the River or the gods of the Amorites in whose country you are dwelling. As for me and my household, we will serve the L ORD.” ^joshua-24-15
+15 If it is displeasing to you to serve the LORD, choose today whom you will serve, the gods your ancestors served beyond the River or the gods of the Amorites in whose country you are dwelling. As for me and my household, we will serve the LORD.” ^joshua-24-15
 
-16 But the people answered, “Far be it from us to forsake the L ORD to serve other gods. ^joshua-24-16
+16 But the people answered, “Far be it from us to forsake the LORD to serve other gods. ^joshua-24-16
 
-17 For it was the L ORD, our God, who brought us and our ancestors up out of the land of Egypt, out of the house of slavery. He performed those great signs before our very eyes and protected us along our entire journey and among all the peoples through whom we passed. ^joshua-24-17
+17 For it was the LORD, our God, who brought us and our ancestors up out of the land of Egypt, out of the house of slavery. He performed those great signs before our very eyes and protected us along our entire journey and among all the peoples through whom we passed. ^joshua-24-17
 
-18 At our approach the L ORD drove out all the peoples, including the Amorites who dwelt in the land. Therefore we also will serve the L ORD, for he is our God.” ^joshua-24-18
+18 At our approach the LORD drove out all the peoples, including the Amorites who dwelt in the land. Therefore we also will serve the LORD, for he is our God.” ^joshua-24-18
 
-19 Joshua in turn said to the people, “You may not be able to serve the L ORD, for he is a holy God; he is a passionate God who will not forgive your transgressions or your sins. ^joshua-24-19
+19 Joshua in turn said to the people, “You may not be able to serve the LORD, for he is a holy God; he is a passionate God who will not forgive your transgressions or your sins. ^joshua-24-19
 
-20 If you forsake the L ORD and serve strange gods, he will then do evil to you and destroy you, after having done you good.” ^joshua-24-20
+20 If you forsake the LORD and serve strange gods, he will then do evil to you and destroy you, after having done you good.” ^joshua-24-20
 
-21 But the people answered Joshua, “No! We will serve the L ORD.” ^joshua-24-21
+21 But the people answered Joshua, “No! We will serve the LORD.” ^joshua-24-21
 
-22 Joshua therefore said to the people, “You are witnesses against yourselves that you have chosen to serve the L ORD.” They replied, “We are witnesses!” ^joshua-24-22
+22 Joshua therefore said to the people, “You are witnesses against yourselves that you have chosen to serve the LORD.” They replied, “We are witnesses!” ^joshua-24-22
 
-23 “Now, therefore, put away the foreign gods that are among you and turn your hearts to the L ORD, the God of Israel.” ^joshua-24-23
+23 “Now, therefore, put away the foreign gods that are among you and turn your hearts to the LORD, the God of Israel.” ^joshua-24-23
 
-24 Then the people promised Joshua, “We will serve the L ORD, our God, and will listen to his voice.” ^joshua-24-24
+24 Then the people promised Joshua, “We will serve the LORD, our God, and will listen to his voice.” ^joshua-24-24
 
 25 So Joshua made a covenant with the people that day and made statutes and ordinances for them at Shechem. ^joshua-24-25
 
-26 Joshua wrote these words in the book of the law of God. Then he took a large stone and set it up there under the terebinth that was in the sanctuary of the L ORD. ^joshua-24-26
+26 Joshua wrote these words in the book of the law of God. Then he took a large stone and set it up there under the terebinth that was in the sanctuary of the LORD. ^joshua-24-26
 
-27 And Joshua said to all the people, “This stone shall be our witness, for it has heard all the words which the L ORD spoke to us. It shall be a witness against you, should you wish to deny your God.” ^joshua-24-27
+27 And Joshua said to all the people, “This stone shall be our witness, for it has heard all the words which the LORD spoke to us. It shall be a witness against you, should you wish to deny your God.” ^joshua-24-27
 
 28 Then Joshua dismissed the people, each to their own heritage. ^joshua-24-28
 
 **Death of Joshua.**
 
-29 After these events, Joshua, son of Nun, servant of the L ORD, died at the age of a hundred and ten, ^joshua-24-29
+29 After these events, Joshua, son of Nun, servant of the LORD, died at the age of a hundred and ten, ^joshua-24-29
 
 30 and they buried him within the borders of his heritage at Timnath-serah in the mountain region of Ephraim north of Mount Gaash. ^joshua-24-30
 
-31 Israel served the L ORD during the entire lifetime of Joshua, and of those elders who outlived Joshua and who knew all the work the L ORD had done for Israel. ^joshua-24-31
+31 Israel served the LORD during the entire lifetime of Joshua, and of those elders who outlived Joshua and who knew all the work the LORD had done for Israel. ^joshua-24-31
 
 32 The bones of Joseph, which the Israelites had brought up from Egypt, were buried in Shechem in the plot of ground Jacob had bought from the sons of Hamor, father of Shechem, for a hundred pieces of money. This was a heritage of the descendants of Joseph. ^joshua-24-32
 

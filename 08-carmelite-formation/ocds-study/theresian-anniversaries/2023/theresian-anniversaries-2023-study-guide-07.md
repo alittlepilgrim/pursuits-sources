@@ -1,15 +1,15 @@
 ---
-title: Theresian Anniversaires 2023 - Study Guide 7 the Father’s Death and Celine Enters Carmel (Ms A, 81v-83v)
-created: 2025-10-25
-modified: 2026-04-02
 type: ocd-readings
-publish: true
+title: Theresian Anniversaires 2023 - Study Guide 7 the Father’s Death and Celine Enters Carmel (Ms A, 81v-83v)
+author: OCD General Curia
 aliases:
   - Theresian Anniversaires 2023 - Study Guide 7 the Father’s Death and Celine Enters Carmel (Ms A, 81v-83v)
   - theresian-anniversaries-2023-study-guide-07
 tags:
   - carmel/theresian-anniversaries
-author: OCD General Curia
+created: 2025-10-25
+modified: 2026-04-04
+publish: true
 ---
 
 # Theresian Anniversaires 2023 - Study Guide 7 the Father’s Death and Celine Enters Carmel (Ms A, 81v-83v)
@@ -25,7 +25,7 @@ Community dialogue on the text.
 
 It would be good if the community meeting was preceded by a personal reading and meditation on the text of Therese.
 
-### Manuscript A, 81v-83v
+## Manuscript A, 81v-83v
 
 There are other desires of another kind that Jesus was pleased to grant me, childish desires similar to the snow at my reception of the Habit.
 
@@ -63,7 +63,7 @@ But it is especially the Gospels that sustain me during my hours of prayer, for 
 
 I understand and I know from experience that: “The kingdom of God is within you.” Jesus has no need of books or teachers to instruct souls; He teaches without the noise of words. Never The father’s death and Celine enters Carmel (Ms A, 81v-83v) 7have I heard Him speak, but I feel that He is within me at each moment; He is guiding and inspiring me with what I must say and do. I find just when I need them certain lights that I had not seen until then, and it isn’t most frequently during my hours of prayer that these are most abundant but rather in the midst of my daily occupations.
 
-### Introduction to the Text
+## Introduction to the Text
 
 “This dream appeared to be improbable” (Ms A, 82r): the ecclesiastical superior of the Carmel of Lisieux (Canon Delatroëtte)
 
@@ -85,7 +85,7 @@ who had already been opposed to Therese’s entry, had sworn that a fourth siste
 
 “How many lights have I not drawn from the works of our holy Father, St. John of the Cross!” (Ms A, 83r): rather unusual reading at the Carmel of Lisieux for such a young novice (seventeen years old). But Therese at Les Buissonnets (her home in Li-sieux) already knew the Doctor of Carmel, both through her two Carmelite sisters and through quotations. However, she would only read his works in Carmel.
 
-### For the Community Dialogue
+## For the Community Dialogue
 
 1. What does the text say? Understanding the content and primary meaning of Therese’s text.
 2. What does the text say to us today? Grasping the relevance (social, ecclesial, spiritual…) of the text.
@@ -93,7 +93,7 @@ who had already been opposed to Therese’s entry, had sworn that a fourth siste
 
 The purpose of doing things in this manner is to allow Therese to speak to us, to question us, to encourage us, and to welcome her to shed light upon and confirm our personal and community journey. The questions proposed are therefore only indicative and can possibly accompany personal meditation and community sharing.
 
-### Questions
+## Questions
 
 1. We return to the same topic as in the previous text. We can begin by naming the nature of Therese’s desires throughout the text and highlighting the mediations that help Teresa express them. But Therese goes further: beyond desires, their continuous deepening leads her to transcend them. How does Therese bear witness to this new spiritual maturity? Who is now the main protagonist?
 2. What is now the most important thing for Therese in her relationship with Jesus? Could we, by echoing Therese’s testimony, express in our community sharing something of our experience of desire as a place for deepening and an epiphany of a deeper desire to enter into communion with the life of Jesus?

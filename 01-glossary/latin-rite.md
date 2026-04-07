@@ -1,15 +1,17 @@
 ---
-title: Latin Rite
-created: 2025-07-20
-modified: 2026-04-02
 type: glossary
-publish: true
-description: latin-rite. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
+title: Latin Rite
+author:
 aliases:
   - Latin Rite
   - latin-rite
 tags:
   - term/latin-rite
+  - type/term
+created: 2025-07-20
+modified: 2026-04-06
+publish: true
+description: latin-rite. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Latin Rite

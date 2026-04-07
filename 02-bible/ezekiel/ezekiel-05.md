@@ -1,25 +1,24 @@
 ---
-title: Ezekiel, Chapter 5
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Ezekiel, Chapter 5
+title: Ezekiel, Chapter 5
+url: https://bible.usccb.org/bible/ezekiel/5
 aliases:
   - ezekiel-05
   - Ezekiel, Chapter 5
 tags:
+  - bible/chapter
   - bible/ezekiel
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/ezekiel/5
+  - bible/old-testament
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Ezekiel, Chapter 5
 ---
 
 # Ezekiel, Chapter 5
 
-### Chapter 5
+## Chapter 5
 
 1 Now you, son of man, take a sharp sword and use it like a barber’s razor, to shave your head and your beard. Then take a balance scale for weighing and divide the hair. ^ezekiel-05-1
 
@@ -45,15 +44,15 @@ url: https://bible.usccb.org/bible/ezekiel/5
 
 12 A third of your people shall die of disease or starve to death within you; another third shall fall by the sword all around you; a third I will scatter to the winds and pursue them with the sword. ^ezekiel-05-12
 
-13 Thus my anger will spend itself; I will vent my wrath against them until I am satisfied. Then they will know that I the L ORD spoke in my passion when I spend my wrath upon them. ^ezekiel-05-13
+13 Thus my anger will spend itself; I will vent my wrath against them until I am satisfied. Then they will know that I the LORD spoke in my passion when I spend my wrath upon them. ^ezekiel-05-13
 
 14 I will make you a desolation and a reproach among the nations around you, in the sight of every passerby. ^ezekiel-05-14
 
-15 And you will be a reproach and a taunt, a warning and a horror to the nations around you when I execute judgments against you in angry wrath, with furious chastisements. I, the L ORD, have spoken! ^ezekiel-05-15
+15 And you will be a reproach and a taunt, a warning and a horror to the nations around you when I execute judgments against you in angry wrath, with furious chastisements. I, the LORD, have spoken! ^ezekiel-05-15
 
 16 When I loose against you the deadly arrows of starvation that I am sending to destroy you, I will increase starvation and will break your staff of bread. ^ezekiel-05-16
 
-17 I will send against you starvation and wild beasts who will leave you childless, while disease and bloodshed sweep through you. I will bring the sword against you. I, the L ORD, have spoken. ^ezekiel-05-17
+17 I will send against you starvation and wild beasts who will leave you childless, while disease and bloodshed sweep through you. I will bring the sword against you. I, the LORD, have spoken. ^ezekiel-05-17
 
 \* (5:2) The city: the one drawn on the tablet ([4:1]).
 

@@ -1,20 +1,19 @@
 ---
-title: Philemon, Chapter 1
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Philemon, the Letter to Philemon
+title: Philemon, Chapter 1
+url: https://bible.usccb.org/bible/philemon/1
 aliases:
   - philemon-01
   - Philemon, Chapter 1
 tags:
+  - bible/chapter
+  - bible/new-testament
   - bible/philemon
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: new
-url: https://bible.usccb.org/bible/philemon/1
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Philemon, the Letter to Philemon
 ---
 
 # Philemon, Chapter 1
@@ -103,7 +102,7 @@ url: https://bible.usccb.org/bible/philemon/1
 
 \* (15) Was away from: literally, “was separated from,” but the same verb means simply “left” in ([[acts-of-the-apostles-18|Acts 18]]:1]. It is a euphemism for his running away.
 
-\* (16) As a man: literally, “in the flesh.” With this and the following phrase, Paul describes the natural and spiritual orders.
+\* (16) As a man: literally, “in the flesh.” With this and the following phrase, Paul describes the natural and spirituaLORDers.
 
 \* (18] – [19) Charge it to me…I will pay: technical legal and commercial terms in account keeping and acknowledgment of indebtedness.
 

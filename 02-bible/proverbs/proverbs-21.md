@@ -1,37 +1,36 @@
 ---
-title: Proverbs, Chapter 21
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 21
+title: Proverbs, Chapter 21
+url: https://bible.usccb.org/bible/proverbs/21
 aliases:
   - proverbs-21
   - Proverbs, Chapter 21
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/21
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 21
 ---
 
 # Proverbs, Chapter 21
 
-### Chapter 21
+## Chapter 21
 
-1 A king’s heart is channeled water in the hand of the L ORD; ^proverbs-21-1
+1 A king’s heart is channeled water in the hand of the LORD; ^proverbs-21-1
 
 God directs it where he pleases.
 
 2 All your ways may be straight in your own eyes, ^proverbs-21-2
 
-but it is the L ORD who weighs hearts.
+but it is the LORD who weighs hearts.
 
 3 To do what is right and just ^proverbs-21-3
 
-is more acceptable to the L ORD than sacrifice.
+is more acceptable to the LORD than sacrifice.
 
 4 Haughty eyes and a proud heart— ^proverbs-21-4
 
@@ -139,11 +138,11 @@ but the upright maintains a straight course.
 
 30 No wisdom, no understanding, ^proverbs-21-30
 
-no counsel prevail against the L ORD.
+no counsel prevail against the LORD.
 
 31 The horse is equipped for the day of battle, ^proverbs-21-31
 
-but victory is the L ORD’s.
+but victory is the LORD’s.
 
 \* (21:1) “Channeled water” in [Is 32:2] and [Prv 5:16] is water that fertilizes arid land. It takes great skill to direct water, whether it be water to fertilize fields or cosmic floods harnessed at creation, for water is powerful and seems to have a mind of its own. It also requires great skill to direct the heart of a king, for it is inscrutable and beyond ordinary human control.
 

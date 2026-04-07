@@ -1,25 +1,24 @@
 ---
-title: Proverbs, Chapter 22
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Proverbs, Chapter 22
+title: Proverbs, Chapter 22
+url: https://bible.usccb.org/bible/proverbs/22
 aliases:
   - proverbs-22
   - Proverbs, Chapter 22
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/proverbs
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/proverbs/22
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Proverbs, Chapter 22
 ---
 
 # Proverbs, Chapter 22
 
-### Chapter 22
+## Chapter 22
 
 1 A good name is more desirable than great riches, ^proverbs-22-1
 
@@ -27,13 +26,13 @@ and high esteem, than gold and silver.
 
 2 Rich and poor have a common bond: ^proverbs-22-2
 
-the L ORD is the maker of them all.
+the LORD is the maker of them all.
 
 3 The astute see an evil and hide, ^proverbs-22-3
 
 while the naive continue on and pay the penalty.
 
-4 The result of humility and fear of the L ORD ^proverbs-22-4
+4 The result of humility and fear of the LORD ^proverbs-22-4
 
 is riches, honor and life.
 
@@ -61,11 +60,11 @@ for they share their food with the poor.
 
 strife and insult cease.
 
-11 The L ORD loves the pure of heart; ^proverbs-22-11
+11 The LORD loves the pure of heart; ^proverbs-22-11
 
 the person of winning speech has a king for a friend.
 
-12 The eyes of the L ORD watch over the knowledgeable, ^proverbs-22-12
+12 The eyes of the LORD watch over the knowledgeable, ^proverbs-22-12
 
 but he defeats the projects of the faithless.
 
@@ -75,7 +74,7 @@ I might be slain in the street.”
 
 14 The mouth of the foreign woman is a deep pit; ^proverbs-22-14
 
-whoever incurs the L ORD’s anger will fall into it.
+whoever incurs the LORD’s anger will fall into it.
 
 15 Folly is bound to the heart of a youth, ^proverbs-22-15
 
@@ -85,7 +84,7 @@ but the rod of discipline will drive it out.
 
 giving to the rich: both are sheer loss.
 
-## Iv. Sayings of the Wise
+# Iv. Sayings of the Wise
 
 17 The Words of the Wise: ^proverbs-22-17
 
@@ -97,7 +96,7 @@ and let your mind attend to my teaching;
 
 if they all are ready on your lips.
 
-19 That your trust may be in the L ORD, ^proverbs-22-19
+19 That your trust may be in the LORD, ^proverbs-22-19
 
 I make them known to you today—yes, to you.
 
@@ -113,7 +112,7 @@ how to give a dependable report to one who sends you?
 
 nor crush the needy at the gate;
 
-23 For the L ORD will defend their cause, ^proverbs-22-23
+23 For the LORD will defend their cause, ^proverbs-22-23
 
 and will plunder those who plunder them.
 

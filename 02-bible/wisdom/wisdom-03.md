@@ -1,29 +1,28 @@
 ---
-title: Wisdom, Chapter 3
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 3
+title: Wisdom, Chapter 3
+url: https://bible.usccb.org/bible/wisdom/3
 aliases:
   - wisdom-03
   - Wisdom, Chapter 3
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/3
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 3
 ---
 
 # Wisdom, Chapter 3
 
-### Chapter 3
+## Chapter 3
 
-#### The Hidden Counsels of God
+### The Hidden Counsels of God
 
-##### A. on Suffering
+#### A. on Suffering
 
 1 The souls of the righteous are in the hand of God, ^wisdom-03-1
 
@@ -57,7 +56,7 @@ and dart about as sparks through stubble;
 
 8 They shall judge nations and rule over peoples, ^wisdom-03-8
 
-and the L ORD shall be their King forever.
+and the LORD shall be their King forever.
 
 9 Those who trust in him shall understand truth, ^wisdom-03-9
 
@@ -69,7 +68,7 @@ and his care is with the elect.
 
 10 But the wicked shall receive a punishment to match their thoughts, ^wisdom-03-10
 
-since they neglected righteousness and forsook the L ORD.
+since they neglected righteousness and forsook the LORD.
 
 11 For those who despise wisdom and instruction are doomed. ^wisdom-03-11
 
@@ -81,7 +80,7 @@ and worthless their works.
 
 accursed their brood.
 
-##### B. on Childlessness
+#### B. on Childlessness
 
 13 Yes, blessed is she who, childless and undefiled, ^wisdom-03-13
 
@@ -91,11 +90,11 @@ for she shall bear fruit at the judgment of souls.
 
 14 So also the eunuch whose hand wrought no misdeed, ^wisdom-03-14
 
-who held no wicked thoughts against the L ORD —
+who held no wicked thoughts against the LORD —
 
 For he shall be given fidelity’s choice reward
 
-and a more gratifying heritage in the L ORD’s temple.
+and a more gratifying heritage in the LORD’s temple.
 
 15 For the fruit of noble struggles is a glorious one; ^wisdom-03-15
 

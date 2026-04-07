@@ -1,17 +1,16 @@
 ---
-title: Rules of Discernment of the 2nd Week of the Spiritual Exercises of St. Ignatius of Loyola
-created: 2025-08-28
-modified: 2026-04-02
 type: book
-publish: true
+title: Rules of Discernment of the 2nd Week of the Spiritual Exercises of St. Ignatius of Loyola
+author: Saint Ignatius of Loyola
 aliases:
   - 20251008-231940
   - Rules of Discernment of the 2nd Week of the Spiritual Exercises of St. Ignatius of Loyola
   - template
 tags:
-  - book
-author: Saint Ignatius of Loyola
-status: draft
+  - type/book
+created: 2025-08-28
+modified: 2026-04-06
+publish: true
 ---
 
 # Rules of Discernment of the 2nd Week of the Spiritual Exercises of St. Ignatius of Loyola

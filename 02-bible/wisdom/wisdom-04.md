@@ -1,25 +1,24 @@
 ---
-title: Wisdom, Chapter 4
-created: 2025-07-30
-modified: 2026-04-02
 type: bible
-publish: true
-description: Wisdom, Chapter 4
+title: Wisdom, Chapter 4
+url: https://bible.usccb.org/bible/wisdom/4
 aliases:
   - wisdom-04
   - Wisdom, Chapter 4
 tags:
+  - bible/chapter
+  - bible/old-testament
   - bible/wisdom
-  - vault-admin/graph/bible-ccc
-layer: canon
-node-type: chapter
-testament: old
-url: https://bible.usccb.org/bible/wisdom/4
+  - graph/bible-ccc
+created: 2025-07-30
+modified: 2026-04-04
+publish: true
+description: Wisdom, Chapter 4
 ---
 
 # Wisdom, Chapter 4
 
-### Chapter 4
+## Chapter 4
 
 1 Better is childlessness with virtue; ^wisdom-04-1
 
@@ -57,7 +56,7 @@ fit for nothing.
 
 give evidence of the wickedness of their parents, when they are examined.
 
-#### C. on Early Death
+### C. on Early Death
 
 7 But the righteous one, though he die early, shall be at rest. ^wisdom-04-7
 
@@ -85,7 +84,7 @@ and the whirl of desire transforms the innocent mind.
 
 he reached the fullness of a long career;
 
-14 for his soul was pleasing to the L ORD, ^wisdom-04-14
+14 for his soul was pleasing to the LORD, ^wisdom-04-14
 
 therefore he sped him out of the midst of wickedness.
 
@@ -103,13 +102,13 @@ the many years of the unrighteous who have grown old.
 
 17 For they will see the death of the wise one ^wisdom-04-17
 
-and will not understand what the L ORD intended,
+and will not understand what the LORD intended,
 
 or why he kept him safe.
 
 18 They will see, and hold him in contempt; ^wisdom-04-18
 
-but the L ORD will laugh them to scorn.
+but the LORD will laugh them to scorn.
 
 19 And they shall afterward become dishonored corpses ^wisdom-04-19
 
@@ -125,7 +124,7 @@ and shall be in grief
 
 and their memory shall perish.
 
-#### The Judgment of the Wicked
+### The Judgment of the Wicked
 
 20 Fearful shall they come, at the counting up of their sins, ^wisdom-04-20
 

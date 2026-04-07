@@ -1,196 +1,43 @@
 ---
-title: the-third-mansions-tj-ic-ccel
-created: 2026-04-01
-modified: 2026-04-02
 type: book
-publish: true
-description: The interior castle by St. Teresa of Ávila.
+title: The Third Mansions – The Interior Castle by St. Teresa of Ávila
+author: Saint Teresa of Ávila
 aliases:
-  - The Third Mansions - The Interior Castle CCEL
+  - The Third Mansions – The Interior Castle by St. Teresa of Ávila
 tags:
+  - author/saint-teresa-of-avila
   - book/interior-castle
-author: Saint Teresa of Avila
+  - type/book
+created: 2026-04-01
+modified: 2026-04-06
+publish: true
+description: The Interior Castle by St. Teresa of Ávila
 ---
 
 # The Third Mansions
 
-### Chapter I. Treats of the Insecurity of Life in This Exile, However High We May Be Raised, and of How We Must Always Walk in Fear. Contains Some Good Points.
+## Chapter I. Treats of the Insecurity of Life in This Exile, However High We May Be Raised, and of How We Must Always Walk in Fear. Contains Some Good Points
 
 ```
    1. Souls in the Third Mansions. 2. Insecurity of this life. 3. Our danger of falling from grace. 4. The Saint bewails her past life. 5. Our Lady's patronage. 6. Fear necessary even for religious. 7. St. Teresa's contrition. 8. Characteristics of those in the Third Mansions. 9. The rich young man in the Gospel. 10. Reason of aridities in prayer. 11. Humility. 12. Tepidity. 13. We must give all to God. 14. Our debt. 15. Consolations and aridities.
 ```
 
-   1\. As for those who, by the mercy of God, have vanquished in these
-   combats and persevered until they reached the third mansions, what can
-   we say to them but Blessed is the man that feareth the Lord'? [86] It
-   is no small favour from God that I should be able to translate this
-   verse into Spanish so as to explain its meaning, considering how dense
-   I usually am in such matters. We may well call these souls blessed,
-   for, as far as we can tell, unless they turn back in their course they
-   are on the safe road to salvation. Now, my sisters, you see how
-   important it is for them to conquer in their former struggles, for I am
-   convinced that our Lord will henceforth never cease to keep them in
-   security of conscience, which is no small boon.
+   1\. As for those who, by the mercy of God, have vanquished in these combats and persevered until they reached the third mansions, what can we say to them but Blessed is the man that feareth the Lord'? [86] It is no small favour from God that I should be able to translate this verse into Spanish so as to explain its meaning, considering how dense I usually am in such matters. We may well call these souls blessed, for, as far as we can tell, unless they turn back in their course they are on the safe road to salvation. Now, my sisters, you see how important it is for them to conquer in their former struggles, for I am convinced that our Lord will henceforth never cease to keep them in security of conscience, which is no small boon.
 
-   2. I am wrong in saying security,' for there is no security in this
-   life; understand that in such cases I always imply: If they do not
-   cease to continue as they have begun.' What misery to live in this
-   world! We are like men whose enemies are at the door, who must not lay
-   aside their arms, even while sleeping or eating, and are always in
-   dread lest the foe should enter the fortress by some breach in the
-   walls. O my Lord and my all! How canst Thou wish us to prize such a
-   wretched existence? We could not desist from longing and begging Thee
-   to take us from it, were it not for the hope of losing it for Thy sake
-   or devoting it entirely to Thy service--and above all because we know
-   it is Thy will that we should live. Since it is so, Let us die with
-   Thee!' [87] as St. Thomas said, for to be away from Thee is but to
-   die again and again, haunted as we are by the dread of losing Thee for
-   ever!
-
-   3. This is why I say, daughters, that we ought to ask our Lord as our
-   boon to grant us one day to dwell in safety with the Saints, for with
-   such fears, what pleasure can she enjoy whose only pleasure is to
-   please God? Remember, many Saints have felt this as we do, and were
-   even far more fervent, yet fell into grave sin, and we cannot be sure
-   that God would stretch forth His hand to raise us from sin again to do
-   such penance as they performed. This applies to extraordinary grace.
-   [88] Truly, my daughters, I feel such terror as I tell you this, that
-   I know not how to write it, nor even how to go on living, when I
-   reflect upon it as I very often do. Beg of His Majesty, my daughters,
-   to abide within me, for otherwise, what security could I feel, after a
-   life so badly spent as mine has been?
-
-   4. Do not grieve at knowing this. I have often seen you troubled when I
-   spoke about it, for you wish that my past had been a very holy one, in
-   which you are right--indeed, I wish the same myself. But what can be
-   done, now that I have wasted it entirely through my own fault? I have
-   no right to complain that God withheld the aid I needed to fulfil your
-   wishes. It is impossible for me to write this without tears and great
-   shame, when I see that I am explaining these matters to those capable
-   of teaching me. What a hard task has obedience laid, upon me! God grant
-   that, as I do it for Him, it may be of some service to you; therefore
-   beg Him to pardon me for my miserable presumption.
-
-   5. His Majesty knows that I have nothing to rely upon but His mercy; as
-   I cannot cancel the past, I have no other remedy but to flee to Him,
-   and to confide in the merits of His Son and of His Virgin Mother, whose
-   habit, unworthy as I am, I wear as you do also. Praise Him, then, my
-   daughters, for making you truly daughters of our Lady, so that you need
-   not blush for my wickedness as you have such a good Mother. Imitate
-   her; think how great she must be and what a blessing it is for you to
-   have her for a patroness, since my sins and evil character have brought
-   no tarnish on the lustre of our holy Order.
-
-   6. Still I must give you one warning: be not too confident because you
-   are nuns and the daughters of such a Mother. David was very holy, yet
-   you know what Solomon became. [89] Therefore do not rely on your
-   enclosure, on your penitential life, nor on your continual exercise of
-   prayer and constant communion with God, nor trust in having left the
-   world or in the idea that you hold its ways in horror. All this is
-   good, but is not enough, as I have already said, to remove all fear;
-   therefore meditate on this text and often recall it: 'Blessed is the
-   man that feareth the Lord.' [90]
-
-   7. I do not recollect what I was saying, and have digressed very much:
-   for when I think of myself my mind cannot soar to higher things but is
-   like a bird with broken wings; so I will leave this subject for the
-   present.
-
-   8. To return to what I began to explain about the souls which have
-   entered the third mansions. God has shown them no small favour, but a
-   very great one, in enabling them to pass through the first
-   difficulties. Thanks to His mercy I believe there are many such people
-   in the world: they are very desirous not to offend His Majesty even by
-   venial sins, they love penance and spend hours in meditation, they
-   employ their time well, exercise themselves in works of charity to
-   their neighbours, are well-ordered in their conversation and dress, and
-   those who own a household govern it well. This is certainly to be
-   desired, and there appears no reason to forbid their entrance to the
-   last mansions; nor will our Lord deny it them if they desire it, for
-   this is the right disposition for receiving all His favours.
-
-   9. O Jesus! can any one declare that he does not desire this great
-   blessing, especially after he has passed through the chief
-   difficulties? No; no one can! We all say we desire it, but there is
-   need of more than that for the Lord to possess entire dominion over the
-   soul. It is not enough to say so, any more than it was enough for the
-   young man when our Lord told him what he must do if he desired to be
-   perfect. [91] Since I began to speak of these dwelling-rooms I have
-   him constantly before my mind, for we are exactly like him; this very
-   frequently produces the great dryness we feel in prayer, though
-   sometimes it proceeds from other causes as well. I am not speaking of
-   certain interior sufferings which give intolerable pain to many devout
-   souls through no fault of their own; from these trials, however, our
-   Lord always delivers them with much profit to themselves. I also except
-   people who suffer from melancholy and other infirmities. But in these
-   cases, as in all others, we must leave aside the judgments of God.
-
-   10. I hold that these effects usually result from the first cause I
-   mentioned; such souls know that nothing would induce them to commit a
-   sin (many of them would not even commit a venial sin advertently), and
-   that they employ their life and riches well. They cannot, therefore,
-   patiently endure to be excluded from the presence of our King, Whose
-   vassals they consider themselves, as indeed they are. An earthly king
-   may have many subjects yet all do not enter his court. Enter then,
-   enter, my daughters, into your interior; pass beyond the thought of
-   your own petty works, which are no more, nor even as much, as
-   Christians are bound to perform: let it suffice that you are God's
-   servants, do not pursue so much as to catch nothing. [92] Think of
-   the saints, who have entered the Divine Presence, and you will see the
-   difference between them and ourselves.
-
-   11. Do not ask for what you do not deserve, nor should we ever think,
-   however much we may have done for God, that we merit the reward of the
-   saints, for we have offended Him. Oh, humility, humility! I know not
-   why, but I am always tempted to think that persons who complain so much
-   of aridities must be a little wanting in this virtue. However, I am not
-   speaking of severe interior sufferings, which are far worse than a want
-   of devotion.
-
-   12. Let us try ourselves, my sisters, or let our Lord try us; He knows
-   well how to do so (although we often pretend to misunderstand Him). We
-   will now speak of these well-ordered souls. Let us consider what they
-   do for God and we shall see at once what little right we have to murmur
-   against His Majesty. If we turn our backs on Him and go away
-   sorrowfully like the youth in the Gospel [93] when He tells us what to
-   do to be perfect, what can God do? for He must proportion the reward to
-   our love for Him. This love, my daughters, must not be the fabric of
-   our imagination; we must prove it by our works. Yet do not suppose that
-   our Lord has need of any works of ours; He only expels us to manifest
-   our goodwill. [94]
-
-   13. It seems to us we have done everything by taking the religious
-   habit of our own will, and renouncing worldly things and all our
-   possessions for God (although they may have been but the nets of St.
-   Peter, [95] yet they seemed much to us, for they were our all). This
-   is an excellent disposition: if we continue in it and do not return,
-   even in desire, to the company of the reptiles of the first rooms,
-   doubtless, by persevering in this poverty and detachment of soul, we
-   shall obtain all for which we strive. But, mark this--it must be on one
-   condition--that we hold ourselves for unprofitable servants,' [96] as
-   we are told either by St. Paul or by Christ, and that we do not
-   consider that our Lord is bound to grant us any favours, but that, as
-   we have received more from Him, we are the deeper in His debt.
-
-   14. How little is all we can do for so generous a God, Who died for us,
-   Who created us, Who gives us being, that we should not think ourselves
-   happy to be able to acquit ourselves of part of the debt we owe Him for
-   having served us, without asking Him for fresh mercies and favours? I
-   am loath to use this expression, yet so it is, for He did nothing else
-   during the whole time He lived in this world but serve us.
-
-   15. Think well my daughters, over some of the points I have treated,
-   although confusedly, for I do not know how to explain them better. Our
-   Lord will make you understand them, that you may reap humility from
-   your dryness, instead of the disquietude the devil strives to cause by
-   it. I believe that where true humility exists, although God should
-   never bestow consolations, yet He gives a peace and resignation which
-   make the soul happier than are others with sensible devotion. These
-   consolations, as you have read, are often given by the Divine Majesty
-   to the weakest souls who, I suppose would not exchange them for the
-   fortitude of Christians serving God in aridities: we love consolations
-   better than the cross! Do Thou, O Lord, Who knowest all truth, so prove
-   us that we may know ourselves.
+   2. I am wrong in saying security,' for there is no security in this life; understand that in such cases I always imply: If they do not cease to continue as they have begun.' What misery to live in this world! We are like men whose enemies are at the door, who must not lay aside their arms, even while sleeping or eating, and are always in dread lest the foe should enter the fortress by some breach in the walls. O my Lord and my all! How canst Thou wish us to prize such a wretched existence? We could not desist from longing and begging Thee to take us from it, were it not for the hope of losing it for Thy sake or devoting it entirely to Thy service--and above all because we know it is Thy will that we should live. Since it is so, Let us die with Thee!' [87] as St. Thomas said, for to be away from Thee is but to die again and again, haunted as we are by the dread of losing Thee for ever!
+   3. This is why I say, daughters, that we ought to ask our Lord as our boon to grant us one day to dwell in safety with the Saints, for with such fears, what pleasure can she enjoy whose only pleasure is to please God? Remember, many Saints have felt this as we do, and were even far more fervent, yet fell into grave sin, and we cannot be sure that God would stretch forth His hand to raise us from sin again to do such penance as they performed. This applies to extraordinary grace. [88] Truly, my daughters, I feel such terror as I tell you this, that I know not how to write it, nor even how to go on living, when I reflect upon it as I very often do. Beg of His Majesty, my daughters, to abide within me, for otherwise, what security could I feel, after a life so badly spent as mine has been?
+   4. Do not grieve at knowing this. I have often seen you troubled when I spoke about it, for you wish that my past had been a very holy one, in which you are right--indeed, I wish the same myself. But what can be done, now that I have wasted it entirely through my own fault? I have no right to complain that God withheld the aid I needed to fulfil your wishes. It is impossible for me to write this without tears and great shame, when I see that I am explaining these matters to those capable of teaching me. What a hard task has obedience laid, upon me! God grant that, as I do it for Him, it may be of some service to you; therefore beg Him to pardon me for my miserable presumption.
+   5. His Majesty knows that I have nothing to rely upon but His mercy; as I cannot cancel the past, I have no other remedy but to flee to Him, and to confide in the merits of His Son and of His Virgin Mother, whose habit, unworthy as I am, I wear as you do also. Praise Him, then, my daughters, for making you truly daughters of our Lady, so that you need not blush for my wickedness as you have such a good Mother. Imitate her; think how great she must be and what a blessing it is for you to have her for a patroness, since my sins and evil character have brought no tarnish on the lustre of our holy Order.
+   6. Still I must give you one warning: be not too confident because you are nuns and the daughters of such a Mother. David was very holy, yet you know what Solomon became. [89] Therefore do not rely on your enclosure, on your penitential life, nor on your continual exercise of prayer and constant communion with God, nor trust in having left the world or in the idea that you hold its ways in horror. All this is good, but is not enough, as I have already said, to remove all fear; therefore meditate on this text and often recall it: 'Blessed is the man that feareth the Lord.' [90]
+   7. I do not recollect what I was saying, and have digressed very much: for when I think of myself my mind cannot soar to higher things but is like a bird with broken wings; so I will leave this subject for the present.
+   8. To return to what I began to explain about the souls which have entered the third mansions. God has shown them no small favour, but a very great one, in enabling them to pass through the first difficulties. Thanks to His mercy I believe there are many such people in the world: they are very desirous not to offend His Majesty even by venial sins, they love penance and spend hours in meditation, they employ their time well, exercise themselves in works of charity to their neighbours, are well-ordered in their conversation and dress, and those who own a household govern it well. This is certainly to be desired, and there appears no reason to forbid their entrance to the last mansions; nor will our Lord deny it them if they desire it, for this is the right disposition for receiving all His favours.
+   9. O Jesus! can any one declare that he does not desire this great blessing, especially after he has passed through the chief difficulties? No; no one can! We all say we desire it, but there is need of more than that for the Lord to possess entire dominion over the soul. It is not enough to say so, any more than it was enough for the young man when our Lord told him what he must do if he desired to be perfect. [91] Since I began to speak of these dwelling-rooms I have him constantly before my mind, for we are exactly like him; this very frequently produces the great dryness we feel in prayer, though sometimes it proceeds from other causes as well. I am not speaking of certain interior sufferings which give intolerable pain to many devout souls through no fault of their own; from these trials, however, our Lord always delivers them with much profit to themselves. I also except people who suffer from melancholy and other infirmities. But in these cases, as in all others, we must leave aside the judgments of God.
+   10. I hold that these effects usually result from the first cause I mentioned; such souls know that nothing would induce them to commit a sin (many of them would not even commit a venial sin advertently), and that they employ their life and riches well. They cannot, therefore, patiently endure to be excluded from the presence of our King, Whose vassals they consider themselves, as indeed they are. An earthly king may have many subjects yet all do not enter his court. Enter then, enter, my daughters, into your interior; pass beyond the thought of your own petty works, which are no more, nor even as much, as Christians are bound to perform: let it suffice that you are God's servants, do not pursue so much as to catch nothing. [92] Think of the saints, who have entered the Divine Presence, and you will see the difference between them and ourselves.
+   11. Do not ask for what you do not deserve, nor should we ever think, however much we may have done for God, that we merit the reward of the saints, for we have offended Him. Oh, humility, humility! I know not why, but I am always tempted to think that persons who complain so much of aridities must be a little wanting in this virtue. However, I am not speaking of severe interior sufferings, which are far worse than a want of devotion.
+   12. Let us try ourselves, my sisters, or let our Lord try us; He knows well how to do so (although we often pretend to misunderstand Him). We will now speak of these well-ordered souls. Let us consider what they do for God and we shall see at once what little right we have to murmur against His Majesty. If we turn our backs on Him and go away sorrowfully like the youth in the Gospel [93] when He tells us what to do to be perfect, what can God do? for He must proportion the reward to our love for Him. This love, my daughters, must not be the fabric of our imagination; we must prove it by our works. Yet do not suppose that our Lord has need of any works of ours; He only expels us to manifest our goodwill. [94]
+   13. It seems to us we have done everything by taking the religious habit of our own will, and renouncing worldly things and all our possessions for God (although they may have been but the nets of St. Peter, [95] yet they seemed much to us, for they were our all). This is an excellent disposition: if we continue in it and do not return, even in desire, to the company of the reptiles of the first rooms, doubtless, by persevering in this poverty and detachment of soul, we shall obtain all for which we strive. But, mark this--it must be on one condition--that we hold ourselves for unprofitable servants,' [96] as we are told either by St. Paul or by Christ, and that we do not consider that our Lord is bound to grant us any favours, but that, as we have received more from Him, we are the deeper in His debt.
+   14. How little is all we can do for so generous a God, Who died for us, Who created us, Who gives us being, that we should not think ourselves happy to be able to acquit ourselves of part of the debt we owe Him for having served us, without asking Him for fresh mercies and favours? I am loath to use this expression, yet so it is, for He did nothing else during the whole time He lived in this world but serve us.
+   15. Think well my daughters, over some of the points I have treated, although confusedly, for I do not know how to explain them better. Our Lord will make you understand them, that you may reap humility from your dryness, instead of the disquietude the devil strives to cause by it. I believe that where true humility exists, although God should never bestow consolations, yet He gives a peace and resignation which make the soul happier than are others with sensible devotion. These consolations, as you have read, are often given by the Divine Majesty to the weakest souls who, I suppose would not exchange them for the fortitude of Christians serving God in aridities: we love consolations better than the cross! Do Thou, O Lord, Who knowest all truth, so prove us that we may know ourselves.
 
    [86] Ps. cxi: 1. Beatus vir qui timet Dominum.'
 
@@ -224,224 +71,31 @@ author: Saint Teresa of Avila
 
    fecimus.'
 
-### Chapter II. Continues the Same Subject and Speaks of Aridities in Prayer and Those Who Are in These Mansions.
+## Chapter II. Continues the Same Subject and Speaks of Aridities in Prayer and Those Who Are in These Mansions
 
 ```
    1. Imperfections of dwellers in the first three mansions. 2. Our trials show us our weakness. 3. Humility learnt by our faults. 4. Love of money. 5. Liberty of spirit. 6. On bearing contempt. 7. Detachment proved by trials. 8. Virtue and humility are the essentials. 9. Perfection requires detachment. 10. We should try to make rapid progress. 11. Leave our cares in God's hands. 12. Humility more necessary than corporal penances. 13. Consolations rarely received until the fourth mansions. 14. Advantages of hearing of them. 15.Perfection consists in love, not in reward. 16. St. Teresa's joy at seeing other souls favoured. 17. These graces should be striven for.
 18. Obedience and direction, 19. Misguided zeal for others.
 ```
 
-   1. I HAVE known some, in fact, I may say numerous souls, who have
-   reached this state, and for many years lived, apparently, a regular and
-   well-ordered life, both of body and mind. It would seem that they must
-   have gained the mastery over this world, or at least be extremely
-   detached from it, yet if His Majesty sends very moderate trials they
-   become so disturbed and disheartened as not only to astonish but to
-   make me anxious about them. Advice is useless; having practised virtue
-   for so long they think themselves capable of teaching it, and believe
-   that they have abundant reason to feel miserable.
-
-   2. The only way to help them is to compassionate their troubles; [97]
-   indeed, one cannot but feel sorry at seeing people in such an unhappy
-   state. They must not be argued with, for they are convinced they suffer
-   only for God's sake, and cannot be made to understand they are acting
-   imperfectly, which is a further error in persons so far advanced. No
-   wonder that they should feel these trials for a time, but I think they
-   ought speedily to overcome their concern about such matters. God,
-   wishing His elect to realize their own misery, often temporarily
-   withdraws His favours: no more is needed to prove to us in a very short
-   time what we really are. [98]
-
-   3. Souls soon learn in this way; they perceive their faults very
-   clearly, and sometimes the discovery of how quickly they are overcome
-   by but slight earthly trials is more painful than the subtraction of
-   God's sensible favours. I consider that God thus shows them great
-   mercy, for though their behaviour may be faulty, yet they gain greatly
-   in humility. Not so with the people of whom I first spoke; they believe
-   their conduct is saintly, and wish others to agree with them. I will
-   give you some examples which will help us to understand and to try
-   ourselves, without waiting for God to try us, since it would be far
-   better to have prepared and examined ourselves beforehand.
-
-   4. A rich man, without son or heir, loses part of his property, [99]
-   but still has more than enough to keep himself and his household. If
-   this misfortune grieves and disquiets him as though he were left to beg
-   his bread, how can our Lord ask him to give up all things for His sake?
-   This man will tell you he regrets losing his money because he wished to
-   bestow it on the poor.
-
-   5. I believe His Majesty would prefer me to conform to His will, and
-   keep peace of soul while attending to my interests, to such charity as
-   this. If this person cannot resign himself because God has not raised
-   him so high in virtue, well and good: let him know that he is wanting
-   in liberty of spirit; let him beg our Lord to grant it him, and be
-   rightly disposed to receive it. Another person has more than sufficient
-   means to live on, when an opportunity occurs for acquiring more
-   property: if it is offered him, by all means let him accept it; but if
-   he must go out of his way to obtain it and then continues working to
-   gain more and more--however good his intention may be (and it must be
-   good, for I am speaking of people who lead prayerful and good lives),
-   he cannot possibly enter the mansions near the King.
-
-   6. Something of the same sort happens if such people meet with contempt
-   or want of due respect. God often gives them grace to bear it well, as
-   He loves to see virtue upheld in public, and will not have it condemned
-   in those who practise it, or else because these persons have served Him
-   faithfully, and He, our supreme Good, is exceedingly good to us all;
-   nevertheless, these persons are disturbed, and cannot overcome or get
-   rid of the feeling for some time. [100] Alas! have they not long
-   meditated on the pains our Lord endured and how well it is for us to
-   suffer, and have even longed to do so? They wish every one were as
-   virtuous as they are; and God grant they do not consider other people
-   to blame for their troubles and attribute merit to themselves!
-
-   7. You may think, my daughters, that I have wandered from the subject,
-   for all this does not concern you: nothing of the sort occurs to us
-   here, where we neither own nor wish for any property, nor endeavour to
-   gain it, and no one does us any wrong. The instances I have mentioned
-   do not coincide exactly, yet conclusions applicable to us may be drawn
-   from them, which it would be neither well nor necessary to state. These
-   will teach you whether you are really detached from all you have left;
-   trifling occasions often occur, although perhaps not quite of the same
-   kind, by which you can prove to yourselves whether you have obtained
-   the mastery over your passions.
-
-   8. Believe me, the question is not whether we wear the religious habit
-   or not, but whether we practise the virtues and submit our will in all
-   things to the will of God. The object of our life must be to do what He
-   requires of us: let us not ask that our will may be done, but His. If
-   we have not yet attained to this, let us be humble, as I said above.
-   Humility is the ointment for our wounds; if we have it, although
-   perhaps He may defer His coming for a time, God, Who is our Physician,
-   will come and heal us. 9. The penances performed by the persons I spoke
-   of are as well regulated as their life, which they value very highly
-   because they wish to serve our Lord with it--in which there is nothing
-   to blame--so they are very discreet in their mortifications lest they
-   should injure their health. Never fear they will kill themselves: they
-   are far too sensible! Their love is not strong enough to overcome their
-   reason; I wish it were--that they might not be content to creep on
-   their way to God: a pace that will never bring them to their journey's
-   end!
-
-   10. We seem to ourselves to be making progress, yet we become weary,
-   for, believe me, we are walking through a mist; it will be fortunate if
-   we do not lose ourselves. Do you think, my daughters, if we could
-   travel from one country to another in eight days, that it would be well
-   to spend a year on the journey, through wind, snow, and inundations and
-   over bad roads? [101] Would it not be better to get it over at once,
-   for it is full of dangers and serpents? Oh, how many striking instances
-   could I give you of this! God grant that I have passed beyond this
-   state myself: often I think that I have not.
-
-   11. All things obstruct us while prudence rules our actions; we are
-   afraid of everything and therefore fear to make progress--as if we
-   could reach the inner chambers while others make the journey for us! As
-   this is impossible, sisters, for the love of God let us exert
-   ourselves, and leave our reason and our fears in His hands, paying no
-   attention to the weaknesses of nature which might retard us. Let our
-   Superiors, to whom the charge belongs, look after our bodies; let our
-   only care be to hasten to our Lord's presence--for though there are few
-   or no indulgences to be obtained here, yet, regard for health might
-   mislead us and it would be none the better for our care, as I know
-   well.
-
-   12. I know, too, that our bodies are not the chief factors in the work
-   we have before us; they are accessory: extreme humility is the
-   principal point. It is the want of this, I believe, that stops people's
-   progress. It may seem that we have made but little way: we should
-   believe that is the case, and that our sisters are advancing much more
-   rapidly than we are. Not only should we wish others to consider us the
-   worst of all; we should endeavour to make them think so. If we act in
-   this manner, our soul will do well; otherwise we shall make no progress
-   and shall always remain the prey to a thousand troubles and miseries.
-   The way will be difficult and wearisome without self-renunciation,
-   weighed down as we are by the burden and frailties of human nature,
-   which are no longer felt in the more interior mansions.
-
-   13. In these third mansions the Lord never fails to repay our services,
-   both as a just and even as a merciful God, Who always bestows on us far
-   more than we deserve, giving us greater happiness than could be
-   obtained from any earthly pleasures and amusements. I think He grants
-   few consolations here, except, perhaps, occasionally to entice us to
-   prepare ourselves to enter the last mansions by showing us their
-   contents. There may appear to you to be no difference except in name
-   between sensible devotion, and consolations and you may ask why I
-   distinguish them. I think there is a very great difference, but I may
-   be mistaken.
-
-   14. This will be best explained while writing of the fourth mansion,
-   which comes next, when I must speak of the consolations received there
-   from our Lord. The subject may appear futile, yet may prove useful by
-   urging souls who know what each mansion contains to strive to enter the
-   best. It will solace those whom God has advanced so far; others, who
-   thought they had reached the summit, will be abashed, yet if they are
-   humble they will be led to thank God.
-
-   15. Those who do not receive these consolations may feel a despondency
-   that is uncalled for, since perfection does not consist in consolation
-   but in greater love; our reward will be in proportion to this, and to
-   the justice and sincerity of our actions. Perhaps you wonder, then, why
-   I treat of these interior favours and their nature. I do not know; ask
-   him who bade me write this. I must obey Superiors, not argue with them,
-   which I have no right to do.
-
-   16. I assure you that when I had neither received these favours, [102]
-     nor understood them by experience, or ever expected to (and rightly
-   so, for I should have felt reassured if I had known or even conjectured
-   that I was pleasing to God in any way), yet when I read of the mercies
-   and consolations that our Lord grants to His servants, I was delighted
-   and praised Him fervently. If such as myself acted thus, how much more
-   would the humble and good glorify Him! I think it is worth while to
-   explain these subjects and show what consolations and delights we lose
-   through our own fault, if only for the sake of moving a single soul to
-   praise God once.
-
-   17. When these joys are from God they come laden with love and
-   strength, which aid the soul on its way and increase its good works and
-   virtues. Do not imagine that it is unimportant whether you try to
-   obtain these graces or no; if you are not to blame, the Lord is just:
-   what He refuses in one way, His Majesty will give you in another, as He
-   knows how; His secret ways are very mysterious, and doubtless He will
-   do what is best for you.
-
-   18. Souls who by God's mercy are brought so far (which, as I said, is
-   no small mercy, for they are likely to ascend still higher) will be
-   greatly benefited by practising prompt obedience. Even if they are not
-   in the religious state, it would be well if they, like certain other
-   people, were to take a director, [103] so as never to follow their
-   own will, which is the cause of most of our ills. They should not
-   choose one of their own turn of mind [104] (as the saying goes), who
-   is over prudent in his actions, but should select one thoroughly
-   detached from worldly things; it is very helpful to consult a person
-   who has learnt and can teach this. It is encouraging to see that trials
-   which seemed to us impossible to submit to are possible to others, and
-   that they bear them sweetly. Their flight makes us try to soar, like
-   nestlings taught by the elder birds, who, though they cannot fly far at
-   first, little by little imitate their parents: I know the great benefit
-   of this. However determined such persons may be not to offend our Lord,
-   they must not expose themselves to temptation: they are still near the
-   first mansions to which they might easily return. Their strength is not
-   yet established on a solid foundation like that of souls exercised in
-   sufferings, who know how little cause there is to fear the tempests of
-   this world and care nothing for its pleasures: beginners might succumb
-   before any severe trial. Some great persecution, such as the devil
-   knows how to raise to injure us, might make beginners turn back; while
-   zealously trying to withdraw others from sin they might succumb to the
-   attacks made upon them.
-
-   19. Let us look at our own faults, and not at other persons'. People
-   who are extremely correct themselves are often shocked at everything
-   they see [105]; however, we might often learn a great deal that is
-   essential from the very persons whom we censure. Our exterior
-   comportment and manners may be better--this is well enough, but not of
-   the first importance. We ought not to insist on every one following in
-   our footsteps, nor to take upon ourselves to give instructions in
-   spirituality when, perhaps, we do not even know what it is. Zeal for
-   the good of souls, though given us by God, may often lead us astray,
-   sisters; it is best to keep our rule, which bids us ever to live in
-   silence and in hope. [106] Our Lord will care for the souls belonging
-   to Him; and if we beg His Majesty to do so, by His grace we shall be
-   able to aid them greatly. May He be for ever blessed!
+   1. I HAVE known some, in fact, I may say numerous souls, who have reached this state, and for many years lived, apparently, a regular and well-ordered life, both of body and mind. It would seem that they must have gained the mastery over this world, or at least be extremely detached from it, yet if His Majesty sends very moderate trials they become so disturbed and disheartened as not only to astonish but to make me anxious about them. Advice is useless; having practised virtue for so long they think themselves capable of teaching it, and believe that they have abundant reason to feel miserable.
+   2. The only way to help them is to compassionate their troubles; [97] indeed, one cannot but feel sorry at seeing people in such an unhappy state. They must not be argued with, for they are convinced they suffer only for God's sake, and cannot be made to understand they are acting imperfectly, which is a further error in persons so far advanced. No wonder that they should feel these trials for a time, but I think they ought speedily to overcome their concern about such matters. God, wishing His elect to realize their own misery, often temporarily withdraws His favours: no more is needed to prove to us in a very short time what we really are. [98]
+   3. Souls soon learn in this way; they perceive their faults very clearly, and sometimes the discovery of how quickly they are overcome by but slight earthly trials is more painful than the subtraction of God's sensible favours. I consider that God thus shows them great mercy, for though their behaviour may be faulty, yet they gain greatly in humility. Not so with the people of whom I first spoke; they believe their conduct is saintly, and wish others to agree with them. I will give you some examples which will help us to understand and to try ourselves, without waiting for God to try us, since it would be far better to have prepared and examined ourselves beforehand.
+   4. A rich man, without son or heir, loses part of his property, [99] but still has more than enough to keep himself and his household. If this misfortune grieves and disquiets him as though he were left to beg his bread, how can our Lord ask him to give up all things for His sake? This man will tell you he regrets losing his money because he wished to bestow it on the poor.
+   5. I believe His Majesty would prefer me to conform to His will, and keep peace of soul while attending to my interests, to such charity as this. If this person cannot resign himself because God has not raised him so high in virtue, well and good: let him know that he is wanting in liberty of spirit; let him beg our Lord to grant it him, and be rightly disposed to receive it. Another person has more than sufficient means to live on, when an opportunity occurs for acquiring more property: if it is offered him, by all means let him accept it; but if he must go out of his way to obtain it and then continues working to gain more and more--however good his intention may be (and it must be good, for I am speaking of people who lead prayerful and good lives), he cannot possibly enter the mansions near the King.
+   6. Something of the same sort happens if such people meet with contempt or want of due respect. God often gives them grace to bear it well, as He loves to see virtue upheld in public, and will not have it condemned in those who practise it, or else because these persons have served Him faithfully, and He, our supreme Good, is exceedingly good to us all; nevertheless, these persons are disturbed, and cannot overcome or get rid of the feeling for some time. [100] Alas! have they not long meditated on the pains our Lord endured and how well it is for us to suffer, and have even longed to do so? They wish every one were as virtuous as they are; and God grant they do not consider other people to blame for their troubles and attribute merit to themselves!
+   7. You may think, my daughters, that I have wandered from the subject, for all this does not concern you: nothing of the sort occurs to us here, where we neither own nor wish for any property, nor endeavour to gain it, and no one does us any wrong. The instances I have mentioned do not coincide exactly, yet conclusions applicable to us may be drawn from them, which it would be neither well nor necessary to state. These will teach you whether you are really detached from all you have left; trifling occasions often occur, although perhaps not quite of the same kind, by which you can prove to yourselves whether you have obtained the mastery over your passions.
+   8. Believe me, the question is not whether we wear the religious habit or not, but whether we practise the virtues and submit our will in all things to the will of God. The object of our life must be to do what He requires of us: let us not ask that our will may be done, but His. If we have not yet attained to this, let us be humble, as I said above. Humility is the ointment for our wounds; if we have it, although perhaps He may defer His coming for a time, God, Who is our Physician, will come and heal us. 9. The penances performed by the persons I spoke of are as well regulated as their life, which they value very highly because they wish to serve our Lord with it--in which there is nothing to blame--so they are very discreet in their mortifications lest they should injure their health. Never fear they will kill themselves: they are far too sensible! Their love is not strong enough to overcome their reason; I wish it were--that they might not be content to creep on their way to God: a pace that will never bring them to their journey's end!
+   10. We seem to ourselves to be making progress, yet we become weary, for, believe me, we are walking through a mist; it will be fortunate if we do not lose ourselves. Do you think, my daughters, if we could travel from one country to another in eight days, that it would be well to spend a year on the journey, through wind, snow, and inundations and over bad roads? [101] Would it not be better to get it over at once, for it is full of dangers and serpents? Oh, how many striking instances could I give you of this! God grant that I have passed beyond this state myself: often I think that I have not.
+   11. All things obstruct us while prudence rules our actions; we are afraid of everything and therefore fear to make progress--as if we could reach the inner chambers while others make the journey for us! As this is impossible, sisters, for the love of God let us exert ourselves, and leave our reason and our fears in His hands, paying no attention to the weaknesses of nature which might retard us. Let our Superiors, to whom the charge belongs, look after our bodies; let our only care be to hasten to our Lord's presence--for though there are few or no indulgences to be obtained here, yet, regard for health might mislead us and it would be none the better for our care, as I know well.
+   12. I know, too, that our bodies are not the chief factors in the work we have before us; they are accessory: extreme humility is the principal point. It is the want of this, I believe, that stops people's progress. It may seem that we have made but little way: we should believe that is the case, and that our sisters are advancing much more rapidly than we are. Not only should we wish others to consider us the worst of all; we should endeavour to make them think so. If we act in this manner, our soul will do well; otherwise we shall make no progress and shall always remain the prey to a thousand troubles and miseries. The way will be difficult and wearisome without self-renunciation, weighed down as we are by the burden and frailties of human nature, which are no longer felt in the more interior mansions.
+   13. In these third mansions the Lord never fails to repay our services, both as a just and even as a merciful God, Who always bestows on us far more than we deserve, giving us greater happiness than could be obtained from any earthly pleasures and amusements. I think He grants few consolations here, except, perhaps, occasionally to entice us to prepare ourselves to enter the last mansions by showing us their contents. There may appear to you to be no difference except in name between sensible devotion, and consolations and you may ask why I distinguish them. I think there is a very great difference, but I may be mistaken.
+   14. This will be best explained while writing of the fourth mansion, which comes next, when I must speak of the consolations received there from our Lord. The subject may appear futile, yet may prove useful by urging souls who know what each mansion contains to strive to enter the best. It will solace those whom God has advanced so far; others, who thought they had reached the summit, will be abashed, yet if they are humble they will be led to thank God.
+   15. Those who do not receive these consolations may feel a despondency that is uncalled for, since perfection does not consist in consolation but in greater love; our reward will be in proportion to this, and to the justice and sincerity of our actions. Perhaps you wonder, then, why I treat of these interior favours and their nature. I do not know; ask him who bade me write this. I must obey Superiors, not argue with them, which I have no right to do.
+   16. I assure you that when I had neither received these favours, [102] nor understood them by experience, or ever expected to (and rightly so, for I should have felt reassured if I had known or even conjectured that I was pleasing to God in any way), yet when I read of the mercies and consolations that our Lord grants to His servants, I was delighted and praised Him fervently. If such as myself acted thus, how much more would the humble and good glorify Him! I think it is worth while to explain these subjects and show what consolations and delights we lose through our own fault, if only for the sake of moving a single soul to praise God once.
+   17. When these joys are from God they come laden with love and strength, which aid the soul on its way and increase its good works and virtues. Do not imagine that it is unimportant whether you try to obtain these graces or no; if you are not to blame, the Lord is just: what He refuses in one way, His Majesty will give you in another, as He knows how; His secret ways are very mysterious, and doubtless He will do what is best for you.
+   18. Souls who by God's mercy are brought so far (which, as I said, is no small mercy, for they are likely to ascend still higher) will be greatly benefited by practising prompt obedience. Even if they are not in the religious state, it would be well if they, like certain other people, were to take a director, [103] so as never to follow their own will, which is the cause of most of our ills. They should not choose one of their own turn of mind [104] (as the saying goes), who is over prudent in his actions, but should select one thoroughly detached from worldly things; it is very helpful to consult a person who has learnt and can teach this. It is encouraging to see that trials which seemed to us impossible to submit to are possible to others, and that they bear them sweetly. Their flight makes us try to soar, like nestlings taught by the elder birds, who, though they cannot fly far at first, little by little imitate their parents: I know the great benefit of this. However determined such persons may be not to offend our Lord, they must not expose themselves to temptation: they are still near the first mansions to which they might easily return. Their strength is not yet established on a solid foundation like that of souls exercised in sufferings, who know how little cause there is to fear the tempests of this world and care nothing for its pleasures: beginners might succumb before any severe trial. Some great persecution, such as the devil knows how to raise to injure us, might make beginners turn back; while zealously trying to withdraw others from sin they might succumb to the attacks made upon them.
+   19. Let us look at our own faults, and not at other persons'. People who are extremely correct themselves are often shocked at everything they see [105]; however, we might often learn a great deal that is essential from the very persons whom we censure. Our exterior comportment and manners may be better--this is well enough, but not of the first importance. We ought not to insist on every one following in our footsteps, nor to take upon ourselves to give instructions in spirituality when, perhaps, we do not even know what it is. Zeal for the good of souls, though given us by God, may often lead us astray, sisters; it is best to keep our rule, which bids us ever to live in silence and in hope. [106] Our Lord will care for the souls belonging to Him; and if we beg His Majesty to do so, by His grace we shall be able to aid them greatly. May He be for ever blessed!
 
    [97] See letter concerning Francisco de Salcedo. Nov. 1576. Vol. II.
 
