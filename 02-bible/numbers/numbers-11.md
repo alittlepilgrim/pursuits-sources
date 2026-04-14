@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 11
 ---
@@ -121,3 +121,7 @@ e. (11:9) ([[exodus-16|Ex 16]]:14] – [15].
 f. (11:31) [Ps 78:26] – [28].
 
 g. (11:32] – [33) [Ps 78:26] – [31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

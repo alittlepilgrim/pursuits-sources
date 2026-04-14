@@ -9,7 +9,7 @@ tags:
   - book/interior-castle
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: The Interior Castle by St. Teresa of Ávila
 ---
@@ -76,9 +76,9 @@ description: The Interior Castle by St. Teresa of Ávila
 
    rightly said to be actually sailing though the rowers are at rest.
 
-   [109] [[tj-life-ccel|Life]], ch. xii. 11.
+   [109] [[tj-life-ccel-toc|Life]], ch. xii. 11.
 
-   [110] [[tj-life-ccel|Life]], ch. xvii. 7.
+   [110] [[tj-life-ccel-toc|Life]], ch. xvii. 7.
 
    [111] Philippus a SS. Trinitate, Summa Tleologiæ Mysticæ, pars iii.
 
@@ -104,15 +104,15 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [114] Ps. cxviii. 32. Way of Perf. ch. xxviii. 11.
 
-   [115] [[tj-life-ccel|Life]], ch. iii. 1.
+   [115] [[tj-life-ccel-toc|Life]], ch. iii. 1.
 
-   [116] [[tj-life-ccel|Life]], ch. xii. 2-4..
+   [116] [[tj-life-ccel-toc|Life]], ch. xii. 2-4..
 
    [117] Found. ch. v. 2. Way of Perf. ch. xxxi. 6, 12. Life, ch. xv, 16,
 
    ch. XXX. 19.
 
-   [118] [[tj-life-ccel|Life]], ch. xv. 9, 10.
+   [118] [[tj-life-ccel-toc|Life]], ch. xv. 9, 10.
 
    [119] Second Relation addressed to Fr. Rodrigo Alvarez.
 
@@ -150,13 +150,13 @@ description: The Interior Castle by St. Teresa of Ávila
 
    Mount Carmel, bk. ii, ch. xiv, 2, and xxi. 3.
 
-   [126] [[tj-life-ccel|Life]], ch. x. 2.
+   [126] [[tj-life-ccel-toc|Life]], ch. x. 2.
 
    [127] Ps. cxviii. 32. Life, ch. xvii. 14,
 
-   [128] [[tj-life-ccel|Life]], ch. xiv. 9. Way of Perf. ch. xxviii. 11.
+   [128] [[tj-life-ccel-toc|Life]], ch. xiv. 9. Way of Perf. ch. xxviii. 11.
 
-   [129] [[tj-life-ccel|Life]], ch. xiv. 3: The faculties are not lost, neither are they
+   [129] [[tj-life-ccel-toc|Life]], ch. xiv. 3: The faculties are not lost, neither are they
 
    asleep; the will alone is occupied in such a way that without knowing
 
@@ -191,7 +191,7 @@ description: The Interior Castle by St. Teresa of Ávila
    12. This state lasted with a certain person for eight hours, during which time she was neither insensible, nor had she any thought of God. [150] She was cured by being made to eat and sleep well and to leave off some of her penances. Her recovery was owing to some one who understood her case; hitherto she had unintentionally deceived both her confessor and other people, as well as herself. I feel quite sure the devil had been at work here to serve his own ends and he was beginning to gain a great deal from it. It should be known that when God bestows such favours on the soul, although there may be languor both of mind and body, it is not shared by the soul, which feels great delight at seeing itself so near God, nor does this state ever continue for more than a very short time. [151] Although the soul may become absorbed again, yet, as I said, unless already feeble, the body suffers neither exhaustion nor pain. I advise any of you who experience the latter to tell the Prioress, and to divert your thoughts as much as possible from such matters. The Superior should prevent such a nun from spending more than a very few hours in prayer, and should make her eat and sleep well until her usual strength is restored, if she has lost it in this way. [152] If the nun's constitution is so delicate that this does not suffice, let her believe me when I tell her that God only calls her to the active life. There must be such people in monasteries: employ her in the various offices and be careful that she is never left very long alone, otherwise she will entirely lose her health. This treatment will be a great mortification to her: our Lord tests her love for Him by the way in which she bears His absence. He may be pleased, after a time, to restore her strength; if not, she will make as much progress, and earn as great a reward by vocal prayer and obedience as she would have done by contemplation, and perhaps more.
    13. There are people, some of whom I have known, whose minds and imaginations are so active as to fancy they see whatever they think about, which is very dangerous. [153] Perhaps I may treat of this later on, but cannot do so now. I have dwelt at length on this mansion, as I believe it to be the one most souls enter. As the natural is combined with the supernatural, the devil can do more harm here than later on, when God does not leave him so many opportunities. May God be for ever praised! Amen.
 
-   [132] [[tj-life-ccel|Life]], ch. xiv. 2. The Saint says in the second chapter of this
+   [132] [[tj-life-ccel-toc|Life]], ch. xiv. 2. The Saint says in the second chapter of this
 
    mansion, § 5, and also in letters dated Dec. 7, 1577 (Vol. II) and Jan.
 
@@ -283,7 +283,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    which was published at Salamanca in 1554, was the one used by St.
 
-   Teresa. However, it is more probable that here and elsewhere ([[tj-life-ccel|Life]], ch.
+   Teresa. However, it is more probable that here and elsewhere ([[tj-life-ccel-toc|Life]], ch.
 
    xli. 10; Way of Perf. ch. xxviii. 2) St. Teresa quotes a passage which
 
@@ -303,7 +303,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    Campo in 1553, and at Toledo in 1565.
 
-   [135] [[tj-life-ccel|Life]], ch. xiv. 7, 8; 20.
+   [135] [[tj-life-ccel-toc|Life]], ch. xiv. 7, 8; 20.
 
    [136] St. Teresa read this in the Tercer Abecedario of Francisco de
 
@@ -319,7 +319,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [137] Life. ch, xii. 8.
 
-   [138] [[tj-life-ccel|Life]], ch. xiv, 10.
+   [138] [[tj-life-ccel-toc|Life]], ch. xiv, 10.
 
    [139] A Golden Treatise of Mental Prayer by St. Peter of Alcantara,
 
@@ -457,7 +457,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [140] Sap. viii. i: Disponit omnia suaviter.'
 
-   [141] [[tj-life-ccel|Life]], ch. xv. i.
+   [141] [[tj-life-ccel-toc|Life]], ch. xv. i.
 
    [142] 'The whole of the time in which our Lord communicates the simple,
 
@@ -483,9 +483,9 @@ description: The Interior Castle by St. Teresa of Ávila
 
    of the Cross, Ascent of Mount Carmel, bk. ii. ch. xxxii. 7.)
 
-   [143] [[tj-life-ccel|Life]], ch. xv. 2.
+   [143] [[tj-life-ccel-toc|Life]], ch. xv. 2.
 
-   [144] [[tj-life-ccel|Life]], ch. xxiv. 2.
+   [144] [[tj-life-ccel-toc|Life]], ch. xxiv. 2.
 
    [145] Way of Perf. ch. xvi. 5. Castle, M. v. ch. i, 2, 3; ii. 4, 5;
 
@@ -495,7 +495,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [147] Way of Perf. ch. xl. 3.
 
-   [148] [[tj-life-ccel|Life]], ch. xx. 31.
+   [148] [[tj-life-ccel-toc|Life]], ch. xx. 31.
 
    [149] Found. ch. vi.
 

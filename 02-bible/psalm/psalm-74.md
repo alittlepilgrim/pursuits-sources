@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 74
 ---
@@ -155,3 +155,7 @@ h. (74:13) [Is 51:9] – [10].
 i. (74:14) [Jb 3:8]; [40:25]; [Is 27:1].
 
 j. (74:16] – [17) [Gn 1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

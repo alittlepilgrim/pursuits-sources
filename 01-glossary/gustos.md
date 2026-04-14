@@ -3,14 +3,13 @@ type: glossary
 title: Gustos
 author:
 aliases:
-  - 20250802-180042
   - gustos
   - Gustos
 tags:
   - type/term
   - vault-admin/draft
 created: 2025-08-02
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 ---
 

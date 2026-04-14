@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 12
 ---
@@ -143,3 +143,7 @@ e. (12:44) [1 Chr 23] – [26]; [2 Chr 8:14].
 f. (12:46) [2 Chr 29:30]; [35:15].
 
 g. (12:47) [[nehemiah-10|Neh 10]]:39; [13:10] – [11]; [Nm 18:26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

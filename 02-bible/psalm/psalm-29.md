@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 29
 ---
@@ -95,3 +95,7 @@ b. (29:4) [Ps 46:7]; [77:18] – [19]; [Jb 37:4]; [Is 30:30].
 c. (29:10) ([[baruch-03|Bar 3]]:3].
 
 d. (29:11) [Ps 68:36].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

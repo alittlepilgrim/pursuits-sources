@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 27
 ---
@@ -161,3 +161,7 @@ c. (27:13) [Prv 20:16].
 d. (27:15) [Prv 21:9]; [25:24].
 
 e. (27:20) [Prv 30:16]; [Eccl 4:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

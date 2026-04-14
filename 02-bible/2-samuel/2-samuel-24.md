@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 24
 ---
@@ -83,3 +83,7 @@ d. (24:16) [Gn 6:6]; [Ex 32:14]; [[1-chronicles-21|1 Chr 21]]:15; [Jon 3:10].
 e. (24:16) ([[exodus-12|Ex 12]]:23]; [[2-kings-19|2 Kgs 19]]:35.
 
 f. (24:22] – [23) [1 Sm 6:14]; [[1-kings-19|1 Kgs 19]]:21.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

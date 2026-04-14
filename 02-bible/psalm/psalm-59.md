@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 59
 ---
@@ -137,3 +137,7 @@ c. (59:9) ([[psalm-02|Ps 2]]:4]; [37:13]; ([[wisdom-04|Wis 4]]:18].
 d. (59:13) [Prv 12:13]; [18:7].
 
 e. (59:14) [Ps 83:18] – [19]; ([[ezekiel-05|Ez 5]]:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

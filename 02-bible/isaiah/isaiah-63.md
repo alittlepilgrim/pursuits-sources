@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 63
 ---
@@ -209,3 +209,7 @@ h. (63:11) [Heb 13:20].
 i. (63:15) [Dt 26:15]; ([[baruch-02|Bar 2]]:16].
 
 j. (63:19) [Ps 144:5]; ([[mark-01|Mk 1]]:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

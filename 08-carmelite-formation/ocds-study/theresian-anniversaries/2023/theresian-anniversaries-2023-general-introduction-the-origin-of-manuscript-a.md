@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2023 - Introduction
   - theresian-anniversaries-2023-general-introduction-the-origin-of-manuscript-a
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

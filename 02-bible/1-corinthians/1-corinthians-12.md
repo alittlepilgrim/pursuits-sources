@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 12
 ---
@@ -119,3 +119,7 @@ h. (12:13) [Gal 3:28]; [Eph 2:13] – [18]; [Col 3:11] / [Jn 7:37] – [39].
 i. (12:27) [Rom 12:5] – [8]; [Eph 1:23]; [4:12]; [5:30]; [Col 1:18], [24].
 
 j. (12:28) [Eph 2:20]; [3:5]; [4:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

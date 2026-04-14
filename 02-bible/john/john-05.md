@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 5
 ---
@@ -221,3 +221,7 @@ f. (5:44) [12:43].
 g. (5:45) [Dt 31:26].
 
 h. (5:46) [5:39]; [Dt 18:15]; ([[luke-16|Lk 16]]:31]; [24:44].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Thessalonians, Chapter 3
 ---
@@ -83,3 +83,7 @@ h. (3:15) ([[2-corinthians-02|2 Cor 2]]:7]; [Gal 6:1].
 i. (3:16) [Jn 14:27]; [Rom 15:33].
 
 j. (3:17) [1 Cor 16:21]; [Gal 6:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

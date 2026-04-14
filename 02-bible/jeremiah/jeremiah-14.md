@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 14
 ---
@@ -203,3 +203,7 @@ p. (14:20) [Ps 106:6]; [Dn 9:5], [8].
 q. (14:21) [Jer 14:7]; [Lv 26:44]; ([[psalm-25|Ps 25]]:11].
 
 r. (14:22) [Jer 5:24]; [Zec 10:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

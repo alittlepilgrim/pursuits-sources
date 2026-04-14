@@ -8,7 +8,7 @@ tags:
   - term/church
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: church. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -18,6 +18,70 @@ description: church. Catechism of the Catholic Church. 1997. 2nd ed. Vatican Cit
 ## Catechism of the Catholic Church
 
 The name given the "convocation" or "assembly" of the People God has called together from "the ends of the earth." In Christian usage, the word "Church" has three inseparable meanings: the People that God gathers in the whole world; the particular or local church (diocese); and the liturgical (above all Eucharistic) assembly. The Church draws her life from the Word and the Body of Christ, and so herself becomes Christ's Body ([[1.2.3.9.p27#^ccc-752|752]]). In the Creed, the sole Church of Christ is professed to be one, holy, catholic, and apostolic ([[1.2.3.9.p29#^ccc-811|811]]).
+
+## Ignatius Catholic Study Bible
+
+*Church* (Acts 5:11) – *Ekklēsia* (Gk.): refers to an "assembly" or "congregation" of people. The word is used 23 times in Acts and 91 times in the rest of the NT. The term was broadly applied in Greek literature to several types of social or political gatherings, but more narrowly applied in the Greek OT to the worshiping assembly of Israel (Deut 9:10; Josh 8:35; 1 Kings 8:65). With the exception of Acts 19:32, this latter usage is closest to the NT meaning of the word. Jesus was the first to use a Semitic equivalent of this term for the covenant community he founded and entrusted to the apostles (Mt 16:18; 18:17). Thereafter it became the normal designation for local Churches (Rom 16:16; 1 Cor 1:2) and for the collective body of local communities that make up the universal Church (Acts 9:31; Eph 3:10; 5:23). This worldwide congregation is governed by an apostolic hierarchy (1 Cor 12:28) and is one with the assembly of angels and saints in the heavenly Jerusalem (Heb 12:22-23).
+
+### Sources
+
+[[acts-commentary#^bhzwpq|Church — word study]]
+
+### Index of Doctrines
+
+**Church**
+
+Apostolicity: 1 Cor 12:28; Eph 2:19-20; Rev 21:14
+
+Body of Christ: Rom 12:4-5; 1 Cor 12:12-27; Eph 1:22-23; 2:16; 4:4, 12, 15-16; 5:23, 30; Col 1:18, 24; 2:19; 3:15
+
+Branches of the Vine: Jn 15:5
+
+Bride of Christ: Jn 3:29; 2 Cor 11:2; Gal 4:26; Eph 5:23-32; Rev 21:2, 9; 22:17
+
+Built on the rock of Peter and his successors: Mt 16:18-19
+
+Catholicity: Mt 28:19; Mk 16:15; Lk 24:47; Rom 10:12-13; 1 Cor 1:24; 12:13; Gal 3:27-28; Eph 1:9-10; 2:11-22
+
+Christ present in his Church: Mt 28:18-20; Jn 14:20; Acts 9:4; Rom 8:9; Eph 1:22-23; Col 1:27
+
+Founded on the apostles and prophets: Eph 2:20; Founded on Christ: 1 Cor 3:11; Eph 2:20
+
+Flock image: Mt 26:31; Lk 12:32; Jn 10:3-5, 11; 20:15-17; Acts 20:28-29; Heb 13:20; 1 Pet 2:25; 5:2-4; Rev 7:17
+
+Guided by the Holy Spirit: Jn 14:26; 16:13; Acts 15:28
+
+Heavenly Jerusalem: Gal 4:26; Heb 12:22; Rev 21:2
+
+Holiness: Eph 1:22; 5:27; 1 Pet 2:9
+
+Household (Family) of God: Eph 2:19; 1 Tim 3:14-15; 1 Pet 2:5; 4:17
+
+Kingdom of God begun on earth in the Church: Mt 3:2; 12:28; 16:18-19; Lk 17:21; Rom 14:17; 1 Cor 4:20; Col 1:13
+
+Light of the world: Mt 5:14
+
+Motherhood of the Church: Gal 4:26; Rev 21:2
+
+Pillar and bulwark of the truth: 1 Tim 3:15
+
+People of God: Heb 4:9; 11:25; 1 Pet 2:10; Rev 21:3
+
+Royal priesthood: 1 Pet 2:5, 9; Rev 1:6; 5:10; 20:6
+
+Salt of the earth: Mt 5:13
+
+Structured community with government: Mt 16:18-19; 18:17-18; 28:19-20; Jn 21:15-17; Acts 1:22-26; 2:42; 6:2-6; 14:23; 1 Cor 12:4-11; Eph 2:20-21; 4:11-13; Phil 1:1; 1 Tim 3:8-13; 2 Tim 2:2; Tit 1:5-9; Heb 13:7, 17
+
+Temple of God: 1 Cor 3:9-17; 6:19; 2 Cor 6:16; 1 Pet 2:4-8
+
+Teaching authority in the Church: Mt 10:40; 16:18-19; 18:17-18; 28:19-20; Lk 10:16; Jn 14:26; 15:26-27; 16:13; Acts 2:42; 15:28; Lk 22:32; Acts 2:42; 15:22-29; 1 Cor 12:28; 2 Thess 2:15; Eph 4:11-12; 1 Tim 3:15; 5:17; 2 Tim 1:11, 13-14; 2:2; Tit 3:10-11; Heb 13:7, 17; 1 Jn 4:6
+
+Unity of the Church: Jn 17:21-23; Gal 3:27-28; Eph 1:9-10; 2:11-22; 4:4; Col 3:15
+
+*See also* [[apostle|Apostles]]; [[Authority]]; [[intercession|Intercession of the Saints]]; [[saint|Saints]]
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 
@@ -42,7 +106,7 @@ The name given the "convocation" or "assembly" of the People God has called toge
 - active and contemplative Orders necessary for the growth of —: [[328-apostolic-works#Meditation 1|328,1]];
 - contacts between — triumphant, — militant, and — suffering: [[385-faithful-departed#Meditation 1|385,1]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[23-the-call-to-the-apostolate|23. The Call to the apostolate]]
 - [[44-the-mystical-body-of-christ|44. The Mystical Body of Christ]]
@@ -68,7 +132,7 @@ The name given the "convocation" or "assembly" of the People God has called toge
 
 ## The Way of Perfection
 
-CHURCH. In the church, Christ walks and communes with us ([[tj-wop-chapter-1#^wop-ch1-3|1.3]]). Christians who do what is destructive to the church afflict Christ ([[tj-wop-chapter-1#^wop-ch1-3|1.3]]); it is like crucifying Christ again ([[tj-wop-chapter-1#^wop-ch1-2|1.2]]). The church needs preachers and the learned to defend and protect her ([[tj-wop-chapter-1#^wop-ch1-2|1.2]]); and those who will pray for her ([[tj-wop-chapter-1#^wop-ch1-3|1.3]]). The church is our Holy Mother ([[tj-wop-chapter-21#^wop-ch21-10|21.10]]). By believing what she holds we walk along a good path ([[tj-wop-chapter-21#^wop-ch21-10|21.10]]; [[tj-wop-chapter-30#^wop-ch30-4|30.4]]).
+CHURCH. In the church, Christ walks and communes with us ([[chapter-01-tj-way-ccel|1.3]]). Christians who do what is destructive to the church afflict Christ ([[chapter-01-tj-way-ccel|1.3]]); it is like crucifying Christ again ([[chapter-01-tj-way-ccel|1.2]]). The church needs preachers and the learned to defend and protect her ([[chapter-01-tj-way-ccel|1.2]]); and those who will pray for her ([[chapter-01-tj-way-ccel|1.3]]). The church is our Holy Mother ([[chapter-21-tj-way-ccel|21.10]]). By believing what she holds we walk along a good path ([[chapter-21-tj-way-ccel|21.10]]; [[chapter-30-tj-way-ccel|30.4]]).
 
 ## Compendium of Social Doctrine
 

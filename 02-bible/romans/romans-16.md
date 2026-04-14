@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 16
 ---
@@ -135,3 +135,7 @@ l. (16:25) ([[1-corinthians-02|1 Cor 2]]:7]; [Eph 1:9]; [3:3] – [9]; [Col 1:26
 m. (16:26) [2 Tm 1:10] / [1:5]; [Eph 3:4] – [5], [9]; [1 Pt 1:20].
 
 n. (16:27) [11:36]; [Gal 1:5]; [Eph 3:20] – [21]; [Phil 4:20]; [1 Tm 1:17]; [2 Tm 4:18]; [Heb 13:21]; [1 Pt 4:11]; [2 Pt 3:18]; [Jude 25]; ([[revelation-01|Rv 1]]:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -8,7 +8,7 @@ tags:
   - term/vocation
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 description: vocation. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -21,10 +21,6 @@ The calling or destiny we have in this life and hereafter. God has created the h
 
 ## Divine Intimacy Meditations
 
-### Compendium on Social Doctrine
-
-![[sd-10-index-v#Vocation]]
-
 - To the Christian life: [[75-vocation#Meditation 1|75,1]];
 - to consecration to God: [[75-vocation#Meditation 1|75,1]];
 - privilege and gratuity of — [[75-vocation#Meditation 2|75,2]];
@@ -36,7 +32,7 @@ The calling or destiny we have in this life and hereafter. God has created the h
 - cloistered — is an apostolic, universal —: [[324-various-forms-of-the-apostolate#Meditation 2|324,2]].
 - See: CONSECRATION TO GOD. [[consecration-to-god|Consecration to God]]
 
----
+### Source
 
 - [[75-vocation|75. Vocation]]
 - [[76-correspondence-to-vocation|76. Correspondence to Vocation]]
@@ -44,3 +40,7 @@ The calling or destiny we have in this life and hereafter. God has created the h
 - [[322-the-divine-invitation|322. The Divine Invitation]]
 - [[324-various-forms-of-the-apostolate|324. Humility in the apostolate]]
 - [[386-presentation-bvm|386. The Presentation of the Blessed Virgin Mary]]
+
+## Compendium of Social Doctrine
+
+![[sd-10-index-v#Vocation]]

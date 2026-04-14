@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 18
 ---
@@ -97,3 +97,7 @@ j. (18:18) ([[exodus-04|Ex 4]]:10] – [16]; [Jer 1:9]; [15:19]; ([[ezekiel-03|E
 k. (18:19) [Jer 11:21] – [23]; [Am 7:10] – [17]; ([[acts-of-the-apostles-03|Acts 3]]:23].
 
 l. (18:20], [22) [Dt 13:2] – [6]; [[1-kings-22|1 Kgs 22]]:1 – [40]; [Jer 14:13] – [16]; [23:9] – [40]; [28:1] – [17]; [[ezekiel-13|Ez 13]]:1 – [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

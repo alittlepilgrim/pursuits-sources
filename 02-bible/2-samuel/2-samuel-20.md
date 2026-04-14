@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 20
 ---
@@ -107,3 +107,7 @@ g. (20:19) [Gn 49:16].
 h. (20:23) [2 Sm 8:16] – [18]; [23:20].
 
 i. (20:25) [2 Sm 8:17] – [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

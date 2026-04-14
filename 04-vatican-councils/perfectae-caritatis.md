@@ -11,7 +11,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Decree on the Adaptation and Renewal of Religious Life - Perfectae Caritatis
 abbreviation: pc
@@ -19,7 +19,7 @@ abbreviation: pc
 
 # Perfectae Caritatis
 
-## Decree On The Adaptation and Renewal Of Religious Life Proclaimed by His Holiness Pope Paul VI On October 28 1965
+## Decree on the Adaptation and Renewal of Religious Life Proclaimed by His Holiness Pope Paul VI on October 28, 1965
 
 1\. The sacred synod has already shown in the constitution on the Church that the pursuit of perfect charity through the evangelical counsels draws its origin from the doctrine and example of the Divine Master and reveals itself as a splendid sign of the heavenly kingdom. Now it intends to treat of the life and discipline of those institutes whose members make profession of chastity, poverty and obedience and to provide for their needs in our time. ^pc-1
 

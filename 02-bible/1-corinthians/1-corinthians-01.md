@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 1
 ---
@@ -159,3 +159,7 @@ q. (1:29) [Eph 2:9].
 r. (1:30) ([[romans-04|Rom 4]]:17] / [6:11]; ([[romans-03|Rom 3]]:24] – [26]; ([[2-corinthians-05|2 Cor 5]]:21] / [Eph 1:7]; [Col 1:14]; [1 Thes 5:23].
 
 s. (1:31) [Jer 9:23]; [2 Cor 10:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

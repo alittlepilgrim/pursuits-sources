@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 51
 ---
@@ -261,3 +261,7 @@ f. (51:15) [Jer 31:35].
 g. (51:17) [Jer 25:15] – [17]; [[ezekiel-23|Ez 23]]:32 – [34].
 
 h. (51:21) [Is 29:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: esther-chapter 1
 ---
@@ -147,3 +147,7 @@ b. (1:10) [Dn 5:1].
 c. (1:14) [[1-chronicles-12|1 Chr 12]]:32; ([[ezra-07|Ezr 7]]:14].
 
 d. (1:19) [Est 8:5], [8]; [Dn 6:8] – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

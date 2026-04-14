@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 6
 ---
@@ -77,3 +77,7 @@ d. (6:10]\] ([[luke-21|Lk 21]]:15].
 e. (6:11]\] ([[matthew-26|Mt 26]]:59] – [61]; ([[mark-14|Mk 14]]:55] – [58]; ([[acts-of-the-apostles-21|Acts 21]]:21].
 
 f. (6:14]\] ([[matthew-26|Mt 26]]:59] – [61]; [27:40]; [Jn 2:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

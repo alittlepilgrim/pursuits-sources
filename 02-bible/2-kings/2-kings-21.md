@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 21
 ---
@@ -91,3 +91,7 @@ c. (21:7) [2 Sm 7:13]; [1 Kgs 8:16]; [9:3].
 d. (21:11) [Jer 15:4].
 
 e. (21:13) [Is 34:11]; [Lam 2:8]; [Am 7:7] – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

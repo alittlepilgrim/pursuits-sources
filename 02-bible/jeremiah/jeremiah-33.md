@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 33
 ---
@@ -103,3 +103,7 @@ l. (33:20] – [21) [Jer 31:36] – [37]; [Ps 89:37] – [38].
 m. (33:24) [Rom 11:1] – [2].
 
 n. (33:25] – [26) [Jer 31:36] – [37]; [32:44].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 7
 ---
@@ -107,3 +107,7 @@ d. (7:17] – [21) ([[exodus-04|Ex 4]]:9]; [Ps 78:44]; [105:29]; [Wis 11:5] – 
 e. (7:26] – [29) [Ps 78:45]; [105:30].
 
 scriptureProjector('src//bible/amos/1:1')
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

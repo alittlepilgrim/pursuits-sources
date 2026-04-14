@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 7
 ---
@@ -141,3 +141,7 @@ f. (7:20) [Is 3:24]; [2 Sm 10:4] – [6]; ([[ezekiel-05|Ez 5]]:1].
 g. (7:24) [Is 32:13].
 
 h. (7:25) [Is 5:5]; [32:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

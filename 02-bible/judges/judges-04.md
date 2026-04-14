@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 4
 ---
@@ -91,3 +91,7 @@ h. (4:15) ([[exodus-14|Ex 14]]:24]; [Jos 10:10]; [1 Sm 7:10].
 i. (4:19) [Jgs 5:25].
 
 j. (4:21) [Jgs 5:26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

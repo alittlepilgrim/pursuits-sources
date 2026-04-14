@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 24
 ---
@@ -107,3 +107,7 @@ g. \[[24:19]\] [2 Chr 23:8].
 h. \[[24:20] – [31]\] [[1-chronicles-23|1 Chr 23]]:7 – [23].
 
 i. \[[24:31]\] [1 Chr 25:8]; [26:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

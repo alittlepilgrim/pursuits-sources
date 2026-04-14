@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 6
 ---
@@ -95,3 +95,7 @@ i. (6:17] – [19) [Lv 1:1] – [17]; [3:1] – [17]; [[1-chronicles-16|1 Chr 16
 j. (6:20) [[1-chronicles-16|1 Chr 16]]:43.
 
 k. (6:21) [1 Sm 13:14]; [15:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

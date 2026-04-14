@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 4
 ---
@@ -121,3 +121,7 @@ o. (4:22) [[genesis-15|Gen 15]]:6.
 p. (4:24) [10:9]; [1 Pt 1:21].
 
 q. (4:25) [Is 53:4] – [5], [12]; [1 Cor 15:17]; [1 Pt 1:3] / [8:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 27
 url: https://bible.usccb.org/bible/genesis/27
 aliases:
-  - 20250508-020306
   - genesis-27
   - Genesis, Chapter 27
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 27
 bible_book: genesis
@@ -187,3 +186,7 @@ j. (27:46) [Gn 26:34] – [35]..
 ## Navigation
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

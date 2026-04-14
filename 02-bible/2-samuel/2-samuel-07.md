@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 7
 ---
@@ -123,3 +123,7 @@ o. (7:23) [Dt 4:7], [34].
 p. (7:24] – [25) ([[exodus-06|Ex 6]]:7]; [Dt 7:6]; [26:17]; [29:13].
 
 q. (7:28) [Nm 23:19]; [[john-17|Jn 17]]:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

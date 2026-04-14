@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 38
 ---
@@ -227,3 +227,7 @@ e. (38:20) [Sir 7:36]; [18:24]; [30:21].
 f. (38:21) [2 Sm 12:23]; ([[wisdom-02|Wis 2]]:1].
 
 g. (38:22) [Jas 4:13] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 27
 ---
@@ -169,3 +169,7 @@ g. (27:23) [Prv 26:24] – [28].
 h. (27:24) [Prv 6:16] – [19].
 
 i. (27:25] – [27) ([[psalm-07|Ps 7]]:16] – [17]; [Prv 26:27]; [Eccl 10:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

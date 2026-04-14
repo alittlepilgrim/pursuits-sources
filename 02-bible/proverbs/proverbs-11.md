@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 11
 ---
@@ -195,3 +195,7 @@ j. (11:18) [Prv 10:16].
 k. (11:28) [Ps 52:9] – [10].
 
 l. (11:31) [1 Pt 4:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

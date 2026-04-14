@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 46
 ---
@@ -257,3 +257,7 @@ j. (46:26) [Jer 44:30]; [Ez 30:4]; [32:11] – [12].
 k. (46:27) [Jer 30:10]; [43:5].
 
 l. (46:28) [Jer 30:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

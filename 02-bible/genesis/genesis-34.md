@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 34
 url: https://bible.usccb.org/bible/genesis/34
 aliases:
-  - 20250508-020324
   - genesis-34
   - Genesis, Chapter 34
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 34
 bible_book: genesis
@@ -113,3 +112,7 @@ d. (34:29) [Jdt 9:3] – [4]..
 ## Navigation
 
 [[genesis-03|[← Previous Note]]] · [[genesis-05|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -4,7 +4,6 @@ title: Social Doctrine of the Church - Presentation
 author: Catholic Church
 url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
-  - 20250822-142818
   - Compendium of the Social Doctrine of the Church Presentation
   - sd-01-presentation
   - Social Doctrine of the Church - Presentation

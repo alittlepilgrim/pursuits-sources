@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 37
 ---
@@ -137,3 +137,7 @@ none can see him, however wise their hearts.
 \* (37:24) The concluding remark of Elihu is ironic in view of the appearance of the Lord in the next chapter and Job’s claim in [42:5].
 
 a. (37:10) [Ps 147:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

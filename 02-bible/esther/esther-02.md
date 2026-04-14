@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: esther-chapter 2
 ---
@@ -89,3 +89,7 @@ c. (2:14) [Est 2:19] – [20]; [4:11], [16].
 d. (2:19] – [20) [Est 2:14].
 
 e. (2:21] – [23) [Est A:12] – [15]; [6:1] – [3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

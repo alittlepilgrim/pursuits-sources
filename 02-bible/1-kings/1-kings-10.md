@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 10
 ---
@@ -105,3 +105,7 @@ c. (10:16]\] [[1-kings-14|1 Kgs 14]]:26 – [28]; [2 Sm 8:7].
 d. (10:26]\] [1 Kgs 5:6]; [Dt 17:16]; [2 Chr 1:14]; [9:25].
 
 e. (10:27]\] [Dt 17:17]; [Sir 47:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

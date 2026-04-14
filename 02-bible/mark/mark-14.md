@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 14
 ---
@@ -267,3 +267,7 @@ p. (14:65) ([[luke-22|Lk 22]]:63] – [65].
 q. (14:66] – [72) ([[matthew-26|Mt 26]]:69] – [75]; ([[luke-22|Lk 22]]:56] – [62]; [Jn 18:16] – [18], [25] – [27].
 
 r. (14:72) [Jn 13:38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

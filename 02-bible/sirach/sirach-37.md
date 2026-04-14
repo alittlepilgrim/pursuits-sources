@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 37
 ---
@@ -185,3 +185,7 @@ e. (37:26) [Sir 39:9]; [44:13] – [16].
 f. (37:28) ([[1-corinthians-06|1 Cor 6]]:12]; [10:23].
 
 g. (37:29] – [31) [Sir 31:13], [16] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

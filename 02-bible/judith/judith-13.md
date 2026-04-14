@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 13
 ---
@@ -79,3 +79,7 @@ c. (13:18) [Jgs 5:24]; ([[luke-01|Lk 1]]:42].
 d. (13:19) [Sir 35:9].
 
 e. (13:20) [Dt 27:15] – [26]; [Ps 41:14]; [72:19]; [89:53].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

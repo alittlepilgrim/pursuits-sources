@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 21
 ---
@@ -155,3 +155,7 @@ h. \[[21:28]\] [Rom 15:31].
 i. \[[21:36]\] [22:22]; ([[luke-23|Lk 23]]:18]; [Jn 19:15].
 
 j. \[[21:38]\] [5:36] – [37].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

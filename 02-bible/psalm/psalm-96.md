@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 96
 ---
@@ -105,3 +105,7 @@ f. (96:10) [Ps 75:4]; [93:1].
 g. (96:11) [Ps 98:7].
 
 h. (96:13) [Ps 98:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

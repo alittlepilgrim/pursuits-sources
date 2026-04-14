@@ -2,7 +2,6 @@
 type: glossary
 title: Apostle
 aliases:
-  - 20250720-212722
   - apostle
   - Apostle
 tags:
@@ -11,7 +10,7 @@ tags:
   - term/apostle
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: apostle. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -21,6 +20,30 @@ description: apostle. Catechism of the Catholic Church. 1997. 2nd ed. Vatican Ci
 ## Catechism of the Catholic Church
 
 A term meaning one who is _sent_ as Jesus was sent by the Father, and as he sent his chosen disciples to preach the Gospel to the whole world. He called the Twelve to become his Apostles, chosen witnesses of his Resurrection and the foundation on which the Church is built ([[1.2.3.9.p29|ccc-857]]). The apostolic office is permanent in the Church, in order to ensure that the divine mission entrusted to the Apostles by Jesus will continue to the end of time. The bishops receive their office as successors of the Apostles through the Sacrament of [[holy-orders|Holy Orders]] ([[1.2.3.9.p29|ccc-860]]). _See_ [[apostolic-succession|Apostolic Succession]].
+
+## Ignatius Catholic Study Bible
+
+**Apostles**
+
+Authority of: Mt 10:1-4, 5, 40; 16:18-19; 18:17-18; 19:27-30; 20:25-28; 28:16-20; Mk 3:13-15; 10:42-45; 16:15-18; Lk 10:16; 22:24-30; 24:44-49; Jn 20:21; Acts 2:42; 4:33, 35; 5:12; 6:2-6; 1 Cor 12:28-30; 2 Cor 13:10; 2 Thess 3:14; Eph 2:20; 4:11
+
+Apostles other than the Twelve: Acts 14:4, 14; Rom 1:1; 1 Cor 15:7, 9; Gal 1:19; 2 Tim 1:11
+
+Apostolic succession: Jn 20:21; Acts 1:15-26; 2 Tim 2:2; Tit 1:5
+
+Called "holy" (i.e., saints): Eph 3:5
+
+Teachers of the Church: Mt 16:18-19; 18:17-18; 28:16-20; Lk 24:48-49; Acts 2:42; 15:6, 22-29
+
+The Twelve: Mt 10:1-4; 19:28; Mk 3:13-19; 6:30; Lk 6:13-16; Acts 1:2, 13, 21-25; 1 Cor 15:5; Rev 21:14
+
+Witnesses of the Resurrection: Mt 28:16-20; Mk 16:14-20; Lk 24:48; Acts 1:21-26; 4:33; 1 Cor 9:1; 15:5, 7, 9
+
+*See also* [[Authority]]; [[Church]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Index
 
@@ -55,7 +78,7 @@ A term meaning one who is _sent_ as Jesus was sent by the Father, and as he sent
 
 See: [[apostolate|Apostolate]]
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[25-apostolic-action|25. Apostolic Action]]
 - [[319-god-collaborators|319. God Collaborators]]

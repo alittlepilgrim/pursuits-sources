@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 48
 ---
@@ -337,3 +337,7 @@ s. (48:43) [[isaiah-24|Is 24]]:17 – [18].
 t. (48:45) [Nm 21:28] – [29].
 
 u. (48:47) [Jer 49:39].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

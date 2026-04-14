@@ -8,7 +8,7 @@ tags:
   - term/examination-of-conscience
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: examination-of-conscience. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -23,4 +23,7 @@ Prayerful self-reflection on our words and deeds in the light of the Gospel to d
 
 - Necessity and practice: [[103-examination-of-conscience#Meditation 1|103,1]], [[103-examination-of-conscience#Meditation 2|103,2]];
 - need to examine oneself on the degree of willfulness in our failings: [[103-examination-of-conscience#Meditation 2|103,2]].
+
+### Source
+
 - [[103-examination-of-conscience|103. Examination of Conscience]]

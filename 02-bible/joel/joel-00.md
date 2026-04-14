@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/joel/0
 aliases:
   - joel-00
   - Joel, the Book of Joel
-  - Joel, The Book of Joel
 tags:
   - bible/book
   - bible/joel
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joel, the Book of Joel
 ---
@@ -40,3 +39,7 @@ The Book of Joel may be divided as follows:
 - [[joel-02|Joel, Chapter 2]]
 - [[joel-03|Joel, Chapter 3]]
 - [[joel-04|Joel, Chapter 4]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

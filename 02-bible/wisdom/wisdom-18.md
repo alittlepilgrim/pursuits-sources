@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 18
 ---
@@ -213,3 +213,7 @@ q. (18:23) [Nm 14:29] – [30].
 r. (18:24) ([[exodus-28|Ex 28]]:15] – [21], [31] – [38]; [Sir 45:8] – [12]; [50:11].
 
 s. (18:25) [[1-chronicles-21|1 Chr 21]]:15.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

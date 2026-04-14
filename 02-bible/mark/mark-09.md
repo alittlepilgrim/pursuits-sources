@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 9
 ---
@@ -193,3 +193,7 @@ o. (9:42] – [47) ([[matthew-05|Mt 5]]:29] – [30]; [18:6] – [9]; ([[luke-17
 p. (9:48) [Is 66:24].
 
 q. (9:50) [Lv 2:13]; ([[matthew-05|Mt 5]]:13]; ([[luke-14|Lk 14]]:34] – [35]; [Col 4:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

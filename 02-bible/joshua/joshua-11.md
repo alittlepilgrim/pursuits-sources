@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 11
 ---
@@ -103,3 +103,7 @@ j. (11:20) [Dt 2:30]; [20:16] – [17].
 k. (11:21) [Jos 15:13] – [14]; [Nm 13:22]; [Dt 1:28]; [9:1] – [3].
 
 l. (11:23) [Jos 14:1] – [19:51]; [Nm 34:2] – [12]; [Heb 4:8] – [10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

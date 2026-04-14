@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 19
 ---
@@ -99,3 +99,7 @@ e. (19:13) [Gn 31:19]; [Jgs 17:5]; [18:14], [18], [20]; [[ezekiel-21|Ez 21]]:26.
 f. (19:20) [1 Sm 10:5] – [6], [10]; [Nm 11:25].
 
 g. (19:24) [1 Sm 10:10] – [12]; [2 Sm 6:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

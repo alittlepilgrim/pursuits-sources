@@ -1,0 +1,67 @@
+---
+type: meditation
+title: 152. Prayer of Recollection
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+aliases:
+  - 152-prayer-of-recollection
+  - 152. Prayer of Recollection
+tags:
+  - divine-intimacy
+  - term/god
+  - term/holy-trinity
+  - term/prayer
+  - term/prayer-of-recollection
+  - term/presence-of-god
+  - term/recollection
+  - term/senses
+created: 2025-05-12
+modified: 2026-04-08
+publish: true
+permalink: /prayer-of-recollection
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+---
+
+# 152. Prayer of Recollection
+
+PRESENCE OF GOD - May I find You within me, O my God, in the little heaven of my soul!
+
+## Meditation 1
+
+St. Teresa of Jesus warmly recommends to interior souls another kind of prayer, much simpler and more profitable—the [[prayer-of-recollection|prayer-of-recollection]]. The foundation of this prayer is the divine presence in our souls: the presence of immensity, by which God is in us as Creator and Preserver in so real and essential a manner that “in Him we live, and move, and are” (Acts 17,28), so that if He ceased to be present in us, we should cease to exist; the presence of friendship, by which in a soul in the state of grace, God is present as a Father, as a Friend and as a sweet Guest, who invites that soul to dwell with the three divine Persons: with the Father, the Son and the Holy Spirit. This is the consoling promise of Jesus to the soul who loves Him: “If anyone love Me... My Father will love him, and We will come to him, and will make our abode with him” (Jn 14,23).
+
+The prayer of recollection consists in the realization of this great truth: God is in me, my soul is His temple; I recollect myself in the intimacy of this temple to adore Him, love Him, and unite myself to Him. “O soul, most beautiful of all creatures,” exclaims St. John of the Cross, “that so greatly desireth to know the place where your Beloved is, in order to seek Him and be united with Him.... It is a matter of great contentment and joy for you to see that He is so near you as to be within you. Rejoice and be glad in your inward recollection with Him, since you have Him so near. There desire Him, there adore Him, and do not go to seek Him outside yourself” (SC, 1,7.8). The soul who has the sense of the presence of God within it, possesses one of the most efficacious means of making prayer. “Do you believe,” says St. Teresa of Jesus, “that it is of little importance for a soul who is easily distracted, to understand this truth that God is in it] and to know that, in order to speak with its heavenly Father and to enjoy His company, it does not have to go up to heaven or even to raise its voice? No matter how softly it speaks, He always hears it, because He is so near. It does not need wings to go to contemplate Him in itself” ([[tj-way-of-perfection-ccel|Way]], 28).
+
+2.Although the prayer of recollection is the highest of the active forms of prayer, St. Teresa notes that we can obtain it for ourselves, “for this is not a supernatural state [a passive recollection which can only be produced by divine motion], but depends upon our volition; and by God’s favor, we can enter it of our own accord” (ibid., 29).
+
+Therefore, it is important to know what the soul should do in order to practice this prayer, and this can be reduced to two things: “The soul collects together all its faculties and enters within itself to be with its God” (ibid., 28). Our **senses**, **imagination**, and **intellect** tend spontaneously toward exterior things, on which they are dispersed; therefore, the **soul**, by a prolonged, resolute act of the **will**, ought to withdraw them from these exterior things in order to concentrate them on interior things—in this little heaven of the soul where the Blessed Trinity dwells. This exercise, especially in the beginning, requires effort and energy and it will not be easy at first. However, the Saint teaches, “let the soul try to cultivate the habit, despite the fatigue entailed in recollecting itself and overcoming the body which is trying to reclaim its rights.” Little by little, “as a reward for the violence which it has previously done to itself” (ibid.), recollection will become easy and delightful; the senses will obey promptly; and even if the soul is not entirely free from distractions, it will not be so hard to overcome them.
+
+In this way, we shall be able to concentrate entirely on God present within us, and there at His feet will be able to converse with Him to our heart’s delight. It will not be difficult to **spend even the whole time of prayer in acts of faith, love, and [[adoration]]**, admiring and contemplating the great mystery of the indwelling of the Trinity in our poor heart, and offering our humble homage to the three divine Persons. But if this is not enough, we can also use other practices: “Hidden there within our soul, we can think about the Passion, and picture the Son, and offer Him to the Father, without tiring the mind by going to seek Him on Mount Calvary, or in the Garden, or at the Column”; or else, more simply, we can “speak with Him as with a Father, a Brother, a Lord, and a Spouse—sometimes in one way, sometimes in another...we can tell Him our troubles, beg Him to put them right, and yet realize that we are not worthy to be called His child” (ibid.). And the Saint concludes with these words: “Those who are able to shut themselves up in this way within this little heaven of the soul, where dwells the Maker of heaven and earth...may be sure that they are walking on an excellent road and will come without fail to drink of the water of the fountain” (ibid).
+
+## Colloquy
+
+“Give me the grace to recollect myself in the little heaven of my soul where You have established Your dwelling. There You let me find You, there I feel that You are closer to me than anywhere else, and there You prepare my soul quickly to enter into intimacy with You. Then, the soul, understanding that all the things of the world are but toys, seems all of a sudden to rise above everything created and escape it.... My God, if I could only recall often that You are dwelling within my soul, I think that it would be impossible for me to give myself up to the things of the world, for compared with what I have within me, they seem to me to have no value at all.
+
+“Help me, O Lord, to withdraw my senses from exterior things, make them docile to the commands of my will, so that when I want to converse with You, they will retire at once, like bees shutting themselves up in the hive in order to make honey” (cf. [[teresa-of-avila-saint|T.J.]] [[tj-way-of-perfection-ccel|Way]], 28).
+
+“O Lord, You say to my soul, ‘My kingdom is within you.’ It is very comforting to know that You never leave me, and that I cannot exist without You. What more do you want, O my soul, and what do you seek elsewhere, since you possess within yourself your wealth, your love, your peace, your plenitude, and your kingdom, that is, the Beloved whom you desire and for whom you sigh?” (cf. J.C. SC, 1,7.8).
+
+"O my God, You are in me and I am in You. I have found my heaven on earth, since heaven is You, O Lord, and You are in my soul. I can find You there always; even when I do not feel Your presence, You are there nevertheless, and I like to seek You there. Oh! if only I could never leave You alone!” (cf. E.T. L).
+
+# References
+
+J.C. - [[john-of-the-cross-saint|Saint John of the Cross]]
+
+SC - [[jc-sc-toc|Spiritual Canticle by Saint John of the Cross]]
+
+T.J. - [[teresa-of-avila-saint|Saint Teresa of Avila]]
+
+Way - [[tj-way-of-perfection-ccel|Way of Perfection by Saint Teresa of Avila]]
+
+---
+
+⟵ [[151-intimate-converse-with-god|151. Intimate Converse With God]] | [[153-aridity|153. Aridity]] ➞

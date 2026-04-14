@@ -11,7 +11,7 @@ tags:
   - term/eucharist
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -51,6 +51,9 @@ publish: true
 - — strengthens the union of our soul with the Trinity: [[219-from-the-eucharist-to-the-trinity#Meditation 1|219,1]], [[219-from-the-eucharist-to-the-trinity#Meditation 2|219,2]];
 - special presence of the Blessed Trinity through the reception of the —: [[219-from-the-eucharist-to-the-trinity#Meditation 2|219,2]];
 - sacramental presence of Jesus in our soul enables us to render worthy [[adoration]] to the Blessed Trinity: [[219-from-the-eucharist-to-the-trinity#Meditation 2|219,2]].
+
+### Sources
+
 - [[49-the-first-miracle-of-jesus|49. The First Miracle of Jesus]]
 - [[137-the-gift-of-love|137. The Gift of Love]]
 - [[183-marys-prayer|183. Marys Prayer]]

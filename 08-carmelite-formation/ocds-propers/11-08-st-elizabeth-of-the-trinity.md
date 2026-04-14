@@ -3,9 +3,9 @@ type: ocds-proper
 title: November 8, Saint Elizabeth of the Trinity Catez
 author: OCD General Curia
 aliases:
-  - 11-08-st-elizabeth-of-the-trinity
   - 20251108-000001
   - November 8, Saint Elizabeth of the Trinity Catez
+  - st-elizabeth-of-the-trinity
 tags:
   - carmel/propers
   - carmel/saints
@@ -13,7 +13,7 @@ tags:
   - type/ocd-proper
 celebration_day: 11-08
 created: 2024-07-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 attachment: true
 ---

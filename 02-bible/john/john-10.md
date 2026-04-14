@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 10
 ---
@@ -189,3 +189,7 @@ w. (10:38) [14:10] – [11], [20].
 x. (10:40) [1:28].
 
 y. (10:42) [2:23]; [7:31]; [8:30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

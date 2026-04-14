@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 36
 ---
@@ -113,3 +113,7 @@ m. (36:18) [2 Kgs 25:14] – [15].
 n. (36:19) [2 Kgs 25:9] – [10]; [Lam 2:8].
 
 o. (36:22) ([[ezra-01|Ezr 1]]:1] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

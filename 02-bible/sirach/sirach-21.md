@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 21
 ---
@@ -165,3 +165,7 @@ d. (21:13) [Prv 13:14]; [16:22]; [18:4].
 e. (21:20) [Eccl 7:6].
 
 f. (21:22) [Prv 25:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

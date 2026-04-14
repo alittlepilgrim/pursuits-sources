@@ -11,15 +11,11 @@ tags:
   - term/fidelity
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
 # Fidelity
-
-## Compendium on Social Doctrine
-
-![[sd-10-index-f#Fidelity]]
 
 # Divine Intimacy Meditations
 
@@ -30,7 +26,7 @@ publish: true
 - delicacy in — to God: [[310-blessed-are-they-that-mourn#Meditation 1|310,1]];
 - — of the soul is met with new invitations on the part of God: [[76-correspondence-to-vocation#Meditation 2|76,2]].
 
-# Divine Intimacy Meditations
+## Sources
 
 - [[22-behold-the-savior-comes|22. Behold the Savior Comes]]
 - [[76-correspondence-to-vocation|76. Correspondence to Vocation]]
@@ -38,3 +34,7 @@ publish: true
 - [[139-the-victory-of-the-cross|139. The Victory of the Cross]]
 - [[266-baptismal-grace|266. Baptismal Grace]]
 - [[310-blessed-are-they-that-mourn|310. Blessed Are They that Mourn]]
+
+# Compendium on Social Doctrine
+
+![[sd-10-index-f#Fidelity]]

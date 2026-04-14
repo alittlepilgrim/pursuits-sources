@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 42
 ---
@@ -131,3 +131,7 @@ g. (42:7) [Ps 43:3].
 h. (42:8) ([[psalm-18|Ps 18]]:5]; [32:6]; [69:2]; [88:8]; [Jon 2:4].
 
 i. (42:10) ([[psalm-18|Ps 18]]:2]; [31:3] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

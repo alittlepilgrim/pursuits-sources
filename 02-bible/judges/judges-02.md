@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 2
 ---
@@ -95,3 +95,7 @@ g. (2:19) [Jgs 3:12]; [4:1]; [8:33] – [34].
 h. (2:20] – [21) [Jos 23:13]; [Jgs 2:2] – [3].
 
 i. (2:22) [Jgs 3:1], [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

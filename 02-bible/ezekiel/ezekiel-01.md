@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 1
 ---
@@ -135,3 +135,7 @@ r. (1:26) ([[revelation-01|Rv 1]]:13].
 s. (1:27) ([[ezekiel-08|Ez 8]]:2].
 
 t. (1:28) ([[revelation-04|Rv 4]]:2] – [3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

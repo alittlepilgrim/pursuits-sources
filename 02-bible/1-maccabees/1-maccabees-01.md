@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 1
 ---
@@ -231,3 +231,7 @@ g. (1:41) – (64)(2 Mc 6:1) – (11).
 h. (1:50)(1 Mc 2:29) – (38); (2 Mc 6:18) – (7:42).
 
 i. (1:54)(Dn 9:27); (11:31); ([[mark-13|Mk 13]]:14).
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

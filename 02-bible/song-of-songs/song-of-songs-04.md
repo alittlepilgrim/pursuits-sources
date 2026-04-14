@@ -11,7 +11,7 @@ tags:
   - bible/song-of-songs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Song of Songs, Chapter 4
 ---
@@ -187,3 +187,7 @@ f. (4:9) [Sg 6:5].
 g. (4:10) [Sg 1:2] – [3].
 
 h. (4:12) [Sg 6:2], [11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

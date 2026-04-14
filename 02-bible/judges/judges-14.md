@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 14
 ---
@@ -103,3 +103,7 @@ i. (14:17) [Jgs 16:16] – [18].
 j. (14:19) [Jgs 3:10]; [6:34]; [11:29]; [13:25]; [14:6]; [15:14]; [1 Sm 11:6].
 
 k. (14:20) [Jgs 15:2], [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/colossians/0
 aliases:
   - colossians-00
   - Colossians, the Letter to the Colossians
-  - Colossians, The Letter To The Colossians
 tags:
   - bible/book
   - bible/colossians
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Colossians, the Letter to the Colossians
 ---
@@ -42,3 +41,7 @@ The principal divisions of the Letter to the Colossians are the following:
 # Colossians – Chapter Index
 
 - [[colossians-00|Colossians, the Letter to the Colossians]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

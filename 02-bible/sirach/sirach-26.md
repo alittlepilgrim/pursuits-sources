@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 26
 ---
@@ -179,3 +179,7 @@ b. (26:3) [Sir 36:27] – [29].
 c. (26:10) [Sir 42:11].
 
 d. (26:28) [[ezekiel-18|Ez 18]]:24 – [29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

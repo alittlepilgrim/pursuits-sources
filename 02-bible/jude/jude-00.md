@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/jude/0
 aliases:
   - jude-00
   - Jude, the Letter of Jude - Introduction
-  - Jude, The Letter of Jude - Introduction
 tags:
   - bible/book
   - bible/jude
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jude, the Letter of Jude
 ---
@@ -21,7 +20,7 @@ description: Jude, the Letter of Jude
 
 ## The Letter of Jude
 
-This letter is by its address attributed to “Jude, a slave of Jesus Christ and brother of James” ([Jude 1]). Since he is not identified as an apostle, this designation can hardly be meant to refer to the Jude or Judas who is listed as one of the Twelve (([[luke-06| [[luke-06|Lk 6]]:]]:16]; ([[acts-of-the-apostles-01|Acts 1]]:13]; cf. [Jn 14:22]). The person intended is almost certainly the other Jude, named in the gospels among the relatives of Jesus (([[matthew-13|Mt 13]]:55]; ([[mark-06|Mk 6]]:3]), and the James who is listed there as his brother is the one to whom the Letter of James is attributed (see the Introduction to James). Nothing else is known of this Jude, and the apparent need to identify him by reference to his better-known brother indicates that he was a rather obscure personage in the early church.
+This letter is by its address attributed to “Jude, a slave of Jesus Christ and brother of James” ([Jude 1]). Since he is not identified as an apostle, this designation can hardly be meant to refer to the Jude or Judas who is listed as one of the Twelve ([[luke-06|Lk 6:16]]; [[acts-of-the-apostles-01|Acts 1:13]]; cf. Jn 14:22). The person intended is almost certainly the other Jude, named in the gospels among the relatives of Jesus (([[matthew-13|Mt 13]]:55]; ([[mark-06|Mk 6]]:3]), and the James who is listed there as his brother is the one to whom the Letter of James is attributed (see the Introduction to James). Nothing else is known of this Jude, and the apparent need to identify him by reference to his better-known brother indicates that he was a rather obscure personage in the early church.
 
 The letter is addressed in the most general terms to “those who are called, beloved in God the Father and kept safe for Jesus Christ” ([Jude 1]), hence apparently to all Christians. But since its purpose is to warn the addressees against false teachers, the author must have had in mind one or more specific Christian communities located in the unidentified region where the errors in question constituted a danger. While the letter contains some Semitic features, there is nothing to identify the addressees specifically as Jewish Christians; indeed, the errors envisaged seem to reflect an early form of gnosticism, opposed to law, that points rather to the cultural context of the Gentile world. Like James and 2 Peter, the Letter of Jude manifests none of the typical features of the letter form except the address.
 
@@ -35,3 +34,7 @@ This little letter is an urgent note by an author who intended to write more ful
 
 - [[jude-00|Jude, the Letter of Jude]]
 - [[jude-01|Jude, the Letter of Jude]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 4
 bible_book: genesis
@@ -130,3 +130,7 @@ e. (4:26) [1 Chr 1:1]; ([[luke-03| [[luke-03|Lk 3]]:]]:38]..
 ## Navigation
 
 [[genesis-03|[← Previous Note]]] · [[genesis-05|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

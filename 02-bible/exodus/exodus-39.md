@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 39
 url: https://bible.usccb.org/bible/exodus/39
 aliases:
-  - 20250731-085746
   - exodus-39
   - Exodus, Chapter 39
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 39
 ---
@@ -124,3 +123,7 @@ d. (39:15] – [21) ([[exodus-28|Ex 28]]:31] – [35].
 e. (39:27] – [29) ([[exodus-28|Ex 28]]:39] – [42].
 
 f. (39:30] – [31) ([[exodus-28|Ex 28]]:36] – [37].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

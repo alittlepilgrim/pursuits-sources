@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Timothy, Chapter 4
 ---
@@ -131,3 +131,7 @@ p. (4:19) ([[acts-of-the-apostles-18|Acts 18]]:2]; [Rom 16:3]; [1 Cor 16:19] / [
 q. (4:20) ([[acts-of-the-apostles-19|Acts 19]]:22]; [Rom 16:24] / ([[acts-of-the-apostles-20|Acts 20]]:4]; [21:29].
 
 r. (4:22) [Gal 6:18]; [Phil 4:23]; [Col 4:18]; [1 Tm 6:21]; [Ti 3:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

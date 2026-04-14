@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 14
 ---
@@ -111,3 +111,7 @@ d. (14:17], [20) [1 Sm 29:9].
 e. (14:27) [2 Sm 18:18].
 
 f. (14:30) [Jgs 15:4] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

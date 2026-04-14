@@ -5,19 +5,17 @@ author: Secular Order of Discalced Carmelites
 aliases:
   - 05-06-constitution-companion
   - Companion To The OCDS Constitutions
-  - Ocds Companion to the Ocds Constitutions
-  - OCDS Companion To The OCDS Constitutions
 tags:
   - carmel/legislation
   - type/legislation
 created: 2025-05-03
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 ---
 
 Secular Order of Discalced Carmelites
 
-# Ocds Companion to the Ocds Constitutions
+# OCDS Companion to the Constitutions
 
 - [[1] Lumen Gentium 31-35 - (Dogmatic Constitution on The Church) Vatican II](#%5B1%5D%20Lumen%20Gentium%2031-35%20-%20(Dogmatic%20Constitution%20on%20The%20Church)%20Vatican%20II)
 - [[2] Lumen Gentium 31- (See Reference 1)](#%5B2%5D%20Lumen%20Gentium%2031-%20(See%20Reference%201))

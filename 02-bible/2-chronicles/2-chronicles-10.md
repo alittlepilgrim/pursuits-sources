@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 10
 ---
@@ -77,3 +77,7 @@ a. (10:1] – [14) [[1-kings-12|1 Kgs 12]]:1 – [14].
 b. (10:15) [[1-kings-11|1 Kgs 11]]:29 – [39]; [12:15].
 
 c. (10:16] – [19) [[1-kings-12|1 Kgs 12]]:16 – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

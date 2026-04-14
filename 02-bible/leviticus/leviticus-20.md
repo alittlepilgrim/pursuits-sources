@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 20
 ---
@@ -135,3 +135,7 @@ w. (20:25) [Lv 11:2] – [47]; [Dt 14:4] – [20].
 x. (20:26) [Lv 11:44].
 
 y. (20:27) [Lv 19:31]; ([[exodus-22|Ex 22]]:17]; [Dt 18:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

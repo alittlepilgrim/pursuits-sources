@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 40
 ---
@@ -189,3 +189,7 @@ e. (40:20) [Ps 104:15].
 f. (40:27) [Is 4:5] – [6].
 
 g. (40:29) [Sir 29:24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

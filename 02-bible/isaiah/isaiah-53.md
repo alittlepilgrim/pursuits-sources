@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 53
 ---
@@ -143,3 +143,7 @@ g. (53:7) ([[matthew-26|Mt 26]]:63]; ([[acts-of-the-apostles-08|Acts 8]]:32].
 h. (53:9) [1 Pt 2:22] – [23]; ([[1-john-03|1 Jn 3]]:5].
 
 i. (53:12) ([[mark-15|Mk 15]]:28]; ([[luke-22|Lk 22]]:37].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

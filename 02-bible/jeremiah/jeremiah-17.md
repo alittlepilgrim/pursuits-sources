@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 17
 ---
@@ -219,3 +219,7 @@ r. (17:25) [Jer 22:4].
 s. (17:26) [Jer 32:44].
 
 t. (17:27) [[ezekiel-22|Ez 22]]:8.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 1
 ---
@@ -107,3 +107,7 @@ g. (1:13) [Dn 2:48] – [49].
 h. (1:17) [Jb 31:16] – [20].
 
 i. (1:21) [[2-kings-19|2 Kgs 19]]:37; [2 Chr 32:21]; [2 Mc 8:19]; [Sir 48:21]; [Is 37:38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

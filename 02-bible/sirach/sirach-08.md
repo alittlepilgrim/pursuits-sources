@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 8
 ---
@@ -139,3 +139,7 @@ d. (8:8] – [9) [Sir 6:34] – [36].
 e. (8:12) [Sir 29:4] – [7]; [Prv 17:18].
 
 f. (8:18) [Prv 25:9] – [10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

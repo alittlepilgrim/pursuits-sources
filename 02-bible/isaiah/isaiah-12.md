@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 12
 ---
@@ -71,3 +71,7 @@ c. (12:4) [Ps 105:1]; [148:13].
 d. (12:5) [[isaiah-11|Is 11]]:9; ([[exodus-15|Ex 15]]:1].
 
 e. (12:6) [Is 52:8] – [9]; [54:1]; [Zep 3:14] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

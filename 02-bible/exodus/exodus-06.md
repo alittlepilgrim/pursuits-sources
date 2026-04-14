@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 6
 ---
@@ -123,3 +123,7 @@ k. (6:19) [Nm 3:20]; [1 Chr 6:4], [14]; [23:21].
 l. (6:20) [Nm 26:59].
 
 m. (6:23) [Ru 4:19] – [20]; [1 Chr 2:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

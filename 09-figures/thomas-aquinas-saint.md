@@ -2,7 +2,6 @@
 type: figure
 title: Saint Thomas Aquinas
 aliases:
-  - 20250912-224200
   - Saint Thomas Aquinas
   - thomas-aquinas-saint
 tags:
@@ -12,7 +11,7 @@ birthday: 1225
 death_date: 1274-03-07
 celebration: 01-28
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

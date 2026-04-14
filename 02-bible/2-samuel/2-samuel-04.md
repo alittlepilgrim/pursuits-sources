@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 4
 ---
@@ -59,3 +59,7 @@ c. (4:4) [2 Sm 9:3]; [19:25].
 d. (4:10) [2 Sm 1:6] – [10], [14], [16].
 
 e. (4:12) [Dt 21:22] – [23]; [1 Sm 31:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

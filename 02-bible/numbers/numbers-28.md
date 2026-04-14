@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 28
 ---
@@ -117,3 +117,7 @@ c. (28:18) ([[exodus-12|Ex 12]]:16]; [Lv 23:7].
 d. (28:25) ([[exodus-12|Ex 12]]:16]; [13:6]; [Lv 23:8].
 
 e. (28:26) [Ex 34:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

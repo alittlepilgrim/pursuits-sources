@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 21
 ---
@@ -101,3 +101,7 @@ h. (21:16) [Jgs 20:48].
 i. (21:19) [1 Sm 1:3], [21].
 
 j. (21:25) [Jgs 17:6]; [18:1]; [19:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

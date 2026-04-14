@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 46
 ---
@@ -93,3 +93,7 @@ d. (46:15) ([[exodus-29|Ex 29]]:42]; [Nm 28:5] – [6].
 e. (46:17) [Lv 25:8] – [17].
 
 f. (46:20) [Lv 6:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

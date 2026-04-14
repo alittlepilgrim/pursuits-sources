@@ -8,7 +8,7 @@ tags:
   - term/euthanasia
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: euthanasia. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -19,8 +19,6 @@ description: euthanasia. Catechism of the Catholic Church. 1997. 2nd ed. Vatican
 
 An action or an omission which, of itself or by intention, causes the death of handicapped, sick, or dying persons--sometimes with an attempt to justify the act as a means of eliminating suffering. Euthanasia violates the fifth commandment of the law of God ([[3.2.2.5.p7z#^ccc-2277|2277]]).
 
-## Divine Intimacy Meditations
-
-### Compendium on Social Doctrine
+## Compendium on Social Doctrine
 
 ![[sd-10-index-e#Euthanasia]]

@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 91
 ---
@@ -127,3 +127,7 @@ l. (91:15) [Jer 33:3]; [Zec 13:9].
 m. (91:15) [Is 43:2].
 
 n. (91:16) [Prv 3:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

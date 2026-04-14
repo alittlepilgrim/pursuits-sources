@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 15
 ---
@@ -205,3 +205,7 @@ l. (15:17) ([[psalm-25|Ps 25]]:4].
 m. (15:18) [Jer 14:19]; [30:15].
 
 n. (15:20) [Jer 1:18]; [6:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

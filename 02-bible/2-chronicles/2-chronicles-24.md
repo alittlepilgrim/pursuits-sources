@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 24
 ---
@@ -103,3 +103,7 @@ h. (24:24) [Dt 32:30].
 i. (24:25] – [26) [[2-kings-12|2 Kgs 12]]:21 – [22].
 
 j. (24:27) [[2-kings-12|2 Kgs 12]]:19, [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

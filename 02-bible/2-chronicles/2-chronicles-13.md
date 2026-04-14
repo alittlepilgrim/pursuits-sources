@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 13
 ---
@@ -79,3 +79,7 @@ a. (13:1] – [2) [[1-kings-15|1 Kgs 15]]:1 – [2].
 b. (13:6) [[1-kings-11|1 Kgs 11]]:26.
 
 c. (13:22] – [23) [2 Chr 12:15] – [16]; [[1-kings-15|1 Kgs 15]]:7 – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

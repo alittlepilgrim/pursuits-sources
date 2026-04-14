@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 10
 ---
@@ -101,3 +101,7 @@ i. (10:16) [Rom 15:20] – [21].
 j. (10:17) [Jer 9:22] – [23]; ([[1-corinthians-01|1 Cor 1]]:31].
 
 k. (10:18) [13:3] – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

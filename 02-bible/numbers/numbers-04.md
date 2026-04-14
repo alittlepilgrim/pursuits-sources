@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 4
 ---
@@ -139,3 +139,7 @@ b. (4:15) [2 Sm 6:6] – [7]; [[1-chronicles-13|1 Chr 13]]:9 – [10].
 c. (4:20) [1 Sm 6:19] – [20].
 
 d. (4:31) [Nm 3:36] – [37].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

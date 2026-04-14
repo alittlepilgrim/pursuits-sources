@@ -2,7 +2,6 @@
 type: figure
 title: Saint Teresa of St. Augustine Lidoine
 aliases:
-  - 20250912-204812
   - Saint Teresa of St. Augustine Lidoine
   - St. Teresa of St. Augustine Lidoine
   - teresa-augustine-saint
@@ -13,7 +12,7 @@ tags:
   - type/figure
 celebration: 07-17
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

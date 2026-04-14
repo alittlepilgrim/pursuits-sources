@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 1
 ---
@@ -199,3 +199,7 @@ d. (1:20) [Prv 8:1] – [3]; [9:3].
 e. (1:24) [Is 65:2], [12]; [66:4]; [Jer 7:13].
 
 f. (1:33) [Prv 8:33] – [34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

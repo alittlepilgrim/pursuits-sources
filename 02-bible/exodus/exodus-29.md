@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 29
 url: https://bible.usccb.org/bible/exodus/29
 aliases:
-  - 20250731-090015
   - exodus-29
   - Exodus, Chapter 29
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 29
 ---
@@ -150,3 +149,7 @@ i. (29:36] – [37) [Lv 8:33] – [35].
 j. (29:38] – [42) [Nm 28:3] – [8].
 
 k. (29:43) ([[exodus-25|Ex 25]]:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

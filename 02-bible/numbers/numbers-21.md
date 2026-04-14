@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 21
 ---
@@ -177,3 +177,7 @@ i. (21:25] – [26) [Jos 21:39]; [Jgs 11:26].
 j. (21:33) [Dt 3:1] – [7].
 
 k. (21:34) [Ps 136:17] – [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

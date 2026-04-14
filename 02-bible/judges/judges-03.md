@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 3
 ---
@@ -123,3 +123,7 @@ k. (3:30) [Jgs 3:11]; [5:31]; [8:28].
 l. (3:31) [Jgs 5:6].
 
 m. (3:31) [Jgs 15:15]; [2 Sm 23:8], [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

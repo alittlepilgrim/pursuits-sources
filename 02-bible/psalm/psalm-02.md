@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 2
 ---
@@ -95,3 +95,7 @@ e. (2:7) [Ps 89:27]; [110:2] – [3]; [Is 49:1].
 f. (2:9) ([[revelation-02|Rv 2]]:27]; [12:5]; [19:15].
 
 g. (2:11) [Ps 34:9]; [146:5]; [Prv 16:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

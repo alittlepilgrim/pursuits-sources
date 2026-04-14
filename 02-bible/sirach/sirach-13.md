@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 13
 ---
@@ -163,3 +163,7 @@ a. (13:17) ([[2-corinthians-06|2 Cor 6]]:14] – [17].
 b. (13:21] – [23) [Prv 14:20]; [19:4], [7].
 
 c. (13:25) [Prv 15:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

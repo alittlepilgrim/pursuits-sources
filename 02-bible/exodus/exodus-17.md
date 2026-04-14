@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 17
 url: https://bible.usccb.org/bible/exodus/17
 aliases:
-  - 20250731-085924
   - exodus-17
   - Exodus, Chapter 17
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 17
 ---
@@ -76,3 +75,7 @@ d. (17:7) [Ps 95:8] – [9].
 e. (17:8) [Dt 25:17] – [19]; [1 Sm 15:2].
 
 f. (17:14) [Nm 24:20]; [1 Sm 15:3], [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

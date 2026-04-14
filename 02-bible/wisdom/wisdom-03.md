@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 3
 ---
@@ -161,3 +161,7 @@ l. (3:15) [Sir 1:18].
 m. (3:16) [2 Sm 12:14].
 
 n. (3:19) [Ps 34:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

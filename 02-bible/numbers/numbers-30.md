@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 30
 ---
@@ -63,3 +63,7 @@ description: Numbers, Chapter 30
 \* (30:16) He annuls them: he prevents their fulfillment. Since he has first allowed the vows to remain valid, he can no longer annul them.
 
 a. (30:3) [Dt 23:22]; [Eccl 5:3] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

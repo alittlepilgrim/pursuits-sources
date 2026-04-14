@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 10
 ---
@@ -223,3 +223,7 @@ c. (10:36) ([[luke-21|Lk 21]]:19].
 d. (10:37) [Is 26:20]; [Hb 2:3].
 
 e. (10:38) [Hb 2:4]; ([[romans-01|Rom 1]]:17]; [Gal 3:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

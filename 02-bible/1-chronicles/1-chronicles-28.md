@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 28
 ---
@@ -93,3 +93,7 @@ j. \[[28:18]\] ([[exodus-25|Ex 25]]:18] – [22]; [30:1] – [10]; [1 Kgs 6:23] 
 k. \[[28:20]\] [[1-chronicles-22|1 Chr 22]]:13; [Jos 1:5].
 
 l. \[[28:21]\] [Ex 36:1] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

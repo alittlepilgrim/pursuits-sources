@@ -6,9 +6,10 @@ aliases:
   - Theresian Anniversaries 2023-2026 by the General Curia of the Discalced Carmelite order
   - Theresian Anniversaries 2023-2026 by the General Curia of the Discalced Carmelite Order
   - Theresian Anniversaries by the General Curia of the Discalced Carmelite Order, 2023-2026
-tags: []
+tags:
+  - type/toc
 created: 2026-03-19
-modified: 2026-04-06
+modified: 2026-04-09
 publish: true
 permalink: theresian-anniversaries
 image: assets/banners/banner-17-therese.png
@@ -32,7 +33,7 @@ attachment_name: banner-17-therese.png
 - [[theresian-anniversaries-2023-study-guide-05|Theresian Anniversaires 2023 - Study Guide 5 Father’s Illness Ad Therese Receives the Habit (Ms A, 71r-73v)]]
 - [[theresian-anniversaries-2023-study-guide-06|Theresian Anniversaires 2023 - Study Guide 6 on the Waves of Confidence and Love (Ms A, 80r-81v)]]
 - [[theresian-anniversaries-2023-study-guide-07|Theresian Anniversaires 2023 - Study Guide 7 the Father’s Death and Celine Enters Carmel (Ms A, 81v-83v)]]
-- [[theresian-anniversaries-2023-study-guide-08|Theresian Anniversaires 2023 Study Guide 8 - the Offering to Merciful Love (Ms A, 83v-84v)]]
+- [[theresian-anniversaries-2023-study-guide-08|Theresian Anniversaires 2023 Study Guide 8 — The Offering to Merciful Love (Ms A, 83v-84v)]]
 
 ## 2024
 

@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 6
 ---
@@ -103,3 +103,7 @@ e. (6:12) [Jl 3:4]; ([[matthew-24|Mt 24]]:29].
 f. (6:14) [Is 34:4] / [Rv 16:20].
 
 g. (6:16) [Is 2:19]; [[hosea-10|Hos 10]]:8; ([[luke-23|Lk 23]]:30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

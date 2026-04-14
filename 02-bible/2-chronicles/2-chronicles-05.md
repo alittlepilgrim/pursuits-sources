@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 5
 ---
@@ -63,3 +63,7 @@ b. (5:4] – [5) [2 Chr 35:3].
 c. (5:13) [Ps 136]; [Jer 33:11].
 
 d. (5:14) [2 Chr 7:2]; [1 Kgs 8:10] – [11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

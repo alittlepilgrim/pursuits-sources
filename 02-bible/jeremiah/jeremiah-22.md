@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 22
 ---
@@ -251,3 +251,7 @@ p. (22:26) [[2-kings-24|2 Kgs 24]]:15.
 q. (22:27) [Jer 44:14].
 
 r. (22:30) [Jer 36:30]; [1 Chr 3:16] – [17]; ([[matthew-01|Mt 1]]:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

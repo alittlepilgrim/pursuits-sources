@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 15
 ---
@@ -150,7 +150,7 @@ e. (15:9) [Col 2:23].
 
 f. (15:10) ([[mark-07|Mk 7]]:14].
 
-g. (15:14) [23:16], [19], [24]; ([[luke-06| [[luke-06|Lk 6]]:]]:39]; [Jn 9:40].
+g. (15:14) [23:16], [19], [24]; ([[luke-06||Lk 6]]:39]; [Jn 9:40].
 
 h. (15:18) [12:34].
 
@@ -165,3 +165,7 @@ l. (15:30) [Is 35:5] – [6].
 m. (15:32] – [39) ([[mark-08|Mk 8]]:1] – [10].
 
 n. (15:37) [16:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

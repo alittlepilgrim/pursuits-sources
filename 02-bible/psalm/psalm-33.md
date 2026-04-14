@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 33
 ---
@@ -145,3 +145,7 @@ h. (33:12) [Ps 144:15]; ([[exodus-19|Ex 19]]:6]; [Dt 7:6].
 i. (33:13) [Jb 34:21]; [[sirach-15|Sir 15]]:19; [Jer 16:17]; [32:19].
 
 j. (33:20) [Ps 115:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - term/fear
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -27,7 +27,7 @@ publish: true
 - inspires filial reverence for the majesty of God: [[299-the-gift-of-fear#Meditation 2|299,2]];
 - to the Gift of — corresponds the beatitude of poverty of spirit: [[300-blessed-are-the-poor-in-spirit#Meditation 1|300,1]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[276-diligence|276. Diligence]]
 - [[299-the-gift-of-fear|299. The Gift of Fear]]

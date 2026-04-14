@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 4
 ---
@@ -211,3 +211,7 @@ d. (4:45) [Dt 4:1]; [5:1], [31]; [6:1], [17], [20]; [11:32]; [12:1]; [26:16]; ([
 e. (4:46] – [49) [Dt 2:24] – [3:29].
 
 f. (4:46) [Dt 3:29]; [34:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

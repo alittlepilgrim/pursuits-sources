@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 12
 ---
@@ -117,3 +117,7 @@ f. (12:13) [[1-kings-21|1 Kgs 21]]:29; [Ps 32:5]; [51:4]; [Sir 47:11].
 g. (12:23) [Jb 7:9] – [10].
 
 h. (12:26] – [31) [[1-chronicles-20|1 Chr 20]]:1 – [3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

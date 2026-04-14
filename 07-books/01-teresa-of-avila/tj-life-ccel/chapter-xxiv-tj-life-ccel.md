@@ -1,0 +1,53 @@
+---
+type: book
+title: Chapter XXIV – The Life of St. Teresa of Jesus (CCEL Edition)
+author: Saint Teresa of Ávila
+aliases:
+  - Chapter XXIV. Progress Under Obedience. Her Inability to Resist the Graces of God. God Multiplies His Graces – The Life of St. Teresa of Jesus (CCEL Edition)
+tags:
+  - author/saint-teresa-of-avila
+  - book/life
+  - type/book
+created: 2026-04-08
+modified: 2026-04-08
+publish: false
+description: Chapter XXIV. Progress Under Obedience. Her Inability to Resist the Graces of God. God Multiplies His Graces
+---
+
+← [[chapter-xxiii-tj-life-ccel|Chapter XXIII]] | [[tj-life-ccel-toc|Table of Contents]] | [[chapter-xxv-tj-life-ccel|Chapter XXV]] →
+
+# Chapter XXIV. Progress Under Obedience. Her Inability to Resist the Graces of God. God Multiplies His Graces
+
+## Progress Under Obedience. Her Inability to Resist the Graces of God. God Multiplies His Graces
+
+   1. After this my confession, my soul was so docile that, as it seems to me, there was nothing in the world I was not prepared to undertake. I began at once to make a change in many things, though my confessor never pressed me--on the contrary, he seemed to make light of it all. I was the more influenced by this, because he led me on by the way of the love of God; he left me free, and did not press me, unless I did so myself, out of love. I continued thus nearly two months, doing all I could to resist the sweetness and graces that God sent. As to my outward life, the change was visible; for our Lord gave me courage to go through with certain things, of which those who knew me--and even those in the community--said that they seemed to them extreme; and, indeed, compared with what I had been accustomed to do, they were extreme: people, therefore, had reason to say so. Yet, in those things which were of obligation, considering the habit I wore, and the profession I had made, I was still deficient. By resisting the sweetness and joys which God sent me, I gained this, that His Majesty taught me Himself; for, previously, I used to think that, in order to obtain sweetness in prayer, it was necessary for me to hide myself in secret places, and so I scarcely dared to stir. Afterwards, I saw how little that was to the purpose; for the more I tried to distract myself, the more our Lord poured over me that sweetness and joy which seemed to me to be flowing around me, so that I could not in any way escape from it: and so it was. I was so careful about this resistance, that it was a pain to me. But our Lord was more careful to show His mercies, and during those two months to reveal Himself more than before, so that I might the better comprehend that it was no longer in my power to resist Him.
+   2. I began with a renewed love of the most Sacred Humanity; my prayer began to be solid, like a house, the foundations of which are strong; and I was inclined to practise greater penance, having been negligent in this matter hitherto because of my great infirmities. The holy man who heard my confession told me that certain penances would not hurt me, and that God perhaps sent me so much sickness because I did no penance; His Majesty would therefore impose it Himself. He ordered me to practise certain acts of mortification not very pleasant for me. [349] I did so, because I felt that our Lord was enjoining it all, and giving him grace to command me in such a way as to make me obedient unto him.
+   3. My soul was now sensitive to every offence I committed against God, however slight it might be; so much so, that if I had any superfluity about me, I could not recollect myself in prayer till I had got rid of it. I prayed earnestly that our Lord would hold me by the hand, and not suffer me to fall again, now that I was under the direction of His servants. I thought that would be a great evil, and that they would lose their credit through me.
+   4. At this time, Father Francis, who was Duke of Gandia, [350] came here; he had left all he possessed some years before, and had entered the Society of Jesus. My confessor, and the nobleman of whom I spoke before, [351] contrived that he should visit me, in order that I might speak to him, and give him an account of my way of prayer; for they knew him to be greatly favoured and comforted of God: he had given up much, and was rewarded for it even in this life. When he had heard me, he said to me that it was the work of the Spirit of God, [352] and that he thought it was not right now to prolong that resistance; that hitherto it had been safe enough,--only, I should always begin my prayer by meditating on some part of the Passion and that if our Lord should then raise up my spirit, I should make no resistance, but suffer His Majesty to raise it upwards, I myself not seeking it. He gave both medicine and advice, as one who had made great progress himself; for experience is very important in these matters. He said that further resistance would be a mistake. I was exceedingly consoled; so, too, was the nobleman, who rejoiced greatly when he was told that it was the work of God. He always helped me and gave me advice according to his power,--and that power was great.
+   5. At this time, they changed my confessor's residence. I felt it very much, for I thought I should go back to my wickedness, and that it was not possible to find another such as he. My soul was, as it were, in a desert, most sorrowful and afraid. I knew not what to do with myself. One of my kinswomen contrived to get me into her house, and I contrived at once to find another confessor, [353] in the Society of Jesus. It pleased our Lord that I should commence a friendship with a noble lady, [354] a widow, much given to prayer, who had much to do with the fathers. She made her own confessor [355] hear me, and I remained in her house some days. She lived near, and I delighted in the many conferences I had with the fathers; for merely by observing the holiness of their way of life, I felt that my soul profited exceedingly.
+   6. This father began by putting me in the way of greater perfection. He used to say to me, that I ought to leave nothing undone that I might be wholly pleasing unto God. He was, however, very prudent and very gentle at the same time; for my soul was not at all strong, but rather very weak, especially as to giving up certain friendships, though I did not offend God by them: there was much natural affection in them, and I thought it would be an act of ingratitude if I broke them off. And so, as I did not offend God, I asked him if I must be ungrateful. He told me to lay the matter before God for a few days, and recite the hymn, "Veni, Creator," that God might enlighten me as to the better course. One day, having prayed for some time, and implored our Lord to help me to please Him in all things, I began the hymn; and as I was saying it, I fell into a trance--so suddenly, that I was, as it were, carried out of myself. I could have no doubt about it, for it was most plain.
+   7. This was the first time that our Lord bestowed on me the grace of ecstasy. I heard these words: "I will not have thee converse with men, but with angels." This made me wonder very much; for the commotion of my spirit was great, and these words were uttered in the very depth of my soul. They made me afraid,--though, on the other hand, they gave me great comfort, which, when I had lost the fear,--caused, I believe, by the strangeness of the visitation,--remained with me.
+   8. Those words have been fulfilled; for I have never been able to form friendship with, nor have any comfort in, nor any particular love for, any persons whatever except those who, as I believe, love God, and who strive to serve Him. It has not been in my power to do it. It is nothing to me that they are my kindred, or my friends, if I do not know them to be lovers of God, or persons given to prayer. It is to me a painful cross to converse with any one. This is the truth, so far as I can judge. [356] From that day forth, I have had courage so great as to leave all things for God, who in one moment--and it seems to me but a moment--was pleased to change His servant into another person. Accordingly, there was no necessity for laying further commands upon me in this matter. When my confessor saw how much I clung to these friendships, he did not venture to bid me distinctly to give them up. He must have waited till our Lord did the work--as He did Himself. Nor did I think myself that I could succeed; for I had tried before, and the pain it gave me was so great that I abandoned the attempt, on the ground that there was nothing unseemly in those attachments. Now our Lord set me at liberty, and gave me strength also to use it.
+   9. So I told my confessor of it, and gave up everything, according to his advice. It did a great deal of good to those with whom I used to converse, to see my determination. God be blessed for ever! Who in one moment set me free, while I had been for many years making many efforts, and had never succeeded, very often also doing such violence to myself as injured my health; but, as it was done by Him Who is almighty, and the true Lord of all, it gave me no pain whatever.
+
+[349] The Saint now treated her body with extreme severity, disciplining herself even unto blood (Reforma, vol. i. lib. i. c. xx.
+
+§ 4).
+
+[350] St. Francis de Borja came to Avila, where St. Teresa lived, in 1557 (De la Fuente). This passage must have been written after the foundation of St. Joseph, for it was not in the first Life, as the Saint says, [287]ch. x. § 11, that he kept secret the names of herself and all others.
+
+[351] [288]Ch. xxiii. § 6.
+
+[352] See [289]Relation, viii. § 6.
+
+[353] Who he was is not certainly known. The Bollandists decline to give an opinion: but F. Bouix thinks it was F. Ferdinand Alvarez, who became her confessor on the removal of F. Juan de Padranos, and that it was to him she confessed till she placed herself under the direction of
+
+   F. Baltasar Alvarez, the confessor of Doña Guiomar, as it is stated in the next paragraph,--unless the confessor there mentioned was
+
+   F. Ferdinand.
+
+[354] Doña Guiomar de Ulloa. See below, [290]ch. xxxii. § 13.
+
+[355] If this confessor was F. Baltasar Alvarez, the Saint, F. Bouix observes, passes rapidly over the history of the year 1557, and the greater part, perhaps, of 1558; for F. Baltasar was ordained priest only in the latter year.
+
+[356] See [291]Relation, i. § 6.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 8
 ---
@@ -175,3 +175,7 @@ k. (8:25] – [26) [Ps 107:28] – [29].
 l. (8:28] – [34) ([[mark-05|Mk 5]]:1] – [17]; ([[luke-08|Lk 8]]:26] – [37].
 
 m. (8:31) ([[luke-04| [[luke-04|Lk 4]]:]]:34], [41].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

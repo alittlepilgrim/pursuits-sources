@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/obadiah/0
 aliases:
   - obadiah-01
   - Obadiah, the Book of Obadiah
-  - Obadiah, The Book of Obadiah
 tags:
   - bible/chapter
   - bible/obadiah
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Obadiah, the Book of Obadiah
 ---
@@ -226,3 +225,7 @@ f. (1:15) [Jl 4:11] – [12], [14].
 g. (1:17) [Jer 49:2].
 
 h. (1:19) [Jer 50:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

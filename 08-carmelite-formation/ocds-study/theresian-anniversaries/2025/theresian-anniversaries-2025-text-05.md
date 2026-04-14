@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2025 - Text 5 to Celine, 7th July 1894 (Letter 165)
   - theresian-anniversaries-2025-text-05
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

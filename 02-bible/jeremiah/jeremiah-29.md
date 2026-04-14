@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 29
 ---
@@ -113,3 +113,7 @@ i. (29:19) [Jer 25:4].
 j. (29:21) [Jer 14:14].
 
 k. (29:23) [Jer 23:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

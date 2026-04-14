@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 51
 ---
@@ -263,3 +263,7 @@ k. (51:25) [Sir 6:19]; [Is 55:1] – [3].
 l. (51:26) [Sir 6:26] – [28].
 
 m. (51:30) [Sir 2:8]; [Jb 34:11]; [Jn 9:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

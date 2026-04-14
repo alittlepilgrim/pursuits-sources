@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2023 - Study Guide 3 the Grace of Christmas (Ms A, 44r-45v)
   - theresian-anniversaries-2023-study-guide-03
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

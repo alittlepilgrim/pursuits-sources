@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/tobit/0
 aliases:
   - tobit-00
   - Tobit, the Book of Tobit
-  - Tobit, The Book of Tobit
 tags:
   - bible/book
   - bible/old-testament
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: tobit-the book of tobit
 ---
@@ -46,3 +45,7 @@ The divisions of the Book of Tobit are:
 7. Raphael Reveals His Identity ([12:1] – [22])
 8. Tobit’s Song of Praise ([13:1] – [18])
 9. Epilogue ([14:1] – [15])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 2
 ---
@@ -65,3 +65,7 @@ g. (2:8) [Jer 15:16].
 h. (2:9) ([[ezekiel-08|Ez 8]]:3]; [Rv 10:2].
 
 i. (2:10) [Zec 5:3]; ([[revelation-05|Rv 5]]:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 26
 ---
@@ -83,3 +83,7 @@ d. (26:18) [Ex 30:7].
 e. (26:19) [Nm 12:10].
 
 f. (26:21] – [23) [[2-kings-15|2 Kgs 15]]:5 – [7]; [Lv 13:46]; [Nm 19:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 21
 ---
@@ -101,3 +101,7 @@ i. (21:14) [Ez 44:22].
 j. (21:18) [Lv 22:19] – [25]; [Dt 23:2] – [9].
 
 k. (21:22) [Lv 2:3], [10]; [6:29]; [7:6], [34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

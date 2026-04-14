@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 9
 ---
@@ -135,3 +135,7 @@ a. (9:2) [Sir 25:21].
 b. (9:6) [Prv 5:1] – [14]; [6:24]; [29:3].
 
 c. (9:8) [Sir 25:20]; [41:21]; [Prv 6:25] – [29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

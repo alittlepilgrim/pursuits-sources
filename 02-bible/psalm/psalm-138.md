@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 138
 ---
@@ -73,3 +73,7 @@ Never forsake the work of your hands!
 a. (138:1) ([[psalm-09|Ps 9]]:1].
 
 b. (138:6) ([[luke-01|Lk 1]]:51] – [52].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

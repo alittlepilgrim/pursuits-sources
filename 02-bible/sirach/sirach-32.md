@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 32
 ---
@@ -131,3 +131,7 @@ d. (32:16) [Ps 37:6].
 e. (32:17) [[sirach-21|Sir 21]]:6; [Prv 12:1].
 
 f. (32:19) [Sir 37:16]; [Tb 4:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

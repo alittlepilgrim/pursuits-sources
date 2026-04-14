@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/ruth/0
 aliases:
   - ruth-00
   - Ruth, the Book of Ruth
-  - Ruth, The Book of Ruth
 tags:
   - bible/book
   - bible/old-testament
   - bible/ruth
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ruth, the Book of Ruth
 ---
@@ -32,3 +31,7 @@ In the Greek and Latin canons, Ruth follows Judges, to which it is related by it
 The beauty of the story’s construction, its use of dialogue (nearly two thirds of the text), and the sheer drama of its content mark it as one of the classic short stories of world literature. Based on the recollection of an historical figure, a story is developed which grips its audience with profound insight into divine and human relationships. The story is presented from a point some time after the course of events, as is indicated by the explanation of an obscure custom in [4:7]. Wherever and whenever it was told, its claim of God’s universal concern for humankind and the attractiveness of caring human responsibility shines forth.
 
 The date of composition is disputed. Many authors date it early in the monarchy, and valid arguments can be presented for that position. Others argue for a postexilic date; they see the favorable presentation of a Moabite woman who became David’s grandmother as a counter to the stringent measures of Ezra and Nehemiah against marriage with Moabites and other non-Jews ([Ezr 9] – [10]; [[nehemiah-13|Neh 13]]:23 – [29]).
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

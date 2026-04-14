@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 9
 ---
@@ -123,3 +123,7 @@ o. (9:22) [10:33]; [Rom 15:1]; [2 Cor 11:29].
 p. (9:24) [Heb 12:1].
 
 q. (9:25) [2 Tm 2:5] / [2 Tm 4:7] – [8]; [Jas 1:12]; [1 Pt 5:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

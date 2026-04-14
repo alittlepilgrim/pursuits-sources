@@ -11,7 +11,7 @@ tags:
   - term/efforts
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -26,7 +26,7 @@ publish: true
 - are necessary to attain sanctity: [[197-the-virtues-and-the-gifts#Meditation 1|197,1]];
 - God does not ask us to succeed but to continually renew our —: [[294-jesus-our-life#Meditation 1|294,1]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[63-jesus-calms-the-tempest|63. Jesus Calms the Tempest]]
 - [[193-conformity-with-christ|193. Conformity with Christ through the Action of the Holy Spirit]]

@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 19
 ---
@@ -163,3 +163,7 @@ f. (19:16) [[sirach-14|Sir 14]]:1; [Jas 3:2].
 g. (19:17) [Lv 19:17].
 
 h. (19:20) [Sir 1:1], [12], [14]; [Jb 28:28]; [Ps 111:10]; [Prv 1:7]; [9:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/nehemiah/0
 aliases:
   - nehemiah-00
   - Nehemiah, the Book of Nehemiah
-  - Nehemiah, The Book of Nehemiah
 tags:
   - bible/book
   - bible/nehemiah
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, the Book of Nehemiah
 ---
@@ -32,3 +31,7 @@ The Book of Nehemiah is divided as follows:
 1. The Deeds of Nehemiah ([1:1] – [7:72])
 2. Promulgation of the Law ([8:1] – [10:40])
 3. Dedication of the Wall; Other Reforms ([11:1] – [13:31])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

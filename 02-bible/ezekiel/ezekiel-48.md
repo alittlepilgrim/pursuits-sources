@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 48
 ---
@@ -129,3 +129,7 @@ l. (48:27) [Jos 13:24] – [28].
 m. (48:34) [Rv 21:12] – [13].
 
 n. (48:35) [Is 2:6]; ([[revelation-03|Rv 3]]:12]; [21:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

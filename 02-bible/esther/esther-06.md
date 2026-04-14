@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: esther-chapter 6
 ---
@@ -65,3 +65,7 @@ d. (6:9) [Gn 41:42] – [43]; [1 Kgs 1:33]; [Dn 5:29].
 e. (6:10) [Est 2:21]; [3:2] – [3]; [5:9], [13].
 
 f. (6:12) [Est 2:21]; [3:2] – [3]; [5:9], [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

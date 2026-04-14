@@ -3,7 +3,6 @@ type: bible
 title: Luke, Chapter 4
 url: https://bible.usccb.org/bible/luke/4
 aliases:
-  - 20250730-160749
   - luke-04
   - Luke, Chapter 4
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 4
 ---
@@ -163,7 +162,7 @@ to let the oppressed go free,
 
 \* (4:16) According to his custom: Jesus’ practice of regularly attending synagogue is carried on by the early Christians’ practice of meeting in the temple ([.[[acts-of-the-apostles-02|Acts 2]]:46]; [3:1]; [5:12]).
 
-\* (4:18) The Spirit of the Lord is upon me, because he has anointed me: see note on ([[luke-03| [[luke-03|Lk 3]]:]]:21] – [22]. As this incident develops, Jesus is portrayed as a prophet whose ministry is compared to that of the prophets Elijah and Elisha. Prophetic anointings are known in first-century Palestinian Judaism from the Qumran literature that speaks of prophets as God’s anointed ones. To bring glad tidings to the poor: more than any other gospel writer Luke is concerned with Jesus’ attitude toward the economically and socially poor (see ([[luke-06| [[luke-06|Lk 6]]:]]:20], [24]; [12:16] – [21]; [14:12] – [14]; [16:19] – [26]; [19:8]). At times, the poor in Luke’s gospel are associated with the downtrodden, the oppressed and afflicted, the forgotten and the neglected (([[luke-04| [[luke-04|Lk 4]]:]]:18]; [6:20] – [22]; [7:22]; [14:12] – [14]), and it is they who accept Jesus’ message of salvation.
+\* (4:18) The Spirit of the Lord is upon me, because he has anointed me: see note on ([[luke-03| [[luke-03|Lk 3]]:]]:21] – [22]. As this incident develops, Jesus is portrayed as a prophet whose ministry is compared to that of the prophets Elijah and Elisha. Prophetic anointings are known in first-century Palestinian Judaism from the Qumran literature that speaks of prophets as God’s anointed ones. To bring glad tidings to the poor: more than any other gospel writer Luke is concerned with Jesus’ attitude toward the economically and socially poor (see ([[luke-06||Lk 6]]:20], [24]; [12:16] – [21]; [14:12] – [14]; [16:19] – [26]; [19:8]). At times, the poor in Luke’s gospel are associated with the downtrodden, the oppressed and afflicted, the forgotten and the neglected (([[luke-04| [[luke-04|Lk 4]]:]]:18]; [6:20] – [22]; [7:22]; [14:12] – [14]), and it is they who accept Jesus’ message of salvation.
 
 \* (4:21) Today this scripture passage is fulfilled in your hearing: this sermon inaugurates the time of fulfillment of Old Testament prophecy. Luke presents the ministry of Jesus as fulfilling Old Testament hopes and expectations (([[luke-07|Lk 7]]:22]); for Luke, even Jesus’ suffering, death, and resurrection are done in fulfillment of the scriptures (([[luke-24|Lk 24]]:25] – [27], [44] – [46]; ([[acts-of-the-apostles-03|Acts 3]]:18]).
 
@@ -238,3 +237,7 @@ y. (4:41) [4:34]; ([[matthew-08|Mt 8]]:29]; ([[mark-03|Mk 3]]:11] – [12].
 z. (4:42] – [44) ([[mark-01|Mk 1]]:35] – [39].
 
 a. (4:43) [8:1]; ([[mark-01|Mk 1]]:14] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

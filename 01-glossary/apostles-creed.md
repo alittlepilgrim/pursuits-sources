@@ -2,14 +2,13 @@
 type: glossary
 title: Apostles' Creed
 aliases:
-  - 20250720-212722
   - apostles-creed
   - Apostles' Creed
 tags:
   - term/apostles-creed
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: apostles-creed. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---

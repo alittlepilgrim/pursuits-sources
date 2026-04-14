@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 17
 ---
@@ -179,3 +179,7 @@ h. (17:24) [Eccl 8:1].
 i. (17:25) [Prv 10:1]; [29:15].
 
 j. (17:27) [Prv 10:19]; [Sir 1:21]; [Jas 1:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

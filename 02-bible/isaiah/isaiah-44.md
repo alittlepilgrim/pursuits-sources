@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 44
 ---
@@ -295,3 +295,7 @@ g. (44:24) [Is 40:22]; [Jb 9:8].
 h. (44:27) [Is 42:15]; [51:10].
 
 i. (44:28) [Jer 3:15]; [Ez 34:23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

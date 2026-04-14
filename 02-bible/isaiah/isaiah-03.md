@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 3
 ---
@@ -197,3 +197,7 @@ i. (3:17) [Jer 13:26]; [[ezekiel-16|Ez 16]]:37.
 j. (3:25) [[hosea-14|Hos 14]]:1.
 
 k. (3:26) [Is 47:1]; [Lam 2:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

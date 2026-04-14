@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 58
 ---
@@ -177,3 +177,7 @@ g. (58:11) [Is 51:3]; [Ps 24].
 h. (58:12) [Is 61:4].
 
 i. (58:14) [Hb 3:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 26
 ---
@@ -249,3 +249,7 @@ d. (26:16) cf. [Ez 32:10].
 e. (26:17) cf. [[ezekiel-19|Ez 19]]:1.
 
 f. (26:20) cf. [Ez 31:14]; [32:18], [24], [30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

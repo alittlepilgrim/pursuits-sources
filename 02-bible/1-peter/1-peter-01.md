@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Peter, Chapter 1
 ---
@@ -145,3 +145,7 @@ n. (1:22) [Rom 12:10].
 o. (1:23) ([[1-john-03|1 Jn 3]]:9].
 
 p. (1:24) [Is 40:6] – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 21
 ---
@@ -99,3 +99,7 @@ a. (21:19]\] [[1-kings-22|1 Kgs 22]]:38; [2 Kgs 9:26].
 b. (21:21] – [23]\] [[1-kings-14|1 Kgs 14]]:10 – [11]; [15:29]; [16:3] – [4], [11]; [2 Kgs 9:8] – [10], [36].
 
 c. (21:29]\] [2 Kgs 9:25] – [26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -1,6 +1,6 @@
 ---
 type: bible
-title: Chapter 9
+title: Job, Chapter 9
 url: https://bible.usccb.org/bible/job/9
 aliases:
   - job-09
@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 9
 ---
@@ -62,7 +62,7 @@ QUESTIONS FOR DISCUSSION. 1. What does Teresa encourage her sisters to do with r
 2. What will help us practice detachment?
 3. Does what Teresa says about the interference of relatives apply in any way to my life? What advice might Teresa give us in this regard?
 
-[[tj-wop-chapter-10|2025-10-25]]
+[[chapter-10-tj-way-ccel|2025-10-25]]
 
 # Job, Chapter 9
 
@@ -229,3 +229,7 @@ d. (9:20) [Jb 15:6].
 e. (9:22) [Eccl 9:2].
 
 f. (9:25) [Jb 7:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

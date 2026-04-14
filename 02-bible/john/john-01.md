@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 1
 ---
@@ -293,3 +293,7 @@ c. (1:48) [Mi 4:4]; [Zec 3:10].
 d. (1:49) [12:13]; ([[exodus-04|Ex 4]]:22]; [Dt 14:1]; [2 Sm 7:14]; [Jb 1:6]; [2:1]; [38:7]; ([[psalm-02|Ps 2]]:7]; [29:1]; [89:27]; ([[wisdom-02|Wis 2]]:18]; [Sir 4:10]; [Dn 3:92]; [[hosea-11|Hos 11]]:1; ([[matthew-14|Mt 14]]:33]; [16:16]; ([[mark-13|Mk 13]]:32].
 
 e. (1:51) [Gn 28:10] – [17]; [Dn 7:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

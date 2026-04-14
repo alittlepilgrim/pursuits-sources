@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 16
 ---
@@ -123,3 +123,7 @@ b. (16:9) [Dt 10:8].
 c. (16:15) [1 Sm 12:3].
 
 d. (16:31] – [34) [Nm 26:10]; [Lv 10:2]; [Dt 11:6]; [Ps 106:17] – [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

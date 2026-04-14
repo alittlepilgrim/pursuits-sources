@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 37
 ---
@@ -252,7 +252,7 @@ because they take refuge in him.
 
 \* (Psalm 37) The Psalm responds to the problem of evil, which the Old Testament often expresses as a question: why do the wicked prosper and the good suffer? The Psalm answers that the situation is only temporary. God will reverse things, rewarding the good and punishing the wicked here on earth. The perspective is concrete and earthbound: people’s very actions place them among the ranks of the good or wicked. Each group or “way” has its own inherent dynamism—eventual frustration for the wicked, eventual reward for the just. The Psalm is an acrostic, i.e., each section begins with a successive letter of the Hebrew alphabet. Each section has its own imagery and logic.
 
-\* (37:3) The land: the promised land, Israel, which became for later interpreters a type or figure of heaven, cf. [Heb 11:9] – [10], [13] – [16]. The New Testament Beatitudes (([[matthew-05|Mt 5]]:3] – [12]; ([[luke-06| [[luke-06|Lk 6]]:]]:20] – [26]) have been influenced by the Psalm, especially their total reversal of the present and their interpretation of the happy future as possession of the land.
+\* (37:3) The land: the promised land, Israel, which became for later interpreters a type or figure of heaven, cf. [Heb 11:9] – [10], [13] – [16]. The New Testament Beatitudes (([[matthew-05|Mt 5]]:3] – [12]; ([[luke-06||Lk 6]]:20] – [26]) have been influenced by the Psalm, especially their total reversal of the present and their interpretation of the happy future as possession of the land.
 
 a. (37:1) [Prv 3:31]; [23:17]; [24:1], [19].
 
@@ -297,3 +297,7 @@ t. (37:35) [Ps 92:8] – [9]; [Is 2:13]; [Ez 31:10] – [11].
 u. (37:37) [Prv 23:18]; [24:14].
 
 v. (37:39) ([[psalm-09|Ps 9]]:10]; [Is 25:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

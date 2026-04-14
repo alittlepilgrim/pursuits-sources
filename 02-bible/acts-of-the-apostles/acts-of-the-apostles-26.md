@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 26
 ---
@@ -137,3 +137,7 @@ m. \[[26:22] – [23]\] [3:18]; ([[luke-24|Lk 24]]:26] – [27], [44] – [47].
 n. \[[26:23]\] [Is 42:6]; [49:6]; ([[luke-02|Lk 2]]:32]; [1 Cor 15:20] – [23].
 
 o. \[[26:32]\] [25:11] – [12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

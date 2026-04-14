@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Habakkuk, Chapter 3
 ---
@@ -193,3 +193,7 @@ c. (3:8) [Ps 74:13]; [89:11]; [Is 51:9]; [Na 1:4].
 d. (3:11) [Jos 10:12] – [13].
 
 e. (3:19) ([[psalm-18|Ps 18]]:32] – [34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

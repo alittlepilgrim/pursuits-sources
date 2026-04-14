@@ -10,7 +10,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Encyclical Letter Sollicitudo Rei Socialis (30 December 1987) for the twentieth anniversary of Populorum Progressio
 abbreviation: jpii-srs

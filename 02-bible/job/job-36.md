@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 36
 ---
@@ -169,3 +169,7 @@ a. (36:6) [Ps 72:4], [12] – [13].
 b. (36:7) [Ps 113:7] – [8].
 
 c. (36:23) [Jb 34:10]; [Is 40:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

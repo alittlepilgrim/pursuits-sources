@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 5
 ---
@@ -133,3 +133,7 @@ c. (5:8) [Prv 7:25].
 d. (5:9) [Sir 9:6].
 
 e. (5:21) [Jb 14:16]; [31:4]; [34:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

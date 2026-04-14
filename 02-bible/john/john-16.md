@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 16
 ---
@@ -139,3 +139,7 @@ p. (16:28) [1:1].
 q. (16:32) [8:29]; [Zec 13:7]; ([[matthew-26|Mt 26]]:31]; ([[mark-14|Mk 14]]:27].
 
 r. (16:33) [14:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

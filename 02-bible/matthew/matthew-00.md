@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/matthew/0
 aliases:
   - matthew-00
   - Matthew, the Gospel according to Matthew
-  - Matthew, The Gospel According To Matthew
 tags:
   - bible/book
   - bible/matthew
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: matthew-the gospel according to matthew
 ---
@@ -80,3 +79,7 @@ The principal divisions of the Gospel according to Matthew are the following:
 5. Jesus, the Kingdom, and the Church ([13:54] – [18:35])
 6. Ministry in Judea and Jerusalem ([19:1] – [25:46])
 7. The Passion and Resurrection ([26:1] – [28:20])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

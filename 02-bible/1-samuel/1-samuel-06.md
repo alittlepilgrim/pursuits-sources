@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 6
 ---
@@ -85,3 +85,7 @@ c. (6:14) [2 Sm 24:21] – [25].
 d. (6:15) [Dt 31:25]; [[1-chronicles-15|1 Chr 15]]:2.
 
 e. (6:18) [1 Sm 7:12]; [Gn 31:52]; [Jos 24:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

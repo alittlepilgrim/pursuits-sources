@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 48
 ---
@@ -133,3 +133,7 @@ f. (48:11) [Mal 1:11].
 g. (48:12) [Ps 97:8].
 
 h. (48:14) ([[psalm-22|Ps 22]]:31] – [32]; [71:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

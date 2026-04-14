@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 9
 ---
@@ -379,3 +379,7 @@ v. (9:29) [Lv 18:5]; [Dt 30:16]; [32:47].
 w. (9:32) [Lam 5].
 
 x. (9:33) [Dn 3:27]; [9:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

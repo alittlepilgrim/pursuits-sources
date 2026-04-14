@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 12
 ---
@@ -69,3 +69,7 @@ b. (12:7) [Jgs 10:2], [5]; [12:10], [12], [15]; [15:20].
 c. (12:9) [Jgs 8:30]; [9:2], [5]; [10:4]; [12:14].
 
 d. (12:14) [Jgs 9:2], [5]; [10:4]; [12:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

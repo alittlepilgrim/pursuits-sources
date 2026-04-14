@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 127
 ---
@@ -63,3 +63,7 @@ for he will destroy his foes at the gate.
 a. (127:2) [Eccl 2:24].
 
 b. (127:3) [Ps 115:14]; [128:3]; [Dt 28:11]; [Prv 17:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

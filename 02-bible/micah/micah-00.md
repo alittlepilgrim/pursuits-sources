@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/micah/0
 aliases:
   - micah-00
   - Micah, the Book of Micah
-  - Micah, The Book of Micah
 tags:
   - bible/book
   - bible/micah
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: micah-the book of micah
 ---
@@ -37,3 +36,7 @@ The Book of Micah is divided as follows:
 2. Oracles of Salvation ([4:1] – [5:14])
 3. Announcement of Judgment ([6:1] – [7:6])
 4. Confidence in God’s Future ([7:7] – [20])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

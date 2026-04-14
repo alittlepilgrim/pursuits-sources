@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 10
 ---
@@ -159,3 +159,7 @@ t. (10:26) ([[psalm-24|Ps 24]]:1]; [50:12].
 u. (10:30) [Rom 14:6]; [1 Tm 4:3] – [4].
 
 v. (10:33) [9:22]; [Rom 15:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

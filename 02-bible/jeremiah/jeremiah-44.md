@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 44
 ---
@@ -117,3 +117,7 @@ o. (44:27) ([[ezra-07|Ezr 7]]:3] – [7].
 p. (44:28) [Dt 28:62]; [[isaiah-10|Is 10]]:22.
 
 q. (44:30) [Jer 39:5] – [7]; [46:25] – [26]; [Ez 29:3] – [4]; [30:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

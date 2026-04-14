@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 18
 ---
@@ -179,3 +179,7 @@ m. (18:20) [Ps 35:12].
 n. (18:21) [Ps 109:9] – [10].
 
 o. (18:23) [Neh 4:5]; [Ps 35:4]; [37:32] – [33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

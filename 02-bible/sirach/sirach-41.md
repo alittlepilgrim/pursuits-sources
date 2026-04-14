@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 41
 ---
@@ -161,3 +161,7 @@ f. (41:12) [Prv 22:1]; [Eccl 7:1].
 g. (41:20) [Sir 9:8]; ([[matthew-05|Mt 5]]:28].
 
 h. (41:22) [[sirach-18|Sir 18]]:15; [20:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

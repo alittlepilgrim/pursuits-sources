@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 46
 ---
@@ -117,3 +117,7 @@ give to Israel my glory.
 \* (46:11) From the east a bird of prey: Cyrus; cf. [41:2] – [4].
 
 a. (46:3) [Is 44:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

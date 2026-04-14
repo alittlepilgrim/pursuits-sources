@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 21
 ---
@@ -195,3 +195,7 @@ h. (21:9) [Is 46:1]; [Jer 50:2]; [51:8]; [Rv 14:8]; [18:2].
 i. (21:10) [Is 51:23]; [Jer 51:33]; [Mi 4:13]; [Hb 3:12].
 
 j. (21:14) [Jb 6:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

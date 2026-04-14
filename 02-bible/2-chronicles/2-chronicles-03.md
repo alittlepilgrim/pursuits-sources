@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 chronicles-chapter 3
 ---
@@ -71,3 +71,7 @@ f. (3:10] – [13) [1 Kgs 6:23] – [27].
 g. (3:14) ([[matthew-27|Mt 27]]:51].
 
 h. (3:15] – [17) [1 Kgs 7:15] – [20]; [Ez 40:49].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

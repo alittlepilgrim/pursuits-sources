@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2024 - Text 7 the Power of Prayer (Ms. C, 24v-26r)
   - theresian-anniversaries-2024-text-07
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

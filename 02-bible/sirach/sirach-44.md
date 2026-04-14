@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 44
 ---
@@ -177,3 +177,7 @@ f. (44:19) [[genesis-12|Gen 12]]:1 – [25:10]; ([[romans-04|Rom 4]]:3]; [Gal 3:
 g. (44:20) [[genesis-17|Gen 17]]:10 – [14]; [22:1] – [12].
 
 h. (44:22] – [23) [Gn 26:3] – [5], [24]; [27:28] – [29]; [28:13] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

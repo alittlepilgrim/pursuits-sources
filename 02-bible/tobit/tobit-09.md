@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 9
 ---
@@ -35,3 +35,7 @@ description: Tobit, Chapter 9
 6 The following morning they both got an early start and traveled to the wedding celebration. When they entered Raguel’s house, they found Tobiah reclining at table. He jumped up and greeted Gabael, who wept and blessed him, exclaiming: “Good and noble child, son of a good and noble, righteous and charitable man, may the Lord bestow a heavenly blessing on you and on your wife, and on your wife’s father and mother. Blessed be God, because I have seen the very image of my cousin Tobit!” ^tobit-09-6
 
 \* (9:2) To Rages: see note on [5:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

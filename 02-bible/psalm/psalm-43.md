@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 43
 ---
@@ -63,3 +63,7 @@ a. (43:1) [Ps 119:154].
 b. (43:3) ([[psalm-18|Ps 18]]:29]; [27:1]; [36:10]; [Mi 7:8].
 
 c. (43:3) [Ps 122:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

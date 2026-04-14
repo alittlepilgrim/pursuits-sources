@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 16
 ---
@@ -233,3 +233,7 @@ u. (16:27) ([[exodus-16|Ex 16]]:21].
 v. (16:28) [Ps 57:9] – [10]; [92:3].
 
 w. (16:29) ([[wisdom-05|Wis 5]]:14]; [2 Sm 14:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

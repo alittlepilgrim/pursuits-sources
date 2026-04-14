@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 36
 ---
@@ -143,3 +143,7 @@ r. (36:33) [Lv 26:31].
 s. (36:35) cf. [Ez 28:13]; [31:9].
 
 t. (36:38) [1 Kgs 8:63].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

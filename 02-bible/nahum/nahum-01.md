@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nahum, Chapter 1
 ---
@@ -145,3 +145,7 @@ a. (1:3) [Ex 34:6] – [7]; [Jl 2:13].
 b. (1:6) [Is 30:27] – [28]; [Zep 1:15].
 
 c. (1:13) [Is 9:4]; [10:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

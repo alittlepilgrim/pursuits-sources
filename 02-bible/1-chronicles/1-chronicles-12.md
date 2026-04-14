@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 12
 ---
@@ -55,3 +55,7 @@ a. \[[12:1]\] [1 Sm 27:1] – [7].
 b. \[[12:3]\] [1 Chr 27:12].
 
 c. \[[12:9]\] [Dt 33:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

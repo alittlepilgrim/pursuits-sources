@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 45
 ---
@@ -139,3 +139,7 @@ e. (45:14] – [16) [[ezekiel-16|Ez 16]]:10 – [13].
 f. (45:17) [[genesis-17|Gen 17]]:6.
 
 g. (45:18) [Is 60:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

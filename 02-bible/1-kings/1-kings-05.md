@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 5
 ---
@@ -125,3 +125,7 @@ d. (5:14]\] [[1-kings-10|1 Kgs 10]]:1.
 e. (5:17]\] [2 Sm 7:5] – [7]; [[1-chronicles-22|1 Chr 22]]:7 – [8].
 
 f. (5:19]\] [2 Sm 7:12] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

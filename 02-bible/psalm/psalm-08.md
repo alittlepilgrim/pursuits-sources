@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 8
 ---
@@ -79,3 +79,7 @@ b. (8:5) [Ps 144:3]; [Jb 7:17].
 c. (8:5) [Heb 2:6ff].
 
 d. (8:7ff) [Gn 1:26], [28]; ([[wisdom-09|Wis 9]]:2]; [1 Cor 15:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

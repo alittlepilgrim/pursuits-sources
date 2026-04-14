@@ -11,7 +11,7 @@ tags:
   - term/contemplatives
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -30,7 +30,7 @@ publish: true
 - their prayer is the guarantee of victory for those who struggle in the world [[325-apostolic-prayer#Meditation 2|325,2]];
 - every contemplative soul should be a worthy altar where prayer is offered and the sacrifice of self-immolation: [[326-apostolic-immolation#Meditation 1|326,1]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[24-the-interior-apostolate|24. The Interior apostolate]]
 - [[64-jesus-and-mankind|64. Jesus and Mankind]]
@@ -44,4 +44,4 @@ publish: true
 
 ## The Way of Perfection
 
-CONTEMPLATIVES. Used to designate only those whom God has brought to perfect contemplation, in whom he delights and to whom he reveals his secrets ([[tj-wop-chapter-32#^wop-ch32-12|32.12]]). God gives contemplatives trials that would be unendurable without the favors he gives them ([[tj-wop-chapter-18#^wop-ch18-1|18.1]]–[[tj-wop-chapter-18#^wop-ch18-2|2]]). They are courageous and determined to suffer ([[tj-wop-chapter-18#^wop-ch18-2|18.2]]). They must suffer as Christ did ([[tj-wop-chapter-18#^wop-ch18-5|18.5]]). Others should not give up trying to prepare themselves to be contemplatives, but leave the rest to the Lord ([[tj-wop-chapter-18#^wop-ch18-3|18.3]],[[tj-wop-chapter-18#^wop-ch18-6|6]]). The deceptions and illusions the devil brings on contemplatives are not few ([[tj-wop-chapter-40#^wop-ch40-4|40.4]]). Being a contemplative is not necessary for salvation ([[tj-wop-chapter-17#^wop-ch17-2|17.2]]). Only in the next world will we know the value of delights and raptures and visions and other favors from the Lord; having them is an uncertain matter ([[tj-wop-chapter-18#^wop-ch18-7|18.7]]–[[tj-wop-chapter-18#^wop-ch18-8|8]]). What is more certain is the contemplative's readiness to drink from the chalice ([[tj-wop-chapter-18#^wop-ch18-6|18.6]]; [[tj-wop-chapter-38#^wop-ch38-1|38.1]]).
+CONTEMPLATIVES. Used to designate only those whom God has brought to perfect contemplation, in whom he delights and to whom he reveals his secrets ([[chapter-32-tj-way-ccel|32.12]]). God gives contemplatives trials that would be unendurable without the favors he gives them ([[chapter-18-tj-way-ccel|18.1]]–[[chapter-18-tj-way-ccel|2]]). They are courageous and determined to suffer ([[chapter-18-tj-way-ccel|18.2]]). They must suffer as Christ did ([[chapter-18-tj-way-ccel|18.5]]). Others should not give up trying to prepare themselves to be contemplatives, but leave the rest to the Lord ([[chapter-18-tj-way-ccel|18.3]],[[chapter-18-tj-way-ccel|6]]). The deceptions and illusions the devil brings on contemplatives are not few ([[chapter-40-tj-way-ccel|40.4]]). Being a contemplative is not necessary for salvation ([[chapter-17-tj-way-ccel|17.2]]). Only in the next world will we know the value of delights and raptures and visions and other favors from the Lord; having them is an uncertain matter ([[chapter-18-tj-way-ccel|18.7]]–[[chapter-18-tj-way-ccel|8]]). What is more certain is the contemplative's readiness to drink from the chalice ([[chapter-18-tj-way-ccel|18.6]]; [[chapter-38-tj-way-ccel|38.1]]).

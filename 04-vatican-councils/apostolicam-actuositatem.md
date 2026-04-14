@@ -15,7 +15,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-10-26
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Decree on the Apostolate of Laity - Apostolicam Actuositatem
 abbreviation: aa
@@ -25,7 +25,7 @@ Source: [](https://www.vatican.va/archive/hist_councils/ii_vatican_council/docum
 
 # Apostolicam Actuositatem
 
-## Decree on The Apostolate Of The Laity Solemnly Promulgated by His Holiness Pope Paul VI on November 18 1965
+## Decree on the Apostolate of the Laity Solemnly Promulgated by His Holiness Pope Paul VI on November 18, 1965
 
 ## Introduction
 

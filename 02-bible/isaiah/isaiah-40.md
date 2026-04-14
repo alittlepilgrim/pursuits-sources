@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 40
 ---
@@ -279,3 +279,7 @@ g. (40:20) [Is 44:13].
 h. (40:22) [Ps 104:2].
 
 i. (40:26) [Ps 147:4] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

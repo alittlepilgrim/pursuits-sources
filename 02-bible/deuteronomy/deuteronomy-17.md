@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 17
 ---
@@ -105,3 +105,7 @@ n. (17:17) [[1-kings-10|1 Kgs 10]]:10 – [25]; [11:1] – [8]; [[nehemiah-13|Ne
 o. (17:18) [Dt 31:9], [24] – [26]; [Jos 8:32].
 
 p. (17:19] – [20) [Dt 5:32] – [6:3]; [2 Sm 7:12] – [16]; [1 Kgs 2:4]; [Ps 132:11] – [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

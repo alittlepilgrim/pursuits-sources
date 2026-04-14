@@ -4,13 +4,12 @@ title: Ratio Institutionis of Secular Order of Carmel
 author: Secular Order of Discalced Carmelites
 aliases:
   - 05-05-ratio
-  - Ratio Institutionis of Secular order of Carmel
   - Ratio Institutionis of Secular Order of Carmel
 tags:
   - carmel/legislation
   - type/legislation
 created: 2025-05-03
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 ---
 

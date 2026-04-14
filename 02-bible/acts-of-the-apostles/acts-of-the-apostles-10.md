@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 10
 ---
@@ -199,3 +199,7 @@ o. \[[10:42]\] [1:8]; [3:15]; [17:31]; ([[luke-24|Lk 24]]:48]; [Rom 14:9]; [2 Tm
 p. \[[10:44]\] [11:15]; [15:8].
 
 q. \[[10:47]\] [8:36].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

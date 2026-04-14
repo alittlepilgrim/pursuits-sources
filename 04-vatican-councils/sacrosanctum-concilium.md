@@ -5,7 +5,6 @@ author: Catholic Church
 source: vatican.va
 url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html
 aliases:
-  - 20250822-140445
   - Sacrosanctum Concilium
   - sacrosanctum-concilium
 tags:
@@ -13,7 +12,7 @@ tags:
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Constitution On The Sacred Liturgy Solemnly Promulgated By His Holiness Pope Paul VI On December 4 1963
 abbreviation: sc
@@ -21,7 +20,7 @@ abbreviation: sc
 
 # Sacrosanctum Concilium
 
-## Constitution On The Sacred Liturgy Solemnly Promulgated by His Holiness Pope Paul VI On December 4 1963
+## Constitution on the Sacred Liturgy Solemnly Promulgated by His Holiness Pope Paul VI on December 4, 1963
 
 # Introduction
 
@@ -75,7 +74,7 @@ Devotions proper to individual Churches also have a special dignity if they are 
 
 But these devotions should be so drawn up that they harmonize with the liturgical seasons, accord with the sacred liturgy, are in some fashion derived from it, and lead the people to it, since, in fact, the liturgy by its very nature far surpasses any of them.
 
-## II. the Promotion of Liturgical Instruction and Active Participation
+## II. The Promotion of Liturgical Instruction and Active Participation
 
 14\. Mother Church earnestly desires that all the faithful should be led to that fully conscious, and active participation in liturgical celebrations which is demanded by the very nature of the liturgy. Such participation by the Christian people as "a chosen race, a royal priesthood, a holy nation, a redeemed people ([[1-peter-02#^1-peter-02-9|1 Pet. 2:9;]] cf. 2:4-5), is their right and duty by reason of their baptism. ^sc-14
 
@@ -95,7 +94,7 @@ Yet it would be futile to entertain any hopes of realizing this unless the pasto
 
 20\. Transmissions of the sacred rites by radio and television shall be done with discretion and dignity, under the leadership and direction of a suitable person appointed for this office by the bishops. This is especially important when the service to be broadcast is the Mass. ^sc-20
 
-## III. the Reform of the Sacred Liturgy
+## III. The Reform of the Sacred Liturgy
 
 21\. In order that the Christian people may more certainly derive an abundance of graces from the sacred liturgy, holy Mother Church desires to undertake with great care a general restoration of the liturgy itself. For the liturgy is made up of immutable elements divinely instituted, and of elements subject to change. These not only may but ought to be changed with the passage of time if they have suffered from the intrusion of anything out of harmony with the inner nature of the liturgy or have become unsuited to it. ^sc-21
 

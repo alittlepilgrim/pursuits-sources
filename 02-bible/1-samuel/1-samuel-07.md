@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 7
 ---
@@ -83,3 +83,7 @@ f. (7:10) ([[exodus-09|Ex 9]]:23]; [2 Sm 22:14].
 g. (7:13) [Jgs 3:20]; [8:28]; [11:33].
 
 h. (7:17) [1 Sm 9:12]; [14:35].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

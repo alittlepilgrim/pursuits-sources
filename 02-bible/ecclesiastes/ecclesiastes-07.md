@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ecclesiastes, Chapter 7
 ---
@@ -133,3 +133,7 @@ d. (20]\] [Jb 9:2]; [1 Kgs 8:46]; ([[romans-03|Rom 3]]:23].
 e. (25]\] [Eccl 1:17].
 
 f. (26]\] [Prv 5:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

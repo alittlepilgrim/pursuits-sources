@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 25
 ---
@@ -91,3 +91,7 @@ e. (25:13] – [16) [Lv 19:35] – [36]; [Prv 16:11]; [20:23]; [Ez 45:10]; [[hos
 f. (25:16) [Dt 7:25] – [26].
 
 g. (25:17] – [19) ([[exodus-17|Ex 17]]:8] – [16]; [1 Sm 15:2] – [33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

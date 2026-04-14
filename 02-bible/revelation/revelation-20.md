@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 20
 ---
@@ -91,3 +91,7 @@ f. (20:11) [2 Pt 3:7], [10], [12].
 g. (20:12) ([[romans-02|Rom 2]]:6].
 
 h. (20:14) [1 Cor 15:26], [54] – [55].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

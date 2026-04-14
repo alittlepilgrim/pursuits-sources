@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/philippians/0
 aliases:
   - philippians-00
   - Philippians, the Letter to the Philippians
-  - Philippians, The Letter To The Philippians
 tags:
   - bible/book
   - bible/new-testament
   - bible/philippians
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Philippians, the Letter to the Philippians
 ---
@@ -45,3 +44,7 @@ The principal divisions of the Letter to the Philippians are the following:
 6. Instructions for the Community ([4:1] – [9])
 7. Gratitude for the Philippians’ Generosity ([4:10] – [20])
 8. Farewell ([4:21] – [23])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

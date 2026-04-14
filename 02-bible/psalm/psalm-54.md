@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 54
 ---
@@ -73,3 +73,7 @@ c. (54:6) [Ps 118:7].
 d. (54:7) [Ps 143:12].
 
 e. (54:9) [Ps 59:11]; [91:8]; [92:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 2
 ---
@@ -261,3 +261,7 @@ i. (2:17) [Jos 7:24] – [26].
 j. (2:20) [Gn 9:8] – [11]; [Ez 34:25]; [Jb 5:23].
 
 k. (2:25) [Rom 9:25] – [26]; [1 Pt 2:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 7
 ---
@@ -93,3 +93,7 @@ d. (7:12) [Jgs 6:3].
 e. (7:23) [Jgs 6:35].
 
 f. (7:25) [Ps 83:12]; [[isaiah-10|Is 10]]:26.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

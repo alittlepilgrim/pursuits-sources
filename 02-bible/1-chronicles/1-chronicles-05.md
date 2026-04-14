@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 5
 ---
@@ -151,3 +151,7 @@ o. \[[5:27]\] [1 Chr 6:1]; [23:6]; [Gn 46:11]; ([[exodus-06|Ex 6]]:16]; [Nm 26:5
 p. \[[5:28]\] [1 Chr 6:3]; ([[exodus-06|Ex 6]]:18].
 
 q. \[[5:29]\] ([[exodus-06|Ex 6]]:20]; [Nm 26:59] – [60].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

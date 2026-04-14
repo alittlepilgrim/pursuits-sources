@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 6
 ---
@@ -101,3 +101,7 @@ g. (6:24) [Jos 8:2].
 h. (6:26) [Jos 9:23]; [[1-kings-16|1 Kgs 16]]:34.
 
 i. (6:27) [Jos 1:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

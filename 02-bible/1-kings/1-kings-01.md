@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 1
 ---
@@ -157,3 +157,7 @@ description: 1 Kings, Chapter 1
 \* (1:50) Horns of the altar: the protuberances on each of the four corners of the altar (([[exodus-27|Ex 27]]:2]; [29:12]). By grasping the horns of the altar Adonijah is claiming asylum (([[exodus-21|Ex 21]]:13] – [14]; [1 Kgs 2:28]).
 
 a. (1:5) [2 Sm 15:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

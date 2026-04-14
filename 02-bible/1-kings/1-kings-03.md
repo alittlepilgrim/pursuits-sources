@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 3
 ---
@@ -89,3 +89,7 @@ description: 1 Kings, Chapter 3
 a. (3:1]\] [1 Kgs 7:8]; [9:24].
 
 b. (3:13]\] [Eccl 1:12] – [13]; ([[wisdom-07|Wis 7]]:7] – [11]; ([[matthew-06|Mt 6]]:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

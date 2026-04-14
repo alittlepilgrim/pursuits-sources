@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 8
 ---
@@ -119,3 +119,7 @@ it is for the distant future.”
 \* (8:17) The end time: the time when God sits in judgment on the wicked (v. [19]).
 
 \* (8:20) The Medes and Persians: the Medes had been allies of the Babylonians in destroying the Assyrian empire (late seventh century B.C.), and Cyrus the Persian defeated the Medes en route to conquering the Babylonians. The Book of Daniel, however, treats the Medes and Persians as a dual kingdom; cf. also [5:28]; [6:9]; and note on [6:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

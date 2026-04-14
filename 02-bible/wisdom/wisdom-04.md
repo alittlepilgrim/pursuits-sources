@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 4
 ---
@@ -161,3 +161,7 @@ k. (4:18) [Ps 37:13].
 l. (4:19) [Neh 1:10] LXX; ([[psalm-18|Ps 18]]:8]; [[isaiah-14|Is 14]]:19; [Jer 23:39] – [40].
 
 m. (4:19) [2 Mc 3:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

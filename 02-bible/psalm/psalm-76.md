@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 76
 ---
@@ -95,3 +95,7 @@ c. (76:6) [[2-kings-19|2 Kgs 19]]:35; [Jer 51:39]; [Na 3:18].
 d. (76:8) [Dt 7:21]; [1 Sm 6:20]; [Na 1:6]; [Mal 3:2].
 
 e. (76:12) [Nm 30:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

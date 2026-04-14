@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Thessalonians, Chapter 1
 ---
@@ -65,3 +65,7 @@ f. (1:8) ([[romans-01|Rom 1]]:8].
 g. (1:9) ([[acts-of-the-apostles-14|Acts 14]]:15]; [Gal 4:8] / [4:5].
 
 h. (1:10) ([[romans-02|Rom 2]]:1] – [16]; [5:9]; [13:4] / [5:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

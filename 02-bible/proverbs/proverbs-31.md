@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 31
 ---
@@ -183,3 +183,7 @@ The first section, vv. [3] – [5], warns against abuse of sex and alcohol (wine
 \* (31:30) The true charm of this woman is her religious spirit, for she fears the Lord; cf. note on [1:7].
 
 a. (31:10) [Prv 12:4]; [Sir 26:1] – [4], [13] – [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

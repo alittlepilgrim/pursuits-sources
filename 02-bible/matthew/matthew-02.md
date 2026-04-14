@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 2
 ---
@@ -125,3 +125,7 @@ e. (2:18) [Jer 31:15].
 f. (2:20) ([[exodus-04|Ex 4]]:19].
 
 g. (2:23) [13:54]; ([[mark-01|Mk 1]]:9]; ([[luke-02|Lk 2]]:39]; [4:34]; [Jn 19:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 19
 ---
@@ -179,3 +179,7 @@ m. (19:21) [Zec 14:16], [18].
 n. (19:22) [Hos 6:1].
 
 o. (19:24) [[genesis-12|Gen 12]]:2; [Zec 8:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

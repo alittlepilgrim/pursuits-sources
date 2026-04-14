@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 25
 ---
@@ -189,3 +189,7 @@ o. (25:39) ([[exodus-21|Ex 21]]:2] – [11]; [Dt 15:12] – [18]; [1 Kgs 9:22]; 
 p. (25:44) [Dt 21:10] – [14].
 
 q. (25:46) [[isaiah-14|Is 14]]:1 – [2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

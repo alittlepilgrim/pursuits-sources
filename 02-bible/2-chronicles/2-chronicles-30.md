@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 30
 ---
@@ -89,3 +89,7 @@ d. (30:9) [1 Kgs 8:50].
 e. (30:14) 2 Chr 28:24 – 25.
 
 f. (30:17) 2 Chr 35:6.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

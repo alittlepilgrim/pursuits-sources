@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2023 - Study Guide 2 the Smile of the Virgin (Ms A, 29v-31v)
   - theresian-anniversaries-2023-study-guide-02
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

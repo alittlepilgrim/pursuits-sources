@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 13
 ---
@@ -203,3 +203,7 @@ h. (13:12) ([[baruch-04|Bar 4]]:31] – [32].
 i. (13:14) [Ps 122:6]; [Is 66:10].
 
 j. (13:16) [Tb 14:5]; [Is 54:11] – [13]; [62:2]; [Rv 21:10] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

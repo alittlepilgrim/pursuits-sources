@@ -12,17 +12,17 @@ tags:
   - type/ocd-proper
 celebration_day: 09-11
 created: 2025-07-31
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: OCDS Propers 09-11, Blessed Maria of Jesus Lopez Rivas, Virgin, Optional Memorial
 ---
 
 # September 11, Blessed Maria of Jesus Lopez Rivas
 
-> **September 11**
-> **BLESSED MARY OF JESUS** **LÓPEZ RIVAS** - [[09-11-blessed-maria-lopez-rivas]]
-> **Virgin**
-> **Optional Memorial**
+> September 11
+> BLESSED MARY OF JESUS LÓPEZ RIVAS
+> Virgin
+> Optional Memorial
 
 *In houses in Spain: Memorial*
 
@@ -30,7 +30,9 @@ Born in 1560 at Tartanedo (Spain) Maria López de Rivas took the Discalced Carme
 
 *From the Common of Virgins*
 
-**Prayer**
+- [[09-11-blessed-maria-lopez-rivas]]
+
+## Prayer
 
 Lord,
 

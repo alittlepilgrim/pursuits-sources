@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 29
 ---
@@ -215,3 +215,7 @@ i. (29:18) [Is 26:7] – [14].
 j. (29:19) [[isaiah-19|Is 19]]:4.
 
 k. (29:21) [Ps 132:17]; ([[luke-01|Lk 1]]:69].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 12
 ---
@@ -149,3 +149,7 @@ f. (12:14) [Jer 1:10]; ([[revelation-03|Rv 3]]:7].
 g. (12:15) [Gn 7:11] – [24].
 
 h. (12:21) [Ps 107:40].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

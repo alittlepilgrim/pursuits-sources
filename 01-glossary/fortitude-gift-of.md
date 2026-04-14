@@ -11,7 +11,7 @@ tags:
   - term/fortitude-gift-of
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -24,7 +24,7 @@ publish: true
 - corresponds to the beatitude: blessed are they that hunger: 303,1;
 - by the practice of the virtue of — we dispose ourselves to receive the gift 302,2.
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[302-the-gift-of-fortitude|302. The Gift of Fortitude]]
 - [[303-blessed-are-they-that-hunger-and-thirst-after-justice|303. Blessed Are They that Hunger and Thirst after Justice]]

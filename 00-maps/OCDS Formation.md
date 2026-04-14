@@ -7,10 +7,10 @@ aliases:
   - 🎓 OCDS Formation — Map of Content
   - ocds-formation-moc
 tags:
-  - carmel/ocds
+  - carmel/formation
   - type/moc
 created: 2025-11-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 permalink: /formation
 description: Navigate Aspirancy, Formation I/II, and Ongoing Formation resources.

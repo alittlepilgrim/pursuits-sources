@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 39
 ---
@@ -51,3 +51,7 @@ b. (39:2) [2 Chr 32:25] – [31].
 c. (39:6) [[2-kings-24|2 Kgs 24]]:13; [25:13] – [17].
 
 d. (39:7) [Dn 1:3] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

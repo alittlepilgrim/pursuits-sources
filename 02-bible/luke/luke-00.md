@@ -3,17 +3,15 @@ type: bible
 title: Luke, The Gospel According To Luke
 url: https://bible.usccb.org/bible/luke/0
 aliases:
-  - 20250730-160628
   - luke-00
   - Luke, the Gospel according to Luke
-  - Luke, The Gospel According To Luke
 tags:
   - bible/book
   - bible/luke
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, the Gospel According to Luke
 ---
@@ -30,7 +28,7 @@ Luke’s story of Jesus and the church is dominated by a historical perspective.
 
 The prominence given to the period of the church in the story has important consequences for Luke’s interpretation of the teachings of Jesus. By presenting the time of the church as a distinct phase of salvation history, Luke accordingly shifts the early Christian emphasis away from the expectation of an imminent parousia to the day-to-day concerns of the Christian community in the world. He does this in the gospel by regularly emphasizing the words “each day” (([[luke-09|Lk 9]]:23]; cf. ([[mark-08|Mk 8]]:34]; ([[luke-11|Lk 11]]:3]; [16:19]; [19:47]) in the sayings of Jesus. Although Luke still believes the parousia to be a reality that will come unexpectedly (([[luke-12|Lk 12]]:38], [45] – [46]), he is more concerned with presenting the words and deeds of Jesus as guides for the conduct of Christian disciples in the interim period between the ascension and the parousia and with presenting Jesus himself as the model of Christian life and piety.
 
-Throughout the gospel, Luke calls upon the Christian disciple to identify with the master Jesus, who is caring and tender toward the poor and lowly, the outcast, the sinner, and the afflicted, toward all those who recognize their dependence on God (([[luke-04| [[luke-04|Lk 4]]:]]:18]; [6:20] – [23]; [7:36] – [50]; [14:12] – [14]; [15:1] – [32]; [16:19] – [31]; [18:9] – [14]; [19:1] – [10]; [21:1] – [4]), but who is severe toward the proud and self-righteous, and particularly toward those who place their material wealth before the service of God and his people (([[luke-06| [[luke-06|Lk 6]]:]]:24] – [26]; [12:13] – [21]; [16:13] – [15], [19] – [31]; [18:9] – [14], [15] – [25]; cf. ([[luke-01|Lk 1]]:50] – [53]). No gospel writer is more concerned than Luke with the mercy and compassion of Jesus (([[luke-07|Lk 7]]:41] – [43]; [10:29] – [37]; [13:6] – [9]; [15:11] – [32]). No gospel writer is more concerned with the role of the Spirit in the life of Jesus and the Christian disciple (([[luke-01|Lk 1]]:35], [41]; [2:25] – [27]; [4:1], [14], [18]; [10:21]; [11:13]; [24:49]), with the importance of prayer (([[luke-03| [[luke-03|Lk 3]]:]]:21]; [5:16]; [6:12]; [9:28]; [11:1] – [13]; [18:1] – [8]), or with Jesus’ concern for women (([[luke-07|Lk 7]]:11] – [17], [36] – [50]; [8:2] – [3]; [10:38] – [42]). While Jesus calls all humanity to repent (([[luke-05| [[luke-05|Lk 5]]:]]:32]; [10:13]; [11:32]; [13:1] – [5]; [15:7] – [10]; [16:30]; [17:3] – [4]; [24:47]), he is particularly demanding of those who would be his disciples. Of them he demands absolute and total detachment from family and material possessions (([[luke-09|Lk 9]]:57] – [62]; [12:32] – [34]; [14:25] – [35]). To all who respond in faith and repentance to the word Jesus preaches, he brings salvation (([[luke-02|Lk 2]]:30] – [32]; [3:6]; [7:50]; [8:48], [50]; [17:19]; [19:9]) and peace (([[luke-02|Lk 2]]:14]; [7:50]; [8:48]; [19:38], [42]) and life (([[luke-10|Lk 10]]:25] – [28]; [18:26] – [30]).
+Throughout the gospel, Luke calls upon the Christian disciple to identify with the master Jesus, who is caring and tender toward the poor and lowly, the outcast, the sinner, and the afflicted, toward all those who recognize their dependence on God (([[luke-04| [[luke-04|Lk 4]]:]]:18]; [6:20] – [23]; [7:36] – [50]; [14:12] – [14]; [15:1] – [32]; [16:19] – [31]; [18:9] – [14]; [19:1] – [10]; [21:1] – [4]), but who is severe toward the proud and self-righteous, and particularly toward those who place their material wealth before the service of God and his people (([[luke-06||Lk 6]]:24] – [26]; [12:13] – [21]; [16:13] – [15], [19] – [31]; [18:9] – [14], [15] – [25]; cf. ([[luke-01|Lk 1]]:50] – [53]). No gospel writer is more concerned than Luke with the mercy and compassion of Jesus (([[luke-07|Lk 7]]:41] – [43]; [10:29] – [37]; [13:6] – [9]; [15:11] – [32]). No gospel writer is more concerned with the role of the Spirit in the life of Jesus and the Christian disciple (([[luke-01|Lk 1]]:35], [41]; [2:25] – [27]; [4:1], [14], [18]; [10:21]; [11:13]; [24:49]), with the importance of prayer (([[luke-03| [[luke-03|Lk 3]]:]]:21]; [5:16]; [6:12]; [9:28]; [11:1] – [13]; [18:1] – [8]), or with Jesus’ concern for women (([[luke-07|Lk 7]]:11] – [17], [36] – [50]; [8:2] – [3]; [10:38] – [42]). While Jesus calls all humanity to repent (([[luke-05| [[luke-05|Lk 5]]:]]:32]; [10:13]; [11:32]; [13:1] – [5]; [15:7] – [10]; [16:30]; [17:3] – [4]; [24:47]), he is particularly demanding of those who would be his disciples. Of them he demands absolute and total detachment from family and material possessions (([[luke-09|Lk 9]]:57] – [62]; [12:32] – [34]; [14:25] – [35]). To all who respond in faith and repentance to the word Jesus preaches, he brings salvation (([[luke-02|Lk 2]]:30] – [32]; [3:6]; [7:50]; [8:48], [50]; [17:19]; [19:9]) and peace (([[luke-02|Lk 2]]:14]; [7:50]; [8:48]; [19:38], [42]) and life (([[luke-10|Lk 10]]:25] – [28]; [18:26] – [30]).
 
 Early Christian tradition, from the late second century on, identifies the author of this gospel and of the Acts of the Apostles as Luke, a Syrian from Antioch, who is mentioned in the New Testament in [Col 4:14], [Phlm 24] and [2 Tm 4:11]. The prologue of the gospel makes it clear that Luke is not part of the first generation of Christian disciples but is himself dependent upon the traditions he received from those who were eyewitnesses and ministers of the word (([[luke-01|Lk 1]]:2]). His two-volume work marks him as someone who was highly literate both in the Old Testament traditions according to the Greek versions and in Hellenistic Greek writings.
 
@@ -48,3 +46,7 @@ The principal divisions of the Gospel according to Luke are the following:
 6. The Teaching Ministry in Jerusalem ([19:28] – [21:38])
 7. The Passion Narrative ([22:1] – [23:56])
 8. The Resurrection Narrative ([24:1] – [53])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

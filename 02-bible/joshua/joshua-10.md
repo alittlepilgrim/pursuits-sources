@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 10
 ---
@@ -149,3 +149,7 @@ g. (10:26] – [27) [Jos 8:29]; [Dt 21:22] – [23].
 h. (10:28) [Jos 6:21].
 
 i. (10:40) [Dt 20:16] – [17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

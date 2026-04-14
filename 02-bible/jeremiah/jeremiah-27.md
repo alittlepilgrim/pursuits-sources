@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 27
 ---
@@ -99,3 +99,7 @@ k. (27:15) [Jer 20:6].
 l. (27:16) [Jer 28:3]; [2 Chr 36:7], [10], [18].
 
 m. (27:21] – [22) [2 Kgs 25:13] – [17]; [2 Chr 36:18], [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

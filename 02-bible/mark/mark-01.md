@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 1
 ---
@@ -203,3 +203,7 @@ p. (1:41) [5:30].
 q. (1:42) ([[luke-17|Lk 17]]:14].
 
 r. (1:44) [Lv 14:2] – [32].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

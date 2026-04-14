@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 1
 ---
@@ -97,3 +97,7 @@ c. (1:8] – [10) ([[acts-of-the-apostles-07|Acts 7]]:18] – [19].
 d. (1:11) [Dt 26:6].
 
 e. (1:22) ([[acts-of-the-apostles-07|Acts 7]]:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

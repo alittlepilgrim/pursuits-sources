@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/ezekiel/0
 aliases:
   - ezekiel-00
   - Ezekiel, the Book of Ezekiel
-  - Ezekiel, The Book of Ezekiel
 tags:
   - bible/book
   - bible/ezekiel
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, the Book of Ezekiel
 ---
@@ -86,3 +85,7 @@ The Book of Ezekiel has the following divisions:
 - [[ezekiel-46|Ezekiel, Chapter 46]]
 - [[ezekiel-47|Ezekiel, Chapter 47]]
 - [[ezekiel-48|Ezekiel, Chapter 48]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

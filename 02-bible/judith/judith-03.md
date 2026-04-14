@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 3
 ---
@@ -49,3 +49,7 @@ description: Judith, Chapter 3
 \* (3:10) Geba: location uncertain. Scythopolis, the Greek name for ancient Beth-shean ([Jos 17:11]), the only city in Judith given its Greek name, strategically guarded the eastern end of the Valley of Jezreel.
 
 a. (3:8) [Ex 34:13]; [[2-kings-18|2 Kgs 18]]:4; [23:14] – [15]; [2 Chr 14:2]; [17:6]; [31:1]; [34:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,14 +3,12 @@ type: legislation
 title: Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)
 author: Secular Order of Discalced Carmelites
 aliases:
-  - 05-03-constitutions
   - Constitutions of the Secular order of the Teresian Carmel (2003 and 2014)
-  - Constitutions of the Secular Order of the Teresian Carmel (2003 and 2014)
 tags:
   - carmel/legislation
   - type/legislation
 created: 2025-05-03
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 ---
 

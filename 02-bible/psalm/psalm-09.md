@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 9
 ---
@@ -147,3 +147,7 @@ e. (9:14) [Wis 16:13].
 f. (9:17) [Ps 35:8]; [Sir 27:26].
 
 g. (9:19) [Prv 23:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

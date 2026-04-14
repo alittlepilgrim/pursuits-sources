@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 42
 ---
@@ -197,3 +197,7 @@ i. (42:20) [Sir 39:19]; ([[wisdom-01|Wis 1]]:6] – [9].
 j. (42:21) ([[wisdom-09|Wis 9]]:13]; [Is 40:13]; [Rom 11:34]; ([[1-corinthians-02|1 Cor 2]]:11].
 
 k. (42:25) [Sir 33:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

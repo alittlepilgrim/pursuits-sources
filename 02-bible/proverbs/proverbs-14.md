@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 14
 ---
@@ -197,3 +197,7 @@ e. (14:29) [Prv 16:32]; [19:11]; [Jas 1:19].
 f. (14:31) [Prv 17:5].
 
 g. (14:33) [Prv 1:22]; [8:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

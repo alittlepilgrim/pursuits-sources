@@ -17,6 +17,26 @@ publish: true
 
 # Joseph (St.)
 
+## Ignatius Catholic Study Bible
+
+**Joseph**
+
+Angelic communication with Joseph: Mt 1:20; 2:13, 19
+
+Betrothed to Mary before the conception of Jesus: Mt 1:18; Lk 1:27
+
+Carpenter (Greek, *tekton*): Mt 13:55
+
+Descendant of David: Mt 1:20; Lk 1:27
+
+Foster-father of Jesus: Mt 1:16; Lk 3:23; Jn 1:45; 6:42
+
+Just (righteous) man: Mt 1:19
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
+
 ## Divine Intimacy Meditations
 
 - His obedience, spirit of faith, and humility [[28-the-great-mystery-is-accomplished#Meditation 2|28,2]]; [[373-st-joseph-life-of-faith#Meditation 1|373,1]];

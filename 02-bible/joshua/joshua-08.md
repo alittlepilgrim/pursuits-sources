@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 8
 ---
@@ -123,3 +123,7 @@ k. (8:33) [Jos 3:3]; [Dt 11:27]; [31:9], [12].
 l. (8:34) [Dt 28:2] – [68]; [30:19]; [31:11]; [Neh 8:2] – [3].
 
 m. (8:35) [Dt 31:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

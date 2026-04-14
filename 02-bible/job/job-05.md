@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 5
 ---
@@ -151,3 +151,7 @@ b. (5:11) [1 Sm 2:7] – [8]; [Ps 113:7]; ([[luke-01|Lk 1]]:52].
 c. (5:13) ([[1-corinthians-03|1 Cor 3]]:19].
 
 d. (5:18) [Hos 6:1] – [2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

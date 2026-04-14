@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 23
 ---
@@ -75,3 +75,7 @@ g. (23:12) [Ex 34:16]; [Dt 7:3].
 h. (23:13) [Nm 33:55].
 
 i. (23:15) [Lv 26:14] – [39]; [Dt 28:15] – [68].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

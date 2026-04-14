@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 145
 ---
@@ -141,3 +141,7 @@ m. (145:18) [Dt 4:7]; [Is 55:6]; [58:9].
 n. (145:19) [Ps 34:18].
 
 o. (145:20) [Jgs 5:31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

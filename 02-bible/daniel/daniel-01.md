@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 1
 ---
@@ -81,3 +81,7 @@ a. (1:1) [[2-kings-24|2 Kgs 24]]:1; [2 Chr 36:6]; [Jer 25:1].
 b. (1:2) [Dn 5:2]; [2 Chr 36:7]; [[genesis-10|Gen 10]]:10.
 
 c. (1:21) [Dn 6:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

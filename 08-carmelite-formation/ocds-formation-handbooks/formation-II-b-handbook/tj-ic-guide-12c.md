@@ -13,14 +13,14 @@ tags:
   - saint/teresa-of-avila
   - type/study-guide
 created: 2025-06-23
-modified: 2026-04-06
+modified: 2026-04-08
 publish: false
 ---
 
 # Interior Castle Handbook Special Session
 
 > [!NOTE]
-> Interior Castle Handbook Special Session with the Formation Director for Candidates in Their Third Year of Formation Ii: Called to Holiness — the Definitive Promise in the Secular order of the Discalced Carmelites
+> Interior Castle Handbook Special Session with the Formation Director for Candidates in Their Third Year of Formation Ii: Called to Holiness — The Definitive Promise in the Secular order of the Discalced Carmelites
 
 **Required Reading:** OCDS Constitutions, Articles 11-16; Ratio, 59-93; Ritual for the Discalced Carmelite Secular Order, sections applicable to the ceremony to be used.
 

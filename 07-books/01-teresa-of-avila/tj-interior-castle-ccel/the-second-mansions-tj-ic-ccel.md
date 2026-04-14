@@ -9,7 +9,7 @@ tags:
   - book/interior-castle
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-09
 publish: true
 description: The interior castle by St. Teresa of Ávila.
 ---
@@ -42,7 +42,7 @@ description: The interior castle by St. Teresa of Ávila.
    19. You may think, that if it is so very injurious to desist, it would have been better never to have begun, and to have remained outside the castle. But, as I began by saying, and as God Himself declares: He that loves danger shall perish by it,' [81] and the door by which we must enter this castle is prayer. Remember, we must get to heaven, and it would be madness to think we could do so without sometimes retiring into our souls so as to know ourselves, or thinking of our failings and of what we owe to God, or frequently imploring His mercy. Our Lord also says, No man cometh to the Father but by Me' [82] (I am not sure whether this quotation is correct, but I think so), and, He that seeth Me seeth the Father also.' [83]
    20. If we never look up at Him and reflect on what we owe Him for having died for us, I do not understand how we can know Him, or perform good deeds in His service. What value is there in faith without works? and what are they worth if they are not united to the merits of Jesus Christ, our only good? What would incite us to love our Lord unless we thought of Him? May He give us grace to understand how much we cost Him; that the servant is not above his lord' [84]; that we must toil for Him if we would enjoy His glory; and prayer is a necessity to prevent us from constantly falling into temptation. [85]
 
-   [64] [[tj-life-ccel|Life]], ch. xi-xiii. Way of Perf. ch. xx.-xxix.
+   [64] [[tj-life-ccel-toc|Life]], ch. xi-xiii. Way of Perf. ch. xx.-xxix.
 
    [65] 'How many, thinking to live long, have been deceived and
 
@@ -68,7 +68,7 @@ description: The interior castle by St. Teresa of Ávila.
 
    porci manducabant.'
 
-   [67] [[tj-life-ccel|Life]], ch. vii. 33-37; xvi. 1 2; XXX. 6. Way of Perfection, ch. vi.
+   [67] [[tj-life-ccel-toc|Life]], ch. vii. 33-37; xvi. 1 2; XXX. 6. Way of Perfection, ch. vi.
 
    1; Vii. 4.
 
@@ -76,7 +76,7 @@ description: The interior castle by St. Teresa of Ávila.
 
    solent canes lambere, separabis eos seorsum.'
 
-   [69] [[tj-life-ccel|Life]], ch. xi 16.
+   [69] [[tj-life-ccel-toc|Life]], ch. xi 16.
 
    [70] St. Matt. vii. 26, 27: Qui ædificavit domum suam super arenam..
 
@@ -86,7 +86,7 @@ description: The interior castle by St. Teresa of Ávila.
 
    ch. x. 4.
 
-   [72] [[tj-life-ccel|Life]], ch. xii. 5.
+   [72] [[tj-life-ccel-toc|Life]], ch. xii. 5.
 
    [73] Way of Perf. ch. xvii. 6; xxiii. 1.
 
@@ -102,7 +102,7 @@ description: The interior castle by St. Teresa of Ávila.
 
    [77] St. Luke xxiv. 36. St. John xx. 19.
 
-   [78] [[tj-life-ccel|Life]], ch. xi. and xix. 8. Way of Perfection, ch. xxiii. 3.
+   [78] [[tj-life-ccel-toc|Life]], ch. xi. and xix. 8. Way of Perfection, ch. xxiii. 3.
 
    [79] Way of Perf. ch. xix. 3.
 

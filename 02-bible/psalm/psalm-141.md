@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 141
 ---
@@ -81,3 +81,7 @@ c. (141:5) [Prv 9:8]; [25:12].
 d. (141:8) ([[psalm-25|Ps 25]]:15]; [123:1] – [2].
 
 e. (141:9) [Ps 142:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

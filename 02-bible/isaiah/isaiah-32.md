@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 32
 ---
@@ -181,3 +181,7 @@ o. (32:18) [Jer 23:6]; [Mi 4:4].
 p. (32:19) [[isaiah-10|Is 10]]:33 – [34]; [26:5].
 
 q. (32:20) [Is 7:25]; [30:18], [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: matthew-chapter 14
 ---
@@ -149,3 +149,7 @@ k. (14:33) [16:16].
 l. (14:34] – [36) ([[mark-06|Mk 6]]:53] – [56].
 
 m. (14:36) [9:20] – [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

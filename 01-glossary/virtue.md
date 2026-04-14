@@ -8,7 +8,7 @@ tags:
   - term/virtue
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 description: virtue. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -54,6 +54,6 @@ An habitual and firm disposition to do the good. The moral virtues are acquired 
 - [[298-spiritual-progress|298. Spiritual Progress]]
 - [[302-the-gift-of-fortitude|302. The Gift of Fortitude]]
 
-### Compendium on Social Doctrine
+## Compendium of Social Doctrine
 
 ![[sd-10-index-v#Virtue]]

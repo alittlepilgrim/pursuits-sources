@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 11
 ---
@@ -101,3 +101,7 @@ e. (11:15) [Ez 34:1] – [10].
 f. (11:16) [Is 42:3]; ([[matthew-12|Mt 12]]:20].
 
 g. (11:17) [Jer 23:1]; [Jn 10:12] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

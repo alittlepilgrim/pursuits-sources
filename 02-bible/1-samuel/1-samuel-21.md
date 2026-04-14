@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 21
 ---
@@ -76,7 +76,7 @@ a. (21:2) [1 Sm 16:4]; [[isaiah-10|Is 10]]:32; ([[mark-02|Mk 2]]:26].
 
 b. (21:4) [Lv 24:5], [9].
 
-c. (21:7) [Lv 24:5] – [9]; ([[matthew-12|Mt 12]]:3] – [4]; ([[mark-02|Mk 2]]:26]; ([[luke-06| [[luke-06|Lk 6]]:]]:3] – [5].
+c. (21:7) [Lv 24:5] – [9]; ([[matthew-12|Mt 12]]:3] – [4]; ([[mark-02|Mk 2]]:26]; ([[luke-06||Lk 6]]:3] – [5].
 
 d. (21:8) [1 Sm 22:9].
 
@@ -85,3 +85,7 @@ e. (21:10) [1 Sm 17:51], [54].
 f. (21:11) [1 Sm 27:2]; [29:5].
 
 g. (21:12) [1 Sm 18:7]; [29:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

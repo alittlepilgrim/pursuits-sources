@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 13
 ---
@@ -101,3 +101,7 @@ i. (13:15) [Dn 3:5] – [7], [15].
 j. (13:16) [14:9]; [16:2]; [19:20]; [20:4].
 
 k. (13:18) [17:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

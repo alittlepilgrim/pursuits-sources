@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 9
 ---
@@ -138,7 +138,7 @@ description: Acts of the Apostles, Chapter 9
 
 \* \[[9:31] – [43]\] In the context of the period of peace enjoyed by the community through the cessation of Paul’s activities against it, Luke introduces two traditions concerning the miraculous power exercised by Peter as he was making a tour of places where the Christian message had already been preached. The towns of Lydda, Sharon, and Joppa were populated by both Jews and Gentiles and their Christian communities may well have been mixed.
 
-\* \[[9:36]\] Tabitha (Dorcas), respectively the Aramaic and Greek words for “gazelle,” exemplifies the right attitude toward material possessions expressed by Jesus in the Lucan Gospel (([[luke-06| [[luke-06|Lk 6]]:]]:30]; [11:41]; [12:33]; [18:22]; [19:8]).
+\* \[[9:36]\] Tabitha (Dorcas), respectively the Aramaic and Greek words for “gazelle,” exemplifies the right attitude toward material possessions expressed by Jesus in the Lucan Gospel (([[luke-06||Lk 6]]:30]; [11:41]; [12:33]; [18:22]; [19:8]).
 
 \* \[[9:43]\] The fact that Peter lodged with a tanner would have been significant to both the Gentile and Jewish Christians, for Judaism considered the tanning occupation unclean.
 
@@ -177,3 +177,7 @@ p. \[[9:30]\] [11:25].
 q. \[[9:40]\] ([[mark-05|Mk 5]]:40] – [41].
 
 r. \[[9:43]\] [10:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

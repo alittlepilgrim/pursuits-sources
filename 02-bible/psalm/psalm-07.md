@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 7
 ---
@@ -143,3 +143,7 @@ h. (7:15) [Jb 15:35]; [Is 59:4].
 i. (7:16) ([[psalm-09|Ps 9]]:16]; [35:8]; [57:7]; [Prv 26:27]; [Eccl 10:8]; [Sir 27:26].
 
 j. (7:18) ([[psalm-18|Ps 18]]:50]; [30:5]; [135:3]; [146:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

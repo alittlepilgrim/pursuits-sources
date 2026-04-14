@@ -3,7 +3,6 @@ type: glossary
 title: Pride
 author:
 aliases:
-  - 20250720-2128
   - pride
   - Pride
 tags:
@@ -13,7 +12,7 @@ tags:
   - term/pride
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 ---
 
@@ -22,6 +21,18 @@ publish: true
 ## Catechism of the Catholic Church
 
 One of the seven capital sins. Pride is undue self-esteem or self-love, which seeks attention and honor and sets oneself in competition with God ([[3.1.1.8.p6d#^ccc-1866|1866]]).
+
+## Ignatius Catholic Study Bible
+
+**Pride**
+
+Appropriate pride: Rom 15:17; 1 Cor 15:31; 2 Cor 1:14; 5:12; 7:4, 14; Phil 2:16; Heb 3:6
+
+Sinful pride: Mk 7:21-22; Lk 1:51; Rom 11:20; 2 Cor 10:5; 2 Tim 3:2; Jas 4:6; 1 Jn 2:16
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 
@@ -38,7 +49,7 @@ One of the seven capital sins. Pride is undue self-esteem or self-love, which se
 - imperfections arising from subtle spiritual —: [[346-the-way-of-union#Meditation 2|346,2]].
 - See: [[love-of-self|Love of Self]], [[haughtiness|Haughtiness]].
 
----
+### Source
 
 - [[62-jesus-and-the-glory-of-the-father|62. Jesus and the Glory of the Father]]
 - [[98-the-great-combat|98. The Great Combat]]

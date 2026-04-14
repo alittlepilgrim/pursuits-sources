@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 22
 ---
@@ -95,3 +95,7 @@ f. (22:9] – [10) [1 Sm 21:2] – [10]; [Ps 52].
 g. (22:17) [1 Sm 2:31], [33]; [21:7].
 
 h. (22:20) [1 Sm 23:6]; [30:7]; [2 Sm 20:25]; [1 Kgs 2:26] – [27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

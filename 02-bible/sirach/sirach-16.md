@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 16
 ---
@@ -193,3 +193,7 @@ f. (16:21) [[sirach-23|Sir 23]]:18 – [20].
 g. (16:26) [Gn 1:3] – [30].
 
 h. (16:29) [Gn 1:11] – [31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

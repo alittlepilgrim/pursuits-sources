@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 94
 ---
@@ -157,3 +157,7 @@ m. (94:18) [Ps 145:14].
 n. (94:23) [Ps 107:42].
 
 o. (94:23) ([[psalm-07|Ps 7]]:16]; [9:16]; [35:8]; [57:7]; [Prv 26:27]; [Eccl 10:8]; [Sir 27:26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -9,7 +9,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Decree on the Catholic Churches of the eastern rite - Orientalium ecclesiarium
 abbreviation: oe
@@ -17,7 +17,7 @@ abbreviation: oe
 
 # Orientalium Ecclesiarum
 
-## Decree On The Catholic Churches Of The Eastern Rite Solemnly Promulgated by His Holiness Pope Paul VI On November 21 1964
+## Decree on the Catholic Churches of the Eastern Rite Solemnly Promulgated by His Holiness Pope Paul VI on November 21, 1964
 
 ## Preamble
 
@@ -35,7 +35,7 @@ All clerics and those aspiring to sacred Orders should be instructed in the rite
 
 Finally, each and every Catholic, as also the baptized of every non-Catholic church or denomination who enters into the fullness of the Catholic communion, must retain his own rite wherever he is, must cherish it and observe it to the best of his ability <sup>([[#^oe-fn-4|4]])</sup>, without prejudice to the right in special cases of persons, communities or areas, to have recourse to the Apostolic See, which, as the supreme judge of interchurch relations, will, acting itself or through other authorities, meet the needs of the occasion in an ecumenical spirit, by the issuance of opportune directives, decrees or rescripts.
 
-## Preservation Of The Spiritual Heritage Of The Eastern Churches
+## Preservation of the Spiritual Heritage of the Eastern Churches
 
 5\. History, tradition and abundant ecclesiastical institutions bear outstanding witness to the great merit owing to the Eastern Churches by the universal Church.<sup>([[#^oe-fn-5|5]])</sup> The Sacred Council, therefore, not only accords to this ecclesiastical and spiritual heritage the high regard which is its due and rightful praise, but also unhesitatingly looks on it as the heritage of the universal Church. For this reason it solemnly declares that the Churches of the East, as much as those of the West, have a full right and are in duty bound to rule themselves, each in accordance with its own established disciplines, since all these are praiseworthy by reason of their venerable antiquity, more harmonious with the character of their faithful and more suited to the promotion of the good of souls. ^oe-5
 
@@ -65,7 +65,7 @@ The patriarchs with their synods are the highest authority for all business of t
 
 11\. Seeing that the patriarchal office in the Eastern Church is a traditional form of government, the Sacred Ecumenical Council ardently desires that new patriarchates should be erected where there is need, to be established either by an ecumenical council or by the Roman Pontiff.<sup>([[#^oe-fn-13|13]])</sup> ^oe-11
 
-## The Discipline Of The Sacraments
+## The Discipline of the Sacraments
 
 12\. The Sacred Ecumenical Council confirms and approves the ancient discipline of the sacraments existing in the Oriental Churches, as also the ritual practices connected with their celebration and administration and ardently desires that this should be re-established if circumstances warrant it. ^oe-12
 
@@ -93,7 +93,7 @@ The patriarchs with their synods are the highest authority for all business of t
 
 23\. It belongs to the patriarch with his synod, or to the supreme authority of each church with the council of the hierarchs, to regulate the use of languages in the sacred liturgical functions and, after reference to the Apostolic See, of approving translations of texts into the vernacular.<sup>([[#^oe-fn-28|28]])</sup> ^oe-23
 
-## Relations with The Brethren Of The Separated Churches
+## Relations with the Brethren of the Separated Churches
 
 24\. The Eastern Churches in communion with the Apostolic See of Rome have a special duty of promoting the unity of all Christians, especially Eastern Christians, in accordance with the principles of the decree, "About Ecumenism," of this Sacred Council, by prayer in the first place, and by the example of their lives, by religious fidelity to the ancient Eastern traditions, by a greater knowledge of each other, by collaboration and a brotherly regard for objects and feelings.<sup>([[#^oe-fn-29|29]])</sup> ^oe-24
 

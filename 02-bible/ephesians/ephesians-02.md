@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ephesians, Chapter 2
 ---
@@ -127,3 +127,7 @@ r. (2:20) [Is 28:16]; [Rv 21:14].
 s. (2:21) ([[1-corinthians-03|1 Cor 3]]:16]; [Col 2:19].
 
 t. (2:22) [1 Pt 2:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

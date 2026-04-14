@@ -2,13 +2,12 @@
 type: glossary
 title: Sorrow
 aliases:
-  - 20251101-204643
   - Sorrow
 tags:
   - term/sorrow
   - type/term
 created: 2025-11-01
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 ---
 

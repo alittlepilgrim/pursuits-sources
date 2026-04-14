@@ -4,7 +4,6 @@ title: 1 Kings, The Books of Kings
 url: https://bible.usccb.org/bible/1kings/0
 aliases:
   - 1 Kings, the Books of Kings
-  - 1 Kings, The Books of Kings
   - 1-kings-00
 tags:
   - bible/1-kings
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, the Books of Kings
 ---
@@ -74,3 +73,7 @@ The Books of Kings may be divided as follows:
 - [[1-kings-20|1 Kings, Chapter 20]]
 - [[1-kings-21|1 Kings, Chapter 21]]
 - [[1-kings-22|1 Kings, Chapter 22]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

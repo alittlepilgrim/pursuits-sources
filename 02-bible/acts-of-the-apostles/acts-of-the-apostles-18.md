@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 18
 ---
@@ -119,3 +119,7 @@ e. \[[18:9] – [10]\] [Jer 1:8].
 f. \[[18:18]\] [21:24]; [Nm 6:18].
 
 g. \[[18:24]\] ([[1-corinthians-01|1 Cor 1]]:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

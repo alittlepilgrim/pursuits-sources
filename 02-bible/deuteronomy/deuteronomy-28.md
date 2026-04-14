@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 28
 ---
@@ -265,3 +265,7 @@ f. (28:62) [Dt 1:10]; [10:22]; [26:5]; [Jer 42:2].
 g. (28:63] – [67) [Dt 4:26] – [28]; [30:9]; [Lv 26:33] – [39].
 
 h. (28:68) [Jer 42] – [44]; [Hos 8:13]; [9:3], [6]; [11:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 2
 ---
@@ -203,3 +203,7 @@ p. (2:41) ([[exodus-12|Ex 12]]:24] – [27]; [23:15]; [Dt 16:1] – [8].
 q. (2:51) [2:19].
 
 r. (2:52) [1:80]; [2:40]; [1 Sm 2:26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

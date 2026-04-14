@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/numbers/0
 aliases:
   - numbers-00
   - Numbers, the Book of Numbers
-  - Numbers, The Book of Numbers
 tags:
   - bible/book
   - bible/numbers
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, the Book of Numbers
 ---
@@ -34,3 +33,7 @@ The chief divisions of the Book of Numbers are as follows:
 1. Census and Preparation for the Departure from Sinai ([1:1] – [10:10])
 2. Departure, Rebellion, and Wandering in the Wilderness for Forty Years ([10:11] – [25:18])
 3. Second Census of a New Generation and Preparation to Enter the Promised Land ([25:19] – [36:13])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

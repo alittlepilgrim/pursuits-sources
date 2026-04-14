@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 19
 ---
@@ -205,3 +205,7 @@ v. (19:46) [Is 56:7]; [Jer 7:11].
 w. (19:47] – [48) [20:19]; [22:2]; ([[matthew-21|Mt 21]]:46]; ([[mark-11|Mk 11]]:18]; [12:12]; [14:1] – [2]; [Jn 5:18]; [7:30].
 
 x. (19:47) [21:37]; [22:53]; [Jn 18:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

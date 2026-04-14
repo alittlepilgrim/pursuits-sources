@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Baruch, Chapter 3
 ---
@@ -237,3 +237,7 @@ q. \[[3:35]\] [Jb 38:7]; [Ps 147:4]; [Is 40:26].
 r. \[[3:37]\] [Ps 147:19]; [[sirach-24|Sir 24]]:8 – [12].
 
 s. \[[3:38]\] ([[wisdom-09|Wis 9]]:18]; ([[john-01|Jn 1]]:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

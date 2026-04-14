@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 6
 ---
@@ -133,3 +133,7 @@ l. (6:16) [[1-corinthians-10|1 Cor 10]]:20] – [21] / ([[1-corinthians-03|1 Cor
 m. (6:17) [Is 52:11]; [[ezekiel-20|Ez 20]]:34, [41]; [Rv 18:4]; [21:27].
 
 n. (6:18) [2 Sm 7:14]; ([[psalm-02|Ps 2]]:7]; [Is 43:6]; [Jer 31:9]; [Rv 21:7] / ([[revelation-04|Rv 4]]:8]; [11:17]; [15:3]; [21:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

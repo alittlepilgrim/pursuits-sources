@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 7
 ---
@@ -221,3 +221,7 @@ k. (7:31) [Lv 7:31]; [Nm 18:18].
 l. (7:34) [Rom 12:15].
 
 m. (7:35) ([[matthew-25|Mt 25]]:36].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

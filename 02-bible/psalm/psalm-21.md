@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 21
 ---
@@ -95,3 +95,7 @@ a. (21:2) [Ps 63:12].
 b. (21:5) [1 Kgs 3:14].
 
 c. (21:14) [Nm 10:35].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

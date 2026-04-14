@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 16
 url: https://bible.usccb.org/bible/exodus/16
 aliases:
-  - 20250731-085920
   - exodus-16
   - Exodus, Chapter 16
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 16
 ---
@@ -128,3 +127,7 @@ d. (16:15) [Dt 8:3].
 e. (16:31) [Nm 11:7].
 
 f. (16:35) [Jos 5:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

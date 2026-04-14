@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 25
 ---
@@ -89,3 +89,7 @@ g. (25:13) cf. [Ez 35]; [Is 34:5] – [17]; [63:1] – [6]; [Jer 49:7] – [11].
 h. (25:14) cf. [Ez 35:11].
 
 i. (25:15) [[isaiah-14|Is 14]]:29 – [31]; [Jer 47:1] – [7]; [Am 1:6] – [8]; [Zep 2:4] – [7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

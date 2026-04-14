@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 3
 ---
@@ -175,3 +175,7 @@ u. (3:29) [10:12].
 v. (3:30) [Dt 6:4]; [Gal 3:20]; [Jas 2:19] / [4:11] – [12].
 
 w. (3:31) [8:4]; ([[matthew-05|Mt 5]]:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

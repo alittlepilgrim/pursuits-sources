@@ -11,7 +11,7 @@ tags:
   - term/generosity
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -37,7 +37,7 @@ publish: true
 - is short cut to reach goal quickly: [[290-generosity#Meditation 1|290,1]];
 - one becomes generous by forgetting self and always seeking what is most perfect: [[290-generosity#Meditation 2|290,2]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[30-believing-in-love|30. Believing in Love]]
 - [[92-corporal-mortification|92. Corporal Mortification]]

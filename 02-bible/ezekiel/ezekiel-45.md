@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 45
 ---
@@ -105,3 +105,7 @@ g. (45:23) [Nm 22:40]; [28:16] – [25].
 h. (45:24) [Nm 28:12] – [13].
 
 i. (45:25) ([[exodus-23|Ex 23]]:16]; [34:22]; [Lv 23:34] – [43]; [Nm 29:12] – [38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

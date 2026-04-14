@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 10
 bible_book: genesis
@@ -134,3 +134,7 @@ d. (10:22] – [29) [1 Chr 1:17] – [23]..
 ## Navigation
 
 [[genesis-09|[← Previous Note]]] · [[genesis-11|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

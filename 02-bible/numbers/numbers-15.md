@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 15
 ---
@@ -139,3 +139,7 @@ g. (15:34) [Lv 24:12].
 h. (15:38) [Dt 22:12].
 
 i. (15:41) [Lv 22:32] – [33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

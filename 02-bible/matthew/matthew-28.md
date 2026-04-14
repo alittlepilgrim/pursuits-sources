@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 28
 ---
@@ -109,3 +109,7 @@ g. (28:18) [Dn 7:14] LXX.
 h. (28:19) ([[acts-of-the-apostles-01|Acts 1]]:8].
 
 i. (28:20) [1:23]; [13:39]; [24:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

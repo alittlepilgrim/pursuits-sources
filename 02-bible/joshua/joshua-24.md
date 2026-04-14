@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 24
 ---
@@ -143,3 +143,7 @@ u. (24:30) [Jos 19:50].
 v. (24:32) [Gn 33:19]; [50:24]; ([[exodus-13|Ex 13]]:19].
 
 w. (24:33) [Jos 22:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

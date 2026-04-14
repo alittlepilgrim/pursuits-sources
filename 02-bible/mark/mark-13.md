@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 13
 ---
@@ -153,3 +153,7 @@ m. (13:28] – [32) ([[matthew-24|Mt 24]]:32] – [36]; ([[luke-21|Lk 21]]:29] �
 n. (13:33] – [37) ([[matthew-24|Mt 24]]:42]; [25:13] – [15].
 
 o. (13:34) ([[matthew-25|Mt 25]]:14] – [30]; ([[luke-19|Lk 19]:12] – [27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

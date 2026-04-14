@@ -9,7 +9,7 @@ tags:
   - book/interior-castle
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-09
 publish: true
 description: The Interior Castle by St. Teresa of Ávila
 ---
@@ -113,7 +113,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    current. Found. ch. xxiv, 6
 
-   [102] [[tj-life-ccel|Life]], ch. xii. 2. Rel. vii. 3.
+   [102] [[tj-life-ccel-toc|Life]], ch. xii. 2. Rel. vii. 3.
 
    [103] Life. ch. xiii. 29.
 

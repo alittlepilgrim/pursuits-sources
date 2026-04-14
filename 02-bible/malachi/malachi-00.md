@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/malachi/0
 aliases:
   - malachi-00
   - Malachi, the Book of Malachi
-  - Malachi, The Book of Malachi
 tags:
   - bible/book
   - bible/malachi
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Malachi, the Book of Malachi
 ---
@@ -37,3 +36,7 @@ The Book of Malachi may be divided as follows:
 6. Gifts for God, Blessings for the People ([3:6] – [12])
 7. The Need to Serve God ([3:13] – [21])
 8. Moses and Elijah ([3:22] – [24])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

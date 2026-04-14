@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 23
 ---
@@ -215,3 +215,7 @@ h. (23:24) [Prv 10:1].
 i. (23:28) [Prv 7:10] – [27].
 
 j. (23:30) [Prv 20:1]; [[sirach-19|Sir 19]]:2; [Hos 4:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

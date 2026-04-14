@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 7
 ---
@@ -96,7 +96,7 @@ description: Matthew, Chapter 7
 
 ---
 
-\* (7:1] – [12) In ([[matthew-07|Mt 7]]:1] Matthew returns to the basic traditional material of the sermon (([[luke-06| [[luke-06|Lk 6]]:]]:37] – [38], [41] – [42]). The governing thought is the correspondence between conduct toward one’s fellows and God’s conduct toward the one so acting.
+\* (7:1] – [12) In ([[matthew-07|Mt 7]]:1] Matthew returns to the basic traditional material of the sermon (([[luke-06||Lk 6]]:37] – [38], [41] – [42]). The governing thought is the correspondence between conduct toward one’s fellows and God’s conduct toward the one so acting.
 
 \* (7:1) This is not a prohibition against recognizing the faults of others, which would be hardly compatible with ([[matthew-07|Mt 7]]:5], [6] but against passing judgment in a spirit of arrogance, forgetful of one’s own faults.
 
@@ -106,7 +106,7 @@ description: Matthew, Chapter 7
 
 \* (7:9] – [10) There is a resemblance between a stone and a round loaf of bread and between a serpent and the scaleless fish called *barbut*.
 
-\* (7:12) See ([[luke-06| [[luke-06|Lk 6]]:]]:31]. This saying, known since the eighteenth century as the “Golden Rule,” is found in both positive and negative form in pagan and Jewish sources, both earlier and later than the gospel. This is the law and the prophets is an addition probably due to the evangelist.
+\* (7:12) See ([[luke-06||Lk 6]]:31]. This saying, known since the eighteenth century as the “Golden Rule,” is found in both positive and negative form in pagan and Jewish sources, both earlier and later than the gospel. This is the law and the prophets is an addition probably due to the evangelist.
 
 \* (7:13] – [28) The final section of the discourse is composed of a series of antitheses, contrasting two kinds of life within the Christian community, that of those who obey the words of Jesus and that of those who do not. Most of the sayings are from Q and are found also in Luke.
 
@@ -118,13 +118,13 @@ description: Matthew, Chapter 7
 
 \* (7:23) I never knew you: cf. [[matthew-10|Mt 10]]:33]. Depart from me, you evildoers: cf. ([[psalm-06|Ps 6]]:9].
 
-\* (7:24] – [27) The conclusion of the discourse (cf. ([[luke-06| [[luke-06|Lk 6]]:]]:47] – [49]). Here the relation is not between saying and doing as in ([[matthew-07|Mt 7]]:15] – [23] but between hearing and doing, and the words of Jesus are applied to every Christian (everyone who listens).
+\* (7:24] – [27) The conclusion of the discourse (cf. ([[luke-06||Lk 6]]:47] – [49]). Here the relation is not between saying and doing as in ([[matthew-07|Mt 7]]:15] – [23] but between hearing and doing, and the words of Jesus are applied to every Christian (everyone who listens).
 
 \* (7:28] – [29) When Jesus finished these words: this or a similar formula is used by Matthew to conclude each of the five great discourses of Jesus (cf. ([[matthew-11|Mt 11]]:1]; [13:53]; [19:1]; [26:1]).
 
 \* (7:29) Not as their scribes: scribal instruction was a faithful handing down of the traditions of earlier teachers; Jesus’ teaching is based on his own authority. Their scribes: for the implications of their, see note on ([[matthew-04|Mt 4]]:23].
 
-a. (7:1] – [5) ([[luke-06| [[luke-06|Lk 6]]:]]:37] – [38], [41] – [42].
+a. (7:1] – [5) ([[luke-06||Lk 6]]:37] – [38], [41] – [42].
 
 b. (7:1) ([[romans-02|Rom 2]]:1] – [2]; ([[1-corinthians-04|1 Cor 4]]:5].
 
@@ -140,17 +140,17 @@ g. (7:8) ([[luke-18|Lk 18]]:1] – [8]; [Jn 14:13].
 
 h. (7:11) ([[1-john-05|1 Jn 5]]:14] – [15].
 
-i. (7:12) ([[luke-06| [[luke-06|Lk 6]]:]]:31].
+i. (7:12) ([[luke-06||Lk 6]]:31].
 
 j. (7:13) ([[luke-13|Lk 13]]:24].
 
 k. (7:15) [2 Pt 2:1].
 
-l. (7:16] – [17) [12:33]; ([[luke-06| [[luke-06|Lk 6]]:]]:43] – [44].
+l. (7:16] – [17) [12:33]; ([[luke-06||Lk 6]]:43] – [44].
 
 m. (7:20) [3:10].
 
-n. (7:21) [Is 29:13]; ([[luke-06| [[luke-06|Lk 6]]:]]:46].
+n. (7:21) [Is 29:13]; ([[luke-06||Lk 6]]:46].
 
 o. (7:22] – [23) ([[luke-13|Lk 13]]:26] – [27].
 
@@ -158,8 +158,12 @@ p. (7:22) [25:11] – [12].
 
 q. (7:23) ([[psalm-05|Ps 5]]:5]; [6:9].
 
-r. (7:24] – [27) ([[luke-06| [[luke-06|Lk 6]]:]]:47] – [49].
+r. (7:24] – [27) ([[luke-06||Lk 6]]:47] – [49].
 
 s. (7:25] – [26) [Prv 10:25].
 
 t. (7:29) ([[mark-01|Mk 1]]:22]; ([[luke-04| [[luke-04|Lk 4]]:]]:32].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

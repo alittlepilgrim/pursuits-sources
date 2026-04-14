@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 28
 ---
@@ -163,3 +163,7 @@ d. (28:23) [Prv 2:6]; [Sir 1:1]; [Jas 1:5].
 e. (28:26) [Jb 38:25]; [Prv 3:20].
 
 f. (28:28) [Ps 111:10]; [Prv 1:7]; [9:10]; [Sir 1:13] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

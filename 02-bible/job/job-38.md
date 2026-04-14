@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 38
 ---
@@ -205,3 +205,7 @@ b. (38:8) [Gn 1:9].
 c. (38:23) [Jos 10:11]; [Sir 46:5].
 
 d. (38:41) [Ps 147:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

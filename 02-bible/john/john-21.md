@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 21
 ---
@@ -131,3 +131,7 @@ m. (21:22) ([[matthew-16|Mt 16]]:28].
 n. (21:24) [19:35].
 
 o. (21:25) [20:30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

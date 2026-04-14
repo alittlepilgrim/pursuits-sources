@@ -4,7 +4,6 @@ title: 2 Corinthians, The Second Letter To The Corinthians
 url: https://bible.usccb.org/bible/2corinthians/0
 aliases:
   - 2 Corinthians, the Second Letter to the Corinthians
-  - 2 Corinthians, The Second Letter To The Corinthians
   - 2-corinthians-00
 tags:
   - bible/2-corinthians
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, the Second Letter to the Corinthians
 ---
@@ -60,3 +59,7 @@ The principal divisions of the Second Letter to the Corinthians are the followin
 - [[2-corinthians-11|2 Corinthians, Chapter 11]]
 - [[2-corinthians-12|2 Corinthians, Chapter 12]]
 - [[2-corinthians-13|2 Corinthians, Chapter 13]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

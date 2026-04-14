@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 30
 ---
@@ -151,3 +151,7 @@ e. (30:21) [Prv 12:25]; [15:13]; [17:22].
 f. (30:23) [Sir 38:18] – [19].
 
 g. (30:25) [Prv 15:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

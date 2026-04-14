@@ -2,7 +2,6 @@
 type: figure
 title: Saint Francis of Assisi
 aliases:
-  - 20250912-224200
   - francis-of-assisi-saint
   - Saint Francis of Assisi
 tags:
@@ -15,7 +14,7 @@ birthday: 1181
 death_date: 1226-10-03
 celebration: 10-04
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

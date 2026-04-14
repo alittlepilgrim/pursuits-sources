@@ -4,7 +4,6 @@ title: Spiritual Consolations
 author: Gabriel of Saint Mary Magdalen
 source: Divine Intimacy Meditations
 aliases:
-  - 20250725-140143
   - Spiritual Consolations
   - spiritual-consolations
 tags:
@@ -12,7 +11,7 @@ tags:
   - term/spiritual-consolation
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Spiritual consolation. Divine Intimacy Meditations
 ---

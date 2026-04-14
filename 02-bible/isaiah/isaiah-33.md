@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 33
 ---
@@ -219,3 +219,7 @@ q. (33:21) [Ez 47:1] – [12]; [Ps 46:5]; [48:7].
 r. (33:23) [2 Sm 8:6] – [7].
 
 s. (33:24) [Mi 7:18] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

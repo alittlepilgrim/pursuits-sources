@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 18
 ---
@@ -99,3 +99,7 @@ b. (18:17) [Jos 7:26]; [8:29]; [10:27].
 c. (18:18) [2 Sm 14:27].
 
 d. (18:27) [2 Kgs 9:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

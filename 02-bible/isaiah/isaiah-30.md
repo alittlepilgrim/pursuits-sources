@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 30
 ---
@@ -367,3 +367,7 @@ x. (30:30) [[isaiah-10|Is 10]]:17; [28:2]; [29:6].
 y. (30:32) [[isaiah-10|Is 10]]:24 – [26]; [14:24] – [27].
 
 z. (30:33) [[genesis-19|Gen 19]]:24; [Ez 38:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

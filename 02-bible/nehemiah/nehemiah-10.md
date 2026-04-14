@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 10
 ---
@@ -123,3 +123,7 @@ g. (10:35) [[nehemiah-13|Neh 13]]:31.
 h. (10:36) ([[exodus-13|Ex 13]]:1], [11] – [16]; [Dt 26:1].
 
 i. (10:38) [[nehemiah-13|Neh 13]]:10 – [14]; [Nm 18:21] – [32].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

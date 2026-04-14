@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 9
 ---
@@ -79,3 +79,7 @@ e. (9:10) [Is 55:10].
 f. (9:13) [8:4]; [Rom 15:31].
 
 g. (9:15) [Rom 5:15] – [16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

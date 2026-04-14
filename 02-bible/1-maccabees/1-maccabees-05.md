@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 5
 ---
@@ -211,3 +211,7 @@ h. (5:45] – [54) [[2-maccabees-12|2 Mc 12]]:26 – [31].
 i. (5:46) [Nm 20:17] – [21]; [21:21] – [25].
 
 j. (5:65] – [68) [[2-maccabees-12|2 Mc 12]]:36 – [46].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

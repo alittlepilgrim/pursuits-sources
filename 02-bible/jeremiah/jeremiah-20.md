@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 20
 ---
@@ -173,3 +173,7 @@ l. (20:16) [[genesis-19|Gen 19]]:25; [[isaiah-13|Is 13]]:19.
 m. (20:17) [Jb 3:10] – [11]; [10:19].
 
 n. (20:18) [Jb 14:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

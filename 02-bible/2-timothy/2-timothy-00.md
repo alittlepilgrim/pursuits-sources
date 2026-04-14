@@ -4,7 +4,6 @@ title: 2 Timothy, The Second Letter To Timothy
 url: https://bible.usccb.org/bible/2timothy/0
 aliases:
   - 2 Timothy, the Second Letter to Timothy
-  - 2 Timothy, The Second Letter To Timothy
   - 2-timothy-00
 tags:
   - bible/2-timothy
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Timothy, the Second Letter to Timothy
 ---
@@ -46,3 +45,7 @@ IV. Personal Requests and Final Greetings ([4:9–22])
 - [[2-timothy-02|2 Timothy, Chapter 2]]
 - [[2-timothy-03|2 Timothy, Chapter 3]]
 - [[2-timothy-04|2 Timothy, Chapter 4]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

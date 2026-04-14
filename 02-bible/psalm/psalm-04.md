@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 4
 ---
@@ -89,3 +89,7 @@ d. (4:6) [Ps 51:19].
 e. (4:7) [Ps 31:17]; [44:4]; [67:1]; [80:4]; [Jb 13:24]; [Nm 6:25]; [Dn 9:17].
 
 f. (4:9) ([[psalm-03|Ps 3]]:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

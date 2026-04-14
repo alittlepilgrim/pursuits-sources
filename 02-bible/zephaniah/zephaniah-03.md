@@ -11,7 +11,7 @@ tags:
   - bible/zephaniah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zephaniah, Chapter 3
 ---
@@ -237,3 +237,7 @@ i. (3:17) [Jl 2:27].
 j. (3:19) [Mi 4:6].
 
 k. (3:20) [Jl 4:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

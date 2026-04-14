@@ -12,7 +12,7 @@ tags:
   - term/consecration-to-god
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -35,7 +35,7 @@ publish: true
 - virgin souls who have almost lost their “consecrated” vocation because of their attachment to the world: [[386-presentation-bvm#Meditation 1|386,1]];
 - Mary is the model of consecrated souls: [[386-presentation-bvm#Meditation 1|386,1]], [[386-presentation-bvm#Meditation 2|386,2]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[23-the-call-to-the-apostolate|23. The Call to the apostolate]]
 - [[61-the-works-of-jesus|61. The Works of Jesus]]

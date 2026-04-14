@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 120
 ---
@@ -67,3 +67,7 @@ b. (120:2) ([[psalm-12|Ps 12]]:3] – [5]; [Sir 51:3].
 c. (120:4) ([[psalm-11|Ps 11]]:6]; [140:11]; [Prv 16:27].
 
 d. (120:7) [Ps 35:20]; [140:3] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Thessalonians, Chapter 3
 ---
@@ -61,3 +61,7 @@ c. (3:4) ([[acts-of-the-apostles-14|Acts 14]]:22]; [2 Thes 2:5] – [7]; [2 Tm 3
 d. (3:12) [4:9] – [10]; [2 Thes 1:3].
 
 e. (3:13) [5:23]; ([[1-corinthians-01|1 Cor 1]]:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

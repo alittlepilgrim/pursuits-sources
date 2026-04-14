@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 2
 ---
@@ -155,3 +155,7 @@ e. (2:17) [Is 62:2]; [65:15].
 f. (2:23) [1 Sm 16:7]; [Jer 11:20]; [17:10].
 
 g. (2:26) [12:5]; ([[psalm-02|Ps 2]]:8] – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

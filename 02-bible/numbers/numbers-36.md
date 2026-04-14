@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 36
 ---
@@ -55,3 +55,7 @@ description: Numbers, Chapter 36
 \* (36:5] – [9) This is a supplement to the law given in [27:5] – [11].
 
 a. (36:2) [Nm 26:55]; [27:6]; [Jos 17:3] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

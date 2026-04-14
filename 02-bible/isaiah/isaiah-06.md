@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 6
 ---
@@ -115,3 +115,7 @@ f. (6:9) ([[matthew-13|Mt 13]]:10] – [17]; ([[mark-04|Mk 4]]:10] – [12]; ([[
 g. (6:10) [Jer 5:21]; [Jn 12:40].
 
 h. (6:13) [[isaiah-10|Is 10]]:22.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

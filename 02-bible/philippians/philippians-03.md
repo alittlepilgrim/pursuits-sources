@@ -11,7 +11,7 @@ tags:
   - bible/philippians
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Philippians, Chapter 3
 ---
@@ -135,3 +135,7 @@ o. (3:19) [Rom 8:5] – [6]; [16:18].
 p. (3:20) [Eph 2:6], [19]; [Col 3:1] – [3]; [Heb 12:22].
 
 q. (3:21) [Rom 8:23], [29]; [1 Cor 15:42] – [57]; ([[2-corinthians-03|2 Cor 3]]:18]; [5:1] – [5] / [1 Cor 15:27] – [28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

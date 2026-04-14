@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 3
 ---
@@ -145,3 +145,7 @@ k. (3:31) [2 Sm 21:10].
 l. (3:35) [Ru 1:17].
 
 m. (3:39) ([[psalm-28|Ps 28]]:4]; [Is 3:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

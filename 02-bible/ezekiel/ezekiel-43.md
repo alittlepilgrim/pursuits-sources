@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 43
 ---
@@ -111,3 +111,7 @@ l. (43:21) ([[exodus-29|Ex 29]]:14]; [Lv 4:12]; [8:17]; cf. [Heb 13:11] – [13]
 m. (43:23) ([[exodus-29|Ex 29]]:1].
 
 n. (43:25) ([[exodus-29|Ex 29]]:37]; [Lv 8:33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

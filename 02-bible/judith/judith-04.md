@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 4
 ---
@@ -93,3 +93,7 @@ g. (4:13) [Est 4:16]; [Jl 2:15].
 h. (4:14) ([[exodus-29|Ex 29]]:38] – [46]; [Nm 28:1] – [8]; ([[ezra-03|Ezr 3]]:4].
 
 i. (4:15) [Lv 16:4]; [[ezekiel-24|Ez 24]]:23; [44:18]; [Zec 3:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

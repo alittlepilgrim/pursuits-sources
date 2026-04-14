@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 43
 ---
@@ -241,3 +241,7 @@ d. (43:16) [Is 51:10] – [11]; ([[exodus-14|Ex 14]]:21].
 e. (43:17) ([[exodus-15|Ex 15]]:4].
 
 f. (43:23) [Jer 6:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

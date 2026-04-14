@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 21
 ---
@@ -107,3 +107,7 @@ g. \[[21:18]\] [2 Chr 3:1].
 h. \[[21:26]\] [Lv 9:24]; [Jgs 6:21]; [[1-kings-18|1 Kgs 18]]:38; [2 Chr 7:1]; [2 Mc 2:10] – [12].
 
 i. \[[21:29]\] [[1-chronicles-16|1 Chr 16]]:39; [1 Kgs 8:4]; [2 Chr 1:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

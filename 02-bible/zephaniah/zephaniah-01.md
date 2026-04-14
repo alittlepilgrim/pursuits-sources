@@ -11,7 +11,7 @@ tags:
   - bible/zephaniah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zephaniah, Chapter 1
 ---
@@ -199,3 +199,7 @@ e. (1:15) [[isaiah-13|Is 13]]:9; [Jl 2:1] – [2].
 f. (1:16) [Am 2:2].
 
 g. (1:18) [Zep 3:8]; [Jer 4:26] – [27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

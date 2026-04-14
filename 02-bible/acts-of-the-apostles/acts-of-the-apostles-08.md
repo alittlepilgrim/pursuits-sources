@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 8
 ---
@@ -128,7 +128,7 @@ For his life is taken from the earth.”
 
 \* \[[8:16]\] Here and in ([[acts-of-the-apostles-10|Acts 10]]:44] – [48] and ([[acts-of-the-apostles-19|Acts 19]]:1] – [6], Luke distinguishes between baptism in the name of the Lord Jesus and the reception of the Spirit. In each case, the Spirit is conferred through members of the Twelve (Peter and John) or their representative (Paul). This may be Luke’s way of describing the role of the church in the bestowal of the Spirit. Elsewhere in Acts, baptism and the Spirit are more closely related ([.[[acts-of-the-apostles-01|Acts 1]]:5]; [11:16]).
 
-\* \[[8:18] – [20]\] Simon attempts to buy the gift of God ([.[[acts-of-the-apostles-08|Acts 8]]:20]) with money. Peter’s cursing of Simon’s attempt so to use his money expresses a typically Lucan attitude toward material wealth (cf. ([[luke-06| [[luke-06|Lk 6]]:]]:24]; [12:16] – [21]; [16:13]).
+\* \[[8:18] – [20]\] Simon attempts to buy the gift of God ([.[[acts-of-the-apostles-08|Acts 8]]:20]) with money. Peter’s cursing of Simon’s attempt so to use his money expresses a typically Lucan attitude toward material wealth (cf. ([[luke-06||Lk 6]]:24]; [12:16] – [21]; [16:13]).
 
 \* \[[8:26] – [40]\] In the account of the conversion of the Ethiopian eunuch, Luke adduces additional evidence to show that the spread of Christianity outside the confines of Judaism itself was in accord with the plan of God. He does not make clear whether the Ethiopian was originally a convert to Judaism or, as is more probable, a “God-fearer” ([.[[acts-of-the-apostles-10|Acts 10]]:1]), i.e., one who accepted Jewish monotheism and ethic and attended the synagogue but did not consider himself bound by other regulations such as circumcision and observance of the dietary laws. The story of his conversion to Christianity is given a strong supernatural cast by the introduction of an angel ([.[[acts-of-the-apostles-08|Acts 8]]:26]), instruction from the holy Spirit ([.[[acts-of-the-apostles-08|Acts 8]]:29]), and the strange removal of Philip from the scene ([8:39]).
 
@@ -163,3 +163,7 @@ k. \[[8:36]\] [10:47].
 l. \[[8:39]\] [[1-kings-18|1 Kgs 18]]:12.
 
 m. \[[8:40]\] [21:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

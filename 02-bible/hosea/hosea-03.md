@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 3
 ---
@@ -75,3 +75,7 @@ and to his bounty, in the last days.
 \* (3:5) David, their king: the king belonging to the line of David who will restore the Israelite nation ([Jer 23:5]; [Ez 34:23], [24]). The last days: a future time of transformation.
 
 a. (3:5) [Jer 30:9]; [Ez 34:23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

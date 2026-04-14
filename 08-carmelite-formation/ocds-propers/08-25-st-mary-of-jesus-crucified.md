@@ -13,7 +13,7 @@ tags:
 celebration_day: 08-25
 celebration_rank: memorial
 created: 2025-07-31
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: OCDS Propers. 25 August. St. Mary of Jesus Crucified, Baouardy, Virgin
 ---
@@ -21,14 +21,16 @@ description: OCDS Propers. 25 August. St. Mary of Jesus Crucified, Baouardy, Vi
 # August 25, Baouardy
 
 > **August 25**
-> **SAINT MARY OF JESUS CRUCIFIED** **BAOUARDY** - [[mary-of-jesus-crucified-blessed]]
+> **SAINT MARY OF JESUS CRUCIFIED** **BAOUARDY**
 > **Virgin**
 
 **Memorial**
 
 Saint Mary (Mariam) of Jesus Crucified was born of the Baouardy family, Catholics of the Greek Melkite Rite, at Abellin in Galilee in 1846. In 1867 Mariam entered the Discalced Carmelites at Pau in France and was sent with the founding group to the Carmel of Mangalore in India where, in 1870, she made her profession. Mariam returned to France in 1872. In 1875 she went to the Holy Land where she built a monastery in Bethlehem and began planning for another at Nazareth. Noted for her supernatural gifts, especially for humility, for her devotion to the Holy Spirit, and her great love for the Church and the Pope, Mariam died at Bethlehem in 1878.
 
-**Prayer**
+ - [[mary-of-jesus-crucified-blessed]]
+
+## Prayer
 
 God of mercy and all consolation,
 

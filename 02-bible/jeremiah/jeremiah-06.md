@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 6
 ---
@@ -313,3 +313,7 @@ q. (6:24) [Jer 4:31].
 r. (6:26) [Jer 25:34]; [Am 8:10].
 
 s. (6:27) [Jer 1:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

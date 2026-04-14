@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 3
 ---
@@ -77,3 +77,7 @@ e. (3:5) [Lv 1:9].
 f. (3:11) [Lv 9:19].
 
 g. (3:17) [Lv 17:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

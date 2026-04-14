@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 11
 ---
@@ -115,3 +115,7 @@ e. (11:11) [Ez 37:5], [10].
 f. (11:12) [2 Kgs 2:11].
 
 g. (11:18) ([[psalm-02|Ps 2]]:1], [5] / [Am 3:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

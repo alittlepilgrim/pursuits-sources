@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 6
 ---
@@ -101,3 +101,7 @@ i. (6:17) [Rom 8:9] – [10]; ([[2-corinthians-03|2 Cor 3]]:17].
 j. (6:19) [3:16] – [17]; [Rom 5:5].
 
 k. (6:20) [3:23]; [7:23]; ([[acts-of-the-apostles-20|Acts 20]]:28] / [Rom 12:1]; [Phil 1:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - term/liberation
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 ---
 
@@ -19,8 +19,8 @@ publish: true
 
 ## Divine Intimacy Meditations
 
-### Compendium on Social Doctrine
+- From our sins by the Blood of Jesus: [[154-the-good-shepherd#Meditation 2|154,2]].
+
+## Compendium on Social Doctrine
 
 ![[sd-10-index-l#Liberation]]
-
-- From our sins by the Blood of Jesus: [[154-the-good-shepherd#Meditation 2|154,2]].

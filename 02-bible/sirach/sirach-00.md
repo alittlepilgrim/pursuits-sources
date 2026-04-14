@@ -3,10 +3,8 @@ type: bible
 title: Sirach, The Wisdom of Ben Sira
 url: https://bible.usccb.org/bible/sirach/0
 aliases:
-  - 20250730-211649
   - sirach-00
   - Sirach, the Wisdom of Ben Sira
-  - Sirach, The Wisdom of Ben Sira
 tags:
   - bible/book
   - bible/ecclesiasticus
@@ -14,7 +12,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Sirach, the Wisdom of Ben Sira
 ---
@@ -38,3 +36,7 @@ Written in Hebrew in the early years of the second century B.C., the book was fi
 Though not included in the Jewish Bible after the first century A.D., nor, therefore, accepted by Protestants, the Wisdom of Ben Sira has been recognized by the Catholic Church as inspired and canonical. The Foreword, though not properly part of the book, is always included with it because of its antiquity and importance.
 
 The contents of the Wisdom of Ben Sira are of a discursive nature, not easily divided into separate parts. Chapters [1] – [43] deal largely with moral instruction; [44:1] – [50:24] contain a eulogy of the heroes of Israel. There are two appendixes in which the author expresses his gratitude to God ([51:1] – [12]), and invites the unschooled to acquire true wisdom ([51:13] – [30]).
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

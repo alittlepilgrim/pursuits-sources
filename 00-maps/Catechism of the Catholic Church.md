@@ -11,7 +11,7 @@ tags:
   - catechism
   - type/toc
 created: 2025-07-26
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 permalink: /catechism
 attachment: false
@@ -28,15 +28,10 @@ attachment: false
 # [[00.prologue|Prologue]]
 
 - [[00.prologue-1|I. The life of man - to know and love God]]
-
 - [[00.prologue-2|II. Handing on the Faith: Catechesis]]
-
 - [[00.prologue-3|III. The Aim and Intended Readership of the Catechism]]
-
 - [[00.prologue-4|IV. Structure of this Catechism]]
-
 - [[00.prologue-5|V. Practical Directions for Using this Catechism]]
-
 - [[00.prologue-6|VI. Necessary Adaptations]]
 
 # Part One, The Profession of Faith
@@ -143,7 +138,7 @@ attachment: false
 
 - [[1.2.2.6.p1u|Article 6, He Ascended Into Heaven And Is Seated At The Right Hand of the Father - In Brief]]
 
-#### Article 7, "From Thence He Will Come Agaln To Judge The Living And The Dead"
+#### Article 7, "From Thence He Will Come Agaln to Judge The Living and The Dead"
 
 - [[1.2.2.7.p1v|I. He Will Come Again in Glory]]
 - [[1.2.2.7.p1w|II. To Judge the Living and the Dead]]
@@ -615,5 +610,3 @@ attachment: false
 - [[4.2.0.4.pae|In Brief]]
 
 ---
-
-See also: [[02-glossary-catechism|Glossary of the Catechism of the Catholic Church]]

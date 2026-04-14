@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 1
 ---
@@ -109,3 +109,7 @@ e. (1:8) [Ru 4:15].
 f. (1:11) [Nm 6:1] – [5]; [Jgs 13:2] – [5]; [16:17]; ([[luke-01|Lk 1]]:15].
 
 g. (1:23) [Dt 9:5]; [2 Sm 7:25]; [1 Kgs 2:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

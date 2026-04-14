@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 25
 ---
@@ -109,3 +109,7 @@ d. (25:17] – [24) [[2-kings-14|2 Kgs 14]]:8 – [14].
 e. (25:18) [Jgs 9:7] – [15]; [[2-kings-14|2 Kgs 14]]:9.
 
 f. (25:25] – [28) [[2-kings-14|2 Kgs 14]]:17 – [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

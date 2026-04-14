@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 58
 ---
@@ -99,3 +99,7 @@ f. (58:9) [Jb 3:16].
 g. (58:10) [Jb 21:18]; [[hosea-13|Hos 13]]:3; [Na 1:10].
 
 h. (58:11) [Ps 68:24]; [Is 63:1] – [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

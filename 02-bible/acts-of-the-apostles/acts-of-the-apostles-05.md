@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 5
 ---
@@ -155,3 +155,7 @@ n. \[[5:40]\] [[matthew-10|Mt 10]]:17]; ([[acts-of-the-apostles-04|Acts 4]]:17] 
 o. \[[5:41]\] ([[matthew-05|Mt 5]]:10] – [11]; [1 Pt 4:13].
 
 p. \[[5:42]\] [2:46]; [5:20] – [21], [25]; [8:35]; [17:3]; [18:5], [28]; [19:4] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

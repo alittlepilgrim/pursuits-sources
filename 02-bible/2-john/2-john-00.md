@@ -4,16 +4,14 @@ title: 2 John, The Second Letter of John - Chapter Index
 url: https://bible.usccb.org/bible/2john/1
 aliases:
   - 2 John, the Second Letter of John
-  - 2 John, The Second Letter of John
   - 2-john-00
-  - 20250824-132801
 tags:
   - bible/2-john
   - bible/book
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: 2 John, the Second Letter of John
 ---
@@ -29,3 +27,7 @@ The Second Letter is addressed to “the chosen Lady” and “to her children.�
 # 2 John – Chapter Index
 
 - [[2-john-01|2 John, the Second Letter of John]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

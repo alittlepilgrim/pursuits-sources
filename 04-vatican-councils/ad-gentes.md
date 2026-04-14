@@ -11,7 +11,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Decree on the Mission Activity of the Church - Ad Gentes
 abbreviation: ag
@@ -19,7 +19,7 @@ abbreviation: ag
 
 # Ad Gentes
 
-## Decree on The Mission Activity Of The Church
+## Decree on the Mission Activity of the Church
 
 # Preface
 

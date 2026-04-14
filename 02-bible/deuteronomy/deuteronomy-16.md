@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 16
 ---
@@ -109,3 +109,7 @@ l. (16:19) [Dt 1:16] – [17]; [10:17] – [18]; ([[exodus-23|Ex 23]]:2] – [3]
 m. (16:21] – [17:7) [Dt 5:7] – [10]; [6:4] – [5]; [12:29] – [14:2].
 
 n. (16:21] – [22) [Dt 7:5]; [Ex 34:13]; [[1-kings-14|1 Kgs 14]]:15; [[2-kings-23|2 Kgs 23]]:6, [15]; [2 Chr 33:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

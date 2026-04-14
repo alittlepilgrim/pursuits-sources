@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 8
 ---
@@ -127,3 +127,7 @@ h. (8:18) [12:18].
 i. (8:19) [1 Cor 16:3] – [4].
 
 j. (8:21) [Rom 12:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

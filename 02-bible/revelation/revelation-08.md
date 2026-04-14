@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 8
 ---
@@ -85,3 +85,7 @@ g. (8:10) [[isaiah-14|Is 14]]:12.
 h. (8:11) [Jer 9:14].
 
 i. (8:12) ([[exodus-10|Ex 10]]:21] – [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

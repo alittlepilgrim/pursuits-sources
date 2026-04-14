@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 52
 ---
@@ -101,3 +101,7 @@ g. (52:9) [Jb 31:24]; [Prv 11:28].
 h. (52:10) ([[psalm-01|Ps 1]]:3]; [92:12] – [14]; [Jer 11:16]; [17:8].
 
 i. (52:11) ([[psalm-22|Ps 22]]:23]; [26:12]; [35:18]; [149:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 22
 ---
@@ -123,3 +123,7 @@ l. (22:21]\] [9:15]; [Gal 2:7] – [9].
 m. (22:22]\] [21:36]; ([[luke-23|Lk 23]]:18]; [Jn 19:15].
 
 n. (22:25]\] [16:37].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 25
 ---
@@ -105,3 +105,7 @@ e. (25:16) [1 Kgs 7:47].
 f. (25:17) [1 Kgs 7:15] – [20]; [Jer 52:21] – [23].
 
 g. (25:22] – [26) [Jer 40:7] – [41:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

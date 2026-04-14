@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 64
 ---
@@ -81,3 +81,7 @@ c. (64:8) ([[psalm-07|Ps 7]]:13] – [14]; [38:3]; [Dt 32:42].
 d. (64:9) ([[psalm-05|Ps 5]]:11]; [44:14]; [52:6].
 
 e. (64:11) [Ps 36:8]; [57:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

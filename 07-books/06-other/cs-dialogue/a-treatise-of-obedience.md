@@ -8,7 +8,7 @@ tags:
   - author/saint-catherine-of-siena
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: A Treatise of Obedience - Dialogue by St. Catherine of Siena
 ---
@@ -120,5 +120,7 @@ Oh! had you seen with what humility and reverence she begged and received many t
 Her transit occurred on the Sunday at the hour of Sext, but we kept her unburied until the hour of Compline on Tuesday, without any odor being perceptible, her body remaining so pure, intact, and fragrant, that her arms, her neck and her legs remained as flexible as if she were still alive. During those three days the body was visited by crowds of people, and lucky he thought himself who was able to touch it. Almighty God also worked many miracles in that time, which in my hurry I omit. Her tomb is visited devoutly by the faithful, like those of the other holy bodies which are in Rome, and Almighty God is granting many graces in the name of His blessed spouse, and I doubt not that there will be many more, and we are made great by hearing of them. I say no more. Recommend me to the Prioress and all the sisters, for I have, at present, the greatest need of the help of prayer. May Almighty God preserve you and help you to grow in His grace.
 
 Originally published in 1907 by Kegan Paul, Trench, Trubner & Co., Ltd., London.
+
 Digitized and English Modernized by Harry Plantinga, 1995
+
 This e-text is in the public domain

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 5
 ---
@@ -299,3 +299,7 @@ p. (5:25) [Am 1:1]; [Zec 14:5]; cf. [Is 9:18a].
 q. (5:26) [Is 7:18]; [11:12]; [Jer 4:6]; [50:2].
 
 r. (5:30) [Is 8:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

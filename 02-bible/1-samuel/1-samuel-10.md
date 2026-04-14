@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 10
 ---
@@ -129,3 +129,7 @@ m. (10:24) [2 Sm 16:16]; [1 Kgs 1:25]; [[2-kings-11|2 Kgs 11]]:12.
 n. (10:25) [1 Sm 8:11]; [Dt 17:14] – [20].
 
 o. (10:27) [1 Sm 11:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -6,14 +6,13 @@ aliases:
   - 2 Kings – Chapter Index
   - 2 Kings, Chapter Index
   - 2-kings-00
-  - 20250730-120258
 tags:
   - bible/2-kings
   - bible/book
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter Index
 ---
@@ -44,3 +43,7 @@ description: 2 Kings, Chapter Index
 - [[2-kings-23|2 Kings, Chapter 23]]
 - [[2-kings-24|2 Kings, Chapter 24]]
 - [[2-kings-25|2 Kings, Chapter 25]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

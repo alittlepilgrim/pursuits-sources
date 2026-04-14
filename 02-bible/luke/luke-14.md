@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 14
 ---
@@ -149,3 +149,7 @@ o. (14:33) [5:11].
 p. (14:34) ([[matthew-05|Mt 5]]:13]; ([[mark-09|Mk 9]]:50].
 
 q. (14:35) [8:8]; ([[matthew-11|Mt 11]]:15]; [13:9]; ([[mark-04|Mk 4]]:9], [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

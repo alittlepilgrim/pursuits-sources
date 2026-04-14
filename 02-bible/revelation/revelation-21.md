@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 21
 ---
@@ -149,3 +149,7 @@ o. (21:23) [Is 60:1] – [2], [19] – [20].
 p. (21:24) [Is 60:11].
 
 q. (21:27) [Is 35:8]; [52:1]; [Zec 13:2] / ([[revelation-03|Rv 3]]:5]; [20:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

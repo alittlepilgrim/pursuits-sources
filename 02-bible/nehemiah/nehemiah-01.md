@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 1
 ---
@@ -63,3 +63,7 @@ d. (1:8) [Dt 30:1] – [5].
 e. (1:10) [Dt 9:29].
 
 f. (1:11) [Ps 118:25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

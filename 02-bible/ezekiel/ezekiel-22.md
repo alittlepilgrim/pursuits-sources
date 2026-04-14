@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 22
 ---
@@ -117,3 +117,7 @@ j. (22:26) [Lv 20:25]; [Hg 2:11] – [14].
 k. (22:27) [Mi 3:11]; [Zep 3:3].
 
 l. (22:28] – [29) cf. [[ezekiel-13|Ez 13]]:2 – [10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

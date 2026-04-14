@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezra, Chapter 6
 ---
@@ -77,3 +77,7 @@ a. (6:2) ([[ezra-01|Ezr 1]]:4] – [11].
 b. (6:19) ([[exodus-12|Ex 12]]:1] – [20]; [2 Chr 30:14] – [27]; [35:1] – [19].
 
 c. (6:22) [2 Chr 30:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

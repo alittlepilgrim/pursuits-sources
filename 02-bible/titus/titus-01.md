@@ -11,7 +11,7 @@ tags:
   - bible/titus
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Titus, Chapter 1
 ---
@@ -87,3 +87,7 @@ g. (1:13) [1:9].
 h. (1:14) [3:9]; [1 Tm 1:4]; [4:7]; [2 Tm 4:4]; [2 Pt 1:16].
 
 i. (1:15) ([[mark-07|Mk 7]]:18] – [23]; ([[acts-of-the-apostles-10|Acts 10]]:15]; [Rom 14:14] – [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

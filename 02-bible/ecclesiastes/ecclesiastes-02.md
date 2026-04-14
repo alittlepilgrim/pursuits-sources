@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ecclesiastes, Chapter 2
 ---
@@ -109,3 +109,7 @@ d. (22]\] [Eccl 1:3].
 e. (24]\] [Eccl 3:12] – [13], [22]; [5:17] – [19]; [8:15].
 
 f. (26]\] [Eccl 7:26]; [Prv 13:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

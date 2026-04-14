@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 9
 ---
@@ -131,3 +131,7 @@ e. (9:27] – [28) [2 Chr 22:7] – [9].
 f. (9:31) [[1-kings-16|1 Kgs 16]]:8 – [13].
 
 g. (9:36) [[1-kings-21|1 Kgs 21]]:23.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

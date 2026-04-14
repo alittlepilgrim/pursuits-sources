@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: esther-chapter 5
 ---
@@ -67,3 +67,7 @@ d. (5:11) [Est 3:1]; [B:3]; [E:11]; [9:6] – [10].
 e. (5:13) [Est 3:2] – [3]; [6:10], [12].
 
 f. (5:14) [Est 6:4]; [7:9] – [10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 12
 ---
@@ -89,3 +89,7 @@ b. (12:2) [Is 66:24]; ([[matthew-25|Mt 25]]:46]; [Jn 5:29].
 c. (12:3) ([[wisdom-03|Wis 3]]:7].
 
 d. (12:7) [Rv 10:5] – [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

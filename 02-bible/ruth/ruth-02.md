@@ -11,7 +11,7 @@ tags:
   - bible/ruth
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ruth, Chapter 2
 ---
@@ -91,3 +91,7 @@ c. (2:11) [Ru 1:14] – [17].
 d. (2:12) [Ru 3:9]; [Dt 32:37]; [Ps 91:4].
 
 e. (2:20) [[genesis-24|Gen 24]]:27; [Lv 25:25]; [27:9] – [33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

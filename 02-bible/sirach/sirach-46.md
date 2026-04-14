@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 46
 ---
@@ -187,3 +187,7 @@ j. (46:17) [1 Sm 7:10] – [13].
 k. (46:19) [1 Sm 12:3].
 
 l. (46:20) [1 Sm 28:14] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

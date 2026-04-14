@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 1
 ---
@@ -123,3 +123,7 @@ h. (1:10] – [12) [Ps 102:26] – [28].
 i. (1:13) [Ps 110:1].
 
 j. (1:14) [Ps 91:11]; [Dn 7:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

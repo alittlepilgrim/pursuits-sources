@@ -10,7 +10,7 @@ tags:
   - term/creatures
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -19,8 +19,8 @@ publish: true
 ## Divine Intimacy Meditations
 
 - To find God, it is necessary to go from —: [[11-in-search-of-god#Meditation 2|11,2]];
-- attachment to — is an obstacle in the quest for God: [[13. Seeking God in Our Daily Duties#Meditation 1|13,1]]; [[20-seeking-god-in-creatures#Meditation 1|20,1]], [[20-seeking-god-in-creatures#Meditation 2|20,2]]; [[90-chastity-of-heart#Meditation 1|90,1]], [[90-chastity-of-heart#Meditation 2|90,2]];
-- how to use — so that they will not divert us from union with God: [[13. Seeking God in Our Daily Duties#Meditation 1|13,1]]; [[20-seeking-god-in-creatures#Meditation 1|20,1]], [[20-seeking-god-in-creatures#Meditation 2|20,2]];
+- attachment to — is an obstacle in the quest for God: [[13-seeking-god-in-our-daily-duties#Meditation 1|13,1]]; [[20-seeking-god-in-creatures#Meditation 1|20,1]], [[20-seeking-god-in-creatures#Meditation 2|20,2]]; [[90-chastity-of-heart#Meditation 1|90,1]], [[90-chastity-of-heart#Meditation 2|90,2]];
+- how to use — so that they will not divert us from union with God: [[13-seeking-god-in-our-daily-duties#Meditation 1|13,1]]; [[20-seeking-god-in-creatures#Meditation 1|20,1]], [[20-seeking-god-in-creatures#Meditation 2|20,2]];
 - should not delay us on our way to God: [[161-gods-pilgrims#Meditation 2|161,2]];
 - to go beyond — to see God who has created them [[163-the-spirit-of-faith#Meditation 1|163,1]], [[163-the-spirit-of-faith#Meditation 2|163,2]]; [[244-faith-in-practice#Meditation 2|244,2]];
 - whoever wishes to be united with God should not permit his heart to be bound to —: [[227-the-divine-perfections#Meditation 2|227,2]];
@@ -39,10 +39,10 @@ publish: true
 - can do nothing without the help of God: [[240-divine-omnipotence#Meditation 2|240,2]];
 - to the soul enlightened by the gift of knowledge, — become a ladder to God: [[309-the-gift-of-knowledge#Meditation 2|309,2]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[11-in-search-of-god|11. In search of God]]
-- [[13. Seeking God in Our Daily Duties|13. Seeking God in Our Daily Duties]]
+- [[13-seeking-god-in-our-daily-duties|13. Seeking God in Our Daily Duties]]
 - [[20-seeking-god-in-creatures|20. Seeking God in Creatures]]
 - [[90-chastity-of-heart|90. Chastity of Heart]]
 - [[114-the-hidden-life|114. The Hidden Life]]

@@ -2,7 +2,6 @@
 type: figure
 title: Saint Simon Stock
 aliases:
-  - 20250912-204812
   - Saint Simon Stock
   - simon-stock-saint
 tags:
@@ -11,7 +10,7 @@ tags:
   - type/figure
 celebration: 05-16
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

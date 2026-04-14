@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 110
 ---
@@ -73,3 +73,7 @@ c. (110:4) [Ps 89:35]; [132:11]; [[genesis-14|Gen 14]]:18; [Heb 5:6]; [7:21].
 d. (110:5) ([[psalm-02|Ps 2]]:9]; ([[revelation-02|Rv 2]]:27]; [12:5]; [19:15].
 
 e. (110:7) ([[psalm-03|Ps 3]]:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

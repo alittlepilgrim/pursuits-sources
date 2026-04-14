@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 25
 url: https://bible.usccb.org/bible/genesis/25
 aliases:
-  - 20250508-020301
   - genesis-25
   - Genesis, Chapter 25
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 25
 bible_book: genesis
@@ -173,3 +172,7 @@ n. (25:33) [Heb 12:16]..
 ## Navigation
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

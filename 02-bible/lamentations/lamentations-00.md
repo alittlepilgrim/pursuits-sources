@@ -3,17 +3,15 @@ type: bible
 title: Lamentations, The Book of Lamentations
 url: https://bible.usccb.org/bible/lamentations/0
 aliases:
-  - 20250730-152041
   - lamentations-00
   - Lamentations, the Book of Lamentations
-  - Lamentations, The Book of Lamentations
 tags:
   - bible/book
   - bible/lamentations
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Lamentations, the Book of Lamentations
 ---
@@ -37,3 +35,7 @@ The book may be divided as follows:
 3. The Voice of a Suffering Individual ([3:1] – [66]).
 4. Miseries of the Besieged City ([4:1] – [22]).
 5. The Community’s Lament to the Lord ([5:1] – [22]).
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

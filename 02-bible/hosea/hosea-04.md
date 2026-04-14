@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 4
 ---
@@ -211,3 +211,7 @@ j. (4:18) [Am 2:8].
 k. (4:19) [Jer 4:11] – [12].
 
 l. (4:19) [Is 1:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 16
 ---
@@ -59,3 +59,7 @@ b. (16:8) [2 Chr 14:8] – [14].
 c. (16:9) [Ps 33:13] – [15].
 
 d. (16:11] – [14) [[1-kings-15|1 Kgs 15]]:23 – [24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

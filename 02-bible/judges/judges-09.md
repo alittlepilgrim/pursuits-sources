@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 9
 ---
@@ -205,3 +205,7 @@ h. (9:45) [Dt 29:23]; [Jer 17:6]; [Ps 107:34].
 i. (9:53) [2 Sm 11:21].
 
 j. (9:54) [1 Sm 31:4]; [2 Sm 1:9]; [[1-chronicles-10|1 Chr 10]]:4.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

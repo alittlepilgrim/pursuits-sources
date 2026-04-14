@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 44
 ---
@@ -137,3 +137,7 @@ q. (44:29) [Lv 6:16]; [27:28].
 r. (44:30) [Nm 15:18] – [21]; [18:12] – [13].
 
 s. (44:31) [Lv 11:39].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

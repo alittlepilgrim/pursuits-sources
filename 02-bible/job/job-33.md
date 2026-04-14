@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 33
 ---
@@ -185,3 +185,7 @@ f. (33:13) [Jb 31:35].
 g. (33:20) [Jb 6:7].
 
 h. (33:26) [Jb 22:26] – [29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

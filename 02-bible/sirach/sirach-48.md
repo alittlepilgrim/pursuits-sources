@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 48
 ---
@@ -201,3 +201,7 @@ o. (48:21) [[2-kings-19|2 Kgs 19]]:35; [Is 37:36].
 p. (48:23) [[2-kings-20|2 Kgs 20]]:11; [Is 38:8].
 
 q. (48:24] – [25) [[2-kings-20|2 Kgs 20]]:17; [Is 40:1] – [11]; [42:9]; [46:10]; [48:6]; [61:2] – [3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

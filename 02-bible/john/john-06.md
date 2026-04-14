@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 6
 ---
@@ -281,3 +281,7 @@ c. (6:64) [13:11].
 d. (6:69) [11:27]; ([[matthew-16|Mt 16]]:16]; ([[mark-01|Mk 1]]:24]; ([[luke-04| [[luke-04|Lk 4]]:]]:34].
 
 e. (6:71) [12:4]; [13:2], [27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

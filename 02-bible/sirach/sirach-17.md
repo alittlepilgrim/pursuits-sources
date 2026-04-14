@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 17
 ---
@@ -177,3 +177,7 @@ c. (17:17) ([[exodus-19|Ex 19]]:5]; [Dt 4:19] – [20]; [32:8] – [9]; [Dn 10:1
 d. (17:23) ([[psalm-07|Ps 7]]:17]; [Jl 4:4], [7]; [Jer 23:19]; [[ezekiel-22|Ez 22]]:31.
 
 e. (17:27] – [28) ([[psalm-06|Ps 6]]:6]; [88:4] – [7]; [115:17]; [Is 38:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

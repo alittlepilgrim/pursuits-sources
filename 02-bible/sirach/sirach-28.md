@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 28
 ---
@@ -163,3 +163,7 @@ g. (28:13) [Sir 5:13] – [6:1].
 h. (28:18) [Jas 3:5] – [12].
 
 i. (28:24) [[sirach-22|Sir 22]]:27; [Ps 141:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

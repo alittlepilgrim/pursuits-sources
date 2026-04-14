@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 30
 ---
@@ -111,3 +111,7 @@ h. (30:25) [Nm 31:27].
 i. (30:29) [1 Sm 27:10].
 
 j. (30:31) [2 Sm 2:1] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

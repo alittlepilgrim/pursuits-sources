@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 13
 ---
@@ -85,3 +85,7 @@ j. (13:12) [Jn 8:12]; [1 Thes 5:4] – [8]; ([[1-john-02|1 Jn 2]]:8] / ([[2-cori
 k. (13:13) ([[luke-21|Lk 21]]:34]; [Eph 5:18].
 
 l. (13:14) [Gal 3:27]; [5:16]; [Eph 4:24]; [6:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

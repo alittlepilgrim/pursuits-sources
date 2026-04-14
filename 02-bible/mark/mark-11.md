@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 11
 ---
@@ -139,3 +139,7 @@ j. (11:24) ([[matthew-07|Mt 7]]:7]; [Jn 11:22]; [14:13].
 k. (11:25) ([[matthew-06|Mt 6]]:14]; [18:35].
 
 l. (11:27] – [33) ([[matthew-21|Mt 21]]:23] – [27]; ([[luke-20|Lk 20]]:1] – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 11
 ---
@@ -81,3 +81,7 @@ Then Tobit went back in, rejoicing and praising God with full voice. Tobiah rela
 a. (11:9) [Gn 33:4]; [45:14]; [46:29] – [30]; ([[luke-15|Lk 15]]:20].
 
 b. (11:15) [Tb 13:2]; [Dt 32:39]; [1 Sm 2:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

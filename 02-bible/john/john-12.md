@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 12
 ---
@@ -273,3 +273,7 @@ m. (12:47) [3:17].
 n. (12:48) ([[luke-10|Lk 10]]:16]; [Heb 4:12].
 
 o. (12:49) [14:10], [31]; [Dt 18:18] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

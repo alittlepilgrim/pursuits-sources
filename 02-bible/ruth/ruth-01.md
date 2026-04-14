@@ -11,7 +11,7 @@ tags:
   - bible/ruth
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ruth, Chapter 1
 ---
@@ -101,3 +101,7 @@ a. (1:9) [Ru 3:1].
 b. (1:20) ([[exodus-15|Ex 15]]:23].
 
 c. (1:21) [Ru 3:17]; [[1-kings-17|1 Kgs 17]]:20.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

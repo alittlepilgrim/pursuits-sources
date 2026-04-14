@@ -13,7 +13,7 @@ tags:
   - divine-intimacy
   - type/toc
 created: 2025-06-22
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 permalink: /divine-intimacy
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
@@ -47,7 +47,7 @@ attachment: false
 - [[10-invitation-to-divine-intimacy|10. Invitation to Divine Intimacy]]
 - [[11-in-search-of-god|11. In search of God]]
 - [[12-seeking-god-in-prayer|12. Seeking God in Prayer]]
-- [[13. Seeking God in Our Daily Duties|13. Seeking God in Our Daily Duties]]
+- [[13-seeking-god-in-our-daily-duties|13. Seeking God in Our Daily Duties]]
 - [[14-the-virgin-of-the-incarnation|14. The Virgin of the Incarnation]]
 - [[15-the-lord-is-nigh|15. The Lord is Nigh]]
 - [[16-guard-of-the-senses|16. Guard of the Senses]]
@@ -173,7 +173,7 @@ attachment: false
 - [[127-the-value-of-suffering|127. The Value of Suffering]]
 - [[128-patience|128. Patience]]
 - [[129-the-daily-cross|129. The Daily Cross]]
-- [[a little pilgrim/carmel/130-suffering-and-abandonment|130. Suffering and Abandonment]]
+- [[private 🔏/carmel-study-notes/130-suffering-and-abandonment|130. Suffering and Abandonment]]
 - [[131-the-seven-sorrows-of-mary|131. The Seven Sorrows of Mary]]
 - [[132-love-of-the-cross|132. Love of the Cross]]
 - [[133-the-triumph-of-jesus|133. The Triumph of Jesus]]

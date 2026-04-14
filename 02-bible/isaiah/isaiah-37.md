@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 37
 ---
@@ -277,3 +277,7 @@ j. (37:32) [Is 9:6].
 k. (37:35) [Is 31:5]; [[1-kings-15|1 Kgs 15]]:4.
 
 l. (37:36) [[isaiah-10|Is 10]]:12; [17:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

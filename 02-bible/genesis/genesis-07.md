@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 7
 bible_book: genesis
@@ -96,3 +96,7 @@ e. (7:21] – [23) [Jb 22:16]; ([[matthew-24|Mt 24]]:39]; ([[luke-17|Lk 17]]:27]
 ## Navigation
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

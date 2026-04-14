@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 21
 ---
@@ -145,3 +145,7 @@ j. (21:41) [Nm 35:7].
 k. (21:43) [[genesis-12|Gen 12]]:7; [13:15]; [15:18]; [26:3]; [28:4], [13].
 
 l. (21:45) [Jos 23:14] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

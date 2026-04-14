@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 4
 ---
@@ -315,3 +315,7 @@ p. (4:27) [Jer 5:18].
 q. (4:28) [[isaiah-24|Is 24]]:4.
 
 r. (4:31) [Jer 6:24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

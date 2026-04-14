@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 33
 ---
@@ -173,3 +173,7 @@ j. (33:52) ([[exodus-23|Ex 23]]:31]; [34:13]; [Dt 7:5]; [12:3].
 k. (33:54) [Nm 26:53] – [56].
 
 l. (33:55) [Jos 23:13]; [Jgs 2:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

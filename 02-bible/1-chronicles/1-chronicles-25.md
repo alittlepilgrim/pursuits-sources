@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 25
 ---
@@ -93,3 +93,7 @@ b. \[[25:5]\] [2 Chr 35:15].
 c. \[[25:6]\] [[1-chronicles-15|1 Chr 15]]:16.
 
 d. \[[25:8]\] [[1-chronicles-24|1 Chr 24]]:31.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

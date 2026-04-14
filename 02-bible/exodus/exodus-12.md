@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 12
 url: https://bible.usccb.org/bible/exodus/12
 aliases:
-  - 20250731-085901
   - exodus-12
   - Exodus, Chapter 12
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 12
 ---
@@ -180,3 +179,7 @@ j. (12:40) [[genesis-15|Gen 15]]:13; ([[acts-of-the-apostles-07|Acts 7]]:6]; [Ga
 k. (12:46) [Nm 9:12]; [Jn 19:36].
 
 l. (12:48) [Nm 9:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

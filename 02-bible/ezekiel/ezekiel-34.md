@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 34
 ---
@@ -123,3 +123,7 @@ o. (34:28) [Jer 30:10].
 p. (34:30) ([[exodus-06|Ex 6]]:7].
 
 q. (34:31) ([[psalm-28|Ps 28]]:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

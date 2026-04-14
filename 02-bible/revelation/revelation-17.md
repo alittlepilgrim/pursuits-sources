@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 17
 ---
@@ -101,3 +101,7 @@ g. (17:12) [Dn 7:24].
 h. (17:14) [19:11] – [21]; [[2-maccabees-13|2 Mc 13]]:4; [1 Tm 6:15] / ([[romans-01|Rom 1]]:6]; [1 Pt 2:9]; [Jude 1].
 
 i. (17:16) [[ezekiel-16|Ez 16]]:37 – [41]; [23:25] – [29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

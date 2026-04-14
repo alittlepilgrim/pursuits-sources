@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 17
 ---
@@ -125,3 +125,7 @@ c. (17:9] – [12) ([[psalm-10|Ps 10]]:9]; [22:14], [22]; [35:17]; [58:7]; [Jb 4
 d. (17:9) [Ps 36:8]; [57:2]; [61:5]; [63:8]; [91:4]; [Dt 32:10]; [Ru 2:12]; [Zec 2:12]; ([[matthew-23|Mt 23]]:37].
 
 e. (17:15) ([[psalm-04|Ps 4]]:7]; [31:17]; [67:2]; [80:4]; [Nm 6:25]; [Dn 9:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

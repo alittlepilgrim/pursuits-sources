@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 21
 ---
@@ -79,3 +79,7 @@ d. (21:8] – [10) [Gn 27:40]; [2 Kgs 8:20] – [22].
 e. (21:19) [2 Chr 16:14].
 
 f. (21:20) [2 Kgs 8:24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

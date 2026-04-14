@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 31
 ---
@@ -63,3 +63,7 @@ d. (31:5) [1 Sm 10:1]; [26:9]; [[2-maccabees-14|2 Mc 14]]:42.
 e. (31:9) [1 Sm 17:54]; [2 Sm 1:20]; [[2-maccabees-15|2 Mc 15]]:35.
 
 f. (31:11] – [13) [1 Sm 11:1] – [11]; [2 Sm 2:4] – [7]; [21:12] – [14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

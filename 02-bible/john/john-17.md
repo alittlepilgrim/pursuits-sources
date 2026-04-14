@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 17
 ---
@@ -119,3 +119,7 @@ m. (17:21) [10:30]; [14:10] – [11], [20].
 n. (17:24) [14:3]; [1 Thes 4:17].
 
 o. (17:25) [1:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

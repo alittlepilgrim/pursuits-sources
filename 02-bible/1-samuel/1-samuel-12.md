@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 12
 ---
@@ -113,3 +113,7 @@ k. (12:21) [Dt 32:37] – [39]; [Is 41:29]; [44:9] – [10].
 l. (12:22) ([[exodus-18|Ex 18]]:10]; [Dt 4:34]; [Jos 7:9]; [Is 48:9]; [Jer 14:21]; [Dn 3:34].
 
 m. (12:23) [Ex 32:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

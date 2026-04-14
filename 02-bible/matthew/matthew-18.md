@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 18
 ---
@@ -183,3 +183,7 @@ o. (18:23) [25:19].
 p. (18:33) [Sir 28:4].
 
 q. (18:35) [6:15]; [Jas 2:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 38
 ---
@@ -171,3 +171,7 @@ f. (38:12) [Jb 7:6].
 g. (38:13) [Jb 23:14].
 
 h. (38:18) ([[psalm-06|Ps 6]]:6]; [88:11] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

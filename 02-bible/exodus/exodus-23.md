@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 23
 url: https://bible.usccb.org/bible/exodus/23
 aliases:
-  - 20250731-085946
   - exodus-23
   - Exodus, Chapter 23
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 23
 ---
@@ -136,3 +135,7 @@ l. (23:27] – [30) [Dt 2:25]; [7:20] – [22].
 m. (23:31) [[genesis-15|Gen 15]]:18; [Dt 11:24]; [Jos 1:4].
 
 n. (23:32] – [33) [Ex 34:12] – [16]; [Dt 7:2] – [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

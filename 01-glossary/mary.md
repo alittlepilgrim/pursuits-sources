@@ -20,6 +20,54 @@ description: mary. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City 
 
 The mother of Jesus. Because she is the mother of Jesus--Son of God and second Person of the Blessed Trinity--according to the flesh, she is rightly called the Mother of God (_Theotokos_) ([[1.1.3.1.pv#^ccc-148|148]], [[1.2.2.3.p1k#^ccc-495|495]]). Mary is also called "full of grace," and "Mother of the Church," and in Christian prayer and devotion, "Our Lady," the "Blessed Virgin Mary," and the "New Eve" ([[1.2.3.8.p23#^ccc-722|722]], [[1.2.3.8.p23#^ccc-726|726]], [[1.2.3.9.p2c#^ccc-963|963]]). _See_ Virgin Mary.
 
+## Ignatius Catholic Study Bible
+
+**Mary, Mother of Jesus**
+
+All generations will call Mary blessed: Lk 1:48
+
+Annunciation: Lk 1:26-38
+
+Asked Jesus to work his first miracle: Jn 2:3-5, 7-11
+
+At the crucifixion of Jesus: Jn 19:25-27
+
+Faithful believer of God's Word: Lk 1:38, 45
+
+Full of grace: Lk 1:28
+
+Humble: Lk 1:38, 48
+
+Mother of the disciples of the Lord: Jn 19:26-27; Rev 12:1-2, 4-6, 13-17
+
+Mother of God ("the Lord"): Lk 1:43
+
+Mother of Sorrows, who suffers along with Jesus: Lk 2:35
+
+Overshadowed by the Holy Spirit: Lk 1:35
+
+Purified according to the Law: Lk 2:22
+
+Saved by God: Lk 1:47
+
+Venerated by Spirit-filled Elizabeth: Lk 1:41-45
+
+Venerated by the angel Gabriel: Lk 1:28
+
+Virgin Mother of Jesus: Mt 1:18, 20, 23, 25; 2:13; Lk 1:27, 34-35
+
+Visitation with her kinswoman Elizabeth: Lk 1:39-56
+
+With the apostles and other disciples after the Ascension of Jesus: Acts 1:14
+
+Woman Clothed with the Sun: Rev 12:1-2
+
+*See also* [[Motherhood]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
+
 ## Divine Intimacy Index
 
 - Her Immaculate Conception 9,1; 171,1;

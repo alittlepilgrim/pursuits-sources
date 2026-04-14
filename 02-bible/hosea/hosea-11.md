@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 11
 ---
@@ -131,3 +131,7 @@ f. (11:8) [Dt 29:22].
 g. (11:9) [Nm 23:19]; [Is 31:3]; [Ez 28:2].
 
 h. (11:10) [Jl 4:16]; [Am 1:2]; [Jer 25:30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

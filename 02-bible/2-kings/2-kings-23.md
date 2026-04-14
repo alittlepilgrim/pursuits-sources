@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 23
 ---
@@ -141,3 +141,7 @@ l. (23:24) [[2-kings-21|2 Kgs 21]]:6; [Gn 31:19]; [Dt 18:10] – [14]; [Jgs 18:1
 m. (23:25) [Dt 6:5]; [Sir 49:1] – [3].
 
 n. (23:31) [[2-kings-24|2 Kgs 24]]:18.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

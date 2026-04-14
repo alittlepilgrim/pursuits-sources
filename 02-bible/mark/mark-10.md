@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 10
 ---
@@ -181,3 +181,7 @@ o. (10:38) ([[luke-12|Lk 12]]:50].
 p. (10:42] – [45) ([[luke-22|Lk 22]]:25] – [27].
 
 q. (10:46] – [52) ([[matthew-20|Mt 20]]:29] – [34]; ([[luke-18|Lk 18]]:35] – [43].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

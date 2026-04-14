@@ -13,7 +13,7 @@ tags:
   - term/three-ages
   - type/term
 created: 2026-03-28
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: glossary for the term acts
 ---
@@ -23,4 +23,3 @@ description: glossary for the term acts
 ## The Three Ages of the Spiritual Life Volume I
 
 ![[tta-1-index#Ages of the Spiritual Life, Three]]
-

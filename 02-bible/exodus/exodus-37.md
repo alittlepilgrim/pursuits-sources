@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 37
 url: https://bible.usccb.org/bible/exodus/37
 aliases:
-  - 20250731-085755
   - exodus-37
   - Exodus, Chapter 37
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 37
 ---
@@ -96,3 +95,7 @@ c. (37:17] – [24) ([[exodus-25|Ex 25]]:31] – [39].
 d. (37:25] – [28) [Ex 30:1] – [5].
 
 e. (37:29) [Ex 30:23] – [25], [34] – [36].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

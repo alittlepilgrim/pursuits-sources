@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 17
 ---
@@ -73,3 +73,7 @@ b. (17:6) [2 Chr 20:33]; [Ex 34:13].
 c. (17:8) [2 Chr 19:8].
 
 d. (17:9) ([[ezra-07|Ezr 7]]:25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

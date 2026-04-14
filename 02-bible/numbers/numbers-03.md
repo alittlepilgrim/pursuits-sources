@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 3
 ---
@@ -151,3 +151,7 @@ i. (3:17] – [20) [Nm 26:57]; [Gn 46:11]; ([[exodus-06|Ex 6]]:16] – [19]; [1 
 j. (3:25] – [26) ([[exodus-26|Ex 26]]:7], [14], [36]; [36:14].
 
 k. (3:47) [Nm 18:16]; [Ex 30:13]; [Lv 27:25]; [Ez 45:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

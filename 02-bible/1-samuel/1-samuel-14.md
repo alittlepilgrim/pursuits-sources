@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 14
 ---
@@ -191,3 +191,7 @@ r. (14:48) [1 Sm 15:7].
 s. (14:49) [1 Sm 18:20], [25]; [31:2]; [1 Chr 8:33]; [9:39]; [10:2].
 
 t. (14:51) [1 Sm 9:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 19
 ---
@@ -101,3 +101,7 @@ k. (19:18) [Dt 13:15]; [17:4].
 l. (19:20) [Dt 13:11].
 
 m. (19:21) ([[exodus-21|Ex 21]]:23] – [25]; [Lv 24:19] – [20]; ([[matthew-05|Mt 5]]:38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

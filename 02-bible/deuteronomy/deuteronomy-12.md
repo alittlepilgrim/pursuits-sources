@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 12
 ---
@@ -137,3 +137,7 @@ s. (12:28) [Dt 4:40]; [5:29]; [6:2] – [3], [17] – [18]; [12:25].
 t. (12:29] – [31) [Dt 7:1] – [5], [25]; ([[exodus-23|Ex 23]]:33]; [34:12]; [Jgs 2:2] – [3].
 
 u. (12:31) [Dt 18:10]; [Lv 18:21]; [20:2] – [5]; [2 Kgs 3:27]; [16:3]; [21:6]; [23:10]; [Jer 7:31]; [19:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

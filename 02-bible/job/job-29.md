@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 29
 ---
@@ -131,3 +131,7 @@ like one who comforts mourners.
 a. (29:2) [Jb 1:10].
 
 b. (29:9) ([[wisdom-08|Wis 8]]:10] – [12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

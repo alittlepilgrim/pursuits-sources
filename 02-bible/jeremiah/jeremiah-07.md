@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 7
 ---
@@ -157,3 +157,7 @@ u. (7:32) [Jer 19:6]; [32:35].
 v. (7:33) [Jer 16:4]; [34:20].
 
 w. (7:34) [Jer 16:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 18
 url: https://bible.usccb.org/bible/exodus/18
 aliases:
-  - 20250731-085928
   - exodus-18
   - Exodus, Chapter 18
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 18
 ---
@@ -92,3 +91,7 @@ a. (18:3) ([[exodus-02|Ex 2]]:22].
 b. (18:18) [Nm 11:14].
 
 c. (18:21], [25) [Dt 1:15]; [16:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

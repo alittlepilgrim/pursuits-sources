@@ -10,7 +10,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Decree on Priestly Training - Optatam totius
 abbreviation: ot
@@ -18,19 +18,15 @@ abbreviation: ot
 
 # Optatam Totius
 
-## Decree On Priestly Training Proclaimed by His Holine Ss Pope Paul Vi On October 28 1965
+## Decree on Priestly Training Proclaimed by His Holiness Pope Paul VI on October 28, 1965
 
 Animated by the spirit of Christ, this sacred synod is fully aware that the desired renewal of the whole Church depends to a great extent on the ministry of its priests. It proclaims the extreme importance of priestly training and lays down certain basic principles by which those regulations may be strengthened which long use has shown to be sound and by which those new elements can be added which correspond to the constitutions and decrees of this sacred council and to the changed conditions of our times. Because of the very unity of the Catholic priesthood this priestly formation is necessary for all priests, diocesan and religious and of every rite. Wherefore, while these prescriptions directly concern the diocesan clergy, they are to be appropriately adapted to all.
 
-# I
-
-THE PROGRAM OF PRIESTLY TRAINING TO BE UNDERTAKEN BY EACH COUNTRY
+# I – The Program of Priestly Training to Be Undertaken by Each Country
 
 1\. Since only general laws can be made where there exists a wide variety of nations and regions, a special "program of priestly training" is to be undertaken by each country or rite. It must be set up by the episcopal conferences, revised from time to time and approved by the Apostolic See. In this way will the universal laws be adapted to the particular circumstances of the times and localities so that the priestly training will always be in tune with the pastoral needs of those regions in which the ministry is to be exercised. ^ot-1
 
-# II
-
-THE URGENT FOSTERING OF PRIESTLY VOCATIONS
+# II – The Urgent Fostering of Priestly Vocations
 
 2\. The duty of fostering vocations pertains to the whole Christian community, which should exercise it above all by a fully Christian life. The principal contributors to this are the families which, animated by the spirit of faith and love and by the sense of duty, become a kind of initial seminary, and the parishes in whose rich life the young people take part. Teachers and all those who are in any way in charge of the training of boys and young men, especially Catholic associations, should carefully guide the young people entrusted to them so that these will recognize and freely accept a divine vocation. All priests especially are to manifest an apostolic zeal in fostering vocations and are to attract the interest of youths to the priesthood by their own life lived in a humble and industrious manner and in a happy spirit as well as by mutual priestly charity and fraternal sharing of labor. ^ot-2
 
@@ -46,9 +42,7 @@ The work of fostering vocations should, in a spirit of openness, transcend the l
 
 With equal concern the seeds of vocations among adolescents and young men are also to be fostered in those special institutes which, in accord with the local circumstances, serve the purpose of a minor seminary as well as among those who are trained in other schools or by other educational means. Finally, those institutions and other schools initiated for those with a belated vocation are to be carefully developed.
 
-# III
-
-THE SETTING UP OF MAJOR SEMINARIES
+# III – The Setting up of Major Seminaries
 
 4\. Major seminaries are necessary for priestly formation. Here the entire training of the students should be oriented to the formation of true shepherds of souls after the model of our Lord Jesus Christ, teacher, priest and shepherd. They are therefore to be prepared for the ministry of the word: that they might understand ever more perfectly the revealed word of God; that, meditating on it they might possess it more firmly, and that they might express it in words and in example; for the ministry of worship and of sanctification: that through their prayers and their carrying out of the sacred liturgical celebrations they might perfect the work oœ salvation through the Eucharistic sacrifice and the sacraments; for the ministry of the parish: that they might know how to make Christ present to men, Him who did not "come to be served but to serve and to give His life as a ransom for many" ([[mark-10#^mark-10-45|Mark 10:45;]] cf. [[john-13#^john-13-12|John 13:12-17)]], and that, having become the servants of all, they might win over all the more (cf. [[1-corinthians-09#^1-corinthians-09-19|1 Cor. 9:19)]]. ^ot-4
 
@@ -66,9 +60,7 @@ In the entire process of selecting and testing students, however, a due firmness
 
 In these seminaries, however, where there are many students, while retaining a unity of direction and of scientific training, the students should be conveniently divided into smaller groups so that a better provision is had for the personal formation of each.
 
-# IV
-
-THE CAREFUL DEVELOPMENT OF THE SPIRITUAL TRAINING
+# IV – The Careful Development of the Spiritual Training
 
 8\. The spiritual training should be closely connected with the doctrinal and pastoral, and, with the special help of the spiritual director, should be imparted in such a way that the students might learn to live in an intimate and unceasing union with the Father through His Son Jesus Christ in the Holy Spirit. Conformed to Christ the Priest through their sacred ordination they should be accustomed to adhere to Him as friends, in an intimate companionship, their whole life through. They should so live His paschal mystery themselves that they can initiate into it the flock committed to them. They should be taught to seek Christ in the faithful meditation on God's word, in the active participation in the sacred mysteries of the Church, especially in the Eucharist and in the divine office, in the bishop who sends them and in the people to whom they are sent, especially the poor, the children, the sick, the sinners and the unbelievers. They should love and venerate with a filial trust the most blessed Virgin Mary, who was given as mother to the disciple by Christ Jesus as He was dying on the cross. ^ot-8
 
@@ -92,9 +84,7 @@ The whole pattern of seminary life, permeated with a desire for piety and silenc
 
 12\. In order that the spiritual training rest upon a more solid basis and that the students embrace their vocation with a fully deliberate choice, it will be the prerogative of the bishops to establish a fitting period of time for a more intense introduction to the spiritual life. It will also be their charge to determine the opportuneness of providing for a certain interruption in the studies or of establishing a suitable introduction to pastoral work, in order that they may more satisfactorily test the fitness of candidates for the priesthood. In accordance with the conditions of individual regions it will also be the bishops' responsibility to make a decision about extending the age beyond that demanded at present by common law for the reception of sacred orders, and of deliberating whether it be opportune to rule that students, at the end of their course in theology, exercise the order of deacon for a fitting period of time before being promoted to the priesthood. ^ot-12
 
-# V
-
-**THE REVISION OF ECCLESIASTICAL STUDIES**
+# V – The Revision of Ecclesiastical Studies
 
 13\. Before beginning specifically ecclesiastical subjects, seminarians should be equipped with that humanistic and scientific training which young men in their own countries are wont to have as a foundation for higher studies. Moreover they are to acquire a knowledge of Latin which will enable them to understand and make use of the sources of so many sciences and of the documents of the Church. The study of the liturgical language proper to each rite should be considered necessary; a suitable knowledge of the languages of the Bible and of Tradition should be greatly encouraged. ^ot-13
 
@@ -124,9 +114,7 @@ Let them also be introduced to a knowledge of other religions which are more wid
 
 18\. It will be the bishops' concern that young men suited by temperament, virtue, and ability be sent to special institutes faculties, or universities so that priests may be trained at a higher scientific level in the sacred sciences and in other fields which may be judged opportune. Thus they will be able to meet the various needs of the apostolate. The spiritual and pastoral training of these men, however, especially if they are not yet ordained as priests, is in no way to be neglected. ^ot-18
 
-# VI
-
-**THE PROMOTION OF STRICTLY PASTORAL TRAINING**
+# VI – The Promotion of Strictly Pastoral Training
 
 19\. That pastoral concern which ought to permeate thoroughly the entire training of the students also demands that they be diligently instructed in those matters which are particularly linked to the sacred ministry, especially in catechesis and preaching, in liturgical worship and the administration of the sacraments, in works of charity, in assisting the erring and the unbelieving, and in the other pastoral functions. They are to be carefully instructed in the art of directing souls, whereby they will be able to bring all the sons of the Church first of all to a fully conscious and apostolic Christian life and to the fulfillment of the duties of their state of life. Let them learn to help, with equal solicitude, religious men and women that they may persevere in the grace of their vocations and may make progress according to the spirit of their various Institutes. ^ot-19
 
@@ -136,9 +124,7 @@ In general, those capabilities are to be developed in the students which especia
 
 But since it is necessary for the students to learn the art of exercising the apostolate not only theoretically but also practically, and to be able to act both on their own responsibility and in harmonious conjunction with others, they should be initiated into pastoral work, both during their course of studies and also during the time of vacations, by opportune practical projects. These should be carried out in accordance with the age of the students and local conditions, and with the prudent judgment of the bishops, methodically and under the leadership of men skilled in pastoral work, the surpassing power of supernatural means being always remembered.
 
-# VII
-
-**TRAINING TO BE ACHIEVED AFTER THE COURSE OF STUDIES**
+# VII – Training to Be Achieved After the Course of Studies
 
 21\. Since priestly training, because of the circumstances particularly of contemporary society, must be pursued and perfected even after the completion of the course of studies in seminaries, it will be the responsibility of episcopal conferences in individual nations to employ suitable means to this end. Such would be pastoral institutes working together with suitably chosen parishes, meetings held at stated times, and appropriate projects whereby the younger clergy would be gradually introduced into the priestly life and apostolic activity, under its spiritual, intellectual, and pastoral aspects, and would be able, day by day, to renew and foster them more effectively. ^ot-21
 

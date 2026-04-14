@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/ecclesiastes/0
 aliases:
   - ecclesiastes-00
   - Ecclesiastes, the Book of Ecclesiastes
-  - Ecclesiastes, The Book of Ecclesiastes
 tags:
   - bible/book
   - bible/ecclesiastes
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: ecclesiastes-the book of ecclesiastes
 ---
@@ -50,3 +49,7 @@ The Book of Ecclesiastes is divided as follows:
 - [[ecclesiastes-10|Ecclesiastes, Chapter 10]]
 - [[ecclesiastes-11|Ecclesiastes, Chapter 11]]
 - [[ecclesiastes-12|Ecclesiastes, Chapter 12]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 49
 ---
@@ -287,3 +287,7 @@ k. (49:21) [Is 54:1] – [3].
 l. (49:22) [Is 5:26]; [13:2].
 
 m. (49:26) [[isaiah-19|Is 19]]:2; [Ez 38:21]; [Zec 14:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

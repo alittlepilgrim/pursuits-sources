@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 22
 url: https://bible.usccb.org/bible/exodus/22
 aliases:
-  - 20250731-085943
   - exodus-22
   - Exodus, Chapter 22
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 22
 ---
@@ -114,3 +113,7 @@ i. (22:27) ([[acts-of-the-apostles-23|Acts 23]]:5].
 j. (22:29) ([[exodus-13|Ex 13]]:2]; [34:19]; [Lv 22:27]; [Dt 15:19].
 
 k. (22:30) [Lv 7:24]; [17:15]; [22:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

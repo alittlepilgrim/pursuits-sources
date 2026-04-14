@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 47
 ---
@@ -89,3 +89,7 @@ e. (47:6) ([[psalm-24|Ps 24]]:8], [10]; [68:18] – [19]; [98:6].
 f. (47:8] – [9) [Ps 72:11]; [93:1]; [96:10]; [97:1]; [99:1]; [Jer 10:7].
 
 g. (47:10) [Ps 89:19]; ([[exodus-03|Ex 3]]:6]; [Is 2:2] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

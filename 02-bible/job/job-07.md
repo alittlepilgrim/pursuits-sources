@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 7
 ---
@@ -137,3 +137,7 @@ d. (7:9] – [10) [Jb 10:21]; [14:10] – [12]; [2 Sm 12:23]; [14:14];([[wisdom-
 e. (7:16) [Jb 14:1] – [2], [5].
 
 f. (7:18) ([[psalm-17|Ps 17]]:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

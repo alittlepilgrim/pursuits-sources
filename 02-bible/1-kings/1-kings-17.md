@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 17
 ---
@@ -83,3 +83,7 @@ b. (17:6]\] ([[exodus-16|Ex 16]]:8], [12].
 c. (17:8] – [16]\] [2 Kgs 4:1] – [7]; ([[luke-04| [[luke-04|Lk 4]]:]]:25] – [26].
 
 d. (17:17] – [24]\] [2 Kgs 4:18] – [37]; ([[luke-07|Lk 7]]:11] – [16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

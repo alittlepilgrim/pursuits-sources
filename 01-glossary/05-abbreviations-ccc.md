@@ -1,25 +1,24 @@
 ---
-type: glossary
-title: Abbreviations - Catechism
+type: Glossary Abbreviations
+title: Glossary Abbreviations
 aliases:
-  - 20251026-163738
-  - Abbreviations
+  - Glossary Abbreviations
 tags:
-  - type/term
+  - type/glossary
 created: 2025-10-26
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 attachment: true
 attachment_name: pdf-ccc-abbreviations.pdf
 ---
 
-# Abbreviations
+# Abbreviations - Glossary
 
 ## Abbreviations - Catechism
 
 Sources: [[pdf-ccc-abbreviations.pdf|Catechism of the Catholic Church Abbreviations]]
 
-### Bible
+## Bible
 
 The following abbreviations are used for the books of the Bible cited in the text:
 
@@ -97,7 +96,7 @@ The following abbreviations are used for the books of the Bible cited in the tex
 
 | | |
 
-### Abbreviations Ccc Text
+### Abbreviations - Catechism
 
 #### A
 

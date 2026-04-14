@@ -8,16 +8,12 @@ tags:
   - term/prayer
   - type/term
 created: 2025-07-19
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: Prayer. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Prayer
-
-## Compendium on Social Doctrine
-
-![[sd-10-index-p#Prayer]]
 
 ## Catechism of the Catholic Church
 
@@ -44,6 +40,52 @@ This is the prayer found in the last four dwelling places. It is called by Teres
 The soul is in total dryness; no consolation is admitted into its interior. It seems to it that God is far away and that it has never been mindful of him and never will be. Its prayer becomes a torment to it. It feels rejected by God and an unbearable interior oppression. Its [[intellect|Intellect]] is so darkened that it becomes incapable of seeing the truth and believes whatever foolish things the [[imagination|Imagination]] represents to it. Books are of no help because it doesn’t understand what it reads; the intellect is incapable of understanding. The only remedy is to wait for the mercy of God.
 
 See also: [[prayer-ascetical|Ascetical Prayer]], [[prayer-mystical|Mystical Prayer]], [[prayer-painful|Painful Prayer]]
+
+## Ignatius Catholic Study Bible
+
+**Prayer**
+
+Benedictus ("Prayer of Zechariah"): Lk 1:68-79
+
+Christ's prayer for his disciples ("High Priestly Prayer"): Jn 17:1-26
+
+Constant prayer: Rom 12:12; Eph 5:20; 6:18; 1 Thess 5:17
+
+Faith-filled prayer: Mt 21:22; Mk 11:24; Jas 1:6-8
+
+For enemies: Mt 5:44
+
+Hail Mary ("Ave Maria"): Lk 1:28, 42
+
+Ineffectiveness of prayer without faith: Jas 1:6-8
+
+Intercessory prayer: Acts 7:60; 12:5; Col 1:9-12; 4:12; Heb 13:18-19; Jas 5:16-17
+
+Jesus' practice of prayer: Mt 11:25-26; 14:23; 26:36-44; Mk 1:35; 6:46; 14:32-39; Lk 3:21; 5:16; 6:12; 9:18, 28-29; 11:1; 22:32; 22:41-45; Jn 11:41-42; 17:1-26; Heb 5:7
+
+Jesus' teaching on prayer: Mt 6:5-13; 7:7-11; Lk 11:2-4
+
+Magnificat ("Prayer of Our Lady"): Lk 1:46-55
+
+Non-Christian's prayers: Acts 10:4
+
+*Nunc Dimittis* ("Prayer of Simeon"): Lk 2:29-32
+
+Our Father ("Pater Noster"; "The Lord's Prayer"): Mt 6:9-13; Lk 11:2-4
+
+Persistence in prayer: Mt 7:7-8; Lk 2:37; 6:12; 11:5-13
+
+Prayers for the dead: 2 Tim 1:16-18
+
+Repetition in prayer is not wrong in itself: Mt 26:44; Rev 4:8-11
+
+Warning against verbose or unnecessarily repetitive prayer: Mt 6:7-8
+
+*See also* [[intercession|Intercession of the Saints]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 # Divine Intimacy Meditations
 
@@ -145,3 +187,7 @@ See also: [[prayer-ascetical|Ascetical Prayer]], [[prayer-mystical|Mystical Pray
 - [[331-sanctification-in-the-apostolate|331. Sanctification in the apostolate]]
 - [[339-progress-in-the-apostolate|339. Progress in the apostolate]]
 - [[350-designs-of-peace-and-love|350. Designs of Peace and Love]]
+
+## Compendium on Social Doctrine
+
+![[sd-10-index-p#Prayer]]

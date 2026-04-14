@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 2
 ---
@@ -149,3 +149,7 @@ j. (2:27]\] [1 Sm 2:27] – [33].
 k. (2:32]\] [2 Sm 3:22] – [30]; [20:8] – [10].
 
 l. (2:44]\] [2 Sm 16:5] – [13]; [19:17] – [24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

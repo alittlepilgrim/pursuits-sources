@@ -11,7 +11,7 @@ tags:
   - saint/john-of-the-cross
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: Translator's Preface to the Second Edition - The Ascent of Mt. Carmel
 ---
@@ -31,4 +31,3 @@ Professor David Knowles, of Cambridge University, for whose continuous practical
 E.A.P.
 
 June 30, 1941.
-

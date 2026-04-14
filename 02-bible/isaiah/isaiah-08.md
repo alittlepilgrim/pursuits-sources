@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 8
 ---
@@ -171,3 +171,7 @@ f. (8:15) ([[matthew-21|Mt 21]]:44].
 g. (8:18) [Is 2:2] – [5]; [4:5]; [11:9]; [14:32]; [28:16]; [31:9]; [33:5].
 
 h. (8:19) [Is 29:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

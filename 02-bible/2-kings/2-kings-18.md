@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 18
 ---
@@ -125,3 +125,7 @@ e. (18:16) [1 Kgs 6:31] – [35].
 f. (18:18) [[isaiah-22|Is 22]]:15 – [25].
 
 g. (18:21) [Is 30:1] – [7]; [31:1] – [3]; [Ez 29:6] – [7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

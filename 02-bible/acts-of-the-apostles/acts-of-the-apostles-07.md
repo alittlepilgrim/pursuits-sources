@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 7
 ---
@@ -261,3 +261,7 @@ p. \[[7:58]\] [22:20].
 q. \[[7:59]\] [Ps 31:6]; ([[luke-23|Lk 23]]:46].
 
 r. \[[7:60]\] ([[matthew-27|Mt 27]]:46], [50]; ([[mark-15|Mk 15]]:34]; ([[luke-23|Lk 23]]:46].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

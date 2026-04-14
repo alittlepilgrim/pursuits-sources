@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 31
 ---
@@ -119,3 +119,7 @@ g. (31:7) [Is 2:20]; [30:22].
 h. (31:8) [Is 27:1]; [34:5] – [6]; [37:36].
 
 i. (31:9) [Is 30:17], [33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

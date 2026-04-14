@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 18
 ---
@@ -123,3 +123,7 @@ l. (18:27] – [29) [Jos 19:47].
 m. (18:29) [Gn 30:5] – [6].
 
 n. (18:30) ([[exodus-02|Ex 2]]:22]; [18:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

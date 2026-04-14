@@ -9,7 +9,7 @@ tags:
   - term/courage
   - type/term
 created: 2025-07-22
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 ---
 
@@ -22,7 +22,7 @@ publish: true
 - to make acts of — in spite of the fears that invade our sensible nature [[302-the-gift-of-fortitude#Meditation 1|302,1]];
 - one becomes courageous by performing acts of —: [[288-courage#Meditation 2|288,2]].
 
-## Divine Intimacy Meditations
+### Source
 
 - [[288-courage|288. Courage]]
 - [[302-the-gift-of-fortitude|302. The Gift of Fortitude]]

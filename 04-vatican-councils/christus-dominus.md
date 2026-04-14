@@ -11,7 +11,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Decree concerning the Pastoral Office of Bishops - Christus dominus
 abbreviation: cd
@@ -19,7 +19,7 @@ abbreviation: cd
 
 # Christus Dominus
 
-## Decree Concerning The Pastoral Office Of Bishops In The Church Proclaimed by His Holiness Pope Paul Vi on October 28 1965
+## Decree Concerning the Pastoral Office of Bishops in the Church Proclaimed by His Holiness Pope Paul VI on October 28, 1965
 
 # Preface
 

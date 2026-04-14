@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 6
 ---
@@ -105,3 +105,7 @@ m. (6:18) [Nm 23:19]; [1 Sm 15:29]; [Jn 8:17]; [2 Tm 2:13].
 n. (6:19) [10:20]; ([[exodus-26|Ex 26]]:31] – [33]; [Lv 16:2].
 
 o. (6:20) [5:10]; [Ps 110:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 39
 ---
@@ -149,3 +149,7 @@ where the slain are, there is he.
 \* (39:19] – [25) A classic description of a war horse.
 
 a. (39:30) ([[matthew-24|Mt 24]]:28]; ([[luke-17|Lk 17]]:37].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

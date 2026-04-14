@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 18
 ---
@@ -177,3 +177,7 @@ s. (18:38] – [39) [17:13]; ([[matthew-09|Mt 9]]:27]; [15:22].
 t. (18:41) ([[mark-10|Mk 10]]:36].
 
 u. (18:42) [7:50]; [17:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

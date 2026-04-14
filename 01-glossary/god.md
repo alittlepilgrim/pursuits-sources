@@ -3,14 +3,13 @@ type: glossary
 title: God
 author:
 aliases:
-  - 20250720-212722
   - god
   - God
 tags:
   - term/god
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: god. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -21,13 +20,73 @@ description: god. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City L
 
 The infinite divine being, one in being yet three Persons: Father, Son, and Holy Spirit. God has revealed himself as the "One who is," as truth and love, as creator of all that is, as the author of divine revelation, and as the source of salvation ([[1.2.1.0.p15|ccc-198]], [[1.2.1.1.p19|ccc-279]]).
 
-# God
+## Ignatius Catholic Study Bible
+
+**God**
+
+All-knowing: Mt 6:6, 8; 10:29-30; Rom 11:33; Heb 4:13; 1 Jn 3:19-20
+
+Almighty (omnipotence): 2 Cor 6:18; Rev 1:8; 4:8; 11:17; 15:3; 16:7, 14; 19:6, 15; 21:22
+
+Alpha and Omega: Rev 1:8; 21:6; 22:13
+
+Alone to receive worship of divine honor: Mt 4:10; Lk 4:8; Acts 10:25-26; 14:11-15; Rev 22:9
+
+Creator: Acts 14:15; 17:24-26; Rom 11:36; 1 Cor 8:5-6; Heb 1:2-3, 10; 1 Tim 4:4; 6:13; Rev 4:11
+
+Eternal: Rom 1:20; 16:26; 1 Tim 1:17; Heb 1:10-12
+
+Faithful: 1 Cor 1:9; 10:13; 1 Thess 5:24; 2 Thess 3:3; 2 Tim 2:13; 1 Jn 1:9
+
+Father: Mt 5:45; 6:6-9; 7:11; Eph 3:14-15; Rev 21:7
+
+Father of spirits: Heb 12:9
+
+Goodness: Lk 18:19
+
+Holy: 1 Pet 1:16; Rev 4:8; 6:10
+
+Judge: Rom 2:6-8, 16; 3:6; Heb 10:30; 1 Pet 1:17; Rev 20:12
+
+Just: Rom 2:6-8; 2 Cor 5:10
+
+Knowledge of God's existence through reason's reflection on creation: Acts 14:15-17; 17:24-28; Rom 1:19-20
+
+Love: Jn 3:16; Rom 5:5, 8-10; 8:35-39; 2 Cor 13:14; 2 Thess 2:16; 1 Jn 4:10-12
+
+Omnipresent: Mt 6:6, 8, 18; 10:29-31; 18:20; Acts 17:24-28; Rom 10:6-7
+
+One: Jn 17:3; 1 Cor 8:4; Gal 3:20; Eph 4:6; 1 Tim 1:17; 2:5
+
+Perfect: Mt 5:48
+
+Provident: Mt 10:29-31; Lk 12:6-7; 1 Cor 2:7; Eph 1:9-12; 2 Tim 1:9-10; 1 Pet 3:20
+
+Revealed fully in Jesus: Mt 11:27; Lk 10:22; Jn 1:1; 14:9-10; 20:28; Col 1:15; Heb 1:1-3
+
+Rich in mercy: Lk 6:36; Eph 2:4; Jas 5:11
+
+Savior: Lk 1:47; 1 Tim 2:3; 4:10
+
+Salvation of all men is willed by God: Mt 18:14; Jn 3:16; 2 Cor 5:19; 1 Tim 2:3-4; 2 Pet 3:9
+
+Source of creaturely goodness: Rom 11:36; 1 Tim 4:4-5
+
+Spiritual: Jn 4:24; Rom 8:9; 1 Cor 2:10-11; Eph 3:14-16
+
+Unchanging: Heb 6:17; Jas 1:17
+
+Wise: Rom 16:27; 1 Cor 1:19-30
+
+Works all things for the good of those who love him: Rom 8:28
+
+*See also* [[jesus-christ|Jesus]]; [[holy-spirit|Holy Spirit]] ; [[trinity-holy|Trinity]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
-
-### Compendium on Social Doctrine
-
-![[sd-10-index-g#God]]
 
 - Gave His only-begotten Son for the salvation of the world: [[2-invitation-to-sanctity#Meditation 1|2,1]]; [[22-behold-the-savior-comes#Meditation 1|22,1]]; [[26-the-mystery-of-the-incarnation#Meditation 1|26,1]]; [[29-the-nativity-of-our-lord#Meditation 1|29,1]]; [[30-believing-in-love#Meditation 2|30,2]]; [[36-the-octave-of-the-nativity-of-our-lord#Meditation 1|36,1]]; [[231-the-compassion-of-jesus#Meditation 1|231,1]]; [[317-zeal-for-souls#Meditation 1|317,1]];
 - permits the fall of man in view of the redemptive Incarnation of the Word: [[39-jesus-the-first-born-of-all-creatures#Meditation 2|39,2]];
@@ -57,7 +116,7 @@ The infinite divine being, one in being yet three Persons: Father, Son, and Holy
 - the divine natural and supernatural likeness God has imprinted on our souls expresses His desire to unite us to Himself: [[358-courageous-and-impatient-love#Meditation 1|358,1]];
 - to find — it is necessary to make use of all things and to recollect oneself in God: [[11-in-search-of-god#Meditation 1|11,1]], [[11-in-search-of-god#Meditation 2|11,2]]; [[12-seeking-god-in-prayer#Meditation 1|12,1]], [[12-seeking-god-in-prayer#Meditation 2|12,2]];
 - how to seek Him in ourselves [[11-in-search-of-god#Meditation 1|11,1]], [[11-in-search-of-god#Meditation 2|11,2]]; [[12-seeking-god-in-prayer#Meditation 1|12,1]], [[12-seeking-god-in-prayer#Meditation 2|12,2]]; [[141-stay-with-us#Meditation 2|141,2]]; [[152-prayer-of-recollection#Meditation 1|152,1]], [[152-prayer-of-recollection#Meditation 2|152,2]];
-- how to maintain contact with Him in the midst of occupations [[13. Seeking God in Our Daily Duties#Meditation 1|13,1]], [[13. Seeking God in Our Daily Duties#Meditation 2|13,2]]; [[21-seeking-god-in-activity#Meditation 1|21,1]], [[21-seeking-god-in-activity#Meditation 2|21,2]]; [[160-the-life-of-prayer#Meditation 1|160,1]], [[160-the-life-of-prayer#Meditation 2|160,2]]; [[162-practice-of-the-presence-of-god#Meditation 1|162,1]], [[162-practice-of-the-presence-of-god#Meditation 2|162,2]]; [[163-the-spirit-of-faith#Meditation 1|163,1]], [[163-the-spirit-of-faith#Meditation 2|163,2]];
+- how to maintain contact with Him in the midst of occupations [[13-seeking-god-in-our-daily-duties#Meditation 1|13,1]], [[13-seeking-god-in-our-daily-duties#Meditation 2|13,2]]; [[21-seeking-god-in-activity#Meditation 1|21,1]], [[21-seeking-god-in-activity#Meditation 2|21,2]]; [[160-the-life-of-prayer#Meditation 1|160,1]], [[160-the-life-of-prayer#Meditation 2|160,2]]; [[162-practice-of-the-presence-of-god#Meditation 1|162,1]], [[162-practice-of-the-presence-of-god#Meditation 2|162,2]]; [[163-the-spirit-of-faith#Meditation 1|163,1]], [[163-the-spirit-of-faith#Meditation 2|163,2]];
 - the quest for —: [[18-seeking-god-in-faith#Meditation 1|18,1]], [[18-seeking-god-in-faith#Meditation 2|18,2]]; [[140-the-resurrection-of-the-lord#Meditation 2|140,2]];
 - if the soul is seeking —, much more is her loving Saviour seeking her: [[19-seeking-god-in-love#Meditation 2|19,2]]; [[197-the-virtues-and-the-gifts#Meditation 1|197,1]]; [[363-divine-assistance#Meditation 1|363,1]];
 - we should live for the glory of —: [[32-glory-to-god#Meditation 2|32,2]]; [[226-the-glory-of-the-most-holy-trinity#Meditation 2|226,2]]; [[228-the-divine-essence#Meditation 1|228,1]];
@@ -73,7 +132,7 @@ The infinite divine being, one in being yet three Persons: Father, Son, and Holy
 - — does not abandon us if we do not first abandon Him: [[63-jesus-calms-the-tempest#Meditation 1|63,1]]; [[119-the-multiplication-of-the-loaves#Meditation 2|119,2]]; [[248-the-test-of-hope#Meditation 1|248,1]];
 - — permits evil to put His servants to the test: [[70-the-bond-of-perfection#Meditation 2|70,2]];
 - — does not permit us to be tempted beyond our strength [[98-the-great-combat#Meditation 2|98,2]]; [[252-correspondence-with-grace#Meditation 1|252,1]];
-- every circumstance, however painful, is permitted by — for our good: [[128-patience#Meditation 2|128,2]]; [[129-the-daily-cross#Meditation 2|129,2]]; [[a little pilgrim/carmel/130-suffering-and-abandonment#Meditation 2|130,2]]; [[163-the-spirit-of-faith#Meditation 1|163,1]], [[163-the-spirit-of-faith#Meditation 2|163,2]]; [[239-divine-providence#Meditation 1|239,1]]; [[243-the-power-of-faith#Meditation 2|243,2]]; [[291-fortitude-and-patience#Meditation 1|291,1]]; [[292-the-practice-of-patience#Meditation 1|292,1]], [[292-the-practice-of-patience#Meditation 2|292,2]];
+- every circumstance, however painful, is permitted by — for our good: [[128-patience#Meditation 2|128,2]]; [[129-the-daily-cross#Meditation 2|129,2]]; [[private 🔏/carmel-study-notes/130-suffering-and-abandonment#Meditation 2|130,2]]; [[163-the-spirit-of-faith#Meditation 1|163,1]], [[163-the-spirit-of-faith#Meditation 2|163,2]]; [[239-divine-providence#Meditation 1|239,1]]; [[243-the-power-of-faith#Meditation 2|243,2]]; [[291-fortitude-and-patience#Meditation 1|291,1]]; [[292-the-practice-of-patience#Meditation 1|292,1]], [[292-the-practice-of-patience#Meditation 2|292,2]];
 - is faithful [[177-marys-faith#Meditation 1|177,1]]; [[239-divine-providence#Meditation 1|239,1]]; [[252-correspondence-with-grace#Meditation 1|252,1]];
 - does not deceive our hope [[178-marys-hope#Meditation 2|178,2]];
 - tries those whom He loves: [[248-the-test-of-hope#Meditation 1|248,1]]; [[354-confidence-and-abandonment#Meditation 1|354,1]];
@@ -134,14 +193,14 @@ The infinite divine being, one in being yet three Persons: Father, Son, and Holy
 - [[providence|Providence]]
 - [[trinity-holy|Trinity]]
 
----
+### Source
 
 - [[2-invitation-to-sanctity|2. Invitation to Sanctity]]
 - [[4-charity-the-essence-of-sanctity|4. Charity, the Essence of Sanctity]]
 - [[10-invitation-to-divine-intimacy|10. Invitation to Divine Intimacy]]
 - [[11-in-search-of-god|11. In search of God]]
 - [[12-seeking-god-in-prayer|12. Seeking God in Prayer]]
-- [[13. Seeking God in Our Daily Duties|13. Seeking God in Our Daily Duties]]
+- [[13-seeking-god-in-our-daily-duties|13. Seeking God in Our Daily Duties]]
 - [[18-seeking-god-in-faith|18. Seeking God in Faith]]
 - [[19-seeking-god-in-love|19.Seeking God in Love]]
 - [[21-seeking-god-in-activity|21. Seeking God in Activity]]
@@ -174,7 +233,7 @@ The infinite divine being, one in being yet three Persons: Father, Son, and Holy
 - [[119-the-multiplication-of-the-loaves|119. The Multiplication of the Loaves]]
 - [[128-patience|128. Patience]]
 - [[129-the-daily-cross|129. The Daily Cross]]
-- [[a little pilgrim/carmel/130-suffering-and-abandonment|130. Suffering and Abandonment]]
+- [[private 🔏/carmel-study-notes/130-suffering-and-abandonment|130. Suffering and Abandonment]]
 - [[140-the-resurrection-of-the-lord|140. The Resurrection of the Lord]]
 - [[141-stay-with-us|141. Stay with Us]]
 - [[142-whom-seek-you|142. Whom Seek You]]
@@ -249,4 +308,8 @@ The infinite divine being, one in being yet three Persons: Father, Son, and Holy
 
 ## The Way of Perfection
 
-GOD. The supreme Ruler of heaven and earth, the supreme Power, Goodness, and Wisdom, without beginning or end ([[tj-wop-chapter-22#^wop-ch22-6|22.6]]). As Creator of heaven and earth ([[tj-wop-chapter-6#^wop-ch6-3|6.3]]; [[tj-wop-chapter-28#^wop-ch28-5|28.5]]), God sets forth a fathomless sea of marvels ([[tj-wop-chapter-22#^wop-ch22-6|22.6]]). The angels tremble before him ([[tj-wop-chapter-22#^wop-ch22-7|22.7]]). But God is not touchy, nor does he bother about trifles ([[tj-wop-chapter-23#^wop-ch23-3|23.3]]). God is everywhere, and where he is, there is heaven ([[tj-wop-chapter-28#^wop-ch28-2|28.2]]). In his grandeur he would fill a thousand worlds and many more, yet encloses himself in the soul; since God is love he adapts himself to our size and gradually enlarges our capacity so that we can receive what he wants to give ([[tj-wop-chapter-28#^wop-ch28-11|28.11]]–[[tj-wop-chapter-28#^wop-ch28-12|12]]). God never tires of giving ([[tj-wop-chapter-32#^wop-ch32-12|32.12]]). In his love for us he is faithful ([[tj-wop-chapter-15#^wop-ch15-5|15.5]]). We may commune with him as with a father, brother, lord, or spouse; he will teach us what to say ([[tj-wop-chapter-28#^wop-ch28-3|28.3]]). In the one God is a plurality of persons, Father, Son, and Holy Spirit ([[tj-wop-chapter-27#^wop-ch27-7|27.7]]).
+GOD. The supreme Ruler of heaven and earth, the supreme Power, Goodness, and Wisdom, without beginning or end ([[chapter-22-tj-way-ccel|22.6]]). As Creator of heaven and earth ([[chapter-06-tj-way-ccel|6.3]]; [[chapter-28-tj-way-ccel|28.5]]), God sets forth a fathomless sea of marvels ([[chapter-22-tj-way-ccel|22.6]]). The angels tremble before him ([[chapter-22-tj-way-ccel|22.7]]). But God is not touchy, nor does he bother about trifles ([[chapter-23-tj-way-ccel|23.3]]). God is everywhere, and where he is, there is heaven ([[chapter-28-tj-way-ccel|28.2]]). In his grandeur he would fill a thousand worlds and many more, yet encloses himself in the soul; since God is love he adapts himself to our size and gradually enlarges our capacity so that we can receive what he wants to give ([[chapter-28-tj-way-ccel|28.11]]–[[chapter-28-tj-way-ccel|12]]). God never tires of giving ([[chapter-32-tj-way-ccel|32.12]]). In his love for us he is faithful ([[chapter-15-tj-way-ccel|15.5]]). We may commune with him as with a father, brother, lord, or spouse; he will teach us what to say ([[chapter-28-tj-way-ccel|28.3]]). In the one God is a plurality of persons, Father, Son, and Holy Spirit ([[chapter-27-tj-way-ccel|27.7]]).
+
+## Compendium of Social Doctrine
+
+![[sd-10-index-g#God]]

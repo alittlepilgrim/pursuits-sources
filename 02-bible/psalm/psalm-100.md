@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 100
 ---
@@ -51,3 +51,7 @@ his faithfulness lasts through every generation.
 a. (100:3) ([[psalm-23|Ps 23]]:1]; [95:7]; [Mi 7:14]; [Is 64:7].
 
 b. (100:4] – [5) [Ps 106:1]; [107:1]; [118:1]; [136:1]; [138:8]; [Jer 33:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

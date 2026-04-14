@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 15
 ---
@@ -73,3 +73,7 @@ And all the people said, “Amen!”
 a. (15:2) [Gn 9:2]; [Dt 11:25]; [1 Mc 7:18]; [Sir 4:17].
 
 b. (15:12) ([[exodus-15|Ex 15]]:20]; [Jgs 11:34]; [1 Sm 18:6]; [Jer 31:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Maccabees, Chapter
 ---
@@ -125,3 +125,7 @@ c. (10:26) ([[exodus-23|Ex 23]]22,
 d. (10:29]–[30) [2 Mc 3:24]–[26]; [5:2]–[3]; [11:8].
 
 e. (10:32) [1 Mc 13:43]–[48].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

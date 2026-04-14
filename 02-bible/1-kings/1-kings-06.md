@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 kings-chapter 6
 ---
@@ -97,3 +97,7 @@ description: 1 kings-chapter 6
 \* (6:19]\] The innermost part of the house: the inner sanctuary or holy of holies reserved exclusively for the Lord, enthroned upon the cherubim over the ark of the covenant ([2 Chr 3:10] – [13]). See note on ([[exodus-25|Ex 25]]:18] – [20].
 
 a. (6:12]\] [2 Sm 7:13] – [16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

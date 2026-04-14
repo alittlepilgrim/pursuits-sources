@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 18
 ---
@@ -125,3 +125,7 @@ m. (18:30) [Jer 35:15]; cf. ([[matthew-03|Mt 3]]:2]; ([[luke-03| [[luke-03|Lk 3]
 n. (18:31) cf. [[ezekiel-11|Ez 11]]:19; [36:26].
 
 o. (18:32) cf. [[ezekiel-18|Ez 18]]:23; [33:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

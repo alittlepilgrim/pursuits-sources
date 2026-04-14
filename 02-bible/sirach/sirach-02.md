@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 2
 ---
@@ -115,3 +115,7 @@ c. (2:10) [Ps 31:2]; [145:18] – [20].
 d. (2:15) [Jn 14:23].
 
 e. (2:18) [[sirach-17|Sir 17]]:29.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

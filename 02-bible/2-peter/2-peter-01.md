@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Peter, Chapter 1
 ---
@@ -107,3 +107,7 @@ f. (1:16) ([[luke-09|Lk 9]]:28] – [36]; ([[john-01|Jn 1]]:14].
 g. (1:17) ([[psalm-02|Ps 2]]:7]; ([[matthew-17|Mt 17]]:4] – [6].
 
 h. (1:19) ([[luke-01|Lk 1]]:78] – [79]; ([[revelation-02|Rv 2]]:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

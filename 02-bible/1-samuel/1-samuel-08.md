@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 8
 ---
@@ -95,3 +95,7 @@ h. (8:15) [1 Sm 22:7]; [[1-kings-21|1 Kgs 21]]:1 – [24]; [Ez 46:18].
 i. (8:17) [[1-kings-12|1 Kgs 12]]:4.
 
 j. (8:19) [1 Sm 10:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

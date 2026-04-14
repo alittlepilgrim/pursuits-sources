@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 14
 ---
@@ -129,3 +129,7 @@ There were seventy priests of Bel, besides their wives and children.
 \* (14:31) A lions’ den: this story provides a different account from chap. [6] as to why Daniel was associated with the lions’ den.
 
 a. (14:36) ([[ezekiel-08|Ez 8]]:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

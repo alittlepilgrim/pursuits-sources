@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 14
 ---
@@ -215,3 +215,7 @@ p. (14:27) ([[exodus-23|Ex 23]]:13].
 q. (14:28) [Jer 5:31]; [29:26].
 
 r. (14:30) ([[wisdom-01|Wis 1]]:1], [8]; [11:20]; [Jer 5:2], [7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

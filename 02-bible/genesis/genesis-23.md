@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 23
 url: https://bible.usccb.org/bible/genesis/23
 aliases:
-  - 20250508-020256
   - genesis-23
   - Genesis, Chapter 23
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 23
 bible_book: genesis
@@ -87,3 +86,7 @@ c. (23:17] – [18) [Gn 49:29] – [30]..
 ## Navigation
 
 [[genesis-02|[← Previous Note]]] · [[genesis-04|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

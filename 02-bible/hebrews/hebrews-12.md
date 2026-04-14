@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 12
 ---
@@ -143,3 +143,7 @@ u. (12:27) [Is 66:22]; ([[matthew-24|Mt 24]]:35]; ([[mark-13|Mk 13]]:31]; ([[luk
 v. (12:28) [Dn 7:14], [18] / ([[romans-01|Rom 1]]:9].
 
 w. (12:29) [Dt 4:24]; [Is 33:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

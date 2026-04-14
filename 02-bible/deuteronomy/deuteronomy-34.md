@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 34
 ---
@@ -61,3 +61,7 @@ g. (34:9) [Nm 27:18] – [23]; [Jos 1:17].
 h. (34:10) [Dt 5:4]; [18:15]; [Ex 33:11]; [Nm 12:8]; [Sir 45:5].
 
 i. (34:11] – [12) [Dt 4:34]; ([[exodus-04|Ex 4]]:21]; [7:1], [8] – [12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

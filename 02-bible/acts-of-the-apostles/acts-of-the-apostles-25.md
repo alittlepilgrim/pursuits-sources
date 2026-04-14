@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 25
 ---
@@ -87,3 +87,7 @@ description: Acts of the Apostles, Chapter 25
 a. \[[25:14]\] [24:27].
 
 b. \[[25:18] – [19]\] [18:14] – [15]; [23:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

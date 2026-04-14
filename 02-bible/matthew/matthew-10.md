@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 10
 ---
@@ -126,9 +126,9 @@ and a daughter-in-law against her mother-in-law;
 
 \* (10:1] – [11:1) After an introductory narrative ([[matthew-10|Mt 10]]:1] – [4]), the second of the discourses of the gospel. It deals with the mission now to be undertaken by the disciples ([[matthew-10|Mt 10]]:5] – [15]), but the perspective broadens and includes the missionary activity of the church between the time of the resurrection and the parousia.
 
-\* (10:1) His twelve disciples: although, unlike Mark (([[mark-03|Mk 3]]:13] – [14]) and Luke (([[luke-06| [[luke-06|Lk 6]]:]]:12] – [16]), Matthew has no story of Jesus’ choosing the Twelve, he assumes that the group is known to the reader. The earliest New Testament text to speak of it is [1 Cor 15:5]. The number probably is meant to recall the twelve tribes of Israel and implies Jesus’ authority to call all Israel into the kingdom. While Luke (([[luke-06| [[luke-06|Lk 6]]:]]:13]) and probably Mark (([[mark-04|Mk 4]]:10], [34]) distinguish between the Twelve and a larger group also termed disciples, Matthew tends to identify the disciples and the Twelve. Authority…every illness: activities the same as those of Jesus; see ([[matthew-04|Mt 4]]:23]; ([[matthew-09|Mt 9]]:35]; [10:8]. The Twelve also share in his proclamation of the kingdom ([[matthew-10|Mt 10]]:7]). But although he teaches (([[matthew-04|Mt 4]]:23]; [7:28]; [9:35]), they do not. Their commission to teach comes only after Jesus’ resurrection, after they have been fully instructed by him (([[matthew-28|Mt 28]]:20]).
+\* (10:1) His twelve disciples: although, unlike Mark (([[mark-03|Mk 3]]:13] – [14]) and Luke (([[luke-06||Lk 6]]:12] – [16]), Matthew has no story of Jesus’ choosing the Twelve, he assumes that the group is known to the reader. The earliest New Testament text to speak of it is [1 Cor 15:5]. The number probably is meant to recall the twelve tribes of Israel and implies Jesus’ authority to call all Israel into the kingdom. While Luke (([[luke-06||Lk 6]]:13]) and probably Mark (([[mark-04|Mk 4]]:10], [34]) distinguish between the Twelve and a larger group also termed disciples, Matthew tends to identify the disciples and the Twelve. Authority…every illness: activities the same as those of Jesus; see ([[matthew-04|Mt 4]]:23]; ([[matthew-09|Mt 9]]:35]; [10:8]. The Twelve also share in his proclamation of the kingdom ([[matthew-10|Mt 10]]:7]). But although he teaches (([[matthew-04|Mt 4]]:23]; [7:28]; [9:35]), they do not. Their commission to teach comes only after Jesus’ resurrection, after they have been fully instructed by him (([[matthew-28|Mt 28]]:20]).
 
-\* (10:2] – [4) Here, for the only time in Matthew, the Twelve are designated apostles. The word “apostle” means “one who is sent,” and therefore fits the situation here described. In the Pauline letters, the place where the term occurs most frequently in the New Testament, it means primarily one who has seen the risen Lord and has been commissioned to proclaim the resurrection. With slight variants in Luke and Acts, the names of those who belong to this group are the same in the four lists given in the New Testament (see note on ([[matthew-09|Mt 9]]:9]). Cananean: this represents an Aramaic word meaning “zealot.” The meaning of that designation is unclear (see note on ([[luke-06| [[luke-06|Lk 6]]:]]:15]).
+\* (10:2] – [4) Here, for the only time in Matthew, the Twelve are designated apostles. The word “apostle” means “one who is sent,” and therefore fits the situation here described. In the Pauline letters, the place where the term occurs most frequently in the New Testament, it means primarily one who has seen the risen Lord and has been commissioned to proclaim the resurrection. With slight variants in Luke and Acts, the names of those who belong to this group are the same in the four lists given in the New Testament (see note on ([[matthew-09|Mt 9]]:9]). Cananean: this represents an Aramaic word meaning “zealot.” The meaning of that designation is unclear (see note on ([[luke-06||Lk 6]]:15]).
 
 \* (10:5] – [6) Like Jesus (([[matthew-15|Mt 15]]:24]), the Twelve are sent only to Israel. This saying may reflect an original Jewish Christian refusal of the mission to the Gentiles, but for Matthew it expresses rather the limitation that Jesus himself observed during his ministry.
 
@@ -160,7 +160,7 @@ and a daughter-in-law against her mother-in-law;
 
 \* (10:41) A prophet: one who speaks in the name of God; here, the Christian prophets who proclaim the gospel. Righteous man: since righteousness is demanded of all the disciples, it is difficult to take the righteous man of this verse and one of these little ones ([[matthew-10|Mt 10]]:42]) as indicating different groups within the followers of Jesus. Probably all three designations are used here of Christian missionaries as such.
 
-a. (10:1] – [4) ([[mark-03|Mk 3]]:14] – [19]; ([[luke-06| [[luke-06|Lk 6]]:]]:13] – [16]; ([[acts-of-the-apostles-01|Acts 1]]:13].
+a. (10:1] – [4) ([[mark-03|Mk 3]]:14] – [19]; ([[luke-06||Lk 6]]:13] – [16]; ([[acts-of-the-apostles-01|Acts 1]]:13].
 
 b. (10:5] – [15) ([[mark-06|Mk 6]]:7] – [13]; ([[luke-09|Lk 9]]:1] – [6].
 
@@ -188,7 +188,7 @@ m. (10:19) ([[exodus-04|Ex 4]]:11] – [12]; [Jer 1:6] – [10]; ([[luke-12|Lk 1
 
 n. (10:21] – [22) [24:9], [13].
 
-o. (10:24] – [25) ([[luke-06| [[luke-06|Lk 6]]:]]:40]; [Jn 13:16]; [15:20].
+o. (10:24] – [25) ([[luke-06||Lk 6]]:40]; [Jn 13:16]; [15:20].
 
 p. (10:26] – [33) ([[luke-12|Lk 12]]:2] – [9].
 
@@ -207,3 +207,7 @@ v. (10:39) ([[mark-08|Mk 8]]:35]; ([[luke-09|Lk 9]]:24]; [Jn 12:25].
 w. (10:40) ([[luke-10|Lk 10]]:16]; [Jn 12:44]; [13:20].
 
 x. (10:42) [25:40]; ([[mark-09|Mk 9]]:41].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

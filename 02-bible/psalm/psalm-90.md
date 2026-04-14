@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 90
 ---
@@ -135,3 +135,7 @@ h. (90:14) ([[psalm-17|Ps 17]]:15].
 i. (90:15) [Nm 14:34]; [Jer 31:13].
 
 j. (90:17) [Ps 33:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 37
 ---
@@ -107,3 +107,7 @@ i. (37:24) [Ps 78:70] – [71]; [Is 55:4].
 j. (37:26) [Gn 9:16]; [Nm 25:12]; [Heb 13:20].
 
 k. (37:27) [Lv 26:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

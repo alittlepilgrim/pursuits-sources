@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 12
 ---
@@ -85,3 +85,7 @@ b. (12:7) [Heb 3:2], [5].
 c. (12:8) [Ex 33:1]; [Dt 34:10]; [Sir 45:3].
 
 d. (12:10) [Dt 24:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

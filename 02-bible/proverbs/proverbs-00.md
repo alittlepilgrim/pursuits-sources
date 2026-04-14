@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/proverbs/0
 aliases:
   - proverbs-00
   - Proverbs, the Book of Proverbs
-  - Proverbs, The Book of Proverbs
 tags:
   - bible/book
   - bible/old-testament
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: proverbs-the book of proverbs
 ---
@@ -50,3 +49,7 @@ The Book of Proverbs has nine sections:
 9. Poem on the Woman of Worth ([31:10] – [31])
 
 Part II is judged by many scholars to contain ten instructions ([1:8] – [19]; chap. [2]; [3:1] – [12], [21] – [35]; [4:1] – [9], [10] – [19], [20] – [27]; chap. [5]; [6:20] – [35]; chap. [7]), three wisdom poems ([1:20] – [33]; chap. [8]; [9:1] – [6] + [11], [13] – [18]), and two interludes ([3:13] – [20]; [6:1] – [19]).
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

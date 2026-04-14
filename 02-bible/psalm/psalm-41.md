@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 41
 ---
@@ -107,3 +107,7 @@ b. (41:7) [Ps 31:12]; [38:12] – [13]; [88:8]; [Jb 19:13] – [19]; [Jer 20:10]
 c. (41:10) [Ps 55:14] – [15]; [Jn 13:18].
 
 d. (41:14) [Neh 9:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 3
 ---
@@ -135,3 +135,7 @@ i. (3:17) [Prv 13:7]; ([[luke-12|Lk 12]]:21].
 j. (3:19) [Prv 3:11] – [12]; [1 Cor 11:32]; [Heb 12:5] – [11].
 
 k. (3:21) ([[luke-22|Lk 22]]:28] – [30]; ([[matthew-19|Mt 19]]:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

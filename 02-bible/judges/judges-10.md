@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 10
 ---
@@ -83,3 +83,7 @@ g. (10:12) [Jgs 6:1] – [6].
 h. (10:13) [Jgs 2:21].
 
 i. (10:18) [Jgs 11:5] – [11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

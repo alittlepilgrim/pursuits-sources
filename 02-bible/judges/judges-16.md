@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 16
 ---
@@ -109,3 +109,7 @@ e. (16:18) [Jgs 16:5].
 f. (16:23) [1 Sm 5:2] – [5].
 
 g. (16:31) [Jgs 10:2], [5]; [12:7], [10], [12], [15]; [15:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

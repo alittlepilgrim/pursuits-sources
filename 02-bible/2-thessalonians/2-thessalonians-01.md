@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Thessalonians, Chapter 1
 ---
@@ -73,3 +73,7 @@ f. (1:10) [Ps 89:8]; [Dn 7:18] – [22], [27]; [1 Thes 3:13].
 g. (1:11) [1 Thes 1:2] – [3].
 
 h. (1:12) [Is 66:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

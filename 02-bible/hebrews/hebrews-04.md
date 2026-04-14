@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 4
 ---
@@ -87,3 +87,7 @@ h. (4:14) [9:11], [24].
 i. (4:15) [2:17] – [18]; [5:2].
 
 j. (4:16) [8:1]; [10:19], [22], [35]; [12:2]; [Eph 3:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

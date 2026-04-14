@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 2
 bible_book: genesis
@@ -144,3 +144,7 @@ l. (2:21) [[sirach-17|Sir 17]]:1; [1 Cor 11:8] – [9]; [1 Tm 2:13].
 m. (2:24) ([[matthew-19|Mt 19]]:5]; ([[mark-10|Mk 10]]:7]; ([[1-corinthians-07|1 Cor 7]]:10] – [11]; [Eph 5:31]..
 
 ---
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

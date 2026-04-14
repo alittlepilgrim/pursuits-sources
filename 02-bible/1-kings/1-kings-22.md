@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 22
 ---
@@ -175,3 +175,7 @@ b. (22:28]\] [Mi 1:2].
 c. (22:35]\] [[1-kings-20|1 Kgs 20]]:42.
 
 d. (22:38]\] [[1-kings-21|1 Kgs 21]]:19.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

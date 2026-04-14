@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 45
 url: https://bible.usccb.org/bible/genesis/45
 aliases:
-  - 20250508-020356
   - genesis-45
   - Genesis, Chapter 45
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 45
 bible_book: genesis
@@ -105,3 +104,7 @@ d. (45:18) ([[acts-of-the-apostles-07|Acts 7]]:14]..
 ## Navigation
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

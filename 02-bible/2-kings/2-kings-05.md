@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 5
 ---
@@ -95,3 +95,7 @@ b. (5:10) [Jn 9:7].
 c. (5:14) ([[luke-04| [[luke-04|Lk 4]]:]]:27].
 
 d. (5:15) ([[luke-17|Lk 17]]:17] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

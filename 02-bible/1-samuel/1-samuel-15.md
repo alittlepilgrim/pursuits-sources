@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 15
 ---
@@ -167,3 +167,7 @@ q. (15:29) [Nm 23:19].
 r. (15:33) ([[exodus-21|Ex 21]]:23]; [Jgs 8:21].
 
 s. (15:35) [1 Sm 28:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

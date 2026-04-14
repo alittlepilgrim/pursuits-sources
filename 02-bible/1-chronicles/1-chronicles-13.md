@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 13
 ---
@@ -43,3 +43,7 @@ c. \[[13:5]\] [[1-chronicles-15|1 Chr 15]]:3; [Jos 13:3], [5]; [1 Sm 6:21]; [7:1
 d. \[[13:6]\] [Jos 15:9]; [18:14]; [1 Sm 4:4]; [7:1].
 
 e. \[[13:14]\] [1 Chr 26:4] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

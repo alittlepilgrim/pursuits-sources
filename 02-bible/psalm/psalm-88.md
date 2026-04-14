@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 88
 ---
@@ -137,3 +137,7 @@ f. (88:11) ([[psalm-06|Ps 6]]:6]; [30:10]; [38:18]; [115:17].
 g. (88:17) [Jb 6:4]; [20:25].
 
 h. (88:19) [Jb 19:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 9
 ---
@@ -153,3 +153,7 @@ b. (9:4) ([[ezra-09|Ezr 9]]:6] – [14]; [Neh 9:6] – [37].
 c. (9:11) [Dt 27:15].
 
 d. (9:27) ([[matthew-24|Mt 24]]:15]; [1 Mc 1:54].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

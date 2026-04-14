@@ -8,7 +8,7 @@ tags:
   - author/saint-catherine-of-siena
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: Introduction - Dialogue by St. Catherine of Siena
 ---
@@ -38,8 +38,11 @@ St. Catherine was born at the same time as a twin-sister, who did not survive. H
 There are stirring pages enough in Christian hagiology. Who can read unmoved of the struggles towards his ideal of an Augustine or a Loyola, or of the heroic courage of a Theresa, affirming against all human odds the divinity of her mission, and justifying, after years of labor, her incredible assertions by the steadfastness of her will? There are other pages in the lives of the saints, less dramatic, it may be, but breathing, nevertheless, a naï¿½ve grace and poetry all their own: the childhood of those servants of Christ who have borne His yoke from the dawn of their days forms their charming theme. Here the blasting illuminations of the Revelation are toned down to a soft and tender glow, in which the curves and lines of natural humanity do but seem more pathetically human. The hymn at Lauds for the Feast of the Holy Innocents represents those unconscious martyrs as playing with their palms and crowns under the very altar of Heaven: --
 
 *"Vos prima Christi victima*
+
 Grex immolatorum tener
+
 Aram sub ipsam simplices
+
 Palma et coronis luditis!"
 
 And so these other saintly babies play at hermits or monasteries instead of the soldiers and housekeeping beloved of more secular-minded infants. Heaven condescends to their pious revels: we are told of the Blessed Hermann Joseph, the Premonstratensian, that his infantile sports were joyously shared by the Divine Child Himself. He would be a morose pedant indeed who should wish to rationalize this white mythology. The tiny Catherine was no exception to the rest of her canonized brothers and sisters. At the age of five it was her custom on the staircase to kneel and repeat a "Hail Mary" at each step, a devotion so pleasing to the angels, that they would frequently carry her up or down without letting her feet touch the ground, much to the alarm of her mother, who confided to Father Raymond of Capua, the Dominican confessor of the family, her fears of an accident. Nor were these phenomena the only reward of her infant piety. From the day that she could walk she became very popular among her numerous relatives and her parents' friends, who gave her the pet name of Euphrosyne, to signify the grief-dispelling effect of her conversation, and who were constantly inviting her to their houses on some pretext or other. Sent one morning on an errand to the house of her married sister Bonaventura, she was favored with a beautiful vision which, as it has an important symbolical bearing on the great task of her after-life, I will relate in Father Raymond's words, slightly abridging their prolixity.

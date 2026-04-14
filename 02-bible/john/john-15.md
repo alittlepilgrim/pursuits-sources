@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 15
 ---
@@ -128,7 +128,7 @@ l. (15:16) [14:13]; [Dt 7:6].
 
 m. (15:17) [13:34]; ([[1-john-03|1 Jn 3]]:23]; [4:21].
 
-n. (15:18) [7:7]; [14:17]; [[matthew-10|Mt 10]]:22]; [24:9]; ([[mark-13|Mk 13]]:13]; ([[luke-06| [[luke-06|Lk 6]]:]]:22]; ([[1-john-03|1 Jn 3]]:13].
+n. (15:18) [7:7]; [14:17]; [[matthew-10|Mt 10]]:22]; [24:9]; ([[mark-13|Mk 13]]:13]; ([[luke-06||Lk 6]]:22]; ([[1-john-03|1 Jn 3]]:13].
 
 o. (15:19) [17:14] – [16]; ([[1-john-04|1 Jn 4]]:5].
 
@@ -147,3 +147,7 @@ u. (15:25) [Ps 35:19]; [69:4].
 v. (15:26) [14:16], [26]; [[matthew-10|Mt 10]]:19] – [20].
 
 w. (15:27) ([[luke-01|Lk 1]]:2]; ([[acts-of-the-apostles-01|Acts 1]]:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

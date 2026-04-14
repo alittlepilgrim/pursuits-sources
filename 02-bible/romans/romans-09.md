@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 9
 ---
@@ -197,3 +197,7 @@ y. (9:31) [10:3].
 z. (9:32) [Is 8:14].
 
 a. (9:33) [Is 28:16]; [1 Pt 2:6] – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

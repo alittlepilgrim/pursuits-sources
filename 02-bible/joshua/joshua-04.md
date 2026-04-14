@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 4
 ---
@@ -89,3 +89,7 @@ f. (4:19) ([[exodus-12|Ex 12]]:2] – [3].
 g. (4:23) ([[exodus-14|Ex 14]]:21].
 
 h. (4:24) ([[exodus-09|Ex 9]]:3]; [14:31]; [16:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

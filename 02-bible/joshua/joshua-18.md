@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 18
 ---
@@ -89,3 +89,7 @@ d. (18:12] – [13) [Jos 16:1] – [5].
 e. (18:13) [Gn 28:19].
 
 f. (18:16] – [18) [Jos 15:6] – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

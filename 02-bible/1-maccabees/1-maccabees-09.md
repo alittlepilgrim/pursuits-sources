@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 9
 ---
@@ -203,3 +203,7 @@ a. (9:21) [2 Sm 1:19], [25], [27]; [Jgs 3:9].
 b. (9:35) [1 Mc 5:25].
 
 c. (9:53) [[1-maccabees-10|1 Mc 10]]:9.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

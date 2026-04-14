@@ -8,7 +8,7 @@ tags:
   - term/conversion
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: conversion. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -28,7 +28,7 @@ A radical reorientation of the whole life away from sin and evil, and toward God
 - the meaning of —: [[99-conversion#Meditation 1|99,1]];
 - the point of departure for — is the sincere recognition of one’s faults: [[350-designs-of-peace-and-love#Meditation 1|350,1]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[77-a-new-program|77. A New Program]]
 - [[99-conversion|99. Conversion]]

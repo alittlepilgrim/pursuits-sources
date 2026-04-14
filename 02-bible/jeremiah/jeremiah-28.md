@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 28
 ---
@@ -61,3 +61,7 @@ a. (28:9) [Dt 18:22].
 b. (28:14) [Jer 27:6] – [7]; [Dt 28:48].
 
 c. (28:16) [Dt 13:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

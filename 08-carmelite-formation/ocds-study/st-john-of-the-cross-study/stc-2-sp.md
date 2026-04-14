@@ -6,10 +6,9 @@ aliases:
   - Texto 2 – La Creación un Icono. San Juan de la Cruz y la Creación
 tags:
   - author/ocd-general-curia
-  - subject/laudato-si
-  - subject/st-john-of-the-cross
+  - subject/ecology
 created: 2026-03-18
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 attachment: false
 ---
@@ -57,6 +56,7 @@ Sería conveniente realizar una lectura y meditación personal del texto antes d
 En una sola frase —pero de enorme alcance e importancia—: para san Juan de la Cruz,
 
 la creación solo alcanza su perfección al acoger la encarnación, en María.
+
 Con esta acogida, la creación deja de ser únicamente la imagen natural y creada de Dios (como en la primera acción) y pasa a participar sobrenaturalmente de las perfecciones divinas y humanas de Cristo. 
 
 El hombre y la mujer se convierten en mediadores del cumplimiento del cosmos, que así es desposado y divinizado. La realidad humana y cósmica se diviniza en la medida en que se humaniza; en ello se fundamenta toda la bondad, la belleza y la dignidad de la creación, pero también la responsabilidad del género humano hacia ella. El hombre y la mujer son, en Cristo y en María, los mediadores de esta transfiguración de la creación, pues, por naturaleza, com-parten su misma materialidad. 
@@ -301,5 +301,5 @@ Si la naturaleza es un icono o un misterio sagrado, ¿qué actitud implica esto 
 
 # Other Works
 
-- [[jc-spiritual-canticle|Spiritual Canticle by St. John of the Cross]]
+- [[jc-sc-toc|Spiritual Canticle by St. John of the Cross]]
 - [[laudato-si|Laudato SI’ by Pope Francis]]

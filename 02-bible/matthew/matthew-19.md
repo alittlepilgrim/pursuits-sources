@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 19
 ---
@@ -157,3 +157,7 @@ m. (19:27) [4:20], [22].
 n. (19:28) [25:31]; [Dn 7:9], [22]; ([[luke-22|Lk 22]]:30]; ([[revelation-03|Rv 3]]:21]; [20:4].
 
 o. (19:30) [20:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

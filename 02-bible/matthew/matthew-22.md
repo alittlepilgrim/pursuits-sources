@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 22
 ---
@@ -213,3 +213,7 @@ m. (22:41] – [46) ([[mark-12|Mk 12]]:35] – [37]; ([[luke-20|Lk 20]]:41] – 
 n. (22:44) [Ps 110:1]; ([[acts-of-the-apostles-02|Acts 2]]:35]; [Heb 1:13].
 
 o. (22:46) ([[luke-20|Lk 20]]:40].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

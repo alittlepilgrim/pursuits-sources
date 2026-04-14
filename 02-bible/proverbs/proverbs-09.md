@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 9
 ---
@@ -129,3 +129,7 @@ c. (9:10) [Prv 1:7]; [Jb 28:28]; [Ps 111:10]; [Sir 1:16].
 d. (9:11) [Prv 3:2]; [16:4], [10]; [10:27].
 
 e. (9:13] – [18) [Prv 7:7] – [27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

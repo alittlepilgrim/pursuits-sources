@@ -4,7 +4,6 @@ title: 1 Corinthians, The First Letter To The Corinthians
 url: https://bible.usccb.org/bible/1corinthians/0
 aliases:
   - 1 Corinthians, the First Letter to the Corinthians
-  - 1 Corinthians, The First Letter To The Corinthians
   - 1-corinthians-00
 tags:
   - bible/1-corinthians
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, the First Letter to the Corinthians
 ---
@@ -77,3 +76,7 @@ The principal divisions of the First Letter to the Corinthians are the following
 - [[1-corinthians-14|1 Corinthians, Chapter 14]]
 - [[1-corinthians-15|1 Corinthians, Chapter 15]]
 - [[1-corinthians-16|1 Corinthians, Chapter 16]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

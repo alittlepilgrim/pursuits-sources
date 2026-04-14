@@ -3,12 +3,11 @@ type: formation-handbook
 title: Part II – Resource Materials - OCDS Ongoing Formation Volume I
 author: Secular Order of Discalced Carmelites
 aliases:
-  - 20251030-140235
   - Part II – Resource Materials
 tags:
   - type/study-guide
 created: 2025-10-30
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

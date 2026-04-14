@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 25
 ---
@@ -51,3 +51,7 @@ a mortal, who is only a maggot?
 a. (25:4) [Jb 4:17]; [9:2]; [35:2].
 
 b. (25:6) [Jb 4:19]; [15:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

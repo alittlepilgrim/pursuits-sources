@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 3
 ---
@@ -83,3 +83,7 @@ c. (3:13) [1 Sm 2:27] – [36].
 d. (3:19) [1 Sm 2:21].
 
 e. (3:20) [Jgs 20:1]; [2 Sm 3:10]; [17:11]; [24:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

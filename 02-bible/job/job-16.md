@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 16
 ---
@@ -127,3 +127,7 @@ and I go the road of no return.
 \* (16:19) Witness: refers perhaps to God (is Job appealing to God against God?), or to a mediator (cf. [9:33]), or to a personification of Job’s prayer.
 
 a. (16:2) [Jb 12:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

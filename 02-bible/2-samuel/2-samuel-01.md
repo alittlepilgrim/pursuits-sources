@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 1
 ---
@@ -145,3 +145,7 @@ h. (1:21) [Gn 27:28].
 i. (1:22) [1 Sm 14:47].
 
 j. (1:26) [1 Sm 18:1] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

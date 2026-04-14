@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 15
 ---
@@ -183,3 +183,7 @@ v. (15:27) [9:4] / ([[1-corinthians-09|1 Cor 9]]:11].
 w. (15:30) ([[2-corinthians-01|2 Cor 1]]:11]; [Phil 1:27]; [Col 4:3]; [2 Thes 3:1].
 
 x. (15:33) [16:20]; [2 Cor 13:11]; [Phil 4:9]; [1 Thes 5:23]; [2 Thes 3:16]; [Heb 13:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

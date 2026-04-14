@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 31
 ---
@@ -353,3 +353,7 @@ v. (31:35) [Gn 1:14] – [18].
 w. (31:36) [Jer 33:20] – [21].
 
 x. (31:38) [[nehemiah-12|Neh 12]]:38; [Zec 14:10] – [11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

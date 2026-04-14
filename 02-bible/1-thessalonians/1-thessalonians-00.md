@@ -4,7 +4,6 @@ title: 1 Thessalonians, The First Letter To The Thessalonians
 url: https://bible.usccb.org/bible/1thessalonians/0
 aliases:
   - 1 Thessalonians, the First Letter to the Thessalonians
-  - 1 Thessalonians, The First Letter To The Thessalonians
   - 1-thessalonians-00
 tags:
   - bible/1-thessalonians
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Thessalonians, the First Letter to the Thessalonians
 ---
@@ -42,3 +41,7 @@ The principal divisions of the First Letter to the Thessalonians are the followi
 - [[1-thessalonians-03|1 Thessalonians, Chapter 3]]
 - [[1-thessalonians-04|1 Thessalonians, Chapter 4]]
 - [[1-thessalonians-05|1 Thessalonians, Chapter 5]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

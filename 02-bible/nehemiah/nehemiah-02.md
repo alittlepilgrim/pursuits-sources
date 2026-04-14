@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 2
 ---
@@ -79,3 +79,7 @@ b. (2:9) ([[ezra-08|Ezr 8]]:22].
 c. (2:11) ([[ezra-08|Ezr 8]]:32].
 
 d. (2:18) ([[ezra-07|Ezr 7]]:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 140
 ---
@@ -105,3 +105,7 @@ d. (140:7) [Ps 31:15].
 e. (140:11) ([[psalm-11|Ps 11]]:6]; [120:4]; [[genesis-19|Gen 19]]:24.
 
 f. (140:14) ([[psalm-11|Ps 11]]:7]; [16:11]; [17:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, the Book of Genesis
 bible_book: genesis
@@ -124,3 +124,7 @@ The historical and prophetic books constantly refer to the covenant with the anc
 ## Navigation
 
 [[genesis-01|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

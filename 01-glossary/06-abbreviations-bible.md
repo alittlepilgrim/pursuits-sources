@@ -2,18 +2,18 @@
 type: glossary
 title: Abbreviations — Bible
 aliases:
-  - Bible Abbreviations — Usccb Vs Vatican
+  - Bible Abbreviations — USCCB Vs Vatican
   - Bible Abbreviations USCCB Vatican
 tags:
-  - type/term
+  - type/glossary
 created: 2025-11-16
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 ---
 
-# Bible Abbreviations —
+# Bible Abbreviations
 
-## Usccb Vs Vatican
+## USCCB Vs Vatican
 
 Name of Book | Abbrev USCCB | Abbrev Vatican
 ---|---|---

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 8
 ---
@@ -243,3 +243,7 @@ n. (8:19) [Dt 32:21]; [Mi 4:9].
 o. (8:21) [Jer 14:17].
 
 p. (8:22) [Jer 46:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

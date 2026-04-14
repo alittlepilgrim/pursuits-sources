@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 24
 url: https://bible.usccb.org/bible/exodus/24
 aliases:
-  - 20250731-085950
   - exodus-24
   - Exodus, Chapter 24
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 24
 ---
@@ -74,3 +73,7 @@ d. (24:16) [Sir 45:5].
 e. (24:17) ([[exodus-19|Ex 19]]:18]; [Heb 12:18].
 
 f. (24:18) [Ex 34:28]; [Dt 9:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

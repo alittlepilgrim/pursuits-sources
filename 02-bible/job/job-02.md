@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 2
 ---
@@ -69,3 +69,7 @@ c. (2:5) [Jb 1:11].
 d. (2:9) [Jb 19:17].
 
 e. (2:10) [Jb 1:22]; [Sir 2:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 1
 ---
@@ -369,3 +369,7 @@ s. (1:78] – [79) [Is 60:1] – [2].
 t. (1:78) [Mal 3:20].
 
 u. (1:80) [2:40]; ([[matthew-03|Mt 3]]:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

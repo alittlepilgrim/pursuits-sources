@@ -3,12 +3,11 @@ type: ocd-readings
 title: St. John of the Cross and Creation Introductory Summary
 author: General Curia
 aliases:
-  - 20260117-175343
   - St. John of the Cross and Creation Introductory Summary
 tags:
   - carmel/formation
 created: 2026-01-17
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 ---
 

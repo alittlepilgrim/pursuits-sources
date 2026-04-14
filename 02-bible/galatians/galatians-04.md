@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Galatians, Chapter 4
 ---
@@ -173,3 +173,7 @@ q. (4:28) [Rom 9:8].
 r. (4:30) [[genesis-21|Gen 21]]:10.
 
 s. (4:31) [3:29]; [Jn 8:35].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 9
 ---
@@ -135,3 +135,7 @@ x. (9:27) [Dt 7:8].
 y. (9:28) [Dt 32:26] – [27]; [Nm 14:13] – [16].
 
 z. (9:29) [Dt 4:20]; ([[exodus-06|Ex 6]]:6] – [7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

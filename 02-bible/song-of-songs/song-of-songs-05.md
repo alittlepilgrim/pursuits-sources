@@ -11,7 +11,7 @@ tags:
   - bible/song-of-songs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Song of Songs, Chapter 5
 ---
@@ -175,3 +175,7 @@ a. (5:1) [Sg 6:2].
 b. (5:2) [Sg 3:1] – [2].
 
 c. (5:8) [Sg 2:7]; [8:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

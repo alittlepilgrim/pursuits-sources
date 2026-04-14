@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezra, Chapter 3
 ---
@@ -69,3 +69,7 @@ e. (3:10) ([[ezra-02|Ezr 2]]:41].
 f. (3:11) [[1-chronicles-16|1 Chr 16]]:34; [2 Chr 5:13]; [7:3]; [Ps 106:1]; [136:1]; [Jer 33:11].
 
 g. (3:12) [Hg 2:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

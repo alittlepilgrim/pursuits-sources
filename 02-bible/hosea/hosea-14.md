@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 14
 ---
@@ -133,3 +133,7 @@ j. (14:10) [Ps 107:43]; [Jer 9:11]; [Eccl 8:1].
 k. (14:10) [Dt 32:4].
 
 l. (14:10) [Dt 8:6]; [11:22]; [Mi 6:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 9
 ---
@@ -118,7 +118,7 @@ description: Matthew, Chapter 9
 
 \* (9:9] – [17) In this section the order is the same as that of ([[mark-02|Mk 2]]:13] – [22].
 
-\* (9:9) A man named Matthew: Mark names this tax collector Levi (([[mark-02|Mk 2]]:14]). No such name appears in the four lists of the twelve who were the closest companions of Jesus ([[matthew-10|Mt 10]]:2] – [4]; ([[mark-03|Mk 3]]:16] – [19]; ([[luke-06| [[luke-06|Lk 6]]:]]:14] – [16]; ([[acts-of-the-apostles-01|Acts 1]]:13] \[eleven, because of the defection of Judas Iscariot\]), whereas all four list a Matthew, designated in [[matthew-10|Mt 10]]:3] as “the tax collector.” The evangelist may have changed the “Levi” of his source to Matthew so that this man, whose call is given special notice, like that of the first four disciples (([[matthew-04|Mt 4]]:18] – [22]), might be included among the twelve. Another reason for the change may be that the disciple Matthew was the source of traditions peculiar to the church for which the evangelist was writing.
+\* (9:9) A man named Matthew: Mark names this tax collector Levi (([[mark-02|Mk 2]]:14]). No such name appears in the four lists of the twelve who were the closest companions of Jesus ([[matthew-10|Mt 10]]:2] – [4]; ([[mark-03|Mk 3]]:16] – [19]; ([[luke-06||Lk 6]]:14] – [16]; ([[acts-of-the-apostles-01|Acts 1]]:13] \[eleven, because of the defection of Judas Iscariot\]), whereas all four list a Matthew, designated in [[matthew-10|Mt 10]]:3] as “the tax collector.” The evangelist may have changed the “Levi” of his source to Matthew so that this man, whose call is given special notice, like that of the first four disciples (([[matthew-04|Mt 4]]:18] – [22]), might be included among the twelve. Another reason for the change may be that the disciple Matthew was the source of traditions peculiar to the church for which the evangelist was writing.
 
 \* (9:10) His house: it is not clear whether his refers to Jesus or Matthew. Tax collectors: see note on ([[matthew-05|Mt 5]]:46]. Table association with such persons would cause ritual impurity.
 
@@ -187,3 +187,7 @@ o. (9:35) [4:23]; ([[luke-08|Lk 8]]:1].
 p. (9:36) [Nm 27:17]; [[1-kings-22|1 Kgs 22]]:17; [Jer 50:6]; [Ez 34:5]; ([[mark-06|Mk 6]]:34].
 
 q. (9:37] – [38) ([[luke-10|Lk 10]]:2]; ([[john-04|Jn 4]]:35].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

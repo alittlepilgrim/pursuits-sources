@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Habakkuk, Chapter 1
 ---
@@ -167,3 +167,7 @@ d. (1:5) ([[acts-of-the-apostles-13|Acts 13]]:41].
 e. (1:6) [Jer 32:28].
 
 f. (1:12) [Ps 90:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

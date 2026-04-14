@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: tobit-chapter 7
 ---
@@ -65,3 +65,7 @@ Raguel said to him: “I will do it. She is yours as decreed by the Book of Mose
 a. (7:12) [[genesis-24|Gen 24]]:50 – [51].
 
 b. (7:13) [Tb 6:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

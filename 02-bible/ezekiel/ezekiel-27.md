@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 27
 ---
@@ -309,3 +309,7 @@ m. (27:31) [[isaiah-15|Is 15]]:2; [Jer 48:37].
 n. (27:32) [[isaiah-23|Is 23]]:1 – [6].
 
 o. (27:33) cf. [Ez 28:4] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

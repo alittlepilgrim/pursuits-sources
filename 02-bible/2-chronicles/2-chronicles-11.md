@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 11
 ---
@@ -81,3 +81,7 @@ b. (11:14) [[1-kings-12|1 Kgs 12]]:32.
 c. (11:15) [Lv 17:7]; [[1-kings-12|1 Kgs 12]]:32.
 
 d. (11:20) [[1-kings-15|1 Kgs 15]]:2.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

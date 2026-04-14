@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ephesians, Chapter 4
 ---
@@ -173,3 +173,7 @@ x. (4:29) [5:4]; [Col 3:16]; [4:6].
 y. (4:31) [Col 3:8].
 
 z. (4:32) ([[matthew-06|Mt 6]]:14]; [Col 3:12] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

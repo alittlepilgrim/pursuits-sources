@@ -11,7 +11,7 @@ tags:
   - term/nothing-nada
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 ---
 
@@ -27,6 +27,9 @@ publish: true
 - in attaining union with God, the soul is reduced to —: [[351-passive-purification#Meditation 2|351,2]]; [[352-interior-trials#Meditation 2|352,2]];
 - awareness of our own nothingness: [[217-firm-confidence#Meditation 1|217,1]], [[217-firm-confidence#Meditation 2|217,2]];
 - to thank God when we see ourselves reduced to —: [[247-the-motive-for-hope#Meditation 1|247,1]].
+
+### Source
+
 - [[7-the-mount-of-perfection|7. The Mount of Perfection]]
 - [[31-returning-love-for-love|31. Returning Love for Love]]
 - [[54-what-jesus-teaching-exacts|54. What Jesus' Teaching Exacts]]

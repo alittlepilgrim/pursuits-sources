@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 30
 url: https://bible.usccb.org/bible/exodus/30
 aliases:
-  - 20250731-090018
   - exodus-30
   - Exodus, Chapter 30
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 30
 ---
@@ -130,3 +129,7 @@ j. (30:25] – [29) [Ex 40:9] – [11]; [Lv 8:10]; [Nm 7:1].
 k. (30:30) ([[exodus-29|Ex 29]]:7]; [Lv 8:12].
 
 l. (30:34] – [38) ([[exodus-25|Ex 25]]:6]; [37:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

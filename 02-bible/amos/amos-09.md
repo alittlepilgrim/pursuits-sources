@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Amos, Chapter 9
 ---
@@ -183,3 +183,7 @@ g. (9:11) ([[acts-of-the-apostles-15|Acts 15]]:16] – [17].
 h. (9:13) [Jl 4:18].
 
 i. (9:14) [Is 65:21] – [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

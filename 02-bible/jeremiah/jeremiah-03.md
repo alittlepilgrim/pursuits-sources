@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 3
 ---
@@ -235,3 +235,7 @@ p. (3:22) [Hos 3:5].
 q. (3:23) [Jer 14:8].
 
 r. (3:25) [Jer 16:11] – [12]; [22:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

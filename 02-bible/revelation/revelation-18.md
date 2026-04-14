@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 18
 ---
@@ -215,3 +215,7 @@ m. (18:22) [[isaiah-24|Is 24]]:8; [Ez 26:13].
 n. (18:23) [Jer 7:34]; [16:9]; [25:10].
 
 o. (18:24) [16:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 3
 ---
@@ -173,3 +173,7 @@ g. (3:21) [Ps 131:1].
 h. (3:28) [Dt 32:32]; [Wis 12:10].
 
 i. (3:30) [Sir 7:32] – [36]; [29:8] – [13]; [Dt 15:7] – [11]; [Tb 12:9]; [Dn 4:24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

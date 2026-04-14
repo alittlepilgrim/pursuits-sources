@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 12
 ---
@@ -214,7 +214,7 @@ until he brings justice to victory.
 
 \* (12:47) This verse is omitted in some important textual witnesses, including Codex Sinaiticus (original reading) and Codex Vaticanus.
 
-a. (12:1] – [8) ([[mark-02|Mk 2]]:23] – [28]; ([[luke-06| [[luke-06|Lk 6]]:]]:1] – [5].
+a. (12:1] – [8) ([[mark-02|Mk 2]]:23] – [28]; ([[luke-06||Lk 6]]:1] – [5].
 
 b. (12:1) [Dt 23:26].
 
@@ -228,7 +228,7 @@ f. (12:7) [Hos 6:6].
 
 g. (12:8) [Jn 5:16] – [17].
 
-h. (12:9] – [15) ([[mark-03|Mk 3]]:1] – [6]; ([[luke-06| [[luke-06|Lk 6]]:]]:6] – [11].
+h. (12:9] – [15) ([[mark-03|Mk 3]]:1] – [6]; ([[luke-06||Lk 6]]:6] – [11].
 
 i. (12:14) [Jn 5:18].
 
@@ -248,7 +248,7 @@ p. (12:30) ([[luke-11|Lk 11]]:23].
 
 q. (12:31] – [32) ([[mark-03|Mk 3]]:28] – [30]; ([[luke-12|Lk 12]]:10].
 
-r. (12:33] – [35) ([[luke-06| [[luke-06|Lk 6]]:]]:43] – [45].
+r. (12:33] – [35) ([[luke-06||Lk 6]]:43] – [45].
 
 s. (12:34) [3:7]; [23:33]; [15:11] – [12]; ([[luke-03| [[luke-03|Lk 3]]:]]:7].
 
@@ -261,3 +261,7 @@ v. (12:42) [[1-kings-10|1 Kgs 10]]:1 – [10].
 w. (12:43] – [45) ([[luke-11|Lk 11]]:24] – [26].
 
 x. (12:46] – [50) ([[mark-03|Mk 3]]:31] – [35]; ([[luke-08|Lk 8]]:19] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

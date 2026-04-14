@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 149
 ---
@@ -75,3 +75,7 @@ b. (149:3) [Ps 68:26]; [81:2] – [3]; [87:7]; [150:3] – [4].
 c. (149:6) [Neh 4:10] – [12]; [[2-maccabees-15|2 Mc 15]]:27.
 
 d. (149:7) ([[wisdom-03|Wis 3]]:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

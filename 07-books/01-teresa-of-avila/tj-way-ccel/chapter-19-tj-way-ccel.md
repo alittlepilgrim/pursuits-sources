@@ -1,0 +1,99 @@
+---
+type: book
+title: Chapter 19 – The Way of Perfection by St. Teresa of Ávila (CCEL Edition)
+author: Saint Teresa of Ávila
+aliases:
+  - Chapter 19. Begins to Treat of Prayer. Addresses Souls Who Cannot Reason with the Understanding – The Way of Perfection by St. Teresa of Ávila (CCEL Edition)
+tags:
+  - author/saint-teresa-of-avila
+  - book/way-of-perfection
+  - type/book
+created: 2026-04-08
+modified: 2026-04-09
+publish: false
+description: Chapter 19. Begins to Treat of Prayer. Addresses Souls Who Cannot Reason with the Understanding
+---
+
+← [[chapter-18-tj-way-ccel|Chapter 18]] | [[tj-way-of-perfection-ccel|Table of Contents]] | [[chapter-20-tj-way-ccel|Chapter 20]] →
+
+# Chapter 19. Begins to Treat of Prayer. Addresses Souls Who Cannot Reason with the Understanding
+
+It is a long time [57] since I wrote the last chapter and I have had no chance of returning to my writing, so that, without reading through what I have written, I cannot remember what I said. However, I must not spend too much time at this, so it will be best if I go right on [58]
+
+without troubling about the connection. For those with orderly minds, and for souls who practise prayer and can be a great deal in their own company, many books have been written, and these are so good and are the work of such competent people that you would be making a mistake if you paid heed to anything about prayer that you learned from me. There are books, as I say, in which the mysteries of the life of the Lord and of His sacred Passion are described in short passages, one for each day of the week; there are also meditations on the Judgment, on hell, on our own nothingness and on all that we owe to God, and these books are excellent both as to their teaching and as to the way in which they plan the beginning and the end of the time of prayer. [59] There is no need to tell anyone who is capable of practising prayer in this way, and has already formed the habit of doing so, that by this good road the Lord will bring her to the harbour of light. If she begins so well, her end will be good also; and all who can walk along this road will walk restfully and securely, for one always walks restfully when the understanding is kept in restraint. It is something else that I wish to treat of and help you about if the Lord is pleased to enable me to do so; if not, you will at least realize that there are many souls who suffer this trial, and you will not be so much distressed at undergoing it yourselves at first, but will find some comfort in it.
+
+There are some souls, and some minds, as unruly as horses not yet broken in. No one can stop them: now they go this way, now that way; they are never still. Although a skilled rider mounted on such a horse may not always be in danger, he will be so sometimes; and, even if he is not concerned about his life, there will always be the risk of his stumbling, [60] so that he has to ride with great care. Some people are either like this by nature or God permits them to become so. I am very sorry for them; they seem to me like people who are very thirsty and see water a long way off, yet, when they try to go to it, find someone who all the time is barring their path--at the beginning of their journey, in the middle and at the end. And when, after all their labour--and the labour is tremendous--they have conquered the first of their enemies, they allow themselves to be conquered by the second, and they prefer to die of thirst rather than drink water which is going to cost them so much trouble. Their strength has come to an end; their courage has failed them; and, though some of them are strong enough to conquer their second enemies as well as their first, when they meet the third group their strength comes to an end, though perhaps they are only a couple of steps from the fountain of living water, of which the Lord said to the Samaritan woman that whosoever drinks of it shall not thirst again. [61] How right and how very true is that which comes from the lips of Truth Himself! In this life the soul will never thirst for anything more, although its thirst for things in the life to come will exceed any natural thirst that we can imagine here below. How the soul thirsts to experience this thirst! For it knows how very precious it is, and, grievous though it be and exhausting, it creates the very satisfaction by which this thirst is allayed. It is therefore a thirst which quenches nothing but desire for earthly things, and, when God slakes it, satisfies in such a way that one of the greatest favours He can bestow on the soul is to leave it with this longing, so that it has an even greater desire to drink of this water again.
+
+Water has three properties--three relevant properties which I can remember, that is to say, for it must have many more. One of them is that of cooling things; however hot we are, water tempers the heat, and it will even put out a large fire, except when there is tar in the fire, in which case, they say, it only burns the more. God help me!
+
+What a marvellous thing it is that, when this fire is strong and fierce and subject to none of the elements, water should make it grow fiercer, and, though its contrary element, should not quench it but only cause it to burn the more! It would be very useful to be able to discuss this with someone who understands philosophy; if I knew the properties of things I could explain it myself; but, though I love thinking about it, I cannot explain it--perhaps I do not even understand it.
+
+You will be glad, sisters, if God grants you to drink of this water, as are those who drink of it now, and you will understand how a genuine love of God, if it is really strong, and completely free from earthly things, and able to rise above them, is master of all the elements and of the whole world. And, as water proceeds from the earth, there is no fear of its quenching this fire, which is the love of God; though the two elements are contraries, it has no power over it. The fire is absolute master, and subject to nothing. You will not be surprised, then, sisters, at the way I have insisted in this book that you should strive to obtain this freedom. Is it not a funny thing that a poor little nun of Saint Joseph's should attain mastery over the whole earth and all the elements? What wonder that the saints did as they pleased with them by the help of God? Fire and water obeyed Saint Martin; even birds and fishes were obedient to Saint Francis; and similarly with many other saints. Helped as they were by God, and themselves doing all that was in their power, they could almost have claimed this as a right. It was clear that they were masters over everything in the world, because they had striven so hard to despise it and subjected themselves to the Lord of the world with all their might. So, as I say, the water, which springs from the earth, has no power over this fire.
+
+Its flames rise high and its source is in nothing so base as the earth.
+
+There are other fires of love for God--small ones, which may be quenched by the least little thing. But this fire will most certainly not be so quenched. [62] Even should a whole sea of temptations assail it, they will not keep it from burning or prevent it from gaining the mastery over them.
+
+Water which comes down as rain from Heaven will quench the flames even less, for in that case the fire and the water are not contraries, but have the same origin. Do not fear that the one element may harm the other; each helps the other and they produce the same effect. For the water of genuine tears-- that is, tears which come from true prayer--is a good gift from the King of Heaven; it fans the flames and keeps them alight, while the fire helps to cool the water. God bless me! What a beautiful and wonderful thing it is that fire should cool water! But it does; and it even freezes all worldly affections, when it is combined with the living water which comes from Heaven, the source of the above-mentioned tears, which are given us, and not acquired by our diligence. Certainly, then, nothing worldly has warmth enough left in it to induce us to cling to it unless it is something which increases this fire, the nature of which is not to be easily satisfied, but, if possible, to enkindle the entire world.
+
+The second property of water is that it cleanses things that are not clean already. What would become of the world if there were no water for washing? Do you know what cleansing properties there are in this living water, this heavenly water, this clear water, when it is unclouded, and free from mud, and comes down from Heaven? Once the soul has drunk of it I am convinced that it makes it pure and clean of all its sins; for, as I have written, God does not allow us to drink of this water of perfect contemplation whenever we like: the choice is not ours; this Divine union is something quite supernatural, given that it may cleanse the soul and leave it pure and free from the mud and misery in which it has been plunged because of its sins. Other consolations, excellent as they may be, which come through the intermediacy of the understanding, are like water running all over the ground. This cannot be drunk directly from the source; and its course is never free from clogging impurities, so that it is neither so pure nor so clean as the other. I should not say that this prayer I have been describing, which comes from reasoning with the intellect, is living water--I mean so far as my understanding of it goes. For, despite our efforts, there is always something clinging to the soul, through the influence of the body and of the baseness of our nature, which we should prefer not to be there.
+
+I will explain myself further. We are meditating on the nature of the world, and on the way in which everything will come to an end, so that we may learn to despise it, when, almost without noticing it, we find ourselves ruminating on things in the world that we love. We try to banish these thoughts, but we cannot help being slightly distracted by thinking of things that have happened, or will happen, of things we have done and of things we are going to do. Then we begin to think of how we can get rid of these thoughts; and that sometimes plunges us once again into the same danger. It is not that we ought to omit such meditations; but we need to retain our misgivings about them and not to grow careless. In contemplation the Lord Himself relieves us of this care, for He will not trust us to look after ourselves. So dearly does He love our souls that He prevents them from rushing into things which may do them harm just at this time when He is anxious to help them. So He calls them to His side at once, and in a single moment reveals more truths to them and gives them a clearer insight into the nature of everything than they could otherwise gain in many years. For our sight is poor and the dust which we meet on the road blinds us; but in contemplation the Lord brings us to the end of the day's journey without our understanding how.
+
+The third property of water is that it satisfies and quenches thirst.
+
+Thirst, I think, means the desire for something which is very necessary for us--so necessary that if we have none of it we shall die. It is a strange thing that if we have no water we die, and that we can also lose our lives through having too much of it, as happens to many people who get drowned. Oh, my Lord, if only one could be plunged so deeply into this living water that one's life would end! Can that be? Yes: this love and desire for God can increase so much that human nature is unable to bear it, and so there have been persons who have died of it.
+
+I knew one person [63] who had this living water in such great abundance that she would almost have been drawn out of herself by raptures if God had not quickly succoured her. She had such a thirst, and her desire grew so greatly, that she realized clearly that she might quite possibly die of thirst if something were not done for her.
+
+I say that she would almost have been drawn out of herself because in this state the soul is in repose. So intolerable does such a soul find the world that it seems to be overwhelmed, [64] but it comes to life again in God; and in this way His Majesty enables it to enjoy experiences which, if it had remained within itself, would perforce have cost it its life.
+
+Let it be understood from this that, as there can be nothing in our supreme Good which is not perfect, all that He gives is for our welfare; and, however abundant this water which He gives may be, in nothing that He gives can there be superfluity. For, if His gift is abundant, He also bestows on the soul, as I have said, an abundant capacity for drinking; just as a glassmaker moulds his vessels to the size he thinks necessary, so that there is room for what he wishes to pour into them. As our desires for this water come from ourselves, they are never free from fault; any good that there may be in them comes from the help of the Lord. But we are so indiscreet that, as the pain is sweet and pleasant, we think we can never have too much of it. We have an immeasurable longing for it, [65] and, so far as is possible on earth, we stimulate this longing: sometimes this goes so far as to cause death. How happy is such a death! And yet by living one might perhaps have helped others to die of the desire for it. I believe the devil has something to do with this: knowing how much harm we can do him by living, he tempts us to be indiscreet in our penances and so to ruin our health, which is a matter of no small moment to him.
+
+I advise anyone who attains to an experience of this fierce thirst to watch herself carefully, for I think she will have to contend with this temptation. She may not die of her thirst, but her health will be ruined, and she will involuntarily give her feelings outward expression, which ought at all costs to be avoided. Sometimes, however, all our diligence in this respect is unavailing and we are unable to hide our emotions as much as we should like. Whenever we are assailed by these strong impulses stimulating the increase of our desire, let us take great care not to add to them ourselves but to check them gently [66] by thinking of something else. For our own nature may be playing as great a part in producing these feelings as our love. There are some people of this type who have keen desires for all kinds of things, even for bad things, but I do not think such people can have achieved great mortification, for mortification is always profitable. It seems foolish to check so good a thing as this desire, but it is not. I am not saying that the desire should be uprooted--only checked; one may be able to do this by stimulating some other desire which is equally praiseworthy.
+
+In order to explain myself better I will give an illustration. A man has a great desire to be with God, as Saint Paul had, and to be loosed from this prison. [67] This causes him pain which yet is in itself a great joy, and no small degree of mortification will be needed if he is to check it--in fact, he will not always be able to do so. But when he finds it oppressing him so much he may almost lose his reason. I saw this happen to someone not long ago; she was of an impetuous nature, but so accustomed to curbing her own will that, from what I had seen at other times, I thought her will was completely annihilated; yet, when I saw her for a moment, the great stress and strain caused by her efforts to hide her feelings had all but destroyed her reason. [68] In such an extreme case, I think, even did the desire come from the Spirit of God, it would be true humility to be afraid; for we must not imagine that we have sufficient charity to bring us to such a state of oppression.
+
+I shall not think it at all wrong (if it be possible, I mean, for it may not always be so) for us to change our desire by reflecting that, if we live, we have more chance of serving God, and that we might do this by giving light to some soul which otherwise would be lost; as well as that, if we serve Him more, we shall deserve to enjoy Him more, and grieve that we have served Him so little. These are consolations appropriate to such great trials: they will allay our pain and we shall gain a great deal by them if in order to serve the Lord Himself we are willing to spend a long time here below and to live with our grief. It is as if a person were suffering a great trial or a grievous affliction and we consoled him by telling him to have patience and leave himself in God's hands so that His will might be fulfilled in him: it is always best to leave ourselves in God's hands.
+
+And what if the devil had anything to do with these strong desires?
+
+This might be possible, as I think is suggested in Cassian's story of a hermit, leading the austerest of lives, who was persuaded by the devil to throw himself down a well so that he might see God the sooner. [69]
+
+I do not think this hermit can have served God either humbly or efficiently, for the Lord is faithful and His Majesty would never allow a servant of His to be blinded in a matter in which the truth was so clear. But, of course, if the desire had come from God, it would have done the hermit no harm; for such desires bring with them illumination, moderation and discretion. This is fitting, but our enemy and adversary seeks to harm us wherever he can; and, as he is not unwatchful, we must not be so either. This is an important matter in many respects: for example, we must shorten our time of prayer, however much joy it gives us, if we see our bodily strength waning or find that our head aches: discretion is most necessary in everything.
+
+Why do you suppose, daughters, that I have tried, as people say, to describe the end of the battle before it has begun and to point to its reward by telling you about the blessing which comes from drinking of the heavenly source of this living water? I have done this so that you may not be distressed at the trials and annoyances of the road, and may tread it with courage and not grow weary; for, as I have said, it may be that, when you have arrived, and have only to stoop and drink of the spring, you may fail to do so and lose this blessing, thinking that you have not the strength to attain it and that it is not for you.
+
+Remember, the Lord invites us all; and, since He is Truth Itself, we cannot doubt Him. If His invitation were not a general one, He would not have said: "I will give you to drink." He might have said: "Come, all of you, for after all you will lose nothing by coming; and I will give drink to those whom I think fit for it." But, as He said we were all to come, without making this condition, I feel sure that none will fail to receive this living water unless they cannot keep to the path.
+
+[70] May the Lord, Who promises it, give us grace, for His Majesty's own sake, to seek it as it must be sought.
+
+[57] Lit.: "so many days."
+
+[58] Lit.: "It will have to go as it comes out."
+
+[59] St Teresa is probably referring to the treatises of Luis de Granada and St. Peter of Alcántara (S.S.M, 1, 40-52, II, 106-20). Cf.
+
+Constitutions (Vol. III, p. 236, below).
+
+[60] Lit.: "of his doing something on (the horse) which is not graceful."
+
+[61] St. John iv, 13.
+
+[62] Lit.: "But this one-- no, no."
+
+[63] The author probably refers to herself: Cf. Life, Chapter XX, and Relations, passim.
+
+[64] Lit.: "drowned."
+
+[65] Lit.: "We eat it without measure."
+
+[66] Lit.: "to cut the thread."
+
+[67] Presumably a reminiscence of Romans vii, 24 or Philippians i, 23.
+
+[68] This, too, is generally taken as referring to St. Teresa herself.
+
+[69] Cassian: Conferences, II. v.
+
+[70] E. ends the chapter here. This final paragraph appears to be based upon St. John vii, 37.

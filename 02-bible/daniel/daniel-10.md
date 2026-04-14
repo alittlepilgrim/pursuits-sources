@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 10
 ---
@@ -79,3 +79,7 @@ description: Daniel, Chapter 10
 a. (10:5) [[ezekiel-10|Ez 10]]:2.
 
 b. (10:21) [Rv 12:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

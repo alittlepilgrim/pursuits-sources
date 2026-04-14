@@ -12,7 +12,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 128
 ---
@@ -68,3 +68,7 @@ d. [[128:5](https://bible.usccb.org/bible/psalms/128?5)] [Ps 20:3](https://bibl
 e. [[128:6](https://bible.usccb.org/bible/psalms/128?6)] [Jb 42:16](https://bible.usccb.org/bible/job/42?16); [Prv 17:6](https://bible.usccb.org/bible/proverbs/17?6).
 
 f. [[128:6](https://bible.usccb.org/bible/psalms/128?6)] [Ps 125:5](https://bible.usccb.org/bible/psalms/125?5).
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

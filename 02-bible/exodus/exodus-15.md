@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 15
 url: https://bible.usccb.org/bible/exodus/15
 aliases:
-  - 20250731-085916
   - exodus-15
   - Exodus, Chapter 15
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 15
 ---
@@ -172,3 +171,7 @@ h. (15:25) [Sir 38:5].
 i. (15:26) [Dt 7:15].
 
 j. (15:27) [Nm 33:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

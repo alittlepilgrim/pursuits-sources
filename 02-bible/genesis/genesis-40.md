@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 40
 url: https://bible.usccb.org/bible/genesis/40
 aliases:
-  - 20250508-020343
   - genesis-40
   - Genesis, Chapter 40
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 40
 bible_book: genesis
@@ -87,3 +86,7 @@ a. (40:8) [Gn 41:16]..
 ## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-01|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

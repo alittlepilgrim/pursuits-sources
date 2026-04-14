@@ -11,7 +11,7 @@ tags:
   - bible/ruth
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ruth, Chapter 3
 ---
@@ -77,3 +77,7 @@ c. (3:12) [Ru 4:1].
 d. (3:13) [Ru 1:16]; [4:5].
 
 e. (3:17) [Ru 1:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

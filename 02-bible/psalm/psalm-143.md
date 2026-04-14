@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 143
 ---
@@ -111,3 +111,7 @@ g. (143:7) ([[psalm-28|Ps 28]]:1]; [30:4]; [88:5]; [Prv 1:12].
 h. (143:8) ([[psalm-25|Ps 25]]:4]; [27:11]; [86:11]; [119:12], [35].
 
 i. (143:12) [Ps 116:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

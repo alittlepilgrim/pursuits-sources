@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 31
 ---
@@ -81,3 +81,7 @@ f. (31:16) [[1-chronicles-23|1 Chr 23]]:3 – [4].
 g. (31:17) [[1-chronicles-23|1 Chr 23]]:6 – [24].
 
 h. (31:21) [Ps 119:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

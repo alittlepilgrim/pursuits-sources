@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Baruch, Chapter 5
 ---
@@ -83,3 +83,7 @@ d. \[[5:6]\] [Is 49:22].
 e. \[[5:7]\] [Is 40:3] – [4].
 
 f. \[[5:8]\] [Is 41:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

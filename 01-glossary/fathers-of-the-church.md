@@ -1,7 +1,7 @@
 ---
 type: glossary
 title: Fathers of the Church
-author:
+author: Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 aliases:
   - Fathers of the Church
   - fathers-of-the-church
@@ -9,7 +9,7 @@ tags:
   - term/fathers-of-the-church
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-14
 publish: true
 description: fathers-of-the-church. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---

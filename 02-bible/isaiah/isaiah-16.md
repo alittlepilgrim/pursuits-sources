@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 16
 ---
@@ -167,3 +167,7 @@ f. (16:11) [[isaiah-15|Is 15]]:5; [Jer 48:36].
 g. (16:12) [Jer 48:13].
 
 h. (16:14) [Dt 15:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

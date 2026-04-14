@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 3
 ---
@@ -205,3 +205,7 @@ h. (3:18) [Prv 4:13]; [8:35]; [11:30]; [Gn 2:9]; [3:22].
 i. (3:31) [Prv 23:17]; [24:1], [19]; [Ps 37:1].
 
 j. (3:34) [Prv 1:26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

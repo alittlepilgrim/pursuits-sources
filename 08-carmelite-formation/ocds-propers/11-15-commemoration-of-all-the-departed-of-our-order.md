@@ -3,7 +3,7 @@ type: ocds-proper
 title: November 15, Commemoration of All The Departed of Our Order
 author: OCD General Curia
 aliases:
-  - 11-15-commemoration-of-all-the-departed-of-our order
+  - commemoration-of-all-the-departed-of-our order
   - November 15, Commemoration of All The Departed of Our Order
 tags:
   - carmel/propers
@@ -11,7 +11,7 @@ tags:
   - type/ocd-proper
 celebration_day: 11-15
 created: 2024-07-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: November 15, Commemoration of All The Departed of Our Order
 attachment: true

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: James, Chapter 2
 ---
@@ -80,7 +80,7 @@ description: James, Chapter 2
 
 \* (2:4) When Christians show favoritism to the rich they are guilty of the worst kind of prejudice and discrimination. The author says that such Christians set themselves up as judges who judge not by divine law but by the basest, self-serving motives.
 
-\* (2:5) The poor, “God’s poor” of the Old Testament, were seen by Jesus as particularly open to God for belief in and reliance on him alone (([[luke-06| [[luke-06|Lk 6]]:]]:20]). God’s law cannot tolerate their oppression in any way ([Jas 2:9]).
+\* (2:5) The poor, “God’s poor” of the Old Testament, were seen by Jesus as particularly open to God for belief in and reliance on him alone (([[luke-06||Lk 6]]:20]). God’s law cannot tolerate their oppression in any way ([Jas 2:9]).
 
 \* (2:8) Royal: literally, “kingly”; because the Mosaic law came from God, the universal king. There may be an allusion to Jesus’ uses of this commandment in his preaching of the kingdom of God (([[matthew-22|Mt 22]]:39]; ([[mark-12|Mk 12]]:31]; ([[luke-10|Lk 10]]:27]).
 
@@ -113,3 +113,7 @@ k. (2:21) [[genesis-22|Gen 22]]:9 – [12]; [Heb 11:17].
 l. (2:23) [[genesis-15|Gen 15]]:6; ([[romans-04|Rom 4]]:3]; [Gal 3:6] / [2 Chr 20:7]; [Is 41:8].
 
 m. (2:25) [Jos 2:1] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

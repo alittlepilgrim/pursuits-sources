@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 17
 ---
@@ -91,3 +91,7 @@ c. (17:23) [2 Sm 15:31]; [16:23].
 d. (17:25) [2 Sm 19:14]; [20:4] – [13].
 
 e. (17:27) [2 Sm 9:4]; [19:32]; [1 Kgs 2:7]; ([[ezra-02|Ezr 2]]:61].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

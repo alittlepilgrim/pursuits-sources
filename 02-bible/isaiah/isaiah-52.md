@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 52
 ---
@@ -157,3 +157,7 @@ c. (52:12) ([[exodus-12|Ex 12]]:11].
 d. (52:14) [Ps 69:8].
 
 e. (52:15) [Mi 7:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

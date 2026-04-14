@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 1
 ---
@@ -79,3 +79,7 @@ f. (1:10] – [11) [Dt 20:5] – [9].
 g. (1:12] – [18) [Nm 32]; [Dt 3:12] – [20].
 
 h. (1:15) [Jos 22:4]; [Dt 3:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

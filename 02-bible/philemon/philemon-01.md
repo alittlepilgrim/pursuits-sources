@@ -11,7 +11,7 @@ tags:
   - bible/philemon
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Philemon, the Letter to Philemon
 ---
@@ -137,3 +137,7 @@ m. (22) [Heb 13:19].
 n. (23) [Col 1:7]; [4:12] – [13].
 
 o. (25) ([[acts-of-the-apostles-12|Acts 12]]:12], [15]; [13:13]; [15:37] – [39]; [19:29]; [20:4]; [27:2]; [Col 4:10], [14]; [2 Tm 4:10] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

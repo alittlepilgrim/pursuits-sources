@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 27
 ---
@@ -43,3 +43,7 @@ description: 2 Chronicles, Chapter 27
 a. (27:1] – [3) [[2-kings-15|2 Kgs 15]]:32 – [35].
 
 b. (27:7] – [9) [[2-kings-15|2 Kgs 15]]:36 – [38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

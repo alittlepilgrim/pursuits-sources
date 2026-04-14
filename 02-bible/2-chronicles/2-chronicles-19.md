@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 19
 ---
@@ -57,3 +57,7 @@ b. (19:7) [Dt 10:17].
 c. (19:8) [2 Chr 17:8] – [9]; [Dt 17:8] – [13]; [Ps 122:3] – [5].
 
 d. (19:10) [Dt 17:8] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

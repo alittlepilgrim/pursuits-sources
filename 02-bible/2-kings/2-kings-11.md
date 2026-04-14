@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 11
 ---
@@ -79,3 +79,7 @@ a. (11:1] – [2) [Jgs 9:5].
 b. (11:10) [2 Sm 8:7].
 
 c. (11:17) [[2-kings-23|2 Kgs 23]]:3.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 2
 ---
@@ -191,3 +191,7 @@ o. (2:22) ([[psalm-18|Ps 18]]:24] – [25]; [Prv 11:18]; ([[matthew-11|Mt 11]]:2
 p. (2:23) [Gn 1:26] – [27]; [Is 54:16] LXX.
 
 q. (2:24) [Gn 3:1] – [24]; [Rom 5:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

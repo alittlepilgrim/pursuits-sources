@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 69
 ---
@@ -265,3 +265,7 @@ s. (69:33) ([[psalm-22|Ps 22]]:27]; [35:27]; [70:5].
 t. (69:36) [Is 44:26]; [Ez 36:10].
 
 u. (69:37) [Ps 102:29]; [Is 65:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

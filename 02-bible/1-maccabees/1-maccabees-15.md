@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 15
 ---
@@ -131,3 +131,7 @@ a. (15:15) [1 Mc 8:17]; [12:16]; [14:22], [24].
 b. (15:18) [[1-maccabees-14|1 Mc 14]]:24.
 
 c. (15:27) [[1-maccabees-15|1 Mc 15]]:5 – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

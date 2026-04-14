@@ -17,6 +17,34 @@ publish: true
 
 # Man
 
+## Ignatius Catholic Study Bible
+
+**Man**
+
+Affected deeply by sin: Mt 7:11; Jn 1:10-12; Rom 3:23; 5:12-19; 7:18-20; 1 Jn 1:8
+
+Body and soul unity of the human person: Mt 10:28
+
+Christ the perfect image of God: Col 1:15
+
+Created male and female: Mt 19:4
+
+Fundamental equality of all human beings: Acts 17:26; Gal 3:28; Eph 6:9; Col 3:11; Philem 16
+
+Image of God: 1 Cor 11:7
+
+New creation in Christ: 2 Cor 5:17
+
+Redeemed by Christ: Rom 3:24; 1 Cor 1:30; Gal 3:13-14; Col 1:13-14
+
+Redeemed man conformed to the image of Christ: Rom 8:29; 1 Cor 15:45-49; Col 3:10
+
+*See also* [[Reason]]; [[Sin]]; [[Soul]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
+
 ## Divine Intimacy Meditations
 
 - Does not exist and can do nothing without the help of God: [[107-our-place#Meditation 1|107,1]], [[107-our-place#Meditation 2|107,2]]; [[240-divine-omnipotence#Meditation 2|240,2]]; [[307-blessed-are-the-merciful#Meditation 2|307,2]];

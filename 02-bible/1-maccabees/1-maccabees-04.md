@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 4
 ---
@@ -195,3 +195,7 @@ l. (4:49) ([[exodus-25|Ex 25]]:23] – [39]; [30:1] – [6].
 m. (4:53) [Ex 30:10]; [Ez 43:18] – [27].
 
 n. (4:59) [Jn 10:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

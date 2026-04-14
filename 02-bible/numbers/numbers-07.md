@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 7
 ---
@@ -213,3 +213,7 @@ c. (7:9) [Nm 3:31]; [4:4] – [15].
 d. (7:10) [Nm 7:84].
 
 e. (7:89) ([[exodus-25|Ex 25]]:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

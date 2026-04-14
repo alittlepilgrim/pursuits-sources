@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 14
 ---
@@ -59,3 +59,7 @@ a. (14:1] – [2) [2 Chr 33:15]; ([[exodus-23|Ex 23]]:24]; [34:13]; [[1-kings-15
 b. (14:8) [2 Chr 16:8].
 
 c. (14:10) [2 Chr 32:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

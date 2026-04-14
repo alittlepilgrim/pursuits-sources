@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 13
 ---
@@ -115,3 +115,7 @@ e. (13:28] – [29) [Dt 9:1] – [2].
 f. (13:32) [Nm 32:9]; [Jos 14:8].
 
 g. (13:33) [Dt 2:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

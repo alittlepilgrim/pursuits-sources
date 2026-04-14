@@ -11,7 +11,7 @@ tags:
   - bible/ruth
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ruth, Chapter 4
 ---
@@ -99,3 +99,7 @@ h. (4:18) [Gn 46:12]; [Nm 26:21]; [1 Chr 4:1].
 i. (4:20) ([[exodus-06|Ex 6]]:23]; [Nm 1:7]; [2:3]; [7:12] – [17]; [10:14].
 
 j. (4:22) [1 Sm 16:2] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

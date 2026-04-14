@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Peter, Chapter 3
 ---
@@ -117,3 +117,7 @@ m. (3:15) [Rom 8:19]; [Jude 24].
 n. (3:17) ([[mark-13|Mk 13]]:5]; [Heb 2:1].
 
 o. (3:18) [Rom 16:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 15
 ---
@@ -69,3 +69,7 @@ a. (15:1) [Is 56:7].
 b. (15:2) [Ps 119:1].
 
 c. (15:5) ([[exodus-22|Ex 22]]:24]; [23:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

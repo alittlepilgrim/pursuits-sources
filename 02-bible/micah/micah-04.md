@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Micah, Chapter 4
 ---
@@ -179,3 +179,7 @@ b. (4:4) [[hosea-14|Hos 14]]:8; [Am 9:14].
 c. (4:7) [Is 6:13]; [Dn 7:14]; [Zep 3:19]; ([[luke-01|Lk 1]]:32].
 
 d. (4:13) [Is 41:15]; [[hosea-10|Hos 10]]:11.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

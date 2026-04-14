@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 19
 ---
@@ -123,3 +123,7 @@ a. (19:2) ([[psalm-08|Ps 8]]:1]; [50:6]; [97:6].
 b. (19:8) ([[psalm-12|Ps 12]]:7]; [119].
 
 c. (19:11) [[sirach-24|Sir 24]]:19.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

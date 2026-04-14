@@ -7,10 +7,9 @@ aliases:
   - "Text 2: Creation as ‘an icon’"
 tags:
   - author/ocd-general-curia
-  - subject/laudato-si
-  - subject/st-john-of-the-cross
+  - subject/ecology
 created: 2026-03-18
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 attachment: false
 ---
@@ -41,13 +40,13 @@ Here, then, is the beautiful stanza 5 of the Spiritual Canticle, together with 
 
 ## The Spiritual Canticle B 5,1-4
 
-Pouring out a thousand graces, he passed these groves in haste; and having looked at them, with his image alone, clothed them in beauty. 
+*Pouring out a thousand graces, he passed these groves in haste; and having looked at them, with his image alone, clothed them in beauty.* 
 
 ### Commentary
 
 1. In this stanza the creatures answer the soul. Their answer, as St. Augustine also declares in that same place, is the testimony they in themselves give the soul of God’s grandeur and excellence. It is for this testimony that she asked in her reflections. The substance of this stanza is: God created all things with remarkable ease and brevity, and in them he left some trace of who he is, not only in giving all things being from nothing, but even by endowing them with innumerable graces and qualities, making them beautiful in a wonderful order and unfailing dependence on one another. All of this he did through his own Wisdom, the Word, his only begotten Son by whom he created them. 
 
-**She then says: Pouring out a thousand graces,** 
+***She then says: Pouring out a thousand graces,*** 
 
 2. These “thousand graces” she says he was pouring out refer to the numberless multitude of creatures. She records the high number, a thousand, to indicate their multitude. She calls them graces because of the many graces he has endowed creatures with. Pouring these out, that is, stocking the whole world with them,  he passed these groves in haste; 
 3. To “pass the groves” is to create the elements, which are here termed “groves.” She de-clares that he passed by them pouring out a thousand graces because he adorned them with all the creatures, for these groves are favored with graces. And, in addition, he poured out on them a thousand graces by giving them the power to concur in generation and conservation. 
@@ -60,13 +59,13 @@ She declares that this passing was “in haste.” Creatures are the lesser work
 
 ## Laudato SI’
 
-LS 12. What is more, Saint Francis, faithful to Scripture, invites us to see nature as a magnificent book in which God speaks to us and grants us a glimpse of his infinite beauty and goodness. « Through the greatness and the beauty of creatures one comes to know by anal-ogy their maker” (Wis 13:5); indeed, “his eternal power and divinity have been made known through his works since the creation of the world” (Rom 1:20). For this reason, Francis asked that part of the friary garden always be left untouched, so that wild flowers and herbs could grow there, and those who saw them could raise their minds to God, the Creator of such beau-ty. Rather than a problem to be solved, the world is a joyful mystery to be contemplated with gladness and praise. 
+**LS 12.** What is more, Saint Francis, faithful to Scripture, invites us to see nature as a magnificent book in which God speaks to us and grants us a glimpse of his infinite beauty and goodness. « Through the greatness and the beauty of creatures one comes to know by anal-ogy their maker” (Wis 13:5); indeed, “his eternal power and divinity have been made known through his works since the creation of the world” (Rom 1:20). For this reason, Francis asked that part of the friary garden always be left untouched, so that wild flowers and herbs could grow there, and those who saw them could raise their minds to God, the Creator of such beau-ty. Rather than a problem to be solved, the world is a joyful mystery to be contemplated with gladness and praise. 
 
-LS 84. Our insistence that each human being is an image of God should not make us overlook the fact that each creature has its own purpose. None is superfluous. The entire material universe speaks of God’s love, his boundless affection for us. Soil, water, mountains: everything is, as it were, a caress of God. 
+**LS 84.** Our insistence that each human being is an image of God should not make us overlook the fact that each creature has its own purpose. None is superfluous. The entire material universe speaks of God’s love, his boundless affection for us. Soil, water, mountains: everything is, as it were, a caress of God. 
 
-LS 92. We can hardly consider ourselves to be fully loving if we disregard any aspect of reality: “Peace, justice and the preservation of creation are three absolutely interconnect-ed themes, which cannot be separated and treated individually without once again falling into reductionism”. Everything is related, and we human beings are united as brothers and sisters on a wonderful pilgrimage, woven together by the love God has for each of his creatures and which also unites us in fond affection with brother sun, sister moon, brother river and mother earth. 
+**LS 92.** We can hardly consider ourselves to be fully loving if we disregard any aspect of reality: “Peace, justice and the preservation of creation are three absolutely interconnect-ed themes, which cannot be separated and treated individually without once again falling into reductionism”. Everything is related, and we human beings are united as brothers and sisters on a wonderful pilgrimage, woven together by the love God has for each of his creatures and which also unites us in fond affection with brother sun, sister moon, brother river and mother earth. 
 
-LS 100. The New Testament does not only tell us of the earthly Jesus and his tangible and loving relationship with the world. It also shows him risen and glorious, present through-out creation by his universal Lordship: “For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross” (Col 1:19-20). This leads us to direct our gaze to the end of time, when the Son will deliver all things to the Father, so that “God may be everything to every one” (1 Cor 15:28). Thus, the creatures of this world no longer appear to us under merely natural guise because the risen One is mysteriously holding them to himself and directing them towards fullness as their end. The very flowers of the field and the birds which his human eyes contemplated and admired are now imbued with his radiant presence.
+**LS 100.** The New Testament does not only tell us of the earthly Jesus and his tangible and loving relationship with the world. It also shows him risen and glorious, present through-out creation by his universal Lordship: “For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross” (Col 1:19-20). This leads us to direct our gaze to the end of time, when the Son will deliver all things to the Father, so that “God may be everything to every one” (1 Cor 15:28). Thus, the creatures of this world no longer appear to us under merely natural guise because the risen One is mysteriously holding them to himself and directing them towards fullness as their end. The very flowers of the field and the birds which his human eyes contemplated and admired are now imbued with his radiant presence.
 
 ## Questions
 
@@ -77,7 +76,7 @@ LS 100. The New Testament does not only tell us of the earthly Jesus and his tan
 
 # Links
 
-- [[jc-spiritual-canticle|Spiritual Canticle by St. John of the Cross]]
+- [[jc-sc-toc|Spiritual Canticle by St. John of the Cross]]
 - [[stc-2-sp|Texto 2: La Creación, un Icono - San Juan de la Cruz y la Creación]]
 - [[laudato-si|Laudato SI’ by Pope Francis]]
 

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 23
 ---
@@ -231,3 +231,7 @@ g. (23:53) [19:30]; ([[acts-of-the-apostles-13|Acts 13]]:29].
 h. (23:55) [8:2]; [23:49]; [24:10].
 
 i. (23:56) ([[exodus-12|Ex 12]]:16]; [20:10]; [Dt 5:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Thessalonians, Chapter 4
 ---
@@ -85,3 +85,7 @@ e. (4:14) [1 Cor 15:3] – [4], [12], [20].
 f. (4:15) [1 Cor 15:51]; [Rv 14:13]; [20:4] – [6].
 
 g. (4:16) ([[matthew-24|Mt 24]]:31]; [1 Cor 15:23], [52].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

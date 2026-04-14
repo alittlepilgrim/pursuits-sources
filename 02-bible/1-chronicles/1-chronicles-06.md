@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 6
 ---
@@ -178,3 +178,7 @@ h. [6:32] ([[exodus-06|Ex 6]]:19]; [Nm 26:58].
 i. [6:33] [[1-chronicles-15|1 Chr 15]]:17, [19]; [16:41] – [42]; [2 Chr 5:12].
 
 j. [6:34] [[1-chronicles-16|1 Chr 16]]:39 – [40].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

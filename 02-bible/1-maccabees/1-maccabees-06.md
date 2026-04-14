@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 6
 ---
@@ -177,3 +177,7 @@ g. (6:49) [Lv 25:1] – [7].
 h. (6:55] – [63) [[2-maccabees-13|2 Mc 13]]:23 – [26].
 
 i. (6:57) [[2-maccabees-11|2 Mc 11]]:13 – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

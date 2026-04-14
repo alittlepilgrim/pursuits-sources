@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 11
 ---
@@ -181,3 +181,7 @@ j. (11:12) [[isaiah-18|Is 18]]:3.
 k. (11:15) [Zec 10:11]; [Rv 16:12].
 
 l. (11:16) [Is 51:10]; ([[exodus-14|Ex 14]]:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

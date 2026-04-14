@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 10
 ---
@@ -39,3 +39,7 @@ b. \[[10:12]\] [2 Sm 2:5].
 c. \[[10:13]\] [Dt 18:10] – [14]; [1 Sm 13:13] – [14]; [15:3], [11], [26].
 
 d. \[[10:14]\] [1 Sm 15:28]; [2 Sm 3:9] – [10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

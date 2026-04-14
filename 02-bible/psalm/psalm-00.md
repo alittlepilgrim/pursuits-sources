@@ -10,7 +10,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, the Book of Psalms
 ---
@@ -32,3 +32,7 @@ There are more Psalms of lament than of any other type. They may be individual (
 Other Psalms are clearly classified on account of content, and they may be in themselves laments or Psalms of thanksgiving. Among the “royal” Psalms that deal directly with the currently reigning king, are [Ps 20], [21], and [72]. Many of the royal Psalms were given a messianic interpretation by Christians. In Jewish tradition they were preserved, even after kingship had disappeared, because they were read in the light of the Davidic covenant reported in [2 Sm 7]. Certain Psalms are called wisdom Psalms because they seem to betray the influence of the concerns of the ages (cf. [Ps 37], [49]), but there is no general agreement as to the number of these prayers. Somewhat related to the wisdom Psalms are the “torah” Psalms, in which the torah (instruction or law) of the Lord is glorified ([Ps 1]; [19:8] – [14]; [119]). [Ps 78], [105], [106] can be considered as “historical” Psalms. Although the majority of the Psalms have a liturgical setting, there are certain prayers that may be termed “liturgies,” so clearly does their structure reflect a liturgical incident (e.g., [Ps 15], [24]).
 
 It is obvious that not all of the Psalms can be pigeon-holed into neat classifications, but even a brief sketch of these types help us to catch the structure and spirit of the Psalms we read. It has been rightly said that the Psalms are “a school of prayer.” They not only provide us with models to follow, but inspire us to voice our own deepest feelings and aspirations.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

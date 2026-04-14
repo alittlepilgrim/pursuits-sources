@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 14
 ---
@@ -157,3 +157,7 @@ g. (14:25) [4:5] / [Is 45:14]; [Zec 8:23].
 h. (14:26) [Eph 4:12].
 
 i. (14:34) [1 Tm 2:11] – [15]; [1 Pt 3:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

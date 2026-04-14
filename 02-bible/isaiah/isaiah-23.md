@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 23
 ---
@@ -167,3 +167,7 @@ e. (23:12) [Ez 28:21] – [22].
 f. (23:13) [[isaiah-13|Is 13]]:21; [34:14]; [Jer 50:39].
 
 g. (23:17) [Rv 17:5]; [18:3], [11], [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

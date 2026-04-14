@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 49
 ---
@@ -139,3 +139,7 @@ h. (49:14) [Sir 44:16]; [Gn 5:18] – [24].
 i. (49:15) [Gn] [37:39] [\-50]; ([[exodus-13|Ex 13]]:19]; [Jos 24:32].
 
 j. (49:16) [Gn 1:26] – [30]; [2:7]; [4:25] – [26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

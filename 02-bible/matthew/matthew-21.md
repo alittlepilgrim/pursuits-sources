@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 21
 ---
@@ -259,3 +259,7 @@ s. (21:33) [Is 5:1] – [2], [7].
 t. (21:39) [Heb 13:12].
 
 u. (21:42) [Ps 118:22] – [23]; [Is 28:16]; ([[acts-of-the-apostles-04|Acts 4]]:11]; [1 Pt 2:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

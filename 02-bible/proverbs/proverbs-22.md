@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 22
 ---
@@ -193,3 +193,7 @@ i. (22:23) [Prv 23:11].
 j. (22:26) [Prv 6:1] – [2]; [11:15]; [17:18].
 
 k. (22:28) [Prv 23:10]; [Dt 19:14]; [27:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

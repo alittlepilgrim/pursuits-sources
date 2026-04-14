@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 6
 ---
@@ -201,3 +201,7 @@ c. (6:30) [Is 62:3].
 d. (6:35) [Sir 8:8] – [9].
 
 e. (6:37) ([[psalm-01|Ps 1]]:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

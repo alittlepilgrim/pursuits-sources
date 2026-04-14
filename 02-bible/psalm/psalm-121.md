@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 121
 ---
@@ -75,3 +75,7 @@ e. (121:6) [Wis 18:3]; [Is 25:4]; [49:10].
 f. (121:7) [Ps 97:10].
 
 g. (121:8) [Dt 28:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

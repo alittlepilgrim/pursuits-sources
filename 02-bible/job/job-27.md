@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 27
 ---
@@ -123,3 +123,7 @@ b. (27:5) [Jb 2:3], [9]; [13:15]; [33:9].
 c. (27:13) [Jb 20:4] – [29].
 
 d. (27:19) [Ps 49:18]; [76:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

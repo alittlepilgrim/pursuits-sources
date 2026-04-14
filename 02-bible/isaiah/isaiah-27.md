@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 27
 ---
@@ -149,3 +149,7 @@ g. (27:8) [Jer 18:17].
 h. (27:11) [Is 1:3]; [5:13]; [Jer 4:22].
 
 i. (27:13) [[isaiah-11|Is 11]]:11 – [16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

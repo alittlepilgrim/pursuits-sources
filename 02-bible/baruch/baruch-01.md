@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Baruch, Chapter 1
 ---
@@ -101,3 +101,7 @@ i. \[[1:14]\] ([[exodus-23|Ex 23]]:14] – [17]; [Lv 23:35] – [36]; [Sir 50:6]
 j. \[[1:15]\] ([[baruch-02|Bar 2]]:6]; [3:8]; ([[ezra-09|Ezr 9]]:6] – [15]; [Neh 9:6] – [37]; [Dn 9:4] – [19].
 
 k. \[[1:20]\] [Lv 26:14] – [39]; [Dt 28:15] – [68].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 32
 ---
@@ -175,3 +175,7 @@ x. (32:42) [Jer 33:10] – [14]; [Zec 8:13].
 y. (32:43) [Jer 33:10].
 
 z. (32:44) [Jer 17:26]; [33:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

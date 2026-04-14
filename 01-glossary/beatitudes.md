@@ -8,7 +8,7 @@ tags:
   - term/beatitudes
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: beatitudes. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -18,6 +18,14 @@ description: beatitudes. Catechism of the Catholic Church. 1997. 2nd ed. Vatican
 ## Catechism of the Catholic Church
 
 The teachings of Jesus in the Sermon on the Mount on the meaning and way to true happiness (cf. _Mt_ 5:1-12 _Lk_ 6:20-23). These teachings reflect the promises made to the chosen people since [[abraham|Abraham]]; they portray the countenance of Christ and describe his charity. More- over, by shedding light on the actions and attitudes characteristic of the Christian life, they describe the vocation of all the faithful ([[3.1.1.2.p5i|ccc-1716]]).
+
+## Ignatius Catholic Study Bible
+
+**Beatitudes:** Mt 5:3-12; Lk 6:20-26
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 
@@ -30,7 +38,7 @@ The teachings of Jesus in the Sermon on the Mount on the meaning and way to true
 - blessed are the clean of heart: [[312-blessed-are-the-clean-of-heart#Meditation 1|312,1]], [[312-blessed-are-the-clean-of-heart#Meditation 2|312,2]];
 - blessed are the peacemakers: [[314-blessed-are-the-peacemakers#Meditation 1|314,1]], [[314-blessed-are-the-peacemakers#Meditation 2|314,2]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[300-blessed-are-the-poor-in-spirit|300. Blessed Are the Poor in Spirit]]
 - [[303-blessed-are-they-that-hunger-and-thirst-after-justice|303. Blessed Are They that Hunger and Thirst after Justice]]

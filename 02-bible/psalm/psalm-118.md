@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 118
 ---
@@ -181,3 +181,7 @@ h. (118:19) [Is 26:2].
 i. (118:22) ([[matthew-21|Mt 21]]:42]; ([[luke-20|Lk 20]]:17]; ([[acts-of-the-apostles-04|Acts 4]]:11]; [Rom 9:33]; [1 Pt 2:7].
 
 j. (118:26) ([[matthew-21|Mt 21]]:9]; [23:39].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

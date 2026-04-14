@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 29
 url: https://bible.usccb.org/bible/genesis/29
 aliases:
-  - 20250508-020311
   - genesis-29
   - Genesis, Chapter 29
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 29
 bible_book: genesis
@@ -147,3 +146,7 @@ h. (29:35) ([[matthew-01|Mt 1]]:2]; ([[luke-03| [[luke-03|Lk 3]]:]]:33]..
 ## Navigation
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

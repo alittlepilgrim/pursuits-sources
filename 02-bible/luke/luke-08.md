@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 8
 ---
@@ -223,3 +223,7 @@ s. (8:46) [6:19].
 t. (8:48) [7:50]; [17:19]; [18:42].
 
 u. (8:52) [7:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

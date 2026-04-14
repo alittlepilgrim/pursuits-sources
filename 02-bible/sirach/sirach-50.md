@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 50
 ---
@@ -211,3 +211,7 @@ c. (50:16) [Nm 10:10].
 d. (50:20) [Nm 6:23] – [27].
 
 e. (50:26) [[2-kings-17|2 Kgs 17]]:24; ([[john-04|Jn 4]]:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

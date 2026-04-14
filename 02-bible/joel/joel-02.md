@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joel, Chapter 2
 ---
@@ -311,3 +311,7 @@ m. (2:23) [[hosea-10|Hos 10]]:12.
 n. (2:25) [Jer 5:17].
 
 o. (2:27) [Is 45:5] – [6], [18]; [46:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

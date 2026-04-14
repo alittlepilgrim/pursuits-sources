@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 14
 ---
@@ -79,3 +79,7 @@ e. (14:7) [Is 60:21]; [Jer 32:37]; [Ez 34:28]; [37:25]; [39:26].
 f. (14:10) [Tb 1:21] – [22].
 
 g. (14:12) [Tb 4:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 35
 url: https://bible.usccb.org/bible/genesis/35
 aliases:
-  - 20250508-020327
   - genesis-35
   - Genesis, Chapter 35
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 35
 bible_book: genesis
@@ -137,3 +136,7 @@ h. (35:22) [Gn 49:4]; [1 Chr 5:1]..
 ## Navigation
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

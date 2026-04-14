@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Malachi, Chapter 3
 ---
@@ -251,3 +251,7 @@ k. (3:20) ([[luke-01|Lk 1]]:78] – [79].
 l. (3:22) [Ex 20]; [Lv 26]; [Dt 4:1], [5] – [6].
 
 m. (3:23) [2 Kgs 2:10] – [12]; [Sir 48:10]; ([[matthew-11|Mt 11]]:13] – [14]; [17:10] – [13]; ([[mark-09|Mk 9]]:9] – [13]; ([[luke-01|Lk 1]]:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 6
 ---
@@ -77,3 +77,7 @@ a. (6:2) [Jdt 3:8]; [9:7] – [8]; [[1-kings-22|1 Kgs 22]]:15 – [17]; [[2-king
 b. (6:9) [Gn 4:5]; [40:7].
 
 c. (6:15) [Gn 29:33]; [34:25], [30]; [35:23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

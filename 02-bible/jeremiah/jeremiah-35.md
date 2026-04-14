@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 35
 ---
@@ -81,3 +81,7 @@ d. (35:14) [Jer 7:13]; [25:3]; [2 Chr 36:15] – [16].
 e. (35:15) [Jer 25:4] – [5], [7].
 
 f. (35:17) [Jer 11:8] – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

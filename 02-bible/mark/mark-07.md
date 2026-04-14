@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 7
 ---
@@ -147,3 +147,7 @@ i. (7:26) ([[matthew-08|Mt 8]]:29].
 j. (7:31] – [37) ([[matthew-15|Mt 15]]:29] – [31].
 
 k. (7:37) ([[matthew-15|Mt 15]]:31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

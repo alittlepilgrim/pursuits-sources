@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Haggai, the Book of Haggai
 ---
@@ -34,3 +34,7 @@ The prophecies of Haggai can be divided into two major parts:
 - [[haggai-00|Haggai, the Book of Haggai]]
 - [[haggai-01|Haggai, Chapter 1]]
 - [[haggai-02|Haggai, Chapter 2]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

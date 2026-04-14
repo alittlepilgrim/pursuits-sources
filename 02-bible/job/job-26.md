@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 26
 ---
@@ -103,3 +103,7 @@ d. (26:10) [Jb 38:8] – [11]; [Prv 8:29].
 e. (26:11) [Jb 9:6]; ([[psalm-18|Ps 18]]:16]; [104:7].
 
 f. (26:13) [Is 27:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

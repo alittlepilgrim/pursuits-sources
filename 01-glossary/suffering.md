@@ -11,12 +11,30 @@ tags:
   - term/suffering
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: Suffering. Divine Intimacy Meditations
 ---
 
 # Suffering
+
+## Ignatius Catholic Study Bible
+
+**Suffering**
+
+Christian participation in the suffering of Christ on behalf of others: 2 Cor 1:5; Eph 3:13; Phil 3:10; Col 1:24; 1 Pet 4:13
+
+Part of Christian discipleship: Mt 16:24; Mk 8:34; Heb 12:3-11
+
+Redemptive value of suffering: Mt 10:38; Jn 3:16; Rom 5:3-5; 8:17; 1 Cor 3:15; 2 Cor 4:16; Phil 2:8-10; 3:8-11; 2 Thess 1:5; Heb 12:4-14; 1 Pet 1:6-7; 4:13
+
+Rejoicing in suffering: Rom 5:3; Col 1:24
+
+*See also* [[redeemer-redemption|Redemption]]; [[Salvation]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 
@@ -33,7 +51,7 @@ description: Suffering. Divine Intimacy Meditations
 - any — can be made to harmonize with the ideals of a Christian: [[127-the-value-of-suffering#Meditation 2|127,2]];
 - charity makes us capable of bearing any — without becoming overwhelmed: [[127-the-value-of-suffering#Meditation 2|127,2]];
 - to suffer for the love of Jesus, who has suffered for love of us: [[128-patience#Meditation 1|128,1]]; [[291-fortitude-and-patience#Meditation 2|291,2]];
-- our — is nothing in comparison with that of Jesus: [[128-patience#Meditation 1|128,1]]; [[a little pilgrim/carmel/130-suffering-and-abandonment#Meditation 1|130,1]];
+- our — is nothing in comparison with that of Jesus: [[128-patience#Meditation 1|128,1]]; [[private 🔏/carmel-study-notes/130-suffering-and-abandonment#Meditation 1|130,1]];
 - spirit of faith on occasions of —: [[128-patience#Meditation 2|128,2]]; [[351-passive-purification#Meditation 2|351,2]];
 - by — the soul gives glory to God and shows its love: [[132-love-of-the-cross#Meditation 2|132,2]];
 - only God can infuse love for —: [[360-strong-and-active-love#Meditation 2|360,2]];
@@ -45,9 +63,9 @@ description: Suffering. Divine Intimacy Meditations
 - God chooses and disposes the — of life for our purification: [[351-passive-purification#Meditation 1|351,1]];
 - profit the soul receives from — embraced for love of God [[128-patience#Meditation 2|128,2]]; [[129-the-daily-cross#Meditation 2|129,2]];
 - every — accepted from the hand of God is a means of sanctification [[128-patience#Meditation 2|128,2]]; [[129-the-daily-cross#Meditation 2|129,2]];
-- confidence and abandonment to God in — [[128-patience#Meditation 2|128,2]]; [[a little pilgrim/carmel/130-suffering-and-abandonment#Meditation 1|130,1]], [[a little pilgrim/carmel/130-suffering-and-abandonment#Meditation 2|130,2]]; [[138-the-mystery-of-the-cross#Meditation 2|138,2]];
-- self-forgetfulness and simplicity in —: [[a little pilgrim/carmel/130-suffering-and-abandonment#Meditation 1|130,1]];
-- a simple soul is one who suffers with the greatest courage: [[a little pilgrim/carmel/130-suffering-and-abandonment#Meditation 1|130,1]];
+- confidence and abandonment to God in — [[128-patience#Meditation 2|128,2]]; [[private 🔏/carmel-study-notes/130-suffering-and-abandonment#Meditation 1|130,1]], [[private 🔏/carmel-study-notes/130-suffering-and-abandonment#Meditation 2|130,2]]; [[138-the-mystery-of-the-cross#Meditation 2|138,2]];
+- self-forgetfulness and simplicity in —: [[private 🔏/carmel-study-notes/130-suffering-and-abandonment#Meditation 1|130,1]];
+- a simple soul is one who suffers with the greatest courage: [[private 🔏/carmel-study-notes/130-suffering-and-abandonment#Meditation 1|130,1]];
 - necessity of — for our purification: [[132-love-of-the-cross#Meditation 1|132,1]]; [[248-the-test-of-hope#Meditation 1|248,1]]; [[351-passive-purification#Meditation 1|351,1]], [[351-passive-purification#Meditation 2|351,2]];
 - active — is not sufficient; passive — is necessary: [[132-love-of-the-cross#Meditation 1|132,1]];
 - patience renders us able to bear daily — without losing serenity: [[291-fortitude-and-patience#Meditation 1|291,1]];
@@ -65,7 +83,7 @@ description: Suffering. Divine Intimacy Meditations
 - [[127-the-value-of-suffering|127. The Value of Suffering]]
 - [[128-patience|128. Patience]]
 - [[129-the-daily-cross|129. The Daily Cross]]
-- [[a little pilgrim/carmel/130-suffering-and-abandonment|130. Suffering and Abandonment]]
+- [[private 🔏/carmel-study-notes/130-suffering-and-abandonment|130. Suffering and Abandonment]]
 - [[132-love-of-the-cross|132. Love of the Cross]]
 - [[138-the-mystery-of-the-cross|138. The Mystery of the Cross]]
 - [[139-the-victory-of-the-cross|139. The Victory of the Cross]]

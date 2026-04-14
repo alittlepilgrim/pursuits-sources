@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 19
 ---
@@ -61,3 +61,7 @@ description: 1 Chronicles, Chapter 19
 19 When the vassals of Hadadezer saw themselves vanquished by Israel, they made peace with David and became his subjects. After this, the Arameans refused to come to the aid of the Ammonites. ^1-chronicles-19-19
 
 a. \[[19:1] – [19]\] [2 Sm 10:1] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

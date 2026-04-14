@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 23
 ---
@@ -185,3 +185,7 @@ r. (23:40) [Jer 27:3].
 s. (23:45) [Lv 20:10].
 
 t. (23:49) cf. [[ezekiel-24|Ez 24]]:13.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

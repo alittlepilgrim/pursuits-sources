@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 17
 ---
@@ -69,3 +69,7 @@ e. (17:9) [Jos 16:8] – [9].
 f. (17:11) [1 Chr 7:29].
 
 g. (17:14) [Jos 16:4]; [Gn 48:19] – [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

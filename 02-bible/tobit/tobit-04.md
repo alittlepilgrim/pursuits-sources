@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 4
 ---
@@ -82,7 +82,7 @@ f. (4:12) [Tb 3:15], [17]; [6:12]; [[genesis-11|Gen 11]]:29, [31]; [25:20]; [28:
 
 g. (4:14) [Lv 19:3]; [Dt 24:15].
 
-h. (4:15) ([[matthew-07|Mt 7]]:12]; ([[luke-06| [[luke-06|Lk 6]]:]]:31].
+h. (4:15) ([[matthew-07|Mt 7]]:12]; ([[luke-06||Lk 6]]:31].
 
 i. (4:16) [Dt 15:10]; [Is 58:7]; ([[matthew-25|Mt 25]]:35] – [36]; ([[2-corinthians-09|2 Cor 9]]:7].
 
@@ -91,3 +91,7 @@ j. (4:17) [Jer 16:7]; ([[luke-14|Lk 14]]:13].
 k. (4:19) [Dt 4:6]; [Ps 119:10].
 
 l. (4:21) [1 Tm 6:6] – [10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

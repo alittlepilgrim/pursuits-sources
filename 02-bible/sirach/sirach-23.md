@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 23
 ---
@@ -223,3 +223,7 @@ f. (23:18] – [19) [Jb 24:15]; [Prv 15:3], [11]; [17:3]; [24:12]; [Is 29:15]; (
 g. (23:21] – [22) [Lv 18:20]; [20:10]; [Dt 22:21] – [22].
 
 h. (23:27) [Sir 1:11] – [30]; [Prv 3:1] – [2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 11
 ---
@@ -203,3 +203,7 @@ c. (11:14) [Jb 1:21]; [2:10].
 d. (11:19) [Eccl 4:8]; [6:2]; ([[luke-12|Lk 12]]:19].
 
 e. (11:25) [[sirach-18|Sir 18]]:24 – [25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

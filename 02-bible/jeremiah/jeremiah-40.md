@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 40
 ---
@@ -73,3 +73,7 @@ d. (40:6) [Jer 39:14].
 e. (40:9) [Jer 27:12] – [13]; [2 Kgs 25:24].
 
 f. (40:14) [Jer 41:1] – [3], [10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

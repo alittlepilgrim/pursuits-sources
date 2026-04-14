@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 82
 ---
@@ -77,3 +77,7 @@ b. (82:2) [Ps 58:2].
 c. (82:4) [Dt 1:17].
 
 d. (82:6) [2 Pt 1:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 60
 ---
@@ -233,3 +233,7 @@ i. (60:19) [Is 2:5]; [Rv 21:23]; [22:5].
 j. (60:21) [Is 57:13c].
 
 k. (60:22) [[genesis-12|Gen 12]]:2; [17:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

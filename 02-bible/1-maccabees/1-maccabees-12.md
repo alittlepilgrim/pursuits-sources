@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 12
 ---
@@ -155,3 +155,7 @@ f. (12:39) [[1-maccabees-11|1 Mc 11]]:39 – [40], [54] – [55].
 g. (12:48) [1 Mc 5:15], [22], [55].
 
 h. (12:53) [1 Mc 5:2]; [13:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

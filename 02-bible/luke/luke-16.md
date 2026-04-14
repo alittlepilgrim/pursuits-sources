@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 16
 ---
@@ -118,7 +118,7 @@ description: Luke, Chapter 16
 
 \* (16:16) John the Baptist is presented in Luke’s gospel as a transitional figure between the period of Israel, the time of promise, and the period of Jesus, the time of fulfillment. With John, the fulfillment of the Old Testament promises has begun.
 
-\* (16:19] – 31) The parable of the rich man and Lazarus again illustrates Luke’s concern with Jesus’ attitude toward the rich and the poor. The reversal of the fates of the rich man and Lazarus (([[luke-16|Lk 16]]:22] – [23]) illustrates the teachings of Jesus in Luke’s “Sermon on the Plain” (([[luke-06| [[luke-06|Lk 6]]:]]:20] – [21], [24] – [25]).
+\* (16:19] – 31) The parable of the rich man and Lazarus again illustrates Luke’s concern with Jesus’ attitude toward the rich and the poor. The reversal of the fates of the rich man and Lazarus (([[luke-16|Lk 16]]:22] – [23]) illustrates the teachings of Jesus in Luke’s “Sermon on the Plain” (([[luke-06||Lk 6]]:20] – [21], [24] – [25]).
 
 \* (16:19) The oldest Greek manuscript of Luke dating from ca. A.D. 175–225 records the name of the rich man as an abbreviated form of “Nineveh,” but there is very little textual support in other manuscripts for this reading. “Dives” of popular tradition is the Latin Vulgate’s translation for “rich man” (([[luke-16|Lk 16]]:19] – [31]).
 
@@ -147,3 +147,7 @@ i. (16:20) ([[matthew-15|Mt 15]]:27]; ([[mark-07|Mk 7]]:28].
 j. (16:25) [6:24] – [25].
 
 k. (16:31) [Jn 5:46] – [47]; [11:44] – [48].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

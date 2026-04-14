@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 32
 ---
@@ -149,3 +149,7 @@ h. (32:33) [Dt 3:12]; [29:7]; [Jos 12:6]; [13:8].
 i. (32:40) [Dt 3:15].
 
 j. (32:41) [Dt 3:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

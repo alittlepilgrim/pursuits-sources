@@ -4,7 +4,6 @@ title: Social Doctrine of the Church - Part Two
 author: Catholic Church
 url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
-  - 20250822-143034
   - Compendium of the Social Doctrine of the Church part Two
   - Compendium of the Social Doctrine of the Church Part Two
   - Social Doctrine of the Church - Part Two
@@ -15,7 +14,7 @@ tags:
   - type/magisterium
   - vatican/social-doctrine
 created: 2025-08-22
-modified: 2026-04-07
+modified: 2026-04-09
 publish: true
 description: Compendium of the Social Doctrine of the Church
 ---
@@ -56,7 +55,7 @@ and respect for life from the moment of conception until death”.
 
 # Chapter Five, The Family, the Vital Cell of Society
 
-**I. THE FAMILY, THE FIRST NATURAL SOCIETY**
+## I. The Family, the First Natural Society
 
 **209\.** *The importance and centrality of the family with regard to the person and society is repeatedly underlined by Sacred Scripture*. “It is not good that the man should be alone” (*Gen* 2:18). From the texts that narrate the creation of man (cf. *Gen* 1:26-28, 2:7-24) there emerges how — in God's plan — the couple constitutes “the first form of communion between persons”\[458\]. Eve is created like Adam as the one who, in her otherness, completes him (cf. *Gen* 2:18) in order to form with him “one flesh” (*Gen* 2:24; cf. [[matthew-19|Mt 19]]:5-6)\[459\]. At the same time, both are involved in the work of procreation, which makes them co-workers with the Creator: “Be fruitful and multiply, and fill the earth” (*Gen* 1:28). The family is presented, in the Creator's plan, as “the *primary place of* ‘*humanization*' for the person and society” and the “cradle of life and love”\[460\]. ^csdc-209
 
@@ -82,7 +81,7 @@ b. **Importance of the family for society**
 
 *Every social model that intends to serve the good of man must not overlook the centrality and social responsibility of the family*. *In their relationship to the family, society and the State are seriously obligated to observe the principle of subsidiarity*. In virtue of this principle, public authorities may not take away from the family tasks which it can accomplish well by itself or in free association with other families; on the other hand, these same authorities have the duty to sustain the family, ensuring that it has all the assistance that it needs to fulfil properly its responsibilities\[472\].
 
-**II. MARRIAGE, THE FOUNDATION OF THE FAMILY**
+## II. Marriage, the Foundation of the Family
 
 a. **The value of marriage**
 
@@ -102,7 +101,7 @@ b. **The sacrament of marriage**
 
 Conjugal charity, which flows from the very charity of Christ, offered through the sacrament, makes Christian spouses witnesses to a new social consciousness inspired by the Gospel and the Paschal Mystery. The natural dimension of their love is constantly purified, strengthened and elevated by sacramental grace. In this manner, besides offering each other mutual help on the path to holiness, Christian spouses become a sign and an instrument of Christ's love in the world. By their very lives they are called to bear witness to and proclaim the religious meaning of marriage, which modern society has ever greater difficulty recognizing, especially as it accepts relativistic perspectives of the natural foundation itself of the institution of marriage.
 
-**III. THE SOCIAL SUBJECTIVITY OF THE FAMILY**
+## III. The Social Subjectivity of the Family
 
 a. **Love and the formation of a community of persons**
 
@@ -198,7 +197,7 @@ d. **The dignity and rights of children**
 
 **245\.** The situation of a vast number of the world's children is far from being satisfactory, due to the lack of favourable conditions for their integral development despite the existence of a specific international juridical instrument for protecting their rights\[557\], an instrument that is binding on practically all members of the international community. These are conditions connected with the lack of health care, or adequate food supply, little or no possibility of receiving a minimum of academic formation or inadequate shelter. Moreover, some serious problems remain unsolved: trafficking in children, child labour, the phenomenon of “street children”, the use of children in armed conflicts, child marriage, the use of children for commerce in pornographic material, also in the use of the most modern and sophisticated instruments of social communication. It is essential to engage in a battle, at the national and international levels, against the violations of the dignity of boys and girls caused by sexual exploitation, by those caught up in paedophilia, and by every kind of violence directed against these most defenceless of human creatures\[558\]. These are criminal acts that must be effectively fought with adequate preventive and penal measures by the determined action of the different authorities involved. ^csdc-245
 
-**IV. THE FAMILY AS ACTIVE PARTICIPANT IN SOCIAL LIFE**
+## IV. The Family as Active Participant in Social Life
 
 a. **Solidarity in the family**
 
@@ -222,7 +221,7 @@ b. **The family, economic life and work**
 
 **251\.** *In the relationship between the family and work, particular attention must be given to the issue of the work of women in the family*, more generally to the recognition of the so-called work of “housekeeping”, which also involves the responsibility of men as husbands and fathers. The work of housekeeping, starting with that of the mother, precisely because it is a service directed and devoted to the quality of life, constitutes a type of activity that is eminently personal and personalizing, and that must be socially recognized and valued\[567\], also by means of economic compensation in keeping with that of other types of work\[568\]. At the same time, care must be taken to eliminate all the obstacles that prevent a husband and wife from making free decisions concerning their procreative responsibilities and, in particular, those that do not allow women to carry out their maternal role fully\[569\]. ^csdc-251
 
-**V. SOCIETY AT THE SERVICE OF THE FAMILY**
+## V. Society at the Service of the Family
 
 **252\.** The starting point for a correct and constructive relationship between the family and society is the recognition of the subjectivity and the social priority of the family. Their intimate relationship requires that “society should never fail in its fundamental task of respecting and fostering the family”.\[570\] Society, and in particular State institutions, respecting the priority and “antecedence” of the family, is called to guarantee and foster the genuine identity of family life and to avoid and fight all that alters or wounds it. This requires political and legislative action to safeguard family values, from the promotion of intimacy and harmony within families to the respect for unborn life and to the effective freedom of choice in educating children. Therefore, neither society nor the State may absorb, substitute or reduce the social dimension of the family; rather, they must honour it, recognize it, respect it and promote it according to the principle of subsidiarity\[571\]. ^csdc-252
 
@@ -232,7 +231,7 @@ b. **The family, economic life and work**
 
 # Chapter Six, Human Work
 
-**I. BIBLICAL ASPECTS**
+## I. Biblical Aspects
 
 a. **The duty to cultivate and care for the earth**
 
@@ -268,9 +267,7 @@ c. **The duty to work**
 
 **266\.** By his work and industriousness, man — who has a share in the divine art and wisdom — makes creation, the cosmos already ordered by the Father, more beautiful\[580\]. He summons the social and community energies that increase the common good\[581\], above all to the benefit of those who are neediest. Human work, directed to charity as its final goal, becomes an occasion for contemplation, it becomes devout prayer, vigilantly rising towards and in anxious hope of the day that will not end. “In this superior vision, work, a punishment and at the same time a reward of human activity, involves another relationship, the essentially religious one, which has been happily expressed in the Benedictine formula: ora et labora! The religious fact confers on human work an enlivening and redeeming spirituality. Such a connection between work and religion reflects the mysterious but real alliance, which intervenes between human action and the providential action of God”\[582\]. ^csdc-266
 
-**II. THE PROPHETIC VALUE
-
-OF *RERUM NOVARUM***
+## II. The Prophetic Value of Rerum Novarum
 
 **267\.** *The course of history is marked by the profound transformation and the exhilarating conquests of work, but also by the exploitation of so many workers and an offence to their dignity. The Industrial Revolution presented for the Church a critical challenge to which her social Magisterium responded forcefully and prophetically, affirming universally valid and perennially relevant principles in support of workers and their rights*. ^csdc-267
 
@@ -282,7 +279,7 @@ The orientation of ideas expressed in the Encyclical strengthened the commitment
 
 **269\.** *Starting with [Rerum Novarum](https://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum_en.html)*, *the Church has never stopped considering the problems of workers within the context of a social question which has progressively taken on worldwide dimensions*.\[583\] The Encyclical *[Laborem Exercens](https://www.vatican.va/edocs/ENG0217/_INDEX.HTM)* enhances the personalistic vision that characterized previous social documents, indicating the need for a deeper understanding of the meaning and tasks that work entails. It does this in consideration of the fact that “fresh questions and problems are always arising, there are always fresh hopes, but also fresh fears and threats, connected with this basic dimension of human existence: man's life is built up every day from work, from work it derives its specific dignity, but at the same time work contains the unceasing measure of human toil and suffering, and also of the harm and injustice which penetrate deeply into social life within individual nations and on the international level”.\[584\] In fact, work is the “essential key” \[585\] to the whole social question and is the condition not only for economic development but also for the cultural and moral development of persons, the family, society and the entire human race. ^csdc-269
 
-**III. THE DIGNITY OF WORK**
+## III. The Dignity of Work
 
 a. **The subjective and objective dimensions of work**
 
@@ -338,7 +335,7 @@ e. **Rest from work**
 
 **286\.** *Public authorities have the duty to ensure that, for reasons of economic productivity, citizens are not denied time for rest and divine worship*. Employers have an analogous obligation regarding their employees.\[616\] Christians, in respect of religious freedom and of the common good of all, should seek to have Sundays and the Church's Holy Days recognized as legal holidays. “They have to give everyone a public example of prayer, respect and joy, and defend their traditions as a precious contribution to the spiritual life of society”.\[617\] “Every Christian should avoid making unnecessary demands on others that would hinder them from observing the Lord's Day”.\[618\] ^csdc-286
 
-**IV. THE RIGHT TO WORK**
+## IV. The Right to Work
 
 a. **Work is necessary**
 
@@ -388,7 +385,7 @@ The profound and radical changes underway at the social and cultural levels also
 
 **300\.** *In some countries a redistribution of land as part of sound policies of agrarian reform is indispensable, in order to overcome the obstacles that an unproductive system of latifundium — condemned by the Church's social doctrine* \[648\] *— places on the path of genuine economic development.* “Developing countries can effectively counter the present process under which land ownership is being concentrated in a few hands if they face up to certain situations that constitute real structural problems, for example legislative deficiencies and delays regarding both recognition of land titles and in relation to the credit market, a lack of concern over agricultural research and training, and neglect of social services and infrastructures in rural areas”.\[649\] Agrarian reform therefore becomes a moral obligation more than a political necessity, since the failure to enact such reform is a hindrance in these countries to the benefits arising from the opening of markets and, generally, from the abundant growth opportunities offered by the current process of globalization.\[650\] ^csdc-300
 
-**V. THE RIGHTS OF WORKERS**
+## V. The Rights of Workers
 
 a. **The dignity of workers and the respect for their rights**
 
@@ -406,7 +403,7 @@ c. **The right to strike**
 
 **304\.** *The Church's social doctrine recognizes the legitimacy of striking* “when it cannot be avoided, or at least when it is necessary to obtain a proportionate benefit”,\[663\] when every other method for the resolution of disputes has been ineffectual.\[664\] Striking, one of the most difficult victories won by labour union associations, may be defined as the collective and concerted refusal on the part of workers to continue rendering their services, for the purpose of obtaining by means of such pressure exerted on their employers, the State or on public opinion either better working conditions or an improvement in their social status. Striking “as a kind of ultimatum” \[665\] must always be a peaceful method for making demands and fighting for one's rights; it becomes “morally unacceptable when accompanied by violence, or when objectives are included that are not directly linked to working conditions or are contrary to the common good”.\[666\] ^csdc-304
 
-**VI. SOLIDARITY AMONG WORKERS**
+## VI. Solidarity Among Workers
 
 a. **The importance of unions**
 
@@ -424,9 +421,7 @@ b. **New forms of solidarity**
 
 **309\.** *Pursuing “new forms of solidarity”*,\[675\] *workers' associations must focus their efforts on the acceptance of greater responsibilities* not only in relation to the traditional mechanisms for redistribution but also in relation to the production of wealth and the creation of social, political and cultural conditions which will permit all who are able and willing to work to exercise their right to work in full respect for their dignity as workers. The gradual obsolescence of organizational models based on salaried workers in big business makes it fitting to update the norms and systems of social security that have traditionally protected workers and guaranteed their fundamental rights. ^csdc-309
 
-**VII. THE “NEW THINGS”
-
-OF THE WORLD OF WORK**
+## VII. The “new Things” of the World of Work
 
 a. **An epoch-making phase of transition**
 
@@ -468,7 +463,7 @@ b. **Social doctrine and the “new things”**
 
 # Chapter Seven, Economic Life
 
-**I. BIBLICAL ASPECTS**
+## I. Biblical Aspects
 
 a. **Man, poverty and riches**
 
@@ -492,7 +487,7 @@ b. **Wealth exists to be shared**
 
 **329\.** *Riches fulfil their function of service to man when they are destined to produce benefits for others and for society*.\[685\] “How could we ever do good to our neighbour,” asks St. Clement of Alexandria, “if none of us possessed anything?”.\[686\] In the perspective of St. John Chrysostom, riches belong to some people so that they can gain merit by sharing them with others.\[687\] Wealth is a good that comes from God and is to be used by its owner and made to circulate so that even the needy may enjoy it. Evil is seen in the immoderate attachment to riches and the desire to hoard. St. Basil the Great invites the wealthy to open the doors of their storehouses and he exhorts them: “A great torrent rushes, in thousands of channels, through the fertile land: thus, by a thousand different paths, make your riches reach the homes of the poor”.\[688\] Wealth, explains Saint Basil, is like water that issues forth from the fountain: the greater the frequency with which it is drawn, the purer it is, while it becomes foul if the fountain remains unused.\[689\] The rich man — Saint Gregory the Great will later say — is only an administrator of what he possesses; giving what is required to the needy is a task that is to be performed with humility because the goods do not belong to the one who distributes them. He who retains riches only for himself is not innocent; giving to those in need means paying a debt.\[690\] ^csdc-329
 
-**II. MORALITY AND THE ECONOMY**
+## II. Morality and the Economy
 
 **330\.** *The Church's social doctrine insists on the moral connotations of the economy*. Pope Pius XI, in a passage from the Encyclical *[Quadragesimo Anno](https://www.vatican.va/holy_father/pius_xi/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno_en.html)*, speaks of the relationship between the economy and morality. “Even though economics and moral science employs each its own principles in its own sphere, it is, nevertheless, an error to say that the economic and moral orders are so distinct from and alien to each other that the former depends in no way on the latter. Certainly the laws of economics, as they are termed, being based on the very nature of material things and on the capacities of the human body and mind, determine the limits of what productive human effort cannot, and of what it can attain in the economic field and by what means. Yet it is reason itself that clearly shows, on the basis of the individual and social nature of things and of men, the purpose which God ordained for all economic life. But it is only the moral law which, just as it commands us to seek our supreme and last end in the whole scheme of our activity, so likewise commands us to seek directly in each kind of activity those purposes which we know that nature, or rather God the Author of nature, established for that kind of action, and in orderly relationship to subordinate such immediate purposes to our supreme and last end”.\[691\] ^csdc-330
 
@@ -506,7 +501,7 @@ b. **Wealth exists to be shared**
 
 **335\.** In the perspective of an integral and solidary development, it is possible to arrive at a proper appreciation of the moral evaluation that the Church's social doctrine offers in regard to the market economy or, more simply, of the free economy: “If by ‘capitalism' is meant an economic system which recognizes the fundamental and positive role of business, the market, private property and the resulting responsibility for the means of production, as well as free human creativity in the economic sector, then the answer is certainly in the affirmative, even though it would perhaps be more appropriate to speak of a ‘business economy', ‘market economy' or simply ‘free economy'. But if by ‘capitalism' is meant a system in which freedom in the economic sector is not circumscribed within a strong juridical framework which places it at the service of human freedom in its totality, and which sees it as a particular aspect of that freedom, the core of which is ethical and religious, then the reply is certainly negative”.\[701\] In this way a Christian perspective is defined regarding social and political conditions of economic activity, not only its rules but also its moral quality and its meaning. ^csdc-335
 
-**III. PRIVATE INITIATIVE AND BUSINESS INITIATIVE**
+## III. Private Initiative and Business Initiative
 
 **336\.** *The Church's social doctrine considers the freedom of the person in economic matters a fundamental value and an inalienable right to be promoted and defended*. “Everyone has the *right to economic initiative*; everyone should make legitimate use of his talents to contribute to the abundance that will benefit all, and to harvest the just fruits of his labour”.\[702\] This teaching warns against the negative consequences that would arise from weakening or denying the *right of economic initiative*: “Experience shows us that the denial of this right, or its limitation in the name of an alleged ‘equality' of everyone in society, diminishes, or in practice absolutely destroys the spirit of initiative, that is to say the *creative subjectivity of the citizen*”.\[703\] From this perspective, free and responsible initiative in the economic sphere can also be defined as an act that reveals the humanity of men and women as creative and relational subjects. Such initiative, then, should be given *ample leeway*. The State has the moral obligation to enforce strict limitations only in cases of incompatibility between the pursuit of common good and the type of economic activity proposed or the way it is undertaken.\[704\] ^csdc-336
 
@@ -542,9 +537,7 @@ the object of continuous efforts — constant reflection on the moral motivation
 
 **345\.** *The Church's social doctrine insists on the need for business owners and management to strive to structure work in such a way so as to promote the family, especially mothers*, in the fulfilment of their duties; \[722\] *to accede, in light of an integral vision of man and development, to the demand for the quality* “of the goods to be produced and consumed, the quality of the services to be enjoyed, the quality of the environment and of life in general”; \[723\] to invest, when the necessary economic conditions and conditions of political stability are present, in those places and sectors of production that offer individuals and peoples “an opportunity to make good use of their own labour”.\[724\] ^csdc-345
 
-**IV. ECONOMIC INSTITUTIONS
-
-AT THE SERVICE OF MAN**
+## IV. Economic Institutions at the Service of Man
 
 **346\.** One of the higher priority issues in economics is the utilization of resources,\[725\] that is, of all those goods and services to which economic subjects — producers and consumers in the private and public spheres — attribute value because of their inherent usefulness in the areas of production and consumption. Resources in nature are quantitatively scarce, which means that each individual economic subject, as well as each individual society, must necessarily come up with a plan for their utilization in the most rational way possible, following the logic dictated by the “principle of economizing”. Both the effective solution of the more general, and fundamental, economic problem of limited means with respect to individual and social — private and public — need, and the overall structural and functional efficiency of the entire economic system depend on this. This efficiency directly involves the responsibility and capacity of the various agents concerned, such as the market, the State and intermediate social bodies. ^csdc-346
 
@@ -592,9 +585,7 @@ d. **Savings and consumer goods**
 
 **360\.** *The phenomenon of consumerism maintains a persistent orientation towards “having” rather than “being”*. This confuses the “criteria for correctly distinguishing new and higher forms of satisfying human needs from artificial new needs which hinder the formation of a mature personality”.\[746\] To counteract this phenomenon it is necessary to create “life- styles in which the quest for truth, beauty, goodness and communion with others for the sake of common growth are the factors which determine consumer choices, savings and investments”.\[747\] It is undeniable that ways of life are significantly influenced by different social contexts, for this reason the cultural challenge that consumerism poses today must be met with greater resolve, above all in consideration of future generations, who risk having to live in a natural environment that has been pillaged by an excessive and disordered consumerism.\[748\] ^csdc-360
 
-**V. THE “NEW THINGS”
-
-IN THE ECONOMIC SECTOR**
+## V. The “new Things” in the Economic Sector
 
 a. **Globalization: opportunities and risks**
 
@@ -650,7 +641,7 @@ e. **Need for more educational and cultural formation**
 
 # Chapter Eight, The Political Community
 
-**I. BIBLICAL ASPECTS**
+## I. Biblical Aspects
 
 a. **God's dominion**
 
@@ -680,9 +671,7 @@ Saint Peter exhorts Christians to “be subject for the Lord's sake to every hum
 
 The biblical message provides endless inspiration for Christian reflection on political power, recalling that it comes from God and is an integral part of the order that he created. This order is perceived by the human conscience and, in social life, finds its fulfilment in the truth, justice, freedom and solidarity that bring peace.\[774\]
 
-**II. FOUNDATION AND PURPOSE
-
-OF THE POLITICAL COMMUNITY**
+## II. Foundation and Purpose of the Political Community
 
 a. **Political community, the human person and a people**
 
@@ -714,7 +703,7 @@ c. **Social life based on civil friendship**
 
 **392\.** *The gospel precept of charity enlightens Christians as to the deepest meaning of political life*. In order to make it truly human, “no better way exists... than by fostering an inner sense of justice, benevolence and service for the common good, and by strengthening basic beliefs about the true nature of the political community and about the proper exercise and limits of public authority”.\[798\] The goal which believers must put before themselves is that of *establishing community relationships among people*. The Christian vision of political society places paramount importance on the value of *community*, both as a model for organizing life in society and as a style of everyday living. ^csdc-392
 
-**III. POLITICAL AUTHORITY**
+## III. Political Authority
 
 a. **The foundation of political authority**
 
@@ -764,7 +753,7 @@ Likewise ruled out is “the use of detention for the sole purpose of trying to 
 
 **405\.** *The Church sees as a sign of hope “a growing public opposition to the death penalty*, even when such a penalty is seen as a kind of ‘legitimate defence' on the part of society. Modern society in fact has the means of effectively suppressing crime by rendering criminals harmless without definitively denying them the chance to reform”.\[833\] Whereas, presuming the full ascertainment of the identity and responsibility of the guilty party, the traditional teaching of the Church does not exclude the death penalty “when this is the only practicable way to defend the lives of human beings effectively against the aggressor”.\[834\] Bloodless methods of deterrence and punishment are preferred as “they better correspond to the concrete conditions of the common good and are more in conformity to the dignity of the human person”.\[835\] The growing number of countries adopting provisions to abolish the death penalty or suspend its application is also proof of the fact that cases in which it is absolutely necessary to execute the offender “are very rare, if not practically non-existent”.\[836\] The growing aversion of public opinion towards the death penalty and the various provisions aimed at abolishing it or suspending its application constitute visible manifestations of a heightened moral awareness. ^csdc-405
 
-**IV. THE DEMOCRATIC SYSTEM**
+## IV. The Democratic System
 
 **406\.** *The Encyclical [Centesimus Annus](https://www.vatican.va/edocs/ENG0214/_INDEX.HTM)* *contains an explicit and articulate judgment with regard to democracy*: “The Church values the democratic system inasmuch as it ensures the participation of citizens in making political choices, guarantees to the governed the possibility both of electing and holding accountable those who govern them, and of replacing them through peaceful means when appropriate. Thus she cannot encourage the formation of narrow ruling groups which usurp the power of the State for individual interests or for ideological ends. Authentic democracy is possible only in a State ruled by law, and on the basis of a correct conception of the human person. It requires that the necessary conditions be present for the advancement both of the individual through education and formation in true ideals, and of the ‘subjectivity' of society through the creation of structures of participation and shared responsibility”.\[837\] ^csdc-406
 
@@ -810,9 +799,7 @@ The essential question is whether the current information system is contributing
 
 *In all three areas — the message, the process and structural issues — one fundamental moral principle always applies: the human person and the human community are the end and measure of the use of the media*. *A second principle is complementary to the first: the good of human beings cannot be attained independently of the common good of the community to which they belong*.\[851\] It is necessary that citizens participate in the decision-making process concerning media policies. This participation, which is to be public, has to be genuinely representative and not skewed in favour of special interest groups when the media are a money-making venture.\[852\]
 
-**V. THE POLITICAL COMMUNITY
-
-AT THE SERVICE OF CIVIL SOCIETY**
+## V. The Political Community at the Service of Civil Society
 
 a. **Value of civil society**
 
@@ -834,7 +821,7 @@ c. **Application of the principle of subsidiarity**
 
 *Many experiences of volunteer work are examples of great value that call people to look upon civil society as a place where it is possible to rebuild a public ethic based on solidarity, concrete cooperation and fraternal dialogue*. All are called to look with confidence to the potentialities that thus present themselves and to lend their own personal efforts for the good of the community in general and, in particular, for the good of the weakest and the neediest. In this way, the principle of the “subjectivity of society” is also affirmed.\[856\]
 
-**VI. THE STATE AND RELIGIOUS COMMUNITIES**
+## VI. The State and Religious Communities
 
 A. **RELIGIOUS FREEDOM, A FUNDAMENTAL HUMAN RIGHT**
 
@@ -864,7 +851,7 @@ The Church therefore seeks: freedom of expression, teaching and evangelization; 
 
 # Chapter Nine, The International Community
 
-**I. BIBLICAL ASPECTS**
+## I. Biblical Aspects
 
 a. **Unity of the human family**
 
@@ -884,9 +871,7 @@ c. **The universal vocation of Christianity**
 
 **432\.** *The Christian message offers a universal vision of the life of men and peoples on earth* \[874\] *that makes us realize the unity of the human family*.\[875\] This unity is not to be built on the force of arms, terror or abuse of power; rather, it is the result of that “supreme *model of unity*, which is a reflection of the intimate life of God, one God in three Persons,... what we Christians mean by the word ‘*communion*'”; \[876\] it is an achievement of the *moral and cultural force of freedom*.\[877\] The Christian message has been decisive for making humanity understand that peoples tend to unite not only because of various forms of organization, politics, economic plans or in the name of an abstract ideological internationalism, but because they freely seek to cooperate, aware “that they are living members of the whole human family”.\[878\] The world community must be presented, over and over again and with ever increasing clarity, as the concrete figure of the unity willed by the Creator. “The unity of the human family has always existed, because its members are human beings all equal by virtue of their natural dignity. Hence there will always exist the objective need to promote, in sufficient measure, the *universal* common good, which is the common good of the entire human family”.\[879\] ^csdc-432
 
-**II. THE FUNDAMENTAL RULES
-
-OF THE INTERNATIONAL COMMUNITY**
+## II. The Fundamental Rules of the International Community
 
 a. **The international community and values**
 
@@ -914,9 +899,7 @@ b. **Relations based on harmony between the juridical and moral orders**
 
 **439\.** *In order to consolidate the primacy of law, the principle of mutual confidence is of the utmost importance*.\[905\] *In this perspective, normative instruments for the peaceful resolution of controversies must be reformulated so as to strengthen their scope and binding force*. Processes of negotiation, mediation, conciliation and arbitration that are provided for in international law must be supported with the creation of “a totally effective juridical authority in a peaceful world”.\[906\] Progress in this direction will allow the international community to be seen no longer as a simple aggregation of States in various moments of their existence, but as a structure in which conflicts can be peacefully resolved. “As in the internal life of individual States... a system of private vendetta and reprisal has given way to the rule of law, so too a similar step forward is now urgently needed in the international community”.\[907\] In short, “international law must ensure that the law of the more powerful does not prevail”.\[908\] ^csdc-439
 
-**III. THE ORGANIZATION
-
-OF THE INTERNATIONAL COMMUNITY**
+## III. The Organization of the International Community
 
 a. **The value of international organizations**
 
@@ -944,7 +927,7 @@ United Nations; and mediation initiatives in situations of conflict. This activi
 
 **445\.** The diplomatic service of the Holy See, the product of an ancient and proven practice, is an instrument that works not only for the freedom of the Church (“libertas Ecclesiae”) but also for the defence and promotion of human dignity, as well as for a social order based on the values of justice, truth, freedom and love. “By an innate right inherent within our spiritual mission itself and advanced by development of historical events over the centuries, we also send our legates to the Supreme Authorities of States in which the Catholic Church has taken root or in which she is present in some way. It is of course true that the purposes of the Church and the State are of different orders, and that both are perfect societies, endowed therefore with their own means, and are autonomous in their respective spheres of activity. But it is also true that both the one and the other undertake to serve the good of the same common subject, man, called by God to eternal salvation and put on earth so that he might, with the help of grace attain unto salvation through his work, which brings him well-being in the peaceful setting of society”.\[924\] The good of people and human communities is served by a structured dialogue between the Church and civil authorities, which also finds expression in the stipulation of mutual agreements. This dialogue tends to establish or strengthen relations of mutual understanding and cooperation, and also serves to prevent or resolve eventual disputes. Its goal is to contribute to the progress of every people and all humanity in justice and peace. ^csdc-445
 
-**IV. INTERNATIONAL COOPERATION FOR DEVELOPMENT**
+## IV. International Cooperation for Development
 
 a. **Cooperation to guarantee the right to development**
 
@@ -968,7 +951,7 @@ c. **Foreign debt**
 
 # Chapter Ten, Safeguarding the Environment
 
-**I. BIBLICAL ASPECTS**
+## I. Biblical Aspects
 
 **451\.** *The living experience of the divine presence in history is the foundation of the faith of the people of God*: “We were Pharaoh's slaves in Egypt, and the Lord brought us out of Egypt with a mighty hand” (*Deut* 6:21). A look at history permits one to have an overview of the past and discover God at work from the very beginning: “A wandering Aramean was my father” (*Deut* 26:5); of his people God can say: “I took your father [[abraham|Abraham]] from beyond the river” (*Josh* 24:3). This reflection permits us to look to the future with hope, sustained by the promise and the covenant that God continually renews. ^csdc-451
 
@@ -986,7 +969,7 @@ c. **Foreign debt**
 
 **455\.** *Not only is the inner man made whole once more, but his entire nature as a corporeal being is touched by the redeeming power of Christ. The whole of creation participates in the renewal flowing from the Lord's Paschal Mystery*, although it still awaits full liberation from corruption, groaning in travail (cf. *Rom* 8:19-23), in expectation of giving birth to “a new heaven and a new earth” (*Rev* 21:1) that are the gift of the end of time, the fulfilment of salvation. In the meantime, nothing stands outside this salvation. Whatever his condition of life may be, the Christian is called to serve Christ, to live according to his Spirit, guided by love, the principle of a new life, that brings the world and man back to their original destiny: “whether... the world or life or death or the present or the future, all are yours; and you are Christ's, and Christ is God's” (*1 Cor* 3:22-23). ^csdc-455
 
-**II. MAN AND THE UNIVERSE OF CREATED THINGS**
+## II. Man and the Universe of Created Things
 
 **456\.** *The biblical vision inspires the behaviour of Christians in relation to their use of the earth, and also with regard to the advances of science and technology.* The Second Vatican Council affirmed that man “judges rightly that by his intellect he surpasses the material universe, for he shares in the light of the divine mind”\[946\]. The Council Fathers recognized the progress made thanks to the tireless application of human genius down the centuries, whether in the empirical sciences, the technological disciplines or the liberal arts\[947\]. Today, “especially with the help of science and technology, man has extended his mastery over nearly the whole of nature and continues to do so”\[948\]. ^csdc-456
 
@@ -1002,9 +985,7 @@ For man, “created in God's image, received a mandate to subject to himself the
 
 If man intervenes in nature without abusing it or damaging it, we can say that he “intervenes not in order to modify nature but to foster its development in its own life, that of the creation that God intended. While working in this obviously delicate area, the researcher adheres to the design of God. God willed that man be the king of creation”.\[968\] In the end, it is God himself who offers to men and women the honour of cooperating with the full force of their intelligence in the work of creation.
 
-**III. THE CRISIS IN THE RELATIONSHIP BETWEEN
-
-MAN AND THE ENVIRONMENT**
+## III. The Crisis in the Relationship Between Man and the Environment
 
 **461\.** The biblical message and the Church's Magisterium represent the essential reference points for evaluating the problems found in the relationship between man and the environment.\[969\] The underlying cause of these problems can be seen in man's pretension of exercising unconditional dominion over things, heedless of any moral considerations which, on the contrary, must distinguish all human activity. ^csdc-461
 
@@ -1022,7 +1003,7 @@ MAN AND THE ENVIRONMENT**
 
 **465\.** *The Magisterium underscores human responsibility for the preservation of a sound and healthy environment for all*.\[977\] “If humanity today succeeds in combining the new scientific capacities with a strong ethical dimension, it will certainly be able to promote the environment as a home and a resource for man and for all men, and will be able to eliminate the causes of pollution and to guarantee adequate conditions of hygiene and health for small groups as well as for vast human settlements. Technology that pollutes can also cleanse, production that amasses can also distribute justly, on condition that the ethic of respect for life and human dignity, for the rights of today's generations and those to come, prevails”.\[978\] ^csdc-465
 
-**IV. A COMMON RESPONSIBILITY**
+## IV. a Common Responsibility
 
 a. **The environment, a collective good**
 
@@ -1090,7 +1071,7 @@ d. **New lifestyles**
 
 # Chapter Eleven, The Promotion of Peace
 
-**I. BIBLICAL ASPECTS**
+## I. Biblical Aspects
 
 **488\.** *Before being God's gift to man and a human project in conformity with the divine plan, peace is in the first place a basic attribute of God*: “the Lord is peace” (*Jdg* 6:24). Creation, which is a reflection of the divine glory, aspires to peace. God created all that exists, and all of creation forms a harmonious whole that is good in its every part (cf. *Gen* 1:4,10,18,21,25,31). Peace is founded on the primary relationship that exists between every human being and God himself, a relationship marked by righteousness (cf. *Gen* 17:1). Following upon the voluntary act by which man altered the divine order, the world experienced the shedding of blood and division. Violence made its appearance in interpersonal relationships (cf. *Gen* 4:1-16) and in social relationships (cf. *Gen* 11:1-9). Peace and violence cannot dwell together, and where there is violence, God cannot be present (cf. *1 Chr* 22:8-9). ^csdc-488
 
@@ -1106,7 +1087,7 @@ On the eve of his death, Jesus speaks of his loving relation with the Father and
 
 **493\.** *Working for peace can never be separated from announcing the Gospel, which is in fact the* “*good news of peace*” (*Acts* 10:36; cf. *Eph* 6:15) *addressed to all men and women*. At the centre of “the gospel of peace” (*Eph* 6:15) remains the mystery of the cross, because peace is born of Christ's sacrifice (cf. *Is* 53:5) — “Upon him was the chastisement that made us whole, and with his stripes we were healed”. The crucified Jesus has overcome divisions, re-establishing peace and reconciliation, precisely through the cross, “thereby bringing the hostility to an end” (*Eph* 2:16) and bringing the salvation of the Resurrection to mankind. ^csdc-493
 
-**II. PEACE: FRUIT OF JUSTICE AND LOVE**
+## II. Peace: Fruit of Justice and Love
 
 **494\.** *Peace is a value* \[1015\] *and a universal duty* \[1016\] *founded on a rational and moral order of society that has its roots in God himself*, “the first source of being, the essential truth and the supreme good”.\[1017\] *Peace is not merely the absence of war, nor can it be reduced solely to the maintenance of a balance of power between enemies*.\[1018\] *Rather it is founded on a correct understanding of the human person* \[1019\] *and requires the establishment of an order based on justice and charity.* ^csdc-494
 
@@ -1120,7 +1101,7 @@ On the eve of his death, Jesus speaks of his loving relation with the Father and
 
 *The contemporary world too needs the witness of unarmed prophets, who are often the objects of ridicule*.\[1030\] “Those who renounce violence and bloodshed and, in order to safeguard human rights, make use of those means of defence available to the weakest, bear witness to evangelical charity, provided they do so without harming the rights and obligations of other men and societies. They bear legitimate witness to the gravity of the physical and moral risk of recourse to violence, with all its destruction and death”.\[1031\]
 
-**III. THE FAILURE OF PEACE: WAR**
+## III. The Failure of Peace: War
 
 **497\.** *The Magisterium condemns “the savagery of war”* \[1032\] *and asks that war be considered in a new way*.\[1033\] In fact, “it is hardly possible to imagine that in an atomic era, war could be used as an instrument of justice”.\[1034\] War is a “scourge” \[1035\] and is never an appropriate way to resolve problems that arise between nations, “*it has never been and it will never be*”,\[1036\] because it creates new and still more complicated conflicts.\[1037\] When it erupts, war becomes an “unnecessary massacre”,\[1038\] an “[[adultery|Adultery]]ure without return”\[1039\] that compromises humanity's present and threatens its future. “*Nothing is lost by peace; everything may be lost by war*”.\[1040\] The damage caused by an armed conflict is not only material but also moral.\[1041\] In the end, war is “the failure of all true humanism”,\[1042\] “it is always a defeat for humanity”: \[1043\] “never again some peoples against others, never again!... no more war, no more war!” \[1044\] ^csdc-497
 
@@ -1188,7 +1169,7 @@ f. **The condemnation of terrorism**
 
 *No religion may tolerate terrorism and much less preach it*.\[1087\] Rather, religions must work together to remove the causes of terrorism and promote friendship among peoples\[1088\].
 
-**IV. THE CONTRIBUTION OF THE CHURCH TO PEACE**
+## IV. The Contribution of the Church to Peace
 
 **516\.** *The promotion of peace in the world is an integral part of the Church's mission of continuing Christ's work of redemption on earth*. In fact, the Church is, in Christ, a “‘*sacrament*' *or sign and instrument of peace in the world and for the world*”.\[1089\] The promotion of true peace is an expression of Christian faith in the love that God has for every human being. From a liberating faith in God's love there arises a new vision of the world and a new way of approaching others, whether the other is an individual or an entire people. It is a faith that transforms and renews life, inspired by the peace that Christ left to his disciples (cf. *Jn* 14:27). Moved solely by this faith, the Church intends to promote the unity of Christians and a fruitful cooperation with believers of other religions. Differences of religion must not be a cause of conflict; the shared quest for peace on the part of all believers is a vital source of unity among peoples.\[1090\] The Church calls on individuals, peoples, States and nations to share her concern for re-establishing and consolidating peace, placing particular emphasis on the important role of international law\[1091\]. ^csdc-516
 

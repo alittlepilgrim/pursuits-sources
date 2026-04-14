@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 26
 ---
@@ -189,3 +189,7 @@ g. (26:54) [Nm 33:54]; [35:8].
 h. (26:62) [Nm 3:39].
 
 i. (26:65) [Nm 14:22] – [24], [29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

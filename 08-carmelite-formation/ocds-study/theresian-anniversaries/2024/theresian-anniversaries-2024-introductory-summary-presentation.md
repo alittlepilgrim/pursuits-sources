@@ -7,9 +7,9 @@ aliases:
   - "Reading The Writings of Therese of the Child Jesus Theresian Anniversaries 2023-2025 2024: Manuscripts B and C"
   - Reading the Writings of Therese of the Child Jesus 2024 Manuscripts B and C - Presentation
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

@@ -1,0 +1,62 @@
+---
+type: meditation
+title: 241. Faith
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+url:
+aliases:
+  - 241-faith
+  - 241. Faith
+tags:
+  - divine-intimacy
+  - term/faith
+created: 2025-05-21
+modified: 2026-04-08
+publish: true
+permalink: /241-faith
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+---
+
+# 241. Faith
+
+PRESENCE OF GOD - O Lord, grant that I may understand the great value of faith.
+
+## Meditation 1
+
+“Without faith, it is impossible to please God” (Heb 11,6) because faith is the foundation of all our relations with Him. For the man without faith, God has neither meaning, nor value, nor place in his life. On the other hand, the more lively our faith is, the more God enters into our life, until finally He becomes our all, the one great reality for which we live, and the One for whom we courageously face sorrow and death. It is only when faith has deeply penetrated a soul that it can exclaim with St. Paul, “For whether we live, we live unto the Lord, or whether we die, we die unto the Lord” (Rom 14,8). We do not lack faith, but it is not sufficiently alive and practical to make us see God in everything and over everything, thus giving us the sense of His essential, transcendent, and eternal reality, which infinitely surpasses all the immediate, contingent, and passing realities of this life. Faith does not depend upon data received through the senses, on what we can see and touch, nor is it reduced to what we can understand with the intellect, but surpassing all this, it makes us share in God’s own knowledge, in His thoughts, in His understanding. Having raised us to the state of divine sonship, God has made us capable of sharing His intimate life, His life of knowledge and love. For this purpose He has given us the theological virtues together with grace. Faith allows us to share His life of knowledge, and charity, His life of love.
+
+Faith enables us to know God as He knows Himself, although certainly not exhaustively. God knows Himself not only as the Creator, but also as the Trinity and as the Author of grace; it is under these aspects that faith presents Him to us. By faith we know creatures as He knows them, that is, in relation to Him and dependent upon Him. Our intellect can give us only natural light on God and creatures; faith, on the contrary, gives us the supernatural light that is a participation in the light of God, in the knowledge God has of Himself and of creatures.
+
+## Meditation 2
+
+2. St. Thomas says that “faith is a habitual disposition of soul by which eternal life begins in us,” it is a “beginning of eternal life” (IIe, [1@¢, q.4, a.1, co.). In fact, by faith we begin to know God as we shall one day know Him in heaven. There we shall know Him unveiled in the light of glory; here below we know Him dimly by means of the truths which faith proposes to us to believe, truths which give us, however, the very same God. Faith and the [[beatific-vision|Beatific Vision]] are like two phases of the same knowledge of God: faith gives us an initial, obscure, imperfect knowledge; the [[beatific-vision|Beatific Vision]], where faith will end, will give us full, clear, perfect knowledge. Now “we know in part” as St. Paul says, referring to our knowledge by faith, “but when that which is perfect is come,” that is, the [[beatific-vision|Beatific Vision]], that which is in part shall be done away” (1 Cor 3,9.10). St. John of the Cross gives us a pleasing comparison to make us understand that faith already contains the germ of the [[beatific-vision|Beatific Vision]]. He refers to the episode, narrated in Scripture, of Gideon’s soldiers who had “lamps in their hands, which they saw not, because they had them concealed in the darkness of the pitchers; but, when these pitchers were broken, the light was seen. In like manner, faith, which is foreshadowed by those pitchers, contains within itself divine light; which, when it is ended and broken, at the ending and breaking of this mortal life, will allow the glory and light of the divinity, which was contained in it, to appear” ([[jc-ascent-of-mt-carmel|AS]] II, 9,3).
+
+The more lively our faith is, the more we shall enjoy here below an anticipation of the knowledge of God which we shall possess in heaven. The more lively our faith and the more imbued with love it is, the higher will be our degree of glory and hence, of our vision of God. ‘Today’s faith must prepare us for the [[beatific-vision|Beatific Vision]] of tomorrow; it should make us enter, even on earth, into communion with the thought and the knowledge of God. In this way, faith elevates us immeasurably above our human reasonings, our human thoughts.
+
+## Colloquy
+
+“O faith of Christ, my Spouse, I turn to You who enclose and conceal within yourself the form and beauty of my Beloved. You are the clear, limpid fount, free from error, from which the waters of all spiritual good flow to the soul. Did You not assure the Samaritan woman, O Christ, that in those who believe in You would surge a fountain whose waters would spring up into everlasting life?
+
+“O faith, such is the likeness between yourself and God, that there is no other difference, save that which exists between seeing God and believing in Him. For even as God is infinite, so You set Him before us as infinite; and as He is Three and One, so You set Him before us as Three and One; and as God is darkness to our understanding, even so do You blind and dazzle our understanding. And thus, O Lord, by this means alone, You manifest Yourself to the soul in divine light which passes all understanding. Increase, then, O Lord, my faith, for the stronger my faith is, the more closely shall I be united to You.
+
+“O my soul, as God is inaccessible, do not concern Yourself with how much your faculties can comprehend and your senses can perceive, that You be not satisfied with less than God, and lose not the swiftness that is needful to attain to Him. But walk in naked, pure faith, which alone is the proximate and proportionate means to your union with God” ([[jc-sc-toc|J.C. SC]] 12,1-3 — AS IZ, 9,1 —- SM 1, 52).
+
+“O infinite Wisdom, O eternal, infinite God, You want to be understood by Your creature because You are the sovereign Good. It can do so, understanding You in the way You show Yourself to it under the veil of faith. It is indeed a veil, but it is translucent, since Your word illumines and gives light to the humble. Nevertheless, just as it is impossible for You not to be God, so it is impossible for Your creature to understand You fully. He who wishes to attain to the sublime state of union with You, O Lord, must have great faith. Being the sovereign, infinite, immense, and unsearchable Good, You can be understood only by Yourself. But the more the soul believes in You, so much the more will it come to unite itself to You and participate in Your grandeur” (cf. [[mary-magdalen-dei-pazzi-saint|St. Mary Magdalen dei Pazzi]]).
+
+# References
+
+J.C. - [[john-of-the-cross-saint|Saint John of the Cross]]
+
+AS - [[jc-ascent-of-mt-carmel|Ascent of Mt. Carmel by Saint John of the Cross]]
+
+SC - [[jc-sc-toc|Spiritual Canticle by Saint John of the Cross]]
+
+SM - Spiritual Maxims
+
+---
+
+⟵ [[240-divine-omnipotence|240. Divine Omnipotence]] | [[242-the-obscure-light-of-faith|242. The Obscure Light of Faith]] ➞

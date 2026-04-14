@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/jude/1
 aliases:
   - jude-01
   - Jude, the Letter of Jude
-  - Jude, The Letter of Jude
 tags:
   - bible/chapter
   - bible/jude
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jude, the Letter of Jude
 ---
@@ -150,3 +149,7 @@ r. (21) [Ti 2:13].
 s. (24) ([[2-corinthians-04|2 Cor 4]]:14]; [1 Pt 4:13].
 
 t. (25) [Rom 11:36]; [1 Tm 1:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

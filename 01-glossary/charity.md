@@ -8,7 +8,7 @@ tags:
   - term/charity
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: charity. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -37,7 +37,7 @@ The theological virtue by which we love God above all things for his own sake, a
 - and to all extraordinary gifts [[259-charity-and-humility#Meditation 1|259,1]];
 - Christianity is all love: [[301-the-characteristics-of-a-christian#Meditation 1|301,1]];
 - a soul is holy in the measure that it is dominated by —: [[4-charity-the-essence-of-sanctity#Meditation 2|4,2]];
-- by means of — the soul is always orientated toward God [[13. Seeking God in Our Daily Duties#Meditation 2|13,2]]; [[160-the-life-of-prayer#Meditation 1|160,1]];
+- by means of — the soul is always orientated toward God [[13-seeking-god-in-our-daily-duties#Meditation 2|13,2]]; [[160-the-life-of-prayer#Meditation 1|160,1]];
 - increase of — [[35-let-us-make-good-use-of-time#Meditation 2|35,2]]; [[180-the-growth-of-charity-in-mary#Meditation 2|180,2]];
 - Jesus has commanded the exercise of this virtue in the greatest measure [[19-seeking-god-in-love#Meditation 1|19,1]];
 - the precept of — has no limits [[53-jesus-the-teacher-of-sanctity#Meditation 2|53,2]]; [[253-the-precept-of-charity#Meditation 1|253,1]];
@@ -61,10 +61,10 @@ The theological virtue by which we love God above all things for his own sake, a
 - at the end of life we shall be judged on —: [[364-the-end-of-the-world#Meditation 2|364,2]].
 - See [[love-of-god|Love of God]]; [[love-of-neighbor|Love of Neighbor]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[4-charity-the-essence-of-sanctity|4. Charity, the Essence of Sanctity]]
-- [[13. Seeking God in Our Daily Duties|13. Seeking God in Our Daily Duties]]
+- [[13-seeking-god-in-our-daily-duties|13. Seeking God in Our Daily Duties]]
 - [[19-seeking-god-in-love|19.Seeking God in Love]]
 - [[35-let-us-make-good-use-of-time|35. Let Us Make Good Use of time]]
 - [[53-jesus-the-teacher-of-sanctity|53. Jesus the Teacher of Sanctity]]

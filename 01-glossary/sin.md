@@ -8,7 +8,7 @@ tags:
   - term/sin
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-14
 publish: true
 description: sin. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -18,6 +18,36 @@ description: sin. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City L
 ## Catechism of the Catholic Church
 
 An offense against God as well as a fault against reason, truth, and right conscience. Sin is a deliberate thought, word, deed, or omission contrary to the eternal law of God. In judging the gravity of sin, it is customary to distinguish between mortal and venial sins ([[3.1.1.8.p6a#^ccc-1849|1849]], [[3.1.1.8.p6b#^ccc-1853|1853]], [[3.1.1.8.p6c#^ccc-1854|1854]]).
+
+## Ignatius Catholic Study Bible
+
+**Sin**
+
+Against the Holy Spirit: Mt 12:31-32: Mk 3:29
+
+Antithesis of saving faith: Rom 14:23
+
+Degrees of sin: Lk 12:47-48; Jn 19:11; Gal 5:19-21; 1 Jn 5:16
+
+Enslaves the sinner: Jn 8:34
+
+Forgiveness of sins through repentance, faith, and baptism: Acts 2:38; 22:16
+
+Forgiven through the death and resurrection of Jesus: Mt 26:28; Jn 1:29; Acts 5:31; 13:38; Rom 4:25; Eph 1:7; Col 1:13-14
+
+Grave or mortal sins, which exclude sinner from the Kingdom: 1 Cor 6:9-10; Gal 5:19-21; Eph 5:5-6
+
+Incompatible with heaven: Mt 13:41; 1 Thess 5:23; Heb 12:14; Rev 21:27
+
+Lighter sins: Jas 3:2; 1 Jn 1:8; 5:16-17
+
+Wages of sin is death: Rom 6:23
+
+*See also* [[Baptism]]; [[Faith]]; [[Forgiveness]]; [[Hell]]; [[Judgment]]; [[original-sin|Original sin]]; [[Penance]]; [[Reconciliation]]; [[redeemer-redemption|Redemption]]; [[Salvation]]; [[Sanctification]]; [[sexual-sin]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 

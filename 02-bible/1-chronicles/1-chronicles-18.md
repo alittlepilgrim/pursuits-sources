@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 18
 ---
@@ -79,3 +79,7 @@ g. \[[18:15]\] [[1-chronicles-11|1 Chr 11]]:6; [2 Sm 8:16]; [1 Kgs 4:3].
 h. \[[18:16]\] [[1-chronicles-24|1 Chr 24]]:3, [6], [31]; [2 Sm 8:17].
 
 i. \[[18:17]\] [[1-chronicles-11|1 Chr 11]]:22; [2 Sm 8:18]; [1 Kgs 1:38], [44].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

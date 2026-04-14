@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 13
 ---
@@ -123,3 +123,7 @@ k. (13:24] – [28) [Nm 32:34] – [36].
 l. (13:29] – [31) [Nm 32:39] – [42].
 
 m. (13:33) [Jos 18:7]; [Nm 18:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

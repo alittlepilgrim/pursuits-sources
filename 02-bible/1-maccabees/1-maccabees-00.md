@@ -4,7 +4,6 @@ title: 1 Maccabees, The First Book of Maccabees
 url: https://bible.usccb.org/bible/1maccabees/0
 aliases:
   - 1 Maccabees, the First Book of Maccabees
-  - 1 Maccabees, The First Book of Maccabees
   - 1-maccabees-00
 tags:
   - bible/1-maccabees
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, the First Book of Maccabees
 ---
@@ -62,3 +61,7 @@ First Maccabees can be divided as follows:
 - [[1-maccabees-16|1 Maccabees, Chapter 16]]
 
 ---
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

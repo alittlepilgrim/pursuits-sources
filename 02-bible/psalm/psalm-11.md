@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 11
 ---
@@ -77,3 +77,7 @@ b. (11:2) ([[psalm-07|Ps 7]]:13]; [37:14]; [57:5]; [64:4].
 c. (11:4) ([[psalm-14|Ps 14]]:2]; [102:20]; [Hb 2:20]; [Dt 26:15]; [Is 66:1]; ([[matthew-05|Mt 5]]:34].
 
 d. (11:6) [Ps 120:4]; [140:11]; [Prv 16:27]; [Ez 38:22]; ([[revelation-08|Rv 8]]:5]; [20:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Lamentations, Chapter 2
 ---
@@ -337,3 +337,7 @@ l. (2:20) [Lam 4:10].
 m. (2:21) [Lam 3:43]; [2 Chr 36:17]; [Jer 6:11].
 
 n. (2:22) [Jer 42:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

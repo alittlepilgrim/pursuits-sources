@@ -1,0 +1,76 @@
+---
+type: meditation
+title: 247. The Motive for Hope
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+url:
+aliases:
+  - 247-the-motive-for-hope
+  - 247. The Motive for Hope
+tags:
+  - divine-intimacy
+  - term/confidence
+  - term/discouragement
+  - term/grace
+  - term/hope
+  - term/nothing
+  - term/salvation
+  - term/sanctity
+  - term/will-of-god
+  - term/works
+created: 2025-05-21
+modified: 2026-04-08
+publish: true
+permalink: /the-motive-for-hope
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+---
+
+# 247. The Motive for Hope
+
+PRESENCE OF GOD - Make me understand well, O Lord, that my hope must be founded on You, on Your infinite merciful love.
+
+## Meditation 1
+
+F we had to base our hope on our own merits and on the amount of grace we possess, it would be very insecure, because we cannot be certain that we are in the state of grace, nor can we be certain about our good works which are always so full of defects. But our hope is sure because it is founded, not on ourselves, but on God, on His infinite goodness, on His salvific will which desires “all men to be saved” (1 tm 2,4), and on His sanctifying will that wants us not only to be saved, but also to be saints: “this is the will of God, your sanctification” (1 thes 4,3)
+
+God wishes the certitude of our hope to rest upon Him alone. Although He demands our cooperation and our good works, He does not want us to base our confidence on them; in fact, after having urged us to do all that is in our power, Jesus added: “When you shall have done all these things that are commanded you, say: we are unprofitable servants” (Lk 17,10). Souls who are accustomed to depend on their own strength and who delude themselves, thinking they can enter more deeply into the spiritual life by their own personal resources, find this lesson hard to understand. That is why when the Lord wills them to progress, He makes them go through painful states of powerlessness, permitting them to feel the rebellion and repugnance of nature that they may be convinced of the vanity of placing their confidence in themselves. There is here a delicate point: to know how to accept this experience without falling into discouragement. If in the past, we have relied upon ourselves, and now, in certain difficulties and trials of our interior life, we see our strength reduced to nothing, let us thank God. In this way He is detaching us from the too great confidence we had in ourselves, and is forcing us to practice a purer, more supernatural hope, one stripped of every human element and support. If, however we cannot place our hope in ourselves, this is reason for despair; rather, it should impel us to place our hope in God alone and force us to throw ourselves upon Him with full confidence like a child who takes refuge in its mother’s arms with more trust, the weaker and more powerless it feels itself to be.
+
+## Meditation 2
+
+2. The certitude of our hope is derived from the certitude of our faith. “For I know whom I have believed,” says St. Paul, “and I am certain that He is able to keep that which I have committed unto Him against that day” (2 Tm 1,12), that is, unto life eternal. This certitude is not of the intellect, but rather of the will and the heart; it is the certitude which gives us full confidence in Someone who we know loves us. And who loves us more than God? Who has given us more proofs of His love than God? Let us look at Jesus on the Cross and repeat with St. Paul: “The Son of God...loved me and delivered Himself for me” (Gal 2,20). Now “greater love than this, no man hath, that a man lay down his life for his friends” (Jn 15,13).
+
+This is the basis for the certitude of our hope. We must hope to come to the beatifying possession of God in eternity and to union with Him on this earth, not so much because we have always done our duty, or because we feel we are good, virtuous, and well-disposed...but because we know that in spite of our misery and our weakness, God is always ready to help us, provided we humbly acknowledge our nothingness and place all our trust in Him. St. Thérèse of the Child Jesus said: “Holiness does not consist in this or that practice; it consists in a disposition of heart which makes us humble and little in the arms of God, well aware of our feebleness, but boldly confident in our Father’s goodness” (T.C.J. NV).
+
+If we withdraw into ourselves after our falls and weaknesses, we clip the wings of hope and only sink more deeply in our misery; but if, on the contrary, we go to God in an act of complete confidence, then our weakness will be fortified and sustained by His helping omnipotence. If, in the face of difficulties and sacrifices imposed on us by our duties, we stop to calculate our strength, we will draw back and be tempted to give up; but if, on the contrary, we stop looking at ourselves and turn our eyes to God, to His infinite love, the certitude of His help will give us the strength to go on. Firm hope in Him will make us strong, courageous, and generous; it will be the lever of our life.
+
+## Colloquy
+
+“Almighty, omnipotent Lord, show me my poverty so that I may confess it. I said that I was rich and that I needed nothing; I did not know that I was poor, blind, naked, wretched, and miserable. I believed that I was something and I was nothing. I said, ‘I shall become wise,’ and I became foolish; I thought that I was prudent, but I deceived myself. And I see now that wisdom is Your gift, that without You we can do nothing, for if You, O God, do not keep the city, he watches in vain that keeps it. You taught me this that I might know myself; You abandoned me and you tried me...so that I would know myself. You had hardly gone a short distance from me when I fell. Then I saw and knew that You were guiding me; if I fell, it was my own fault, and if I rose again, it was by Your help.
+
+“O my God, I could despair on account of my great sins and my innumerable negligences...but I dare not because I, who was at one time Your enemy, have been reconciled to You by the death of Your Son; and not only reconciled, but I have been saved by Him. That is why all my hope and the certitude of my confidence is in His precious Blood which was shed for us and for our salvation. Living in Him, trusting in Him, I hope to come to You, not because of my justice, but through the justice which comes to me from Your Son, Our Lord Jesus Christ.
+
+“Thus, in the weariness of this struggle, I raise my eyes to You, Lord Jesus. Let the enemy do what he will to me. I shall not fear because You are a strong defender. I have good reason to hope in You, for I shall never be confounded.
+
+“Now, as long as I am in the body, I am far from You, since I journey by faith and not by vision. The time will come when I will see that which I now believe without seeing and I shall be happy. Then I shall see the reality which I now hope for. I live content in my hope because You are true to Your promises; nevertheless, because I do not possess You as yet, I groan beneath the weight of desire. Grant that I may persevere in this desire until what You have promised comes to pass; then my groaning will be over and praise alone will resound” ([[augustine-saint|St. Augustine]]).
+
+---
+
+## Reference
+
+T.J - [[teresa-of-avila-saint|Saint Teresa of Jesus]]
+
+# References
+
+T.J. - [[teresa-of-avila-saint|Saint Teresa of Avila]]
+
+T.C.J. - [[therese-of-lisieux-saint|Saint Therese of Lisieux]]
+
+NV - Novissima Verba by Saint Thérèse of Lisieux
+
+---
+
+⟵ [[246-hope|246. Hope]] | [[248-the-test-of-hope|248. The Test of Hope]] ➞

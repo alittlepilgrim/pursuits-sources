@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 22
 ---
@@ -69,3 +69,7 @@ description: 2 Kings, Chapter 22
 \* (22:8) Book of the law: probably an early edition of material now found in the Book of Deuteronomy.
 
 a. (22:3] – [7) [[2-kings-12|2 Kgs 12]]:11 – [16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

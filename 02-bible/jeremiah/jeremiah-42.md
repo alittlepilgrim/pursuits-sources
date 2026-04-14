@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 42
 ---
@@ -87,3 +87,7 @@ j. (42:18) [Jer 44:12].
 k. (42:21) [Zec 7:11] – [12].
 
 l. (42:22) [Jer 44:12]; [Hos 9:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 4
 ---
@@ -73,3 +73,7 @@ b. (4:6) [Hos 1:7].
 c. (4:10) [Zec 1:11]; [6:7]; ([[revelation-05|Rv 5]]:6].
 
 d. (4:14) [Jos 3:11]; [Mi 4:13]; [Rv 11:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

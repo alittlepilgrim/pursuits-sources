@@ -8,28 +8,50 @@ tags:
   - term/faith
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: Faith. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
 
 # Faith
 
-## Compendium on Social Doctrine
-
-![[sd-10-index-f#Faith]]
-
 ## Catechism of the Catholic Church
 
 Both a gift of God and a human act by which the believer gives personal adherence to God who invites his response, and freely assents to the whole truth that God has revealed. It is this revelation of God which the Church proposes for our belief, and which we profess in the Creed, celebrate in the sacraments, live by right conduct that fulfills the twofold commandment of charity (as specified in the ten commandments), and respond to in our prayer of faith. Faith is both a theological virtue given by God as grace, and an obligation which flows from the first commandment of God ([[1.1.0.0.p8#^ccc-26|26]], [[1.1.3.0.pu#^ccc-142|142]], [[1.1.3.1.pw#^ccc-150|150]], [[3.1.1.7.p66#^ccc-1814|1814]], [[3.2.1.1.p7c#^ccc-2087|2087]]).
 
-## The Interior Castle Study Edition Glossary
+## Ignatius Catholic Study Bible
 
-Faith is a gift God pours into the intellect, by which we know and give assent to all that God revealed to us about himself and about the means by which we can reach him. Through trials that test and perfect it, faith brings the soul into an ever-deeper likeness to Christ.
+**Faith**
 
-## The Way of Perfection
+Assurance of things hoped for: Heb 11:1
 
-FAITH. Believing what the Lord says, the words coming from the mouth of Truth itself, and the truths he tells us ([[tj-wop-chapter-23#^wop-ch23-6|23.6]]; [[tj-wop-chapter-28#^wop-ch28-1|28.1]]; [[tj-wop-chapter-19#^wop-ch19-2|19.2]]). The Lord calls us to drink from the fount of living water; by faith we know of his goodness; in this respect he will not let us die of thirst ([[tj-wop-chapter-23#^wop-ch23-5|23.5]]). When we know this through experience, faith is awakened ([[tj-wop-chapter-30#^wop-ch30-3|30.3]]; [[tj-wop-chapter-34#^wop-ch34-6|34.6]]; [[tj-wop-chapter-28#^wop-ch28-1|28.1]]). It is a pity when faith is so unawakened that one does not understand fully the certainty of punishment and reward ([[tj-wop-chapter-30#^wop-ch30-3|30.3]]). Faith is strengthened by considering that in Communion the Lord enters our house as truly as he did the house of the Pharisee, even though we don't see him with our bodily eyes and even when we don't feel devotion ([[tj-wop-chapter-34#^wop-ch34-6|34.6]]–[[tj-wop-chapter-34#^wop-ch34-7|7]]). Teresa had no doubt that miracles could be worked while the Lord was within her and that, as her guest, he would give her what she asked of him ([[tj-wop-chapter-34#^wop-ch34-8|34.8]]). The Lord found more faith in women than in men ([[tj-wop-chapter-3#^wop-ch3-7|3.7]]). You will be walking along a good path if we believe firmly what Holy Mother church holds ([[tj-wop-chapter-21#^wop-ch21-10|21.10]]).
+Body of belief: Phil 1:27; Col 1:23; 1 Tim 1:2; 3:9; 4:1, 6; 5:8; 6:10, 12, 21; 2 Tim 4:7; Tit 1:13; Jude 3
+
+Completed by works: Jas 2:22
+
+Dead without works of love: Jas 2:17, 23-24
+
+Degrees of faith: Lk 17:5-6
+
+Faith is a form of obedience to God's Word: Jn 3:36; Rom 1:5; 16:26; 1 Jn 3:23
+
+Justification by faith in Jesus Christ apart from works of the Law but not by faith alone: Gal 2:16; Jas 2:24
+
+Love completes faith: Gal 5:6
+
+Necessary for salvation: Mk 16:16; Jn 3:16; 8:24; Acts 16:31; Heb 11:6
+
+No absolute assurance of salvation because apostasy and other grave sin remains possible in this life: Rom 11:20-22; Heb 6:4-6; 2 Pet 2:20-22
+
+Salvation by grace through faith: Eph 2:8
+
+Walk by faith, not by sight: 2 Cor 5:7
+
+*See also* [[Grace]]; [[Justification]]; [[Salvation]]; [[Works]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 
@@ -83,7 +105,7 @@ FAITH. Believing what the Lord says, the words coming from the mouth of Truth it
 - God uses His omnipotence in favor of one who firmly believes in Him [[243-the-power-of-faith#Meditation 1|243,1]];
 - to believe in God at all costs and without uncertainty: [[243-the-power-of-faith#Meditation 2|243,2]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[15-the-lord-is-nigh|15. The Lord is Nigh]]
 - [[18-seeking-god-in-faith|18. Seeking God in Faith]]
@@ -124,3 +146,15 @@ FAITH. Believing what the Lord says, the words coming from the mouth of Truth it
 - [[340-apostolic-maturity|349. Apostolic Maturity]]
 - [[351-passive-purification|351. Passive Purification]]
 - [[353-desolation-and-darkness|353. Desolation and Darkness]]
+
+## The Interior Castle Study Edition Glossary
+
+Faith is a gift God pours into the intellect, by which we know and give assent to all that God revealed to us about himself and about the means by which we can reach him. Through trials that test and perfect it, faith brings the soul into an ever-deeper likeness to Christ.
+
+## The Way of Perfection
+
+FAITH. Believing what the Lord says, the words coming from the mouth of Truth itself, and the truths he tells us ([[chapter-23-tj-way-ccel|23.6]]; [[chapter-28-tj-way-ccel|28.1]]; [[chapter-19-tj-way-ccel|19.2]]). The Lord calls us to drink from the fount of living water; by faith we know of his goodness; in this respect he will not let us die of thirst ([[chapter-23-tj-way-ccel|23.5]]). When we know this through experience, faith is awakened ([[chapter-30-tj-way-ccel|30.3]]; [[chapter-34-tj-way-ccel|34.6]]; [[chapter-28-tj-way-ccel|28.1]]). It is a pity when faith is so unawakened that one does not understand fully the certainty of punishment and reward ([[chapter-30-tj-way-ccel|30.3]]). Faith is strengthened by considering that in Communion the Lord enters our house as truly as he did the house of the Pharisee, even though we don't see him with our bodily eyes and even when we don't feel devotion ([[chapter-34-tj-way-ccel|34.6]]–[[chapter-34-tj-way-ccel|7]]). Teresa had no doubt that miracles could be worked while the Lord was within her and that, as her guest, he would give her what she asked of him ([[chapter-34-tj-way-ccel|34.8]]). The Lord found more faith in women than in men ([[chapter-03-tj-way-ccel|3.7]]). You will be walking along a good path if we believe firmly what Holy Mother church holds ([[chapter-21-tj-way-ccel|21.10]]).
+
+## Compendium on Social Doctrine
+
+![[sd-10-index-f#Faith]]

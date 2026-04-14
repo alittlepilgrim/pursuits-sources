@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 10
 ---
@@ -65,3 +65,7 @@ b. (10:6) [Dt 32:40]; [Dn 12:7] / [[ezekiel-12|Ez 12]]:28.
 c. (10:7) [Am 3:7].
 
 d. (10:10) ([[ezekiel-03|Ez 3]]:1] – [3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

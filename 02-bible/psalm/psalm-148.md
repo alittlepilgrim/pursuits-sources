@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 148
 ---
@@ -105,3 +105,7 @@ d. (148:9) [Is 44:23].
 e. (148:10) [Ps 30:5]; [Gn 1:21], [24f]; [Dt 4:7].
 
 f. (148:13) [Ps 30:5]; [Dt 4:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -9,7 +9,7 @@ tags:
   - book/interior-castle
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: Epilogue - The Interior Castle by St. Teresa of Ávila
 ---
@@ -27,4 +27,3 @@ HERE ENDS THE INTERIOR CASTLE OR THE MANSIONS TRANSLATED AND PRINTED BY THE BENE
 ---
 
 [456] Way of Perf. ch. xvi. 1. ^ic-ccel-fn-456
-

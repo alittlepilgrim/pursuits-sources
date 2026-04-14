@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 9
 ---
@@ -192,7 +192,7 @@ description: Luke, Chapter 9
 
 \* (9:28] – [36) Situated shortly after the first announcement of the passion, death, and resurrection, this scene of Jesus’ transfiguration provides the heavenly confirmation to Jesus’ declaration that his suffering will end in glory (([[luke-09|Lk 9]]:32]); see also notes on ([[matthew-17|Mt 17]]:1] – [8] and ([[mark-09|Mk 9]]:2] – [8].
 
-\* (9:28) Up the mountain to pray: the “mountain” is the regular place of prayer in Luke (see ([[luke-06| [[luke-06|Lk 6]]:]]:12]; [22:39] – [41]).
+\* (9:28) Up the mountain to pray: the “mountain” is the regular place of prayer in Luke (see ([[luke-06||Lk 6]]:12]; [22:39] – [41]).
 
 \* (9:30) Moses and Elijah: the two figures represent the Old Testament law and the prophets. At the end of this episode, the heavenly voice will identify Jesus as the one to be listened to now (([[luke-09|Lk 9]]:35]). See also note on ([[mark-09|Mk 9]]:5].
 
@@ -285,3 +285,7 @@ c. (9:54) [2 Kgs 1:10], [12].
 d. (9:57] – [60) ([[matthew-08|Mt 8]]:19] – [22].
 
 e. (9:61] – [62) [[1-kings-19|1 Kgs 19]]:20.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

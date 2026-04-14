@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Baruch, Chapter 2
 ---
@@ -155,3 +155,7 @@ t. \[[2:32]\] [Tb 13:6].
 u. \[[2:33] – [35]\] [Lv 26:42] – [45]; [Dt 30:1] – [10].
 
 v. \[[2:35]\] [Jer 31:31]; [Lam 4:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

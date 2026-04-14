@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 16
 ---
@@ -135,3 +135,7 @@ j. (16:22) [Lv 14:7], [53]; [Is 53:11] – [12]; ([[john-01|Jn 1]]:29]; [1 Pt 2:
 k. (16:27) [Lv 4:11] – [12]; [6:23]; [Heb 13:11] – [13].
 
 l. (16:29) [Lv 23:27], [32]; [Nm 29:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

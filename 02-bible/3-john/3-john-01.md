@@ -4,7 +4,6 @@ title: 3 John, The Third Letter of John
 url: https://bible.usccb.org/bible/3john/1
 aliases:
   - 3 John, the Third Letter of John
-  - 3 John, The Third Letter of John
   - 3-john-01
 tags:
   - bible/3-john
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: 3 John, the Third Letter of John
 ---
@@ -94,3 +93,7 @@ g. (12) [Jn 19:35]; [21:24]; [1 Tm 3:7].
 h. (13) [2 Jn 12].
 
 i. (15) [Jn 20:19], [21], [26]; [Eph 6:23]; [1 Pt 5:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 32
 ---
@@ -423,3 +423,7 @@ h. (32:50) [Dt 10:6]; [Nm 20:23] – [29]; [27:13]; [33:38] – [39].
 i. (32:51) ([[exodus-17|Ex 17]]:1] – [7]; [Nm 20:1] – [13]; [27:14]; [Ps 106:32] – [33].
 
 j. (32:52) [Dt 3:27]; [34:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

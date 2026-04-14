@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 12
 ---
@@ -102,7 +102,7 @@ j. (12:13) [Heb 13:2]; [1 Pt 4:9].
 
 k. (12:14] – [21) ([[matthew-05|Mt 5]]:38] – [48]; ([[1-corinthians-04|1 Cor 4]]:12]; [1 Pt 3:9].
 
-l. (12:14) ([[luke-06| [[luke-06|Lk 6]]:]]:27] – [28].
+l. (12:14) ([[luke-06||Lk 6]]:27] – [28].
 
 m. (12:15) [Ps 35:13]; [Sir 7:34]; [1 Cor 12:26].
 
@@ -115,3 +115,7 @@ p. (12:18) [Heb 12:14].
 q. (12:19) [Lv 19:18]; [Dt 32:35], [41]; ([[matthew-05|Mt 5]]:39]; ([[1-corinthians-06|1 Cor 6]]:6] – [7]; [Heb 10:30].
 
 r. (12:20) [Prv 25:21] – [22]; ([[matthew-05|Mt 5]]:44].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

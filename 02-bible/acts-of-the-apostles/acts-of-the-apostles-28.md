@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 28
 ---
@@ -135,3 +135,7 @@ f. \[[28:22]\] [24:5], [14].
 g. \[[28:26]\] [Is 6:9] – [10]; ([[matthew-13|Mt 13]]:14] – [15]; ([[mark-04|Mk 4]]:12]; ([[luke-08|Lk 8]]:10]; [Jn 12:40]; [Rom 11:8].
 
 h. \[[28:28]\] [13:46]; [18:6]; [Ps 67:2]; [Is 40:5] LXX; ([[luke-03| [[luke-03|Lk 3]]:]]:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

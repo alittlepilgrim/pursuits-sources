@@ -9,7 +9,7 @@ tags:
   - book/interior-castle
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-09
 publish: true
 description: The Interior Castle by St. Teresa of Ávila
 ---
@@ -50,7 +50,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [209] Castle, M. v. ch. i. 9. Life, ch. xxviii. 5.
 
-   [210] [[tj-life-ccel|Life]], ch. xl. 28. sqq.
+   [210] [[tj-life-ccel-toc|Life]], ch. xl. 28. sqq.
 
    [211] The Saint went through all this herself; every detail is taken
 
@@ -58,7 +58,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    xxiii. 2. Anton. a Sp. S. l.c. tract, ii. n. 268.
 
-   [212] [[tj-life-ccel|Life]], ch. xxviii. 19.
+   [212] [[tj-life-ccel-toc|Life]], ch. xxviii. 19.
 
    [213] Rel. ii. 4.
 
@@ -72,17 +72,17 @@ description: The Interior Castle by St. Teresa of Ávila
 
    the winter of 1537-38. See Life, ch. iv. 9.
 
-   [216] [[tj-life-ccel|Life]], ch. iv. 6; v; vi; vii. 18; xi. 23; XXX. 9.
+   [216] [[tj-life-ccel-toc|Life]], ch. iv. 6; v; vi; vii. 18; xi. 23; XXX. 9.
 
    [217] Ibid. ch. iii. 6, 7.
 
-   [218] [[tj-life-ccel|Life]], ch. xiii. 21-27. Way of Perf. ch. v. 1, 2.
+   [218] [[tj-life-ccel-toc|Life]], ch. xiii. 21-27. Way of Perf. ch. v. 1, 2.
 
    [219] Ibid, ch. xxx. 15.
 
    [220] Ibid, ch. xxxviii. 21. Rel. ii. 15.
 
-   [221] [[tj-life-ccel|Life]], ch. xxviii. 20 sqq.
+   [221] [[tj-life-ccel-toc|Life]], ch. xxviii. 20 sqq.
 
    [222] Anton. a Sp. S. l.c. tr. ii. n. 313. On this subject which is
 
@@ -94,7 +94,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    art. 5, 6.
 
-   [223] [[tj-life-ccel|Life]], ch. xxv. 21.
+   [223] [[tj-life-ccel-toc|Life]], ch. xxv. 21.
 
    [224] Ibid. ch. xxv. 23.
 
@@ -104,7 +104,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [226] Excl. xvi. 4.
 
-   [227] [[tj-life-ccel|Life]], ch. xxxi. 27.
+   [227] [[tj-life-ccel-toc|Life]], ch. xxxi. 27.
 
 ## Chapter II. Treats of Several Ways Whereby Our Lord Quickens the Soul; There a Very Exalted Nature
 
@@ -135,17 +135,17 @@ description: The Interior Castle by St. Teresa of Ávila
 
    sqq. Poems 7, 8.
 
-   [231] [[tj-life-ccel|Life]], ch. xxix. 18.
+   [231] [[tj-life-ccel-toc|Life]], ch. xxix. 18.
 
-   [232] [[tj-life-ccel|Life]], ch. xv. 1.
+   [232] [[tj-life-ccel-toc|Life]], ch. xv. 1.
 
    [233] Ibid. ch. xxix. 17, 18.
 
    [234] Ibid. ch. xv, 6; xviii. 4.; xxi. 9.
 
-   [235] [[tj-life-ccel|Life]], ch. xv. 15, 16.
+   [235] [[tj-life-ccel-toc|Life]], ch. xv. 15, 16.
 
-   [236] [[tj-life-ccel|Life]], ch. xxix. 6-10.
+   [236] [[tj-life-ccel-toc|Life]], ch. xxix. 6-10.
 
    [237] Ibid. ch. xv. 12. On the matter treated by St. Teresa in this
 
@@ -340,13 +340,13 @@ description: The Interior Castle by St. Teresa of Ávila
    26. When these results follow, no graces or gifts received during prayer need alarm the soul which should rather trust in the mercy of God, Who is faithful and will not allow the devil to deceive it; but it is always well to be on one's guard.
    27. Those our Lord does not lead by this path may suppose that the soul can avoid listening to these locutions and that even if they are interior it is at least possible to distract the attention from them so as not to hear them and thus escape danger. This cannot be done: I am not speaking of freaks of fancy which may be prevented by ceasing to desire certain things or by paying no attention to its inventions. This is not feasible when these communications come from the Holy Ghost Who, when He speaks, stops all other thoughts and compels the mind to listen. [264] Mark this: that I believe it would be easier for a person with very keen ears to avoid hearing a loud voice, for he could occupy his thoughts and mind in other things. Not so here; the soul can do nothing, nor has it ears to stop, nor power to think of aught but what is said to it. For He Who could stay the sun on its course (at the prayer of Josue, [265] I believe) can so quiet the faculties and the interior of the spirit as to make it perceive that another and a stronger Lord than itself governs this castle; it is thus affected with profound devotion and humility, seeing that it cannot but listen. May the divine Majesty vouchsafe that, forgetting ourselves, our only aim may be to please Him, as I said. Amen. God grant I have succeeded in explaining what I wished and that it may be some guide to those who may experience such favours.
 
-   [238] [[tj-life-ccel|Life]], ch. xxiii. 114.
+   [238] [[tj-life-ccel-toc|Life]], ch. xxiii. 114.
 
    [239] Antonius a Sp. S. l.c. tr. iii. n. 323. St. John of the Cross,
 
    Ascent of Mount Carmel, bk. ii. ch. xxvii.
 
-   [240] [[tj-life-ccel|Life]], ch. xxv. 13, 18.
+   [240] [[tj-life-ccel-toc|Life]], ch. xxv. 13, 18.
 
    [241] Ps. cxlviii. 5: Ipse dixit et facta sunt.' Life, ch. xxv. 5.
 
@@ -354,21 +354,21 @@ description: The Interior Castle by St. Teresa of Ávila
 
    Mount Carmel, bk. ii. ch. xxxi. calls these substantial words.'
 
-   [242] [[tj-life-ccel|Life]], ch. xxvi. 6; xxx. 17. Rel. i. 26.
+   [242] [[tj-life-ccel-toc|Life]], ch. xxvi. 6; xxx. 17. Rel. i. 26.
 
    [243] St. Luke xxiv. 36.
 
-   [244] [[tj-life-ccel|Life]], ch. xxv. 22; xxxiii. 10. Rel. vii. 22. St. John of the
+   [244] [[tj-life-ccel-toc|Life]], ch. xxv. 22; xxxiii. 10. Rel. vii. 22. St. John of the
 
    Cross, Ascent of Mount Carmel, bk. ii. ch. xxxi. 1.
 
-   [245] [[tj-life-ccel|Life]], ch. xxxv. 7. Rel. ix. 6. St. John of the Cross, Ascent of
+   [245] [[tj-life-ccel-toc|Life]], ch. xxxv. 7. Rel. ix. 6. St. John of the Cross, Ascent of
 
    Mount Carmel, bk. iii. ch. ii. 7.
 
    [246] Rel. v. 14.
 
-   [247] [[tj-life-ccel|Life]], ch. xxv. 23-25. See also Schram, Instit. theol. myst. 528
+   [247] [[tj-life-ccel-toc|Life]], ch. xxv. 23-25. See also Schram, Instit. theol. myst. 528
 
    schol.; 529 schol. ii. and iii.; 5 3 I schol. ii.; 5 32 schol. ii.
 
@@ -388,7 +388,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    Carmel.
 
-   [248] [[tj-life-ccel|Life]], ch. xxv. 3, 10. Rel. ii. 17.
+   [248] [[tj-life-ccel-toc|Life]], ch. xxv. 3, 10. Rel. ii. 17.
 
    [249] Ibid, ch. xxv. 10.
 
@@ -398,7 +398,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    est verbum meum cum adhuc essem in terra mea?'
 
-   [251] [[tj-life-ccel|Life]], ch. xxv. 4 (end) and 5 (beginning).
+   [251] [[tj-life-ccel-toc|Life]], ch. xxv. 4 (end) and 5 (beginning).
 
    [252] Ibid. ch. xxv. 4 (beginning).
 
@@ -410,9 +410,9 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [255] Infra, ch. viii.
 
-   [256] [[tj-life-ccel|Life]], ch. xxvii, 8.
+   [256] [[tj-life-ccel-toc|Life]], ch. xxvii, 8.
 
-   [257] [[tj-life-ccel|Life]], ch. xxv. 6 and 10 (end).
+   [257] [[tj-life-ccel-toc|Life]], ch. xxv. 6 and 10 (end).
 
    [258] Ibid. ch. xxv. 9, 16.
 
@@ -426,15 +426,15 @@ description: The Interior Castle by St. Teresa of Ávila
 
    investigated the subject with the greatest care.
 
-   [262] [[tj-life-ccel|Life]], ch. xxv. 15.
+   [262] [[tj-life-ccel-toc|Life]], ch. xxv. 15.
 
-   [263] [[tj-life-ccel|Life]], ch. xii. 5: The nearer we draw unto God the more this
+   [263] [[tj-life-ccel-toc|Life]], ch. xii. 5: The nearer we draw unto God the more this
 
    virtue (humility) should grow'; xv. 16; xix. 2; xx. 38. Rel. ii. 15;
 
    vii. 17; viii. 7, 9. Way of Perf. ch. xvii. 3.
 
-   [264] [[tj-life-ccel|Life]], ch. xxv. 21.
+   [264] [[tj-life-ccel-toc|Life]], ch. xxv. 21.
 
    [265] Josue x. 12. 13: Tunc locutus est Josue:... sol contra Gabaon
 
@@ -468,11 +468,11 @@ description: The Interior Castle by St. Teresa of Ávila
    21. Our Lord once said to some one who was troubled by such thoughts: Do not be disturbed; people will either praise Me or condemn thee; in either case thou wilt be the gainer.' [287] I learnt afterwards that she was greatly encouraged and comforted by this speech; I speak of it in case others may suffer in the same way. Apparently our Lord would have all men know that this soul is His own and that none may molest it, for it is all His. Men are welcome to attack, if they will, the body, the honour, and the possessions of such a person, for glory will accrue to His Majesty from all they do; but the soul they may not assail; unless by a most culpable presumption it withdraws from the protection of its Spouse, He will defend it against the whole world and against all hell besides.
    22. I do not know whether I have succeeded in teaching you what a rapture is; to explain it fully would, as I said, be impossible. Still I do not think time has been lost in describing a genuine rapture. The effects in false raptures are very different. I do not call them false' because people who experience them intentionally deceive others, but because they are themselves unwittingly deceived. As the signs and effects do not correspond with this great grace, the favour itself becomes so discredited that naturally, when our Lord afterwards bestows it on any soul, nobody believes in it. May He be for ever blessed and praised! Amen, Amen!
 
-   [266] [[tj-life-ccel|Life]], ch. xxxix. 30.
+   [266] [[tj-life-ccel-toc|Life]], ch. xxxix. 30.
 
    [267] Castle, M. iv. ch. iii. 11.
 
-   [268] [[tj-life-ccel|Life]], ch. xx. passim.
+   [268] [[tj-life-ccel-toc|Life]], ch. xx. passim.
 
    [269] Philippus a SS. Trinitate, l.c. tr. i. disc. iii. art. 3.
 
@@ -510,11 +510,11 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [278] St. John ix. 6.
 
-   [279] [[tj-life-ccel|Life]], ch. xx. 18. Like a person who, having a rope around his
+   [279] [[tj-life-ccel-toc|Life]], ch. xx. 18. Like a person who, having a rope around his
 
    neck and being strangled, tries to breathe.'
 
-   [280] [[tj-life-ccel|Life]], ch. xx 23, 29. Way of Perf. ch. xxxii. Rel. viii. 8, 11.
+   [280] [[tj-life-ccel-toc|Life]], ch. xx 23, 29. Way of Perf. ch. xxxii. Rel. viii. 8, 11.
 
    The first effect of ecstatic prayer concerns the body, which remains as
 
@@ -542,17 +542,17 @@ description: The Interior Castle by St. Teresa of Ávila
 
    l.c. tr. iv. n. 30.)
 
-   [283] [[tj-life-ccel|Life]], ch. xx. 30.
+   [283] [[tj-life-ccel-toc|Life]], ch. xx. 30.
 
    [284] Castle, M. vii. ch. iii. 4. Way of Perf. ch. xxxviii. 1. Excl.
 
    xiv. 3. Life, ch. xl. 27.
 
-   [285] [[tj-life-ccel|Life]], ch. xvi. 6. Rel. i. 4.
+   [285] [[tj-life-ccel-toc|Life]], ch. xvi. 6. Rel. i. 4.
 
    [286] Ibid. ch. xx. 5, 6.
 
-   [287] [[tj-life-ccel|Life]], ch. xxxi. 15. St. John of the Cross in stanza xiii. 8. of
+   [287] [[tj-life-ccel-toc|Life]], ch. xxxi. 15. St. John of the Cross in stanza xiii. 8. of
 
    the Spiritual Canticle, refers to this and the following chapters.
 
@@ -598,7 +598,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [288] Rel. viii. 10, 11. Life, ch. xviii, 8; xx. 3.
 
-   [289] [[tj-life-ccel|Life]], ch. xx. 9. St. John of the Cross, Spiritual Canticle,
+   [289] [[tj-life-ccel-toc|Life]], ch. xx. 9. St. John of the Cross, Spiritual Canticle,
 
    stanzas xiv.-xv. 23 sqq. Philippus a SS. Trinit. l.c. p. iii. tr. i.
 
@@ -622,7 +622,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    with Me, raises the body from the earth.' (Transl. by Algar Thorold.)
 
-   [290] [[tj-life-ccel|Life]], ch. xxii. 20.
+   [290] [[tj-life-ccel-toc|Life]], ch. xxii. 20.
 
    [291] Castle, M. iv. ch. ii. 3.
 
@@ -656,7 +656,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    but not completed by St. Teresa.
 
-   [300] [[tj-life-ccel|Life]], ch. xx. 32. Castle, M. iv. ch. i. 10.
+   [300] [[tj-life-ccel-toc|Life]], ch. xx. 32. Castle, M. iv. ch. i. 10.
 
    [301] Compare §§ 8-10 with Philippus a SS. Trinitate, l.c. p. iii. tr.
 
@@ -686,7 +686,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [302] Num. xiii. 24.
 
-   [303] [[tj-life-ccel|Life]], ch. xx. 31. The same distinctions with respect to divine
+   [303] [[tj-life-ccel-toc|Life]], ch. xx. 31. The same distinctions with respect to divine
 
    and diabolical locutions may be found in Life, ch. xxv. 5.
 
@@ -725,7 +725,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    versions of Vivir sin vivir en mi.' (Poems 3 and 4. Minor Works.)
 
-   [307] [[tj-life-ccel|Life]], ch. xxv. 18.
+   [307] [[tj-life-ccel-toc|Life]], ch. xxv. 18.
 
    [308] Ibid. ch. xxv. 20. Rel. vii. 7.
 
@@ -733,7 +733,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [310] Rel. i. 6.
 
-   [311] [[tj-life-ccel|Life]], ch. xxxii. 14; xxxv. 13. Castle, M. vii. ch. iv. 21.
+   [311] [[tj-life-ccel-toc|Life]], ch. xxxii. 14; xxxv. 13. Castle, M. vii. ch. iv. 21.
 
    Found. ch. i. 6, 7.
 
@@ -763,13 +763,13 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [316] Way of Perf.. ch. xvii. 4; xix. 6.
 
-   [317] [[tj-life-ccel|Life]], ch. xxix. 12.
+   [317] [[tj-life-ccel-toc|Life]], ch. xxix. 12.
 
    [318] Compare with this what we have said in note 1 to the second
 
    chapter of the Fourth Mansions. Rel. ii. 12.
 
-   [319] [[tj-life-ccel|Life]], ch. xix. 1-3.
+   [319] [[tj-life-ccel-toc|Life]], ch. xix. 1-3.
 
    [320] Way of Perf. ch. xix. 6. Life, ch. xviii. 12 sqq.
 
@@ -853,19 +853,19 @@ description: The Interior Castle by St. Teresa of Ávila
    18. The mistake I formerly made [344] did not lead me as far as this, but I did not care so much about meditating on our Lord Jesus Christ, preferring to remain absorbed, awaiting spiritual consolations. I recognized clearly that I was going wrong, for as I could not always keep in this state, my thoughts wandered hither and thither and my soul seemed like a bird, ever flying about and finding no place for rest. Thus I lost much time and did not advance in virtue nor make progress in prayer.
    19. I did not understand the reason, and as I believed that I was acting wisely I think I should never have learnt it but for the advice of a servant of God whom I consulted about my mode of prayer. Then I perceived plainly how mistaken I had been and I have never ceased regretting that there was a time when I did not realize how difficult it would be to gain by so great a loss. Even if I could, I would seek for nothing save by Him through Whom comes all the good we possess. May He be for ever praised! Amen.
 
-   [329] [[tj-life-ccel|Life]], ch. vi. 7.
+   [329] [[tj-life-ccel-toc|Life]], ch. vi. 7.
 
    [330] Excl. vi. 4, 5. Supra, M. v. ch. ii, 5. Poems 2, 3, 4. Minor
 
    Works.
 
-   [331] [[tj-life-ccel|Life]], ch. xxi, 9. All editions have Peter'. St. Teresa only wrote
+   [331] [[tj-life-ccel-toc|Life]], ch. xxi, 9. All editions have Peter'. St. Teresa only wrote
 
    'Po' but the parallel passage proves she meant Pablo, and not Pedro.
 
    See also M. i. ch. i. 5.
 
-   [332] [[tj-life-ccel|Life]], ch. xxii. 9-11.
+   [332] [[tj-life-ccel-toc|Life]], ch. xxii. 9-11.
 
    [333] Ibid. ch. xxii. i; xxiii. 18; xxiv. 2.
 
@@ -899,7 +899,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [335] St. John viii. 12; xiv. 6, 9.
 
-   [336] [[tj-life-ccel|Life]], ch. xv. 20. St. John of the Cross treats the subject most
+   [336] [[tj-life-ccel-toc|Life]], ch. xv. 20. St. John of the Cross treats the subject most
 
    carefully. He shows how and when meditation becomes impossible: Ascent
 
@@ -959,7 +959,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    xxxi. See Life, ch. xl. 10.
 
-   [341] [[tj-life-ccel|Life]], ch. xiii. 17-23.
+   [341] [[tj-life-ccel-toc|Life]], ch. xiii. 17-23.
 
    [342] Way of Perf. ch. xxv. 7.
 
@@ -967,7 +967,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    Paraclitus non veniet ad vos.' Life, ch. xxii. 1, 2 and note.
 
-   [344] [[tj-life-ccel|Life]], ch. xxii. 11. Although the Saint defends herself against
+   [344] [[tj-life-ccel-toc|Life]], ch. xxii. 11. Although the Saint defends herself against
 
    the charge of self-contradiction, there can be no doubt from this
 
@@ -993,23 +993,23 @@ description: The Interior Castle by St. Teresa of Ávila
    11. It would be worse should he tell you the devil is deceiving you, although no learned man would say so if he sees in you the effects described. Even should your adviser say this, I know that the same Lord Who is beside you will comfort and reassure you and will go to your counsellor and give him light that he may impart it to you. [355] If the director, though given to prayer, has not been led by God in this way, he will at once take fright and condemn it. Therefore I advise you to choose a qualified theologian and, if possible, one who is also spiritual. The Prioress ought to allow you this, for although she may feel sure that you are safe from delusion because you lead a good life, yet she is bound to permit you to consult some one for your mutual security. When you have conferred with these persons, be at peace; trouble yourself no more about the matter, for sometimes when there is no cause for fear, the demon gives rise to such immoderate scruples that the person cannot be satisfied with consulting her confessor only once on the subject, especially if he is inexperienced and timid or if he bids her consult him again.
    12. Thus that which should have been kept strictly private becomes public; [356] such a person is persecuted and tormented and finds that what she believed to be her own secret has become public property. Hence she suffers many troubles which may even devolve upon the Order in such times as these. Consequently I warn all Prioresses that great caution is required in such matters; also they must not think a nun more virtuous than the rest because such favours are shown her. Our Lord guides every one, in the way He knows to be best. This grace, if made good use of, prepares one receiving it to become a great servant of God, but sometimes our Lord bestows it on the weakest souls; therefore in itself it is neither to be esteemed nor condemned. We must look to the virtues; she who is most mortified, humble and single-minded in serving God is the most holy. However, we can never feel very certain about such matters until the true Judge rewards each one according to his merits. Then we shall be surprised to find how very different is His judgment from that of this world. May He be for ever praised. Amen.
 
-   [345] [[tj-life-ccel|Life]], ch. xxvii. 3, 5. Rel. vii. 26.
+   [345] [[tj-life-ccel-toc|Life]], ch. xxvii. 3, 5. Rel. vii. 26.
 
-   [346] [[tj-life-ccel|Life]], ch. xxvii. 7.
+   [346] [[tj-life-ccel-toc|Life]], ch. xxvii. 7.
 
    [347] Ibid. l.c. 4. Father Juan de Pradanos was then the Saint's
 
    confessor.
 
-   [348] [[tj-life-ccel|Life]], ch. xxv. 22; XXX. 17. Supra, M. vi. ch. iii. 5. Rel. vii.
+   [348] [[tj-life-ccel-toc|Life]], ch. xxv. 22; XXX. 17. Supra, M. vi. ch. iii. 5. Rel. vii.
 
    22. St. John of the Cross, Ascent of Mount Carmel, bk. ii. ch. xxxi. 1.
 
    [349] In fact, one and the same person.
 
-   [350] [[tj-life-ccel|Life]], ch. xix. a; xx. 38. Way of Perf. ch. xxxvi. 10.
+   [350] [[tj-life-ccel-toc|Life]], ch. xix. a; xx. 38. Way of Perf. ch. xxxvi. 10.
 
-   [351] [[tj-life-ccel|Life]], ch. xxix 6.
+   [351] [[tj-life-ccel-toc|Life]], ch. xxix 6.
 
    [352] Gen. xvii, 1: Ambula coram me et esto perfectus.'
 
@@ -1029,11 +1029,11 @@ description: The Interior Castle by St. Teresa of Ávila
 
    Theol. Myst. § 483.)
 
-   [354] [[tj-life-ccel|Life]], ch. v. 6.
+   [354] [[tj-life-ccel-toc|Life]], ch. v. 6.
 
    [355] Ibid. ch. xxv. 18 sqq. Way of Perf. ch. iv. 11; v. 3.
 
-   [356] [[tj-life-ccel|Life]], ch. xxiii. 14-15. Rel. vii. 17.
+   [356] [[tj-life-ccel-toc|Life]], ch. xxiii. 14-15. Rel. vii. 17.
 
 ## Chapter IX. This Chapter Speaks of the Manner in Which God Communicates with the
 
@@ -1062,11 +1062,11 @@ description: The Interior Castle by St. Teresa of Ávila
    20. True, such a grace is a most powerful aid towards practising the virtues in their highest perfection, but it is far more meritorious to gain them at the cost of one's own toil. I was acquainted with some one, [374] indeed with two people (of whom one was a man), on whom our Lord had bestowed some of these gifts. They were both so desirous of serving His Majesty at their own cost without these great consolations and so longed to suffer for His sake, that they remonstrated with Him for giving them these favours, and if it had been possible would have refused to receive them. When I say consolations,' I do not mean these visions which greatly benefit the soul and are highly to be esteemed, but the delights given by God during contemplation.
    21. I believe that these desires are supernatural and proper to very fervent souls who wish to prove to God that they do not serve Him for pay; so as I said, such people do not urge themselves to work harder for Him by the thought of the glory they will gain, but rather labour to satisfy their love, of which the nature is to toil for the Beloved in a thousand ways. Such souls would fain find a way to consume themselves in Him, and were there need that, for the sake of God's greater glory, they should be annihilated for ever, they would count it great gain. May He be for ever praised Who, in abasing Himself to hold converse with us miserable creatures, vouchsafes to manifest His greatness! Amen.
 
-   [357] [[tj-life-ccel|Life]], ch, vii, 11.
+   [357] [[tj-life-ccel-toc|Life]], ch, vii, 11.
 
    [358] Ibid. xxix, 4.
 
-   [359] [[tj-life-ccel|Life]], ch, vii. 11, 12.
+   [359] [[tj-life-ccel-toc|Life]], ch, vii. 11, 12.
 
    [360] St. Matt. xxv. 41: Discedite a me, maledicti, in ignem æternum.'
 
@@ -1086,7 +1086,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    vox instead of tuba (part ii. ch. lxxxvii. 9).
 
-   [362] [[tj-life-ccel|Life]], ch. iii.
+   [362] [[tj-life-ccel-toc|Life]], ch. iii.
 
    [363] Excl. xiii, 3.
 
@@ -1096,7 +1096,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [366] Way of Perf ch, xl. 4.
 
-   [367] [[tj-life-ccel|Life]], ch. xxvi. 5; xxviii. 21.
+   [367] [[tj-life-ccel-toc|Life]], ch. xxvi. 5; xxviii. 21.
 
    [368] Way of Perf. ch. xl. 3.
 
@@ -1108,7 +1108,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    of Stanbrook), i. 5, p. 19.
 
-   [371] [[tj-life-ccel|Life]], ch. xxviii. 13, 4.
+   [371] [[tj-life-ccel-toc|Life]], ch. xxviii. 13, 4.
 
    [372] St. Teresa, when led in this way, always asked to be delivered
 
@@ -1118,7 +1118,7 @@ description: The Interior Castle by St. Teresa of Ávila
 
    [373] I. Reg. xv. 26-28.
 
-   [374] [[tj-life-ccel|Life]], ch. xl. 27. She herself was one, and the other, no doubt,
+   [374] [[tj-life-ccel-toc|Life]], ch. xl. 27. She herself was one, and the other, no doubt,
 
    was St. John of the Cross.
 
@@ -1133,7 +1133,7 @@ description: The Interior Castle by St. Teresa of Ávila
    6. I wish I could explain this better but am unable to do so. Let us learn from it, sisters, that if we would bear any resemblance to our God and our Spouse, we must strive to walk ever in the truth. I do not merely mean that we should not tell falsehoods thank God, I see that in these convents you are most careful never to do so on any account--but I desire that as far as possible we should at with perfect truth before God and man and above all that we should not wish to be thought better than we are; that in all our deeds we should ascribe to God what is His and attribute what is ours to ourselves, and that we should seek for verity in all things. Thus we shall care little for this world, which is but deception and falsehood, and therefore cannot last. Once, while I was wondering why our Lord so dearly loves the virtue of humility, the thought suddenly struck me, without previous reflection, that it is because God is the supreme Truth and humility is the truth, for it is most true that we have nothing good of ourselves but only misery and nothingness: whoever ignores this, lives a life of falsehood. They that realize this fact most deeply are the most pleasing to God, the supreme Truth, for they walk in the truth. God grant, sisters, that we may have the grace never to lose this self-knowledge! Amen.
    7. Our Lord shows the soul these favours because she is now indeed His bride, resolute to do His will in all things; therefore He wishes to give her some idea how to accomplish it and to manifest to her some of His divine attributes. I need say no more about it, but I believe the two points above mentioned will prove very useful. These favours should cause no fear but lead us to praise God for bestowing these graces. I think neither the devil nor our own imaginations can have much to do with them, therefore the soul may rest in perfect peace.
 
-   [375] [[tj-life-ccel|Life]], ch. xl. 13-16.
+   [375] [[tj-life-ccel-toc|Life]], ch. xl. 13-16.
 
    [376] Ps. cxv. 11. Omnis homo mendax.'
 
@@ -1157,7 +1157,7 @@ description: The Interior Castle by St. Teresa of Ávila
    11. Two things in this spiritual state seem to me to endanger life,--one is that of which I have just spoken which is a real peril and no small one; the other an excessive gladness and a delight so extreme that the soul appears to swoon away and seems on the point of leaving the body, which indeed would bring it no small joy.
    12. Now you see. sisters, whether I had not reason to tell you that courage was needed for these favours and that when any one asks for them from our Lord He may well reply, as He did to the sons of Zebedee: Can you drink the chalice that I shall drink?' [390] I believe, sisters, we should all answer 'Yes'--and we should be perfectly right for His Majesty gives strength when He sees it needed: He ever defends such souls and answers for them when they are persecuted and slandered as He did for the Magdalen--if not in words, at least in deeds. [391] At last, ah, at last! before they die He repays them for all they have suffered, as you shall now learn. May He be for ever blessed and may all creatures praise Him! Amen.
 
-   [378] [[tj-life-ccel|Life]], ch. xxix. 17. (Transverberation.)
+   [378] [[tj-life-ccel-toc|Life]], ch. xxix. 17. (Transverberation.)
 
    [379] Ibid. ch. xxix. 13, 14. Rel. viii. 16-19.
 

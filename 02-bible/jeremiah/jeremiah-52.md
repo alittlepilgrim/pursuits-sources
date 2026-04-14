@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 52
 ---
@@ -113,3 +113,7 @@ a. (52:1] – [27) [[2-kings-24|2 Kgs 24]]:18 – [25:21].
 b. (52:4] – [16) [Jer 39:1] – [10].
 
 c. (52:31] – [34) [2 Kgs 25:27] – [30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

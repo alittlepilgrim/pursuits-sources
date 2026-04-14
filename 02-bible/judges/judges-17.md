@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 17
 ---
@@ -69,3 +69,7 @@ d. (17:6) [Jgs 18:1]; [19:1]; [21:25].
 e. (17:7) [Jgs 19:1].
 
 f. (17:10) [Jgs 18:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 8
 ---
@@ -117,3 +117,7 @@ a. (8:3) [Jb 34:10] – [12].
 b. (8:8) [Dt 4:32]; [32:7].
 
 c. (8:9) [Jb 14:2]; [Ps 102:12]; [109:23]; [144:4]; ([[wisdom-02|Wis 2]]:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

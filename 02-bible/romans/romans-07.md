@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 7
 ---
@@ -111,3 +111,7 @@ k. (7:18) [Gn 6:5]; [8:21]; [Phil 2:13].
 l. (7:23) [Gal 5:17]; [1 Pt 2:11].
 
 m. (7:25) [1 Cor 15:57].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

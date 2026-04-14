@@ -9,7 +9,7 @@ tags:
   - book/interior-castle
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: The interior castle by St. Teresa of Ávila.
 ---
@@ -123,7 +123,7 @@ description: The interior castle by St. Teresa of Ávila.
 
    Rel. viii. 6. Concept. ch. vii. 4.
 
-   [402] [[tj-life-ccel|Life]], ch. xviii. 4. The distinction between soul and spirit, to
+   [402] [[tj-life-ccel-toc|Life]], ch. xviii. 4. The distinction between soul and spirit, to
 
    be found in the Epistle to the Hebrews, iv. 12, according to Cornelius
 
@@ -166,7 +166,7 @@ description: The interior castle by St. Teresa of Ávila.
 
    [403] Rel. iii. 20; ix. 8 and 25.
 
-   [404] [[tj-life-ccel|Life]], ch. xxxix. 29.
+   [404] [[tj-life-ccel-toc|Life]], ch. xxxix. 29.
 
    [405] Castle, M. v. ch. iv. 1.
 
@@ -519,7 +519,7 @@ description: The interior castle by St. Teresa of Ávila.
 
    [452] Marginal note in the Saint's handwriting.
 
-   [453] [[tj-life-ccel|Life]], ch. xxi. 9.
+   [453] [[tj-life-ccel-toc|Life]], ch. xxi. 9.
 
    [454] Way of Perf. ch, i. 1. Found, ch. i, 6, 7. Supra, M. vi ch. vi,
 

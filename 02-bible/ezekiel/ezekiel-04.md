@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 4
 ---
@@ -81,3 +81,7 @@ e. (4:14) [Dn 1:8].
 f. (4:16) ([[ezekiel-05|Ez 5]]:16]; [Lv 26:26].
 
 g. (4:17) [Lv 26:39].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

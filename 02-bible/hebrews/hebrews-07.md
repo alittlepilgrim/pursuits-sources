@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 7
 ---
@@ -155,3 +155,7 @@ m. (7:26) [4:14], [15].
 n. (7:27) [5:3]; [9:12], [25] – [28]; [10:11] – [14]; ([[exodus-29|Ex 29]]:38] – [39]; [Lv 16:6], [11], [15] – [17]; [Nm 28:3] – [4]; [Is 53:10]; [Rom 6:10].
 
 o. (7:28) [5:1], [2], [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

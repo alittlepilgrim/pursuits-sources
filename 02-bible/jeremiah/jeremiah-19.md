@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 19
 ---
@@ -75,3 +75,7 @@ h. (19:13) [Jer 32:29].
 i. (19:14) [Jer 26:2].
 
 j. (19:15) [Jer 7:26]; [Prv 29:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

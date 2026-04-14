@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 22
 ---
@@ -111,3 +111,7 @@ k. (22:17) [21:6]; [Is 55:1].
 l. (22:19) [Dt 4:2].
 
 m. (22:20) [7], [12] / ([[acts-of-the-apostles-03|Acts 3]]:20] – [21]; [1 Cor 15:23]; [16:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

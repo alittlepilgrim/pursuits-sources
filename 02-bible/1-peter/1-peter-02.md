@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Peter, Chapter 2
 ---
@@ -165,3 +165,7 @@ q. (2:23) ([[matthew-05|Mt 5]]:39].
 r. (2:24) [Is 53:4], [12] / [Is 53:5].
 
 s. (2:25) [Is 53:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

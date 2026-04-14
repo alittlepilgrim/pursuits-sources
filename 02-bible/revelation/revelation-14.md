@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 14
 ---
@@ -121,3 +121,7 @@ j. (14:14) [1:7]; [Dn 7:13].
 k. (14:15) [Jl 4:13]; ([[matthew-13|Mt 13]]:36] – [43].
 
 l. (14:19) [19:15]; [Is 63:1] – [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

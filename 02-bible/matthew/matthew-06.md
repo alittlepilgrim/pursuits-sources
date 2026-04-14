@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 6
 ---
@@ -183,3 +183,7 @@ m. (6:24) ([[luke-16|Lk 16]]:13].
 n. (6:25] – [33) ([[luke-12|Lk 12]]:22] – [31].
 
 o. (6:26) [Ps 145:15] – [16]; [147:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

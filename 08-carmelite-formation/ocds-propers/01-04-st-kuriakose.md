@@ -12,7 +12,7 @@ tags:
   - type/ocd-proper
 celebration_day: 01-04
 created: 2025-07-31
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: OCDS Propers 01-04-saint-kuriakose-elias-of-the-holy-family-chavara-priest
 ---
@@ -23,9 +23,9 @@ description: OCDS Propers 01-04-saint-kuriakose-elias-of-the-holy-family-chavara
 > **SAINT KURIAKOS ELIAS OF THE HOLY FAMILY CHAVARA** - [[saint-kuriakose-elias-of-the-holy-family-chavara-priest]]
 > **Priest**
 
-**Optional Memorial
+Optional Memorial
 
-**_In the houses in India, Memorial_
+_In the houses in India, Memorial_
 
 _In the United States, see Pastoral Note below_
 
@@ -49,7 +49,7 @@ Today, Tuesday, January 3, 1871, at 7:15 in the morning, Fr. Cyriac (Kuriakos) E
 
 **V/.** You took care, besides, that my name might be inscribed in the book of life * so that the angels too may find joy in that.
 
-**Prayer**
+## Prayer
 
 Lord God,
 

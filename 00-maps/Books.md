@@ -10,7 +10,7 @@ tags:
   - subject
   - type/moc
 created: 2025-11-12
-modified: 2026-04-06
+modified: 2026-04-14
 publish: true
 permalink: /books
 description: Entry map for books and study editions organized by author, with quick links into existing book MOCs and texts.
@@ -31,6 +31,7 @@ attachment: false
 ## 📖 Scripture
 
 - [[Bible]]
+- [[Bible Studies]]
 
 ## 📜 Church & Magisterium
 
@@ -44,7 +45,7 @@ attachment: false
 ### St. Teresa of Avila
 
 - [[tj-the-interior-castle-ccel|The Interior Castle]]
-- [[tj-life-ccel|The Life Of St. Teresa Of Jesus]]
+- [[tj-life-ccel-toc|The Life Of St. Teresa Of Jesus]]
 - [[tj-way-of-perfection-ccel|The Way Of Perfection]]
 - [[tj-exclamations-of-the-soul-to-god|The Exclamations of the Soul To God]]
 
@@ -52,11 +53,10 @@ attachment: false
 
 - [[jc-ascent-of-mt-carmel|Ascent Of Mount Carmel]]
 - [[jc-dark-night-of-the-soul|Dark Night Of The Soul]]
- - [[jc-spiritual-canticle|Spiritual Canticle]]
+ - [[jc-sc-toc|Spiritual Canticle]]
 
 ### St. Thérèse of Lisieux
 
-- [[00-story-of-a-soul|Story of a Soul]]
 - [[Theresian Anniversaries]]
 
 ## 🕊️ Classical Spiritual Masters
@@ -68,9 +68,9 @@ attachment: false
 
 ### St. Ignatius of Loyola
 
-- [[Il-the-spiritual-exercises|Spiritual Exercises]]
-- [[il-14-rules-for-discerment-of-spirits-for-first-week|Rules for Discernment (Week 1)]]
-- [[il-rules-for-discerment-of-spirits-for-second-week|Rules for Discernment (Week 2)]]
+- [[il-spiritual-exercises|Spiritual Exercises]]
+- [[il-discerment-of-spirits-for-first-week|Rules for Discernment (Week 1)]]
+- [[il-discerment-of-spirits-for-second-week|Rules for Discernment (Week 2)]]
 
 ### Other Masters
 
@@ -89,13 +89,13 @@ attachment: false
 
 ## 🏛️ Theology & Systematic Works
 
-- [[The Three Ways of the Spiritual Life|The Three Ways of the Spiritual Life by Rev. Reginald Garrigou-Lagrange]]
-- [[The Three Ages of the Interior Life by Garrigou-Lagrange|The Three Ages of the Interior Life by Rev. Reginald Garrigou-Lagrange]]
+- [[three-ways-of-the-spiritual-life|The Three Ways of the Spiritual Life by Rev. Reginald Garrigou-Lagrange]]
+- [[three-ages-of-the-interior-life|The Three Ages of the Interior Life by Rev. Reginald Garrigou-Lagrange]]
+- [[contents-at-sl|The Spiritual Life – A Treatise on Ascetical and Mystical Theology by Adolphe Tanquerey]]
 
 ## 🕯️ Carmelite Spirituality
 
 - [[Divine Intimacy Meditations]]
-- [[ad-welcome-to-the-ocds|Welcome To The Secular Order Of Discalced Carmelites]]
 
 ## 📚 Carmelite Formation
 
@@ -107,7 +107,8 @@ attachment: false
 
 ## 📌 Reference
 
-- [[es-ew-chapter-1-glossary|Glossary]]
+- [[pursuits-sources/00-maps/Bibliography|Bibliography]]
+- [[Glossary]]
 - [[history-of-the-catholic-church-toc|The History of the Catholic Church by James Hitchcock]]
-- [[ignatius-catholic-study-bible|The Ignatius Catholic Study Bible New Testament]]
+- [[01-ignatius-catholic-study-bible|The Ignatius Catholic Study Bible New Testament]]
 

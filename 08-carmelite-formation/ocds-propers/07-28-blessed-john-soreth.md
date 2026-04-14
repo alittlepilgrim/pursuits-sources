@@ -12,14 +12,14 @@ tags:
   - type/ocd-proper
 celebration_day: 07-28
 created: 2025-07-28
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 
 # July 28, Blessed John Soreth
 
 > **July 28**
-> **BLESSED JOHN SORETH** - [[john-soreth-blessed]]
+> **BLESSED JOHN SORETH**
 > **Priest**
 
 **Optional Memorial**
@@ -27,6 +27,8 @@ publish: false
 _In the houses in France: Memorial_
 
 John Soreth was born at Caen in Normandy and entered Carmel as a young man. He took a doctorate of theology in Paris and served as regent of studies and provincial of his province. He was prior general from 1451 until his death at Angers in 1471. He restored observance within the Order and promoted its reform, wrote a famous commentary on the Rule, issued new Constitutions in 1462, and promoted the growth of the nuns and the Third Order.
+
+ - [[john-soreth-blessed]]
 
 ---
 

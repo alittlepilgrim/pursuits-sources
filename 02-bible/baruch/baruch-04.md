@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Baruch, Chapter 4
 ---
@@ -275,3 +275,7 @@ s. \[[4:33] – [34]\] [[isaiah-13|Is 13]]:20 – [22]; [47:1] – [11]; [Jer 50
 t. \[[4:35]\] [Is 34:9] – [14].
 
 u. \[[4:36]\] [Is 60:4] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2024 - Text 1 My Vocation Is Love (Ms. B, 2v-3v)
   - theresian-anniversaries-2024-text-01
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

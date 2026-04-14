@@ -2,7 +2,6 @@
 type: figure
 title: Blessed John Soreth
 aliases:
-  - 20250912-204812
   - Blessed John Soreth
   - john-soreth-blessed
 tags:
@@ -12,7 +11,7 @@ tags:
   - type/figure
 celebration: 07-28
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

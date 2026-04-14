@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 5
 ---
@@ -111,3 +111,7 @@ k. (5:17) ([[psalm-19|Ps 19]]:13]; [Jb 1:5].
 l. (5:21) [Ps 59:13]; [Hos 4:2].
 
 m. (5:21) ([[exodus-22|Ex 22]]:6] – [12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

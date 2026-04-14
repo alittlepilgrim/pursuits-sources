@@ -4,7 +4,6 @@ title: Acts of the Apostles, The Acts of the Apostles
 url: https://bible.usccb.org/bible/acts/0
 aliases:
   - Acts of the Apostles, the Acts of the Apostles
-  - Acts of the Apostles, The Acts of the Apostles
   - acts-of-the-apostles-00
 tags:
   - bible/acts-of-the-apostles
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, the Acts of the Apostles
 ---
@@ -74,3 +73,11 @@ The principal divisions of the Acts of the Apostles are the following:
 - [[acts-of-the-apostles-26|Acts of the Apostles, Chapter 26]]
 - [[acts-of-the-apostles-27|Acts of the Apostles, Chapter 27]]
 - [[acts-of-the-apostles-28|Acts of the Apostles, Chapter 28]]
+
+---
+
+New American Bible, Revised Edition (NABRE), USCCB
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

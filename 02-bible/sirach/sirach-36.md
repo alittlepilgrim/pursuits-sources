@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 36
 ---
@@ -151,3 +151,7 @@ d. (36:26] – [28) [Sir 26:13] – [18]; [Prv 12:4]; [18:22]; [19:14].
 e. (36:29) [Gn 2:18].
 
 f. (36:31) [Prv 27:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

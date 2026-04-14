@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 11
 bible_book: genesis
@@ -134,3 +134,7 @@ d. (11:31) [Jos 24:3]; [Neh 9:7]; [Jdt 5:6] – [9]; ([[acts-of-the-apostles-07|
 ### Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-02|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

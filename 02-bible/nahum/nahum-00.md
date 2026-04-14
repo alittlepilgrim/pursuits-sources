@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/nahum/0
 aliases:
   - nahum-00
   - Nahum, the Book of Nahum
-  - Nahum, The Book of Nahum
 tags:
   - bible/book
   - bible/nahum
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nahum, the Book of Nahum
 ---
@@ -33,3 +32,7 @@ The book is divided as follows:
 2. Nineveh’s Judgment and Judah’s Restoration ([1:9] – [2:1])
 3. The Attack on Nineveh ([2:2] – [3:7])
 4. Nineveh’s Inescapable Fate ([3:8] – [19])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

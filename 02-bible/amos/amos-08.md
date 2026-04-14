@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Amos, Chapter 8
 ---
@@ -139,3 +139,7 @@ e. (8:10) [Tb 2:6]; [Zec 12:10].
 f. (8:12) [Hos 5:6].
 
 g. (8:14) [[2-kings-17|2 Kgs 17]]:30.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/baruch/0
 aliases:
   - baruch-00
   - Baruch, the Book of Baruch
-  - Baruch, The Book of Baruch
 tags:
   - bible/baruch
   - bible/book
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Baruch, the Book of Baruch
 ---
@@ -51,3 +50,7 @@ The book can be divided thus:
 - [[baruch-04|Baruch, Chapter 4]]
 - [[baruch-05|Baruch, Chapter 5]]
 - [[baruch-06|Baruch, Chapter 6]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

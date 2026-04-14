@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 80
 ---
@@ -137,3 +137,7 @@ e. (80:7) [Ps 44:14]; [79:4]; [123:3] – [4]; [Jb 12:4]; [Dn 9:16]; [Zep 2:8].
 f. (80:13) [Ps 89:41].
 
 g. (80:14) [Hos 2:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

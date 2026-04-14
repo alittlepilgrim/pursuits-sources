@@ -11,7 +11,7 @@ tags:
   - saint/john-of-the-cross
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: Argument - The Ascent of Mt. Carmel
 ---
@@ -44,4 +44,3 @@ All ceased and I abandoned myself, Leaving my cares forgotten among the lilies.
 [68] [The word translated at rest' is a past participle: more literally, stilled.']
 
 [69] [Lit.: I remained and forgot.']
-

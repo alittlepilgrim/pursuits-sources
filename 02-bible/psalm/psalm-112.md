@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 112
 ---
@@ -79,3 +79,7 @@ b. (112:4) [Ps 37:6]; [97:11]; [Prv 13:9]; [Is 58:10].
 c. (112:6) [Prv 10:7]; ([[wisdom-08|Wis 8]]:13].
 
 d. (112:9) [Prv 22:9]; ([[2-corinthians-09|2 Cor 9]]:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

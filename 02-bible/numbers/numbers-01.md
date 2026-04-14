@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 1
 ---
@@ -137,3 +137,7 @@ g. (1:51) [Nm 3:10], [38]; [18:7]; [2 Sm 6:6] – [7]; [[1-chronicles-13|1 Chr 1
 h. (1:52) [Nm 2:2], [34].
 
 i. (1:53) [Nm 3:7] – [8], [38]; [8:19]; [18:4] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

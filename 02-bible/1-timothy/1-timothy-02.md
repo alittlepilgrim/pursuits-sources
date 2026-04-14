@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Timothy, Chapter 2
 ---
@@ -89,3 +89,7 @@ j. (2:13) [Gn 1:27]; [2:7], [22]; [1 Cor 11:8] – [9].
 k. (2:14) [Gn 3:6], [13]; [2 Cor 11:3].
 
 l. (2:15) [5:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

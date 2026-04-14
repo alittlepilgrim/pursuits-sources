@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 31
 ---
@@ -239,3 +239,7 @@ e. (31:10) [Is 2:11].
 f. (31:12) [Dn 4:14].
 
 g. (31:16) [[isaiah-14|Is 14]]:8, [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

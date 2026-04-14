@@ -11,7 +11,7 @@ tags:
   - term/aridity
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 ---
 
@@ -51,7 +51,7 @@ the Holy Spirit works in souls through —: [[168-the-great-promise#Meditation 2
 
 See: [[pursuits-sources/01-glossary/prayer|Prayer]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[8-the-lord-will-not-delay|8. The Lord Will not Delay]]
 - [[18-seeking-god-in-faith|18. Seering God in Faith]]

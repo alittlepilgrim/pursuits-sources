@@ -2,7 +2,6 @@
 type: glossary
 title: Activity
 aliases:
-  - 20250719-215823
   - activity
   - Activity
 tags:
@@ -10,16 +9,12 @@ tags:
   - term/activity
   - type/term
 created: 2025-07-19
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: activity
 ---
 
 # Activity
-
-## Three Ages Volume I
-
-![[tta-1-index#Activity]]
 
 ## Divine Intimacy Meditations
 
@@ -30,7 +25,7 @@ description: activity
 - the need to dedicate oneself to — and contemplation, according to the duties of one’s state: [[342-martha-and-mary#Meditation 1|342,1]];
 - the need to give oneself to the works of God with a heart filled with God: [[370-divine-intimacy#Meditation 2|370,2]].
 
----
+### Sources
 
 - [[21-seeking-god-in-activity|21. Seeking God in Activity]]
 - [[59-the-prayer-of-jesus|59. The Prayer of Jesus]]
@@ -38,6 +33,10 @@ description: activity
 - [[342-martha-and-mary|342. Martha and Mary]]
 - [[370-divine-intimacy|370. Divine Intimacy]]
 
-## Compendium on Social Doctrine
+## Three Ages Volume I
+
+![[tta-1-index#Activity]]
+
+## Compendium of Social Doctrine
 
 ![[sd-10-index-a#Activity]]

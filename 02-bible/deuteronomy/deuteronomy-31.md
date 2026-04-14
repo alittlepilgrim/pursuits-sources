@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 31
 ---
@@ -139,3 +139,7 @@ r. (31:27) [Dt 9:6] – [7], [22] – [24].
 s. (31:28) [Dt 31:12] – [13], [19] – [22]; [30:19]; [32:1] – [43].
 
 t. (31:29) [Jgs 2:11] – [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 1
 ---
@@ -177,3 +177,7 @@ q. (1:37) [Dt 4:21]; [34:4]; [Nm 20:12].
 r. (1:38) [Dt 31:3], [7] – [8]; [Nm 27:18] – [23]; [34:17]; [Jos 1:1] – [9].
 
 s. (1:41] – [46) [Nm 14:39] – [45].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

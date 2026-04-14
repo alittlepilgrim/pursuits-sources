@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 48
 ---
@@ -195,3 +195,7 @@ d. (48:12) [Is 41:4]; [44:6]; [48:12]; ([[revelation-01|Rv 1]]:8], [17].
 e. (48:13) [Is 40:22], [26]; [45:12], [18].
 
 f. (48:21) ([[exodus-17|Ex 17]]:6]; [Nm 20:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

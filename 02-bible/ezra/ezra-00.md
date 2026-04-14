@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/ezra/0
 aliases:
   - ezra-00
   - Ezra, the Book of Ezra
-  - Ezra, The Book of Ezra
 tags:
   - bible/book
   - bible/ezra
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: ezra-the book of ezra
 ---
@@ -57,3 +56,7 @@ The following list of the kings of Persia, with the dates of their reigns, will 
 - [[ezra-07|Ezra, Chapter 7]]
 - [[ezra-08|Ezra, Chapter 8]]
 - [[ezra-09|Ezra, Chapter 9]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

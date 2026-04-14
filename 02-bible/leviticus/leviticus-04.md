@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 4
 ---
@@ -129,3 +129,7 @@ g. (4:21) [Lv 6:23].
 h. (4:22) [Nm 10:4]; [25:14].
 
 i. (4:25) [Lv 4:30], [34]; [8:15]; [9:9]; [16:18]; ([[exodus-29|Ex 29]]:12]; [Ez 43:20]; cf. [Lv 4:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

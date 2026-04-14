@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/amos/0
 aliases:
   - amos-00
   - Amos, the Book of Amos
-  - Amos, The Book of Amos
 tags:
   - bible/amos
   - bible/book
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Amos, the Book of Amos
 ---
@@ -50,3 +49,7 @@ The Book of Amos may be divided as follows:
 - [[amos-07|Amos, Chapter 7]]
 - [[amos-08|Amos, Chapter 8]]
 - [[amos-09|Amos, Chapter 9]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 13
 ---
@@ -95,3 +95,7 @@ f. (13:19] – [20) [Jgs 6:19] – [21].
 g. (13:21] – [23) [Jgs 6:22] – [23].
 
 h. (13:25) [Jgs 3:10]; [6:34]; [11:29]; [14:6], [19]; [15:14]; [1 Sm 11:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

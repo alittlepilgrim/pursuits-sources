@@ -3,14 +3,13 @@ type: book
 title: The Twelve Degrees of Humility and of Pride by St. Bernard of Clairvaux
 author: Saint Bernard of Clairvaux
 aliases:
-  - 20251017-182601
   - The Twelve Degrees of Humility and of Pride by Saint Bernard of Clairvaux
   - The Twelve Degrees Of Humility and Of Pride by Saint Bernard Of Clairvaux
   - The Twelve Degrees of Humility and of Pride by St. Bernard of Clairvaux
 tags:
   - type/book
 created: 2025-10-17
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 ---
 
@@ -100,9 +99,9 @@ XII. Habitual transgression.
 
 The two last named downward steps cannot be taken inside the cloister. The first sixdenote disregard for the brethren, the four following disrespect for authority, the two that remain contempt for God.
 
-## Part I — the Twelve Degrees of Humility
+## Part I — The Twelve Degrees of Humility
 
-### Chapter I — the Search for Truth Christ the Goal and the Road
+### Chapter I — The Search for Truth Christ the Goal and the Road
 
 I propose to speak of the degrees of humility, as St. Benedict sets them before us, as not only to be enumerated but to be attained. And I will first indicate, to the best of my ability, the goal that may be reached by their means, so that when you have heard the result of its attainment, the toil involved in the ascent may be less severely felt. So let our Lord set before us the difficulties that we shall encounter, and the reward that we shall receive for our toilsome journey.
 
@@ -123,7 +122,7 @@ This affords further evidence that the truth which is withheld from the proud, i
 
 He allows them an opportunity of regaining salvation because He is kind, yet not without the discipline of law because He is righteous. In His kindness He will not permit their ruin, in His righteousness He cannot omit their punishment.
 
-### Chapter II — the Ladder of Humility, Foreshadowed by That Which Jacob Saw in His Vision. the Refreshment Provided by Christ -- Humility, Love, and Contemplation -- of Which Love Is the Central Course, as on Solomon's Table
+### Chapter II — The Ladder of Humility, Foreshadowed by That Which Jacob Saw in His Vision. the Refreshment Provided by Christ -- Humility, Love, and Contemplation -- of Which Love Is the Central Course, as on Solomon's Table
 
 St. Benedict enumerates twelve degrees in this law by which the return to truth is made; so that as access to Christ is gained when the Ten Commandments and the two-fold circumcision (1) -- which together make up the number of twelve -- have been passed, truth may likewise be attained by passing through these twelve degrees. And what can be the significance of the fact that the Lord appeared leaning over that ladder which was shown to Jacob as a symbol of humility, but that the recognition of truth begins when the height of humility is reached? For then the Lord, whose eyes, as He is the embodiment of truth, could neither deceive nor be deceived, was looking down from the top of that ladder over the sons of men to discover whether there is anyone who understands orseeks after God.
 
@@ -156,7 +155,7 @@ So the first course is humility, purifying by its bitterness, the second is love
 1. Ps. LXXX (Vulg. LXXIX) 5.
 2. Love is throughout this treatise, as in the latter part of that 'On loving God,' the rendering of caritas, whereas in the former part of that treatise St. Bernard uses the word amor.
 
-### Chapter III — the Process by Which the Road of Humility Leads to the Attainment of Truth. the Three Degrees of Truth. the Teaching of Christ About These. Discussion of the Difficulty Involved in the Statement That He Learned Compassion Through Suffering
+### Chapter III — The Process by Which the Road of Humility Leads to the Attainment of Truth. the Three Degrees of Truth. the Teaching of Christ About These. Discussion of the Difficulty Involved in the Statement That He Learned Compassion Through Suffering
 
 I have stated, as well as I can do so, the blessings to be gained by passing upwards through the degrees of humility. I will now, to the best of my ability, explain the process by which these lead to the promised prize the attainment of truth. But as the recognition of truth is gradual, I will, if I can do so, indicate its three degrees, in order to make it more clear to which of these the twelfth degree of humility leads. (1)
 
@@ -225,7 +224,7 @@ Now from this you may see that Christ has two natures, albeit in one Person, one
 1. Ps. XL. 2 (XXXIX. 3, Vulg.)
 2. Ps. XXXVI. 6, 7 (XXXV. 7, 8, Vulg.).
 
-### Chapter IV — the First Degree of Truth -- Self-scrutiny -- Reveals to Us Our Own Evil Case. Ye Who Are Spiritual, Instruct Such an One in the Spirit of Meekness Considering Thyself lest Thou Also Be Tempted in the Spirit of Meekness Consider Thyself -- Thou Hypocrite, Cast out First the Beam out of Thine Own Eye and Thus Shall Thou See to Cast out the Mote out of Thy Brother's Eye
+### Chapter IV — The First Degree of Truth -- Self-scrutiny -- Reveals to Us Our Own Evil Case. Ye Who Are Spiritual, Instruct Such an One in the Spirit of Meekness Considering Thyself lest Thou Also Be Tempted in the Spirit of Meekness Consider Thyself -- Thou Hypocrite, Cast out First the Beam out of Thine Own Eye and Thus Shall Thou See to Cast out the Mote out of Thy Brother's Eye
 
 But let us resume the thread of our argument. If then He in whose nature there was no sadness, made Himself sad in order that He might have personal experience of something of the existence of which He was already aware, how much more is it your duty, I will not say to alter, but to recognize your condition, which is indeed a pitiable one -- and thus to learn compassion o which you could otherwise have no knowledge? For it may well happen that by dwelling on the shortcomings of your neighbour without sufficientattention to your own, you may be moved not to pity but to anger -- not to assist but to condemn, and so to destroy in a spirit of wrath, rather than to restore in a spirit of meekness. saith the Apostle,. The counsel -- aye, the command -- of the Apostle is that you should aid your ailing brother in the same kindly spirit in which you would wish to be helped when you are ailing. And to show how it is possible to be forbearing towards a wrong-doer, he says,. And please to note how well the disciple of Truth follows the sequence of the Master. In the Beatitudes, to which I have already referred, the 'merciful' are named before the 'pure in heart', as are the 'meek' before the 'merciful'. And the Apostle when he exhorted those who were spiritual to restore such as were carnal, added. For the reformation of the brethren is the mark of the merciful, and a spirit of meekness that of the humble. He says in effect that no one who is not himself meek can be reckoned among the merciful. Note that the Apostle here clearly asserts exactly what I said just now that I would establish, viz., that truth must be sought in ourselves before we can look for it in others, for he says by which he means, think how easily you may be tempted -- how liable you are to sin -- so that by self-scrutiny you may be made humble and may thus come to the aid of others in a spirit of meekness. If, however, you heed not the warning of the Apostle, tremble before the rebuke of the Master.. (1)
 
@@ -259,7 +258,7 @@ Do not you think that the prophet felt as did the Lord, as did the Apostles, and
 3. Ps. CXII. (Vulg. CXI) 1.
 4. Ps. CXII. (Vulg. CXI.) 1.
 
-### Chapter V — the Second Degree of Truth -- Wherein Consciousness of Our Own Shortcomings Makes Us Merciful to Those of Other People. in Thy Truth Thou Hast Humbled Me. Every Man Is a Liar
+### Chapter V — The Second Degree of Truth -- Wherein Consciousness of Our Own Shortcomings Makes Us Merciful to Those of Other People. in Thy Truth Thou Hast Humbled Me. Every Man Is a Liar
 
 Thus in this, the first degree of Truth, the Prophet is so humbled that he says in another Psalm, (1) He may then reasonably conclude that the wretched condition in which he finds himself to be, is that of mankind in general. And as he thus passes into the second degree, he may say in his ecstasy, (2)
 
@@ -282,7 +281,7 @@ Let us now return to the main subject. If truth thus compels men to look into th
 
 1. Matt. V. 7.
 
-### Chapter VI — the Third, Degree of Truth -- the Clearing of the Spiritual Sight, so That It May Gaze on Holy and Heavenly Things
+### Chapter VI — The Third, Degree of Truth -- the Clearing of the Spiritual Sight, so That It May Gaze on Holy and Heavenly Things
 
 If therefore men practise perseverance in the three matters that have been mentioned viz., the sorrow of repentance, the longing for righteousness, and works of mercy, they clear their spiritual sight of the three hindrances (1) which either through ignorance, infirmity or disposition they have encountered, and may thus pass on to that direct vision in which the third degree of truth consists. These are the ways that seem good to men at all events to those who are glad when they have done evil and rejoice in most wicked things, (2) and who attempt to cover their sins with the cloak of ignorance or of weakness. (3) But vainly do they whose ignorance or weakness is wilful put forward either of these pleas as an excuse for indulgence in sin. (4) Do you suppose that the first man could successfully plead infirmity of the flesh on the ground that he sinned, not of his own accord, but at the instigation of his wife?
 
@@ -304,7 +303,7 @@ And to it truth promises to reveal itself in its purity. _Blessed are the clean 
 
 1 Matt. v. 8.
 
-### Chapter VII — the Work of the Persons of the Holy Trinity in Leading Men Through the Three Degrees of Truth. if I, Your Lord and Master, Have Washed Your Feet, How Much More Ought Ye to Wash One Another's Feet
+### Chapter VII — The Work of the Persons of the Holy Trinity in Leading Men Through the Three Degrees of Truth. if I, Your Lord and Master, Have Washed Your Feet, How Much More Ought Ye to Wash One Another's Feet
 
 Here I seem to discern a certain marvellous and individual operation of each Person of the Trinity -- if indeed it is possible for the limited intelligence of man to conceive a difference such as cannot be expressed in words between persons who co-operate. On this supposition, the first degree appears to be due to the action of the Son, the second to that of the Holy Spirit, and the third to that of the Father. Would you wish to hear about the work of the Son?, saith He, (1) The Master of truth thus presented to His disciples a pattern of humility, that they might therein discern the first degree of truth.
 
@@ -328,7 +327,7 @@ _If thou knowest not thyself, go forth and feed thy kids_. (1) Thus did she beco
 
 1. Cant. I. 7.
 
-### Chapter VIII — the Same Sequence Is Seen in the 'rapture' of St. Paul to the Third Heaven
+### Chapter VIII — The Same Sequence Is Seen in the 'rapture' of St. Paul to the Third Heaven
 
 Do you suppose that St. Paul had not undergone the same gradual process when, as he has told us, he was 'caught up' to the third heaven? But why was he 'caught up' instead of being 'led up'? The reason surely was that if so great an Apostle says that he was 'caught up' to a place whither no teaching nor leading could bring him, I, who am certainly a lesser man than Paul, may not venture to think that I can reach the third heaven by any strength or effort of my own; so may I neither trust to strength nor shrink from exertion.
 
@@ -377,7 +376,7 @@ _A cloud received him out of their sight. (_2) And what was the purpose of this 
 5. 1 Cor. XIII. 6.
 6. Is. XXIV. 16, Vulg. and Sept.
 
-### Chapter IX — the Writer Sighs Regretfully over His Own Shortcomings in the Search for Truth. Wherein I May Show to Myself the Salvation of God. to the Work of Thine Hands Thou Shalt Reach out Thy Right Hand
+### Chapter IX — The Writer Sighs Regretfully over His Own Shortcomings in the Search for Truth. Wherein I May Show to Myself the Salvation of God. to the Work of Thine Hands Thou Shalt Reach out Thy Right Hand
 
 But how can a poor creature like myself ramble on about the two higher heavens in a way more suggestive of the outpouring of words than of spiritual activity, seeing that it is as much as I can do to crawl on my hands and feet under the lower one? Yet I have already, with the help of Him who calls me, set up for myself a ladder to that higher level. I am moving in the direction (1) Now I look upwards to the Lord who is leaning over me, now I spring forward at the call of truth. He has called me and I have answered Him, (2) Thou, Lord, dost indeed number my steps, but I, slow climber and tired traveller, am looking for a resting place by the way. Woe is unto me if the darkness gets hold of me, or if my flight be in the winter or on the sabbath day, yet, though now is the acceptable time, and now is the day of salvation, I delay to set forth towards the light. Why do I thus hold back? Pray for me, son, brother, friend, fellowtraveller with me in the Lord -- if such there be.
 
@@ -430,9 +429,9 @@ He adds, _Out of thy law have mercy on me._ This means by the law which thou did
 
 For you go up to a throne by the same steps by which you come down, you use the same road for approaching or withdrawing from a town, and the same door for entering or leaving a house. In like manner the angels appeared to Jacob as ascending and descending on the same ladder. What do these comparisons suggest? Surely that if you wish to return to the truth, you need not look for a new and unknown road, but for the one by which you know that you came down, so that you may follow your own footsteps, and may humbly rise through the same degrees through which you fell in your pride. That which was the twelfth degree of pride in your fall will be the first degree of humility in your ascent; the eleventh will correspond to the second, the tenth to the third, the ninth to the fourth, the eighth to the fifth, the seventh to the sixth, the sixth to the seventh, the fifth to the eighth, the fourth to the ninth, the third to the tenth, the second to the eleventh and the first to the twelfth. And when you have discovered and really recognized thesedegrees of pride in yourself, you will have no difficulty in looking for the path of humility.
 
-## Part II — the Twelve Degrees of Pride
+## Part II — The Twelve Degrees of Pride
 
-### Chapter X — the First Degree -- Curiosity -- the Opposite of Modesty -- Especially of the Eyes. Winketh with the Eye, Presseth with the Foot, and Speaketh with the Finger
+### Chapter X — The First Degree -- Curiosity -- the Opposite of Modesty -- Especially of the Eyes. Winketh with the Eye, Presseth with the Foot, and Speaketh with the Finger
 
 The first degree of pride is curiosity. This you may detect by the following signs. Look at that monk, whom you have hitherto supposed to be a sensible man. He has now taken to staring about him, whether he is standing up, walking about or sitting down. He thrusts his head forward, and pricks up his ears. From his outward movements you can clearly see the inward change that he has undergone. For it is the froward man who, (1) and from the unusual movements of his body is seen to have lately contracted disease of the soul -- the careless sluggishness of which in self-examination makes it inquisitive about others. So since it takes no heed to itself it is sent out of doors to feed the kids. And as these are the types of sin, I may quite correctly give the title of 'kids' to the eyes and the ears, since as death comes into the world through sin, so does sin enter the mind through these apertures.
 
@@ -518,11 +517,11 @@ Curiosity therefore rightly claims the first place among the degrees of pride, a
 
 1. 2 Cor. VI. 8.
 
-### Chapter XI — the Second Degree -- Levity of Mind. (The Opposite of the Eleventh Degree of Humility -- Short and Sensible Speech in a Subdued tone.)
+### Chapter XI — The Second Degree -- Levity of Mind. (The Opposite of the Eleventh Degree of Humility -- Short and Sensible Speech in a Subdued tone.)
 
 For the monk who is careless about himself and unduly inquisitive about other people, looks up to some as his betters and looks down upon others as his inferiors -- in some he sees cause for envy, while others are the objects of his scorn. It thus happens that his mind, enervated by his habit of staring about him, is oppressed by no anxiety on its own account, now through pride soars to the heights and then sinks through envy to the depths. He shows at one moment a sulky acquiescence in his own wickedness, at another a childish delight in his excellence. In the former he exhibits his weakness, in the latter his vanity, in both his pride; for it is love of his own excellence that gives him distress when others surpass him, and joy when he surpasses them. This unbalanced disposition shows itself in speech sometimes brief and bitter, sometimes full and feeble, alternatelyjocose and doleful, and always silly. Compare if you please these two earliest degrees of pride with the two highest degrees of humility, and see if the last one of these latter does not repress curiosity, and the one before it levity. You will find the same contrast if the other degrees are similarly compared. But now let us go on to the study of the third degree -- without, however, falling into it.
 
-### Chapter XII — the Third Degree -- Unseasonable Merriment. (The Opposite of the Tenth Degree of Humility -- Refraining from Frequent and Light laughter.) the Heart of Fools Is Where There Is Mirth
+### Chapter XII — The Third Degree -- Unseasonable Merriment. (The Opposite of the Tenth Degree of Humility -- Refraining from Frequent and Light laughter.) the Heart of Fools Is Where There Is Mirth
 
 It is characteristic of the proud that they always look out for pleasure and shun sadness, in accordance with the saying: (1) So it is that the monk who has already descended two degrees of pride and through inquisitiveness has arrived at levity, when he sees the joy for which he is always on the look out constantly interrupted by the distress which he feels at the sight of good in others, chafes under the sense of humiliation and takes refuge in a suggestion of unreal comfort. Henceforth he restrains his inquisitiveness on that side on which his own worthlessness and his neighbour's excellence are shown to him, and turns his whole attention to the other side.
 
@@ -532,7 +531,7 @@ He may thus mark only too carefully those things in which he seems to be the bet
 
 I set this before you as the third degree of pride; now note the marks by which you may detect it, either in yourself or in anyone else. You seldom or never hear a man of this kind groan, or see him shed tears. You will think, if you consider, that his faults are either forgotten or forgiven. His gestures are those of a buffoon, his look that of a coxcomb, his step that of a dandy. He is always making jokes, and never loses a chance of laughing. He cuts out of his mind all discreditable and therefore distressing recollections, and concentrates his mental vision on his real or pretended merits. As he thinks of nothing but what is pleasant without considering whether it is lawful, he can neither restrain laughter nor hide his unseasonable merriment. A bladder swells when it is full of wind, but if a small hole is pricked in it and it is squeezed, it creaks as it collapses, and the air does not rush out at once, but is gradually expelled and gives out frequent intermittent sounds. In like manner when a monk has filled his mind with vapid and vulgar thoughts, the flood of folly which cannot, owing to the rule of silence, find full and free vent, is thrown but from his narrow jaws in guffaws of laughter. He constantly hides his face as if ashamed, compresses his lips, and clenches his teeth. He laughs loudly without meaning to do so, and even against his will. And when he has stopped his mouth with his fists he is frequently heard to sneeze.
 
-### Chapter XIII — the Fourth Degree -- Boastfulness. (The Opposite of the Ninth Degree of Humility. Reticence Until questioned.) My Belly Is as New Wine Which Wanteth Vent, Which Bursteth the New Vessels. for He Is Full of Matter to Speak Of, and the Spirit of His Bowels Constraineth Him
+### Chapter XIII — The Fourth Degree -- Boastfulness. (The Opposite of the Ninth Degree of Humility. Reticence Until questioned.) My Belly Is as New Wine Which Wanteth Vent, Which Bursteth the New Vessels. for He Is Full of Matter to Speak Of, and the Spirit of His Bowels Constraineth Him
 
 But when vanity increases, and the bladder begins to be inflated, it becomes necessary to loosen the belt and allow a larger outlet for the air, otherwise the bladder will burst. So the monk who is unable to discharge his superabundant store of unseemly merriment by laughter or by gesture, breaks forth with the words of Elihu, (1) He must speak out or break down. (2) He hungers and thirsts for hearers, at whom he may throw his banalities, to whom he may pour out his feelings, and let them know what a fine fellow he is. But when he has found his opportunity of speaking -- if the conversation turns on literary matters, old and new points are brought forward; he airs his ideas in loud and lofty tone. He interrupts his questioner and answers before he is asked.
 
@@ -545,7 +544,7 @@ He himself puts the question and gives the answer, nor does he even allow the pe
 
 If you hear the torrent of his conceit you may say that his mouth is a fount of such buffoonery as to move even strict and sober monks to light laughter. To put it shortly, mark his swagger in his chatter. In this you have the name and description of the fourth degree of pride. Remember the description and avoid the reality. With this warning, go on to the fifth degree which I call eccentricity.
 
-### Chapter XIV — the Fifth Degree -- Eccentricity. (The Opposite of the Eighth Degree of Humility, Observance of the General Rule of the monastery.)
+### Chapter XIV — The Fifth Degree -- Eccentricity. (The Opposite of the Eighth Degree of Humility, Observance of the General Rule of the monastery.)
 
 A man who prides himself on being better than his fellow-men thinks it a disgrace if he does not do something more than they do, whereby his superiority may be apparent.
 
@@ -569,7 +568,7 @@ He comes forward without invitation, and with no introduction but his own; he re
 
 Therefore when his fault is pointed out to him, it is not removed but grows worse. So if, when he is reproved, you see him incline his heart to wicked words, you may know that he has sunk to the eighth degree, which is called defence of wrong-doing.
 
-### Chapter XVII — the Eighth Degree -- Defence of Wrong-doing. (The Opposite of the Fifth Degree of Humility -- a Humble and Straightforward Disclosure of Sins and Evil thoughts.) the Ninth Degree -- Dishonest Confession. (The Opposite of the Fourth Degree of Humility, Willing Endurance of Hardship as a Matter of obedience.) Evil Words for There Is, One That Humbleth Himself Wickedly and His Interior Is Full of Deceit the Righteous Man at the Beginning of His Speech Is His Own Accuser
+### Chapter XVII — The Eighth Degree -- Defence of Wrong-doing. (The Opposite of the Fifth Degree of Humility -- a Humble and Straightforward Disclosure of Sins and Evil thoughts.) the Ninth Degree -- Dishonest Confession. (The Opposite of the Fourth Degree of Humility, Willing Endurance of Hardship as a Matter of obedience.) Evil Words for There Is, One That Humbleth Himself Wickedly and His Interior Is Full of Deceit the Righteous Man at the Beginning of His Speech Is His Own Accuser
 
 There are many ways in which defence is made for sin. A man either says 'I did it not' or 'I no doubt did it, but I acted rightly in so doing', or 'I may have acted wrongly but not to a serious extent,' or, 'If I was seriously wrong, I had no bad intention'. If, however, he, like Adam and Eve, is proved to be guilty, he attempts to excuse himself on the ground that he was tempted by some one else. But if a man unblushingly defends even open sins, will he ever humbly disclose to the Abbot the hidden evil thoughts which come into his mind?**CHAPTER XVIII** But although defences of this kind are considered so wrong that they are called by the Prophet (1) a false and perverse confession is much more dangerous than even a brazen and stubborn defence. For there are some who, when they are reproved for rather conspicuous offences, and know that no excuse which they may offer will be accepted, have recourse to a more cunning form of defence -- they reply by a deceitful confession. as it is written,. (2) The countenance is downcast -- the body is prostrate. They exact from themselves, if they are able to do so, some tears. They interrupt their speech by sighs and intersperse their words with groans. A man of this description not only offers no excuse for the offences with which he is charged, but himself even exaggerates his guilt. He does this that you, when you hear him make a further accusation against himself of some impossible or inconceivable crime, may be disposed to disbelieve even that of which you thought him guilty -- and thus, from the fact that he makes a confession which you fully believe to be false, some doubt may be thrown on that which you held to be almost certain. And when these men make a statement the acceptance of which they do not desire, by their confession they excuse, and by their disclosures they conceal, their fault. Their confession sounds praiseworthy in the mouth, but wickedness is hidden in the heart; so that he who hears may think that the confession is made with more humility than accuracy, and may apply to them that Scriptural saying, (3)
 
@@ -588,7 +587,7 @@ But he whose confession is unreal, when he is confronted with a slight rebuke, o
 2. 'Cp. St. Bernard's words in his treatise;' On Conversion' (XXI, sect. 17). 'Even the severity of repentance should not deter you. For the sufferings of this time are not comparable to the guilt of the past, which is put away, or to the gracious consolation of the present, which is given, or to the glory of the future which is promised to us.'
 3. These words are a quotation almost _verbatim_ from cap. 7 of the Rule of St. Benedict.
 
-### Chapter XIX — the Tenth Degree -- Rebellion. (The Opposite of the Third Degree of Humility -- Obedient Submission to superiors.)
+### Chapter XIX — The Tenth Degree -- Rebellion. (The Opposite of the Third Degree of Humility -- Obedient Submission to superiors.)
 
 Unless by a merciful intervention of Providence this man quietly accepts the unanimous verdict -- a thing which it is very difficult for such persons to do -- he soon becomes shameless and defiant, and more hopelesly degenerate, and sinks through rebellion into the tenth degree, so that he who had hitherto by his conceit treated his brethren with veiled discourtesy, now by his disobedience shows open contempt for authority. For it should be observed that all the degrees -- which I have divided into twelve -- may be arranged in three groups; in the first six there is disrespect to the brethren, in the four that follow defiance of authority, while the last two show complete contempt for God. And it should also be noted that, just as the first two degrees in the ascending scale of humility must be attained before entering the community so the last downward steps in pride, which are their counterpart, cannot be taken whilst in it. That the first two degrees must be previously passed, the language of the Rule makes clear. For it says that 'The third degree is that anyone for love of God should submit with entire obedience to his superior.
 

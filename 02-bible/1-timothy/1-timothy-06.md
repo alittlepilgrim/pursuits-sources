@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Timothy, Chapter 6
 ---
@@ -123,3 +123,7 @@ o. (6:19) ([[matthew-06|Mt 6]]:20].
 p. (6:20) [2 Tm 1:14] / [4:7].
 
 q. (6:21) [1:6]; [2 Tm 2:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

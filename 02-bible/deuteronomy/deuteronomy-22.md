@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 22
 ---
@@ -115,3 +115,7 @@ i. (22:22) [Dt 5:18]; ([[exodus-20|Ex 20]]:14]; [Lv 20:10]; [[ezekiel-16|Ez 16]]
 j. (22:26) [Dt 19:4] – [6].
 
 k. (22:28] – [29) [Dt 22:19]; ([[exodus-22|Ex 22]]:16] – [17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

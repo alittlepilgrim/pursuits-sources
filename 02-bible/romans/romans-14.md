@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 14
 ---
@@ -121,3 +121,7 @@ q. (14:19) [12:18] / [15:2].
 r. (14:20] – [21) ([[1-corinthians-08|1 Cor 8]]:11] – [13]; [10:28] – [29]; [Ti 1:15].
 
 s. (14:23) [Ti 1:15]; [Jas 4:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

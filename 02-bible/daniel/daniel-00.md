@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/daniel/0
 aliases:
   - daniel-00
   - Daniel, the Book of Daniel
-  - Daniel, The Book of Daniel
 tags:
   - bible/book
   - bible/daniel
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, the Book of Daniel
 ---
@@ -54,3 +53,7 @@ These three sections constitute the divisions of the Book of Daniel:
 - [[daniel-12|Daniel, Chapter 12]]
 - [[daniel-13|Daniel, Chapter 13]]
 - [[daniel-14|Daniel, Chapter 14]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

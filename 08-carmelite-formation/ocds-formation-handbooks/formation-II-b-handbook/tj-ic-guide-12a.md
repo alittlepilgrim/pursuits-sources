@@ -47,7 +47,7 @@ After the personal sharing, and as time allows, the formator guides a discussion
 
 # Bibliography
 
-St. Teresa of Avila, *[[tj-ic-book-0.1-contents|The Interior Castle Study Edition, ICS Publications, 2010 or second edition, 2020 (page numbers differ)]]*.
+St. Teresa of Avila, *[[tj-the-interior-castle-ccel|The Interior Castle Study Edition, ICS Publications, 2010 or second edition, 2020 (page numbers differ)]]*.
 
 Ahlgren, Gillian T.W., _Entering Teresa of Avila’s Interior Castle. A Reader’s Companion_, Paulist Press, 2005.
 

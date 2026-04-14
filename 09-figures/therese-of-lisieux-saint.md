@@ -24,7 +24,7 @@ publish: false
 
 ## Works
 
-- [[00-story-of-a-soul|tcj-story-of-a-soul]]
+- tcj-story-of-a-soul
 - [Saint Thèrése of the Child Jesus and the Holy Face](therese-of-lisieux-saint.md)
 - [counsels-and-souvenirs](tcj-counsels-and-souvenirs.md)
 - [novissima-verba](tcj-novissima-verba.md)

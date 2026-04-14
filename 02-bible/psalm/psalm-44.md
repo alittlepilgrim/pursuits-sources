@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 44
 ---
@@ -187,3 +187,7 @@ n. (44:24) ([[psalm-10|Ps 10]]:1]; [74:1]; [77:8]; [79:5]; [83:2].
 o. (44:25) ([[psalm-10|Ps 10]]:11]; [89:47]; [Jb 13:24].
 
 p. (44:26) [Ps 119:25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

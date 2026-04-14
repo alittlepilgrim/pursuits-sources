@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 18
 bible_book: genesis
@@ -132,3 +132,7 @@ i. (18:32) [Jer 5:1]; [[ezekiel-22|Ez 22]]:30..
 ## Navigation
 
 [[genesis-07|[← Previous Note]]] · [[genesis-09|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

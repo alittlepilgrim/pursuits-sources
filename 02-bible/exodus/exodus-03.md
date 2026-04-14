@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 3
 ---
@@ -101,3 +101,7 @@ e. (3:15) [Ps 135:13].
 f. (3:18) ([[exodus-05|Ex 5]]:3].
 
 g. (3:21] – [22) ([[exodus-11|Ex 11]]:2] – [3]; [12:35] – [36].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

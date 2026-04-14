@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 55
 ---
@@ -139,3 +139,7 @@ a. (55:1) [Jn 4:10] – [15]; [6:35]; [7:37] – [39]; [Rv 21:6]; [22:17].
 b. (55:3) [2 Sm 7:12] – [16].
 
 c. (55:5) ([[acts-of-the-apostles-13|Acts 13]]:34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

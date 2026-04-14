@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 27
 url: https://bible.usccb.org/bible/exodus/27
 aliases:
-  - 20250731-085959
   - exodus-27
   - Exodus, Chapter 27
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 27
 ---
@@ -80,3 +79,7 @@ a. (27:1] – [8) [Ex 38:1] – [7].
 b. (27:9] – [19) [Ex 38:9] – [20].
 
 c. (27:20] – [21) [Lv 24:1] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,14 +3,12 @@ type: glossary
 title: Glossary - Divine Intimacy Meditations
 aliases:
   - 03-glossary-divine-intimacy
-  - 20250725-153348
   - Glossary from Divine Intimacy Meditations
 tags:
   - divine-intimacy
-  - term
-  - type/term
+  - type/glossary
 created: 2025-07-21
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Untitled
 ---

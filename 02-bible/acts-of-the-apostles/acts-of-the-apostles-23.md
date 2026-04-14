@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 23
 ---
@@ -123,3 +123,7 @@ f. \[[23:11]\] [19:21].
 g. \[[23:27]\] [21:30] – [34]; [22:27].
 
 h. \[[23:29]\] [18:14] – [15]; [25:18] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

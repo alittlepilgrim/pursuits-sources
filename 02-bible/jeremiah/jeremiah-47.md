@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 47
 ---
@@ -95,3 +95,7 @@ b. (47:4) [Jer 25:22]; [Ez 25:16] – [17]; [Am 1:8]; [9:7].
 c. (47:5) [Am 1:7].
 
 d. (47:7) [Zep 2:5] – [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

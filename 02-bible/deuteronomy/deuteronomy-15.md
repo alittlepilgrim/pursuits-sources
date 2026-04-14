@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 15
 ---
@@ -105,3 +105,7 @@ m. (15:19) ([[exodus-13|Ex 13]]:2], [11] – [16]; [22:29] – [30]; [34:19] –
 n. (15:20) [Dt 12:6] – [7], [17] – [18]; [14:23].
 
 o. (15:21] – [23) [Dt 12:15] – [16], [22] – [24]; [17:1]; [Lv 22:17] – [25]; [Mal 1:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

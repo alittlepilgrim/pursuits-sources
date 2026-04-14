@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/isaiah/0
 aliases:
   - isaiah-00
   - Isaiah, the Book of Isaiah
-  - Isaiah, The Book of Isaiah
 tags:
   - bible/book
   - bible/isaiah
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, the Book of Isaiah
 ---
@@ -123,3 +122,7 @@ The principal divisions of the Book of Isaiah are the following:
 - [[isaiah-64|Isaiah, Chapter 64]]
 - [[isaiah-65|Isaiah, Chapter 65]]
 - [[isaiah-66|Isaiah, Chapter 66]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

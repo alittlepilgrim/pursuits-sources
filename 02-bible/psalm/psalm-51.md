@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 51
 ---
@@ -141,3 +141,7 @@ h. (51:16) [Ps 30:10].
 i. (51:18) [Ps 40:7]; [50:8]; [Am 5:21] – [22]; [Hos 6:6]; [Is 1:11] – [15]; [Heb 10:5] – [7].
 
 j. (51:20) [Jer 31:4]; [Ez 36:33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

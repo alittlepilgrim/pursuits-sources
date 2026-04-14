@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 3
 ---
@@ -113,3 +113,7 @@ m. \[[3:16]\] [[2-kings-24|2 Kgs 24]]:6, [17]; [2 Chr 36:8], [10].
 n. \[[3:17], [19]\] ([[ezra-02|Ezr 2]]:2]; [3:2], [8]; [5:2]; [Sir 49:11]; [Hg 1:1], [12], [14]; ([[matthew-01|Mt 1]]:12] – [13]; ([[luke-03| [[luke-03|Lk 3]]:]]:27].
 
 o. \[[3:22]\] [Neh 3:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - term/fervor
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -21,6 +21,6 @@ publish: true
 
 - Makes spiritual exercises Sensible, easy and pleasant: [[153-aridity#Meditation 1|153,1]].
 
-## Divine Intimacy Meditations
+### Source
 
 - [[153-aridity|153. Aridity]]

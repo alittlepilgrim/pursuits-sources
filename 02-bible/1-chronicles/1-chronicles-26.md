@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 26
 ---
@@ -115,3 +115,7 @@ i. \[[26:29]\] [[1-chronicles-23|1 Chr 23]]:4.
 j. \[[26:30]\] [1 Chr 27:17]; [[nehemiah-11|Neh 11]]:15 – [16].
 
 k. \[[26:31]\] [[1-chronicles-23|1 Chr 23]]:19; [29:27]; [Jos 13:25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 16
 ---
@@ -83,3 +83,7 @@ b. (16:6) [1 Mc 5:40] – [43].
 c. (16:10) [[1-maccabees-10|1 Mc 10]]:84.
 
 d. (16:23) [1 Mc 9:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

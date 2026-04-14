@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 55
 ---
@@ -183,3 +183,7 @@ j. (55:23) [Ps 37:5]; [Prv 3:5]; [16:3]; [1 Pt 5:7].
 k. (55:24) ([[psalm-28|Ps 28]]:1]; [30:4]; [40:3]; [88:5]; [143:7]; [Prv 1:12]; [Jon 2:7].
 
 l. (55:24) ([[psalm-25|Ps 25]]:2]; [56:4]; [130:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 27
 ---
@@ -63,3 +63,7 @@ d. (27:7) [1 Sm 29:3].
 e. (27:8) [1 Sm 15:3], [7]; [Jos 13:2] – [3].
 
 f. (27:10) [1 Sm 30:14], [29]; [1 Chr 2:9], [25], [42].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

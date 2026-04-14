@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 105
 ---
@@ -275,3 +275,7 @@ v. (105:41) [Ps 78:15] – [16]; ([[exodus-17|Ex 17]]:1] – [7]; [Nm 20:11].
 w. (105:44) [Dt 4:37] – [40].
 
 x. (105:45) [Dt 6:20] – [25]; [7:8] – [11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

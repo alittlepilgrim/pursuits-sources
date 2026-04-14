@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Galatians, Chapter 3
 ---
@@ -177,3 +177,7 @@ z. (3:27) [Rom 6:3]; [13:14]; [Eph 4:24].
 a. (3:28) [Rom 10:12]; [1 Cor 12:13]; [Col 3:11].
 
 b. (3:29) [3:7], [14], [16], [18]; ([[romans-04|Rom 4]]:16] – [17]; [9:7] / [4:1], [7]; ([[romans-04|Rom 4]]:13] – [14]; [8:17]; [Heb 6:12]; [Jas 2:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

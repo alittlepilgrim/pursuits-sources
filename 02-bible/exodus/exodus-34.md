@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 34
 url: https://bible.usccb.org/bible/exodus/34
 aliases:
-  - 20250731-090034
   - exodus-34
   - Exodus, Chapter 34
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 34
 ---
@@ -142,3 +141,7 @@ k. (34:25] – [26) ([[exodus-23|Ex 23]]:18] – [19].
 l. (34:28) ([[exodus-24|Ex 24]]:18]; [Dt 9:9], [18]; [10:2], [4].
 
 m. (34:33] – [34) ([[2-corinthians-03|2 Cor 3]]:13], [16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -7,7 +7,7 @@ tags:
   - author/garrigou-lagrange
   - type/book
 created: 2026-03-24
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 
@@ -732,6 +732,7 @@ See Tepidity
 ## Man
 
 Resemblance to Angel, [[tta012|49]]f.'
+
 St. Paul on Ihe Inward, [[tta006|44]]
 
 ## Martyrdom, Sign of Charity, [[tta018|146]]
@@ -759,6 +760,7 @@ queen of martyrs, [[tta016|123]] f.
 ## Mass
 
 Assistance At, Source of Sanctification, [[tta043|406]]-[[tta043|413]]
+
 Different Ways of Assisting At, [[tta043|411]] Ff
 
 effects of: relating to God, [[tta043|409]];
@@ -958,9 +960,13 @@ qualities of fruitful, [[tta017|139]]
 ## Prayer, Liturgical
 
 Contemplative Chant, [[tta046|v1.p439]]-[[tta046|v1.p443]]
+
 Deformed Psalmody, [[tta046|437]] Ff.
+
 Distractions In, [[tta046|438]] F
+
 means of union with God, [[tta046|437]]
+
 mutual relations of mental prayer and, [[tta046|442]] f.
 
 ## Prayer, Mental
@@ -972,19 +978,25 @@ Attitude toward methods, [[tta047|445]] f
 culminating point of, [[tta047|450]]
 
 definition according to St. Teresa, [[tta047|444]],
+
 dependence on grace of God, [[tta048|454]]
 
 essential acts of: charity, [[tta047|449]] ff.; faith, [[tta047|448]]; hope, [[tta047|449]]; humility, [[tta047|448]]
 
 how to persevere in, [[tta048|456]]-[[tta048|460]]
+
 mortification necessary for, [[tta048|454]] f.
+
 movements of contemplation: circular, [[tta048|460]]; spiral, [[tta048|460]]; straight, [[tta048|460]]
 
 nature of, [[tta048|445]]
+
 absolutely necessary for some, [[tta048|457]] f.
 
 preparation (immediate), [[tta048|456]]; preparation (remote): frequent prayer during day, [[tta048|455]] f.; grace, [[tta048|454]]; humility, [[tta048|454]]; mortification, [[tta048|454]] f.; silence in soul, [[tta048|455]]
+
 purity of intention necessary for, [[tta048|454]]
+
 of simplicity according to Bossuet, [[tta047|451]] ff.
 
 ## Precept, First

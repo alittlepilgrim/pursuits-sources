@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 11
 url: https://bible.usccb.org/bible/exodus/11
 aliases:
-  - 20250729-215014
   - exodus-11
   - Exodus, Chapter 11
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 11
 ---
@@ -52,3 +51,7 @@ b. (11:4) ([[exodus-12|Ex 12]]:12].
 c. (11:5] – [6) ([[exodus-12|Ex 12]]:29] – [30].
 
 d. (11:8) ([[exodus-12|Ex 12]]:31] – [33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 18
 ---
@@ -117,3 +117,7 @@ i. (18:19) [1 Sm 21:8]; [24:16].
 j. (18:20) [1 Sm 14:49]; [25:44]; [26:23]; [2 Sm 3:13].
 
 k. (18:25) [1 Sm 17:26]; [Gn 34:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/job/0
 aliases:
   - job-00
   - Job, the Book of Job
-  - Job, The Book of Job
 tags:
   - bible/book
   - bible/job
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: job-the book of job
 ---
@@ -83,3 +82,7 @@ The Book of Job can be divided as follows:
 - [[job-40|Job, Chapter 40]]
 - [[job-41|Job, Chapter 41]]
 - [[job-42|Job, Chapter 42]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

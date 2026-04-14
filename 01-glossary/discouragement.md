@@ -4,7 +4,6 @@ title: Discouragement
 author:
 source: Divine Intimacy Meditations
 aliases:
-  - 20250510-235944
   - discouragement
   - Discouragement
 tags:
@@ -12,7 +11,7 @@ tags:
   - term/discouragement
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -26,9 +25,7 @@ publish: true
 - not to be discouraged by one’s misery and impotence: [[247-the-motive-for-hope#Meditation 2|247,2]]; [[252-correspondence-with-grace#Meditation 1|252,1]];
 - in temptations to — to react with an act of confidence in God: [[248-the-test-of-hope#Meditation 2|248,2]].
 
----
-
-See also:
+### Sources
 
 - [[109-humility-in-our-falls|109. Humility in Our Falls]]
 - [[193-conformity-with-christ|193. Conformity with Christ through the Action of the Holy Spirit]]

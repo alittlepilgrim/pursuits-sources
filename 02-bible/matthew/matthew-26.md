@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 26
 ---
@@ -214,7 +214,7 @@ and ‘coming on the clouds of heaven.’”
 
 \* (26:12) To prepare me for burial: cf. ([[mark-14|Mk 14]]:8]. In accordance with the interpretation of this act as Jesus’ burial anointing, Matthew, more consistent than Mark, changes the purpose of the visit of the women to Jesus’ tomb; they do not go to anoint him (([[mark-16|Mk 16]]:1]) but “to see the tomb” (([[matthew-28|Mt 28]]:1]).
 
-\* (26:14) Iscariot: see note on ([[luke-06| [[luke-06|Lk 6]]:]]:16].
+\* (26:14) Iscariot: see note on ([[luke-06||Lk 6]]:16].
 
 \* (26:15) The motive of avarice is introduced by Judas’s question about the price for betrayal, which is absent in the Marcan source (([[mark-14|Mk 14]]:10] – [11]). Hand him over: the same Greek verb is used to express the saving purpose of God by which Jesus is handed over to death (cf. ([[matthew-17|Mt 17]]:22]; [20:18]; [26:2]) and the human malice that hands him over. Thirty pieces of silver: the price of the betrayal is found only in Matthew. It is derived from [Zec 11:12] where it is the wages paid to the rejected shepherd, a cheap price ([Zec 11:13]). That amount is also the compensation paid to one whose slave has been gored by an ox (([[exodus-21|Ex 21]]:32]).
 
@@ -343,3 +343,7 @@ d. (26:67) ([[wisdom-02|Wis 2]]:19]; [Is 50:6].
 e. (26:69] – [75) ([[mark-14|Mk 14]]:66] – [72]; ([[luke-22|Lk 22]]:56] – [62]; [Jn 18:17] – [18], [25] – [27].
 
 f. (26:75) [26:34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

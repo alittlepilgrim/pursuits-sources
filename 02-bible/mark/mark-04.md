@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 4
 ---
@@ -154,7 +154,7 @@ f. (4:21) ([[matthew-05|Mt 5]]:15]; ([[luke-11|Lk 11]]:33].
 
 g. (4:22) [[matthew-10|Mt 10]]:26]; ([[luke-12|Lk 12]]:2].
 
-h. (4:24) ([[matthew-07|Mt 7]]:2]; ([[luke-06| [[luke-06|Lk 6]]:]]:38].
+h. (4:24) ([[matthew-07|Mt 7]]:2]; ([[luke-06||Lk 6]]:38].
 
 i. (4:25) ([[matthew-13|Mt 13]]:12]; ([[luke-19|Lk 19]:26].
 
@@ -167,3 +167,7 @@ l. (4:33] – [34) ([[matthew-13|Mt 13]]:34].
 m. (4:35] – [40) ([[matthew-08|Mt 8]]:18], [23] – [37]; ([[luke-08|Lk 8]]:22] – [25].
 
 n. (4:41) [1:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

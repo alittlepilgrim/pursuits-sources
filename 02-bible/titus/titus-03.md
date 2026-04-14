@@ -11,7 +11,7 @@ tags:
   - bible/titus
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Titus, Chapter 3
 ---
@@ -103,3 +103,7 @@ k. (3:13) ([[acts-of-the-apostles-18|Acts 18]]:24] – [26]; ([[1-corinthians-01
 l. (3:14) [2:14]; [3:8]; [Heb 10:24]; [1 Pt 3:13].
 
 m. (3:15) [Heb 13:25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

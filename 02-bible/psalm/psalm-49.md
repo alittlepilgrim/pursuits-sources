@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 49
 ---
@@ -147,3 +147,7 @@ g. (49:16) ([[psalm-16|Ps 16]]:10]; [86:13]; [103:4]; [116:8].
 h. (49:18) [[sirach-11|Sir 11]]:18 – [19]; [Eccl 5:15]; [1 Tm 6:7].
 
 i. (49:20) [Jb 10:21] – [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

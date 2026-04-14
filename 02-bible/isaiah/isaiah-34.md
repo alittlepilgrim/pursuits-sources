@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 34
 ---
@@ -187,3 +187,7 @@ j. (34:12) [Ob 18].
 k. (34:13) [[isaiah-13|Is 13]]:21; [Hos 9:6].
 
 l. (34:17) [Jos 18:10]; [Ps 78:55].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

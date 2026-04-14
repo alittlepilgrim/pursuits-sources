@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 9
 ---
@@ -111,3 +111,7 @@ g. (9:15) ([[acts-of-the-apostles-13|Acts 13]]:21].
 h. (9:16) [1 Sm 10:1]; [Jgs 6:14].
 
 i. (9:21) [1 Sm 15:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

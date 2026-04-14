@@ -6,9 +6,9 @@ aliases:
   - "Theresian Anniversaires 2025 - Text 1: Act of Oblation to Merciful Love (Prayer 6)"
   - theresian-anniversaries-2025-text-01
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

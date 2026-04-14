@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 40
 url: https://bible.usccb.org/bible/exodus/40
 aliases:
-  - 20250731-085735
   - exodus-40
   - Exodus, Chapter 40
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 40
 ---
@@ -122,3 +121,7 @@ g. (40:23) ([[exodus-25|Ex 25]]:30].
 h. (40:30] – [32) [Ex 30:18] – [21].
 
 i. (40:34] – [38) [Nm 9:15] – [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

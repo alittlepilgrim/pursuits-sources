@@ -10,7 +10,7 @@ aliases:
 tags:
   - type/book
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 permalink: /bn-the-holy-rule-of-st-benedict
 description: "Foundational guide for Western monastic life: practical directives on prayer, work, obedience, humility, and governance; English translation of the 1949 edition."

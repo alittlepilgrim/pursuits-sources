@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 7
 ---
@@ -223,3 +223,7 @@ z. (7:48) [12:42].
 a. (7:50) [3:1]; [19:39].
 
 b. (7:51) [Dt 1:16] – [17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

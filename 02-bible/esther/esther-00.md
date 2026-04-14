@@ -3,17 +3,15 @@ type: bible
 title: Esther, The Book of Esther
 url: https://bible.usccb.org/bible/esther/0
 aliases:
-  - 20250730-211217
   - esther-00
   - Esther, the Book of Esther
-  - Esther, The Book of Esther
 tags:
   - bible/book
   - bible/esther
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Esther, the Book of Esther
 ---
@@ -72,3 +70,7 @@ The order of the Vulgate text in relation to the order of the Greek text is as f
 - [[esther-08|Esther, Chapter 8]]
 - [[esther-09|Esther, Chapter 9]]
 - [[esther-10|Esther, Chapter 10]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

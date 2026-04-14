@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 75
 ---
@@ -101,3 +101,7 @@ e. (75:8) [Jb 5:11]; [1 Sm 2:7].
 f. (75:9) [Ps 60:5]; [Jb 21:20]; [Is 51:17], [21] – [22]; [Jer 25:15ff]; [Hb 2:16].
 
 g. (75:11) [Ps 92:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

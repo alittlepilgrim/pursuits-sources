@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/revelation/0
 aliases:
   - revelation-00
   - Revelation, the Book of Revelation
-  - Revelation, The Book of Revelation
 tags:
   - bible/book
   - bible/new-testament
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, the Book of Revelation
 ---
@@ -48,3 +47,7 @@ The principal divisions of the Book of Revelation are the following:
 5. The Punishment of Babylon and the Destruction of Pagan Nations ([17:1] – [20:15])
 6. The New Creation ([21:1] – [22:5])
 7. Epilogue ([22:6] – [21])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

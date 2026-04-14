@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ecclesiastes, Chapter 1
 ---
@@ -129,3 +129,7 @@ i. (14]\] [Eccl 2:11], [17].
 j. (16]\] [Eccl 2:9].
 
 k. (17]\] [Eccl 1:3]; [8:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

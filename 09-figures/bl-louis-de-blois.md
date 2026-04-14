@@ -1,13 +1,14 @@
 ---
 type: figure
-title: Bl-louis-de-blois
+title: Blessed Louis de Blois
 aliases:
   - Bl-louis-de-blois
+  - Blessed Louis de Blois
 tags:
   - type/figure
 created: 2025-10-25
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 
-# Bl-louis-de-blois
+# Blessed Louis de Blois

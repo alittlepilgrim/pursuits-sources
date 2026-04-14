@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 2
 ---
@@ -81,3 +81,7 @@ h. (2:11) ([[matthew-16|Mt 16]]:12]; ([[mark-08|Mk 8]]:15]; ([[luke-12|Lk 12]]:1
 i. (2:12) [Nm 18:12] – [13], [27]; [15:20] – [21].
 
 j. (2:13) [Nm 18:19]; ([[ezra-06|Ezr 6]]:9]; [7:22]; [Ez 43:24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

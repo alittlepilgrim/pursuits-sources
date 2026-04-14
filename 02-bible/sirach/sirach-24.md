@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 24
 ---
@@ -207,3 +207,7 @@ c. (24:21) [Is 55:1]; ([[john-04|Jn 4]]:n-04|Jn 4]]:10] – [14]; [6:35].
 d. (24:23) ([[exodus-24|Ex 24]]:7].
 
 e. (24:23] – [27) [Gn 2:11] – [14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

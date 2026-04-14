@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 30
 ---
@@ -97,3 +97,7 @@ l. (30:17] – [18) [Dt 5:7]; [6:4]; [8:19] – [20].
 m. (30:19) [Dt 4:26]; [11:26] – [28]; [28:2], [15]; [31:28].
 
 n. (30:20) [Dt 1:8]; [4:1], [40].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 19
 ---
@@ -127,3 +127,7 @@ d. \[[19:21]\] [23:11]; ([[romans-01|Rom 1]]:13]; [15:22] – [32].
 e. \[[19:26]\] [17:29].
 
 f. \[[19:29]\] [Col 4:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

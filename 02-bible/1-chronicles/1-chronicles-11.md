@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 11
 ---
@@ -79,3 +79,7 @@ o. \[[11:29]\] [1 Chr 27:11].
 p. \[[11:30]\] [1 Chr 27:13].
 
 q. \[[11:31]\] [1 Chr 27:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

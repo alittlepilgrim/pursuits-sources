@@ -10,7 +10,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Encyclical Letter Fides et Ratio (14 September 1998)
 abbreviation: jpii-fer
@@ -18,7 +18,7 @@ abbreviation: jpii-fer
 
 # Fides Et Ratio
 
-## Encyclical Letter Of The Supreme Pontiff John Paul Ii, to The Bishops Of The Catholic Church On The Relationship Between Faith and Reason
+## Encyclical Letter of the Supreme Pontiff John Paul Ii, to the Bishops of the Catholic Church on the Relationship Between Faith and Reason
 
 *Blessing*
 
@@ -58,7 +58,7 @@ I feel impelled to undertake this task above all because of the Second Vatican C
 
 There is a further reason why I write these reflections. In my Encyclical Letter *Veritatis Splendor*, I drew attention to “certain fundamental truths of Catholic doctrine which, in the present circumstances, risk being distorted or denied”.4 In the present Letter, I wish to pursue that reflection by concentrating on the theme of *truth* itself and on its *foundation* in relation to *faith*. For it is undeniable that this time of rapid and complex change can leave especially the younger generation, to whom the future belongs and on whom it depends, with a sense that they have no valid points of reference. The need for a foundation for personal and communal life becomes all the more pressing at a time when we are faced with the patent inadequacy of perspectives in which the ephemeral is affirmed as a value and the possibility of discovering the real meaning of life is cast into doubt. This is why many people stumble through life to the very edge of the abyss without knowing where they are going. At times, this happens because those whose vocation it is to give cultural expression to their thinking no longer look to truth, preferring quick success to the toil of patient enquiry into what makes life worth living. With its enduring appeal to the search for truth, philosophy has the great responsibility of forming thought and culture; and now it must strive resolutely to recover its original vocation. This is why I have felt both the need and the duty to address this theme so that, on the threshold of the third millennium of the Christian era, humanity may come to a clearer sense of the great resources with which it has been endowed and may commit itself with renewed courage to implement the plan of salvation of which its history is part.
 
-## Chapter I. The Revelation Of God S Wisdom
+## Chapter I. The Revelation of God's Wisdom
 
 ***Jesus, revealer of the Father***
 
@@ -258,7 +258,7 @@ In the wake of these cultural shifts, some philosophers have abandoned the searc
 
 This is why I make this strong and insistent appeal—not, I trust, untimely—that faith and philosophy recover the profound unity which allows them to stand in harmony with their nature without compromising their mutual autonomy. The *parrhesia* of faith must be matched by the boldness of reason.
 
-## Chapter V. The Magisterium S Interventions In Philosophical Matters
+## Chapter V. The Magisterium's Interventions in Philosophical Matters
 
 ***The Magisterium's discernment as diakonia of the truth***
 

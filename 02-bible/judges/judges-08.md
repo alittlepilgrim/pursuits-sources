@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 8
 ---
@@ -119,3 +119,7 @@ h. (8:28) [Jgs 3:11], [30]; [5:31].
 i. (8:30) [Jgs 9:2], [5]; [10:4]; [12:9], [14].
 
 j. (8:33] – [34) [Jgs 2:19]; [3:12]; [4:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

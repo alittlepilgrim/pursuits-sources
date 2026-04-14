@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 5
 ---
@@ -145,3 +145,7 @@ d. (5:22] – [43) ([[matthew-09|Mt 9]]:18] – [26]; ([[luke-08|Lk 8]]:41] – 
 e. (5:34) ([[luke-07|Lk 7]]:50].
 
 f. (5:39] – [40) ([[acts-of-the-apostles-09|Acts 9]]:40].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

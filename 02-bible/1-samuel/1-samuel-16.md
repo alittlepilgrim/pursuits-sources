@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 16
 ---
@@ -101,3 +101,7 @@ j. (16:18) [1 Sm 18:12], [14], [28]; [2 Sm 5:10]; [17:8]; [Jn 3:2].
 k. (16:20) [1 Sm 9:7] – [8]; [10:3] – [4]; [16:1]; [17:17] – [19].
 
 l. (16:21) [1 Sm 18:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 135
 ---
@@ -151,3 +151,7 @@ j. (135:14) [Dt 32:36].
 k. (135:15] – [18) [Ps 115:4] – [6], [8].
 
 l. (135:19] – [20) [Ps 118:2] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

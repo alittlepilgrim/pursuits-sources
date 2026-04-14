@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ephesians, Chapter 5
 ---
@@ -161,3 +161,7 @@ w. (5:30) [Rom 12:5]; ([[1-corinthians-06|1 Cor 6]]:15].
 x. (5:31) [Gn 2:24]; ([[matthew-19|Mt 19]]:5]; ([[mark-10|Mk 10]]:7] – [8].
 
 y. (5:32) [Rv 19:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

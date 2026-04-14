@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jonah, Chapter 3
 ---
@@ -51,3 +51,7 @@ description: Jonah, Chapter 3
 a. (3:5) ([[matthew-12|Mt 12]]:41]; ([[luke-11|Lk 11]]:32].
 
 b. (3:9) [Jl 2:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

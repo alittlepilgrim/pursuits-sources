@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 24
 ---
@@ -229,3 +229,7 @@ q. (24:22) [2 Pt 2:4]; [Jude 6].
 r. (24:23) [[isaiah-13|Is 13]]:10; [Jl 3:3] – [4]; [4:15].
 
 s. (24:23) [Is 4:5]; [60:1] – [3]; ([[exodus-24|Ex 24]]:9] – [11]; [Mi 4:7]; [Rv 19:4] – [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: James, Chapter 4
 ---
@@ -99,3 +99,7 @@ g. \[[4:12) ([[matthew-07|Mt 7]]:1]; ([[romans-02|Rom 2]]:1]; [14:4].
 h. \[[4:14) [Prv 27:1] / [Ps 39:6] – [7].
 
 i. \[[4:17) ([[luke-12|Lk 12]]:47].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

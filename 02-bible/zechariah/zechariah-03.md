@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 3
 ---
@@ -71,3 +71,7 @@ g. (3:9) [Zec 4:7], [10]; [Is 28:16].
 h. (3:9) ([[revelation-05|Rv 5]]:6].
 
 i. (3:10) [1 Kgs 5:5]; [Mi 4:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

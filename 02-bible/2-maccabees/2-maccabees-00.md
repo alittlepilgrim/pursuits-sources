@@ -4,7 +4,6 @@ title: 2 Maccabees – Chapter Index
 aliases:
   - 2 Maccabees – Chapter Index
   - 2-maccabees-00
-  - 20250730-201218
 tags:
   - bible
   - bible/2-maccabees
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 ---
 
@@ -33,3 +32,7 @@ publish: true
 - [[2-maccabees-13|2 Maccabees, Chapter]]
 - [[2-maccabees-14|2 Maccabees, Chapter]]
 - [[2-maccabees-15|2 Maccabees, Chapter]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 24
 ---
@@ -103,3 +103,7 @@ f. (24:17]\] [Rom 15:25] – [26]; [Gal 2:10].
 g. (24:18] – [19]\] [21:26] – [30].
 
 h. (24:21]\] [23:6]; [24:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

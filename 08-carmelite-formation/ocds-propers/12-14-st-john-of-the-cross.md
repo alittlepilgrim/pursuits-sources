@@ -3,9 +3,9 @@ type: ocds-proper
 title: December 14, Our Holy Father Saint John of the Cross
 author: OCD General Curia
 aliases:
-  - 12-14-st-john-of-the-cross
   - 20251214-000001
   - December 14, Our Holy Father Saint John of the Cross
+  - st-john-of-the-cross
 tags:
   - carmel/propers
   - carmel/saints
@@ -13,7 +13,7 @@ tags:
   - type/ocd-proper
 celebration_day: 12-14
 created: 2025-07-31
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: OCDS Propers undefined
 ---

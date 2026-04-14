@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 13
 url: https://bible.usccb.org/bible/exodus/13
 aliases:
-  - 20250731-085907
   - exodus-13
   - Exodus, Chapter 13
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 13
 ---
@@ -96,3 +95,7 @@ f. (13:19) [Gn 50:25]; [Jos 24:32].
 g. (13:20) [Nm 33:6].
 
 h. (13:21] – [22) [Ex 40:38]; [Nm 9:15] – [22]; [Dt 1:33]; [Neh 9:19]; [Ps 78:14]; [105:39]; [Wis 10:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

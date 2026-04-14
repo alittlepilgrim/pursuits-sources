@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 4
 ---
@@ -81,3 +81,7 @@ c. (4:6) ([[exodus-24|Ex 24]]:10].
 d. (4:8) [Is 6:2] – [3] / ([[revelation-01|Rv 1]]:4], [8]; [11:17]; [16:5].
 
 e. (4:11) ([[romans-04|Rom 4]]:17]; [16:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

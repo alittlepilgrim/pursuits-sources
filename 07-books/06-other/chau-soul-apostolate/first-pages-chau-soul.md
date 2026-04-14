@@ -8,7 +8,7 @@ tags:
   - author/chautard-dom
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: false
 ---
 
@@ -21,6 +21,7 @@ M. ALBERIC WULF, O. C. S. O.
 IMPRIMI POTEST M. FREDERICUS DUNNE, O. C. S. O. _Abbas B. M. de Gethsemani_ IMPRIMATUR JOANNES A. FLOERSH, D. D. _Archiepiscopus Ludovicopolitanus_ _Die 16a Septembris, 1946_
 
 \-1
+
 DOM CHAUTARD
 
 ## A Biographical Note

@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 15
 ---
@@ -207,3 +207,7 @@ j. (15:26) [Prv 6:18].
 k. (15:31) [Prv 25:12].
 
 l. (15:33) [Prv 1:7]; [19:12]; [Sir 1:24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

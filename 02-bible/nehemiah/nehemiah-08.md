@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 8
 ---
@@ -77,3 +77,7 @@ f. (8:14) ([[exodus-23|Ex 23]]:14] – [16]; [Lv 23:33] – [36]; [Nm 29:1] – 
 g. (8:15) [Ps 118:27].
 
 h. (8:17) [2 Chr 30:26]; [35:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 6
 ---
@@ -153,3 +153,7 @@ or cannot my taste discern falsehood?
 a. (6:4) [Ps 88:17].
 
 b. (6:13) [Jb 19:14] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

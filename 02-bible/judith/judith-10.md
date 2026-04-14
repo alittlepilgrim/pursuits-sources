@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 10
 ---
@@ -95,3 +95,7 @@ e. (10:12) [[genesis-16|Gen 16]]:8.
 f. (10:13) [[judith-11|Jdt 11]]:5 – [6].
 
 g. (10:23) [Ru 2:10]; [1 Sm 25:41]; [2 Sm 14:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

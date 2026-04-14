@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: esther-chapter 4
 ---
@@ -185,3 +185,7 @@ CHAPTER D
 \* (D:9) Brother: along with “sister,” a common term of affection between lovers or husband and wife. See, e.g., [Sg 4:9] – [12]; [8:1]; [Tb 5:22]; [7:11].
 
 a. (D:12) [Est 4:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

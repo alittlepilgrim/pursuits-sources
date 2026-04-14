@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 5
 ---
@@ -107,3 +107,7 @@ l. (5:19) [Is 53:11]; [Phil 2:8] – [9].
 m. (5:20) [4:15]; [7:7] – [8]; [Gal 3:19].
 
 n. (5:21) [6:23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

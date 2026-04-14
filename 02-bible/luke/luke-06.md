@@ -3,7 +3,6 @@ type: bible
 title: Luke, Chapter 6
 url: https://bible.usccb.org/bible/luke/6
 aliases:
-  - 20250730-160806
   - luke-06
   - Luke, Chapter 6
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 6
 ---
@@ -179,7 +178,7 @@ for their ancestors treated the false prophets in this way.
 
 \* (6:17) The coastal region of Tyre and Sidon: not only Jews from Judea and Jerusalem, but even Gentiles from outside Palestine come to hear Jesus (see ([[luke-02|Lk 2]]:31] – [32]; [3:6]; [4:24] – [27]).
 
-\* (6:20] – [49) Luke’s “Sermon on the Plain” is the counterpart to Matthew’s “Sermon on the Mount” (([[matthew-05|Mt 5]]:1] – [7:27]). It is addressed to the disciples of Jesus, and, like the sermon in Matthew, it begins with beatitudes (([[luke-06| [[luke-06|Lk 6]]:]]:20] – [22]) and ends with the parable of the two houses (([[luke-06| [[luke-06|Lk 6]]:]]:46] – [49]). Almost all the words of Jesus reported by Luke are found in Matthew’s version, but because Matthew includes sayings that were related to specifically Jewish Christian problems (e.g., ([[matthew-05|Mt 5]]:17] – [20]; [6:1] – [8], [16] – [18]) that Luke did not find appropriate for his predominantly Gentile Christian audience, the “Sermon on the Mount” is considerably longer. Luke’s sermon may be outlined as follows: an introduction consisting of blessings and woes (([[luke-06| [[luke-06|Lk 6]]:]]:20] – [26]); the love of one’s enemies (([[luke-06| [[luke-06|Lk 6]]:]]:27] – [36]); the demands of loving one’s neighbor (([[luke-06| [[luke-06|Lk 6]]:]]:37] – [42]); good deeds as proof of one’s goodness (([[luke-06| [[luke-06|Lk 6]]:]]:43] – [45]); a parable illustrating the result of listening to and acting on the words of Jesus (([[luke-06| [[luke-06|Lk 6]]:]]:46] – [49]). At the core of the sermon is Jesus’ teaching on the love of one’s enemies (([[luke-06| [[luke-06|Lk 6]]:]]:27] – [36]) that has as its source of motivation God’s graciousness and compassion for all humanity (([[luke-06| [[luke-06|Lk 6]]:]]:35] – [36]) and Jesus’ teaching on the love of one’s neighbor (([[luke-06| [[luke-06|Lk 6]]:]]:37] – [42]) that is characterized by forgiveness and generosity.
+\* (6:20] – [49) Luke’s “Sermon on the Plain” is the counterpart to Matthew’s “Sermon on the Mount” (([[matthew-05|Mt 5]]:1] – [7:27]). It is addressed to the disciples of Jesus, and, like the sermon in Matthew, it begins with beatitudes (([[luke-06||Lk 6]]:20] – [22]) and ends with the parable of the two houses (([[luke-06||Lk 6]]:46] – [49]). Almost all the words of Jesus reported by Luke are found in Matthew’s version, but because Matthew includes sayings that were related to specifically Jewish Christian problems (e.g., ([[matthew-05|Mt 5]]:17] – [20]; [6:1] – [8], [16] – [18]) that Luke did not find appropriate for his predominantly Gentile Christian audience, the “Sermon on the Mount” is considerably longer. Luke’s sermon may be outlined as follows: an introduction consisting of blessings and woes (([[luke-06||Lk 6]]:20] – [26]); the love of one’s enemies (([[luke-06||Lk 6]]:27] – [36]); the demands of loving one’s neighbor (([[luke-06||Lk 6]]:37] – [42]); good deeds as proof of one’s goodness (([[luke-06||Lk 6]]:43] – [45]); a parable illustrating the result of listening to and acting on the words of Jesus (([[luke-06||Lk 6]]:46] – [49]). At the core of the sermon is Jesus’ teaching on the love of one’s enemies (([[luke-06||Lk 6]]:27] – [36]) that has as its source of motivation God’s graciousness and compassion for all humanity (([[luke-06||Lk 6]]:35] – [36]) and Jesus’ teaching on the love of one’s neighbor (([[luke-06||Lk 6]]:37] – [42]) that is characterized by forgiveness and generosity.
 
 \* (6:20] – [26) The introductory portion of the sermon consists of blessings and woes that address the real economic and social conditions of humanity (the poor—the rich; the hungry—the satisfied; those grieving—those laughing; the outcast—the socially acceptable). By contrast, Matthew emphasizes the religious and spiritual values of disciples in the kingdom inaugurated by Jesus (“poor in spirit,” ([[matthew-05|Mt 5]]:3]; “hunger and thirst for righteousness,” ([[matthew-05|Mt 5]]:6]). In the sermon, blessed extols the fortunate condition of persons who are favored with the blessings of God; the woes, addressed as they are to the disciples of Jesus, threaten God’s profound displeasure on those so blinded by their present fortunate situation that they do not recognize and appreciate the real values of God’s kingdom. In all the blessings and woes, the present condition of the persons addressed will be reversed in the future.
 
@@ -252,3 +251,7 @@ c. (6:43] – [45) ([[matthew-07|Mt 7]]:16] – [20]; [12:33], [35].
 d. (6:46) ([[matthew-07|Mt 7]]:21]; ([[romans-02|Rom 2]]:13]; [Jas 1:22].
 
 e. (6:47] – [49) ([[matthew-07|Mt 7]]:24] – [27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

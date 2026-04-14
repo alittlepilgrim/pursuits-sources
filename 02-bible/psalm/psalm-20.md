@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 20
 ---
@@ -83,3 +83,7 @@ b. (20:7) ([[psalm-18|Ps 18]]:51]; [144:10]; [1 Sm 2:10].
 c. (20:8) [Ps 147:10] – [11]; [2 Chr 14:10]; [Prv 21:31]; [1 Sm 17:45]; [Is 31:1]; [36:9].
 
 d. (20:9) [Is 40:30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: numbers-chapter 6
 ---
@@ -89,3 +89,7 @@ b. (6:5) [Jgs 13:5]; [16:17]; [1 Sm 1:11].
 c. (6:6) [Nm 19:11], [16]; [Lv 21:11].
 
 d. (6:13) ([[acts-of-the-apostles-21|Acts 21]]:24], [26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

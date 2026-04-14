@@ -11,7 +11,7 @@ tags:
   - bible/song-of-songs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Song of Songs, Chapter 3
 ---
@@ -127,3 +127,7 @@ b. (3:4) [Sg 8:2].
 c. (3:5) [Sg 2:7]; [8:4].
 
 d. (3:6) [Sg 6:10]; [8:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

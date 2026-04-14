@@ -8,7 +8,7 @@ tags:
   - term/soul
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-14
 publish: true
 description: soul. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -19,15 +19,29 @@ description: soul. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City 
 
 The spiritual principle of human beings. The soul is the subject of human consciousness and freedom; soul and body together form one unique human nature. Each human soul is individual and immortal, immediately created by God. The soul does not die with the body, from which it is separated by death, and with which it will be reunited in the final resurrection ([[1.2.1.1.6.p1b#^ccc-363|363]], [[1.2.1.1.6.p1b#^ccc-366|366]]; cf. [[3.1.1.1.p5g#^ccc-1703|1703]]).
 
+## Ignatius Catholic Study Bible
+
+**Soul**
+
+Sometimes soul refers to the deepest aspect of the human person: Mt 22:37; 26:38; Lk 1:46; Jn 12:27; Acts 4:32
+
+Sometimes the soul, as the principle of natural life, is distinguished from the spirit, which is open to the divine life of the Holy Spirit: Rom 8:16; 1 Thess 5:23; Heb 4:12
+
+Spiritual aspect of man, distinct from the body: Mt 10:28; Lk 12:20; Acts 2:27; Rev 6:9; 20:4
+
+Term can also be used for the whole person: Lk 12:19; Acts 2:41, 43; 7:14
+
+*See also* [[Body]]; [[Man]]; [[Spirit]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
+
 ## The Way of Perfection
 
-SOUL. The interior part of the human composite (body and soul). It is like a rich palace of gold and precious stones in which dwells a King gracious enough to become its Father ([[tj-wop-chapter-28#^wop-ch28-9|28.9]]). The palace can be made beautiful through the virtues: the greater the virtues, the more resplendent the jewels ([[tj-wop-chapter-28#^wop-ch28-9|28.9]]). The Lord can enlarge this palace ([[tj-wop-chapter-28#^wop-ch28-12|28.12]]). We should empty the soul so that he may store or remove things as with his own property ([[tj-wop-chapter-28#^wop-ch28-12|28.12]]). In recollection the soul receives a supply of provisions to strengthen it against the body ([[tj-wop-chapter-28#^wop-ch28-6|28.6]]). In the prayer of quiet, satisfaction is felt in the soul ([[tj-wop-chapter-31#^wop-ch31-3|31.3]]). The soul is subject to many difficulties resulting from dwelling in the prison of the body ([[tj-wop-chapter-32#^wop-ch32-13|32.13]]). The soul has three faculties (or powers): intellect, memory, and will; it is wonderful when they are in accord ([[tj-wop-chapter-31#^wop-ch31-8|31.8]]).
+SOUL. The interior part of the human composite (body and soul). It is like a rich palace of gold and precious stones in which dwells a King gracious enough to become its Father ([[chapter-28-tj-way-ccel|28.9]]). The palace can be made beautiful through the virtues: the greater the virtues, the more resplendent the jewels ([[chapter-28-tj-way-ccel|28.9]]). The Lord can enlarge this palace ([[chapter-28-tj-way-ccel|28.12]]). We should empty the soul so that he may store or remove things as with his own property ([[chapter-28-tj-way-ccel|28.12]]). In recollection the soul receives a supply of provisions to strengthen it against the body ([[chapter-28-tj-way-ccel|28.6]]). In the prayer of quiet, satisfaction is felt in the soul ([[chapter-31-tj-way-ccel|31.3]]). The soul is subject to many difficulties resulting from dwelling in the prison of the body ([[chapter-32-tj-way-ccel|32.13]]). The soul has three faculties (or powers): intellect, memory, and will; it is wonderful when they are in accord ([[chapter-31-tj-way-ccel|31.8]]).
 
 ## Divine Intimacy Meditations
-
-### Compendium on Social Doctrine
-
-![[sd-10-index-s#Soul]]
 
 - Temple of the Holy Trinity: [[11-in-search-of-god#Meditation 1|11,1]], [[11-in-search-of-god#Meditation 2|11,2]]; [[16-guard-of-the-senses#Meditation 1|16,1]]; [[58-i-am-in-the-father#Meditation 2|58,2]]; [[61-the-works-of-jesus#Meditation 2|61,2]]; [[78-the-necessity-for-interior-purification#Meditation 2|78,2]];
 - the — totally free from every attachment acts only according to the Will of God: [[5-sanctity-and-gods-will#Meditation 2|5,2]];
@@ -60,8 +74,14 @@ SOUL. The interior part of the human composite (body and soul). It is like a ric
 - [[342-martha-and-mary|342. Martha and Mary]]
 - [[366-the-reciprocal-gift|366. The Reciprocal Gift]]
 
-## The Interior Castle Study Edition Glossary
+## Compendium of Social Doctrine
 
-The **spiritual component in the human person**, the **body being the material component**. Supported by Pauline texts and the liturgy, Teresa speaks of the body as the prison of the soul and of the soul imprisoned in the body as long as this earthly condition endures: “our poor little imprisoned soul shares in the miseries of the body” ([L](app://obsidian.md/tj-life) 11.15). In her mystical life, Teresa experiences her own **soul as the subject of all her experiences of Christ**, of God, of the Trinity, of the church, as the container receiving all of these experiences, their carrier. In her openness to transcendence she experienced **her soul as God’s garden**, a symbolism she developed in her _[Life](app://obsidian.md/tj-life)_. The soul **is fertile land in hopes of water (or of grace or of prayer)**. The idea that Teresa has of the soul does not proceed from a psychological approach but from a religious and metaphysical one. Only obliquely does she allude to its biological function of animating the body.
+![[sd-10-index-s#Soul]]
 
-From: [[tj-ic-book-8.2-glossary|The Interior Castle Study Edition Glossary]]
+## The Interior Castle Study Edition
+
+The **spiritual component in the human person**, the **body being the material component**. Supported by Pauline texts and the liturgy, Teresa speaks of the body as the prison of the soul and of the soul imprisoned in the body as long as this earthly condition endures: “our poor little imprisoned soul shares in the miseries of the body” (L 11.15). In her mystical life, Teresa experiences her own **soul as the subject of all her experiences of Christ**, of God, of the Trinity, of the church, as the container receiving all of these experiences, their carrier. In her openness to transcendence she experienced **her soul as God’s garden**, a symbolism she developed in her _Life. The soul **is fertile land in hopes of water (or of grace or of prayer)**. The idea that Teresa has of the soul does not proceed from a psychological approach but from a religious and metaphysical one. Only obliquely does she allude to its biological function of animating the body.
+
+## Source
+
+The Interior Castle by Saint Teresa of Ávila Study Edition, ICS Publications

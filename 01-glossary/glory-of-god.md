@@ -11,7 +11,7 @@ tags:
   - term/glory-of-god
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -28,6 +28,9 @@ publish: true
 - need to seek perfection, not to enjoy it, but for the — [[132-love-of-the-cross#Meditation 2|132,2]];
 - first consideration should always be the — and His pleasure: [[256-the-life-of-love#Meditation 1|256,1]];
 - the soul, who after falling, turns to God with repentance and confidence, gives much glory to God: [[210-merciful-love#Meditation 2|210,2]].
+
+### Sources
+
 - [[32-glory-to-god|32. Glory to God]]
 - [[62-jesus-and-the-glory-of-the-father|62. Jesus and the Glory of the Father]]
 - [[132-love-of-the-cross|132. Love of the Cross]]

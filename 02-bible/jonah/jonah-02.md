@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jonah, Chapter 2
 ---
@@ -103,3 +103,7 @@ g. (2:8) ([[psalm-05|Ps 5]]:8]; [18:7]; [88:3].
 h. (2:9) [Ps 31:7].
 
 i. (2:10) [Ps 50:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

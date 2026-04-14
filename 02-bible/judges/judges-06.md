@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 6
 ---
@@ -141,3 +141,7 @@ j. (6:31) [[1-kings-18|1 Kgs 18]]:27.
 k. (6:32) [1 Sm 12:11].
 
 l. (6:34) [Jgs 3:10]; [11:29]; [13:25]; [14:6], [19]; [15:14]; [1 Sm 11:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

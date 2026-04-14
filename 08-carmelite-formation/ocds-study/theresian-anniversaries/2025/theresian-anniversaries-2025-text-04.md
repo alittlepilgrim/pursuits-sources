@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2025 - Text 4 Why I Love You, o Mary! (Poem 54)
   - theresian-anniversaries-2025-text-04
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

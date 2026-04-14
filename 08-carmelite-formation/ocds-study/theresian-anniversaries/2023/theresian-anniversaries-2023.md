@@ -3,8 +3,6 @@ type: ocd-readings
 title: Theresian Anniversaires 2023 Manuscript a - Full Text
 author: OCD General Curia
 aliases:
-  - 20251008-234259
-  - 20251008-234308
   - Reading The Writings of Therese of the Child Jesus 2023 Manuscript a
   - Reading The Writings of Therese of the Child Jesus 2023 Manuscript A
   - Theresian Anniversaires 2023 Manuscript a
@@ -13,7 +11,7 @@ aliases:
 tags:
   - subject
 created: 2025-08-28
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 permalink: /theresian-anniversaries-2023
 ---

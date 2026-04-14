@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 4
 ---
@@ -70,7 +70,7 @@ description: 1 Corinthians, Chapter 4
 
 \* (4:8) Satisfied…rich…kings: these three statements could also be punctuated as questions continuing the series begun in v. [7]. In any case these expressions reflect a tendency at Corinth toward an overrealized eschatology, a form of self-deception that draws Paul’s irony. The underlying attitude has implications for the Corinthians’ thinking about other issues, notably morality and the resurrection, that Paul will address later in the letter.
 
-\* (4:9] – [13) A rhetorically effective catalogue of the circumstances of apostolic existence, in the course of which Paul ironically contrasts his own sufferings with the Corinthians’ illusion that they have passed beyond the folly of the passion and have already reached the condition of glory. His language echoes that of the beatitudes and woes, which assert a future reversal of present conditions. Their present sufferings (“to this very hour,” v. [11]) place the apostles in the class of those to whom the beatitudes promise future relief (([[matthew-05|Mt 5]]:3] – [11]; ([[luke-06| [[luke-06|Lk 6]]:]]:20] – [23]); whereas the Corinthians’ image of themselves as “already” filled, rich, ruling (([[1-corinthians-04|1 Cor 4]]:8]), as wise, strong, and honored (([[1-corinthians-04|1 Cor 4]]:10]) places them paradoxically in the position of those whom the woes threaten with future undoing (([[luke-06| [[luke-06|Lk 6]]:]]:24] – [26]). They have lost sight of the fact that the reversal is predicted for the future.
+\* (4:9] – [13) A rhetorically effective catalogue of the circumstances of apostolic existence, in the course of which Paul ironically contrasts his own sufferings with the Corinthians’ illusion that they have passed beyond the folly of the passion and have already reached the condition of glory. His language echoes that of the beatitudes and woes, which assert a future reversal of present conditions. Their present sufferings (“to this very hour,” v. [11]) place the apostles in the class of those to whom the beatitudes promise future relief (([[matthew-05|Mt 5]]:3] – [11]; ([[luke-06||Lk 6]]:20] – [23]); whereas the Corinthians’ image of themselves as “already” filled, rich, ruling (([[1-corinthians-04|1 Cor 4]]:8]), as wise, strong, and honored (([[1-corinthians-04|1 Cor 4]]:10]) places them paradoxically in the position of those whom the woes threaten with future undoing (([[luke-06||Lk 6]]:24] – [26]). They have lost sight of the fact that the reversal is predicted for the future.
 
 \* (4:14] – [17) My beloved children: the close of the argument is dominated by the tender metaphor of the father who not only gives his children life but also educates them. Once he has begotten them through his preaching, Paul continues to present the gospel to them existentially, by his life as well as by his word, and they are to learn, as children do, by imitating their parents (([[1-corinthians-04|1 Cor 4]]:16]). The reference to the rod in ([[1-corinthians-04|1 Cor 4]]:21] belongs to the same image-complex. So does the image of the ways in ([[1-corinthians-04|1 Cor 4]]:17]: the ways that Paul teaches everywhere, “his ways in Christ Jesus,” mean a behavior pattern quite different from the human ways along which the Corinthians are walking (([[1-corinthians-03|1 Cor 3]]:3]).
 
@@ -97,3 +97,7 @@ i. (4:17) [16:10]; ([[acts-of-the-apostles-19|Acts 19]]:22].
 j. (4:20) [2:4]; [1 Thes 1:5].
 
 k. (4:21) ([[2-corinthians-01|2 Cor 1]]:23]; [10:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

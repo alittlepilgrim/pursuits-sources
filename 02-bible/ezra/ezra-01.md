@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezra, Chapter 1
 ---
@@ -59,3 +59,7 @@ a. (1:1) ([[ezra-06|Ezr 6]]:3] – [5]; [2 Chr 36:22] – [23]; [Jer 25:11] – 
 b. (1:6) ([[exodus-03|Ex 3]]:21] – [22]; [11:2]; [12:35].
 
 c. (1:7) [2 Kgs 25:14] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

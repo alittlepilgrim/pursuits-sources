@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 3
 ---
@@ -111,3 +111,7 @@ i. (3:13] – [17) ([[mark-01|Mk 1]]:9] – [11]; ([[luke-03| [[luke-03|Lk 3]]:]
 j. (3:16) [Is 42:1].
 
 k. (3:17) [12:18]; [17:5]; [[genesis-22|Gen 22]]:2; ([[psalm-02|Ps 2]]:7]; [Is 42:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

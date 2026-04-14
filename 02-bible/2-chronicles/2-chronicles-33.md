@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 33
 ---
@@ -91,3 +91,7 @@ c. (33:15) [2 Chr 14:2].
 d. (33:18], [20) [[2-kings-21|2 Kgs 21]]:17 – [18].
 
 e. (33:21] – [25) [[2-kings-21|2 Kgs 21]]:19 – [26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

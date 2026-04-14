@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Peter, Chapter 4
 ---
@@ -99,3 +99,7 @@ i. (4:14) ([[acts-of-the-apostles-05|Acts 5]]:41] / [[isaiah-11|Is 11]]:2.
 j. (4:17) ([[luke-23|Lk 23]]:31]; [2 Thes 1:8].
 
 k. (4:18) [Prv 11:31] LXX.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 39
 ---
@@ -91,3 +91,7 @@ j. (39:14) [Jer 26:24]; [38:28].
 k. (39:16) [Jer 21:10]; [Dn 9:12].
 
 l. (39:18) [Jer 45:5]; ([[psalm-25|Ps 25]]:3]; [37:40].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

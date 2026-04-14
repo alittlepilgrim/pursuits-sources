@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 2
 ---
@@ -133,3 +133,7 @@ l. (2:22) [5:39]; [12:16]; [14:26]; [20:9]; ([[matthew-12|Mt 12]]:6]; ([[luke-24
 m. (2:23) [4:45].
 
 n. (2:25) [1 Kgs 8:39]; [Ps 33:15]; [94:11]; [Sir 42:18]; [Jer 17:10]; [20:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

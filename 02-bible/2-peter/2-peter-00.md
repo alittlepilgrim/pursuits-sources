@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: The Second Letter of Peter
 ---
@@ -46,3 +46,7 @@ The principal divisions of the Second Letter of Peter are the following:
 - [[2-peter-01|2 Peter, Chapter 1]]
 - [[2-peter-02|2 Peter, Chapter 2]]
 - [[2-peter-03|2 Peter, Chapter 3]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

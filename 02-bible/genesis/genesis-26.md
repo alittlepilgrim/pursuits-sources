@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 26
 url: https://bible.usccb.org/bible/genesis/26
 aliases:
-  - 20250508-020303
   - genesis-26
   - Genesis, Chapter 26
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 26
 bible_book: genesis
@@ -137,3 +136,7 @@ i. (26:34] – [35) [Gn 27:46]..
 ## Navigation
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

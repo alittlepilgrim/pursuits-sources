@@ -40,6 +40,9 @@ The symbol of the love with which Jesus continually loves the eternal Father and
 - the — living in the Eucharist: [[216-the-sacred-heart-and-the-eucharist#Meditation 1|216,1]].
 - See: Jesus.
 - -[[jesus-christ|Jesus Christ]]
+
+ ### Sources
+
 - [[208-feast-of-the-most-sacred-heart-of-jesus|208. Feast of the Most Sacred Heart of Jesus]]
 - [[209-devotion-to-the-sacred-heart-of-jesus|209. Devotion to the Sacred Heart of Jesus]]
 - [[210-merciful-love|210. Merciful Love]]

@@ -15,7 +15,7 @@ tags:
 celebration_day: 08-26
 celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: Catholic Church 1993, Proper of the Liturgy of the Hours of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites (Rev. and augm.), Institutum Carmelitanum, Rome.
 ---
@@ -56,7 +56,7 @@ To the realms of joy and praise.
 
 Sr. Margarita of Jesus, O.C.D.
 
-**The Second Reading**
+## **The Second Reading**
 
 (Red. B, st. 2, no. 2-4, 9,, 12, 8: ed. Kavanaugh-Rodriguez 1979, pp. 596-99)
 

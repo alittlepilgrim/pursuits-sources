@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 7
 ---
@@ -161,3 +161,7 @@ d. (7:10) [Is 9:12]; [Am 4:6].
 e. (7:12) [[ezekiel-12|Ez 12]]:13; [32:3].
 
 f. (7:16) [Ps 78:57].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

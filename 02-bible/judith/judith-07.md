@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 7
 ---
@@ -113,3 +113,7 @@ e. (7:25) [Est 7:4].
 f. (7:27) ([[exodus-14|Ex 14]]:12]; [16:3]; [1 Mc 1:62] – [63].
 
 g. (7:28) [Ps 106:6]; [Lam 5:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

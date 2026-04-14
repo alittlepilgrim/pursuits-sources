@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 83
 ---
@@ -129,3 +129,7 @@ i. (83:14) ([[psalm-01|Ps 1]]:4]; [35:5]; [58:10]; [Is 5:24]; [10:17]; [17:13]; 
 j. (83:15) [Ps 50:3].
 
 k. (83:19) [Ps 97:9]; [Dt 4:39]; [Dn 3:45].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

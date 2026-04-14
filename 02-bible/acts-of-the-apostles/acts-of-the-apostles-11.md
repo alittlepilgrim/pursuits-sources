@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 11
 ---
@@ -113,3 +113,7 @@ f. \[[11:19]\] [8:1] – [4].
 g. \[[11:28]\] [21:10].
 
 h. \[[11:29] – [30]\] [12:25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

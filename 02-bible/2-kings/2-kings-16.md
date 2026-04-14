@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 16
 ---
@@ -75,3 +75,7 @@ a. (16:3) [Lv 18:21]; [Dt 18:10].
 b. (16:4) [Dt 12:2].
 
 c. (16:15) ([[exodus-29|Ex 29]]:38] – [41]; [Nm 28:3] – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

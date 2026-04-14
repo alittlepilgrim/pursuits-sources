@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 71
 ---
@@ -185,3 +185,7 @@ k. (71:18) ([[psalm-22|Ps 22]]:31] – [32]; [48:14] – [15]; [145:4].
 l. (71:19) [Ps 72:18].
 
 m. (71:19) [Ps 86:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

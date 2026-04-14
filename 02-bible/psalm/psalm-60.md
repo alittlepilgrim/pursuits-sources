@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 60
 ---
@@ -105,3 +105,7 @@ c. (60:5) [Ps 75:9]; [Is 51:17], [21] – [22]; [Jer 25:15].
 d. (60:10) [Ru 4:7] – [8].
 
 e. (60:12) [Ps 44:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

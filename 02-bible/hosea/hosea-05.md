@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 5
 ---
@@ -173,3 +173,7 @@ h. (5:14) [Is 5:29]; [Am 1:2]; [3:12].
 i. (5:14) [Dt 32:39].
 
 j. (5:15) [Jer 29:13]; [Ps 78:34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

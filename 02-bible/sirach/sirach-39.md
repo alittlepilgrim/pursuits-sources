@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 39
 ---
@@ -223,3 +223,7 @@ e. (39:23) [[genesis-13|Gen 13]]:10; [19:24] – [28]; [Dt 29:22]; [Jos 1:2] –
 f. (39:26) [Sir 29:21].
 
 g. (39:33) [Sir 39:16]; [Gn 1:29] – [31]; [Eccl 3:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

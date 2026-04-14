@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Timothy, Chapter 5
 ---
@@ -97,3 +97,7 @@ h. (5:19) [Dt 17:6]; [19:15]; ([[matthew-18|Mt 18]]:16]; [2 Cor 13:1].
 i. (5:20) [Gal 2:14]; [Eph 5:11]; [2 Tm 4:2]; [Ti 1:9], [13].
 
 j. (5:22) [4:14]; [2 Tm 1:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nahum, Chapter 2
 ---
@@ -161,3 +161,7 @@ b. (2:9) [Is 8:7] – [8].
 c. (2:11) [Jl 2:6].
 
 d. (2:12) [[ezekiel-19|Ez 19]]:2 – [7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

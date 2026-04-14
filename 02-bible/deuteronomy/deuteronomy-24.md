@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 24
 ---
@@ -107,3 +107,7 @@ k. (24:16) [Dt 7:10]; [[2-kings-14|2 Kgs 14]]:6; [2 Chr 25:4]; [Jer 31:29] – [
 l. (24:17] – [18) [Dt 10:17] – [19]; [15:15]; [24:22]; [27:19]; ([[exodus-22|Ex 22]]:21] – [24]; [23:9].
 
 m. (24:19] – [22) ([[exodus-23|Ex 23]]:10] – [11]; [Lv 19:9] – [10]; [23:22]; [Ru 2:1] – [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

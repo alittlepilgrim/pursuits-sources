@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 41
 ---
@@ -251,3 +251,7 @@ their idols, empty wind!
 a. (41:4) [Is 44:7]; [46:10].
 
 b. (41:8] – [9) [Is 44:1] – [2], [21]; [45:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

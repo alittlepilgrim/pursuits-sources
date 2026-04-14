@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 18
 ---
@@ -321,3 +321,7 @@ w. (18:48) [Ps 144:2].
 x. (18:50) ([[psalm-07|Ps 7]]:18]; [30:5]; [57:9]; [135:3]; [146:2]; [Rom 15:9].
 
 y. (18:51) [Ps 89:28] – [37]; [144:10]; [1 Sm 2:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

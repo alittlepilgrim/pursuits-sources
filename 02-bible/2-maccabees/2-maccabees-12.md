@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Maccabees, Chapter
 ---
@@ -141,3 +141,7 @@ e. (12:26]–[31]] [1 Mc 5:45]–[54].
 f. (12:40]] [Dt 7:25]–[26].
 
 g. (12:42]] [Jos 7:1]–[26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

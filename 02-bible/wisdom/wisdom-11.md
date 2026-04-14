@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 11
 ---
@@ -197,3 +197,7 @@ q. (11:24) [Ps 145:9].
 r. (11:25) [Is 41:4].
 
 s. (11:26) [Wis 12:16]; [Is 63:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

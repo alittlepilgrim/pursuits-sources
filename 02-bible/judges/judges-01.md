@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 1
 ---
@@ -143,3 +143,7 @@ q. (1:30) [Jos 19:10] – [16].
 r. (1:31] – [32) [Jos 19:24] – [31].
 
 s. (1:33) [Jos 19:32] – [39].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

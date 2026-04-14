@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 13
 ---
@@ -113,3 +113,7 @@ m. (13:20) [Is 63:11]; [Zec 9:11]; [Jn 10:11]; ([[acts-of-the-apostles-02|Acts 2
 n. (13:23) ([[acts-of-the-apostles-16|Acts 16]]:1].
 
 o. (13:25) [Ti 3:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

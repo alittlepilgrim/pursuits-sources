@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 49
 url: https://bible.usccb.org/bible/genesis/49
 aliases:
-  - 20250508-020407
   - genesis-49
   - Genesis, Chapter 49
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 49
 bible_book: genesis
@@ -233,3 +232,7 @@ d. (49:30) [[genesis-23|Gen 23]]:17..
 ## Navigation
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

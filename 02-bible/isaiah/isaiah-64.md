@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 64
 ---
@@ -101,3 +101,7 @@ a. (64:3) ([[1-corinthians-02|1 Cor 2]]:9].
 b. (64:5) [Is 1:30]; [34:4].
 
 c. (64:9) [Ps 79:1]; [Lam 1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

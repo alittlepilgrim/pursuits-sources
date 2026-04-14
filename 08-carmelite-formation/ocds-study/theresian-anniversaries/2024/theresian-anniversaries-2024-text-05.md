@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2024 - Text 5 the Trial of Faith (Ms. C, 4v-7v)
   - theresian-anniversaries-2024-text-05
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

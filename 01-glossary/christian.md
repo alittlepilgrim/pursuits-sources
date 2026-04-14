@@ -8,7 +8,7 @@ tags:
   - term/christian
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: christian. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -54,7 +54,7 @@ A name derived from that of Christ himself. The name refers to all those who hav
 - should not be a forced Cyrenian, but a voluntary one: [[291-fortitude-and-patience#Meditation 2|291,2]];
 - we are Christians in the measure in which we live in love and understand the mystery of the love of God: [[304-the-gift-of-piety#Meditation 1|304,1]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[23-the-call-to-the-apostolate|23. The Call to the apostolate]]
 - [[32-glory-to-god|32. Glory to God]]

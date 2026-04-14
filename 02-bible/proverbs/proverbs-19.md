@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 19
 ---
@@ -189,3 +189,7 @@ m. (19:25) [Prv 17:10]; [21:11].
 n. (19:26) [Sir 3:16].
 
 o. (19:29) [Prv 26:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

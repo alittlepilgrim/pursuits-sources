@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 36
 ---
@@ -99,3 +99,7 @@ e. (36:9) [Gn 2:8], [10].
 f. (36:10) [Is 55:1]; ([[john-04|Jn 4]]:14].
 
 g. (36:10) [Ps 80:4], [8], [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

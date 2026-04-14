@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 16
 ---
@@ -205,3 +205,7 @@ l. (16:28) [Prv 6:14], [19]; [17:9]; [26:22]; [Sir 28:15].
 m. (16:31) [Prv 20:29].
 
 n. (16:32) [Prv 14:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

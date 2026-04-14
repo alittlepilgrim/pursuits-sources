@@ -3,14 +3,13 @@ type: formation-handbook
 title: OCDS Ongoing Formation Volume I
 author: Secular Order of Discalced Carmelites
 aliases:
-  - 20251030-175216
   - Ocds Ongoing Formation Volume I
   - OCDS Ongoing Formation Volume I
 tags:
   - carmel/formation
   - type/study-guide
 created: 2025-10-30
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

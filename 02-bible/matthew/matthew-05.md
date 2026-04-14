@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 5
 ---
@@ -154,11 +154,11 @@ for theirs is the kingdom of heaven.
 
 ---
 
-\* (5:1] – [7:29) The first of the five discourses that are a central part of the structure of this gospel. It is the discourse section of the first book and contains sayings of Jesus derived from Q and from M. The Lucan parallel is in that gospel’s “Sermon on the Plain” (([[luke-06| [[luke-06|Lk 6]]:]]:20] – [49]), although some of the sayings in Matthew’s “Sermon on the Mount” have their parallels in other parts of Luke. The careful topical arrangement of the sermon is probably not due only to Matthew’s editing; he seems to have had a structured discourse of Jesus as one of his sources. The form of that source may have been as follows: four beatitudes (([[matthew-05|Mt 5]]:3] – [4], [6], [11] – [12]), a section on the new righteousness with illustrations (([[matthew-05|Mt 5]]:17], [20] – [24], [27] – [28], [33] – [48]), a section on good works (([[matthew-06|Mt 6]]:1] – [6], [16] – [18]), and three warnings (([[matthew-07|Mt 7]]:1] – [2], [15] – [21], [24] – [27]).
+\* (5:1] – [7:29) The first of the five discourses that are a central part of the structure of this gospel. It is the discourse section of the first book and contains sayings of Jesus derived from Q and from M. The Lucan parallel is in that gospel’s “Sermon on the Plain” (([[luke-06||Lk 6]]:20] – [49]), although some of the sayings in Matthew’s “Sermon on the Mount” have their parallels in other parts of Luke. The careful topical arrangement of the sermon is probably not due only to Matthew’s editing; he seems to have had a structured discourse of Jesus as one of his sources. The form of that source may have been as follows: four beatitudes (([[matthew-05|Mt 5]]:3] – [4], [6], [11] – [12]), a section on the new righteousness with illustrations (([[matthew-05|Mt 5]]:17], [20] – [24], [27] – [28], [33] – [48]), a section on good works (([[matthew-06|Mt 6]]:1] – [6], [16] – [18]), and three warnings (([[matthew-07|Mt 7]]:1] – [2], [15] – [21], [24] – [27]).
 
 \* (5:1] – [2) Unlike Luke’s sermon, this is addressed not only to the disciples but to the crowds (see ([[matthew-07|Mt 7]]:28]).
 
-\* (5:3] – [12) The form Blessed are (is) occurs frequently in the Old Testament in the Wisdom literature and in the psalms. Although modified by Matthew, the first, second, fourth, and ninth beatitudes have Lucan parallels (([[matthew-05|Mt 5]]:3] // ([[luke-06| [[luke-06|Lk 6]]:]]:20]; ([[matthew-05|Mt 5]]:4] // ([[luke-06| [[luke-06|Lk 6]]:]]:21b]; ([[matthew-05|Mt 5]]:6] // ([[luke-06| [[luke-06|Lk 6]]:]]:21a]; ([[matthew-05|Mt 5]]:11] – [12] // ([[luke-05| [[luke-05|Lk 5]]:]]:22] – [23]). The others were added by the evangelist and are probably his own composition. A few manuscripts, Western and Alexandrian, and many versions and patristic quotations give the second and third beatitudes in inverted order.
+\* (5:3] – [12) The form Blessed are (is) occurs frequently in the Old Testament in the Wisdom literature and in the psalms. Although modified by Matthew, the first, second, fourth, and ninth beatitudes have Lucan parallels (([[matthew-05|Mt 5]]:3] // ([[luke-06||Lk 6]]:20]; ([[matthew-05|Mt 5]]:4] // ([[luke-06||Lk 6]]:21b]; ([[matthew-05|Mt 5]]:6] // ([[luke-06||Lk 6]]:21a]; ([[matthew-05|Mt 5]]:11] – [12] // ([[luke-05| [[luke-05|Lk 5]]:]]:22] – [23]). The others were added by the evangelist and are probably his own composition. A few manuscripts, Western and Alexandrian, and many versions and patristic quotations give the second and third beatitudes in inverted order.
 
 \* (5:3) The poor in spirit: in the Old Testament, the poor (*’anāwîm*) are those who are without material possessions and whose confidence is in God (see [Is 61:1]; [Zep 2:3]; in the NAB the word is translated lowly and humble, respectively, in those texts). Matthew added in spirit in order either to indicate that only the devout poor were meant or to extend the beatitude to all, of whatever social rank, who recognized their complete dependence on God. The same phrase poor in spirit is found in the Qumran literature (1QM 14:7).
 
@@ -212,9 +212,9 @@ for theirs is the kingdom of heaven.
 
 \* (5:47) Jesus’ disciples must not be content with merely usual standards of conduct; see ([[matthew-05|Mt 5]]:20] where the verb “surpass” (Greek *perisseuō*) is cognate with the unusual (*perisson*) of this verse.
 
-\* (5:48) Perfect: in the gospels this word occurs only in Matthew, here and in ([[matthew-19|Mt 19]]:21]. The Lucan parallel (([[luke-06| [[luke-06|Lk 6]]:]]:36]) demands that the disciples be merciful.
+\* (5:48) Perfect: in the gospels this word occurs only in Matthew, here and in ([[matthew-19|Mt 19]]:21]. The Lucan parallel (([[luke-06||Lk 6]]:36]) demands that the disciples be merciful.
 
-a. (5:3] – [12) ([[luke-06| [[luke-06|Lk 6]]:]]:20] – [23].
+a. (5:3] – [12) ([[luke-06||Lk 6]]:20] – [23].
 
 b. (5:4) [Is 61:2] – [3]; [Rv 21:4].
 
@@ -262,14 +262,18 @@ w. (5:34] – [37) [Ps 48:3]; [[sirach-23|Sir 23]]:9; [Is 66:1]; [Jas 5:12].
 
 x. (5:38) ([[exodus-21|Ex 21]]:24]; [Lv 24:19] – [20].
 
-y. (5:39] – [42) ([[luke-06| [[luke-06|Lk 6]]:]]:29] – [30].
+y. (5:39] – [42) ([[luke-06||Lk 6]]:29] – [30].
 
 z. (5:41) [Lam 3:30].
 
 a. (5:42) [Dt 15:7] – [8].
 
-b. (5:43] – [48) ([[luke-06| [[luke-06|Lk 6]]:]]:27], [32] – [36].
+b. (5:43] – [48) ([[luke-06||Lk 6]]:27], [32] – [36].
 
 c. (5:43) [Lv 19:18].
 
 d. (5:48) [Lv 11:44]; [19:2]; [Dt 18:13]; [Jas 1:4]; [1 Pt 1:16]; ([[1-john-03|1 Jn 3]]:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

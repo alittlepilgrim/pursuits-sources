@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 19
 ---
@@ -199,3 +199,7 @@ v. (19:37) [Nm 21:9]; [Zec 12:10]; ([[revelation-01|Rv 1]]:7].
 w. (19:38] – [42) ([[matthew-27|Mt 27]]:57] – [60]; ([[mark-15|Mk 15]]:42] – [46]; ([[luke-23|Lk 23]]:46] – [49].
 
 x. (19:39) [3:1] – [2]; [7:50]; [Ps 45:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

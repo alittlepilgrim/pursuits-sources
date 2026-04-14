@@ -10,12 +10,14 @@ tags:
   - type/figure
 celebration: 08-26
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 
-# Saint Teresa of Jesus M 148
+# Saint Teresa of Jesus
+
+M 148
 
 ## Notes
 
-- (No additional details provided in source.)
+- [[teresa-of-avila-saint]]

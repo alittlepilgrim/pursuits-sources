@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 9
 bible_book: genesis
@@ -152,3 +152,7 @@ m. (9:25) [Dt 27:16]; [Wis 12:11]..
 ## Navigation
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

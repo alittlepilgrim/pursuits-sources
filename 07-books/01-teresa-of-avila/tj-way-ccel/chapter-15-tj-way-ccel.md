@@ -1,0 +1,43 @@
+---
+type: book
+title: Chapter 15 – The Way of Perfection by St. Teresa of Ávila (CCEL Edition)
+author: Saint Teresa of Ávila
+aliases:
+  - Chapter 15. Treats of the Great Advantage Which Comes from Our Not Excusing Ourselves, Even Though We Find We Are Unjustly Condemned – The Way of Perfection by St. Teresa of Ávila (CCEL Edition)
+tags:
+  - author/saint-teresa-of-avila
+  - book/way-of-perfection
+  - type/book
+created: 2026-04-08
+modified: 2026-04-09
+publish: false
+description: Chapter 15. Treats of the Great Advantage Which Comes from Our Not Excusing Ourselves, Even Though We Find We Are Unjustly Condemned
+---
+
+← [[chapter-14-tj-way-ccel|Chapter 14]] | [[tj-way-of-perfection-ccel|Table of Contents]] | [[chapter-16-tj-way-ccel|Chapter 16]] →
+
+# Chapter 15. Treats of the Great Advantage Which Comes from Our Not Excusing Ourselves, Even Though We Find We Are Unjustly Condemned
+
+But how disconnectedly I am writing! I am just like a person who does not know what she is doing. It is your fault, sisters, for I am doing this at your command. Read it as best you can, for I am writing it as best I can, and, if it is too bad, burn it. I really need leisure, and, as you see, I have so little opportunity for writing that a week passes without my putting down a word, and so I forget what I have said and what I am going to say next. Now what I have just been doing --namely, excusing myself--is very bad for me, and I beg you not to copy it, for to suffer without making excuses is a habit of great perfection, and very edifying and meritorious; and, though I often teach you this, and by God's goodness you practise it, His Majesty has never granted this favour to me. May He be pleased to bestow it on me before I die.
+
+I am greatly confused as I begin to urge this virtue upon you, for I ought myself to have practised at least something of what I am recommending you with regard to it: but actually I must confess I have made very little progress. I never seem unable to find a reason for thinking I am being virtuous when I make excuses for myself. There are times when this is lawful, and when not to do it would be wrong, but I have not the discretion (or, better, the humility) to do it only when fitting. For, indeed, it takes great humility to find oneself unjustly condemned and be silent, and to do this is to imitate the Lord Who set us free from all our sins. I beg you, then, to study earnestly to do so, for it brings great gain; whereas I can see no gain in our trying to free ourselves from blame: none whatever--save, as I say, in a few cases where hiding the truth might cause offence or scandal. Anyone will understand this who has more discretion than I.
+
+I think it is very important to accustom oneself to practise this virtue and to endeavour to obtain from the Lord the true humility which must result from it. The truly humble person will have a genuine desire to be thought little of, and persecuted, and condemned unjustly, even in serious matters. For, if she desires to imitate the Lord, how can she do so better than in this? And no bodily strength is necessary here, nor the aid of anyone save God.
+
+These are great virtues, my sisters, and I should like us to study them closely, and to make them our penance. As you know, I deprecate [other severe and] excessive penances, which, if practised indiscreetly, may injure the health. Here, however, there is no cause for fear; for, however great the interior virtues may be, they do not weaken the body so that it cannot serve the Order, while at the same time they strengthen the soul; and, furthermore, they can be applied to very little things, and thus, as I have said on other occasions, they accustom one to gain great victories in very important matters. I have not, however, been able to test this particular thing myself, for I never heard anything bad said of me which I did not clearly realize fell short of the truth. If I had not sometimes--often, indeed--offended God in the ways they referred to, I had done so in many others, and I felt they had treated me far too indulgently in saying nothing about these: I much preferred people to blame me for what was not true than to tell the truth about me. For I disliked hearing things that were true said about me, whereas these other things, however serious they were, I did not mind at all. In small matters I followed my own inclinations, and I still do so, without paying any affection to what is most perfect. So I should like you to begin to realize this at an early stage, and I want each of you to ponder how much there is to be gained in every way by this virtue, and how, so far as I can see, there is nothing to be lost by it. The chief thing we gain is being able, in some degree, to follow the Lord.
+
+It is a great help to meditate upon the great gain which in any case this is bound to bring us, and to realize how, properly speaking, we can never be blamed unjustly, since we are always full of faults, and a just man falls seven times a day, [44] so that it would be a falsehood for us to say we have no sin. If, then, we are not to blame for the thing that we are accused of, we are never wholly without blame in the way that our good Jesus was.
+
+Oh, my Lord! When I think in how many ways Thou didst suffer, and in all of them undeservedly, I know not what to say for myself, or what I can have been thinking about when I desired not to suffer, or what I am doing when I make excuses for myself. Thou knowest, my Good, that if there is anything good in me it comes from no other hands than Thine own. For what is it to Thee, Lord, to give much instead of little?
+
+True, I do not deserve it, but neither have I deserved the favours which Thou hast shown me already. Can it be that I should wish a thing so evil as myself to be thought well of by anyone, when they have said such wicked things of Thee, Who art good above all other good? It is intolerable, my God, it is intolerable; nor would I that Thou shouldst have to tolerate anything displeasing in Thine eyes being found in Thy handmaiden. For see, Lord, mine eyes are blind and very little pleases them. Do Thou give me light and make me truly to desire that all should hate me, since I have so often left Thee, Who hast loved me with such faithfulness.
+
+What is this, my God? What advantage do we think to gain from giving pleasure to creatures? What does it matter to us if we are blamed by them all, provided we are without blame in the sight of the Lord? Oh, my sisters we shall never succeed in understanding this truth and we shall never attain perfection unless we think and meditate upon what is real and upon what is not. If there were no other gain than the confusion which will be felt by the person who has blamed you when she sees that you have allowed yourselves to be condemned unjustly, that would be a very great thing. Such an experience uplifts the soul more than ten sermons. And we must all try to be preachers by our deeds, since both the Apostle and our own lack of ability forbid us to be preachers in word.
+
+Never suppose that either the evil or the good that you do will remain secret, however strict may be your enclosure. Do you suppose, daughter, that, if you do not make excuses for yourself, there will not be someone else who will defend you? Remember how the Lord took the Magdalen's part in the Pharisee's house and also when her sister blamed her. He will not treat you as rigorously as He treated Himself: it was not until He was on the Cross that He had even a thief to defend Him.
+
+His Majesty, then, will put it into somebody's mind to defend you; if He does not, it will be because there is no need. This I have myself seen, and it is a fact, although I should not like you to think too much of it, but rather to be glad when you are blamed, and in due time you will see what profit you experience in your souls. For it is in this way that you will begin to gain freedom; soon you will not care if they speak ill or well of you; it will seem like someone else's business. It will be as if two persons are talking in your presence and you are quite uninterested in what they are saying because you are not actually being addressed by them. So here: it becomes such a habit with us not to reply that it seems as if they are not addressing us at all.
+
+This may seem impossible to those of us who are very sensitive and not capable of great mortification. It is indeed difficult at first, but I know that, with the Lord's help, the gradual attainment of this freedom, and of renunciation and self-detachment, is quite possible.
+
+[44] Proverbs xxiv, 16.

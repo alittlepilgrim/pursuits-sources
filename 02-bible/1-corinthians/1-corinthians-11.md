@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 11
 ---
@@ -153,3 +153,7 @@ k. (11:23) [2]; [15:3] / [10:16] – [17]; ([[matthew-26|Mt 26]]:26] – [29]; (
 l. (11:25) ([[exodus-24|Ex 24]]:8]; ([[2-corinthians-03|2 Cor 3]]:6]; [Heb 8:6] – [13].
 
 m. (11:32) [Dt 8:5]; [Heb 12:5] – [11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

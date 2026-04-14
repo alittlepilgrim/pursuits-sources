@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 24
 ---
@@ -93,3 +93,7 @@ b. (24:2) [Ps 136:6]; [Is 42:5].
 c. (24:3) ([[psalm-15|Ps 15]]:1].
 
 d. (24:7) [Ps 118:19] – [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

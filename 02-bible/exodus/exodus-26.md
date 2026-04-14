@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 26
 url: https://bible.usccb.org/bible/exodus/26
 aliases:
-  - 20250731-085956
   - exodus-26
   - Exodus, Chapter 26
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 26
 ---
@@ -120,3 +119,7 @@ b. (26:15] – [30) [Ex 36:20] – [34].
 c. (26:31) [2 Chr 3:14].
 
 d. (26:31) [Ex 36:35] – [38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

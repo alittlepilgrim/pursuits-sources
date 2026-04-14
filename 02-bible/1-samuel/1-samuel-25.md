@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 25
 ---
@@ -147,3 +147,7 @@ j. (25:39) [1 Kgs 2:44].
 k. (25:43) [1 Sm 27:3].
 
 l. (25:44) [1 Sm 18:20]; [27:3]; [30:5]; [2 Sm 2:2], [13] – [16]; [1 Chr 3:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

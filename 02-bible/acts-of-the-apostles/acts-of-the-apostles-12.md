@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 12
 ---
@@ -95,3 +95,7 @@ c. (12:18]\] [5:22] – [24].
 d. (12:24]\] [6:7].
 
 e. (12:25]\] [11:29] – [30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

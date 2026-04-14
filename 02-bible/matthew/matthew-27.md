@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 27
 ---
@@ -305,3 +305,7 @@ a. (27:57] – [61) ([[mark-15|Mk 15]]:42] – [47]; ([[luke-23|Lk 23]]:50] – 
 b. (27:57) [Is 53:9].
 
 c. (27:63) [12:40]; [16:21]; [17:23]; [20:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

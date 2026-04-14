@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Haggai, Chapter 1
 ---
@@ -117,3 +117,7 @@ c. (1:4) [2 Sm 7:2].
 d. (1:6) [Lv 26:26]; [Hos 4:10].
 
 e. (1:14) ([[ezra-01|Ezr 1]]:5]; [5:1] – [2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

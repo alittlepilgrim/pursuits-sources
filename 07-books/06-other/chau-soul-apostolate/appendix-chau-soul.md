@@ -1,6 +1,6 @@
 ---
 type: book
-title: Appendix Ten Aids to Mental Prayer – The Soul of the Apostolate
+title: Appendix – Ten Aids to Mental Prayer – The Soul of the Apostolate
 author: Dom Chautard
 aliases:
   - Appendix Ten Aids to Mental Prayer – The Soul of the Apostolate
@@ -8,7 +8,7 @@ tags:
   - author/chautard-dom
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: false
 ---
 

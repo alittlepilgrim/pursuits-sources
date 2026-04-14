@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/galatians/0
 aliases:
   - galatians-00
   - Galatians, the Letter to the Galatians
-  - Galatians, The Letter To The Galatians
 tags:
   - bible/book
   - bible/galatians
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Galatians, the Letter to the Galatians
 ---
@@ -53,3 +52,7 @@ The principal divisions of the Letter to the Galatians are the following:
 - [[galatians-04|Galatians, Chapter 4]]
 - [[galatians-05|Galatians, Chapter 5]]
 - [[galatians-06|Galatians, Chapter 6]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

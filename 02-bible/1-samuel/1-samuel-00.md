@@ -4,7 +4,6 @@ title: 1 Samuel, The Books of Samuel
 url: https://bible.usccb.org/bible/1samuel/0
 aliases:
   - 1 Samuel, the Books of Samuel
-  - 1 Samuel, The Books of Samuel
   - 1-samuel-00
 tags:
   - bible/1-samuel
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, the Books of Samuel
 ---
@@ -69,3 +68,7 @@ The contents of the Books of Samuel may be divided as follows:
 - [[1-samuel-29|1 Samuel, Chapter 29]]
 - [[1-samuel-30|1 Samuel, Chapter 30]]
 - [[1-samuel-31|1 Samuel, Chapter 31]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

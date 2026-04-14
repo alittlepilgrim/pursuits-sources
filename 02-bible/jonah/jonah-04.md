@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jonah, Chapter 4
 ---
@@ -61,3 +61,7 @@ description: Jonah, Chapter 4
 a. (4:2) [Ex 34:6] – [7]; [Ps 86:5]; [Jl 2:13].
 
 b. (4:3) [[1-kings-19|1 Kgs 19]]:4.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

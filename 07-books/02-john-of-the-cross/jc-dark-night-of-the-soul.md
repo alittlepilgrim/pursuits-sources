@@ -5,7 +5,6 @@ author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
 url: https://ccel.org/ccel/j/john_cross/dark_night/cache/dark_night.txt
 aliases:
-  - 20250912-011645
   - Dark Night of the Soul by Saint John of the Cross
   - Dark Night Of The Soul by Saint John Of The Cross
   - Dark Night Of The Soul By Saint John Of The Cross
@@ -21,7 +20,7 @@ tags:
   - subject/spirituality
   - subject/theology
 created: 2025-09-12
-modified: 2026-04-04
+modified: 2026-04-07
 publish: true
 permalink: /dark-night-of-the-soul-by-saint-john-of-the-cross
 description: A seminal mystical treatise by St. John of the Cross, exploring the 'dark night' of purification in the journey toward union with God.

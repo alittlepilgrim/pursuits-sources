@@ -3,17 +3,15 @@ type: bible
 title: Zephaniah, The Book of Zephaniah
 url: https://bible.usccb.org/bible/zephaniah/0
 aliases:
-  - 20250730-154646
   - zephaniah-00
   - Zephaniah, the Book of Zephaniah
-  - Zephaniah, The Book of Zephaniah
 tags:
   - bible/book
   - bible/old-testament
   - bible/zephaniah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zephaniah, the Book of Zephaniah
 ---
@@ -34,3 +32,7 @@ Following are the book’s four sections:
 2. Judgment on the Nations ([2:4] – [15])
 3. Jerusalem Reproached ([3:1] – [7])
 4. The Nations Punished and Jerusalem Restored ([3:8] – [20])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

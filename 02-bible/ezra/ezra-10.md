@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: ezra-chapter 10
 ---
@@ -123,3 +123,7 @@ description: ezra-chapter 10
 a. (10:10]\] [Neh 9:2].
 
 b. (10:23]\] [Neh 8:7]; [10:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

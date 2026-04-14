@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Malachi, Chapter 1
 ---
@@ -167,3 +167,7 @@ e. (1:6) [Prv 1:7]; [Is 29:13].
 f. (1:8) [Lv 22:17] – [25]; [Dt 15:21]; [17:1].
 
 g. (1:11) [Ps 113:3]; [Is 59:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

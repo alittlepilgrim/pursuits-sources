@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 14
 ---
@@ -95,3 +95,7 @@ h. (14:17) [Lv 26:25].
 i. (14:21) cf. ([[revelation-06|Rv 6]]:8].
 
 j. (14:23) [Jer 22:8] – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

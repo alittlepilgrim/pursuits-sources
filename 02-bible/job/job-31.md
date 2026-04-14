@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 31
 ---
@@ -227,3 +227,7 @@ g. (31:28) [Dt 17:2] – [7].
 h. (31:29) [Prv 24:17].
 
 i. (31:35) [Jb 19:23]; [23:3] – [7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

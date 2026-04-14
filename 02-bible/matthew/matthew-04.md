@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 4
 ---
@@ -154,4 +154,8 @@ l. (4:18] – [22) ([[mark-01|Mk 1]]:16] – [20]; ([[luke-05| [[luke-05|Lk 5]]:
 
 m. (4:23) [9:35]; ([[mark-01|Mk 1]]:39]; ([[luke-04| [[luke-04|Lk 4]]:]]:15], [44].
 
-n. (4:25) ([[mark-03|Mk 3]]:7] – [8]; ([[luke-06| [[luke-06|Lk 6]]:]]:17] – [19].
+n. (4:25) ([[mark-03|Mk 3]]:7] – [8]; ([[luke-06||Lk 6]]:17] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

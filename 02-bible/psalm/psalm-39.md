@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 39
 ---
@@ -109,3 +109,7 @@ b. (39:4) [Jer 20:9].
 c. (39:6) [Ps 62:10]; [90:9] – [10]; [144:4]; [Jb 7:6], [16]; [14:1], [5]; [Eccl 6:12]; ([[wisdom-02|Wis 2]]:5].
 
 d. (39:13) [Ps 119:19]; [[genesis-23|Gen 23]]:4; [Heb 11:13]; [1 Pt 2:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

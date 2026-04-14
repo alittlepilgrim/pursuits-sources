@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 77
 ---
@@ -159,3 +159,7 @@ l. (77:19) ([[psalm-18|Ps 18]]:8]; [97:4]; [99:1]; ([[exodus-19|Ex 19]]:16]; [Jg
 m. (77:20) [Neh 9:11]; [Wis 14:3]; [Is 51:10]; [Hb 3:15].
 
 n. (77:21) [Ps 78:52]; [Is 63:11] – [14]; [[hosea-12|Hos 12]]:14; [Mi 6:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

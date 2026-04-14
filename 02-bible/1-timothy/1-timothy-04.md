@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Timothy, Chapter 4
 ---
@@ -89,3 +89,7 @@ g. (4:10) [2:4]; [Ti 2:11].
 h. (4:12) [1 Cor 16:11]; [Ti 2:15] / [Phil 3:17].
 
 i. (4:14) [5:22]; ([[acts-of-the-apostles-06|Acts 6]]:6]; [8:17]; [2 Tm 1:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

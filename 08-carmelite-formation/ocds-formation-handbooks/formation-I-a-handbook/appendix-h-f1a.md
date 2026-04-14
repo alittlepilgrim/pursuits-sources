@@ -1,0 +1,69 @@
+---
+type: formation-handbook
+title: "Appendix H: Excerpts from The Practice of the Presence of God – Formation I, Year A"
+author: Secular Order of Discalced Carmelites
+aliases:
+  - "Appendix H: Excerpts from The Practice of the Presence of God"
+tags:
+  - carmel/formation
+  - type/study-guide
+created: 2025-08-28
+modified: 2026-04-09
+publish: false
+description: "Appendix H: Excerpts from The Practice of the Presence of God – OCDS Formation I, Year A (The Way of Perfection)"
+---
+
+← [[appendix-g-f1a|Appendix G: CCC 2697–2708 — Expressions of Prayer]] | [[formation-I-a-handbook|Table of Contents]] | [[appendix-i-f1a|Appendix I: Sayings of Light and Love — St. John of the Cross]] →
+
+# Appendix H: Excerpts from The Practice of the Presence of God
+
+Copyright Washington Province of Discalced Carmelites, Inc. ICS Publications, 1994 Used with permission Spiritual Maxims 2, 3, 5, 6, and 7 CHAPTER 2 PRACTICES NECESSARY TO ATTAIN THE SPIRITUAL LIFE
+
+6. The holiest, most ordinary, and most necessary practice of the spiritual life is that of the presence of God. It is to take delight in and become accustomed to his divine company, speaking humbly and conversing lovingly with him all the time, at every moment, without rule or measure, especially in times of temptation, suffering, aridity, weariness, even infidelity and sin.
+7. We must continually apply ourselves so that all our actions, without exception, become a kind of brief conversation with God, not in a contrived manner but coming from the purity and simplicity of our hearts.
+8. We must perform all our actions carefully and deliberately, not impulsively or hurriedly, for such would characterize a distracted mind. We must work gently and lovingly with God, asking him to accept our work, and by this continual attention to God we will crush the head of the devil and force the weapons from his hands.
+9. During our work and other activities, even during our reading and writing, no matter how spiritual—and, I emphasize, even during our religious exercises and vocal prayers—we must stop for a moment, as often as possible, to adore God in the depths of our hearts, to savor him, even though in passing and stealthily. Since you are aware that God is present to you during your actions, that he is in the depths and center of your heart, stop your activities and even your vocal prayers, at least from time to time, to adore him within, to praise him, to ask his help, to offer him your heart, and to thank him. Nothing is more pleasing to God than to turn away from all creatures many times throughout the day to withdraw and adore him present within. Moreover, this turning inward imperceptibly destroys the self-love found only among creatures. In the end, we can offer God no greater evidence of our fidelity than by frequently renouncing and scorning creatures in order to enjoy their Creator for a moment. I do not mean by this that you must withdraw forever from your duties, for that would be impossible; prudence, the mother of all virtues, must be your guide. I do say, nonetheless, that it is a typical error among the spiritually minded not to withdraw from what is external from time to time to adore God within themselves and enjoy his divine presence in peace for a few moments. This digression was long but I thought the matter called for some explanation. Let’s get back to our exercises.
+10. All these adorations must be made by faith, believing that God is truly in our hearts, that we must adore, love, and serve him in spirit and in truth, that he sees everything that happens and will happen in us and in all creatures; that he is independent of everything and the one on whom all creatures depend, infinite in every kind of perfection. He is the one who, by virtue of his infinite excellence and sovereign domain, deserves all that we are as well as everything in heaven 69 and on earth, of which he can dispose as he wishes in time and in eternity. All our thoughts, words and actions belong by right to him. Let’s put this into practice.
+11. We must carefully examine which virtues are the most essential, which are the most difficult to acquire, which sins we commit most often, and which are the most frequent and inevitable of our falls. We must have recourse to God with complete confidence at the moment of combat, remain firm in the presence of his divine majesty, adore him humbly, bring him our miseries and weaknesses, and lovingly ask him for the help of his grace. In this way we will find every virtue in him without our having any of our own.
+
+CHAPTER 3 HOW WE MUST ADORE GOD IN SPIRIT AND IN TRUTH
+
+12. This question contains three points to which we must respond. I say that adoring God in spirit and in truth means adoring God as we are supposed to adore him. God is spirit and we must adore him in spirit and in truth, that is, with humble, authentic adoration of spirit in the depths and center of our souls. God alone can see this adoration, which we can repeat so often that in the end it will become second nature to us, as if God were one with our souls and our souls were one with God. Practice will make this evident.
+13. Adoring God in truth means recognizing him for what he is and recognizing ourselves for what we are. Adoring God in truth means recognizing truly, really, and in spirit that God is what he is, infinitely perfect, infinitely adorable, infinitely removed from all evil, and so on for all the divine attributes. Who are we, and what reason could excuse us from using all our strength to offer this great God all respect and adoration?
+14. Adoring God in truth means admitting that, although we are completely opposite, he wants to make us like himself, if we so desire, we must not be so imprudent as to withhold, even for a moment, the respect, love, service and continual adoration we owe him.
+
+CHAPTER 5 ON THE PRESENCE OF GOD
+
+20. The [practice of the] presence of God is an application of our mind to God, or a remembrance of God present, that can be brought about either by the imagination or the understanding.
+21. I know someone who, for forty years, has been practicing an intellectual presence of God to which he gives several other names. Sometimes he calls it a “simple act,” a “clear and distinct knowledge of God,” an “indistinct view” or a “general and loving awareness of God.” Other times he names it “attention to God” “silent conversation with God,” “trust in God,” or “the soul’s life and peace.” This person told me that all these forms of God’s presence are nothing but synonyms for the same thing, and that it is at present second nature to him. Here is how:
+22. This person says that the habit is formed by the repetition of acts and by frequently bringing the mind back into God’s presence. He says that as soon as he is free from his occupations, and
+
+often even when he is most taken up by them, the recesses of his mind [esprit] or the innermost depths of his soul are raised with no effort on his part and remain suspended and fixed in God, above all things, as in its center and resting place. Since he is generally aware that his mind, thus held in suspension, is accompanied by faith, he is satisfied. This is what he calls “actual presence of God,” which includes all the other types of presence and much more besides, so that he now lives as if only he and God were in the world. He converses with God everywhere, asks him for what he needs, and rejoices continuously with him in countless ways.
+
+23. It is important, however, to realize that this conversation with God takes place in the depths and center of the soul. It is there that the soul speaks to God heart to heart, and always in a deep and profound peace that the soul enjoys in God. Everything that takes place outside the soul means no more to it than a lit straw that goes out as soon as it is ignited, and almost never, or very rarely, disturbs its inner peace.
+24. To get back to the presence of God, I say that this gentle, loving awareness of God imperceptibly ignites a divine fire in the soul, inflaming it so intensely with love of God that one is forced to perform various activities in an effort to contain it.
+25. We would be surprised to know what the soul sometimes says to God, who is so pleased with these conversations that he grants it all its desires, providing it is willing to remain with him always, and in its center. To discourage the soul from returning to created things, God takes care to provide it with everything it desires, and to such an extent that it often finds within itself a very savory, delicious nourishment, though it never sought nor did anything to obtain it, and in no way contributed to it itself, except by its consent.
+26. The presence of God is then the soul’s life and nourishment, which can be acquired by the Lord’s grace. Here are the means: CHAPTER 6 MEANS TO ACQUIRE THE PRESENCE OF GOD
+27. The first means is great purity of life.
+28. The second is great fidelity to the practice of this presence and to the fostering of this awareness of God within, which must always be performed gently, humbly, and lovingly, without giving in to disturbance or anxiety.
+29. We must take special care that this inner awareness, no matter how brief it may be, precedes our activities, that it accompanies them from time to time, and that we complete all of them in the same way. Since much time and effort are required to acquire this practice, we must not get discouraged when we fail, for the habit is only formed with effort, yet once it is formed we will find contentment in everything. It is only right that the heart, the first to beat with life and the part that controls the rest of the body, should be the first and the last to love and adore God, whether by beginning or by completing our spiritual and physical activities, and generally, in all life’s exercises. This is the reason we must take care to foster this awareness, which we must do naturally and normally, as I have said, thus making it easier.
+
+71
+
+30. It would be appropriate for beginners to formulate a few words interiorly, such as: “My God, I am completely yours,” or “God of love, I love you with all my heart,” or “Lord, fashion me according to your heart,” or any other words love spontaneously produces. But they must take care that their minds do not wander or return to creatures. The mind must be kept fixed on God alone, so that seeing itself so moved and led by the will, it will be obliged to remain with God.
+31. This [practice of the] presence of God, somewhat difficult in the beginning, secretly accomplishes marvelous effects in the soul, draws abundant graces from the Lord, and, when practiced faithfully, imperceptibly leads it to this simple awareness, to this loving view of God present everywhere, which is the holiest, the surest, the easiest, and the most efficacious form of prayer.
+32. Please note that to arrive at this state, mortification of the senses is presupposed, since it is impossible for a soul that still finds some satisfaction in creatures to completely enjoy this divine presence; for to be with God, we must abandon creatures.
+
+CHAPTER 7 BENEFITS OF THE PRESENCE OF GOD
+
+33. The first benefit that the soul receives from the [practice of the] presence of God is that its faith becomes more intense and efficacious in all life’s situations, and especially in times of need, since it easily obtains graces in moments of temptation and in the inevitable dealings with creatures. For the soul, accustomed to the practice of faith by this exercise, sees and senses God present by a simple remembrance. It calls out to him easily and effectively, thus obtaining what it needs. It can be said that it possesses here something resembling the state of the blessed, for the more it advances, the more intense its faith grows, becoming so penetrating in the end that you could almost say: I no longer believe, for I see and experience.
+34. The practice of the presence of God strengthens us in hope. Our hope increases in proportion to our knowledge. It grows and is strengthened to the extent that our faith penetrates the secrets of the divinity by this holy exercise, to the extent that it discovers in God a beauty infinitely surpassing not only that of the bodies we see on earth but even that of the most perfect souls and of the angels. The grandeur of the blessing that it desires to enjoy, and in some manner already tastes, satisfies and sustains it.
+35. This practice inspires the will with a scorn for creatures, and inflames it with a sacred fire of love. Since the will is always with God who is a consuming fire, this fire reduces to ashes all that is opposed to it. The soul thus inflamed can live only in the presence of its God, a presence that produces in its heart a holy ardor, a sacred zeal and a strong desire to see this God loved, known, served, and adored by all creatures.
+36. By turning inward and practicing the presence of God, the soul becomes so intimate with God that it spends practically all its life in continual acts of love, adoration, contrition, trust, thanksgiving, oblation, petition, and all the most excellent virtues. Sometimes it even becomes one continuous act, because the soul constantly practices this exercise of his divine presence.
+
+72 01.24 1-24-2024
+
+Appendix H
+
+37. I know that few persons reach this advanced state. It is a grace God bestows only on a few chosen souls, since this simple awareness remains ultimately a gift from his kind hand. But let me say, for the consolation of those who desire to embrace this holy practice, that he ordinarily gives it to souls who are disposed to receive it. If he does not give it, we can at least acquire, with the help of ordinary grace, a manner and state of prayer that greatly resembles this simple awareness, by means of this practice of the presence of God.
+

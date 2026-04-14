@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 12
 ---
@@ -149,3 +149,7 @@ h. (12:12) [Gn 31:45] – [54]; [Jos 4] – [5].
 i. (12:13) [Gn 28:5]; [29:15] – [30]; [30:31].
 
 j. (12:14) ([[exodus-03|Ex 3]]:7] – [10]; [Dt 18:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 20
 ---
@@ -197,3 +197,7 @@ j. (20:24) [Prv 16:9].
 k. (20:28) [Prv 16:12].
 
 l. (20:29) [Prv 16:31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 15
 ---
@@ -111,3 +111,7 @@ l. \[[15:26]\] [2 Sm 6:17]; [2 Chr 29:21].
 m. \[[15:27]\] [1 Sm 2:18]; [2 Sm 6:14].
 
 n. \[[15:29]\] [2 Sm 6:20] – [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

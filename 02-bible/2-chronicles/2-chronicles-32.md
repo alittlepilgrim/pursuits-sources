@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 32
 ---
@@ -121,3 +121,7 @@ l. (32:26], [31) [[2-kings-20|2 Kgs 20]]:12 – [19]; [Is 39:1] – [8].
 m. (32:27] – [28) [[2-kings-20|2 Kgs 20]]:13; [Is 39:2].
 
 n. (32:30) [[2-kings-20|2 Kgs 20]]:20 – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

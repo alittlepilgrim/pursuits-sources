@@ -3,15 +3,14 @@ type: ocd-readings
 title: Why I Love You, O Mary by Saint Thérèse of Lisieux
 author: OCD General Curia
 aliases:
-  - 20250718-205658
   - tcj-poem-54-text
   - Why I Love You, O Mary by Saint Thérèse of Lisieux
 tags:
   - author/saint-therese-of-lisieux
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
   - saint/thérèse-of-lisieux
 created: 2025-07-18
-modified: 2026-04-06
+modified: 2026-04-09
 publish: true
 description: Why I Love You, O Mary by Saint Thérèse of Lisieux
 attachment: true
@@ -187,7 +186,7 @@ O my dear Mother, how lovable I find you
 
 How great I find you in such a poor place!....
 
-## Stanza 10 - the Adoration of the Magi
+## Stanza 10 — The Adoration of the Magi
 
 10. When I see the Lord wrapped in swaddling clothes
 
@@ -205,7 +204,7 @@ How I love you listening to the shepherds and the Magi
 
 And **guarding with care all things in your heart**!...
 
-## Stanza 11 - the Presentation
+## Stanza 11 — The Presentation
 
 11. I love you mingling with the other women
 
@@ -313,7 +312,7 @@ He may well be hiding, I agree to wait for him
 
 Until the day without sunset when my faith will be extinguished....
 
-## Stanza 17 - the Common Way
+## Stanza 17 — The Common Way
 
 17. I know that in Nazareth, Mother full of graces
 
@@ -403,7 +402,7 @@ How not to love you, oh my dear Mother
 
 Seeing so much **love** and so much **humility**?
 
-## Stanza 22 - the Ascension. Mary Left for Us as Refuge of Sinners
+## Stanza 22 — The Ascension. Mary Left for Us as Refuge of Sinners
 
 22. You love us, Mary, as Jesus loves us
 

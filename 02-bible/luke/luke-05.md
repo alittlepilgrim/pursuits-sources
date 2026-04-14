@@ -3,7 +3,6 @@ type: bible
 title: Luke, Chapter 5
 url: https://bible.usccb.org/bible/luke/5
 aliases:
-  - 20250730-160757
   - luke-05
   - Luke, Chapter 5
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 5
 ---
@@ -107,7 +106,7 @@ description: Luke, Chapter 5
 
 39 \[And\] no one who has been drinking old wine desires new, for he says, ‘The old is good.’” ^luke-05-39
 
-\* (5:1] – [11) This incident has been transposed from his source, ([[mark-01|Mk 1]]:16] – [20], which places it immediately after Jesus makes his appearance in Galilee. By this transposition Luke uses this example of Simon’s acceptance of Jesus to counter the earlier rejection of him by his hometown people, and since several incidents dealing with Jesus’ power and authority have already been narrated, Luke creates a plausible context for the acceptance of Jesus by Simon and his partners. Many commentators have noted the similarity between the wondrous catch of fish reported here (([[luke-05| [[luke-05|Lk 5]]:]]:4] – [9]) and the post-resurrectional appearance of Jesus in [Jn 21:1] – [11]. There are traces in Luke’s story that the post-resurrectional context is the original one: in ([[luke-05| [[luke-05|Lk 5]]:]]:8] Simon addresses Jesus as Lord (a post-resurrectional title for Jesus—see ([[luke-24|Lk 24]]:34]; ([[acts-of-the-apostles-02|Acts 2]]:36] —that has been read back into the historical ministry of Jesus) and recognizes himself as a sinner (an appropriate recognition for one who has denied knowing Jesus— ([[luke-22|Lk 22]]:54] – [62]). As used by Luke, the incident looks forward to Peter’s leadership in Luke-Acts (([[luke-06| [[luke-06|Lk 6]]:]]:14]; [9:20]; [22:31] – [32]; [24:34]; ([[acts-of-the-apostles-01|Acts 1]]:15]; [2:14] – [40]; [10:11] – [18]; [15:7] – [12]) and symbolizes the future success of Peter as fisherman ([.[[acts-of-the-apostles-02|Acts 2]]:41]).
+\* (5:1] – [11) This incident has been transposed from his source, ([[mark-01|Mk 1]]:16] – [20], which places it immediately after Jesus makes his appearance in Galilee. By this transposition Luke uses this example of Simon’s acceptance of Jesus to counter the earlier rejection of him by his hometown people, and since several incidents dealing with Jesus’ power and authority have already been narrated, Luke creates a plausible context for the acceptance of Jesus by Simon and his partners. Many commentators have noted the similarity between the wondrous catch of fish reported here (([[luke-05| [[luke-05|Lk 5]]:]]:4] – [9]) and the post-resurrectional appearance of Jesus in [Jn 21:1] – [11]. There are traces in Luke’s story that the post-resurrectional context is the original one: in ([[luke-05| [[luke-05|Lk 5]]:]]:8] Simon addresses Jesus as Lord (a post-resurrectional title for Jesus—see ([[luke-24|Lk 24]]:34]; ([[acts-of-the-apostles-02|Acts 2]]:36] —that has been read back into the historical ministry of Jesus) and recognizes himself as a sinner (an appropriate recognition for one who has denied knowing Jesus— ([[luke-22|Lk 22]]:54] – [62]). As used by Luke, the incident looks forward to Peter’s leadership in Luke-Acts (([[luke-06||Lk 6]]:14]; [9:20]; [22:31] – [32]; [24:34]; ([[acts-of-the-apostles-01|Acts 1]]:15]; [2:14] – [40]; [10:11] – [18]; [15:7] – [12]) and symbolizes the future success of Peter as fisherman ([.[[acts-of-the-apostles-02|Acts 2]]:41]).
 
 \* (5:11) They left everything: in ([[mark-01|Mk 1]]:16] – [20] and ([[matthew-04|Mt 4]]:18] – [22] the fishermen who follow Jesus leave their nets and their father; in Luke, they leave everything (see also ([[luke-05| [[luke-05|Lk 5]]:]]:28]; [12:33]; [14:33]; [18:22]), an indication of Luke’s theme of complete detachment from material possessions.
 
@@ -115,7 +114,7 @@ description: Luke, Chapter 5
 
 \* (5:14) Show yourself to the priest…what Moses prescribed: this is a reference to [Lv 14:2] – [9] that gives detailed instructions for the purification of one who had been a victim of leprosy and thereby excluded from contact with others (see [Lv 13:45] – [46], [49]; [Nm 5:2] – [3]). That will be proof for them: see note on ([[matthew-08|Mt 8]]:4].
 
-\* (5:17] – [6:11) From his Marcan source, Luke now introduces a series of controversies with Pharisees: controversy over Jesus’ power to forgive sins (([[luke-05| [[luke-05|Lk 5]]:]]:17] – [26]); controversy over his eating and drinking with tax collectors and sinners (([[luke-05| [[luke-05|Lk 5]]:]]:27] – [32]); controversy over not fasting (([[luke-05| [[luke-05|Lk 5]]:]]:33] – [36]); and finally two episodes narrating controversies over observance of the sabbath (([[luke-06| [[luke-06|Lk 6]]:]]:1] – [11]).
+\* (5:17] – [6:11) From his Marcan source, Luke now introduces a series of controversies with Pharisees: controversy over Jesus’ power to forgive sins (([[luke-05| [[luke-05|Lk 5]]:]]:17] – [26]); controversy over his eating and drinking with tax collectors and sinners (([[luke-05| [[luke-05|Lk 5]]:]]:27] – [32]); controversy over not fasting (([[luke-05| [[luke-05|Lk 5]]:]]:33] – [36]); and finally two episodes narrating controversies over observance of the sabbath (([[luke-06||Lk 6]]:1] – [11]).
 
 \* (5:17) Pharisees: see note on ([[matthew-03|Mt 3]]:7].
 
@@ -166,3 +165,7 @@ m. (5:27] – [32) ([[matthew-09|Mt 9]]:9] – [13]; ([[mark-02|Mk 2]]:13] – [
 n. (5:29] – [30) [15:1] – [2].
 
 o. (5:33] – [39) ([[matthew-09|Mt 9]]:14] – [17]; ([[mark-02|Mk 2]]:18] – [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

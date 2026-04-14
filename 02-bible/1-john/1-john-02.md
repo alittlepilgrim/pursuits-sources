@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 John, Chapter 2
 ---
@@ -165,3 +165,7 @@ r. (2:23) [Jn 14:7] – [9].
 s. (2:24) [Jn 14:23].
 
 t. (2:25) [Jn 5:24]; [10:28]; [17:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

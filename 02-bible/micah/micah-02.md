@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Micah, Chapter 2
 ---
@@ -147,3 +147,7 @@ The Lord, as owner of the earth, allotted the land by tribes and families to the
 \* (2:12] – [13) This announcement of salvation to the “remnant of Israel” stands out dramatically in the context, and is probably a later addition to the words of Micah, coming from the time of the Babylonian exile. The content of the promise and the images are similar to those found in Second Isaiah, the great poet of Israel’s salvation and restoration (see [Is 40:11]; [43:5]).
 
 a. (2:11) [[1-kings-22|1 Kgs 22]]:22 – [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

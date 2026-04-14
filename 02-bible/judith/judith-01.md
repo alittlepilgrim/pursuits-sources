@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 1
 ---
@@ -89,3 +89,7 @@ e. (1:10) [[isaiah-19|Is 19]]:13; [Jer 2:16]; [44:1]; [46:14], [19]; [Ez 30:13],
 f. (1:11) [2 Sm 17:3]; [Ez 33:24].
 
 g. (1:16) [Est 1:3] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

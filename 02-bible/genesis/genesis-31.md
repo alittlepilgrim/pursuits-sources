@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 31
 url: https://bible.usccb.org/bible/genesis/31
 aliases:
-  - 20250508-020316
   - genesis-31
   - Genesis, Chapter 31
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 31
 bible_book: genesis
@@ -187,3 +186,7 @@ j. (31:45) [Gn 28:18]; [35:14]..
 ## Navigation
 
 [[genesis-00|[← Previous Note]]] · [[genesis-02|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

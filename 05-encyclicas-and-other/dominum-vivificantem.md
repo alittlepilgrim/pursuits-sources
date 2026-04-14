@@ -10,7 +10,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Encyclical Letter Dominum et vivificantem (18 May 1986) On the Holy Spirit in the Life of the Church ¶ and the World
 abbreviation: jpii-dv
@@ -20,7 +20,7 @@ Ioannes Paulus PP. II
 
 # Dominum Et Vivificantem
 
-## On The Holy Spirit In The Life Of The Church and The World
+## On the Holy Spirit in the Life of the Church and the World
 
 ## Introduction
 
@@ -46,7 +46,7 @@ The Church feels herself called to this mission of proclaiming the Spirit, while
 
 Naturally, the considerations that follow do not aim to explore exhaustively the extremely rich doctrine on the Holy Spirit, nor to favor any particular solution of questions which are still open. Their main purpose is to develop in the Church the awareness that "she is compelled by the Holy Spirit to do her part towards the full realization of the will of God, who has established Christ as the source of salvation for the whole world." 15
 
-## Part I. The Spirit Of The Father and Of The Son Given to The Church
+## Part I. The Spirit of the Father and of the Son Given to the Church
 
 ***1\. Jesus' Promise and Revelation at the Last Supper***
 
@@ -176,7 +176,7 @@ Following the guidance of the Spirit of truth and bearing witness together with 
 
 We read in the Pastoral Constitution: "For theirs (i.e., of the disciples of Christ) is a community composed of men. United in Christ, they are led by the Holy Spirit in their journey to the kingdom of their Father and they have welcomed the news of salvation which is meant for every man. That is why this community realizes that it is truly and intimately linked with mankind and its history." 99 "The Church truly knows that only God, whom she serves, meets the deepest longings of the human heart, which is never fully satisfied by what the world has to offer." 100 "God 's Spirit... with a marvelous providence directs the unfolding of time and renews the face of the earth." 101
 
-## Part II. The Spirit Who Convinces The World Concerning sin
+## Part II. The Spirit Who Convinces the World Concerning sin
 
 ***1\. Sin, Righteousness and Judgment***
 

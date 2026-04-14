@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 29
 ---
@@ -121,3 +121,7 @@ l. (29:23] – [24) [1 Kgs 9:8] – [9]; [Jer 5:19]; [9:12] – [16]; [16:10] �
 m. (29:25) [Dt 4:19]; [32:8] – [9].
 
 n. (29:26] – [27) [Dt 29:20] – [21]; [Dn 9:11] – [14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 18
 ---
@@ -111,3 +111,7 @@ Let each of them go back home in peace.”
 a. (18:1] – [34) [[1-kings-22|1 Kgs 22]]:1 – [35].
 
 b. (18:33) [2 Chr 35:23]; [[1-kings-22|1 Kgs 22]]:34.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

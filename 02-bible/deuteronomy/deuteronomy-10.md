@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 10
 ---
@@ -111,3 +111,7 @@ s. (10:20) [Dt 6:13]; ([[matthew-04|Mt 4]]:10]; ([[luke-04| [[luke-04|Lk 4]]:]]:
 t. (10:21) [Ps 109:1]; [Jer 17:14].
 
 u. (10:22) [Dt 1:10]; [Gn 46:8] – [27]; ([[exodus-01|Ex 1]]:5]; ([[acts-of-the-apostles-07|Acts 7]]:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

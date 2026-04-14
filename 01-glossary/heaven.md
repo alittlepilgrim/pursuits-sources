@@ -11,7 +11,7 @@ tags:
   - term/heaven
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: heaven. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -21,6 +21,42 @@ description: heaven. Catechism of the Catholic Church. 1997. 2nd ed. Vatican Cit
 ## Catechism of the Catholic Church
 
 Eternal life with God; communion of life and love with the Trinity and all the blessed. Heaven is the state of supreme and definitive happiness, the goal of the deepest longings of humanity ([[1.2.3.12.p2m|ccc-1023]]).
+
+## Ignatius Catholic Study Bible
+
+**Heaven**
+
+Awareness of earthly events in heaven: Lk 15:7, 10; 1 Tim 5:21; Rev 5:8; 6:10; 8:3-4
+
+Christ now lives in heaven, where he intercedes for his followers: Heb 7:24-28; 8:1-6; 9:11-14, 24; 10:11
+
+City of God/New Jerusalem image: Gal 4:26; Phil 3:20; Heb 12:22; 13:14; Rev 3:12; 21:2, 10-27
+
+Citizenship of heaven: Eph 2:19; Phil 3:20
+
+Fulfillment of human life: Mt 5:19-21; 2 Cor 4:17-18; 5:1-5, 8; Rev 7:15-17; 22:1-5
+
+Holiness of heaven's inhabitants: Mt 13:41-43; Heb 12:14, 22-24; Rev 7:13-17; 8:3-5; 21:27
+
+Liturgical elements used to describe heavenly worship: Rev 4:2-11; 5:8-13; 6:9; 8:3-5; 16:7
+
+New heaven(s) and a new earth: 2 Pet 3:13; Rev 21:1
+
+Presence of God: Heb 12:22; Rev 10:1-2; 21:3-4
+
+Rejoicing in heaven: Lk 15:7, 10
+
+Saints in heaven: Heb 12:22-24; Rev 4:4, 10; 5:8-10
+
+"Third" heaven: 2 Cor 12:2
+
+Throne of God: Mt 5:34; Heb 8:1; 12:2
+
+*See also* [[angel|Angels]]; [[intercession|Intercession of the Saints]]; [[saint|Saints]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 

@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 12
 ---
@@ -201,3 +201,7 @@ r. (12:24) [Dt 11:28]; [Jer 5:28]; ([[romans-01|Rom 1]]:23].
 s. (12:25) [Jer 4:22].
 
 t. (12:27) [Wis 16:16]; ([[exodus-14|Ex 14]]:4], [28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

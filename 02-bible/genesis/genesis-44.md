@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 44
 url: https://bible.usccb.org/bible/genesis/44
 aliases:
-  - 20250508-020353
   - genesis-44
   - Genesis, Chapter 44
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 44
 bible_book: genesis
@@ -117,3 +116,7 @@ d. (44:32) [Gn 43:9]..
 ## Navigation
 
 [[genesis-03|[← Previous Note]]] · [[genesis-05|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

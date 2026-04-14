@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 7
 ---
@@ -71,3 +71,7 @@ d. (7:11) [Ex 32:9]; [Is 48:4].
 e. (7:12) [[ezekiel-11|Ez 11]]:19.
 
 f. (7:14) [Dt 4:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

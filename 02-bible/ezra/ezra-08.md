@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezra, Chapter 8
 ---
@@ -105,3 +105,7 @@ a. (8:18) ([[ezra-07|Ezr 7]]:6].
 b. (8:20) ([[ezra-02|Ezr 2]]:43].
 
 c. (8:22) [Neh 2:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

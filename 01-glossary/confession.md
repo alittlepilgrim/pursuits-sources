@@ -8,7 +8,7 @@ tags:
   - term/confession
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: confession. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -18,6 +18,16 @@ description: confession. Catechism of the Catholic Church. 1997. 2nd ed. Vatican
 ## Catechism of the Catholic Church
 
 An essential element of the Sacrament of Penance and Reconciliation, which consists in telling one's sins to the priestly minister. By extension, the word confession is used to refer to the Sacrament of Penance itself ([[2.2.2.4.p4d#^ccc-1455|1455]]).
+
+## Ignatius Catholic Study Bible
+
+**Confession of sins:** Mt 3:6; Mk 1:5; Jas 5:16; 1 Jn 1:9
+
+*See also* [[Penance]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 
@@ -30,7 +40,7 @@ An essential element of the Sacrament of Penance and Reconciliation, which consi
 - difficulties due to a lack of the spirit of faith [[280-the-ten-lepers#Meditation 2|280,2]];
 - to doubt [[absolution]] is to doubt Jesus Himself: [[280-the-ten-lepers#Meditation 2|280,2]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[3-sanctity-and-the-plenitude-of-grace|3. Sanctity and the Plenitude of Grace]]
 - [[73-penance|73. Penance]]

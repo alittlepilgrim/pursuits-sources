@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2023 - Study Guide 7 the Father’s Death and Celine Enters Carmel (Ms A, 81v-83v)
   - theresian-anniversaries-2023-study-guide-07
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

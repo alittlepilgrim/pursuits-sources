@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jonah, Chapter 1
 ---
@@ -69,3 +69,7 @@ b. (1:2) [Jon 3:3]; [4:11].
 c. (1:4] – [6) ([[mark-04|Mk 4]]:37] – [38].
 
 d. (1:7) [Jos 7:16] – [18]; [1 Sm 14:40] – [42].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 22
 ---
@@ -91,3 +91,7 @@ j. \[[22:14]\] [1 Chr 29:2] – [5].
 k. \[[22:18]\] [[1-chronicles-23|1 Chr 23]]:25; [Jos 21:44]; [23:1]; [2 Sm 7:1].
 
 l. \[[22:19]\] [1 Kgs 8:6], [21]; [2 Chr 5:7]; [6:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

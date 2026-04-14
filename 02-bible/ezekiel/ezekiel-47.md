@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 47
 ---
@@ -103,3 +103,7 @@ i. (47:16) [2 Sm 8:8].
 j. (47:19) [Nm 34:4]; [Dt 32:51].
 
 k. (47:22) [Lv 24:22]; [Nm 15:29]; [26:55] – [56]; [Is 56:6] – [7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 17
 ---
@@ -103,3 +103,7 @@ j. \[[17:21]\] [Dt 4:7]; [2 Sm 7:23].
 k. \[[17:25]\] [2 Sm 7:27].
 
 l. \[[17:27]\] [Nm 22:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 4
 ---
@@ -213,3 +213,7 @@ t. (4:48) [2:18], [23]; ([[wisdom-08|Wis 8]]:8]; ([[matthew-12|Mt 12]]:38]; ([[1
 u. (4:50) [[1-kings-17|1 Kgs 17]]:23.
 
 v. (4:54) [2:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

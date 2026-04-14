@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/obadiah/0
 aliases:
   - obadiah-00
   - Obadiah, the Book of Obadiah
-  - Obadiah, The Book of Obadiah
 tags:
   - bible/book
   - bible/obadiah
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-24
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Obadiah, the Book of Obadiah
 ---
@@ -32,3 +31,7 @@ The book may be divided as follows:
 1. Edom’s Fall Decreed ([1] – [7])
 2. Edom’s Betrayal of Judah ([8] – [14])
 3. Edom’s Fall and Judah’s Restoration ([15] – [21])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

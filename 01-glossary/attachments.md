@@ -11,7 +11,7 @@ tags:
   - term/attachments
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -31,7 +31,7 @@ the root of every attachment is the disordered tendency to pleasure: [[81-the-wa
 
 See: [[affections|Affections]]; [[imperfections|Imperfections]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[79-voluntary-attachments|79. Voluntary Attachments]]
 - [[81-the-way-of-the-nothing|81. The way of the Nothing]]

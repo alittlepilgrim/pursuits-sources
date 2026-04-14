@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 117
 ---
@@ -33,3 +33,7 @@ Hallelujah!
 \* (Psalm 117) This shortest of hymns calls on the nations to acknowledge God’s supremacy. The supremacy of Israel’s God has been demonstrated to them by the people’s secure existence, which is owed entirely to God’s gracious fidelity.
 
 a. (117:1) [Rom 15:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

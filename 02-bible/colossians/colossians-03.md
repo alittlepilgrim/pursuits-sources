@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Colossians, Chapter 3
 ---
@@ -133,3 +133,7 @@ q. (3:21) [Eph 6:4].
 r. (3:22) [Eph 6:5]; [1 Tm 6:1]; [Ti 2:9] – [10]; [1 Pt 2:18].
 
 s. (3:25) ([[romans-02|Rom 2]]:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

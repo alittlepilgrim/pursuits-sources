@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 3
 ---
@@ -79,3 +79,7 @@ f. (3:12) [Jos 4:2], [4].
 g. (3:16) [Ps 114:3].
 
 h. (3:17) [Jos 4:7], [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 1
 ---
@@ -153,3 +153,7 @@ l. (1:13] – [14) [[ezekiel-18|Ez 18]]:32; [33:11]; [2 Pt 3:9].
 m. (1:15) [Is 51:6] – [8].
 
 n. (1:16) [Is 28:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

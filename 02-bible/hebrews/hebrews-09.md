@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 9
 ---
@@ -161,3 +161,7 @@ s. (9:26) [7:27]; ([[john-01|Jn 1]]:29]; [Gal 4:4].
 t. (9:27) [Gn 3:19].
 
 u. (9:28) [10:10]; [Is 53:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

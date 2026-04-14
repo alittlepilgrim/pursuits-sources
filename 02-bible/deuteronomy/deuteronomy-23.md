@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 23
 ---
@@ -110,6 +110,10 @@ j. (23:18) [Gn 38:21] – [22]; [[1-kings-14|1 Kgs 14]]:24; [15:12]; [22:46]; [[
 
 k. (23:19) [Dt 7:25] – [26]; [[isaiah-23|Is 23]]:17 – [18].
 
-l. (23:20] – [21) [Dt 15:1] – [11]; [24:10] – [13]; ([[exodus-22|Ex 22]]:25]; [Lv 25:35] – [38]; [[ezekiel-18|Ez 18]]:8, [13], [17]; [22:12]; ([[luke-06| [[luke-06|Lk 6]]:]]:34] – [35].
+l. (23:20] – [21) [Dt 15:1] – [11]; [24:10] – [13]; ([[exodus-22|Ex 22]]:25]; [Lv 25:35] – [38]; [[ezekiel-18|Ez 18]]:8, [13], [17]; [22:12]; ([[luke-06||Lk 6]]:34] – [35].
 
 m. (23:22] – [24) [Gn 28:20] – [22]; [Nm 21:2] – [3]; [30:1] – [15]; [Jgs 11:30] – [40]; [1 Sm 1:11]; [Ps 56:12] – [13]; [66:13] – [15]; [132:1] – [5]; [Eccl 5:3] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

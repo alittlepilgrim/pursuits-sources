@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 5
 ---
@@ -81,3 +81,7 @@ g. (5:12) ([[exodus-16|Ex 16]]:35].
 h. (5:13) ([[exodus-23|Ex 23]]:20].
 
 i. (5:15) ([[exodus-03|Ex 3]]:5]; ([[acts-of-the-apostles-07|Acts 7]]:33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

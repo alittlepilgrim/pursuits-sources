@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 5
 ---
@@ -107,3 +107,7 @@ k. (5:18) [2 Kgs 25].
 l. (5:20] – [21) [Jdt 8:18] – [23]; [11:10]; [Tb 3:3].
 
 m. (5:23] – [24) [Jdt 6:2]; [9:7] – [8]; [16:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

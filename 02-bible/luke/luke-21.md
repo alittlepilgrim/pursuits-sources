@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: luke-chapter 21
 ---
@@ -114,7 +114,7 @@ description: luke-chapter 21
 
 38 And all the people would get up early each morning to listen to him in the temple area. ^luke-21-38
 
-\* (21:1] – [4) The widow is another example of the poor ones in this gospel whose detachment from material possessions and dependence on God leads to their blessedness (([[luke-06| [[luke-06|Lk 6]]:]]:20]). Her simple offering provides a striking contrast to the pride and pretentiousness of the scribes denounced in the preceding section (([[luke-20|Lk 20]]:45] – [47]). The story is taken from ([[mark-12|Mk 12]]:41] – [44].
+\* (21:1] – [4) The widow is another example of the poor ones in this gospel whose detachment from material possessions and dependence on God leads to their blessedness (([[luke-06||Lk 6]]:20]). Her simple offering provides a striking contrast to the pride and pretentiousness of the scribes denounced in the preceding section (([[luke-20|Lk 20]]:45] – [47]). The story is taken from ([[mark-12|Mk 12]]:41] – [44].
 
 \* (21:5] – [36) Jesus’ eschatological discourse in Luke is inspired by [Mk 13] but Luke has made some significant alterations to the words of Jesus found there. Luke maintains, though in a modified form, the belief in the early expectation of the end of the age (see ([[luke-21|Lk 21]]:27], [28], [31], [32], [36]), but, by focusing attention throughout the gospel on the importance of the day-to-day following of Jesus and by reinterpreting the meaning of some of the signs of the end from [Mk 13] he has come to terms with what seemed to the early Christian community to be a delay of the parousia. Mark, for example, described the desecration of the Jerusalem temple by the Romans (([[mark-13|Mk 13]]:14]) as the apocalyptic symbol (see [Dn 9:27]; [12:11]) accompanying the end of the age and the coming of the Son of Man. Luke (([[luke-21|Lk 21]]:20] – [24]), however, removes the apocalyptic setting and separates the historical destruction of Jerusalem from the signs of the coming of the Son of Man by a period that he refers to as “the times of the Gentiles” (([[luke-21|Lk 21]]:24]). See also notes on ([[matthew-24|Mt 24]]:1] – [36] and ([[mark-13|Mk 13]]:1] – [37].
 
@@ -187,3 +187,7 @@ a. (21:34) [12:45] – [46]; ([[matthew-24|Mt 24]]:48] – [50]; [1 Thes 5:3], [
 b. (21:36) ([[mark-13|Mk 13]]:33].
 
 c. (21:37) [19:47]; [22:39].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

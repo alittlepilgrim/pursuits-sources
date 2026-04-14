@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 John, Chapter 1
 ---
@@ -95,3 +95,7 @@ g. (1:8) [2 Chr 6:36]; [Prv 20:9].
 h. (1:9) [Prv 28:13]; [Jas 5:16].
 
 i. (1:10) [5:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

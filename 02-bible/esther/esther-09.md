@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: esther-chapter 9
 ---
@@ -127,3 +127,7 @@ j. (9:25) [Est 6:5] – [13].
 k. (9:27) [Est 8:12], [17].
 
 l. (9:30) [Est 9:23] – [26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 7
 ---
@@ -177,3 +177,7 @@ b. (7:10) ([[revelation-05|Rv 5]]:11].
 c. (7:13) ([[mark-13|Mk 13]]:26]; [14:62].
 
 d. (7:14) [Dn 3:33]; [4:31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

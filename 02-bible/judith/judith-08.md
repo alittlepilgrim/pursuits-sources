@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 8
 ---
@@ -143,3 +143,7 @@ k. (8:25) [Dt 8:5]; [Tb 12:14]; [Ps 94:12]; [Prv 3:11] – [12]; ([[wisdom-03|Wi
 l. (8:25) [[genesis-22|Gen 22]]:1 – [19]; [32:22] – [32]; ([[exodus-20|Ex 20]]:20]; [Dt 8:16].
 
 m. (8:30) [Ex 32:22]; [1 Sm 15:20] – [24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

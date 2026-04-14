@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 18
 ---
@@ -185,3 +185,7 @@ q. (18:36) [1:10]; [8:23].
 r. (18:37) [8:47]; [1 Tm 6:13].
 
 s. (18:38b] – [40) ([[matthew-27|Mt 27]]:15] – [26]; ([[mark-15|Mk 15]]:6] – [15]; ([[luke-23|Lk 23]]:18] – [25]; ([[acts-of-the-apostles-03|Acts 3]]:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

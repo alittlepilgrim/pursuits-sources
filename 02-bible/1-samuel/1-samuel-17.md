@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 17
 ---
@@ -191,3 +191,7 @@ n. (17:51) [1 Sm 21:10].
 o. (17:54) [1 Sm 31:9].
 
 p. (17:55) [1 Sm 14:50].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

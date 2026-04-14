@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 104
 ---
@@ -233,3 +233,7 @@ m. (104:29) [Ps 90:3]; [Jb 34:14] – [15]; [Eccl 3:20].
 n. (104:32) [Ps 144:5].
 
 o. (104:33) [Ps 146:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

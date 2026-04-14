@@ -11,7 +11,7 @@ tags:
   - saint/john-of-the-cross
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: Introduction - The Ascent of Mt. Carmel
 ---
@@ -131,4 +131,3 @@ Other editions or manuscripts cited are referred to without abbreviation.
 [64] [H, sub Juan Evangelista (2)]
 
 ASCENT OF MOUNT CARMEL Treats of how the soul may prepare itself in order to attain in a short time to Divine union. Gives very profitable counsels and instruction, both to beginners and to proficients, that they may know how to disencumber themselves of all that is temporal and not to encumber themselves with the spiritual, and to remain in complete detachment and liberty of spirit, as is necessary for Divine union.
-

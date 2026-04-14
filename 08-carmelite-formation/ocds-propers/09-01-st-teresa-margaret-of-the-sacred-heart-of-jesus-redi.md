@@ -12,7 +12,7 @@ tags:
   - type/ocd-proper
 celebration_day: 09-01
 created: 2024-07-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 
@@ -20,14 +20,13 @@ publish: false
 
 **Memorial**
 
-- [[teresa-margaret-saint]]
-*In the houses in Italy: Feast
-
 Teresa Margaret belonged to the noble family of Redi, and was born in the Tuscan city of Arezzo in 1747. She entered the Discalced Carmelite monastery at Florence on September 1, 1764. She was granted a special grace of contemplative insight based on Saint John’s phrase God is love, through which she felt called to a hidden life of love and self-sacrifice. She progressed rapidly, fulfilling her vocation through heroic charity toward others. She died in Florence in 1770, aged twenty-three.
 
 **From the Common of Virgins**
 
-**Prayer**
+*In the houses in Italy: Feast
+
+## Prayer
 
 Father, you enabled Saint Teresa Margaret of the Sacred Heart of Jesus to draw untold resources of humility and charity from the fountainhead, our Savior. Through her prayers may we never be separated from the love of Christ.
 

@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 22
 ---
@@ -239,3 +239,7 @@ p. (22:28) [Ps 86:9]; [Tb 13:11]; [Is 45:22]; [52:10]; [Zec 14:16].
 q. (22:29) [Ps 103:19]; [Ob 21]; [Zec 14:9].
 
 r. (22:32) [Ps 48:14] – [15]; [71:18]; [78:6]; [102:19]; [Is 53:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

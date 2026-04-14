@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 12
 ---
@@ -121,3 +121,7 @@ m. (12:24) [[ezekiel-13|Ez 13]]:23; [Jer 14:14]; [Zec 13:2] – [4].
 n. (12:25) [Hb 2:3].
 
 o. (12:27) cf. ([[matthew-24|Mt 24]]:48]; [2 Pt 3:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

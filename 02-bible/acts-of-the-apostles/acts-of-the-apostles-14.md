@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 14
 ---
@@ -109,3 +109,7 @@ g. \[[14:19] – [20]\] [2 Cor 11:25]; [2 Tm 3:11].
 h. \[[14:22]\] [1 Thes 3:3].
 
 i. \[[14:26]\] [13:1] – [3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

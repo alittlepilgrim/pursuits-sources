@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 28
 ---
@@ -107,3 +107,7 @@ i. (28:23) [[2-kings-16|2 Kgs 16]]:12 – [13]; [[isaiah-10|Is 10]]:20.
 j. (28:24) [2 Chr 29:3]; [30:14]; [[2-kings-16|2 Kgs 16]]:17.
 
 k. (28:26] – [27) [[2-kings-16|2 Kgs 16]]:19 – [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

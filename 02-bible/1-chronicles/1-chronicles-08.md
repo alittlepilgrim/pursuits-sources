@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 8
 ---
@@ -121,3 +121,7 @@ g. \[[8:34]\] [2 Sm 4:4]; [9:6]; [10:12].
 h. \[[8:36]\] [1 Chr 9:42].
 
 i. \[[8:38]\] [1 Chr 9:43].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

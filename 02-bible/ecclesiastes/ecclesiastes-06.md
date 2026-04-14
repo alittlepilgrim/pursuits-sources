@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ecclesiastes, Chapter 6
 ---
@@ -65,3 +65,7 @@ b. (4]\] [Eccl 4:2] – [3]; [Jb 3:11], [16].
 c. (12]\] [Jb 8:9]; [14:2]; [Ps 102:12].
 
 d. (12]\] [Eccl 3:22]; [8:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

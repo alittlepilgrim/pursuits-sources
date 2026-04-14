@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Maccabees, Chapter
 ---
@@ -95,3 +95,7 @@ d*. (9:9]]  [[judith-16|Jdt 16]]:17; [Sir 7:17];  [[isaiah-14|Is 14]]:11; [6
 e*. (9:12]] [Dn 4:31]–[34].
 
 f*. (9:29]] [1 Mc 6:55]–[56], [63].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,8 +3,6 @@ type: bible
 title: 1 Chronicles, the First Book of Chronicles
 url: https://bible.usccb.org/bible/1chronicles/0
 aliases:
-  - 1 Chronicles, the First Book of Chronicles
-  - 1 Chronicles, The First Book of Chronicles
   - 1-chronicles-00
 tags:
   - bible/1-chronicles
@@ -12,7 +10,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, the First Book of Chronicles
 bible_book: 1 Chr
@@ -67,3 +65,7 @@ The principal divisions of 1 Chronicles are as follows:
 - [[1-chronicles-27|1 Chronicles, Chapter 27]]
 - [[1-chronicles-28|1 Chronicles, Chapter 28]]
 - [[1-chronicles-29|1 Chronicles, Chapter 29]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

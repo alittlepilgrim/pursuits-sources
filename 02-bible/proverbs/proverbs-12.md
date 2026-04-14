@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 12
 ---
@@ -177,3 +177,7 @@ g. (12:22) [Prv 6:17].
 h. (12:24) [Prv 10:4]; [13:4].
 
 i. (12:25) [Prv 15:13]; [17:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

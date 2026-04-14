@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 4
 ---
@@ -141,3 +141,7 @@ i. \[[4:31]\] [2:4].
 j. \[[4:34] – [35]\] [2:44] – [45].
 
 k. \[[4:36] – [37]\] [9:27]; [11:22], [30]; [12:25]; [13:15]; ([[1-corinthians-09|1 Cor 9]]:6]; [Gal 2:1], [9], [13]; [Col 4:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

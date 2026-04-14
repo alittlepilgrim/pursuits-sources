@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 8
 ---
@@ -81,3 +81,7 @@ e. (8:13) [[2-kings-14|2 Kgs 14]]:7.
 f. (8:15] – [18) [2 Sm 20:23] – [26]; [1 Kgs 4:1] – [6]; [[1-chronicles-18|1 Chr 18]]:14 – [17].
 
 g. (8:18) [2 Sm 15:18]; [20:7], [23]; [23:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

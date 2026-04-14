@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 40
 ---
@@ -155,3 +155,7 @@ no need to recall any other conflict!
 \* (40:30) Merchants: lit., “Canaanites,” whose reputation for trading was so widespread that their name came to be used for merchants; cf. [Prv 31:24].
 
 a. (40:2) [Jb 38:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

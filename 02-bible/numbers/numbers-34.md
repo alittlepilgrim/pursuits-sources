@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 34
 ---
@@ -99,3 +99,7 @@ b. (34:4) [Jos 15:3].
 c. (34:5) [Jos 15:4].
 
 d. (34:18) [Nm 1:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

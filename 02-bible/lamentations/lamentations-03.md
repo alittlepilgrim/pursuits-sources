@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Lamentations, Chapter 3
 ---
@@ -349,3 +349,7 @@ y. (3:55] – [56) [Ps 130:1] – [2].
 z. (3:58] – [59) [Ps 35:23] – [24]; [43:1]; [119:154].
 
 a. (3:65) [Jer 11:20]; [2 Tm 4:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

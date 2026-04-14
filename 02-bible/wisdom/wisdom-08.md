@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 8
 ---
@@ -171,3 +171,7 @@ j. (8:16) [Prv 29:6]; [[sirach-15|Sir 15]]:6; ([[baruch-03|Bar 3]]:38].
 k. (8:17) [Prv 3:18].
 
 l. (8:21) [1 Kgs 3:9]; [1 Kgs 5:9]; [Prv 2:6]; [Jas 1:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

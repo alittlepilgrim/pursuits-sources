@@ -11,7 +11,7 @@ tags:
   - saint/john-of-the-cross
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: General Introduction to the Works of St. John of the Cross - The Ascent of Mt. Carmel
 ---
@@ -497,4 +497,3 @@ John of the Cross gives in the vernacular, corrects the punctuation and spelling
 [58] [The last two paragraphs form P. Silverio's description of his own edition. The lines followed in the present translation have been described in the Translator's Preface.]
 
 ASCENT OF MOUNT CARMEL
-

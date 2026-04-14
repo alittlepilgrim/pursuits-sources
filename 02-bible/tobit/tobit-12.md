@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 12
 ---
@@ -89,3 +89,7 @@ d. (12:12) [Jb 33:23] – [24]; ([[acts-of-the-apostles-10|Acts 10]]:4]; ([[reve
 e. (12:15) ([[luke-01|Lk 1]]:19]; ([[revelation-08|Rv 8]]:2].
 
 f. (12:20) [Jgs 13:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

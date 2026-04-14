@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 12
 ---
@@ -165,3 +165,7 @@ k. (12:15) [Am 9:14].
 l. (12:16) [Dt 6:13].
 
 m. (12:17) [Is 60:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

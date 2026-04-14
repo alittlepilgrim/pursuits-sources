@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 11
 ---
@@ -195,3 +195,7 @@ a. (11:34) [Jb 15:8]; ([[wisdom-09|Wis 9]]:13]; [Is 40:13]; [Jer 23:18]; ([[1-co
 b. (11:35) [Jb 41:3]; [Is 40:14].
 
 c. (11:36) ([[1-corinthians-08|1 Cor 8]]:6]; [Col 1:16] – [17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

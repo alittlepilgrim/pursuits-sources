@@ -2,7 +2,6 @@
 type: figure
 title: Blessed Mary of the Angels
 aliases:
-  - 20250912-204812
   - Blessed Mary of the Angels
   - mary-of-the-angels-blessed
 tags:
@@ -11,7 +10,7 @@ tags:
   - type/figure
 celebration: 12-16
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

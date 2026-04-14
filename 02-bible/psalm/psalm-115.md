@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 115
 ---
@@ -133,3 +133,7 @@ g. (115:9) [Ps 33:20].
 h. (115:16) [Gn 1:28].
 
 i. (115:17) ([[psalm-06|Ps 6]]:6]; [88:11ff]; [Sir 17:22f]; [Is 38:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

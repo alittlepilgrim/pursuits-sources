@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 22
 ---
@@ -125,3 +125,7 @@ i. (22:17) [Nm 25:3] – [4]; [Dt 4:3].
 j. (22:20) [Jos 7:1], [5].
 
 k. (22:27) ([[exodus-27|Ex 27]]:1] – [8]; [Dt 12:5] – [6], [11] – [14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

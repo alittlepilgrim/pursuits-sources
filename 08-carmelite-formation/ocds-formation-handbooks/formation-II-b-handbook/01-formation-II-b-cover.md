@@ -3,7 +3,6 @@ type: formation-handbook
 title: Formation II Year B The Interior Castle (The Seven Dwelling Places)
 author: Secular Order of Discalced Carmelites
 aliases:
-  - 20251009-001020
   - Formation Ii Year B the Interior Castle (The Seven Dwelling Places)
   - Formation II Year B the Interior Castle (The Seven Dwelling Places)
   - Formation II Year B The Interior Castle (The Seven Dwelling Places)
@@ -11,7 +10,7 @@ tags:
   - carmel/formation
   - type/study-guide
 created: 2025-08-28
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 8
 ---
@@ -141,3 +141,7 @@ k. (8:19) [Is 35:10]; [Jer 31:13].
 l. (8:20) [1 Kgs 8:43].
 
 m. (8:23) [1 Sm 15:27]; [Tb 13:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

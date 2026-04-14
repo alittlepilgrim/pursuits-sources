@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 20
 ---
@@ -169,3 +169,7 @@ v. (20:41) cf. ([[2-corinthians-02|2 Cor 2]]:14].
 w. (20:43) [Lv 26:41].
 
 x. (20:44) cf. [Ez 36:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

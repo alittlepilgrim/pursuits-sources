@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: James, Chapter 1
 ---
@@ -96,7 +96,7 @@ description: James, Chapter 1
 
 \* \[[1:5]\] Wisdom: a gift that God readily grants to all who ask in faith and that sustains the Christian in times of trial. It is a kind of knowledge or understanding not accessible to the unbeliever or those who doubt, which gives the recipient an understanding of the real importance of events. In this way a Christian can deal with adversity with great calm and hope (cf. ([[1-corinthians-02|1 Cor 2]]:6] – [12]).
 
-\* \[[1:9] – [11]\] Throughout his letter (see [Jas 2:5]; [4:10], [13] – [16]; [5:1] – [6]), the author reaffirms the teaching of Jesus that worldly prosperity is not necessarily a sign of God’s favor but can even be a hindrance to proper humility before God (cf. ([[luke-06| [[luke-06|Lk 6]]:]]:20] – [25]; [12:16] – [21]; [16:19] – [31]).
+\* \[[1:9] – [11]\] Throughout his letter (see [Jas 2:5]; [4:10], [13] – [16]; [5:1] – [6]), the author reaffirms the teaching of Jesus that worldly prosperity is not necessarily a sign of God’s favor but can even be a hindrance to proper humility before God (cf. ([[luke-06||Lk 6]]:20] – [25]; [12:16] – [21]; [16:19] – [31]).
 
 \* \[[1:12]\] Temptation: the Greek word used here is the same one used for “trials” in [Jas 1:2]. The crown of life: in ancient Palestine, crowns or wreaths of flowers were worn at festive occasions as signs of joy and honor. In the Hellenistic world, wreaths were given as a reward to great statesmen, soldiers, athletes. Life: here means eternal life. He promised: some manuscripts read “God” or “the Lord,” while the best witnesses do not specify the subject of “promised.”
 
@@ -151,3 +151,7 @@ n. \[[1:25]\] [2:12]; ([[psalm-19|Ps 19]]:8]; [Rom 8:2].
 o. \[[1:26]\] [3:2]; [Ps 34:14].
 
 p. \[[1:27]\] ([[exodus-22|Ex 22]]:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 23
 ---
@@ -109,3 +109,7 @@ i. (23:19) [1 Sm 26:1] – [3]; [Ps 54].
 j. (23:21) [2 Sm 2:5].
 
 k. (23:24) [1 Sm 25:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

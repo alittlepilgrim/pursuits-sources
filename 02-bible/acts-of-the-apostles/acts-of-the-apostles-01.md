@@ -12,7 +12,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 1
 ---
@@ -123,7 +123,7 @@ i. \[[1:10]\] [Jn 20:17].
 
 j. \[[1:11]\] ([[luke-24|Lk 24]]:51]; [Eph 4:8] – [10]; [1 Pt 3:22]; ([[revelation-01|Rv 1]]:7].
 
-k. \[[1:12] – [14]\] ([[luke-06| [[luke-06|Lk 6]]:]]:14] – [16].
+k. \[[1:12] – [14]\] ([[luke-06||Lk 6]]:14] – [16].
 
 l. \[[1:14]\] ([[luke-23|Lk 23]]:49].
 
@@ -136,3 +136,7 @@ o. \[[1:20]\] [Ps 69:26]; [109:8]; [[john-17|Jn 17]]:12].
 p. \[[1:22]\] [1:8] – [9]; [10:39].
 
 q. \[[1:26]\] [Prv 16:33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

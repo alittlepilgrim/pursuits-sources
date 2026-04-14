@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 22
 url: https://bible.usccb.org/bible/genesis/22
 aliases:
-  - 20250508-020253
   - genesis-22
   - Genesis, Chapter 22
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 22
 bible_book: genesis
@@ -111,3 +110,7 @@ h. (22:18) [[genesis-12|Gen 12]]:3; [18:18]; [26:4]; [Sir 44:21]; ([[acts-of-the
 ## Navigation
 
 [[genesis-01|[← Previous Note]]] · [[genesis-03|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

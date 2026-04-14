@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 27
 ---
@@ -145,3 +145,7 @@ l. (27:29) [[1-kings-20|1 Kgs 20]]:42.
 m. (27:30) [Nm 18:25] – [32]; [Dt 14:22] – [24]; [Mal 3:8], [10].
 
 n. (27:34) [Lv 7:38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 29
 ---
@@ -171,3 +171,7 @@ f. (29:18) [Prv 6:1] – [2]; [11:15].
 g. (29:21) [Sir 39:26].
 
 h. (29:22) [Sir 40:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

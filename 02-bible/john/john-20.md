@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 20
 ---
@@ -169,3 +169,7 @@ r. (20:29) [4:48]; ([[luke-01|Lk 1]]:45]; [1 Pt 1:8].
 s. (20:30) [21:25].
 
 t. (20:31) [3:14], [15]; ([[1-john-05|1 Jn 5]]:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

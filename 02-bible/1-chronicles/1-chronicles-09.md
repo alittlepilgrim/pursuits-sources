@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 9
 ---
@@ -139,3 +139,7 @@ i. \[[9:31] – [32]\] [[1-chronicles-23|1 Chr 23]]:29; [Lv 2:1] – [15]; [6:13
 j. \[[9:32]\] ([[exodus-25|Ex 25]]:30]; [Lv 24:5] – [8].
 
 k. \[[9:35] – [44]\] [1 Chr 8:29] – [38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - term/fortitude-virtue-of
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -30,7 +30,7 @@ publish: true
 - should be joined to humility 286,2;
 - — and patience in inevitable difficulties of life: 291,1,2.
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[286-fortitude|286. Fortitude]]
 - [[288-courage|288. Courage]]

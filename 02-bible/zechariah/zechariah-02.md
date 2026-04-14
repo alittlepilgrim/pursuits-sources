@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 2
 ---
@@ -99,3 +99,7 @@ i. (2:15) [Is 56:6]; [66:18].
 j. (2:16) [Zec 1:17].
 
 k. (2:17) [Hb 2:20]; [Zep 1:7]; ([[revelation-08|Rv 8]]:1a].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ecclesiastes, Chapter 9
 ---
@@ -77,3 +77,7 @@ b. (5]\] [Eccl 1:11]; [2:16].
 c. (7]\] [Eccl 2:24]; [8:15]; [11:9].
 
 d. (16]\] [Prv 24:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

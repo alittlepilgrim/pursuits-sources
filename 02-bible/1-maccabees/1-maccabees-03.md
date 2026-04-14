@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 3
 ---
@@ -211,3 +211,7 @@ c. (3:46) [Jgs 20:1]; [1 Sm 7:5] – [9]; [10:17].
 d. (3:49) [Nm 6:1] – [21].
 
 e. (3:56) [Dt 20:5] – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 78
 ---
@@ -467,3 +467,7 @@ i. (78:68) [Ps 48:2]; [50:2]; [Lam 2:15].
 j. (78:70) [Ps 89:21]; [Ez 34:23]; [37:24]; [2 Chr 6:6].
 
 k. (78:71) [1 Sm 16:11] – [13]; [2 Sm 7:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

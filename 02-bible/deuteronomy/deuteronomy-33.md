@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 33
 ---
@@ -307,3 +307,7 @@ u. (33:27) [Dt 7:1], [17] – [24].
 v. (33:28) [Dt 7:12] – [16]; [Gn 27:28]; [Nm 23:9].
 
 w. (33:29) [Dt 4:7] – [8]; [[genesis-15|Gen 15]]:1; [2 Sm 22:3]; ([[psalm-28|Ps 28]]:7]; [119:114].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

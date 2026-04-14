@@ -6,7 +6,6 @@ author:
 source: The Holy Saee
 url: https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html
 aliases:
-  - 20250910-180221
   - Mulieris Dignitatem (August 15, 1988)
   - mulieris-dignitatem
 tags:
@@ -14,7 +13,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-09-10
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Mulieris Dignitatem Of The Supreme Pontiff John Paul Ii On The Dignity And Vocation Of Women On The Occasion Of The Marian Year
 abbreviation: jpii-md
@@ -32,7 +31,7 @@ Mulieris Dignitatem Of The Supreme Pontiff John Paul Ii On The Dignity And Vocat
 
 Health and the Apostolic Blessing.*
 
-# I Introduction
+# I – Introduction
 
 ## A Sign of the Times
 
@@ -52,7 +51,7 @@ This eternal *truth about the human being,* man and woman - a truth which is imm
 
 This is precisely what is meant to be the common thread running throughout the present document, which fits into the broader context of the Marian Year, as we approach the end of the second millennium after Christ's birth and the beginning of the third. And it seems to me that the best thing is to *give this text the style and character of a meditation.*
 
-# II Woman-Mother of God (Theotókos)
+# II – Woman-mother of God (Theotókos)
 
 ## Union with God
 
@@ -84,7 +83,7 @@ At all times Christ is aware of being "the servant of the Lord" according to the
 
 Thus, by considering the reality "Woman - Mother of God", we enter in a very appropriate way into this Marian Year meditation. *This reality* also *determines the essential horizon of reflection on the dignity and the vocation of women.* In anything we think, say or do concerning the dignity and the vocation of women, our thoughts, hearts and actions must not become detached from this horizon. The dignity of every human being and the vocation corresponding to that dignity find their definitive measure in *union with God.* Mary, the woman of the Bible, is the most complete expression of this dignity and vocation. For no human being, male or female, created in the image and likeness of God, can *in any* way attain fulfilment apart from this image and likeness.
 
-# III The Image and Likeness of God
+# III – The Image and Likeness of God
 
 **THE IMAGE AND LIKENESS OF GOD**
 
@@ -130,9 +129,9 @@ This characteristic of biblical language - its anthropomorphic way of speaking a
 
 Although it is not possible to attribute human qualities to the eternal generation of the Word of God, and although the divine fatherhood does not possess "masculine" characteristics in a physical sense, we must nevertheless seek in God the absolute *model* of all " *generation"* among human beings. This would seem to be the sense of the Letter to the Ephesians: "I bow my knees before the Father, from whom every family in heaven and on earth is named" (3:14-15). All "generating" among creatures finds its primary model in that generating which in God is completely divine, that is, spiritual. All "generating" in the created world is to be likened to this absolute and uncreated model. Thus every element of human generation which is proper to man, and every element which is proper to woman, namely human " *fatherhood"* and " *motherhood",* bears within itself a likeness to, or analogy with the divine "generating" and with that "fatherhood" which in God is "totally different", that is, completely spiritual and divine in essence; whereas in the human order, generation is proper to the "unity of the two": both are "parents", the man and the woman alike.
 
-# IV Eve-Mary
+# IV – Eve-mary
 
-## The "Beginning" and the Sin
+## The "Beginning" and the sin
 
 9\. "Although he was made by God in a state of justice, from the very dawn of history man abused his liberty, at the urging of the Evil One. Man set himself against God and sought to find fulfilment apart from God".[\[28\]](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/#_edn28) With these words the teaching of the last Council recalls the revealed doctrine about sin and in particular about that first sin, which is the "original" one. The biblical "beginning" - the creation of the world and of man in the world - *contains* in itself *the truth* about *this sin,* which can also be called the sin of man's "beginning" on the earth. Even though what is written in the Book of Genesis is expressed in the form of a symbolic narrative, as is the case in the description of the creation of man as male and female (cf. *Gen* 2:18-25),at the same time it reveals what should be called "the mystery of sin", and even more fully, "the mystery of evil" which exists in the world created by God. ^jpii-md-9
 
@@ -148,7 +147,7 @@ At the same time, however, as the author of the evil of sin, *the human being - 
 
 These words are confirmed generation after generation. They do not mean that *the image and the likeness of God in the human being,* whether woman or man, has been destroyed by sin; they mean rather that it has been " *obscured"* [\[30\]](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/#_edn30) and in a sense "diminished". Sin in fact "diminishes" man, as the Second Vatican Council also recalls.[\[31\]](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/#_edn31) If man is the image and likeness of God by his very nature as a person, then his greatness and his dignity are achieved in the covenant with God, in union with him, in striving towards that fundamental unity which belongs to the internal "logic" of the very mystery of creation. This unity corresponds to the profound truth concerning all intelligent creatures and in particular concerning man, who among all the creatures of the visible world was *elevated* from the beginning through the eternal choice of God in Jesus: "He chose us in (Christ) before the foundation of the world,... He destined us in love to be his sons through Jesus Christ, according to the purpose of his will" *(Eph* 1:4-6). The biblical teaching taken as a whole enables us to say that predestination concerns all human persons, men and women, each and every one without exception.
 
-## "He Shall Rule Over You"
+## "He Shall Rule over You"
 
 10\. The biblical description in the Book of Genesis outlines the truth about the consequences of man's sin, as it is shown by *the disturbance* of that original *relationship between man and woman* which corresponds to their individual dignity as persons. A human being, whether male or female, is a person, and therefore, "the only creature on earth which God willed for its own sake"; and at the same time this unique and unrepeatable creature "cannot fully find himself except through a sincere gift of self".[\[32\]](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/#_edn32) Here begins the relationship of "communion" in which the "unity of the two" and the personal dignity of both man and woman find expression. Therefore when we read in the biblical description the words addressed to the woman: " *Your desire shall be for your husband, and he shall rule over you" (Gen* 3:16)*,* we discover a break and a constant threat precisely in regard to this "unity of the two" which corresponds to the dignity of the image and likeness of God in both of them. But this threat is more serious for the woman, since domination takes the place of "being a sincere gift" and therefore living "for" the other: "he shall rule over you". This "domination" indicates the disturbance and *loss of the stability* of that *fundamental equality* which the man and the woman possess in the "unity of the two": and this is especially to the disadvantage of the woman, whereas only the equality resulting from their dignity as persons can give to their mutual relationship the character of an authentic " *communio personarum".* While the violation of this equality, which is both a gift and a right deriving from God the Creator, involves an element to the disadvantage of the woman, at the same time it also diminishes the true dignity of the man. Here we touch upon *an extremely sensitive point in the dimension of that "ethos"* which was originally inscribed by the Creator in the very creation of both of them in his own image and likeness. ^jpii-md-10
 
@@ -160,7 +159,7 @@ In our times the question of "women's rights" has taken on new significance in t
 
 The personal resources of femininity are certainly no less than the resources of masculinity: they are merely different. Hence a woman, as well as a man, must understand her "fulfilment" as a person, her dignity and vocation, on the basis of these resources, according to the richness of the femininity which she received on the day of creation and which she inherits as an expression of the "image and likeness of God" that is specifically hers. *The inheritance of sin* suggested by the words of the Bible - "Your desire shall be for your husband, and he shall rule over you" - *can be conquered* only by following this path. The overcoming of this evil inheritance is, generation after generation, the task of every human being, whether woman or man. For whenever man is responsible for offending a woman's personal dignity and vocation, he acts contrary to his own personal dignity and his own vocation.
 
-## Proto-Evangelium
+## Proto-evangelium
 
 11\. The Book of Genesis attests to the fact that sin is the evil at man's "beginning" and that since then its consequences weigh upon the whole human race. At the same time it contains *the first foretelling of victory* over evil, *over sin.* This is proved by the words which we read in Genesis 3:15, usually called the " *Proto-evangelium":* "I will put enmity between you and the woman, and between your seed and her seed; he shall bruise your head, and you shall bruise his heel". It is significant that the foretelling of the Redeemer contained in these words refers to "the woman". She is assigned the first place in the Proto-evangelium as the progenitrix of him who will be the Redeemer of man.[\[34\]](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/#_edn34) And since the redemption is to be accomplished through a struggle against evil - through the "enmity" between the offspring of the woman and the offspring of him who, as "the father of lies" *(Jn* 8:44), *is* the first author of sin in human history - it is also *an enmity between him and the woman.* ^jpii-md-11
 
@@ -180,7 +179,7 @@ A particular key for understanding this can be found in the words which the Evan
 
 *This discovery is connected with a clear awareness of God's gift, of his generosity.* From the very "beginning" sin had obscured this awareness, in a sense had stifled it, as is shown in the words of the first temptation by the "father of lies" (cf. *Genesis* 3:1-5).At the advent of the "fullness of time" (cf. *Gal* 4:4),when the mystery of Redemption begins to be fulfilled in the history of humanity, this awareness bursts forth in all its power in the words of the biblical "woman" of Nazareth. *In Mary, Eve discovers* the nature of the true dignity of woman, of feminine humanity. This discovery must continually reach the heart of every woman and shape her vocation and her life.
 
-# V Jesus Christ
+# V – Jesus Christ
 
 ## "They Marvelled That He Was Talking with a Woman"
 
@@ -240,7 +239,7 @@ Everything that has been said so far about Christ's attitude to women confirms a
 
 The fact of being a man or a woman involves no limitation here, just as the salvific and sanctifying action of the Spirit in man is in no way limited by the fact that one is a Jew or a Greek, slave or free, according to the well-known words of Saint Paul: "For you are all one in Christ Jesus" *(Gal* 3:28). *This unity does not cancel out diversity.* The Holy Spirit, who brings about this unity in the supernatural order of sanctifying grace, contributes in equal measure to the fact that "your sons will prophesy" and that "your daughters will prophesy". "To prophesy" means to express by one's words and one's life " *the mighty works of God" (Acts* 2: 11), preserving the truth and originality of each person, whether woman or man. Gospel "equality", the "equality" of women and men in regard to the "mighty works of God" - manifested so clearly in the words and deeds of Jesus of Nazareth - constitutes the most obvious basis for the dignity and vocation of women in the Church and in the world. Every *vocation has* a profoundly *personal and prophetic meaning.* In "vocation" understood in this way, what is personally feminine reaches a new dimension: the dimension of the "mighty works of God", of which the woman becomes the living subject and an irreplaceable witness.
 
-# VI Motherhood - Virginity
+# VI – Motherhood – Virginity
 
 ## Two Dimensions of Women's Vocation"
 
@@ -308,7 +307,7 @@ The same analogy - and the same truth - are present in the Dogmatic Constitution
 
 The Council has confirmed that, unless one looks to the Mother of God, it is impossible to understand the mystery of the Church, her reality, her essential vitality. *Indirectly* we find here *a reference* to the *biblical exemplar of the "woman"* which is already clearly outlined in the description of the "beginning" (cf. *Gen* 3:15) and which procedes from creation, through sin to the Redemption. In this way there is a confirmation of the profound union between what is human and what constitutes the divine economy of salvation in human history. The Bible convinces us of the fact that one can have no adequate hermeneutic of man, or of what is "human", without appropriate reference to what is "feminine". There is an analogy in God's salvific economy: if we wish to understand it fully in relation to the whole of human history, we cannot omit, in the perspective of our faith, the mystery of "woman": virgin-mother-spouse.
 
-# VII The Church - the Bride of Christ
+# VII – The Church – the Bride of Christ
 
 ## The "Great Mystery"
 
@@ -372,7 +371,7 @@ The witness and the achievements of Christian women have had a significant impac
 
 In our own days too the Church is constantly enriched by the witness of the many women who fulfil their vocation to holiness. Holy women are an incarnation of the feminine ideal; they are also a model for all Christians, a model of the " *sequela Christi",* an example of how the Bride must respond with love to the love of the Bridegroom.
 
-# VIII "The Greatest of These is Love"
+# VIII – "The Greatest of These Is Love"
 
 ## In the Face of Changes
 
@@ -416,7 +415,7 @@ Thus a careful reading of the biblical exemplar of the Woman - from the Book of 
 
 Then the truth that "the greatest of these is love" (cf. 1 *Cor* 13:13) will have its definitive fulfillment.
 
-# IX Conclusion
+# IX – Conclusion
 
 ## If You Knew the Gift of God
 

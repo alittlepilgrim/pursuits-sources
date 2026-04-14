@@ -11,11 +11,29 @@ tags:
   - term/death
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
 # Death
+
+## Ignatius Catholic Study Bible
+
+**Death**
+
+After death comes judgment: Heb 9:27
+
+Body in death appears to be asleep: 1 Cor 15:51
+
+Dead are aware: Lk 16:22-31; 23:42-43; 2 Cor 5:6, 8-9; 12:2-4; Phil 1:23; Heb 12:22-23; 1 Pet 3:18-20; Rev 6:9-11; 20:4-5
+
+Some Christians go on to be with Christ: 2 Cor 5:8; Phil 1:23
+
+Some Christians undergo purgation: *see* Purgatory
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 
@@ -32,7 +50,7 @@ publish: true
 - at the end of life only love remains [[384-all-saints#Meditation 1|384,1]];
 - and the good works accomplished which render — precious: [[385-faithful-departed#Meditation 2|385,2]].
 
----
+### Sources
 
 - [[94-ash-wednesday|94. Ash Wednesday]]
 - [[95-death|95. Death]]

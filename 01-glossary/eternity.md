@@ -11,7 +11,7 @@ tags:
   - term/eternity
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
@@ -23,7 +23,7 @@ publish: true
 - present life should be seen in connection with — that awaits it: [[230-the-immutability-and-eternity-of-god#Meditation 2|230,2]].
 - See: [[heaven|Heaven]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[35-let-us-make-good-use-of-time|35. Let Us Make Good Use of time]]
 - [[230-the-immutability-and-eternity-of-god|230. The Immutability and Eternity of God]]

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 13
 ---
@@ -211,3 +211,7 @@ u. \[[13:46]\] [3:26]; ([[romans-01|Rom 1]]:16].
 v. \[[13:47]\] [Is 49:6].
 
 w. \[[13:51]\] [[matthew-10|Mt 10]]:14]; ([[mark-06|Mk 6]]:11]; ([[luke-09|Lk 9]]:5]; [10:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

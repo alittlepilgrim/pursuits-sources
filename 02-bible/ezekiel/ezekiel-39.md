@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 39
 ---
@@ -107,3 +107,7 @@ j. (39:25) [Is 27:13].
 k. (39:27) cf. [[ezekiel-20|Ez 20]]:41.
 
 l. (39:29) cf. [Ez 37:9]; [[isaiah-11|Is 11]]:2.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

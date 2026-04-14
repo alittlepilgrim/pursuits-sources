@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 4
 ---
@@ -85,3 +85,7 @@ There was one governor besides, in the land of Judah.
 \* (4:19]\] One governor...land of Judah: the royal territory of Judah had its own peculiar administration different from that of the twelve northern districts, each of which had to supply the king and his household with a month’s provisions of food each year (v. [7]).
 
 a. (4:20]\] [[genesis-22|Gen 22]]:17; [32:13]; [Dn 3:36]; [Hos 1:10]; [Heb 11:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

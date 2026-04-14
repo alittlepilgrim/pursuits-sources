@@ -4,7 +4,6 @@ title: Social Doctrine of the Church - Abbreviations
 author: Catholic Church
 url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
-  - 20250822-142733
   - Compendium of the Social Doctrine of the Church Abbreviations
   - Social Doctrine of the Church - Abbreviations
   - social-doctrine-abbrev
@@ -15,7 +14,7 @@ tags:
   - vatican/social-doctrine
   - vault-admin/abbreviations
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Social Doctrine of the Church Abbreviations
 ---

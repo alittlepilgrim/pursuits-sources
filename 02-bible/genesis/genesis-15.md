@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 15
 bible_book: genesis
@@ -106,3 +106,7 @@ j. (15:19] – [20) [Dt 7:1]..
 ## Navigation
 
 [[genesis-04|[← Previous Note]]] · [[genesis-06|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

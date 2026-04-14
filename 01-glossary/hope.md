@@ -9,7 +9,7 @@ tags:
   - term/hope
   - type/term
 created: 1984-01-24
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 description: hope. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -20,15 +20,31 @@ description: hope. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City 
 
 The theological virtue by which we desire and expect from God both eternal life and the grace we need to attain it ([[3.1.1.7.p66#^ccc-1817|1817]]).
 
+## Ignatius Catholic Study Bible
+
+**Hope**
+
+Anticipates but does not fully possess what is hoped for: Rom 8:24-25
+
+Hope of sharing the glory of God: Rom 5:2
+
+In hope of eternal life: Tit 1:2
+
+Rejoice in hope: Rom 12:12
+
+Saved in hope: Rom 8:24
+
+Theological virtue, along with faith and love: 1 Cor 13:13
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
+
 ## The Way of Perfection
 
-HOPE. Arises from a living faith concerning what God has kept in store for us in the kingdom of heaven ([[tj-wop-chapter-42#^wop-ch42-2|42.2]]). Those to whom God gives the kingdom here below have great hope of enjoying perpetually what is here given in sips ([[tj-wop-chapter-30#^wop-ch30-6|30.6]]). In the effects of the favors granted them by the Lord, they have the greatest hope that the Lord is pleased with them ([[tj-wop-chapter-37#^wop-ch37-4|37.4]]). The hope of being freed from the sufferings of purgatory by suffering on earth helps one to bear suffering willingly ([[tj-wop-chapter-40#^wop-ch40-10|40.10]]). God gives much to those who sincerely want to trust in him ([[tj-wop-chapter-29#^wop-ch29-3|29.3]]).
+HOPE. Arises from a living faith concerning what God has kept in store for us in the kingdom of heaven ([[chapter-42-tj-way-ccel|42.2]]). Those to whom God gives the kingdom here below have great hope of enjoying perpetually what is here given in sips ([[chapter-30-tj-way-ccel|30.6]]). In the effects of the favors granted them by the Lord, they have the greatest hope that the Lord is pleased with them ([[chapter-37-tj-way-ccel|37.4]]). The hope of being freed from the sufferings of purgatory by suffering on earth helps one to bear suffering willingly ([[chapter-40-tj-way-ccel|40.10]]). God gives much to those who sincerely want to trust in him ([[chapter-29-tj-way-ccel|29.3]]).
 
 ## Divine Intimacy Meditations
-
-### Compendium on Social Doctrine
-
-![[sd-10-index-h#Hope]]
 
 - As much as the soul hopes for, so much it obtains: [[63-jesus-calms-the-tempest#Meditation 2|63,2]]; [[249-boundless-hope#Meditation 1|249,1]];
 - — in God’s mercy is very pleasing to Him: [[108-humility-and-confidence#Meditation 2|108,2]];
@@ -81,3 +97,7 @@ HOPE. Arises from a living faith concerning what God has kept in store for us in
 - [[340-apostolic-maturity|349. Apostolic Maturity]]
 - [[353-desolation-and-darkness|353. Desolation and Darkness]]
 - [[359-humble-and-reverent-love|359. Humble and Reverent Love]]
+
+## Compendium of Social Doctrine
+
+![[sd-10-index-h#Hope]]

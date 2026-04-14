@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 50
 ---
@@ -155,3 +155,7 @@ g. (50:14) [Heb 13:15].
 h. (50:15) [Ps 77:3].
 
 i. (50:23) [Ps 91:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

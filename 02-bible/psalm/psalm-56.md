@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 56
 ---
@@ -111,3 +111,7 @@ d. (56:7) [Ps 140:5] – [6].
 e. (56:9) ([[psalm-10|Ps 10]]:14]; [[2-kings-20|2 Kgs 20]]:5; [Is 25:8]; ([[revelation-07|Rv 7]]:17].
 
 f. (56:13) [Nm 30:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

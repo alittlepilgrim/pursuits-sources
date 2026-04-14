@@ -9,7 +9,7 @@ tags:
   - term/penance
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 description: penance. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -27,6 +27,9 @@ _Interior_ penance: a conversion of heart toward God and away from sin, which im
 - is a means of assimilation into Christ Crucified: [[93-with-jesus-crucified#Meditation 1|93,1]], [[93-with-jesus-crucified#Meditation 2|93,2]];
 - relation between corporal and spiritual —: [[94-ash-wednesday#Meditation 2|94,2]];
 - the most important — is the patient suffering of the trials of life: [[213-reparation#Meditation 2|213,2]].
+
+### Source
+
 - [[73-penance|73. Penance]]
 - [[92-corporal-mortification|92. Corporal Mortification]]
 - [[93-with-jesus-crucified|93. With Jesus Crucified]]

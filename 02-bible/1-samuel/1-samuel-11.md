@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 11
 ---
@@ -73,3 +73,7 @@ c. (11:7) [[1-kings-11|1 Kgs 11]]:30; [[2-kings-13|2 Kgs 13]]:18.
 d. (11:12) [1 Sm 10:27].
 
 e. (11:13) [2 Sm 19:23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

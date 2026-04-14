@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 8
 ---
@@ -105,3 +105,7 @@ g. (8:8) [Jer 31:31] – [34].
 h. (8:10) [10:16] – [17].
 
 i. (8:13) [Rom 10:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -12,7 +12,7 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Dogmatic Constitution on Divine Revelation - Dei verbum
 abbreviation: dv
@@ -20,7 +20,7 @@ abbreviation: dv
 
 # Dei Verbum
 
-## Dogmatic Constitution on Divine Revelation Solemnly Promulgated by His Holiness Pope Paul VI on November 18 1965
+## Dogmatic Constitution on Divine Revelation Solemnly Promulgated by His Holiness Pope Paul VI on November 18, 1965
 
 ## Preface
 

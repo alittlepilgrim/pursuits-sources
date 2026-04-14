@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 14
 ---
@@ -106,7 +106,7 @@ description: John, Chapter 14
 
 \* (14:18) I will come to you: indwelling, not parousia.
 
-\* (14:22) Judas, not the Iscariot: probably not the brother of Jesus in ([[mark-06|Mk 6]]:3] // ([[matthew-13|Mt 13]]:55] or the apostle named Jude in ([[luke-06| [[luke-06|Lk 6]]:]]:16] but Thomas (see note on [Jn 11:16]), although other readings have “Judas the Cananean.”
+\* (14:22) Judas, not the Iscariot: probably not the brother of Jesus in ([[mark-06|Mk 6]]:3] // ([[matthew-13|Mt 13]]:55] or the apostle named Jude in ([[luke-06||Lk 6]]:16] but Thomas (see note on [Jn 11:16]), although other readings have “Judas the Cananean.”
 
 \* (14:27) Peace: the traditional Hebrew salutation *šālôm*; but Jesus’ “Shalom” is a gift of salvation, connoting the bounty of messianic blessing.
 
@@ -157,3 +157,7 @@ t. (14:28) [8:40].
 u. (14:29) [13:19]; [16:4].
 
 v. (14:31) [6:38].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

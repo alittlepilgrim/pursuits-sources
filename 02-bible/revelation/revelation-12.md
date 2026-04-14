@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 12
 ---
@@ -123,3 +123,7 @@ f. (12:13) [Gn 3:15].
 g. (12:14) ([[exodus-19|Ex 19]]:4]; [Dn 7:25]; [12:7].
 
 h. (12:17) [Gn 3:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

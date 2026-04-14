@@ -3,17 +3,15 @@ type: bible
 title: Hebrews, The Letter To The Hebrews
 url: https://bible.usccb.org/bible/hebrews/0
 aliases:
-  - 20250730-164607
   - hebrews-00
   - Hebrews, the Letter to the Hebrews
-  - Hebrews, The Letter To The Hebrews
 tags:
   - bible/book
   - bible/hebrews
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, the Letter to the Hebrews
 ---
@@ -67,3 +65,7 @@ The principal divisions of the Letter to the Hebrews are the following:
 - [[hebrews-11|Hebrews, Chapter 11]]
 - [[hebrews-12|Hebrews, Chapter 12]]
 - [[hebrews-13|Hebrews, Chapter 13]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

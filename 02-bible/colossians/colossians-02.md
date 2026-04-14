@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Colossians, Chapter 2
 ---
@@ -123,3 +123,7 @@ o. (2:18) [2:23]; ([[matthew-24|Mt 24]]:4].
 p. (2:19) [Eph 2:21] – [22]; [4:16].
 
 q. (2:22) [Is 29:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

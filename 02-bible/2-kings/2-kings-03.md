@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 3
 ---
@@ -97,3 +97,7 @@ b. (3:7] – [11) [[1-kings-22|1 Kgs 22]]:3 – [8].
 c. (3:19) [Dt 20:19].
 
 d. (3:27) [Jgs 11:30] – [31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

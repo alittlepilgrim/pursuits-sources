@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Thessalonians, Chapter 2
 ---
@@ -93,3 +93,7 @@ i. (2:17) [3:10]; ([[romans-01|Rom 1]]:10] – [11].
 j. (2:18) [Rom 15:22].
 
 k. (2:19) ([[2-corinthians-01|2 Cor 1]]:14]; [Phil 2:16]; [4:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

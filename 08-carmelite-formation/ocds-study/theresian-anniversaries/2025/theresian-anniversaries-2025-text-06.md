@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2025 - Text 6 to Father Roulland, 9th May 1897 (Letter 226)
   - theresian-anniversaries-2025-text-06
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 5
 ---
@@ -119,3 +119,7 @@ l. (5:19) [Rom 5:10] – [11]; [Col 1:20].
 m. (5:20) [Eph 6:20]; [Phlm 9].
 
 n. (5:21) [Is 53:6] – [9]; [Gal 3:13] / ([[romans-03|Rom 3]]:24] – [26]; ([[1-corinthians-01|1 Cor 1]]:30]; [1 Pt 2:24]; ([[1-john-03|1 Jn 3]]:5] – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

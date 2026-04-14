@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 132
 ---
@@ -125,3 +125,7 @@ e. (132:11) [Ps 110:4]; [2 Sm 7:12].
 f. (132:16) [2 Chr 6:41]; [Is 61:10].
 
 g. (132:17) [[isaiah-11|Is 11]]:1; [Jer 33:15]; [Ez 29:21]; [Zec 3:8]; ([[luke-01|Lk 1]]:69].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

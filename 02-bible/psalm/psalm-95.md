@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 95
 ---
@@ -95,3 +95,7 @@ e. (95:7) ([[psalm-23|Ps 23]]:1] – [3]; [100:3]; [Mi 7:14].
 f. (95:9) [Nm 14:22]; [20:2] – [13]; [Dt 6:16]; [33:8].
 
 g. (95:10) [Ps 78:8]; [Nm 14:34]; [Dt 32:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

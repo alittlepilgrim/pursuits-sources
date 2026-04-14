@@ -7,10 +7,10 @@ aliases:
   - ⚖️ OCDS Legislation — Map of Content
   - ocds-legislation-moc
 tags:
-  - carmel/ocds
+  - carmel/legislation
   - type/moc
 created: 2025-11-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 permalink: /legislation
 description: Rule, Constitutions, Statutes, Ratio, Companion, and index.

@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 111
 ---
@@ -79,3 +79,7 @@ a. (111:1) [Ps 138:1].
 b. (111:4) [Ps 103:8]; [112:4].
 
 c. (111:10) [Prv 1:7]; [9:10]; [Sir 1:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

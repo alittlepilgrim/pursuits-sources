@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 21
 ---
@@ -191,3 +191,7 @@ g. (21:23) [Prv 13:3].
 h. (21:27) [Prv 15:8]; [Sir 34:21] – [23].
 
 i. (21:28) [Prv 19:5], [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

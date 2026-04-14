@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 17
 ---
@@ -255,3 +255,7 @@ k. (17:21) [Lv 26:33]; [2 Kgs 25:5].
 l. (17:23) [Dn 4:12]; [[hosea-14|Hos 14]]:5 – [7].
 
 m. (17:24) [Dn 5:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

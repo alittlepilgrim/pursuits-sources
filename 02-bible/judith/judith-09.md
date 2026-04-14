@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 9
 ---
@@ -87,3 +87,7 @@ j. (9:11) ([[exodus-15|Ex 15]]:2]; [Jgs 7:2]; [1 Sm 17:45] – [47]; [2 Chr 16:8
 k. (9:13) [[judith-10|Jdt 10]]:4; [11:20], [23]; [16:6], [9]; [Est C:24].
 
 l. (9:13) [Dn 11:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

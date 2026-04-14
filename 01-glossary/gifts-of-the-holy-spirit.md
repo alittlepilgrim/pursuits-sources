@@ -9,7 +9,7 @@ tags:
   - term/gifts-of-the-holy-spirit
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: gifts-of-the-holy-spirit. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -37,7 +37,9 @@ Permanent dispositions that make us docile to follow the promptings of the Holy 
 - they are indispensable in attaining perfect virtue, sanctity [[298-spiritual-progress#Meditation 2|298,2]];
 - fear, fortitude, piety, and counsel perfect the moral virtues; knowledge, understanding, and wisdom perfect the theological virtues [[309-the-gift-of-knowledge#Meditation 1|309,1]];
 - every gift corresponds to a beatitude: [[300-blessed-are-the-poor-in-spirit#Meditation 1|300,1]].
-- See COUNSEL; FORTITUDE; UNDERSTANDING; PIETY; WISDOM; KNOWLEDGE; FEAR OF THE LORD.
+
+### Sources
+
 - [[143-the-living-water|143. The Living Water]]
 - [[145-our-preparation|145. Our Preparation]]
 - [[159-practical-conduct|159. Practical Conduct]]
@@ -48,3 +50,7 @@ Permanent dispositions that make us docile to follow the promptings of the Holy 
 - [[300-blessed-are-the-poor-in-spirit|300. Blessed Are the Poor in Spirit]]
 - [[309-the-gift-of-knowledge|309. The Gift of Knowledge]]
 - [[316-our-meeting-with-the-holy-spirit|316. Our Meeting With The Holy Spirit]]
+
+### See Also
+
+- See COUNSEL; FORTITUDE; UNDERSTANDING; PIETY; WISDOM; KNOWLEDGE; FEAR OF THE LORD.

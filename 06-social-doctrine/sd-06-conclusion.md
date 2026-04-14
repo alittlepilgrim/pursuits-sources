@@ -4,7 +4,6 @@ title: Social Doctrine of the Church - Conclusion
 author: Catholic Church
 url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
-  - 20250822-143124
   - Compendium of the Social Doctrine of the Church Conclusion
   - Conclusion
   - Social Doctrine of the Church - Conclusion
@@ -15,7 +14,7 @@ tags:
   - type/magisterium
   - vatican/social-doctrine
 created: 2025-08-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Compendium of the Social Doctrine of the Church
 ---
@@ -36,11 +35,11 @@ description: Compendium of the Social Doctrine of the Church
 
 **576\.** To these basic questions about the meaning and purpose of human life the Church responds with the proclamation of the Gospel of Christ, which liberates the dignity of the human person from changing opinions and ensures the freedom of men and women as no human law can do. The Second Vatican Council indicated that the mission of the Church in the contemporary world consists in helping every human being to discover in God the ultimate meaning of his existence. The Church knows well that “God alone, whom she serves, can satisfy the deepest cravings of the human heart, for the world and what it has to offer can never fully satisfy it”\[1208\]. Only God, who created man in his image and redeemed him from sin, can offer a fully adequate answer through the Revelation wrought in his Son made man. The Gospel, in fact, “announces and proclaims the freedom of the sons of God, it rejects all bondage resulting from sin; it scrupulously respects the dignity of conscience and its freedom of choice; it never ceases to encourage the employment of human talents in the service of God and of man, and finally, it commends everyone to the charitable love of all”\[1209\]. ^csdc-576
 
-### B. Starting Afresh From Faith in Christ
+### B. Starting Afresh from Faith in Christ
 
 **577\.** *Faith in God and in Jesus Christ sheds light on the moral principles that are “the sole and irreplaceable foundation of that stability and tranquillity, of that internal and external order, private and public, that alone can generate and safeguard the prosperity of States”*\[1210\]. Life in society must be based on the divine plan because “the theological dimension is needed both for interpreting and solving present-day problems in human society”\[1211\]. In the presence of serious forms of exploitation and social injustice, there is “an ever more widespread and acute sense of *the need for a radical* personal and social *renewal* capable of ensuring justice, solidarity, honesty and openness. Certainly, there is a long and difficult road ahead; bringing about such a renewal will require enormous effort, especially on account of the number and gravity of the causes giving rise to and aggravating the situations of injustice present in the world today. But, as history and personal experience show, it is not difficult to discover at the bottom of these situations causes which are properly ‘cultural', linked to particular ways of looking at man, society and the world. Indeed, at the heart of the *issue of culture* we find the *moral sense*, which is in turn rooted and fulfilled in the religious sense”\[1212\]. As for “the social question”, we must not be seduced by “the naive expectation that, faced with the great challenges of our time, we shall find some magic formula. No, we shall not be saved by a formula but by a Person and the assurance that he gives us: *I am with you!* It is not therefore a matter of inventing a ‘new programme'. The programme already exists: it is the plan found in the Gospel and in the living Tradition, it is the same as ever. Ultimately, it has its centre in Christ himself, who is to be known loved and imitated, so that in him we may live the life of the Trinity, and with him transform history until its fulfilment in the heavenly Jerusalem”\[1213\]. ^csdc-577
 
-### C. A Solid Hope
+### C. a Solid Hope
 
 **578\.** The Church teaches men and women that God offers them the real possibility of overcoming evil and attaining good. The Lord has redeemed mankind “bought with a price” (1 *Cor* 6:20). The meaning and basis of the Christian commitment in the world are founded on this certainty, which gives rise to hope despite the sin that deeply marks human history. The divine promise guarantees that the world does not remain closed in upon itself but is open to the Kingdom of God. The Church knows the effects of “the mystery of lawlessness” (2 *Thes* 2:7), but she also knows that “there exist in the human person sufficient qualities and energies, a fundamental ‘goodness' (cf. *Gen* 1:31), because he is the image of the Creator, placed under the redemptive influence of Christ, who ‘united himself in some fashion with every man', and because the efficacious action of the Holy Spirit ‘fills the earth' (*Wis* 1:7)”\[1214\]. ^csdc-578
 

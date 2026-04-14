@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 8
 ---
@@ -75,3 +75,7 @@ d. (8:14) [1 Chr 23] – [26]; [[nehemiah-12|Neh 12]]:46.
 e. (8:17) [1 Kgs 9:26].
 
 f. (8:18) [1 Kgs 9:27] – [28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

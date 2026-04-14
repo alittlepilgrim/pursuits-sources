@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joel, Chapter 3
 ---
@@ -67,3 +67,7 @@ a. (3:1) [Is 44:3]; [Ez 39:28] – [29]; ([[acts-of-the-apostles-02|Acts 2]]:17]
 b. (3:4) [Jl 2:10]; [Mal 3:23].
 
 c. (3:5) [Ob 17] – [18]; [Rom 10:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

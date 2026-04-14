@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 2
 ---
@@ -91,3 +91,7 @@ e. (2:9) [Is 64:3].
 f. (2:10) ([[matthew-11|Mt 11]]:25]; [13:11]; [16:17].
 
 g. (2:16) ([[wisdom-09|Wis 9]]:13]; [Is 40:13]; [Rom 11:34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

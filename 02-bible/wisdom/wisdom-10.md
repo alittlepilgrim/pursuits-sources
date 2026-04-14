@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 10
 ---
@@ -201,3 +201,7 @@ q. (10:17] – [19) [Wis 14:3]; [19:7]; ([[exodus-13|Ex 13]]:21] – [22]; [Ex 1
 r. (10:20) ([[exodus-12|Ex 12]]:35] – [36]; [15:1] – [21].
 
 s. (10:21) ([[exodus-04|Ex 4]]:10] – [15]; ([[psalm-08|Ps 8]]:3]; ([[matthew-11|Mt 11]]:25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

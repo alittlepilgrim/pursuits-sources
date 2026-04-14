@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 47
 ---
@@ -217,3 +217,7 @@ m. (47:21) [[1-kings-12|1 Kgs 12]]:1 – [25].
 n. (47:22) [2 Sm 7:15]; [Ps 89:34] – [38].
 
 o. (47:23) [[1-kings-11|1 Kgs 11]]:43; [12:13], [21]; [13:34]; [[2-kings-17|2 Kgs 17]]:6 – [22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

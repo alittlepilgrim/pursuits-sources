@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 139
 ---
@@ -161,3 +161,7 @@ h. (139:19) [Jb 21:14].
 i. (139:21) [Ps 119:158].
 
 j. (139:23) ([[psalm-17|Ps 17]]:3]; [26:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

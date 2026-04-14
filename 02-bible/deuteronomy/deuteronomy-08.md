@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 8
 ---
@@ -87,3 +87,7 @@ h. (8:15) [Dt 32:13]; ([[exodus-17|Ex 17]]:6]; [Nm 20:8] – [11]; [21:6] – [9
 i. (8:17) [Dt 9:4] – [5].
 
 j. (8:19) [Dt 4:25] – [26]; [30:18]; [[2-kings-17|2 Kgs 17]]:7 – [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 8
 ---
@@ -153,3 +153,7 @@ j. (8:34) [[matthew-10|Mt 10]]:38] – [39]; [16:24] – [27]; ([[luke-14|Lk 14]
 k. (8:35) [Jn 12:25].
 
 l. (8:38) [[matthew-10|Mt 10]]:33]; ([[luke-12|Lk 12]]:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

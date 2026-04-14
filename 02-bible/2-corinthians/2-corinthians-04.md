@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 4
 ---
@@ -109,3 +109,7 @@ k. (4:16) [4:1], [1].
 l. (4:17) ([[matthew-05|Mt 5]]:11] – [12]; [Rom 8:18].
 
 m. (4:18) [Rom 8:24] – [25]; [Heb 11:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

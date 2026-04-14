@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/john/0
 aliases:
   - john-00
   - John, the Gospel according to John
-  - John, The Gospel According To John
 tags:
   - bible/book
   - bible/john
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, the Gospel According to John
 ---
@@ -72,3 +71,7 @@ The principal divisions of the Gospel according to John are the following:
 - [[john-19|John, Chapter 19]]
 - [[john-20|John, Chapter 20]]
 - [[john-21|John, Chapter 21]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

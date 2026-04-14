@@ -3,8 +3,8 @@ type: ocds-proper
 title: December 16, Blessed Mary of the Angels Fontanella
 author: OCD General Curia
 aliases:
-  - 12-16-blessed-mary-fontanella
   - 20251216-000001
+  - blessed-mary-fontanella
   - December 16, Blessed Mary of the Angels Fontanella
 tags:
   - carmel/propers
@@ -13,7 +13,7 @@ tags:
 celebration_day: 12-16
 celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 attachment: true
 ---

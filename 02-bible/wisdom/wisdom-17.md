@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 17
 ---
@@ -167,3 +167,7 @@ j. (17:16) [Wis 18:4]; ([[exodus-10|Ex 10]]:23].
 k. (17:18] – [19) [Lv 26:36].
 
 l. (17:20] – [21) ([[exodus-10|Ex 10]]:23]; [Is 9:1]; [60:1] – [3]; [2 Pt 2:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

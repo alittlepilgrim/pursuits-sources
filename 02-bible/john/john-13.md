@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 13
 ---
@@ -144,7 +144,7 @@ h. (13:13) ([[matthew-23|Mt 23]]:8], [10].
 
 i. (13:15) ([[luke-22|Lk 22]]:27]; [1 Pt 2:21].
 
-j. (13:16) [15:20]; [[matthew-10|Mt 10]]:24]; ([[luke-06| [[luke-06|Lk 6]]:]]:40].
+j. (13:16) [15:20]; [[matthew-10|Mt 10]]:24]; ([[luke-06||Lk 6]]:40].
 
 k. (13:18) [Ps 41:10].
 
@@ -169,3 +169,7 @@ t. (13:34) [15:12] – [13], [17]; [Lv 19:18]; [1 Thes 4:9]; ([[1-john-02|1 Jn 2
 u. (13:36) ([[mark-14|Mk 14]]:27]; ([[luke-22|Lk 22]]:23].
 
 v. (13:38) [18:27]; ([[matthew-26|Mt 26]]:33] – [35]; ([[mark-14|Mk 14]]:29] – [31]; ([[luke-22|Lk 22]]:33] – [34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

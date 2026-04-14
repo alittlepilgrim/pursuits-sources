@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/romans/0
 aliases:
   - romans-00
   - Romans, the Letter to the Romans
-  - Romans, The Letter To The Romans
 tags:
   - bible/book
   - bible/new-testament
   - bible/romans
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Romans, the Letter to the Romans
 ---
@@ -50,3 +49,7 @@ The principal divisions of the Letter to the Romans are the following:
 5. Jews and Gentiles in God’s Plan ([9:1] – [11:36])
 6. The Duties of Christians ([12:1] – [15:13])
 7. Conclusion ([15:14] – [16:27])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

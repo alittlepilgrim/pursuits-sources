@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 13
 ---
@@ -157,3 +157,7 @@ e. (13:11) [Prv 28:20], [22].
 f. (13:20) [Sir 6:34]; [8:8], [17].
 
 g. (13:24) [Prv 19:18]; [22:15]; [23:13] – [14]; [29:15]; [Sir 30:1], [8] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

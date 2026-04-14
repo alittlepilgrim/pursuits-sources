@@ -11,7 +11,7 @@ tags:
   - saint/john-of-the-cross
   - type/book
 created: 2026-04-01
-modified: 2026-04-06
+modified: 2026-04-08
 publish: true
 description: Principal Abbreviations - The Ascent of Mt. Carmel
 ---
@@ -37,4 +37,3 @@ Obras (P. Silv.)--Obras de San Juan de la Cruz, Doctor de la Iglesia, editadas y
 S.S.M.--E. Allison Peers: Studies of the Spanish Mystics. Vol. I, London, Sheldon Press, 1927; 2nd ed., London, S.P.C.K., 1951. Vol. II, London, Sheldon Press, 1930.
 
 Sobrino.-José Antonio de Sobrino, S.J.: Estudios sobre San Juan de la Cruz y nuevos textos de su obra. Madrid, 1950.
-

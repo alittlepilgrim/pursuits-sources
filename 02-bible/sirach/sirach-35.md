@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 35
 ---
@@ -141,3 +141,7 @@ h. (35:17] – [19) ([[exodus-22|Ex 22]]:22].
 i. (35:22) ([[luke-18|Lk 18]]:7].
 
 j. (35:22) [Is 42:13] – [16]; [2 Pt 3:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

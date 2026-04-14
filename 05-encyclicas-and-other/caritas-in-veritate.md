@@ -14,7 +14,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-30
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Agápe, macro-relationships, social conscience, responsibility, social action, private interests, logic of power, social fragmentation, globalized society, lógos, Mater Ecclesiae, Pauline Year, human advancement, Church's ever-living Tradition, Fathers of the Church, Populorum Progressio, development of every person, Caritas in veritate, Charity, Truth, Encyclical of Pope Benedict XVI
 abbreviation: benxvi-civ
@@ -24,7 +24,7 @@ abbreviation: benxvi-civ
 
 [Source](https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)
 
-## Encyclical Letter Caritas In Veritate Of The Supreme Pontiff Benedict XVI to The Bishops, Priests and Deacons, Men and Women Religious, The Lay Faithful, and All People Of Good Will, On Integral Human Development In Charity and Truth
+## Encyclical Letter Caritas in Veritate of the Supreme Pontiff Benedict XVI to the Bishops, Priests and Deacons, Men and Women Religious, the Lay Faithful, and All People of Good Will, on Integral Human Development in Charity and Truth
 
 ## Introduction
 
@@ -56,7 +56,7 @@ At a distance of over forty years from the Encyclical's publication, I intend to
 
 The Church does not have technical solutions to offer [10] and does not claim “to interfere in any way in the politics of States.” [11] She does, however, have a mission of truth to accomplish, in every time and circumstance, for a society that is attuned to man, to his dignity, to his vocation. Without truth, it is easy to fall into an empiricist and sceptical view of life, incapable of rising to the level of praxis because of a lack of interest in grasping the values — sometimes even the meanings — with which to judge and direct it. Fidelity to man requires *fidelity to the truth*, which alone is the *guarantee of freedom* (cf. [[john-08#^john-08-32|Jn 8:32]]) and of *the possibility of integral human development*. For this reason the Church searches for truth, proclaims it tirelessly and recognizes it wherever it is manifested. This mission of truth is something that the Church can never renounce. Her social doctrine is a particular dimension of this proclamation: it is a service to the truth which sets us free. Open to the truth, from whichever branch of knowledge it comes, the Church's social doctrine receives it, assembles into a unity the fragments in which it is often found, and mediates it within the constantly changing life-patterns of the society of peoples and nations [12].
 
-### Chapter One. The Message Of Populorum Progressio
+### Chapter One. The Message of Populorum Progressio
 
 10\. A fresh reading of *[Populorum Progressio](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)*, more than forty years after its publication, invites us to remain faithful to its message of charity and truth, viewed within the overall context of Paul VI's specific magisterium and, more generally, within the tradition of the Church's social doctrine. Moreover, an evaluation is needed of the different terms in which the problem of development is presented today, as compared with forty years ago. The correct viewpoint, then, is that of the *Tradition of the apostolic faith* [13], a patrimony both ancient and new, outside of which *[Populorum Progressio](https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)* would be a document without roots — and issues concerning development would be reduced to merely sociological data. ^benxvi-civ-10
 

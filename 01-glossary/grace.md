@@ -9,7 +9,7 @@ tags:
   - term/grace
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: grace. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -19,6 +19,52 @@ description: grace. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City
 ## Catechism of the Catholic Church
 
 The free and undeserved gift that God gives us to respond to our vocation to become his adopted children. As sanctifying grace, God shares his divine life and friendship with us in a habitual gift, a stable and supernatural disposition that enables the soul to live with God, to act by his love. As actual grace, God gives us the help to conform our lives to his will. Sacramental grace and special graces (charisms, the grace of one's state of life) are gifts of the Holy Spirit to help us live out our Christian vocation ([[3.1.3.2.p6z#^ccc-1996|1996]], [[3.1.3.2.p6z#^ccc-2000|2000]]; cf. [[1.2.2.5.p1s#^ccc-654|654]]).
+
+## Ignatius Catholic Study Bible
+
+**Grace**
+
+Basis of salvation through faith in Christ: Rom 4:4-5; 11:6; Gal 2:21; Eph 2:8-9
+
+Brings forgiveness of sins: Eph 1:7
+
+Cooperation in obedience with grace for salvation: Phil 2:12-13
+
+Eternal life is the gift of God's grace through Jesus: Rom 6:23
+
+Falling away from grace: Gal 1:6; 5:4
+
+Given through baptism: Jn 3:5-9; Rom 6:1-4; Gal 3:27; Col 2:12; Tit 3:5-7
+
+Grace of justification is the gift of God: Rom 3:24; 5:15
+
+Growth in grace: 2 Pet 3:18
+
+Indwelling life of grace incompatible with serious sin: 1 Jn 3:6, 9, 15; 5:16, 18
+
+Jesus the fullness of grace: Jn 1:14
+
+Justification by grace: Tit 3:7
+
+Life of Jesus indwelling the believer: Gal 2:20; Col 2:10; 3:4
+
+Mary the Mother of Jesus was full of grace: Lk 1:28
+
+Participation in the divine nature through grace of Jesus Christ: 2 Pet 1:1-4
+
+Principle of divine adoption: Rom 8:14-16
+
+Receiving grace "in vain" is possible: 2 Cor 6:1; Gal 2:21
+
+Salvation through the grace of Jesus: Acts 15:11
+
+Strengthens the heart of the believer: Heb 13:9
+
+*See also* [[Faith]]; [[Freedom]]; [[Election]]; [[Love]]; [[Justification]]; [[Salvation]]; [[Works]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
 
@@ -71,7 +117,7 @@ The free and undeserved gift that God gives us to respond to our vocation to bec
 - development and triumph of — [[357-the-grain-of-mustard-seed#Meditation 2|357,2]]; [[366-the-reciprocal-gift#Meditation 1|366,1]];
 - — of a member of Christ redounds to the good of all the other members: [[323-the-apostolic-ideal#Meditation 2|323,2]].
 
----
+### Sources
 
 - [[3-sanctity-and-the-plenitude-of-grace|3. Sanctity and the Plenitude of Grace]]
 - [[4-charity-the-essence-of-sanctity|4. Charity, the Essence of Sanctity]]

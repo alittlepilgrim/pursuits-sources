@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 9
 ---
@@ -53,3 +53,7 @@ b. (9:3) [[ezekiel-11|Ez 11]]:22.
 c. (9:4) ([[exodus-12|Ex 12]]:7]; ([[revelation-07|Rv 7]]:2] – [4]; [13:16].
 
 d. (9:6) [Gn 4:15]; ([[exodus-12|Ex 12]]:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

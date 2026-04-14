@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 6
 ---
@@ -69,3 +69,7 @@ description: Nehemiah, Chapter 6
 a. (6:14) [Jer 23:9] – [40]; [Zec 13:3].
 
 b. (6:16) [Ps 118:22] – [23]; [127:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

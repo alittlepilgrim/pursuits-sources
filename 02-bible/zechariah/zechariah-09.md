@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 9
 ---
@@ -197,3 +197,7 @@ h. (9:15) ([[exodus-27|Ex 27]]:3]; [38:3]; [Nm 4:14].
 i. (9:16) [Ez 34:11].
 
 j. (9:17) [Jer 31:12] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

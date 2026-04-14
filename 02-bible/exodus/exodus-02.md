@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 2
 ---
@@ -113,3 +113,7 @@ f. (2:22) ([[exodus-18|Ex 18]]:3].
 g. (2:23) ([[exodus-03|Ex 3]]:7], [9]; [Dt 26:7].
 
 h. (2:24) ([[exodus-06|Ex 6]]:5]; [Ps 105:8] – [9]; [106:44] – [45].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

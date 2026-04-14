@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 2
 ---
@@ -118,7 +118,7 @@ h. (2:11) [Dt 10:17]; [2 Chr 19:7]; [Sir 35:12] – [13]; ([[acts-of-the-apostle
 
 i. (2:12) [3:19].
 
-j. (2:13) ([[matthew-07|Mt 7]]:21]; ([[luke-06| [[luke-06|Lk 6]]:]]:46] – [49]; [8:21]; [Jas 1:22] – [25]; ([[1-john-03|1 Jn 3]]:7].
+j. (2:13) ([[matthew-07|Mt 7]]:21]; ([[luke-06||Lk 6]]:46] – [49]; [8:21]; [Jas 1:22] – [25]; ([[1-john-03|1 Jn 3]]:7].
 
 k. (2:14) ([[acts-of-the-apostles-10|Acts 10]]:35].
 
@@ -128,7 +128,7 @@ m. (2:17) [Is 48:1] – [2]; [Mi 3:11]; [Phil 3:4] – [6].
 
 n. (2:18) [Phil 1:10].
 
-o. (2:19) ([[matthew-15|Mt 15]]:14]; ([[luke-06| [[luke-06|Lk 6]]:]]:39].
+o. (2:19) ([[matthew-15|Mt 15]]:14]; ([[luke-06||Lk 6]]:39].
 
 p. (2:20) [2 Tm 3:15].
 
@@ -145,3 +145,7 @@ u. (2:26) [Gal 5:6].
 v. (2:28) [Jn 7:24]; [8:15], [39].
 
 w. (2:29) [Dt 30:6]; [Jer 4:4]; [9:25]; [Col 2:11] / ([[1-corinthians-04|1 Cor 4]]:5]; [2 Cor 10:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

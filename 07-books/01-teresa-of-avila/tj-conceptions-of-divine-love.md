@@ -3,11 +3,11 @@ type: book
 title: Conceptions of Divine Love
 author: Saint Teresa of Ávila
 aliases:
-  - 20251018-183453
   - Conceptions of Divine Love
-tags: []
+tags:
+  - type/book
 created: 2025-10-18
-modified: 2026-04-04
+modified: 2026-04-07
 publish: false
 ---
 

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 21
 ---
@@ -225,3 +225,7 @@ h. (21:29) [Jer 8:11] – [12]; [27:9] – [10].
 i. (21:30) cf. [[ezekiel-16|Ez 16]]:3.
 
 j. (21:32) [Mal 3:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Maccabees, Chapter
 ---
@@ -122,3 +122,7 @@ e. (7:22]–[23]] [2 Mc 7:11], [28]; [Jb 1:10]–[12]; [Ps 139:13]–[16];�
 f. (7:32]] [2 Mc 5:17]; [6:12]–[16]; [7:16]–[19].
 
 # V. Victories of Judas and Purification of the Temple
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

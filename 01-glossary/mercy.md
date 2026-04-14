@@ -9,7 +9,7 @@ tags:
   - term/mercy
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 description: mercy. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -20,13 +20,23 @@ description: mercy. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City
 
 The loving kindness, compassion, or forbearance shown to one who offends (e.g., the mercy of God to us sinners) ([[2.2.2.4.p46#^ccc-1422|1422]], [[3.1.1.7.p66#^ccc-1829|1829]]). _See_Works of Mercy.
 
-# Mercy
+## Ignatius Catholic Study Bible
+
+**Mercy**
+
+Compassion: Col 3:12
+
+God desires mercy: Mt 9:13; 18:23-35
+
+Merciful people shall receive a reward: Mt 10:42
+
+Those who are merciful will obtain mercy: Mt 5:7
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
 
 ## Divine Intimacy Meditations
-
-### Compendium on Social Doctrine
-
-![[sd-10-index-m#Mercy]]
 
 - Of God in Redemption of man: [[2-invitation-to-sanctity#Meditation 1|2,1]]; [[26-the-mystery-of-the-incarnation#Meditation 2|26,2]];
 - — characterizes love of God for us: [[236-infinite-mercy#Meditation 1|236,1]]; [[307-blessed-are-the-merciful#Meditation 1|307,1]];
@@ -64,3 +74,7 @@ The loving kindness, compassion, or forbearance shown to one who offends (e.g., 
 - [[322-the-divine-invitation|322. The Divine Invitation]]
 - [[336-forgiveness|336. Forgiveness]]
 - [[353-desolation-and-darkness|353. Desolation and Darkness]]
+
+## Compendium on Social Doctrine
+
+![[sd-10-index-m#Mercy]]

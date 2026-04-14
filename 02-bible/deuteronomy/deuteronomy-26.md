@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 26
 ---
@@ -91,3 +91,7 @@ j. (26:14) [Dt 14:1]; [Lv 11:24] – [25]; [22:3]; [Jer 16:7].
 k. (26:15) [1 Kgs 8:39], [43], [49]; [Ps 102:19].
 
 l. (26:16] – [19) [Dt 7:6]; [8:6]; [10:12] – [13]; [11:22]; [14:2]; [27:9]; [28:1], [9]; [29:12] – [13]; ([[exodus-06|Ex 6]]:7]; [19:5] – [6]; [24:7]; [Lv 26:12]; [2 Sm 7:24]; [Jer 7:23]; [31:33]; [[ezekiel-11|Ez 11]]:20; [Hos 2:23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

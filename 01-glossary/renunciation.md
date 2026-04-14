@@ -39,7 +39,8 @@ publish: true
     - [[detachment|Detachment]]
     - [[mortification|Mortification]]
 
-    ---
+ ### Sources
+
 
 - [[54-what-jesus-teaching-exacts|54. What Jesus' Teaching Exacts]]
 - [[62-jesus-and-the-glory-of-the-father|62. Jesus and the Glory of the Father]]

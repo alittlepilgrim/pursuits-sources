@@ -4,7 +4,6 @@ title: Social Doctrine of the Church - Introduction
 author: Catholic Church
 url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
-  - 20250822-142834
   - Compendium of the Social Doctrine of the Church Introduction
   - Social Doctrine of the Church - Introduction
   - social-doctrine-02
@@ -29,7 +28,7 @@ description: Compendium of the Social Doctrine of the Church
 
 AN INTEGRAL AND SOLIDARY HUMANISM
 
-### A. At the Dawn of the Third Millennium
+### A. at the Dawn of the Third Millennium
 
 **1\.** *The Church moves further into the Third Millennium of the Christian era as a pilgrim people, guided by Christ, the “great Shepherd”* (*Heb* 13:20). He is the “Holy Door” (cf. *Jn* 10:9) through which we passed during the Great Jubilee of the year 2000\[1\]. Jesus Christ is the Way, the Truth and the Life (cf. *Jn* 14:6): contemplating the Lord's face, we confirm our faith and our hope in him, the one Saviour and goal of history. ^csdc-1
 
@@ -65,7 +64,7 @@ From this there can spring new strategies suited to the demands of our time and 
 
 The Catholic Church joins her own commitment to that made in the social field by other Churches and Ecclesial Communities, whether at the level of doctrinal reflection or at the practical level. Together with them, the Catholic Church is convinced that from the common heritage of social teachings preserved by the living tradition of the people of God there will come motivations and orientations for an ever closer cooperation in the promotion of justice and peace\[13\].
 
-### C. At the Service of the Full Truth About Man
+### C. at the Service of the Full Truth About Man
 
 **13\.** *This document is an act of service on the part of the Church to the women and men of our time*, to whom she offers the legacy of her social doctrine, according to that style of dialogue by which God himself, in his only-begotten Son made man, “addresses men as his friends (cf. *Ex* 33:11; *Jn* 15:14-15) and moves among them (cf. * [[baruch-03|Bar 3]]:38)”\[14\]. Drawing inspiration from the Pastoral Constitution *[Gaudium et Spes](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, this document too places “man considered whole and entire, with body and soul, heart and conscience, mind and will” \[15\] as the key to its whole exposition. In this perspective, the Church is “inspired by no earthly ambition and seeks but one solitary goal: to carry forward the work of Christ himself under the lead of the befriending Spirit. For Christ entered this world to bear witness to the truth, to save and not to sit in judgment, to serve and not to be served”\[16\]. ^csdc-13
 

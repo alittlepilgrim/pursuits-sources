@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 29
 ---
@@ -55,3 +55,7 @@ b. (29:3) [1 Sm 27:7].
 c. (29:4) [[1-chronicles-12|1 Chr 12]]:19 – [20].
 
 d. (29:5) [1 Sm 18:6] – [7]; [21:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 20
 url: https://bible.usccb.org/bible/exodus/20
 aliases:
-  - 20250731-085936
   - exodus-20
   - Exodus, Chapter 20
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 20
 ---
@@ -140,3 +139,7 @@ p. (20:23) ([[exodus-20|Ex 20]]:3] – [4].
 q. (20:24) [Dt 12:5], [11]; [14:23]; [16:6].
 
 r. (20:25) [Dt 27:5]; [Jos 8:31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

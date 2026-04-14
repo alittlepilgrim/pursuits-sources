@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 68
 ---
@@ -273,3 +273,7 @@ p. (68:32) [[isaiah-18|Is 18]]:7; [45:14].
 q. (68:33) [Ps 138:4].
 
 r. (68:36) ([[psalm-28|Ps 28]]:8]; [29:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

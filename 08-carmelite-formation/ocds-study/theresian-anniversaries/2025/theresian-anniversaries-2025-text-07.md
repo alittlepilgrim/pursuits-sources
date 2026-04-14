@@ -6,9 +6,9 @@ aliases:
   - Theresian Anniversaires 2025 - Text 7 to Father Belliere, 18th July 1897 (Letter 258)
   - theresian-anniversaries-2025-text-07
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 

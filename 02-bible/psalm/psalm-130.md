@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 130
 ---
@@ -81,3 +81,7 @@ d. (130:6) [[isaiah-21|Is 21]]:11; [26:9].
 e. (130:7) [Ps 86:15]; [100:5]; [103:8].
 
 f. (130:8) ([[psalm-25|Ps 25]]:22]; ([[matthew-01|Mt 1]]:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

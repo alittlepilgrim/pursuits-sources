@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 10
 ---
@@ -135,3 +135,7 @@ q. (10:18) ([[psalm-19|Ps 19]]:5]; ([[matthew-24|Mt 24]]:14].
 r. (10:19) [11:11], [14]; [Dt 32:21].
 
 s. (10:20] – [21) [9:30]; [Is 65:1] – [2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

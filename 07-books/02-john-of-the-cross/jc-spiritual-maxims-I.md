@@ -3,7 +3,6 @@ type: book
 title: Spiritual Maxims I by St. John of the Cross
 author: Saint John of the Cross
 aliases:
-  - 20250725-190143
   - jc-spiritual-maxims-I
   - Spiritual Maxims I by St. John of the Cross
   - Spiritual Maxims I By St. John of the Cross
@@ -12,7 +11,7 @@ tags:
   - book/jc-spiritual-maxims
   - subject
 created: 2025-07-25
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 description: Spiritual Maxims I By St. John of the Cross
 ---

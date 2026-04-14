@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 34
 ---
@@ -151,3 +151,7 @@ d. (34:22) [Sir 35:14] – [15]; [Prv 21:27].
 e. (34:25] – [27) [Lv 19:13]; [Dt 24:14] – [15]; [Tb 4:14].
 
 f. (34:30) [Nm 19:11] – [12]; [Prv 26:11]; [2 Pt 2:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

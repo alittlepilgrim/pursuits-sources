@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 20
 ---
@@ -129,3 +129,7 @@ h. (20:23) [Jos 6:17].
 i. (20:31] – [34) [[1-kings-22|1 Kgs 22]]:41 – [45].
 
 j. (20:36] – [37) [[1-kings-22|1 Kgs 22]]:48 – [49].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

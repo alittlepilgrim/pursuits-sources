@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 13
 ---
@@ -165,3 +165,7 @@ q. (13:33) [2:38]; [[john-06|Jn 6]]:n-06|Jn 6]]:30]; [8:20].
 r. (13:34] – [35) [19:41] – [44]; ([[matthew-23|Mt 23]]:37] – [39].
 
 s. (13:35) [19:38]; [1 Kgs 9:7] – [8]; [Ps 118:26]; [Jer 7:4] – [7], [13] – [15]; [12:7]; [22:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 9
 ---
@@ -107,3 +107,7 @@ a. (9:6) [Ps 78:48].
 b. (9:16) [Rom 9:17].
 
 c. (9:23] – [24) [Ps 78:47]; [105:32] – [33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

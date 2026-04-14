@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Baruch, Chapter 6
 ---
@@ -215,3 +215,7 @@ m. \[[6:42] – [43]\] [Jer 3:2].
 n. \[[6:58]\] [Wis 13:10] – [15]; [15:7] – [17].
 
 o. \[[6:69]\] [Jer 10:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

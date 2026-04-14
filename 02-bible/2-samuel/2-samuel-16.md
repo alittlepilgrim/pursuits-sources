@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 samuel-chapter 16
 ---
@@ -101,3 +101,7 @@ k. (16:21) [2 Sm 15:16]; [20:3].
 l. (16:22) [2 Sm 12:11] – [12].
 
 m. (16:23) [2 Sm 15:12], [31]; [17:23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

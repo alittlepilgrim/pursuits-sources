@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 31
 url: https://bible.usccb.org/bible/exodus/31
 aliases:
-  - 20250731-090022
   - exodus-31
   - Exodus, Chapter 31
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 31
 ---
@@ -74,3 +73,7 @@ b. (31:7] – [11) [Ex 35:10] – [19].
 c. (31:12] – [17) ([[exodus-20|Ex 20]]:8] – [11]; [35:1] – [3].
 
 d. (31:18) ([[exodus-24|Ex 24]]:12]; [32:15] – [16]; [Dt 5:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

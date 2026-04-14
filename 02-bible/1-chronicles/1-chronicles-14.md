@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 14
 ---
@@ -51,3 +51,7 @@ c. \[[14:3] – [7]\] [1 Chr 3:5] – [8]; [2 Sm 5:13] – [16].
 d. \[[14:9]\] [[1-chronicles-11|1 Chr 11]]:15.
 
 e. \[[14:12]\] [Dt 7:5], [25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

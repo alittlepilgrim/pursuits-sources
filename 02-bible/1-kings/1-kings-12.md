@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 12
 ---
@@ -131,3 +131,7 @@ b. (12:16]\] [2 Sm 20:1].
 c. (12:28]\] [Ex 32:1] – [10].
 
 d. (12:29]\] [Tb 1:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

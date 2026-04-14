@@ -6,10 +6,11 @@ author:
 aliases:
   - Magisterial Documents
   - Vatican II Documents
-tags: []
+tags:
+  - type/toc
 language: EN
 created: 2025-10-26
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 permalink: /vatican
 attachment: false

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 6
 ---
@@ -107,3 +107,7 @@ c. (6:3) [Dt 11:14]; [Ps 72:6].
 d. (6:5) [[isaiah-11|Is 11]]:4; [49:2]; [Jer 5:14]; [Heb 4:12] – [13].
 
 e. (6:6) [1 Sm 15:22]; [Am 5:22] – [24]; [Mi 6:6] – [8]; [Eccl 4:17]; ([[matthew-09|Mt 9]]:13]; [12:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

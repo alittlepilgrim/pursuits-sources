@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 11
 ---
@@ -205,3 +205,7 @@ q. (11:49] – [50) [18:13] – [14].
 r. (11:53) [5:18]; [7:1]; ([[matthew-12|Mt 12]]:14].
 
 s. (11:55) [2:13]; [5:1]; [6:4]; [18:28]; ([[exodus-19|Ex 19]]:10] – [11], [15]; [Nm 9:6] – [14]; [19:12]; [Dt 16:6]; [2 Chr 30:1] – [3], [15] – [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

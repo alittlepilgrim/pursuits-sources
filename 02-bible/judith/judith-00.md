@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/judith/0
 aliases:
   - judith-00
   - Judith, the Book of Judith
-  - Judith, The Book of Judith
 tags:
   - bible/book
   - bible/judith
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: judith-the book of judith
 ---
@@ -36,3 +35,7 @@ The book can be divided into five parts:
 3. Judith, Instrument of the Lord ([8:1] – [10:10])
 4. Judith Goes Out to War ([10:11] – [13:20])
 5. Victory and Thanksgiving ([14:1] – [16:25])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

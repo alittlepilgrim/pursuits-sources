@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-08-24
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Encyclical Humani Generis Of The Holy Father Pius XII, To Our Venerable Brethren Patriarchs Primates Archbishops Bishops And Other Local Ordinaries, Enjoying Peace And Communion With The Holy See, Concerning Some False Opinions Threatening To Undermine The Foundations Of Catholic Doctrine – Humani Generis (August 12, 1950)
 abbreviation: piusxii-hg
@@ -19,7 +19,7 @@ abbreviation: piusxii-hg
 
 # Humani Generis (August 12, 1950)
 
-## Encyclical Humani Generis Of The Holy Father Pius Xii, to Our Venerable Brethren Patriarchs Primates Archbishops Bishops and Other Local Ordinaries, Enjoying Peace and Communion with The Holy See, Concerning Some False Opinions Threatening to Undermine The Foundations Of Catholic Doctrine
+## Encyclical Humani Generis of the Holy Father Pius Xii, to Our Venerable Brethren Patriarchs, Primates, Archbishops, Bishops and Other Local Ordinaries, Enjoying Peace and Communion with the Holy See, Concerning Some False Opinions Threatening to Undermine the Foundations of Catholic Doctrine
 
 Venerable Brethren,
 

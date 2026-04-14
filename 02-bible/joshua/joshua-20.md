@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 20
 ---
@@ -49,3 +49,7 @@ a. (20:1] – [9) ([[exodus-21|Ex 21]]:12] – [14]; [Nm 35:9] – [15]; [Dt 4:4
 b. (20:7) [Jos 15:13]; [19:37]; [21:21].
 
 c. (20:8) [Jos 21:27], [36].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

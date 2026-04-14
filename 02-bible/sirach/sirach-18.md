@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 18
 ---
@@ -191,3 +191,7 @@ e. (18:24) [Sir 7:16].
 f. (18:25) [[sirach-11|Sir 11]]:25 – [27].
 
 g. (18:30) [Rom 6:12]; [13:14]; [2 Tm 2:22]; [Jas 1:14] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

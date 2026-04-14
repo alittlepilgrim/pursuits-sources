@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 62
 ---
@@ -125,3 +125,7 @@ e. (62:11) [Jb 31:25]; [Eccl 5:9]; [Jer 17:11]; ([[matthew-06|Mt 6]]:19] – [21
 f. (62:12) [Jb 40:5].
 
 g. (62:13) ([[psalm-28|Ps 28]]:4]; [31:24]; [2 Sm 3:39]; [Jb 34:11]; [Jer 17:10]; ([[matthew-16|Mt 16]]:27]; ([[romans-02|Rom 2]]:6]; [2 Tm 4:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

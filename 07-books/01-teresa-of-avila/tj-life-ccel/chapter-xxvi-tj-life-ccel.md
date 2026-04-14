@@ -1,0 +1,47 @@
+---
+type: book
+title: Chapter XXVI – The Life of St. Teresa of Jesus (CCEL Edition)
+author: Saint Teresa of Ávila
+aliases:
+  - Chapter XXVI. How the Fears of the Saint Vanished. How She Was Assured That Her Prayer Was the Work of the Holy Spirit – The Life of St. Teresa of Jesus (CCEL Edition)
+tags:
+  - author/saint-teresa-of-avila
+  - book/life
+  - type/book
+created: 2026-04-08
+modified: 2026-04-09
+publish: false
+description: Chapter XXVI. How the Fears of the Saint Vanished. How She Was Assured That Her Prayer Was the Work of the Holy Spirit
+---
+
+← [[chapter-xxv-tj-life-ccel|Chapter XXV]] | [[tj-life-ccel-toc|Table of Contents]] | [[chapter-xxvii-tj-life-ccel|Chapter XXVII]] →
+
+# Chapter XXVI. How the Fears of the Saint Vanished. How She Was Assured That Her Prayer Was the Work of the Holy Spirit
+
+## How the Fears of the Saint Vanished. How She Was Assured That Her Prayer Was the Work of the Holy Spirit
+
+   1. I look upon the courage which our Lord has implanted in me against evil spirits as one of the greatest mercies which He has bestowed upon me; for a cowardly soul, afraid of anything but sin against God, is a very unseemly thing, when we have on our side the King omnipotent, our Lord most high, who can do all things, and subjects all things to Himself. There is nothing to be afraid of if we walk, as I said before, [376] in the truth, in the sight of His Majesty, with a pure conscience. And for this end, as I said in the same place, I would have myself all fears, that I may not for one instant offend Him who in that instant is able to destroy us. If His Majesty is pleased with us, whoever resists us--be he who he may--will be utterly disappointed.
+   2. It may be so, you will say; but, then, where is that soul so just as to please Him in everything?--and that is the reason why we are afraid. Certainly it is not my soul, which is most wretched, unprofitable, and full of misery. God is not like man in His ways; He knows our weakness. But the soul perceives, by the help of certain great signs, whether it loves God of a truth; for the love of those souls who have come to this state is not hidden as it was at first, but is full of high impulses, and of longings for the vision of God, as I shall show hereafter--or rather, as I have shown already. [377] Everything wearies, everything distresses, everything torments the soul, unless it be suffered with God, or for God. There is no rest which is not a weariness, because the soul knows itself to be away from its true rest; and so love is made most manifest, and, as I have just said, impossible to hide.
+   3. It happened to me, on another occasion to be grievously tried, and much spoken against on account of a certain affair,--of which I will speak hereafter, [378] --by almost everybody in the place where I am living, and by the members of my Order. When I was in this distress, and afflicted by many occasions of disquiet wherein I was placed, our Lord spoke to me, saying: "What art thou afraid of? knowest thou not that I am almighty? I will do what I have promised thee." And so, afterwards, was it done. I found myself at once so strong, that I could have undertaken anything, so it seemed, immediately, even if I had to endure greater trials for His service, and had to enter on a new state of suffering. These locutions are so frequent, that I cannot count them; many of them are reproaches, and He sends them when I fall into imperfections. They are enough to destroy a soul. They correct me, however; for His Majesty--as I said before [379] -- gives both counsel and relief. There are others which bring my former sins into remembrance,--particularly when He is about to bestow upon me some special grace,--in such a way that the soul beholds itself as being really judged; for those reproaches of God put the truth before it so distinctly, that it knows not what to do with itself. Some are warnings against certain dangers to myself or others; many of them are prophecies of future things, three or four years beforehand; and all of them have been fulfilled: some of them I could mention. Here, then, are so many reasons for believing that they come from God, as make it impossible, I believe, for anybody to mistake them.
+   4. The safest course in these things is to declare, without fail, the whole state of the soul, together with the graces our Lord gives me, to a confessor who is learned, and obey him. I do so; and if I did not, I should have no peace. Nor is it right that we women, who are unlearned, should have any: there can be no danger in this, but rather great profit. This is what our Lord has often commanded me to do, and it is what I have often done. I had a confessor [380] who mortified me greatly, and now and then distressed me: he tried me heavily, for he disquieted me exceedingly; and yet he was the one who, I believe, did me the most good. Though I had a great affection for him, I was occasionally tempted to leave him; I thought that the pain he inflicted on me disturbed my prayer. Whenever I was resolved on leaving him, I used to feel instantly that I ought not to do so; and one reproach of our Lord would press more heavily upon me than all that my confessor did. Now and then, I was worn out--torture on the one hand, reproaches on the other. I required it all, for my will was but little subdued. Our Lord said to me once, that there was no obedience where there was no resolution to suffer; that I was to think of His sufferings, and then everything would be easy.
+   5. One of my confessors, to whom I went in the beginning, advised me once, now that my spiritual state was known to be the work of God, to keep silence, and not speak of these things to any one, on the ground that it was safer to keep these graces secret. To me, the advice seemed good, because I felt it so much whenever I had to speak of them to my confessor; [381] I was also so ashamed of myself, that I felt it more keenly at times to speak of them than I should have done in confessing grave sins, particularly when the graces I had to reveal were great. I thought they did not believe me, and that they were laughing at me. I felt it so much,--for I look on this as an irreverent treatment of the marvels of God,--that I was glad to be silent. I learned then that I had been ill-advised by that confessor, because I ought never to hide anything from my confessor; for I should find great security if I told everything; and if I did otherwise, I might at any time fall into delusions. [382]
+   6. Whenever our Lord commanded me to do one thing in prayer, and if my confessor forbade it, our Lord Himself told me to obey my confessor. His Majesty afterwards would change the mind of that confessor, so that he would have me do what he had forbidden before. When we were deprived of many books written in Spanish, and forbidden to read them,--I felt it deeply, for some of these books were a great comfort to me, and I could not read them in Latin,--our Lord said to me, "Be not troubled; I will give thee a living book." I could not understand why this was said to me, for at that time I had never had a vision.[[310]8] [383] But, a very few days afterwards, I understood it well enough; for I had so much to think of, and such reasons for self-recollection in what I saw before me and our Lord dealt so lovingly with me, in teaching me in so many ways, that I had little or no need whatever of books. His Majesty has been to me a veritable Book, in which I saw all truth. Blessed be such a Book, which leaves behind an impression of what is read therein, and in such a way that it cannotbe forgotten!
+   7. Who can look upon our Lord, covered with wounds, and bowed down under persecutions, without accepting, loving, and longing for them? Who can behold but a part of that glory which He will give to those who serve Him without confessing that all he may do, and all he may suffer, are altogether as nothing, when we may hope for such a reward? Who can look at the torments of lost souls without acknowledging the torments of this life to be joyous delights in comparison, and confessing how much they owe to our Lord in having saved them so often from the place of torments? [384] But as, by the help of God, I shall speak more at large of certain things, I wish now to go on with the story of my life. Our Lord grant that I have been clear enough in what I have hitherto said! I feel assured that he will understand me who has had experience herein, and that he will see I have partially succeeded; but as to him who has had no such experience, I should not be surprised if he regarded it all as folly. It is enough for him that it is I who say it, in order to be free from blame; neither will I blame any one who shall so speak of it. Our Lord grant that I may never fail to do His will! Amen.
+
+[376] [311]Ch. xxv. § 26.
+
+[377] [312]Ch. xv. § 6.
+
+[378] [313]Ch. xxxiii.; the foundation of the house of St. Joseph.
+
+[379] [314]Ch. xxv. § 23.
+
+[380] The Bollandists, n. 185, attribute some of the severity with which her confessor treated the Saint to the spirit of desolation with which he was then tried himself; and, in proof of it, refer to the account which F. Baltasar Alvarez gave of his own prayer to the General of the Society.
+
+[381] See [315]Relation, vii. § 7.
+
+[382] St. John of the Cross, Mount Carmel, bk. ii. ch. 22, § 14.
+
+[383] The visions of the Saint began in 1558 (De la Fuente) or, according to Father Bouix, in 1559.
+
+[384] St. Luke xvi. 28: "Ne et ipsi veniant in hunc locum tormentorum."

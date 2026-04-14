@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 8
 ---
@@ -161,3 +161,7 @@ h. (8:13) [Dt 28:68].
 i. (8:14) [Dt 32:15], [18]; [Is 51:13].
 
 j. (8:14) [Am 1:7], [10], [12], [14]; [2:2], [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

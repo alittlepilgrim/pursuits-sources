@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 2
 ---
@@ -129,3 +129,7 @@ b. (2:16) [Prv 5:3], [20]; [6:24]; [7:5]; [22:14].
 c. (2:18) [Prv 5:5]; [7:27].
 
 d. (2:21) [Prv 10:7], [30]; [Jb 18:17]; ([[psalm-21|Ps 21]]:9] – [13]; [37:22], [28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

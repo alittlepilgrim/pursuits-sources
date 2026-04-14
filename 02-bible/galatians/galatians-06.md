@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Galatians, Chapter 6
 ---
@@ -115,3 +115,7 @@ m. (6:16) [Ps 125:5]; [128:6].
 n. (6:17) ([[2-corinthians-04|2 Cor 4]]:10].
 
 o. (6:18) [Phil 4:23]; [2 Tm 4:22]; [Phlm 25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

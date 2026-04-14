@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 6
 ---
@@ -71,3 +71,7 @@ When Tobiah heard Raphael’s words that she was his kinswoman, and of the linea
 a. (6:12) [Tb 4:12] – [13]; [Nm 36:8].
 
 b. (6:15) [Tb 3:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

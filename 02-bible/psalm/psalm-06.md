@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 6
 ---
@@ -93,3 +93,7 @@ e. (6:8) [Ps 31:10]; [38:11]; [40:13].
 f. (6:9) [Ps 119:115]; ([[matthew-07|Mt 7]]:23]; ([[luke-13|Lk 13]]:27].
 
 g. (6:11) [Ps 35:4], [26]; [40:15]; [71:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

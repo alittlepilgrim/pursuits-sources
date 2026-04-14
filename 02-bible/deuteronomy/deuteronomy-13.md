@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 13
 ---
@@ -79,3 +79,7 @@ g. (13:12) [Dt 17:13]; [21:21].
 h. (13:15) [Dt 17:4]; [19:18].
 
 i. (13:16] – [17) [Dt 20:16] – [18]; [Jos 6:17], [24]; [7:25] – [26]; [8:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

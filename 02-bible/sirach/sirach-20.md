@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 20
 ---
@@ -165,3 +165,7 @@ than to be the ungoverned helmsman for the careening of one’s life.
 a. (20:5] – [6) [Prv 17:27] – [28].
 
 b. (20:29) ([[exodus-23|Ex 23]]:8]; [Dt 16:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

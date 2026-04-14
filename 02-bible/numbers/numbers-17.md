@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 17
 ---
@@ -89,3 +89,7 @@ description: Numbers, Chapter 17
 \* (17:27] – [28) The people’s distress here echoes their panic in [16:34], and may be heightened further by the death of the two hundred and fifty leaders offering incense in [16:35].
 
 a. (17:11) [Wis 18:20] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

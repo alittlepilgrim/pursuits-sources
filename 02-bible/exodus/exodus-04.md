@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 4
 ---
@@ -117,3 +117,7 @@ e. (4:22) [Sir 36:11].
 f. (4:23) ([[exodus-11|Ex 11]]:5]; [12:29].
 
 g. (4:25) [Is 6:2]; [7:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

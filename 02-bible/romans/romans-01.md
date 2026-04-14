@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 1
 ---
@@ -173,3 +173,7 @@ x. (1:27) [Lv 18:22]; [20:13]; [Wis 14:26]; ([[1-corinthians-06|1 Cor 6]]:9]; [1
 y. (1:29] – [31) [13:13]; ([[matthew-15|Mt 15]]:19]; ([[mark-07|Mk 7]]:21] – [22]; [Gal 5:19] – [21]; [2 Tm 3:2] – [4].
 
 z. (1:32) ([[acts-of-the-apostles-08|Acts 8]]:1]; [2 Thes 2:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

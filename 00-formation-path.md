@@ -35,7 +35,7 @@ This repository it is a **structured path of spiritual and doctrinal formation*
     
 - [[tk-the-imitation-of-christ-ccel|The Imitation of Christ]]
     
-- [[Il-the-spiritual-exercises|Spiritual Exercises]] — Ignatius of Loyola
+- [[il-spiritual-exercises|Spiritual Exercises]] — Ignatius of Loyola
     
 
 ### Foundations
@@ -60,7 +60,7 @@ This repository it is a **structured path of spiritual and doctrinal formation*
 
 ### Theological Clarification
 
-- [[The Three Ages of the Interior Life]] — Reginald Garrigou-Lagrange
+- The Three Ages of the Interior Life — Reginald Garrigou-Lagrange
     
 
 ### Supporting Works
@@ -76,14 +76,14 @@ This repository it is a **structured path of spiritual and doctrinal formation*
 
 ### Primary Carmelite Sources
 
-- [[jc-spiritual-canticle|Spiritual Canticle]] — John of the Cross
+- [[jc-sc-toc|Spiritual Canticle]] — John of the Cross
     
 
 ### Supporting Works
 
 - [[bl-the-practice-of-the-presence-of-god|The Practice of the Presence of God]] — Brother Lawrence
     
-- [[00-story-of-a-soul|Story of a Soul]] — Thérèse of Lisieux
+- Story of a Soul — Thérèse of Lisieux
     
 
 ---

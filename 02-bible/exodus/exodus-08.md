@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 8
 ---
@@ -93,3 +93,7 @@ a. (8:12] – [13) [Ps 105:31].
 b. (8:14) [Wis 17:7].
 
 c. (8:20) [Ps 78:45]; [105:31]; [Wis 16:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

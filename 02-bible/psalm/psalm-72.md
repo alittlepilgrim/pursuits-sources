@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 72
 ---
@@ -163,3 +163,7 @@ m. (72:17) [[genesis-12|Gen 12]]:3; [22:18]; [26:4]; [Zec 8:13].
 n. (72:18) [Ps 41:14]; [89:53]; [106:48]; [136:4].
 
 o. (72:19) [Ps 57:5]; [Nm 14:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 13
 ---
@@ -273,3 +273,7 @@ q. (13:54) [2:23]; ([[john-01|Jn 1]]:46]; [7:15].
 r. (13:55) [12:46]; [27:56]; [[john-06|Jn 6]]:n-06|Jn 6]]:42].
 
 s. (13:57) ([[john-04|Jn 4]]:44].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

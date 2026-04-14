@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 13
 ---
@@ -71,3 +71,7 @@ f. (13:7) [Prv 10:12]; [1 Pt 4:8].
 g. (13:12) ([[2-corinthians-05|2 Cor 5]]:7]; [Heb 11:1] / [2 Tm 2:19]; ([[1-john-03|1 Jn 3]]:2].
 
 h. (13:13) [Col 1:4]; [1 Thes 1:3]; [5:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

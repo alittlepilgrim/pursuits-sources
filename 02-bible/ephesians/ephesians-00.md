@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/ephesians/0
 aliases:
   - ephesians-00
   - Ephesians, the Letter to the Ephesians
-  - Ephesians, The Letter To The Ephesians
 tags:
   - bible/book
   - bible/ephesians
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ephesians, the Letter to the Ephesians
 ---
@@ -46,3 +45,7 @@ The principal divisions of the Letter to the Ephesians are the following:
 - [[ephesians-04|Ephesians, Chapter 4]]
 - [[ephesians-05|Ephesians, Chapter 5]]
 - [[ephesians-06|Ephesians, Chapter 6]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

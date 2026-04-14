@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Amos, Chapter 4
 ---
@@ -159,3 +159,7 @@ c. (4:9) [Dt 28:22]; [Jl 1:4]; [2:25]; [Hg 2:17].
 d. (4:10) [Dt 7:15]; [28:27].
 
 e. (4:11) [[genesis-19|Gen 19]]:24 – [25]; [Zec 3:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

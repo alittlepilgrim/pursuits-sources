@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 10
 ---
@@ -179,3 +179,7 @@ g. (10:23) [Jas 2:1] – [4].
 h. (10:25) [Prv 17:2].
 
 i. (10:27) [Prv 12:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

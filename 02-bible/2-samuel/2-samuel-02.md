@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 2
 ---
@@ -115,3 +115,7 @@ d. (2:11) [2 Sm 5:5]; [1 Kgs 2:11].
 e. (2:18) [2 Sm 23:24]; [1 Chr 2:16]; [27:7].
 
 f. (2:22) [2 Sm 3:27] – [28], [30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

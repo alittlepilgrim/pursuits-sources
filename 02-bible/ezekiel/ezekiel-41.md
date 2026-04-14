@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 41
 ---
@@ -85,3 +85,7 @@ f. (41:22) ([[exodus-25|Ex 25]]:23]; [Lv 24:5] – [9].
 g. (41:23) [1 Kgs 6:32].
 
 h. (41:24) [1 Kgs 6:34].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

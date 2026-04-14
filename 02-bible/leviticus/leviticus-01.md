@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 1
 ---
@@ -89,3 +89,7 @@ i. (1:9) [Lv 2:2]; [3:5]; [4:31]; [26:31]; [Gn 8:20] – [21]; [Nm 28:2]; cf. [L
 j. (1:14) [Lv 5:7]; [12:8]; [15:14] – [15]; ([[luke-02|Lk 2]]:24].
 
 k. (1:15) [Lv 5:8] – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

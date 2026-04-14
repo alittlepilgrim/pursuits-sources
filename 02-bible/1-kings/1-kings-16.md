@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 kings-chapter 16
 ---
@@ -117,3 +117,7 @@ c. (16:10]\] [2 Kgs 9:31].
 d. (16:12]\] [[1-kings-16|1 Kgs 16]]:2 – [4].
 
 e. (16:34]\] [Jos 6:26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

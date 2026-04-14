@@ -4,7 +4,6 @@ title: 1 Peter, The First Letter of Peter
 url: https://bible.usccb.org/bible/1peter/0
 aliases:
   - 1 Peter, the First Letter of Peter
-  - 1 Peter, The First Letter of Peter
   - 1-peter-00
 tags:
   - bible/1-peter
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Peter, the First Letter of Peter
 ---
@@ -55,3 +54,7 @@ The principal divisions of the First Letter of Peter are the following:
 - [[1-peter-03|1 Peter, Chapter 3]]
 - [[1-peter-04|1 Peter, Chapter 4]]
 - [[1-peter-05|1 Peter, Chapter 5]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

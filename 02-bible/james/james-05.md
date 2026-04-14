@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: James, Chapter 5
 attachment: true
@@ -89,7 +89,7 @@ attachment: true
 
 \* \[[5:20) When a Christian is instrumental in the conversion of a sinner, the result is forgiveness of sins and a reinstatement of the sinner to the life of grace.
 
-a. \[[5:1) ([[luke-06| [[luke-06|Lk 6]]:]]:24].
+a. \[[5:1) ([[luke-06||Lk 6]]:24].
 
 b. \[[5:2) ([[matthew-06|Mt 6]]:19].
 
@@ -116,3 +116,7 @@ l. \[[5:18) [[1-kings-18|1 Kgs 18]]:45.
 m. \[[5:19) ([[matthew-18|Mt 18]]:15]; [Gal 6:1].
 
 n. \[[5:20) [Prv 10:12]; [1 Pt 4:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

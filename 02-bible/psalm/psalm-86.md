@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 86
 ---
@@ -127,3 +127,7 @@ g. (86:13) [Ps 30:4]; [40:3]; [Jon 2:7].
 h. (86:15) [Ps 103:8]; [130:7]; [145:8]; [Ex 34:6].
 
 i. (86:16) ([[psalm-25|Ps 25]]:16]; [116:16]; ([[wisdom-09|Wis 9]]:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezra, Chapter 5
 ---
@@ -63,3 +63,7 @@ description: Ezra, Chapter 5
 a. (5:1) [Hg 1:14] – [2:9]; [Zec 4:9].
 
 b. (5:13) ([[ezra-01|Ezr 1]]:1] – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

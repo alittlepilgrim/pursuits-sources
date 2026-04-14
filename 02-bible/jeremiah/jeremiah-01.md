@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 1
 ---
@@ -147,3 +147,7 @@ g. (1:15) [Jer 6:22].
 h. (1:16) [Is 2:8].
 
 i. (1:18) [Jer 6:27]; [15:20]; ([[ezekiel-03|Ez 3]]:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

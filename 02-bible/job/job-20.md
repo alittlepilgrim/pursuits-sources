@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 20
 ---
@@ -159,3 +159,7 @@ e. (20:22) [Jb 15:20] – [35].
 f. (20:26) [Dt 32:22].
 
 g. (20:29) [Jb 27:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 119
 ---
@@ -831,3 +831,7 @@ x. (119:165) [Ps 72:7].
 y. (119:169) [Ps 88:3].
 
 z. (119:176) [Is 53:6]; [Jer 50:6]; ([[luke-15|Lk 15]]:1] – [7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

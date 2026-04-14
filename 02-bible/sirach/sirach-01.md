@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 1
 ---
@@ -195,3 +195,7 @@ d. (1:14) [Jb 28:28]; [Ps 111:10]; [Prv 1:7]; [9:10].
 e. (1:16) [Eccl 12:13].
 
 f. (1:28) [Jas 1:8]; [2:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

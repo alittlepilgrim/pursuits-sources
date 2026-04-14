@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 16
 ---
@@ -97,3 +97,7 @@ b. (16:5) ([[psalm-23|Ps 23]]:5]; [73:26]; [Nm 18:20]; [Lam 3:24].
 c. (16:8) [Ps 73:23]; [121:5]; ([[acts-of-the-apostles-02|Acts 2]]:25] – [28].
 
 d. (16:10) ([[psalm-28|Ps 28]]:1]; [30:4]; [49:16]; [86:13]; [Jon 2:7]; ([[acts-of-the-apostles-13|Acts 13]]:35].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

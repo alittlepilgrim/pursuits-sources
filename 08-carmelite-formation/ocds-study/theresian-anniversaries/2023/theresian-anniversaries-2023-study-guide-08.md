@@ -6,13 +6,13 @@ aliases:
   - Theresian Anniversaires 2023 Study Guide 8 - the Offering to Merciful Love (Ms A, 83v-84v)
   - theresian-anniversaries-2023-study-guide-08
 tags:
-  - carmel/theresian-anniversaries
+  - carmel/curia-readings
 created: 2025-10-25
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 ---
 
-# Theresian Anniversaires 2023 Study Guide 8 - the Offering to Merciful Love (Ms A, 83v-84v)
+# Theresian Anniversaires 2023 Study Guide 8 — The Offering to Merciful Love (Ms A, 83v-84v)
 
 Reading of the writings of Therese of the Child Jesus Theresian anniversaries 2023-2025 2023: Manuscript A Study guide 8: The Offering to Merciful Love (Ms A, 83v-84v)
 

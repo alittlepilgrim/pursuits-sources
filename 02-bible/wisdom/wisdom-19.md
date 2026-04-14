@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 19
 ---
@@ -181,3 +181,7 @@ l. (19:17) [Wis 17:2]; [[genesis-19|Gen 19]]:11.
 m. (19:20] – [21) [Wis 16:17] – [19], [22] – [23], [27].
 
 n. (19:22) [Wis 18:8]; [Lv 26:44]; [Ps 126:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

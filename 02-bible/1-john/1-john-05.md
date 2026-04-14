@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 John, Chapter 5
 ---
@@ -101,3 +101,7 @@ k. (5:14) [3:21] – [22]; ([[matthew-07|Mt 7]]:7]; [Jn 14:13] – [14].
 l. (5:16) ([[matthew-12|Mt 12]]:31].
 
 m. (5:20) [Jer 24:7]; [[john-17|Jn 17]]:3]; [Eph 1:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

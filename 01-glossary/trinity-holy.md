@@ -20,6 +20,28 @@ description: trinity. Catechism of the Catholic Church. 1997. 2nd ed. Vatican Ci
 
 The mystery of one God in three Persons: Father, Son, and Holy Spirit. The revealed truth of the Holy Trinity is at the very root of the Church's living faith as expressed in the Creed. The mystery of the Trinity in itself is inaccessible to the human mind and is the object of faith only because it was revealed by Jesus Christ, the divine Son of the eternal Father ([[1.2.1.1.p17#^ccc-232|232]], [[1.2.1.1.p17#^ccc-237|237]], [[1.2.1.1.p17#^ccc-249|249]], [[1.2.1.1.p17#^ccc-253|253]]-[[1.2.1.1.p17#^ccc-256|256]]). _See_ Person, Divine.
 
+## Ignatius Catholic Study Bible
+
+**Trinity**
+
+Baptism in the Name of the Triune God: Mt 28:19
+
+Baptism of Jesus manifests the three Persons of the Triune God: Mt 3:16-17; Mk 1:9-11; Lk 3:21-22
+
+The Father (God) is divine and a distinct Person: Mt 6:9-13; Jn 1:18; 3:16; 14:28; 15:26; 16:28; 1 Cor 1:3; 15:24; 2 Tim 1:2; Tit 1:4; Heb 1:1-2; Jude 1
+
+The Son (Jesus; Lord) is divine and a distinct Person: Jn 1:1, 14, 18; 10:29-30; 14:28; 1 Cor 8:6; Phil 2:6-11; Col 2:9-10; 1 Tim 1:17; 2 Tim 1:2; Tit 1:4; Heb 1:5-14; Jude 1; Rev 3:12, 21
+
+The Holy Spirit is divine and a distinct Person: Jn 14:25-26; 15:26; 16:13-14; Acts 5:3; 28:25-26; 2 Cor 3:16-17; Eph 4:4, 30
+
+Paul's use of Trinitarian language: 1 Cor 12:4-6; 2 Cor 13:14; Eph 3:14-19; 4:4-6
+
+*See also* [[God]]; [[holy-spirit|Holy Spirit]] ; [[jesus-christ|Jesus]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
+
 ## Divine Intimacy Meditations
 
 - Indwelling in the soul in the state of grace [[10-invitation-to-divine-intimacy#Meditation 1|10,1]], [[10-invitation-to-divine-intimacy#Meditation 2|10,2]]; [[11-in-search-of-god#Meditation 1|11,1]]; [[16-guard-of-the-senses#Meditation 1|16,1]]; [[152-prayer-of-recollection#Meditation 1|152,1]]; [[183-marys-prayer#Meditation 2|183,2]]; [[222-the-trinity-within-us#Meditation 1|222,1]]; [[223-effusion-of-the-trinity-in-the-soul#Meditation 1|223,1]];

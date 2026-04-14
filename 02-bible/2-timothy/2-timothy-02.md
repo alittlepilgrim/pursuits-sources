@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Timothy, Chapter 2
 ---
@@ -145,3 +145,7 @@ u. (2:24) [1 Tm 3:2] – [3].
 v. (2:25) [3:7]; [1 Tm 2:4].
 
 w. (2:26) [1 Tm 3:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

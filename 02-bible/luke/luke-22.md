@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 22
 ---
@@ -301,3 +301,7 @@ n. (22:66) ([[matthew-27|Mt 27]]:1]; ([[mark-15|Mk 15]]:1].
 o. (22:67) [Jn 3:12]; [8:45]; [10:24].
 
 p. (22:69) [Ps 110:1]; [Dn 7:13] – [14]; ([[acts-of-the-apostles-07|Acts 7]]:56].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,7 +3,6 @@ type: book
 title: The Exclamations of the Soul to God Or, the Meditations of St. Teresa After Communion
 author: Saint Teresa of Ávila
 aliases:
-  - 20250725-185206
   - The Exclamations of the Soul to God Or, the Meditations of St. Teresa after Communion
   - The Exclamations of the Soul to God Or, the Meditations of St. Teresa After Communion
   - The Exclamations of the Soul To God Or, The Meditations of St. Teresa After Communion
@@ -12,7 +11,7 @@ tags:
   - author/saint-teresa-of-avila
   - subject
 created: 2025-07-25
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 ---
 

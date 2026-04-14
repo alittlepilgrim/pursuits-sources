@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/wisdom/0
 aliases:
   - wisdom-00
   - Wisdom, the Book of Wisdom
-  - Wisdom, The Book of Wisdom
 tags:
   - bible/book
   - bible/old-testament
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: wisdom-the book of wisdom
 ---
@@ -32,3 +31,7 @@ The principal divisions of the Book of Wisdom are:
 1. The Reward of Righteousness ([1:1] – [6:21]).
 2. Praise of Wisdom by Solomon ([6:22] – [11:1]).
 3. Special Providence of God During the Exodus ([11:2] – [16]; [12:23] – [27]; [15:18] – [19:22]) with digressions on God’s mercy ([11:17] – [12:22]) and on the folly and shame of idolatry ([13:1] – [15:17]).
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

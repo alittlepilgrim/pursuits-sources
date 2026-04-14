@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 16
 ---
@@ -203,3 +203,7 @@ p. (16:24) [Gn 50:3]; [1 Sm 31:13]; [[1-chronicles-10|1 Chr 10]]:12; [[sirach-22
 q. (16:24) [Nm 27:6] – [11].
 
 r. (16:25) [Jgs 3:11], [30]; [5:31]; [8:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

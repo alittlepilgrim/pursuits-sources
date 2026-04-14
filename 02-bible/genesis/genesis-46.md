@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 46
 url: https://bible.usccb.org/bible/genesis/46
 aliases:
-  - 20250508-020359
   - genesis-46
   - Genesis, Chapter 46
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 46
 bible_book: genesis
@@ -145,3 +144,7 @@ p. (46:27) ([[exodus-01|Ex 1]]:5]; [Dt 10:22]; ([[acts-of-the-apostles-07|Acts 7
 ## Navigation
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

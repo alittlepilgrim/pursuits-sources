@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 26
 ---
@@ -173,3 +173,7 @@ w. (26:42) ([[exodus-06|Ex 6]]:5]; [[2-kings-13|2 Kgs 13]]:23; [Ps 106:45]; [[ez
 x. (26:45) ([[exodus-12|Ex 12]]:51].
 
 y. (26:46) [Lv 7:38]; [Nm 36:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

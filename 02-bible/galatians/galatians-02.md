@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Galatians, Chapter 2
 ---
@@ -139,3 +139,7 @@ o. (2:19) [6:14]; [Rom 6:6], [8], [10]; [7:6].
 p. (2:20) [1:4]; [Rom 8:10] – [11]; [Col 3:3] – [4].
 
 q. (2:21) [5:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

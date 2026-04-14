@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joshua, Chapter 14
 ---
@@ -77,3 +77,7 @@ j. (14:12) [Jos 11:21] – [22].
 k. (14:13) [Jos 10:36] – [37]; [15:13] – [19]; [21:11] – [12].
 
 l. (14:15) [Jgs 1:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

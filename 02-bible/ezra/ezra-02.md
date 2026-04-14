@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: ezra-chapter 2
 ---
@@ -179,3 +179,7 @@ b. (2:40) [[nehemiah-12|Neh 12]]:23.
 c. (2:61) [2 Sm 17:27]; [19:32] – [33]; [1 Kgs 2:7].
 
 d. (2:63) [Nm 27:21]; [Dt 33:8]; [1 Sm 14:41] – [42]; [28:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

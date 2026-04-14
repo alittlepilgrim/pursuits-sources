@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 2
 ---
@@ -101,3 +101,7 @@ i. (2:13) [Is 8:17], [18].
 j. (2:14) [Is 25:8]; [[hosea-13|Hos 13]]:14; [Jn 12:31]; [Rom 6:9]; [1 Cor 15:54] – [55]; [2 Tm 1:10]; [Rv 12:10].
 
 k. (2:17) [4:15]; [5:1] – [3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

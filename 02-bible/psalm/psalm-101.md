@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 101
 ---
@@ -95,3 +95,7 @@ e. (101:5) [Prv 21:4].
 f. (101:6) ([[psalm-26|Ps 26]]:11]; [Prv 20:7].
 
 g. (101:7) ([[psalm-05|Ps 5]]:5]; [Prv 25:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

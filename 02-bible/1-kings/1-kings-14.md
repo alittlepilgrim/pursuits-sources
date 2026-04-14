@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Kings, Chapter 14
 ---
@@ -125,3 +125,7 @@ b. (14:10]\] [[1-kings-15|1 Kgs 15]]:29 – [30].
 c. (14:11]\] [[1-kings-16|1 Kgs 16]]:4; [21:22].
 
 d. (14:26]\] [[1-kings-10|1 Kgs 10]]:16 – [17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

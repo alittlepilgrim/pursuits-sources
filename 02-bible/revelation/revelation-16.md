@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 16
 ---
@@ -123,3 +123,7 @@ k. (16:17) [Is 66:6].
 l. (16:18) ([[mark-13|Mk 13]]:19].
 
 m. (16:21) ([[exodus-09|Ex 9]]:22] – [26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

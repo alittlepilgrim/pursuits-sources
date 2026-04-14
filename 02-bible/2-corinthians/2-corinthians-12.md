@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 12
 ---
@@ -115,3 +115,7 @@ i. (12:16) [11:3], [13].
 j. (12:18) [2:13]; [8:16], [23].
 
 k. (12:20) ([[1-corinthians-01|1 Cor 1]]:11]; [3:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

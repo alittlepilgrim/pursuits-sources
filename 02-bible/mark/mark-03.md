@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 3
 ---
@@ -114,7 +114,7 @@ description: Mark, Chapter 3
 
 \* (3:14] – [15) He appointed twelve \[whom he also named apostles\] that they might be with him: literally “he made,” i.e., instituted them as apostles to extend his messianic mission through them (([[mark-06|Mk 6]]:7] – [13]). See notes on [[matthew-10|Mt 10]]:1] and [10:2] – [4].
 
-\* (3:16) Simon, whom he named Peter: Mark indicates that Simon’s name was changed on this occasion. Peter is first in all lists of the apostles ([[matthew-10|Mt 10]]:2]; ([[luke-06| [[luke-06|Lk 6]]:]]:14]; ([[acts-of-the-apostles-01|Acts 1]]:13]; cf. [1 Cor 15:5] – [8]).
+\* (3:16) Simon, whom he named Peter: Mark indicates that Simon’s name was changed on this occasion. Peter is first in all lists of the apostles ([[matthew-10|Mt 10]]:2]; ([[luke-06||Lk 6]]:14]; ([[acts-of-the-apostles-01|Acts 1]]:13]; cf. [1 Cor 15:5] – [8]).
 
 \* (3:20] – [35) Within the narrative of the coming of Jesus’ relatives (([[mark-03|Mk 3]]:20] – [21]) is inserted the account of the unbelieving scribes from Jerusalem who attributed Jesus’ power over demons to Beelzebul (([[mark-03|Mk 3]]:22] – [30]); see note on ([[mark-05|Mk 5]]:21] – [43]. There were those even among the relatives of Jesus who disbelieved and regarded Jesus as out of his mind (([[mark-03|Mk 3]]:21]). Against this background, Jesus is informed of the arrival of his mother and brothers \[and sisters\] (([[mark-03|Mk 3]]:32]). He responds by showing that not family ties but doing God’s will (([[mark-03|Mk 3]]:35]) is decisive in the kingdom; cf. note on ([[matthew-12|Mt 12]]:46] – [50].
 
@@ -126,17 +126,17 @@ description: Mark, Chapter 3
 
 \* (3:32) Your brothers: see note on ([[mark-06|Mk 6]]:3].
 
-a. (3:1] – [6) ([[matthew-12|Mt 12]]:9] – [14]; ([[luke-06| [[luke-06|Lk 6]]:]]:6] – [11].
+a. (3:1] – [6) ([[matthew-12|Mt 12]]:9] – [14]; ([[luke-06||Lk 6]]:6] – [11].
 
 b. (3:5) ([[luke-14|Lk 14]]:4].
 
-c. (3:7] – [12) ([[matthew-04|Mt 4]]:23] – [25]; [12:15]; ([[luke-06| [[luke-06|Lk 6]]:]]:17] – [19].
+c. (3:7] – [12) ([[matthew-04|Mt 4]]:23] – [25]; [12:15]; ([[luke-06||Lk 6]]:17] – [19].
 
 d. (3:10) [5:30].
 
 e. (3:11) [1:34]; ([[luke-04| [[luke-04|Lk 4]]:]]:41].
 
-f. (3:13] – [19) [[matthew-10|Mt 10]]:1] – [4]; ([[luke-06| [[luke-06|Lk 6]]:]]:12] – [16].
+f. (3:13] – [19) [[matthew-10|Mt 10]]:1] – [4]; ([[luke-06||Lk 6]]:12] – [16].
 
 g. (3:14) [6:7].
 
@@ -151,3 +151,7 @@ k. (3:22] – [30) ([[matthew-12|Mt 12]]:24] – [32]; ([[luke-11|Lk 11]]:15] �
 l. (3:28) ([[luke-12|Lk 12]]:10].
 
 m. (3:31] – [35) ([[matthew-12|Mt 12]]:46] – [50]; ([[luke-08|Lk 8]]:19] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

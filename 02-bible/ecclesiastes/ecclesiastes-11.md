@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ecclesiastes, Chapter 11
 ---
@@ -91,3 +91,7 @@ for youth and black hair are fleeting.
 \* (:10]\] Fleeting: lit., “vanity.”
 
 a. (:5]\] [Eccl 3:11]; [7:13]; [8:17].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

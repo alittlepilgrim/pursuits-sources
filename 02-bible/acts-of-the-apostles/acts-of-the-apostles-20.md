@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 20
 ---
@@ -141,3 +141,7 @@ j. \[[20:31]\] [1 Thes 2:11].
 k. \[[20:34]\] ([[1-corinthians-04|1 Cor 4]]:12]; [1 Thes 2:9]; [2 Thes 3:8].
 
 l. \[[20:35]\] [Sir 4:31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

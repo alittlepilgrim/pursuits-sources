@@ -2,7 +2,6 @@
 type: figure
 title: Blessed Mary of the Incarnation
 aliases:
-  - 20250912-204812
   - Blessed Mary of the Incarnation
   - mary-of-the-incarnation-blessed
 tags:
@@ -11,7 +10,7 @@ tags:
   - type/figure
 celebration: 04-18
 created: 1984-01-24
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

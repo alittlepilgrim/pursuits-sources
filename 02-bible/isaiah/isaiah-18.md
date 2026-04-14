@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 18
 ---
@@ -85,3 +85,7 @@ b. (18:2) [[isaiah-18|Is 18]]:7.
 c. (18:4) [Is 8:18]; [18:7]; [2 Chr 6:30]; [Ps 33:14].
 
 d. (18:7) [Is 45:14]; [Ps 68:30]; [Zep 3:10]; [Mal 1:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

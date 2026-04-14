@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 9
 ---
@@ -87,3 +87,7 @@ e. (9:15) ([[exodus-13|Ex 13]]:21].
 f. (9:17) [Wis 18:3].
 
 g. (9:18) [[1-corinthians-10|1 Cor 10]]:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

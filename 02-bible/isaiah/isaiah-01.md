@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 1
 ---
@@ -311,3 +311,7 @@ m. (1:23) ([[exodus-23|Ex 23]]:8]; [Dt 16:19].
 n. (1:24) [Dt 32:41].
 
 o. (1:26) [Jer 33:7] – [11]; [Zec 8:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

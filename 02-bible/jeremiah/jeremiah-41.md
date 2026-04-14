@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 41
 ---
@@ -65,3 +65,7 @@ description: Jeremiah, Chapter 41
 a. (41:1) [Jer 40:14] – [16]; [2 Kgs 25:25].
 
 b. (41:9) [[1-kings-15|1 Kgs 15]]:16; [2 Chr 16:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: deuteronomy-chapter 20
 ---
@@ -79,3 +79,7 @@ f. (20:12] – [14) [Nm 31:7], [9], [11]; [Jos 22:8].
 g. (20:16] – [18) [Dt 7:1] – [2]; [12:29] – [31]; [Jos 10:40]; [11:11], [14].
 
 h. (20:19] – [20) [2 Kgs 3:18], [25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

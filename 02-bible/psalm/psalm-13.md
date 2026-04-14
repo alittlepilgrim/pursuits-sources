@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 13
 ---
@@ -61,3 +61,7 @@ a. (13:2) ([[psalm-06|Ps 6]]:4]; [44:25]; [77:8]; [79:5]; [89:47]; [94:3]; [Lam 
 b. (13:5) [Ps 38:17].
 
 c. (13:6) [Ps 116:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

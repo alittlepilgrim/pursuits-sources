@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 2
 ---
@@ -119,3 +119,7 @@ i. (2:27) [Gn 34:26]; [Jos 6:21]; [1 Sm 15:8].
 j. (2:28) ([[exodus-15|Ex 15]]:16]; [Ps 55:6].
 
 k. (2:28) [Ez 26:7] – [14]; [29:17] – [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

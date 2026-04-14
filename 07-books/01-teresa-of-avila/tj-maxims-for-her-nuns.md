@@ -3,7 +3,6 @@ type: book
 title: Maxims for Her Nuns by St. Teresa of Avila
 author: Saint Teresa of Ávila
 aliases:
-  - 20250725-185212
   - Maxims for Her Nuns by St. Teresa of Avila
   - Maxims for Her Nuns By St. Teresa of Avila
   - tj-maxims-for-her-nuns
@@ -12,7 +11,7 @@ tags:
   - book/tj-maxims-for-her-nuns
   - subject
 created: 2025-07-25
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 

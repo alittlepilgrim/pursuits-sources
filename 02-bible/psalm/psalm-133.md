@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 133
 ---
@@ -55,3 +55,7 @@ a. (133:2) [Ex 30:25], [30].
 b. (133:3) [[hosea-14|Hos 14]]:6.
 
 c. (133:3) [Dt 28:8]; [30:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

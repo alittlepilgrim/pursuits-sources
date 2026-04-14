@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 13
 ---
@@ -101,3 +101,7 @@ b. (13:6) [Ex 34:13]; [[1-kings-16|1 Kgs 16]]:33.
 c. (13:14) [2 Kgs 2:12].
 
 d. (13:21) [Sir 48:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

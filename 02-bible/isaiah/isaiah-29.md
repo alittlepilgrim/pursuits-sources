@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 29
 ---
@@ -253,3 +253,7 @@ q. (29:21) [Is 5:23]; [10:1] – [2]; [Am 5:10], [12].
 r. (29:22) [Is 45:17].
 
 s. (29:23) [Is 8:12] – [13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 15
 ---
@@ -85,3 +85,7 @@ d. (15:14) [Jgs 3:10]; [6:34]; [11:29]; [13:25]; [14:6], [19]; [1 Sm 11:6].
 e. (15:15) [Jgs 3:31]; [2 Sm 23:12].
 
 f. (15:20) [Jgs 10:2], [5]; [12:7], [10], [12], [15]; [16:31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

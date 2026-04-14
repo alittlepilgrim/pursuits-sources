@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 28
 ---
@@ -99,3 +99,7 @@ f. (28:16) [1 Sm 15:27] – [28].
 g. (28:18) [1 Sm 15:18] – [19], [26].
 
 h. (28:19) [1 Sm 31:2] – [6]; [Sir 46:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 7
 ---
@@ -219,3 +219,7 @@ m. (7:26) ([[2-corinthians-04|2 Cor 4]]:4]; [Col 1:15]; [Heb 1:3].
 n. (7:27) [Ex 33:11]; [Jb 42:2]; [Ps 104:29]; [Jl 3:1].
 
 o. (7:29] – [30) [Sg 6:3], [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

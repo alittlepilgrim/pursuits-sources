@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 25
 url: https://bible.usccb.org/bible/exodus/25
 aliases:
-  - 20250731-085953
   - exodus-25
   - Exodus, Chapter 25
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 25
 ---
@@ -152,3 +151,7 @@ h. (25:31] – [40) [Ex 37:17] – [24].
 i. (25:37) [Lv 24:2] – [4]; [Nm 8:2].
 
 j. (25:40) [Heb 8:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

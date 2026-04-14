@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Peter, Chapter 3
 ---
@@ -104,7 +104,7 @@ b. (3:3) [1 Tm 2:9] – [10].
 
 c. (3:7) [Eph 5:25] – [33]; [Col 3:19].
 
-d. (3:9) ([[matthew-05|Mt 5]]:44]; ([[luke-06| [[luke-06|Lk 6]]:]]:28]; [Rom 12:14].
+d. (3:9) ([[matthew-05|Mt 5]]:44]; ([[luke-06||Lk 6]]:28]; [Rom 12:14].
 
 e. (3:10] – [12) [Ps 34:13] – [17].
 
@@ -117,3 +117,7 @@ h. (3:20) [Gn 7:7], [17]; [2 Pt 2:5].
 i. (3:21) [Eph 5:26]; [Heb 10:22].
 
 j. (3:22) [Eph 1:20] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

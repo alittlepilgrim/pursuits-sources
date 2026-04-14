@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 42
 ---
@@ -229,3 +229,7 @@ c. (42:13) ([[exodus-14|Ex 14]]:3].
 d. (42:15) ([[exodus-09|Ex 9]]:25]; [10:15]; [14:21]; [Ps 105:33] – [35].
 
 e. (42:16) ([[exodus-13|Ex 13]]:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

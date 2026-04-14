@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 1
 ---
@@ -107,3 +107,7 @@ e. (1:11) [Jb 2:5].
 f. (1:21) [Eccl 5:14]; [1 Tm 6:7].
 
 g. (1:22) [Jb 2:10]; [Jas 5:11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

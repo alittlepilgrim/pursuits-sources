@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 67
 ---
@@ -73,3 +73,7 @@ b. (67:3) [Jer 33:9].
 c. (67:5) [Ps 98:9].
 
 d. (67:7) [Ps 85:13]; [Lv 26:4]; [Ez 34:27]; [Hos 2:23] – [24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

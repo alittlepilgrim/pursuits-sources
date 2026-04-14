@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 8
 ---
@@ -269,3 +269,7 @@ h. (8:56) [[genesis-17|Gen 17]]:17; ([[matthew-13|Mt 13]]:17]; ([[luke-17|Lk 17]
 i. (8:58) [1:30]; [17:5].
 
 j. (8:59) [10:31], [39]; [11:8]; ([[luke-04| [[luke-04|Lk 4]]:]]:29] – [30].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

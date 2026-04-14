@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 10
 ---
@@ -53,3 +53,7 @@ Edna also said to Tobiah: “My child and beloved kinsman, may the Lord bring yo
 13 Tobiah left Raguel, full of happiness and joy, and he blessed the Lord of heaven and earth, the King of all, for making his journey so successful. Finally he blessed Raguel and his wife Edna, and added, “I have been commanded by the Lord to honor you all the days of your life!” ^tobit-10-13
 
 a. (10:7) [Gn 45:26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

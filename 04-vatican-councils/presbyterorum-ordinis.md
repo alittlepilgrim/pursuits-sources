@@ -11,7 +11,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Decree on Ministry and the life priests - Presbyterorum Ordinis
 abbreviation: po
@@ -19,7 +19,7 @@ abbreviation: po
 
 # Presbyterorum Ordinis
 
-## Decree On The Ministry and Life Of Priests Promulgated by His Holiness Pope Paul VI On December 7 1965
+## Decree on the Ministry and Life of Priests Promulgated by His Holiness Pope Paul VI on December 7, 1965
 
 # Preface
 

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 2
 ---
@@ -383,3 +383,7 @@ t. (2:32) [Jer 13:25]; [Dt 32:18].
 u. (2:36) [2 Chr 28:16] – [21].
 
 v. (2:37) [2 Sm 13:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

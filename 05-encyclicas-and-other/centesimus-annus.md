@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Encyclical Letter Centesimus Annus (1 May 1991)
 abbreviation: jpii-ca
@@ -23,7 +23,7 @@ HOLY FATHER
 
 # Centesimus Annus
 
-## Encyclical Letter to His Venerable Brother Bishops in the Episcopate, the Priests and Deacons, Families of Men and Women Religious, All the Christian Faithful, and to All Men and Women of Good Will, on the Hundreth Anniversary of Rerum Novarum
+## Encyclical Letter to His Venerable Brother Bishops in the Episcopate, the Priests and Deacons, Families of Men and Women Religious, All the Christian Faithful, and to All Men and Women of Good Will, on the Hundredth Anniversary of Rerum Novarum
 
 Blessing
 
@@ -237,7 +237,7 @@ This need, however, must not lead to a slackening of efforts to sustain and assi
 
 *c*) because in some countries new forms of religious fundamentalism are emerging which covertly, or even openly, deny to citizens of faiths other than that of the majority the full exercise of their civil and religious rights, preventing them from taking part in the cultural process, and restricting both the Church's right to preach the Gospel and the rights of those who hear this preaching to accept it and to be converted to Christ. No authentic progress is possible without respect for the natural and fundamental right to know the truth and live according to that truth. The exercise and development of this right includes the right to discover and freely to accept Jesus Christ, who is man's true good.64
 
-## IV. Private Property and The Universal Destination Of Material Goods
+## IV. Private Property and the Universal Destination of Material Goods
 
 30\. In *Rerum novarum,* Leo XIII strongly affirmed the natural character of the right to private property, using various arguments against the socialism of his time.65 This right, which is fundamental for the autonomy and development of the person, has always been defended by the Church up to our own day. At the same time, the Church teaches that the possession of material goods is not an absolute right, and that its limits are inscribed in its very nature as a human right. ^jpii-ca-30
 

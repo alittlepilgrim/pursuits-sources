@@ -3,14 +3,13 @@ type: glossary
 title: Jesus Christ
 author:
 aliases:
-  - 20250720-212722
   - Jesus Christ
   - jesus-christ
 tags:
   - term/jesus-christ
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: Jesus Christ. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -21,9 +20,125 @@ description: Jesus Christ. Catechism of the Catholic Church. 1997. 2nd ed. Vatic
 
 The eternal Son of God, who was born of the Virgin Mary, suffered crucifixion and death, rose from the dead and ascended into heaven, and will come again in glory to judge the living and the dead. "Jesus," which means "God saves" in Hebrew, was the name given to him at the Annunciation; "Christ" is a title which comes from the Greek translation of the Hebrew _Messiah_ and means "anointed" ([[1.1.3.2.p12|ccc-184]] f.; [[1.2.2.2.p1e|ccc-430]], [[1.2.2.2.p1f|ccc-436]]; cf. [[1.2.3.8.p23|ccc-727]]).
 
+## Ignatius Catholic Study Bible
+
+**Jesus**
+
+Alpha and Omega: Rev 22:13
+
+Ascension of Jesus: Mk 16:19; Lk 24:51; Acts 1:9-11; Heb 4:14; Rev 12:5
+
+Author of Life: Acts 3:15
+
+Baptism of Jesus: Mt 3:16-17; Mk 1:9-11; Lk 3:21-22; Jn 1:32-34
+
+Born in Bethlehem: Mt 2:1; Lk 2:4-7
+
+Carpenter (Greek, *tekton*): Mk 6:3
+
+Christ (Messiah; "Anointed One"): Mt 1:1; 16:16; 26:63-64; Mk 1:1; 8:29; Lk 2:11; 9:20; 24:26; Jn 1:17; 17:3; Acts 2:36; Rom 1:1; Rev 11:15
+
+Church's guidance by Jesus: Mt 23:10; 28:20; Jn 14:20; 17:21, 23: Acts 9:3-6; Eph 1:22
+
+Creator: Jn 1:3; 1 Cor 8:6; Col 1:16; Heb 1:2, 10-12; 2:10; Rev 3:14 ("beginning of God's creation" as in its source)
+
+David's descendant: Mt 1:6-16, 20; Mk 10:47-48; Lk 1:27, 32, 69; 2:4; 3:31; Jn 7:42; Rom 1:3; 2 Tim 2:8; Rev 5:5; 22:16
+
+Descent into hell: 1 Pet 3:18-20
+
+Died for the sins of all men: Jn 3:16; Rom 5:18; 2 Cor 5:14; 1 Tim 2:3-6; 4:10; Heb 2:9; 9:28; 1 Pet 3:18; 1 Jn 2:1-2
+
+Eternal life: Jn 17:3; 1 Jn 1:2; 5:20
+
+Exorcized demons: Mt 8:31-32; 15:22-28; Mk 1:25-26; 5:8-13; Lk 11:18-22
+
+First-born (pre-eminent) of creation in his human nature: Col 1:15
+
+First-born from the dead: Col 1:18; Rev 1:5
+
+First-born Son of God: Heb 1:6
+
+Forgives sins: Mt 9:6; Mk 2:5; Lk 5:23-24; 7:47-50; Jn 8:10-12; 20:23
+
+Fullness of revelation: Mt 11:25-27; 24:35; Lk 10:22; Jn 1:1, 9, 14, 17; 14:9; Heb 1:1-3; Jude 3
+
+God (Greek, "theos"): Mt 1:23; 28:18; Jn 1:1, 14; 8:58; 10:30; 16:15; 17:5; 20:28; 1 Cor 8:4-6; Phil 2:5-11; Col 1:19; 2:9; 1 Tim 1:17; Tit 2:13; Heb 1:2-4, 5-14; Rev 22:13
+
+Good Shepherd: Jn 10:11, 14
+
+Grew in his human life and wisdom: Lk 2:40
+
+Healing miracles: Mt 4:23-24; 9:2-8, 18-25, 27-30; Jn 11:38-44
+
+High priest and sacrifice present now in heaven: Heb 4:14-15; 5:5, 10; 9:11-14, 24-27; 10:11-12, 21
+
+Holy One of God: Mk 1:24; Lk 4:34; Jn 6:69; Rev 3:7
+
+Image of the Invisible God: Col 1:15
+
+Incarnation: Jn 1:1, 14; Phil 2:5-11; 1 Tim 3:16; Heb 10:5-7; 1 Jn 1:1-3; 4:2-3; 2 Jn 7
+
+Jewish: Mt 1:1-17; Mk 10:47-48; Lk 3:23-33; Jn 4:9; Rom 1:3; 9:5; 2 Tim 2:8
+
+Judge of the living and the dead: Jn 5:22; Acts 10:42; 1 Cor 4:4; 2 Tim 4:1, 8
+
+Kenosis: Phil 2:7
+
+King of kings and Lord of lords: 1 Tim 6:15; Rev 17:14; 19:16
+
+Lamb of God: Jn 1:29, 36; 1 Cor 5:7; 1 Pet 1:19; Rev 5:6, 8, 12-13; 6:1, 16; 7:9, 10, 14, 17; 8:1; 12:11; 13:8; 14:1, 4, 10; 15:3; 17:14; 19:7, 9; 21:9, 14, 22, 23, 27; 22:1, 3
+
+Light of the world: Jn 8:12; 9:5
+
+Lord: Rom 1:4; 5:1; 10:9; 1 Cor 2:8; 8:6; 12:3; Eph 4:5; Phil 2:11; 2 Thess 2:1; Jas 2:1; 1 Pet 1:3; Jude 21
+
+Lord of the living and the dead: Rom 14:9
+
+Makes us God's children through the Holy Spirit: Jn 1:12; Rom 8:12-17; Gal 4:6-7
+
+Man: Mt 1:20-21; Jn 1:14; Acts 2:22; 17:31; Phil 2:7-8; 1 Tim 2:5; 3:16; 2 Jn 7
+
+Mediator between God and man: Jn 14:6; Rom 8:34; 1 Tim 2:5; Heb 9:15; 12:24; 1 Jn 2:1-2
+
+Obedience to the Father out of love: Mt 26:39-44; Jn 14:31; Heb 5:8
+
+Power of God: 1 Cor 1:24
+
+Pre-existent: Jn 1:1, 14; 8:58; 17:5; Phil 2:5-11
+
+Rock: 1 Cor 10:4; 1 Pet 2:8
+
+Savior: Lk 2:11; Jn 4:42; Acts 4:12; 5:31; 13:23; Eph 5:23; Phil 3:20; Tit 2:13; 1 Jn 4:14
+
+Sinless: Jn 8:46; 2 Cor 5:21; Heb 4:15; 1 Pet 2:22
+
+Son of God: Mt 2:15; 3:17; 4:3, 6; 8:29; 11:27; 16:16; 26:63; 27:43, 54; Mk 1:1, 11; 3:11; Lk 1:35; Jn 3:16; Rom 1:4; 2 Cor 1:19; Heb 4:14; 1 Jn 4:15; Rev 2:18
+
+Son of Man: Mt 9:6; 10:23; 11:19; 25:31; 26:64; Mk 9:31; Jn 9:35-37; Acts 7:56; Rev 1:13
+
+Suffering: Mt 26:28, 67-68; 27:28-31, 34-36, 44, 46-50; Mk 14:33-41, 65; 15:17-20, 23-37; Lk 22:42-45, 63-65; 23:11, 22, 32-46; Jn 19:1-3, 5, 16-18, 28-30; Heb 5:7-8; 12:2
+
+Tested by the devil: Mt 4:1-11; Mk 1:12-13; Lk 4:1-13: Heb 2:18; 4:15
+
+Transfiguration of Jesus: Mt 17:1-8; Mk 9:2-8; Lk 9:28-36
+
+Virginally conceived: Mt 1:18, 20, 23; Lk 1:26-35
+
+Way, the Truth, and the Life: Jn 14:6
+
+Wisdom of God: 1 Cor 1:24
+
+Word of God: Jn 1:1, 14; 14:24; 1 Jn 1:1; 5:7; Rev 19:13
+
+*See also* [[Authority]]; [[God]]; [[holy-spirit|Holy Spirit]] ; [[resurrection-of-christ|Resurrection of Jesus Christ]]; [[second-coming-of-christ|Second Coming]]; [[trinity-holy|Trinity]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
+
 ## The Way of Perfection
 
-JESUS CHRIST. The Son of God our Father, the Lord of the world, His Majesty, our Redeemer, Master, Friend, and Spouse ([[tj-wop-chapter-1#^wop-ch1-3|1.3]]; [[tj-wop-chapter-27#^wop-ch27-1|27.1]]; [[tj-wop-chapter-26#^wop-ch26-6|26.6]]). He is the Father's gift to us, has become one with us by sharing in our nature ([[tj-wop-chapter-34#^wop-ch34-2|34.2]]; [[tj-wop-chapter-33#^wop-ch33-5|33.5]]). As risen, he wills to give to each of us his beauty, splendor, majesty, victory over evil, joy, and kingdom, but above all himself ([[tj-wop-chapter-26#^wop-ch26-4|26.4]]). He endured all the sufferings in his passion and death for love of us ([[tj-wop-chapter-26#^wop-ch26-5|26.5]]); he never fails anyone, he helps us in all trials, he may be found everywhere, he is always at our side ([[tj-wop-chapter-26#^wop-ch26-2|26.2]]); he dwells in the soul as in his palace, as our companion or friend, teaching us humbly and lovingly, always looking at us with love, submitting to us, providing for us ([[tj-wop-chapter-29#^wop-ch29-5|29.5]],[[tj-wop-chapter-29#^wop-ch29-7|7]]; [[tj-wop-chapter-26#^wop-ch26-1|26.1]],[[tj-wop-chapter-26#^wop-ch26-3|3]],[[tj-wop-chapter-26#^wop-ch26-4|4]],[[tj-wop-chapter-26#^wop-ch26-10|10]]; [[tj-wop-chapter-34#^wop-ch34-5|34.5]]). He has many methods of showing himself to the soul, through interior feelings and through other different ways ([[tj-wop-chapter-34#^wop-ch34-10|34.10]]). His words in the Gospels recollect the soul ([[tj-wop-chapter-21#^wop-ch21-3|21.3]]). He is present in the church ([[tj-wop-chapter-1#^wop-ch1-2|1.2]],[[tj-wop-chapter-1#^wop-ch1-3|3]],[[tj-wop-chapter-1#^wop-ch1-5|5]]). In the Blessed Sacrament he is just as truly present with us as when he walked in the world, and he may reveal himself to the eyes of the soul since our bodily eyes cannot delight in beholding him ([[tj-wop-chapter-34#^wop-ch34-2|34.2]], [[tj-wop-chapter-34#^wop-ch34-5|5]], [[tj-wop-chapter-34#^wop-ch34-6|6]]). No one is capable of seeing him in his glorified state; in the Blessed Sacrament he comes disguised ([[tj-wop-chapter-34#^wop-ch34-12|34.12]]) and gives us the manna and nourishment of his humanity ([[tj-wop-chapter-34#^wop-ch34-2|34.2]]). His will and the Father's were one ([[tj-wop-chapter-27#^wop-ch27-4|27.4]]; [[tj-wop-chapter-33#^wop-ch33-2|33.2]]). The Father's will was done fully in him through trials, sorrows, injuries, persecutions, and death on a cross ([[tj-wop-chapter-32#^wop-ch32-6|32.6]]). He gives us light to follow his will in everything ([[tj-wop-chapter-18#^wop-ch18-10|18.10]]). He is the commander-in-chief of love whom we imitate through love ([[tj-wop-chapter-6#^wop-ch6-9|6.9]]). He is the fount of living waters (contemplation) ([[tj-wop-chapter-19#^wop-ch19-7|19.7]],[[tj-wop-chapter-19#^wop-ch19-15|15]]). He calls all to drink from this fount ([[tj-wop-chapter-19#^wop-ch19-14|19.14]]–[[tj-wop-chapter-19#^wop-ch19-15|15]]).
+JESUS CHRIST. The Son of God our Father, the Lord of the world, His Majesty, our Redeemer, Master, Friend, and Spouse ([[chapter-01-tj-way-ccel|1.3]]; [[chapter-27-tj-way-ccel|27.1]]; [[chapter-26-tj-way-ccel|26.6]]). He is the Father's gift to us, has become one with us by sharing in our nature ([[chapter-34-tj-way-ccel|34.2]]; [[chapter-33-tj-way-ccel|33.5]]). As risen, he wills to give to each of us his beauty, splendor, majesty, victory over evil, joy, and kingdom, but above all himself ([[chapter-26-tj-way-ccel|26.4]]). He endured all the sufferings in his passion and death for love of us ([[chapter-26-tj-way-ccel|26.5]]); he never fails anyone, he helps us in all trials, he may be found everywhere, he is always at our side ([[chapter-26-tj-way-ccel|26.2]]); he dwells in the soul as in his palace, as our companion or friend, teaching us humbly and lovingly, always looking at us with love, submitting to us, providing for us ([[chapter-29-tj-way-ccel|29.5]],[[chapter-29-tj-way-ccel|7]]; [[chapter-26-tj-way-ccel|26.1]],[[chapter-26-tj-way-ccel|3]],[[chapter-26-tj-way-ccel|4]],[[chapter-26-tj-way-ccel|10]]; [[chapter-34-tj-way-ccel|34.5]]). He has many methods of showing himself to the soul, through interior feelings and through other different ways ([[chapter-34-tj-way-ccel|34.10]]). His words in the Gospels recollect the soul ([[chapter-21-tj-way-ccel|21.3]]). He is present in the church ([[chapter-01-tj-way-ccel|1.2]],[[chapter-01-tj-way-ccel|3]],[[chapter-01-tj-way-ccel|5]]). In the Blessed Sacrament he is just as truly present with us as when he walked in the world, and he may reveal himself to the eyes of the soul since our bodily eyes cannot delight in beholding him ([[chapter-34-tj-way-ccel|34.2]], [[chapter-34-tj-way-ccel|5]], [[chapter-34-tj-way-ccel|6]]). No one is capable of seeing him in his glorified state; in the Blessed Sacrament he comes disguised ([[chapter-34-tj-way-ccel|34.12]]) and gives us the manna and nourishment of his humanity ([[chapter-34-tj-way-ccel|34.2]]). His will and the Father's were one ([[chapter-27-tj-way-ccel|27.4]]; [[chapter-33-tj-way-ccel|33.2]]). The Father's will was done fully in him through trials, sorrows, injuries, persecutions, and death on a cross ([[chapter-32-tj-way-ccel|32.6]]). He gives us light to follow his will in everything ([[chapter-18-tj-way-ccel|18.10]]). He is the commander-in-chief of love whom we imitate through love ([[chapter-06-tj-way-ccel|6.9]]). He is the fount of living waters (contemplation) ([[chapter-19-tj-way-ccel|19.7]],[[chapter-19-tj-way-ccel|15]]). He calls all to drink from this fount ([[chapter-19-tj-way-ccel|19.14]]–[[chapter-19-tj-way-ccel|15]]).
 
 ## Divine Intimacy Meditations
 

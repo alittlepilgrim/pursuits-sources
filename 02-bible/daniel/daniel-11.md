@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 11
 ---
@@ -149,3 +149,7 @@ description: Daniel, Chapter 11
 \* (11:38) The god of strongholds: the god worshiped in the fortress Akra, which Antiochus established in Jerusalem.
 
 \* (11:40] – [45) In these concluding verses, the events described no longer correspond to the history of the Maccabean period. Daniel imagines the death of Antiochus on the model of Gog in [Ez 38] – [39]. Antiochus actually died in Persia.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

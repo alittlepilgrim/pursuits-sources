@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 6
 ---
@@ -169,3 +169,7 @@ j. (6:22) [Tb 12:7], [11]; ([[matthew-13|Mt 13]]:11]; [Jn 15:15].
 k. (6:23) ([[wisdom-07|Wis 7]]:13]; [Jas 3:14] – [15].
 
 l. (6:24) [Prv 11:14]; [24:6]; [29:4]; [[sirach-10|Sir 10]]:1 – [5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

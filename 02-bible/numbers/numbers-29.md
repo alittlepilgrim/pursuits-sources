@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 29
 ---
@@ -125,3 +125,7 @@ c. (29:12) [Lv 23:34] – [35].
 d. (29:27) [Nm 29:30], [37].
 
 e. (29:35) [Lv 23:36]; [Jn 7:37].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

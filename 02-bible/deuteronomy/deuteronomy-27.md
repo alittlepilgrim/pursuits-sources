@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 27
 ---
@@ -113,3 +113,7 @@ n. (27:24) [Dt 5:17]; [21:1]; ([[exodus-20|Ex 20]]:13]; [21:12]; [Nm 35:20] – 
 o. (27:25) [Dt 16:19]; ([[exodus-23|Ex 23]]:7] – [8].
 
 p. (27:26) [Jer 11:3]; [Gal 3:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

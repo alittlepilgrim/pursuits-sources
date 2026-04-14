@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/mark/0
 aliases:
   - mark-00
   - Mark, the Gospel according to Mark
-  - Mark, The Gospel According To Mark
 tags:
   - bible/book
   - bible/mark
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, the Gospel According to Mark
 ---
@@ -58,3 +57,7 @@ The principal divisions of the Gospel according to Mark are the following:
 	The Longer Ending ([16:9] – [20])
 	The Shorter Ending
 	The Freer Logion (in the note on [16:9] – [20])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

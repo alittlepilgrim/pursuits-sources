@@ -3,17 +3,15 @@ type: bible
 title: Titus, The Letter To Titus
 url: https://bible.usccb.org/bible/titus/0
 aliases:
-  - 20250730-164508
   - titus-00
   - Titus, the Letter to Titus
-  - Titus, The Letter To Titus
 tags:
   - bible/book
   - bible/new-testament
   - bible/titus
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Titus, the Letter to Titus
 ---
@@ -37,3 +35,7 @@ The principal divisions of the Letter to Titus are the following:
 1. Address ([1:1] – [4])
 2. Pastoral Charge ([1:5] – [16])
 3. Teaching the Christian Life ([2:1] – [3:15])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

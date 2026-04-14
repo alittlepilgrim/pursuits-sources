@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 12
 ---
@@ -231,3 +231,7 @@ x. (12:53) [Mi 7:6].
 y. (12:54] – [56) ([[matthew-16|Mt 16]]:2] – [3].
 
 z. (12:57] – [59) ([[matthew-05|Mt 5]]:25] – [26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

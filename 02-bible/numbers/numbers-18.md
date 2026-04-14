@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 18
 ---
@@ -131,3 +131,7 @@ g. (18:18) [Lv 7:31] – [34].
 h. (18:20) [Dt 10:9]; [18:1] – [2]; [Jos 13:33]; [Ez 44:28].
 
 i. (18:21) [Heb 7:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

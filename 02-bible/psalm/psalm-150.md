@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 150
 ---
@@ -61,3 +61,7 @@ c. (150:3ff) [Ps 81:3] – [4]; [149:3]; [2 Sm 6:5]; [[1-chronicles-13|1 Chr 13]
 d. (150:4) [Ps 68:26]; ([[exodus-15|Ex 15]]:20].
 
 e. (150:6) ([[revelation-05|Rv 5]]:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

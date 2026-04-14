@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 27
 ---
@@ -117,3 +117,7 @@ g. \[[27:24]\] [2 Sm 24:10].
 h. \[[27:25]\] [2 Sm 23:31].
 
 i. \[[27:33]\] [2 Sm 15:12], [32] – [37]; [16:16] – [19], [23]; [17:5] – [16], [23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

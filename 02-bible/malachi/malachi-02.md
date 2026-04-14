@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Malachi, Chapter 2
 ---
@@ -185,3 +185,7 @@ f. (2:11) ([[ezra-09|Ezr 9]]:2]; [[nehemiah-13|Neh 13]]:25.
 g. (2:14) [Gn 31:49] – [50]; [Prv 5:18] – [19].
 
 h. (2:15) [Gn 2:7], [22] – [24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

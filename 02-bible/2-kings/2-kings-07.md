@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 7
 ---
@@ -69,3 +69,7 @@ Then a seah of fine flour sold for a shekel and two seahs of barley for a shekel
 a. (7:3) [Lv 13:46].
 
 b. (7:6] – [7) [2 Kgs 6:17]; [2 Sm 5:24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

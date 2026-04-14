@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 17
 ---
@@ -161,3 +161,7 @@ r. (17:33) [9:24]; [[matthew-10|Mt 10]]:39]; [16:25]; ([[mark-08|Mk 8]]:35]; [Jn
 s. (17:35) ([[matthew-24|Mt 24]]:40] – [41].
 
 t. (17:37) [Jb 39:30]; ([[matthew-24|Mt 24]]:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

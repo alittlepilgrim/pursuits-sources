@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 7
 ---
@@ -145,3 +145,7 @@ m. \[[7:28]\] [[genesis-12|Gen 12]]:8; [1 Kgs 9:16].
 n. \[[7:29]\] [Jos 17:11].
 
 o. \[[7:30]\] [Gn 46:17]; [Nm 26:44] – [46].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

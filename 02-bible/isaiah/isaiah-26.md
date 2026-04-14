@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 26
 ---
@@ -191,3 +191,7 @@ o. (26:19) [Ez 37:5] – [14]; [Dn 12:2]; [Hos 6:2].
 p. (26:20) [[isaiah-10|Is 10]]:25.
 
 q. (26:21) [Gn 4:10]; [Jb 16:18]; [Ps 106:38]; [Mi 1:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

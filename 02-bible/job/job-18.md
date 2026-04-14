@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 18
 ---
@@ -115,3 +115,7 @@ a. (18:6) [Jb 21:17]; [Prv 13:9]; [24:20].
 b. (18:11) [Jb 15:20] – [24]; [27:20].
 
 c. (18:17) [Ps 34:17]; [Prv 2:22]; [10:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

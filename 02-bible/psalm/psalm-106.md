@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 106
 ---
@@ -319,3 +319,7 @@ v. (106:45) [Lv 26:42].
 w. (106:47) [[1-chronicles-16|1 Chr 16]]:35.
 
 x. (106:48) [Ps 41:14]; [72:18]; [89:53]; [[1-chronicles-16|1 Chr 16]]:36; [Neh 9:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

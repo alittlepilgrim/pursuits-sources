@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 10
 ---
@@ -141,3 +141,7 @@ g. (10:7) [Ps 104:15].
 h. (10:9) [Dt 30:1] – [3]; ([[baruch-02|Bar 2]]:30] – [32].
 
 i. (10:12) [Zec 12:5].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

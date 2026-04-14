@@ -11,7 +11,7 @@ tags:
   - bible/philippians
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Philippians, Chapter 2
 ---
@@ -181,3 +181,7 @@ r. (2:21) [1 Cor 13:5]; [2 Tm 4:10].
 s. (2:25) [4:10] – [11], [15] – [16], [18].
 
 t. (2:29) [1 Cor 16:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

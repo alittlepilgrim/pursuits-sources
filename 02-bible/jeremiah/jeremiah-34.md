@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 34
 ---
@@ -87,3 +87,7 @@ f. (34:20) [Jer 7:33]; [16:4]; [19:7].
 g. (34:21) [Jer 37:5], [11].
 
 h. (34:22) [Jer 37:8]; [52:7] – [13]; [2 Chr 36:17], [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

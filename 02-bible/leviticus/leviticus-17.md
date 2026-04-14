@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 17
 ---
@@ -79,3 +79,7 @@ f. (17:11) [Gn 9:4].
 g. (17:13) [Dt 12:15] – [16].
 
 h. (17:15) [Lv 11:39] – [40]; [22:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

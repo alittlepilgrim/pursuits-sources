@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: esther-chapter 7
 ---
@@ -49,3 +49,7 @@ b. (7:4) [Est 3:13]; [B:6].
 c. (7:5) [Est 3:8] – [9].
 
 d. (7:9] – [10) [Est 5:14]; [6:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

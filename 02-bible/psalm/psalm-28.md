@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 28
 ---
@@ -105,3 +105,7 @@ e. (28:3) ([[psalm-12|Ps 12]]:2]; [55:22]; [62:5]; [Prv 26:24] – [28].
 f. (28:4) [2 Sm 3:39].
 
 g. (28:5) [Is 5:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

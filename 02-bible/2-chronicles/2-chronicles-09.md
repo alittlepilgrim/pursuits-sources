@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 9
 ---
@@ -103,3 +103,7 @@ e. (9:12) [[1-kings-10|1 Kgs 10]]:13.
 f. (9:13] – [28) [[1-kings-10|1 Kgs 10]]:14 – [28].
 
 g. (9:29] – [31) [[1-kings-11|1 Kgs 11]]:41 – [43].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

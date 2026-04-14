@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 34
 ---
@@ -113,3 +113,7 @@ e. (34:14] – [28) [[2-kings-22|2 Kgs 22]]:8 – [20].
 f. (34:29] – [31) [[2-kings-23|2 Kgs 23]]:1 – [3].
 
 g. (34:33) [[2-kings-23|2 Kgs 23]]:4 – [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

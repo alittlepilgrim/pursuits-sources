@@ -13,7 +13,7 @@ tags:
 celebration_day: 08-07
 celebration_rank: memorial
 created: 2024-07-22
-modified: 2026-04-06
+modified: 2026-04-08
 publish: false
 ---
 
@@ -23,7 +23,7 @@ publish: false
 
 *August 7*
 
-*SAINT ALBERT OF TRÁPANI* - [[albert-of-trapani-saint]]
+*SAINT ALBERT OF TRÁPANI*
 
 *Priest*
 
@@ -32,6 +32,8 @@ publish: false
 Albert degli Abbati was born at Trápani, Sicily, in the thirteenth century, and entered the Carmelite Order as a youth. He became renowned as a fervent preacher of the Gospel and a worker of miracles. He was Provincial of Sicily in 1296, and died at Messina, probably in 1307, with a reputation for purity and prayer.
 
 From the common of holy men
+
+- [[albert-of-trapani-saint]]
 
 # Morning Prayer
 

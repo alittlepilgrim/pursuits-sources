@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 6
 ---
@@ -75,3 +75,7 @@ c. (6:12) [Zec 3:8]; [Jer 23:5].
 d. (6:13) [Zec 4:14].
 
 e. (6:15) [Dt 28:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

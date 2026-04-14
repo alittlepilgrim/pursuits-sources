@@ -11,7 +11,7 @@ tags:
   - bible/philippians
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Philippians, Chapter 1
 ---
@@ -155,3 +155,7 @@ q. (1:27) [Eph 4:1]; [Col 1:10]; [1 Thes 2:12] / [4:3].
 r. (1:29) ([[matthew-05|Mt 5]]:10]; [10:38]; ([[mark-08|Mk 8]]:34]; ([[acts-of-the-apostles-05|Acts 5]]:41].
 
 s. (1:30) [1:13]; ([[acts-of-the-apostles-16|Acts 16]]:22] – [24].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

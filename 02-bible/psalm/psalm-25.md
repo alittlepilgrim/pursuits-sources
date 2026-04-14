@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 25
 ---
@@ -143,3 +143,7 @@ h. (25:13) [Ps 37:9], [29].
 i. (25:15) [Ps 123:1], [2]; [141:8].
 
 j. (25:16) [Ps 86:16]; [119:132].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

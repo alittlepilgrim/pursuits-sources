@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ecclesiastes, Chapter 4
 ---
@@ -81,3 +81,7 @@ a. (1]\] [Eccl 3:16]; [5:7]; [9:4] – [5].
 b. (2]\] [Eccl 6:3] – [5].
 
 c. (17]\] [1 Sm 15:22]; [Ps 40:7] – [9]; [Prv 15:8]; [21:3]; [Hos 6:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

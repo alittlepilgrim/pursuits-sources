@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 107
 ---
@@ -257,3 +257,7 @@ x. (107:41) [Ps 113:7].
 y. (107:42) [Ps 58:11]; [63:12].
 
 z. (107:43) [[hosea-14|Hos 14]]:10.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

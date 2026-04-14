@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 93
 ---
@@ -61,3 +61,7 @@ a. (93:1) [Ps 47:8]; [96:10]; [97:1]; [99:1].
 b. (93:1) [Ps 75:2] – [3]; [104:5].
 
 c. (93:2) [Ps 55:20]; [90:2]; [102:13]; [Heb 1:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

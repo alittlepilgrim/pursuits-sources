@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 17
 ---
@@ -137,3 +137,7 @@ i. (:27]\] [Jer 23:23]; [Wis 13:6]; ([[romans-01|Rom 1]]:19].
 j. (:29]\] [19:26]; [Is 40:18] – [20]; [44:10] – [17]; ([[romans-01|Rom 1]]:22] – [23].
 
 k. (:31]\] [10:42].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

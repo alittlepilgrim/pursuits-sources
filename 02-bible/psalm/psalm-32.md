@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 32
 ---
@@ -105,3 +105,7 @@ c. (32:5) [Ps 38:19]; [51:5].
 d. (32:6) ([[psalm-18|Ps 18]]:5].
 
 e. (32:11) [Ps 33:1].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

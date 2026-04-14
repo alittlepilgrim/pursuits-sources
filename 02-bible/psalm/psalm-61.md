@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 61
 ---
@@ -77,3 +77,7 @@ c. (61:7) ([[psalm-21|Ps 21]]:5].
 d. (61:8) [Ps 72:5]; [89:5], [30], [37].
 
 e. (61:8) [Ps 85:11]; [89:15], [25]; [Prv 20:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

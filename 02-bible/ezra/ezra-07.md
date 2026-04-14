@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezra, Chapter 7
 ---
@@ -99,3 +99,7 @@ d. (7:12) ([[ezra-01|Ezr 1]]:2] – [4].
 e. (7:25) [Dt 4:6]; [2 Chr 17:7] – [9]; [Ps 37:30] – [31]; [119:98].
 
 f. (7:28) ([[ezra-07|Ezr 7]]:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

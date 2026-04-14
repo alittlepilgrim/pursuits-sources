@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Numbers, Chapter 10
 ---
@@ -119,3 +119,7 @@ b. (10:10) [Nm 29:1]; [2 Chr 29:26] – [28].
 c. (10:14] – [16) [Nm 2:3], [5], [7].
 
 d. (10:33) [Dt 1:33].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

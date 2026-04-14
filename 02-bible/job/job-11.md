@@ -1,6 +1,6 @@
 ---
 type: bible
-title: Chapter 11
+title: Job, Chapter 11
 url: https://bible.usccb.org/bible/job/11
 aliases:
   - job-11
@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 11
 ---
@@ -152,3 +152,7 @@ a. (11:7) [Rom 11:33].
 b. (11:12) [Jb 39:5] – [8].
 
 c. (11:18) [Lv 26:6]; ([[psalm-04|Ps 4]]:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

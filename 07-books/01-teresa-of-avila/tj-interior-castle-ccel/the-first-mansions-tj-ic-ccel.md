@@ -9,7 +9,7 @@ tags:
   - book/interior-castle
   - type/book
 created: 2026-04-01
-modified: 2026-04-04
+modified: 2026-04-09
 publish: true
 description: The Interior Castle by St. Teresa of Ávila
 ---
@@ -163,7 +163,7 @@ AN EXPLANATION OF THE MANSIONS.
    21. Indiscreet zeal about others must not be indulged in; it may do us much harm; let each one look to herself. However, as I have spoken fully on this subject elsewhere, [61] I will not enlarge on it here, and will only beg you to remember the necessity of this mutual affection. Our souls may lose their peace and even disturb other people's if we are always criticizing trivial actions which often are not real defects at all, but we construe them wrongly through ignorance of their motives. See how much it costs to attain perfection! Sometimes the devil tempts nuns in this way about the Prioress, which is still more dangerous. Great prudence is then required, for if she disobeys the Rule or Constitutions the matter must not always be overlooked, but should be mentioned to her; [62] if, after this, she does not amend, the Superior of the Order should be informed of it. It is true charity to speak in this case, as it would be if we saw our sisters commit a grave fault; to keep silence for fear that speech would be a temptation against charity, would be that very temptation itself. [63]
    22. However, I must warn you seriously not to talk to each other about such things, lest the devil deceive you. He would gain greatly by your doing so, because it would lead to the habit of detraction; rather, as I said, state the matter to those whose duty it is to remedy it. Thank God our custom here of keeping almost perpetual silence gives little opportunity for such conversations, still, it is well to stand ever on our guard.
 
-   [46] [[tj-life-ccel|Life]], ch. xxxviii. 31; ch. xl. 15.
+   [46] [[tj-life-ccel-toc|Life]], ch. xxxviii. 31; ch. xl. 15.
 
    [47] Ps. i. 3: Et erit tamquam lignum quod plantatum eat secus decursus
 
@@ -179,9 +179,9 @@ AN EXPLANATION OF THE MANSIONS.
 
    custodit eam.'
 
-   [51] [[tj-life-ccel|Life]], ch. xxxviii. 33; ch. xl. 15, 16.
+   [51] [[tj-life-ccel-toc|Life]], ch. xxxviii. 33; ch. xl. 15, 16.
 
-   [52] [[tj-life-ccel|Life]], ch. x. 2 sqq. Constitut. 2, 6.
+   [52] [[tj-life-ccel-toc|Life]], ch. x. 2 sqq. Constitut. 2, 6.
 
    [53] Way of Perf.. ch. xxviii. 1.
 
@@ -199,7 +199,7 @@ AN EXPLANATION OF THE MANSIONS.
 
    [55] Supra, § 3.
 
-   [56] [[tj-life-ccel|Life]], ch. viii. 6, x. 4, xxiii. 3-5. Way of Perf. ch. xxxix. 1.
+   [56] [[tj-life-ccel-toc|Life]], ch. viii. 6, x. 4, xxiii. 3-5. Way of Perf. ch. xxxix. 1.
 
    [57] Life ch. xiii. 23. Way of Perf. ch. x. 4. Castle, M. iii. ch. ii.
 

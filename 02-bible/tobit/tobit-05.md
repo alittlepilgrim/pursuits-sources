@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 5
 ---
@@ -89,3 +89,7 @@ a. (5:4) [Heb 13:2].
 b. (5:7) [Tb 12:2].
 
 c. (5:12) [Jgs 13:17] – [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

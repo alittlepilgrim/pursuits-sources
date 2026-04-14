@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judith, Chapter 11
 ---
@@ -89,3 +89,7 @@ f. (11:13) [Nm 18:8] – [9].
 g. (11:14) [1 Mc 2:31] – [41].
 
 h. (11:19) ([[exodus-11|Ex 11]]:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

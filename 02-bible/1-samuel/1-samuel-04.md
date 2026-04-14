@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Samuel, Chapter 4
 ---
@@ -89,3 +89,7 @@ d. (4:12) [Jos 7:6]; [2 Sm 1:2]; [Jer 7:12].
 e. (4:20) [1 Sm 14:3]; [Gn 35:16] – [20].
 
 f. (4:22) [Ps 78:61].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

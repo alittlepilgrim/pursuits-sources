@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Joel, Chapter 4
 ---
@@ -201,3 +201,7 @@ k. (4:17) [Ob 17]; [Na 2:1].
 l. (4:18) [Ez 47:1] – [12]; [Am 9:13]; [Zec 14:8].
 
 m. (4:19) [Ob 10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

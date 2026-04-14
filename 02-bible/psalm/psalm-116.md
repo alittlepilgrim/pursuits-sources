@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 116
 ---
@@ -139,3 +139,7 @@ i. (116:16) [Ps 86:16]; [143:12]; ([[wisdom-09|Wis 9]]:5].
 j. (116:17) [Lv 7:12ff].
 
 k. (116:18) [Jon 2:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

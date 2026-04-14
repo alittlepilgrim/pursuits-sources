@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 25
 ---
@@ -161,3 +161,7 @@ and fidelity is the beginning of clinging to him.
 \* (25:24) Ben Sira refers to the story of the first sin in [Gn 3:1] – [6]. Cf. [2 Cor 11:3] and [1 Tm 2:14]. St. Paul, however, singles out Adam; cf. [Rom 5:12] – [19]; [1 Cor 15:22].
 
 a. (25:16) [Prv 21:9], [19]; [25:24]; [27:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

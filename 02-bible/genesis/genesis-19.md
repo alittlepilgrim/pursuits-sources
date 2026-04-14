@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 19
 url: https://bible.usccb.org/bible/genesis/19
 aliases:
-  - 20250508-020239
   - genesis-19
   - Genesis, Chapter 19
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 19
 bible_book: genesis
@@ -159,3 +158,7 @@ m. (19:38) [Dt 2:19]..
 ## Navigation
 
 [[genesis-08|[← Previous Note]]] · [[genesis-10|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

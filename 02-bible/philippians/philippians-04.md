@@ -11,7 +11,7 @@ tags:
   - bible/philippians
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Philippians, Chapter 4
 ---
@@ -123,3 +123,7 @@ m. (4:19) [1 Thes 3:11], [13].
 n. (4:20) [Rom 16:27]; [Eph 5:20].
 
 o. (4:22) [1:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

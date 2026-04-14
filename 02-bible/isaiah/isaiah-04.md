@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 4
 ---
@@ -89,3 +89,7 @@ b. (4:4) [Is 1:21] – [28].
 c. (4:5) ([[exodus-13|Ex 13]]:21].
 
 d. (4:6) [Is 32:1] – [2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

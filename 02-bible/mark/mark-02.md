@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 2
 ---
@@ -124,10 +124,14 @@ d. (2:14] – [17) ([[matthew-09|Mt 9]]:9] – [13]; ([[luke-05| [[luke-05|Lk 5]
 
 e. (2:18] – [22) ([[matthew-09|Mt 9]]:14] – [17]; ([[luke-05| [[luke-05|Lk 5]]:]]:33] – [39].
 
-f. (2:23] – [28) ([[matthew-12|Mt 12]]:1] – [8]; ([[luke-06| [[luke-06|Lk 6]]:]]:1] – [5].
+f. (2:23] – [28) ([[matthew-12|Mt 12]]:1] – [8]; ([[luke-06||Lk 6]]:1] – [5].
 
 g. (2:24) [Dt 23:25].
 
 h. (2:26) [1 Sm 21:2] – [7]; [Lv 24:5] – [9].
 
 i. (2:27) [2 Mc 5:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

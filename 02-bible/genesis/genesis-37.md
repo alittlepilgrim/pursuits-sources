@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 37
 url: https://bible.usccb.org/bible/genesis/37
 aliases:
-  - 20250508-020332
   - genesis-37
   - Genesis, Chapter 37
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 37
 bible_book: genesis
@@ -141,3 +140,7 @@ j. (37:36) [Ps 105:17]..
 ## Navigation
 
 [[genesis-06|[← Previous Note]]] · [[genesis-08|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

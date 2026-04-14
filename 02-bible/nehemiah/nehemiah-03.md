@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 3
 ---
@@ -113,3 +113,7 @@ b. (3:3) ([[ezra-02|Ezr 2]]:35]; [Zep 1:10].
 c. (3:29) [Ez 40:6].
 
 d. (3:37) [Neh 6:14]; [13:29]; [Jer 18:23].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 37
 ---
@@ -87,3 +87,7 @@ i. (37:17) [Jer 21:7]; [32:3]; [34:21].
 j. (37:18) [Jer 26:19].
 
 k. (37:21) [Jer 32:2]; [38:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

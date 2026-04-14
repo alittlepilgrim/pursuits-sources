@@ -3,7 +3,6 @@ type: bible
 title: Luke, Chapter 3
 url: https://bible.usccb.org/bible/luke/3
 aliases:
-  - 20250730-160739
   - luke-03
   - Luke, Chapter 3
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 3
 ---
@@ -131,7 +130,7 @@ and the rough ways made smooth,
 
 \* (3:21] – [22) This episode in Luke focuses on the heavenly message identifying Jesus as Son and, through the allusion to [Is 42:1], as Servant of Yahweh. The relationship of Jesus to the Father has already been announced in the infancy narrative (([[luke-01|Lk 1]]:32], [35]; [2:49]); it occurs here at the beginning of Jesus’ Galilean ministry and will reappear in ([[luke-09|Lk 9]]:35] before another major section of Luke’s gospel, the travel narrative (([[luke-09|Lk 9]]:51] – [19:27]). Elsewhere in Luke’s writings (([[luke-04| [[luke-04|Lk 4]]:]]:18]; ([[acts-of-the-apostles-10|Acts 10]]:38]), this incident will be interpreted as a type of anointing of Jesus.
 
-\* (3:21) Was praying: Luke regularly presents Jesus at prayer at important points in his ministry: here at his baptism; at the choice of the Twelve (([[luke-06| [[luke-06|Lk 6]]:]]:12]); before Peter’s confession (([[luke-09|Lk 9]]:18]); at the transfiguration (([[luke-09|Lk 9]]:28]); when he teaches his disciples to pray (([[luke-11|Lk 11]]:1]); at the Last Supper (([[luke-22|Lk 22]]:32]); on the Mount of Olives (([[luke-22|Lk 22]]:41]); on the cross (([[luke-23|Lk 23]]:46]).
+\* (3:21) Was praying: Luke regularly presents Jesus at prayer at important points in his ministry: here at his baptism; at the choice of the Twelve (([[luke-06||Lk 6]]:12]); before Peter’s confession (([[luke-09|Lk 9]]:18]); at the transfiguration (([[luke-09|Lk 9]]:28]); when he teaches his disciples to pray (([[luke-11|Lk 11]]:1]); at the Last Supper (([[luke-22|Lk 22]]:32]); on the Mount of Olives (([[luke-22|Lk 22]]:41]); on the cross (([[luke-23|Lk 23]]:46]).
 
 \* (3:22) You are my beloved Son; with you I am well pleased: this is the best attested reading in the Greek manuscripts. The Western reading, “You are my Son, this day I have begotten you,” is derived from ([[psalm-02|Ps 2]]:7].
 
@@ -190,3 +189,7 @@ x. (3:34) [[genesis-21|Gen 21]]:3; [25:26]; [1 Chr 1:34]; [28:34].
 y. (3:34] – [36) [[genesis-11|Gen 11]]:10 – [26]; [1 Chr 1:24] – [27].
 
 z. (3:36] – [38) [Gn 4:25] – [5:32]; [1 Chr 1:1] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

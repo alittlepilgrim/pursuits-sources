@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Jeremiah, Chapter 36
 ---
@@ -101,3 +101,7 @@ a. (36:3) [Jer 26:3]; [Is 55:6] – [7].
 b. (36:7) [[2-kings-22|2 Kgs 22]]:13.
 
 c. (36:30) [Jer 22:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

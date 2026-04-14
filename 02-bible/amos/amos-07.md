@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Amos, Chapter 7
 ---
@@ -115,3 +115,7 @@ b. (7:13) [Am 2:12].
 c. (7:14) [Am 1:1]; [2 Sm 7:8].
 
 d. (7:15) [Am 3:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

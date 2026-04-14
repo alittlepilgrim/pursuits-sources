@@ -4,16 +4,14 @@ title: 2 John, The Second Letter of John
 url: https://bible.usccb.org/bible/2john/1
 aliases:
   - 2 John, the Second Letter of John
-  - 2 John, The Second Letter of John
   - 2-john-01
-  - 20250730-165346
 tags:
   - bible/2-john
   - bible/chapter
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 John, the Second Letter of John
 ---
@@ -81,3 +79,7 @@ f. (9) [Jn 8:31]; ([[1-john-02|1 Jn 2]]:23]; [4:15].
 g. (10) [Rom 16:17]; [2 Thes 3:6].
 
 h. (12) [Jn 15:11]; ([[1-john-01|1 Jn 1]]:4]; [3 Jn 13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

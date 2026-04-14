@@ -1,0 +1,36 @@
+---
+type: bible
+title: First Corinthians – Introduction – Ignatius Catholic Study Bible
+aliases:
+  - First Corinthians – Introduction – Ignatius Catholic Study Bible
+tags:
+  - bible/new-testament
+created: 2026-04-01
+modified: 2026-04-12
+publish: true
+description: First Corinthians – Introduction – Ignatius Catholic Study Bible
+---
+
+# Introduction to the First Letter of Saint Paul to the Corinthians
+
+**Author and Date** Two times the Apostle Paul identifies himself as the author of this letter (1:1; 16:21). Testimony from the Church Fathers as early as St. Clement of Rome (A.D. 95) supports the claim, and modern scholarship has never seriously contested the tradition. Indeed, 1 Corinthians is full of valuable information about Paul that both corroborates and enhances our knowledge of his ministry from the Book of Acts.
+
+According to 16:8, Paul wrote the epistle while staying in Ephesus in Asia Minor (located in what is modern Turkey). This stay most likely corresponds to the apostle\'s third missionary journey from A.D. 53 to 58, when he spent more than two years instructing the young Church in that city (Acts 19:1-10). Because Paul was writing in anticipation of coming to Corinth after his stay in Ephesus (1 Cor 11:34), we can date its composition during the second part of his third mission, probably in the spring of A.D. 56.
+
+**Destination** The city of Corinth was a flourishing commercial center of the Mediterranean world. It was the capital of the Roman province of Achaia (southern Greece), and its location between two seaports made the city an ideal trade link between Italy in the west and Asia in the east. History tells us that Corinth attracted droves of entrepreneurs and tourists who wished to benefit from its economic prosperity and enjoy its numerous pagan shrines, its gladiatorial contests, and the popular Isthmian Games held there every two years. Like many cosmopolitan centers, however, Corinth had a reputation for shameless immorality and a ruthless spirit of competition. The Book of Acts informs us that Paul himself planted the young Church there about A.D. 51, but he stayed only long enough to get things up and running (Acts 18:1-18). The social make-up of this budding community emerges from the letter itself: some were wealthy (11:22), others poor (1:26), and others slaves (7:21). Ethnically, the Corinthian Church was mixed, having a strong presence of both Gentile (8:7; 12:2) and Jewish believers (7:18-20).
+
+**Purpose** Nearly five years had elapsed between Paul\'s founding of the Church in Corinth and the arrival of this letter. During his absence the community had fallen prey to a number of vices that were beginning to fracture its unity and drag members away from the faith. Although Paul planned to visit Corinth to disentangle these problems in person (see 11:34b), he sent the letter we know as 1 Corinthians to hold things together until his arrival. His instructions were tailored to address the information he had received about their struggles.
+
+Paul was first informed that a crisis was brewing in Corinth through delegates of a woman named Chloe (1:11; 11:18). Their disturbing report included news of internal divisions (1:12-15), a case of incest (5:1-5), sexual immorality (6:12-20), multiplying lawsuits (6:1-8), and outspoken denials of the Resurrection (15:12). Liturgically, the Corinthians were becoming careless in their celebration of the Eucharist (11:17-34), and some were exercising charismatic gifts in a manner more disruptive than edifying (14:1-40). Paul confronted these problems by censuring the Corinthians\' immorality and calling them back to the basics of Christian doctrine.
+
+Paul also gave personal responses to select questions asked by the Corinthians. In a letter unknown to us, the young Church had written to Paul asking for spiritual direction on various matters, such as marriage, celibacy, and food offered to idols (7:1; 8:1; 12:1; 16:1). Much of 1 Corinthians consists of Paul\'s addressing these issues one by one.
+
+In the end, Paul was deeply concerned for this troubled Church. His pastoral guidance is that of a spiritual father aiming to restore peace and unity among children by fortifying their commitment to Jesus Christ (4:14-15).
+
+**Themes and Characteristics** First Corinthians reveals more about the struggles and conditions of a young, apostolic Church than any other NT letter. It gives a clear picture of the wide range of pressures that the earliest Christians had to face, pressures both from within their communities and from their surrounding pagan environment. Paul shows himself sensitive to these challenges throughout the letter and offers spiritual direction that is sometimes bold and confrontational but always full of charity and fatherly wisdom. Because the problems in ancient Corinth are problems that plague the Church in every age, this letter was the most widely cited of Paul\'s epistles in early Christianity and continues to speak to our situation today.
+
+The leading themes of the letter follow the doctrinal and moral issues that Paul was forced to address, especially those related to immorality, arrogance, liturgical abuse, and erroneous opinions about death and resurrection. These problems shook the local Church in Corinth down to her foundation and made the community look more at times like a pagan society than a spiritual family. To reverse this trend, Paul takes aim throughout the letter at two vices that underlie the Corinthians\' multiple struggles: pride and selfishness. **(1)** *Pride* manifested itself among the Corinthians in the form of intellectual arrogance that paid more respect to human knowledge and eloquence than to the humble message of the gospel (1:18-25; 3:18-21; 8:1-3). Paul takes occasion to reprimand their attitude of superiority by appealing to the warnings in Scripture (1:19, 31; 3:19-20) and reminding them that true \"wisdom\" is imparted through the gospel of the Cross (1:18; 2:6-10). In the apostle\'s mind, there is no room among believers for arrogance or boasting, because every good thing they possess is a gift from God (4:6-7). **(2)** *Selfishness* manifested itself in various ways among the Corinthians. Lawsuits among believers were a growing problem (6:18); certain believers asserted their freedoms in a reckless way (8:1-13); some were guilty of discrimination toward the poor (11:21-22); and some exercised spiritual gifts as a way of attracting attention to themselves (14:1-40). Paul\'s prescription for each of these ailments is a return to Christian charity (14:1; 16:14, 22). Only God\'s love within us \"builds up\" (8:1) the Church in a way that glorifies Christ. Chapter 13 is the most beautiful in the letter, portraying love as patient, caring, and oriented toward others. This is the supreme law of the New Covenant (Rom 13:8-10) and the crown jewel of the Christian virtues (1 Cor 13:13). For Paul, only the divine love that we receive from Christ can deliver us from the chains of self-centered living and carry us into eternity with God (13:8-12).
+
+---
+
+Holy Bible. *Revised Standard Version, Second Catholic Edition*. San Francisco: Ignatius Press, 2006.

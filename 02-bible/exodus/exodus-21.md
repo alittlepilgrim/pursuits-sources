@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 21
 url: https://bible.usccb.org/bible/exodus/21
 aliases:
-  - 20250731-085940
   - exodus-21
   - Exodus, Chapter 21
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 21
 ---
@@ -130,3 +129,7 @@ d. (21:17) [Lv 20:9]; [Prv 20:20]; ([[matthew-15|Mt 15]]:4]; ([[mark-07|Mk 7]]:1
 e. (21:23] – [25) [Lv 24:18] – [21]; [Dt 19:21]; ([[matthew-05|Mt 5]]:38].
 
 f. (21:37) [2 Sm 12:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

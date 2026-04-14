@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 4
 ---
@@ -133,3 +133,7 @@ i. [4:38] [Nm 1:2].
 j. [4:41] [[2-kings-18|2 Kgs 18]]:1 – [2]; [2 Chr 29:1].
 
 k. [4:43] ([[exodus-17|Ex 17]]:8], [14]; [Dt 25:17] – [19]; [1 Sm 14:48]; [15:3], [7] – [8]; [2 Sm 8:12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Galatians, Chapter 5
 ---
@@ -151,3 +151,7 @@ s. (5:24) [2:19]; [Rom 6:6]; [8:13].
 t. (5:25) [5:16].
 
 u. (5:26) [Phil 2:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

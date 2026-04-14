@@ -11,7 +11,7 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Encyclical Letter Dives in Misericordia (30 November 1980)
 abbreviation: jpii-dm
@@ -27,9 +27,9 @@ Venerable Brothers and dear sons and daughters,
 
 greetings and the apostolic blessing.
 
-# I. He Who Sees Me Sees The Father (Cf John 14:9)
+# I. He Who Sees Me Sees the Father (cf. John 14:9)
 
-## 1. The Revelation Of Mercy
+## 1. The Revelation of Mercy
 
 It is "God, who is rich in mercy" 1 whom Jesus Christ has revealed to us as Father: it is His very Son who, in Himself, has manifested Him and made Him known to us.2 Memorable in this regard is the moment when Philip, one of the twelve Apostles, turned to Christ and said: "Lord, show us the Father, and we shall be satisfied"; and Jesus replied: "Have I been with you so long, and yet you do not know me...? He who has seen me has seen the Father." 3 These words were spoken during the farewell discourse at the end of the paschal supper, which was followed by the events of those holy days during which confirmation was to be given once and for all of the fact that "God, who is rich in mercy, out of the great love with which he loved us, even when we were dead through our trespasses, made us alive together with Christ." 4
 
@@ -39,7 +39,7 @@ For this reason it is now fitting to reflect on this mystery. It is called for b
 
 The more the Church's mission is centered upon man-the more it is, so to speak, anthropocentric-the more it must be confirmed and actualized theocentrically, that is to say, be directed in Jesus Christ to the Father. While the various currents of human thought both in the past and at the present have tended and still tend to separate theocentrism and anthropocentrism, and even to set them in opposition to each other, the Church, following Christ, seeks to link them up in human history, in a deep and organic way. And this is also one of the basic principles, perhaps the most important one, of the teaching of the last Council. Since, therefore, in the present phase of the Church's history we put before ourselves as our primary task the implementation of the doctrine of the great Council, we must act upon this principle with faith, with an open mind and with all our heart. In the encyclical already referred to, I have tried to show that the deepening and the many-faceted enrichment of the Church's consciousness resulting from the Council must open our minds and our hearts more widely to Christ. Today I wish to say that openness to Christ, who as the Redeemer of the world fully reveals man himself," can only be achieved through an ever more mature reference to the Father and His love.
 
-## 2. The Incarnation Of Mercy
+## 2. The Incarnation of Mercy
 
 Although God "dwells in unapproachable light," 8 He speaks to man he means of the whole of the universe: "ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made." 9 This indirect and imperfect knowledge, achieved by the intellect seeking God by means of creatures through the visible world, falls short of "vision of the Father." "No one has ever seen God," writes St. John, in order to stress the truth that "the only Son, who is in the bosom of the Father, he has made him known." 10 This "making known" reveals God in the most profound mystery of His being, one and three, surrounded by "unapproachable light." 11 Nevertheless, through this "making known" by Christ we know God above all in His relationship of love for man: in His "philanthropy." 12 It is precisely here that "His invisible nature" becomes in a special way "visible," incomparably more visible than through all the other "things that have been made": it becomes visible in Christ and through Christ, through His actions and His words, and finally through His death on the cross and His resurrection.
 
@@ -77,7 +77,7 @@ In this way, the messianic message about mercy preserves a particular divine-hum
 
 # III. The Old Testament
 
-## 4. The Concept Of Mercy In The Old Testament
+## 4. The Concept of Mercy in the Old Testament
 
 The concept of "mercy" in the Old Testament has a long and rich history. We have to refer back to it in order that the mercy revealed by Christ may shine forth more clearly. By revealing that mercy both through His actions and through His teaching, Christ addressed Himself to people who not only knew the concept of mercy, but who also, as the People of God of the Old Covenant, had drawn from their age - long history a special experience of the mercy of God. This experience was social and communal, as well as individual and interior.
 
@@ -103,7 +103,7 @@ In this way, mercy is in a certain sense contrasted with God's justice, and in m
 
 Connected with the mystery of creation is the mystery of the election, which in a special way shaped the history of the people whose spiritual father is Abraham by virtue of his faith. Nevertheless, through this people which journeys forward through the history both of the Old Covenant and of the New, that mystery of election refers to every man and woman, to the whole great human family. "I have loved you with an everlasting love, therefore I have continued my faithfulness to you." 56 "For the mountains may depart...my steadfast love shall not depart from you, and my covenant of peace shall not be removed." 57 This truth, once proclaimed to Israel, involves a perspective of the whole history of man, a perspective both temporal and eschatological.58 Christ reveals the Father within the framework of the same perspective and on ground already prepared, as many pages of the Old Testament writings demonstrate. At the end of this revelation, on the night before He dies, He says to the apostle Philip these memorable words: "Have I been with you so long, and yet you do not know me...? He who has seen me has seen the Father." 59
 
-# IV. The Parable Of The Prodigal Son
+# IV. The Parable of the Prodigal Son
 
 ## 5. An Analogy
 
@@ -119,7 +119,7 @@ It is at this point that he makes the decision: "I will arise and go to my fathe
 
 In the parable of the prodigal son, the term "justice" is not used even once; just as in the original text the term "mercy" is not used either. Nevertheless, the relationship between justice and love, that is manifested as mercy, is inscribed with great exactness in the content of the Gospel parable. It becomes more evident that love is transformed into mercy when it is necessary to go beyond the precise norm of justice-precise and often too narrow. The prodigal son, having wasted the property he received from his father, deserves - after his return - to earn his living by working in his father's house as a hired servant and possibly, little by little, to build up a certain provision of material goods, though perhaps never as much as the amount he had squandered. This would be demanded by the order of justice, especially as the son had not only squandered the part of the inheritance belonging to him but had also hurt and offended his father by his whole conduct. Since this conduct had in his own eyes deprived him of his dignity as a son, it could not be a matter of indifference to his father. It was bound to make him suffer. It was also bound to implicate him in some way. And yet, after all, it was his own son who was involved, and such a relationship could never be altered or destroyed by any sort of behavior. The prodigal son is aware of this and it is precisely this awareness that shows him clearly the dignity which he has lost and which makes him honestly evaluate the position that he could still expect in his father's house.
 
-## 6. Particular Concentration On Human Dignity
+## 6. Particular Concentration on Human Dignity
 
 This exact picture of the prodigal son's state of mind enables us to understand exactly what the mercy of God consists in. There is no doubt that in this simple but penetrating analogy the figure of the father reveals to us God as Father. The conduct of the father in the parable and his whole behavior, which manifests his internal attitude, enables us to rediscover the individual threads of the Old Testament vision of mercy in a synthesis which is totally new, full of simplicity and depth. The father of the prodigal son is faithful to his fatherhood, faithful to the love that he had always lavished on his son. This fidelity is expressed in the parable not only by his immediate readiness to welcome him home when he returns after having squandered his inheritance; it is expressed even more fully by that joy, that merrymaking for the squanderer after his return, merrymaking which is so generous that it provokes the opposition and hatred of the elder brother, who had never gone far away from his father and had never abandoned the home.
 
@@ -133,7 +133,7 @@ The parable of the prodigal son expresses in a simple but profound way the reali
 
 # V. The Paschal Mystery
 
-## 7. Mercy Revealed In The Cross and Resurrection
+## 7. Mercy Revealed in the Cross and Resurrection
 
 The messianic message of Christ and His activity among people end with the cross and resurrection. We have to penetrate deeply into this final event-which especially in the language of the Council is defined as the Mysterium Paschale - if we wish to express in depth the truth about mercy, as it has been revealed in depth in the history of our salvation. At this point of our considerations, we shall have to draw closer still to the content of the encyclical Redemptor hominis. If, in fact, the reality of the Redemption, in its human dimension, reveals the unheard - of greatness of man, qui talem ac tantum meruit habere Redemptorem,70 at the same time the divine dimension of the redemption enables us, I would say, in the most empirical and "historical" way, to uncover the depth of that love which does not recoil before the extraordinary sacrifice of the Son, in order to satisfy the fidelity of the Creator and Father towards human beings, created in His image and chosen from "the beginning," in this Son, for grace and glory.
 
@@ -147,7 +147,7 @@ The cross of Christ on Calvary stands beside the path of that admirable commerci
 
 What else, then, does the cross of Christ say to us, the cross that in a sense is the final word of His messianic message and mission? And yet this is not yet the word of the God of the covenant: that will be pronounced at the dawn when first the women and then the Apostles come to the tomb of the crucified Christ, see the tomb empty and for the first time hear the message: "He is risen." They will repeat this message to the others and will be witnesses to the risen Christ. Yet, even in this glorification of the Son of God, the cross remains, that cross which-through all the messianic testimony of the Man the Son, who suffered death upon it - speaks and never ceases to speak of God the Father, who is absolutely faithful to His eternal love for man, since He "so loved the world" - therefore man in the world-that "he gave his only Son, that whoever believes in him should not perish but have eternal life." 78 Believing in the crucified Son means "seeing the Father," 79 means believing that love is present in the world and that this love is more powerful than any kind of evil in which individuals, humanity, or the world are involved. Believing in this love means believing in mercy. For mercy is an indispensable dimension of love; it is as it were love's second name and, at the same time, the specific manner in which love is revealed and effected vis-a-vis the reality of the evil that is in the world, affecting and besieging man, insinuating itself even into his heart and capable of causing him to "perish in Gehenna." 80
 
-## 8. Love More Powerful than Death More Powerful than sin
+## 8. Love More Powerful than Death, More Powerful than sin
 
 The cross of Christ on Calvary is also a witness to the strength of evil against the very Son of God, against the one who, alone among all the sons of men, was by His nature absolutely innocent and free from sin, and whose coming into the world was untainted by the disobedience of Adam and the inheritance of original sin. And here, precisely in Him, in Christ, justice is done to sin at the price of His sacrifice, of His obedience "even to death." 81 He who was without sin, "God made him sin for our sake." 82 Justice is also brought to bear upon death, which from the beginning of man's history had been allied to sin. Death has justice done to it at the price of the death of the one who was without sin and who alone was able-by means of his own death-to inflict death upon death.83 In this way the cross of Christ, on which the Son, consubstantial with the Father, renders full justice to God, is also a radical revelation of mercy, or rather of the love that goes against what constitutes the very root of evil in the history of man: against sin and death.
 
@@ -161,7 +161,7 @@ The Paschal Mystery is Christ at the summit of the revelation of the inscrutable
 
 Here is the Son of God, who in His resurrection experienced in a radical way mercy shown to Himself, that is to say the love of the Father which is more powerful than death. And it is also the same Christ, the Son of God, who at the end of His messianic mission - and, in a certain sense, even beyond the end - reveals Himself as the inexhaustible source of mercy, of the same love that, in a subsequent perspective of the history of salvation in the Church, is to be everlastingly confirmed as more powerful than sin. The paschal Christ is the definitive incarnation of mercy, its living sign in salvation history and in eschatology. In the same spirit, the liturgy of Eastertide places on our lips the words of the Psalm: Misericordias Domini in aeternum cantabo.100
 
-## 9. Mother Of Mercy
+## 9. Mother of Mercy
 
 These words of the Church at Easter re-echo in the fullness of their prophetic content the words that Mary uttered during her visit to Elizabeth, the wife of Zechariah: "His mercy is...from generation to generation." 101 At the very moment of the Incarnation, these words open up a new perspective of salvation history. After the resurrection of Christ, this perspective is new on both the historical and the eschatological level. From that time onwards there is a succession of new generations of individuals in the immense human family, in ever-increasing dimensions; there is also a succession of new generations of the People of God, marked with the Sign of the Cross and of the resurrection and "sealed" 102 with the sign of the Paschal Mystery of Christ, the absolute revelation of the mercy that Mary proclaimed on the threshold of her kinswoman's house: "His mercy is...from generation to generation." 103
 
@@ -177,7 +177,7 @@ It was precisely this "merciful" love, which is manifested above all in contact 
 
 # VI. Mercy from Generation to Generation
 
-## 10. An Image Of Our Generation
+## 10. An Image of Our Generation
 
 We have every right to believe that our generation too was included in the words of the Mother of God when she glorified that mercy shared in "from generation to generation" by those who allow themselves to be guided by the fear of God. The words of Mary's Magnificat have a prophetic content that concerns not only the past of Israel but also the whole future of the People of God on earth. In fact, all of us now living on earth are the generation that is aware of the approach of the third millennium and that profoundly feels the change that is occurring in history.
 
@@ -189,7 +189,7 @@ Towards the end of the introductory exposition we read: "...in the face of moder
 
 In the span of the fifteen years since the end of the Second Vatican Council, has this picture of tensions and threats that mark our epoch become less disquieting? It seems not. On the contrary, the tensions and threats that in the Council document seem only to be outlined and not to manifest in depth all the dangers hidden within them have revealed themselves more clearly in the space of these years; they have in a different way confirmed that danger, and do not permit us to cherish the illusions of the past.
 
-## 11. Sources Of Uneasiness
+## 11. Sources of Uneasiness
 
 Thus, in our world the feeling of being under threat is increasing. There is an increase of that existential fear connected especially, as I said in the encyclical Redemptor hominis, with the prospect of a conflict that in view of today's atomic stockpiles could mean the partial self-destruction of humanity. But the threat does not merely concern what human beings can do to human beings through the means provided by military technology; it also concerns many other dangers produced by a materialistic society which-in spite of "humanistic" declarations-accepts the primacy of things over persons. Contemporary man, therefore, fears that by the use of the means invented by this type of society, individuals and the environment, communities, societies and nations can fall victim to the abuse of power by other individuals, environments and societies. The history of our century offers many examples of this. In spite of all the declarations on the rights of man in his integral dimension, that is to say in his bodily and spiritual existence, we cannot say that these examples belong only to the past.
 
@@ -215,7 +215,7 @@ The Church, having before her eyes the picture of the generation to which we bel
 
 In connection with this picture of our generation, a picture which cannot fail to cause profound anxiety, there come to mind once more those words which, by reason of the Incarnation of the Son of God, resounded in Mary's Magnificat, and which sing of "mercy from generation to generation." The Church of our time, constantly pondering the eloquence of these inspired words, and applying them to the sufferings of the great human family, must become more particularly and profoundly conscious of the need to bear witness in her whole mission to God's mercy, following in the footsteps of the tradition of the Old and the New Covenant, and above all of Jesus Christ Himself and His Apostles. The Church must bear witness to the mercy of God revealed in Christ, in the whole of His mission as Messiah, professing it in the first place as a salvific truth of faith and as necessary for a life in harmony with faith, and then seeking to introduce it and to make it incarnate in the lives both of her faithful and as far as possible in the lives of all people of good will. Finally, the Church-professing mercy and remaining always faithful to it-has the right and the duty to call upon the mercy of God, imploring it in the face of all the manifestations of physical and moral evil, before all the threats that cloud the whole horizon of the life of humanity today.
 
-## 13. The Church Professes The Mercy Of God and Proclaims It
+## 13. The Church Professes the Mercy of God and Proclaims It
 
 The Church must profess and proclaim God's mercy in all its truth, as it has been handed down to us by revelation. We have sought, in the foregoing pages of the present document, to give at least an outline of this truth, which finds such rich expression in the whole of Sacred Scripture and in Sacred Tradition. In the daily life of the Church the truth about the mercy of God, expressed in the Bible, resounds as a perennial echo through the many readings of the Sacred Liturgy. The authentic sense of faith of the People of God perceives this truth, as is shown by various expressions of personal and community piety. It would of course be difficult to give a list or summary of them all, since most of them are vividly inscribed in the depths of people's hearts and minds. Some theologians affirm that mercy is the greatest of the attributes and perfections of God, and the Bible, Tradition and the whole faith life of the People of God provide particular proofs of this. It is not a question here of the perfection of the inscrutable essence of God in the mystery of the divinity itself, but of the perfection and attribute whereby man, in the intimate truth of his existence, encounters the living God particularly closely and particularly often. In harmony with Christ's words to Philip,112 the "vision of the Father"-a vision of God through faith finds precisely in the encounter with His mercy a unique moment of interior simplicity and truth, similar to that which we discover in the parable of the prodigal son.
 
@@ -261,9 +261,9 @@ The Church rightly considers it her duty and the purpose of her mission to guard
 
 The basis of the Church's mission, in all the spheres spoken of in the numerous pronouncements of the most recent Council and in the centuries-old experience of the apostolate, is none other than "drawing from the wells of the Savior" 133 this is what provides many guidelines for the mission of the Church in the lives of individual Christians, of individual communities, and also of the whole People of God. This "drawing from the wells of the Savior" can be done only in the spirit of that poverty to which we are called by the words and example of the Lord: "You received without pay, give without pay." 134 Thus, in all the ways of the Church's life and ministry-through the evangelical poverty of her-ministers and stewards and of the whole people which bears witness to "the mighty works" of its Lord-the God who is "rich in mercy" has been made still more clearly manifest.
 
-# VIII. The Prayer Of The Church In Our Times
+# VIII. The Prayer of the Church in Our Times
 
-## 15. The Church Appeals to The Mercy Of God
+## 15. The Church Appeals to the Mercy of God
 
 The Church proclaims the truth of God's mercy revealed in the crucified and risen Christ, and she professes it in various ways. Furthermore, she seeks to practice mercy towards people through people, and she sees in this an indispensable condition for solicitude for a better and "more human" world, today and tomorrow. However, at no time and in no historical period-especially at a moment as critical as our own-can the Church forget the prayer that is a cry for the mercy of God amid the many forms of evil which weigh upon humanity and threaten it. Precisely this is the fundamental right and duty of the Church in Christ Jesus, her right and duty towards God and towards humanity. The more the human conscience succumbs to secularization, loses its sense of the very meaning of the word "mercy," moves away from God and distances itself from the mystery of mercy, the more the Church has the right and the duty to appeal to the God of mercy "with loud cries." 135 These "loud cries" should be the mark of the Church of our times, cries uttered to God to implore His mercy, the certain manifestation of which she professes and proclaims as having already come in Jesus crucified and risen, that is, in the Paschal Mystery. It is this mystery which bears within itself the most complete revelation of mercy, that is, of that love which is more powerful than death, more powerful than sin and every evil, the love which lifts man up when he falls into the abyss and frees him from the greatest threats.
 

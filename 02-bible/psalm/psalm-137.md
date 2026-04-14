@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 137
 ---
@@ -91,3 +91,7 @@ d. (137:7) [Jer 49:7]; [Lam 4:21] – [22]; [Ez 25:12] – [14].
 e. (137:8) [Is 47:1] – [3]; [Jer 50] – [51].
 
 f. (137:9) [[hosea-14|Hos 14]]:1.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

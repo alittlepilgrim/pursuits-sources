@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 28
 url: https://bible.usccb.org/bible/exodus/28
 aliases:
-  - 20250731-090002
   - exodus-28
   - Exodus, Chapter 28
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 28
 ---
@@ -142,3 +141,7 @@ g. (28:37) [Ex 39:31]; [Lv 8:9].
 h. (28:39] – [43) [Ex 39:27] – [31].
 
 i. (28:42) [Ez 44:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -9,7 +9,7 @@ tags:
   - term/affections
   - type/term
 created: 2025-07-19
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 description: affections
 ---
@@ -27,7 +27,7 @@ description: affections
 
 See: [[attachments|Attachments]].
 
----
+### Sources
 
 - [[7-the-mount-of-perfection|7. The Mount of Perfection]]
 - [[80-the-essence-of-detachment|80. The Essence of Detachment]]

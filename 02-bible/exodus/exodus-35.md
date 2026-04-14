@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 35
 url: https://bible.usccb.org/bible/exodus/35
 aliases:
-  - 20250731-090037
   - exodus-35
   - Exodus, Chapter 35
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 35
 ---
@@ -110,3 +109,7 @@ c. (35:10] – [19) [Ex 31:6] – [11].
 d. (35:22] – [28) ([[exodus-25|Ex 25]]:3] – [7].
 
 e. (35:30] – [35) [Ex 31:1] – [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

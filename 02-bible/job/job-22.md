@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 22
 ---
@@ -175,3 +175,7 @@ j. (22:27) [Jb 33:26].
 k. (22:29) [Ps 138:6]; [Prv 29:23]; ([[matthew-23|Mt 23]]:12]; ([[luke-01|Lk 1]]:52]; [Jas 4:10]; [1 Pt 5:5].
 
 l. (22:30) [Jb 17:9]; ([[psalm-18|Ps 18]]:21], [25]; [24:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

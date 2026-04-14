@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: John, Chapter 9
 ---
@@ -159,3 +159,7 @@ r. (9:39) ([[matthew-13|Mt 13]]:33] – [35].
 s. (9:40) ([[matthew-15|Mt 15]]:14]; [23:26]; ([[romans-02|Rom 2]]:19].
 
 t. (9:41) [15:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

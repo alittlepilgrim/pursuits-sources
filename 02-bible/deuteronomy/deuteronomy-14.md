@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 14
 ---
@@ -113,3 +113,7 @@ i. (14:26) [Dt 12:7].
 j. (14:27) [Dt 12:12], [19].
 
 k. (14:28] – [29) [Dt 26:12] – [15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 24
 ---
@@ -107,3 +107,7 @@ j. (24:20) ([[exodus-21|Ex 21]]:23] – [25]; [Dt 19:21]; ([[matthew-05|Mt 5]]:3
 k. (24:22) [Lv 19:34]; ([[exodus-12|Ex 12]]:49]; [Nm 15:16].
 
 l. (24:23) ([[acts-of-the-apostles-07|Acts 7]]:57] – [58].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

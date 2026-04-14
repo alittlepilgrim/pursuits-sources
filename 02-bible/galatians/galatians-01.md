@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Galatians, Chapter 1
 ---
@@ -143,3 +143,7 @@ o. (1:20) [Rom 9:1]; [2 Cor 11:31].
 p. (1:21) ([[acts-of-the-apostles-09|Acts 9]]:30].
 
 q. (1:23) [1:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

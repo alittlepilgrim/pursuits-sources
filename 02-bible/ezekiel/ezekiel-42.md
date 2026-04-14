@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 42
 ---
@@ -73,3 +73,7 @@ a. (42:1) ([[exodus-27|Ex 27]]:9].
 b. (42:13) [Lv 10:12] – [13], [17].
 
 c. (42:14) ([[exodus-29|Ex 29]]:9]; [Lv 8:7] – [9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hebrews, Chapter 3
 ---
@@ -105,3 +105,7 @@ h. (3:16] – [19) [Nm 14:1] – [38]; [Dt 1:19] – [40].
 i. (3:17) [Nm 14:29].
 
 j. (3:18) [Nm 14:22] – [23]; [Dt 1:35].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

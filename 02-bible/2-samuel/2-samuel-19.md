@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 19
 ---
@@ -143,3 +143,7 @@ j. (19:30) [2 Sm 16:4].
 k. (19:32) [2 Sm 17:27] – [29]; [1 Kgs 2:7]; ([[ezra-02|Ezr 2]]:61].
 
 l. (19:44) [[1-kings-11|1 Kgs 11]]:31.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

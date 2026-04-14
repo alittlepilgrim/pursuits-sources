@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 13
 ---
@@ -171,3 +171,7 @@ i. (13:13) [Is 37:3].
 j. (13:14) [1 Cor 15:55].
 
 k. (13:15) [[ezekiel-19|Ez 19]]:12.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

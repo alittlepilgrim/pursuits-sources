@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 9
 ---
@@ -159,3 +159,7 @@ p. (9:16) [Sir 1:3]; [Jn 3:12].
 q. (9:17) [Jn 14:26].
 
 r. (9:18) [Wis 10:9]; [Prv 28:26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 4
 ---
@@ -77,3 +77,7 @@ f. (4:9) [1 Kgs 7:12].
 g. (4:10) [1 Kgs 7:39].
 
 h. (4:11] – [22) [1 Kgs 7:40] – [51].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

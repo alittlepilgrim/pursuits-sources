@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: luke-chapter 11
 ---
@@ -245,3 +245,7 @@ d. (11:52) ([[matthew-23|Mt 23]]:13].
 e. (11:53) [6:11]; ([[matthew-22|Mt 22]]:15] – [22].
 
 f. (11:54) [20:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

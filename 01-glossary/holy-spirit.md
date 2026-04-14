@@ -20,9 +20,71 @@ description: holy-spirit. Catechism of the Catholic Church. 1997. 2nd ed. Vatica
 
 The third divine Person of the Blessed Trinity, the personal love of Father and Son for each other. Also called the Paraclete (Advocate) and Spirit of Truth, the Holy Spirit is at work with the Father and the Son from the beginning to the completion of the divine plan for our salvation ([[1.2.3.0.p1y#^ccc-685|685]]; cf. [[1.1.3.1.pw#^ccc-152|152]], [[1.2.1.1.p17#^ccc-243|243]]).
 
+## Ignatius Catholic Study Bible
+
+**Holy Spirit**
+
+Baptism and new birth/regeneration in the Holy Spirit: Mt 3:11; Mk 1:7-8; Lk 3:16; Jn 1:33; 3:5; Acts 1:5; 2:38; 19:6; 1 Cor 12:12-13; Tit 3:5
+
+Blasphemy against the Holy Spirit is unforgivable: Mt 12:31-32; Mk 3:29
+
+Counselor (Paraclete): Jn 14:16; 15:26
+
+Distinct Person, not a force or emanation from God: Acts 5:3, 32; Rom 8:27; Eph 4:30
+
+Distributes spiritual gifts as he wills: 1 Cor 12:11
+
+Divine: 2 Cor 3:17-18
+
+Eternal: Heb 9:14
+
+Fellowship of the Holy Spirit: 2 Cor 13:14
+
+Fruit of the Spirit: Gal 5:22-23
+
+Gifts of the Spirit: 1 Cor 12:4-30; Heb 2:4
+
+Grieving the Holy Spirit: Eph 4:30
+
+Guarantee or "down payment" of salvation: 2 Cor 1:22; Eph 1:14
+
+Guidance of the Church: Jn 14:26; 15:26; 16:13-14; Acts 15:28
+
+Helps believers to pray: Rom 8:26-27; Jude 20
+
+Indwells the baptized: Jn 14:17; Acts 2:4, 38; Rom 5:5; 8:9; 1 Cor 3:16; 6:19; Heb 6:4
+
+Intercedes for us: Rom 8:27
+
+Knows the thoughts of God as a man's spirit knows his thoughts: 1 Cor 2:10-11
+
+Makes us sons of God through Jesus Christ: Rom 8:12-17; Gal 4:6-7
+
+Sent from the Father by the Son: Jn 14:16; 15:26
+
+Seal of the Holy Spirit: 2 Cor 1:22; Eph 1:13; 4:30
+
+Speaks: Acts 13:2; 1 Cor 2:10; Gal 4:6; Heb 3:7-9; Rev 2:7
+
+Spirit of Christ: Rom 8:9
+
+Spirit of the Father: Mt 10:20
+
+Spirit of truth: Jn 14:17; 16:13
+
+Sword of the Spirit: Eph 6:17
+
+Testimony about the Son: Jn 15:26
+
+*See also* [[God]]; [[jesus-christ|Jesus]]; [[trinity-holy|Trinity]]
+
+### Sources
+
+[[index-of-doctrines|Index of Doctrines]]
+
 ## The Way of Perfection
 
-HOLY SPIRIT. He must be present between such a Son and such a Father ([[tj-wop-chapter-27#^wop-ch27-7|27.7]]). He enkindles the will and holds it bound with a very great love ([[tj-wop-chapter-27#^wop-ch27-7|27.7]]).
+HOLY SPIRIT. He must be present between such a Son and such a Father ([[chapter-27-tj-way-ccel|27.7]]). He enkindles the will and holds it bound with a very great love ([[chapter-27-tj-way-ccel|27.7]]).
 
 ## Divine Intimacy Meditations
 

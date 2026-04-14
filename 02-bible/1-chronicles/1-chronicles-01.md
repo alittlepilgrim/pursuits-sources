@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 1
 ---
@@ -171,3 +171,7 @@ r. \[[1:44];)\] [Is 34:6];); [63:1];); [Jer 49:13];), [22];).
 s. \[[1:45];)\] [Gn 36:11];); [Jb 2:11];); [Jer 49:7];), [20];).
 
 t. \[[1:51];) – [54];)\] [Gn 36:40];) – [43];).
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

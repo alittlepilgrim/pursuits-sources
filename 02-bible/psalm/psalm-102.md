@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 102
 ---
@@ -185,3 +185,7 @@ l. (102:25) [Ps 39:5]; [90:10]; [Jb 14:5].
 m. (102:26] – [28) [Heb 1:10] – [12].
 
 n. (102:29) [Ps 69:36] – [37].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

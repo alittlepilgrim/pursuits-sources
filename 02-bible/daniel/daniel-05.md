@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Daniel, Chapter 5
 ---
@@ -89,3 +89,7 @@ description: Daniel, Chapter 5
 \* (5:26] – [28) Daniel interprets these three terms by a play on the words: *M* ENE, connected with the verb meaning to number; *T* EKEL, with the verb meaning to weigh; *P* ERES, with the verb meaning to divide. There is also a play on the last term with the word for Persians.
 
 a. (5:21) [Dn 4:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

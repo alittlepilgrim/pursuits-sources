@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 3
 ---
@@ -135,3 +135,7 @@ m. \[[3:23]\] [Lv 23:29]; [Dt 18:19].
 n. \[[3:25]\] [[genesis-12|Gen 12]]:3; [18:18]; [22:18]; [Sir 44:19] – [21]; [Gal 3:8] – [9].
 
 o. \[[3:26]\] [13:46]; ([[romans-01|Rom 1]]:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

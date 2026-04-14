@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 12
 ---
@@ -183,3 +183,7 @@ o. (12:36) [Ps 110:1].
 p. (12:38] – [40) ([[matthew-23|Mt 23]]:1] – [7]; ([[luke-11|Lk 11]]:43]; [20:45] – [47].
 
 q. (12:41] – [44) ([[luke-21|Lk 21]]:1] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,11 +11,19 @@ tags:
   - term/confidence
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-12
 publish: true
 ---
 
 # Confidence
+
+## Ignatius Catholic Study Bible
+
+*Confidence* (1 Jn 4:17) - *Parrēsia* (Gk.): means "boldness", "courage", or "outspokenness". The term is found four times in 1 John and 27 times in the rest of the NT. Often used in the context of speech, it describes words that are clear and straightforward (Jn 11:14; 16:25), as well as words that are spoken openly and publicly (Jn 7:26; Acts 28:31). In a similar way, it refers to the confidence that believers have when they approach God with their prayers (Heb 4:16; 1 Jn 5:14). The term is used several times in 1 John for the sense of security that Christians have in their relationship with God. It is not presumption, but the filial boldness of a child before his Father that allows us to live on open terms with the Lord without a servile or inordinate fear of his judgment (1 Jn 2:28; 3:21; 4:17) (CCC 2778).
+
+### Sources
+
+[[23-first-john-commentary#^05ubsf|Confidence — word study]]
 
 ## Divine Intimacy Meditations
 
@@ -31,7 +39,7 @@ publish: true
 - the more — we have in God, the stronger we shall be: [[295-perseverance-and-confidence#Meditation 2|295,2]];
 - — in God in temptations: [[98-the-great-combat#Meditation 2|98,2]]; [[215-the-heart-of-jesus-our-refuge#Meditation 2|215,2]]; [[252-correspondence-with-grace#Meditation 1|252,1]];
 - in trials: [[119-the-multiplication-of-the-loaves#Meditation 2|119,2]];
-- in suffering: [[129-the-daily-cross#Meditation 2|129,2]]; [[a little pilgrim/carmel/130-suffering-and-abandonment#Meditation 2|130,2]];
+- in suffering: [[129-the-daily-cross#Meditation 2|129,2]]; [[private 🔏/carmel-study-notes/130-suffering-and-abandonment#Meditation 2|130,2]];
 - in temptations to discouragement: [[248-the-test-of-hope#Meditation 2|248,2]];
 - in the anguish of purifying trials: [[352-interior-trials#Meditation 2|352,2]]; [[354-confidence-and-abandonment#Meditation 1|354,1]], [[354-confidence-and-abandonment#Meditation 2|354,2]];
 - — in God in spite of one’s own miseries and failings [[108-humility-and-confidence#Meditation 1|108,1]], [[108-humility-and-confidence#Meditation 2|108,2]]; [[109-humility-in-our-falls#Meditation 2|109,2]]; [[210-merciful-love#Meditation 2|210,2]]; [[215-the-heart-of-jesus-our-refuge#Meditation 2|215,2]]; [[217-firm-confidence#Meditation 1|217,1]], [[217-firm-confidence#Meditation 2|217,2]]; [[247-the-motive-for-hope#Meditation 2|247,2]]; [[249-boundless-hope#Meditation 2|249,2]]; [[252-correspondence-with-grace#Meditation 1|252,1]]; [[280-the-ten-lepers#Meditation 2|280,2]]; [[295-perseverance-and-confidence#Meditation 2|295,2]]; [[352-interior-trials#Meditation 2|352,2]];
@@ -44,7 +52,7 @@ publish: true
 - — in God is vain if not accompanied by works: [[175-efficacious-prayer#Meditation 2|175,2]].
 - See: [[hope|Hope]].
 
-## Divine Intimacy Meditations
+### Sources
 
 - [[63-jesus-calms-the-tempest|63. Jesus Calms the Tempest]]
 - [[98-the-great-combat|98. The Great Combat]]
@@ -53,7 +61,7 @@ publish: true
 - [[119-the-multiplication-of-the-loaves|119. The Multiplication of the Loaves]]
 - [[123-supernatural-obedience|123. Supernatural Obedience]]
 - [[129-the-daily-cross|129. The Daily Cross]]
-- [[a little pilgrim/carmel/130-suffering-and-abandonment|130. Suffering and Abandonment]]
+- [[private 🔏/carmel-study-notes/130-suffering-and-abandonment|130. Suffering and Abandonment]]
 - [[135-the-meek-lamb|135. The Meek Lamb]]
 - [[175-efficacious-prayer|175. Efficacious Prayer]]
 - [[210-merciful-love|210. Merciful Love]]

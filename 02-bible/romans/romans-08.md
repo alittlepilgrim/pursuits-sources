@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 8
 ---
@@ -187,3 +187,7 @@ b. (8:36) [Ps 44:23]; ([[1-corinthians-04|1 Cor 4]]:9]; [15:30]; ([[2-corinthian
 c. (8:37) ([[1-john-05|1 Jn 5]]:4].
 
 d. (8:38] – [39) ([[1-corinthians-03|1 Cor 3]]:22]; [Eph 1:21]; [1 Pt 3:22].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

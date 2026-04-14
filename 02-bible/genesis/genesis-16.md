@@ -12,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 16
 bible_book: genesis
@@ -112,3 +112,7 @@ i. (16:15) [[genesis-16|Gen 16]]:2; [Gal 4:22]..
 ## Navigation
 
 [[genesis-05|[← Previous Note]]] · [[genesis-07|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,7 +3,6 @@ type: magisterium
 title: A - Social Doctrine of the Church - Analytical Index
 author: Catholic Church
 aliases:
-  - 20251028-180424
   - A - Social Doctrine of the Church - Analytical Index
   - Compendium of the Social Doctrine of the Church Analytical Index
   - Compendium of the Social Doctrine of the Church Analytical Index - a
@@ -13,7 +12,7 @@ tags:
   - type/magisterium
   - vatican
 created: 2025-10-28
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 ---
 

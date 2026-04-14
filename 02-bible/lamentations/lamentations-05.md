@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Lamentations, Chapter 5
 ---
@@ -137,3 +137,7 @@ h. (5:20) ([[psalm-13|Ps 13]]:2]; [42:10]; [Is 49:14].
 i. (5:21) [Ps 80:19] – [20].
 
 j. (5:22) [Jer 14:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

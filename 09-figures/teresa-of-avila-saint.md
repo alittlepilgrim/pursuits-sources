@@ -2,7 +2,6 @@
 type: figure
 title: Saint Teresa of Jesus (of Avila)
 aliases:
-  - 20250912-204812
   - Saint Teresa of Jesus (of Avila)
   - St. Teresa of Jesus (of Avila)
   - teresa-of-avila-saint
@@ -22,7 +21,7 @@ death_date: 1582-10-04
 celebration: 10-15
 celebration_day: 10-15
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-09
 publish: true
 ---
 
@@ -40,7 +39,7 @@ Teresa was born at Avila in Spain in 1515. She entered the Carmelites and made g
 - [[jc-counsels-to-a-religious|counsels-to-a-religious]]
 - [[tj-exclamations-of-the-soul-to-god|The Exclamations of the Soul To God]]
 - [[tj-foundations|Foundations by St. Teresa of Avila]]
-- [[tj-life-ccel|The Life of St. Teresa of Jesus]]
+- [[tj-life-ccel-toc|The Life of St. Teresa of Jesus]]
 - [[tj-maxims-for-her-nuns|20250725-18]]
 - [[tj-spiritual-relations|20250725-18]]
 - [[tj-way-of-perfection-ccel|The Way of Perfection]]

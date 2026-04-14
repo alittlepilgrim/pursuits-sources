@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 13
 ---
@@ -167,3 +167,7 @@ j. (13:15) [Is 40:20]; [41:7]; [44:13].
 k. (13:16) [1 Sm 5:3] – [5]; ([[baruch-06|Bar 6]]:57].
 
 l. (13:17] – [19) [Wis 15:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

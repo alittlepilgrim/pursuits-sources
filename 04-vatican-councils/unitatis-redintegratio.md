@@ -11,7 +11,7 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Decree on Ecumenism - Unitatis redintegratio
 abbreviation: ur
@@ -19,7 +19,7 @@ abbreviation: ur
 
 # Unitatis Redintegratio
 
-## Decree On Ecumenism
+## Decree on Ecumenism
 
 ## Introduction
 

@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 38
 url: https://bible.usccb.org/bible/exodus/38
 aliases:
-  - 20250731-085751
   - exodus-38
   - Exodus, Chapter 38
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 38
 ---
@@ -100,3 +99,7 @@ c. (38:9] – [20) ([[exodus-27|Ex 27]]:9] – [19].
 d. (38:22] – [23) [Ex 31:2], [6]; [35:30], [34]; [36:1].
 
 e. (38:26) [Nm 1:46].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 3
 ---
@@ -99,3 +99,7 @@ f. (3:15) [Rom 11:7] – [10].
 g. (3:16) [Ex 34:34].
 
 h. (3:18) [Rom 8:29] – [30]; [12:2]; [Gal 4:19]; [Phil 3:10], [20] – [21] / [4:4] – [6]; [1 Cor 15:49]; [Col 1:15]; [3:9] – [11]; ([[1-john-03|1 Jn 3]]:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

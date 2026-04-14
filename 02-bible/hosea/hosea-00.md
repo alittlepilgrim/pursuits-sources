@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/hosea/0
 aliases:
   - hosea-00
   - Hosea, the Book of Hosea
-  - Hosea, The Book of Hosea
 tags:
   - bible/book
   - bible/hosea
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, the Book of Hosea
 ---
@@ -53,3 +52,7 @@ The book, which opens with a superscription ([1:1]) and ends with a final challe
 - [[hosea-12|Hosea, Chapter 12]]
 - [[hosea-13|Hosea, Chapter 13]]
 - [[hosea-14|Hosea, Chapter 14]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

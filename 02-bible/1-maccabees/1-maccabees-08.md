@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 8
 ---
@@ -107,3 +107,7 @@ The image of the Roman Republic greatly impressed the smaller Eastern peoples se
 a. \8:17 [[1-maccabees-12|1 Mc 12]]:1 – [4]; [15:15] – [22].
 
 b. \8:22 [[1-maccabees-14|1 Mc 14]]:17 – [18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 14
 ---
@@ -159,3 +159,7 @@ e. (14:17) [Ps 103:14] – [16]; [Jb 14:1] – [2]; [Is 40:6]; [Jas 1:10]; [1 Pt
 f. (14:18) [Eccl 1:4].
 
 g. (14:20) ([[psalm-01|Ps 1]]:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

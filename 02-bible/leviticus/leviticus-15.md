@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 15
 ---
@@ -123,3 +123,7 @@ h. (15:25) ([[matthew-09|Mt 9]]:20] – [22]; ([[mark-05|Mk 5]]:25] – [34]; ([
 i. (15:28) [Lv 15:13] – [15].
 
 j. (15:31) [Lv 5:2] – [3]; [22:9]; [Nm 19:13], [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

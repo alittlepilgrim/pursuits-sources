@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 4
 ---
@@ -123,3 +123,7 @@ d. (4:16) [[1-kings-19|1 Kgs 19]]:12.
 e. (4:17) [Jb 9:2]; [15:14] – [16]; [25:4]; [Ps 130:3]; [143:2].
 
 f. (4:18) [Jb 15:15]; [2 Pt 2:4]; [Jude 6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

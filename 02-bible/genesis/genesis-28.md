@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 28
 url: https://bible.usccb.org/bible/genesis/28
 aliases:
-  - 20250508-020308
   - genesis-28
   - Genesis, Chapter 28
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 28
 bible_book: genesis
@@ -113,3 +112,7 @@ k. (28:19) [Gn 35:6]; [48:3]; [Jos 18:13]; [Jgs 1:23]; [[hosea-12|Hos 12]]:5..
 ## Navigation
 
 [[genesis-07|[← Previous Note]]] · [[genesis-09|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

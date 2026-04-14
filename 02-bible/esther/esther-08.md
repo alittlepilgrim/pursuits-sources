@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: esther-chapter 8
 ---
@@ -139,3 +139,7 @@ e. (8:11] – [12) [Est 9:1] – [4].
 f. (8:15) [Dn 5:7].
 
 g. (8:17) [Est 9:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 22
 ---
@@ -189,3 +189,7 @@ c. (22:12) [Gn 50:10]; [[judith-16|Jdt 16]]:24.
 d. (22:15) [Prv 27:3].
 
 e. (22:27) [Ps 141:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

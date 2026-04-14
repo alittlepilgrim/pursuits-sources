@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 10
 ---
@@ -138,7 +138,7 @@ description: Luke, Chapter 10
 
 \* (10:21) Revealed them to the childlike: a restatement of the theme announced in ([[luke-08|Lk 8]]:10]: the mysteries of the kingdom are revealed to the disciples. See also note on ([[matthew-11|Mt 11]]:25] – [27].
 
-\* (10:25] – [37) In response to a question from a Jewish legal expert about inheriting eternal life, Jesus illustrates the superiority of love over legalism through the story of the good Samaritan. The law of love proclaimed in the “Sermon on the Plain” (([[luke-06| [[luke-06|Lk 6]]:]]:27] – [36]) is exemplified by one whom the legal expert would have considered ritually impure (see ([[john-04|Jn 4]]:9]). Moreover, the identity of the “neighbor” requested by the legal expert (([[luke-10|Lk 10]]:29]) turns out to be a Samaritan, the enemy of the Jew (see note on ([[luke-09|Lk 9]]:52]).
+\* (10:25] – [37) In response to a question from a Jewish legal expert about inheriting eternal life, Jesus illustrates the superiority of love over legalism through the story of the good Samaritan. The law of love proclaimed in the “Sermon on the Plain” (([[luke-06||Lk 6]]:27] – [36]) is exemplified by one whom the legal expert would have considered ritually impure (see ([[john-04|Jn 4]]:9]). Moreover, the identity of the “neighbor” requested by the legal expert (([[luke-10|Lk 10]]:29]) turns out to be a Samaritan, the enemy of the Jew (see note on ([[luke-09|Lk 9]]:52]).
 
 \* (10:25) Scholar of the law: an expert in the Mosaic law, and probably a member of the group elsewhere identified as the scribes (([[luke-05| [[luke-05|Lk 5]]:]]:21]).
 
@@ -203,3 +203,7 @@ y. (10:27) [Lv 19:18]; [Dt 6:5]; [10:12]; [Jos 22:5]; ([[matthew-19|Mt 19]]:19];
 z. (10:28) [Lv 18:5]; [Prv 19:16]; [Rom 10:5]; [Gal 3:12].
 
 a. (10:38] – [39) [Jn 11:1]; [12:2] – [3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

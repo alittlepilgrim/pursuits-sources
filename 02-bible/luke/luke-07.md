@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 7
 ---
@@ -201,3 +201,7 @@ q. (7:37] – [38) [Jn 12:3].
 r. (7:48) [5:20]; ([[matthew-09|Mt 9]]:20]; ([[mark-02|Mk 2]]:5].
 
 s. (7:49) [5:21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

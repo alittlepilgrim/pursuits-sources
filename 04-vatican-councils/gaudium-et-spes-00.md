@@ -10,7 +10,7 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-07
+modified: 2026-04-08
 publish: true
 description: Pastoral Constitution On The Church In The Modern World Promulgated By His Holiness Pope Paul VI On December 7 1965
 abbreviation: gs
@@ -18,7 +18,7 @@ abbreviation: gs
 
 # Gaudium Et Spes
 
-## Pastoral Constitution on The Church In The Modern World Promulgated by His Holiness Pope Paul VI on December 7 1965
+## Pastoral Constitution on the Church in the Modern World Promulgated by His Holiness Pope Paul VI on December 7, 1965
 
 ## Preface
 
@@ -32,7 +32,7 @@ Therefore, the council focuses its attention on the world of men, the whole huma
 
 Therefore, this sacred synod, proclaiming the noble destiny of man and championing the Godlike seed which has been sown in him, offers to mankind the honest assistance of the Church in fostering that brotherhood of all men which corresponds to this destiny of theirs. Inspired by no earthly ambition, the Church seeks but a solitary goal: to carry forward the work of Christ under the lead of the befriending Spirit. And Christ entered this world to give witness to the truth, to rescue and not to sit in judgment, to serve and not to be served.(2) 
 
-## Introductory Statement the Situation of Men in the Modern World
+## Introductory Statement – The Situation of Men in the Modern World
 
 4.To carry out such a task, the Church has always had the duty of scrutinizing the signs of the times and of interpreting them in the light of the Gospel. Thus, in language intelligible to each generation, she can respond to the perennial questions which men ask about this present life and the life to come, and about the relationship of the one to the other. We must therefore recognize and understand the world in which we live, its explanations, its longings, and its often dramatic characteristics. Some of the main features of the modern world can be sketched as follows. ^gs-4
 

@@ -11,7 +11,7 @@ tags:
   - term/night-of-the-spirit
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 ---
 
@@ -34,7 +34,7 @@ publish: true
 - the obscure night of the apostolic life: [[338-apostolic-hope#Meditation 2|338,2]];
 - while we are on earth there will always be something of the —: [[354-confidence-and-abandonment#Meditation 1|354,1]].
 
-  ---
+### Source
 
 - [[338-apostolic-hope|338. Apostolic Hope]]
 - [[347-the-night-of-the-spirit|347. The Night of the Spirit]]

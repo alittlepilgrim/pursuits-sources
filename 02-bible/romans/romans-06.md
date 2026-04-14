@@ -11,7 +11,7 @@ tags:
   - bible/romans
   - graph/bible-ccc
 created: 2025-08-04
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: romans-chapter 6
 ---
@@ -115,3 +115,7 @@ r. (6:21) [8:6], [13]; [Prv 12:28]; [[ezekiel-16|Ez 16]]:61, [63].
 s. (6:22) [1 Pt 1:9].
 
 t. (6:23) [Gn 2:17]; [Gal 6:7] – [9]; [Jas 1:15].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

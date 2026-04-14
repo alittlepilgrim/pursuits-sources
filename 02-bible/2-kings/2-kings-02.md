@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 2
 ---
@@ -103,3 +103,7 @@ e. (2:16) [[1-kings-18|1 Kgs 18]]:12.
 f. (2:17) [[1-kings-17|1 Kgs 17]]:2; [18:10].
 
 g. (2:19] – [22) [2 Kgs 4:38] – [41].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

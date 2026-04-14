@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 22
 ---
@@ -203,3 +203,7 @@ e. (22:20) [[2-kings-18|2 Kgs 18]]:18, [37].
 f. (22:21) [Jb 29:16].
 
 g. (22:22) ([[revelation-03|Rv 3]]:7].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

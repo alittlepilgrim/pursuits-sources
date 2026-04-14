@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 4
 ---
@@ -171,3 +171,7 @@ a. (4:1) [Tb 4:7] – [11].
 b. (4:9) [Jb 29:12], [17].
 
 c. (4:14) ([[wisdom-07|Wis 7]]:28].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

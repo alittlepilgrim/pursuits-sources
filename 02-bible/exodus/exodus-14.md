@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 14
 url: https://bible.usccb.org/bible/exodus/14
 aliases:
-  - 20250731-085912
   - exodus-14
   - Exodus, Chapter 14
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 14
 ---
@@ -108,3 +107,7 @@ c. (14:21] – [22) ([[exodus-15|Ex 15]]:19]; [Ps 66:6]; [78:13]; [136:13] – [
 d. (14:28] – [29) [Dt 11:4]; [Ps 106:11].
 
 e. (14:31) ([[exodus-04|Ex 4]]:31]; [Ps 106:12]; [Wis 10:20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,7 +3,6 @@ type: bible
 title: Genesis, Chapter 42
 url: https://bible.usccb.org/bible/genesis/42
 aliases:
-  - 20250508-020348
   - genesis-42
   - Genesis, Chapter 42
 tags:
@@ -13,7 +12,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-05-08
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Genesis, Chapter 42
 bible_book: genesis
@@ -131,3 +130,7 @@ i. (42:38) [Gn 37:35]..
 ## Navigation
 
 [[genesis-01|[← Previous Note]]] · [[genesis-03|[Next Note →]]]
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

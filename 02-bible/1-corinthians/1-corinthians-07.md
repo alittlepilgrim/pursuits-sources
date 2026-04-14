@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Corinthians, Chapter 7
 ---
@@ -165,3 +165,7 @@ m. (7:35) ([[luke-10|Lk 10]]:39] – [42].
 n. (7:39) [Rom 7:2].
 
 o. (7:40) [25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

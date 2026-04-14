@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 66
 ---
@@ -251,3 +251,7 @@ k. (66:22) [Is 65:17]; [Rv 21:1].
 l. (66:23) [Is 1:13].
 
 m. (66:24) [Is 1:27] – [28]; ([[mark-09|Mk 9]]:45].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

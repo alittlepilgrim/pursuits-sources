@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Chronicles, Chapter 16
 ---
@@ -201,3 +201,7 @@ j. \[[16:41]\] [2 Chr 5:12]; [7:3], [6]; [20:21]; ([[ezra-03|Ezr 3]]:11].
 k. \[[16:42]\] [2 Chr 29:27].
 
 l. \[[16:43]\] [2 Sm 6:19] – [20].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

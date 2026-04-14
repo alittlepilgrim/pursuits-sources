@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Nehemiah, Chapter 7
 ---
@@ -173,3 +173,7 @@ The census of the people of Israel:
 \* (7:65], [69) The governor: see note on ([[ezra-02|Ezr 2]]:63].
 
 a. (7:6) ([[ezra-02|Ezr 2]]:1] – [70].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

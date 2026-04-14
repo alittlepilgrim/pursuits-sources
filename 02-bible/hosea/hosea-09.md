@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Hosea, Chapter 9
 ---
@@ -207,3 +207,7 @@ i. (9:16) [Am 2:9].
 j. (9:16) ([[matthew-21|Mt 21]]:19].
 
 k. (9:17) [Gn 4:12], [14]; [Dt 28:64] – [65].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ecclesiastes, Chapter 10
 ---
@@ -127,3 +127,7 @@ a. (:8]\] [Prv 26:27]; ([[psalm-07|Ps 7]]:16]; [Sir 27:29].
 b. (:13]\] [Eccl 5:2]; [6:11].
 
 c. (:14]\] [Eccl 3:22]; [6:12]; [10:14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

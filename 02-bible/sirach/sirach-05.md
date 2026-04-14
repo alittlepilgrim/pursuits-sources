@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 5
 ---
@@ -105,3 +105,7 @@ a. (5:1) [[sirach-11|Sir 11]]:24; [Prv 27:1]; ([[luke-12|Lk 12]]:19]; [1 Tm 6:17
 b. (5:8) [Prv 10:2]; [11:4], [28]; [Ps 52:9].
 
 c. (5:11) [Prv 29:20]; [Eccl 5:1]; [Jas 1:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 33
 url: https://bible.usccb.org/bible/exodus/33
 aliases:
-  - 20250731-090030
   - exodus-33
   - Exodus, Chapter 33
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 33
 ---
@@ -88,3 +87,7 @@ e. (33:12) [Ex 32:34].
 f. (33:19) [Rom 9:15].
 
 g. (33:20) ([[john-01|Jn 1]]:18]; [1 Tm 6:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

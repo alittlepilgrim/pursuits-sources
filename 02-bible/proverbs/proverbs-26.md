@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 26
 ---
@@ -169,3 +169,7 @@ f. (26:22) [Prv 18:8].
 g. (26:25) [[sirach-12|Sir 12]]:10; [27:33].
 
 h. (26:27) [Eccl 10:8]; [Sir 27:25] – [26].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

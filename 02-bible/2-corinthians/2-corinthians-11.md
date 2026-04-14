@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 11
 ---
@@ -171,3 +171,7 @@ o. (11:27) ([[1-corinthians-04|1 Cor 4]]:11].
 p. (11:29) ([[1-corinthians-09|1 Cor 9]]:22].
 
 q. (11:33) ([[acts-of-the-apostles-09|Acts 9]]:23] – [25].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

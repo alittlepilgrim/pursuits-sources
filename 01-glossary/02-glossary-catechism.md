@@ -3,13 +3,11 @@ type: glossary
 title: Glossary - Catechism of the Catholic Church
 aliases:
   - 02-glossary-catechism
-  - 20250725-151100
   - Glossary of the Catechism of the Catholic Church
 tags:
-  - term
-  - type/term
+  - type/glossary
 created: 2025-07-21
-modified: 2026-04-06
+modified: 2026-04-07
 publish: true
 description: Glossary of the Catechism of the Catholic Church
 ---

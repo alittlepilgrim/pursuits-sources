@@ -11,7 +11,7 @@ tags:
   - term/presence-of-god
   - type/term
 created: 2025-05-11
-modified: 2026-04-06
+modified: 2026-04-10
 publish: true
 ---
 
@@ -28,7 +28,9 @@ publish: true
 - the practice of the *— and its diverse forms [[162-practice-of-the-presence-of-god#Meditation 1|162,1]], [[162-practice-of-the-presence-of-god#Meditation 2|162,2]];
 - consciousness of the — in us and in our neighbor: [[162-practice-of-the-presence-of-god#Meditation 2|162,2]]; [[163-the-spirit-of-faith#Meditation 2|163,2]];
 - to keep oneself in the — in the midst of daily occupations and difficulties [[163-the-spirit-of-faith#Meditation 1|163,1]], [[163-the-spirit-of-faith#Meditation 2|163,2]].
-- See: Trinity.
+
+### Source
+
 - [[10-invitation-to-divine-intimacy|10. Invitation to Divine Intimacy]]
 - [[141-stay-with-us|141. Stay with Us]]
 - [[152-prayer-of-recollection|152. Prayer of Recollection]]
@@ -37,3 +39,7 @@ publish: true
 - [[163-the-spirit-of-faith|163. The Spirit of Faith]]
 - [[251-the-love-of-friendship|251. The Love of Friendship]]
 - [[301-the-characteristics-of-a-christian|301. The Characteristics of a Christian]]
+
+### See Also
+
+- See: Trinity.

@@ -11,7 +11,7 @@ tags:
   - bible/sirach
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: sirach-chapter 33
 ---
@@ -191,3 +191,7 @@ g. (33:19) ([[wisdom-06|Wis 6]]:1] – [2].
 h. (33:26) [Prv 29:19].
 
 i. (33:31) [Sir 7:20] – [21].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

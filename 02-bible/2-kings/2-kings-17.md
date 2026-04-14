@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 kings-chapter 17
 ---
@@ -145,3 +145,7 @@ k. (17:21) [[1-kings-12|1 Kgs 12]]:20, [26] – [33]; [13:34].
 l. (17:34) [Gn 32:29]; [35:10].
 
 m. (17:35] – [38) ([[exodus-20|Ex 20]]:3] – [6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

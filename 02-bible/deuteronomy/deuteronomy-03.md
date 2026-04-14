@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Deuteronomy, Chapter 3
 ---
@@ -115,3 +115,7 @@ j. (3:26) [Dt 4:21].
 k. (3:27) [Dt 3:17]; [32:48] – [52]; [34:1] – [4].
 
 l. (3:28) [Dt 1:38]; [31:7] – [8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Habakkuk, Chapter 2
 ---
@@ -203,3 +203,7 @@ h. (2:17) [[isaiah-14|Is 14]]:8.
 i. (2:19) [Is 44:18] – [19].
 
 j. (2:20) ([[psalm-11|Ps 11]]:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

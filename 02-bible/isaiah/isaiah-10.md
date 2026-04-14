@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 10
 ---
@@ -279,3 +279,7 @@ i. (10:26) [Is 9:3]; [Jgs 7:25].
 j. (10:26) ([[exodus-14|Ex 14]]:16].
 
 k. (10:27) [Is 9:3].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

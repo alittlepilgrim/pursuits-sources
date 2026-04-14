@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 19
 ---
@@ -106,7 +106,7 @@ description: Leviticus, Chapter 19
 
 \* (19:14) In [Dt 27:18] a curse falls on the head of the one who misleads the blind.
 
-\* (19:17] – [18) These verses form a unit and describe different attitudes and actions towards one’s fellow Israelites. A separate passage is necessary to advise a similar attitude toward aliens (vv. [33] – [34]). Cf. [25:39] – [46]. The admonition at the end of v. [18] came to be viewed in Judaism and Christianity as one of the central commandments. (See ([[matthew-22|Mt 22]]:34] – [40]; ([[mark-12|Mk 12]]:28] – [34]; ([[luke-10|Lk 10]]:25] – [28]; cf. ([[matthew-19|Mt 19]]:19]; [Rom 13:8] – [10]; [Gal 5:14]). The New Testament urges love for enemies as well as neighbors (([[matthew-05|Mt 5]]:43] – [48]; ([[luke-06| [[luke-06|Lk 6]]:]]:27] – [36]; cf. [Prv 25:21] – [22]).
+\* (19:17] – [18) These verses form a unit and describe different attitudes and actions towards one’s fellow Israelites. A separate passage is necessary to advise a similar attitude toward aliens (vv. [33] – [34]). Cf. [25:39] – [46]. The admonition at the end of v. [18] came to be viewed in Judaism and Christianity as one of the central commandments. (See ([[matthew-22|Mt 22]]:34] – [40]; ([[mark-12|Mk 12]]:28] – [34]; ([[luke-10|Lk 10]]:25] – [28]; cf. ([[matthew-19|Mt 19]]:19]; [Rom 13:8] – [10]; [Gal 5:14]). The New Testament urges love for enemies as well as neighbors (([[matthew-05|Mt 5]]:43] – [48]; ([[luke-06||Lk 6]]:27] – [36]; cf. [Prv 25:21] – [22]).
 
 \* (19:19) One reason why mixtures are prohibited seems to be that they are holy (see [Dt 22:9], [10] – [11]). Israelites are allowed mixtures in the wearing of fringes on the edges or corners of their clothing ([Nm 15:37] – [41]; [Dt 22:12]). Some mixtures are considered abominations (cf. [Lv 18:23]; [Dt 22:5]).
 
@@ -169,3 +169,7 @@ x. (19:33) ([[exodus-22|Ex 22]]:20]; [23:9]; [Jer 22:3]; [Mal 3:5].
 y. (19:34) [Dt 10:19].
 
 z. (19:36) [Dt 25:13] – [16]; [Prv 16:11]; [Am 8:5]; [Mi 6:10] – [11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

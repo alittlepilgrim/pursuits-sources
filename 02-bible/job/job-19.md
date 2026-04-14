@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Job, Chapter 19
 ---
@@ -163,3 +163,7 @@ e. (19:19) [Sir 6:8].
 f. (19:23) [Jb 31:35].
 
 g. (19:25] – [26) [Phil 3:20]; [Ti 2:13].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

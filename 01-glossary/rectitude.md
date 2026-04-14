@@ -25,7 +25,7 @@ publish: true
 - — necessary in order not to deviate from justice: [[278-hunger-and-thirst-after-justice#Meditation 2|278,2]].
 - See: [[intention|Intention]].
 
-  ---
+ ### Sources
 
 - [[25-apostolic-action|25. Apostolic Action]]
 - [[275-prudence-and-rectitude|275. Prudence and Rectitude]]

@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 13
 ---
@@ -93,3 +93,7 @@ g. (13:9) [Is 1:25]; [48:10].
 h. (13:9) [Ps 91:15]; [Is 65:24].
 
 i. (13:9) [Zec 8:8]; [Jer 31:31].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

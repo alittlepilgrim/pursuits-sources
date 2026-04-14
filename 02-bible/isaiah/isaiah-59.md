@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 59
 ---
@@ -219,3 +219,7 @@ h. (59:17) ([[wisdom-05|Wis 5]]:17] – [20]; [Eph 6:14] – [16]; [1 Thes 5:8].
 i. (59:20) [Is 35:4]; [Rom 11:26] – [27].
 
 j. (59:21) [Is 1:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

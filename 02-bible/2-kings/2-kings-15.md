@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Kings, Chapter 15
 ---
@@ -125,3 +125,7 @@ description: 2 Kings, Chapter 15
 a. (15:12) [[2-kings-10|2 Kgs 10]]:30.
 
 b. (15:37) [Is 7:1] – [16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

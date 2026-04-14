@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 1
 ---
@@ -75,3 +75,7 @@ c. (1:3) [Ps 52:10]; [92:13] – [15]; [Jer 17:8].
 d. (1:4) [Ps 35:5]; [83:14] – [16]; [Jb 21:18].
 
 e. (1:6) [Ps 37:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

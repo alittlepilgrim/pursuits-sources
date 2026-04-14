@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Chronicles, Chapter 6
 ---
@@ -131,3 +131,7 @@ b. (6:3] – [11) [1 Kgs 8:14] – [21].
 c. (6:12] – [40) [1 Kgs 8:22] – [53].
 
 d. (6:41] – [42) [Ps 132:8] – [10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

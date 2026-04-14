@@ -9,7 +9,7 @@ tags:
   - book/interior-castle
   - type/book
 created: 2026-04-01
-modified: 2026-04-04
+modified: 2026-04-08
 publish: true
 description: The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
 ---
@@ -46,17 +46,17 @@ description: The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
 
    [159] Way of Perf. ch. xxv. 1. Life, ch. xvi. Rel. I. i; viii. 7.
 
-   [160] [[tj-life-ccel|Life]], ch. xvii. 2.
+   [160] [[tj-life-ccel-toc|Life]], ch. xvii. 2.
 
    [161] According to St. Thomas, angels--whether good or bad--do not know the thoughts of man unless they become manifest by some exterior sign. S. Theol. I. q. lvii. art. 4. See also St. John of the Cross, Dark Night, bk. II, ch. xxiii. 2, 5.
 
    [162] Mansion iv. ch. i, 5.
 
-   [163] [[tj-life-ccel|Life]], ch. viii. 15.
+   [163] [[tj-life-ccel-toc|Life]], ch. viii. 15.
 
-   [164] [[tj-life-ccel|Life]], ch. xviii. 16.
+   [164] [[tj-life-ccel-toc|Life]], ch. xviii. 16.
 
-   [165] [[tj-life-ccel|Life]], ch. xx. 13, 24.
+   [165] [[tj-life-ccel-toc|Life]], ch. xx. 13, 24.
 
    [166] Philippus a SS. Trinitate, l.c., pars iii. tr. i. disc. iv. art, 2, where he adds some further signs. Anton. a Sp. S., l.c., tract. i. no. 116 and 117.
 
@@ -64,7 +64,7 @@ description: The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
 
    [168] 'There are three ways in which God is present in the soul. The first is His presence in essence, not in holy souls only, but in wretched and sinful souls as well, and also in all created things; for it is by this presence that He gives life and being, and were it withdrawn at once all things would return to nothing. This presence never fails in the soul. The second is His presence by grace, whereby He dwells in the soul, pleased and satisfied with it. This presence is not in all souls; for those who fall into mortal sin lose it, and no soul can know in a natural way whether it has it or not. The third is His presence by spiritual affection. God is wont to show His presence in many devout souls in divers ways, in refreshment, joy and gladness.' (St. John of the Cross, Spiritual Canticle, stanza xi. 2.) 'In every soul, even that of the greatest sinner in the world, God dwells and is substantially present. This way of union or presence of God, in the order of nature, subsists between Him and all His creatures; by this He preserves them in being, and if He withdraws it they immediately perish and cease to be. And so, when I speak of the union of the soul with God, I do not mean this substantial presence which is in every creature, but that union and transformation of the soul in God by love which is only then accomplished when there subsists the likeness which love begets.' (St. John of the Cross, Ascent, bk. ii. ch. v. 3.) Fr. Gracian, Peregrinacion de Anastasio (Burgos, 1905), p. 171.
 
-   [169] [[tj-life-ccel|Life]], ch. xviii. 20. Rel. ix. 17; xi. 8. St. Teresa was so deeply impressed by the ignorance of this priest that she very frequently referred to it.
+   [169] [[tj-life-ccel-toc|Life]], ch. xviii. 20. Rel. ix. 17; xi. 8. St. Teresa was so deeply impressed by the ignorance of this priest that she very frequently referred to it.
 
    [170] Cant. i. 3: Introduxit me rex in cellaria sua.' Castle, M. v. ch. i. Way of Perf. ch. xviii. I. Concep. ch. iv. 4-8; v. 5; vi. 7; vii. 2-5. Life, ch. xviii. 17.
 
@@ -99,9 +99,9 @@ description: The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
 
    [176] St. Teresa must have been thinking of this simile when she chose butterflies' as the pseudonym for her nuns in her letters at the time when she was obliged to be cautious on account of the troubles of the Reform.
 
-   [177] [[tj-life-ccel|Life]], ch. xviii. 16.
+   [177] [[tj-life-ccel-toc|Life]], ch. xviii. 16.
 
-   [178] [[tj-life-ccel|Life]], ch. xviii. 5-7.
+   [178] [[tj-life-ccel-toc|Life]], ch. xviii. 5-7.
 
    [179] Rel. ix, 11.
 
@@ -133,7 +133,7 @@ description: The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
 
 ## Footnotes
 
-   [185] [[tj-life-ccel|Life]], ch. vii. 18. Way of Perf. xli. 8.
+   [185] [[tj-life-ccel-toc|Life]], ch. vii. 18. Way of Perf. xli. 8.
 
    [186] Life. ch, vii. 21.
 
@@ -193,7 +193,7 @@ description: The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
 
    [199] Compare: habebit fructum in respectione animarum sanctarum' (Breviar. Rom. Ant. ad Laudes de Com. Virg.); quasi apis argumentosa Domino deservisti' (Ibid. Feast of St. Cæcilia.)
 
-   [200] [[tj-life-ccel|Life]], ch. xviii.
+   [200] [[tj-life-ccel-toc|Life]], ch. xviii.
 
    [201] Way of Perf. ch. xxxi. 10.
 
@@ -201,12 +201,12 @@ description: The Fifth Mansions – The Interior Castle by St. Teresa of Ávila
 
    [203] Contrast with this paragraph what the Saint says in her Life, ch. xix. § 8.
 
-   [204] [[tj-life-ccel|Life]], ch, xxxvi. 26; xxxix. 14. Found. ch. i. 1-4.
+   [204] [[tj-life-ccel-toc|Life]], ch, xxxvi. 26; xxxix. 14. Found. ch. i. 1-4.
 
    [205] Way of Perf. ch. i, 2; xiii. 3. Found. ch. i. 3.
 
-   [206] [[tj-life-ccel|Life]], ch. xix. 9.
+   [206] [[tj-life-ccel-toc|Life]], ch. xix. 9.
 
-   [207] [[tj-life-ccel|Life]], ch. xix. 7.
+   [207] [[tj-life-ccel-toc|Life]], ch. xix. 7.
 
    [208] Rel. ix. 19.

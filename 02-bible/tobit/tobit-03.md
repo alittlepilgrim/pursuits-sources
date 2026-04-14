@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 3
 ---
@@ -175,3 +175,7 @@ e. (3:10) [Tb 6:15]; [Gn 37:35]; [42:38]; [44:29], [31].
 f. (3:11) [1 Kgs 8:44], [48]; ([[psalm-28|Ps 28]]:2]; [134:2]; [Dn 6:11].
 
 g. (3:17) [Tb 4:12] – [13]; [6:12] – [13]; [[genesis-24|Gen 24]]:3 – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

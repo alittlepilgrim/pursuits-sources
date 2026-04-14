@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 13
 ---
@@ -153,3 +153,7 @@ c. (13:32) [1 Mc 8:6].
 d. (13:43] – [48) [[2-maccabees-10|2 Mc 10]]:32 – [38].
 
 e. (13:51) [1 Mc 1:36].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

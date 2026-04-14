@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Judges, Chapter 11
 ---
@@ -145,3 +145,7 @@ o. (11:29) [Jgs 3:10]; [6:34]; [13:25]; [14:6], [19]; [15:14]; [1 Sm 11:6].
 p. (11:30) [Gn 28:20] – [22]; [1 Sm 1:11]; [2 Sm 15:7] – [8].
 
 q. (11:35) [Nm 30:3]; [Dt 23:22]; [Eccl 5:4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

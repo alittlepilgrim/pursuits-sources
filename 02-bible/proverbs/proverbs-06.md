@@ -11,7 +11,7 @@ tags:
   - bible/proverbs
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Proverbs, Chapter 6
 ---
@@ -217,3 +217,7 @@ c. (6:24) [Prv 2:16]; [7:5].
 d. (6:25) ([[exodus-20|Ex 20]]:17]; [Dt 5:21]; [Sir 9:8]; [25:20]; ([[matthew-05|Mt 5]]:28].
 
 e. (6:29) [Sir 9:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

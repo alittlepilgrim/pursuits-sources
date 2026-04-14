@@ -11,7 +11,7 @@ tags:
   - term/magisterium
   - type/moc
 created: 2025-11-12
-modified: 2026-04-06
+modified: 2026-04-09
 publish: true
 permalink: /encyclicals
 description: Papal encyclicals and related major documents indexed by author (Pope).
@@ -43,7 +43,7 @@ attachment: false
 ## John Paul II
 
 - [[centesimus-annus|Centesimus Annus]]
-- [[pursuits-sources/05-encyclicas-and-other/christifideles-laici|Christifideles Laici]]
+- [[christifideles-laici|Christifideles Laici]]
 - [[dives-misericordia|Dives in Misericordia]]
 - [[dominum-vivificantem|Dominum et Vivificantem]]
 - [[ecclesia-america|Ecclesia in America]]

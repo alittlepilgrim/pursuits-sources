@@ -11,7 +11,7 @@ tags:
   - bible/wisdom
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Wisdom, Chapter 5
 ---
@@ -187,3 +187,7 @@ n. (5:21) [Hb 3:9] – [11].
 o. (5:22) [Dt 11:4].
 
 p. (5:23) [Wis 11:20]; [[sirach-10|Sir 10]]:13 – [14].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

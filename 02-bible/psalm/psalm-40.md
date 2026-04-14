@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 40
 ---
@@ -183,3 +183,7 @@ m. (40:15) [Ps 35:4], [26].
 n. (40:16) [Ps 35:21], [25].
 
 o. (40:17) [Ps 35:27].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

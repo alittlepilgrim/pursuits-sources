@@ -3,7 +3,6 @@ type: bible
 title: Exodus, Chapter 19
 url: https://bible.usccb.org/bible/exodus/19
 aliases:
-  - 20250731-085933
   - exodus-19
   - Exodus, Chapter 19
 tags:
@@ -12,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-31
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: exodus-chapter 19
 ---
@@ -104,3 +103,7 @@ e. (19:9) ([[exodus-20|Ex 20]]:21]; [24:15] – [18].
 f. (19:12] – [13) [Ex 34:3]; [Heb 12:18] – [19].
 
 g. (19:16] – [19) [Dt 4:10] – [12].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

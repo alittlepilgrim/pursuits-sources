@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Micah, Chapter 6
 ---
@@ -157,3 +157,7 @@ f. (6:8) [Dt 26:16]; [Zec 7:9]; ([[matthew-23|Mt 23]]:23].
 g. (6:14) [Dt 28:38]; [Am 5:11]; [Hg 1:6].
 
 h. (6:15) [Hos 4:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

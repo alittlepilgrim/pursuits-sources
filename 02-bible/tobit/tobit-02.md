@@ -11,7 +11,7 @@ tags:
   - bible/tobit
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Tobit, Chapter 2
 ---
@@ -71,3 +71,7 @@ b. (2:5) [Nm 19:11] – [22].
 c. (2:6) [1 Mc 1:39]; [Am 8:10].
 
 d. (2:14) [Jb 2:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

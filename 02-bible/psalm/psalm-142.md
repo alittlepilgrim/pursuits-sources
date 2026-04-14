@@ -9,7 +9,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 142
 ---
@@ -85,3 +85,7 @@ e. (142:6) [Ps 91:2], [9].
 f. (142:6) ([[psalm-16|Ps 16]]:5]; [27:13]; [116:9]; [Is 38:11].
 
 g. (142:7) [Ps 79:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Acts of the Apostles, Chapter 16
 ---
@@ -137,3 +137,7 @@ c. (16:22] – [23]\] [2 Cor 11:25]; [Phil 1:30]; [1 Thes 2:2].
 d. (16:37]\] [22:25].
 
 e. (16:38]\] [22:29].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

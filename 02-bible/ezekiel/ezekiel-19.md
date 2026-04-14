@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 19
 ---
@@ -157,3 +157,7 @@ f. (19:12) [[hosea-13|Hos 13]]:15.
 g. (19:13) cf. [[ezekiel-20|Ez 20]]:35.
 
 h. (19:14) cf. [[ezekiel-20|Ez 20]]:47.
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

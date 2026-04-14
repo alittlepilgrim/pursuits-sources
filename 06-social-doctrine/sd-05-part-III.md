@@ -4,7 +4,6 @@ title: Social Doctrine of the Church - Part Three
 author: Catholic Church
 url: https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html
 aliases:
-  - 20250822-143109
   - Compendium of the Social Doctrine of the Church part Three
   - Compendium of the Social Doctrine of the Church Part Three
   - Social Doctrine of the Church - Part Three

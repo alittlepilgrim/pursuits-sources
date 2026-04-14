@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Luke, Chapter 20
 ---
@@ -201,3 +201,7 @@ v. (20:42] – [43) [Ps 110:1].
 w. (20:45] – [47) [11:37] – [54]; ([[matthew-23|Mt 23]]:1] – [36]; ([[mark-12|Mk 12]]:38] – [40].
 
 x. (20:46) [14:7] – [11].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

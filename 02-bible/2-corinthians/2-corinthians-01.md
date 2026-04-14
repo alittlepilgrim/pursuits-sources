@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Corinthians, Chapter 1
 ---
@@ -84,7 +84,7 @@ description: 2 Corinthians, Chapter 1
 
 \* (1:5) Through Christ: the Father of compassion is the Father of our Lord Jesus (([[2-corinthians-01|2 Cor 1]]:3]); Paul’s sufferings and encouragement (or “consolation”) are experienced in union with Christ. Cf. ([[luke-02|Lk 2]]:25]: the “consolation of Israel” is Jesus himself.
 
-\* (1:7) You also share in the encouragement: the eschatological reversal of affliction and encouragement that Christians expect (cf. ([[matthew-05|Mt 5]]:4]; ([[luke-06| [[luke-06|Lk 6]]:]]:24]) permits some present experience of reversal in the Corinthians’ case, as in Paul’s.
+\* (1:7) You also share in the encouragement: the eschatological reversal of affliction and encouragement that Christians expect (cf. ([[matthew-05|Mt 5]]:4]; ([[luke-06||Lk 6]]:24]) permits some present experience of reversal in the Corinthians’ case, as in Paul’s.
 
 \* (1:8) Asia: a Roman province in western Asia Minor, the capital of which was Ephesus.
 
@@ -133,3 +133,7 @@ m. (1:21) ([[1-john-02|1 Jn 2]]:20], [27].
 n. (1:22) [Eph 1:13] – [14]; [4:30] / [5:5]; [Rom 5:5]; [8:16], [23].
 
 o. (1:23) [13:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

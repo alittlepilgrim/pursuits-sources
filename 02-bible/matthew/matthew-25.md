@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Matthew, Chapter 25
 ---
@@ -173,3 +173,7 @@ j. (25:41) [7:23]; ([[luke-13|Lk 13]]:27].
 k. (25:42] – [43) [Jb 22:7]; [Jas 2:15] – [16].
 
 l. (25:46) [Dn 12:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

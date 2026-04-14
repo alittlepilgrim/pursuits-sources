@@ -1,0 +1,73 @@
+---
+type: meditation
+title: 92. Corporal Mortification
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+aliases:
+  - 92-corporal-mortification
+  - 92. Corporal Mortification
+tags:
+  - divine-intimacy
+  - term/generosity
+  - term/grace
+  - term/mortification
+  - term/obedience
+  - term/original-sin
+  - term/penance
+  - term/prayer
+  - term/sanctity
+di_week: Quinquagesima Week
+created: 2025-05-12
+modified: 2026-04-08
+publish: true
+permalink: /corporal-mortification
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+---
+
+# 92. Corporal Mortification
+
+PRESENCE OF GOD - O Jesus Crucified, grant that my love for You may make me willing to crucify my flesh with You and for You.
+
+## Meditation 1
+
+As A result of original sin, man no longer has complete dominion over His senses and His flesh; therefore He is filled with evil tendencies which try to push Him toward what is base. St. Paul humbly admits: “I know that there dwelleth not in me, that is to say, in my flesh, that which is good.... For the good which I will, I do not; but the evil which I will not, that I do” (rom 7,18.19)
+
+God certainly gives us the grace to overcome our evil tendencies; but we must also use our own efforts, which consist in voluntary mortification: “They that are Christ’s have crucified their flesh, with the vices and concupiscences” (Gal 5,24). The purpose of corporal mortification is not to inflict pain and privation on the body for the pleasure of making it suffer, but to discipline and control all its tendencies which are contrary to the life of grace. The Apostle warns us: “If you live according to the flesh, you shall die: but if by the
+
+Spirit you mortify the deeds of the flesh, you shall live” (Rom 8,13). We must curb ourselves in order to avoid falls; we must prune the useless or harmful branches in order to avoid deviation; we must direct toward good the forces which, left to themselves, might lead us into sin. For these reasons mortification, although it is not an end in itself nor the principal element in the Christian life, occupies a fundamental place in it and is an absolutely indispensable means toward attaining a spiritual life. No one can escape this law without closing off all access to eternal salvation, to sanctity. St. Paul, who had done and suffered much for Christ, did not consider himself dispensed from it, and said, “I chastise my body and bring it into subjection: lest perhaps, when I have preached to others, I myself should become a castaway” (1 Cor 9,27).
+
+## Meditation 2
+
+St. Teresa warns us that “if prayer is to be genuine it must be reinforced with this practice [of mortification]: for prayer and self-indulgence do not go together” ([[tj-way-of-perfection-ccel|Way]], 4). It would be an illusion to think that we can reach intimacy with God without the serious exercise of physical mortification. In this regard, we must take care that love of our own body and of our physical welfare does not cause us to reject all penitential practices under the pretext that they will ruin our health. In reality, there are many corporal mortifications which, without the slightest danger to our health, have the great advantage of keeping our spirit of generosity on the alert by the voluntary acceptance of a little physical suffering. If we are to be generous in this respect, we must “rid ourselves of all inordinate love for our body” (ibid., 10), that is, of all excessive preoccupation about our health; and we must put aside all anxiety about food, clothing, rest and comfort. “This body of ours,” says St. Teresa, “has one fault: the more you indulge it, the more things it discovers to be essential to it... and if there is any reasonable pretext for indulgence, however little necessity for it there may be, the poor soul is deceived and prevented from making progress” (ibid., 11).
+
+Anyone who wants to advance on the road to sanctity and union with God must be ready to sacrifice everything, even in the physical order, to the point of “giving up his skin and everything else for Christ,” as St. John of the Cross says. He teaches, however, that in these matters we must always depend on our superiors or confessors; “corporal penance without obedience is no more than the penance of beasts” (DN I, 6,2), because it prefers a material practice to obedience “which is penance of the reason and discretion,” and is, therefore, the sacrifice most pleasing to God.
+
+## Colloquy
+
+“This servant of Thine, my God, can no longer endure such trials as come when she finds herself without Thee; for if she is to live, she desires no repose in this life, nor would she have Thee give her any. This soul would fain see itself free, to eat is a torment; to sleep brings only anguish. It finds itself in this life spending its time upon comforts, yet nothing can comfort it but Thee; it seems to be living against nature,
+
+for it no longer desires to live to itself, but only to Thee” ([[teresa-of-avila-saint|T.J.]] [[tj-life-ccel-toc|Life]], 16).
+
+O Lord, help me, I beg You, to free myself from the slavery of the body! Teach me to conquer its extravagant demands and to mortify its pretensions. You have given me this body of flesh, in order that I may serve You on earth. Grant that it may not become an obstacle to me and hinder the generous, total gift of my whole self to You.
+
+How far I am, O God, from the austerities and mortifications of the saints! “Do I, perhaps, think they were made of iron? No: they were as frail as I. O Lord, help me to understand that once I begin to subdue my miserable body, it will give me much less trouble” ([[tj-way-of-perfection-ccel|Way]], 11). Why should I be terrified by the fear of losing my health?
+
+Sickness and health, life and death, all are in Your hands, my God; everything depends on You. I now make a firm resolution to entrust all solicitude to You, and to keep but one occupation: to love You and serve You with all my strength. Help me, O Lord, to gain the mastery over my body and to conquer it completely, so that I may attain that magnificent liberty of spirit which allows the soul to devote itself undisturbed to the exercise of a deep interior life.
+
+# References
+
+DN - [[jc-dark-night-of-the-soul|Dark Night of the Soul by Saint John of the Cross]]
+
+T.J. - [[teresa-of-avila-saint|Saint Teresa of Avila]]
+
+Life - [[tj-life-ccel-toc|Life by Saint Teresa of Avila]]
+
+Way - [[tj-way-of-perfection-ccel|Way of Perfection by Saint Teresa of Avila]]
+
+---
+
+⟵ [[91-prediction-of-the-passion|91. Prediction of the Passion]] | [[93-with-jesus-crucified|93. With Jesus Crucified]] ➞

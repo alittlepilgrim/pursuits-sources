@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Exodus, Chapter 5
 ---
@@ -87,3 +87,7 @@ description: Exodus, Chapter 5
 \* (5:15) Cried out to Pharaoh: the Hebrew verb translated “cry out” and its related noun are normally used of appeals to God by Moses ([8:8]; [14:15]; [15:25]; [17:4]), the people ([3:7], [9]; [14:10]), or an oppressed individual ([22:22], [26]). Here, by implication, these minor Israelite officials appeal to Pharaoh as if he were their God. See v. [10].
 
 a. (5:3) ([[exodus-03|Ex 3]]:18].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

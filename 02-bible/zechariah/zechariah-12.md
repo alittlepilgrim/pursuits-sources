@@ -11,7 +11,7 @@ tags:
   - bible/zechariah
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Zechariah, Chapter 12
 ---
@@ -75,3 +75,7 @@ e. (12:9) [Zec 14:3].
 f. (12:10) [Jn 19:37]; ([[revelation-01|Rv 1]]:7].
 
 g. (12:10) [Am 8:10].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

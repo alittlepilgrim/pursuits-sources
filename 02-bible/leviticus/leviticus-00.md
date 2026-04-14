@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/leviticus/0
 aliases:
   - leviticus-00
   - Leviticus, the Book of Leviticus
-  - Leviticus, The Book Of Leviticus
 tags:
   - bible/book
   - bible/leviticus
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, the Book of Leviticus
 ---
@@ -38,3 +37,7 @@ The main divisions of Leviticus are:
 3. Laws Regarding Ritual Purity ([11:1] – [16:34])
 4. Holiness Laws ([17:1] – [26:46])
 5. Redemption of Offerings ([27:1] – [34])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

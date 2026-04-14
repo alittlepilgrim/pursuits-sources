@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Mark, Chapter 15
 ---
@@ -193,3 +193,7 @@ l. (15:39] – [41) ([[matthew-27|Mt 27]]:54] – [56]; ([[luke-23|Lk 23]]:47] �
 m. (15:40) [6:3]; ([[luke-08|Lk 8]]:2] – [3].
 
 n. (15:42] – [47) ([[matthew-27|Mt 27]]:57] – [61]; ([[luke-23|Lk 23]]:50] – [56]; [Jn 19:38] – [42].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

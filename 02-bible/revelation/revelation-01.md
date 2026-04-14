@@ -11,7 +11,7 @@ tags:
   - bible/revelation
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Revelation, Chapter 1
 ---
@@ -129,3 +129,7 @@ h. (1:13) [Dn 7:13]; [10:5].
 i. (1:16) [Heb 4:12].
 
 j. (1:17) [Dn 8:18] / ([[revelation-01|Rv 1]]:8].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 22
 ---
@@ -285,3 +285,7 @@ j. (22:31) [Prv 30:5].
 k. (22:34) [Ps 62:3]; [Hb 3:19].
 
 l. (22:50) ([[psalm-22|Ps 22]]:23]; [Rom 15:9].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

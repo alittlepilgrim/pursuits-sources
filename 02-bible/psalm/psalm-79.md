@@ -11,7 +11,7 @@ tags:
   - bible/psalms
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Psalms, Psalm 79
 ---
@@ -133,3 +133,7 @@ j. (79:10) [Jl 4:21].
 k. (79:11) [Ps 102:21].
 
 l. (79:12) [Ps 89:51] – [52].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

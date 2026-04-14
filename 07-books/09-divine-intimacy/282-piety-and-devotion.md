@@ -1,0 +1,61 @@
+---
+type: meditation
+title: 282. Piety and Devotion
+author: Gabriel of Saint Mary Magdalen
+source: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year
+url:
+aliases:
+  - 282-piety-and-devotion
+  - 282. Piety and Devotion
+tags:
+  - divine-intimacy
+  - term/christian
+  - term/devotion
+  - term/god
+  - term/jesus-christ
+  - term/piety-virtue-of
+  - term/religion-virtue-of
+di_season: after Pentecost
+di_week: Thirteenth week after Pentecost
+created: 2025-05-09
+modified: 2026-04-08
+publish: true
+permalink: /piety-and-devotion
+description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
+---
+
+🪔 [[Divine Intimacy Meditations|Divine Intimacy]]
+
+# 282. Piety and Devotion
+
+PRESENCE OF GOD - O God, our Father, infuse into my soul the true spirit of piety and devotion.
+
+## Meditation 1
+
+The christian religion is not limited to the simple relations of the creature with the creator relations which given the infinite distance between them would remain only within the sphere of reverence and homage without any character of intimacy without any confidential impetus toward god a christian knows that he is bound to god for other reasons than those of creation strong though these may be he has been redeemed from sin and raised to a supernatural state a christian is conscious of the fact that he is not only a creature but a child of god redeemed by christ and this gives to all his relations with god that quality of filial piety which is the very soul of his religion.
+
+Let us contemplate Jesus in His relations with God; He knows He is a Son, a Son who lives for the Father who has given Him existence. “The Father hath sent Me...and I live by the Father” (Jn 6,58); a Son who has no other ideal than to do His Father’s will, to which He adheres with all the strength of His Heart: “Yea, Father, for so hath it seemed good in Thy sight” (Mt 11,26); a Son who in all His actions, seeks only to please His Father: “I do always the things that please Him” (Jn 8,29). Jesus, the only-begotten of the Father, the only Son of God by nature, has by grace made us sharers in His divine filiation, so that “we should be called and should be the sons of God” (1 Jn 3,1). If we are sons of God, then it is right that we, too, strive to share Christ’s dispositions of filial piety toward His heavenly Father. For it is this which truly characterizes our religion as given to us by our divine Master: “Thus, shall you pray: Our Father, who art in heaven” (Mt 6,9). He wishes us to consider and invoke God as our Father: the Father who provides for all our needs; the Father who wishes us to pray to Him in secret, and who in secret will hear our prayers; the Father who sees all our actions, even the most hidden ones, and who is preparing a reward for them; the Father who wishes us to honor Him by keeping His commandments, and who is pleased to make His abode in the souls of those who love Him. The divine paternity is the center of the Christian religion, and to this paternity should correspond, on our part, an attitude of deep filial piety. We should love God as a child loves its father, trying to please Him in all things. Piety is truly the heart of our religion.
+
+## Meditation 2
+
+If God has wished to raise us to the dignity of being His children, we should live as such and not like servants. The servant does only what is strictly necessary to obtain his salary and retain his position; the son, however, does not consider the reward, but loving his father dearly, puts himself at his disposal unreservedly, without restriction. The servant is lazy and selfish; he tries to spare himself as much as he can, and does not wish to give his employer anything more than what has been agreed upon. Not so the son; for him it is not a question of a time for work and a time for rest; nothing is too laborious when it is a question of giving pleasure to his father; he is always ready to carry out his orders, always attentive to his wishes, he is happy to be able to repeat at every moment, “Behold, I come...to do Thy will” (Heb 10,7). Similarly, in our relations with God, filial piety flows into devotion, which according to St. Thomas, is “he will to do promptly all that pertains to the service of God” (IIe IIe, q.82, a.r, co.). Piety as well as devotion can be very much alive in the soul, although in the sensible part it feels cold and dry; and this to the extent that all its exercises of prayer and virtue are performed without the feeling of any sweetness or consolation, but rather with great repugnance.
+
+This should not alarm us: St. Thomas teaches that devotion is an act of the will, that this act can very well exist in spite of aridity, coldness, repugnance, and even rebellion in the inferior part of the soul. St. Paul himself, although raised to the third heaven, was still not entirely free from these miseries, and confessed: “I am delighted with the law of God, according to the inward man: but I see another law in my members, fighting against the law of my mind” (Rom 7,22.23). Now as St. Paul—in spite of this resistance in the sensible part of his soul—was not deprived of true piety and true devotion, so neither is the soul deprived of them if it remains firm in the decision of its will to give itself promptly to God’s service, in spite of everything. Devotion, which is derived from the Latin word devoveo, means precisely consecration to the divinity; and the soul gives itself entirely to God, not by bursts of enthusiasm in its feelings, but by an act of the will. Furthermore, when devotion is deprived of relish for the things of God, “it has a double worth, because the soul both fulfills its duty and governs its sensitive appetite by a strong act of the will” (Ven. John of Jesus Mary).
+
+## Colloquy
+
+O Most High God, You have willed to be my Father; grant that I may really be Your child, a loving, devoted child, attentive and docile to every manifestation of Your will, desiring to serve and please You in everything. O You, who have a Father’s heart for me, create in me the heart of a child, a heart free from servile fear, but rich in filial fear, a disinterested, generous heart which has but one fear: the fear of offending You, and but one desire: that of pleasing You.
+
+“May Your will be my will, my passion, my honor! Grant that I may seek it, find it, and accomplish it. Show me Your ways, point out to me Your paths. O Father, You have Your designs over me. Show them to me clearly and grant that I may follow them so as to obtain the salvation of my soul. Apart from You, may every joy be bitter to me. May I have no desire or rest but in You. May every work undertaken for You be sweet.
+
+“Let my piety not be merely mechanical, but a continual impulse of my heart... and grant that my spirit, which is incapable of not knowing You, be ardent in seeking You, and know how to find You, O most loving Father.
+
+“Ah! let not my words displease You! Grant that, trustful and calm, I may await Your answer, relying on Your word!” (St. Thomas).
+
+"Receive me, O Father, in Your embrace; admit me to intimacy with You! Grant, I beseech You, that my heart may never wander when You leave it in darkness and distress; but sustained with Your grace, may it persevere in seeking and serving You with good will."
+
+# References
+
+---
+
+⟵ [[281-justice-and-religion|281. Justice and Religion]] | [[283-gratitude|284. Gratitude]] ➞

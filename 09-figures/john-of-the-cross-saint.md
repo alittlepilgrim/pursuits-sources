@@ -2,7 +2,6 @@
 type: figure
 title: Saint John of the Cross
 aliases:
-  - 20250912-204812
   - john-of-the-cross-saint
   - Saint John of the Cross
 tags:
@@ -11,7 +10,7 @@ tags:
   - type/figure
 celebration: 12-14
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-07
 publish: false
 ---
 
@@ -28,7 +27,7 @@ publish: false
 - [[jc-dark-night-of-the-soul|jc-dark-night-of-the-soul]]
 - [[jc-living-flame|jc-living-flame-of-love]]
 - [[jc-precautions-cautions|precautions-cautions]]
-- [[jc-spiritual-canticle|jc-spiritual-canticle]]
+- [[jc-sc-toc|jc-spiritual-canticle]]
 - [[jc-spiritual-maxims-I|20250725-19]]
 - [[jc-spiritual-maxims-II|20250725-19]]
 - [[jc-spiritual-maxims-III|jc-spiritual-maxims-I11]]

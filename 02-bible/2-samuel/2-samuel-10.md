@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 2 Samuel, Chapter 10
 ---
@@ -73,3 +73,7 @@ c. (10:6) [2 Sm 8:3]; [1 Sm 14:47].
 d. (10:7) [2 Sm 11:1].
 
 e. (10:15] – [19) [2 Sm 8:3] – [8]; [1 Chr 9:16] – [19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

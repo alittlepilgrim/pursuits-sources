@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-29
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Leviticus, Chapter 23
 ---
@@ -169,3 +169,7 @@ k. (23:24) [Nm 29:1] – [6].
 l. (23:27) [Lv 16:1] – [34]; [25:9]; [Nm 29:7] – [11].
 
 m. (23:34) ([[exodus-23|Ex 23]]:16]; [34:22]; [Dt 16:13] – [15]; [31:10]; [2 Mc 1:9], [18]; [Jn 7:2].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

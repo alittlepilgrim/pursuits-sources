@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: 1 Maccabees, Chapter 7
 ---
@@ -169,3 +169,7 @@ h. (7:41] – [42) [2 Mc 8:19]; [15:22] – [24].
 i. (7:41) [[2-kings-19|2 Kgs 19]]:35 – [36]; [Is 37:36] – [37].
 
 j. (7:43) [[2-maccabees-15|2 Mc 15]]:25 – [36].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

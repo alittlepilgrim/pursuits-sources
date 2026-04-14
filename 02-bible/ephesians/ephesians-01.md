@@ -11,7 +11,7 @@ tags:
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ephesians, Chapter 1
 ---
@@ -143,3 +143,7 @@ t. (1:21) [Phil 2:9]; [Col 1:16]; [1 Pt 3:22].
 u. (1:22) [4:15]; ([[psalm-08|Ps 8]]:7]; ([[matthew-28|Mt 28]]:18]; [Col 1:18].
 
 v. (1:23) [4:10], [12]; [Rom 12:5]; [1 Cor 12:27]; [Col 1:19].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

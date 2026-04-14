@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Isaiah, Chapter 20
 ---
@@ -47,3 +47,7 @@ c. (20:4) [2 Sm 10:4].
 d. (20:5) [Is 30:3], [5].
 
 e. (20:6) [Is 31:3]; [36:6].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

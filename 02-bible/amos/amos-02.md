@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Amos, Chapter 2
 ---
@@ -169,3 +169,7 @@ d. (2:9) [Nm 21:21] – [32]; [Dt 2:24] – [37]; [Jb 18:16]; [Hos 9:16].
 e. (2:12) [Am 7:13]; [Nm 6:1] – [4]; [Is 30:10]; [Jer 11:21].
 
 f. (2:14) [Ps 33:16].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

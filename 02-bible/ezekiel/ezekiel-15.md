@@ -11,7 +11,7 @@ tags:
   - bible/old-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: Ezekiel, Chapter 15
 ---
@@ -85,3 +85,7 @@ oracle of the Lord G OD.
 a. (15:2) cf. [Ps 80]; [Is 5:1] – [7].
 
 b. (15:7) [[isaiah-24|Is 24]]:18; [Am 9:1] – [4].
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

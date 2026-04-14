@@ -5,14 +5,13 @@ url: https://bible.usccb.org/bible/james/0
 aliases:
   - james-00
   - James, the Letter of James
-  - James, The Letter of James
 tags:
   - bible/book
   - bible/james
   - bible/new-testament
   - graph/bible-ccc
 created: 2025-07-30
-modified: 2026-04-04
+modified: 2026-04-12
 publish: true
 description: James, the Letter of James
 ---
@@ -21,7 +20,7 @@ description: James, the Letter of James
 
 ## The Letter of James
 
-The person to whom this letter is ascribed can scarcely be one of the two members of the Twelve who bore the name James (see [[matthew-10|Mt 10]]:2] – [3]; ([[mark-03|Mk 3]]:17] – [18]; ([[luke-06| [[luke-06|Lk 6]]:]]:14] – [15]), for he is not identified as an apostle but only as “slave of God and of the Lord Jesus Christ” ([Jas 1:1]). This designation most probably refers to the third New Testament personage named James, a relative of Jesus who is usually called “brother of the Lord” (see ([[matthew-13|Mt 13]]:55]; ([[mark-06|Mk 6]]:3]). He was the leader of the Jewish Christian community in Jerusalem whom Paul acknowledged as one of the “pillars” ([Gal 2:9]). In Acts he appears as the authorized spokesman for the Jewish Christian position in the early Church ([.[[acts-of-the-apostles-12|Acts 12]]:17]; [15:13] – [21]). According to the Jewish historian Josephus (*Antiquities* 20, 9, 1 ¶¶201–203), he was stoned to death by the Jews under the high priest Ananus II in A.D. 62.
+The person to whom this letter is ascribed can scarcely be one of the two members of the Twelve who bore the name James (see [[matthew-10|Mt 10]]:2] – [3]; ([[mark-03|Mk 3]]:17] – [18]; ([[luke-06||Lk 6]]:14] – [15]), for he is not identified as an apostle but only as “slave of God and of the Lord Jesus Christ” ([Jas 1:1]). This designation most probably refers to the third New Testament personage named James, a relative of Jesus who is usually called “brother of the Lord” (see ([[matthew-13|Mt 13]]:55]; ([[mark-06|Mk 6]]:3]). He was the leader of the Jewish Christian community in Jerusalem whom Paul acknowledged as one of the “pillars” ([Gal 2:9]). In Acts he appears as the authorized spokesman for the Jewish Christian position in the early Church ([.[[acts-of-the-apostles-12|Acts 12]]:17]; [15:13] – [21]). According to the Jewish historian Josephus (*Antiquities* 20, 9, 1 ¶¶201–203), he was stoned to death by the Jews under the high priest Ananus II in A.D. 62.
 
 The letter is addressed to “the twelve tribes in the dispersion.” In Old Testament terminology the term “twelve tribes” designates the people of Israel; the “dispersion” or “diaspora” refers to the non-Palestinian Jews who had settled throughout the Greco-Roman world (see [Jn 7:35]). Since in Christian thought the church is the new Israel, the address probably designates the Jewish Christian churches located in Palestine, Syria, and elsewhere. Or perhaps the letter is meant more generally for all Christian communities, and the “dispersion” has the symbolic meaning of exile from our true home, as it has in the address of 1 Peter ([1 Pt 1:1]). The letter is so markedly Jewish in character that some scholars have regarded it as a Jewish document subsequently “baptized” by a few Christian insertions, but such an origin is scarcely tenable in view of the numerous contacts discernible between the Letter of James and other New Testament literature.
 
@@ -37,3 +36,7 @@ The principal divisions of the Letter of James are the following:
 2. The Value of Trials and Temptation ([1:2] – [18])
 3. Exhortations and Warnings ([1:19] – [5:12])
 4. The Power of Prayer ([5:13] – [20])
+
+---
+
+_New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.
