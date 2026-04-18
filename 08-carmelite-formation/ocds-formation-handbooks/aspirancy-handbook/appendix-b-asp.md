@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix B: Lumen Gentium, Chapter 5 – OCDS Aspirancy Handbook (A Journey in Carmel)"
 ---
 

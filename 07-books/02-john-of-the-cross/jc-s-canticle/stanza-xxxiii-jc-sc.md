@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXIII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxix.html
 aliases:
   - Stanza XXXIII – Spiritual Canticle By St. John of the Cross
   - stanza-xxxiii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXIII – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxii-jc-sc|← Stanza XXXII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxiv-jc-sc|Stanza XXXIV →]]
 
 # Stanza XXXIII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxix.html)
 
 Despise me not, For if I was swarthy once, You can regard me now; Since You have regarded me, Grace and beauty have You given me.
 

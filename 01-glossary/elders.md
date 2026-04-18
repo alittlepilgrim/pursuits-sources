@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Elders
 aliases:
   - elders
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-09
 modified: 2026-04-12
-publish: false
+publish: true
 description: elders. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 

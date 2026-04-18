@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix I: JPII Apostolic Letter, Proclamation of St. Thérèse Doctor of the Church – OCDS Formation II, Year C (Story of a Soul)"
 ---
 

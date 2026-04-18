@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Works of Mercy
 aliases:
   - Works of Mercy

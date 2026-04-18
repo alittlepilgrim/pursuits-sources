@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Apostasy
 aliases:
   - apostasy
@@ -24,7 +24,7 @@ The total repudiation of the Christian faith ([[3.2.1.1.p7b|ccc-2089]]; cf. [[1.
 
 **Apostasy:** 1 Cor 9:24-27; 2 Thess 2:3; 1 Tim 4:1-5; Heb 6:4-8; 1 Pet 2:20-22
 
-*See also* [[Salvation]]
+*See also* [[salvation]]
 
 ### Sources
 

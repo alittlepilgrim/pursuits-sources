@@ -9,7 +9,7 @@ tags:
   - type/study-note
 created: 2025-10-26
 modified: 2026-04-07
-publish: false
+publish: true
 attachment: true
 ---
 

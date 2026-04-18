@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXXII. Our Lord Shows St. Teresa the Place Which She Had by Her Sins Deserved in Hell. The Torments There. How the Monastery of St. Joseph Was Founded
 ---
 

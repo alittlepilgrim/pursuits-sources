@@ -26,7 +26,7 @@ description: Matthew, Chapter 5
 
 2 He began to teach them, saying: ^matthew-05-2
 
-### The [[pursuits-sources/01-glossary/beatitudes|Beatitudes]]
+### The [[pursuits-texts/01-glossary/beatitudes|Beatitudes]]
 
 3 “Blessed are the poor in spirit, ^matthew-05-3
 

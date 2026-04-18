@@ -2,6 +2,8 @@
 type: ocds-proper
 title: January 9, Saint Andrew Corsini
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/01/07/corsinilit25/
 aliases:
   - 01-09-st-andrew-corsini
   - 20250731-121420
@@ -11,11 +13,15 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 01-09
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers 01-09-saint-andrew-corsini-bishop
 ---
+
+← [[01-08-st-peter-thomas|Jan 8, St Peter Thomas]] | [[OCDS Propers|Table of Contents]] | [[01-27-st-henry-de-osso|Jan 27, St Henry de Osso]] →
+
 
 # January 9, Saint Andrew Corsini
 
@@ -53,7 +59,7 @@ who lives and reigns with You and the Holy Spirit,
 
 God, for ever and ever.
 
-# Office of Readings
+## Office of Readings
 
 **The First Reading**
 
@@ -126,3 +132,9 @@ God, for ever and ever.
 # Canticle of Mary
 
 **Ant.** The kingdom of God consists of justice and peace and joy in the Holy Spirit; whoever serves Christ in this way pleases God and wins the esteem of all.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/01/07/corsinilit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

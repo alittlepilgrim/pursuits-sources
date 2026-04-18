@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XX. The Difference Between Union and Rapture. What Rapture Is. The Blessing It Is to the Soul. The Effects of It
 ---
 

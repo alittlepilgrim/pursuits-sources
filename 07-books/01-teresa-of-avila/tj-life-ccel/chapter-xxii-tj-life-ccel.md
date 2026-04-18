@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Chapter XXII. The Security of Contemplatives Lies in Their Not Ascending to High Things if Our Lord Does Not Raise Them. The Sacred Humanity Must Be the Road to the Highest Contemplation. A Delusion in Which the Saint Was Once Entangled
 ---
 

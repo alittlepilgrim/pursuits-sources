@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXXVII. The Effects of the Divine Graces in the Soul. The Inestimable Greatness of One Degree of Glory
 ---
 

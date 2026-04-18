@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Drunkenness
 aliases:
   - drunkenness
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-12
 modified: 2026-04-12
-publish: false
+publish: true
 ---
 
 # Drunkenness

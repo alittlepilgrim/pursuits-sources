@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Merit
 author:
 aliases:
@@ -28,7 +28,7 @@ God rewards our works done for the right reason: Mt 5:12, 46; 6:4, 5, 18, 19-21;
 
 Our works of obedience are themselves the result of God working in us: Phil 2:13
 
-*See also* [[Grace]]; [[Salvation]]; [[Works]]
+*See also* [[grace]]; [[salvation]]; [[works]]
 
 ### Sources
 

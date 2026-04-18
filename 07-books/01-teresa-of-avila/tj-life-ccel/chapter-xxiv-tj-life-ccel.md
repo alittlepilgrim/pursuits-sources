@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Chapter XXIV. Progress Under Obedience. Her Inability to Resist the Graces of God. God Multiplies His Graces
 ---
 

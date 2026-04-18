@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Contemplatives
 author:
 source: Divine Intimacy Meditations

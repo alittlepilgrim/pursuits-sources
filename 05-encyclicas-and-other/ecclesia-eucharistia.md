@@ -10,15 +10,19 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 description: Encyclical Letter Of His Holiness Pope John Paul II To The Bishops, Priests And Deacons, Men And Women In The Consecrated Life, And All The Lay Faithful, On The Eucharist In Its Relationship To The Church –  Ecclesia de Eucharistia (17 April 2003)
-abbreviation: jpii-ee
+anchor: jpii-ee
 ---
 
 # Ecclesia de Eucharistia
 
-## Encyclical Letter of His Holiness Pope John Paul II to the Bishops, Priests and Deacons, Men and Women in the Consecrated Life, and All the Lay Faithful, on the Eucharist in Its Relationship to the Church
+[Source[(https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_20030417_eccl-de-euch.html)
+
+ Encyclical Letter of His Holiness Pope John Paul II to the Bishops, Priests and Deacons, Men and Women in the Consecrated Life, and All the Lay Faithful
+
+## On the Eucharist in Its Relationship to the Church
 
 ## Introduction
 

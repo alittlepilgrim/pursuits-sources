@@ -1,10 +1,10 @@
 ---
 type: extracted-note
-title: <% tp.file.title %>
+title: chapter-16-tj-way-ccel
 author: Saint Teresa of Ávila
 aliases:
-  - <% tp.file.title %>
-  - <% tp.file.title.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-') %>
+  - chapter-16-tj-way-ccel
+  - chapter16tjwayccel
   - Chapter 16. Describes the Difference Between Perfection in the Lives of Contemplatives and in the Lives of Those Who Are Content with Mental Prayer. Explains How It Is Sometimes Possible for God to Raise a Distracted Soul to Perfect Contemplation and the Reason for This. This Chapter and That Which Comes Next Are to Be Noted Carefully. – The Way of Perfection by St. Teresa of Ávila (CCEL Edition)
 tags:
   - author
@@ -14,9 +14,9 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-10
-publish: false
-description: <% tp.file.title %>
-path: <% tp.file.path() %>
+publish: true
+description: chapter-16-tj-way-ccel
+path: file:///var/mobile/Containers/Data/Application/D66F13C5-9D4A-4F1C-B255-A4F54C4963B2/Documents//ALittlePilgrim/pursuits-texts/07-books/01-teresa-of-avila/tj-way-ccel/chapter-16-tj-way-ccel.md
 ---
 
 # Chapter Seventeenth

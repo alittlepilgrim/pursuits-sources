@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Regeneration
 aliases:
   - regeneration
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-09
 modified: 2026-04-09
-publish: false
+publish: true
 description: regeneration. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 
@@ -23,7 +23,7 @@ New birth through water of baptism and the Spirit: Jn 3:3, 5
 
 Washing of regeneration: Tit 3:5
 
-*See also* [[Baptism]]
+*See also* [[baptism]]
 
 ### Sources
 

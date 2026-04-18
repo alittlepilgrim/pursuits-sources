@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Confession
 aliases:
   - confession
@@ -23,7 +23,7 @@ An essential element of the Sacrament of Penance and Reconciliation, which consi
 
 **Confession of sins:** Mt 3:6; Mk 1:5; Jas 5:16; 1 Jn 1:9
 
-*See also* [[Penance]]
+*See also* [[penance]]
 
 ### Sources
 

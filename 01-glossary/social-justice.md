@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Social Justice
 aliases:
   - Social Justice

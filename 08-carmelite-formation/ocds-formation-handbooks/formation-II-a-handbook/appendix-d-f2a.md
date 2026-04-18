@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix D: St. Thérèse's Christmas Story – OCDS Formation II, Year A (The Ascent of Mount Carmel)"
 ---
 

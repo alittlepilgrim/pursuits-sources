@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Session Ten: Growth in Prayer — The Point of Departure for the Means, Which Is Faith, Hope, and Love – OCDS Formation II, Year A (The Ascent of Mount Carmel)"
 ---
 

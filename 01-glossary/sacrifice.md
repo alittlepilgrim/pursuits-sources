@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Sacrifice
 author:
 aliases:
@@ -38,7 +38,7 @@ Sacrifice of praise: Heb 13:15
 
 Spiritual sacrifices: 1 Pet 2:5
 
-*See also* [[Atonement]]; [[Eucharist]]; [[Reconciliation]]; [[redeemer-redemption|Redemption]]; [[Salvation]]
+*See also* [[atonement]]; [[eucharist]]; [[reconciliation]]; [[redeemer-redemption|Redemption]]; [[salvation]]
 
 ### Sources
 

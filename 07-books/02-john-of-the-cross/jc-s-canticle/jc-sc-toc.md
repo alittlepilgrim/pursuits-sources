@@ -19,7 +19,7 @@ tags:
   - type/book
   - type/toc
 created: 2025-09-12
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: A mystical poem and commentary by St. John of the Cross, written during his imprisonment at Toledo, depicting the soul’s journey to union with Christ under the imagery of the Song of Songs.
 ---
@@ -27,6 +27,26 @@ description: A mystical poem and commentary by St. John of the Cross, written du
 # Spiritual Canticle by St. John of the Cross
 
 [Source](https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt)
+
+## Publication Info
+
+Title: A Spiritual Canticle of the Soul and the Bridegroom Christ Creator(s): John of the Cross, St. (1542-1591)
+
+CCEL Subjects: All; Classic; Mysticism; Proofed LC
+
+Call no: BV5080 LC
+
+Subjects: Practical theology Practical religion. The Christian life Mysticism
+
+**A SPIRITUAL CANTICLE OF THE SOUL AND THE BRIDEGROOM CHRIST BY ST. JOHN OF THE CROSS TRANSLATED BY DAVID LEWIS WITH CORRECTIONS AND AN INTRODUCTION BY BENEDICT ZIMMERMAN, O.C.D.**
+
+Prior of St. Luke's, Wincanton June 28, 1909
+
+Electronic Edition with Modernization of English by Harry Plantinga, 1995
+
+This Electronic Text is in the Public Domain
+
+## Table of Contents
 
 [[introduction-jc-sc|Introduction]]
 
@@ -117,21 +137,3 @@ description: A mystical poem and commentary by St. John of the Cross, written du
 [[stanza-xl-jc-sc|Stanza XL]]
 
 [[indexes-jc-sc|Indexes]]
-
-# Publication Info
-
-Title: A Spiritual Canticle of the Soul and the Bridegroom Christ Creator(s): John of the Cross, St. (1542-1591)
-
-CCEL Subjects: All; Classic; Mysticism; Proofed LC
-
-Call no: BV5080 LC
-
-Subjects: Practical theology Practical religion. The Christian life Mysticism
-
-**A SPIRITUAL CANTICLE OF THE SOUL AND THE BRIDEGROOM CHRIST BY ST. JOHN OF THE CROSS TRANSLATED BY DAVID LEWIS WITH CORRECTIONS AND AN INTRODUCTION BY BENEDICT ZIMMERMAN, O.C.D.**
-
-Prior of St. Luke's, Wincanton June 28, 1909
-
-Electronic Edition with Modernization of English by Harry Plantinga, 1995
-
-This Electronic Text is in the Public Domain

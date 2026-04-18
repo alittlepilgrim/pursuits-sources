@@ -9,14 +9,16 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter I. The Encounter with The Living Jesus Christ
 ---
 
 ← [[introduction-jpii-ea|Introduction]] | [[ecclesia-america|Table of Contents]] | [[chapter-II-jpii-ea|Chapter II. Encountering Jesus Christ In America Today]] →
 
 # Chapter I. The Encounter with The Living Jesus Christ
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
 **“We have found the Messiah”** (***Jn*** 1:41)
 

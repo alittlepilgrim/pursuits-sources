@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Ingratitude
 author:
 source: Divine Intimacy Meditations

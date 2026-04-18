@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Conscience
 aliases:
   - conscience
@@ -47,7 +47,7 @@ Standard by which God will condemn or excuse: Jn 9:40-41; 15:22-23; Rom 2:15
 
 #### See Also
 
-[[Ignorance]]
+[[ignorance]]
 
 #### Source
 

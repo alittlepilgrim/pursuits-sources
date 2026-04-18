@@ -1,10 +1,10 @@
 ---
 type: extracted-note
-title: <% tp.file.title %>
+title: chapter-viii-tj-life-ccel
 author: Saint Teresa of Ávila
 aliases:
-  - <% tp.file.title %>
-  - <% tp.file.title.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-') %>
+  - chapter-viii-tj-life-ccel
+  - chapterviiitjlifeccel
   - Chapter VIII. The Saint Ceases Not to Pray. Prayer the Way to Recover What Is Lost. All Exhorted to Pray. The Great Advantage of Prayer, Even to Those Who May Have Ceased from It – The Life of St. Teresa of Jesus (CCEL Edition)
 tags:
   - author
@@ -14,9 +14,9 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-10
-publish: false
-description: <% tp.file.title %>
-path: <% tp.file.path() %>
+publish: true
+description: chapter-viii-tj-life-ccel
+path: file:///var/mobile/Containers/Data/Application/D66F13C5-9D4A-4F1C-B255-A4F54C4963B2/Documents//ALittlePilgrim/pursuits-texts/07-books/01-teresa-of-avila/tj-life-ccel/chapter-viii-tj-life-ccel.md
 ---
 
 # Chapter Sixteenth

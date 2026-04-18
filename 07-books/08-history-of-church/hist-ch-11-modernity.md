@@ -8,8 +8,8 @@ tags:
   - author/hitchcock-james
   - type/book
 created: 2026-03-31
-modified: 2026-04-09
-publish: false
+modified: 2026-04-18
+publish: true
 ---
 
 ← [[hist-ch-10-reason-and-revolution|Chapter 10]] | [[history-of-the-catholic-church-toc|Table of Contents]] | [[hist-ch-12-to-the-ends-of-the-earth|Chapter 12]] →

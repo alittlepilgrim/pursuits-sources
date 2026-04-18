@@ -10,17 +10,18 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-08-22
-modified: 2026-04-09
+modified: 2026-04-14
 publish: true
 description: Evangelium Vitae (25 March 1995)
-abbreviation: jpii-ev
+anchor: jpii-ev
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
 ---
 
 # Evangelium Vitae (25 March 1995)
 
-IOANNES PAULUS PP. II
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.htm)
 
-***
+IOANNES PAULUS PP. II
 
 EVANGELIUM VITAE
 

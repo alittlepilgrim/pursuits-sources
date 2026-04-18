@@ -14,7 +14,7 @@ birthday: 1090
 death_date: 1153-08-20
 celebration: 08-20
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-17
 publish: false
 ---
 

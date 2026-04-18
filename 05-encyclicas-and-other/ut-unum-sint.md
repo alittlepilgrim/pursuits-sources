@@ -14,7 +14,7 @@ created: 2025-11-14
 modified: 2026-04-07
 publish: true
 description: Encyclical Letter Ut Unum Sint (25 May 1995) On commitment to Ecumenism
-abbreviation: jpii-uus
+anchor: jpii-uus
 ---
 
 IOANNES PAULUS PP. II

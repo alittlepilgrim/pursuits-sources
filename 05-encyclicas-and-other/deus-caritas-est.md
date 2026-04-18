@@ -16,7 +16,7 @@ created: 2025-10-30
 modified: 2026-04-07
 publish: true
 description: Deus Caritas Est, First Encyclical of Pope Benedict XVI, God is love, Caritas, agape
-abbreviation: benxvi-dce
+anchor: benxvi-dce
 ---
 
 # Deus Caritas Est (December 25, 2005)

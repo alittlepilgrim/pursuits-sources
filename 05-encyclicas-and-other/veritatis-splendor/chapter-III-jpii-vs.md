@@ -3,20 +3,22 @@ type: magisterium
 title: Chapter III – Veritatis Splendor
 author: Saint John Paul II
 aliases:
-  - Chapter III. Moral Good for the Life of the Church and of the World
+  - Chapter III. Moral Good for the Life of the Church and of the World – Veritatis Splendor
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter III. Moral Good for the Life of the Church and of the World
+modified: 2026-04-15
+publish: true
+description: Chapter III. Moral Good for the Life of the Church and of the World – Veritatis Splendor
 ---
 
 ← [[chapter-II-jpii-vs|Chapter II. The Church and the Discernment of Certain Tendencies in Present-Day Moral Theology]] | [[veritatis-splendor|Table of Contents]] | [[conclusion-jpii-vs|Conclusion]] →
 
 # Chapter III. Moral Good for the Life of the Church and of the World
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)
 
 ## "For Freedom Christ Has Set Us Free" (Gal 5:1)
 

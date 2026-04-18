@@ -14,7 +14,7 @@ tags:
   - type/study-guide
 created: 2025-06-23
 modified: 2026-04-06
-publish: false
+publish: true
 ---
 
 # Interior Castle Handbook Appendix B: Session 9, St. Teresa of Avila
@@ -53,4 +53,4 @@ Copyright Washington Province of Discalced Carmelites, Inc. ICS Publications, 20
 
 7\. Nevertheless, it was not the details but the mass of Christological data contained in the work that gave Teresa an incomparable Christological introduction. The Carthusian brought to the reader one by one all the biblical texts referring to Jesus. This book by the Carthusian is an immense Christological spirituality. Perhaps this is the reason why Teresa includes the book in the list of indispensable books for the libraries of her Carmels (C. 8).
 
-[[pursuits-sources/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-c|Appendix C, Session 9, St. Teresa of Avila]]
+[[pursuits-texts/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-c|Appendix C, Session 9, St. Teresa of Avila]]

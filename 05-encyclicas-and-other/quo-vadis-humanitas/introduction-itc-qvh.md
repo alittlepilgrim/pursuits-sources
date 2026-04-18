@@ -2,20 +2,23 @@
 type: magisterium
 title: Introduction – Quo Vadis Humanitas
 author: International Theological Commission
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509
 aliases:
   - Introduction
 tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: Introduction – Quo Vadis Humanitas (2026)
 ---
 
 ← [[preliminary-note-itc-qvh|Preliminary Note]] | [[quo-vadis-humanitas|Quo Vadis Humanitas]] | [[chapter-I-itc-qvh|Chapter I. Development: Humanism and Posthumanism]] →
 
 # Introduction
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 1\. The recent acceleration of technological development and scientific progress has reawakened our wonder at humanity’s great potential and our perception of its greatness. Yet, there is no lessening of dismay at humanity’s fragility, subject as it is to death and disease, as demonstrated by the Covid-19 pandemic, as well as temptation to resignation to the seemingly inevitable evil of wars and conflicts, inequalities and indifference. Thus, the ambivalence of greatness and fragility remains, and this cannot be denied.
 

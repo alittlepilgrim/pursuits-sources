@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 8. Treats of the Great Benefit of Self-detachment, Both Interior and Exterior, from All Things Created
 ---
 

@@ -2,20 +2,23 @@
 type: magisterium
 title: "Chapter IV. Hope as Vocation: The Human Person Open to the Absolute – Quo Vadis Humanitas"
 author: International Theological Commission
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509
 aliases:
   - "Chapter IV. Hope as Vocation: The Human Person Open to the Absolute – Quo Vadis Humanitas"
 tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: "Chapter IV. Hope as Vocation: The Human Person Open to the Absolute – Quo Vadis Humanitas"
 ---
 
 ← [[chapter-III-itc-qvh|Chapter III. Charity as Vocation: The Human Person as Giver of Self]] | [[quo-vadis-humanitas|Quo Vadis Humanitas]] | [[conclusion-itc-qvh|Conclusion]] →
 
 # Chapter IV. Hope as Vocation: The Human Person Open to the Absolute
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 128\. What the human family needs, and within it every person seeking their true identity, is not an evolutionary leap beyond the present condition, but rather a saving relationship that makes the adventure of realising oneself fully meaningful and beautiful. In this sense, we speak of humanity saved, that is, respected as a gift from God and not replaced. Salvation in Christ involves a ‘full surpassing’ of our humanity only in the sense that it brings about the process of taking up, purifying and recreating the human. It is therefore not primarily a question of accelerating development towards new forms of life, but rather of sustaining the journey of peoples and individuals, offering a purpose and meaning that allows each and every one to fulfil their vocation, shaping the identity of daughters and sons of God in a universal fraternity. The dreams of *transhumanism* and *posthumanism* presume to oversimplify the tensions that run through the human experience. But this project, on closer inspection, proves to be dehumanising.
 

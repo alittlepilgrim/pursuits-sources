@@ -8,8 +8,8 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-14
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Norms on Indulgences – Manual of Indulgences (Enchiridion Indulgentiarum, 1999)
 ---
 
@@ -117,7 +117,9 @@ description: Norms on Indulgences – Manual of Indulgences (Enchiridion Indulge
 
 ____________
 
-* Notes in this section are numbered by norm (and by sub-norm, as applicable). 1 CIC 1917, can. 911; ID, norm 1; EI 1968, norm 1; CIC 1983, can. 992; EI 1986, norm 1. 2 ID, norm 2; EI 1968, norm 2; CIC 1983, can. 993; EI 1986, norm 2. 3 CIC 1917, can. 930; ID, norm 3, EI 1968, norms 3-4; CIC 1983, can. 994; EI 1986, norms 3-4. 4 ID, norm 5; EI 1968, norm 6; EI 1986, norm 5. 5 § 1: CIC 1917, can. 912; EI 1968, norm 8; CIC 1983, can. 995 § 1; EI 1986, norm 7. § 2: CIC 1917, can. 913; EI 1968, norm 10, 1°: CIC 1983, can. 995 § 2; EI 1986, norm 9. 6 AP, nos. 4-5; REU, no. 113; EI 1968, norm 9; EI 1986, norm 8; PB, no. 120.7 1°: CIC 1917, can. 349 § 2, 2°; IFI, no. 1; CS, cann. 396 § 2, 2°, 364 § 3, 3°, 367 § 2, 1°, 391; EI 1968, norm 11 § 1; EI 1986, norm 10, 1°. 2°: CIC 1917, can. 914; IFI, I; EI 1968, norm 11 § 2; CE, nos. 1122-1126; EI 1986, norm 10, 2°. 8 CIC 1917, can. 274, 2°; IFI, no. 2; CS, cann. 319, 6°, 320 § 1, 4°; EI 1968, norm 12; EI 1986, norm 11. 9 § 1, 1°: CS, can. 283, 4°; EI 1968, norm 13; EI 1986, norm 12. § 2: CS, can. 326 § 1, 1 0°; EI 1968, norm 13; EI 1968, norm 12. 10 CIC 1917, can. 239 § 1, 2 4°; CS, can. 185 § 1, 2 4°; EI 1968, norm 14; EI 1986, norm 13. 11 § 1: CIC 1917, can. 1388 § 2; EI 1968, norm 15 § 2; EI 1986, norm 14
+Notes in this section are numbered by norm (and by sub-norm, as applicable).
+
+1 CIC 1917, can. 911; ID, norm 1; EI 1968, norm 1; CIC 1983, can. 992; EI 1986, norm 1. 2 ID, norm 2; EI 1968, norm 2; CIC 1983, can. 993; EI 1986, norm 2. 3 CIC 1917, can. 930; ID, norm 3, EI 1968, norms 3-4; CIC 1983, can. 994; EI 1986, norms 3-4. 4 ID, norm 5; EI 1968, norm 6; EI 1986, norm 5. 5 § 1: CIC 1917, can. 912; EI 1968, norm 8; CIC 1983, can. 995 § 1; EI 1986, norm 7. § 2: CIC 1917, can. 913; EI 1968, norm 10, 1°: CIC 1983, can. 995 § 2; EI 1986, norm 9. 6 AP, nos. 4-5; REU, no. 113; EI 1968, norm 9; EI 1986, norm 8; PB, no. 120.7 1°: CIC 1917, can. 349 § 2, 2°; IFI, no. 1; CS, cann. 396 § 2, 2°, 364 § 3, 3°, 367 § 2, 1°, 391; EI 1968, norm 11 § 1; EI 1986, norm 10, 1°. 2°: CIC 1917, can. 914; IFI, I; EI 1968, norm 11 § 2; CE, nos. 1122-1126; EI 1986, norm 10, 2°. 8 CIC 1917, can. 274, 2°; IFI, no. 2; CS, cann. 319, 6°, 320 § 1, 4°; EI 1968, norm 12; EI 1986, norm 11. 9 § 1, 1°: CS, can. 283, 4°; EI 1968, norm 13; EI 1986, norm 12. § 2: CS, can. 326 § 1, 1 0°; EI 1968, norm 13; EI 1968, norm 12. 10 CIC 1917, can. 239 § 1, 2 4°; CS, can. 185 § 1, 2 4°; EI 1968, norm 14; EI 1986, norm 13. 11 § 1: CIC 1917, can. 1388 § 2; EI 1968, norm 15 § 2; EI 1986, norm 14
 
 § 2. § 2: CIC 1917, can. 1388 § 1; EI 1968, norm 15 § 1; CIC 1983, can. 826 § 3; EI 1986, norm 14
 

@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Session One: Who Is Called to Be a Secular Carmelite? – OCDS Aspirancy Handbook (A Journey in Carmel)"
 ---
 

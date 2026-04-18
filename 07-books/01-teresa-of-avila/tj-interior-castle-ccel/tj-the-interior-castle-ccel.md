@@ -16,6 +16,7 @@ created: 2025-09-12
 modified: 2026-04-06
 publish: true
 description: The interior castle by St. Teresa of Ávila.St. Teresa of Avila’s masterpiece of Christian mysticism, describing the soul’s journey inward through seven mansions toward union with God.
+anchor: tj-interior-castle
 ---
 
 ![[banner-teresa-image.png]]

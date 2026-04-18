@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter IV – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Chapter IV. Priestly Vocation in the Church's Pastoral Work
+  - Chapter IV. Priestly Vocation in the Church's Pastoral Work – Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter IV. Priestly Vocation in the Church's Pastoral Work
+modified: 2026-04-14
+publish: true
+description: Chapter IV. Priestly Vocation in the Church's Pastoral Work – Pastores Dabo Vobis
 ---
 
 ← [[chapter-III-jpii-pdv|Chapter III. The Spiritual Life of the Priest]] | [[pastores-dabo-vobis|Table of Contents]] | [[chapter-V-jpii-pdv|Chapter V. The Formation of Candidates for the Priesthood]] →
 
 # Chapter IV. Priestly Vocation in the Church's Pastoral Work
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 Priestly Vocation in the Church's Pastoral Work
 

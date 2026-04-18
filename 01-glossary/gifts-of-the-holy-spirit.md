@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Gifts of the Holy Spirit
 author:
 aliases:

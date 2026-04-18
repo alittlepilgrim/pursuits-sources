@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Consecrated Virgins
 aliases:
   - Consecrated Virgins

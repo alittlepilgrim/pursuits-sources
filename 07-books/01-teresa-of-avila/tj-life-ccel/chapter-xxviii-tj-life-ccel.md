@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXVIII. Visions of the Sacred Humanity, and of the Glorified Bodies. Imaginary Visions. Great Fruits Thereof When They Come from God
 ---
 

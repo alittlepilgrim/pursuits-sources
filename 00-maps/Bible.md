@@ -10,7 +10,7 @@ aliases:
 tags:
   - bible
 created: 2025-07-29
-modified: 2026-04-06
+modified: 2026-04-14
 publish: true
 permalink: /bible
 description: Books of the Bible
@@ -177,7 +177,7 @@ attachment: false
 
 ### **Jeremiah**
 
-[[jeremiah-00|Introduction]] [[pursuits-sources/02-bible/jeremiah/jeremiah-01|1]] [[jeremiah-02|2]] [[jeremiah-03|3]] [[jeremiah-04|4]] [[jeremiah-05|5]] [[jeremiah-06|6]] [[jeremiah-07|7]] [[jeremiah-08|8]] [[jeremiah-09|9]] [[jeremiah-10|10]] [[jeremiah-11|11]] [[jeremiah-12|12]] [[jeremiah-13|13]] [[jeremiah-14|14]] [[jeremiah-15|15]] [[jeremiah-16|16]] [[jeremiah-17|17]] [[jeremiah-18|18]] [[jeremiah-19|19]] [[jeremiah-20|20]] [[jeremiah-21|21]] [[jeremiah-22|22]] [[jeremiah-23|23]] [[jeremiah-24|24]] [[jeremiah-25|25]] [[jeremiah-26|26]] [[jeremiah-27|27]] [[jeremiah-28|28]] [[jeremiah-29|29]] [[jeremiah-30|30]] [[jeremiah-31|31]] [[jeremiah-32|32]] [[jeremiah-33|33]] [[jeremiah-34|34]] [[jeremiah-35|35]] [[jeremiah-36|36]] [[jeremiah-37|37]] [[jeremiah-38|38]] [[jeremiah-39|39]] [[jeremiah-40|40]] [[jeremiah-41|41]] [[jeremiah-42|42]] [[jeremiah-43|43]] [[jeremiah-44|44]] [[jeremiah-45|45]] [[jeremiah-46|46]] [[jeremiah-47|47]] [[jeremiah-48|48]] [[jeremiah-49|49]] [[jeremiah-50|50]] [[jeremiah-51|51]] [[jeremiah-52|52]]
+[[jeremiah-00|Introduction]] [[jeremiah-01|1]] [[jeremiah-02|2]] [[jeremiah-03|3]] [[jeremiah-04|4]] [[jeremiah-05|5]] [[jeremiah-06|6]] [[jeremiah-07|7]] [[jeremiah-08|8]] [[jeremiah-09|9]] [[jeremiah-10|10]] [[jeremiah-11|11]] [[jeremiah-12|12]] [[jeremiah-13|13]] [[jeremiah-14|14]] [[jeremiah-15|15]] [[jeremiah-16|16]] [[jeremiah-17|17]] [[jeremiah-18|18]] [[jeremiah-19|19]] [[jeremiah-20|20]] [[jeremiah-21|21]] [[jeremiah-22|22]] [[jeremiah-23|23]] [[jeremiah-24|24]] [[jeremiah-25|25]] [[jeremiah-26|26]] [[jeremiah-27|27]] [[jeremiah-28|28]] [[jeremiah-29|29]] [[jeremiah-30|30]] [[jeremiah-31|31]] [[jeremiah-32|32]] [[jeremiah-33|33]] [[jeremiah-34|34]] [[jeremiah-35|35]] [[jeremiah-36|36]] [[jeremiah-37|37]] [[jeremiah-38|38]] [[jeremiah-39|39]] [[jeremiah-40|40]] [[jeremiah-41|41]] [[jeremiah-42|42]] [[jeremiah-43|43]] [[jeremiah-44|44]] [[jeremiah-45|45]] [[jeremiah-46|46]] [[jeremiah-47|47]] [[jeremiah-48|48]] [[jeremiah-49|49]] [[jeremiah-50|50]] [[jeremiah-51|51]] [[jeremiah-52|52]]
 
 ### **Lamentations**
 
@@ -358,3 +358,7 @@ attachment: false
 ### **Revelation**
 
 [[revelation-00|Introduction]] [[revelation-01|1]] [[revelation-02|2]] [[revelation-03|3]] [[revelation-04|4]] [[revelation-05|5]] [[revelation-06|6]] [[revelation-07|7]] [[revelation-08|8]] [[revelation-09|9]] [[revelation-10|10]] [[revelation-11|11]] [[revelation-12|12]] [[revelation-13|13]] [[revelation-14|14]] [[revelation-15|15]] [[revelation-16|16]] [[revelation-17|17]] [[revelation-18|18]] [[revelation-19|19]] [[revelation-20|20]] [[revelation-21|21]] [[revelation-22|22]]
+
+## Source
+
+New American Bible, revised edition (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

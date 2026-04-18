@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 36. Treats of These Words in the Paternoster dimitte Nobis Debita nostra.
 ---
 

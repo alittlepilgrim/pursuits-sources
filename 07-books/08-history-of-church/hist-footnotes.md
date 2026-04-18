@@ -8,8 +8,8 @@ tags:
   - author/hitchcock-james
   - type/book
 created: 2026-03-31
-modified: 2026-04-08
-publish: false
+modified: 2026-04-18
+publish: true
 ---
 
 ← [[hist-suggestions|Further Reading]] | [[history-of-the-catholic-church-toc|Table of Contents]]

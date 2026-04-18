@@ -3,7 +3,7 @@ type: book
 title: Stanza IV – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.x.html
 aliases:
   - Stanza IV – Spiritual Canticle By St. John of the Cross
   - stanza-iv-jc-sc
@@ -11,7 +11,7 @@ tags:
   - author/saint-john-of-the-cross
   - type/book
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: Stanza IV – Spiritual Canticle By St. John of the Cross
 ---
@@ -19,6 +19,8 @@ description: Stanza IV – Spiritual Canticle By St. John of the Cross
 [[stanza-iii-jc-sc|← Stanza III]] | [[jc-sc-toc|↑ Contents]] | [[stanza-v-jc-sc|Stanza V →]]
 
 # Stanza IV
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.x.html)
 
 *O groves and thickets*
 

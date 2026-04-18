@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Fortitude (Gift Of)
 author:
 source: Divine Intimacy Meditations

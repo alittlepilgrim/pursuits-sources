@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: moc
 title: Glossary - Catechism of the Catholic Church
 aliases:
   - 02-glossary-catechism
@@ -7,7 +7,7 @@ aliases:
 tags:
   - type/glossary
 created: 2025-07-21
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: Glossary of the Catechism of the Catholic Church
 ---
@@ -20,10 +20,11 @@ This Glossary has been composed with reference to the language of the Catechism 
 
 It is important to remember that this Glossary, like the Catechism’s Indexes, is an additional instrument by which readers may find assistance in their use of the Catechism itself. While the Glossary is faithful to the language of the Catechism, it does not participate in the approval of the text of the Catechism given in the Apostolic Constitution Fidei depositum of Pope John Paul II.
 
-> [!SOURCE]
-> Catechism of the Catholic Church. (1997). 2nd ed. Vatican City: Libreria Editrice Vaticana. Retrieved from https://www.usccb.org/beliefs-and-teachings/what-we-believe/catechism/catechism-of-the-catholic-church
+Retrieved from https://www.usccb.org/beliefs-and-teachings/what-we-believe/catechism/catechism-of-the-catholic-church
 
 ## Glossary Terms
+
+Letter Jump: [[#a|A]] | [[#b|B]] | [[#c|C]] | [[#d|D]] | [[#e|E]] | [[#f|F]] | [[#g|G]] | [[#h|H]] | [[#i|I]] | [[#j|J]] | [[#l|L]] | [[#m|M]] | [[#n|N]] | [[#o|O]] | [[#p|P]] | [[#r|R]] | [[#s|S]] | [[#t|T]] | [[#u|U]] | [[#v|V]] | [[#w|W]] | [[#z|Z]]
 
 ### A
 
@@ -50,7 +51,7 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 - [[antichrist|Antichrist]]
 - [[apostasy|Apostasy]]
 - [[apostle|Apostle]]
-- [[pursuits-sources/01-glossary/apostles-creed|Apostles' Creed]]
+- [[pursuits-texts/01-glossary/apostles-creed|Apostles' Creed]]
 - [[apostolate|Apostolate]]
 - [[apostolic-succession|Apostolic Succession]]
 - [[apparition|Apparition]]
@@ -64,7 +65,7 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 - [[baptism|Baptism]]
 - [[beatific-vision|Beatific Vision]]
 - [[beatitude|Beatitude]]
-- [[pursuits-sources/01-glossary/beatitudes|Beatitudes]]
+- [[pursuits-texts/01-glossary/beatitudes|Beatitudes]]
 - [[bible-glossary|Bible]]
 - [[biblical-inspiration|Biblical Inspiration]]
 - [[bishop|Bishop]]
@@ -83,7 +84,7 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 - [[capital-sins|Capital Sins]]
 - [[cardinal-virtues|Cardinal Virtues]]
 - [[catechesis|Catechesis]]
-- [[pursuits-sources/01-glossary/catechism|Catechism]]
+- [[catechism|Catechism]]
 - [[catechumen|Catechumen]]
 - [[cathedral|Cathedral]]
 - [[catholic|Catholic]]
@@ -248,12 +249,18 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 - [[intercommunion|Intercommunion]]
 - [[irreligion|Irreligion]]
 - [[israel|Israel]]
+
+### J
+
 - [[jesus-christ|Jesus Christ]]
 - [[john-the-baptist-st|John The Baptist]]
 - [[judgment-rash|Judgment Rash]]
 - [[judgment|Judgment]]
 - [[justice|Justice]]
 - [[justification|Justification]]
+
+### L
+
 - [[laity|Laity]]
 - [[last-judgment|Last Judgment]]
 - [[last-supper|Last Supper]]
@@ -269,7 +276,7 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 ### M
 
 - [[magi|Magi]]
-- [[pursuits-sources/01-glossary/magisterium|Magisterium]]
+- [[magisterium|Magisterium]]
 - [[marks-of-the-church|Marks (Notes) of the Church]]
 - [[marriage|Marriage]]
 - [[martyr|Martyr]]
@@ -309,7 +316,7 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 - [[ordination|Ordination]]
 - [[original-sin|Original Sin]]
 - [[orthodox-churches|Orthodox Churches]]
-- [[pursuits-sources/01-glossary/our-father|Our Father]]
+- [[pursuits-texts/01-glossary/our-father|Our Father]]
 - [[our-lady|Our Lady]]
 
 ### P
@@ -342,7 +349,7 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 - [[pope|Pope]]
 - [[poverty|Poverty]]
 - [[praise|Praise]]
-- [[pursuits-sources/01-glossary/prayer|Prayer]]
+- [[pursuits-texts/01-glossary/prayer|Prayer]]
 - [[precepts-of-the-church|Precepts of the Church]]
 - [[presbyter|Presbyter]]
 - [[presentation|Presentation]]
@@ -449,7 +456,7 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 - [[vicar-of-christ|Vicar of Christ]]
 - [[vice|Vice]]
 - [[virgin-birth|Virgin Birth]]
-- [[pursuits-sources/01-glossary/virgin-mary|Virgin Mary]]
+- [[virgin-mary|Virgin Mary]]
 - [[virtue|Virtue]]
 - [[virtues-theological|Virtues Theological]]
 - [[vision-beatific|Vision Beatific]]
@@ -469,4 +476,6 @@ It is important to remember that this Glossary, like the Catechism’s Indexes, 
 
 - [[yahweh-yhwh|Yahweh (Yhwh)]]
 
-**
+## Source
+
+Catholic Church. *Catechism of the Catholic Church*. 2nd ed. Vatican City: Libreria Editrice Vaticana, 1997. Retrieved from https://www.usccb.org/beliefs-and-teachings/what-we-believe/catechism/catechism-of-the-catholic-church

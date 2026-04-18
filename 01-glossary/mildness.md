@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Mildness
 author:
 source: Divine Intimacy Meditations

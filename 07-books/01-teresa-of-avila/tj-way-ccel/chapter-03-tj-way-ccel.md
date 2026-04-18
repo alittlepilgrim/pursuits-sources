@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 3. Continues the Subject Begun in the First Chapter and Persuades the Sisters to Busy Themselves Constantly in Beseeching God to Help Those Who Work for the Church. Ends with an Exclamatory Prayer
 ---
 

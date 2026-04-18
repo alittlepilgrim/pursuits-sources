@@ -7,7 +7,7 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-09
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Praenotanda – Enchiridion Indulgentiarum (editio quarta, 1999)
 ---
@@ -15,6 +15,8 @@ description: Praenotanda – Enchiridion Indulgentiarum (editio quarta, 1999)
 ← [[abbreviationes-ei-lat|Abbreviationes et Sigla]] | [[enchiridion-indulgentiarum|Enchiridion Indulgentiarum]] | [[normae-ei-lat|Normae de Indulgentiis]] →
 
 # Praenotanda
+
+[Source](https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html)
 
 1\. Prima editione huius Enchiridii indulgentiarum, quae prodiit mense iunio anni 1968, ad effectum deducta est norma 13 Constitutionis apostolicae *Indulgentiarum doctrina:* « Enchiridion indulgentiarum recognoscetur eo consilio ut tantum praecipuae preces et praecipua opera pietatis, caritatis et paenitentiae indulgentiis ditentur ». Subsequentibus editionibus, nempe usque ad praesentem, Paenitentiaria Apostolica textum clariorem reddere, in quibusdam minoris momenti locis ad artis criticae exigentias emendare et nonnulla additamenta inserere curavit.
 
@@ -39,5 +41,3 @@ Unicuique ex his quattuor concessionibus generalioribus adduntur, in fidelium ut
 7\. Subsequitur elenchus concessionum ad quaedam religionis opera spectantium. Ipsae autem paucae sunt, quia nonnulla opera concessionibus generalioribus comprehenduntur et, ad preces quod attinet, solum quaedam, indolem universalem prae se ferentes, expresse memorandae visae sunt. Competentes Coetus episcopales pro opportunitate curent addere in editionibus Enchiridii pro sermonum varietate alias formulas fidelium pietati utiles et ob traditum morem caras.
 
 8\. Enchiridio praeterea accedit Appendix, in qua elenchus invocationum continetur et textus praebetur Constitutionis apostolicae *Indulgentiarum doctrina*.
-
-\*\*\*

@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-11-15
 modified: 2026-04-06
-publish: false
+publish: true
 ---
 
 # The Dark Night Leading to GOD’S Action, an Introduction (The Dark Night – Books One and Two) - OCDS Ongoing Formation Volume II

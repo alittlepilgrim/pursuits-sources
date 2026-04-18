@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Law
 author:
 aliases:
@@ -52,7 +52,7 @@ Royal law (love): Jas 2:8
 
 Weightier matters of the Law: justice, mercy, and faith: Mt 23:23
 
-*See also* [[Salvation]]; [[Works]]
+*See also* [[salvation]]; [[works]]
 
 ### Sources
 

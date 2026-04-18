@@ -9,14 +9,16 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Conclusion
 ---
 
 ← [[chapter-vi-the-mission-of-the-church-jpii-ea|Chapter VI. The Mission Of The Church In America Today The New Evangelization]] | [[ecclesia-america|Table of Contents]] | [[index-jpii-ea|Index]] →
 
 # Conclusion
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
 ***With hope and gratitude***
 

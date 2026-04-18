@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXVII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xliii.html
 aliases:
   - Stanza XXXVII – Spiritual Canticle By St. John of the Cross
   - stanza-xxxvii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXVII – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxvi-jc-sc|← Stanza XXXVI]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxviii-jc-sc|Stanza XXXVIII →]]
 
 # Stanza XXXVII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xliii.html)
 
 We shall go at once To the deep caverns of the rock Which are all secret; There we shall enter in, And taste of the new wine of the pomegranate.
 

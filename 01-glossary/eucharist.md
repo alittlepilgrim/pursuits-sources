@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Eucharist
 aliases:
   - eucharist
@@ -61,7 +61,7 @@ True food and drink: Jn 6:55
 
 Truth of the Eucharist requires faith given by the Holy Spirit in order to be accepted: Jn 6:63-64
 
-*See also* [[Body]]; [[Flesh]]
+*See also* [[body]]; [[flesh]]
 
 ### Sources
 

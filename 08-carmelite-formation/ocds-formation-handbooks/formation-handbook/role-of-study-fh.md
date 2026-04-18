@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: The Role of Study in the Secular Order of Discalced Carmelites – OCDS Formation Handbook
 ---
 

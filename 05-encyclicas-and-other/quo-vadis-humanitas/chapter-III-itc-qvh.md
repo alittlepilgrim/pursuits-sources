@@ -2,20 +2,23 @@
 type: magisterium
 title: "Chapter III. Charity as Vocation: The Human Person as Giver of Self – Quo Vadis Humanitas"
 author: International Theological Commission
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509
 aliases:
   - "Chapter III. Charity as Vocation: The Human Person as Giver of Self – Quo Vadis Humanitas"
 tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: "Chapter III. Charity as Vocation: The Human Person as Giver of Self – Quo Vadis Humanitas"
 ---
 
 ← [[chapter-II-itc-qvh|Chapter II. Life as Vocation: The Human Person as an Agent in History]] | [[quo-vadis-humanitas|Quo Vadis Humanitas]] | [[chapter-IV-itc-qvh|Chapter IV. Hope as Vocation: The Human Person Open to the Absolute]] →
 
 # Chapter III. Charity as Vocation: The Human Person as Giver of Self
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 **IN THE FACE OF SCENARIOS FOR THE FUTURE OF HUMANITY**
 

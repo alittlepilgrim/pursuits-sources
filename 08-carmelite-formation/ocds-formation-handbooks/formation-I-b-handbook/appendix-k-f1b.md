@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix K: Message of John Paul II to the Carmelite Family – OCDS Formation I, Year B (Carmelite History and Statutes)"
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Soul
 aliases:
   - soul
@@ -31,7 +31,7 @@ Spiritual aspect of man, distinct from the body: Mt 10:28; Lk 12:20; Acts 2:27; 
 
 Term can also be used for the whole person: Lk 12:19; Acts 2:41, 43; 7:14
 
-*See also* [[Body]]; [[Man]]; [[Spirit]]
+*See also* [[body]]; [[man]]; [[spirit]]
 
 ### Sources
 

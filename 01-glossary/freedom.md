@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Freedom
 aliases:
   - freedom
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-12
 modified: 2026-04-12
-publish: false
+publish: true
 ---
 
 # Freedom
@@ -26,7 +26,7 @@ Power to obey and to choose: Lk 6:46; Jn 14:15; Rom 2:9-10; Gal 5:13; 1 Pet 2:16
 
 Resistance to grace is possible: Jn 15:1; Acts 7:51; 2 Cor 6:1
 
-*See also* [[Election]]; [[Predestination]]; [[Sin]]; [[redeemer-redemption|Redemption]]; [[Salvation]]; [[Works]]
+*See also* [[election]]; [[predestination]]; [[sin]]; [[redeemer-redemption|Redemption]]; [[salvation]]; [[works]]
 
 ### Sources
 

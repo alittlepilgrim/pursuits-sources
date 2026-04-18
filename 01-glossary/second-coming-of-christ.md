@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Second Coming of Christ
 aliases:
   - Second Coming of Christ

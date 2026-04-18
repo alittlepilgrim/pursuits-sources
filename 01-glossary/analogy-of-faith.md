@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Analogy of Faith
 aliases:
   - Analogy of Faith
@@ -8,7 +8,7 @@ tags:
   - term/analogy-of-faith
   - type/term
 created: 2025-07-20
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: analogy-of-faith. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---

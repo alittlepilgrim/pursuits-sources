@@ -10,13 +10,15 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Ecclesia In America (January 22, 1999)
-abbreviation: jpii-ea
+anchor: jpii-ea
 ---
 
 # Ecclesia In America
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
 ## Post Synodal Apostolic Exhortation Of The Holy Father John Paul Ii to The Bishops Priests and Deacons Men and Women Religious and All The Lay Faithful On The Encounter with The Living Jesus Christ The Way to Conversion Communion and Solidarity In America
 

@@ -7,7 +7,7 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-09
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Normae de Indulgentiis – Enchiridion Indulgentiarum (editio quarta, 1999)
 ---
@@ -15,6 +15,8 @@ description: Normae de Indulgentiis – Enchiridion Indulgentiarum (editio quart
 ← [[praenotanda-ei-lat|Praenotanda]] | [[enchiridion-indulgentiarum|Enchiridion Indulgentiarum]] | [[quattuor-concessiones-generaliores-ei-lat|Quattuor Concessiones Generaliores]] →
 
 # Normae de Indulgentiis
+
+[Source](https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html)
 
 **N. 1** – <sup>9</sup> Indulgentia est remissio coram Deo poenae temporalis pro peccatis, ad culpam quod attinet iam deletis, quam chrisfidelis, apte dispositus et certis ac definitis condicionibus, consequitur ope Ecclesiae quae, ut ministra redemptionis, thesaurum satisfactionum Christi et Sanctorum auctoritative dispensat et applicat.
 
@@ -195,5 +197,3 @@ description: Normae de Indulgentiis – Enchiridion Indulgentiarum (editio quart
 (46) ID, n. 11; EI 1968, n. 35; EI 1986, n. 28.
 
 (47) CIC 1917, can. 936; EI 1968, n. 36; EI 1986, n. 29.
-
-\*\*\*

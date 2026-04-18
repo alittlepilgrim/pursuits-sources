@@ -14,7 +14,7 @@ created: 2025-11-14
 modified: 2026-04-07
 publish: true
 description: Encyclical Letter Slavorum Apostoli (2 June 1985)
-abbreviation: jpii-sa
+anchor: jpii-sa
 ---
 
 JOHN PAUL II

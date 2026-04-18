@@ -10,13 +10,15 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Decree On The Media Of Social Communications Solemnly Promulgated By His Holiness Pope Paul VI On December 4 1963
-abbreviation: im
+anchor: im
 ---
 
 # Inter Mirifica
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_en.html)
 
 ## Decree on the Media of Social Communications Solemnly Promulgated by His Holiness Pope Paul VI on December 4, 1963
 

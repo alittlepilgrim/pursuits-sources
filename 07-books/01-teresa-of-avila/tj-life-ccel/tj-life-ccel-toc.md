@@ -20,6 +20,7 @@ created: 2025-09-12
 modified: 2026-04-09
 publish: true
 description: The autobiography of St. Teresa of Avila, recounting her life, mystical experiences, trials, and the foundations of the Discalced Carmelite reform.
+anchor: tj-life
 ---
 
 [[tj-life-ccel-toc|Table of Contents]] | [[tj-life-ccel-intro|Introduction]] →

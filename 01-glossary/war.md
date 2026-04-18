@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: War
 author:
 aliases:
@@ -36,7 +36,7 @@ Personal retaliation to be rejected: Mt 5:38-45; Rom 12:17-21
 
 Violence as a way of life rejected: Mt 26:52-53; Rev 13:10
 
-*See also* [[Authority]]
+*See also* [[authority]]
 
 ### Sources
 

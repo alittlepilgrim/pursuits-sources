@@ -2,21 +2,24 @@
 type: magisterium
 title: Footnotes – Evangelii Gaudium
 author: Pope Francis
+url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
 aliases:
-  - Footnotes
+  - Footnotes – Evangelii Gaudium
 tags:
   - author/pope-francis
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Footnotes
+modified: 2026-04-14
+publish: true
+description: Footnotes – Evangelii Gaudium
 ---
 
 ← [[chapter-V-francis-eg|Chapter V. Spirit-Filled Evangelizers]] | [[evangelii-gaudium|Table of Contents]]
 
 # Footnotes
+
+[Source](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
 [\[1\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftnref1)  Paul VI, Apostolic Exhortation *[Gaudete in Domino](http://www.vatican.va/holy_father/paul_vi/apost_exhortations/documents/hf_p-vi_exh_19750509_gaudete-in-domino_en.html)
 

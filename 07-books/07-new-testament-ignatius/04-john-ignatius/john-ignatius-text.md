@@ -7,7 +7,7 @@ tags:
   - bible/new-testament
 created: 2026-04-01
 modified: 2026-04-10
-publish: false
+publish: true
 description: The Gospel According to Saint John – The Ignatius Catholic Study Bible New Testament
 ---
 

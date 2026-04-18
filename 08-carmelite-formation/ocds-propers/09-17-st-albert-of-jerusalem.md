@@ -2,6 +2,8 @@
 type: ocds-proper
 title: September 17, Saint Albert of Jerusalem
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/09/15/albjerulit25/
 aliases:
   - 09-17-st-albert-of-jerusalem
   - 20240911-000001
@@ -13,20 +15,22 @@ tags:
 celebration_day: 09-17
 celebration_rank: feast
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 permalink: /09-17-st-albert-of-jerusalem
 attachment: true
 ---
 
+← [[09-11-blessed-maria-lopez-rivas|Sep 11, Bl Maria Lopez Rivas]] | [[OCDS Propers|Table of Contents]] | [[10-01-st-therese-of-the-child-jesus|Oct 1, St Thérèse of the Child Jesus]] →
+
+
 # September 17, Saint Albert of Jerusalem
 
 > [!NOTE]
-> *September 17*
-> *[[albert-of-jerusalem-saint |Saint Albert of Jerusalem]]*
-> *Bishop and Lawgiver of Our Order*
-
-**Feast**
+> **September 17**
+> **[[albert-of-jerusalem-saint |Saint Albert of Jerusalem]]**
+> **Bishop and Lawgiver of Our Order**
+> **Feast**
 
 Albert Avogadro was born about the middle of the twelfth century in Castel Gualtieri in Italy. He became a Canon Regular of the Holy Cross at Mortara and was elected their prior in 1180. Named Bishop of Bobbio in 1184, and of Vercelli in 1185, he was made Patriarch of Jerusalem in 1205. There, in word and example, he was the model of a good pastor and peace-maker. While he was Patriarch (1206-1214) he formed the hermit brothers of Mount Carmel into a collegium and wrote a Rule for them. He was murdered at Acre on September 14, 1214, by the Master of the Hospital of the Holy Spirit, whom he had rebuked and deposed for immorality.
 
@@ -36,13 +40,13 @@ Lord God, through Saint Albert of Jerusalem you have given us a Rule of life acc
 
 ---
 
-# **Invitatory**
+# Invitatory
 
 Ant. Come let us worship the Lord, the source of all just law.
 
 Invitatory psalm, as in the Ordinary
 
-# Morning Prayer
+## Morning Prayer
 
 **Hymn**
 
@@ -88,13 +92,13 @@ Remember your leaders who spoke the word of God to you; consider how their lives
 
 **Responsory**
 
-R./ I placed watchmen on your towers, Jerusalem. Repeat R/.
+R/. I placed watchmen on your towers, Jerusalem. Repeat R/.
 
-V./ They will never cease to tell of the name of the Lord, by day and by night on your towers, Jerusalem.Glory to the Father, and to the Son, and to the Holy Spirit.
+V/. They will never cease to tell of the name of the Lord, by day and by night on your towers, Jerusalem.Glory to the Father, and to the Son, and to the Holy Spirit.
 
-R./I placed watchmen*on your towers, Jerusalem.
+R/. I placed watchmen*on your towers, Jerusalem.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. Let everyone who is zealous for the law follow me: then many who were seeking righteousness and justice went out into the desert.
 
@@ -122,7 +126,7 @@ Lord God,through Saint Albert of Jerusalemyou have given us a Rule of life accor
 
 God, forever and ever.
 
-# Evening Prayer
+## Evening Prayer
 
 **Hymn**, as at Morning Prayer
 
@@ -132,19 +136,25 @@ Ant. 1 I have become a minister of the gospel according to the bountiful gift of
 
 Psalm 15
 
-Lord, who shall be admitted to your tent *
+Lord, who shall be admitted to your tent
 
 and dwell on your holy mountain?
 
-He who walks without fault; *he who acts with justiceand speaks the truth from his heart; *
+He who walks without fault;
+
+he who acts with justiceand speaks the truth from his heart;
 
 he who does not slander with his tongue;
 
-he who does no wrong to his brother, *who casts no slur on his neighbor,who holds the godless in disdain, *
+he who does no wrong to his brother,
+
+who casts no slur on his neighbor,who holds the godless in disdain,
 
 but honors those who fear the Lord;
 
-he who keeps his pledge, come what may; *who takes no interest on a loanand accepts no bribes against the innocent. *
+he who keeps his pledge, come what may;
+
+who takes no interest on a loanand accepts no bribes against the innocent.
 
 Such a man will stand firm for ever.
 
@@ -154,23 +164,31 @@ Ant. 2 This is the wise and faithful servant whom the Master placed in charge of
 
 Psalm 112
 
-Happy the man who fears the Lord, *who takes delight in all his commands.His sons will be powerful on earth; *
+Happy the man who fears the Lord,
+
+who takes delight in all his commands.His sons will be powerful on earth;
 
 the children of the upright are blessed.
 
-Riches and wealth are in his house; *his justice stands firm for ever.He is a light in the darkness for the upright: *
+Riches and wealth are in his house;
+
+his justice stands firm for ever.He is a light in the darkness for the upright:
 
 he is generous, merciful and just.
 
-The good man takes pity and lends, *he conducts his affairs with honor.The just man will never waver: *
+The good man takes pity and lends,
+
+he conducts his affairs with honor.The just man will never waver:
 
 he will be remembered for ever.
 
-He has no fear of evil news; *with a firm heart he trusts in the Lord.With a steadfast heart he will not fear; *
+He has no fear of evil news;
+
+with a firm heart he trusts in the Lord.With a steadfast heart he will not fear;
 
 he will see the downfall of his foes.
 
-Open-handed, he gives to the poor; †his justice stands firm for ever. *
+Open-handed, he gives to the poor; †his justice stands firm for ever.
 
 His head will be raised in glory.
 
@@ -184,11 +202,15 @@ Ant. 3 The sheep that belong to me listen to my voice; there will be only one fl
 
 Canticle: Rev 15:3-4
 
-Great and wonderful are your deeds, *O Lord God the Almighty!Just and true are your ways, *
+Great and wonderful are your deeds,
+
+O Lord God the Almighty!Just and true are your ways,
 
 O King of the ages!
 
-Who shall not fear and glorify your name, O Lord? *For you alone are holy.All nations shall come and worship you, *
+Who shall not fear and glorify your name, O Lord?
+
+For you alone are holy.All nations shall come and worship you,
 
 for your judgments have been revealed.
 
@@ -202,13 +224,13 @@ Act on this word. If all you do is listen to it, you are deceiving yourselves. A
 
 **Responsory**
 
-R./ This is a man who loves his brethren ==*== and intercedes for the people. Repeat R/.*
+R/. This is a man who loves his brethren ==*== and intercedes for the people. Repeat R/.*
 
-*V./ He laid down his life for his brethren ==*==and intercedes for the people.Glory to the Father, and to the Son, and to the Holy Spirit.
+*V/. He laid down his life for his brethren ==*==and intercedes for the people.Glory to the Father, and to the Son, and to the Holy Spirit.
 
-==R./This is a man who loves his brethren*==and intercedes for the people.
+==R/. This is a man who loves his brethren*==and intercedes for the people.
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Let the word of Christ in its richness live within you; sing gratefully in your hearts to God.
 
@@ -236,7 +258,7 @@ Our Father…
 
 Lord God, through Saint Albert of Jerusalem you have given us a Rule of life according to your Gospel, to help us attain perfect love.Through his prayers may we always live in allegiance to Jesus Christ, and serve faithfully until death him who lives and reigns with you and the Holy Spirit, God, forever and ever.
 
-# **Daytime Prayer**
+# Daytime Prayer
 
 Antiphons and psalms from the current weekday
 
@@ -248,9 +270,9 @@ Leviticus 20:7-8
 
 Consecrate yourselves, therefore, and be holy; for I am the Lord your God. Keep my statutes, and do them; I am the Lord who sanctify you.
 
-V./ Let all that you do
+V/. Let all that you do
 
-R./ Have the Lord’s word for accompaniment.
+R/. Have the Lord’s word for accompaniment.
 
 **Midday**
 
@@ -260,9 +282,9 @@ Cf. 2 Timothy 3:12, 14-15
 
 You are well aware that anyone who tries to live in devotion to Christ is certain to be attacked. You must keep to what you have been taught and know to be true; remember who your teachers were, and how, ever since you were a child, you have known the holy scriptures—from these you can learn the wisdom that leads to salvation through faith in Christ Jesus.
 
-V./ Follow the sound advice you have heard from me,
+V/. Follow the sound advice you have heard from me,
 
-R./in the faith and love which are in Christ Jesus.
+R/. in the faith and love which are in Christ Jesus.
 
 # Afternoon Prayer
 
@@ -272,11 +294,11 @@ Philippians 4:8-9
 
 And now, my friends, all that is true, all that is noble, all that is just and pure, all that is lovable and gracious, whatever is excellent and admirable—fill all your thoughts with these things. The lessons I taught you, the tradition I have passed on, all that you heard me say or saw me do, put into practice; and the God of peace will be with you.
 
-V./ Blessed are the peacemakers.
+V/. Blessed are the peacemakers.
 
-==R./==They shall be called God’s children.
+==R/. ==They shall be called God’s children.
 
-# Office of Readings
+## Office of Readings
 
 **Hymn**
 
@@ -314,19 +336,27 @@ Ant. 1 The just delight in the law of the Lord and ponders it day and night.
 
 Psalm 21:2-8, 14
 
-O Lord, your strength gives joy to the King; *how your saving help makes him glad!You have granted him his heart’s desire; *
+O Lord, your strength gives joy to the King;
+
+how your saving help makes him glad!You have granted him his heart’s desire;
 
 you have not refused the prayer of his lips.
 
-You came to meet him with the blessings of success, *you have set on his head a crown of pure gold.He asked you for life and this you have given, *
+You came to meet him with the blessings of success,
+
+you have set on his head a crown of pure gold.He asked you for life and this you have given,
 
 days that will last from age to age.
 
-Your saving help has given him glory. *You have laid upon him majesty and splendor,you have granted your blessings to him forever. *
+Your saving help has given him glory.
+
+You have laid upon him majesty and splendor,you have granted your blessings to him forever.
 
 You have made him rejoice with the joy of your presence.
 
-The king has put his trust in the Lord: *through the mercy of the Most High he shall stand firm.O Lord, arise in your strength; *
+The king has put his trust in the Lord:
+
+through the mercy of the Most High he shall stand firm.O Lord, arise in your strength;
 
 we shall sing and praise your power.
 
@@ -336,15 +366,25 @@ Ant. 2 Let the law of the Lord be always in your mouth: let it be as a sign in y
 
 Psalm 92 – I
 
-It is good to give thanks to the Lord, *to make music to your name, O Most High,to proclaim your love in the morning *and your truth in the watches of the night,on the ten-stringed lyre and the lute, *
+It is good to give thanks to the Lord,
+
+to make music to your name, O Most High,to proclaim your love in the morning
+
+and your truth in the watches of the night,on the ten-stringed lyre and the lute,
 
 with the murmuring sound of the harp.
 
-Your deeds, O Lord, have made me glad; *for the work of your hands I shout with joy.O Lord, how great are your works! *How deep are your designs!The foolish man cannot know this *
+Your deeds, O Lord, have made me glad;
+
+for the work of your hands I shout with joy.O Lord, how great are your works!
+
+How deep are your designs!The foolish man cannot know this
 
 and the fool cannot understand.
 
-Though the wicked spring up like grass *and all who do evil thrive,they are doomed to be eternally destroyed. *
+Though the wicked spring up like grass
+
+and all who do evil thrive,they are doomed to be eternally destroyed.
 
 But you, Lord, are eternally on high.
 
@@ -354,23 +394,31 @@ Ant. 3 Those who ponder the law of God will yield fruit in due season.
 
 Psalm 92 – II
 
-See how your enemies perish; *
+See how your enemies perish;
 
 all doers of evil are scattered.
 
-To me you give the wild ox’s strength; *you anoint me with the purest oil.My eyes looked in triumph on my foes; *my ears heard gladly of their fall.The just will flourish like the palm tree *
+To me you give the wild ox’s strength;
+
+you anoint me with the purest oil.My eyes looked in triumph on my foes;
+
+my ears heard gladly of their fall.The just will flourish like the palm tree
 
 and grow like a Lebanon cedar.
 
-Planted in the house of the Lord *they will flourish in the courts of our God,still bearing fruit when they are old, *still full of sap, still green,to proclaim that the Lord is just. *
+Planted in the house of the Lord
+
+they will flourish in the courts of our God,still bearing fruit when they are old,
+
+still full of sap, still green,to proclaim that the Lord is just.
 
 In him, my rock, there is no wrong.
 
 Ant. Those who ponder the law of God will yield fruit in due season.
 
-V./ Receive instruction from his mouth.
+V/. Receive instruction from his mouth.
 
-R./ And lay up his words in your heart.
+R/. And lay up his words in your heart.
 
 **First Reading**
 
@@ -390,9 +438,9 @@ May God the Father and the Lord Jesus Christ grant the brothers peace and love a
 
 **Responsory**
 
-R./ Lead a life worthy of your vocation, ==*==living in allegiance to Jesus Christ.*
+R/. Lead a life worthy of your vocation, ==*==living in allegiance to Jesus Christ.*
 
-*V./ Ponder the Lord’s law day and night, and keep watch at your prayers, ==*==living in allegiance to Jesus Christ.
+*V/. Ponder the Lord’s law day and night, and keep watch at your prayers, ==*==living in allegiance to Jesus Christ.
 
 **Second Reading**
 
@@ -410,9 +458,9 @@ The Apostle would have us keep silence, for in silence he tells us to work. As t
 
 **Responsory**
 
-R./ My children, be courageous and grow strong in the law, ==*==for it is your way to glory.*
+R/. My children, be courageous and grow strong in the law, ==*==for it is your way to glory.*
 
-*V./ The Lord’s law is perfect and strengthens the soul; it gives wisdom to the humble, ==*==for it is your way to glory.
+*V/. The Lord’s law is perfect and strengthens the soul; it gives wisdom to the humble, ==*==for it is your way to glory.
 
 Where the Vigil Office is celebrated:
 
@@ -428,11 +476,15 @@ Blessed are those who hope in the Lord
 
 *Blessed are they who hear the word of God and keep it* ([[luke-11|Lk 11]]:28)
 
-Blessed is the man who trusts in the Lord, *
+Blessed is the man who trusts in the Lord,
 
 whose hope is the Lord.
 
-He is like a tree planted by water, *that sends out its roots by the stream:and does not fear when heat comes, *for its leaves remain green,and is not anxious in the year of drought, *
+He is like a tree planted by water,
+
+that sends out its roots by the stream:and does not fear when heat comes,
+
+for its leaves remain green,and is not anxious in the year of drought,
 
 for it does not cease to bear fruit.
 
@@ -444,11 +496,15 @@ The happiness of the wise
 
 *Wisdom has been proved right by all her children* ([[luke-07|Lk 7]]:35)
 
-Happy the man who meditates on wisdom, *and reason with good sense.She will give him the bread of understanding to eat, *
+Happy the man who meditates on wisdom,
+
+and reason with good sense.She will give him the bread of understanding to eat,
 
 and the water of wisdom to drink.
 
-He will lean on her and will not fall, *he will rely on her and not be put to shame.She will raise him high above his neighbors, *
+He will lean on her and will not fall,
+
+he will rely on her and not be put to shame.She will raise him high above his neighbors,
 
 and he will inherit an everlasting name.
 
@@ -460,15 +516,19 @@ Happy are those who do not go chasing after riches
 
 *Get yourselves treasure that will not fail you in heaven* ([[luke-12|Lk 12]]:33)
 
-Blessed is the rich man who is found blameless, *
+Blessed is the rich man who is found blameless,
 
 and who does not go after gold.
 
-Who is he? And we will call him blessed, *for he has done wonderful things among his people.Who has been tested by it and been found perfect? *
+Who is he? And we will call him blessed,
+
+for he has done wonderful things among his people.Who has been tested by it and been found perfect?
 
 Let it be for him a ground for boasting.
 
-Who has had the power to transgress and did not transgress, *and to do evil and did not do it?His prosperity will be established, *
+Who has had the power to transgress and did not transgress,
+
+and to do evil and did not do it?His prosperity will be established,
 
 and the assembly will relate his acts of charity.
 
@@ -486,39 +546,47 @@ Jesus called his disciples to him and said, “You know that among the pagans th
 
 **Te Deum**
 
-You are God: we praise you; *You are the Lord: we acclaim you;You are the eternal Father: *
+You are God: we praise you;
+
+You are the Lord: we acclaim you;You are the eternal Father:
 
 All creation worships you.
 
-To you all angels, all the powers of heaven, *Cherubim and Seraphim, sing in endless praise:Holy, holy, holy, Lord, God of power and might, *
+To you all angels, all the powers of heaven,
+
+Cherubim and Seraphim, sing in endless praise:Holy, holy, holy, Lord, God of power and might,
 
 heaven and earth are full of your glory.
 
-The glorious company of apostles praise you. †The noble fellowship of prophets praise you. *
+The glorious company of apostles praise you. †The noble fellowship of prophets praise you.
 
 The white-robed army of martyrs praise you.
 
-Throughout the world the holy Church acclaims you: *Father, of majesty unbounded,your true and only Son, worthy of all worship, *
+Throughout the world the holy Church acclaims you:
+
+Father, of majesty unbounded,your true and only Son, worthy of all worship,
 
 and the Holy Spirit, advocate and guide.
 
-You, Christ, are the King of glory, *
+You, Christ, are the King of glory,
 
 the eternal Son of the Father.
 
-When you became man to set us free *
+When you became man to set us free
 
 you did not spurn the Virgin’s womb.
 
-You overcame the sting of death, *
+You overcame the sting of death,
 
 and opened the kingdom of heaven to all believers.
 
-You are seated at God’s right hand in glory. *
+You are seated at God’s right hand in glory.
 
 We believe that you will come, and be our judge.
 
-Come then, Lord, and help your people, *bought with the price of your own blood,and bring us with your saints*
+Come then, Lord, and help your people,
+
+bought with the price of your own blood,and bring us with your saints*
 
 to glory everlasting.
 
@@ -544,6 +612,10 @@ In you, Lord, is our hope:
 
 **Prayer**
 
-Lord God,through Saint Albert of Jerusalemyou have given us a Rule of life according to your Gospel,to help us attain perfect love.Through his prayers may we always livein allegiance to Jesus Christ,and serve faithfully until deathhim who lives and reigns with you and the Holy Spirit,
+Lord God,through Saint Albert of Jerusalemyou have given us a Rule of life according to your Gospel,to help us attain perfect love.Through his prayers may we always livein allegiance to Jesus Christ,and serve faithfully until deathhim who lives and reigns with you and the Holy Spirit, God, forever and ever.
 
-God, forever and ever.
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/09/15/albjerulit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

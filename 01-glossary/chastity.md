@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Chastity
 aliases:
   - chastity
@@ -27,7 +27,7 @@ Purity: 2 Cor 6:6; 11:2; 1 Tim 4:12
 
 Self-control: 1 Cor 7:5, 9; 1 Thess 4:3-8
 
-*See also* [[Adultery]]; [[Fornication]]; [[sexual-sin|Sexual Sin]] 
+*See also* [[adultery]]; [[fornication]]; [[sexual-sin|Sexual Sin]] 
 
 ### Sources
 

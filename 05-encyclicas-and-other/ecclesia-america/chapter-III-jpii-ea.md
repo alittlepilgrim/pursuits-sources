@@ -9,14 +9,16 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter III. The Path Of Conversion
 ---
 
 ← [[chapter-II-jpii-ea|Chapter II. Encountering Jesus Christ In America Today]] | [[ecclesia-america|Table of Contents]] | [[chapter-iv-the-path-to-communion-jpii-ea|Chapter IV. The Path to Communion]] →
 
 # Chapter III. The Path Of Conversion
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
 **“Repent therefore and be converted”** (***Acts*** 3:19)
 

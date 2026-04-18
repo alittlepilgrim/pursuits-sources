@@ -2,21 +2,24 @@
 type: magisterium
 title: Conclusion – Evangelium Vitae
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
 aliases:
-  - Conclusion
+  - Conclusion – Evangelium Vitae
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Conclusion
+modified: 2026-04-14
+publish: true
+description: Conclusion – Evangelium Vitae
 ---
 
 ← [[chapter-iv-jpii-ev|Chapter IV. You Did It to Me]] | [[evengelium-vitae|Table of Contents]] | [[notes-jpii-ev|Notes]] →
 
 # Conclusion
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.htm)
 
 102\. At the end of this Encyclical, we naturally look again to the Lord Jesus, "the Child born for us" (cf. Is 9:6), that in him we may contemplate "the Life" which "was made manifest" ([[1-john-01|1 Jn 1]]:2). In the mystery of Christ's Birth the encounter of God with man takes place and the earthly journey of the Son of God begins, a journey which will culminate in the gift of his life on the Cross. By his death Christ will conquer death and become for all humanity the source of new life. ^jpii-ev-102
 

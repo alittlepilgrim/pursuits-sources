@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Veneration of Saints
 aliases:
   - Veneration of Saints

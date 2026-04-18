@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Session 8: Organization and Government of the Order and Community – OCDS Formation I, Year B (Carmelite History and Statutes)"
 ---
 

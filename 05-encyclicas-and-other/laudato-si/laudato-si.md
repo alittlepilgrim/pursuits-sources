@@ -27,13 +27,15 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-07
-modified: 2026-04-07
-publish: false
+modified: 2026-04-14
+publish: true
 description: Encyclical Letter Laudato si' of the Holy Father Francis on care for our common home (24 May 2015)
-abbreviation: francis-ls
+anchor: francis-ls
 ---
 
 # Laudato Si’
+
+[Source](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
 
 ## Encyclical Letter of the Holy Father Francis on Care for Our Common Home
 

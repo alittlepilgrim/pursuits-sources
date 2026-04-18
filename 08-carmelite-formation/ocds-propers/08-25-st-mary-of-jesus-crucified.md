@@ -2,6 +2,8 @@
 type: ocds-proper
 title: August 25, Baouardy
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/08/23/mariamlit25/
 aliases:
   - 08-25-st-mary-of-jesus-crucified
   - 20250825-000001
@@ -13,18 +15,20 @@ tags:
 celebration_day: 08-25
 celebration_rank: memorial
 created: 2025-07-31
-modified: 2026-04-07
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers. 25 August. St. Mary of Jesus Crucified, Baouardy, Virgin
 ---
 
-# August 25, Baouardy
+← [[08-18-blesseds-leonard-jean-baptiste|Aug 18, Blesseds Leonard & Co]] | [[OCDS Propers|Table of Contents]] | [[08-26-transverberation-of-our-holy-mother-st-teresa-of-jesus|Aug 26, Transverberation of St Teresa]] →
+
+
+# August 25, St. Mary of Jesus Crucified, Baouardy, Virgin
 
 > **August 25**
-> **SAINT MARY OF JESUS CRUCIFIED** **BAOUARDY**
+> **SAINT MARY OF JESUS CRUCIFIED BAOUARDY
 > **Virgin**
-
-**Memorial**
+> **Memorial**
 
 Saint Mary (Mariam) of Jesus Crucified was born of the Baouardy family, Catholics of the Greek Melkite Rite, at Abellin in Galilee in 1846. In 1867 Mariam entered the Discalced Carmelites at Pau in France and was sent with the founding group to the Carmel of Mangalore in India where, in 1870, she made her profession. Mariam returned to France in 1872. In 1875 she went to the Holy Land where she built a monastery in Bethlehem and began planning for another at Nazareth. Noted for her supernatural gifts, especially for humility, for her devotion to the Holy Spirit, and her great love for the Church and the Pope, Mariam died at Bethlehem in 1878.
 
@@ -105,3 +109,9 @@ We ask this through our Lord Jesus Christ, your Son,
 who lives and reigns with you and the Holy Spirit,
 
 God, forever and ever.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/08/23/mariamlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

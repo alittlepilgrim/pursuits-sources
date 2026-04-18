@@ -96,7 +96,7 @@ We shall not present here the different classifications adopted by the different
 
 Therefore, we shall treat of :
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00016.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00016.jpeg]]
 
 ### § I. The Prayer of Quiet
 

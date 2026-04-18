@@ -10,13 +10,15 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Declaration on the Relation of the Church to non-christian religions - Nostra aetate
-abbreviation: na
+anchor: na
 ---
 
 # Nostra Aetate
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html)
 
 ## Declaration on the Relation of the Church to Non-christian Religions Proclaimed by His Holiness Pope Paul VI on October 28, 1965
 

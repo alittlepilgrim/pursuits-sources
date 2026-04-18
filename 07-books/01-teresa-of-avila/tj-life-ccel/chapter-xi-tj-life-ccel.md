@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XI. Why Men Do Not Attain Quickly to the Perfect Love of God. Of Four Degrees of Prayer. Of the First Degree. The Doctrine Profitable for Beginners, and for Those Who Have No Sensible Sweetness
 ---
 

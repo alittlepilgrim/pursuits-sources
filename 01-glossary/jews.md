@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Jews
 author:
 aliases:
@@ -42,7 +42,7 @@ Scandalized by the crucifixion of Jesus: 1 Cor 1:23
 
 United with Gentiles in the community of the one Church: 1 Cor 12:13; Gal 3:28; Eph 2:11-22; Col 3:11
 
-*See also* [[Church]]; [[Evangelization]]
+*See also* [[church]]; [[evangelization]]
 
 ### Sources
 

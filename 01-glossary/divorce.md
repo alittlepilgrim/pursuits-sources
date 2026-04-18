@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Divorce
 aliases:
   - divorce
@@ -23,7 +23,7 @@ The claim that the indissoluble marriage bond validly entered into between a man
 
 **Divorce:** Mt 5:31-32; 19:3-9; Mk 10:2-12; Lk 16:18; 1 Cor 7:10-16
 
-*See also* [[Adultery]]; [[Marriage]]
+*See also* [[adultery]]; [[marriage]]
 
 ### Sources
 

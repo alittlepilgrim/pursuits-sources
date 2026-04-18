@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Ignorance
 author:
 aliases:
@@ -32,7 +32,7 @@ Can lead to sin: Lk 23:34; Acts 3:17; Rom 10:3; 2 Pet 2:12; 3:16
 
 ### See Also
 
-[[Conscience]]; [[law|Natural law]]; [[Sin]]
+[[conscience]]; [[law|Natural law]]; [[sin]]
 
 ### Sources
 

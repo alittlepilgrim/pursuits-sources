@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Pasch / Paschal Lamb
 aliases:
   - Pasch / Paschal Lamb

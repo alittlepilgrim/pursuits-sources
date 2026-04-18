@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXVI – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xlii.html
 aliases:
   - Stanza XXXVI – Spiritual Canticle By St. John of the Cross
   - stanza-xxxvi-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXVI – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxv-jc-sc|← Stanza XXXV]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxvii-jc-sc|Stanza XXXVII →]]
 
 # Stanza XXXVI
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xlii.html)
 
 THE BRIDE Let us rejoice, O my Beloved, Let us go forth to see ourselves in Your beauty, To the mountain and the hill, Where the pure water flows: Let us enter into the heart of the thicket.
 

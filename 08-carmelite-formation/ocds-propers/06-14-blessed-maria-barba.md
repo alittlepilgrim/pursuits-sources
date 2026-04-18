@@ -2,6 +2,8 @@
 type: ocds-proper
 title: June 14, Blessed Maria Candida of the Eucharist Barba
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/06/12/candidalit25/
 aliases:
   - 06-14-blessed-maria-barba
   - 20240722-231258
@@ -11,27 +13,29 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 06-14
+celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 attachment: true
 ---
 
+← [[06-14-st-elisha-the-prophet|Jun 14, St Elisha]] | [[OCDS Propers|Table of Contents]] | [[06-26-blessed-mary-catania|Jun 26, Bl Mary Catania]] →
+
+
 # June 14, Blessed Maria Candida of the Eucharist Barba
 
-*June 14*
-
-*BLESSED MARIA CANDIDA OF THE EUCHARIST* - [[maria-candida-of-the-eucharist-blessed]]
-
-*Virgin*
-
-**Optional Memorial**
+> **June 14**
+> **BLESSED MARIA CANDIDA OF THE EUCHARIST BARBA**
+> **[[maria-candida-of-the-eucharist-blessed]]
+> **Virgin**
+> **Optional Memorial**
 
 Blessed Maria Candida of the Eucharist was born on 16 January 1884 in Catanzano. Her parents, Pietro Barba and Giovanna Florona, returned to Palermo, Sicily, where she received First Holy Communion 3rd April 1894. In 1919 she entered the Discalced Carmelite Monastery, Ragusa, making solemn profession 23rd April 1924. She was Prioress and Mistress of Novices many times, radiating a sense of Carmelite holiness both within and outside of the community, influencing others with her love for the Eucharist, as well as by her numerous writings. She died on 12th June 1949, the solemnity of the Holy Trinity, and was beatified 21st March 2004.
 
 From the common of virgins; psalms from the current weekday
 
-# Office of Readings
+## Office of Readings
 
 **Second Reading**From the writings of M. Maria Candida of the Eucharist
 
@@ -49,9 +53,9 @@ To be close to our Lord in the Blessed Sacrament, like the Saints in Heaven, who
 
 **Responsory**
 
-R/. I am the living bread which has come down from heaven and the bread that I shall give is my flesh, for the life of the world. * Anyone who eats this bread will live forever.
+R/. I am the living bread which has come down from heaven and the bread that I shall give is my flesh, for the life of the world. Anyone who eats this bread will live forever.
 
-R/. Whoever eats my flesh and drinks my blood lives in me and I live in them. * Anyone who eats this bread will live forever.
+R/. Whoever eats my flesh and drinks my blood lives in me and I live in them. Anyone who eats this bread will live forever.
 
 **Prayer**
 
@@ -63,10 +67,12 @@ Who lives and reigns with Youin the unity of the Holy Spirit,
 
 God, forever and ever.
 
-![14 June- Blessed Maria Candida of the Eucharist Barba-2024-07-22-1](images/14%20June-%20Blessed%20Maria%20Candida%20of%20the%20Eucharist Barba-2024-07-22-1.jpeg)
-
 *Blessed Maria Candida of the Eucharist (1884-1949)*
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
 
-14 June: Blessed Maria Candida of the Eucharist Barba
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/06/12/candidalit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

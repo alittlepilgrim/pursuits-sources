@@ -13,7 +13,7 @@ birthday: 1347-03-25
 death_date: 1380-04-29
 celebration: 04-29
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-17
 publish: false
 ---
 

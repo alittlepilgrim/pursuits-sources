@@ -10,7 +10,7 @@ tags:
   - author/ocd-general-curia
   - subject/ecology
 created: 2026-04-07
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 attachment: true
 ---
@@ -18,6 +18,8 @@ attachment: true
 ![[banner-john-name.png]]
 
 # Text 3 : Creation as a ‘Messenger’
+
+[Source](https://www.carmelitaniscalzi.com/wp-content/uploads/2026/01/EN_Scheda-3-A4-2026.pdf)
 
 ## Suggestions for Community Gathering
 
@@ -73,9 +75,7 @@ She addresses creatures, then, in this stanza, asking them about her Beloved. An
 
 4\. This verse refers to her reflection on the heavens. She calls them a “green meadow” because the created things in them are as green growing plants that neither die nor fade with time, and in them, as in cool green meadows, the just find their recreation and delight. The diversity of the beautiful stars and other heavenly planets is also included in this meditation.
 
-5\. The Church likewise uses the word “green” to express heavenly things. In praying to God for the souls of the faithful departed, she says, speaking to them: Constituat vos Dominus inter amoena viren- tia, which means: May God set you in delightful green places. And she says that this green meadow
-
-is also
+5\. The Church likewise uses the word “green” to express heavenly things. In praying to God for the souls of the faithful departed, she says, speaking to them: Constituat vos Dominus inter amoena viren- tia, which means: May God set you in delightful green places. And she says that this green meadow is also
 
 *Coated, bright, with flowers,*
 
@@ -89,7 +89,7 @@ is also
 
 [[laudato-si#^laudato-p85]] **LS 85.** God has written a precious book, “whose letters are the multitude of created things present in the universe”. The Canadian bishops rightly pointed out that no creature is excluded from this manifestation of God: “From panoramic vistas to the tiniest living form, nature is a constant source of wonder and awe. It is also a continuing revelation of the divine”. The bishops of Japan, for their part, made a thought-provoking observation: “To sense each creature singing the hymn of its existence is to live joyfully in God’s love and hope”. This contemplation of crea- tion allows us to discover in each thing a teaching which God wishes to hand on to us, since “for 3the believer, to contemplate creation is to hear a message, to listen to a paradoxical and silent voice”. We can say that “alongside revelation properly so-called, contained in sacred Scripture, there is a divine manifestation in the blaze of the sun and the fall of night”. Paying attention to this manifestation, we learn to see ourselves in relation to all other creatures: “I express myself in expressing the world; in my effort to decipher the sacredness of the world, I explore my own”.
 
-**LS 87.** When we can see God reflected in all that exists, our hearts are moved to praise the Lord for all his creatures and to worship him in union with them. This sentiment finds magnificent expression in the hymn of Saint Francis of Assisi:
+[[laudato-si#^laudato-p87]] **LS 87.** When we can see God reflected in all that exists, our hearts are moved to praise the Lord for all his creatures and to worship him in union with them. This sentiment finds magnificent expression in the hymn of Saint Francis of Assisi:
 
 *Praised be you, my Lord, with all your creatures,*
 
@@ -121,19 +121,16 @@ is also
 
 *and he is beautiful and playful and robust and strong.*
 
-LS 97. The Lord was able to invite others to be attentive to the beauty that there is in the world because he himself was in constant touch with nature, lending it an attention full of fondness and wonder. As he made his way throughout the land, he often stopped to contemplate the beauty sown by his Father, and invited his disciples to perceive a divine message in things: “Lift up your eyes, and see how the fields are already white for harvest” (Jn 4:35). “The kingdom of God is like a grain of mustard seed which a man took and sowed in his field; it is the smallest of all seeds, but once it has grown, it is the greatest of plants” (Mt 13:31-32).
+[[laudato-si#^laudato-p97]] **LS 97.** The Lord was able to invite others to be attentive to the beauty that there is in the world because he himself was in constant touch with nature, lending it an attention full of fondness and wonder. As he made his way throughout the land, he often stopped to contemplate the beauty sown by his Father, and invited his disciples to perceive a divine message in things: “Lift up your eyes, and see how the fields are already white for harvest” (Jn 4:35). “The kingdom of God is like a grain of mustard seed which a man took and sowed in his field; it is the smallest of all seeds, but once it has grown, it is the greatest of plants” (Mt 13:31-32).
 
 ## Questions
 
-. How does John of the Cross describe nature as a messenger in stanza 4 of the Spiritual Canticle B? What spiritual role does this messenger fulfil according to him?
+- How does John of the Cross describe nature as a messenger in stanza 4 of the Spiritual Canticle B? What spiritual role does this messenger fulfil according to him?
+- How does Laudato Si’ (no. 87) develop this idea of nature as a place of encounter with God? For you personally, is creation more like a “book” (LS 87) or a “messenger” (John of the Cross)? Why?
+- Again in Laudato Si’, at number 87, we clearly see that creation speaks to us of God, and that this constant dialogue between nature and humanity is a place of encounter with God. In what way does this idea echo that of John of the Cross, for whom nature carries a divine message addressed directly to the human soul?
+- If creation is a “messenger” of God, how does this change our way of seeing all living things (animals, landscapes, resources)? And how can we reconcile a spirituality of creation (as in John of the Cross) with the ecological urgencies highlighted in Laudato Si’?
 
-. How does Laudato Si’ (no. 87) develop this idea of nature as a place of encounter with God? For you personally, is creation more like a “book” (LS 87) or a “messenger” (John of the Cross)? Why?
-
-. Again in Laudato Si’, at number 87, we clearly see that creation speaks to us of God, and that this constant dialogue between nature and humanity is a place of encounter with God. In what way does this idea echo that of John of the Cross, for whom nature carries a divine message addressed directly to the human soul?
-
-. If creation is a “messenger” of God, how does this change our way of seeing all living things (animals, landscapes, resources)? And how can we reconcile a spirituality of creation (as in John of the Cross) with the ecological urgencies highlighted in Laudato Si’?
-
-# Links
+## Links
 
 - [[jc-sc-toc|Spiritual Canticle by St. John of the Cross]] - [[stc-2-sp|Texto 2: La Creación, un Icono - San Juan de la Cruz y la Creación]] - [[laudato-si|Laudato SI’ by Pope Francis]]
 

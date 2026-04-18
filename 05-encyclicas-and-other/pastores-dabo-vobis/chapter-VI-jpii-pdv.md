@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter VI – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Chapter VI. The Ongoing Formation of Priests
+  - Chapter VI. The Ongoing Formation of Priests – Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter VI. The Ongoing Formation of Priests
+modified: 2026-04-14
+publish: true
+description: Chapter VI. The Ongoing Formation of Priests – Pastores Dabo Vobis
 ---
 
 ← [[chapter-V-jpii-pdv|Chapter V. The Formation of Candidates for the Priesthood]] | [[pastores-dabo-vobis|Table of Contents]] | [[conclusion-jpii-pdv|Conclusion]] →
 
 # Chapter VI. The Ongoing Formation of Priests
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 ***Theological Reasons Behind Ongoing Formation***
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Bible (Glossary Definition)
 aliases:
   - Bible (Glossary Definition)

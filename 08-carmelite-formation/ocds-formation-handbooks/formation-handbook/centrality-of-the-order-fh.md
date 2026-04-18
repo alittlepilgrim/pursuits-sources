@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: Centrality of the Order and the Church in the Program of Formation – OCDS Formation Handbook
 ---
 

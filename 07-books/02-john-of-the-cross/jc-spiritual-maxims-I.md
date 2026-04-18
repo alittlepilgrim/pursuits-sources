@@ -12,7 +12,7 @@ tags:
   - subject
 created: 2025-07-25
 modified: 2026-04-07
-publish: false
+publish: true
 description: Spiritual Maxims I By St. John of the Cross
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Honor
 author:
 source: Divine Intimacy Meditations

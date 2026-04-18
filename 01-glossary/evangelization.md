@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Evangelization
 aliases:
   - evangelization
@@ -29,7 +29,7 @@ Jesus' commissioning of his disciples to evangelize the whole world: Mt 28:19-20
 
 Mission of evangelization directed to Jew and Gentile alike: Mt 24:14; Mk 13:10; Acts 13:47; 14:15; 17:30-31; Rom 2:10; 10:12-18; 11:12, 15, 25-26; 1 Cor 1:24; 12:13
 
-*See also* [[Church]]; [[Gospel]]; [[Jews]]
+*See also* [[church]]; [[gospel]]; [[jews]]
 
 ### Sources
 

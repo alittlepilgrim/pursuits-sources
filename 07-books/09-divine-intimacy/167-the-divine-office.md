@@ -14,7 +14,7 @@ tags:
   - term/prayer
   - term/sacred-scriptures
 created: 2025-05-09
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /the-divine-office
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
@@ -57,7 +57,7 @@ Even if the obligation of reciting the Divine Office is not involved, and a few 
 - #term/sacred-scriptures - Inspired by the Holy Spirit: 167,2; 190,2 - [[sacred-scriptures|Sacred Scriptures]]
 - #term/church the - Participation in the universal prayer of the Church: 165, 2; 167, 1, 2 [[167-the-divine-office|167. The Divine Office]] - [[church|The Church]]
 - #term/church - Prays through the hearts of her children; the more fervent they are, the more pleasing will their prayer be to God: 167, 2 [[167-the-divine-office|167. The Divine Office]]- [[church|The Church]]
-- #term/prayer - Relationship between liturgical prayer and personal prayer: 164,2; 167,2 - [[167-the-divine-office|167. The Divine Office]] - [[pursuits-sources/01-glossary/prayer|Prayer]]
+- #term/prayer - Relationship between liturgical prayer and personal prayer: 164,2; 167,2 - [[167-the-divine-office|167. The Divine Office]] - [[pursuits-texts/01-glossary/prayer|Prayer]]
 
 # References
 

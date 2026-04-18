@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Defects
 author:
 source: Divine Intimacy Meditations

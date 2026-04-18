@@ -3,7 +3,7 @@ type: book
 title: Explanation of the Stanzas – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.vi.html
 aliases:
   - Explanation of the Stanzas – Spiritual Canticle By St. John of the Cross
   - explanation-jc-sc
@@ -11,7 +11,7 @@ tags:
   - author/saint-john-of-the-cross
   - type/book
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: Explanation of the Stanzas – Spiritual Canticle By St. John of the Cross
 ---
@@ -19,6 +19,8 @@ description: Explanation of the Stanzas – Spiritual Canticle By St. John of th
 [[argument-jc-sc|← Argument]] | [[jc-sc-toc|↑ Contents]] | [[stanza-i-jc-sc|Stanza I →]]
 
 # Explanation of the Stanzas
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.vi.html)
 
 ## Note
 

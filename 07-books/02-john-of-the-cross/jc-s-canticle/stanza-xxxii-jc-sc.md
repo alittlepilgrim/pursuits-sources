@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxviii.html
 aliases:
   - Stanza XXXII – Spiritual Canticle By St. John of the Cross
   - stanza-xxxii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXII – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxi-jc-sc|← Stanza XXXI]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxiii-jc-sc|Stanza XXXIII →]]
 
 # Stanza XXXII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxviii.html)
 
 When You regarded me, Yours eyes imprinted in me Your grace: For this You loved me again, And thereby my eyes merited To adore what in You they saw.
 

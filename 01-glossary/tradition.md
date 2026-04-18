@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Tradition
 aliases:
   - tradition
@@ -31,7 +31,7 @@ Tradition as handing on the truth about Jesus from the eyewitnesses: Lk 1:2; 1 C
 
 Unwritten apostolic teaching as a norm for faith and practice: Mt 28:20; 1 Cor 11:2, 23; 2 Thess 2:15; 3:6; 2 Tim 1:13; Tit 1:9
 
-*See also* [[apostle|Apostles]]; [[Authority]]; [[Church]]; [[Revelation]]; *[[sola-scriptura|Sola Scriptura]];* [[word-of-god|Word of God]]] 
+*See also* [[apostle|Apostles]]; [[authority]]; [[church]]; [[revelation]]; *[[sola-scriptura|Sola Scriptura]];* [[word-of-god|Word of God]]] 
 
 ### Sources
 

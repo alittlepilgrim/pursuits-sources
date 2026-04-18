@@ -8,14 +8,12 @@ aliases:
 tags:
   - bible
 created: 2025-07-30
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
-description: Preface to the Revised New American Bible Old Testament
+description: Preface to the Revised New American Bible Old Testament. New American Bible, revised edition 2010, 1991, 1986, 1970. Confraternity of Christian Doctrine, Washington, D.C.
 ---
 
 # Preface to the Revised New American Bible Old Testament
-
-## Preface to the Revised New American Bible Old Testament
 
 The first step in the genesis of the New American Bible was taken in 1936 when His Excellency, the Most Reverend Edwin V. O’Hara, D.D., chairman of the Episcopal Committee of the Confraternity of Christian Doctrine, invited a group of Catholic Scripture scholars to plan for a revised edition of the Challoner-Rheims New Testament, primarily on the basis of the Vulgate; the plans soon expanded to include the revision of the Old Testament. Archbishop O’Hara’s initiative resulted in the formation of the Catholic Biblical Association, whose principal activity in its early years was this work of revision and translation. (For information on the work done on the New Testament, see the “Preface to the New American Bible: First Edition of the New Testament” and “Preface to the Revised Edition.”) In 1943 His Holiness Pope Pius XII issued the encyclical *Divino afflante spiritu*, which encouraged Scripture scholars to translate the Scriptures from the original languages. He wrote: “We ought to explain the original text which was written by the inspired author himself and has more authority and greater weight than any, even the very best, translation whether ancient or modern. This can be done all the more easily and fruitfully if to the knowledge of languages be joined a real skill in literary criticism of the same text.” Although at this point work on almost twenty of the Old Testament books was completed or near completion, that work was abandoned and the new project of translating from the Hebrew, Greek, and Aramaic was undertaken.
 
@@ -29,6 +27,6 @@ Where the Old Testament translation supposes the received text—Hebrew, Aramaic
 
 In particular, important manuscripts from Cave 4 of Qumran, as well as the most useful recensions of the Septuagint, have been consulted in the preparation of 1 and 2 Samuel. Fragments of the lost Book of Tobit in Aramaic and in Hebrew, recovered from Cave 4 of Qumran, are in substantial agreement with the Sinaiticus Greek recension used for the translation of this book. The lost original Hebrew text of 1 Maccabees is replaced by its oldest extant form in Greek. Judith, 2 Maccabees, and parts of Esther are also translated from the Greek. The translation of the Wisdom of Ben Sira is based on the original Hebrew as far as it is preserved, with corrections from the ancient versions; otherwise, the Greek of the Septuagint is followed. In the Book of Baruch the basic text is the Greek of the Septuagint, with some readings derived from an underlying Hebrew form no longer extant. In the deuterocanonical sections of Daniel ([3:24] – [90](https://bible.usccb.org/bible/35-dn-az/003?090#34003090); [13:1] – [14:42]), the basic text is the Greek text of so-called Theodotion, occasionally revised according to the Greek text of the Septuagint.
 
----
+## Source
 
 _New American Bible, revised edition_ (2010, 1991, 1986, 1970) Confraternity of Christian Doctrine, Washington, D.C.

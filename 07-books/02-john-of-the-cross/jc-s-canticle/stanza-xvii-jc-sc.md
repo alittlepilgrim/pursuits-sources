@@ -3,7 +3,7 @@ type: book
 title: Stanza XVII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxiii.html
 aliases:
   - Stanza XVII – Spiritual Canticle By St. John of the Cross
   - stanza-xvii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XVII – Spiritual Canticle By St. John of the Cross
 [[stanza-xvi-jc-sc|← Stanza XVI]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xviii-jc-sc|Stanza XVIII →]]
 
 # Stanza XVII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxiii.html)
 
 O killing north wind, cease!
 

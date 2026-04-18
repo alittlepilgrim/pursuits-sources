@@ -11,13 +11,15 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Decree on the Mission Activity of the Church - Ad Gentes
-abbreviation: ag
+anchor: ag
 ---
 
 # Ad Gentes
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html)
 
 ## Decree on the Mission Activity of the Church
 
@@ -582,5 +584,3 @@ CHAPTER VI
 12\. Cf. Dogmatic constitution, "*[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*," 46. ^ag-fn-ch6-12
 
 13\. Cf. Pius XII, "*[Evangelii Praecones](https://www.vatican.va/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones_en.html)*" (AAS 1951, 527)John XXIII, "*[Princeps Pastorum](http://www.vatican.net/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps_en.html)*" (AAS 1959, 864). ^ag-fn-conclusion-13
-
-In order that this missionary work of the particular church may be performed, there is need of qualified ministers, who are to be prepared in due time in a way suited to the conditions of each church. Now since men are more and more banding together into associations, it is very fitting that episcopal conferences should form a common plan concerning the dialogue to be held with such associations. But if perchance in certain regions, groups of men are to be found who are kept away from embracing the Catholic Faith because they cannot adapt themselves to the peculiar form which the church has taken in there, it is hoped that this condition will be provided for in a special way,<sup>[[#^ag-fn-ch3-4|(4)]] </sup> until such time as all Christians can gather together in

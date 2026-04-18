@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Revelation
 aliases:
   - revelation
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-09
 modified: 2026-04-09
-publish: false
+publish: true
 description: revelation. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 
@@ -33,7 +33,7 @@ Paul's received revelation of the mystery revealed through the apostles: Eph 3:3
 
 Paul's revelation to go up to Jerusalem: Gal 2:2
 
-*See also* [[jesus-christ|Jesus]]; [[scripture-sacred|Scripture]]; [[Tradition]]; [[Truth]]; [[word-of-god|Word of God]]] 
+*See also* [[jesus-christ|Jesus]]; [[scripture-sacred|Scripture]]; [[tradition]]; [[truth]]; [[word-of-god|Word of God]]] 
 
 ### Sources
 

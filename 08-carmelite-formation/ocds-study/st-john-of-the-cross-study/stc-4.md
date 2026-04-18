@@ -10,7 +10,7 @@ tags:
   - author/ocd-general-curia
   - subject/ecology
 created: 2026-04-07
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 attachment: true
 ---
@@ -19,9 +19,15 @@ attachment: true
 
 # Text 4 – Creation as a Quasi-sacrament
 
+[Source](https://www.carmelitaniscalzi.com/wp-content/uploads/2026/03/EN_Scheda-4-A4-2026.pdf)
+
 ## Suggestions for Community Gathering
 
-1. Read the text together. 2. A member of the group who has prepared something in advance presents their reflections on the text, drawing on the commentary and other resources as needed. 3. Share together as a community in response to the text. _It would be helpful if each person had read and reflected on John’s text individually before the group meeting._
+1. Read the text together.
+2. A member of the group who has prepared something in advance presents their reflections on the text, drawing on the commentary and other resources as needed.
+3. Share together as a community in response to the text.
+
+_It would be helpful if each person had read and reflected on John’s text individually before the group meeting._
 
 ## Introduction to the Text
 
@@ -93,15 +99,15 @@ It should be known that in divine Scripture this term “supper” refers to the
 
 ## Laudato SI’
 
-**LS 9.** As Christians, we are also called “to accept the world as a sacrament of communion, as a way of sharing with God and our neighbours on a global scale. It is our humble conviction that the divine and the human meet in the slightest detail in the seamless garment of God’s creation, in the last speck of dust of our planet”.
+[[laudato-si#^laudato-p9]] **LS 9.** As Christians, we are also called “to accept the world as a sacrament of communion, as a way of sharing with God and our neighbours on a global scale. It is our humble conviction that the divine and the human meet in the slightest detail in the seamless garment of God’s creation, in the last speck of dust of our planet”.
 
 In VI. Sacramental signs and the celebration of rest (LS 233-237)
 
-**LS 234.** Saint John of the Cross taught that all the goodness present in the realities and experiences of this world “is present in God eminently and infinitely, or more properly, in each of these sublime realities is God”. This is not because the finite things of this world are really divine, but because the mystic experiences the intimate connection between God and all beings, and thus feels that “all things are God”. Standing awestruck before a mountain, he or she cannot separate this experience from God, and perceives that the interior awe being lived has to be entrusted to the Lord: “Mountains have heights and they are plentiful, vast, beautiful, graceful, bright and fragrant. These mountains are what my Beloved is to me. Lonely valleys are quiet, pleasant, cool, shady and flowing with fresh water; in the variety of their groves and in the sweet song of the birds, they afford abundant recreation and delight to the senses, and in their solitude and silence, they refresh us and give rest. These valleys are what my Beloved is to me”.
+[[laudato-si#^laudato-p234]] **LS 234.** Saint John of the Cross taught that all the goodness present in the realities and experiences of this world “is present in God eminently and infinitely, or more properly, in each of these sublime realities is God”. This is not because the finite things of this world are really divine, but because the mystic experiences the intimate connection between God and all beings, and thus feels that “all things are God”. Standing awestruck before a mountain, he or she cannot separate this experience from God, and perceives that the interior awe being lived has to be entrusted to the Lord: “Mountains have heights and they are plentiful, vast, beautiful, graceful, bright and fragrant. These mountains are what my Beloved is to me. Lonely valleys are quiet, pleasant, cool, shady and flowing with fresh water; in the variety of their groves and in the sweet song of the birds, they afford abundant recreation and delight to the senses, and in their solitude and silence, they refresh us and give rest. These valleys are what my Beloved is to me”.
 
-**LS 235.** The Sacraments are a privileged way in which nature is taken up by God to become a means of mediating supernatural life. Through our worship of God, we are invited to embrace the world on a different plane. Water, oil, fire and colours are taken up in all their symbolic power and incorporated in our act of praise. The hand that blesses is an instrument of God’s love and a reflection of the closeness of Jesus Christ, who came to accompany us on the journey of life. Water poured over the body of a child in Baptism is a sign of new life. Encountering God does not mean fleeing from this world or turning our back on nature. (…)
+[[laudato-si#^laudato-p235]] **LS 235.** The Sacraments are a privileged way in which nature is taken up by God to become a means of mediating supernatural life. Through our worship of God, we are invited to embrace the world on a different plane. Water, oil, fire and colours are taken up in all their symbolic power and incorporated in our act of praise. The hand that blesses is an instrument of God’s love and a reflection of the closeness of Jesus Christ, who came to accompany us on the journey of life. Water poured over the body of a child in Baptism is a sign of new life. Encountering God does not mean fleeing from this world or turning our back on nature. (…)
 
-**LS 236.** It is in the Eucharist that all that has been created finds its greatest exaltation. Grace, which tends to manifest itself tangibly, found unsurpassable expression when God himself became man and gave himself as food for his creatures. The Lord, in the culmination of the mystery of the Incarnation, chose to reach our intimate depths through a fragment of matter. He comes not from above, but from within, he comes that we might find him in this world of ours. In the Eucharist, fullness is already achieved; it is the living centre of the universe, the overflowing core of love and of inexhaustible life. Joined to the incarnate Son, present in the Eucharist, the whole cosmos gives thanks to God. Indeed the Eucharist is itself an act of cosmic love: “Yes, cosmic! Because even when it is celebrated on the humble altar of a country church, the Eucharist is always in some way celebrated on the altar of the world”. The Eucharist joins heaven and earth; it embraces and penetrates all creation. The world which came forth from God’s hands returns to him in blessed and undivided adoration: in the bread of the Eucharist, “creation is projected towards divinization, towards the holy wedding feast, towards unification with the Creator himself”. Thus, the Eucharist is also a source of light and motivation for our concerns for the environment, directing us to be stewards of all creation.
+[[laudato-si#^laudato-p236]] **LS 236.** It is in the Eucharist that all that has been created finds its greatest exaltation. Grace, which tends to manifest itself tangibly, found unsurpassable expression when God himself became man and gave himself as food for his creatures. The Lord, in the culmination of the mystery of the Incarnation, chose to reach our intimate depths through a fragment of matter. He comes not from above, but from within, he comes that we might find him in this world of ours. In the Eucharist, fullness is already achieved; it is the living centre of the universe, the overflowing core of love and of inexhaustible life. Joined to the incarnate Son, present in the Eucharist, the whole cosmos gives thanks to God. Indeed the Eucharist is itself an act of cosmic love: “Yes, cosmic! Because even when it is celebrated on the humble altar of a country church, the Eucharist is always in some way celebrated on the altar of the world”. The Eucharist joins heaven and earth; it embraces and penetrates all creation. The world which came forth from God’s hands returns to him in blessed and undivided adoration: in the bread of the Eucharist, “creation is projected towards divinization, towards the holy wedding feast, towards unification with the Creator himself”. Thus, the Eucharist is also a source of light and motivation for our concerns for the environment, directing us to be stewards of all creation.
 
 ## Questions
 
@@ -110,6 +116,6 @@ In VI. Sacramental signs and the celebration of rest (LS 233-237)
 3. Compare the Christian vision with other approaches according to your own country and cultural background (e.g. the sacredness of the land in Indigenous American spiritualities, but also Zen Buddhism, Hinduism, and various forms of animism).
 4. In what way can a sacramental vision of creation offer a response to the current ecological crisis?
 
-# Links
+## Links
 
 - [[jc-sc-toc|Spiritual Canticle by St. John of the Cross]] - [[stc-3]] - [[laudato-si|Laudato SI’ by Pope Francis]]

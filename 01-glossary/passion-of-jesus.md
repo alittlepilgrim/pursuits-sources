@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Passion of Jesus
 aliases:
   - Passion of Jesus

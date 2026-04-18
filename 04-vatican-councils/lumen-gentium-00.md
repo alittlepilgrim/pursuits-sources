@@ -2,6 +2,7 @@
 type: magisterium
 title: Lumen Gentium
 author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html
 aliases:
   - Lumen Gentium
 tags:
@@ -11,12 +12,14 @@ tags:
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-11-20
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Dogmatic Constitution On The Church Solemnly Promulgated By His Holiness Pope Paul VI On November 21 1964
 ---
 
 # Lumen Gentium
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
 
 ## Dogmatic Constitution on the Church Solemnly Promulgated by His Holiness Pope Paul VI on November 21, 1964
 

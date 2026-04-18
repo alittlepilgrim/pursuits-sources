@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 13. Continues to Treat of Mortification and Explains How One Must Renounce the World's Standards of Wisdom in Order to Attain to True Wisdom
 ---
 

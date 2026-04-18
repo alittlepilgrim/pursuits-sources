@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXIX – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xlv.html
 aliases:
   - Stanza XXXIX – Spiritual Canticle By St. John of the Cross
   - stanza-xxxix-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXIX – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxviii-jc-sc|← Stanza XXXVIII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xl-jc-sc|Stanza XL →]]
 
 # Stanza XXXIX
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xlv.html)
 
 The breathing of the air, The song of the sweet nightingale, The grove and its beauty In the serene night, With the flame that consumes, and gives no pain.
 

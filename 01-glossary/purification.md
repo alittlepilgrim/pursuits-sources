@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Purification
 author:
 source: Divine Intimacy Meditations

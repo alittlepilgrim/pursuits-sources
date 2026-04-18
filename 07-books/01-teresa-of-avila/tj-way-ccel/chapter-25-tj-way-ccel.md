@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 25. Describes the Great Gain Which Comes to a Soul When It Practises Vocal Prayer Perfectly. Shows How God May Raise It Thence to Things Supernatural
 ---
 

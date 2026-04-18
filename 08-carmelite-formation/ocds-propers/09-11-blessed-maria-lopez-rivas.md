@@ -2,6 +2,8 @@
 type: ocds-proper
 title: September 11, Blessed Maria of Jesus Lopez Rivas
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/09/09/lopezlit25/
 aliases:
   - 09-11-blessed-maria-lopez-rivas
   - 20250911-000001
@@ -11,18 +13,22 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 09-11
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-07
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers 09-11, Blessed Maria of Jesus Lopez Rivas, Virgin, Optional Memorial
 ---
 
+← [[09-01-st-teresa-margaret-of-the-sacred-heart-of-jesus-redi|Sep 1, St Teresa Margaret Redi]] | [[OCDS Propers|Table of Contents]] | [[09-17-st-albert-of-jerusalem|Sep 17, St Albert of Jerusalem]] →
+
+
 # September 11, Blessed Maria of Jesus Lopez Rivas
 
-> September 11
-> BLESSED MARY OF JESUS LÓPEZ RIVAS
-> Virgin
-> Optional Memorial
+> **September 11**
+> **BLESSED MARY OF JESUS LÓPEZ RIVAS**
+> **Virgin**
+> **Optional Memorial**
 
 *In houses in Spain: Memorial*
 
@@ -54,13 +60,13 @@ who lives and reigns with you and the Holy Spirit,
 
 God, forever and ever.
 
-# Morning Prayer
+## Morning Prayer
 
-## **Canticle Of Zechariah**
+## ## Canticle of Zechariah
 
 Ant. Blessed be God, who has blessed us in Christ with every spiritual blessing.
 
-## **Prayer**
+## Prayer**
 
 Lord,
 
@@ -82,15 +88,15 @@ who lives and reigns with you and the Holy Spirit,
 
 God, forever and ever.
 
-# Evening Prayer
+## Evening Prayer
 
-## **Canticle Of Mary**
+## Canticle Of Mary**
 
 Ant. If you gladly share Christ’s sufferings, you will have far greater joy when his glory is revealed.
 
-# Office of Readings
+## Office of Readings
 
-## **Second Reading**
+## Second Reading**
 
 From the Interior Castle of Saint Teresa of Avila
 
@@ -106,8 +112,14 @@ The company of our beloved Jesus, and his blessed Mother, is far too good to be 
 
 Our Lord said himself, No one can come to the Father except through me, and Whoever sees me, sees my Father. So if we never look at him, or think about what we owe him and the death he underwent for our sake, I don’t see how we can hope to know him or do anything to serve him. (Without such good works, what good is faith? And what good are works unless they are joined to the merits of Jesus Christ, our only good, which alone have any worth?) And how can anyone persuade us to love our Lord?
 
-## **Responsory**
+## Responsory**
 
-R./ Let your hearts be comforted in the knowledge of Christ, God’s mystery:  in him lies hidden every treasure of wisdom and knowledge.
+R/. Let your hearts be comforted in the knowledge of Christ, God’s mystery:  in him lies hidden every treasure of wisdom and knowledge.
 
-V./ You must live in him, be rooted in him, built upon him;  in him lies hidden every treasure of wisdom and knowledge.
+V/. You must live in him, be rooted in him, built upon him;  in him lies hidden every treasure of wisdom and knowledge.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/09/09/lopezlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

@@ -3,7 +3,7 @@ type: book
 title: Stanza I – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.vii.html
 aliases:
   - Stanza I – Spiritual Canticle By St. John of the Cross
   - stanza-i-jc-sc
@@ -11,7 +11,7 @@ tags:
   - author/saint-john-of-the-cross
   - type/book
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: Stanza I – Spiritual Canticle – Spiritual Canticle By St. John of the Cross
 ---
@@ -19,6 +19,8 @@ description: Stanza I – Spiritual Canticle – Spiritual Canticle By St. John 
 [[explanation-jc-sc|← Explanation]] | [[jc-sc-toc|↑ Contents]] | [[stanza-ii-jc-sc|Stanza II →]]
 
 # Contents
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.vii.html)
 
 # Stanza I
 
@@ -113,8 +115,6 @@ IN this first stanza the soul, enamored of the Word, the Son of God, the Bridegr
 28\. This pain and sense of the absence of God is wont to be so oppressive in those who are going onwards to the state of perfection, that they would die if God did not interpose when the divine wounds are inflicted upon them. As they have the palate of the will wholesome, and the mind pure and disposed for God, and as they taste in some degree of the sweetness of divine love, which they supremely desire, so they also suffer supremely; for, having but a glimpse of an infinite good which they are not permitted to enjoy, that is to them an ineffable pain and torment.
 
 ---
-
---- | --- |
 
 [18](https://ccel.org/ccel/john_cross/canticle/canticle.vii.html#fna_vii-p2.1)[John 1:18](https://ccel.org/study/John_1:18-1:18)
 

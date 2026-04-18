@@ -87,7 +87,7 @@ attachment: false
 
 [[07-23-divine-grace|07-23, Blessed Virgin Mary Mother of Divine Grace, Memorial]]
 
-[[07-24-blessed-maria-pilar|07-24-blessed-maria-pilar-and-co]]
+[[07-24-blessed-maria-pilar|07-24, Blesseds María Pilar of Saint Francis Borgia, María Sagrario of Saint Aloysius Gonzaga and Companions, Virgins and Martyrs]]
 
 [[07-27-blessed-titus-brandsma|07-27, Saint Titus Brandsma, Priest And Martyr]]
 
@@ -103,7 +103,7 @@ attachment: false
 
 [[08-25-st-mary-of-jesus-crucified|08-25, Saint Mary of Jesus Crucified, Virgin, Memorial]]
 
-[[08-26-transverberation-of-our-holy-mother-st-teresa-of-jesus|08-26,, The Transverberation of the Heart of St. Teresa of Jesus]]
+[[08-26-transverberation-of-our-holy-mother-st-teresa-of-jesus|08-26, The Transverberation of the Heart of Saint Teresa of Jesus, Our Mother]]
 
 ## September
 
@@ -136,6 +136,8 @@ attachment: false
 [[11-15-commemoration-of-all-the-departed-of-our-order|11-15, Commemoration of All The Departed of Our Order]]
 
 [[11-19-st-raphael-kalinowski|11-19, Saint Raphael of St Joseph Kalinowski, Priest, Memorial]]
+
+[[11-25-blessed-anne-of-jesus|11-25, Blessed Anne of Jesus Lobera, Virgin, Optional Memorial]]
 
 [[11-29-blesseds-denis-berthelot|11-29, Blesseds Denis of the Nativity Berthelot, Priest And Redemptus of the Cross, Religious Martyrs]]
 

@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter III – Evangelium Vitae
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
 aliases:
-  - Chapter III. You Shall Not Kill
+  - Chapter III. You Shall Not Kill – Evangelium Vitae
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter III. You Shall Not Kill
+modified: 2026-04-14
+publish: true
+description: Chapter III. You Shall Not Kill – Evangelium Vitae
 ---
 
 ← [[chapter-II-jpii-ev|Chapter II. I Came That They May Have Life]] | [[evengelium-vitae|Table of Contents]] | [[chapter-iv-jpii-ev|Chapter IV. You Did It to Me]] →
 
 # Chapter III. You Shall Not Kill
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.htm)
 
 GOD'S HOLY LAW
 

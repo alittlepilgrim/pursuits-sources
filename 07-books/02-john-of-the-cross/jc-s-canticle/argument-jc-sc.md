@@ -3,7 +3,7 @@ type: book
 title: Argument – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.v.html
 aliases:
   - Argument – Spiritual Canticle By St. John of the Cross
   - argument-jc-sc
@@ -11,7 +11,7 @@ tags:
   - author/saint-john-of-the-cross
   - type/book
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: Argument – Spiritual Canticle By St. John of the Cross
 ---
@@ -19,6 +19,8 @@ description: Argument – Spiritual Canticle By St. John of the Cross
 [[poem-jc-sc|← Poem]] | [[jc-sc-toc|↑ Contents]] | [[explanation-jc-sc|Explanation →]]
 
 # Argument
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.v.html)
 
 These stanzas describe the career of a soul from its first entrance on the service of God till it comes to the final state of perfection --the spiritual marriage. They refer accordingly to the three states or ways of the spiritual training -- the purgative, illuminative, and unitive ways, some properties and effects of which they explain.
 

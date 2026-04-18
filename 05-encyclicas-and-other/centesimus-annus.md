@@ -11,19 +11,23 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 description: Encyclical Letter Centesimus Annus (1 May 1991)
-abbreviation: jpii-ca
+anchor: jpii-ca
 ---
 
-**JOHN PAUL II**
+JOHN PAUL II
 
 HOLY FATHER
 
 # Centesimus Annus
 
-## Encyclical Letter to His Venerable Brother Bishops in the Episcopate, the Priests and Deacons, Families of Men and Women Religious, All the Christian Faithful, and to All Men and Women of Good Will, on the Hundredth Anniversary of Rerum Novarum
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)
+
+Encyclical Letter to His Venerable Brother Bishops in the Episcopate, the Priests and Deacons, Families of Men and Women Religious, All the Christian Faithful, and to All Men and Women of Good Will,
+
+## On the Hundredth Anniversary of Rerum Novarum
 
 Blessing
 
@@ -448,8 +452,6 @@ Mary, the Mother of the Redeemer, constantly remained beside Christ in his journ
 *Given in Rome, at Saint Peter's, on 1 May, the Memorial of Saint Joseph the Worker, in the year 1991, the thirteenth of my Pontificate.*
 
 **JOHN PAUL II**
-
----
 
 ## Notes
 

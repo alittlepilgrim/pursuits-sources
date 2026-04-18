@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 33. Treats of Our Great Need That the Lord Should Give Us What We Ask in These Words of the Paternoster panem Nostrum Quotidianum Da Nobis hodie.
 ---
 

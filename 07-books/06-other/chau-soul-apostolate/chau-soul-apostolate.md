@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-03-25
 modified: 2026-04-08
-publish: false
+publish: true
 description: The Soul of the Apostolate by Dom Jean-baptist Chautard, O.C.S.O.
 attachment: false
 ---

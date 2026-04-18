@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Reincarnation
 author:
 aliases:

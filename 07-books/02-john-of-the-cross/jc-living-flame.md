@@ -9,7 +9,7 @@ tags:
   - book
 created: 2026-03-28
 modified: 2026-04-04
-publish: false
+publish: true
 ---
 
 # The Living Flame of Love by John of the Cross

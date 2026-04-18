@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Authority
 aliases:
   - authority
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-12
 modified: 2026-04-12
-publish: false
+publish: true
 ---
 
 # Authority
@@ -28,7 +28,7 @@ Obedience to human authority is subordinate to obedience to divine authority: Mt
 
 Seat of Moses and the Pharisees's authority to teach: Mt 23:2-3
 
-*See also* [[apostle|Apostles]]; [[Church]]; [[jesus-christ|Jesus]]
+*See also* [[apostle|Apostles]]; [[church]]; [[jesus-christ|Jesus]]
 
 ### Sources
 

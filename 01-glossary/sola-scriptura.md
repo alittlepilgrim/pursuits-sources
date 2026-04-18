@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Sola Scriptura
 author:
 aliases:
@@ -26,7 +26,7 @@ Pharisees and others misinterpret Scripture without an authoritative interpretat
 
 Revelation communicated apart from writing: Mt 28:19; Mk 16:15; Jn 21:24-25; 1 Cor 11:2; 2 Thess 2:15; 3:6; 2 Tim 1:13; 2:2
 
-*See also* [[apostle|Apostles]]; [[Authority]]; [[Church]]; [[Tradition]]
+*See also* [[apostle|Apostles]]; [[authority]]; [[church]]; [[tradition]]
 
 ### Sources
 

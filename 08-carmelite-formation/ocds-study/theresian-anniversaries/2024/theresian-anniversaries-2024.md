@@ -1,5 +1,5 @@
 ---
-type: ocd-readings
+type: proper
 title: Theresian Anniversaries 2024 - Manuscripts B and C - Full Text
 author: OCD General Curia
 aliases:

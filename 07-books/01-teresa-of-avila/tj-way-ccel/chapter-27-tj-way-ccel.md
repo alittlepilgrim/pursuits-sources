@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 27. Describes the Great Love Shown Us by the Lord in the First Words of the Paternoster and the Great Importance of Our Making No Account of Good Birth if We Truly Desire to Be the Daughters of God
 ---
 

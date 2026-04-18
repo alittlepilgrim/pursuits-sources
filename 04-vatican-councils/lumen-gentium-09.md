@@ -13,12 +13,14 @@ tags:
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: Lumen Gentium
 ---
 
 # Lumen Gentium Appendix
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
 
 From the Acts of the Council
 

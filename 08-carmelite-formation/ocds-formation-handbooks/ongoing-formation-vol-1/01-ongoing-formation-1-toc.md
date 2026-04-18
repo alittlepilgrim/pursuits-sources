@@ -10,7 +10,7 @@ tags:
   - type/study-guide
 created: 2025-10-30
 modified: 2026-04-07
-publish: false
+publish: true
 ---
 
 # OCDS Ongoing Formation Volume I

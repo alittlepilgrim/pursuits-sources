@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 35. Describes the Recollection Which Should Be Practised After Communion. Concludes This Subject with an Exclamatory Prayer to the Eternal Father
 ---
 

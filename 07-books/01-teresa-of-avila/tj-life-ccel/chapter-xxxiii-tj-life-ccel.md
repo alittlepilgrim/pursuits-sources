@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXXIII. The Foundation of the Monastery Hindered. Our Lord Consoles the Saint
 ---
 

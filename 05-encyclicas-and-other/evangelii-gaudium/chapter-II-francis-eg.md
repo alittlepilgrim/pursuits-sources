@@ -2,25 +2,28 @@
 type: magisterium
 title: Chapter II – Evangelii Gaudium
 author: Pope Francis
+url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
 aliases:
-  - Chapter II. Amid the Crisis of Communal Commitment
+  - Chapter II. Amid the Crisis of Communal Commitment – Evangelii Gaudium
 tags:
   - author/pope-francis
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter II. Amid the Crisis of Communal Commitment
+modified: 2026-04-14
+publish: true
+description: Chapter II. Amid the Crisis of Communal Commitment – Evangelii Gaudium
 ---
 
 ← [[chapter-I-francis-eg|Chapter I. The Church's Missionary Transformation]] | [[evangelii-gaudium|Table of Contents]] | [[chapter-III-francis-eg|Chapter III. The Proclamation of the Gospel]] →
 
 # Chapter II. Amid the Crisis of Communal Commitment
 
+[Source](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
+
 50\. Before taking up some basic questions related to the work of evangelization, it may be helpful to mention briefly the context in which we all have to live and work. Today, we frequently hear of a “diagnostic overload” which is not always accompanied by improved and actually applicable methods of treatment. Nor would we be well served by a purely sociological analysis which would aim to embrace all of reality by employing an allegedly neutral and clinical method. What I would like to propose is something much more in the line of an evangelical discernment. It is the approach of a missionary disciple, an approach “nourished by the light and strength of the Holy Spirit”.[\[53\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn53)
 
-51. It is not the task of the Pope to offer a detailed and complete analysis of contemporary reality, but I do exhort all the communities to an “ever watchful scrutiny of the signs of the times”.[\[54\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn54) This is in fact a grave responsibility, since certain present realities, unless effectively dealt with, are capable of setting off processes of dehumanization which would then be hard to reverse. We need to distinguish clearly what might be a fruit of the kingdom from what runs counter to God’s plan. This involves not only recognizing and discerning spirits, but also – and this is decisive – choosing movements of the spirit of good and rejecting those of the spirit of evil. I take for granted the different analyses which other documents of the universal magisterium have offered, as well as those proposed by the regional and national conferences of bishops. In this Exhortation I claim only to consider briefly, and from a pastoral perspective, certain factors which can restrain or weaken the impulse of missionary renewal in the Church, either because they threaten the life and dignity of God’s people or because they affect those who are directly involved in the Church’s institutions and in her work of evangelization.
+51\. It is not the task of the Pope to offer a detailed and complete analysis of contemporary reality, but I do exhort all the communities to an “ever watchful scrutiny of the signs of the times”.[\[54\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn54) This is in fact a grave responsibility, since certain present realities, unless effectively dealt with, are capable of setting off processes of dehumanization which would then be hard to reverse. We need to distinguish clearly what might be a fruit of the kingdom from what runs counter to God’s plan. This involves not only recognizing and discerning spirits, but also – and this is decisive – choosing movements of the spirit of good and rejecting those of the spirit of evil. I take for granted the different analyses which other documents of the universal magisterium have offered, as well as those proposed by the regional and national conferences of bishops. In this Exhortation I claim only to consider briefly, and from a pastoral perspective, certain factors which can restrain or weaken the impulse of missionary renewal in the Church, either because they threaten the life and dignity of God’s people or because they affect those who are directly involved in the Church’s institutions and in her work of evangelization.
 
 **I. Some challenges of today’s world**
 

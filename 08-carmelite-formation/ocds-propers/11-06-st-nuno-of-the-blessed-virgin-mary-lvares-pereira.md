@@ -2,6 +2,8 @@
 type: ocds-proper
 title: November 6, Saint Nuno of St. Mary
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/11/04/nunolit25/
 aliases:
   - 11-06-st-nuno-of-the-blessed-virgin-mary-lvares-pereira
   - 20251106-000001
@@ -11,31 +13,28 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 11-06
+celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 attachment: true
 ---
 
+← [[11-05-blessed-frances-damboise|Nov 5, Bl Frances d'Amboise]] | [[OCDS Propers|Table of Contents]] | [[11-07-blessed-francis-palau-y-quer|Nov 7, Bl Francis Palau]] →
+
+
 # November 6, Saint Nuno of St. Mary
 
-**6 November: Saint Nuno of St. Mary**
-
-*November 6
-
-SAINT NUNO OF ST. MARY* - [[nuno-alvares-pereira-blessed]]
-
-*Religious*
-
-**Optional Memorial**
-
- *In the houses in Portugal,*Memorial
+> **November 6**
+> **SAINT NUNO OF SAINT MARY** — [[nuno-alvares-pereira-blessed]]
+> **Religious**
+> **Optional Memorial** (In the houses in Portugal: Memorial)
 
 Nuno was born in 1360 and fought for many years as a soldier for the independence of Portugal. After his wife’s death, he entered the Order of Our Lady of Mount Carmel as a brother in the house he had founded in Lisbon and took the name of Nuno of Saint Mary (1423). He died there in 1431, after distinguishing himself by his prayer, penance, and filial devotion to the Mother of God.
 
 From the common of holy men (religious)
 
-Office of Readings
+## Office of Readings
 
 **Second Reading**
 
@@ -53,13 +52,13 @@ The temptations our enemy subjects us to may be cruel, but far more cruel to him
 
 Romans 13:13, 14; Psalm 119:105
 
-R./ Cast aside the works of darkness, and put on the armor of light, *== the Lord Jesus Christ*
+R/. Cast aside the works of darkness, and put on the armor of light, *== the Lord Jesus Christ*
 
-*V./ Your word is a lamp for our feet, and a light on our path, ==* the Lord Jesus Christ
+*V/. Your word is a lamp for our feet, and a light on our path, ==* the Lord Jesus Christ
 
-Morning Prayer
+## Morning Prayer
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. The Lord is my inheritance; he is good to those who seek him
 
@@ -81,16 +80,18 @@ Grant this through our Lord Jesus Christ, your Son, who lives and reigns with yo
 
 God, forever and ever.
 
-Evening Prayer
+## Evening Prayer
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Our faith is the victorious power that overcomes the world
 
-![6 November- Saint Nuno of St- Mary-2024-07-22-1](images/6%20November-%20Saint%20Nuno%20of%20St- Mary-2024-07-22-1.png)
+*Equestrian statue of St. Nuno in Batalha, Portugal*
 
- *Equestrian statue of St. Nuno in Batalha, Portugal*
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+## Sources
 
-6 November: Saint Nuno of St. Mary
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/11/04/nunolit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

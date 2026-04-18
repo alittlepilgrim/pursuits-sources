@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Beatitudes
 aliases:
   - beatitudes
@@ -8,7 +8,7 @@ tags:
   - term/beatitudes
   - type/term
 created: 2025-07-20
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
 description: beatitudes. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---

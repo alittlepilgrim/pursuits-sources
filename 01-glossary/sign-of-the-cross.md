@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Sign of the Cross
 aliases:
   - Sign of the Cross

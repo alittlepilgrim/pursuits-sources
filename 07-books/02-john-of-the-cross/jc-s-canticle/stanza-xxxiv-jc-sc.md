@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXIV – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xl.html
 aliases:
   - Stanza XXXIV – Spiritual Canticle By St. John of the Cross
   - stanza-xxxiv-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXIV – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxiii-jc-sc|← Stanza XXXIII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxv-jc-sc|Stanza XXXV →]]
 
 # Stanza XXXIV
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xl.html)
 
 THE BRIDEGROOM The little white dove Has returned to the ark with the bough; And now the turtle-dove Its desired mate On the green banks has found.
 

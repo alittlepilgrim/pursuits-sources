@@ -13,7 +13,7 @@ tags:
   - term/joseph-st
   - vault-admin/draft
 created: 2025-07-24
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /st-joseph-s-life-of-faith
 description: 373-st-joseph-life-of-faith

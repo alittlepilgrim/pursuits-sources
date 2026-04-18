@@ -10,13 +10,15 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Declaration on religious freedom - Dignitatis Humanae
-abbreviation: dh
+anchor: dh
 ---
 
 # Dignitatis Humanae
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_en.html)
 
 ## On the Right of the Person and of Communities to Social and Civil Freedom in Matters Religious Promulgated by His Holiness Pope Paul VI on December 7, 1965
 

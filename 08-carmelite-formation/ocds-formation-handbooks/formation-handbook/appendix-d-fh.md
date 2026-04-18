@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix D: Fr. Gen. Saverio Cannistra’s May 24, 2021, Letter to the OCDS – OCDS Formation Handbook"
 ---
 

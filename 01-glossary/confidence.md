@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Confidence
 author:
 source: Divine Intimacy Meditations

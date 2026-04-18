@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Death
 author:
 source: Divine Intimacy Meditations

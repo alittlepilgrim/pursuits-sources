@@ -9,7 +9,7 @@ tags:
   - type/toc
 language: EN
 created: 2026-04-09
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
 permalink: /bible-studies
 attachment: false
@@ -23,7 +23,7 @@ attachment: false
 
 [[Bible Studies#Indexes|Indexes]] | [[Bible Studies#New Testament Commentary|NT Commentary]] | [[Bible Studies#Old Testament Studies|OT Studies]]
 
-[[Bible.md|Bible MOC]]
+[[Bible|Bible MOC]]
 
 ---
 

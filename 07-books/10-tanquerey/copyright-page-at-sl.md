@@ -23,7 +23,7 @@ Censor Deputatus
 
 Imprimatur:
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00002.jpeg]] Michael J. Curley
+![[pursuits-texts/07-books/10-tanquerey/assets/00002.jpeg]] Michael J. Curley
 
 Archbishop of Baltimore
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Apostles' Creed
 aliases:
   - apostles-creed

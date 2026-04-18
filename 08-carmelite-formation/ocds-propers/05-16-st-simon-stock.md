@@ -2,6 +2,8 @@
 type: ocds-proper
 title: May 16, Saint Simon Stock
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/05/14/stocklit25/
 aliases:
   - 05-16-st-simon-stock
   - 20250731-121449
@@ -11,23 +13,26 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 05-16
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers undefined
 ---
+
+← [[05-04-blesseds-angelus-maria|May 4, Blesseds Angelus & Co]] | [[OCDS Propers|Table of Contents]] | [[05-22-st-joachina|May 22, St Joachina]] →
+
 
 # May 16, Saint Simon Stock
 
 > **May 16
 > SAINT SIMON STOCK - [[simon-stock-saint]]
 > Religious**
-
-**Optional Memorial**
+> **Optional Memorial**
 
 _In the houses in the United Kingdom and Ireland_: Memorial
 
-==Simon,== an Englishman, died at Bordeaux in the mid-thirteenth century. He has been venerated in the Carmelite Order for his personal holiness and his devotion to Our Lady. A liturgical celebration in his honor was observed locally in the fifteenth century, and later extended to the whole Order.
+Simon, an Englishman, died at Bordeaux in the mid-thirteenth century. He has been venerated in the Carmelite Order for his personal holiness and his devotion to Our Lady. A liturgical celebration in his honor was observed locally in the fifteenth century, and later extended to the whole Order.
 
 From the Common of Holy Men (Religious)
 
@@ -63,7 +68,7 @@ V/. The world and its cravings pass away, but those who do God’s will stand f
 
 ## Morning Prayer
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. The Lord is all that I have; the Lord is good to the soul that seeks Him (alleluia).
 
@@ -89,6 +94,12 @@ God, for ever and ever.
 
 ## Evening Prayer
 
-**Canticle of Mary**
+## Canticle of Mary
 
 **Ant.** Where brethren are united in praising God, there the Lord will bestow His blessing (alleluia).
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/05/14/stocklit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

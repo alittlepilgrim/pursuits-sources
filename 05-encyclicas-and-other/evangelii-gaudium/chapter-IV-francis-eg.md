@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter IV – Evangelii Gaudium
 author: Pope Francis
+url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
 aliases:
-  - Chapter IV. The Social Dimension of Evangelization
+  - Chapter IV. The Social Dimension of Evangelization – Evangelii Gaudium
 tags:
   - author/pope-francis
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter IV. The Social Dimension of Evangelization
+modified: 2026-04-14
+publish: true
+description: Chapter IV. The Social Dimension of Evangelization – Evangelii Gaudium
 ---
 
 ← [[chapter-III-francis-eg|Chapter III. The Proclamation of the Gospel]] | [[evangelii-gaudium|Table of Contents]] | [[chapter-V-francis-eg|Chapter V. Spirit-Filled Evangelizers]] →
 
 # Chapter IV. The Social Dimension of Evangelization
+
+[Source](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
 176\. To evangelize is to make the kingdom of God present in our world. Yet “any partial or fragmentary definition which attempts to render the reality of evangelization in all its richness, complexity and dynamism does so only at the risk of impoverishing it and even of distorting it”.[\[140\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn140) I would now like to share my concerns about the social dimension of evangelization, precisely because if this dimension is not properly brought out, there is a constant risk of distorting the authentic and integral meaning of the mission of evangelization.
 
@@ -100,9 +103,7 @@ and so act as those who are to be judged under the law of liberty. For judgment 
 
 205\. I ask God to give us more politicians capable of sincere and effective dialogue aimed at healing the deepest roots – and not simply the appearances – of the evils in our world! Politics, though often denigrated, remains a lofty vocation and one of the highest forms of charity, inasmuch as it seeks the common good.[\[174\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn174) We need to be convinced that charity “is the principle not only of micro-relationships (with friends, with family members or within small groups) but also of macro-relationships (social, economic and political ones)”.[\[175\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn175) I beg the Lord to grant us more politicians who are genuinely disturbed by the state of society, the people, the lives of the poor! It is vital that government leaders and financial leaders take heed and broaden their horizons, working to ensure that all citizens have dignified work, education and healthcare. Why not turn to God and ask him to inspire their plans? I am firmly convinced that openness to the transcendent can bring about a new political and economic mindset which would help to break down the wall of separation between the economy and the common good of society.
 
-206\. Economy, as the very word indicates, should be the art of achieving a fitting management of our common home, which is the world as a whole. Each meaningful economic decision made in one part of the world has repercussions everywhere else; consequently, no government can act without regard for shared responsibility.Indeed, it is becoming increasingly difficult to find local solutions for enormous global problems which overwhelm local politics with difficulties to resolve. If we really want to achieve a healthy world economy, what is needed at this juncture of history is a more efficient way of interacting which, with due regard for the
-
-sovereignty of each nation, ensures the economic well-being of all countries, not just of a few.
+206\. Economy, as the very word indicates, should be the art of achieving a fitting management of our common home, which is the world as a whole. Each meaningful economic decision made in one part of the world has repercussions everywhere else; consequently, no government can act without regard for shared responsibility.Indeed, it is becoming increasingly difficult to find local solutions for enormous global problems which overwhelm local politics with difficulties to resolve. If we really want to achieve a healthy world economy, what is needed at this juncture of history is a more efficient way of interacting which, with due regard for the sovereignty of each nation, ensures the economic well-being of all countries, not just of a few.
 
 207\. Any Church community, if it thinks it can comfortably go its own way without creative concern and effective cooperation in helping the poor to live with dignity and reaching out to everyone, will also risk breaking down, however much it may talk about social issues or criticize governments. It will easily drift into a spiritual worldliness camouflaged by religious practices, unproductive meetings and empty talk.
 

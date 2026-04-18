@@ -2,6 +2,8 @@
 type: ocds-proper
 title: December 16, Blessed Mary of the Angels Fontanella
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/12/14/fontanellalit25/
 aliases:
   - 20251216-000001
   - blessed-mary-fontanella
@@ -13,26 +15,26 @@ tags:
 celebration_day: 12-16
 celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-07
-publish: false
+modified: 2026-04-17
+publish: true
 attachment: true
 ---
 
+← [[12-14-st-john-of-the-cross|Dec 14, St John of the Cross]] | [[OCDS Propers|Table of Contents]]
+
+
 # December 16, Blessed Mary of the Angels Fontanella
 
-*December 16*
-
-*BLESSED MARY OF THE ANGELS FONTANELLA* - [[mary-of-the-angels-blessed]]
-
-*Virgin*
-
-**Optional Memorial**
+> **December 16**
+> **BLESSED MARY OF THE ANGELS FONTANELLA** — [[mary-of-the-angels-blessed]]
+> **Virgin**
+> **Optional Memorial**
 
 Born in Turin, Italy, in 1661, she died, after spending her whole life there, in 1717. In 1675 she entered the Discalced Carmelite Convent of St. Christina, and several times filled the offices of Prioress and Novice Mistress. She underwent continual spiritual trials but was constant in her ardent love of God. She was outstandingly faithful to prayer and particularly devoted to St. Joseph, in whose honor a convent was founded through her good offices at Moncalieri.
 
 From the common of virgins
 
-Office of Readings
+## Office of Readings
 
 **SECOND READING**
 
@@ -50,13 +52,13 @@ May it please His Majesty to give us his love before he takes us out of this lif
 
 **RESPONSORY**
 
-R./ The Lord fulfills the desires of those who fear him, he hears their cry and saves them. *== The Lord watches over all who love him.*
+R/. The Lord fulfills the desires of those who fear him, he hears their cry and saves them. *== The Lord watches over all who love him.*
 
-*V./ We know that God makes all things work together for the good of those who love him. ==* The Lord watches over all who love him.
+*V/. We know that God makes all things work together for the good of those who love him. ==* The Lord watches over all who love him.
 
-Morning Prayer
+## Morning Prayer
 
-**CANTICLE OF ZECHARIAH**
+## Canticle of Zechariah
 
 **Ant.** To love God is to be truly wise, and wisdom begins with the fear of the Lord.
 
@@ -70,18 +72,20 @@ Grant this through our Lord Jesus Christ, your Son,who lives and reigns with you
 
 God, forever and ever.
 
-Evening Prayer
+## Evening Prayer
 
-**CANTICLE OF MARY**
+## Canticle of Mary
 
 **Ant.** Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me.
 
-![16 December- Blessed Mary of the Angels Fontanella-2024-07-22-1](images/16%20December-%20Blessed%20Mary%20of%20the%20Angels Fontanella-2024-07-22-1.jpeg)
-
- *Blessed Mary of the Angels* *(Marianna Fontanella)*
+*Blessed Mary of the Angels* *(Marianna Fontanella)*
 
 Image credit: Wikimedia Commons (Public domain)
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
 
-16 December: Blessed Mary of the Angels Fontanella
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/12/14/fontanellalit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

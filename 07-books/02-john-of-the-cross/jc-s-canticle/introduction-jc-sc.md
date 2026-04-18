@@ -11,7 +11,7 @@ tags:
   - author/saint-john-of-the-cross
   - type/book
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: Introduction – Spiritual Canticle By St. John of the Cross
 ---
@@ -20,7 +20,7 @@ description: Introduction – Spiritual Canticle By St. John of the Cross
 
 # Introduction – Spiritual Canticle by St. John of the Cross
 
-THE present volume of the works of St. John of the Cross contains the explanation of the “Spiritual Canticle of the Soul and the Bridegroom Christ.” The two earlier works, the “Ascent of Mount Carmel” and the “Dark Night of the Soul,” dealt with the cleansing of the soul, the unremittant war against even the smallest imperfections standing in the way of union with God; imperfections which must be removed, partly by strict self-discipline, partly by the direct intervention of God, Who, searching “the reins and hearts” by means of heavy interior and exterior trials, purges away whatever is displeasing to Him. Although some stanzas refer to this preliminary state, the chief object of the “Spiritual Canticle” is to picture under the Biblical simile of Espousals and Matrimony the blessedness of a soul that has arrived at union with God.
+The present volume of the works of St. John of the Cross contains the explanation of the “Spiritual Canticle of the Soul and the Bridegroom Christ.” The two earlier works, the “Ascent of Mount Carmel” and the “Dark Night of the Soul,” dealt with the cleansing of the soul, the unremittant war against even the smallest imperfections standing in the way of union with God; imperfections which must be removed, partly by strict self-discipline, partly by the direct intervention of God, Who, searching “the reins and hearts” by means of heavy interior and exterior trials, purges away whatever is displeasing to Him. Although some stanzas refer to this preliminary state, the chief object of the “Spiritual Canticle” is to picture under the Biblical simile of Espousals and Matrimony the blessedness of a soul that has arrived at union with God.
 
 The Canticle was composed during the long imprisonment St. John underwent at Toledo from the beginning of December 1577 till the middle of August of the following year. Being one of the principal supporters of the Reform of St. Teresa, he was also one of the victims of the war waged against her work by the Superiors of the old branch of the Order. St. John’s prison was a narrow, stifling cell, with no window, but only a small loophole through which a ray of light entered for a short time of the day, just long enough to enable him to say his office, but affording little facility for reading or writing. However, St. John stood in no need of books. Having for many years meditated on every word of Holy Scripture, the Word of God was deeply written in his heart, supplying abundant food for conversation with God during the whole period of his imprisonment. From time to time he poured forth his soul in poetry; afterwards he communicated his verses to friends.
 
@@ -56,14 +56,10 @@ Mr. Lewis’s masterly translation of the works of St. John of the Cross appeare
 
 The present edition, allowing for some slight corrections, is a reprint of that of 1889.
 
-*Benedict Zimmerman, Prior, O.C.D.
+Benedict Zimmerman, Prior, O.C.D.
 
-St. Lukes, Wincanton, Somerset,*
+St. Lukes, Wincanton, Somerset,
 
-*Feast of St. Simon Stock,
+Feast of St. Simon Stock,
 
-May* 16, 1909.
-
----
-
---- | --- |
+May 16, 1909.

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: General Confession and Absolution
 author:
 aliases:

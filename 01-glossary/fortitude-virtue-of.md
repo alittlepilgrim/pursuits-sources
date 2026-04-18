@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Fortitude (Virtue Of)
 author:
 source: Divine Intimacy Meditations

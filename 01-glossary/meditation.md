@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Meditation
 author:
 aliases:
@@ -26,4 +26,4 @@ MEDITATION. Consists of reasoning with the intellect about the mysteries of the 
 
 ## Divine Intimacy Meditations
 
-- See [[pursuits-sources/01-glossary/prayer|Prayer]]
+- See [[pursuits-texts/01-glossary/prayer|Prayer]]

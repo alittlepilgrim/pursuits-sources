@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Accursed
 aliases:
   - accursed
@@ -8,8 +8,8 @@ tags:
   - term/accursed
   - type/term
 created: 2026-04-09
-modified: 2026-04-12
-publish: false
+modified: 2026-04-14
+publish: true
 description: accursed. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 

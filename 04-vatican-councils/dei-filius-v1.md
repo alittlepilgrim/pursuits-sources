@@ -9,15 +9,17 @@ aliases:
 tags:
   - vatican/vatican-I
 created: 2025-08-24
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: Dogmatic Constitution Dei Filius
-abbreviation: df
+anchor: df
 ---
 
 Vatican Council I - 1870
 
 # Dogmatic Constitution Dei Filius
+
+[Source](https://inters.org/Vatican-Council-I-Dei-Filius)
 
 # Chap. 1. God, Creator of All Things
 

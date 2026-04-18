@@ -14,7 +14,7 @@ tags:
   - term/virtue
 di_week: Second Week of Lent
 created: 2025-05-12
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /humility-and-confidence
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.

@@ -10,21 +10,25 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 description: Encyclical Letter Fides et Ratio (14 September 1998)
-abbreviation: jpii-fer
+anchor: jpii-fer
 ---
 
 # Fides Et Ratio
 
-## Encyclical Letter of the Supreme Pontiff John Paul Ii, to the Bishops of the Catholic Church on the Relationship Between Faith and Reason
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)
 
-*Blessing*
+Encyclical Letter of the Supreme Pontiff John Paul Ii, to the Bishops of the Catholic Church
 
-*My Venerable Brother Bishops,
+## On the Relationship Between Faith and Reason
 
-Health and the Apostolic Blessing!*
+Blessing
+
+My Venerable Brother Bishops
+
+Health And The Apostolic Blessing
 
 Faith and reason are like two wings on which the human spirit rises to the contemplation of truth; and God has placed in the human heart a desire to know the truth—in a word, to know himself—so that, by knowing and loving God, men and women may also come to the fullness of truth about themselves (cf. *Ex* 33:18; *Ps* 27:8-9; 63:2-3; *Jn* 14:8; *1 Jn* 3:2).
 

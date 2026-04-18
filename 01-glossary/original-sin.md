@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Original Sin
 author:
 aliases:
@@ -31,7 +31,7 @@ Fallen man's disposition to sin: Rom 7:13-25
 
 Universality of sin among humanity: Rom 3:9-12, 22-23
 
-*See also* [[Sin]]
+*See also* [[sin]]
 
 ### Sources
 

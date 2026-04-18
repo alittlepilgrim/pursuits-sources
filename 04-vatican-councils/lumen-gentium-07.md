@@ -20,6 +20,8 @@ description: Chapter VII – The Eschatological Nature of the Pilgrim Church an
 
 # Chapter VII – The Eschatological Nature of the Pilgrim Church and Its Union with the Church in Heaven
 
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
+
 48\. The Church, to which we are all called in Christ Jesus, and in which we acquire sanctity through the grace of God, will attain its full perfection only in the glory of heaven, when there will come the time of the restoration of all things.<sup>([[#^lg-fn-237|237]])</sup> At that time the human race as well as the entire world, which is intimately related to man and attains to its end through him, will be perfectly reestablished in Christ.<sup>([[#^lg-fn-238|238]])</sup>
 
 Christ, having been lifted up from the earth has drawn all to Himself.<sup>([[#^lg-fn-239|239]])</sup> Rising from the dead<sup>([[#^lg-fn-240|240]])</sup> He sent His life-giving Spirit upon His disciples and through Him has established His Body which is the Church as the universal sacrament of salvation. Sitting at the right hand of the Father, He is continually active in the world that He might lead men to the Church and through it join them to Himself and that He might make them partakers of His glorious life by nourishing them with His own Body and Blood. Therefore the promised restoration which we are awaiting has already begun in Christ, is carried forward in the mission of the Holy Spirit and through Him continues in the Church in which we learn the meaning of our terrestrial life through our faith, while we perform with hope in the future the work committed to us in this world by the Father, and thus work out our salvation.<sup>([[#^lg-fn-241|241]])</sup>

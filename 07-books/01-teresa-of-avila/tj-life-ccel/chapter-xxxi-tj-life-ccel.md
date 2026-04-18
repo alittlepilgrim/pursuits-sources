@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXXI. Of Certain Outward Temptations and Appearances of Satan. Of the Sufferings Thereby Occasioned. Counsels for Those Who Go On unto Perfection
 ---
 

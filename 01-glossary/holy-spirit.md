@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Holy Spirit
 author:
 aliases:
@@ -76,7 +76,7 @@ Sword of the Spirit: Eph 6:17
 
 Testimony about the Son: Jn 15:26
 
-*See also* [[God]]; [[jesus-christ|Jesus]]; [[trinity-holy|Trinity]]
+*See also* [[god]]; [[jesus-christ|Jesus]]; [[trinity-holy|Trinity]]
 
 ### Sources
 
@@ -145,7 +145,7 @@ HOLY SPIRIT. He must be present between such a Son and such a Father ([[chapter-
 - how to recognize His inspirations: [[199-the-holy-spirit-and-activity#Meditation 2|199,2]];
 - to follow the Will of God guided by the — is the most secure way to the heavenly Fatherland: [[329-the-road-to-our-eternal-home#Meditation 1|329,1]];
 - commentary on Veni Creator: [[186-the-holy-spirit#Meditation 2|186,2]]; [[316-our-meeting-with-the-holy-spirit#Meditation 2|316,2]].
-- See: [[pursuits-sources/01-glossary/beatitudes|Beatitudes]], Gifts of Holy Spirit.
+- See: [[pursuits-texts/01-glossary/beatitudes|Beatitudes]], Gifts of Holy Spirit.
 
   ---
 

@@ -9,14 +9,16 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Index
 ---
 
 ← [[conclusion-jpii-ea|Conclusion]] | [[ecclesia-america|Table of Contents]] | [[notes-jpii-ea|Notes]] →
 
 # Index
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
 Introduction \[1\]
 

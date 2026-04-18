@@ -3,7 +3,7 @@ type: book
 title: Song of the Soul and the Bridegroom – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.iv.html
 aliases:
   - poem-jc-sc
   - Song of the Soul and the Bridegroom – Spiritual Canticle By St. John of the Cross
@@ -11,7 +11,7 @@ tags:
   - author/saint-john-of-the-cross
   - type/book
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: Song of the Soul and the Bridegroom – Spiritual Canticle By St. John of the Cross
 ---
@@ -19,6 +19,8 @@ description: Song of the Soul and the Bridegroom – Spiritual Canticle By St. J
 [[prologue-jc-sc|← Prologue]] | [[jc-sc-toc|↑ Contents]] | [[argument-jc-sc|Argument →]]
 
 # Song of the Soul and the Bridegroom
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.iv.html)
 
 **I**
 

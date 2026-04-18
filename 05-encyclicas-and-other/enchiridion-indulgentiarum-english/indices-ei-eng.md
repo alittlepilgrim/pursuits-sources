@@ -8,8 +8,8 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-14
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Indices – Manual of Indulgences (Enchiridion Indulgentiarum, 1999)
 ---
 
@@ -17,7 +17,7 @@ description: Indices – Manual of Indulgences (Enchiridion Indulgentiarum, 1999
 
 # Indices
 
-# ***A. Prayers***
+## A. Prayers
 
 [[#Actiones nostras|Actiones nostras]] (conc. 26 § 2)
 
@@ -135,7 +135,7 @@ Vespers from the Office of the Dead (conc. 29 § 2, 2°)
 
 Visita, quaesumus, Domine (conc. 26 § 2)
 
-# ***B Plenary Indulgences***
+## B Plenary Indulgences
 
 Akathistos hymn or Office of the Paraclisis (conc. 23 § 1)
 
@@ -242,5 +242,3 @@ Excerpts from The Documents of Vatican II, Walter M. Abbott, SJ, General Editor,
 ISBN-13: 978-1-60137-225-3
 
 Digital edition, October 2011
-
-English translation copyright © 2006 Libreria Editrice Vaticana. All rights reserved. The exclusive licensee in the United States is the United States Conference of Catholic Bishops, Washington, D. C., and all requests for United States uses of the Manual of Indulgences should be directed to United States Conference of Catholic Bishops.

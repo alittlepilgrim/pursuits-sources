@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 10. Teaches That Detachment from the Things Aforementioned Is Insufficient if We Are Not Detached from Our Own Selves and That This Virtue and Humility Go Together
 ---
 

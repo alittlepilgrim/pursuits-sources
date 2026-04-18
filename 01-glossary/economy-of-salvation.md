@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Economy of Salvation (Divine Economy)
 aliases:
   - Economy of Salvation (Divine Economy)

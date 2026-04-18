@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Consecration To God
 author:
 source: Divine Intimacy Meditations

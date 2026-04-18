@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: The Manner of Lay Persons Baptizing an Infant, in Case of Danger of Death
 ---
 

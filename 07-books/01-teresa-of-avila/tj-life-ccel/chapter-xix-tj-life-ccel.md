@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XIX. The Effects of This Fourth State of Prayer. Earnest Exhortations to Those Who Have Attained to It Not to Go Back, Nor to Cease from Prayer, Even If They Fall. The Great Calamity of Going Back
 ---
 

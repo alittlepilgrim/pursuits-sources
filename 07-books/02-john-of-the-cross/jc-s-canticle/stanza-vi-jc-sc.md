@@ -3,7 +3,7 @@ type: book
 title: Stanza VI – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xii.html
 aliases:
   - Stanza VI – Spiritual Canticle By St. John of the Cross
   - stanza-vi-jc-sc
@@ -11,7 +11,7 @@ tags:
   - author/saint-john-of-the-cross
   - type/book
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: Stanza VI – Spiritual Canticle By St. John of the Cross
 ---
@@ -20,17 +20,19 @@ description: Stanza VI – Spiritual Canticle By St. John of the Cross
 
 # Stanza VI
 
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xii.html)
+
 THE BRIDE
 
-Oh! who can heal me?
+*Oh! who can heal me?*
 
-Give me perfectly Yourself,
+*Give me perfectly Yourself,*
 
-Send me no more
+*Send me no more*
 
-A messenger
+*A messenger*
 
-Who cannot tell me what I wish.
+*Who cannot tell me what I wish.*
 
 AS created things furnish to the soul traces of the Beloved, and exhibit the impress of His beauty and magnificence, the love of the soul increases, and consequently the pain of His absence: for the greater the soul's knowledge of God the greater its desire to see Him, and its pain when it cannot; and as it sees there is no remedy for this pain except in the presence and vision of the Beloved, distrustful of every other remedy, it prays in this stanza for the fruition of His presence, saying: "Entertain me no more with any knowledge or communications or impressions of Your grandeur, for these do but increase my longing and the pain of Your absence; Your presence alone can satisfy my will and desire." The will cannot be satisfied with anything less than the vision of God, and therefore the soul prays that He may be pleased to give Himself to it in truth, in perfect love.
 
@@ -46,6 +48,6 @@ AS created things furnish to the soul traces of the Beloved, and exhibit the imp
 
    6\. This, more clearly expressed, is as follows: "O Lord my Bridegroom, Who gave me Yourself partially before, give me Yourself wholly now. You who showed glimpses of Yourself before, show Yourself clearly now. You who communicated Yourself hitherto by the instrumentality of messengers -- it was as if You mocked me -- give Yourself by Yourself now. Sometimes when You visited me You gave me the pearl of Your possession, and, when I began to examine it, lo, it was gone, for You had hidden it Yourself: it was like a mockery. Give me then Yourself in truth, Your whole self, that I may have You wholly to myself wholly, and send me no messengers again."
 
-"Who cannot tell me what I wish."
+*"Who cannot tell me what I wish."*
 
    7\. "I wish for You wholly, and Your messengers neither know You wholly, nor can they speak of You wholly, for there is nothing in earth or heaven that can furnish that knowledge to the soul which it longs for. They cannot tell me, therefore, what I wish. Instead, then, of these messengers, be You the messenger and the message."

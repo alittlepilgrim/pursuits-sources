@@ -2,20 +2,23 @@
 type: magisterium
 title: "Chapter I. Development: Humanism and Posthumanism – Quo Vadis Humanitas"
 author: International Theological Commission
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509
 aliases:
   - "Chapter I. Development: Humanism and Posthumanism – Quo Vadis Humanitas"
 tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: "Chapter I. Development: Humanism and Posthumanism – Quo Vadis Humanitas"
 ---
 
 ← [[introduction-itc-qvh|Introduction]] | [[quo-vadis-humanitas|Quo Vadis Humanitas]] | [[chapter-II-itc-qvh|Chapter II. Life as Vocation: The Human Person as an Agent in History]] →
 
 # Chapter I. Development: Humanism and Posthumanism
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 21\. Let us begin by analysing the notion of ‘development’. It is a category that is present in debates on current changes and concerns very different human and social problems. This chapter aims to contextualise the potential of the various ways in which science, technology and cultures today conceive of the ‘development’ of the individual, of societies and of the global world. It is a category that points towards the future of humanity, which many today feel is at risk and which requires the urgent contribution of all social agents in order to defend it. Precisely for this reason, the same question arises forcefully in many social, cultural and political contexts: where are we as humanity going? *Quo vadis, humanitas?*\[18\]
 

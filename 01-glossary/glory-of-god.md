@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Glory of God
 author:
 source: Divine Intimacy Meditations

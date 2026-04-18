@@ -10,13 +10,15 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-03-28
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Evangelii Gaudium (24 November 2013)
-abbreviation: francis-eg
+anchor: francis-eg
 ---
 
 # "Evangelii Gaudium": Apostolic Exhortation on the Proclamation of the Gospel in Today's World (24 November 2013)
+
+[Source](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
 APOSTOLIC EXHORTATION
 

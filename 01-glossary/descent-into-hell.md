@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Descent Into Hell
 aliases:
   - Descent into Hell

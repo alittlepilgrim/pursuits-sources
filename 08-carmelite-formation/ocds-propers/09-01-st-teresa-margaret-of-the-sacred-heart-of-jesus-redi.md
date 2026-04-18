@@ -2,6 +2,8 @@
 type: ocds-proper
 title: September 1, St. Teresa Margaret of the Sacred Heart of Jesus Redi
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/08/30/redilit25/
 aliases:
   - 09-01-st-teresa-margaret-of-the-sacred-heart-of-jesus-redi
   - 20240901-000001
@@ -11,14 +13,21 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 09-01
+celebration_rank: memorial
 created: 2024-07-22
-modified: 2026-04-07
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[08-26-transverberation-of-our-holy-mother-st-teresa-of-jesus|Aug 26, Transverberation of St Teresa]] | [[OCDS Propers|Table of Contents]] | [[09-11-blessed-maria-lopez-rivas|Sep 11, Bl Maria Lopez Rivas]] →
+
 
 # September 1, St. Teresa Margaret of the Sacred Heart of Jesus Redi
 
-**Memorial**
+> **September 1**
+> **SAINT TERESA MARGARET OF THE SACRED HEART OF JESUS REDI**
+> **Virgin**
+> **Memorial** (In the houses in Italy: Feast)
 
 Teresa Margaret belonged to the noble family of Redi, and was born in the Tuscan city of Arezzo in 1747. She entered the Discalced Carmelite monastery at Florence on September 1, 1764. She was granted a special grace of contemplative insight based on Saint John’s phrase God is love, through which she felt called to a hidden life of love and self-sacrifice. She progressed rapidly, fulfilling her vocation through heroic charity toward others. She died in Florence in 1770, aged twenty-three.
 
@@ -32,7 +41,7 @@ Father, you enabled Saint Teresa Margaret of the Sacred Heart of Jesus to draw u
 
 Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you and the Holy Spirit, God, forever and ever.
 
-# Office of Readings
+## Office of Readings
 
 ## **Hymn**
 
@@ -56,7 +65,7 @@ C.M.
 
 Unknown
 
-## **Second Reading**
+## Second Reading**
 
 From the Acts of Canonization of Saint Teresa Margaret
 
@@ -76,11 +85,11 @@ Such souls by their silent apostolate of suffering, love and prayer, are foremos
 
 ## **Responsory**
 
-R./ Hear, O Israel: The Lord our God is one Lord. *== You shall love the Lord your God with all your heart, and with all your soul, and with all your strength.*
+R/. Hear, O Israel: The Lord our God is one Lord. *== You shall love the Lord your God with all your heart, and with all your soul, and with all your strength.*
 
-*V./ The Lord your God is a consuming fire; a jealous God. ==* You shall love the Lord your God with all your heart, and with all your soul and with all your strength.
+*V/. The Lord your God is a consuming fire; a jealous God. ==* You shall love the Lord your God with all your heart, and with all your soul and with all your strength.
 
-# Morning Prayer
+## Morning Prayer
 
 ## **Hymn**
 
@@ -112,19 +121,19 @@ L.M.
 
 Text: Bro. John Leonard Davies, O.C.D.
 
-## **Canticle Of Zechariah**
+## Canticle Of Zechariah**
 
 Ant. I am the Way, the Truth, and the Life; no one comes to the Father except through me.
 
-## **Prayer**
+## Prayer**
 
 Father, you enabled Saint Teresa Margaret of the Sacred Heart of Jesus to draw untold resources of humility and charity from the fountainhead, our Savior.Through her prayers may we never be separated from the love of Christ.
 
 Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you and the Holy Spirit, God, forever and ever.
 
-# Evening Prayer
+## Evening Prayer
 
-## **Hymn**
+## Hymn**
 
 Jesu, the Virgins’ Crown, do thouAccept us, as in prayer we bow;Born of that woman, whom alone
 
@@ -150,10 +159,16 @@ From age to age eternally. Amen.
 
 *Jesu, coróna Vírginum*
 
-## **Canticle Of Mary**
+## ## Canticle of Mary
 
 Ant. As the Father has loved me, I have loved you; remain in my love.
 
 ---
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/08/30/redilit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

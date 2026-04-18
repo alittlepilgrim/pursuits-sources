@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 32. Expounds These Words of the Paternoster fiat Voluntas Tua Sicut in Coelo Et in terra. Describes How Much Is Accomplished by Those Who Repeat These Words with Full Resolution and How Well the Lord Rewards Them for It
 ---
 

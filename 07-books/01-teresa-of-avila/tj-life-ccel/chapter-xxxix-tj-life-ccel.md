@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXXIX. Other Graces Bestowed on the Saint. The Promises of Our Lord to Her. Divine Locutions and Visions
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: waypoint
+type: moc
 title: 🧭 Waypoint - Divine Intimacy
 url:
 aliases:
@@ -9,8 +9,8 @@ tags:
   - type/waypoint
 language: EN
 created: 2025-07-24
-modified: 2026-04-08
-publish: false
+modified: 2026-04-18
+publish: true
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
 ---
 
@@ -151,7 +151,7 @@ description: Divine Intimacy Meditations on the Interior Life for Every Day of t
 - [[127-the-value-of-suffering|127. The Value of Suffering]]
 - [[128-patience|128. Patience]]
 - [[129-the-daily-cross|129. The Daily Cross]]
-- [[pursuits-sources/07-books/09-divine-intimacy/130-suffering-and-abandonment|130. Suffering and Abandonment]]
+- [[pursuits-texts/07-books/09-divine-intimacy/130-suffering-and-abandonment|130. Suffering and Abandonment]]
 - [[131-the-seven-sorrows-of-mary|131. The Seven Sorrows of Mary]]
 - [[132-love-of-the-cross|132. Love of the Cross]]
 - [[133-the-triumph-of-jesus|133. The Triumph of Jesus]]

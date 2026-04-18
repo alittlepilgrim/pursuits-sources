@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 9. Treats of the Great Blessing That Shunning Their Relatives Brings to Those Who Have Left the World and Shows How by Doing so They Will Find Truer Friends
 ---
 

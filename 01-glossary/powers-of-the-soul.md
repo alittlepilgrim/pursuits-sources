@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Powers of the Soul
 author:
 aliases:

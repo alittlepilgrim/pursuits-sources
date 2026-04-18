@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Fatherhood
 author: Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 aliases:
@@ -26,7 +26,7 @@ Men may also be called \"father\": Mt 1:1-16; 15:4-5; 21:31; Lk 2:33; Acts 26:6;
 
 Older men to be exhorted as fathers by younger men: 1 Tim 5:1
 
-*See also* [[Family]]; [[God]]; [[trinity-holy|Trinity]]
+*See also* [[family]]; [[god]]; [[trinity-holy|Trinity]]
 
 ## Sources
 

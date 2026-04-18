@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter III – Evangelii Gaudium
 author: Pope Francis
+url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
 aliases:
-  - Chapter III. The Proclamation of the Gospel
+  - Chapter III. The Proclamation of the Gospel – Evangelii Gaudium
 tags:
   - author/pope-francis
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter III. The Proclamation of the Gospel
+modified: 2026-04-14
+publish: true
+description: Chapter III. The Proclamation of the Gospel – Evangelii Gaudium
 ---
 
 ← [[chapter-II-francis-eg|Chapter II. Amid the Crisis of Communal Commitment]] | [[evangelii-gaudium|Table of Contents]] | [[chapter-IV-francis-eg|Chapter IV. The Social Dimension of Evangelization]] →
 
 # Chapter III. The Proclamation of the Gospel
+
+[Source](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
 110\. After having considered some of the challenges of the present, I would now like to speak of the task which bears upon us in every age and place, for “there can be no true evangelization without the explicit proclamation of Jesus as Lord”, and without “the primacy of the proclamation of Jesus Christ in all evangelizing work”.[\[77\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn77) Acknowledging the concerns of the Asian bishops, [John Paul II](http://www.vatican.va/holy_father/john_paul_ii/index.htm) told them that if the Church “is to fulfil its providential destiny, evangelization as the joyful, patient and progressive preaching of the saving death and resurrection of Jesus Christ must be your absolute priority.” [\[78\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn78) These words hold true for all of us.
 

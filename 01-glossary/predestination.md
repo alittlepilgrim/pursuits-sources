@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Predestination
 author:
 aliases:
@@ -26,7 +26,7 @@ Mystery of human freedom must be affirmed: Mt 4:17; 23:37; Jn 1:12-13; Phil 2:12
 
 Universal salvific will must be affirmed: Mt 18:14; Jn 3:16; 2 Cor 5:19; 1 Tim 2:3-4; 2 Pet 3:9
 
-*See also* [[Election]]; [[Freedom]]; [[God]]; [[Salvation]]; [[Works]]
+*See also* [[election]]; [[freedom]]; [[god]]; [[salvation]]; [[works]]
 
 ### Sources
 

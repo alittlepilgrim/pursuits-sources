@@ -3,7 +3,7 @@ type: book
 title: Stanza XL – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xlvi.html
 aliases:
   - Stanza XL – Spiritual Canticle By St. John of the Cross
   - stanza-xl-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XL – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxix-jc-sc|← Stanza XXXIX]] | [[jc-sc-toc|↑ Contents]] | [[indexes-jc-sc|Indexes →]]
 
 # Stanza XL
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xlvi.html)
 
 None saw it; Neither did Aminadab appear The siege was intermitted, And the cavalry dismounted At the sight of the waters.
 

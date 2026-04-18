@@ -7,7 +7,7 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-09
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Quattuor Concessiones Generaliores – Enchiridion Indulgentiarum (editio quarta, 1999)
 ---
@@ -15,6 +15,8 @@ description: Quattuor Concessiones Generaliores – Enchiridion Indulgentiarum (
 ← [[normae-ei-lat|Normae de Indulgentiis]] | [[enchiridion-indulgentiarum|Enchiridion Indulgentiarum]] | [[concessiones-generales-ei-lat|Concessiones Generales]] →
 
 # Quattuor Concessiones Generaliores
+
+[Source](https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html)
 
 *Proœmium*
 

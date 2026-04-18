@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Catholic Church
 aliases:
   - Catholic Church
@@ -8,7 +8,7 @@ tags:
   - term/catholic-church
   - type/term
 created: 2025-07-20
-modified: 2026-04-06
+modified: 2026-04-14
 publish: true
 description: catholic-church. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---

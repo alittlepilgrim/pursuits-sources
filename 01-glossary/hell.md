@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Hell
 author:
 aliases:
@@ -60,6 +60,6 @@ Tartarus: 2 Pet 2:4
 
 Weeping and gnashing of teeth: Mt 8:12; 13:42, 50; 22:13; 24:51; 25:30
 
-*See also* [[Forgiveness]]; [[Judgment]]; [[Salvation]]; [[sin|Sins]]
+*See also* [[forgiveness]]; [[judgment]]; [[salvation]]; [[sin|Sins]]
 
 [[index-of-doctrines|Index of Doctrines]]

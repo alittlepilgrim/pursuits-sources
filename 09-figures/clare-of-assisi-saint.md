@@ -13,7 +13,7 @@ birthday: 1194
 death_date: 1253-08-11
 celebration: 08-11
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-17
 publish: false
 ---
 

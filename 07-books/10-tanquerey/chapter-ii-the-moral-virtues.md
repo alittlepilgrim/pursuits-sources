@@ -305,7 +305,7 @@ b) The theological virtues as such do not consist in holding this middle course,
 
 1015\. In this second chapter we shall treat of the four cardinal virtues and of the principal virtues related to them.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00015.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00015.jpeg]]
 
 [[chapter-ii-the-moral-virtues-art-1]]
 

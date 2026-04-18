@@ -8,14 +8,16 @@ tags:
   - author/john-paul-II
   - type/magisterium
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter II. All Branches Of a Single Vine The Participation Of The Lay Faithful In The Life Of Church as Communion
 ---
 
 ← [[chapter-I-jpii-cl|Chapter I. I Am The Vine and You Are The Branches The Dignity Of The Lay Faithful In The Church as Mystery]] | [[christifideles-laici|Table of Contents]] | [[chapter-III-jpii-cl|Chapter III. I Have Appointed You to Go Forth and Bear Fruit The Coresponsibility Of The Lay Faithful In The Church as Mission]] →
 
 # Chapter II. All Branches Of a Single Vine The Participation Of The Lay Faithful In The Life Of Church as Communion
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)
 
 ## The Mystery of Church Communion
 

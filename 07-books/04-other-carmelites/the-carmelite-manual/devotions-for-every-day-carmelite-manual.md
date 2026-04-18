@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Devotions for Every Day in the Week
 ---
 

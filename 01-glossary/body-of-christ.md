@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Body of Christ
 aliases:
   - Body of Christ
@@ -41,7 +41,7 @@ Subject of resurrection: 1 Cor 15:44; Phil 3:21
 
 Whole human person referred to in terms of his bodily aspect: Mt 6:22-23; Lk 11:34, 36; Jas 3:2, 6
 
-*See also* [[Church]]; [[Eucharist]]; [[Flesh]]; [[resurrection-of-the-dead|Resurrection]]; [[Soul]]; [[Spirit]]
+*See also* [[church]]; [[eucharist]]; [[flesh]]; [[resurrection-of-the-dead|Resurrection]]; [[soul]]; [[spirit]]
 
 ### Sources
 

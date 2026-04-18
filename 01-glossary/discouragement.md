@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Discouragement
 author:
 source: Divine Intimacy Meditations

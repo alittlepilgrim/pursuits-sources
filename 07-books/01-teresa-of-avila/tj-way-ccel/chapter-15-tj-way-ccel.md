@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 15. Treats of the Great Advantage Which Comes from Our Not Excusing Ourselves, Even Though We Find We Are Unjustly Condemned
 ---
 

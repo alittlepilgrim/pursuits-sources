@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 31. Continues the Same Subject. Explains What Is Meant by the Prayer of Quiet. Gives Several Counsels to Those Who Experience It. This Chapter Is Very Noteworthy
 ---
 

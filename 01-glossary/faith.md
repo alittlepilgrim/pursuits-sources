@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Faith
 aliases:
   - faith
@@ -47,7 +47,7 @@ Salvation by grace through faith: Eph 2:8
 
 Walk by faith, not by sight: 2 Cor 5:7
 
-*See also* [[Grace]]; [[Justification]]; [[Salvation]]; [[Works]]
+*See also* [[grace]]; [[justification]]; [[salvation]]; [[works]]
 
 ### Sources
 

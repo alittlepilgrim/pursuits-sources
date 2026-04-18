@@ -9,12 +9,14 @@ tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: Quo Vadis Humanitas (2026) – International Theological Commission
 ---
 
 # Quo Vadis Humanitas
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 > [!NOTE]
 > ***Quo Vadis, Humanitas?***

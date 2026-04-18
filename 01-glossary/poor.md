@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Poor
 author:
 aliases:
@@ -40,7 +40,7 @@ Poor are people to whom Jesus proclaimed the gospel message: Lk 4:18; 7:22
 
 Righteous poor are blessed because they are heirs of God's kingdom: Mt 5:3; Lk 6:20; 16:19-25; Jas 2:5-6
 
-*See also* [[Greed]]; [[Wealth]]
+*See also* [[greed]]; [[wealth]]
 
 ### Sources
 

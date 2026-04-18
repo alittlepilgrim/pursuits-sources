@@ -2,6 +2,8 @@
 type: ocds-proper
 title: June 14, Saint Elisha
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/06/12/elishalit25/
 aliases:
   - 06-14-st-elisha-the-prophet
   - 20240722-231317
@@ -11,20 +13,22 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 06-14
+celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[06-12-blessed-alphonsus-mary-of-the-holy-spirit-mazurek-and-companions|Jun 12, Bl Alphonsus Mazurek]] | [[OCDS Propers|Table of Contents]] | [[06-14-blessed-maria-barba|Jun 14, Bl Maria Candida]] →
+
 
 # June 14, Saint Elisha
 
-**14 June: SAINT ELISHA**
-
-* June 14 *
-* SAINT ELISHA* - [[elisha-saint]]
-* Prophet*
-
-**Optional Memorial**
+> **June 14**
+> **SAINT ELISHA THE PROPHET**
+> **[[elisha-saint]]
+> **Prophet**
+> **Optional Memorial**
 
 “Elijah came upon Elisha and threw his cloak over him. Immediately Elisha left the oxen and ran after Elijah as his attendant” (cf. 1 Kgs 19:19–21). Elisha was filled with the spirit of Elijah; among the many signs he performed, he cured Naaman of Leprosy and raised a dead child to life. He lived among the sons of the prophets and in God’s name, he frequently intervened in the affairs of the Israelites. Mindful of its origin on Mount Carmel, the Carmelite Order desired to perpetuate the memory of the great prophets’ presence and deeds through the liturgical celebration of St. Elijah and Elisha. Thus the General Chapter of 1399 decreed the celebration of the feast of St. Elisha. In 2023, the Dicastery for Divine Worship and the Discipline of the Sacraments extended the celebration to the Teresian Carmel at the rank of an optional memorial. Through his fidelity to the true God and by his service to God’s people, St. Elisha effectively illustrates the meaning of the prophetic office in our day.
 
@@ -32,7 +36,7 @@ publish: false
 
 Ant. Let us worship the Lord who has worked wonders through the prophets.
 
-# Morning Prayer
+## Morning Prayer
 
 **Hymn**
 
@@ -68,19 +72,31 @@ Ant. 1 Elisha said: Let Naaman come to me and find out that there is a prophet i
 
 Psalm 63
 
-O God, you are my God, for you I long; *for you my soul is thirsting.My body pines for you*like a dry, weary land without water.So I gaze on you in the sanctuary *
+O God, you are my God, for you I long;
+
+for you my soul is thirsting.My body pines for you*like a dry, weary land without water.So I gaze on you in the sanctuary
 
 to see your strength and your glory.
 
-For your love is better than life, *my lips will speak your praise.So I will bless you all my life, *in your name I will lift up my hands.My soul shall be filled as with a banquet, *
+For your love is better than life,
+
+my lips will speak your praise.So I will bless you all my life,
+
+in your name I will lift up my hands.My soul shall be filled as with a banquet,
 
 my mouth shall praise you with joy.
 
-On my bed I remember you. *On you I muse through the nightfor you have been my help; *in the shadow of your wings I rejoice.My soul clings to you; *
+On my bed I remember you.
+
+On you I muse through the nightfor you have been my help;
+
+in the shadow of your wings I rejoice.My soul clings to you;
 
 your right hand holds me fast.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -90,23 +106,53 @@ Ant. 2 When the minstrel played, the power of the Lord came upon Elisha and he p
 
 Canticle – Daniel 3:57-88, 56
 
-Bless the Lord, all you works of the Lord. *Praise and exalt him above all forever.Angels of the Lord, bless the Lord. *You heavens, bless the Lord,All you waters above the heavens, bless the Lord. *All you hosts of the Lord, bless the Lord.Sun and moon, bless the Lord. *
+Bless the Lord, all you works of the Lord.
+
+Praise and exalt him above all forever.Angels of the Lord, bless the Lord.
+
+You heavens, bless the Lord,All you waters above the heavens, bless the Lord.
+
+All you hosts of the Lord, bless the Lord.Sun and moon, bless the Lord.
 
 Stars of heaven, bless the Lord.
 
-Every shower and dew, bless the Lord. *All you winds, bless the Lord.Fire and heat, bless the Lord. *Cold and chill, bless the Lord.Dew and rain, bless the Lord. *Frost and chill, bless the Lord.Ice and snow, bless the Lord. *Nights and days, bless the Lord.Light and darkness, bless the Lord. *
+Every shower and dew, bless the Lord.
+
+All you winds, bless the Lord.Fire and heat, bless the Lord.
+
+Cold and chill, bless the Lord.Dew and rain, bless the Lord.
+
+Frost and chill, bless the Lord.Ice and snow, bless the Lord.
+
+Nights and days, bless the Lord.Light and darkness, bless the Lord.
 
 Lightnings and clouds, bless the Lord.
 
-Let the earth bless the Lord. *Praise and exalt him above all forever.Mountains and hills, bless the Lord. *Everything growing from the earth, bless the Lord.You springs, bless the Lord. *Seas and rivers, bless the Lord.You dolphins and all water creatures, bless the Lord. *All you birds of the air, bless the Lord.All you beasts, wild and tame, bless the Lord. *
+Let the earth bless the Lord.
+
+Praise and exalt him above all forever.Mountains and hills, bless the Lord.
+
+Everything growing from the earth, bless the Lord.You springs, bless the Lord.
+
+Seas and rivers, bless the Lord.You dolphins and all water creatures, bless the Lord.
+
+All you birds of the air, bless the Lord.All you beasts, wild and tame, bless the Lord.
 
 You sons of men, bless the Lord.
 
-O Israel, bless the Lord. *Praise and exalt him above all forever.Priests of the Lord, bless the Lord. *Servants of the Lord, bless the Lord.Spirits and souls of the just, bless the Lord. *Holy men of humble heart, bless the Lord.Hananiah, Azariah, Mishael, bless the Lord. *
+O Israel, bless the Lord.
+
+Praise and exalt him above all forever.Priests of the Lord, bless the Lord.
+
+Servants of the Lord, bless the Lord.Spirits and souls of the just, bless the Lord.
+
+Holy men of humble heart, bless the Lord.Hananiah, Azariah, Mishael, bless the Lord.
 
 Praise and exalt him above all forever.
 
-Let us bless the Father, and the Son, and the Holy Spirit. *Let us praise and exalt him above all for ever.Blessed are you, Lord, in the firmament of heaven. *
+Let us bless the Father, and the Son, and the Holy Spirit.
+
+Let us praise and exalt him above all for ever.Blessed are you, Lord, in the firmament of heaven.
 
 Praiseworthy and glorious and exalted above all for ever.
 
@@ -116,19 +162,33 @@ Ant. 3 During his lifetime he did not fear even princes, nor was anyone able to 
 
 Psalm 149
 
-Sing a new song to the Lord, *his praise in the assembly of the faithful.Let Israel rejoice in its maker, *let Zion’s sons exult in their king.Let them praise his name with dancing *
+Sing a new song to the Lord,
+
+his praise in the assembly of the faithful.Let Israel rejoice in its maker,
+
+let Zion’s sons exult in their king.Let them praise his name with dancing
 
 and make music with timbrel and harp.
 
-For the Lord takes delight in his people. *He crowns the poor with salvation.Let the faithful rejoice in their glory, *shout for joy and take their rest.Let the praise of God be on their lips *
+For the Lord takes delight in his people.
+
+He crowns the poor with salvation.Let the faithful rejoice in their glory,
+
+shout for joy and take their rest.Let the praise of God be on their lips
 
 and a two-edged sword in their hand,
 
-to deal out vengeance to the nations *and punishment on all the peoples;to bind their kings in chains *and their nobles in fetters of iron;to carry out the sentence pre-ordained; *
+to deal out vengeance to the nations
+
+and punishment on all the peoples;to bind their kings in chains
+
+and their nobles in fetters of iron;to carry out the sentence pre-ordained;
 
 this honor is for all his faithful.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -146,15 +206,17 @@ R/. Elijah went up to heaven in a whirlwind, *== and the spirit of Elijah rested
 
 *V/. Elisha picked up Elijah’s mantle ==* and the spirit of Elijah rested on Elisha. Glory… R/.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. Blessed be the King of heaven and Lord of prophets, who instructs the faithful through the mouth of his holy ones; through his deeds he makes known the way of peace and salvation, and through the intercession of Elisha he sets us firmly upon the path to heaven.
 
-Blessed be the Lord, the God of Israel; *he has come to his people and set them free.He has raised up for us a mighty savior, *
+Blessed be the Lord, the God of Israel;
+
+he has come to his people and set them free.He has raised up for us a mighty savior,
 
 born of the house of his servant David.
 
-Through his holy prophets he promised of old †that he would save us from our enemies, *
+Through his holy prophets he promised of old †that he would save us from our enemies,
 
 from the hands of all who hate us.
 
@@ -162,19 +224,27 @@ He promised to show mercy to our fathers*
 
 and to remember his holy covenant.
 
-This was the oath he swore to our father [[abraham|Abraham]]: *to set us free from the hands of our enemies,free to worship him without fear, *
+This was the oath he swore to our father [[abraham|Abraham]]:
+
+to set us free from the hands of our enemies,free to worship him without fear,
 
 holy and righteous in his sight all the days of our life.
 
-You, my child, shall be called the prophet of the Most High; *for you will go before the Lord to prepare his way,to give his people knowledge of salvation *
+You, my child, shall be called the prophet of the Most High;
+
+for you will go before the Lord to prepare his way,to give his people knowledge of salvation
 
 by the forgiveness of their sins.
 
-In the tender compassion of our God *the dawn from on high shall break upon us,to shine on those who dwell in darkness and the shadow of death, *
+In the tender compassion of our God
+
+the dawn from on high shall break upon us,to shine on those who dwell in darkness and the shadow of death,
 
 and to guide our feet into the way of peace.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -258,7 +328,7 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, for ever and ever. Amen.
 
-# Evening Prayer
+## Evening Prayer
 
 **Hymn**
 
@@ -294,19 +364,25 @@ Ant. 1 Elisha answered: The Lord lives, whom I serve.
 
 Psalm 15
 
-Lord, who shall be admitted to your tent *
+Lord, who shall be admitted to your tent
 
 and dwell on your holy mountain?
 
-He who walks without fault; *he who acts with justiceand speaks the truth from his heart; *
+He who walks without fault;
+
+he who acts with justiceand speaks the truth from his heart;
 
 he who does not slander with his tongue.
 
-He who does no wrong to his brother, *who casts no slur on his neighbor,who holds the godless in disdain, *
+He who does no wrong to his brother,
+
+who casts no slur on his neighbor,who holds the godless in disdain,
 
 but honors those who fear the Lord;
 
-he who keeps his pledge, come what may; *who takes no interest on a loanand accepts no bribes against the innocent. *
+he who keeps his pledge, come what may;
+
+who takes no interest on a loanand accepts no bribes against the innocent.
 
 Such a man will stand firm for ever.
 
@@ -316,23 +392,31 @@ Ant. 2 Elisha went with the sons of the prophets to build a place to live.
 
 Psalm 112
 
-Happy the man who fears the Lord, *who takes delight in all his commands.His sons will be powerful on earth; *
+Happy the man who fears the Lord,
+
+who takes delight in all his commands.His sons will be powerful on earth;
 
 the children of the upright are blessed.
 
-Riches and wealth are in his house; *his justice stands firm for ever.He is a light in the darkness for the upright: *
+Riches and wealth are in his house;
+
+his justice stands firm for ever.He is a light in the darkness for the upright:
 
 he is generous, merciful and just.
 
-The good man takes pity and lends, *he conducts his affairs with honor.The just man will never waver: *
+The good man takes pity and lends,
+
+he conducts his affairs with honor.The just man will never waver:
 
 he will be remembered for ever.
 
-He has no fear of evil news; *with a firm heart he trusts in the Lord.With a steadfast heart he will not fear; *
+He has no fear of evil news;
+
+with a firm heart he trusts in the Lord.With a steadfast heart he will not fear;
 
 he will see the downfall of his foes.
 
-Open-handed, he gives to the poor; †his justice stands firm for ever. *
+Open-handed, he gives to the poor; †his justice stands firm for ever.
 
 His head will be raised in glory.
 
@@ -346,11 +430,15 @@ Ant. 3 The king said, Tell me all the great things that Elisha has done.
 
 Canticle: Rev 15:3–4
 
-Great and wonderful are your deeds, *O Lord God the Almighty!Just and true are your ways, *
+Great and wonderful are your deeds,
+
+O Lord God the Almighty!Just and true are your ways,
 
 O King of the ages!
 
-Who shall not fear and glorify your name, O Lord? *For you alone are holy.All nations shall come and worship you, *
+Who shall not fear and glorify your name, O Lord?
+
+For you alone are holy.All nations shall come and worship you,
 
 for your judgments have been revealed.
 
@@ -368,19 +456,23 @@ R/. This is a man who loves his brethren, *== and fervently prays for his people
 
 *V/. He gives his life for his brethren, ==* and fervently prays for his people. Glory… R/.
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Today Elisha, Carmel’s mentor, proclaims the greatness of the Lord of hosts; through him the Lord casts down the mighty and raises up the lowly. Glory to you who have received your servant into the kingdom of peace.
 
-My soul proclaims the greatness of the Lord, *my spirit rejoices in God my Savior;for he has looked with favor on his lowly servant, *
+My soul proclaims the greatness of the Lord,
+
+my spirit rejoices in God my Savior;for he has looked with favor on his lowly servant,
 
 and from this day all generations will call me blessed.
 
-The Almighty has done great things for me: *holy is his Name.He has mercy on those who fear him *
+The Almighty has done great things for me:
+
+holy is his Name.He has mercy on those who fear him
 
 in every generation.
 
-He has shown the strength of his arm, *
+He has shown the strength of his arm,
 
 he has scattered the proud in their conceit.
 
@@ -388,15 +480,17 @@ He has cast down the mighty from their thrones,*
 
 and has lifted up the lowly.
 
-He has filled the hungry with good things, *
+He has filled the hungry with good things,
 
 and has sent the rich away empty.
 
-He has come to the help of his servant Israel*for he has remembered his promise of mercy,the promise he made to our fathers, *
+He has come to the help of his servant Israel*for he has remembered his promise of mercy,the promise he made to our fathers,
 
 to [[abraham|Abraham]] and his children for ever.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -430,11 +524,13 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, for ever and ever. Amen.
 
-***This unofficial text comes from the Memorial of St. Elisha approved for use by the Carmelite Order (O.Carm.).**Discalced Carmelite Postulator General Marco Chiesa, o.c.d. has indicated that the Optional Memorial of the Prophet Elisha does not yet have approved texts for use by the Teresian Carmel, thus the above texts approved for use by the Ancient Observance (O.Carm.) may be used on an unofficial basis. We await the official English translation approved by the Holy See, which will be distributed by the Discalced Carmelite General Curia.
+***This unofficial text comes from the Memorial of St. Elisha approved for use by the Carmelite Order (O.Carm.).**
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Discalced Carmelite Postulator General Marco Chiesa, o.c.d. has indicated that the Optional Memorial of the Prophet Elisha does not yet have approved texts for use by the Teresian Carmel, thus the above texts approved for use by the Ancient Observance (O.Carm.) may be used on an unofficial basis. We await the official English translation approved by the Holy See, which will be distributed by the Discalced Carmelite General Curia.
 
-# Office of Readings
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+
+## Office of Readings
 
 ## Hymn
 
@@ -504,7 +600,7 @@ The guild prophets in Jericho, who were on the other side, saw him and said, “
 
 **Responsory**
 
-R/. Elisha saw it and he cried out, “My father! my father! Israel’s chariots and driver!” *== And the spirit of Elijah rested on Elisha.*
+R/. Elisha saw it and he cried out, “My father! my father! Israel’s chariots and driver!”== And the spirit of Elijah rested on Elisha.*
 
 *V/. Elisha said: “May I receive a double portion of your spirit.” ==* And the spirit of Elijah rested on Elisha.
 
@@ -543,3 +639,9 @@ to your abiding presence and providence.
 We ask this through our Lord Jesus Christ, your Son,who lives and reigns with you and the Holy Spirit,
 
 God, for ever and ever. Amen.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/06/12/elishalit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

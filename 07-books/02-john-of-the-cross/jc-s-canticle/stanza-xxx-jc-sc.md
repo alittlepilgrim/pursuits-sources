@@ -3,7 +3,7 @@ type: book
 title: Stanza XXX – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxvi.html
 aliases:
   - Stanza XXX – Spiritual Canticle By St. John of the Cross
   - stanza-xxx-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXX – Spiritual Canticle By St. John of the Cross
 [[stanza-xxix-jc-sc|← Stanza XXIX]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxi-jc-sc|Stanza XXXI →]]
 
 # Stanza XXX
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxvi.html)
 
 Of emeralds, and of flowers In the early morning gathered, We will make the garlands, Flowering in Your love, And bound together with one hair of my head.
 

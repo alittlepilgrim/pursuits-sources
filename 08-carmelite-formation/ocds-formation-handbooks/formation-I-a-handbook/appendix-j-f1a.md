@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix J: St. Thérèse's Act of Oblation to Merciful Love – OCDS Formation I, Year A (The Way of Perfection)"
 ---
 

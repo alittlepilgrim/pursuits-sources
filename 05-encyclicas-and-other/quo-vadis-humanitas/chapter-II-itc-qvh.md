@@ -2,20 +2,23 @@
 type: magisterium
 title: "Chapter II. Life as Vocation: The Human Person as an Agent in History – Quo Vadis Humanitas"
 author: International Theological Commission
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509
 aliases:
   - "Chapter II. Life as Vocation: The Human Person as an Agent in History – Quo Vadis Humanitas"
 tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: "Chapter II. Life as Vocation: The Human Person as an Agent in History – Quo Vadis Humanitas"
 ---
 
 ← [[chapter-I-itc-qvh|Chapter I. Development: Humanism and Posthumanism]] | [[quo-vadis-humanitas|Quo Vadis Humanitas]] | [[chapter-III-itc-qvh|Chapter III. Charity as Vocation: The Human Person as Giver of Self]] →
 
 # Chapter II. Life as Vocation: The Human Person as an Agent in History
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 63\. The prospect of a *transhumanist* anthropological transformation, as well as dreams of *posthumanism*, may seem like a remote possibility, like an exaggeration far removed from the real condition of humanity. In fact, the Covid-19 pandemic has greatly diminished confidence in unlimited technological progress, and it is better understood that humanity needs above all a solidarity that cares for everyone and thanks to which each people can live in peace. Yet *transhumanism’s* demands for progress, especially when they encourage the drive towards *posthumanism*, exert a strong impact on the common imagination and risk acting as a sort of mass distraction from humanity’s most urgent problems, diverting resources and energy from the daily struggles for the possible good of so much of suffering humanity, on the one hand, and favouring distortions in the perception of the real conditions of experience, on the other.
 

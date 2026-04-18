@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 7. Treats of the Same Subject of Spiritual Love and Gives Certain Counsels for Gaining It
 ---
 

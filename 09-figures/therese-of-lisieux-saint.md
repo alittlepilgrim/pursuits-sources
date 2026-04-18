@@ -12,7 +12,7 @@ tags:
   - type/figure
 celebration: 10-01
 created: 1984-01-24
-modified: 2026-04-06
+modified: 2026-04-15
 publish: false
 ---
 
@@ -24,9 +24,7 @@ publish: false
 
 ## Works
 
-- tcj-story-of-a-soul
 - [Saint Thèrése of the Child Jesus and the Holy Face](therese-of-lisieux-saint.md)
 - [counsels-and-souvenirs](tcj-counsels-and-souvenirs.md)
 - [novissima-verba](tcj-novissima-verba.md)
-- [Analysis of Poem 54 "Why I love You, O Mary!"](20250718-soas-analysis-of-why-i-love-you-o-mary-poem-54.md)
-- [Text of Poem 54, "Why I love You, O Mary!"](tcj-poem-54-text.md)
+

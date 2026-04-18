@@ -8,8 +8,8 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-14
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Other Concessions – Manual of Indulgences (Enchiridion Indulgentiarum, 1999)
 ---
 
@@ -17,7 +17,7 @@ description: Other Concessions – Manual of Indulgences (Enchiridion Indulgenti
 
 # Other Concessions
 
-# **Introduction**
+# Introduction
 
 1. In addition to the four general grants (set forth under numbers I-IV above), several others are provided which, in consideration of the traditions of the past as well as the needs of our own time, are of particular importance. All these grants complement one another and, while drawing the faithful by the gift of an indulgence to perform works of devotion, charity, and penance, lead them through charity to a more intimate union with Christ the Head and with the Church his Body.1
 2. Certain other prayers, owing to their divine inspiration, or to their venerable antiquity and universal usage, are included herein2 and cited, as is obvious, by way of example. That which is set forth in the norms regarding the rights of bishops, eparchs, metropolitans, patriarchs, and cardinals must, however, be borne in mind.3 The nature of prayer itself ensures that the faithful of any rite can acquire the indulgences granted for the pious recitation of prayers, lists of which are found below, whatever the liturgical tradition to which a particular prayer belongs.
@@ -30,47 +30,45 @@ description: Other Concessions – Manual of Indulgences (Enchiridion Indulgenti
 
 ____________
 
-1 Cf. ID, no. 11. 2 E.g., Credo (conc. 28 § 2, 3°); De profundis (conc. 9, 2°); Magnificat (conc. 17 § 2, 1°); Sub tuum praesidium (conc. 17 § 2, 3°); Salve, Regina (ibid.); Actiones nostras (conc. 26 § 2, 2°); Agimus tibi gratias (ibid.). 3 Cf. norms 7-10, 11 § 2, 22, 25. 4 Cf. norm 20
-
-§ 4.
+1 Cf. ID, no. 11. 2 E.g., Credo (conc. 28 § 2, 3°); De profundis (conc. 9, 2°); Magnificat (conc. 17 § 2, 1°); Sub tuum praesidium (conc. 17 § 2, 3°); Salve, Regina (ibid.); Actiones nostras (conc. 26 § 2, 2°); Agimus tibi gratias (ibid.). 3 Cf. norms 7-10, 11 § 2, 22, 25. 4 Cf. norm 20 § 4.
 
 # Grants
 
-# **1 Act of Family Consecration**
+## 1 Act of Family Consecration
 
 A plenary indulgence is granted to the members of the family on the day on which it is first consecrated, if at all possible by a priest or deacon, to the Most Sacred Heart of Jesus or to the Holy Family of Jesus, Mary, and Joseph, if they devoutly recite the duly approved prayer before an image of the Sacred Heart or the Holy Family; on the anniversary of the consecration, the indulgence will be partial.
 
-# **2 Act of Dedication of the Human Race to Jesus Christ the King**
+# Act of Dedication of the Human Race to Jesus Christ the King
 
 A plenary indulgence is granted to the faithful who on the solemnity of Our Lord Jesus Christ, King of the Universe, publicly recite the act of dedication of the human race to Christ the King (Iesu dulcissime, Redemptor); a partial indulgence is granted for its use in other circumstances.
 
-## *Iesu Dulcissime, **Redemptor***
+## Iesu Dulcissime, Redemptor
 
 Most sweet Jesus, Redeemer of the human race, look down upon us humbly prostrate before you. We are yours, and yours we wish to be; but to be more surely united with you, behold each one of us freely consecrates himself today to your Most Sacred Heart. Many indeed have never known you; many, too, despising your precepts, have rejected you. Have mercy on them all, most merciful Jesus, and draw them to your Sacred Heart. Be King, O Lord, not only of the faithful who have never forsaken you, but also of the prodigal children who have abandoned you; grant that they may quickly return to their Father’s house, lest they die of wretchedness and hunger. Be King of those who are deceived by erroneous opinions, or whom discord keeps aloof, and call them back to the harbor of truth and the unity of faith, so that soon there may be but one flock and one Shepherd. Grant, O Lord, to your Church assurance of freedom and immunity from harm; give tranquility of order to all nations; make the earth resound from pole to pole with one cry: Praise to the divine Heart that wrought our salvation; to it be glory and honor for ever. Amen.
 
-# **3 Act of Reparation**
+## 3 Act of Reparation
 
 A plenary indulgence is granted to the faithful who, on the solemnity of the Most Sacred Heart of Jesus, publicly recite the act of reparation (Iesu dulcissime); a partial indulgence is granted for its use in other circumstances.
 
-## ***Iesu dulcissime***
+**Iesu Dulcissime**
 
 Most sweet Jesus, whose overflowing charity for men is requited by so much forgetfulness, negligence, and contempt, behold us prostrate before you, eager to repair by a special act of homage the cruel indifference and injuries to which your loving Heart is everywhere subjected.
 
 Mindful, alas! that we ourselves have had a share in such great indignities, which we now deplore from the depths of our hearts, we humbly ask your pardon and declare our readiness to atone by voluntary expiation, not only for our own personal offenses, but also for the sins of those who, straying far from the path of salvation, refuse in their obstinate infidelity to follow you, their Shepherd and Leader, or, renouncing the promises of their Baptism, have cast off the sweet yoke of your law. We are now resolved to expiate each and every deplorable outrage committed against you; we are determined to make amends for the manifold offenses against Christian modesty in indecent dress and behavior, for all the foul seductions laid to ensnare the feet of the innocent, for the frequent violations of Sundays and holydays, and for the shocking blasphemies uttered against you and your Saints. We wish also to make amends for the insults to which your Vicar on earth and your priests are subjected, for the profanation, by conscious neglect or terrible acts of sacrilege, of the very Sacrament of your divine love, and lastly for the public crimes of nations who resist the rights and teaching authority of the Church which you have founded. Would that we were able to wash away such abominations with our blood. We now offer, in reparation for these violations of your divine honor, the satisfaction you once made to your Eternal Father on the cross and which you continue to renew daily on our altars; we offer it in union with the acts of atonement of your Virgin Mother and all the saints and of the pious faithful on earth; and we sincerely promise to make recompense, as far as we can with the help of your grace, for all neglect of your great love and for the sins we and others have committed in the past. Henceforth, we will live a life of unswerving faith, of purity of conduct, of perfect observance of the precepts of the Gospel and especially that of charity. We promise to the best of our power to prevent others from offending you and to bring as many as possible to follow you. O loving Jesus, through the intercession of the Blessed Virgin Mother, our model in reparation, deign to receive the voluntary offering we make of this act of expiation; and by the crowning gift of perseverance keep us faithful unto death in our duty and the allegiance we owe to you, that we may all one day come to that happy home, where with the Father and the Holy Spirit you live and reign, for ever and ever. Amen.
 
-# **4 Papal Blessing**
+## 4 Papal Blessing
 
 A plenary indulgence is granted to the faithful who devoutly receive a blessing imparted either by the Supreme Pontiff to Rome and the World (Urbi et Orbi), or by the bishop to whose care the faithful are entrusted in accordance with Norm 7, 2° of this Manual, even if, because of reasonable circumstances, they are unable to be present physically at the sacred rite, provided that they follow it devoutly as it is broadcast live by television or radio.
 
-# **5 Days Designated Universally for a Certain Religious Intention**
+## 5 Days Designated Universally for a Certain Religious Intention
 
 A plenary indulgence is granted to the faithful who, on days universally designated to foster certain religious intentions (e.g., the promotion of priestly and religious vocations, the pastoral care of the sick and infirm, strengthening the profession of faith in young people, and assisting others to lead a holy life, etc.), piously assist at celebrations of this kind; however, those who pray for these same intentions may gain a partial indulgence.
 
-# **6 Christian Doctrine**
+## 6 Christian Doctrine
 
 A partial indulgence is granted to the faithful who teach or study Christian doctrine. § 1 7
 
-# **7 Eucharistic Adoration and Procession**
+# 7 Eucharistic Adoration and Procession
 
 A plenary indulgence is granted to the faithful who
 
@@ -86,11 +84,11 @@ A plenary indulgence is granted to the faithful who
 
 2° offer any duly approved prayer to Jesus present in the Blessed Sacrament (e.g., the Adoro te devote, the prayer O sacrum convivium, or the Tantum ergo).
 
-## **O Sacrum convivium**
+## O Sacrum Convivium
 
 O sacred banquet, in which Christ is received, the memory of his Passion is renewed, the mind is filled with grace, and a pledge of future glory is given to us.
 
-## **Tantum ergo**
+## Tantum Ergo
 
 Down in adoration falling,
 
@@ -118,9 +116,9 @@ R/. Having all delight within it.
 
 Let us pray. O God, who in this wonderful Sacrament left us a memorial of your Passion: grant, we implore you, that we may so venerate the sacred mysteries of your Body and Blood, as always to be conscious of the fruit of your Redemption. You who live and reign forever and ever. Amen.(Holy Communion and Worship of the Eucharist Outside of Mass; June 21, 1973, nos. 200, 192)
 
-**§ 1
+§ 1
 
-# **8 Eucharistic and Spiritual Communion**
+# 8 Eucharistic and Spiritual Communion
 
 > [!NOTE]
 > A plenary indulgence is granted to the faithful who
@@ -136,7 +134,7 @@ Let us pray. O God, who in this wonderful Sacrament left us a memorial of your P
 >
 > 2° an act of thanksgiving after Communion (e.g., Anima Christi; En ego, O bone et dulcissime Iesu).
 
-## **Anima Christi**
+## Anima Christi
 
 Soul of Christ, sanctify me.
 
@@ -166,11 +164,11 @@ Amen.
 
 (Roman Missal, Thanksgiving after Mass)
 
-## **En Ego, o Bone Et Dulcissime Iesu**
+## En Ego, o Bone Et Dulcissime Iesu
 
 Behold, O kind and most sweet Jesus, I cast myself upon my knees in thy sight, and with the most fervent desire of my soul, I pray and beseech thee that thou wouldst impress upon my heart lively sentiments of faith, hope, and charity, with true contrition for my sins and a firm purpose of amendment; while with deep affection and grief of soul I ponder within myself and mentally contemplate thy five wounds, having before my eyes the words which David the prophet put on thy lips concerning thee: “My hands and my feet they have pierced, they have numbered all my bones.” (Roman Missal, Thanksgiving after Mass)
 
-# **9 Examination of Conscience and Act of Contrition**
+# 9 Examination of Conscience and Act of Contrition
 
 A partial indulgence is granted to the faithful who, especially in preparation for sacramental confession,
 
@@ -178,25 +176,25 @@ A partial indulgence is granted to the faithful who, especially in preparation f
 
 2° devoutly recite an act of contrition, according to any legitimate formula (e.g., the Confiteor, the psalm De profundis, or the psalm Miserere, or any of the gradual or penitential psalms). § 1 § 2
 
-# **10 Spiritual Exercises and Monthly Recollections**
+# 10 Spiritual Exercises and Monthly Recollections
 
 A plenary indulgence is granted to the faithful who spend at least three entire days in the spiritual exercises of a retreat. A partial indulgence is granted to the faithful who take part in a month of recollection.
 
-# **11 Week of Prayer for Christian Unity**
+# 11 Week of Prayer for Christian Unity
 
 The Catholic Church takes especially to heart the prayer her Founder offered to the Father the day before he suffered, “That all may be one!”, and therefore she strenuously encourages the faithful to pray without ceasing for the unity of Christians. § 1 A plenary indulgence is granted to the faithful who participate in some of the services during the Week of Christian Unity and assist at the closing of this same week.§ 2 A partial indulgence is granted to the faithful who devoutly recite an appropriately approved prayer for the unity of Christians (e.g. Omnipotens et misericors Deus).
 
-## Omnipotens Et Misericors **Deus**
+## Omnipotens Et Misericors Deus
 
 Almighty and merciful God, who wished to gather the scattered nations into one people through your Son, grant that those who glory in the name of Christians may put aside division and become one in truth and charity, and that all men may be illumined by the true faith and brought together into the fraternal communion of one Church. Through Christ our Lord. Amen.
 
 § 1 § 2 § 3 § 4 § 5
 
-# **12 At the Point of Death**
+# 12 At the Point of Death
 
 A priest who administers the sacraments to someone in danger of death should not fail to impart the apostolic blessing to which a plenary indulgence is attached. If a priest is unavailable, Holy Mother Church benevolently grants to the Christian faithful, who are duly disposed, a plenary indulgence to be acquired at the point of death, provided they have been in the habit of reciting some prayers during their lifetime; in such a case, the Church supplies for the three conditions ordinarily required for a plenary indulgence. In this latter case, the use of a crucifix or a cross in obtaining the plenary indulgence is commendable. The faithful can obtain this plenary indulgence at the hour of death, even if they have already acquired a plenary indulgence on that same day. The catechetical instruction of the faithful should ensure that they are duly made aware and frequently reminded of this salutary benefaction of the Church.
 
-# **13 In Memory of the Passion and Death of the Lord**
+# 13 In Memory of the Passion and Death of the Lord
 
 A plenary indulgence is granted to the faithful who § 1 devoutly assist at the adoration of the Cross in the solemn liturgical action of Good Friday; or § 2 personally make the pious Way of the Cross, or devoutly unite themselves to the Way of the Cross while it is being led by the Supreme Pontiff and broadcast live on television or radio. In the pious exercise of the Way of the Cross, we recall anew the sufferings which our divine Redeemer endured while going from the praetorium of Pilate, where he was condemned to death, to Mount Calvary, where he died on the cross for our salvation. Regarding the acquisition of the plenary indulgence, the following is prescribed:
 
@@ -208,19 +206,19 @@ A plenary indulgence is granted to the faithful who § 1 devoutly assist at the 
 6. Equivalent to the pious exercise of the Way of the Cross, even with regard to obtaining the indulgence, are other pious exercises, approved by competent authority, which call to mind the memory of the Passion and Death of our Lord, likewise with the prescribed fourteen stations.
 7. For those belonging to the Eastern Churches, where this pious exercise may not exist, the indulgence can be acquired by means of some other pious exercise in memory of the Passion and Death of our Lord Jesus Christ, accordingly as each patriarch has established for his own faithful.§ 1 § 2
 
-# **14 Use of Articles of Devotion**
+# 14 Use of Articles of Devotion
 
 A plenary indulgence is granted to the faithful who, on the Solemnity of the Holy Apostles Peter and Paul, make prayerful use of an article of devotion, as defined by Norm 15, that has been blessed by the Supreme Pontiff or by any bishop, provided the faithful also make a Profession of Faith using any legitimate formula. A partial indulgence is granted to the faithful who devoutly use such articles of devotion properly blessed by either a priest or a deacon.
 
-# **15 Mental Prayer**
+# 15 Mental Prayer
 
 A partial indulgence is granted to the faithful who for their personal edification devoutly spend time in mental prayer. § 1 § 2
 
-# 16 **Listening To Sacred Preaching**
+# 16 Listening to Sacred Preaching
 
 A plenary indulgence is granted to the faithful who on the occasion of a mission have heard some of the sermons and are present for the solemn conclusion of the mission. A partial indulgence is granted to the faithful who assist with attention and devotion at other occasions of the preaching of the Word of God. § 1
 
-# 17 **Prayers To the Blessed Virgin Mary**
+# 17 Prayers to the Blessed Virgin Mary
 
 > [!NOTE]
 > A plenary indulgence is granted to the faithful who
@@ -244,7 +242,7 @@ A plenary indulgence is granted to the faithful who on the occasion of a mission
 >
 > 3° devoutly address the Blessed Virgin Mary with some approved prayer (e.g., Maria, Mater gratiae; the Memorare; the Salve Regina; the Sancta Maria, succurre miseris; or the Sub tuum praesidium.)
 
-## **Angelus Domini**
+## Angelus Domini
 
 V. The Angel of the Lord declared unto Mary,
 
@@ -268,7 +266,7 @@ Through the same Christ our Lord. Amen.
 
 (Roman Missal, Collect for the Fourth Sunday of Advent)
 
-## **Regina caeli**
+## Regina Caeli
 
 Queen of Heaven, rejoice, alleluia: For the Son thou wast privileged to bear, alleluia,
 
@@ -282,11 +280,11 @@ R/. For the Lord is truly risen, Alleluia.
 
 (Liturgy of the Hours, Night Prayer for the Season of Easter) Let us pray: O God, who gave joy to the world through the Resurrection of thy Son our Lord Jesus Christ, grant, we beseech thee, that through the intercession of the Virgin Mary, his Mother, we may obtain the joys of everlasting life. Through the same Christ our Lord. Amen. (Roman Missal, Collect from the Common of the B. V. M. during the Easter Season)
 
-## Maria, Mater **gratiae**
+## Maria, Mater Gratiae
 
 Mary, Mother of grace and Mother of mercy, shield me from the enemy and receive me at the hour of my death.
 
-## **Memorare, O Piissima Virgo Maria**
+## Memorare, o Piissima Virgo Maria
 
 Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thine intercession was left unaided. Inspired by this confidence, I fly unto thee, O Virgin of virgins, my mother; to thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen. (Liturgy of the Hours, Ordinary for Night Prayer)
 
@@ -294,49 +292,43 @@ Remember, O most gracious Virgin Mary, that never was it known that anyone who f
 
 Hail, holy Queen, Mother of mercy; Hail, our life, our sweetness and our hope. To thee do we cry, poor banished children of Eve. To thee do we send up our sighs, mourning and weeping in this valley of tears. Turn then, most gracious advocate, thine eyes of mercy toward us; and after this our exile show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary. (Liturgy of the Hours, Night Prayer)
 
-## **Sancta Maria, Succurre miseris**
+## Sancta Maria, Succurre Miseris
 
 Holy Mary, succor the miserable, help the fainthearted, comfort the sorrowful, pray for thy people, plead for the clergy, intercede for all women consecrated to God; may all who keep thy holy commemoration feel now thy help and protection.
 
-## **Sub Tuum praesidium**
+## Sub Tuum Praesidium
 
 We fly to your patronage, O holy Mother of God; despise not our petitions in our necessities, but deliver us always from all dangers, O glorious and blessed Virgin. (Liturgy of the Hours, Night Prayer)
 
-# 18 **Prayers To One's Guardian Angel**
+# 18 Prayers to One's Guardian Angel
 
 A partial indulgence is granted to the faithful who devoutly invoke the care of their guardian Angel with a duly approved prayer (e.g. Angele Dei).
 
-## ***Angele Dei***
+## Angele Dei
 
 Angel of God, my guardian dear, to whom his love entrusts me here, enlighten and guard, rule and guide me. Amen.
 
-19
-
-# **19 Prayers in Honor of St Joseph**
+# 19 Prayers in Honor of St Joseph
 
 A partial indulgence is granted to the faithful who invoke St. Joseph, spouse of the Blessed Virgin Mary, with a duly approved prayer (e.g., Ad te, beate Ioseph).
 
-## ***Ad Te, Beate Ioseph***
+## Ad Te, Beate Ioseph
 
 To you, O blessed Joseph, do we come in our tribulation, and having implored the helpof your most holy spouse, we confidently invoke your patronage also. Through that charity which bound you to the Immaculate Virgin Mother of God and through the paternal love with which you embraced the Child Jesus, we humbly beg you graciously to regard the inheritance which Jesus Christ has purchased by his Blood, and with your power and strength to aid us in our necessities. O most watchful Guardian of the Holy Family, defend the chosen children of Jesus Christ; O most loving father, ward off from us every contagion of error and corrupting influence; O our most mighty protector, be kind to us and from heaven assist us in our struggle with the power of darkness. As once you rescued the Child Jesus from deadly peril, so now protect God’s Holy Church from the snares of the enemy and from all adversity; shield, too, each one of us by your constant protection, so that, supported by your example and your aid, we may be able to live piously, to die in holiness, and to obtain eternal happiness in heaven. Amen.
 
-20
-
-# **20 Prayers in Honor of the Apostles Peter and Paul**
+# 20 Prayers in Honor of the Apostles Peter and Paul
 
 A partial indulgence is granted to the faithful who devoutly recite the prayer Sancti Apostoli Petre et Paule.
 
-## ***Sancti Apostoli Petre Et Paule***
+## Sancti Apostoli Petre Et Paule
 
 Holy Apostles Peter and Paul, intercede for us. Guard your people, who rely on the patronage of your apostles Peter and Paul, O Lord, and keep them under your continual protection. Through Christ our Lord. Amen. § 1 § 2 21
 
-# **21 Prayers in Honor of the Saints and Blesseds**
+# 21 Prayers in Honor of the Saints and Blesseds
 
 A partial indulgence is granted to the faithful who on the memorial of any saint listed in the calendar recite in that saint’s honor the prayer taken from the Missal or another one approved by legitimate authority. In addition, in order to promote the veneration of newly proclaimed saints and blesseds, a plenary indulgence is granted a single time within the year following the canonization or beatification to those faithful who make a visit to a church or an oratory in which a solemn celebrations is held in honor of the saint or blessed, and who there devoutly recite the Our Father and the Creed. To any of the faithful who make the aforesaidpious visit during the same period, a partial indulgence is granted.
 
-22
-
-# **22 Novenas Litanies and the Little Offices**
+# 22 Novenas Litanies and the Little Offices
 
 A partial indulgence is granted to the faithful who
 
@@ -548,7 +540,7 @@ Let us pray.
 
 Lord, may we who honor the holy name of Jesus enjoy his friendship in this life and be filled with eternal joy in the kingdom where he lives and reigns for ever and ever. Amen.
 
-## ***Litany Of the Sacred Heart of Jesus***
+## Litany Of the Sacred Heart of Jesus
 
 Lord, have mercy
 
@@ -792,7 +784,7 @@ Let us pray.
 
 Father, by the blood of your Son you have set us free and saved us from death. Continue your work of love within us, that by constantly celebrating the mystery of our salvation we may reach the eternal life it promises. We ask this through Christ our Lord. Amen.
 
-## ***Litany Of the Blessed Virgin Mary (Litany of Loreto)***
+## Litany Of the Blessed Virgin Mary (Litany of Loreto)
 
 Lord, have mercy
 
@@ -986,7 +978,7 @@ Let us pray.
 
 Eternal God, let your people enjoy constant health in mind and body. Through the intercession of the Virgin Mary free us from the sorrows of this life and lead us to happiness in the life to come. Grant this through Christ our Lord. Amen.
 
-## ***Litany Of St. Joseph***
+## Litany of St. Joseph
 
 Lord, have mercy
 
@@ -1108,7 +1100,7 @@ Let us pray.
 
 Almighty God, in your infinite wisdom and love you chose Joseph to be the husband of Mary, the mother of your Son. As we enjoy his protection on earth may we have the help of his prayers in heaven. We ask this through Christ our Lord. Amen.
 
-## **Litany Of the Saints**
+## Litany of the Saints
 
 Lord, have mercy Christ, have mercy
 
@@ -1260,9 +1252,7 @@ God of our ancestors who set their hearts on you, of those who fell asleep in pe
 
 Amen.
 
-23
-
-# **23 Prayers of the Eastern Churches**
+# 23 Prayers of the Eastern Churches
 
 The nature of her catholicity ensures that “each individual part of the Church contributes through its special gifts to the good of the whole Church, so that the whole and each part increase” (LG, no. 13) in every spiritual bounty given by God—whence prayers from various Eastern traditions have spreadalso among the faithful of the Latin rite, especially in recent years, and are employed with considerable spiritual benefit in both private and public piety.
 
@@ -1270,25 +1260,25 @@ The nature of her catholicity ensures that “each individual part of the Church
 
 § 2 A partial indulgence is granted to the faithful who, in accordance with particular times and circumstances, devoutly recite one of the following prayers: a Prayer of Thanksgiving (from the Armenian tradition); Evening Prayer, Prayer for the Faithful Departed (from the Byzantine Tradition); the Prayer of the Shrine, the Prayer “Lakhu Mara” known as To You, O Lord, (from the Chaldean Tradition); a Prayer for the Offering of Incense, Prayer to Glorify Mary, the Mother of God (from the Coptic Tradition); Prayer for the Remission of Sins, Prayer for Following in the Footsteps of Christ (from the Ethiopian Tradition); Prayer for the Church, Prayer After the Celebration of the Liturgy (from the Maronite Tradition), and the Intercessions for the Faithful Departed from the Liturgy of St. James (from the Syro-Antiochian Tradition).
 
-## **Prayer Of the Armenian Tradition**
+## Prayer Of the Armenian Tradition
 
-### ***A Prayer of Thanksgiving for the Church***
+### A Prayer of Thanksgiving for the Church
 
 We thank you, Almighty Father, for having prepared the holy Church for us as a haven of rest, a temple of holiness, where your Holy Trinity is glorified. Alleluia. We thank you, Christ our King, for having given us life through your vivifying Body and your holy Blood; grant us expiation and great mercy. Alleluia. We thank you, true Spirit, for having renewed the holy Church; preserve her immaculate, by means of faith in the Trinity, now and forever. Alleluia. We thank you, O Christ our God, for having given us such a Food of goodness for holiness of life. By means of it preserve us holy and immaculate by living in us with your divine care. Lead us to the pastures of your holy will, O Effecter of good; by means of it fortify us against every snare of the calumniator. Make us worthy to listen to your voice alone, to follow only you, true and victorious Shepherd, and to receive from you the place you prepared for us in your heavenly kingdom, O God and Lord Jesus Christ our Savior, who are blessed with the Father and your Holy Spirit, now and always for ever and ever. Amen.
 
-## **Prayers Of the Byzantine Tradition**
+## Prayers Of the Byzantine Tradition
 
-### ***Evening Prayer***
+### Evening Prayer
 
 In the evening, in the morning, and at noon we praise you, we bless you, we give you thanks, and we beg you, Master of the universe, grant that our hearts not yield to evil words but free us from all who try to enslave our souls, because our eyes are turned to you, O Lord, and we have placed our hope in you. Do not abandon us, O God! For every glory, honor, and adoration is due to you, Father, Son, and Holy Spirit, now and always and for ever and ever. Amen.
 
-### ***Prayer For the Deceased***
+### Prayer for the Deceased
 
 God of the spirits and of all flesh, who have destroyed death and annihilated the devil and given life to your world, may you yourself, O Lord, grant to the soul of your deceased servant N. rest in a place of light, a verdant place, a place of freshness, from where suffering, pain, and cries are far removed. Do You, O good and compassionate God, forgive every fault committed by him in word, work, or thought; because there is no man who lives and does not sin. You alone are without sin and your justice is justice throughout the ages and your word is truth. Since you, O Christ our God, are the resurrection, the life and the repose of your deceased servant N., we give you glory together with your un-begotten Father with your most holy, good, and vivifying Spirit, now and always and for ever and ever.
 
-## **Prayers Of the Chaldean Tradition**
+## Prayers Of the Chaldean Tradition
 
-### *Prayer Of the Sanctuary*
+### Prayer Of the Sanctuary
 
 Before the tremendous throne of your majesty, at the exalted place of your divinity, the majestic seat of your glory and the sublime throne of your sovereignty, where your servants the Cherubim continuously sing hymns and where your glorifiers the Seraphim sing unceasingly the “Sanctus,” we bow down with fear, adore with trembling, give thanks, and glorify you without ceasing, at all times, O Lord of the universe, Father, Son, and Holy Spirit, for all ages.
 
@@ -1300,13 +1290,13 @@ When the essence of the sweetness of your love, O Lord our God, will make itself
 
 To you, O Lord of the universe, we proclaim our confession, and we glorify you, Jesus Christ, because you are the resurrection of our bodies and the savior of our souls. You indeed, Lord, are the resurrection of our bodies and the good savior of our souls and the everlasting keeper of our life, and we are bound to thank you, adore and glorify you at every moment, O Lord of the universe through all ages.
 
-## **Prayers Of the Coptic Tradition**
+## Prayers Of the Coptic Tradition
 
-### *Prayer Of Incense*
+### Prayer Of Incense
 
 O King of peace, give us your peace and pardon our sins. Dismiss the enemies of the Church and protect her, so that she never fail. Emmanuel our God is in our midst in the glory of the Father and of the Holy Spirit. May he bless us and purify our hearts and cure the sicknesses of our soul and body. We adore you, O Christ, with your good Father and the Holy Spirit, because you have come and have saved us.
 
-### ***Singing The Praises of Mary***
+### Singing The Praises of Mary
 
 You are raised higher than the Cherubim, you are extolled above the Seraphim, because you have drawn down your Son, and have carried him in your arms, and nursed him with your milk!
 
@@ -1328,7 +1318,7 @@ O golden thurible, who carried the blessed burning coal, taken from the sanctuar
 
 O Lord of knowledge and Announcer of wisdom, who have revealed to us what was hidden in the depths of darkness, Giver of the voice of joy to those who preach the breadth of your strength, it is you who in the greatness of your goodness called Paul who first had been a persecutor, and made him into a vessel of election, and you took delight in him, so that he would be an apostle and preacher of the Gospel of your Kingdom. O Christ, our God, you are the lover of men. O kind Lord, give us understanding without weariness, a pure conscience which does not depart from you, so that we know and understand and fully comprehend the measure of your holy doctrine which now comes from him, and as he was the imitator of your life, O Lord, so grant that we be his imitators in works and faith and praise your holy Name and that we glory at all times of the shame of your cross, since yours is the kingdom, the power, the greatness and the might, honor and glory for ever and ever.
 
-## **Prayers Of the Maronite Tradition**
+## Prayers Of the Maronite Tradition
 
 ### A Prayer for the Church
 
@@ -1358,7 +1348,7 @@ Remain in peace, O Altar of God. May the offering that I have taken from you be 
 
 Amen.
 
-## **Prayer Of the Syro Antiochian Tradition**
+## Prayer Of the Syro Antiochian Tradition
 
 ### Intercession for the Deceased from Liturgy of St. James
 
@@ -1366,9 +1356,7 @@ Lord, O Lord, God of the pure spirits and of every flesh, be mindful of us all, 
 
 Amen.
 
-24
-
-# **24 Prayers for Benefactors**
+# 24 Prayers for Benefactors
 
 A partial indulgence is granted to the faithful who, moved by supernatural gratitude, devoutly recite a duly approved prayer for benefactors (e.g., Retribuere dignare, Domine).
 
@@ -1376,9 +1364,7 @@ A partial indulgence is granted to the faithful who, moved by supernatural grati
 
 May it please you, O Lord, to reward with eternal life all those who do good to us for your Name’s sake. Amen.
 
-25
-
-# **25 Prayers for Pastors**
+# 25 Prayers for Pastors
 
 A partial indulgence is granted to the faithful who
 
@@ -1392,9 +1378,7 @@ V. Let us pray for our Sovereign Pontiff N.
 
 R/. The Lord preserve him and give him life, and make him blessed upon the earth, and deliver him not to the will of his enemies. § 1
 
-26
-
-# **26 Prayers of Supplication and Acts of Thanksgiving**
+# 26 Prayers of Supplication and Acts of Thanksgiving
 
 A plenary indulgence is granted to the faithful who devoutly assist either at the recitation or solemn singing of
 
@@ -1408,11 +1392,11 @@ A plenary indulgence is granted to the faithful who devoutly assist either at th
 
 3° before and after meals, devoutly offer some legitimately approved prayer of supplication and act of thanksgiving (e.g., Actiones nostras; Adsumus; Agimus Tibi gratias; Benedic, Domine; Domine, Deus Omnipotens; Exaudi nos; the Te Deum; the Veni Creator; the Veni Sancte Spiritus; Visita, quaesumus, Domine).
 
-## ***Actiones nostras***
+## Actiones Nostras
 
 Direct, we beseech thee, O Lord, all our actions by thy holy inspiration, carry them on by thy gracious assistance, that every word and work of ours may always begin from thee and by thee be happily ended. Amen. (A prayer for imploring divine assistance before any work) (Roman Missal, Thursday after Ash Wednesday, Collect; Liturgy of the Hours, Monday of the 1st week, Morning Prayer)
 
-## ***Adsumus***
+## Adsumus
 
 We have come, O Lord, Holy Spirit, we have come before you, hampered indeed by our many and grievous sins, but for a special purpose gathered together in your name.
 
@@ -1420,33 +1404,31 @@ Come to us, be with us, and enter our hearts.
 
 Teach us what we are to do and what ought to concern us; show us what we must accomplish, in order that, with your help, we may be able to please you in all things. May you alone be the author and the finisher of our judgments, who alone with God the Father and his Son possess a glorious name. Do not allow us to disturb the order of justice, you who love equity above all things. Let not ignorance draw us into devious paths. Let not partiality sway our minds or respect of riches or persons pervert our judgment. But unite our hearts to you by the gift of your grace alone, that we may be one in you and never forsake the truth; as we are gathered together in your name, so may we in all things hold fast to justice tempered by mercy, that in this life our judgment maynever be at variance with you and in the life to come we may attain to everlasting rewards for deeds well done. Amen. (Prayer before a meeting dealing with matters of common interest)
 
-## ***Agimus Tibi gratias***
+## Agimus Tibi Gratias
 
 We give You thanks, Almighty God, for all your blessings: who live and reign for ever and ever. Amen. (A prayer of thanksgiving)
 
-## ***Benedic, Domine***
+## Benedic, Domine
 
 Bless us, O Lord, and these your gifts, which we are about to receive from your bounty, through Christ our Lord. Amen. (Book of Blessings, no. 785)
 
-## ***Domine, Deus omnipotens***
+## Domine, Deus Omnipotens
 
 Lord, God Almighty, you have brought us safely to the beginning of this day. Defend us today by your mighty power, that we may not fall into any sin, but that all our words may so proceed and all our thoughts and actions be so directed, as to be always just in your sight. Through Christ our Lord. Amen. (Liturgy of the Hours, Monday Morning Prayer of Week Two)
 
-## ***Exaudi nos***
+## Exaudi Nos
 
 Hear us, Lord, holy Father, almighty and eternal God; and graciously send your holy angel from heaven to watch over, to cherish, to protect, to abide with, and to defend all who dwell in this house. Through Christ our Lord. Amen.
 
-## ***Veni, Sancte Spiritus***
+## Veni, Sancte Spiritus
 
 Come, Holy Spirit, fill the hearts of your faithful and enkindle in them the fire of your love. (Liturgy of the Hours, Pentecost Sunday)
 
-## ***Visita, Quaesumus, Domine***
+## Visita, Quaesumus, Domine
 
 Visit, we beg you, O Lord, this dwelling, and drive from it all snares of the enemy: let your holy Angels dwell herein, to keep us in peace; and let your blessing be always upon us. Through Christ our Lord. Amen. (Liturgy of the Hours, Night Prayer for Solemnities)§ 1 § 2
 
-27
-
-# **27 A Priest S First Mass and Jubilee Celebrations of Ordination**
+# 27 A Priest S First Mass and Jubilee Celebrations of Ordination
 
 A plenary indulgence is granted to
 
@@ -1462,9 +1444,7 @@ Similarly, a plenary indulgence is granted to
 
 3° the faithful who devoutly assist at jubilee Mass celebrations. § 1 § 2
 
-28
-
-# **28 Profession of Faith and Acts of the Theological Virtues**
+# 28 Profession of Faith and Acts of the Theological Virtues
 
 A plenary indulgence is granted to the faithful who, at the celebration of the Easter Vigil or on the anniversary of their own Baptism, renew their baptismal vows in any legitimately approved formula. A partial indulgence is granted to the faithful who
 
@@ -1474,9 +1454,9 @@ A plenary indulgence is granted to the faithful who, at the celebration of the E
 
 3° devoutly recite either the Apostles’ Creed or the Niceno-Constantinopolitan Creed;
 
-4° recite an Act of Faith, Hope, and Charity in any legitimate formula. § 1 29
+4° recite an Act of Faith, Hope, and Charity in any legitimate formula. § 1
 
-# **29 For the Faithful Departed**
+# 29 For the Faithful Departed
 
 A plenary indulgence, applicable only to the souls in purgatory, is granted to the faithful who,§ 2 1° on any and each day from November 1 to 8, devoutly visit a cemetery and pray, if only mentally, for the departed;
 
@@ -1490,27 +1470,21 @@ A plenary indulgence, applicable only to the souls in purgatory, is granted to t
 
 Eternal rest grant unto them, O Lord, and let perpetual light shine upon them. May they rest in peace. (Order of Christian Funerals) § 1 § 2
 
-30
-
-# **30 Reading of Sacred Scripture**
+# 30 Reading of Sacred Scripture
 
 A plenary indulgence is granted to the faithful who read the Sacred Scriptures as spiritual reading, from a text approved by competent authority and with the reverence due to the divine word, for at least a half an hour; if the time is less, the indulgence will be partial. If for some good reason a person is unable to read the Sacred Scriptures, a plenary or partial indulgence is granted, as above, if the text of Sacred Scripture is listened to while another person is reading or if it is heard by means of a video or audio recording.
 
-31
-
-# **31 A Diocesan Synod**
+# 31 A Diocesan Synod
 
 A plenary indulgence is granted a single time to the faithful who, during a diocesan synod, devoutly visit the church in which the synod is celebrated and there recite an Our Father and the Creed.32
 
-# **32 A Pastoral Visit
+# 32 A Pastoral Visit
 
 A plenary indulgence is granted a single time to the faithful who, during the time of a pastoral visit, assist at the sacred functions over which the visitator presides. § 1 33
 
-# **33 Visiting Sacred Places**
+# 33 Visiting Sacred Places
 
-A plenary indulgence is granted to the faithful who visit, and there devoutly recite an
-
-Our Father and the Creed,
+A plenary indulgence is granted to the faithful who visit, and there devoutly recite an Our Father and the Creed,
 
 1° one of the four Patriarchal Basilicas in Rome, either as part of group making a pilgrimage to the basilica, or at least with the purpose of expressing during the visit filial submission to the Roman Pontiff;
 
@@ -1530,7 +1504,7 @@ Christian cemeteries or catacombs.
 
 ____________
 
-* Notes in this section are numbered by grant (and by sub-grant, as applicable). 2 EI 1986, conc. 17 (likewise in EI 1968). 3 EI 1986, conc. 26. 4 EI 1986, conc. 12 (cf. SPA, decr. De indulgentiis ope instrumenti televisifici vel radiophonici lucrandis, December 14, 1985: AAS 78 [1986] 293-294). 5 Cf. EI 1986, conc. 37. 6 EI 1986, conc. 20 (the partial indulgence acquired by the teacher by reason of general concession II is extended by this grant to the one who studies). 7 § 1, 1°: EI 1986, conc. 3. § 1, 2°: EI 1986, conc. 59. § 1, 4°: EI 1986, conc. 23. § 2, 1°: EI 1986, conc. 3. § 2, 2°: EI 1986, conc. 4, 40, 59. 8 § 1, 1°: EI 1986, conc. 42. § 1, 2°: EI 1986, conc. 22. § 2, 1°: EI 1986, conc. 15. § 2, 2°: EI 1986, conc. 10, 22. 9 2°: EI 1986, conc. 2, 19, 33. 10 § 1: EI 1986, conc. 25 § 2: EI 1986, conc. 45.11 § 2: EI 1986, conc. 44. 12 §§ 1-4: EI 1986, conc. 28. (Cf. ID, norms 6, 18; EI 1968, norm 24 § 2; Ordo unctionis infirmorum eorumque pastoralis curae, December 7, 1972, no. 122; CIC 1983, can. 530; EI 1986, norm 21 § 2). 13 § 1: EI 1986, conc. 17. § 2: EI 1986, conc. 63. 14 EI 1986, conc. 35. To bless articles of devotion properly, the priest or deacon should observe the liturgical formulas of his own Ritual. In special circumstances, he can use the following short form: “In the name of the Father and of the Son + and of the Holy Spirit. Amen” (De Ben., nos. 1165, 1182).
+ Notes in this section are numbered by grant (and by sub-grant, as applicable). 2 EI 1986, conc. 17 (likewise in EI 1968). 3 EI 1986, conc. 26. 4 EI 1986, conc. 12 (cf. SPA, decr. De indulgentiis ope instrumenti televisifici vel radiophonici lucrandis, December 14, 1985: AAS 78 [1986] 293-294). 5 Cf. EI 1986, conc. 37. 6 EI 1986, conc. 20 (the partial indulgence acquired by the teacher by reason of general concession II is extended by this grant to the one who studies). 7 § 1, 1°: EI 1986, conc. 3. § 1, 2°: EI 1986, conc. 59. § 1, 4°: EI 1986, conc. 23. § 2, 1°: EI 1986, conc. 3. § 2, 2°: EI 1986, conc. 4, 40, 59. 8 § 1, 1°: EI 1986, conc. 42. § 1, 2°: EI 1986, conc. 22. § 2, 1°: EI 1986, conc. 15. § 2, 2°: EI 1986, conc. 10, 22. 9 2°: EI 1986, conc. 2, 19, 33. 10 § 1: EI 1986, conc. 25 § 2: EI 1986, conc. 45.11 § 2: EI 1986, conc. 44. 12 §§ 1-4: EI 1986, conc. 28. (Cf. ID, norms 6, 18; EI 1968, norm 24 § 2; Ordo unctionis infirmorum eorumque pastoralis curae, December 7, 1972, no. 122; CIC 1983, can. 530; EI 1986, norm 21 § 2). 13 § 1: EI 1986, conc. 17. § 2: EI 1986, conc. 63. 14 EI 1986, conc. 35. To bless articles of devotion properly, the priest or deacon should observe the liturgical formulas of his own Ritual. In special circumstances, he can use the following short form: “In the name of the Father and of the Son + and of the Holy Spirit. Amen” (De Ben., nos. 1165, 1182).
 
 - 15 EI 1986, conc. 38. 16 EI 1986, conc. 41. 17 § 1, 1°: EI 1986, conc. 48; cf. Pope John Paul II, Apostolic Letter Rosarium Virginis Mariae (On the Most Holy Rosary) (AAS 95 [2003] 5-36); for the hymn Akathistos and the office Paraclisis, cf. conc. 23 below. § 2, 1°: EI 1986, conc. 30. § 2, 2°: EI 1986, conc. 9. § 2, 3°: EI 1986, conc. 31, 32, 51, 52, 57 (cf. conc. 22 below for novenas, litanies, and Little Offices in honor of the Blessed Virgin Mary).
 - 18 EI 1986, conc. 8. 19 EI 1986, conc. 6 (cf. conc. 22, 2° - 3° below for litanies and the Little Office of St. Joseph). 20 EI 1986, conc. 53. 21 § 1: EI 1986. conc. 54 (cf. conc. 22, 2° below for litanies of the saints). § 2: SPA, decr. September 12, 1968. Cf. SCR, Instr. De celebrationibus quae in honorem alicuius Sancti vel Beati intra annum a Canonizatione vel Beatificatione peragi solent (AAS 60 [1968] 602, ad 5). 22 1°: EI 1986, conc. 34. 2°: EI 1986, conc. 29. 3°: EI 1986, conc. 36. 23 § 1: EI 1986, conc. 48 ad 4; PA, decr. Mater Christi, May 31, 1991 (in PA, tab. n. 36/91/I). 24 EI 1986, conc. 47. 25 1°: EI 1986, conc. 39. 26 § 1, 1°: EI 1986, conc. 61. § 1, 2°: EI 1986, conc. 60. § 2: EI 1986, conc. 1, 5, 7, 21, 24, 60, 61, 62, 64. 27 § 1: EI 1986, conc. 43. § 2, 1°: EI 1986, conc. 49. § 2, 3°: EI 1986, conc. 49. 28 § 1: EI 1986, conc. 70. § 2, 1°: EI 1986, conc. 70. § 2, 2°: EI 1986, conc. 55. § 2, 3°: EI 1986, conc. 16. § 2, 4°: EI 1986, conc. 2 (each act is enriched with an indulgence). 29 § 1, 1°: EI 1986, conc. 13. § 1, 2°: EI 1986, conc. 67 (cf. also norm 19, above). § 2, 1°: EI 1986, conc. 13. § 2, 2°: EI 1986, conc. 18, 46. 30 § 1: EI 1986, conc. 50. 31 EI 1986, conc. 58. 32 EI 1986, conc. 69. 33 § 1, 1°: EI 1986, conc. 11. § 1, 2°: Cf SCR, decr. Domus Dei, June 6, 1968 (AAS 60 [1968] 536-539). Both indulgences, under letters b and c, can be gained either on the designated day or on another day which the Ordinary will designate for the good of the faithful (also 3° b, e; 4° a; 5° a, b). § 1, 3°: EI 1986, conc. 65.§ 1, 4°: Cf. CIC, cann. 1230-1234. § 1, 5°: EI 1986, conc. 65. The co-cathedral church—if there is one—even if it is not a parish church, and quasi parish churches enjoy the same indulgences: cf. CIC, can. 516

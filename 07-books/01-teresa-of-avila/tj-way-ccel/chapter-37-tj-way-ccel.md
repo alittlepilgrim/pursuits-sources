@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 37. Describes the Excellence of This Prayer Called the Paternoster, and the Many Ways in Which We Shall Find Consolation in It
 ---
 

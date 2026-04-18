@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Abandonment
 aliases:
   - abandonment
@@ -40,6 +40,6 @@ description: Glossary - Abandonment
 
 ABANDONMENT (TO GOD'S WILL). A free surrender of one's will to God ([[chapter-32-tj-way-ccel|wop-32.4]]). Christ is the model of abandonment; in the garden he manifested his own desire and fear, but then abandoned them to God ([[chapter-30-tj-way-ccel|30.2]]). Great gain results from total abandonment to God's will, especially in fear of death and sickness ([[chapter-11-tj-way-ccel|11.4]]; [[chapter-32-tj-way-ccel|32.4]]).
 
-## See Also
+### Source
 
-[Abandonment is the delicious fruit of love (Poem 52) - By St. Thérèse of Lisieux](https://www.carmelitaniscalzi.com/wp-content/uploads/2025/02/EN_Scheda-3-2025.pdf)
+[[chapter-32-tj-way-ccel|The Way of Perfection, Chapter 32]]

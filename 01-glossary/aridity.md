@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Aridity
 author:
 source: Divine Intimacy Meditations
@@ -49,7 +49,7 @@ God can inflame the soul even in —: [[361-unitive-love#Meditation 1|361,1]];
 
 the Holy Spirit works in souls through —: [[168-the-great-promise#Meditation 2|168,2]].
 
-See: [[pursuits-sources/01-glossary/prayer|Prayer]].
+See: [[pursuits-texts/01-glossary/prayer|Prayer]].
 
 ### Sources
 

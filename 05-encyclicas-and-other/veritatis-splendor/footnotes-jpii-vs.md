@@ -3,20 +3,22 @@ type: magisterium
 title: Footnotes – Veritatis Splendor
 author: Saint John Paul II
 aliases:
-  - Footnotes
+  - Footnotes – Veritatis Splendor
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Footnotes
+modified: 2026-04-15
+publish: true
+description: Footnotes – Veritatis Splendor
 ---
 
 ← [[conclusion-jpii-vs|Conclusion]] | [[veritatis-splendor|Table of Contents]]
 
 # Footnotes
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)
 
 **1**. Pastoral Constitution on the Church in the Modern World *Gaudium et Spes*, 22.
 

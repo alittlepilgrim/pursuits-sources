@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter V – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Chapter V. The Formation of Candidates for the Priesthood
+  - Chapter V. The Formation of Candidates for the Priesthood – Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter V. The Formation of Candidates for the Priesthood
+modified: 2026-04-14
+publish: true
+description: Chapter V. The Formation of Candidates for the Priesthood – Pastores Dabo Vobis
 ---
 
 ← [[chapter-IV-jpii-pdv|Chapter IV. Priestly Vocation in the Church's Pastoral Work]] | [[pastores-dabo-vobis|Table of Contents]] | [[chapter-VI-jpii-pdv|Chapter VI. The Ongoing Formation of Priests]] →
 
 # Chapter V. The Formation of Candidates for the Priesthood
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 **HE APPOINTED TWELVE TO BE WITH HIM
 

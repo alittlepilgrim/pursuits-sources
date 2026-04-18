@@ -13,7 +13,7 @@ tags:
   - type/study-guide
 created: 2025-06-23
 modified: 2026-04-06
-publish: false
+publish: true
 attachment: true
 ---
 
@@ -21,7 +21,7 @@ attachment: true
 
 **Required Reading: The Interior Castle: Study Edition, _the_ _Sixth_ _Dwelling_ _Places,_ ch. 6-11**
 
-Additional Reading: Interpretive notes; _Gaudium et Spes_, 22 **([[pursuits-sources/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-a|Appendix A]])**;** St. Teresa of Avila - 100 Themes, nos. 46 ([[pursuits-sources/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-b|Appendix B]]) and 98 ([[pursuits-sources/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-c|Appendix C]])**
+Additional Reading: Interpretive notes; _Gaudium et Spes_, 22 **([[pursuits-texts/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-a|Appendix A]])**;** St. Teresa of Avila - 100 Themes, nos. 46 ([[pursuits-texts/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-b|Appendix B]]) and 98 ([[pursuits-texts/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-c|Appendix C]])**
 
 **Explanatory note**: The progressive shift in the soul’s reality is to understand how the soul experiences a radical transformation of its known personhood and a gradual union with God, which the soul will celebrate in the seventh dwelling places. This change is accomplished gradually by means of revelations and ecstasy, what we could call intellectual, emotional and physical experiences of the subjective reality of God. All of these experiences are ways in which a final purification of the soul’s desire for union is effected in the soul (see Entering Teresa of Avila’s Interior Castle, pg. 89).
 

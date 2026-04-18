@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Joy
 author:
 source: Divine Intimacy Meditations

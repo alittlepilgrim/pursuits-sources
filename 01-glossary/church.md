@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Church
 aliases:
   - church
@@ -79,7 +79,7 @@ Teaching authority in the Church: Mt 10:40; 16:18-19; 18:17-18; 28:19-20; Lk 10:
 
 Unity of the Church: Jn 17:21-23; Gal 3:27-28; Eph 1:9-10; 2:11-22; 4:4; Col 3:15
 
-*See also* [[apostle|Apostles]]; [[Authority]]; [[intercession|Intercession of the Saints]]; [[saint|Saints]]
+*See also* [[apostle|Apostles]]; [[authority]]; [[intercession|Intercession of the Saints]]; [[saint|Saints]]
 
 [[index-of-doctrines|Index of Doctrines]]
 

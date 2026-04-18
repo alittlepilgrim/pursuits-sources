@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Examination of Conscience
 aliases:
   - Examination of Conscience

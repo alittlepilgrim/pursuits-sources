@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Sin
 aliases:
   - sin
@@ -43,7 +43,7 @@ Lighter sins: Jas 3:2; 1 Jn 1:8; 5:16-17
 
 Wages of sin is death: Rom 6:23
 
-*See also* [[Baptism]]; [[Faith]]; [[Forgiveness]]; [[Hell]]; [[Judgment]]; [[original-sin|Original sin]]; [[Penance]]; [[Reconciliation]]; [[redeemer-redemption|Redemption]]; [[Salvation]]; [[Sanctification]]; [[sexual-sin]]
+*See also* [[baptism]]; [[faith]]; [[forgiveness]]; [[hell]]; [[judgment]]; [[original-sin|Original sin]]; [[penance]]; [[reconciliation]]; [[redeemer-redemption|Redemption]]; [[salvation]]; [[sanctification]]; [[sexual-sin]]
 
 ### Sources
 

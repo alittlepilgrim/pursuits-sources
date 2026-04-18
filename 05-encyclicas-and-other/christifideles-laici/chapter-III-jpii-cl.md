@@ -8,14 +8,16 @@ tags:
   - author/john-paul-II
   - type/magisterium
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter III. I Have Appointed You to Go Forth and Bear Fruit The Coresponsibility Of The Lay Faithful In The Church as Mission
 ---
 
-← [[chapter-II-jpii-cl|Chapter II. All Branches Of a Single Vine The Participation Of The Lay Faithful In The Life Of Church as Communion]] | [[christifideles-laici|Table of Contents]] | [[chapter-Iv-jpii-cl|Chapter IV. Labourers In The Lord S Vineyard Good Stewards Of God S Varied Grace]] →
+← [[chapter-II-jpii-cl|Chapter II. All Branches Of a Single Vine The Participation Of The Lay Faithful In The Life Of Church as Communion]] | [[christifideles-laici|Table of Contents]] | [[chapter-Iv-jpii-cl|Chapter IV. Labourers In The Lord's Vineyard Good Stewards Of God S Varied Grace]] →
 
 # Chapter III. I Have Appointed You to Go Forth and Bear Fruit The Coresponsibility Of The Lay Faithful In The Church as Mission
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)
 
 ## Mission to Communion
 

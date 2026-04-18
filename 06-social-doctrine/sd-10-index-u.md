@@ -11,7 +11,7 @@ tags:
   - vatican
 created: 2025-11-14
 modified: 2026-04-06
-publish: false
+publish: true
 ---
 
 # U - Social Doctrine of the Church Analytical Index

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Sexual Sin
 author:
 aliases:
@@ -24,7 +24,7 @@ Begins in the heart: Mt 5:28; 15:19
 
 Incompatible with Christian discipleship: Rom 13:13-14; 1 Cor 6:9-10, 18-20; Gal 5:19-21; 1 Thess 4:3; Eph 5:3
 
-*See also* [[Adultery]]; [[Chastity]]; [[Fornication]]; [[homosexuality|Homosexual acts]]; [[Lust]]
+*See also* [[adultery]]; [[chastity]]; [[fornication]]; [[homosexuality|Homosexual acts]]; [[lust]]
 
 ### Sources
 

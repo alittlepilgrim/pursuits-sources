@@ -2,6 +2,8 @@
 type: ocds-proper
 title: June 26, Blessed Mary Josephine of Jesus Crucified Catania
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/06/24/catanealit25/
 aliases:
   - 06-26-blessed-mary-catania
   - 20250731-121532
@@ -11,17 +13,22 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 06-26
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers undefined
 ---
+
+← [[06-14-blessed-maria-barba|Jun 14, Bl Maria Candida]] | [[OCDS Propers|Table of Contents]] | [[07-12-sts-louis-martin-and-marie-azelia-zelie-guerin|Jul 12, Sts Louis & Zélie]] →
+
 
 # June 26, Blessed Mary Josephine of Jesus Crucified Catania
 
 > **June 26
-> ****BLESSED MARY JOSEPHINE OF JESUS CRUCIFIED CATANEA - [[mary-josephine]]
-> ****Virgin**
+> **BLESSED MARY JOSEPHINE OF JESUS CRUCIFIED CATANEA
+> **[[mary-josephine]]
+> **Virgin**
 
 Josephine Catanea was born in Naples on February 18, 1894. She entered the Carmelite community of Santa Maria Ponti Rossi and made her solemn profession on August 6, 1933. In 1945, she was elected prioress, an office she held until her death. She endured the painful trials of illness and persecution by abandoning herself to the will of God. All who sought her help were inspired by her deep spirituality, humility, and simplicity, as she inspired hope and faith in God and in the Blessed Virgin Mary. She died in Naples on March 14, 1948.
 
@@ -69,9 +76,9 @@ I want to write with my blood a countless number of times: ‘I love you, Jesus,
 
 **Song 2: 3, 14
 
-R. With great delight I sat in his shadow,* and his fruit was sweet to my taste.
+R/. With great delight I sat in his shadow,* and his fruit was sweet to my taste.
 
-V. Your voice is sweet, and your face is lovely. * and his fruit was sweet to my taste.
+V/. Your voice is sweet, and your face is lovely. * and his fruit was sweet to my taste.
 
 **Prayer**
 
@@ -94,3 +101,9 @@ Through our Lord Jesus Christ, your Son,
 in the unity of the Holy Spirit,
 
 God, for ever and ever.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/06/24/catanealit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

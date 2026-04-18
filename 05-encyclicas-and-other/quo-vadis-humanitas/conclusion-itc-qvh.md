@@ -2,20 +2,23 @@
 type: magisterium
 title: Conclusion – Quo Vadis Humanitas
 author: International Theological Commission
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509
 aliases:
   - Conclusion
 tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: Conclusion – Quo Vadis Humanitas (2026)
 ---
 
 ← [[chapter-IV-itc-qvh|Chapter IV. Hope as Vocation: The Human Person Open to the Absolute]] | [[quo-vadis-humanitas|Quo Vadis Humanitas]] | [[footnotes-itc-qvh|Footnotes]] →
 
 # Conclusion
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 159\. At the beginning of our journey, a question resounded, shared with our brothers and sisters in humanity: *Quo vadis, humanitas?* At this juncture of the twenty-first century, the human family is faced with questions so radical that they threaten its very existence as we have known it until now. The unprecedented scientific and technological development in the history of the planet must be accompanied by a corresponding growth in responsibility that directs progress towards the good of human beings, because today they are exposed to risks never before imagined. The impact of technoscientific development, particularly the digital revolution, on human experience is profound, both in terms of our relationship with the environment and our relationship with others in society, with ourselves and with God. New technologies may usher in an era of real change in the human condition, reflected in the fears of the social imaginary of mass culture and in the disturbing optimism or pessimism of *transhumanist* and *posthumanist* movements. Today more than ever, the anthropological and cultural proposal that Christianity offers involves the conception of life as a vocation, which makes possible a human way of inhabiting time and space and of conceiving intersubjective relationships, while at the same time becoming a prophetic judgement on the more disturbing aspects we cannot fail to recognise in *transhumanism* and *posthumanism*.
 

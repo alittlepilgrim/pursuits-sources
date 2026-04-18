@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Knowledge
 author:
 source: Divine Intimacy Meditations

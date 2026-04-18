@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Resurrection of the Dead
 author:
 aliases:
@@ -36,7 +36,7 @@ Righteous and wicked both resurrected but to different fates: Jn 5:29; Acts 24:1
 
 Transformation to a new kind of spiritualized physical (bodily) existence: Rom 8:11, 23; 1 Cor 15:35-57; 2 Cor 5:1-5
 
-*See also* [[Body]]; [[Immortality]]; [[resurrection-of-christ|Resurrection of Jesus Christ]]
+*See also* [[body]]; [[immortality]]; [[resurrection-of-christ|Resurrection of Jesus Christ]]
 
 ### Sources
 

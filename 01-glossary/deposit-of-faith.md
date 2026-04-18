@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Deposit of Faith
 aliases:
   - Deposit of Faith

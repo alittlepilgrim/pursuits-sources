@@ -2,6 +2,7 @@
 type: magisterium
 title: Chapter V – Evangelii Gaudium
 author: Pope Francis
+url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
 aliases:
   - Chapter V. Spirit-Filled Evangelizers
 tags:
@@ -9,14 +10,16 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-09
-publish: false
-description: Chapter V. Spirit-Filled Evangelizers
+modified: 2026-04-14
+publish: true
+description: Chapter V. Spirit-Filled Evangelizers – Evangelii Gaudium
 ---
 
 ← [[chapter-IV-francis-eg|Chapter IV. The Social Dimension of Evangelization]] | [[evangelii-gaudium|Table of Contents]] | [[footnotes-francis-eg|Footnotes]] →
 
 # Chapter V. Spirit-filled Evangelizers
+
+[Source](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
 259\. Spirit-filled evangelizers means evangelizers fearlessly open to the working of the Holy Spirit. At Pentecost, the Spirit made the apostles go forth from themselves and turned them into heralds of God’s wondrous deeds, capable of speaking to each person in his or her own language. The Holy Spirit also grants the courage to proclaim the newness of the Gospel with boldness (*parrhesía*) in every time and place, even when it meets with opposition. Let us call upon him today, firmly rooted in prayer, for without prayer all our activity risks being fruitless and our message empty. Jesus wants evangelizers who proclaim the good news not only with words, but above all by a life transfigured by God’s presence.
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Works
 author: Gabriel of Saint Mary Magdalen
 source: Divine Intimacy Meditations
@@ -30,7 +30,7 @@ Necessity for salvation of doing works of Christian obedience (love): Mt 5:20; 6
 
 Works of the flesh: Gal 5:19-21
 
-*See also* [[Grace]]; [[Law]]; [[Merit]]; [[Salvation]]
+*See also* [[grace]]; [[law]]; [[merit]]; [[salvation]]
 
 ### Sources
 

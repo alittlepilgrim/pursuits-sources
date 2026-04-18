@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Communion of Saints
 aliases:
   - Communion of Saints

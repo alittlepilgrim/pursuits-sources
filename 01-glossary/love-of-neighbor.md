@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Love of Neighbor
 author:
 source: Divine Intimacy Meditations

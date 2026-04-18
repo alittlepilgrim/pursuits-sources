@@ -2,21 +2,24 @@
 type: magisterium
 title: Introduction – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Introduction
+  - Introduction – Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Introduction
+modified: 2026-04-14
+publish: true
+description: Introduction – Pastores Dabo Vobis
 ---
 
 ← [[pastores-dabo-vobis|Pastores Dabo Vobis (25 March 1992)]] | [[pastores-dabo-vobis|Table of Contents]] | [[chapter-I-jpii-pdv|Chapter I. The Challenges Facing Priestly Formation at the Conclusion of the Second Millennium]] →
 
 # Introduction
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 1\. "I will give you shepherds after my own heart" (Jer. 3:15). ^jpii-pdv-1
 

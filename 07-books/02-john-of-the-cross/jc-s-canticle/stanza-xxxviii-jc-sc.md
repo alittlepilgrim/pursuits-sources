@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXVIII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xliv.html
 aliases:
   - Stanza XXXVIII – Spiritual Canticle By St. John of the Cross
   - stanza-xxxviii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXVIII – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxvii-jc-sc|← Stanza XXXVII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxix-jc-sc|Stanza XXXIX →]]
 
 # Stanza XXXVIII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xliv.html)
 
 There you will show me That which my soul desired; And there You will give at once, O You, my life, That which You gave me the other day.
 

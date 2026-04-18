@@ -3,7 +3,7 @@ type: book
 title: Stanza XVIII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxiv.html
 aliases:
   - Stanza XVIII – Spiritual Canticle By St. John of the Cross
   - stanza-xviii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XVIII – Spiritual Canticle By St. John of the Cross
 [[stanza-xvii-jc-sc|← Stanza XVII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xix-jc-sc|Stanza XIX →]]
 
 # Stanza XVIII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxiv.html)
 
 O nymphs of Judea!
 

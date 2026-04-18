@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 30. Describes the Importance of Understanding What We Ask for in Prayer.
 ---
 

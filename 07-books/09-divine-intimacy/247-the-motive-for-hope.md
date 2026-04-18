@@ -19,7 +19,7 @@ tags:
   - term/will-of-god
   - term/works
 created: 2025-05-21
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /the-motive-for-hope
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.

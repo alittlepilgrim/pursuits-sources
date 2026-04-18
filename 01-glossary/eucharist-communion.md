@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Eucharist – Communion
 author:
 source: Divine Intimacy Meditations

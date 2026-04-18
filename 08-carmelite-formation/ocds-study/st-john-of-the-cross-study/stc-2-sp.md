@@ -8,7 +8,7 @@ tags:
   - author/ocd-general-curia
   - subject/ecology
 created: 2026-03-18
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 attachment: false
 ---
@@ -18,10 +18,7 @@ attachment: false
 ## Propuesta para el Encuentro Comunitario
 
 1. Lectura del texto.
-2. Uno de los participantes, que habrá preparado previamente su intervención, presenta el
-
-texto con ayuda de la ficha de lectura (y de otros materiales si lo considera necesario).
-
+2. Uno de los participantes, que habrá preparado previamente su intervención, presenta el texto con ayuda de la ficha de lectura (y de otros materiales si lo considera necesario).
 3. Diálogo comunitario sobre el texto.
 
 Sería conveniente realizar una lectura y meditación personal del texto antes del encuentro comunitario.
@@ -53,9 +50,7 @@ En una sola frase —pero de enorme alcance e importancia—: para san Juan de l
 
 Sería conveniente realizar una lectura y meditación personal del texto antes del encuentro comunitario.
 
-En una sola frase —pero de enorme alcance e importancia—: para san Juan de la Cruz,
-
-la creación solo alcanza su perfección al acoger la encarnación, en María.
+En una sola frase —pero de enorme alcance e importancia—: para san Juan de la Cruz, la creación solo alcanza su perfección al acoger la encarnación, en María.
 
 Con esta acogida, la creación deja de ser únicamente la imagen natural y creada de Dios (como en la primera acción) y pasa a participar sobrenaturalmente de las perfecciones divinas y humanas de Cristo. 
 
@@ -63,9 +58,9 @@ El hombre y la mujer se convierten en mediadores del cumplimiento del cosmos, qu
 
 Por eso, en el Cántico espiritual, el «palacio» del que se hablaba en los Romances se convierte ahora en «esposa» y en «icono». Esposa o icono confiados a la responsabilidad de la humanidad, ya que su armonía es «inviolable» (CB 5,1), nos advierte el santo. 
 
-En este sentido, en la estrofa 5, san Juan de la Cruz habla del rostro de Cristo que, como un sello, se ha grabado o impreso en la creación por el misterio de la encarnación re-dentora. Esta concepción fundamenta toda una teología de la imagen o del icono. 
+En este sentido, en la estrofa 5, san Juan de la Cruz habla del rostro de Cristo que, como un sello, se ha grabado o impreso en la creación por el misterio de la encarnación redentora. Esta concepción fundamenta toda una teología de la imagen o del icono. 
 
-San Juan de la Cruz se inspira aquí en la teología franciscana. Para san Francisco, así como somos creados a imagen de la divinidad, de igual modo, por la encarnación, la divinidad se hace a nuestra imagen. De ahí que toda la dignidad y la responsabilidad de la humanidad consistan en devolver a la creación toda su «belleza» (CB 5,5): belleza crística, mariana e icóni-ca. La belleza de la creación y de la re-creación se convierte así, para san Juan de la Cruz, en el fundamento de la moralidad. «La belleza salvará al mundo», dirá Dostoievski. 
+San Juan de la Cruz se inspira aquí en la teología franciscana. Para san Francisco, así como somos creados a imagen de la divinidad, de igual modo, por la encarnación, la divinidad se hace a nuestra imagen. De ahí que toda la dignidad y la responsabilidad de la humanidad consistan en devolver a la creación toda su «belleza» (CB 5,5): belleza crística, mariana e icónica. La belleza de la creación y de la re-creación se convierte así, para san Juan de la Cruz, en el fundamento de la moralidad. «La belleza salvará al mundo», dirá Dostoievski. 
 
 En los comentarios que el santo hace a continuación de la estrofa 5 del Cántico, subraya que toda actividad humana encuentra su origen y su cumplimiento en el misterio de la encarna-ción redentora, de la cual irradia, en la medida de la respuesta humana, la «figura» (CB 5,3) o el «rostro» de Cristo, y también el rostro de María, pues ella es precisamente esa respuesta. Cristo, por la encarnación redentora, se ha «grabado» primero en ella, el verdadero «icono». Por tanto, la respuesta de la criatura se expresa en su relación con la creación, de la cual Adán y Eva, y luego el nuevo Adán y la nueva Eva, son los «guardianes» (Gn 2,15). 
 
@@ -98,19 +93,11 @@ mirándolas, como habemos dicho, mas también con sola esta figura de su Hijo la
 
 Curia General del Carmelo Teresiano www.carmelitasdescalzos.com 
 
-_Preguntas_ 
+## Preguntas
 
-1. ¿Qué significa, para san Juan de la Cruz, que la naturaleza deja en el alma una forma revestida de su hermosura? 
-
-¿Se convierte la creación en una huella visible del paso de Dios? ¿Podemos decir que, para san Juan de la Cruz y el papa Francisco, la creación es un icono, 
-
-es decir, una imagen que hace visible lo invisible? 
-
+1. ¿Qué significa, para san Juan de la Cruz, que la naturaleza deja en el alma una forma revestida de su hermosura?  ¿Se convierte la creación en una huella visible del paso de Dios? ¿Podemos decir que, para san Juan de la Cruz y el papa Francisco, la creación es un icono,  es decir, una imagen que hace visible lo invisible? 
 2. ¿Podemos afirmar que la naturaleza es una «palabra de Dios» para ambos autores? ¿Qué lenguajes utilizan para hablar de ella —poético, teológico, simbólico—? 
-3. ¿En qué sentido la contemplación de la naturaleza, tanto en san Juan de la Cruz como en Laudato Si’, es un camino hacia Dios? 
-
-¿Cómo el modo de mirar la creación transforma el alma en san Juan de la Cruz, y la manera de vivir en el papa Francisco? 
-
+3. ¿En qué sentido la contemplación de la naturaleza, tanto en san Juan de la Cruz como en Laudato Si’, es un camino hacia Dios?  ¿Cómo el modo de mirar la creación transforma el alma en san Juan de la Cruz, y la manera de vivir en el papa Francisco? 
 4. Si la naturaleza es un icono o un misterio sagrado, ¿qué actitud implica esto hacia ella? ¿Cómo se pasa de la contemplación a la acción?
 
 ## Cántico Espiritual B 5

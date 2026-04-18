@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 28. Describes the Nature of the Prayer of Recollection and Sets Down Some of the Means by Which We Can Make It a Habit
 ---
 

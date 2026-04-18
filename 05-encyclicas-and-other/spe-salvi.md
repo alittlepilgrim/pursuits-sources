@@ -16,7 +16,7 @@ created: 2025-10-30
 modified: 2026-04-08
 publish: true
 description: Spe salvi, Encyclical of Pope Benedict XVI, Christian faith, christian hope, redemption, salvation
-abbreviation: benxvi-ss
+anchor: benxvi-ss
 ---
 
 # Spe Salvi (November 30, 2007)

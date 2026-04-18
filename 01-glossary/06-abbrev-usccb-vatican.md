@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: moc
 title: Abbreviations — Bible
 aliases:
   - Bible Abbreviations — USCCB Vs Vatican

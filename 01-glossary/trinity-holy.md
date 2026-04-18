@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Trinity
 aliases:
   - Trinity
@@ -36,7 +36,7 @@ The Holy Spirit is divine and a distinct Person: Jn 14:25-26; 15:26; 16:13-14; A
 
 Paul's use of Trinitarian language: 1 Cor 12:4-6; 2 Cor 13:14; Eph 3:14-19; 4:4-6
 
-*See also* [[God]]; [[holy-spirit|Holy Spirit]] ; [[jesus-christ|Jesus]]
+*See also* [[god]]; [[holy-spirit|Holy Spirit]] ; [[jesus-christ|Jesus]]
 
 ### Sources
 

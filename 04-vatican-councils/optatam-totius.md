@@ -10,13 +10,15 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Decree on Priestly Training - Optatam totius
-abbreviation: ot
+anchor: ot
 ---
 
 # Optatam Totius
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)
 
 ## Decree on Priestly Training Proclaimed by His Holiness Pope Paul VI on October 28, 1965
 

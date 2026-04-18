@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 14. Treats of the Great Importance of Not Professing Anyone Whose Spirit Is Contrary to the Things Aforementioned
 ---
 

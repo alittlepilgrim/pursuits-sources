@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Pentecost
 author:
 aliases:

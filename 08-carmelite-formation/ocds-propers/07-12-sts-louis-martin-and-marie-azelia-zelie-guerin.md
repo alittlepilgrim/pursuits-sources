@@ -2,6 +2,8 @@
 type: ocds-proper
 title: July 12, Saints Louis Martin and Marie Azelie Guerin
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/07/10/martinlit25/
 aliases:
   - 07-12-sts-louis-martin-and-marie-azelia-zelie-guerin
   - 20240722-231412
@@ -11,38 +13,43 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 07-12
+celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[06-26-blessed-mary-catania|Jun 26, Bl Mary Catania]] | [[OCDS Propers|Table of Contents]] | [[07-13-st-teresa-andes|Jul 13, St Teresa of the Andes]] →
+
 
 # July 12, Saints Louis Martin and Marie Azelie Guerin
 
-**12 July: Saints Louis Martin and Marie Azelie Guerin**
-
-*July 12*
-
-*SAINTS LOUIS MARTIN AND MARIE AZELIE GUERIN*
-
-*SPOUSES*
-
-**Optional Memorial**
+> **July 12**
+> **SAINTS LOUIS MARTIN AND MARIE AZELIE GUÉRIN**
+> **Spouses**
+> **Optional Memorial**
 
 Louis Martin was born in Bordeaux, on August 22, 1823. While he was a master watchmaker in Alençon, he met Marie Azelie (Zelie) Guerin, a lacemaker, born in Gandelain (St-Denis-sur-Sarthon), on December 23, 1831. They were married on July 13, 1858, and had nine children, including the future Saint Therese of the Infant Jesus. Model spouses, devoted parents, workers, attentive to the poor, always nourishing a missionary spirit, they found their strength and hope in regular attendance at Holy Mass and in deep devotion to the Blessed Virgin. After a long illness, Zelie died in Alençon on August 28, 1877. Louis, in retirement, went to Lisieux near his in-laws to ensure a better future for his five children (the other four having died in infancy). This patriarch of the family, after offering all his children to God, knew suffering and illness. He died near Evreux on July 29, 1894. They were beatified in 2008 and canonized in 2015.
 
 From the Common of Holy Men, with the psalms of the day.
 
-# Office of Readings
+## Office of Readings
 
 **The Second Reading**
 
- (Zelie et Louis Martin, *Correspondence Familiale* [1863 – 1885].  Paris, 2004, L1, 72, 130, 81, 110, 147, 179, 204)
+ (Zelie et Louis Martin,
 
-From the *Letters of St. Zelie Martin*
+Correspondence Familiale* [1863 – 1885].  Paris, 2004, L1, 72, 130, 81, 110, 147, 179, 204)
+
+From the
+
+Letters of St. Zelie Martin*
 
 *We must be willing to accept generously the will of the good God*
 
-My dear friend, I am really worried about you.  Every day my husband makes sad prophecies. He knows Paris and told me that you will be exposed to temptations that, because you are not pious enough, you will not be able to overcome.  He told me that he experienced them himself, and that he needed a lot of courage to come out victoriously from all the battles. If you only knew what trials he had to go through … I beg you, my dear Isidore (Zelie’s brother), to do as I did; *pray*, and you will not be carried away by the current.  If you succumb once you will be lost. On the road to perdition as on the road to salvation the first step is all important; afterwards you will be carried away by the current.
+My dear friend, I am really worried about you.  Every day my husband makes sad prophecies. He knows Paris and told me that you will be exposed to temptations that, because you are not pious enough, you will not be able to overcome.  He told me that he experienced them himself, and that he needed a lot of courage to come out victoriously from all the battles. If you only knew what trials he had to go through … I beg you, my dear Isidore (Zelie’s brother), to do as I did;
+
+pray*, and you will not be carried away by the current.  If you succumb once you will be lost. On the road to perdition as on the road to salvation the first step is all important; afterwards you will be carried away by the current.
 
 When I closed the eyes of my dear little children and buried them, I really felt the pain.  It is a pain to which I have always been resigned. I do not regret the pains and the anxieties I have had to endure on their account.  Many people have said to me: “It would have been better if you had never had them.” I cannot tolerate these words.  The pains and anxieties of this life cannot be compared to the eternal happiness of my children.  After all, they have not been lost forever, life is short and full of suffering, we shall find them in heaven.
 
@@ -62,7 +69,7 @@ Before leaving, I will assist at the first Mass here, arriving in Le Mans at nin
 
 **R/.**  Be transformed by the renewal of your mind, * So that you may be able to discover what is God’s will, what is good, pleasing and perfect.
 
-**V/.**  You must be renewed in mind and spirit, and put on the new man. * So that you may be able to discover what is God’s will, what is good, pleasing and perfect.
+**V/.**  You must be renewed in mind and spirit, and put on the new man. So that you may be able to discover what is God’s will, what is good, pleasing and perfect.
 
 **Prayer**
 
@@ -71,3 +78,9 @@ O God, who gave to Saint Louis and Marie Zelie the grace to lead a life of holin
 Through our Lord Jesus Christ, your Son, who lives and reigns with You in the unity of the Holy Spirit, God, for ever and ever.
 
 Amen.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/07/10/martinlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

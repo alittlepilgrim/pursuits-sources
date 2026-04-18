@@ -52,4 +52,4 @@ Such is the mystery of man, and it is a great one, as seen by believers in the l
 33. Cf. The Byzantine Easter Liturgy.
 34. Cf. Rom. 8:15 and Gal. 4:6; cf. also John 1:22 and John 3:1-2.
 
-[[pursuits-sources/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-b|Appendix B: Session 9, St. Teresa of Avila]]
+[[pursuits-texts/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-b|Appendix B: Session 9, St. Teresa of Avila]]

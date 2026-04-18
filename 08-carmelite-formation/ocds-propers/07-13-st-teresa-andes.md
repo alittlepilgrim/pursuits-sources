@@ -2,6 +2,8 @@
 type: ocds-proper
 title: July 13, Saint Teresa of Jesus of the Andes Fernandez Solar
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/07/11/andeslit25/
 aliases:
   - 07-13-st-teresa-andes
   - 20250731-121548
@@ -11,19 +13,23 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 07-13
+celebration_rank: memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers undefined
 ---
+
+← [[07-12-sts-louis-martin-and-marie-azelia-zelie-guerin|Jul 12, Sts Louis & Zélie]] | [[OCDS Propers|Table of Contents]] | [[07-16-blessed-virgin-mary-of-mount-carmel|Jul 16, OL of Mount Carmel]] →
+
 
 # July 13, Saint Teresa of Jesus of the Andes Fernandez Solar
 
 > **July 13**
-> **SAINT TERESA OF JESUS FERNÁNDEZ SOLAR** - [[teresa-of-jesus-de-los-andes-saint]]
+> **SAINT TERESA OF JESUS FERNÁNDEZ SOLAR**
+> **[[teresa-of-jesus-de-los-andes-saint]]**
 > **Virgin**
-
-**Memorial**
+> **Memorial**
 
 _In the houses in Chile:_ Feast
 
@@ -33,7 +39,7 @@ Juanita Fernández Solar was born at Santiago, Chile, on July 13, 1900. From her
 
 From the Common of Virgins, except the following:
 
-# Office of Readings
+## Office of Readings
 
 **Second Reading**
 
@@ -80,3 +86,9 @@ We ask this through our Lord Jesus Christ, your Son,
 who lives reigns with you and the Holy Spirit,
 
 God, for ever and ever.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/07/11/andeslit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

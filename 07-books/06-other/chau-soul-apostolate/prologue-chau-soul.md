@@ -9,7 +9,7 @@ tags:
   - type/book
 created: 2026-04-01
 modified: 2026-04-06
-publish: false
+publish: true
 ---
 
 # Prologue – The Soul of the Apostolate

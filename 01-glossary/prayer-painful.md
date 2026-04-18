@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Painful Prayer
 author:
 aliases:
@@ -26,7 +26,7 @@ The soul is in total dryness; no consolation is admitted into its interior. It
 
 See also:
 
-[[pursuits-sources/01-glossary/prayer|Prayer]]
+[[pursuits-texts/01-glossary/prayer|Prayer]]
 
  [[prayer-ascetical|Ascetical Prayer]]
 

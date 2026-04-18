@@ -11,7 +11,7 @@ tags:
   - term/mary
   - term/virgin-mary
 created: 2025-05-12
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /the-seven-sorrows-of-mary
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
@@ -61,4 +61,4 @@ RM - Roman Missal
 
 ---
 
-⟵ [[pursuits-sources/07-books/09-divine-intimacy/130-suffering-and-abandonment|130. Suffering and Abandonment]] | [[132-love-of-the-cross|132. Love of the Cross]] ➞
+⟵ [[pursuits-texts/07-books/09-divine-intimacy/130-suffering-and-abandonment|130. Suffering and Abandonment]] | [[132-love-of-the-cross|132. Love of the Cross]] ➞

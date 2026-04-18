@@ -19,6 +19,7 @@ created: 2025-09-12
 modified: 2026-04-09
 publish: true
 description: A practical guide to prayer and spiritual life by St. Teresa of Avila, written for the Carmelite nuns of her reform, focusing on fraternal love, detachment, humility, and the Our Father.
+anchor: tj-way
 ---
 
 [[tj-way-of-perfection-ccel|Table of Contents]] | [[tj-way-ccel-intro|Introduction]] →

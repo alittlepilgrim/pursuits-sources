@@ -11,17 +11,17 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-26
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Christifideles Laici (December 30, 1988)
-abbreviation: jpii-cl
+anchor: jpii-cl
 ---
 
 # Christifideles Laici (December 30, 1988)
 
 [Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)
 
-## Post-synodal Apostolic Exhortation Christi Fideles Laici of His Holiness John Paul II on the Vocation and the Mission of the Lay Faithful in the Church and in the World
+## Post-synodal Apostolic Exhortation *Christi Fideles Laici* of His Holiness John Paul II on the Vocation and the Mission of the Lay Faithful in the Church and in the World
 
 To Bishops
 
@@ -29,7 +29,7 @@ To Priests and Deacons
 
 To Women and Men Religious
 
-and to All the Lay Faithful*
+and to All the Lay Faithful
 
 ## Table of Contents
 
@@ -41,6 +41,6 @@ and to All the Lay Faithful*
 
 [[chapter-III-jpii-cl|Chapter III. I Have Appointed You to Go Forth and Bear Fruit The Coresponsibility Of The Lay Faithful In The Church as Mission]]
 
-[[chapter-Iv-jpii-cl|Chapter IV. Labourers In The Lord S Vineyard Good Stewards Of God S Varied Grace]]
+[[chapter-Iv-jpii-cl|Chapter IV. Labourers In The Lord's Vineyard Good Stewards Of God's Varied Grace]]
 
 [[chapter-v-jpii-cl|Chapter V. That You Bear Much Fruit The Formation Of The Lay Faithful In The Lay State]]

@@ -12,7 +12,8 @@ tags:
   - subject
 created: 2025-07-25
 modified: 2026-04-07
-publish: false
+publish: true
+anchor: tj-spiritual-relations
 ---
 
 20250725-1852

@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XII. What We Can Ourselves Do. The Evil of Desiring to Attain to Supernatural States Before Our Lord Calls Us
 ---
 

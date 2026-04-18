@@ -18,7 +18,7 @@ tags:
   - term/tepidity
   - term/venial-sin
 created: 2025-05-12
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /153-aridity
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
@@ -28,21 +28,25 @@ description: Divine Intimacy Meditations on the Interior Life for Every Day of t
 
 ---
 
+*Saturday of the First Week after Octave of Easter*
+
 # 153. Aridity
 
 PRESENCE OF GOD - O Lord, help me to be faithful to You, so that the spirit of prayer will not be extinguished in me through my own fault.
 
 ## Meditation 1
 
-Tual life the soul usually enjoys a sensible fervor which makes spiritual exercises easy and agreeable. Good thoughts, sentiments of love, and outpourings from the heart arise spontaneously. To be recollected and alone with God in prayer is a joy; time passes quickly, and frequently the presence of God becomes almost perceptible; there is a like facility in the practice of mortification and the other virtues. However, this state does not ordinarily last long, and there comes a time when the soul is deprived of all sensible consolation. This suppression of sensible devotion is the state of aridity, which may have various causes.
+At the beginning of a more intense life the soul usually enjoys a sensible fervor which makes spiritual exercises easy and agreeable. Good thoughts, sentiments of love, and outpourings from the heart arise spontaneously. To be recollected and alone with God in prayer is a joy; time passes quickly, and frequently the presence of God becomes almost perceptible; there is a like facility in the practice of mortification and the other virtues. However, this state does not ordinarily last long, and there comes a time when the soul is deprived of all sensible consolation. This suppression of sensible devotion is the state of aridity, which may have various causes.
 
 Sometimes it is the result of infidelity on the part of those who little by little have become lax, allowing themselves many slight satisfactions and pleasures and giving in to their curiosity, selfishness, or pride—which they had previously renounced. If they only realized what benefits they were losing by such conduct, they would be ready for any kind of sacrifice rather than yield to these weaknesses. The habit of mortification, which was acquired at great cost, is quickly lost, and they again become the slaves of their own passions. Self-love, which was not dead, but only sleeping, becomes active again and may become not only the cause of many voluntary imperfections which had previously been overcome, but even of deliberate venial sins. It may ultimately reduce to lukewarmness a once fervent soul. The unfaithful one who has fallen back into mediocrity cannot protest to the Lord in prayer that it loves Him and desires to advance in His love; still less can it taste the joy of knowing that it truly loves God. Hence such a soul inevitably falls into aridity. In this condition the only remedy is to return to its first fervor. This will cost it dearly, but far from becoming discouraged, the soul should begin anew as soon as possible. Besides, Our Lord loves so much to forgive!
 
 2.ich are entirely independent of ourselves: indisposition, illness, fatigue, or depression caused by troublesome preoccupations or excessive work. These are things which can make all feeling of spiritual consolation disappear, and this often occurs with no way of remedying it. It is a trial which may last a long time, but one in which we must, with good reason, see the hand of God which disposes everything for our good, and realize that He cannot fail to give us the grace necessary to profit by our suffering. Although not feeling any consolation nor experiencing any attraction for prayer, the soul should apply itself to it through duty, while trying by some ingenuity to remedy its own powerlessness. St. Teresa of Jesus says that “anyone who cannot make mental prayer should turn to vocal prayer, or reading, or colloquies with God, but should never fail to consecrate to prayer the time set apart for it” ([[tj-way-of-perfection-ccel|Way]], 18).
 
-If, in spite of everything, the soul does not succeed in moving its heart, let it love God by the will alone. This requires a great effort, but by it this faculty is strengthened. Almost without realizing it, the soul is made capable of a more active, generous love. This love will be deprived of feeling, it is true, but we must remember that the substance of love does not consist in feeling, but in willing to give pleasure, at any cost, to the person loved. One who, in order to please God, perseveres in prayer although he finds no consolation
+## Meditation 2
 
-in it, but rather repugnance, gives Him a beautiful proof of true love. Progress in the spiritual life is not measured by the consolation the soul feels; for this is unnecessary, since true devotion consists solely in the promptness of the will in God’s service. The will can be very prompt and firmly resolved to serve God, although at the same time it is arid and even forced to struggle against its natural repugnance.
+On the other hand, aridity sometimes arises from physical or moral causes which are entirely independent of ourselves : indisposition, illness, fatigue, or depression caused by troublesome preoccupations or excessive work. These are things which can make all feeling of spiritual consolation disappear, and this often occurs with no way of remedying it. It is a trial which may last a long time, but one in which we must, with good reason, see the hand of God which disposes everything for our good, and realize that He cannot fail to give us the grace necessary to profit by our suffering. Although not feeling any consolation nor experiencing any attraction for prayer, the soul should apply itself to it through duty, while trying by some ingenuity to remedy its own powerlessness. St. Teresa of Jesus says that *“anyone who cannot make mental prayer should turn to vocal prayer, or reading, or colloquies with God, but should never fail to conse- crate to prayer the time set apart for it”* (Way, 18).
+
+If, in spite of everything, the soul does not succeed in moving its heart, let it love God by the will alone. This requires a great effort, but by it this faculty is strengthened. Almost without realizing it, the soul is made capable of a more active, generous love. This love will be deprived of feeling, it is true, but we must remember that the substance of love does not consist in feeling, but in willing to give pleasure, at any cost, to the person loved. One who, in order to please God, perseveres in prayer although he finds no consolation in it, but rather repugnance, gives Him a beautiful proof of true love. Progress in the spiritual life is not measured by the consolation the soul feels; for this is unnecessary, since true devotion consists solely in the promptness of the will in God’s service. The will can be very prompt and firmly resolved to serve God, although at the same time it is arid and even forced to struggle against its natural repugnance.
 
 ## Colloquy
 

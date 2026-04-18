@@ -10,7 +10,7 @@ tags:
   - type/study-guide
 created: 2025-11-15
 modified: 2026-04-04
-publish: false
+publish: true
 ---
 
 # The Practice of the Presence of God - OCDS Ongoing Formation Volume I

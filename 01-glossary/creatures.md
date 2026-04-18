@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Creatures
 author:
 source: Divine Intimacy Meditations

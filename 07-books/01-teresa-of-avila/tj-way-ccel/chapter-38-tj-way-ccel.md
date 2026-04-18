@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 38. Treats of the Great Need Which We Have to Beseech the Eternal Father to Grant Us What We Ask in These Words et Ne Nos Inducas in Tentationem, Sed Libera Nos a malo. Explains Certain Temptations. This Chapter Is Noteworthy
 ---
 

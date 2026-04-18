@@ -11,7 +11,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 20. Describes How, in One Way or Another, We Never Lack Consolation on the Road of Prayer. Counsels the Sisters to Include This Subject Continually in Their Conversation
 ---
 

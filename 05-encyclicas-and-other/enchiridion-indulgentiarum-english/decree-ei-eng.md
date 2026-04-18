@@ -8,8 +8,8 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-14
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Decree – Manual of Indulgences (Enchiridion Indulgentiarum, 1999)
 ---
 
@@ -43,12 +43,7 @@ Gianfranco Girotti, O. F. M. Conv.
 
 Regent
 
-> [!NOTE]
-> APOSTOLIC PENITENTIARY
->
-> Enchiridion Indulgentiarum,
->
-> fourth edition (1999)
+---
 
 The infinitely precious merits of Jesus, Divine Redeemer of the human race, and their abundant progeny, the merits of the Blessed Virgin Mary and all the saints, have been entrusted to Christ’s Church as an unfailing treasury, that they may be applied to the remission of sins and of the consequences of sin, by virtue of the power of binding and loosing which the Founder of the Church himself conferred on Peter and the other Apostles, and through them on their successors, the Supreme Pontiffs and Bishops. This remission is given primarily, and in the case of mortal sins necessarily, through the Sacrament of Reconciliation. However, even after mortal sin has been forgiven and, as a necessary consequence, the eternal punishment it deserves has been remitted, and even if slight or venial sin has been remitted, the forgiven sinner can need further purification, that is, be deserving of temporal punishment to be expiated in this life or in the life to come, namely, in Purgatory. An indulgence, whose purpose is to remit this punishment, is drawn from the Church’s wonderful treasury mentioned above. The doctrine of faith regarding indulgences and the praiseworthy practice of gaining them confirm and apply, with special efficacy for attaining holiness, the deeply consoling mysteries of the Mystical Body of Christ and the Communion of Saints. The Supreme Pontiff John Paul II clearly explained all these points in the Bull of Indiction of the Great Jubilee Incarnationis mysterium.
 
@@ -58,9 +53,7 @@ In accord with the intentions of the Holy Father, the Apostolic Penitentiary hop
 
 Anything to the contrary notwithstanding.
 
-Given in Rome, at the office of the Apostolic Penitentiary, July 16, 1999, the memorial of Our
-
-Lady of Mount Carmel.
+Given in Rome, at the office of the Apostolic Penitentiary, July 16, 1999, the memorial of OurmLady of Mount Carmel.
 
 Cardinal William Wakefield Baum
 
@@ -71,3 +64,7 @@ Major Penitentiary
 Titular Bishop of Nova
 
 Regent
+
+## Source
+
+Manual Of Indulgences Norms And Grants Apostolic Penitentiary. Translated Into English From The Fourth Edition 1999 Of _Enchiridion Indulgentiarum Normae Et Concessiones_ United States Conference Of Catholic Bishops Washington DC

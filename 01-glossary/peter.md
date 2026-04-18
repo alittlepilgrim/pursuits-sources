@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Peter
 aliases:
   - peter
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-09
 modified: 2026-04-09
-publish: false
+publish: true
 description: peter. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 
@@ -61,7 +61,7 @@ Spokesman for and leader of the disciples: Mk 16:7; 1 Cor 15:5
 
 Wrote 1 Pet from Rome, cryptically referred to as "Babylon": 1 Pet 5:13
 
-*See also* [[Paul]]
+*See also* [[paul]]
 
 ### Sources
 

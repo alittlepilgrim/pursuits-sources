@@ -136,7 +136,7 @@ This is the meaning of the definition we have given, and this whole chapter is b
 
 Although the action of God and that of the soul have parallel developments in the Christian life, we shall for the sake of clearness treat of them in two successive articles, one on the role of God and the other on the role of man.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00004.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00004.jpeg]]
 
 ## Art. I. the Role of God in the Christian Life
 

@@ -3,7 +3,7 @@ type: book
 title: Stanza XXV – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxi.html
 aliases:
   - Stanza XXV – Spiritual Canticle By St. John of the Cross
   - stanza-xxv-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXV – Spiritual Canticle By St. John of the Cross
 [[stanza-xxiv-jc-sc|← Stanza XXIV]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxvi-jc-sc|Stanza XXVI →]]
 
 # Stanza XXV
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxi.html)
 
 In Your footsteps The young ones run Your way; At the touch of the fire And by the spiced wine, The divine balsam flows.
 

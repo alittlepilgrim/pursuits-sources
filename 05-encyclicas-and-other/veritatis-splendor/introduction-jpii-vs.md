@@ -3,20 +3,22 @@ type: magisterium
 title: Introduction – Veritatis Splendor
 author: Saint John Paul II
 aliases:
-  - Introduction
+  - Introduction – Veritatis Splendor
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Introduction
+modified: 2026-04-15
+publish: true
+description: Introduction – Veritatis Splendor
 ---
 
 ← [[veritatis-splendor|Veritatis Splendor (6 August 1993)]] | [[veritatis-splendor|Table of Contents]] | [[chapter-I-jpii-vs|Chapter I. Christ and the Answer to the Question About Morality]] →
 
 # Introduction
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)
 
 ## Jesus Christ, the True Light That Enlightens Everyone
 

@@ -14,7 +14,7 @@ tags:
   - type/study-guide
 created: 2025-06-23
 modified: 2026-04-06
-publish: false
+publish: true
 ---
 
 # Interior Castle Handbook Appendix C, Session 9, St. Teresa of Avila

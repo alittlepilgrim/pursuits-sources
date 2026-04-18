@@ -15,7 +15,7 @@ modified: 2026-04-07
 publish: true
 permalink: /sacerdotii-nostri-primordia
 description: John Baptist Vianney, consecrated life, clergy, priesthood, religious life, virginity, celibacy, penance, saints, Sacerdotii Nostri Primordia, John XXIII, 1 August 1959
-abbreviation: jpii-sn
+anchor: jpii-sn
 ---
 
 # Sacerdotii Nostri Primordia

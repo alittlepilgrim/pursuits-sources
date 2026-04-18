@@ -3,20 +3,22 @@ type: magisterium
 title: Chapter I – Veritatis Splendor
 author: Saint John Paul II
 aliases:
-  - Chapter I. Christ and the Answer to the Question About Morality
+  - Chapter I. Christ and the Answer to the Question About Morality – Veritatis Splendor
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter I. Christ and the Answer to the Question About Morality
+modified: 2026-04-15
+publish: true
+description: Chapter I. Christ and the Answer to the Question About Morality – Veritatis Splendor
 ---
 
 ← [[introduction-jpii-vs|Introduction]] | [[veritatis-splendor|Table of Contents]] | [[chapter-II-jpii-vs|Chapter II. The Church and the Discernment of Certain Tendencies in Present-Day Moral Theology]] →
 
 # Chapter I. Christ and the Answer to the Question About Morality
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)
 
 ## "Someone Came to Him..." (Mt 19:16)
 

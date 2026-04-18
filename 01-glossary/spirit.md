@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Spirit
 aliases:
   - spirit
@@ -36,7 +36,7 @@ Sometimes soul is distinguished from spirit: 1 Thess 5:23; Heb 4:12; 1 Pet 3:18-
 
 Sometimes spirit is used in a sense akin to soul, distinguished from the body: Mt 27:50; Lk 8:55; 23:46; 24:37, 39; Jn 19:30; Acts 7:59; 23:8-9; 1 Cor 7:34; 2 Cor 7:1; Heb 12:23; Jas 2:26; 1 Pet 3:19
 
-*See also* [[Body]]; [[holy-spirit|Holy Spirit]] ; [[Man]]; [[Soul]]
+*See also* [[body]]; [[holy-spirit|Holy Spirit]] ; [[man]]; [[soul]]
 
 ### Sources
 

@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter VI. The Great Debt She Owed to Our Lord for His Mercy to Her. She Takes St. Joseph for Her Patron
 ---
 

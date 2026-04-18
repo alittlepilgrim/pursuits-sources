@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Saint
 author:
 aliases:
@@ -44,7 +44,7 @@ Prophets called "holy" (i.e., saints): Lk 1:70; Acts 3:21; 2 Pet 3:2
 
 As holy ones in heaven: Mk 8:38; Lk 9:26; 1 Thess 3:13; Heb 12:1, 22-23; Rev 4:4; 5:8-10; 7:9-17
 
-*See also* [[intercession|Intercession of the Saints]]; [[Sanctification]]
+*See also* [[intercession|Intercession of the Saints]]; [[sanctification]]
 
 ### Sources
 

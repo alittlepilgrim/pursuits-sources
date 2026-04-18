@@ -3,7 +3,7 @@ type: book
 title: Stanza XXVII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxiii.html
 aliases:
   - Stanza XXVII – Spiritual Canticle By St. John of the Cross
   - stanza-xxvii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXVII – Spiritual Canticle By St. John of the Cross
 [[stanza-xxvi-jc-sc|← Stanza XXVI]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxviii-jc-sc|Stanza XXVIII →]]
 
 # Stanza XXVII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxiii.html)
 
 There He gave me His breasts, There He taught me the science full of sweetness.
 

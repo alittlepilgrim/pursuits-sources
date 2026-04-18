@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Eyes of the Soul
 aliases:
   - Eyes of the Soul

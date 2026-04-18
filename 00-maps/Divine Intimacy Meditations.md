@@ -13,7 +13,7 @@ tags:
   - divine-intimacy
   - type/toc
 created: 2025-06-22
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 permalink: /divine-intimacy
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
@@ -467,6 +467,8 @@ attachment: false
 - [[385-faithful-departed|385. Commemoration of All the Faithful Departed]]
 - [[386-presentation-bvm|386. The Presentation of the Blessed Virgin Mary]]
 
-# Links
-
   [[00-divine-intimacy-preface|Preface]] →
+
+# Source
+
+Gabriel of Saint Mary Magdalen, O.C.D. *Divine Intimacy: Meditations on the Interior Life for Every Day of the Liturgical Year*. Translated by the Discalced Carmelite Nuns of Boston. Rockford, IL: TAN Books, 1996.

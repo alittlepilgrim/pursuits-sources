@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter II – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Chapter II. The Nature and Mission of the Ministerial Priesthood
+  - Chapter II. The Nature and Mission of the Ministerial Priesthood – Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-09
-publish: false
-description: Chapter II. The Nature and Mission of the Ministerial Priesthood
+modified: 2026-04-14
+publish: true
+description: Chapter II. The Nature and Mission of the Ministerial Priesthood – Pastores Dabo Vobis
 ---
 
 ← [[chapter-I-jpii-pdv|Chapter I. The Challenges Facing Priestly Formation at the Conclusion of the Second Millennium]] | [[pastores-dabo-vobis|Table of Contents]] | [[chapter-III-jpii-pdv|Chapter III. The Spiritual Life of the Priest]] →
 
 # Chapter II. The Nature and Mission of the Ministerial Priesthood
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 **HE HAS ANOINTED ME AND HAS SENT ME FORTH
 

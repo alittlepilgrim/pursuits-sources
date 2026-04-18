@@ -10,7 +10,7 @@ tags:
   - type/study-guide
 created: 2025-11-15
 modified: 2026-04-07
-publish: false
+publish: true
 ---
 
 # Ocds Ongoing Formation Volume Ii

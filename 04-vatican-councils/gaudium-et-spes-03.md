@@ -10,18 +10,14 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html
 ---
 
 # Gaudium Et Spes, Notes
 
-> Footnote anchor convention (for Obsidian):
-> - Preface: `^gs-fn-pref-N`
-> - Introduction: `^gs-fn-intro-N`
-> - Part I: `^gs-fn-p1-chY-N` (Y = chapter number)
-> - Part II: `^gs-fn-p2-chY-N` (Y = chapter number)
-> where `N` is the note’s running number within that chapter.
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)
 
 ## Preface
 

@@ -14,7 +14,7 @@ tags:
   - term/god
   - term/suffering
 created: 2025-05-12
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /the-daily-cross
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
@@ -62,4 +62,4 @@ T.M. - St. Teresa Margaret of the Heart of Jesus
 
 ---
 
-⟵ [[128-patience|128. Patience]] | [[pursuits-sources/07-books/09-divine-intimacy/130-suffering-and-abandonment|130. Suffering and Abandonment]] ➞
+⟵ [[128-patience|128. Patience]] | [[pursuits-texts/07-books/09-divine-intimacy/130-suffering-and-abandonment|130. Suffering and Abandonment]] ➞

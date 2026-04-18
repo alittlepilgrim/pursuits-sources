@@ -9,8 +9,8 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter II. Encountering Jesus Christ In America Today
 ---
 
@@ -18,9 +18,9 @@ description: Chapter II. Encountering Jesus Christ In America Today
 
 # Chapter II. Encountering Jesus Christ In America Today
 
-**“From those who have received much,
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
-much will be required”** (***Lk*** 12:48)
+**“From those who have received much, much will be required”** (***Lk*** 12:48)
 
 ***The situation of the men and women of America and their encounter with the Lord***
 

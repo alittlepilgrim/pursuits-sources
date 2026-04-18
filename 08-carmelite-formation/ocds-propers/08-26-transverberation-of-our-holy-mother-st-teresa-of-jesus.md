@@ -2,6 +2,8 @@
 type: ocds-proper
 title: August 26, The Transverberation of the Heart of St. Teresa of Jesus, Our Mother
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/08/24/transverblit25/
 aliases:
   - 08-26-transverberation-of-our-holy-mother-st-teresa-of-jesus
   - 20240826-000001
@@ -15,18 +17,23 @@ tags:
 celebration_day: 08-26
 celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-07
-publish: false
+modified: 2026-04-17
+publish: true
 description: Catholic Church 1993, Proper of the Liturgy of the Hours of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites (Rev. and augm.), Institutum Carmelitanum, Rome.
 ---
 
+← [[08-25-st-mary-of-jesus-crucified|Aug 25, St Mary of Jesus Crucified]] | [[OCDS Propers|Table of Contents]] | [[09-01-st-teresa-margaret-of-the-sacred-heart-of-jesus-redi|Sep 1, St Teresa Margaret Redi]] →
+
+
 # August 26, the Transverberation of the Heart of St. Teresa of Jesus, Our Mother
 
-**Nuns: Memorial, Others: Optional Memorial**.
+> **August 26**
+> **THE TRANSVERBERATION OF THE HEART OF SAINT TERESA OF JESUS, OUR MOTHER**
+> **Memorial** (Nuns) · **Optional Memorial** (Others)
 
 “The chief among Teresa’s virtues was the love of God, which our Lord Jesus Christ increased by means of many visions and revelations. He made her his Spouse on one occasion. At other times she saw an angel with a flaming dart piercing her heart. Through these heavenly gifts the flame of divine love in her heart became so strong that, inspired by God, she made the extremely difficult vow of always doing what seemed to her most perfect and most conducive to God’s glory” (Gregory XV in the Bull of Canonization)
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
 
 ## Office of Readings
 
@@ -56,7 +63,7 @@ To the realms of joy and praise.
 
 Sr. Margarita of Jesus, O.C.D.
 
-## **The Second Reading**
+## The Second Reading**
 
 (Red. B, st. 2, no. 2-4, 9,, 12, 8: ed. Kavanaugh-Rodriguez 1979, pp. 596-99)
 
@@ -78,9 +85,9 @@ And your delight is great, because the fire of love is infinite and makes you de
 
 **Responsory**
 
-R./ The Lord our God is one Lord. *== You shall love the Lord your God with all your heart, and with all your soul, and with all your strength.*
+R/. The Lord our God is one Lord. *== You shall love the Lord your God with all your heart, and with all your soul, and with all your strength.*
 
-*V./ The Lord your God is a consuming fire. ==* You shall love the Lord your God with all your heart, and with all your soul, and with all your strength.
+*V/. The Lord your God is a consuming fire. ==* You shall love the Lord your God with all your heart, and with all your soul, and with all your strength.
 
 ## Morning Prayer
 
@@ -112,15 +119,15 @@ It is not ourselves that we are preaching, but Christ Jesus as the Lord, and our
 
 **Responsory**
 
-R./ To you my heart has spoken: *== It is you that I seek.*
+R/. To you my heart has spoken: *== It is you that I seek.*
 
-*Repeat R./*
+*Repeat R/.
 
-*V./ I long for your face, Lord ==* It is you that I seek. Glory to the Father, and to the Son, and to the Holy Spirit.
+*V/. I long for your face, Lord ==* It is you that I seek. Glory to the Father, and to the Son, and to the Holy Spirit.
 
-R./ To you my heart has spoken: * It is you that I seek.
+R/. To you my heart has spoken: * It is you that I seek.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. In my heart was the likeness of a burning fire, imprisoned in my bones; and I was scarcely able to bear it.
 
@@ -128,19 +135,9 @@ Ant. In my heart was the likeness of a burning fire, imprisoned in my bones; and
 
 The Lord of glory, Crown of all the Saints, gives us the joy of celebrating this feast of Saint Teresa. Let us praise him, saying:
 
-R./ *Glory to you, Lord!*
+R/. *Glory to you, Lord!*
 
-Source of life and holiness, in your saints you show us the infinite marvels of your grace; — in company with Saint Teresa may we sing of your mercies forever. R./
-
-You want your Spirit of Love to blaze like fire throughout the world; — may we, like Saint Teresa, be instrumental in keeping that flame of love alight. R./
-
-You sanctify your friends and reveal to them the mysteries of your heart; — unite our hearts to yours in a friendship so close and intimate that we may experience the secrets of your love, proclaim it to others, and win them to you. R./
-
-You blessed the pure of heart and promised that they would see you; — purify our sight, so that we may see you in all things, and through all things be close to you. R./
-
-You oppose the proud and give wisdom to the simple; — make us humble of heart, so that we may receive your wisdom for the sake of the Church. R./
-
-Our Father …
+Source of life and holiness, in your saints you show us the infinite marvels of your grace; — in company with Saint Teresa may we sing of your mercies forever. R/. You want your Spirit of Love to blaze like fire throughout the world; — may we, like Saint Teresa, be instrumental in keeping that flame of love alight. R/. You sanctify your friends and reveal to them the mysteries of your heart; — unite our hearts to yours in a friendship so close and intimate that we may experience the secrets of your love, proclaim it to others, and win them to you. R/. You blessed the pure of heart and promised that they would see you; — purify our sight, so that we may see you in all things, and through all things be close to you. R/. You oppose the proud and give wisdom to the simple; — make us humble of heart, so that we may receive your wisdom for the sake of the Church. R/. Our Father …
 
 **Prayer**
 
@@ -182,13 +179,13 @@ You, my dear friends, must use your most holy faith as your foundation and build
 
 **Responsory**
 
-R./ You are *== the temple of the living God. Repeat R./*
+R/. You are *== the temple of the living God. Repeat R/.
 
-*V./ And the Spirit of God dwells in you, ==* the temple of the living God.Glory to the Father, and to the Son, and to the Holy Spirit.
+*V/. And the Spirit of God dwells in you, ==* the temple of the living God.Glory to the Father, and to the Son, and to the Holy Spirit.
 
-R./ You are * the temple of the living God.
+R/. You are * the temple of the living God.
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Let my heart rejoice in your salvation; let me sing to the Lord for his goodness to me.
 
@@ -196,21 +193,9 @@ Ant. Let my heart rejoice in your salvation; let me sing to the Lord for his goo
 
 Christ loved his Church and gave his life for her that she might be holy: let us pray to Christ that his Church may be holy and spotless in all her members:
 
-R./ *Be with your Church, Lord Jesus.*
+R/. *Be with your Church, Lord Jesus.*
 
-You are the Head of the Church and the source of all her grace; — may all your people be joined to you in faith and love, and realize that they are the living and holy members of your body. R./
-
-You founded the Church on Peter and the apostles, and through them you teach us the truth and lead us in green pastures; — enlighten and guide those you have placed over your Church, and confirm our faith so that in them we may hear your voice leading us to life. R./
-
-You choose some to announce the Good News by teaching, baptizing, calling to repentance, and offering in your memory the Eucharistic Sacrifice; — as the harvest is great, and the laborers few, send laborers into your harvest. R./
-
-You choose some of your friends to follow you more closely in your poverty, your chastity and your obedience, for the building up of the Church; — with Mary as their Mother and teacher, may all religious cling to you and show forth your life within them as they serve the Church. R./
-
-You made your people one body and one spirit in the unity of faith and baptism; — may all whom you have redeemed preserve the unity of the Spirit through the bonds of peace. R./
-
-You died for our redemption and rose so that we could have life; — may all who have died in your love and await the revelation of your glory rejoice at the eternal banquet in the company of your saints. R./
-
-Our Father …
+You are the Head of the Church and the source of all her grace; — may all your people be joined to you in faith and love, and realize that they are the living and holy members of your body. R/. You founded the Church on Peter and the apostles, and through them you teach us the truth and lead us in green pastures; — enlighten and guide those you have placed over your Church, and confirm our faith so that in them we may hear your voice leading us to life. R/. You choose some to announce the Good News by teaching, baptizing, calling to repentance, and offering in your memory the Eucharistic Sacrifice; — as the harvest is great, and the laborers few, send laborers into your harvest. R/. You choose some of your friends to follow you more closely in your poverty, your chastity and your obedience, for the building up of the Church; — with Mary as their Mother and teacher, may all religious cling to you and show forth your life within them as they serve the Church. R/. You made your people one body and one spirit in the unity of faith and baptism; — may all whom you have redeemed preserve the unity of the Spirit through the bonds of peace. R/. You died for our redemption and rose so that we could have life; — may all who have died in your love and await the revelation of your glory rejoice at the eternal banquet in the company of your saints. R/. Our Father …
 
 **Prayer**
 
@@ -218,4 +203,10 @@ Almighty God,you filled the heart of Saint Teresa of Jesus, our Mother,with the 
 
 We ask this through our Lord Jesus Christ, your Son,who lives and reigns with you and the Holy Spirit, God, forever and ever.
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/08/24/transverblit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

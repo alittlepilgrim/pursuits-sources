@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Mary
 author:
 aliases:
@@ -62,7 +62,7 @@ With the apostles and other disciples after the Ascension of Jesus: Acts 1:14
 
 Woman Clothed with the Sun: Rev 12:1-2
 
-*See also* [[Motherhood]]
+*See also* [[motherhood]]
 
 ### Sources
 

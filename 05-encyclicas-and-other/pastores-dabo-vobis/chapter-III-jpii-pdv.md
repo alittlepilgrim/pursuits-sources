@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter III – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Chapter III. The Spiritual Life of the Priest
+  - Chapter III. The Spiritual Life of the Priest – Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-09
-publish: false
-description: Chapter III. The Spiritual Life of the Priest
+modified: 2026-04-14
+publish: true
+description: Chapter III. The Spiritual Life of the Priest – Pastores Dabo Vobis
 ---
 
 ← [[chapter-II-jpii-pdv|Chapter II. The Nature and Mission of the Ministerial Priesthood]] | [[pastores-dabo-vobis|Table of Contents]] | [[chapter-IV-jpii-pdv|Chapter IV. Priestly Vocation in the Church's Pastoral Work]] →
 
 # Chapter III. The Spiritual Life of the Priest
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 **THE SPIRIT OF THE LORD IS UPON ME
 

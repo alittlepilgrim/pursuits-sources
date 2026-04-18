@@ -8,8 +8,8 @@ tags:
   - term/coming
   - term/peter
 created: 2026-04-01
-modified: 2026-04-10
-publish: false
+modified: 2026-04-18
+publish: true
 description: The Gospel According to Saint Matthew - The Ignatius Catholic Study Bible New Testament
 ---
 

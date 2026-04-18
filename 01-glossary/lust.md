@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Lust
 author:
 aliases:
@@ -26,7 +26,7 @@ Abstain from lust: 1 Thess 4:5
 
 Earthly qualities to be "put to death": Col 3:5
 
-*See also* [[Chastity]]; [[sexual-sin|Sexual Sin]] 
+*See also* [[chastity]]; [[sexual-sin|Sexual Sin]] 
 
 ### Sources
 

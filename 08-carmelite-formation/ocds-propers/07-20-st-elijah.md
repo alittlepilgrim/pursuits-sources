@@ -2,6 +2,8 @@
 type: ocds-proper
 title: July 20, Our Father Saint Elijah
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/07/18/elijahlit25/
 aliases:
   - 07-20-st-elijah
   - 20240719-212434
@@ -13,26 +15,28 @@ tags:
 celebration_day: 07-20
 celebration_rank: feast
 created: 2024-07-19
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[07-17-st-teresa-of-st-augustine|Jul 17, St Teresa of St Augustine]] | [[OCDS Propers|Table of Contents]] | [[07-23-divine-grace|Jul 23, BVM Mother of Divine Grace]] →
+
 
 # July 20, Our Father Saint Elijah
 
-> **July 20
-> ****OUR FATHER** **SAINT ELIJAH - [[elijah-saint]]
-> ****Prophet**
-Prophet and Patron of Carmel, Feast
-
-**Feast**
+> **July 20**
+> **OUR FATHER SAINT ELIJAH**
+> **[[elijah-saint]]
+> **Prophet and Patron of Carmel**
+> **Feast**
 
 The prophet Elijah appears in Scripture as a man of God who lived always in His presence and fought zealously for the worship of the one God. He defended God’s law in a solemn contact on Mt. Carmel, and afterwards was given on Mt. Horeb an intimate experience of the living God. The hermits who instituted a form of monastic life in honor of Our Lady on Mt. Carmel in the twelfth century, followed monastic tradition in turning to Elijah as their Father and model.
 
-# Invitatory
+## Invitatory
 
 Ant. Come let us adore the living God, who speaks to us through the prophets.
 
-# Office of Readings
+## Office of Readings
 
 **HYMN**
 
@@ -104,37 +108,37 @@ Psalm 11
 
 In the Lord I have taken my refuge. †
 
-How can you say to my soul: *
+How can you say to my soul:
 
 ‘Fly like a bird to its mountain.
 
 ‘See the wicked bracing their bow; †
 
-they are fixing their arrows on the string *
+they are fixing their arrows on the string
 
 to shoot upright men in the dark.
 
-Foundations once destroyed, *
+Foundations once destroyed,
 
 what can the just do?’
 
-The Lord is in his holy temple, *
+The Lord is in his holy temple,
 
 the Lord, whose throne is in heaven.
 
-His eyes look down on the world; *
+His eyes look down on the world;
 
 his gaze tests mortal men.
 
-The Lord tests the just and the wicked: *
+The Lord tests the just and the wicked:
 
 the lover of violence he hates.
 
-He sends fire and brimstone on the wicked; *
+He sends fire and brimstone on the wicked;
 
 he sends a scorching wind as their lot.
 
-The Lord is just and loves justice: *
+The Lord is just and loves justice:
 
 the upright shall see his face.
 
@@ -144,47 +148,47 @@ Ant. 2 An angel of the Lord said to him: Get up and eat, for there is a great j
 
 Psalm 28
 
-To you, O Lord, I call, *
+To you, O Lord, I call,
 
 my rock, hear me.
 
-If you do not heed I shall become *
+If you do not heed I shall become
 
 like those in the grave.
 
-Hear the voice of my pleading *
+Hear the voice of my pleading
 
 as I call for help,
 
-as I lift up my hands in prayer *
+as I lift up my hands in prayer
 
 to your holy place.
 
-Do not drag me away with the wicked, *
+Do not drag me away with the wicked,
 
 with the evil-doers,
 
-who speak words of peace to their neighbors *
+who speak words of peace to their neighbors
 
 but with evil in their hearts.
 
-Blessed be the Lord for he has heard *
+Blessed be the Lord for he has heard
 
 my cry, my appeal.
 
-The Lord is my strength and my shield; *
+The Lord is my strength and my shield;
 
 in him my heart trusts.
 
-I was helped, my heart rejoices *
+I was helped, my heart rejoices
 
 and I praise him with my song.
 
-The Lord is the strength of his people, *
+The Lord is the strength of his people,
 
 a fortress where his anointed find help.
 
-Save your people; bless Israel your heritage. *
+Save your people; bless Israel your heritage.
 
 Be their shepherd and carry them for ever.
 
@@ -194,51 +198,51 @@ Ant. 3 Elijah ate and drank, and in the strength of that food he walked to the 
 
 Psalm 30
 
-I will praise you, Lord, you have rescued me *
+I will praise you, Lord, you have rescued me
 
 and have not let my enemies rejoice over me.
 
-O Lord, I cried to you for help *
+O Lord, I cried to you for help
 
 and you, my God, have healed me.
 
-O Lord, you have raised my soul from the dead, *
+O Lord, you have raised my soul from the dead,
 
 restored me to life from those who sink into the grave.
 
-Sing psalms to the Lord, you who love him, *
+Sing psalms to the Lord, you who love him,
 
 give thanks to his holy name.
 
-His anger lasts a moment; his favor all through life. *
+His anger lasts a moment; his favor all through life.
 
 At night there are tears, but joy comes with dawn.
 
-I said to myself in my good fortune: *
+I said to myself in my good fortune:
 
 ‘Nothing will ever disturb me.’
 
-Your favor had set me on a mountain fastness, *
+Your favor had set me on a mountain fastness,
 
 then you hid your face and I was put to confusion.
 
-To you, Lord, I cried, *
+To you, Lord, I cried,
 
 to my God I made appeal:
 
-‘What profit would my death be, my going to the grave? *
+‘What profit would my death be, my going to the grave?
 
 Can dust give you praise or proclaim your truth?’
 
-The Lord listened and had pity. *
+The Lord listened and had pity.
 
 The Lord came to my help.
 
-For me you have changed my mourning into dancing, *
+For me you have changed my mourning into dancing,
 
 you removed my sackcloth and clothed me with joy.
 
-So my soul sings psalms to you unceasingly. *
+So my soul sings psalms to you unceasingly.
 
 O Lord my God, I will thank you forever.
 
@@ -304,19 +308,19 @@ Happy are those who put their trust in the Lord 
 
 _Happy are those who hear the word of God and keep it_ ([[luke-11|Lk 11]]:28)
 
-Blessed is the man who trust in the Lord, *
+Blessed is the man who trust in the Lord,
 
 whose trust is the Lord.
 
-He is like a tree planted by water, *
+He is like a tree planted by water,
 
 that sends out its roots by the stream,
 
-and does not fear when heat comes, *
+and does not fear when heat comes,
 
 for its leaves remain green,
 
-and is not anxious in the year of drought, *
+and is not anxious in the year of drought,
 
 for it does not cease to bear fruit.
 
@@ -328,19 +332,19 @@ The happiness of the wise
 
 _Wisdom has been proved right by all her children_ ([[luke-07|Lk 7]]:35)
 
-Happy the man who meditates on wisdom, *
+Happy the man who meditates on wisdom,
 
 and reasons with good sense.
 
-She will give him the bread of understanding to eat, *
+She will give him the bread of understanding to eat,
 
 and the water of wisdom to drink.
 
-He will lean on her and will not fall, *
+He will lean on her and will not fall,
 
 he will rely on her and not be put to shame.
 
-She will raise him high above his neighbors, *
+She will raise him high above his neighbors,
 
 and he will inherit an everlasting name.
 
@@ -352,37 +356,37 @@ Thanksgiving for delivery from affliction
 
 _God has saved us from the hands of our foes, that we might serve him_ (Lk 1:74)
 
-I will give thanks to you, Lord and King, *
+I will give thanks to you, Lord and King,
 
 and praise you, God my Savior,
 
-I give thanks to your name; *
+I give thanks to your name;
 
 for you have been protector and support to me,
 
 and redeemed my body from destruction. †
 
-from the snare of the lying tongue, *
+from the snare of the lying tongue,
 
 from lips that fabricate falsehood.
 
 You have redeemed me, †
 
-true to the greatness of your mercy, *
+true to the greatness of your mercy,
 
 from the perjured tongue slandering me to the king.
 
-Then I remembered your mercy, Lord, *
+Then I remembered your mercy, Lord,
 
 and your deeds from earliest times.
 
-I called on the Lord, the father of my Lord: *
+I called on the Lord, the father of my Lord:
 
 “Do not desert me in the days of  ordeal,
 
 I will praise your name unceasingly, †
 
-and gratefully sing its praises;” *
+and gratefully sing its praises;”
 
 and my plea was heard.
 
@@ -400,53 +404,53 @@ Jesus took with him Peter and James and his brother John and led them up a high 
 
 **Te Deum**
 
-You are God: we praise you; *
+You are God: we praise you;
 
 You are the Lord: we acclaim you;
 
-You are the eternal Father: *
+You are the eternal Father:
 
 All creation worships you.
 
-To you all angels, all the powers of heaven, *
+To you all angels, all the powers of heaven,
 
 Cherubim and Seraphim, sing in endless praise:
 
-Holy, holy, holy, Lord, God of power and might, *
+Holy, holy, holy, Lord, God of power and might,
 
 heaven and earth are full of your glory.
 
 The glorious company of apostles praise you. †
 
-The noble fellowship of prophets praise you. *
+The noble fellowship of prophets praise you.
 
 The white-robed army of martyrs praise you.
 
-Throughout the world the holy Church acclaims you: *
+Throughout the world the holy Church acclaims you:
 
 Father, of majesty unbounded,
 
-your true and only Son, worthy of all worship, *
+your true and only Son, worthy of all worship,
 
 and the Holy Spirit, advocate and guide.
 
-You, Christ, are the King of glory, *
+You, Christ, are the King of glory,
 
 the eternal Son of the Father.
 
-When you became man to set us free *
+When you became man to set us free
 
 you did not spurn the Virgin’s womb.
 
-You overcame the sting of death, *
+You overcame the sting of death,
 
 and opened the kingdom of heaven to all believers.
 
-You are seated at God’s right hand in glory. *
+You are seated at God’s right hand in glory.
 
 We believe that you will come, and be our judge.
 
-Come then, Lord, and help your people, *
+Come then, Lord, and help your people,
 
 bought with the price of your own blood,
 
@@ -498,7 +502,7 @@ God, for ever and ever. Amen.
 
 ---
 
-# **MORNING PRAYER**
+# Morning PRAYER**
 
 **Hymn**
 
@@ -560,7 +564,7 @@ Ant. 1 God lives; I am standing in his presence.
 
 Psalm 63
 
-O God, you are my God, for you I long; *
+O God, you are my God, for you I long;
 
 for you my soul is thirsting.
 
@@ -568,39 +572,39 @@ My body pines for you*
 
 like a dry, weary land without water.
 
-So I gaze on you in the sanctuary *
+So I gaze on you in the sanctuary
 
 to see your strength and your glory.
 
-For your love is better than life, *
+For your love is better than life,
 
 my lips will speak your praise.
 
-So I will bless you all my life, *
+So I will bless you all my life,
 
 in your name I will lift up my hands.
 
-My soul shall be filled as with a banquet, *
+My soul shall be filled as with a banquet,
 
 my mouth shall praise you with joy.
 
-On my bed I remember you. *
+On my bed I remember you.
 
 On you I muse through the night
 
-for you have been my help; *
+for you have been my help;
 
 in the shadow of your wings I rejoice.
 
-My soul clings to you; *
+My soul clings to you;
 
 your right hand holds me fast.
 
-Glory to the Father, and to the Son, *
+Glory to the Father, and to the Son,
 
 and to the Holy Spirit:
 
-as it was in the beginning, is now, *
+as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -610,83 +614,83 @@ Ant. 2 Go out and stand on the mountain in the presence of the Lord; for the Lo
 
 Canticle – Daniel 3:57-88, 56
 
-Bless the Lord, all you works of the Lord. *
+Bless the Lord, all you works of the Lord.
 
 Praise and exalt him above all forever.
 
-Angels of the Lord, bless the Lord. *
+Angels of the Lord, bless the Lord.
 
 You heavens, bless the Lord,
 
-All you waters above the heavens, bless the Lord. *
+All you waters above the heavens, bless the Lord.
 
 All you hosts of the Lord, bless the Lord.
 
-Sun and moon, bless the Lord. *
+Sun and moon, bless the Lord.
 
 Stars of heaven, bless the Lord.
 
-Every shower and dew, bless the Lord. *
+Every shower and dew, bless the Lord.
 
 All you winds, bless the Lord.
 
-Fire and heat, bless the Lord. *
+Fire and heat, bless the Lord.
 
 Cold and chill, bless the Lord.
 
-Dew and rain, bless the Lord. *
+Dew and rain, bless the Lord.
 
 Frost and chill, bless the Lord.
 
-Ice and snow, bless the Lord. *
+Ice and snow, bless the Lord.
 
 Nights and days, bless the Lord.
 
-Light and darkness, bless the Lord. *
+Light and darkness, bless the Lord.
 
 Lightnings and clouds, bless the Lord.
 
-Let the earth bless the Lord. *
+Let the earth bless the Lord.
 
 Praise and exalt him above all forever.
 
-Mountains and hills, bless the Lord. *
+Mountains and hills, bless the Lord.
 
 Everything growing from the earth, bless the Lord.
 
-You springs, bless the Lord. *
+You springs, bless the Lord.
 
 Seas and rivers, bless the Lord.
 
-You dolphins and all water creatures, bless the Lord. *
+You dolphins and all water creatures, bless the Lord.
 
 All you birds of the air, bless the Lord.
 
-All you beasts, wild and tame, bless the Lord. *
+All you beasts, wild and tame, bless the Lord.
 
 You sons of men, bless the Lord.
 
-O Israel, bless the Lord. *
+O Israel, bless the Lord.
 
 Praise and exalt him above all forever.
 
-Priests of the Lord, bless the Lord. *
+Priests of the Lord, bless the Lord.
 
 Servants of the Lord, bless the Lord.
 
-Spirits and souls of the just, bless the Lord. *
+Spirits and souls of the just, bless the Lord.
 
 Holy men of humble heart, bless the Lord.
 
-Hananiah, Azariah, Mishael, bless the Lord. *
+Hananiah, Azariah, Mishael, bless the Lord.
 
 Praise and exalt him above all forever.
 
-Let us bless the Father, and the Son, and the Holy Spirit. *
+Let us bless the Father, and the Son, and the Holy Spirit.
 
 Let us praise and exalt him above all for ever.
 
-Blessed are you, Lord, in the firmament of heaven. *
+Blessed are you, Lord, in the firmament of heaven.
 
 Praiseworthy and glorious and exalted above all for ever.
 
@@ -696,47 +700,47 @@ Ant. 3 With zeal have I been zealous for the Lord God of hosts.
 
 Psalm 149
 
-Sing a new song to the Lord, *
+Sing a new song to the Lord,
 
 his praise in the assembly of the faithful.
 
-Let Israel rejoice in its maker, *
+Let Israel rejoice in its maker,
 
 let Zion’s sons exult in their king.
 
-Let them praise his name with dancing *
+Let them praise his name with dancing
 
 and make music with timbrel and harp.
 
-For the Lord takes delight in his people. *
+For the Lord takes delight in his people.
 
 He crowns the poor with salvation.
 
-Let the faithful rejoice in their glory, *
+Let the faithful rejoice in their glory,
 
 shout for joy and take their rest.
 
-Let the praise of God be on their lips *
+Let the praise of God be on their lips
 
 and a two-edged sword in their hand,
 
-to deal out vengeance to the nations *
+to deal out vengeance to the nations
 
 and punishment on all the peoples;
 
-to bind their kings in chains *
+to bind their kings in chains
 
 and their nobles in fetters of iron;
 
-to carry out the sentence pre-ordained; *
+to carry out the sentence pre-ordained;
 
 this honor is for all his faithful.
 
-Glory to the Father, and to the Son, *
+Glory to the Father, and to the Son,
 
 and to the Holy Spirit:
 
-as it was in the beginning, is now, *
+as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -756,21 +760,21 @@ V/. And in righteousness I will see your face, * when your glory appears.
 
 Glory... R/.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. Lord God of Abraham and Isaac and Jacob, give proof this day that you are the God of Israel, and that I am your servant, and that all I have said is at your command.
 
-Blessed be the Lord, the God of Israel; *
+Blessed be the Lord, the God of Israel;
 
 he has come to his people and set them free.
 
-He has raised up for us a mighty savior, *
+He has raised up for us a mighty savior,
 
 born of the house of his servant David.
 
 Through his holy prophets he promised of old †
 
-that he would save us from our enemies, *
+that he would save us from our enemies,
 
 from the hands of all who hate us.
 
@@ -778,35 +782,35 @@ He promised to show mercy to our fathers*
 
 and to remember his holy covenant.
 
-This was the oath he swore to our father Abraham: *
+This was the oath he swore to our father Abraham:
 
 to set us free from the hands of our enemies,
 
-free to worship him without fear, *
+free to worship him without fear,
 
 holy and righteous in his sight all the days of our life.
 
-You, my child, shall be called the prophet of the Most High; *
+You, my child, shall be called the prophet of the Most High;
 
 for you will go before the Lord to prepare his way,
 
-to give his people knowledge of salvation *
+to give his people knowledge of salvation
 
 by the forgiveness of their sins.
 
-In the tender compassion of our God *
+In the tender compassion of our God
 
 the dawn from on high shall break upon us,
 
-to shine on those who dwell in darkness and the shadow of death, *
+to shine on those who dwell in darkness and the shadow of death,
 
 and to guide our feet into the way of peace.
 
-Glory to the Father, and to the Son, *
+Glory to the Father, and to the Son,
 
 and to the Holy Spirit:
 
-as it was in the beginning, is now, *
+as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -854,7 +858,7 @@ God, for ever and ever. Amen.
 
 ---
 
-# **PRAYER During the DAY**
+# Prayer During the DAY**
 
 Antiphons and psalms of the weekday.
 
@@ -924,7 +928,7 @@ God, for ever and ever. Amen.
 
 ---
 
-# **EVENING PRAYER**
+# Evening PRAYER**
 
 **Hymn**
 
@@ -986,31 +990,31 @@ Ant. 1 Now I know that you are a man of God, and that the word of God in your m
 
 Psalm 15
 
-Lord, who shall be admitted to your tent *
+Lord, who shall be admitted to your tent
 
 and dwell on your holy mountain?
 
-He who walks without fault; *
+He who walks without fault;
 
 he who acts with justice
 
-and speaks the truth from his heart; *
+and speaks the truth from his heart;
 
 he who does not slander with his tongue;
 
-he who does no wrong to his brother, *
+he who does no wrong to his brother,
 
 who casts no slur on his neighbor,
 
-who holds the godless in disdain, *
+who holds the godless in disdain,
 
 but honors those who fear the Lord;
 
-he who keeps his pledge, come what may; *
+he who keeps his pledge, come what may;
 
 who takes no interest on a loan
 
-and accepts no bribes against the innocent. *
+and accepts no bribes against the innocent.
 
 Such a man will stand firm for ever.
 
@@ -1020,41 +1024,41 @@ Ant. 2 The Lord said to Elijah: Go and present yourself to Ahab; I will send ra
 
 Psalm 112
 
-Happy the man who fears the Lord, *
+Happy the man who fears the Lord,
 
 who takes delight in all his commands.
 
-His sons will be powerful on earth; *
+His sons will be powerful on earth;
 
 the children of the upright are blessed.
 
-Riches and wealth are in his house; *
+Riches and wealth are in his house;
 
 his justice stands firm for ever.
 
-He is a light in the darkness for the upright: *
+He is a light in the darkness for the upright:
 
 he is generous, merciful and just.
 
-The good man takes pity and lends, *
+The good man takes pity and lends,
 
 he conducts his affairs with honor.
 
-The just man will never waver: *
+The just man will never waver:
 
 he will be remembered for ever.
 
-He has no fear of evil news; *
+He has no fear of evil news;
 
 with a firm heart he trusts in the Lord.
 
-With a steadfast heart he will not fear; *
+With a steadfast heart he will not fear;
 
 he will see the downfall of his foes.
 
 Open-handed, he gives to the poor; †
 
-his justice stands firm for ever. *
+his justice stands firm for ever.
 
 His head will be raised in glory.
 
@@ -1070,19 +1074,19 @@ Ant. 3 Elijah went up to heaven in a whirlwind, and Elisha saw him no more.
 
 Canticle: Rev 15:3-4
 
-Great and wonderful are your deeds, *
+Great and wonderful are your deeds,
 
 O Lord God the Almighty!
 
-Just and true are your ways, *
+Just and true are your ways,
 
 O King of the ages!
 
-Who shall not fear and glorify your name, O Lord? *
+Who shall not fear and glorify your name, O Lord?
 
 For you alone are holy.
 
-All nations shall come and worship you, *
+All nations shall come and worship you,
 
 for your judgments have been revealed.
 
@@ -1102,27 +1106,27 @@ V/. Because the spirit of Elijah rested on Elisha: * he struck the waters and
 
 Glory... R/.
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Behold, I will send you Elijah the prophet before the day of the Lord comes, that great and terrible day. He will turn the hearts of fathers to their sons and the hearts of sons to their fathers.
 
-My soul proclaims the greatness of the Lord, *
+My soul proclaims the greatness of the Lord,
 
 my spirit rejoices in God my Savior;
 
-for he has looked with favor on his lowly servant, *
+for he has looked with favor on his lowly servant,
 
 and from this day all generations will call me blessed.
 
-The Almighty has done great things for me: *
+The Almighty has done great things for me:
 
 holy is his Name.
 
-He has mercy on those who fear him *
+He has mercy on those who fear him
 
 in every generation.
 
-He has shown the strength of his arm, *
+He has shown the strength of his arm,
 
 he has scattered the proud in their conceit.
 
@@ -1130,7 +1134,7 @@ He has cast down the mighty from their thrones,*
 
 and has lifted up the lowly.
 
-He has filled the hungry with good things, *
+He has filled the hungry with good things,
 
 and has sent the rich away empty.
 
@@ -1138,15 +1142,15 @@ He has come to the help of his servant Israel*
 
 for he has remembered his promise of mercy,
 
-the promise he made to our fathers, *
+the promise he made to our fathers,
 
 to Abraham and his children for ever.
 
-Glory to the Father, and to the Son, *
+Glory to the Father, and to the Son,
 
 and to the Holy Spirit:
 
-as it was in the beginning, is now, *
+as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -1191,3 +1195,9 @@ We ask this through our Lord Jesus Christ, your Son,
 who lives and reigns with you and the Holy Spirit,
 
 God, for ever and ever. Amen.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/07/18/elijahlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

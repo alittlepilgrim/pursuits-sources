@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Grace
 author:
 aliases:
@@ -60,7 +60,7 @@ Salvation through the grace of Jesus: Acts 15:11
 
 Strengthens the heart of the believer: Heb 13:9
 
-*See also* [[Faith]]; [[Freedom]]; [[Election]]; [[Love]]; [[Justification]]; [[Salvation]]; [[Works]]
+*See also* [[faith]]; [[freedom]]; [[election]]; [[love]]; [[justification]]; [[salvation]]; [[works]]
 
 ### Sources
 

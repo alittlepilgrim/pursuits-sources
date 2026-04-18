@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Attachments
 author:
 source: Divine Intimacy Meditations

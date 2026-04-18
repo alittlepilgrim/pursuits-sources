@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Way of the Cross
 aliases:
   - Way of the Cross

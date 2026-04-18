@@ -2,6 +2,8 @@
 type: ocds-proper
 title: November 8, Saint Elizabeth of the Trinity Catez
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/11/06/liztrinlit25/
 aliases:
   - 20251108-000001
   - November 8, Saint Elizabeth of the Trinity Catez
@@ -12,29 +14,28 @@ tags:
   - saint/elizabeth-of-the-trinity
   - type/ocd-proper
 celebration_day: 11-08
+celebration_rank: memorial
 created: 2024-07-22
-modified: 2026-04-07
-publish: false
+modified: 2026-04-17
+publish: true
 attachment: true
 ---
 
+← [[11-07-blessed-francis-palau-y-quer|Nov 7, Bl Francis Palau]] | [[OCDS Propers|Table of Contents]] | [[11-14-all-carmelite-sts|Nov 14, All Carmelite Saints]] →
+
+
 # November 8, Saint Elizabeth of the Trinity Catez
 
-**8 November: Saint Elizabeth of the Trinity Catez** - [[elizabeth-of-the-trinity-saint]]
-
-*November 8*
-
-*SAINT ELIZABETH OF THE TRINITY CATEZ*
-
-*Virgin*
-
-**Memorial**
+> **November 8**
+> **SAINT ELIZABETH OF THE TRINITY CATEZ** — [[elizabeth-of-the-trinity-saint]]
+> **Virgin**
+> **Memorial**
 
 Elizabeth Catez of the Trinity was born in 1880 in the diocese of Bourges. In 1901 she entered the Discalced Carmelite monastery of Dijon. There she made her profession of vows in 1903 and from there she was called “to light, to love, and to life” by the Divine Spouse in 1906. A faithful adorer in spirit and in truth, her life was a “praise of glory” of the Most Blessed Trinity, present in her soul and loved amidst interior darkness and excruciating illness. In the mystery of divine inhabitation, she found her “heaven on earth,” her special charism, and her mission for the Church.
 
 From the common of virgins or of holy women (religious)
 
-Office of Readings
+## Office of Readings
 
 **Second Reading**From the writings of Saint Elizabeth of the Trinity, Virgin
 
@@ -52,9 +53,9 @@ O my Three, my All, my Beatitude, infinite Solitude, Immensity in which I lose m
 
 **Responsory**
 
-R./ You are God’s temple and the Spirit of God lives in you. *== Glorify God in your body.*
+R/. You are God’s temple and the Spirit of God lives in you. *== Glorify God in your body.*
 
-*V./ To the praise of his glory, ==* glorify God in your body.
+*V/. To the praise of his glory, ==* glorify God in your body.
 
 **Prayer**
 
@@ -66,10 +67,12 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, forever and ever.
 
-![8 November- Saint Elizabeth of the Trinity Catez-2024-07-22-1](images/8%20November-%20Saint%20Elizabeth%20of%20the%20Trinity Catez-2024-07-22-1.jpeg)
-
 Elizabeth Catez, the prize-winning pianist | Photo credit: Discalced Carmelites
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
 
-8 November: Saint Elizabeth of the Trinity Catez
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/11/06/liztrinlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

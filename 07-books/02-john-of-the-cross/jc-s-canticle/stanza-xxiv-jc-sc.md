@@ -3,7 +3,7 @@ type: book
 title: Stanza XXIV – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxx.html
 aliases:
   - Stanza XXIV – Spiritual Canticle By St. John of the Cross
   - stanza-xxiv-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXIV – Spiritual Canticle By St. John of the Cross
 [[stanza-xxiii-jc-sc|← Stanza XXIII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxv-jc-sc|Stanza XXV →]]
 
 # Stanza XXIV
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxx.html)
 
 *THE BRIDE Our bed is of flowers By dens of lions encompassed, Hung with purple, Made in peace, And crowned with a thousand shields of gold.*
 

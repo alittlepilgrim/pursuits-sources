@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Acedia
 aliases:
   - acedia
@@ -10,7 +10,7 @@ tags:
   - term/capital-sins
   - type/term
 created: 2025-07-20
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
 description: acedia Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---

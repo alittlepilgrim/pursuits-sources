@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Gospel
 author:
 aliases:
@@ -32,7 +32,7 @@ Power of God unto salvation: Rom 1:16
 
 Preached to the dead: 1 Pet 4:6
 
-*See also* [[Evangelization]]
+*See also* [[evangelization]]
 
 ### Sources
 

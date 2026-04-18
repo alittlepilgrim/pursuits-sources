@@ -2,6 +2,8 @@
 type: ocds-proper
 title: May 22, Saint Joachina De Vedruna
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/05/20/vedrunalit25/
 aliases:
   - 05-22-st-joachina
   - 20250731-121457
@@ -12,26 +14,28 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 05-22
-celebration_rank: optional memorial
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers undefined
 ---
+
+← [[05-16-st-simon-stock|May 16, St Simon Stock]] | [[OCDS Propers|Table of Contents]] | [[05-25-st-mary-magdalen-of-the-incarnate-word-de-pazzi|May 25, St Mary Magdalen de Pazzi]] →
+
 
 # May 22, Saint Joachina de Vedruna
 
 > **May 22**
 > **SAINT JOACHINA DE VEDRUNA** - [[joachina-de-vedruna-de-mas-saint]]
 > **Religious**
-
-**Optional Memorial**
+> **Optional Memorial**
 
 Joachina was born in Barcelona in 1783. She married Theodore de Mas in 1799 and bore him nine children before being widowed in 1816. Then in 1826, she was prompted by God’s Spirit to found the Congregation of Carmelite Sisters of Charity, which spread throughout Catalonia, establishing houses for the care of the sick and the education of children, especially the poor. She was greatly drawn to contemplating the mystery of the Holy Trinity. Her spiritual life was marked by prayer, mortification, detachment, humility, and love. She died at Vich in 1854.
 
 From the Common of Holy Women (Religious)
 
-# **OFFICE Of READINGS**
+# Office Of READINGS**
 
 **Second Reading**
 
@@ -61,7 +65,7 @@ V/. Follow the way of love, as Christ loved us and gave himself up for us. * 
 
 # **MORNING PRAYER**
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. By this all will know that you are my disciples: that you have love for one another (alleluia).
 
@@ -87,8 +91,14 @@ Who lives and reigns with you and the Holy Spirit,
 
 God, for ever and ever. Amen.
 
-# **EVENING PRAYER**
+# Evening PRAYER**
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Whatsoever you do for one of the least of my brethren, you do for me, says the Lord (alleluia).
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/05/20/vedrunalit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

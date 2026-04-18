@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Flesh
 aliases:
   - flesh
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-12
 modified: 2026-04-12
-publish: false
+publish: true
 ---
 
 # Flesh
@@ -40,7 +40,7 @@ One-flesh union of husband and wife: Mt 19:5-6; Mk 10:8; Eph 5:31
 
 Principle of biological generation, descent, and kinship: Rom 1:3; 4:1; 9:3, 8; 11:14
 
-*See also* [[Body]]; [[Eucharist]]; [[resurrection-of-the-dead|Resurrection]]; [[Soul]]; [[Spirit]]
+*See also* [[body]]; [[eucharist]]; [[resurrection-of-the-dead|Resurrection]]; [[soul]]; [[spirit]]
 
 ### Sources
 

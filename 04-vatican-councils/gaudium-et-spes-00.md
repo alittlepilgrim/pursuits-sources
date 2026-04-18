@@ -2,6 +2,7 @@
 type: magisterium
 title: Gaudium Et Spes
 author: Catholic Church
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html
 aliases:
   - constitutions
   - Gaudium Et Spes
@@ -10,13 +11,15 @@ tags:
   - graph/bible-v2
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Pastoral Constitution On The Church In The Modern World Promulgated By His Holiness Pope Paul VI On December 7 1965
-abbreviation: gs
+anchor: gs
 ---
 
 # Gaudium Et Spes
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)
 
 ## Pastoral Constitution on the Church in the Modern World Promulgated by His Holiness Pope Paul VI on December 7, 1965
 

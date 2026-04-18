@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Remission of Sins
 author:
 aliases:

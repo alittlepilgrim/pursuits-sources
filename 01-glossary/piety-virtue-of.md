@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Piety (Virtue Of)
 author:
 source: Divine Intimacy Meditations

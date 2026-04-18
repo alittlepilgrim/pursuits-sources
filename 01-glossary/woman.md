@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Woman
 author:
 aliases:
@@ -24,7 +24,7 @@ Equal to and yet distinct from man: Mt 19:4; in Christ: 1 Cor 7:2-4; 11:3, 11-12
 
 Title for the mother of Jesus: Jn 2:4; 19:26-27
 
-*See also* [[Man]]; [[Marriage]]; [[Motherhood]]
+*See also* [[man]]; [[marriage]]; [[motherhood]]
 
 ### Sources
 

@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXXV. The Foundation of the House of St. Joseph. The Observation of Holy Poverty Therein. How the Saint Left Toledo
 ---
 

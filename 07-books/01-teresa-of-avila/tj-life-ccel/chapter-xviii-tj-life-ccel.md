@@ -1,10 +1,10 @@
 ---
 type: extracted-note
-title: <% tp.file.title %>
+title: chapter-xviii-tj-life-ccel
 author: Saint Teresa of Ávila
 aliases:
-  - <% tp.file.title %>
-  - <% tp.file.title.toLowerCase().replace(/[^a-z0-9\s]/g, '').replace(/\s+/g, '-') %>
+  - chapter-xviii-tj-life-ccel
+  - chapterxviiitjlifeccel
   - Chapter XVIII. The Fourth State of Prayer. The Great Dignity of the Soul Raised to It by Our Lord. Attainable on Earth, Not by Our Merit, but by the Goodness of Our Lord – The Life of St. Teresa of Jesus (CCEL Edition)
 tags:
   - author
@@ -14,9 +14,9 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-10
-publish: false
-description: <% tp.file.title %>
-path: <% tp.file.path() %>
+publish: true
+description: chapter-xviii-tj-life-ccel
+path: file:///var/mobile/Containers/Data/Application/D66F13C5-9D4A-4F1C-B255-A4F54C4963B2/Documents//ALittlePilgrim/pursuits-texts/07-books/01-teresa-of-avila/tj-life-ccel/chapter-xviii-tj-life-ccel.md
 ---
 
 # Chapter Fourteenth

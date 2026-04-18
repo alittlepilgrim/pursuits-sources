@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 26. Continues the Description of a Method for Recollecting the Thoughts. Describes Means of Doing This. This Chapter Is Very Profitable for Those Who Are Beginning Prayer
 ---
 

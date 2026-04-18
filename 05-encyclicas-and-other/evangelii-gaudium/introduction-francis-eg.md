@@ -2,21 +2,24 @@
 type: magisterium
 title: Introduction – Evangelii Gaudium
 author: Pope Francis
+url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
 aliases:
-  - Introduction
+  - Introduction – Evangelii Gaudium
 tags:
   - author/pope-francis
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Introduction
+modified: 2026-04-14
+publish: true
+description: Introduction – Evangelii Gaudium
 ---
 
 ← [[evangelii-gaudium|Evangelii Gaudium (24 November 2013)]] | [[evangelii-gaudium|Table of Contents]] | [[chapter-I-francis-eg|Chapter I. The Church's Missionary Transformation]] →
 
 # Introduction
+
+[Source](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
 1\. The joy of the gospel fills the hearts and lives of all who encounter Jesus. Those who accept his offer of salvation are set free from sin, sorrow, inner emptiness and loneliness. With Christ joy is constantly born anew. In this Exhortation I wish to encourage the Christian faithful to embark upon a new chapter of evangelization marked by this joy, while pointing out new paths for the Church’s journey in years to come.
 

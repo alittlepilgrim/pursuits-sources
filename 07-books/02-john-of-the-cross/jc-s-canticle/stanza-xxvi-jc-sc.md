@@ -3,7 +3,7 @@ type: book
 title: Stanza XXVI – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxii.html
 aliases:
   - Stanza XXVI – Spiritual Canticle By St. John of the Cross
   - stanza-xxvi-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXVI – Spiritual Canticle By St. John of the Cross
 [[stanza-xxv-jc-sc|← Stanza XXV]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxvii-jc-sc|Stanza XXVII →]]
 
 # Stanza XXVI
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxii.html)
 
 In the inner cellar Of my Beloved have I drunk; and when I went forth Over all the plain I knew nothing, And lost the flock I followed before.
 

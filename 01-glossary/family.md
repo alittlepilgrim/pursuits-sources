@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Family
 aliases:
   - family
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-12
 modified: 2026-04-12
-publish: false
+publish: true
 ---
 
 # Family
@@ -34,7 +34,7 @@ Obedience of children to parents commanded: Eph 6:1-3; Col 3:20
 
 Obligation to provide for one's family: 1 Tim 5:8
 
-*See also* [[Church]]; [[Fatherhood]]; [[Marriage]]; [[Motherhood]]
+*See also* [[church]]; [[fatherhood]]; [[marriage]]; [[motherhood]]
 
 ### Sources
 

@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXVII. The Saint Prays to Be Directed by a Different Way. Intellectual Visions
 ---
 

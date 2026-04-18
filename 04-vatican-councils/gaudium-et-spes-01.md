@@ -13,12 +13,13 @@ tags:
 created: 2025-08-04
 modified: 2026-04-07
 publish: true
-abbreviation: gs
+anchor: gs
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html
 ---
 
-abbreviation: gs
-
 # Gaudium Et Spes, Part I
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)
 
 ## The Church and Man's Calling
 

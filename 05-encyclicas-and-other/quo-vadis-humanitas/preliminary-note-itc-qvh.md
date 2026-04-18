@@ -2,20 +2,23 @@
 type: magisterium
 title: Preliminary Note – Quo Vadis Humanitas
 author: International Theological Commission
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509
 aliases:
   - Preliminary Note
 tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: Preliminary Note – Quo Vadis Humanitas (2026)
 ---
 
 [[quo-vadis-humanitas|Quo Vadis Humanitas]] | [[introduction-itc-qvh|Introduction]] →
 
 # Preliminary Note
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 The International Theological Commission is not merely a group of people who meet just to draft a text, but rather a space for free exchange and discussion that benefits from the wealth of perspectives offered by a variety of people coming from very different contexts.
 

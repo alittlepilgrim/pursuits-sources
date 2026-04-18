@@ -8,7 +8,7 @@ aliases:
 tags:
   - type/toc
 created: 2025-07-21
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
 permalink: /glossary
 description: Untitled
@@ -59,7 +59,7 @@ attachment: false
 - [[appeal|Appeal]]
 - [[apostasy|Apostasy]]
 - [[apostle|Apostle]]
-- [[pursuits-sources/01-glossary/apostles-creed|Apostles' Creed]]
+- [[pursuits-texts/01-glossary/apostles-creed|Apostles' Creed]]
 - [[apostolate|Apostolate]]
 - [[apostolic-succession|Apostolic Succession]]
 - [[apparition|Apparition]]
@@ -80,7 +80,7 @@ attachment: false
 - [[baptism|Baptism]]
 - [[beatific-vision|Beatific Vision]]
 - [[beatitude|Beatitude]]
-- [[pursuits-sources/01-glossary/beatitudes|Beatitudes]]
+- [[pursuits-texts/01-glossary/beatitudes|Beatitudes]]
 - [[bible-glossary|Bible (Glossary)]]
 - [[biblical-inspiration|Biblical Inspiration]]
 - [[bishop|Bishop]]
@@ -103,7 +103,7 @@ attachment: false
 - [[capital-sins|Capital Sins]]
 - [[cardinal-virtues|Cardinal Virtues]]
 - [[catechesis|Catechesis]]
-- [[pursuits-sources/01-glossary/catechism|Catechism]]
+- [[catechism|Catechism]]
 - [[catechumen|Catechumen]]
 - [[cathedral|Cathedral]]
 - [[catholic-church|Catholic Church]]
@@ -398,7 +398,7 @@ attachment: false
 
 - [[magi|Magi]]
 - [[magic|Magic]]
-- [[pursuits-sources/01-glossary/magisterium|Magisterium]]
+- [[magisterium|Magisterium]]
 - [[magnanimity|Magnanimity]]
 - [[man|Man]]
 - [[marks-of-the-church|Marks of the Church]]
@@ -454,7 +454,7 @@ attachment: false
 - [[ordination|Ordination]]
 - [[original-sin|Original Sin]]
 - [[orthodox-churches|Orthodox Churches]]
-- [[pursuits-sources/01-glossary/our-father|Our Father]]
+- [[pursuits-texts/01-glossary/our-father|Our Father]]
 - [[our-lady|Our Lady]]
 
 ### P
@@ -510,7 +510,7 @@ attachment: false
 - [[prayer-of-union|Prayer of Union]]
 - [[prayer-painful|Painful Prayer]]
 - [[prayer-vocal|Vocal Prayer]]
-- [[pursuits-sources/01-glossary/prayer|Prayer]]
+- [[pursuits-texts/01-glossary/prayer|Prayer]]
 - [[precepts-of-the-church|Precepts of the Church]]
 - [[presbyter|Presbyter]]
 - [[presence-of-god|Presence of God]]
@@ -690,7 +690,7 @@ attachment: false
 - [[vice|Vice]]
 - [[victim|Victim]]
 - [[virgin-birth|Virgin Birth]]
-- [[pursuits-sources/01-glossary/virgin-mary|Virgin Mary]]
+- [[virgin-mary|Virgin Mary]]
 - [[virtue|Virtue]]
 - [[virtues-theological|Virtues, Theological]]
 - [[vision-beatific|Vision, Beatific]]
@@ -726,3 +726,15 @@ attachment: false
 ### Z
 
 - [[zeal|Zeal]]
+
+## See Also
+
+- [[02-glossary-catechism|Glossary of the Catechism of the Catholic Church]]
+- [[03-index-divine-intimacy|Glossary from Divine Intimacy Meditations]]
+- [[04-index-social-doctrine|Analytical Index from Compendium of Social Doctrine]]
+- [[05-abbreviations|Glossary Abbreviations]]
+- [[06-abbrev-usccb-vatican|Bible Abbreviations — USCCB Vs Vatican]]
+
+## Sources
+
+[[bibliography-f2c|Bibliography]]

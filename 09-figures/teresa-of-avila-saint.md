@@ -21,8 +21,8 @@ death_date: 1582-10-04
 celebration: 10-15
 celebration_day: 10-15
 created: 2025-09-12
-modified: 2026-04-09
-publish: true
+modified: 2026-04-17
+publish: false
 ---
 
 # Saint Teresa of Jesus (of Avila)

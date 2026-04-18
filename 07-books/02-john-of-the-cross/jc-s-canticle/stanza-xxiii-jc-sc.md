@@ -3,7 +3,7 @@ type: book
 title: Stanza XXIII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxix.html
 aliases:
   - Stanza XXIII – Spiritual Canticle By St. John of the Cross
   - stanza-xxiii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXIII – Spiritual Canticle By St. John of the Cross
 [[stanza-xxii-jc-sc|← Stanza XXII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxiv-jc-sc|Stanza XXIV →]]
 
 # Stanza XXIII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxix.html)
 
 Beneath the apple-tree There were you betrothed; There I gave you My hand, And you were redeemed Where your mother was corrupted.
 

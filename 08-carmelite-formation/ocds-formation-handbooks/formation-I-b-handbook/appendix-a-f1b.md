@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix A: Excerpt from The Hidden Life — Edith Stein – OCDS Formation I, Year B (Carmelite History and Statutes)"
 ---
 

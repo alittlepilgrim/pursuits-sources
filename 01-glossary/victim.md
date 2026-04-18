@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Victim
 author: Gabriel of Saint Mary Magdalen
 source: Divine Intimacy Meditations

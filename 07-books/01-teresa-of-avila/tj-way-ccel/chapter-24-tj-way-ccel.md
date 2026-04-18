@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 24. Describes How Vocal Prayer May Be Practised with Perfection and How Closely Allied It Is to Mental Prayer
 ---
 

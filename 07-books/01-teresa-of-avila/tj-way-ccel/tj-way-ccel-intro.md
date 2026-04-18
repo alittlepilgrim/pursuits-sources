@@ -11,7 +11,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: The Way of Perfection by St. Teresa of Ávila (CCEL Edition)
 ---
 

@@ -3,7 +3,7 @@ type: book
 title: Stanza XII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xviii.html
 aliases:
   - Stanza XII – Spiritual Canticle By St. John of the Cross
   - stanza-xii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XII – Spiritual Canticle By St. John of the Cross
 [[stanza-xi-jc-sc|← Stanza XI]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xiii-jc-sc|Stanza XIII →]]
 
 # Stanza XII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xviii.html)
 
 O crystal well!
 

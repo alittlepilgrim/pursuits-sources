@@ -8,8 +8,8 @@ tags:
   - author/hitchcock-james
   - type/book
 created: 2026-03-31
-modified: 2026-04-09
-publish: false
+modified: 2026-04-18
+publish: true
 ---
 
 ← [[hist-ch-5-light-in-darkness|Chapter 5]] | [[history-of-the-catholic-church-toc|Table of Contents]] | [[hist-ch-7-east-and-west|Chapter 7]] →

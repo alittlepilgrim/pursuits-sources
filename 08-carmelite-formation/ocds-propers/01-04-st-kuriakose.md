@@ -2,28 +2,32 @@
 type: ocds-proper
 title: January 4, Saint Kuriakose Elias of the Holy Family, Chavara
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/01/02/chavaralit25/
 aliases:
   - 01-04-st-kuriakose
-  - 20250731-121338
   - January 4, Saint Kuriakose Elias of the Holy Family, Chavara
 tags:
   - carmel/propers
   - carmel/saints
   - type/ocd-proper
 celebration_day: 01-04
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-07
-publish: false
-description: OCDS Propers 01-04-saint-kuriakose-elias-of-the-holy-family-chavara-priest
+modified: 2026-04-17
+publish: true
+description: OCDS Propers January 4, Saint Kuriakose Elias of the Holy Family, Chavara
 ---
+
+[[OCDS Propers|Table of Contents]] | [[01-08-st-peter-thomas|Jan 8, St Peter Thomas]] →
+
 
 # January 4, Saint Kuriakose Elias of the Holy Family, Chavara
 
 > **January 4**
 > **SAINT KURIAKOS ELIAS OF THE HOLY FAMILY CHAVARA** - [[saint-kuriakose-elias-of-the-holy-family-chavara-priest]]
 > **Priest**
-
-Optional Memorial
+> **Optional Memorial**
 
 _In the houses in India, Memorial_
 
@@ -33,7 +37,7 @@ Saint Kuriakos Elias Chavara, co-founder and first prior general of the congrega
 
 From the Common of Pastors or of Holy Men (Religious)
 
-# Office of Readings
+## Office of Readings
 
 **The Second Reading**
 
@@ -74,3 +78,9 @@ who lives and reigns with you and the Holy Spirit,
 God, for ever and ever.
 
 _**Pastoral Note:** In the United States, the Optional Memorial of St. Kuriakos Elias of the Holy Family Chavara, Priest, always gives way to the Obligatory Memorial of St. Elizabeth Ann Seton, religious._
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/01/02/chavaralit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

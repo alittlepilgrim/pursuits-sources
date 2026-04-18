@@ -11,23 +11,25 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 description: Laborem Exercens by John Paul II
-abbreviation: jpii-le
+anchor: jpii-le
 ---
 
 IOANNES PAULUS PP. II
 
 # Laborem Exercens
 
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html)
+
 To His Venerable Brothers In The Episcopate To The Priests To The Religious Families To The Sons And Daughters Of The Church And To All Men And Women Of Good Will On Human Work On The Ninetieth Anniversary Of *Rerum Novarum*
 
-***Blessing***
+Blessing
 
-*Venerable Brothers and Dear Sons and Daughters,
+Venerable Brothers and Dear Sons and Daughters,
 
-Greetings and apostolic Blessing*
+Greetings and apostolic Blessing
 
 THROUGH WORK man must earn his daily bread 1 and contribute to the continual advance of science and technology and, above all, to elevating unceasingly the cultural and moral level of the society within which he lives in community with those who belong to the same family. And work means any activity by man, whether manual or intellectual, whatever its nature or circumstances; it means any human activity that can and must be recognized as work, in the midst of all the many activities of which man is capable and to which he is predisposed by his very nature, by virtue of humanity itself. Man is made to be in the visible universe an image and likeness of God himself 2, and he is placed in it in order to subdue the earth 3. From the beginning therefore he is *called to work. Work is one of the characteristics that distinguish* man from the rest of creatures, whose activity for sustaining their lives cannot be called work. Only man is capable of work, and only man works, at the same time by work occupying his existence on earth. Thus work bears a particular mark of man and of humanity, the mark of a person operating within a community of persons. And this mark decides its interior characteristics; in a sense it constitutes its very nature.
 

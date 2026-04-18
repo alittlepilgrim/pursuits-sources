@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Apostle
 aliases:
   - apostle
@@ -10,7 +10,7 @@ tags:
   - term/apostle
   - type/term
 created: 2025-07-20
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
 description: apostle. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -39,7 +39,7 @@ The Twelve: Mt 10:1-4; 19:28; Mk 3:13-19; 6:30; Lk 6:13-16; Acts 1:2, 13, 21-25;
 
 Witnesses of the Resurrection: Mt 28:16-20; Mk 16:14-20; Lk 24:48; Acts 1:21-26; 4:33; 1 Cor 9:1; 15:5, 7, 9
 
-*See also* [[Authority]]; [[Church]]
+*See also* [[authority]]; [[church]]
 
 ### Sources
 

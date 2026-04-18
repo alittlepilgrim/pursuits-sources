@@ -7,7 +7,7 @@ tags:
   - bible/new-testament
 created: 2026-04-01
 modified: 2026-04-09
-publish: false
+publish: true
 description: First John – Text – Ignatius Catholic Study Bible
 ---
 

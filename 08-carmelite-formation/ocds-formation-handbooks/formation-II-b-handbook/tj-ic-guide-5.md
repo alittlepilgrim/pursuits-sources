@@ -13,7 +13,7 @@ tags:
   - type/study-guide
 created: 2025-06-23
 modified: 2026-04-08
-publish: false
+publish: true
 description: Interior Castle Session Five Conversion
 attachment: true
 ---

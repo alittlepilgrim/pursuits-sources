@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Mystical Prayer[^1]
 author:
 aliases:
@@ -18,6 +18,6 @@ description: Mystical Prayer. The Interior Castle Study Edition
 
 This is the prayer found in the last four dwelling places. It is called by Teresa “supernatural prayer” because it is a gift of God and cannot be acquired through our own efforts.
 
-There are different kinds of [[pursuits-sources/01-glossary/prayer|Prayer]] and for Teresa [of Avila] they are as follows: [[prayer-ascetical|Ascetical Prayer]], [[prayer-painful|Painful Prayer]] and Mystical Prayer.
+There are different kinds of [[pursuits-texts/01-glossary/prayer|Prayer]] and for Teresa [of Avila] they are as follows: [[prayer-ascetical|Ascetical Prayer]], [[prayer-painful|Painful Prayer]] and Mystical Prayer.
 
 [^1]: The Interior Castle: Study Edition / Second Edition, Revised includes Full Text of St. Teresa of Avila's Work, Translated by Kieran Kavanaugh, OCD

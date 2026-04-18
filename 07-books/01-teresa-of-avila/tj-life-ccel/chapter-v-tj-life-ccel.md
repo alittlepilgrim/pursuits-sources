@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter V. Illness and Patience of the Saint. The Story of a Priest Whom She Rescued from a Life of Sin
 ---
 

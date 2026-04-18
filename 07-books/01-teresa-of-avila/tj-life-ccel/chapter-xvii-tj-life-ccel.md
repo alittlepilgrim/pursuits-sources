@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XVII. The Third State of Prayer. The Effects Thereof. The Hindrance Caused by the Imagination and the Memory
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Infant Baptism
 aliases:
   - infant baptism
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-12
 modified: 2026-04-12
-publish: false
+publish: true
 ---
 
 # Infant Baptism
@@ -28,7 +28,7 @@ Infants brought to Jesus for a blessing: Mk 10:13-16; Lk 18:15, 17
 
 New birth through baptism and the Spirit: Jn 3:5
 
-*See also* [[Baptism]]
+*See also* [[baptism]]
 
 ### Sources
 

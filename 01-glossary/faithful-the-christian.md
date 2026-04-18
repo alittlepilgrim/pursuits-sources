@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Faithful, The Christian
 aliases:
   - faithful-the-christian

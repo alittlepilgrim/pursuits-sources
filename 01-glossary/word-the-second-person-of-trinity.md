@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Word (The) Second Person of the Most Blessed Trinity
 author: Gabriel of Saint Mary Magdalen
 source: Divine Intimacy Meditations

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Capital Sins
 aliases:
   - Capital Sins
@@ -14,7 +14,7 @@ tags:
   - term/sloth
   - type/term
 created: 2025-07-20
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: capital-sins. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---

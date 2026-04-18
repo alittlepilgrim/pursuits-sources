@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 40. Describes How, by Striving Always to Walk in the Love and Fear of God, We Shall Travel Safely Amid All These Temptations
 ---
 

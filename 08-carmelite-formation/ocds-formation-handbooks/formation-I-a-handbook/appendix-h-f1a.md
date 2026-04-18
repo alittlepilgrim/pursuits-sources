@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix H: Excerpts from The Practice of the Presence of God – OCDS Formation I, Year A (The Way of Perfection)"
 ---
 

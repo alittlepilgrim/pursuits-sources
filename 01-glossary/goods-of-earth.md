@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Goods of Earth
 author:
 source: Divine Intimacy Meditations

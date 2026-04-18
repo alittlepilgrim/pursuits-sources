@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter I – Evangelii Gaudium
 author: Pope Francis
+url: https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html
 aliases:
-  - Chapter I. The Church's Missionary Transformation
+  - Chapter I. The Church's Missionary Transformation – Evangelii Gaudium
 tags:
   - author/pope-francis
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter I. The Church's Missionary Transformation
+modified: 2026-04-14
+publish: true
+description: Chapter I. The Church's Missionary Transformation – Evangelii Gaudium
 ---
 
 ← [[introduction-francis-eg|Introduction]] | [[evangelii-gaudium|Table of Contents]] | [[chapter-II-francis-eg|Chapter II. Amid the Crisis of Communal Commitment]] →
 
 # Chapter I. The Church's Missionary Transformation
+
+[Source](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
 19\. Evangelization takes place in obedience to the missionary mandate of Jesus: “Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you” (*Mt* 28:19-20). In these verses we see how the risen Christ sent his followers to preach the Gospel in every time and place, so that faith in him might spread to every corner of the earth.
 
@@ -56,7 +59,7 @@ There are ecclesial structures which can hamper efforts at evangelization, yet e
 
 31\. The bishop must always foster this missionary communion in his diocesan Church, following the ideal of the first Christian communities, in which the believers were of one heart and one soul (cf. *Acts* 4:32). To do so, he will sometimes go before his people, pointing the way and keeping their hope vibrant. At other times, he will simply be in their midst with his unassuming and merciful presence. At yet other times, he will have to walk after them, helping those who lag behind and – above all – allowing the flock to strike out on new paths. In his mission of fostering a dynamic, open and missionary communion, he will have to encourage and develop the means of participation proposed in the Code of Canon Law,[\[34\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn34) and other forms of pastoral dialogue, out of a desire to listen to everyone and not simply to those who would tell him what he would like to hear. Yet the principal aim of these participatory processes should not be ecclesiastical organization but rather the missionary aspiration of reaching everyone.
 
-32. Since I am called to put into practice what I ask of others, I too must think about a conversion of the papacy. It is my duty, as the Bishop of Rome, to be open to suggestions which can help make the exercise of my ministry more faithful to the meaning which Jesus Christ wished to give it and to the present needs of evangelization. Pope [John Paul II](http://www.vatican.va/holy_father/john_paul_ii/index.htm) asked for help in finding “a way of exercising the primacy which, while in no way renouncing what is essential to its mission, is nonetheless open to a new situation”.[\[35\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn35) We have made little progress in this regard. The papacy and the central structures of the universal Church also need to hear the call to pastoral conversion. The [Second Vatican Council](http://www.vatican.va/archive/hist_councils/ii_vatican_council/) stated that, like the ancient patriarchal Churches, episcopal conferences are in a position “to contribute in many and fruitful ways to the concrete realization of the collegial spirit”.[\[36\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn36) Yet this desire has not been fully realized, since a juridical status of episcopal conferences which would see them as subjects of specific attributions, including genuine doctrinal authority, has not yet been sufficiently elaborated.[\[37\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn37) Excessive centralization, rather than proving helpful, complicates the Church’s life and her missionary outreach.
+32\. Since I am called to put into practice what I ask of others, I too must think about a conversion of the papacy. It is my duty, as the Bishop of Rome, to be open to suggestions which can help make the exercise of my ministry more faithful to the meaning which Jesus Christ wished to give it and to the present needs of evangelization. Pope [John Paul II](http://www.vatican.va/holy_father/john_paul_ii/index.htm) asked for help in finding “a way of exercising the primacy which, while in no way renouncing what is essential to its mission, is nonetheless open to a new situation”.[\[35\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn35) We have made little progress in this regard. The papacy and the central structures of the universal Church also need to hear the call to pastoral conversion. The [Second Vatican Council](http://www.vatican.va/archive/hist_councils/ii_vatican_council/) stated that, like the ancient patriarchal Churches, episcopal conferences are in a position “to contribute in many and fruitful ways to the concrete realization of the collegial spirit”.[\[36\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn36) Yet this desire has not been fully realized, since a juridical status of episcopal conferences which would see them as subjects of specific attributions, including genuine doctrinal authority, has not yet been sufficiently elaborated.[\[37\]](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#_ftn37) Excessive centralization, rather than proving helpful, complicates the Church’s life and her missionary outreach.
 
 33\. Pastoral ministry in a missionary key seeks to abandon the complacent attitude that says: “We have always done it this way”. I invite everyone to be bold and creative in this task of rethinking the goals, structures, style and methods of evangelization in their respective communities. A proposal of goals without an adequate communal search for the means of achieving them will inevitably prove illusory. I encourage everyone to apply the guidelines found in this document generously and courageously, without inhibitions or fear. The important thing is to not walk alone, but to rely on each other as brothers and sisters, and especially under the leadership of the bishops, in a wise and realistic pastoral discernment.
 

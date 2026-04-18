@@ -65,7 +65,7 @@ book: The Spiritual Life
 
 We shall briefly state the necessity and the notion of penance; then we shall explain: 1° The motives that should prompt us to hate and avoid sin; 2° the motives and the means of atoning for sin.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00013.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00013.jpeg]]
 
 THE NECESSITY AND NOTION OF PENANCE[1]
 

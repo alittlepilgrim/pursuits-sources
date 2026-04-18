@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix G: CCC 2697–2708 — Expressions of Prayer – OCDS Formation I, Year A (The Way of Perfection)"
 ---
 

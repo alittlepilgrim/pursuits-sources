@@ -3,7 +3,7 @@ type: book
 title: Stanza XVI – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxii.html
 aliases:
   - Stanza XVI – Spiritual Canticle By St. John of the Cross
   - stanza-xvi-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XVI – Spiritual Canticle By St. John of the Cross
 [[stanza-xv-jc-sc|← Stanza XV]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xvii-jc-sc|Stanza XVII →]]
 
 # Stanza XVI
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxii.html)
 
 Catch us the foxes, For our vineyard has flourished; While of roses We make a nosegay, And let no one appear on the hill.
 

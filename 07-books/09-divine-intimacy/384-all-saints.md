@@ -17,7 +17,7 @@ tags:
   - term/sanctity
   - vault-admin/draft
 created: 2025-07-24
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /385-feast-of-all-saints
 description: 384. Feast of All Saints

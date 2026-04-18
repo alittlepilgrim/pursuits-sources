@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Intercession
 author:
 aliases:
@@ -34,7 +34,7 @@ Twenty-four elders in heaven intercede with God for Christians on earth: Rev 5:8
 
 Angels offer to God the prayers of Christians on earth: Rev 8:3
 
-*See also* [[angel|Angels]]; [[Church]]; [[saint|Saints]]
+*See also* [[angel|Angels]]; [[church]]; [[saint|Saints]]
 
 ### Sources
 

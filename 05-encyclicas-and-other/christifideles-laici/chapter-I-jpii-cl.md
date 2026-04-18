@@ -8,14 +8,16 @@ tags:
   - author/john-paul-II
   - type/magisterium
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter I. I Am The Vine and You Are The Branches The Dignity Of The Lay Faithful In The Church as Mystery
 ---
 
 ← [[introduction-jpii-cl|Introduction]] | [[christifideles-laici|Table of Contents]] | [[chapter-II-jpii-cl|Chapter II. All Branches Of a Single Vine The Participation Of The Lay Faithful In The Life Of Church as Communion]] →
 
 # Chapter I. I Am The Vine and You Are The Branches The Dignity Of The Lay Faithful In The Church as Mystery
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)
 
 ## The Mystery of the Vine
 

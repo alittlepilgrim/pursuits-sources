@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Elemental Spirits
 aliases:
   - Elemental Spirits
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-09
 modified: 2026-04-10
-publish: false
+publish: true
 description: elemental spirits. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 

@@ -9,7 +9,7 @@ tags:
   - type/book
 created: 2026-04-01
 modified: 2026-04-06
-publish: false
+publish: true
 ---
 
 # Part Five – The Soul of the Apostolate

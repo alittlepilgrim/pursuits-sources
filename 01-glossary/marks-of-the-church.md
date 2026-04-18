@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Marks of the Church
 author:
 aliases:

@@ -2,6 +2,8 @@
 type: ocds-proper
 title: July 16, Blessed Virgin Mary of Mount Carmel
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/07/13/olmclit25/
 aliases:
   - 07-16-blessed-virgin-mary-of-mount-carmel
   - 20240722-150834
@@ -11,22 +13,22 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 07-16
+celebration_rank: solemnity
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[07-13-st-teresa-andes|Jul 13, St Teresa of the Andes]] | [[OCDS Propers|Table of Contents]] | [[07-17-st-teresa-of-st-augustine|Jul 17, St Teresa of St Augustine]] →
+
 
 # July 16, Blessed Virgin Mary of Mount Carmel
 
-**16 July: BLESSED VIRGIN MARY OF MOUNT CARMEL, PATRONESS AND HEAD OF OUR ORDER**
-
-*July 16*
-
-*BLESSED VIRGIN MARY OF MOUNT CARMEL* - [[our-lady-of-mount-carmel]]
-
-*PATRONESS AND HEAD OF OUR ORDER*
-
-**Solemnity**
+> **July 16**
+> **BLESSED VIRGIN MARY OF MOUNT CARMEL**
+> **[[our-lady-of-mount-carmel]]
+> **Patroness and Head of Our Order**
+> **Solemnity**
 
 The sacred scriptures speak of the beauty of Mount Carmel where the prophet Elijah defended the faith of Israel in the living God. There, at the beginning of the thirteenth century, under the title of “Saint Mary of Mount Carmel,” the Order of Carmelites had its formal beginning. From the fourteenth century this title, recalling the countless blessings of its patroness, began to be celebrated solemnly, first in England and then gradually throughout the whole Order. It attained its supreme place from the beginning of the seventeenth century, when the General Chapter declared it to be the principal feast of the Order, and Paul V recognized it as the feast of the Scapular Confraternity.
 
@@ -76,19 +78,35 @@ Ant. 1 The glory of Lebanon is given to her, the beauty of Carmel and Sharon.
 
 Psalm 113
 
-Praise, O servants of the Lord, *praise the name of the Lord!May the name of the Lord be blessed *both now and for evermore!From the rising of the sun to its setting *
+Praise, O servants of the Lord,
+
+praise the name of the Lord!May the name of the Lord be blessed
+
+both now and for evermore!From the rising of the sun to its setting
 
 praised be the name of the Lord!
 
-High above all nations is the Lord, *above the heavens his glory.Who is like the Lord, our God, *who has risen on high to his throne *yet stoops from the heights to look down, *
+High above all nations is the Lord,
+
+above the heavens his glory.Who is like the Lord, our God,
+
+who has risen on high to his throne
+
+yet stoops from the heights to look down,
 
 to look down upon heaven and earth?
 
-From the dust he lifts up the lowly, *from his misery he raises the poorto set him in the company of princes, *yes, with the princes of his people.To the childless wife he gives a home *
+From the dust he lifts up the lowly,
+
+from his misery he raises the poorto set him in the company of princes,
+
+yes, with the princes of his people.To the childless wife he gives a home
 
 and gladdens her heart with children.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -98,27 +116,37 @@ Ant. 2 You are the glory of Jerusalem, the joy of Israel, the highest honor of o
 
 Psalm 147
 
-O praise the Lord, Jerusalem! *
+O praise the Lord, Jerusalem!
 
 Sion, praise your God!
 
-He has strengthened the bars of your gates, *he has blessed the children within you.He has established peace on your borders, *
+He has strengthened the bars of your gates,
+
+he has blessed the children within you.He has established peace on your borders,
 
 he feeds you with finest wheat.
 
-He sends out his word to the earth *and swiftly runs his command.He showers down snow white as wool, *
+He sends out his word to the earth
+
+and swiftly runs his command.He showers down snow white as wool,
 
 he scatters hoarfrost like ashes.
 
-He hurls down hailstones like crumbs. *The waters are frozen at his touch;he sends forth his word and it melts them: *
+He hurls down hailstones like crumbs.
+
+The waters are frozen at his touch;he sends forth his word and it melts them:
 
 at the breath of his mouth the waters flow.
 
-He makes his word known to Jacob, *to Israel his laws and decrees.He has not dealt thus with other nations; *
+He makes his word known to Jacob,
+
+to Israel his laws and decrees.He has not dealt thus with other nations;
 
 he has not taught them his decrees.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -128,35 +156,49 @@ Ant. 3 You will rejoice in your children, for they will be blessed through you a
 
 Canticle: Eph 1:3-10
 
-Blessed be the God and Father *of our Lord Jesus Christ,who has blessed us in Christ *
+Blessed be the God and Father
+
+of our Lord Jesus Christ,who has blessed us in Christ
 
 with every spiritual blessing in the heavenly places.
 
-He chose us in him *before the foundation of the world,that we should be holy *
+He chose us in him
+
+before the foundation of the world,that we should be holy
 
 and blameless before him.
 
-He destined us in love *to be his sons through Jesus Christ,
+He destined us in love
+
+to be his sons through Jesus Christ,
 
 according to the purpose of his will, +
 
-to the praise of his glorious grace *
+to the praise of his glorious grace
 
 which he freely bestowed on us in the Beloved.
 
-In him we have redemption through his Blood, *the forgiveness of our trespasses,according to the riches of his grace *
+In him we have redemption through his Blood,
+
+the forgiveness of our trespasses,according to the riches of his grace
 
 which he lavished upon us.
 
-He has made known to us +in all wisdom and insight *the mystery of his will,according to his purpose *
+He has made known to us +in all wisdom and insight
+
+the mystery of his will,according to his purpose
 
 which he set forth in Christ.
 
-His purpose he set forth in Christ, *as a plan for the fullness of time,to unite all things in him, *
+His purpose he set forth in Christ,
+
+as a plan for the fullness of time,to unite all things in him,
 
 things in heaven and things on earth.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -176,19 +218,23 @@ V/. Your face is resplendent with grace, * O Virgin Mary.
 
 Glory... R/.
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Bounteous Mother of God, glory of Mount Carmel, we are your children and your people, endow us with your own virtues; have pity, and protect us from every danger.
 
-My soul proclaims the greatness of the Lord, *my spirit rejoices in God my Savior;for he has looked with favor on his lowly servant, *
+My soul proclaims the greatness of the Lord,
+
+my spirit rejoices in God my Savior;for he has looked with favor on his lowly servant,
 
 and from this day all generations will call me blessed.
 
-The Almighty has done great things for me: *holy is his Name.He has mercy on those who fear him *
+The Almighty has done great things for me:
+
+holy is his Name.He has mercy on those who fear him
 
 in every generation.
 
-He has shown the strength of his arm, *
+He has shown the strength of his arm,
 
 he has scattered the proud in their conceit.
 
@@ -196,15 +242,17 @@ He has cast down the mighty from their thrones,*
 
 and has lifted up the lowly.
 
-He has filled the hungry with good things, *
+He has filled the hungry with good things,
 
 and has sent the rich away empty.
 
-He has come to the help of his servant Israel*for he has remembered his promise of mercy,the promise he made to our fathers, *
+He has come to the help of his servant Israel*for he has remembered his promise of mercy,the promise he made to our fathers,
 
 to [[abraham|Abraham]] and his children for ever.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -250,43 +298,55 @@ Ant. Come, ring out our joy to the Lord, as we thank him for the favors we have 
 
 Psalm 95
 
-Come, let us sing to the Lord *and shout with joy to the Rock who saves us.Let us approach him with praise and thanksgiving *
+Come, let us sing to the Lord
+
+and shout with joy to the Rock who saves us.Let us approach him with praise and thanksgiving
 
 and sing joyful songs to the Lord.
 
 Ant. Come, ring out our joy to the Lord, as we thank him for the favors we have received through Mary, the Virgin Mother of Carmel.
 
-The Lord is God, the mighty God, *the great king over all the gods.He holds in his hands the depths of the earth *and the highest mountains as wellHe made the sea; it belongs to him, *
+The Lord is God, the mighty God,
+
+the great king over all the gods.He holds in his hands the depths of the earth
+
+and the highest mountains as wellHe made the sea; it belongs to him,
 
 the dry land, too, for it was formed by his hands.
 
 Ant. Come, ring out our joy to the Lord, as we thank him for the favors we have received through Mary, the Virgin Mother of Carmel.
 
-Come, then, let us bow down and worship, *bending the knee before the Lord, our maker,For he is our God and we are his people, *
+Come, then, let us bow down and worship,
+
+bending the knee before the Lord, our maker,For he is our God and we are his people,
 
 the flock he shepherds.
 
 Ant. Come, ring out our joy to the Lord, as we thank him for the favors we have received through Mary, the Virgin Mother of Carmel.
 
-Today, listen to the voice of the Lord:*Do not grow stubborn, as your fathers did in the wilderness,when at Meriba and Massah they challenged me and provoked me, *
+Today, listen to the voice of the Lord:*Do not grow stubborn, as your fathers did in the wilderness,when at Meriba and Massah they challenged me and provoked me,
 
 Although they had seen all of my works.
 
 Ant. Come, ring out our joy to the Lord, as we thank him for the favors we have received through Mary, the Virgin Mother of Carmel.
 
-Forty years I endured that generation. +I said, “They are a people whose hearts go astray *and they do not know my ways.”So I swore in my anger, *
+Forty years I endured that generation. +I said, “They are a people whose hearts go astray
+
+and they do not know my ways.”So I swore in my anger,
 
 “They shall not enter into my rest.”
 
 Ant. Come, ring out our joy to the Lord, as we thank him for the favors we have received through Mary, the Virgin Mother of Carmel.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
 Ant. Come, ring out our joy to the Lord, as we thank him for the favors we have received through Mary, the Virgin Mother of Carmel.
 
-Office of Readings
+## Office of Readings
 
 **Hymn**
 
@@ -326,39 +386,47 @@ When the following psalm has been used at the Invitatory, Ps 94 is said here in 
 
 Psalm 24
 
-The Lord’s is the earth and its fullness, *the world and all its peoples.It is he who set in on the seas; *
+The Lord’s is the earth and its fullness,
+
+the world and all its peoples.It is he who set in on the seas;
 
 on the waters he made it firm.
 
-Who shall climb the mountain of the Lord? *Who shall stand in his holy place?
+Who shall climb the mountain of the Lord?
+
+Who shall stand in his holy place?
 
 The man with clean hands and pure heart, +
 
-who desires not worthless things, *
+who desires not worthless things,
 
 who has not sworn so as to deceive his neighbor.
 
-He shall receive blessings from the Lord *and reward from the God who saves him.Such are the men who seek him, *
+He shall receive blessings from the Lord
+
+and reward from the God who saves him.Such are the men who seek him,
 
 seek the face of the God of Jacob.
 
-O gates, lift high your heads; +grow higher, ancient doors. *
+O gates, lift high your heads; +grow higher, ancient doors.
 
 Let him enter, the king of glory!
 
-Who is the king of glory? +The Lord, the mighty, the valiant, *
+Who is the king of glory? +The Lord, the mighty, the valiant,
 
 the Lord, the valiant in war.
 
-O gates, lift high your heads; +grow higher, ancient doors. *
+O gates, lift high your heads; +grow higher, ancient doors.
 
 Let him enter, the king of glory!
 
-Who is he, the king of glory? +He, the Lord of armies, *
+Who is he, the king of glory? +He, the Lord of armies,
 
 he is the king of glory.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -368,35 +436,49 @@ Ant. 2 I will lead them to my holy mountain and make them joyful in my house of 
 
 Psalm 46
 
-God is for us a refuge and strength *a helper close at hand, in time of distress:so we shall not fear though the earth should rock, *though the mountains fall into the depths of the sea,even though its waters rage and foam, *
+God is for us a refuge and strength
+
+a helper close at hand, in time of distress:so we shall not fear though the earth should rock,
+
+though the mountains fall into the depths of the sea,even though its waters rage and foam,
 
 even though the mountains be shaken by its waves.
 
-The Lord of hosts is with us: *
+The Lord of hosts is with us:
 
 the God of Jacob is our stronghold.
 
-The waters of a river give joy to God’s city, *the holy place where the Most High dwells.God is within, it cannot be shaken; *God will help it at the dawning of the day.Nations are in tumult, kingdoms are shaken: *
+The waters of a river give joy to God’s city,
+
+the holy place where the Most High dwells.God is within, it cannot be shaken;
+
+God will help it at the dawning of the day.Nations are in tumult, kingdoms are shaken:
 
 he lifts his voice, the earth shrinks away.
 
-The Lord of hosts is with us: *
+The Lord of hosts is with us:
 
 the God of Jacob is our stronghold.
 
-Come, consider the works of the Lord *the redoubtable deeds he has done on the earth.
+Come, consider the works of the Lord
+
+the redoubtable deeds he has done on the earth.
 
 He puts an end to wars over all the earth; +
 
-the bow he breaks, the spear he snaps. *He burns the shields with fire.“Be still and know that I am God, *
+the bow he breaks, the spear he snaps.
+
+He burns the shields with fire.“Be still and know that I am God,
 
 supreme among the nations, supreme on the earth!”
 
-The Lord of hosts is with us: *
+The Lord of hosts is with us:
 
 the God of Jacob is our stronghold.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -406,19 +488,31 @@ Ant. 3 Glorious things are told of you, O city of God; the Lord founded you on h
 
 Psalm 87
 
-On the holy mountain is his city *cherished by the Lord.The Lord prefers the gates of Sion *to all Jacob’s dwellings.Of you are told glorious things, *
+On the holy mountain is his city
+
+cherished by the Lord.The Lord prefers the gates of Sion
+
+to all Jacob’s dwellings.Of you are told glorious things,
 
 O city of God.
 
-Babylon and Egypt I will count *among those who know me;Philistia, Tyre, Ethiopia, *these will be her childrenand Sion shall be called “Mother” *
+Babylon and Egypt I will count
+
+among those who know me;Philistia, Tyre, Ethiopia,
+
+these will be her childrenand Sion shall be called “Mother”
 
 for all shall be her children.
 
-It is he, the Lord Most High, *who gives each his place.In his register of peoples he writes: *‘These are her children’and while they dance they will sing: *
+It is he, the Lord Most High,
+
+who gives each his place.In his register of peoples he writes: *‘These are her children’and while they dance they will sing:
 
 ‘In you all find their home.’
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -442,13 +536,13 @@ And Elijah said to Ahab, “Go up, eat and drink for there is a sound of the rus
 
 **Responsory**
 
-R/. You care for the earth, give it water; you fill it with riches; * you bless its growth.
+R/. You care for the earth, give it water; you fill it with riches; you bless its growth.
 
-V/. The pastures of the wilderness flow with abundance, and the hills are girded with joy; * you bless its growth.
+V/. The pastures of the wilderness flow with abundance, and the hills are girded with joy; you bless its growth.
 
-R/. You care for the earth, give it water; You fill it with riches; * you bless its growth.
+R/. You care for the earth, give it water; You fill it with riches; you bless its growth.
 
-V/. The pastures of the wilderness flow with abundance, and the hills are girded with joy; * you bless its growth.
+V/. The pastures of the wilderness flow with abundance, and the hills are girded with joy; you bless its growth.
 
 **The Second Reading** (Alternative 2)
 
@@ -468,9 +562,9 @@ May the most holy Virgin Mary confirm you in your Carmelite vocation. May she sa
 
 **Responsory**
 
-R/. In faith receive the word of God which is able to save your souls. * Blessed are those who hear the word of God and keep it.
+R/. In faith receive the word of God which is able to save your souls. Blessed are those who hear the word of God and keep it.
 
-V/. Mary treasured all these things, pondering them in her heart. * Blessed are those who hear the word of God and keep it.
+V/. Mary treasured all these things, pondering them in her heart. Blessed are those who hear the word of God and keep it.
 
 Where the Vigil Office is celebrated:
 
@@ -486,15 +580,21 @@ All the peoples will come to the house of the Lord
 
 *The mountain where God has chosen to dwell* (Ps 67:17)
 
-It shall come to pass in the latter days *that the mountain of the house of the Lord
+It shall come to pass in the latter days
+
+that the mountain of the house of the Lord
 
 shall be established as the highest of the mountains, +
 
-and shall be raised above the hills, *
+and shall be raised above the hills,
 
 and all the nations shall flow to it.
 
-And many people shall come, and say +‘Come, let us go up to the mountain of the Lord, *to the house of the God of Jacob,that he may teach us his ways *and that we may walk in his paths.’For out of Sion shall go forth the law, *
+And many people shall come, and say +‘Come, let us go up to the mountain of the Lord,
+
+to the house of the God of Jacob,that he may teach us his ways
+
+and that we may walk in his paths.’For out of Sion shall go forth the law,
 
 and the word of the Lord from Jerusalem.
 
@@ -508,23 +608,35 @@ The prophet rejoices in the new Jerusalem
 
 *as beautiful as a bride prepared to meet her husband* (Rev 21:2)
 
-I will greatly rejoice in the Lord, *my soul shall exult in my God;for he has clothed me with the garments of salvation, *he has covered me with the robe of righteousness,as a bridegroom decks himself with a garland, *
+I will greatly rejoice in the Lord,
+
+my soul shall exult in my God;for he has clothed me with the garments of salvation,
+
+he has covered me with the robe of righteousness,as a bridegroom decks himself with a garland,
 
 and as a bride adorns herself with her jewels.
 
-For as the earth brings forth its shoots, *and as a garden causes what is sown in it to spring up,so the Lord God will cause righteousness and praise *
+For as the earth brings forth its shoots,
+
+and as a garden causes what is sown in it to spring up,so the Lord God will cause righteousness and praise
 
 to spring forth before all the nations.
 
-For Sion’s sake I will not keep silent, *and for Jerusalem’s sake, I will not restuntil her vindication goes forth as brightness, *
+For Sion’s sake I will not keep silent,
+
+and for Jerusalem’s sake, I will not restuntil her vindication goes forth as brightness,
 
 and her salvation as a burning torch.
 
-The nations shall see your vindication, *and all the kings your glory;and you shall be called by a new name *
+The nations shall see your vindication,
+
+and all the kings your glory;and you shall be called by a new name
 
 which the mouth of the Lord will give.
 
-You shall be a crown of beauty *in the hand of the Lord,and a royal diadem *
+You shall be a crown of beauty
+
+in the hand of the Lord,and a royal diadem
 
 in the hand of your God.
 
@@ -536,23 +648,33 @@ The glory of the new Jerusalem
 
 *Here God lives among men. He will make his home among them* (Rev 21:3)
 
-No longer are you to be named ‘Forsaken,’ *nor your land ‘Abandoned,’but you shall be called ‘My Delight,’ *and your land, ‘The Wedded;’for the Lord takes delight in you *
+No longer are you to be named ‘Forsaken,’
+
+nor your land ‘Abandoned,’but you shall be called ‘My Delight,’
+
+and your land, ‘The Wedded;’for the Lord takes delight in you
 
 and your land will have its wedding.
 
-Like a young man marrying a virgin, *so will the one who built you wed you,and as the bridegroom rejoices in his bride, *
+Like a young man marrying a virgin,
+
+so will the one who built you wed you,and as the bridegroom rejoices in his bride,
 
 so will your God rejoice in you.
 
-On your walls, Jerusalem, *I set watchmen.Day or night *
+On your walls, Jerusalem,
+
+I set watchmen.Day or night
 
 they must never be silent.
 
-You who keep the Lord mindful *must take no rest.
+You who keep the Lord mindful
+
+must take no rest.
 
 Nor let him take rest +
 
-till he has restored Jerusalem, *
+till he has restored Jerusalem,
 
 and made her the boast of the earth.
 
@@ -578,39 +700,47 @@ Mary stayed with Elizabeth about three months and then went back home.
 
 **Te Deum**
 
-You are God: we praise you; *You are the Lord: we acclaim you;You are the eternal Father: *
+You are God: we praise you;
+
+You are the Lord: we acclaim you;You are the eternal Father:
 
 All creation worships you.
 
-To you all angels, all the powers of heaven, *Cherubim and Seraphim, sing in endless praise:Holy, holy, holy, Lord, God of power and might, *
+To you all angels, all the powers of heaven,
+
+Cherubim and Seraphim, sing in endless praise:Holy, holy, holy, Lord, God of power and might,
 
 heaven and earth are full of your glory.
 
-The glorious company of apostles praise you. +The noble fellowship of prophets praise you. *
+The glorious company of apostles praise you. +The noble fellowship of prophets praise you.
 
 The white-robed army of martyrs praise you.
 
-Throughout the world the holy Church acclaims you: *Father, of majesty unbounded,your true and only Son, worthy of all worship, *
+Throughout the world the holy Church acclaims you:
+
+Father, of majesty unbounded,your true and only Son, worthy of all worship,
 
 and the Holy Spirit, advocate and guide.
 
-You, Christ, are the King of glory, *
+You, Christ, are the King of glory,
 
 the eternal Son of the Father.
 
-When you became man to set us free *
+When you became man to set us free
 
 you did not spurn the Virgin’s womb.
 
-You overcame the sting of death, *
+You overcame the sting of death,
 
 and opened the kingdom of heaven to all believers.
 
-You are seated at God’s right hand in glory. *
+You are seated at God’s right hand in glory.
 
 We believe that you will come, and be our judge.
 
-Come then, Lord, and help your people, *bought with the price of your own blood,and bring us with your saints*
+Come then, Lord, and help your people,
+
+bought with the price of your own blood,and bring us with your saints*
 
 to glory everlasting.
 
@@ -646,7 +776,7 @@ Father,may the prayers of the Blessed Virgin Mary,Mother and Queen of Carmel,pro
 
 God for ever and ever.
 
-Morning Prayer
+## Morning Prayer
 
 **Hymn**
 
@@ -682,19 +812,33 @@ Ant. 1 Fragrant is the scent of your perfume, Immaculate Virgin. Let us follow i
 
 Psalm 63
 
-O God, you are my God, for you I long; *for you my soul is thirsting.My body pines for you *like a dry, weary land without water.So I gaze on you in the sanctuary *
+O God, you are my God, for you I long;
+
+for you my soul is thirsting.My body pines for you
+
+like a dry, weary land without water.So I gaze on you in the sanctuary
 
 to see your strength and your glory.
 
-For your love is better than life, *my lips will speak your praise.So I will bless you all my life, *in your name I will lift up my hands.My soul shall be filled as with a banquet, *
+For your love is better than life,
+
+my lips will speak your praise.So I will bless you all my life,
+
+in your name I will lift up my hands.My soul shall be filled as with a banquet,
 
 my mouth shall praise you with joy.
 
-On my bed I remember you. *On you I muse through the nightfor you have been my help; *in the shadow of your wings I rejoice.My soul clings to you; *
+On my bed I remember you.
+
+On you I muse through the nightfor you have been my help;
+
+in the shadow of your wings I rejoice.My soul clings to you;
 
 your right hand holds me fast.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -704,23 +848,53 @@ Ant. 2 Hail Mary, full of grace, the Lord is with you; you are the most blessed 
 
 Canticle – Daniel 3:57-88, 56
 
-Bless the Lord, all you works of the Lord. *Praise and exalt him above all forever.Angels of the Lord, bless the Lord. *You heavens, bless the Lord,All you waters above the heavens, bless the Lord. *All you hosts of the Lord, bless the Lord.Sun and moon, bless the Lord. *
+Bless the Lord, all you works of the Lord.
+
+Praise and exalt him above all forever.Angels of the Lord, bless the Lord.
+
+You heavens, bless the Lord,All you waters above the heavens, bless the Lord.
+
+All you hosts of the Lord, bless the Lord.Sun and moon, bless the Lord.
 
 Stars of heaven, bless the Lord.
 
-Every shower and dew, bless the Lord. *All you winds, bless the Lord.Fire and heat, bless the Lord. *Cold and chill, bless the Lord.Dew and rain, bless the Lord. *Frost and chill, bless the Lord.Ice and snow, bless the Lord. *Nights and days, bless the Lord.Light and darkness, bless the Lord. *
+Every shower and dew, bless the Lord.
+
+All you winds, bless the Lord.Fire and heat, bless the Lord.
+
+Cold and chill, bless the Lord.Dew and rain, bless the Lord.
+
+Frost and chill, bless the Lord.Ice and snow, bless the Lord.
+
+Nights and days, bless the Lord.Light and darkness, bless the Lord.
 
 Lightnings and clouds, bless the Lord.
 
-Let the earth bless the Lord. *Praise and exalt him above all forever.Mountains and hills, bless the Lord. *Everything growing from the earth, bless the Lord.You springs, bless the Lord. *Seas and rivers, bless the Lord.You dolphins and all water creatures, bless the Lord. *All you birds of the air, bless the Lord.All you beasts, wild and tame, bless the Lord. *
+Let the earth bless the Lord.
+
+Praise and exalt him above all forever.Mountains and hills, bless the Lord.
+
+Everything growing from the earth, bless the Lord.You springs, bless the Lord.
+
+Seas and rivers, bless the Lord.You dolphins and all water creatures, bless the Lord.
+
+All you birds of the air, bless the Lord.All you beasts, wild and tame, bless the Lord.
 
 You sons of men, bless the Lord.
 
-O Israel, bless the Lord. *Praise and exalt him above all forever.Priests of the Lord, bless the Lord. *Servants of the Lord, bless the Lord.Spirits and souls of the just, bless the Lord. *Holy men of humble heart, bless the Lord.Hananiah, Azariah, Mishael, bless the Lord. *
+O Israel, bless the Lord.
+
+Praise and exalt him above all forever.Priests of the Lord, bless the Lord.
+
+Servants of the Lord, bless the Lord.Spirits and souls of the just, bless the Lord.
+
+Holy men of humble heart, bless the Lord.Hananiah, Azariah, Mishael, bless the Lord.
 
 Praise and exalt him above all forever.
 
-Let us bless the Father, and the Son, and the Holy Spirit. *Let us praise and exalt him above all for ever.Blessed are you, Lord, in the firmament of heaven. *
+Let us bless the Father, and the Son, and the Holy Spirit.
+
+Let us praise and exalt him above all for ever.Blessed are you, Lord, in the firmament of heaven.
 
 Praiseworthy and glorious and exalted above all for ever.
 
@@ -730,19 +904,33 @@ Ant. 3 Blessed are you, O Virgin Mary: you gave birth to him who made you, yet r
 
 Psalm 149
 
-Sing a new song to the Lord, *his praise in the assembly of the faithful.Let Israel rejoice in its maker, *let Zion’s sons exult in their king.Let them praise his name with dancing *
+Sing a new song to the Lord,
+
+his praise in the assembly of the faithful.Let Israel rejoice in its maker,
+
+let Zion’s sons exult in their king.Let them praise his name with dancing
 
 and make music with timbrel and harp.
 
-For the Lord takes delight in his people. *He crowns the poor with salvation.Let the faithful rejoice in their glory, *shout for joy and take their rest.Let the praise of God be on their lips *
+For the Lord takes delight in his people.
+
+He crowns the poor with salvation.Let the faithful rejoice in their glory,
+
+shout for joy and take their rest.Let the praise of God be on their lips
 
 and a two-edged sword in their hand,
 
-to deal out vengeance to the nations *and punishment on all the peoples;to bind their kings in chains *and their nobles in fetters of iron;to carry out the sentence pre-ordained; *
+to deal out vengeance to the nations
+
+and punishment on all the peoples;to bind their kings in chains
+
+and their nobles in fetters of iron;to carry out the sentence pre-ordained;
 
 this honor is for all his faithful.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -766,15 +954,17 @@ V/. Do not turn away from the prayers that spring from our need, * Mother of God
 
 Glory... R/.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. Jesus said to His Mother, “Woman, this is your son,” and to the disciple He said, “This is your Mother;” and from that hour the disciple took her as his own.
 
-Blessed be the Lord, the God of Israel; *he has come to his people and set them free.He has raised up for us a mighty savior, *
+Blessed be the Lord, the God of Israel;
+
+he has come to his people and set them free.He has raised up for us a mighty savior,
 
 born of the house of his servant David.
 
-Through his holy prophets he promised of old +that he would save us from our enemies, *
+Through his holy prophets he promised of old +that he would save us from our enemies,
 
 from the hands of all who hate us.
 
@@ -782,19 +972,27 @@ He promised to show mercy to our fathers*
 
 and to remember his holy covenant.
 
-This was the oath he swore to our father [[abraham|Abraham]]: *to set us free from the hands of our enemies,free to worship him without fear, *
+This was the oath he swore to our father [[abraham|Abraham]]:
+
+to set us free from the hands of our enemies,free to worship him without fear,
 
 holy and righteous in his sight all the days of our life.
 
-You, my child, shall be called the prophet of the Most High; *for you will go before the Lord to prepare his way,to give his people knowledge of salvation *
+You, my child, shall be called the prophet of the Most High;
+
+for you will go before the Lord to prepare his way,to give his people knowledge of salvation
 
 by the forgiveness of their sins.
 
-In the tender compassion of our God *the dawn from on high shall break upon us,to shine on those who dwell in darkness and the shadow of death, *
+In the tender compassion of our God
+
+the dawn from on high shall break upon us,to shine on those who dwell in darkness and the shadow of death,
 
 and to guide our feet into the way of peace.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -838,19 +1036,25 @@ Ant. O Mary, you are a mother beyond compare, worthy to be remembered by your ch
 
 Psalm 120
 
-To the Lord in the hour of my distress *I call and he answers me.“O Lord, save my soul from lying lips, *
+To the Lord in the hour of my distress
+
+I call and he answers me.“O Lord, save my soul from lying lips,
 
 from the tongue of the deceitful.”
 
-What shall he repay you in return, *O treacherous tongue?The warriors arrows sharpened *
+What shall he repay you in return,
+
+O treacherous tongue?The warriors arrows sharpened
 
 and coals, red-hot, blazing.
 
-(Alas, that I abide a stranger in Meshech, *
+(Alas, that I abide a stranger in Meshech,
 
 dwell among the tents of Kedar!)
 
-Long enough have I been dwelling *with those who hate peace.I am for peace, but when I speak, *
+Long enough have I been dwelling
+
+with those who hate peace.I am for peace, but when I speak,
 
 they are for fighting.
 
@@ -860,19 +1064,27 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 Psalm 121
 
-I lift up my eyes to the mountains; *from where shall come my help?My help shall come from the Lord *
+I lift up my eyes to the mountains;
+
+from where shall come my help?My help shall come from the Lord
 
 who made heaven and earth.
 
-May he never allow you to stumble! *Let him sleep not, your guard.No, he sleeps not nor slumbers, *
+May he never allow you to stumble!
+
+Let him sleep not, your guard.No, he sleeps not nor slumbers,
 
 Israel’s guard.
 
-The Lord is your guard and your shade; *at your right side he stands.By day the sun shall not smite you *
+The Lord is your guard and your shade;
+
+at your right side he stands.By day the sun shall not smite you
 
 nor the moon in the night.
 
-The Lord will guard you from evil, *he will guard you soul.The Lord will guard your going and coming *
+The Lord will guard you from evil,
+
+he will guard you soul.The Lord will guard your going and coming
 
 both now and for ever.
 
@@ -882,23 +1094,31 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 Psalm 129
 
-“They have pressed me hard from my youth,” *this is Israel’s song.“They have pressed me hard from my youth *
+“They have pressed me hard from my youth,”
+
+this is Israel’s song.“They have pressed me hard from my youth
 
 but could never destroy me.
 
-They plowed my back like plowmen, *drawing long furrows.But the Lord who is just, has destroyed *
+They plowed my back like plowmen,
+
+drawing long furrows.But the Lord who is just, has destroyed
 
 the yoke of the wicked.”
 
-Let them be shamed and routed, *those who hate Zion!Let them be like grass on the roof *
+Let them be shamed and routed,
+
+those who hate Zion!Let them be like grass on the roof
 
 that withers before it flowers.
 
-With that no reaper fill his arms, *no binder makes his sheaves
+With that no reaper fill his arms,
+
+no binder makes his sheaves
 
 and those passing by will not say: +
 
-“On you the Lord’s blessing!” *
+“On you the Lord’s blessing!”
 
 “We bless you in the name of the Lord.”
 
@@ -922,15 +1142,21 @@ Ant. Your souls will rejoice in her mercy, and her praise will not bring you to 
 
 Psalm 123
 
-To you have I lifted up my eyes, *you who dwell in the heavens;my eyes, like the eyes of slaves *
+To you have I lifted up my eyes,
+
+you who dwell in the heavens;my eyes, like the eyes of slaves
 
 on the hand of their lords.
 
-Like the eyes of a servant *on the hand of her mistress,so our eyes are on the Lord our God *
+Like the eyes of a servant
+
+on the hand of her mistress,so our eyes are on the Lord our God
 
 till he show us his mercy.
 
-Have mercy on us, Lord, have mercy. *We are filled with contempt.Indeed all too full is our soul +with the scorn of the rich, *
+Have mercy on us, Lord, have mercy.
+
+We are filled with contempt.Indeed all too full is our soul +with the scorn of the rich,
 
 with the proud man’s disdain.
 
@@ -940,19 +1166,29 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 Psalm 124
 
-“If the Lord had not been on our side,” *this is Israel’s song.“If the Lord had not been on our side *when men rose up against us,then would they have swallowed us alive *
+“If the Lord had not been on our side,”
+
+this is Israel’s song.“If the Lord had not been on our side
+
+when men rose up against us,then would they have swallowed us alive
 
 when their anger was kindled.
 
-Then would the waters have engulfed us, *the torrent gone over us;over our head would have swept *
+Then would the waters have engulfed us,
+
+the torrent gone over us;over our head would have swept
 
 the raging waters.”
 
-Blessed be the Lord who did not give us *a prey to their teeth!Our life, like a bird, has escaped *
+Blessed be the Lord who did not give us
+
+a prey to their teeth!Our life, like a bird, has escaped
 
 from the snare of the fowler.
 
-Indeed the snare has been broken *and we have escaped.Our help is in the name of the Lord, *
+Indeed the snare has been broken
+
+and we have escaped.Our help is in the name of the Lord,
 
 who made heaven and earth.
 
@@ -962,19 +1198,23 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 Psalm 125
 
-Those who put their trust in the Lord +are like Mount Zion, that cannot be shaken, *
+Those who put their trust in the Lord +are like Mount Zion, that cannot be shaken,
 
 that stands for ever.
 
-Jerusalem! The mountains surround her, +so the Lord surrounds his people *
+Jerusalem! The mountains surround her, +so the Lord surrounds his people
 
 both now and for ever.
 
-For the scepter of the wicked shall not rest *over the land of the justfor fear that the hands of the just *
+For the scepter of the wicked shall not rest
+
+over the land of the justfor fear that the hands of the just
 
 should turn to evil.
 
-Do good, Lord, to those who are good, *to the upright of heart;but the crooked and those who do evil, *
+Do good, Lord, to those who are good,
+
+to the upright of heart;but the crooked and those who do evil,
 
 drive them away!
 
@@ -998,19 +1238,27 @@ Ant. With the fruit of her hands she planted a vineyard; her children stood up a
 
 Psalm 126
 
-When the Lord delivered Zion from bondage, *it seemed like a dream.Then was our mouth filled with laughter, *
+When the Lord delivered Zion from bondage,
+
+it seemed like a dream.Then was our mouth filled with laughter,
 
 on our lips there were songs.
 
-The heathens themselves said: “What marvels *the Lord worked for them!”What marvels the Lord worked for us! *
+The heathens themselves said: “What marvels
+
+the Lord worked for them!”What marvels the Lord worked for us!
 
 Indeed we were glad.
 
-Deliver us, O Lord, from our bondage *as streams in dry land.Those who are sowing in tears *
+Deliver us, O Lord, from our bondage
+
+as streams in dry land.Those who are sowing in tears
 
 will sing when they reap.
 
-They go out, they go out, full of tears, *carrying seed for the sowing:they come back, they come back, full of song, *
+They go out, they go out, full of tears,
+
+carrying seed for the sowing:they come back, they come back, full of song,
 
 carrying their sheaves.
 
@@ -1020,19 +1268,27 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 Psalm 127
 
-If the Lord does not build the house, *in vain do its builders labor;if the Lord does not watch over the city, *
+If the Lord does not build the house,
+
+in vain do its builders labor;if the Lord does not watch over the city,
 
 in vain does the watchman keep vigil.
 
-In vain is your earlier rising, *your going later to rest,you who toil for the bread you eat, *
+In vain is your earlier rising,
+
+your going later to rest,you who toil for the bread you eat,
 
 when he pours gifts on his beloved while they slumber.
 
-Truly sons are a gift from the Lord, *a blessing, the fruit of the womb.Indeed the sons of youth *
+Truly sons are a gift from the Lord,
+
+a blessing, the fruit of the womb.Indeed the sons of youth
 
 are like arrows in the hand of a warrior.
 
-O the happiness of the man *who has filled his quiver with these arrows!He will have no cause for shame *
+O the happiness of the man
+
+who has filled his quiver with these arrows!He will have no cause for shame
 
 when he disputes with his foes in the gateways.
 
@@ -1042,15 +1298,23 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 Psalm 128
 
-O blessed are those who fear the Lord *
+O blessed are those who fear the Lord
 
 and walk in his ways!
 
-By the labor of your hands you shall eat. *You will be happy and prosper;the wife like a fruitful vine *in the heart of your house;Your children like shoots of the olive, *
+By the labor of your hands you shall eat.
+
+You will be happy and prosper;the wife like a fruitful vine
+
+in the heart of your house;Your children like shoots of the olive,
 
 around your table.
 
-Indeed thus shall be blessed *the man who fears the Lord.May the Lord bless you from Zion *all the days of your life!May you see your children’s children *
+Indeed thus shall be blessed
+
+the man who fears the Lord.May the Lord bless you from Zion
+
+all the days of your life!May you see your children’s children
 
 in a happy Jerusalem!
 
@@ -1112,23 +1376,29 @@ Ant. 1 Behold the handmaid of the Lord: let it be done to me according to your w
 
 Psalm 122
 
-I rejoiced when I heard them say: *“Let us go to God’s house.”And now our feet are standing *
+I rejoiced when I heard them say: *“Let us go to God’s house.”And now our feet are standing
 
 within your gates, O Jerusalem.
 
-Jerusalem is built as a city *strongly compact.It is there that the tribes go up, *
+Jerusalem is built as a city
+
+strongly compact.It is there that the tribes go up,
 
 the tribes of the Lord.
 
-For Israel’s law it is, *there to praise the Lord’s name.There were set the thrones of judgment *
+For Israel’s law it is,
+
+there to praise the Lord’s name.There were set the thrones of judgment
 
 of the house of David.
 
-For the peace of Jerusalem pray: *“Peace be to your homes!May peace reign in your walls, *
+For the peace of Jerusalem pray: *“Peace be to your homes!May peace reign in your walls,
 
 in your palaces, peace!”
 
-For love of my brethren and friends *I say: “Peace upon you!”For love of the house of the Lord *
+For love of my brethren and friends
+
+I say: “Peace upon you!”For love of the house of the Lord
 
 I will ask for your good.
 
@@ -1138,19 +1408,27 @@ Ant. 2 Mary heard the Word of God and kept it, treasuring it in her heart.
 
 Psalm 127
 
-If the Lord does not build the house, *in vain do its builders labor;if the Lord does not watch over the city, *
+If the Lord does not build the house,
+
+in vain do its builders labor;if the Lord does not watch over the city,
 
 in vain does the watchman keep vigil.
 
-In vain is your earlier rising, *your going later to rest,you who toil for the bread you eat: *
+In vain is your earlier rising,
+
+your going later to rest,you who toil for the bread you eat:
 
 when he pours gifts on his beloved while they slumber.
 
-Truly sons are a gift from the Lord, *a blessing, the fruit of the womb.Indeed the sons of youth *
+Truly sons are a gift from the Lord,
+
+a blessing, the fruit of the womb.Indeed the sons of youth
 
 are like arrows in the hand of a warrior.
 
-O the happiness of the man *who has filled his quiver with these arrows!He will have no cause for shame *
+O the happiness of the man
+
+who has filled his quiver with these arrows!He will have no cause for shame
 
 when he disputes with his foes in the gateways.
 
@@ -1160,31 +1438,43 @@ Ant. 3 The apostles persevered in prayer together with Mary, the Mother of Jesus
 
 Canticle: Eph 1:3-10
 
-Blessed be the God and Father *of our Lord Jesus Christ,who has blessed us in Christ *
+Blessed be the God and Father
+
+of our Lord Jesus Christ,who has blessed us in Christ
 
 with every spiritual blessing in the heavenly places.
 
-He chose us in him *before the foundation of the world,that we should be holy *
+He chose us in him
+
+before the foundation of the world,that we should be holy
 
 and blameless before him.
 
-He destined us in love *to be his sons through Jesus Christ,
+He destined us in love
+
+to be his sons through Jesus Christ,
 
 according to the purpose of his will, +
 
-to the praise of his glorious grace *
+to the praise of his glorious grace
 
 which he freely bestowed on us in the Beloved.
 
-In him we have redemption through his blood, *the forgiveness of our trespasses,according to the riches of his grace *
+In him we have redemption through his blood,
+
+the forgiveness of our trespasses,according to the riches of his grace
 
 which he lavished upon us.
 
-He has made known to us +in all wisdom and insight *the mystery of his will,according to his purpose *
+He has made known to us +in all wisdom and insight
+
+the mystery of his will,according to his purpose
 
 which he set forth in Christ.
 
-His purpose he set forth in Christ, *as a plan for the fullness of time,to unite all things in him, *
+His purpose he set forth in Christ,
+
+as a plan for the fullness of time,to unite all things in him,
 
 things in heaven and things on earth.
 
@@ -1200,23 +1490,27 @@ When the designated time had come, God sent forth his Son born of a woman, born 
 
 R/. I exult for joy in the Lord, * my soul rejoices in God. Repeat R/.
 
-V/. For he has clothed me in the garments of salvation; he has wrapped me in the cloak of justice. * My soul rejoices in God.
+V/. For he has clothed me in the garments of salvation; he has wrapped me in the cloak of justice. My soul rejoices in God.
 
 Glory... R/.
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Mary, ever Virgin, has been given us as our Mother; she has taken pity on us; today we remember. Today all Carmel sings for joy as we keep a solemn festival in her honor whose name we bear.
 
-My soul proclaims the greatness of the Lord, *my spirit rejoices in God my Savior;for he has looked with favor on his lowly servant, *
+My soul proclaims the greatness of the Lord,
+
+my spirit rejoices in God my Savior;for he has looked with favor on his lowly servant,
 
 and from this day all generations will call me blessed.
 
-The Almighty has done great things for me: *holy is his Name.He has mercy on those who fear him *
+The Almighty has done great things for me:
+
+holy is his Name.He has mercy on those who fear him
 
 in every generation.
 
-He has shown the strength of his arm, *
+He has shown the strength of his arm,
 
 he has scattered the proud in their conceit.
 
@@ -1224,15 +1518,17 @@ He has cast down the mighty from their thrones,*
 
 and has lifted up the lowly.
 
-He has filled the hungry with good things, *
+He has filled the hungry with good things,
 
 and has sent the rich away empty.
 
-He has come to the help of his servant Israel*for he has remembered his promise of mercy,the promise he made to our fathers, *
+He has come to the help of his servant Israel*for he has remembered his promise of mercy,the promise he made to our fathers,
 
 to [[abraham|Abraham]] and his children for ever.
 
-Glory to the Father, and to the Son, *and to the Holy Spirit:as it was in the beginning, is now, *
+Glory to the Father, and to the Son,
+
+and to the Holy Spirit:as it was in the beginning, is now,
 
 and will be for ever. Amen.
 
@@ -1272,8 +1568,14 @@ Father,may the prayers of the Blessed Virgin Mary,Mother and Queen of Carmel,pro
 
 God for ever and ever.
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
 
-**Featured image:**A classic statue of Our Lady of Mount Carmel. Image credit: kmiragaya / Adobe Stock
+**Featured image:**
 
-16 July: BLESSED VIRGIN MARY OF MOUNT CARMEL, PATRONESS AND HEAD OF OUR ORDER
+A classic statue of Our Lady of Mount Carmel. Image credit: kmiragaya / Adobe Stock
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/07/13/olmclit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

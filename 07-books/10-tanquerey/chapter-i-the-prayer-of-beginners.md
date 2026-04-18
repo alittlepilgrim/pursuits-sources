@@ -84,7 +84,7 @@ book: The Spiritual Life
 
 643\. We have already explained (n. 499–521) the nature and the efficacy of prayer. After beginners have been reminded of these notions, they must: 1° be instructed as to the necessity and the conditions of prayer; 2° they must be gradually introduced to the practice of such spiritual exercises as befit them; 3° they must be taught mental prayer.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00009.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00009.jpeg]]
 
 ARTICLE I. NECESSITY AND CONDITIONS OF PRAYER
 
@@ -304,7 +304,7 @@ c) The will has two duties to fulfil: to conceive devout affections and to form 
 
 To give a clearer understanding of the method, we add the following synoptic table of the preludes, of the body of the prayer, and of the conclusion.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00010.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00010.jpeg]]
 
 696\. Advantages of this method. As may be readily observed, this method is highly psychological and highly practical. a) It lays hold of all the faculties, the imagination included; applies them one after the other to the subject of meditation, and thus introduces an element of variety that makes it possible to consider a truth under its different aspects, to revolve it in our mind so as to assimilate it, to form convictions, and above all to draw therefrom practical conclusions for the present day.
 
@@ -332,9 +332,9 @@ This is the broad outline found in Cardinal de Bérulle, Father de Condren and F
 
 699\. C) A Summary of the Method. The following table will give an adequate idea of the method. We omit the remote preparation which is the same as the one explained in n. 689.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00011.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00011.jpeg]]
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00012.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00012.jpeg]]
 
 700\. D) Characteristics of this method. a) The method is based upon the doctrine of our incorporation into Christ (n. 142-149), and upon the resultant obligation of reproducing in ourselves His interior dispositions and His virtues. To succeed therein we must, as Father Olier puts it, have Jesus before our eyes, in order to gaze upon Him as our model and offer Him our homage — adoration; we must have Him in our heart, drawing unto us through prayer His sentiments and His virtues — communion; we must have Him in our hands, sharing with Him in the work of reproducing His virtues — co-operation. An intimate union with Jesus, then, is the soul of this method.
 

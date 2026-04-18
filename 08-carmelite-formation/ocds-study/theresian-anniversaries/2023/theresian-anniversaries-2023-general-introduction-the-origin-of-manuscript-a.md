@@ -14,9 +14,9 @@ publish: true
 
 # Theresian Anniversaires 2023 - Introduction
 
-## General Introduction: the Origin of Manuscript a
+## General Introduction – The Origin of Manuscript A
 
-One winter evening, while the four Martin sis-ters are gathered in the only heated room of the monastery, Therese recalled some childhood memories. Sister Mary of the Sacred Heart then suggested to Mother Ag-nes, then Prioress, to ask Therese to write her memoirs.
+One winter evening, while the four Martin sisters are gathered in the only heated room of the monastery, Therese recalled some childhood memories. Sister Mary of the Sacred Heart then suggested to Mother Ag-nes, then Prioress, to ask Therese to write her memoirs.
 
 Mother Agnes accepted and commissioned this account for her feast day, January 20, 1896.
 

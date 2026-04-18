@@ -8,7 +8,8 @@ tags:
   - type/book
 created: 2025-10-18
 modified: 2026-04-07
-publish: false
+publish: true
+anchor: tj-conceptions
 ---
 
 # Conceptions of Divine Love

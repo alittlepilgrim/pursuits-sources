@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Reverence
 author:
 source: Divine Intimacy Meditations

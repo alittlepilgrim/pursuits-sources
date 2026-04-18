@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Paul
 author:
 aliases:
@@ -54,7 +54,7 @@ Student of Gamaliel: Acts 22:3
 
 Teacher of the Gentiles: 1 Tim 2:7
 
-*See also* [[apostle|Apostles]]; [[Peter]]
+*See also* [[apostle|Apostles]]; [[peter]]
 
 ### Sources
 

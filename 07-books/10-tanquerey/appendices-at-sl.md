@@ -128,7 +128,7 @@ We shall limit ourselves here to the question of characters, and shall make use 
 
 A) When we wish to specify the principal tendencies which differentiate characters, the most reliable means is to study characters in relation to man’s different activities. We shall not touch on the question of the purely vegetative activities of man, since they are of little importance from our point of view, and shall study the main characters in relation to feeling, to the spiritual activities of mind and will, and to external activities. A brief synoptic table will make clear our purpose.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00017.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00017.jpeg]]
 
 B) Before we explain this classification, a few preliminary remarks are necessary:
 

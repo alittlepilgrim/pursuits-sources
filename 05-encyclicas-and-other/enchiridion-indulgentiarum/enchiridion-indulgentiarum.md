@@ -9,12 +9,14 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-09
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Enchiridion Indulgentiarum (editio quarta, 1999) – Table of Contents
 ---
 
 # Enchiridion Indulgentiarum
+
+[Source](https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html)
 
 ## Table of Contents
 

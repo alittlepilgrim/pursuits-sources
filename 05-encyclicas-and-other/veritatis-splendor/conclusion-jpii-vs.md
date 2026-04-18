@@ -3,20 +3,22 @@ type: magisterium
 title: Conclusion – Veritatis Splendor
 author: Saint John Paul II
 aliases:
-  - Conclusion
+  - Conclusion – Veritatis Splendor
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Conclusion
+modified: 2026-04-15
+publish: true
+description: Conclusion – Veritatis Splendor
 ---
 
 ← [[chapter-III-jpii-vs|Chapter III. Moral Good for the Life of the Church and of the World]] | [[veritatis-splendor|Table of Contents]] | [[footnotes-jpii-vs|Footnotes]] →
 
 # Conclusion
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)
 
 ## Mary, Mother of Mercy
 

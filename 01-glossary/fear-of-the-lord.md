@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Fear of the Lord
 author:
 aliases:

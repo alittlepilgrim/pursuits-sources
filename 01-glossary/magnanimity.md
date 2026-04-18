@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Magnanimity
 author:
 source: Divine Intimacy Meditations

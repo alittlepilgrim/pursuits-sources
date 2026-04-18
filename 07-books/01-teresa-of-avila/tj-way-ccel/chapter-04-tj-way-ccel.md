@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 4. Exhorts the Nuns to Keep Their Rule and Names Three Things Which Are Important for the Spiritual Life. Describes the First of These Three Things, Which Is Love of One's Neighbour, and Speaks of the Harm Which Can Be Done by Individual Friendships
 ---
 

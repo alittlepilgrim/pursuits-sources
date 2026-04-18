@@ -10,13 +10,15 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Pastores Dabo Vobis (25 March 1992)
-abbreviation: jpii-pdv
+anchor: jpii-pdv
 ---
 
 # Pastores Dabo Vobis (25 March 1992)
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 Post-Synodal Apostolic Exhortation to the Bishops, Clergy and Faithful on the Formation of Priests in the Circumstances of the Present Day
 

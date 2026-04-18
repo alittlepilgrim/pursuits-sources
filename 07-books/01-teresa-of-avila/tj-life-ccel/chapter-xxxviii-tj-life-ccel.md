@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXXVIII. Certain Heavenly Secrets, Visions, and Revelations. The Effects of Them in Her Soul
 ---
 

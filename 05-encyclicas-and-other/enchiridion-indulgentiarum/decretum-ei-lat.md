@@ -7,7 +7,7 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-09
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Decretum – Enchiridion Indulgentiarum (editio quarta, 1999)
 ---
@@ -15,6 +15,8 @@ description: Decretum – Enchiridion Indulgentiarum (editio quarta, 1999)
 [[enchiridion-indulgentiarum|Enchiridion Indulgentiarum]] | [[abbreviationes-ei-lat|Abbreviationes et Sigla]] →
 
 # Decretum
+
+[Source](https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html)
 
 *Enchiridion indulgentiarum quarto editur*
 

@@ -9,7 +9,7 @@ tags:
   - type/legislation
 created: 2025-07-23
 modified: 2026-04-06
-publish: false
+publish: true
 description: OCDS Legislation for the Semi-Province of St. Thérèse
 attachment: true
 ---

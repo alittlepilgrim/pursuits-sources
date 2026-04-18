@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Jesus Christ
 author:
 aliases:
@@ -130,7 +130,7 @@ Wisdom of God: 1 Cor 1:24
 
 Word of God: Jn 1:1, 14; 14:24; 1 Jn 1:1; 5:7; Rev 19:13
 
-*See also* [[Authority]]; [[God]]; [[holy-spirit|Holy Spirit]] ; [[resurrection-of-christ|Resurrection of Jesus Christ]]; [[second-coming-of-christ|Second Coming]]; [[trinity-holy|Trinity]]
+*See also* [[authority]]; [[god]]; [[holy-spirit|Holy Spirit]] ; [[resurrection-of-christ|Resurrection of Jesus Christ]]; [[second-coming-of-christ|Second Coming]]; [[trinity-holy|Trinity]]
 
 ### Sources
 

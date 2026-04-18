@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Eternal Life
 aliases:
   - Eternal Life
@@ -53,7 +53,7 @@ Reward of love: 1 Cor 2:9; 2 Tim 4:8; Jas 1:12; 2:5
 
 Sanctification's goal: Rom 6:22
 
-*See also* [[resurrection-of-the-dead|Resurrection]]; [[Salvation]]
+*See also* [[resurrection-of-the-dead|Resurrection]]; [[salvation]]
 
 ### Sources
 

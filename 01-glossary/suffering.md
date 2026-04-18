@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Suffering
 author: Gabriel of Saint Mary Magdalen
 source: Divine Intimacy Meditations
@@ -30,7 +30,7 @@ Redemptive value of suffering: Mt 10:38; Jn 3:16; Rom 5:3-5; 8:17; 1 Cor 3:15; 2
 
 Rejoicing in suffering: Rom 5:3; Col 1:24
 
-*See also* [[redeemer-redemption|Redemption]]; [[Salvation]]
+*See also* [[redeemer-redemption|Redemption]]; [[salvation]]
 
 ### Sources
 

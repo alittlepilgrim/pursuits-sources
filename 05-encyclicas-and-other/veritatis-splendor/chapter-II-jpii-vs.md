@@ -3,20 +3,22 @@ type: magisterium
 title: Chapter II – Veritatis Splendor
 author: Saint John Paul II
 aliases:
-  - Chapter II. The Church and the Discernment of Certain Tendencies in Present-Day Moral Theology
+  - Chapter II. The Church and the Discernment of Certain Tendencies in Present-Day Moral Theology – Veritatis Splendor
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-09
-publish: false
-description: Chapter II. The Church and the Discernment of Certain Tendencies in Present-Day Moral Theology
+modified: 2026-04-15
+publish: true
+description: Chapter II. The Church and the Discernment of Certain Tendencies in Present-Day Moral Theology – Veritatis Splendor
 ---
 
 ← [[chapter-I-jpii-vs|Chapter I. Christ and the Answer to the Question About Morality]] | [[veritatis-splendor|Table of Contents]] | [[chapter-III-jpii-vs|Chapter III. Moral Good for the Life of the Church and of the World]] →
 
 # Chapter II. The Church and the Discernment of Certain Tendencies in Present-day Moral Theology
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)
 
 ## Teaching What Befits Sound Doctrine (Cf. Tit 2:1)
 

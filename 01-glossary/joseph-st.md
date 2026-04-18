@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Joseph (St.)
 author:
 source: Divine Intimacy Meditations

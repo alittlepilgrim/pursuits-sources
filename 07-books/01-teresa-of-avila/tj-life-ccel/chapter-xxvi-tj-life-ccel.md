@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXVI. How the Fears of the Saint Vanished. How She Was Assured That Her Prayer Was the Work of the Holy Spirit
 ---
 

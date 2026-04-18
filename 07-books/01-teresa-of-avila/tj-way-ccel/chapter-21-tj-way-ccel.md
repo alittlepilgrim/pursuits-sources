@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 21. Describes the Great Importance of Setting out upon the Practice of Prayer with Firm Resolution and of Heeding No Difficulties Put in the Way by the Devil
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Election
 aliases:
   - election
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-12
 modified: 2026-04-12
-publish: false
+publish: true
 ---
 
 # Election
@@ -28,7 +28,7 @@ Paul's election: Gal 1:15
 
 Paul's suffering for the sake of the elect: 2 Tim 2:10
 
-*See also* [[Freedom]]; [[Grace]]; [[Predestination]]
+*See also* [[freedom]]; [[grace]]; [[predestination]]
 
 ### Sources
 

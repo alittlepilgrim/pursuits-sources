@@ -7,7 +7,7 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-09
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Abbreviationes et Sigla – Enchiridion Indulgentiarum (editio quarta, 1999)
 ---
@@ -15,6 +15,8 @@ description: Abbreviationes et Sigla – Enchiridion Indulgentiarum (editio quar
 ← [[decretum-ei-lat|Decretum]] | [[enchiridion-indulgentiarum|Enchiridion Indulgentiarum]] | [[praenotanda-ei-lat|Praenotanda]] →
 
 # Abbreviationes Et Sigla
+
+[Source](https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20020826_enchiridion-indulgentiarum_lt.html)
 
 AA Decr. *Apostolicam actuositatem*, 18 nov. 1965 (AAS 59 \[1966\] 837-864)
 

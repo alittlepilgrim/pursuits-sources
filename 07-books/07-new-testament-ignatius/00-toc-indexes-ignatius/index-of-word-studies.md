@@ -10,7 +10,7 @@ tags:
   - bible/new-testament
   - type/bible
 created: 2026-04-09
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
 description: Index of Word Studies
 ---
@@ -141,6 +141,6 @@ description: Index of Word Studies
 
 [[john-commentary#^95rx6g|Word]]
 
----
+## Source
 
 Holy Bible. *Revised Standard Version, Second Catholic Edition*. San Francisco: Ignatius Press, 2006.

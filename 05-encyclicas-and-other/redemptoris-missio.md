@@ -14,7 +14,7 @@ created: 2025-11-14
 modified: 2026-04-07
 publish: true
 description: On The Permanent Validity Of The Church Missionary Mandate - Encyclical Letter Redemptoris Missio (7 December 1990)
-abbreviation: jpii-rmi
+anchor: jpii-rmi
 ---
 
 IOANNES PAULUS PP. II

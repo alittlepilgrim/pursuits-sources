@@ -2,21 +2,24 @@
 type: magisterium
 title: Notes – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Notes
+  - Notes – Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-09
-publish: false
-description: Notes
+modified: 2026-04-14
+publish: true
+description: Notes – Pastores Dabo Vobis
 ---
 
 ← [[conclusion-jpii-pdv|Conclusion]] | [[pastores-dabo-vobis|Table of Contents]]
 
 # Notes
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 1\. Cf. Proposition 2. ^jpii-pdv-1
 

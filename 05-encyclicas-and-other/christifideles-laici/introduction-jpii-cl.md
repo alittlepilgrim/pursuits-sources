@@ -9,7 +9,7 @@ tags:
   - type/magisterium
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Introduction
 ---
 

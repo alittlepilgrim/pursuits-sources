@@ -14,7 +14,7 @@ created: 2025-11-14
 modified: 2026-04-07
 publish: true
 description: Ioannes Paulus Pp II Redemptoris Mater On The Blessed Virgin Mary In The Life Of The Pilgrim Church
-abbreviation: jpii-rma
+anchor: jpii-rma
 ---
 
 IOANNES PAULUS PP. II

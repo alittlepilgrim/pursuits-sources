@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Fornication
 author:
 aliases:
@@ -32,7 +32,7 @@ Condemned by Jesus: Mt 15:19-20
 
 Contrary to Christian discipleship: Eph 5:3-5; Col 3:5
 
-*See also* [[Adultery]]; [[Chastity]]; [[Lust]]; [[sexual-sin|Sexual Sin]] 
+*See also* [[adultery]]; [[chastity]]; [[lust]]; [[sexual-sin|Sexual Sin]] 
 
 ### Sources
 

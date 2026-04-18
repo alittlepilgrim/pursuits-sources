@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Fathers of the Church
 author: Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 aliases:

@@ -2,6 +2,8 @@
 type: ocds-proper
 title: November 15, Commemoration of All The Departed of Our Order
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/11/13/carmsoulslit25/
 aliases:
   - commemoration-of-all-the-departed-of-our order
   - November 15, Commemoration of All The Departed of Our Order
@@ -10,22 +12,22 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 11-15
+celebration_rank: commemoration
 created: 2024-07-22
-modified: 2026-04-07
-publish: false
+modified: 2026-04-17
+publish: true
 description: November 15, Commemoration of All The Departed of Our Order
 attachment: true
 ---
 
+← [[11-14-all-carmelite-sts|Nov 14, All Carmelite Saints]] | [[OCDS Propers|Table of Contents]] | [[11-19-st-raphael-kalinowski|Nov 19, St Raphael Kalinowski]] →
+
+
 # November 15, Commemoration of All the Departed of Our Order
 
-**15 November: Commemoration of all the Departed of Our Order**
-
-*November 15*
-
-*COMMEMORATION OF ALL THE DEPARTED OF OUR ORDER*
-
-**Commemoration**
+> **November 15**
+> **COMMEMORATION OF ALL THE DEPARTED OF OUR ORDER**
+> **Commemoration**
 
 When November 15 falls on a Sunday, the Commemoration is celebrated on the following day
 
@@ -47,19 +49,23 @@ The souls of the just are in the hands of God
 
 *Blessed are the dead who die in the Lord. Now … let them rest from their labors*(Revelation 14:13)
 
-The souls of the just are in the hand of God, *
+The souls of the just are in the hand of God,
 
 and no torment shall touch them.
 
-They seemed, in the view of the foolish, to be dead; *and their passing away was thought an afflictionand their going forth from us, utter destruction. *
+They seemed, in the view of the foolish, to be dead;
+
+and their passing away was thought an afflictionand their going forth from us, utter destruction.
 
 But they are in peace.
 
-For if to others, indeed, they seem punished, †yet is their hope full of immortality; *Chastised a little, they shall be greatly blessed,because God tried them *
+For if to others, indeed, they seem punished, †yet is their hope full of immortality;
+
+Chastised a little, they shall be greatly blessed,because God tried them
 
 and found them worthy of himself.
 
-As gold in the furnace, he proved them, *
+As gold in the furnace, he proved them,
 
 and as sacrificial offerings he took them to himself.
 
@@ -71,11 +77,15 @@ The future glory of the just
 
 *The just shall shine forth as the sun in the kingdom of their Father*(Matthew 13:43)
 
-In the time of their visitation they shall shine *and shall dart about as sparks through stubble;They shall judge nations and rule over peoples, *
+In the time of their visitation they shall shine
+
+and shall dart about as sparks through stubble;They shall judge nations and rule over peoples,
 
 and the LORD shall be their King forever.
 
-Those who trust in him shall understand truth, *and the faithful shall abide with him in love:Because grace and mercy are with his holy ones, *
+Those who trust in him shall understand truth,
+
+and the faithful shall abide with him in love:Because grace and mercy are with his holy ones,
 
 and his care is with the elect.
 
@@ -87,15 +97,21 @@ God leads his people to deliverance
 
 *Those who had overcome the beast sang the canticle of Moses, the servant of God, and the canticle of the Lamb* (Revelation 15:2, 3)
 
-God gave the holy ones the recompense of their labors, *conducted them by a wondrous road,and became a shelter for them by day *
+God gave the holy ones the recompense of their labors,
+
+conducted them by a wondrous road,and became a shelter for them by day
 
 and a starry flame by night.
 
-He took them across the Red Sea *and brought them through the deep waters—but their enemies he overwhelmed, *
+He took them across the Red Sea
+
+and brought them through the deep waters—but their enemies he overwhelmed,
 
 and cast them up from the bottom of the depths.
 
-herefore the righteous despoiled the wicked; †and they sang, O Lord, your holy name *and praised in unison your conquering hand—because Wisdom opened the mouths of the dumb, *
+herefore the righteous despoiled the wicked; †and they sang, O Lord, your holy name
+
+and praised in unison your conquering hand—because Wisdom opened the mouths of the dumb,
 
 and gave ready speech to infants
 
@@ -145,10 +161,12 @@ We ask this through our Lord Jesus Christ, your Son,who lives and reigns with yo
 
 God, forever and ever.
 
-![15 November- Commemoration of all the Departed of Our Order-2024-07-22-1](images/15%20November-%20Commemoration%20of%20all%20the%20Departed%20of%20Our Order-2024-07-22-1.jpeg)
-
 *Ego sum resurrectio et vita:* I am the resurrection and the life (John 11:25) The cross overlooks the garden in what was once the monastery cemetery at the Discalced Carmelite nuns monastery in Indianapolis, now Bishop Simon Bruté College Seminary | Corey Bruns / Flickr
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
 
-15 November: Commemoration of all the Departed of Our Order
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/11/13/carmsoulslit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

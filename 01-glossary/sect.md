@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Sect
 aliases:
   - sect
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-09
 modified: 2026-04-09
-publish: false
+publish: true
 description: sect. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 

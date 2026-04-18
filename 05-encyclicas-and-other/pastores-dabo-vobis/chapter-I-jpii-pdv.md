@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter I – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Chapter I. The Challenges Facing Priestly Formation at the Conclusion of the Second Millennium
+  - Chapter I. The Challenges Facing Priestly Formation at the Conclusion of the Second Millennium  Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-09
-publish: false
-description: Chapter I. The Challenges Facing Priestly Formation at the Conclusion of the Second Millennium
+modified: 2026-04-14
+publish: true
+description: Chapter I. The Challenges Facing Priestly Formation at the Conclusion of the Second Millennium – Pastores Dabo Vobis
 ---
 
 ← [[introduction-jpii-pdv|Introduction]] | [[pastores-dabo-vobis|Table of Contents]] | [[chapter-II-jpii-pdv|Chapter II. The Nature and Mission of the Ministerial Priesthood]] →
 
 # Chapter I. The Challenges Facing Priestly Formation at the Conclusion of the Second Millennium
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 ***The Priest in His Time***
 

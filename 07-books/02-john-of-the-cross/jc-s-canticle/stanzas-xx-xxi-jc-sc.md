@@ -3,7 +3,7 @@ type: book
 title: Stanzas XX, XXI – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxvi.html
 aliases:
   - Stanzas XX, XXI – Spiritual Canticle By St. John of the Cross
   - stanzas-xx-xxi-jc-sc
@@ -19,6 +19,8 @@ description: Stanzas XX, XXI – Spiritual Canticle By St. John of the Cross
 [[stanza-xix-jc-sc|← Stanza XIX]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxii-jc-sc|Stanza XXII →]]
 
 # Stanzas Xx, XXI
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxvi.html)
 
 THE BRIDEGROOM Light-winged birds, Lions, fawns, bounding does, Mountains, valleys, strands, Waters, winds, heat, And the terrors that keep watch by night; By the soft lyres And the siren strains, I adjure you, Let your fury cease, And touch not the wall, That the bride may sleep in greater security.
 

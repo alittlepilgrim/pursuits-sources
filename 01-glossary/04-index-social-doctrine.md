@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: moc
 title: Analytical Index – Compendium of Social Doctrine
 aliases:
   - Analytical Index from Compendium of Social Doctrine

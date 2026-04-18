@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Covenant
 aliases:
   - covenant
@@ -35,7 +35,7 @@ Old Covenant: 2 Cor 3:14; Heb 8:6-7, 13
 
 Two covenants: Gal 4:24
 
-*See also* [[Atonement]]; [[jesus-christ|Jesus]]; [[redeemer-redemption|Redemption]]
+*See also* [[atonement]]; [[jesus-christ|Jesus]]; [[redeemer-redemption|Redemption]]
 
 ### Sources
 

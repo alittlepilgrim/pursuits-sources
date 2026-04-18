@@ -11,7 +11,7 @@ tags:
   - divine-intimacy
   - vault-admin/abbreviations
 created: 2024-11-24
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.
 ---

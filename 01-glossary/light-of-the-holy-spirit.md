@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Light of the Holy Spirit
 author:
 source: Divine Intimacy Meditations

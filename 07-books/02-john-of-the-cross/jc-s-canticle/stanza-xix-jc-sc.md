@@ -3,7 +3,7 @@ type: book
 title: Stanza XIX – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxv.html
 aliases:
   - Stanza XIX – Spiritual Canticle By St. John of the Cross
   - stanza-xix-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XIX – Spiritual Canticle By St. John of the Cross
 [[stanza-xviii-jc-sc|← Stanza XVIII]] | [[jc-sc-toc|↑ Contents]] | [[stanzas-xx-xxi-jc-sc|Stanzas XX XXI →]]
 
 # Stanza XIX
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxv.html)
 
 Hide yourself, O my Beloved!
 

@@ -9,7 +9,7 @@ tags:
   - type/book
 created: 2026-04-02
 modified: 2026-04-06
-publish: false
+publish: true
 description: Indexes - Treatise on the Love of God by St. Francis de Sales
 attachment: false
 ---

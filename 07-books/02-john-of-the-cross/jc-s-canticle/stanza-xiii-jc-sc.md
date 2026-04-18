@@ -3,7 +3,7 @@ type: book
 title: Stanza XIII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xix.html
 aliases:
   - Stanza XIII – Spiritual Canticle By St. John of the Cross
   - stanza-xiii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XIII – Spiritual Canticle By St. John of the Cross
 [[stanza-xii-jc-sc|← Stanza XII]] | [[jc-sc-toc|↑ Contents]] | [[stanzas-xiv-xv-jc-sc|Stanzas XIV XV →]]
 
 # Stanza XIII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xix.html)
 
 Turn them away, O my Beloved!
 

@@ -89,7 +89,7 @@ book: The Spiritual Life
 
 751\. Like penance, mortification has a part in the cleansing from past faults, but its chief purpose is to safeguard us against sin in the present and in the future, by weakening in us the love of pleasure, the source of our sins. We shall, therefore, explain the nature, the necessity and the practice of mortification.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00014.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00014.jpeg]]
 
 ## Art. I. the Nature of Mortification
 

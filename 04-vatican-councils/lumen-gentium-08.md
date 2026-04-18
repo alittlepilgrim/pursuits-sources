@@ -20,6 +20,8 @@ description: Chapter VIII – The Blessed Virgin Mary, Mother of God in the Myst
 
 # Chapter VIII – The Blessed Virgin Mary, Mother of God in the Mystery of Christ and the Church
 
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
+
 ## I. Introduction
 
 52\. Wishing in His supreme goodness and wisdom to effect the redemption of the world, "when the fullness of time came, God sent His Son, born of a woman...that we might receive the adoption of sons".<sup>([[#^lg-fn-283|283]])</sup> "He for us men, and for our salvation, came down from heaven, and was incarnate by the Holy Spirit from the Virgin Mary."(1\*) This divine mystery of salvation is revealed to us and continued in the Church, which the Lord established as His body. Joined to Christ the Head and in the unity of fellowship with all His saints, the faithful must in the first place reverence the memory "of the glorious ever Virgin Mary, Mother of our God and Lord Jesus Christ".(2\*)

@@ -13,12 +13,14 @@ tags:
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: Chapter IV – The Laity Lumen Gentium
 ---
 
 # Chapter IV – The Laity
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
 
 30\. Having set forth the functions of the hierarchy, the Sacred Council gladly turns its attention. to the state of those faithful called the laity. Everything that has been said above concerning the People of God is intended for the laity, religious and clergy alike. But there are certain things which pertain in a special way to the laity, both men and women, by reason of their condition and mission. Due to the special circumstances of our time the foundations of this doctrine must be more thoroughly examined. For their pastors know how much the laity contribute to the welfare of the entire Church. They also know that they were not ordained by Christ to take upon themselves alone the entire salvific mission of the Church toward the world. On the contrary they understand that it is their noble duty to shepherd the faithful and to recognize their ministries and charisms, so that all according to their proper roles may cooperate in this common undertaking with one mind. For we must all "practice the truth in love, and so grow up in all things in Him who is head, Christ. For from Him the whole body, being closely joined and knit together through every joint of the system, according to the functioning in due measure of each single part, derives its increase to the building up of itself in love".<sup>([[#^lg-fn-190|190]])</sup>
 

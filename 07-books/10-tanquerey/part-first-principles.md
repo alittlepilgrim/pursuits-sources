@@ -22,7 +22,7 @@ PURPOSE AND DIVISION OF THE FIRST PART.
 
 49\. The aim of this first part is to call briefly to mind the principal dogmas upon which our spiritual life rests, to show the nature and perfection of this life, and the general means by which perfection is reached. Here we follow the ontological order, assigning to the second part the task of describing the psychological order normally followed by souls in the use they make of the various means of perfection.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00003.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00003.jpeg]]
 
 50\. The reason for such a division is easily perceived.
 

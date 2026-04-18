@@ -3,7 +3,7 @@ type: book
 title: Stanza II – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.viii.html
 aliases:
   - Stanza II – Spiritual Canticle By St. John of the Cross
   - stanza-ii-jc-sc
@@ -11,7 +11,7 @@ tags:
   - author/saint-john-of-the-cross
   - type/book
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-15
 publish: true
 description: Stanza II – Spiritual Canticle By St. John of the Cross
 ---
@@ -19,6 +19,8 @@ description: Stanza II – Spiritual Canticle By St. John of the Cross
 [[stanza-i-jc-sc|← Stanza I]] | [[jc-sc-toc|↑ Contents]] | [[stanza-iii-jc-sc|Stanza III →]]
 
 # Stanza II – Spiritual Canticle
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html)
 
 > *O shepherds, you who go*
 > *Through the sheepcots up the hill,*
@@ -64,4 +66,30 @@ That is to say:
 
 ## Footnotes
 
-[45] Tob. 12:12 [46] Deut. 31:21 [47] Exod. 3:7, 8 [48] Luke 1:13 [49] Ps. 9:10 [50] Ps. 34:3 [51] Ps. 35:9 [52] Deut. 30:20 [53] Lam. 3:19 [54] Col. 2:3 [55] Rev. 10:9 [56] Deut. 32:33 [57] John 2:3 [58] John 11:3
+[45](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p4.1)[Tob. 12:12](https://ccel.org/study/Tob_12:12-12:12)
+
+[46](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p7.1)[Deut. 31:21](https://ccel.org/study/Deut_31:21-31:21)
+
+[47](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p7.3)[Exod. 3:7, 8](https://ccel.org/study/Exod_3:7-3:8)
+
+[48](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p7.5)[Luke 1:13](https://ccel.org/study/Luke_1:13-1:13)
+
+[49](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p7.7)[Ps. 9:10](https://ccel.org/study/Ps_9:10-9:10)
+
+[50](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p9.1)[Ps. 34:3](https://ccel.org/study/Ps_34:3-34:3)
+
+[51](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p9.3)[Ps. 35:9](https://ccel.org/study/Ps_35:9-35:9)
+
+[52](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p9.5)[Deut. 30:20](https://ccel.org/study/Deut_30:20-30:20)
+
+[53](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p10.1)[Lam. 3:19](https://ccel.org/study/Lam_3:19-3:19)
+
+[54](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p10.3)[Col. 2:3](https://ccel.org/study/Col_2:3-2:3)
+
+[55](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p10.5)[Rev. 10:9](https://ccel.org/study/Rev_10:9-10:9)
+
+[56](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p10.7)[Deut. 32:33](https://ccel.org/study/Deut_32:33-32:33)
+
+[57](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p11.1)[John 2:3](https://ccel.org/study/John_2:3-2:3)
+
+[58](https://ccel.org/ccel/john_cross/canticle/canticle.viii.html#fna_viii-p11.3)[John 11:3](https://ccel.org/study/John_11:3-11:3)

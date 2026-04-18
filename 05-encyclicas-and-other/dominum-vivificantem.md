@@ -10,15 +10,17 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 description: Encyclical Letter Dominum et vivificantem (18 May 1986) On the Holy Spirit in the Life of the Church ¶ and the World
-abbreviation: jpii-dv
+anchor: jpii-dv
 ---
 
 Ioannes Paulus PP. II
 
 # Dominum Et Vivificantem
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_18051986_dominum-et-vivificantem.html)
 
 ## On the Holy Spirit in the Life of the Church and the World
 

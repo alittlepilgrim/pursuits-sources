@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Marriage
 author:
 aliases:
@@ -50,7 +50,7 @@ Unbaptized person married to a baptized person: 1 Cor 7:12-16
 
 Wives are to subject themselves to their husbands for the love of Christ: Eph 5:22-24; Col 3:18; 1 Pet 3:1
 
-*See also* [[Divorce]]
+*See also* [[divorce]]
 
 ### Sources
 

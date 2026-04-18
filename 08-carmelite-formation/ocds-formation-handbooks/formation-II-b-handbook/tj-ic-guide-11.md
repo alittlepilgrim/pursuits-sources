@@ -12,7 +12,7 @@ tags:
   - type/study-guide
 created: 2025-06-23
 modified: 2026-04-06
-publish: false
+publish: true
 attachment: true
 ---
 
@@ -102,4 +102,4 @@ _Grant this through our Lord Jesus Christ, your Son,_ _who_ _lives_ _and_ _reign
 
 # Links
 
-[[pursuits-sources/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-12a|Session Twelve: Overall Understanding of one’s Spiritual Journey within the Context of Church, Order, Community, Family and Work]]
+[[pursuits-texts/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-12a|Session Twelve: Overall Understanding of one’s Spiritual Journey within the Context of Church, Order, Community, Family and Work]]

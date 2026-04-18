@@ -9,7 +9,7 @@ tags:
   - type/book
 created: 2026-04-01
 modified: 2026-04-08
-publish: false
+publish: true
 ---
 
 # The Soul of the Apostolate (First Pages)

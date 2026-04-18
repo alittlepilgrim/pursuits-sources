@@ -9,14 +9,16 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter VI. The Mission Of The Church In America Today The New Evangelization
 ---
 
 ← [[chapter-v-the-path-to-solidarity-jpii-ea|Chapter V. The Path to Solidarity]] | [[ecclesia-america|Table of Contents]] | [[conclusion-jpii-ea|Conclusion]] →
 
 # Chapter VI. The Mission Of The Church In America Today The New Evangelization
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
 **“As the Father has sent me, even so I send you”** (***Jn*** 20:21)
 

@@ -2,21 +2,24 @@
 type: magisterium
 title: Chapter I – Evangelium Vitae
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
 aliases:
-  - Chapter I. The Voice of Your Brother's Blood Cries to Me from the Ground
+  - Chapter I. The Voice of Your Brother's Blood Cries to Me from the Ground – Evangelium Vitae
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter I. The Voice of Your Brother's Blood Cries to Me from the Ground
+modified: 2026-04-14
+publish: true
+description: Chapter I. The Voice of Your Brother's Blood Cries to Me from the Ground – Evangelium Vitae
 ---
 
 ← [[introduction-jpii-ev|Introduction]] | [[evengelium-vitae|Table of Contents]] | [[chapter-II-jpii-ev|Chapter II. I Came That They May Have Life]] →
 
 # Chapter I. The Voice of Your Brother's Blood Cries to Me from the Ground
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.htm)
 
 PRESENT-DAY THREATS TO HUMAN LIFE
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Sacred Scriptures
 author:
 source: Divine Intimacy Meditations

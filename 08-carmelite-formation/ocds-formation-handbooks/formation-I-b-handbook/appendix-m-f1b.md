@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Appendix M: Letter to the OCDS from Fr. Saverio Cannistrà OCD – OCDS Formation I, Year B (Carmelite History and Statutes)"
 ---
 

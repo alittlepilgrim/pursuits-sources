@@ -2,6 +2,8 @@
 type: ocds-proper
 title: May 29, Blessed Elia of St Clement Fracasso
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/05/27/fracassolit25/
 aliases:
   - 05-29-blessed-elia-fracasso
   - 20250731-121503
@@ -10,25 +12,29 @@ tags:
   - carmel/propers
   - type/ocd-proper
 celebration_day: 05-29
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers undefined
 ---
+
+← [[05-25-st-mary-magdalen-of-the-incarnate-word-de-pazzi|May 25, St Mary Magdalen de Pazzi]] | [[OCDS Propers|Table of Contents]] | [[06-07-blessed-anne-of-st-bartholomew|Jun 7, Bl Anne of St Bartholomew]] →
+
 
 # May 29, Blessed Elia of St Clement Fracasso
 
 > **May 29**
-> **BLESSED ELIA OF SAINT CLEMENT FRACASSO** - [[elia-of-st-clement-blessed]]
+> **BLESSED ELIA OF SAINT CLEMENT FRACASSO**
+> **[[elia-of-st-clement-blessed]]
 > **Virgin**
-
-**Optional Memorial**
+> **Optional Memorial**
 
 Blessed Elia of St. Clement was born in Bari, 17th January 1901, to deeply Christian parents. At her baptism, she was given the name Theodora, gift of God. In the brief course of her life on earth, she lived up to her name. On 8th April 1920 (then Feast of St. Albert, author of the Carmelite Rule), she entered the Carmel of St. Joseph in Bari. She received the habit on 24th November of the same year, the feast of St John of the Cross. On 8th December 1924, she wrote in her own blood her act of total and definitive offering to the Lord with the vow to embrace the “most perfect”. She died on Christmas day 1927. On 19th December 2005, Pope Benedict XVI signed the Decree of Beatification. She was proclaimed Blessed in Bari Cathedral on 18th March 2006.
 
 From the Common of Virgins
 
-# Office of Readings
+## Office of Readings
 
 **Second Reading**
 
@@ -56,9 +62,9 @@ R/. An unmarried woman, like a young girl, can devote herself to the Lord’s a
 
 V/. God is the strength of her heart, he is hers forever: * Her aim is to be dedicated to him in body as in spirit (alleluia).
 
-# Morning Prayer
+## Morning Prayer
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. O Lord, how gentle is your love! Lost in your embrace I shall be blessed forever (alleluia).
 
@@ -84,8 +90,14 @@ and the Holy Spirit,
 
 God, forever and ever.
 
-# Evening Prayer
+## Evening Prayer
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Your love, O Lord, is like a fire consuming me in the ardent furnace of your Heart (alleluia).
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/05/27/fracassolit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

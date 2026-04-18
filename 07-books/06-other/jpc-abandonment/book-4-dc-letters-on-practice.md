@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Fourth Book. The First Trials of Souls Called to the State of Abandonment. Aridities, Weaknesses and Weariness
 ---
 

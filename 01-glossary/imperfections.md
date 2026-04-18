@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Imperfections
 author:
 source: Divine Intimacy Meditations

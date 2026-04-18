@@ -13,12 +13,14 @@ tags:
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: Chapter III – on the Hierarchical Structure of the Church and in Particular on the Episcopate
 ---
 
 # Chapter III – On the Hierarchical Structure of the Church and in Particular on the Episcopate
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
 
 18\. For the nurturing and constant growth of the People of God, Christ the Lord instituted in His Church a variety of ministries, which work for the good of the whole body. For those ministers, who are endowed with sacred power, serve their brethren, so that all who are of the People of God, and therefore enjoy a true Christian dignity, working toward a common goal freely and in an orderly way, may arrive at salvation.
 

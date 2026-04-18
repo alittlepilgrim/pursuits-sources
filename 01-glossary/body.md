@@ -1,12 +1,12 @@
 ---
-type: glossary
+type: term
 title: Body
 aliases:
   - Body
 tags:
   - type/term
 created: 2025-11-01
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 ---
 

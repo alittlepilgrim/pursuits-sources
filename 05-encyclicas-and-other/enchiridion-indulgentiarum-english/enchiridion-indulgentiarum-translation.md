@@ -8,20 +8,12 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-14
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Manual of Indulgences (Enchiridion Indulgentiarum, 4th ed., 1999) â€“ Table of Contents
 ---
 
 # Manual of Indulgences
-
-> [!NOTE]
-> ***Manual of Indulgences***
-> NORMS AND GRANTS
-> Apostolic Penitentiary
-> Translated into English from the fourth edition (1999) of Enchiridion Indulgentiarum: Normae et Concessiones
-> UNITED STATES CONFERENCE OF CATHOLIC BISHOPS
-> Washington, DC
 
 ## Table of Contents
 
@@ -42,3 +34,7 @@ description: Manual of Indulgences (Enchiridion Indulgentiarum, 4th ed., 1999) â
 [[appendices-ei-eng|Appendices]]
 
 [[indices-ei-eng|Indices]]
+
+## Source
+
+Manual Of Indulgences Norms And Grants Apostolic Penitentiary. Translated Into English From The Fourth Edition 1999 Of *Enchiridion Indulgentiarum Normae Et Concessiones* United States Conference Of Catholic Bishops Washington DC

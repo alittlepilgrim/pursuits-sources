@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Precepts of the Church
 author:
 aliases:

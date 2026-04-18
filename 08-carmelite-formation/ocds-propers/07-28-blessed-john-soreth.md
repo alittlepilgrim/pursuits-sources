@@ -2,6 +2,8 @@
 type: ocds-proper
 title: July 28, Blessed John Soreth
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/07/26/sorethlit25/
 aliases:
   - 07-28-blessed-john-soreth
   - 20250728-175313
@@ -11,18 +13,21 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 07-28
+celebration_rank: optional-memorial
 created: 2025-07-28
-modified: 2026-04-07
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[07-27-blessed-titus-brandsma|Jul 27, St Titus Brandsma]] | [[OCDS Propers|Table of Contents]] | [[08-07-st-albert-of-trapani|Aug 7, St Albert of Trápani]] →
+
 
 # July 28, Blessed John Soreth
 
 > **July 28**
 > **BLESSED JOHN SORETH**
 > **Priest**
-
-**Optional Memorial**
+> **Optional Memorial**
 
 _In the houses in France: Memorial_
 
@@ -36,7 +41,7 @@ John Soreth was born at Caen in Normandy and entered Carmel as a young man. He t
 
 From the Common of Men Saints (Religious), except the following:
 
-### Office of Readings
+## Office of Readings
 
 **The Second Reading
 
@@ -64,9 +69,9 @@ R/. This is the love of God: that we keep His commandments; * and His command
 
 V/. Those who keep His commandments abide in God, and God abides in them; * and His commandments are not burdensome.
 
-### Morning Prayer
+## Morning Prayer
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. Be faithful’til death, and I will give you the crown of life.
 
@@ -94,9 +99,9 @@ who lives and reigns with you and the Holy Spirit,
 
 God, for ever and ever.
 
-### Evening Prayer
+## Evening Prayer
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. This faithful man made his city strong and renewed the faith of sinners.
 
@@ -105,3 +110,9 @@ Ant. This faithful man made his city strong and renewed the faith of sinners.
 [Carmelite Quotes](https://carmelitequotes.blog)
 
 Catholic Church [1993, _Proper of the Liturgy of the Hours_](https://worldcat.org/title/41304501) _of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites_ (Rev. and augm.), Institutum Carmelitanum, Rome.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/07/26/sorethlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

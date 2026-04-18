@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Son of God
 aliases:
   - Son of God

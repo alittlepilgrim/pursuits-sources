@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Chapter XXIX. Of Visions. The Graces Our Lord Bestowed on the Saint. The Answers Our Lord Gave Her for Those Who Tried Her
 ---
 

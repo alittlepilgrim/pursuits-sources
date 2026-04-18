@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Vicar of Christ
 aliases:
   - Vicar of Christ

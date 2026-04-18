@@ -13,7 +13,7 @@ tags:
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-04
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: Lumen Gentium Notes
 ---
@@ -21,6 +21,8 @@ description: Lumen Gentium Notes
 - [[lumen-gentium-11|Lumen Gentium Supplemental Notes]] →
 
 # Lumen Gentium Notes
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)
 
 1 Cf. [[mark-16#^mark-16-15|Mk. 16:15.]] ^lg-fn-1
 

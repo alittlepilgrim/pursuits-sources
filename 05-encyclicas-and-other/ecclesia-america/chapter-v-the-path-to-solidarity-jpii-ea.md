@@ -9,14 +9,16 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter V. The Path to Solidarity
 ---
 
 ← [[chapter-iv-the-path-to-communion-jpii-ea|Chapter IV. The Path to Communion]] | [[ecclesia-america|Table of Contents]] | [[chapter-vi-the-mission-of-the-church-jpii-ea|Chapter VI. The Mission Of The Church In America Today The New Evangelization]] →
 
 # Chapter V. The Path to Solidarity
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
 **“By this all will know that you are my disciples, if you have love for one another”** (***Jn*** 13:35)
 

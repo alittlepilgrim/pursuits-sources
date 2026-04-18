@@ -3,7 +3,7 @@ type: book
 title: Stanza XXIX – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxv.html
 aliases:
   - Stanza XXIX – Spiritual Canticle By St. John of the Cross
   - stanza-xxix-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXIX – Spiritual Canticle By St. John of the Cross
 [[stanza-xxviii-jc-sc|← Stanza XXVIII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxx-jc-sc|Stanza XXX →]]
 
 # Stanza XXIX
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxv.html)
 
 If then on the common land I am no longer seen or found, You will say that I am lost; That, being enamored, I lost myself; and yet was found.
 

@@ -9,14 +9,16 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Notes
 ---
 
 ← [[index-jpii-ea|Index]] | [[ecclesia-america|Table of Contents]]
 
 # Notes
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
 (1) In this regard, the ancient inscription in the Baptistery of Saint John Lateran is eloquent: “Virgineo foetu Genitrix Ecclesia natos quos spirante Deo concipit amne parit” (E. Diehl, *Inscriptiones Latinae Christianae Veteres,* No. 1513, I. I:, Berolini 1925, p. 289).
 

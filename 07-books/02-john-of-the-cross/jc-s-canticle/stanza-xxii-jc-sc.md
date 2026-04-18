@@ -3,7 +3,7 @@ type: book
 title: Stanza XXII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxviii.html
 aliases:
   - Stanza XXII – Spiritual Canticle By St. John of the Cross
   - stanza-xxii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXII – Spiritual Canticle By St. John of the Cross
 [[stanzas-xx-xxi-jc-sc|← Stanzas XX XXI]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxiii-jc-sc|Stanza XXIII →]]
 
 # Stanza XXII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxviii.html)
 
 The bride has entered The pleasant and desirable garden, And there reposes to her heart's content; Her neck reclining On the sweet arms of the Beloved.
 

@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXV – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xli.html
 aliases:
   - Stanza XXXV – Spiritual Canticle By St. John of the Cross
   - stanza-xxxv-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXV – Spiritual Canticle By St. John of the Cross
 [[stanza-xxxiv-jc-sc|← Stanza XXXIV]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxvi-jc-sc|Stanza XXXVI →]]
 
 # Stanza XXXV
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xli.html)
 
 In solitude she lived, And in solitude built her nest; And in solitude, alone Has the Beloved guided her, In solitude also wounded with love.
 

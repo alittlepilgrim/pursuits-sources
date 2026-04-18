@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Prayer
 aliases:
   - prayer
@@ -23,7 +23,7 @@ The elevation of the mind and heart to God in praise of his glory; a petition ma
 
 The Interior Castle: Study Edition / Second Edition, Revised includes Full Text of St. Teresa of Avila's Work, Translated by Kieran Kavanaugh, OCD
 
-### [[pursuits-sources/01-glossary/prayer|Prayer]]
+### [[pursuits-texts/01-glossary/prayer|Prayer]]
 
 For Teresa it was a loving personal relationship with the Lord. “Speak with Him as with a father, or a brother, or a lord, or as with a spouse; sometimes in one way, at other times in another” (W 28.3). A human-divine relationship within the mystery of faith, hope, and love. This leads to her famous definition: “For mental prayer in my opinion is nothing else than an intimate sharing between friends; it means taking time frequently to be alone with Him who we know loves us” (L 8.5). The definition is based on faith, on the conviction that God loves us, and this conviction is founded on the idea that God proposes himself to the one praying as a friend. This supposes the lowering of God in Christ to make this friendship possible—thus the importance of the humanity of Christ in our prayer. There are different kinds of prayer, and for Teresa they are as follows:
 

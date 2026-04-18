@@ -2,6 +2,8 @@
 type: ocds-proper
 title: July 23, Blessed Virgin Mary Mother of Divine Grace
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/07/05/divgralit25/
 aliases:
   - 07-23-divine-grace
   - 20250731-121603
@@ -10,26 +12,28 @@ tags:
   - carmel/propers
   - type/ocd-proper
 celebration_day: 07-23
+celebration_rank: memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers undefined
 ---
+
+← [[07-20-st-elijah|Jul 20, St Elijah]] | [[OCDS Propers|Table of Contents]] | [[07-24-blessed-maria-pilar|Jul 24, Blesseds María Pilar & Co]] →
+
 
 # July 23, Blessed Virgin Mary Mother of Divine Grace
 
 > **July 23**
 > _In the Provinces of Europe, July 7_
-> **BLESSED VIRGIN MARY,** 
-> **MOTHER OF DIVINE GRACE**
-
-**Memorial**
+> **BLESSED VIRGIN MARY, MOTHER OF DIVINE GRACE**
+> **Memorial**
 
 ‘The Blessed Virgin Mary was eternally predestined, in the context of the Incarnation of the divine Word, to be the Mother of God. As decreed by divine Providence, she served on earth as the loving Mother of the divine Redeemer, His associate, uniquely generous, and the Lord’s humble servant. She conceived, bore, and nourished Christ; presented Him to the Father in the Temple; and was united with Him in His suffering as He died on the cross. In a completely unparalleled way she cooperated, by her obedience, faith, hope and burning charity, with our Savior’s work of restoring supernatural life to souls. For this reason, she is Mother to us all in the order of grace’ (Lumen Gentium, the Constitution on the Church, 61).
 
 From the Common of the Blessed Virgin Mary, except the following:
 
-# Office of Readings
+## Office of Readings
 
 **The Second Reading**
 
@@ -55,7 +59,7 @@ V/. To you do we cry, blessed Virgin, mourning and weeping in this vale of tear
 
 # **MORNING PRAYER**
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. It is I who give birth to all noble loving and the holy gift of hope. From me comes every grace of faithful observance; from me all promise of life and vigor.
 
@@ -81,8 +85,14 @@ who lives and reigns with you and the Holy Spirit,
 
 God, for ever and ever.
 
-# **EVENING PRAYER**
+# Evening PRAYER**
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Our salvation is in your hands, O Mother; smile upon us, and we shall be happy in our service of the Lord our King.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/07/05/divgralit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

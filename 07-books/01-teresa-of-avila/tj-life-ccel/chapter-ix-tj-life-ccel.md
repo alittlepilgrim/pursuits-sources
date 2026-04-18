@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter IX. The Means Whereby Our Lord Quickened Her Soul, Gave Her Light in Her Darkness, and Made Her Strong in Goodness
 ---
 

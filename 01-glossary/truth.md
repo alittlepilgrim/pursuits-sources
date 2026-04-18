@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Truth
 author: Gabriel of Saint Mary Magdalen
 source: Divine Intimacy Meditations
@@ -43,7 +43,7 @@ Word of God is truth: Jn 17:17
 
 Worship involves truth: Jn 4:23-24
 
-*See also* [[Conscience]]; [[God]]; [[jesus-christ|Jesus]]; [[holy-spirit|Holy Spirit]] ; [[Revelation]]; [[word-of-god|Word of God]]] 
+*See also* [[conscience]]; [[god]]; [[jesus-christ|Jesus]]; [[holy-spirit|Holy Spirit]] ; [[revelation]]; [[word-of-god|Word of God]]] 
 
 ### Sources
 

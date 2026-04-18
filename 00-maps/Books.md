@@ -107,7 +107,7 @@ attachment: false
 
 ## 📌 Reference
 
-- [[pursuits-sources/00-maps/Bibliography|Bibliography]]
+- [[Bibliography|Bibliography]]
 - [[Glossary]]
 - [[history-of-the-catholic-church-toc|The History of the Catholic Church by James Hitchcock]]
 - [[01-ignatius-catholic-study-bible|The Ignatius Catholic Study Bible New Testament]]

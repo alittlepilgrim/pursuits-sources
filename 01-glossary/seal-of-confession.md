@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Seal of Confession
 aliases:
   - Seal of Confession

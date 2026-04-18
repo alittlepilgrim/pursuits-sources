@@ -34,6 +34,6 @@ A mere glance at the table of contents and the alphabetical index will convince 
 
 Although the treatise was composed chiefly for priests and seminarians, it has also obtained wide circulation in religious communities and among the faithful who are striving to live a devout life in the world and are looking for a guide to point the way to an enlightened and well-balanced piety.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00002.jpeg]] MICHAEL J. CURLEY
+![[pursuits-texts/07-books/10-tanquerey/assets/00002.jpeg]] MICHAEL J. CURLEY
 
 Archbishop of Baltimore

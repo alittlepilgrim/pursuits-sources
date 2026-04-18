@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Kingdom of God (of Heaven)
 author:
 aliases:

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Night of the Senses
 author:
 source: Divine Intimacy Meditations

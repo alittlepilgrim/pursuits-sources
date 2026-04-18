@@ -14,7 +14,7 @@ created: 2025-08-22
 modified: 2026-04-08
 publish: true
 description: Encyclical Rerum Novarum of Leo XIII, 15 May 1891
-abbreviation: leoxiii-rn
+anchor: leoxiii-rn
 ---
 
 [[Encyclicals and Major Documents|📜 Encyclicals & Major Documents — Map of Content]]

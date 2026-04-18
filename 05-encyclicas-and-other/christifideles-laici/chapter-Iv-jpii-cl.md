@@ -3,19 +3,21 @@ type: magisterium
 title: Chapter IV – Christifideles Laici
 author: Saint John Paul II
 aliases:
-  - Chapter IV. Labourers In The Lord S Vineyard Good Stewards Of God S Varied Grace
+  - "Chapter IV. Labourers In The Lord's Vineyard Good Stewards Of God S Varied Grace"
 tags:
   - author/john-paul-II
   - type/magisterium
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Chapter IV. Labourers In The Lord S Vineyard Good Stewards Of God S Varied Grace
+modified: 2026-04-14
+publish: true
+description: "Chapter IV. Labourers In The Lord's Vineyard Good Stewards Of God S Varied Grace"
 ---
 
 ← [[chapter-III-jpii-cl|Chapter III. I Have Appointed You to Go Forth and Bear Fruit The Coresponsibility Of The Lay Faithful In The Church as Mission]] | [[christifideles-laici|Table of Contents]] | [[chapter-v-jpii-cl|Chapter V. That You Bear Much Fruit The Formation Of The Lay Faithful In The Lay State]] →
 
-# Chapter IV. Labourers In The Lord S Vineyard Good Stewards Of God S Varied Grace
+# Chapter IV. Labourers In The Lord's Vineyard Good Stewards Of God's Varied Grace
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)
 
 ## The Variety of Vocations
 

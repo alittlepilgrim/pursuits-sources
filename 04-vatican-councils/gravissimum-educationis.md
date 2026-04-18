@@ -10,15 +10,15 @@ tags:
   - term/declarations
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Declaration on christian education - Gravissimum educationis
-abbreviation: ge
+anchor: ge
 ---
 
-abbreviation: ge
-
 # Gravissimum Educationis
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)
 
 ## Declaration on Christian Education Proclaimed by His Holiness Pope Paul VI on October 28 1965
 

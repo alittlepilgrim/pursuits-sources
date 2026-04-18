@@ -13,7 +13,7 @@ birthday: c.1614
 death_date: 1691-02-12
 celebration: 02-12
 created: 2025-09-12
-modified: 2026-04-06
+modified: 2026-04-17
 publish: false
 ---
 

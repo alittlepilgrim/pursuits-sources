@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Atonement
 aliases:
   - atonement
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-12
 modified: 2026-04-12
-publish: false
+publish: true
 ---
 
 # Atonement
@@ -18,7 +18,7 @@ publish: false
 
 **Atonement:** Rom 3:25; 5:8-11; 2 Cor 5:18-19; Heb 7:27; 9:22-28; 10:12; 1 Pet 3:18; 1 Jn 2:2; 4:10
 
-*See also* [[Reconciliation]]; [[redeemer-redemption|Redemption]]; [[Sacrifice]]
+*See also* [[reconciliation]]; [[redeemer-redemption|Redemption]]; [[sacrifice]]
 
 ### Sources
 

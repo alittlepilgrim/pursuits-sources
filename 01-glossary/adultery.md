@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Adultery
 aliases:
   - adultery
@@ -32,7 +32,7 @@ Contrary to Christian life: Rom 13:9; 2 Pet 2:14
 
 Divorce and remarriage in relation to adultery: Mt 19:9; Mk 10:11-12; Lk 16:18
 
-*See also* [[Chastity]]; [[Fornication]]; [[Marriage]]; [[sexual-sin|Sexual Sin]] 
+*See also* [[chastity]]; [[fornication]]; [[marriage]]; [[sexual-sin|Sexual Sin]] 
 
 ### Sources
 

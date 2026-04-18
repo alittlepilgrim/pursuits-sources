@@ -50,12 +50,14 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-07
-modified: 2026-04-07
+modified: 2026-04-14
 publish: true
 description: Chapter Two – Laudato Si’
 ---
 
 # Chapter Two – Laudato Si’
+
+[Source](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
 
 ## The Gospel of Creation
 

@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XVI. The Third State of Prayer. Deep Matters. What the Soul Can Do That Has Reached It. Effects of the Great Graces of Our Lord
 ---
 

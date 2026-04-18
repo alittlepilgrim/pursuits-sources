@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Laid Waste
 aliases:
   - Laid Waste
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-09
 modified: 2026-04-10
-publish: false
+publish: true
 description: laid waste. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 

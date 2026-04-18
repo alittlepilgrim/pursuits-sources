@@ -2,6 +2,8 @@
 type: ocds-proper
 title: May 25, Saint Mary Magdalen of the Incarnate Word De Pazzi
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/05/23/pazzilit25/
 aliases:
   - 05-25-st-mary-magdalen-of-the-incarnate-word-de-pazzi
   - 20240722-231156
@@ -14,25 +16,27 @@ tags:
 celebration_day: 05-25
 celebration_rank: memorial
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: Born in Florence in 1566, Saint Mary Magdalen of the Incarnate Word de’ Pazzi had a religious upbringing and entered the monastery of the Carmelite nuns there. She led a hidden life of prayer and self-denial, praying particularly for the renewal of the Church and encouraging the sisters in holiness. Her life was marked by many extraordinary graces. She died in 1607.
 ---
+
+← [[05-22-st-joachina|May 22, St Joachina]] | [[OCDS Propers|Table of Contents]] | [[05-29-blessed-elia-fracasso|May 29, Bl Elia Fracasso]] →
+
 
 # May 25, Saint Mary Magdalen of the Incarnate Word de Pazzi
 
 > **May 25**
-> **SAINT MARY MAGDALEN** [[mary-magdalen-dei-pazzi-saint]]
-> **OF THE INCARNATE WORD DE’ PAZZI**
+> **SAINT MARY MAGDALEN OF THE INCARNATE WORD DE’ PAZZI**
+> **[[mary-magdalen-dei-pazzi-saint]]**
 > **Virgin** 
-
-**Memorial**
+> **Memorial**
 
 Born in Florence in 1566, [[mary-magdalen-dei-pazzi-saint|Saint Mary Magdalen of the Incarnate Word de’ Pazzi]] had a religious upbringing and entered the monastery of the Carmelite nuns there. She led a hidden life of prayer and self-denial, praying particularly for the renewal of the Church and encouraging the sisters in holiness. Her life was marked by many extraordinary graces. She died in 1607.
 
 From the Common of Virgins, except the following:
 
-# **MORNING PRAYER**
+# Morning PRAYER**
 
 **Hymn**
 
@@ -112,7 +116,7 @@ V/. Lord, I long to see your face. * I seek your face.
 
 Glory... R/.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. The love of God has been poured into our hearts, through the Holy Spirit who has been given to us (alleluia).
 
@@ -154,7 +158,7 @@ who lives and reigns with you and the Holy Spirit,
 
 God, forever and ever.
 
-# Evening Prayer
+## Evening Prayer
 
 **Hymn**
 
@@ -270,7 +274,7 @@ who lives and reigns with you and the Holy Spirit,
 
 God, forever and ever.
 
-# **OFFICE Of READINGS**
+# Office Of READINGS**
 
 **Hymn**
 
@@ -361,3 +365,9 @@ Grant this through our Lord Jesus Christ, your Son,
 who lives and reigns with you and the Holy Spirit,
 
 God, forever and ever.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/05/23/pazzilit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

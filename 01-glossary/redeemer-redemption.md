@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Redeemer / Redemption
 author:
 aliases:
@@ -36,7 +36,7 @@ Ransomed by Christ: Mt 20:28; 1 Tim 2:6; 1 Pet 1:18; Rev 5:9
 
 Redemption through the death of Christ: Rom 3:24; 1 Cor 1:30; Gal 3:13; 4:4-5; Eph 1:7; Col 1:14; Tit 2:14; Heb 9:12, 15
 
-*See also* [[Atonement]]; [[Sacrifice]]; [[Salvation]]
+*See also* [[atonement]]; [[sacrifice]]; [[salvation]]
 
 ### Sources
 

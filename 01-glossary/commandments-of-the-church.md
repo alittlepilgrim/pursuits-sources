@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Commandments of the Church
 aliases:
   - Commandments of the Church

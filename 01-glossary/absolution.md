@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Absolution
 aliases:
   - absolution
@@ -9,7 +9,7 @@ tags:
   - term/absolution
   - type/term
 created: 2025-07-20
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
 description: absolution. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---
@@ -28,7 +28,7 @@ An essential element of the Sacrament of Penance in which the priest, by the pow
 
 **Absolution:** Mt 16:19; 18:18; Jn 20:22-23; Jas 5:16
 
-*See also* [[Confession]]; [[Penance]]
+*See also* [[confession]]; [[penance]]
 
 ### Sources
 

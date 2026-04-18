@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Wealth
 author:
 aliases:
@@ -26,7 +26,7 @@ Dangers of wealth: Mt 13:22; 19:23-24; Lk 6:24; 16:19-31; 1 Tim 6:9; Jas 1:11; 2
 
 Love of money is the root of all evil: 1 Tim 6:10
 
-*See also* [[Greed]]; [[Poor]]
+*See also* [[greed]]; [[poor]]
 
 ### Sources
 

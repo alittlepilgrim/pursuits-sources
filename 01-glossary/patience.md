@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Patience
 author:
 source: Divine Intimacy Meditations

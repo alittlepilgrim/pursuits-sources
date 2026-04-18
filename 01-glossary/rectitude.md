@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Rectitude
 author:
 source: Divine Intimacy Meditations

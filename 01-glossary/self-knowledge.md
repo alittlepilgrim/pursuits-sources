@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Self-knowledge
 author: Gabriel of Saint Mary Magdalen
 source: Divine Intimacy Meditations

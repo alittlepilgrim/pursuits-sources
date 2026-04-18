@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Word of God
 aliases:
   - Word of God
@@ -41,7 +41,7 @@ Spiritual and life-giving: Jn 6:63; 8:51
 
 Unchangeable: Mt 24:35; 1 Pet 1:25
 
-*See also* [[Revelation]]; *[[sola-scriptura|Sola Scriptura]];* [[scripture-sacred|Scripture]]; [[Tradition]]
+*See also* [[revelation]]; *[[sola-scriptura|Sola Scriptura]];* [[scripture-sacred|Scripture]]; [[tradition]]
 
 ### Sources
 

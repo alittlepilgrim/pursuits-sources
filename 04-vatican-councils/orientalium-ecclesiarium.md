@@ -9,13 +9,15 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Decree on the Catholic Churches of the eastern rite - Orientalium ecclesiarium
-abbreviation: oe
+anchor: oe
 ---
 
 # Orientalium Ecclesiarum
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_en.html)
 
 ## Decree on the Catholic Churches of the Eastern Rite Solemnly Promulgated by His Holiness Pope Paul VI on November 21, 1964
 

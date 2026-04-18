@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Perfection
 author:
 source: Divine Intimacy Meditations

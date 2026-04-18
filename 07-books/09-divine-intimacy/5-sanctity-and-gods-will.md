@@ -20,7 +20,7 @@ tags:
 di_season: advent
 di_week: First week of advent
 created: 2025-05-12
-modified: 2026-04-08
+modified: 2026-04-18
 publish: true
 permalink: /sanctity-and-gods-will
 description: Divine Intimacy Meditations on the Interior Life for Every Day of the Liturgical Year by Father Gabriel of St. Mary Magdalen, O.C.D.

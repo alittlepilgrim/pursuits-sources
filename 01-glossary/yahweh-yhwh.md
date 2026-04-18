@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Yahweh (YHWH)
 aliases:
   - Yahweh (YHWH)

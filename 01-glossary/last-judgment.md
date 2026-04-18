@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Last Judgment
 author:
 aliases:

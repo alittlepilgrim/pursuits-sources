@@ -2,6 +2,8 @@
 type: ocds-proper
 title: June 12, Blessed Alphonsus Mary of the Holy Spirit Mazurek and Companions
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/06/10/mazureklit25/
 aliases:
   - 06-12-blessed-alphonsus-mary-of-the-holy-spirit-mazurek-and-companions
   - 20240722-231242
@@ -11,34 +13,32 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 06-12
+celebration_rank: optional-memorial
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[06-07-blessed-anne-of-st-bartholomew|Jun 7, Bl Anne of St Bartholomew]] | [[OCDS Propers|Table of Contents]] | [[06-14-st-elisha-the-prophet|Jun 14, St Elisha]] →
+
 
 # June 12, Blessed Alphonsus Mary of the Holy Spirit Mazurek and Companions
 
-**12 June: Blessed Alphonsus Mary of the Holy Spirit Mazurek
-
-*June 12*
-
-*BLESSED ALPHONSUS MARY OF THE HOLY SPIRIT MAZUREK,* - [[alphonsus-mary-mazurek-blessed]]
-
-*Priest,*
-
-*AND COMPANIONS, Martyrs*
-
-**Optional Memorial**
-
- *In the houses in Poland*: Memorial
+> **June 12**
+> **BLESSED ALPHONSUS MARY OF THE HOLY SPIRIT MAZUREK AND COMPANIONS**
+> **[[alphonsus-mary-mazurek-blessed]]
+> **Priest and Companions, Martyrs**
+> **Optional Memorial** (In the houses in Poland: Memorial)
 
 He was born in 1891 at Baranowka, near Lubartow, Poland. He entered the Order of Discalced Carmelites in 1908, taking the religious name Alphonsus Mary of the Holy Spirit. He was ordained a priest and appointed as a professor while dedicating himself to the education of youth. Afterward, he served in his Order as prior and bursar. In 1944, after having been arrested by the troops that had invaded his country, he was shot on 28 August at Nawojowa Gora, near Krzeszowice. He was beatified by John Paul II on 13 June 1999, together with many other Polish martyrs.
 
 From the common of several martyrs; psalms from the current weekday
 
-# Office of Readings
+## Office of Readings
 
-**Second Reading**From the addresses of Pope John Paul II
+**Second Reading**
+
+From the addresses of Pope John Paul II
 
 (OR 7-8 June 1999 p. 11; 18/6/1999, p. 4)
 
@@ -60,9 +60,9 @@ I am happy that I was able to beatify, among the one hundred and eight martyrs, 
 
 Cf [[matthew-05|Mt 5]]:11-12; Jn 15:20
 
-R/. Blessed are you when people abuse you and persecute you and speak all kinds of calumny against you falsely on my account. * Rejoice and be glad, for your reward will be great in heaven (alleluia).
+R/. Blessed are you when people abuse you and persecute you and speak all kinds of calumny against you falsely on my account. Rejoice and be glad, for your reward will be great in heaven (alleluia).
 
-R/. If they persecuted me, they will also persecute you. * Rejoice and be glad, for your reward will be great in heaven (alleluia).
+R/. If they persecuted me, they will also persecute you. Rejoice and be glad, for your reward will be great in heaven (alleluia).
 
 **Prayer**
 
@@ -76,6 +76,10 @@ We make our prayer through our Lord Jesus Christ, your Son,who lives and reigns 
 
 God, forever and ever.
 
-Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
+Catholic Church 1993, *Proper of the Liturgy of the Hours**of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites* (Rev. and augm.), Institutum Carmelitanum, Rome.
 
-12 June: Blessed Alphonsus Mary of the Holy Spirit Mazurek and Companions
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/06/10/mazureklit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Leads Us in Triumph
 aliases:
   - Leads Us in Triumph
@@ -9,7 +9,7 @@ tags:
   - type/term
 created: 2026-04-09
 modified: 2026-04-10
-publish: false
+publish: true
 description: leads us in triumph. Ignatius Catholic Study Bible. Hahn, Scott; Mitch, Curtis.
 ---
 

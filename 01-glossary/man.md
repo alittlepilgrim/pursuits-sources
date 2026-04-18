@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Man
 author:
 source: Divine Intimacy Meditations
@@ -39,7 +39,7 @@ Redeemed by Christ: Rom 3:24; 1 Cor 1:30; Gal 3:13-14; Col 1:13-14
 
 Redeemed man conformed to the image of Christ: Rom 8:29; 1 Cor 15:45-49; Col 3:10
 
-*See also* [[Reason]]; [[Sin]]; [[Soul]]
+*See also* [[reason]]; [[sin]]; [[soul]]
 
 ### Sources
 

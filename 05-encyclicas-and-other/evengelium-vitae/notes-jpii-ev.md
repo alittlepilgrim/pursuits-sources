@@ -2,16 +2,17 @@
 type: magisterium
 title: Notes – Evangelium Vitae
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
 aliases:
-  - Notes
+  - Notes – Evangelium Vitae
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Notes
+modified: 2026-04-14
+publish: true
+description: Notes – Evangelium Vitae
 ---
 
 ← [[conclusion-jpii-ev|Conclusion]] | [[evengelium-vitae|Table of Contents]]

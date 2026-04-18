@@ -9,7 +9,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-09
-publish: false
+publish: true
 description: "Session 7: Formation in the School of Carmel – OCDS Formation I, Year B (Carmelite History and Statutes)"
 ---
 

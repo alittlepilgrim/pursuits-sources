@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Anointing of the Sick
 aliases:
   - Anointing of the Sick

@@ -2,6 +2,8 @@
 type: ocds-proper
 title: August 9, Saint Teresa Benedicta of the Cross
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/08/07/edithlit25/
 aliases:
   - 08-09-st-teresa-benedicta-of-the-cross
   - 20250728-000001
@@ -14,15 +16,25 @@ tags:
 celebration_day: 08-09
 celebration_rank: memorial
 created: 2025-07-28
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
+celebration_rank_europe: feast
+celebration_rank_local: solemnity
+local_note: Patroness of Austin OCDS — celebrated as Solemnity per OCDS Constitutions Art. 30 §2 (patron feast elevated to Solemnity for communities)
 ---
+
+← [[08-07-st-albert-of-trapani|Aug 7, St Albert of Trápani]] | [[OCDS Propers|Table of Contents]] | [[08-18-blesseds-leonard-jean-baptiste|Aug 18, Blesseds Leonard & Co]] →
+
 
 # August 9, Saint Teresa Benedicta of the Cross
 
-**9 August: **
+> **August 9**
+> **SAINT TERESA BENEDICTA OF THE CROSS (EDITH STEIN)
+> **[[teresa-benedicta-saint]]
+> **Virgin and Martyr — Patroness of Austin OCDS**
+> **Memorial** (OCD) · **Feast** (houses of Europe) · **Solemnity** (Austin OCDS — Patroness)
 
-August 9, Saint Teresa Benedicta of the Cross, Virgin and Martyr, Memoria
+August 9, Saint Teresa Benedicta of the Cross, Virgin and Martyr, Memorial
 
 # Novena Prayer
 
@@ -177,3 +189,9 @@ Saint Teresa Benedicta, please pray for me and all my intentions.
 ### _Our Father, Hail Mary, Glory Be_
 
 ---
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/08/07/edithlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

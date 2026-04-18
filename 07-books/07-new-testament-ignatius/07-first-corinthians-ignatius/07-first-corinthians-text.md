@@ -7,7 +7,7 @@ tags:
   - bible/new-testament
 created: 2026-04-01
 modified: 2026-04-12
-publish: false
+publish: true
 description: First Corinthians – Text – Ignatius Catholic Study Bible
 ---
 

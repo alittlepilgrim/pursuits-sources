@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Ecclesiastic / Ecclesiastical
 aliases:
   - Ecclesiastic / Ecclesiastical

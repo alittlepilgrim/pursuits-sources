@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Priesthood of Christ
 author:
 aliases:

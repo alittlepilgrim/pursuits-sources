@@ -12,13 +12,15 @@ tags:
   - vatican/constitutions
   - vatican/vatican-II
 created: 2025-08-22
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Constitution On The Sacred Liturgy Solemnly Promulgated By His Holiness Pope Paul VI On December 4 1963
-abbreviation: sc
+anchor: sc
 ---
 
 # Sacrosanctum Concilium
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)
 
 ## Constitution on the Sacred Liturgy Solemnly Promulgated by His Holiness Pope Paul VI on December 4, 1963
 

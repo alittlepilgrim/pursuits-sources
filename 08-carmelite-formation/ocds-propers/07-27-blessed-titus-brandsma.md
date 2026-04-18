@@ -2,6 +2,8 @@
 type: ocds-proper
 title: July 27, Saint Titus Brandsma
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/07/25/brandsmalit25/
 aliases:
   - 07-27-blessed-titus-brandsma
   - 20250728-180315
@@ -11,18 +13,22 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 07-27
+celebration_rank: optional-memorial
 created: 2025-07-28
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[07-24-blessed-maria-pilar|Jul 24, Blesseds María Pilar & Co]] | [[OCDS Propers|Table of Contents]] | [[07-28-blessed-john-soreth|Jul 28, Bl John Soreth]] →
+
 
 # July 27, Saint Titus Brandsma
 
 > **July 27
-> **SAINT TITUS BRANDSMA - [[titus-brandsma-blessed]]
-> Priest and Martyr
-
-**Optional Memorial**
+> **SAINT TITUS BRANDSMA
+> **[[titus-brandsma-blessed]]
+> **Priest and Martyr
+> **Optional Memorial**
 
 _Pastoral note: In the year 2025, this Optional Memorial gives way to the 17th Sunday in Ordinary Time_
 
@@ -32,7 +38,7 @@ Born in Bolsward (The Netherlands) in 1881, Saint Titus Brandsma joined the Carm
 
 From the Common of One Martyr, except the following:
 
-# Office of Readings
+## Office of Readings
 
 **The Second Reading** (Alternative 1)
 
@@ -95,3 +101,9 @@ God for ever and ever.
 Catholic Church [1993, _Proper of the Liturgy of the Hours_](https://worldcat.org/title/41304501) _of the Order of the Brothers of the Blessed Virgin Mary of Mount Carmel and the Order of Discalced Carmelites_ (Rev. and augm.), Institutum Carmelitanum, Rome.
 
 [Carmelite Quotes](https://carmelitequotes.blog)
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/07/25/brandsmalit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

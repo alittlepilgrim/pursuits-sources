@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Seventh Book. The Last Trials. Agony and Mystical Death. The Fruit Thereof
 ---
 

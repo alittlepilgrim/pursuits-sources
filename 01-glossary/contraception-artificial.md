@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Contraception, Artificial
 aliases:
   - contraception-artificial

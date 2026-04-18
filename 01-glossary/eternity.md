@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Eternity
 author:
 source: Divine Intimacy Meditations

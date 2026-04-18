@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Rule of Life
 author:
 source: Divine Intimacy Meditations

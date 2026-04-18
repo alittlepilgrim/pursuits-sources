@@ -14,8 +14,6 @@ publish: true
 
 # Theresian Anniversaires 2023 - Study Guide 2 the Smile of the Virgin (Ms A, 29v-31v)
 
-Reading of the writings of Therese of the Child Jesus Theresian anniversaries 2023-2025 2023: Manuscript A Study guide 2: The smile of the Virgin (Ms A, 29v-31v)
-
 Proposal for the Community meeting:
 
 1. Reading of the text.

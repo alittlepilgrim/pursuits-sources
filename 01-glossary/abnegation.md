@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Abnegation
 aliases:
   - abnegation
@@ -12,7 +12,7 @@ tags:
   - term/three-ages
   - type/term
 created: 2025-07-19
-modified: 2026-04-12
+modified: 2026-04-14
 publish: true
 description: abnegation
 ---
@@ -33,6 +33,6 @@ description: abnegation
 - [[81-the-way-of-the-nothing|81. The way of the Nothing]]
 - [[82-rules-for-detachment|82. Rules for Detachment]]
 
-## Three Ages Volume I
+## Three Ages of the Spritiual Life Volume I
 
 ![[tta-1-index#Abnegation]]

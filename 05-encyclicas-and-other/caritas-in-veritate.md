@@ -6,18 +6,16 @@ author:
 source: vatican.va
 url: https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html
 aliases:
-  - Caritas in veritate (June 29, 2009)
   - Caritas in Veritate (June 29, 2009)
-  - Caritas In Veritate (June 29, 2009)
 tags:
   - author/pope-benedict-XVI
   - type/magisterium
   - vatican/encyclical
 created: 2025-10-30
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 description: Agápe, macro-relationships, social conscience, responsibility, social action, private interests, logic of power, social fragmentation, globalized society, lógos, Mater Ecclesiae, Pauline Year, human advancement, Church's ever-living Tradition, Fathers of the Church, Populorum Progressio, development of every person, Caritas in veritate, Charity, Truth, Encyclical of Pope Benedict XVI
-abbreviation: benxvi-civ
+anchor: benxvi-civ
 ---
 
 # Caritas in Veritate (June 29, 2009)

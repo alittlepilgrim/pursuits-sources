@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Chapter I. Childhood and Early Impressions. The Blessing of Pious Parents. Desire of Martyrdom. Death of the Saint's Mother
 ---
 

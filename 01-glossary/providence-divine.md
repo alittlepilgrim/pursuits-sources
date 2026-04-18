@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Providence (Divine)
 author:
 source: Divine Intimacy Meditations

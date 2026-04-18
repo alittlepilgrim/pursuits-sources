@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter X. The Graces She Received in Prayer. What We Can Do Ourselves. The Great Importance of Understanding What Our Lord Is Doing for Us. She Desires Her Confessors to Keep Her Writings Secret, Because of the Special Graces of Our Lord to Her, Which They Had Commanded Her to Describe
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Salvation
 author:
 aliases:
@@ -60,7 +60,7 @@ Working of faith through love is important for salvation: Gal 5:6
 
 Working out one's salvation: Phil 2:12-13
 
-*See also* [[Atonement]]; [[eternal-life|Eternal Life]]; [[God]]; [[Grace]]; [[Justification]]; [[Merit]]; [[Predestination]]; [[Reconciliation]]; [[redeemer-redemption|Redemption]]; [[Works]]
+*See also* [[atonement]]; [[eternal-life|Eternal Life]]; [[god]]; [[grace]]; [[justification]]; [[merit]]; [[predestination]]; [[reconciliation]]; [[redeemer-redemption|Redemption]]; [[works]]
 
 ### Sources
 

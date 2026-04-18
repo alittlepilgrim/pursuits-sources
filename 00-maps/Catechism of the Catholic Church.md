@@ -609,4 +609,6 @@ attachment: false
 
 - [[4.2.0.4.pae|In Brief]]
 
----
+## Source
+
+Catholic Church. *Catechism of the Catholic Church*. 2nd ed. Vatican City: Libreria Editrice Vaticana, 1997.

@@ -9,7 +9,7 @@ tags:
   - type/book
 created: 2026-04-01
 modified: 2026-04-10
-publish: false
+publish: true
 description: Treatise on the Love of God by St. Francis de Sales TOC
 attachment: false
 ---

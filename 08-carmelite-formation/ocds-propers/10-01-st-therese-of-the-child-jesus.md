@@ -2,9 +2,10 @@
 type: ocds-proper
 title: October 1, Saint Therese of the Child Jesus
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/09/28/tejlit25/
 aliases:
   - 10-01-st-therese-of-the-child-jesus
-  - 20241001-000001
   - October 1, Saint Therese of the Child Jesus
 tags:
   - carmel/propers
@@ -12,24 +13,22 @@ tags:
   - saint/thérèse-of-lisieux
   - type/ocd-proper
 celebration_day: 10-01
-celebration_rank: Feast
+celebration_rank: feast
 created: 2024-07-22
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: Saint Therese of the Child Jesus, Virgin and Doctor of the Church, Feast
 ---
 
+← [[09-17-st-albert-of-jerusalem|Sep 17, St Albert of Jerusalem]] | [[OCDS Propers|Table of Contents]] | [[10-15-st-teresa-of-jesus|Oct 15, St Teresa of Jesus]] →
+
+
 # October 1, Saint Therese of the Child Jesus
 
-*October 1*
-
-*SAINT THERESE OF THE CHILD JESUS* - [[therese-of-lisieux-saint|thérèse-of-the-child-jesus-saint]]
-
-*VIRGIN AND DOCTOR OF THE CHURCH*
-
-**Feast**
-
-*In the houses in France:* **SOLEMNITY**
+> **October 1**
+> **[[therese-of-lisieux-saint|SAINT THÉRÈSE OF THE CHILD JESUS]]**
+> **Virgin and Doctor of the Church**
+> **Feast** (In the houses in France: Solemnity)
 
 Thérèse Martin was born at Alencon in 1873. At the age of fifteen, she entered the Carmel at Lisieux. She practiced heroic humility, evangelical simplicity, and trust in God, and taught the novices these virtues by word and example. She offered her life for the salvation of souls and the growth of the Church. She died on September 30, 1897. Canonized in 1925, she was proclaimed a Doctor of the Church in 1997.
 
@@ -41,13 +40,13 @@ Grant this through our Lord Jesus Christ, your Son, who lives and reigns with yo
 
 ---
 
-# **Invitatory**
+# Invitatory
 
 Ant. The Lord reveals himself to little ones; come, let us worship him.
 
 Invitatory psalm, as in the Ordinary
 
-# Office of Readings
+## Office of Readings
 
 **Hymn**
 
@@ -83,43 +82,43 @@ Ant. 1 Your mercy will follow me all the days of my life.
 
 Psalm 23
 
-The Lord is my shepherd, *
+The Lord is my shepherd,
 
 there is nothing I shall want.
 
-Fresh and green are the pastures *
+Fresh and green are the pastures
 
 where he gives me repose.
 
-Near restful waters he leads me, *
+Near restful waters he leads me,
 
 To revive my drooping spirit.
 
-He guides me along the right path; *
+He guides me along the right path;
 
 he is true to his name.
 
-If I should walk in the valley of darkness *
+If I should walk in the valley of darkness
 
 no evil would I fear.
 
-You are there with your crook and your staff; *
+You are there with your crook and your staff;
 
 with these you give me comfort.
 
-You have prepared a banquet for me *
+You have prepared a banquet for me
 
 in the sight of my foes.
 
-My head you have anointed with oil; *
+My head you have anointed with oil;
 
 my cup is overflowing.
 
-Surely goodness and kindness shall follow me *
+Surely goodness and kindness shall follow me
 
 all the days of my life.
 
-In the Lord’s own house shall I dwell *
+In the Lord’s own house shall I dwell
 
 forever and ever.
 
@@ -129,47 +128,47 @@ Ant. 2 See what love the Father has shown us, to let us be called children of Go
 
 Psalm 103
 
-My soul, give thanks to the Lord, *
+My soul, give thanks to the Lord,
 
 all my being, bless his holy name.
 
-My soul, give thanks to the Lord *
+My soul, give thanks to the Lord
 
 and never forget all his blessings.
 
-It is he who forgives all your guilt *
+It is he who forgives all your guilt
 
 who heals every one of your ills,
 
-who redeems your life from the grave, *
+who redeems your life from the grave,
 
 who crowns you with love and compassion,
 
-who fills your life with good things, *
+who fills your life with good things,
 
 renewing your youth like an eagle’s.
 
-The Lord does deeds of justice, *
+The Lord does deeds of justice,
 
 gives judgment for all who are oppressed.
 
-He made known his ways to Moses *
+He made known his ways to Moses
 
 and his deeds to Israel’s sons.
 
-The Lord is compassion and love, *
+The Lord is compassion and love,
 
 slow to anger and rich in mercy.
 
-His wrath will come to an end; *
+His wrath will come to an end;
 
 he will not be angry forever.
 
-He does not treat us according to our sins *
+He does not treat us according to our sins
 
 nor repay us according to our faults.
 
-For as the heavens are high above the earth *
+For as the heavens are high above the earth
 
 so strong is his love for those who fear him.
 
@@ -177,59 +176,59 @@ Ant. See what love the Father has shown us, to let us be called children of God;
 
 Ant. 3 The Father himself loves you, because you have loved me and believed in me.
 
-As far as the east is from the west *
+As far as the east is from the west
 
 so far does he remove our sins.
 
-As a father has compassion on his sons, *
+As a father has compassion on his sons,
 
 the Lord has pity on those who fear him;
 
-for he knows of what we are made, *
+for he knows of what we are made,
 
 he remembers that we are dust.
 
-As for man, his days are like grass; *
+As for man, his days are like grass;
 
 he flowers like the flower of the field;
 
-the wind blows and he is gone *
+the wind blows and he is gone
 
 and his place never sees him again.
 
-But the love of the Lord is everlasting *
+But the love of the Lord is everlasting
 
 upon those who hold him in fear;
 
-his justice reaches out to children’s children +when they keep his covenant in truth, *
+his justice reaches out to children’s children +when they keep his covenant in truth,
 
 when they keep his will in their mind.
 
-The Lord has set his sway in heaven *
+The Lord has set his sway in heaven
 
 and his kingdom is ruling over all.
 
-Give thanks to the Lord, all his angels, +mighty in power, fulfilling his word, *
+Give thanks to the Lord, all his angels, +mighty in power, fulfilling his word,
 
 who heed the voice of his word.
 
-Give thanks to the Lord, all his hosts, *
+Give thanks to the Lord, all his hosts,
 
 his servants who do his will.
 
-Give thanks to the Lord, all his works, *
+Give thanks to the Lord, all his works,
 
 in every place where he rules.
 
-My soul, *
+My soul,
 
 give thanks to the Lord!
 
 Ant. The Father himself loves you, because you have loved me and believed in me.
 
-V./ Your word is a lamp for my feet
+V/. Your word is a lamp for my feet
 
-R./ And a light on my path.
+R/. And a light on my path.
 
 **First Reading**
 
@@ -251,9 +250,9 @@ Love never fails. Prophecies will cease, tongues will be silent, knowledge will 
 
 **Responsory**
 
-R./ When I am lifted up from the earth, * I will draw all people to myself.
+R/. When I am lifted up from the earth, * I will draw all people to myself.
 
-V./ Fragrant is the scent of your perfume; let us follow in your footsteps. * I will draw all people to myself.
+V/. Fragrant is the scent of your perfume; let us follow in your footsteps. I will draw all people to myself.
 
 **Second Reading**
 
@@ -273,9 +272,9 @@ Yes, I have found my place in the Church and it is you, O my God, who have given
 
 **Responsory**
 
-R./ Joy and gladness fill my heart; *== the Lord has been merciful to me.*
+R/. Joy and gladness fill my heart;== the Lord has been merciful to me.*
 
-*V./ He has looked with favor on his lowly servant and taken account of my soul’s needs. ==* the Lord has been merciful to me.
+*V/. He has looked with favor on his lowly servant and taken account of my soul’s needs. ==* the Lord has been merciful to me.
 
 Where the Vigil Office is celebrated:
 
@@ -291,23 +290,39 @@ The deeds of kindness which God wrought for his people
 
 *How often have I longed to gather your children as a hen gathers her young under her wings* ([[matthew-23|Mt 23]]:37)
 
-I shall praise the name of the Lord. *O give glory to this God of ours!The Rock – his deeds are perfect, *and all his ways are just,a faithful God, without deceit, *
+I shall praise the name of the Lord.
+
+O give glory to this God of ours!The Rock – his deeds are perfect,
+
+and all his ways are just,a faithful God, without deceit,
 
 a God who is right and just.
 
-Those whom he begot unblemished *have become crooked, false, perverse.Is it thus you repay the Lord, *O senseless and foolish people?Is he not your father who created you, *
+Those whom he begot unblemished
+
+have become crooked, false, perverse.Is it thus you repay the Lord,
+
+O senseless and foolish people?Is he not your father who created you,
 
 he who made you, on whom you depend?
 
-Remember the days of old, *consider the years that are past;ask your father and he will show you, *
+Remember the days of old,
+
+consider the years that are past;ask your father and he will show you,
 
 ask your elders and they will tell you.
 
-Israel God found him in a wilderness, *in fearful, desolate wastes;he surrounded him, he lifted him up, *
+Israel God found him in a wilderness,
+
+in fearful, desolate wastes;he surrounded him, he lifted him up,
 
 he kept him as the apple of his eye.
 
-Like an eagle that watches its nest, *that hovers over its young,so he spread his wings; he took him, *placed him on his outstretched wings.The Lord alone was his guide *
+Like an eagle that watches its nest,
+
+that hovers over its young,so he spread his wings; he took him,
+
+placed him on his outstretched wings.The Lord alone was his guide
 
 and no other god was with him.
 
@@ -319,23 +334,35 @@ The faithful soul finds the beloved
 
 *Where have you hidden yourself, my Beloved?* (St. John of the Cross)
 
-Your name is oil poured out; *therefore the maidens love you.Draw me after you, let us make haste; *your anointing oils are fragrant.The king has brought me into his chambers; *
+Your name is oil poured out;
+
+therefore the maidens love you.Draw me after you, let us make haste;
+
+your anointing oils are fragrant.The king has brought me into his chambers;
 
 we will exult and rejoice in you.
 
-The voice of my beloved: †Behold, he comes, *leaping upon the mountains, bounding over the hills.My beloved is like a gazelle, *or a young stag.Behold, there he stands behind our wall, *
+The voice of my beloved: †Behold, he comes,
+
+leaping upon the mountains, bounding over the hills.My beloved is like a gazelle,
+
+or a young stag.Behold, there he stands behind our wall,
 
 gazing in at the windows, looking through the lattice.
 
-My beloved speaks and says to me: †“Arise, my love, my fair one, *
+My beloved speaks and says to me: †“Arise, my love, my fair one,
 
 and come away.”
 
-I sought him whom my soul loves; *I sought him, but found him not.“I will rise now and go about the city; *in the streets and in the squaresI will seek him whom my soul loves;” *
+I sought him whom my soul loves;
+
+I sought him, but found him not.“I will rise now and go about the city;
+
+in the streets and in the squaresI will seek him whom my soul loves;”
 
 I sought him, but found him not.
 
-I found him whom my soul loves. *
+I found him whom my soul loves.
 
 I held him, and would not let him go.
 
@@ -347,23 +374,35 @@ The strength of love
 
 *Love turns labor into rest (St. Teresa of Jesus)*
 
-Come with me from Lebanon, my bride; *come with me from Lebanon.You have ravished my heart with a glance of your eyes, *
+Come with me from Lebanon, my bride;
+
+come with me from Lebanon.You have ravished my heart with a glance of your eyes,
 
 with one jewel of your necklace.
 
-A garden locked is my sister, my bride, *a garden locked, a fountain sealed.A garden fountain, a well of living water, *
+A garden locked is my sister, my bride,
+
+a garden locked, a fountain sealed.A garden fountain, a well of living water,
 
 and flowing streams from Lebanon.
 
-I slept, but my heart was awake. *Hark! my beloved is knocking.“Open to me, my sister, my love, *my dove, my perfect one,for my head is wet with dew, *
+I slept, but my heart was awake.
+
+Hark! my beloved is knocking.“Open to me, my sister, my love,
+
+my dove, my perfect one,for my head is wet with dew,
 
 my locks with the drops of the night.”
 
-I am my beloved’s and my beloved is mine; *he pastures his flock among the lilies.Set me as a seal upon your heart, *as a seal upon your arm;for love is strong as death, *
+I am my beloved’s and my beloved is mine;
+
+he pastures his flock among the lilies.Set me as a seal upon your heart,
+
+as a seal upon your arm;for love is strong as death,
 
 jealousy is cruel as the grave.
 
-Its flashes are flashes of fire, †a most vehement flame. *
+Its flashes are flashes of fire, †a most vehement flame.
 
 Many waters cannot quench love.
 
@@ -379,45 +418,51 @@ A reading from the holy Gospel according to John
 
 Jesus raised his eyes to heaven and said:
 
-Holy Father,consecrate them in the truth;your word is truth.As you sent me into the world,I have sent them into the world,and for their sake I consecrate myselfso that they too may be consecrated in truth.I pray not only for these,but for those alsowho through their words will believe in me.May they all be one.Father, may they be one in us,as you are in me and I am in you,so that the world may believe it was you who sent me.I have given them the glory you gave to me,that they may be one as we are one.With me in them and you in me,may they be so completely onethat the world will realize that it was you who sent meand that I have loved them as much as you loved me.Father,I want those you have given meto be with me where I am,so that they may always see the gloryyou have given mebecause you loved mebefore the foundation of the world.Father, Righteous One,the world has not known you,but I have known you,and these have knownthat you have sent me.I have made your name known to themand will continue to make it knownso that the love with which you loved me may be in them,
-
-and so that I may be in them.
+Holy Father,consecrate them in the truth;your word is truth.As you sent me into the world,I have sent them into the world,and for their sake I consecrate myselfso that they too may be consecrated in truth.I pray not only for these,but for those alsowho through their words will believe in me.May they all be one.Father, may they be one in us,as you are in me and I am in you,so that the world may believe it was you who sent me.I have given them the glory you gave to me,that they may be one as we are one.With me in them and you in me,may they be so completely onethat the world will realize that it was you who sent meand that I have loved them as much as you loved me.Father,I want those you have given meto be with me where I am,so that they may always see the gloryyou have given mebecause you loved mebefore the foundation of the world.Father, Righteous One,the world has not known you,but I have known you,and these have knownthat you have sent me.I have made your name known to themand will continue to make it knownso that the love with which you loved me may be in them,and so that I may be in them.
 
 **Te Deum**
 
-You are God: we praise you; *You are the Lord: we acclaim you;You are the eternal Father: *
+You are God: we praise you;
+
+You are the Lord: we acclaim you;You are the eternal Father:
 
 All creation worships you.
 
-To you all angels, all the powers of heaven, *Cherubim and Seraphim, sing in endless praise:Holy, holy, holy, Lord, God of power and might, *
+To you all angels, all the powers of heaven,
+
+Cherubim and Seraphim, sing in endless praise:Holy, holy, holy, Lord, God of power and might,
 
 heaven and earth are full of your glory.
 
-The glorious company of apostles praise you. †The noble fellowship of prophets praise you. *
+The glorious company of apostles praise you. †The noble fellowship of prophets praise you.
 
 The white-robed army of martyrs praise you.
 
-Throughout the world the holy Church acclaims you: *Father, of majesty unbounded,your true and only Son, worthy of all worship, *
+Throughout the world the holy Church acclaims you:
+
+Father, of majesty unbounded,your true and only Son, worthy of all worship,
 
 and the Holy Spirit, advocate and guide.
 
-You, Christ, are the King of glory, *
+You, Christ, are the King of glory,
 
 the eternal Son of the Father.
 
-When you became man to set us free *
+When you became man to set us free
 
 you did not spurn the Virgin’s womb.
 
-You overcame the sting of death, *
+You overcame the sting of death,
 
 and opened the kingdom of heaven to all believers.
 
-You are seated at God’s right hand in glory. *
+You are seated at God’s right hand in glory.
 
 We believe that you will come, and be our judge.
 
-Come then, Lord, and help your people, *bought with the price of your own blood,and bring us with your saints*
+Come then, Lord, and help your people,
+
+bought with the price of your own blood,and bring us with your saints*
 
 to glory everlasting.
 
@@ -451,7 +496,7 @@ Grant this through our Lord Jesus Christ, your Son,who lives and reigns with you
 
 God, forever and ever.
 
-# Morning Prayer
+## Morning Prayer
 
 **Hymn**
 
@@ -501,13 +546,13 @@ All who are led by the Spirit of God are sons of God. You did not receive a spir
 
 **Responsory**
 
-R./ I will pour out upon her *== a river of peace. Repeat R./*
+R/. I will pour out upon her *== a river of peace. Repeat R/.
 
-*V./ And the glory of the nations like an overflowing stream, ==* a river of peace.Glory to the Father, and to the Son, and to the Holy Spirit.
+*V/. And the glory of the nations like an overflowing stream, ==* a river of peace.Glory to the Father, and to the Son, and to the Holy Spirit.
 
-==R./==I will pour out upon her * a river of peace.
+==R/. ==I will pour out upon her * a river of peace.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. Pray to the Lord of the harvest that he send laborers into his harvest.
 
@@ -541,11 +586,11 @@ Grant this through our Lord Jesus Christ, your Son,who lives and reigns with you
 
 God, forever and ever.
 
-# **Daytime Prayer**
+# Daytime Prayer
 
 Psalms from the current weekday.
 
-# **Midmorning**
+# Midmorning
 
 Ant. The Lord chose you for his own, to praise him and give glory to his name.
 
@@ -555,11 +600,11 @@ Ant. The Lord chose you for his own, to praise him and give glory to his name.
 
 I willingly boast of my weakness instead, that the power of Christ may rest upon me. Therefore I am content with weakness, with mistreatment, with distress, with persecutions and difficulties for the sake of Christ; for when I am powerless, it is then that I am strong.
 
-V./ The Lord is my strength and my song.
+V/. The Lord is my strength and my song.
 
-R./ In you I trust; I shall not be put to shame.
+R/. In you I trust; I shall not be put to shame.
 
-# **Midday**
+# Midday
 
 Ant. The unfolding of your words gives light; it gives understanding to little ones.
 
@@ -571,11 +616,11 @@ Our love is brought to perfection in this,that we should have confidence on the 
 
 because he first loved us.
 
-V./ You, Lord, are our Father, our Redeemer.
+V/. You, Lord, are our Father, our Redeemer.
 
-R./ From eternity this is your name.
+R/. From eternity this is your name.
 
-# **Midafternoon**
+# Midafternoon
 
 Ant. The Lord looks kindly on the prayer of the needy, and his word is addressed to the lowly.
 
@@ -587,9 +632,9 @@ See what love the Father has bestowed on using letting us be called children of 
 
 for we shall see him as he is.
 
-V./ I will run in the way of your commandments.
+V/. I will run in the way of your commandments.
 
-==R./==For you have given greatness to my heart.
+==R/. ==For you have given greatness to my heart.
 
 **Prayer**
 
@@ -601,7 +646,7 @@ Grant this through our Lord Jesus Christ, your Son,who lives and reigns with you
 
 God, forever and ever.
 
-# Evening Prayer
+## Evening Prayer
 
 **Hymn**
 
@@ -617,7 +662,7 @@ Through your own childlike confidence and candorSend us the rose of quietly disc
 
 Both sweet and bitter.
 
-This be our portion, God forever blessed,Father eternal, Son and Holy Spirit,Whose is the glory which through all creation
+This be our portion, God forever blessed, Father eternal, Son and Holy Spirit,Whose is the glory which through all creation
 
 Resounds forever.
 
@@ -631,15 +676,27 @@ Ant. 1 There is no greater love than to lay down one’s life for one’s friend
 
 Psalm 113
 
-Praise, O servants of the Lord, *praise the name of the Lord!May the name of the Lord be blessed *both now and forevermore!From the rising of the sun to its setting *
+Praise, O servants of the Lord,
+
+praise the name of the Lord!May the name of the Lord be blessed
+
+both now and forevermore!From the rising of the sun to its setting
 
 praised be the name of the Lord!
 
-High above all nations is the Lord, *above the heavens his glory.Who is like the Lord, our God, *who has risen on high to his throneyet stoops from the heights to look down, *
+High above all nations is the Lord,
+
+above the heavens his glory. Who is like the Lord, our God,
+
+who has risen on high to his throneyet stoops from the heights to look down,
 
 to look down upon heaven and earth?
 
-From the dust he lifts up the lowly, *from his misery he raises the poorto set him in the company of princes, *yes, with the princes of his people.To the childless wife he gives a home *
+From the dust he lifts up the lowly,
+
+from his misery he raises the poorto set him in the company of princes,
+
+yes, with the princes of his people. To the childless wife he gives a home
 
 and gladdens her heart with children.
 
@@ -649,15 +706,19 @@ Ant. 2 For their sake I consecrate myself, that they also may be consecrated in
 
 Psalm 131
 
-O Lord, my heart is not proud *nor haughty my eyes.I have not gone after things too great *
+O Lord, my heart is not proud
+
+nor haughty my eyes.I have not gone after things too great
 
 nor marvels beyond me.
 
-Truly I have set my soul *in silence and peace.As a child has rest in its mother’s arms, *
+Truly I have set my soul
+
+in silence and peace. As a child has rest in its mother’s arms,
 
 even so my soul.
 
-O Israel, hope in the Lord *
+O Israel, hope in the Lord
 
 both now and forever.
 
@@ -667,23 +728,31 @@ Ant. 3 God chooses those the world considers weak to confound the strong.
 
 Phil. 2:6-11
 
-Though he was in the form of God, +Jesus did not deem equality with God *
+Though he was in the form of God, +Jesus did not deem equality with God
 
 something to be grasped at.
 
-Rather, he emptied himself, +and took the form of a slave, *
+Rather, he emptied himself, +and took the form of a slave,
 
 being born in the likeness of men.
 
-He was known to be of human estate *and it was thus that he humbled himself,obediently accepting even death, *
+He was known to be of human estate
+
+and it was thus that he humbled himself,obediently accepting even death,
 
 death on a cross!
 
-Because of this, *God highly exalted himand bestowed on him the name *
+Because of this,
+
+God highly exalted himand bestowed on him the name
 
 above every name,
 
-So that at Jesus’ name +every knee must bend, *in the heavens, on the earth,and under the earth, *and every tongue proclaimto the glory of God the Father: *
+So that at Jesus’ name +every knee must bend,
+
+in the heavens, on the earth,and under the earth,
+
+and every tongue proclaim to the glory of God the Father:
 
 JESUS CHRIST IS LORD!
 
@@ -693,21 +762,19 @@ Ant. God chooses those the world considers weak to confound the strong.
 
 1 Timothy 2:1, 3-6a
 
-First of all, I urge that petitions, prayers, intercessions, and thanksgiving be offered for all men. Prayer of this kind is good, and God our Savior is pleased with it, for he wants all men to be saved and come to know the truth. And the truth is this:“God is oneOne also is the mediator between God and men,the man Christ Jesus,
-
-who gave himself as a ransom for all.”
+First of all, I urge that petitions, prayers, intercessions, and thanksgiving be offered for all men. Prayer of this kind is good, and God our Savior is pleased with it, for he wants all men to be saved and come to know the truth. And the truth is this:“God is oneOne also is the mediator between God and men,the man Christ Jesus,who gave himself as a ransom for all.”
 
 **Responsory**
 
-R./ I will tell of your name to my friends: *== in the midst of the assembly I will praise you. Repeat R./ *
+R/. I will tell of your name to my friends: *== in the midst of the assembly I will praise you. Repeat R/.
 
-*V./ For you have not despised the poor in their distress; ==* in the midst of the assembly I will praise you.
+*V/. For you have not despised the poor in their distress; ==* in the midst of the assembly I will praise you.
 
 Glory to the Father, and to the Son, and to the Holy Spirit.
 
-R./ I will tell of your name to my friends: * in the midst of the assembly I will praise you.
+R/. I will tell of your name to my friends: * in the midst of the assembly I will praise you.
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. Father, I have made your name known to those you have given me: make them holy in the truth.
 
@@ -715,7 +782,7 @@ Ant. Father, I have made your name known to those you have given me: make them h
 
 Let us pray to God, our almighty Father, for his Church throughout the world:
 
-R./ *Lord, remember your covenant with us.*
+R/. *Lord, remember your covenant with us.*
 
 May we be inspired by the example of Saint Thérèse of the Child Jesus; — may your Church give itself to you in love. R/.
 
@@ -734,3 +801,9 @@ Our Father…
 God our Father, you have promised your kingdom to those who are willing to become like little children.Help us to follow the way of Saint Thérèse with confidence so that by her prayers we may come to know your eternal glory.
 
 Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you and the Holy Spirit, God, forever and ever.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/09/28/tejlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

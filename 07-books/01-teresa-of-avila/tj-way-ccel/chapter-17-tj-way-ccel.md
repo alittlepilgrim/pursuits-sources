@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 17. How Not All Souls Are Fitted for Contemplation and How Some Take Long to Attain It. True Humility Will Walk Happily Along the Road by Which the Lord Leads It
 ---
 

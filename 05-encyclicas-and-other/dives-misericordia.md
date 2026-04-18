@@ -11,15 +11,17 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 description: Encyclical Letter Dives in Misericordia (30 November 1980)
-abbreviation: jpii-dm
+anchor: jpii-dm
 ---
 
 IOANNES PAULUS PP. II
 
 # Dives In Misericordia
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html)
 
 Blessing
 

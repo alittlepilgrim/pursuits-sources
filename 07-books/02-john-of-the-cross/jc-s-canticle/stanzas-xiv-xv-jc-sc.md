@@ -3,7 +3,7 @@ type: book
 title: Stanzas XIV, XV – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xx.html
 aliases:
   - Stanzas XIV, XV – Spiritual Canticle By St. John of the Cross
   - stanzas-xiv-xv-jc-sc
@@ -19,6 +19,8 @@ description: Stanzas XIV, XV – Spiritual Canticle By St. John of the Cross
 [[stanza-xiii-jc-sc|← Stanza XIII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xv-jc-sc|Stanza XV →]]
 
 # Stanzas Xiv, XV
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xx.html)
 
 THE BRIDE My Beloved is the mountains, The solitary wooded valleys, The strange islands, The roaring torrents, The whisper of the amorous gales; The tranquil night At the approaches of the dawn, The silent music, The murmuring solitude, The supper which revives, and enkindles love.
 

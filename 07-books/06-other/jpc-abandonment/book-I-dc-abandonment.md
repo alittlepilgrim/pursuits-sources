@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-08
-publish: false
+publish: true
 description: Book I. On the Virtue of Abandonment to Divine Providence – Its Nature and Excellence
 ---
 

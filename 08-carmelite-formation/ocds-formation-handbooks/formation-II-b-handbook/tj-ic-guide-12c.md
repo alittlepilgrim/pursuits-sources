@@ -14,7 +14,7 @@ tags:
   - type/study-guide
 created: 2025-06-23
 modified: 2026-04-08
-publish: false
+publish: true
 ---
 
 # Interior Castle Handbook Special Session
@@ -72,4 +72,4 @@ Fraternally, Fr. Saverio Cannistra, OCD Superior General, 2009–2021
 
 # Links
 
-[[pursuits-sources/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-a|Appendix A: Session 9, Excerpt from Gaudium Et Spes (22) Pastoral Constitution on the Church in the Modern World]]
+[[pursuits-texts/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-apx-a|Appendix A: Session 9, Excerpt from Gaudium Et Spes (22) Pastoral Constitution on the Church in the Modern World]]

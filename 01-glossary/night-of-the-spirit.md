@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Night of the Spirit
 author:
 source: Divine Intimacy Meditations

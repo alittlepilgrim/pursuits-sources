@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXIII. The Saint Resumes the History of Her Life. Aiming at Perfection. Means Whereby It May Be Gained. Instructions for Confessors
 ---
 

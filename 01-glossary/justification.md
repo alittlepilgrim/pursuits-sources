@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Justification
 author:
 aliases:
@@ -36,7 +36,7 @@ Resurrection of Jesus and justification: Rom 4:25
 
 Righteousness or justification can be increased: Rom 6:19-22; 1 Tim 6:11; 2 Tim 2:22; 3:16; 4:8; Heb 12:11; 1 Jn 3:7; Rev 22:11
 
-*See also* [[Merit]]; [[Salvation]]; [[Sanctification]]; [[Works]]
+*See also* [[merit]]; [[salvation]]; [[sanctification]]; [[works]]
 
 ### Sources
 

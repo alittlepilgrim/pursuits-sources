@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Sacred Scripture
 aliases:
   - Sacred Scripture
@@ -41,7 +41,7 @@ Spiritually nourishing: Mt 4:4
 
 Testify to Jesus Christ: Lk 24:44-47; Jn 5:39; 1 Cor 15:3-4; 1 Pet 1:10-12
 
-*See also* [[Church]]; [[Revelation]]; *[[sola-scriptura|Sola Scriptura]];* [[Tradition]]
+*See also* [[church]]; [[revelation]]; *[[sola-scriptura|Sola Scriptura]];* [[tradition]]
 
 ### Sources
 

@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 23. Describes the Importance of Not Turning Back When One Has Set out upon the Way of Prayer. Repeats How Necessary It Is to Be Resolute
 ---
 

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Satisfaction for Sin
 aliases:
   - Satisfaction for sin

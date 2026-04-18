@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Hypostatic Union
 aliases:
   - Hypostatic Union

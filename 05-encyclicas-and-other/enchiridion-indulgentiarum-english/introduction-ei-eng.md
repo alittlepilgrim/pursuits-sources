@@ -8,8 +8,8 @@ tags:
   - author/catholic-church
   - type/magisterium
 created: 2026-01-14
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Introduction – Manual of Indulgences (Enchiridion Indulgentiarum, 1999)
 ---
 
@@ -31,5 +31,3 @@ Constitution Indulgentiarum doctrina.
 ____________
 
 1 Pope Paul VI, Address to the College of Cardinals and the Roman Curia, December 23, 1966(AAS 59 [1967] 57). 2 Cf. ID, no. 11. 3 ID, no. 11. 4 Cf. LG, no. 34. 5 RM, Collect of Monday within the Octave of Easter. 6 Cf. SC, no. 9-13. 7 Cf. below especially norms I-IV. 8 Cf. GS, no. 43.
-
-***NORMS ON INDULGENCES***

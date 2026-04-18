@@ -148,7 +148,7 @@ II\. The exterior means of perfection may likewise be reduced to four principal 
 
 4° The sanctification of our relations with others, with parents, friends, or business-associates. This enables us to direct toward God not merely our pious exercises, but all our actions and our duties of state.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00006.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00006.jpeg]]
 
 ## Art. I. Interior Means of Perfection
 
@@ -420,9 +420,9 @@ The third; to compare the second day with the first, that is, the two examens of
 
 The fourth Addition; to compare one week with another, and see whether there has been improvement in the present week upon the former.
 
-We must observe that the first great ![[pursuits-sources/07-books/10-tanquerey/assets/00007.jpeg]] which follows signifies Sunday; the second smaller signifies Monday; the third Tuesday, and so of the rest.
+We must observe that the first great ![[00007.jpeg]] which follows signifies Sunday; the second smaller signifies Monday; the third Tuesday, and so of the rest.
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00008.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00008.jpeg]]
 
 472\. This method may, at first sight, appear somewhat complex; in actual practice, it proves less so. Should one be unable to devote to it such a notable space of time as indicated above, one can condense the essential features of these acts within a shorter period, for instance, ten minutes at night. If one foresees that it cannot be performed in the evening, a part of the time given to visiting the Blessed Sacrament may be set apart for it.
 

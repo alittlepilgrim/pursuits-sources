@@ -14,7 +14,7 @@ tags:
   - type/study-guide
 created: 2025-06-23
 modified: 2026-04-06
-publish: false
+publish: true
 ---
 
 # Session 12
@@ -65,4 +65,4 @@ Pastoral Constitution on the Church in the Modern World, *[[gaudium-et-spes-00|G
 
 Next:
 
-[[pursuits-sources/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-12c|Interior Castle Handbook Special Session with The Formation Director for Candidates In Their Third Year of Formation II: Called To Holiness — The Definitive Promise In The Secular Order of the Discalced Carmelites]]
+[[pursuits-texts/08-carmelite-formation/ocds-formation-handbooks/formation-II-b-handbook/tj-ic-guide-12c|Interior Castle Handbook Special Session with The Formation Director for Candidates In Their Third Year of Formation II: Called To Holiness — The Definitive Promise In The Secular Order of the Discalced Carmelites]]

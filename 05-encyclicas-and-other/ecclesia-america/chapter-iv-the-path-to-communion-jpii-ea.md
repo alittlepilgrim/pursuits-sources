@@ -9,8 +9,8 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
+modified: 2026-04-14
+publish: true
 description: Chapter IV. The Path to Communion
 ---
 
@@ -18,9 +18,9 @@ description: Chapter IV. The Path to Communion
 
 # Chapter IV. The Path to Communion
 
-**“As you, Father, are in me and I in you,
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america.html)
 
-may they also be one in us”** (***Jn*** 17:21)
+**“As you, Father, are in me and I in you, may they also be one in us”** (***Jn*** 17:21)
 
 ***The Church, sacrament of communion***
 

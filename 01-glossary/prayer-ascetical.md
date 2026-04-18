@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Ascetical Prayer
 aliases:
   - Ascetical Prayer
@@ -25,7 +25,7 @@ The Interior Castle Study Edition / Second Edition, Revised includes Full Text o
 
 See also:
 
-[[pursuits-sources/01-glossary/prayer|Prayer]]
+[[pursuits-texts/01-glossary/prayer|Prayer]]
 
 [[ascesis|Ascesis]]
 

@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter XXXVI. The Foundation of the Monastery of St. Joseph. Persecution and Temptations. Great Interior Trial of the Saint and Her Deliverance
 ---
 

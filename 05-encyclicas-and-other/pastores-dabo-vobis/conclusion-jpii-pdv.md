@@ -2,21 +2,24 @@
 type: magisterium
 title: Conclusion – Pastores Dabo Vobis
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html
 aliases:
-  - Conclusion
+  - Conclusion – Pastores Dabo Vobis
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Conclusion
+modified: 2026-04-14
+publish: true
+description: Conclusion – Pastores Dabo Vobis
 ---
 
 ← [[chapter-VI-jpii-pdv|Chapter VI. The Ongoing Formation of Priests]] | [[pastores-dabo-vobis|Table of Contents]] | [[notes-jpii-pdv|Notes]] →
 
 # Conclusion
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_25031992_pastores-dabo-vobis.html)
 
 82\. "I will give you shepherds after my own heart" (Jer. 3:15). ^jpii-pdv-82
 

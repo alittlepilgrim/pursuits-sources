@@ -14,7 +14,7 @@ created: 2025-10-26
 modified: 2026-04-07
 publish: true
 description: Blessed Virgin Mary, Devotion to the Virgin Mary, Marialis Cultus, Apostolic Exhortation Marialis Cultus
-abbreviation: pvi-mc
+anchor: pvi-mc
 ---
 
 # Marialis Cultus (February 2, 1974)

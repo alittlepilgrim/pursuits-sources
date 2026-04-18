@@ -11,7 +11,7 @@ tags:
   - type/study-guide
 created: 2025-08-28
 modified: 2026-04-07
-publish: false
+publish: true
 ---
 
 # Formation II Year B the Interior Castle (The Seven Dwelling Places)

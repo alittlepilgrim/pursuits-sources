@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Acts
 aliases:
   - Acts
@@ -12,7 +12,7 @@ tags:
   - term/three-ages
   - type/term
 created: 2026-03-28
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: glossary for the term acts
 ---

@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Fourth Water
 aliases:
   - Fourth Water

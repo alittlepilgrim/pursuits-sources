@@ -9,8 +9,8 @@ tags:
   - author/hitchcock-james
   - type/book
 created: 2026-03-31
-modified: 2026-04-08
-publish: false
+modified: 2026-04-18
+publish: true
 ---
 
 ← [[hist-ch-2-the-seed-of-christians|Chapter 2]] | [[history-of-the-catholic-church-toc|Table of Contents]] | [[hist-ch-4-holy-wisdom|Chapter 4]] →

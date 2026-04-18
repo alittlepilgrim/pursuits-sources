@@ -2,21 +2,24 @@
 type: magisterium
 title: Introduction – Evangelium Vitae
 author: Saint John Paul II
+url: https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html
 aliases:
-  - Introduction
+  - Introduction – Evangelium Vitae
 tags:
   - author/john-paul-II
   - type/magisterium
   - vatican/encyclical
 created: 2026-04-08
-modified: 2026-04-08
-publish: false
-description: Introduction
+modified: 2026-04-14
+publish: true
+description: Introduction – Evangelium Vitae
 ---
 
 ← [[evengelium-vitae|Evangelium Vitae (25 March 1995)]] | [[evengelium-vitae|Table of Contents]] | [[chapter-I-jpii-ev|Chapter I. The Voice of Your Brother's Blood Cries to Me from the Ground]] →
 
 # Introduction
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.htm)
 
 1\. The Gospel of life is at the heart of Jesus' message. Lovingly received day after day by the Church, it is to be preached with dauntless fidelity as "good news" to the people of every age and culture. ^jpii-ev-1
 

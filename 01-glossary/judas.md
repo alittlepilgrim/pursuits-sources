@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Judas
 author:
 source: Divine Intimacy Meditations

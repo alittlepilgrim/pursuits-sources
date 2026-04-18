@@ -15,4 +15,4 @@ book: The Spiritual Life
 
 [[index-at-sl|Table of Contents]] | [[copyright-page-at-sl|Copyright]] →
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00001.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00001.jpeg]]

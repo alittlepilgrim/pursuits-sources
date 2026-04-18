@@ -10,13 +10,15 @@ tags:
   - type/magisterium
   - vatican/encyclical
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-15
 publish: true
 description: Veritatis Splendor (6 August 1993)
-abbreviation: jpii-vs
+anchor: jpii-vs
 ---
 
 # Veritatis Splendor (6 August 1993)
+
+[Source](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)
 
 IOANNES PAULUS PP. II
 

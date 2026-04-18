@@ -3,7 +3,7 @@ type: book
 title: Stanza XXVIII – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxiv.html
 aliases:
   - Stanza XXVIII – Spiritual Canticle By St. John of the Cross
   - stanza-xxviii-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXVIII – Spiritual Canticle By St. John of the Cross
 [[stanza-xxvii-jc-sc|← Stanza XXVII]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxix-jc-sc|Stanza XXIX →]]
 
 # Stanza XXVIII
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxiv.html)
 
 My soul is occupied, And all my substance in His service; Now I guard no flock, Nor have I any other employment: My sole occupation is love.
 

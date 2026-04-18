@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Abortion
 aliases:
   - abortion
@@ -9,7 +9,7 @@ tags:
   - term/abortion
   - type/term
 created: 2025-07-20
-modified: 2026-04-10
+modified: 2026-04-14
 publish: true
 description: abortion. Catechism of the Catholic Church. 1997. 2nd ed. Vatican City Libreria Editrice Vaticana. Retrieved from usccb.org
 ---

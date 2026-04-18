@@ -2,6 +2,8 @@
 type: ocds-proper
 title: June 7, Blessed Anne of St Bartholomew
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/06/05/annbartlit25/
 aliases:
   - 06-07-blessed-anne-of-st-bartholomew
   - 20250731-121508
@@ -11,19 +13,23 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 06-07
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers undefined
 ---
+
+← [[05-29-blessed-elia-fracasso|May 29, Bl Elia Fracasso]] | [[OCDS Propers|Table of Contents]] | [[06-12-blessed-alphonsus-mary-of-the-holy-spirit-mazurek-and-companions|Jun 12, Bl Alphonsus Mazurek]] →
+
 
 # June 7, Blessed Anne of St Bartholomew
 
 > **June 7**
-> **BLESSED ANNE OF SAINT BARTHOLOMEW** - [[anne-of-st-bartholemew-blessed]]
+> **BLESSED ANNE OF SAINT BARTHOLOMEW**
+> **[[anne-of-st-bartholemew-blessed]]
 > **Virgin**
-
-**Optional Memorial**
+> **Optional Memorial**
 
 ==_In the houses in Spain_: Memorial==
 
@@ -31,7 +37,7 @@ Ana Garcia was born at Almendral, Castille, in 1549. In 1572 she made her profes
 
 From the common of virgins
 
-# Office of Readings
+## Office of Readings
 
 **Second Reading**
 
@@ -57,9 +63,9 @@ R/. Trust in the Lord with all your heart and do not rely on your own intellige
 
 R/. Wherever you go be mindful of him, * and he will make straight your paths (alleluia).
 
-# Morning Prayer
+## Morning Prayer
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. Where humility is, there is wisdom; the wisdom of the humble will protect them from defeat (alleluia).
 
@@ -87,8 +93,14 @@ who lives and reigns with you and the Holy Spirit,
 
 God, forever and ever.
 
-# Evening Prayer
+## Evening Prayer
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. God has chosen those who are poor in the eyes of the world to be rich in faith, and heirs of the kingdom which he promised to those who love him (alleluia).
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/06/05/annbartlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

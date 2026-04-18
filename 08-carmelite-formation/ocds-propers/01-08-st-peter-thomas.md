@@ -2,6 +2,8 @@
 type: ocds-proper
 title: January 8, Saint Peter Thomas
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/01/06/peterthomlit25/
 aliases:
   - 01-08-st-peter-thomas
   - 20250731-121415
@@ -12,25 +14,28 @@ tags:
   - type/ocd-proper
   - vault-admin/draft
 celebration_day: 01-08
+celebration_rank: optional-memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers 01-08-saint-peter-thomas-bishop
 ---
+
+← [[01-04-st-kuriakose|Jan 4, St Kuriakose]] | [[OCDS Propers|Table of Contents]] | [[01-09-st-andrew-corsini|Jan 9, St Andrew Corsini]] →
+
 
 # January 8, Saint Peter Thomas
 
 > **January 8**
 > **SAINT PETER THOMAS** - [[peter-thomas-saint]]
 > **Bishop**
-
-**Optional Memorial**
+> **Optional Memorial**
 
 Born about 1305 in southern Perigord in France, Peter Thomas entered the Carmelites when he was twenty-one. He was chosen by the Order as its procurator general to the Papal Court at Avignon in 1345. After being made bishop of Patti and Lipari in 1354, he was entrusted with many papal missions to promote peace and unity with the Eastern Churches. He was translated to the see of Corone in the Peloponnesus in 1359 and made Papal Legate for the East. In 1363, he was appointed Archbishop of Crete and in 1364 Latin Patriarch of Constantinople. He won a reputation as an apostle of church unity before he died at Famagosta on Cyprus in 1366.
 
 From the Common of Pastors
 
-# Office of Readings
+## Office of Readings
 
 **The First Reading**
 
@@ -78,7 +83,7 @@ If you understand this clearly, you must love God because of Himself, and yourse
 
 ==V/.== My little children, I am in travail over you afresh, until I can see Christ’s image formed in you, ==*== so greatly had we learned to love you.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 **Ant.** I am the good shepherd; I lay down my life for my sheep; and there shall be one flock and one shepherd.
 
@@ -102,6 +107,12 @@ who lives and reigns with You and the Holy Spirit,
 
 God, for ever and ever.
 
-**Canticle of Mary**
+## Canticle of Mary
 
 **Ant.** May the peace of Christ fill your hearts with joy, that peace to which all of you are called as one body.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/01/06/peterthomlit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

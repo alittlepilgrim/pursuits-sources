@@ -13,8 +13,8 @@ tags:
   - term/humility
   - term/mary
 created: 2025-11-14
-modified: 2026-04-08
-publish: false
+modified: 2026-04-18
+publish: true
 permalink: /the-visitation-of-the-blessed-virgin-mary
 ---
 

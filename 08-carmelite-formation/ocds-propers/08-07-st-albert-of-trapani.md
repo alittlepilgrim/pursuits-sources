@@ -2,6 +2,8 @@
 type: ocds-proper
 title: August 7, Saint Albert of Trápani
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/08/05/trapanilit25/
 aliases:
   - 08-07-st-albert-of-trapani
   - 20250807-000001
@@ -13,21 +15,20 @@ tags:
 celebration_day: 08-07
 celebration_rank: memorial
 created: 2024-07-22
-modified: 2026-04-08
-publish: false
+modified: 2026-04-17
+publish: true
 ---
+
+← [[07-28-blessed-john-soreth|Jul 28, Bl John Soreth]] | [[OCDS Propers|Table of Contents]] | [[08-09-st-teresa-benedicta-of-the-cross|Aug 9, St Teresa Benedicta]] →
+
 
 # August 7, Saint Albert of Trápani
 
-**7 August: Saint Albert of Trápani**
-
-*August 7*
-
-*SAINT ALBERT OF TRÁPANI*
-
-*Priest*
-
-**Memorial**
+> **August 7**
+> **SAINT ALBERT OF TRÁPANI**
+> **[[albert-of-trapani-saint]]
+> **Priest**
+> **Memorial**
 
 Albert degli Abbati was born at Trápani, Sicily, in the thirteenth century, and entered the Carmelite Order as a youth. He became renowned as a fervent preacher of the Gospel and a worker of miracles. He was Provincial of Sicily in 1296, and died at Messina, probably in 1307, with a reputation for purity and prayer.
 
@@ -35,7 +36,7 @@ From the common of holy men
 
 - [[albert-of-trapani-saint]]
 
-# Morning Prayer
+## Morning Prayer
 
 Hymn
 
@@ -67,11 +68,11 @@ L.M.
 
 *Adest natalis gloriae*
 
-## **CANTICLE Of ZECHARIAH**
+## ## Canticle of Zechariah
 
 Ant. The just will speak wisdom, and truth will come from their lips, because God’s law is in their hearts.
 
-## **PRAYER**
+## PRAYER**
 
 Lord God,you made Saint Albert of Trápania model of purity and prayer,and a devoted servant of Our Lady.May we practice these same virtuesand so be worthy always to share the banquet of your grace.
 
@@ -79,7 +80,7 @@ Grant this through our Lord Jesus Christ, your Son,who lives and reigns with you
 
 God, forever and ever.
 
-# **Evening Prayer**
+# Evening Prayer**
 
 #carmel/propers Prayerver floweth swiftly on its course,Dry shod the Blessed Albert speeds across.His chastened piety sustains no loss
 
@@ -109,13 +110,13 @@ At every hour.
 
 *Passibus siccis rapidum*
 
-## **CANTICLE Of MARY**
+## ## Canticle of Mary
 
 Ant. Blessed are the pure of heart, for they shall see God.
 
 *St. Albert of Sicily*
 
-# Office of Readings
+## Office of Readings
 
 Hymn
 
@@ -167,6 +168,12 @@ The first aim, purity of heart, can be achieved with the help of God’s grace b
 
 **RESPONSORY**
 
-R/. I have called you friends, for I have made known to you all I have heard from my Father. * Remain in my love.
+R/. I have called you friends, for I have made known to you all I have heard from my Father. Remain in my love.
 
-V/. I have chosen you to go out and bear fruit, fruit that shall last. * Remain in my love.
+V/. I have chosen you to go out and bear fruit, fruit that shall last. Remain in my love.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/08/05/trapanilit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

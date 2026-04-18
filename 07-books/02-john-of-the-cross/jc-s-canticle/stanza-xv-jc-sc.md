@@ -3,7 +3,7 @@ type: book
 title: Stanza XV – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxi.html
 aliases:
   - Stanza XV – Spiritual Canticle By St. John of the Cross
   - stanza-xv-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XV – Spiritual Canticle By St. John of the Cross
 [[stanzas-xiv-xv-jc-sc|← Stanzas XIV XV]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xvi-jc-sc|Stanza XVI →]]
 
 # Stanza XV
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxi.html)
 
 "THE tranquil night." In this spiritual sleep in the bosom of the Beloved the soul is in possession and fruition of all the calm, repose, and quiet of a peaceful night, and receives at the same time in God a certain dim, unfathomable divine intelligence. This is the reason why it says that the Beloved is to it the tranquil night.
 

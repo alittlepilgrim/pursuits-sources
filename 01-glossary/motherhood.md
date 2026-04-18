@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Motherhood
 author:
 aliases:
@@ -34,7 +34,7 @@ Paul's use of the mother metaphor: Gal 4:19
 
 Salvific value of motherhood: 1 Tim 2:15; 5:14
 
-*See also* [[Family]]; [[Woman]]
+*See also* [[family]]; [[woman]]
 
 ### Sources
 

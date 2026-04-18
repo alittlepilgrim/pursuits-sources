@@ -3,7 +3,7 @@ type: book
 title: Stanza XXXI – Spiritual Canticle by St. John of the Cross
 author: Saint John of the Cross
 source: Christian Classics Ethereal Library (CCEL)
-url: https://ccel.org/ccel/j/john_cross/canticle/cache/canticle.txt
+url: https://ccel.org/ccel/john_cross/canticle/canticle.xxxvii.html
 aliases:
   - Stanza XXXI – Spiritual Canticle By St. John of the Cross
   - stanza-xxxi-jc-sc
@@ -19,6 +19,8 @@ description: Stanza XXXI – Spiritual Canticle By St. John of the Cross
 [[stanza-xxx-jc-sc|← Stanza XXX]] | [[jc-sc-toc|↑ Contents]] | [[stanza-xxxii-jc-sc|Stanza XXXII →]]
 
 # Stanza XXXI
+
+[Source](https://ccel.org/ccel/john_cross/canticle/canticle.xxxvii.html)
 
 By that one hair You have observed fluttering on my neck, And on my neck regarded, You were captivated; And wounded by one of my eyes.
 

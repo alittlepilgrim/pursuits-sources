@@ -2,6 +2,8 @@
 type: ocds-proper
 title: July 17, Saint Teresa of St Augustine and Companions
 author: OCD General Curia
+source: "Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome."
+url: https://carmelitequotes.blog/2025/07/15/compielit25/
 aliases:
   - 07-17-st-teresa-augustine-saint
   - 20250731-121556
@@ -12,25 +14,29 @@ tags:
   - carmel/saints
   - type/ocd-proper
 celebration_day: 07-17
+celebration_rank: memorial
 created: 2025-07-31
-modified: 2026-04-06
-publish: false
+modified: 2026-04-17
+publish: true
 description: OCDS Propers undefined
 ---
+
+← [[07-16-blessed-virgin-mary-of-mount-carmel|Jul 16, OL of Mount Carmel]] | [[OCDS Propers|Table of Contents]] | [[07-20-st-elijah|Jul 20, St Elijah]] →
+
 
 # July 17, Saint Teresa of St Augustine and Companions
 
 > **July 17
-> SAINT TERESA OF SAINT AUGUSTINE LIDOINE AND COMPANIONS** - [[teresa-augustine-saint]]
+> SAINT TERESA OF SAINT AUGUSTINE LIDOINE AND COMPANIONS**
+> **[[teresa-augustine-saint]]
 > **Virgins and Martyrs**
-
-**Memorial**
+> **Memorial**
 
 As the French Revolution entered its worst days, sixteen Discalced Carmelites from the Monastery of the Incarnation in Compiègne offered their lives as a sacrifice to God, making reparation to him and imploring peace for the Church. On June 24th, 1794, they were arrested and thrown into prison. Their happiness and resignation were so evident that those around them were also encouraged to draw strength from God’s love. They were condemned to death for their fidelity to the Church and their religious life and for their devotion to the Sacred Hearts of Jesus and Mary. Singing hymns, and having renewed their vows before the superior, Teresa of St. Augustine, they were put to death in Paris on July 17th, 1794. They were beatified by Pope St. Pius X on May 13, 1906. Their equipollent canonization was decreed on December 18, 2024.
 
 From the Common of Martyrs or the Common of Virgins, except the following:
 
-# Office of Readings
+## Office of Readings
 
 **HYMN**
 
@@ -102,7 +108,7 @@ R/. Rejoice that you share the sufferings of Christ, * for when His glory is 
 
 V/. Blessed are you when you are persecuted for Christ’s sake, * for when His glory is revealed you will be filled with joy.
 
-# Morning Prayer
+## Morning Prayer
 
 **Hymn**
 
@@ -142,7 +148,7 @@ Through cloud and tempest.
 
 Sr. Margarita of Jesus, O.C.D.
 
-**Canticle of Zechariah**
+## Canticle of Zechariah
 
 Ant. Prepare your lamps, you wise virgins, for behold, the Bridegroom is coming: go out and meet Him.
 
@@ -168,8 +174,14 @@ who lives and reigns with you and the Holy Spirit,
 
 God, for ever and ever.
 
-# Evening Prayer
+## Evening Prayer
 
-**Canticle of Mary**
+## Canticle of Mary
 
 Ant. You virgins of the Lord, who have endured the great ordeal, come and rejoice with God forever.
+
+## Sources
+
+- Catholic Church. (1993). *Proper of the Liturgy of the Hours of the Order of Discalced Carmelites*. Institutum Carmelitanum, Rome.
+- Carmelite Quotes: https://carmelitequotes.blog/2025/07/15/compielit25/
+- OCD General Curia Calendar: https://carmelitequotes.blog/discalced-carmelite-calendar/

@@ -77,7 +77,7 @@ book: The Spiritual Life
 
 295\.  All life must perfect itself. This is true, above all, of the Christian life. It is by its very nature a progressive life, its completion being achieved only in Heaven. We must examine, then, in what its perfection consists, in order that we direct our steps more surely along its way. Since there exist erroneous conceptions and more or less incomplete ideas on this fundamental point, we shall begin by eliminating the false notions of Christian perfection, and then explain its true nature.[1]
 
-![[pursuits-sources/07-books/10-tanquerey/assets/00005.jpeg]]
+![[pursuits-texts/07-books/10-tanquerey/assets/00005.jpeg]]
 
 ## Art. I. False Notions Concerning Perfection
 

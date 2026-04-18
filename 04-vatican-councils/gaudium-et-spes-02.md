@@ -13,11 +13,12 @@ tags:
 created: 2025-08-04
 modified: 2026-04-07
 publish: true
+url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html
 ---
 
-abbreviation: gs
-
 # Gaudium Et Spes, Part II
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)
 
 ## Some Problems of Special Urgency
 

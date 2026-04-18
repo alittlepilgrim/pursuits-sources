@@ -2,20 +2,23 @@
 type: magisterium
 title: Footnotes – Quo Vadis Humanitas
 author: International Theological Commission
+url: https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509
 aliases:
   - Footnotes
 tags:
   - author/international-theological-commission
   - type/magisterium
 created: 2026-03-28
-modified: 2026-04-09
-publish: false
+modified: 2026-04-14
+publish: true
 description: Footnotes – Quo Vadis Humanitas (2026)
 ---
 
 ← [[conclusion-itc-qvh|Conclusion]] | [[quo-vadis-humanitas|Quo Vadis Humanitas]]
 
 # Footnotes
+
+[Source](https://www.ewtn.com/catholicism/library/quo-vadis-humanitas-28509)
 
 \[1\] Cf. Dicastery for the Doctrine of the Faith, Declaration *Dignitas infinita*, 2 April 2024, 6. 11.
 

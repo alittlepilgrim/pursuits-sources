@@ -11,13 +11,15 @@ tags:
   - vatican/decrees
   - vatican/vatican-II
 created: 2025-11-14
-modified: 2026-04-08
+modified: 2026-04-14
 publish: true
 description: Decree on the Adaptation and Renewal of Religious Life - Perfectae Caritatis
-abbreviation: pc
+anchor: pc
 ---
 
 # Perfectae Caritatis
+
+[Source](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_en.html)
 
 ## Decree on the Adaptation and Renewal of Religious Life Proclaimed by His Holiness Pope Paul VI on October 28, 1965
 

@@ -14,16 +14,6 @@ publish: true
 
 # Theresian Anniversaires 2023 - Study Guide 1 Singing the Mercies of the Lord (Ms A, 2r-4r)
 
-Singing the mercies of the Lord (Ms A, 2r-4r)
-
-Reading of the writings of Therese of the Child Jesus
-
-Theresian anniversaries 2023-2025
-
-2023: Manuscript A Study guide 1:
-
-Singing the mercies of the Lord (Ms A, 2r-4r)
-
 Proposal for the Community meeting:
 
 1. Reading of the text.
@@ -48,15 +38,11 @@ Jesus deigned to teach me this mystery. He set be-fore me the book of nature; I 
 
 And so it is in the world of souls, Jesus’ garden. He willed to create great souls comparable to Lilies and roses, but He has created smaller ones and these must be con-tent to be daisies or violets destined to give joy to God’s glances when He looks down at his feet. Perfection con-sists in doing His will, in being what He wills us to be.
 
-I understood, too, that Our Lord’s love is revealed as perfectly in the most simple soul who resists His grace Singing the mercies of the Lord (Ms A, 2r-4r) 5in nothing as in the most excellent soul; in fact, since the nature of love is to humble oneself, if all souls resembled those of the holy Doctors who illumined the Church [3r]
-
-with the clarity of their teachings, it seems God would not descend so low when coming to their heart. But He created the child who knows only how to make his feeble cries heard; He has created the poor savage who has nothing but the natural law to guide him. It is to their hearts that God deigns to lower Himself. These are the wild flowers whose simplicity attracts Him. When coming down in this way, God manifests His infinite grandeur. Just as the sun shines simultaneously on the tall cedars and on each little flower as though it were alone on the earth, so Our Lord is occupied particularly with each soul as though there were no others like it. And just as in nature all the seasons are arranged in such a way as to make the humblest daisy bloom on a set day, in the same way, everything works out for the good of each soul.
+I understood, too, that Our Lord’s love is revealed as perfectly in the most simple soul who resists His grace Singing the mercies of the Lord (Ms A, 2r-4r) 5in nothing as in the most excellent soul; in fact, since the nature of love is to humble oneself, if all souls resembled those of the holy Doctors who illumined the Church [3r] with the clarity of their teachings, it seems God would not descend so low when coming to their heart. But He created the child who knows only how to make his feeble cries heard; He has created the poor savage who has nothing but the natural law to guide him. It is to their hearts that God deigns to lower Himself. These are the wild flowers whose simplicity attracts Him. When coming down in this way, God manifests His infinite grandeur. Just as the sun shines simultaneously on the tall cedars and on each little flower as though it were alone on the earth, so Our Lord is occupied particularly with each soul as though there were no others like it. And just as in nature all the seasons are arranged in such a way as to make the humblest daisy bloom on a set day, in the same way, everything works out for the good of each soul.
 
 Perhaps you are wondering, dear Mother, with some astonishment where I am going from here, for up till now I’ve said nothing that resembles the story of my life.
 
-But you asked me to write under no constraint whatever would come into my mind. It is not, then, my life, properly so-called, that I am going to write; it is my thoughts on the graces God deigned to grant me. I find myself at a period in my life when I can cast a glance on the past; my soul has matured in the crucible of exterior and interior trials. And now, like a flower strengthened by the storm, I can raise my head and see the words of Psalm 22 realized in me: “The Lord is my Shepherd, I shall not want; he makes me lie down in green pastures. He leads me beside still wa-6 Singing the mercies of the Lord (Ms A, 2r-4r)ters; he restores my soul. Even though I walk through the valley of [3v] the shadow of death, I fear no evil; for thou art with me...” To me the Lord has always been “merciful and good, slow to anger and abounding in steadfast love”
-
-(Ps. 102, v. 8).
+But you asked me to write under no constraint whatever would come into my mind. It is not, then, my life, properly so-called, that I am going to write; it is my thoughts on the graces God deigned to grant me. I find myself at a period in my life when I can cast a glance on the past; my soul has matured in the crucible of exterior and interior trials. And now, like a flower strengthened by the storm, I can raise my head and see the words of Psalm 22 realized in me: “The Lord is my Shepherd, I shall not want; he makes me lie down in green pastures. He leads me beside still wa-6 Singing the mercies of the Lord (Ms A, 2r-4r)ters; he restores my soul. Even though I walk through the valley of [3v] the shadow of death, I fear no evil; for thou art with me...” To me the Lord has always been “merciful and good, slow to anger and abounding in steadfast love” (Ps. 102, v. 8).
 
 It is with great happiness, then, that I come to sing the mercies of the Lord with you, dear Mother. It is for you alone I am writing the story of the little flower gathered by Jesus. I will talk freely and without any worries as to the numerous digressions I will make. A mother’s heart understands her child even when it can but stammer, and so I’m sure of being understood by you, who formed my heart, offering it up to Jesus!
 

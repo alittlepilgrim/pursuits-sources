@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 19. Begins to Treat of Prayer. Addresses Souls Who Cannot Reason with the Understanding
 ---
 

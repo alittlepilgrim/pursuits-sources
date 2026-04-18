@@ -10,7 +10,7 @@ tags:
   - type/book
 created: 2026-04-08
 modified: 2026-04-09
-publish: false
+publish: true
 description: Chapter 39. Continues the Same Subject and Gives Counsels Concerning Different Kinds of Temptation. Suggests Two Remedies by Which We May Be Freed from Temptations.
 ---
 

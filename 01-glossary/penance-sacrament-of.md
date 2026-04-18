@@ -1,5 +1,5 @@
 ---
-type: glossary
+type: term
 title: Penance, Sacrament Of
 author:
 aliases:
@@ -36,7 +36,7 @@ Paul was given a ministry of reconciliation: 2 Cor 5:18
 
 Satisfaction for sins repented of: Mt 3:8; Lk 3:8; Acts 8:22-23
 
-*See also* [[confession|Confession of sins]]; [[Reconciliation]]; [[Salvation]]
+*See also* [[confession|Confession of sins]]; [[reconciliation]]; [[salvation]]
 
 ### Sources
 
